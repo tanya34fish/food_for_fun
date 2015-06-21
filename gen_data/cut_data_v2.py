@@ -8,23 +8,7 @@ normal_punc_list = [',','!','?','~',';']
 paren_list = ["（","）","［","］","「","」","〈","〉","《","》","【", "】"]
 normal_paren_list = ['(',')','[',']','{','}', "\""]
 
-def clean(para):
-	"""return 0: break, return 1: continue, other: write content"""
-	if not para.strip():
-		return 1
-	if "延伸閱讀" in para:
-		return 0
-	
-	para = re.sub('[\n]+', '\n', para)
-
-	"""split by '。'"""
-	if para.count(punc_list[1]) > 0:
-		para = para.replace('\n', '')
-		para = re.sub(punc_list[1], '\n', para)
-	else:
-		linec = para.count('\n')
-		#if para.count(punc_list[0]) + para.count(normal_punc_list[0]) > linec:
-		
+def punc_remove(para):
 	for punc in punc_list:
 		para = re.sub(punc, ',', para)
 	for punc in normal_punc_list:
@@ -34,6 +18,7 @@ def clean(para):
 	for punc in normal_paren_list:
 		para = re.sub('[%s]+' %punc, ',', para)
 	para = para.strip()
+	
 	"""some special cases:"""
 	"""1: XDDDD"""
 	para = re.sub('X[D]+',',', para)
@@ -91,6 +76,26 @@ def clean(para):
 	para = re.sub('[ \t]+','', para)
 	para = re.sub('[\n]+', '\n', para)
 	
+	return para
+
+def clean(para):
+	"""return 0: break, return 1: continue, other: write content"""
+	if not para.strip():
+		return 1
+	if "延伸閱讀" in para:
+		return 0
+	
+	para = re.sub('[\n]+', '\n', para)
+
+	"""split by '。'"""
+	if para.count(punc_list[1]) > 0:
+		para = para.replace('\n', '')
+		para = re.sub(punc_list[1], '\n', para)
+	else:
+		linec = para.count('\n')
+		#if para.count(punc_list[0]) + para.count(normal_punc_list[0]) > linec:
+
+	para = punc_remove(para)
 	
 	if para == '':
 		return 1
@@ -148,33 +153,14 @@ def parse_data(doc, output):
 		for i in range(miss_idx,len(entry_list)):
 			if entry_list[i].strip():
 				miss_content += entry_list[i].strip() + '\n'
+		
 		g.write(real_des)
+		miss_content = clean(miss_content)
+		if miss_content == 1 or miss_content == 0:
+			continue
 		g.write(miss_content)
-		#for line in entry_list:
-		#	tag_hit = False
-		#	if 'http' in line:
-		#		continue
-		#	for tag in des_tag:
-		#		if tag in line:
-		#			real_des = line.strip() + '\n'
-		#			#g.write(line.strip())
-		#			#g.write('\n')
-		#			tag_hit = True
-		#			break
-		#	# error split on some contents
-		#	if not tag_hit and line.strip():
-		#		miss_content += line + '\n'
+		g.write('\n')
 	
-	#if miss_content.strip():
-	#	return_value = clean(miss_content)
-	#	if return_value == 0:
-	#		pass
-	#	elif return_value == 1:
-	#		pass
-	#	else:
-	#		g.write(return_value)
-	#		g.write('\n')
-
 	for i in range(end_of_des+1,len(cont)):
 		para = cont[i]
 		return_value = clean(para)
@@ -199,5 +185,5 @@ if __name__ == '__main__':
 		output = sys.argv[2] + '/' + file
 		parse_data(content, output)
 		idx += 1
-		#if idx == 10:
+		#if idx == 20:
 		#	break
