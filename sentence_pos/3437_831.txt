@@ -1,0 +1,208 @@
+HENRY:FW	1:DET	(:PARENTHESISCATEGORY	黃:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	*:FW	東區:N	。:PERIODCATEGORY	TimeParkcafe:FW	*:FW	二:N	訪:Vt	歐姆:M	蕾:N	
+Mon:FW	
+Aug:FW	
+18:DET	
+23:DET	::COLONCATEGORY	12:DET	::COLONCATEGORY	34:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	台北:N	*:FW	東區:N	。:PERIODCATEGORY	TimeParkcafe:FW	*:FW	二:N	訪:Vt	歐姆:M	蕾:N	與:C	法式:A	薄餅:N	♥:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	08月:N	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	延吉街:N	１３１巷:N	３３:DET	號:M	
+電話:N	：:COLONCATEGORY	０２－８７７２２３４７:DET	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32645216:DET	
+＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	
+＊:FW	純:Vi	文字:N	
+又:ADV	要:ADV	來:ADV	分享:Vt	我:N	最愛:N	的:T	早:Vi	午餐:N	了:T	
+還是:C	人生:N	重要:Vi	食物:N	之:T	一:DET	的:T	歐姆:M	蕾:N	
+某:DET	天:M	下班:Vi	前:POST	在:P	跟:P	ＴＪ:FW	討論:Nv	晚餐:N	要:ADV	吃:Vt	什麼:DET	
+我:N	忽然:ADV	一個勁兒:ADV	很:ADV	想:Vt	吃:Vt	歐姆:M	蕾:N	
+而:C	ＴＪ:FW	卻:ADV	比較:ADV	想:Vt	吃:Vt	義大利麵:N	
+是:Vt	怎樣:Vi	勒阿:N	不然:C	打架:Vi	決定:Vt	阿:N	
+忽然:ADV	靈光:Vi	一:ADV	閃:Vt	
+之前:N	吃:Vt	過:ASP	的:T	TimePark:FW	好像:ADV	兩:DET	個:M	都:ADV	有:Vt	噢:T	
+似乎:ADV	是:Vt	個:M	每:DET	賣:Vt	的:T	選擇:N	
+就:ADV	上:Vt	了:ASP	TimePark:FW	的:T	粉絲團:N	看:Vt	了:ASP	一下:N	
+就:ADV	這麼:ADV	巧:Vi	得:T	被:P	我:N	看到:Vt	這:DET	超棒:N	的:T	優惠:Nv	
+平日:N	晚餐:N	預先:ADV	用:P	FB:FW	訂位點:N	義大利麵:N	就:ADV	送:Vt	一:DET	杯:M	飲品:N	
+免費:Vi	飲料:N	免費:Vi	飲料:N	免費:Vi	飲料:N	欸:T	
+話:N	不:ADV	多:ADV	說:Vt	立刻:ADV	連:C	家:N	裡:N	的:T	心:N	媽心:N	小弟:N	也:ADV	一起:ADV	拖:Vt	去:ADV	吃:Vt	
+菜單:N	菜單:N	
+因為:C	整:DET	本:M	都:ADV	長:Vt	得:ADV	不:ADV	一樣:Vi	了:ASP	就:ADV	重新:ADV	拍:Vt	一下:N	XD:FW	
+其實:ADV	前:DET	陣子:N	就:ADV	有:Vt	朋友:N	去:ADV	吃:Vt	之後:POST	跟:P	我:N	說:Vt	他們:N	漲價:Vi	了:T	
+我:N	當下:N	是:Vt	覺得:Vt	沒關係:Vi	因為:C	有:Vt	送:Vt	飲料:N	反而:C	
+更:ADV	划算:Vi	
+不過:C	到:Vt	了:ASP	現場:N	還是:ADV	挑:Vt	著:ASP	眉:N	問:Vt	了:ASP	店員:N	好像:ADV	漲價:Vi	了:ASP	吼:Vi	
+結果:ADV	店員:N	說:Vt	
+因為:C	他們:N	所有:DET	的:T	食材包:N	瓜葉菜:N	蔬果類:N	都:ADV	開始:Vt	與:P	有機:A	農場:N	配合:Vt	
+不僅:C	成本:N	變:Vi	高:Vi	連:C	菜單:N	也:ADV	做:Vt	了:ASP	更新:Vt	
+Alright:FW	
+這樣:Vi	就:ADV	還:ADV	蠻:ADV	能:ADV	接受:Vt	的:T	
+早:Vi	午餐:N	附:Vt	的:T	水果:N	與:C	自製:Vt	優格:N	
+上:N	早:Vi	午餐:N	前:POST	會:ADV	附優:N	格:N	
+全:DET	東區:N	說不定:ADV	只有:ADV	TimePark:FW	有:Vt	
+至少:ADV	我:N	沒:ADV	吃:Vt	過:ASP	別:DET	家:N	有:Vt	啦:T	XD:FW	
+優格:N	不會:ADV	太:ADV	甜:Vi	
+餐:N	前:POST	吃:Vt	很:ADV	開胃:Vi	呢:T	
+帕克:N	白酒:N	奶油醬:N	歐姆:M	蕾:N	套餐:N	＄:FW	２６０:DET	
+歐姆:M	蕾:N	淋:Vt	上:Vt	了:ASP	奶油醬:N	
+有點:ADV	像:Vt	是:Vt	義大利麵:N	的:T	概念:N	
+奶油醬:N	因:C	加入:Vt	了:ASP	白酒:N	的:T	調和:Vi	顯得:Vt	成熟:Vi	不:ADV	膩:Vi	
+從:P	蛋:N	皮:N	中:POST	可以:ADV	看到:Vt	紅紅綠綠:Vi	的:T	餡料:N	
+好:ADV	飽滿:Vi	的:T	樣子:N	
+一:ADV	切開:Vt	後:POST	滿滿:Vi	的:T	起:Vt	司醬:N	馬上:ADV	流:Vt	了:ASP	出來:Vi	
+除此之外:ADV	還:ADV	吃:Vt	的:T	到:P	切達:N	起:POST	司:Vt	塊:M	菠菜:N	培根:N	
+歐姆:M	蛋:N	本身:N	煎:Vt	得:T	較:ADV	熟:Vi	
+但:C	搭配:Vt	濃郁:Vi	的:T	起:Vt	司醬:N	口感:N	依然:ADV	滑嫩:Vi	
+這:DET	歐姆:M	蕾:N	對:P	我:N	這:DET	種:M	重度:A	愛:N	起:POST	司愛:N	奶油:N	的:T	人:N	來:ADV	說:Vt	有:Vt	中:N	
+好:ADV	喜歡:Vt	
+帶有:Vt	迷迭:Vi	香香:Vi	氣:N	的:T	佛卡夏:N	
+烤:Vt	過後:POST	又:ADV	酥:Vi	又:ADV	香:Vi	軟:Vi	
+把:P	奶油醬:N	與:P	歐姆:M	蕾:N	放:Vt	在:P	上頭:N	一起:ADV	吃:Vt	更:ADV	是:Vt	絕配:N	
+一:DET	旁:N	還:ADV	有:Vt	生菜:N	沙拉:N	與:C	香草:N	薯塊:N	
+薯塊:N	跟上:Vt	次:M	一樣:Vi	用:P	煎烤:Vt	而:C	非:ADV	油炸:Vt	
+吃起來:ADV	不:ADV	油膩:Vi	
+異國:N	風味:N	辣味:N	番茄:N	海鮮麵:N	＄:FW	２１０:DET	
+這:DET	道:M	是:Vt	以:P	番茄:N	紅醬:N	為:Vt	主角:N	的:T	義大利麵:N	
+會:ADV	這樣:Vi	說:Vt	是:Vt	因為:C	他們:N	義大利麵:N	的:T	醬汁:N	總是:ADV	令:Vt	我:N	印象:N	
+深刻:Vi	
+紅醬:N	有:Vt	煮出:Vt	番茄:N	的:T	酸度:N	
+辣:Vi	度:M	更:ADV	有:Vt	中辣:Vi	等級:N	
+我:N	覺得:Vt	非常:ADV	涮嘴:N	
+連:C	怕:Vt	辣:Vi	的:T	心:N	小弟:N	也:ADV	吃:Vt	得:T	津:N	
+津:N	有:Vt	味:N	
+點綴:Vt	的:T	有機:A	薄荷葉:N	雖然:C	完全:ADV	被:P	醬汁:N	味道:N	壓:Vt	過去:Vi	了:ASP	但:C	蠻:ADV	漂亮:Vi	的:T	哈:ADV	
+當然:ADV	不能:ADV	忘記:Vt	海鮮:N	們:N	
+花枝:N	蛤蜊:N	鮮蝦:N	新:Vi	鮮度:N	都:ADV	不錯:Vi	
+尤其:ADV	是:Vt	蝦子:N	還:ADV	貼心:Vi	去:Vt	了:ASP	殼:N	
+我:N	真心:Vi	的:T	這樣:Vi	覺得:Vt	：:COLONCATEGORY	東區:N	哪:DET	家:M	餐廳:N	的:T	海鮮:N	義大利麵:N	能:ADV	只:ADV	賣:Vt	２１０:DET	元:M	還:ADV	送:Vt	你:N	一:DET	杯:M	飲料:N	
+郎客阿:N	這:DET	不:ADV	是:Vt	高:Vi	CP:FW	什麼:DET	才:ADV	是:Vt	高:Vi	CP:FW	勒:Vt	
+蒜:N	爆香:Vi	辣:Vi	培根:N	松子:N	橄欖油麵:N	＄:FW	１８０:DET	
+由於:C	心:N	媽:N	中午:N	才:ADV	吃:Vt	了:ASP	大餐:N	所以:C	選:Vt	了:ASP	個:M	比較:ADV	清爽:Vi	的:T	口味:N	
+以:P	橄欖油:N	清炒:Vt	
+配料:N	有:Vt	培根:N	蒜酥:N	松子:N	辣椒:N	
+雖然:C	有:Vt	一:DET	根:M	看起來:ADV	很:ADV	恐怖:Vi	的:T	辣椒:N	
+不過:C	辣度:N	倒是:ADV	比:P	剛剛:ADV	的:T	紅醬:N	低:Vi	了:ASP	許多:DET	
+醬汁:N	收:Vt	得:T	較:ADV	乾:Vi	顯得:Vt	麵條:N	較:ADV	有:Vt	彈性:N	
+口味:N	比較:ADV	清淡:Vi	且:C	偏:Vt	台式:A	一些:DET	
+我:N	個:M	人:N	對:P	清:N	炒:Vt	義大利麵:N	比較:ADV	沒有:Vt	偏愛:Vt	
+但:C	心:N	媽:N	倒是:ADV	還:ADV	蠻:ADV	滿意:Vt	的:T	
+培根:N	野菇:N	堅果:N	奶油:N	燉飯:Vt	
+平日:N	限定:Vt	
+＄:FW	２５０:DET	
+TimePark:FW	的:T	義大利麵區:N	裡:N	也:ADV	有:Vt	燉飯:Vt	的:T	選項:N	
+不過:C	只:ADV	限:Vt	平日:N	供應:Vt	
+看到:Vt	限定:Vt	限量:Vi	這些:DET	詞兒:N	腦波:N	就:ADV	會:ADV	變:Vi	超弱:Vi	是:Vt	不:ADV	是:Vt	女人:N	的:T	通病:N	阿:N	XD:FW	
+燉飯:Vt	是:Vt	現:ADV	煮:Vt	的:T	需要:N	等候:Vt	一些:DET	時間:N	
+上桌:Vi	還:ADV	熱:Vt	呼呼:ADV	得:ADV	冒:Vt	著:ASP	煙:N	勒:Vt	
+以:P	鮮:Vi	奶油:N	拌炒:Vt	
+上方:N	灑滿:Vt	杏仁片:N	
+野菇:N	與:C	培根:N	的:T	香氣:N	也:ADV	融入:Vt	燉:Vt	飯:N	中:POST	
+香氣:N	十足:Vi	
+醬汁:N	收:Vt	得:T	很:ADV	到位:Vi	
+雖然:C	不:ADV	是:Vt	如:P	道地:Vi	法式:N	有:Vt	硬硬:Vi	的:T	米心:N	
+但:C	也:ADV	不會:ADV	糊糊:Vi	的:T	黏:Vi	在一起:Vi	
+百香:N	萬壽:N	菊冰茶:N	＄:FW	１８０:DET	
+點早:N	午餐:N	折:Vt	５０:DET	
+由於:C	店家:N	有:Vt	跟:P	有機:A	農場:N	合作:Vi	的:T	關係:N	
+飲料:N	類:N	多:Vi	了:ASP	不少:DET	有機:A	飲品:N	特調:N	
+還:ADV	蠻:ADV	特別:Vi	的:T	
+這:DET	杯:M	有:Vt	淡淡:Vi	菊花:N	茶:N	的:T	香味:N	
+底下:N	有:Vt	加入:Vt	少許:DET	百:DET	香:N	果醬:N	
+覺得:Vt	不:ADV	夠:ADV	甜:Vi	可以:ADV	加入:Vt	龍眼:N	蜜:N	
+聽:Vt	店員:N	說:Vt	這:DET	龍眼:N	蜜:N	還:ADV	得:Vt	過:ASP	冠軍:N	
+草莓:N	香蜂草冰茶:N	＄:FW	１８０:DET	
+草莓:N	的:T	則:ADV	是:Vt	搭配:Vt	接骨木:N	糖漿:N	
+喝:Vt	起來:ASP	微酸:N	
+兩:DET	杯:M	飲品:N	都:ADV	還:ADV	蠻:ADV	清爽:Vi	的:T	
+薰衣草:Vt	奶茶:N	＄:FW	２２０:DET	
+店員:N	說:Vt	他們:N	家:N	的:T	奶茶類:N	不:ADV	是:Vt	單純:Vi	用:P	紅茶:N	加:Vt	鮮奶:N	這麼:ADV	簡單:Vi	
+最後:N	還:ADV	會:ADV	有:Vt	熬:Vt	煮:Vt	的:T	動作:N	
+因此:C	建議:Vt	點:M	熱飲:N	
+薰衣草:Vt	奶茶:N	還:ADV	會:ADV	附上:Vt	薰衣草:Vt	糖:N	
+說真的:ADV	平常:N	在:P	外面:N	我:N	都:ADV	不:ADV	敢:Vt	點:N	薰衣草:Vt	阿:N	玫瑰:N	阿:N	桂花:N	阿:N	這:DET	類:M	的:T	花香:N	茶飲:N	
+因為:C	我:N	超:Vt	怕:Vt	這些:DET	花:N	的:T	香精味:N	
+而且:C	外面:N	賣:Vt	的:T	還:ADV	絕大:A	多數:DET	都:ADV	是:Vt	
+但是:C	TimePark:FW	用:Vt	的:T	是:Vt	有機:A	薰衣草:Vt	煮:Vt	的:T	
+花香:N	非常:ADV	自然:Vi	且:C	輕柔:Vi	
+而且:C	這:DET	鮮奶:N	茶:N	的:T	鮮奶:N	也:ADV	給:Vt	得:T	太:ADV	大器:N	了:T	吧:T	
+喝:Vt	起來:ASP	超:Vt	濃:Vi	超香:N	的:T	阿:N	
+大推:Vt	耶:T	
+熱:Vt	巧克力:N	濃:Vi	煮:Vt	奶茶:N	＄:FW	１４０:DET	
+上:DET	次:M	的:T	巧克力:N	飲品:N	令:Vt	人:N	驚艷:Vi	
+所以:C	又:ADV	點:Vt	了:ASP	一:DET	杯:M	巧克力:N	奶茶:N	
+如同:P	剛剛:ADV	的:T	奶茶:N	
+也:ADV	是:Vt	經過:P	熬煮:Vt	所以:C	特別:Vi	濃郁:Vi	
+淡淡:Vi	的:T	巧克力:N	味道:N	不過:C	甜:Vi	也:ADV	令:Vt	人:N	喜歡:Vt	
+還:ADV	沒完:Vi	
+我們:N	還:ADV	貪吃:Vi	的:T	點:Vt	了:ASP	甜點:N	XD:FW	
+糖脆:Vi	圓舞曲:N	布丁塔:N	＄:FW	２００:DET	
+蛋糕盤:N	系列:N	若是:C	下午茶:N	時段:N	來訪:Vi	加:Vt	８０:DET	元:M	就:ADV	有:Vt	飲品:N	任選:Vt	
+對:P	姐妹:N	聚會:N	來:ADV	說:Vt	超讚:N	的:T	啦:T	
+布丁塔:N	上:N	有:Vt	一:DET	層:M	焦糖:N	脆片:N	
+好像:ADV	有點:ADV	太:ADV	焦:Vi	了:ASP	XD:FW	
+我:N	原:ADV	以為:Vt	布丁塔:N	是:Vt	布蕾:N	耶:T	
+但:C	切開:Vt	後:POST	吃起來:ADV	比較:ADV	像:Vt	是:Vt	『:PARENTHESISCATEGORY	布蕾:N	蛋糕:N	』:PARENTHESISCATEGORY	
+口感:N	濕潤:Vi	有:Vt	蛋香:N	
+也:ADV	有點:ADV	像:Vt	是:Vt	較:ADV	不:ADV	蓬鬆:Vi	的:T	舒芙:N	蕾:N	
+怕:Vt	太:ADV	甜:Vi	膩:Vi	的:T	可以:ADV	把:P	旁邊:N	的:T	水果:N	丁:N	
+柳橙:N	香蕉:N	檸檬:N	
+淋:Vt	上:N	去:T	
+或是:C	跟:P	旁邊:N	淋上:Vt	焦糖醬:N	與:C	奶酥:N	的:T	香草:N	冰淇淋:N	一起:ADV	享用:Vt	
+巴黎:N	花:N	都:ADV	巧克:N	恰克:N	＄:FW	２００:DET	
+看:Vt	這:DET	華麗:Vi	的:T	名稱:N	實在:ADV	很:ADV	難:Vi	聯想到:Vt	他:N	是:Vt	什麼:DET	XD:FW	原來:ADV	是:Vt	巧克力:N	乳酪:N	蛋糕:N	
+附上:Vt	莓:b	果醬:N	與:C	香草:N	冰淇淋:N	
+冰淇淋:N	上:N	的:T	花瓣:N	店員:N	說:Vt	可以:ADV	吃:Vt	耶:T	
+我:N	試:Vt	著:ASP	先:ADV	單獨:ADV	偷吃:Vt	了:ASP	它:N	一口:ADV	
+說真的:ADV	好:ADV	甜:Vi	噢:T	XDDD:FW	
+因為:C	巧克力:N	與:C	乳酪:N	相加:Vi	的:T	關係:N	
+蛋糕:N	很:ADV	濃郁:Vi	又:ADV	紮實:Vi	
+單:ADV	吃:Vt	我:N	覺得:Vt	比較:ADV	容易:Vi	膩:Vi	
+但是:C	神奇:Vi	的:T	事情:N	發生:Vt	了:ASP	
+就是:C	這:DET	一:DET	小:Vi	盅:N	莓:b	果醬:N	啦:T	
+淋:Vt	上去:Vi	之後:POST	以:P	酸:Vi	來:ADV	中:POST	和:P	
+剛剛:ADV	的:T	甜膩感:N	居然:ADV	完全:ADV	消失:Vi	了:ASP	
+玫瑰:N	鹽:N	太:ADV	妃:N	核果:N	法式:A	薄餅:N	＄:FW	１７０:DET	
+我:N	要:ADV	大力:ADV	推薦:Vt	這:DET	個:M	口味:N	的:T	薄餅:N	
+應該:ADV	是:Vt	我:N	近期:N	吃到:Vt	最:ADV	喜歡:Vt	的:T	法式:A	薄餅:N	
+我:N	覺得:Vt	比:P	上:DET	次:M	進步:Vi	超:Vt	多:Vi	耶:T	
+餅皮:N	香氣:N	足:Vt	Ｑ:FW	度:M	夠:Vi	
+完勝:N	不久:N	前:POST	寫:Vt	的:T	典藏:Vt	Artco:FW	.:PERIODCATEGORY	33:DET	
+主要:ADV	是:Vt	薄餅:N	裡:N	的:T	卡士達醬:N	
+質地:N	非常:ADV	滑:Vi	順:Vi	
+柔和:Vi	的:T	太:ADV	妃:N	核果:N	香:N	完全:ADV	不會:ADV	甜:Vi	膩:Vi	
+還:ADV	有:Vt	這:DET	薄餅:N	中:POST	看似:Vt	不起眼:Vi	的:T	一:DET	大:Vi	功臣:N	：:COLONCATEGORY	玫瑰:N	鹽:N	
+是否:ADV	很:ADV	酷:Vi	
+第一:DET	次:M	不:ADV	是:Vt	拿:Vt	牛排:N	沾:Vt	玫瑰:N	鹽:N	耶:T	XDDD:FW	
+當:P	卡士達:N	薄餅:N	與:C	鮮:Vi	奶油:N	在:P	口:N	中:N	旋轉:Vt	之際:POST	
+玫瑰:N	鹽:N	的:T	出現:Vi	讓:Vt	他們:N	輕盈:Vi	的:T	跳躍:Vi	了:ASP	一下:N	
+點綴:Vt	的:T	恰到好處:Vi	好:Vi	令:Vt	人:N	喜歡:Vt	呀:T	
+餐廳:N	內:N	的:T	裝潢:N	大致:ADV	與:P	上:DET	次:M	無異:Vt	
+倒是:ADV	門口:N	擺:Vt	了:ASP	一:DET	本:M	書:N	
+是:Vt	『:PARENTHESISCATEGORY	早安:Vi	
+Brunch:FW	
+週末:N	的:T	幸福:Nv	滋味:N	』:PARENTHESISCATEGORY	
+裡面:N	介紹:Vt	４０:DET	幾:DET	間:M	台北:N	的:T	早:Vi	午餐店:N	包括:Vt	Time:FW	
+Park:FW	
+還:ADV	有:Vt	附送:Vt	優惠券:N	
+像:Vt	是:Vt	TimePark:FW	就:ADV	是:Vt	有機:A	特調茶:N	買一送一:Vi	
+這:DET	本我:N	超:Vt	有:Vt	興趣:N	的:T	耶:T	研究:Vt	超久:Vi	
+回家:Vi	還:ADV	立刻:ADV	google:FW	
+只是:ADV	已經:ADV	攻佔:Vt	好多:DET	家:M	了:T	到底:ADV	要不要:ADV	
+買阿:N	XD:FW	
+結論:N	：:COLONCATEGORY	
+二:DET	訪:Vt	TimePark:FW	還是:ADV	覺得:Vt	蠻:ADV	喜歡:Vt	的:T	
+尤其:ADV	是:Vt	歐姆:M	蕾:N	與:C	薄餅:N	獲得:Vt	相當:ADV	高:Vi	的:T	分數:N	
+比起:P	很多:DET	東區:N	很多:DET	餐廳:N	
+這裡:N	的:T	環境:N	跟:P	氣氛:N	很:ADV	安靜:Vi	很:ADV	優閒:Vi	也:ADV	是:Vt	我:N	喜歡:Vt	的:T	原因:N	之:T	一:DET	
+義大利麵:N	好吃:Vi	不:ADV	貴:Vi	
+尤其:ADV	是:Vt	平日:N	晚餐:N	還:ADV	送:Vt	飲料:N	實在:ADV	太:ADV	划算:Vi	了:T	啦:T	
+記得:Vt	先:ADV	訂位:Vi	
+在:P	優惠:Nv	活動:N	結束:Vt	以前:POST	應該:ADV	還:ADV	會:ADV	再:ADV	來:ADV	吃:Vt	個:M	幾:DET	次:M	哈哈:ADV	
+食物:N	美味:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	☆:FW	
+ＣＰ:FW	值:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	★:FW	
+服務:Nv	態度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	★:FW	
+再:ADV	訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	★:FW	
+本:DET	篇:M	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32645216:DET	
+一:ADV	訪食:Vt	記:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	31628741:DET	

@@ -1,0 +1,74 @@
+maggie:FW	024:DET	(:PARENTHESISCATEGORY	莫莉:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	【:PARENTHESISCATEGORY	台北:N	】:PARENTHESISCATEGORY	九月:N	咖啡:N	，:COMMACATEGORY	美好:Vi	的:T	一:DET	天:M	就:ADV	從:P	早:Vi	午餐:N	
+Wed:FW	
+Aug:FW	
+6:DET	
+21:DET	::COLONCATEGORY	03:DET	::COLONCATEGORY	16:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	九月:N	咖啡:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	四維路:N	14巷:N	2:DET	-:DASHCATEGORY	1:DET	號:M	
+電話:N	：:COLONCATEGORY	0227051669:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	Tue-Fri:FW	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	pm:FW	-:DASHCATEGORY	8:DET	::COLONCATEGORY	00:DET	pm:FW	
+Sat-Sun:FW	::COLONCATEGORY	9:DET	::COLONCATEGORY	00:DET	am:FW	-:DASHCATEGORY	8:DET	::COLONCATEGORY	00:DET	pm:FW	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	九月:N	早:Vi	午餐:N	
+【:PARENTHESISCATEGORY	台北:N	九月:N	咖啡:N	，:COMMACATEGORY	美好:Vi	的:T	一:DET	天:M	就:ADV	從:P	早:Vi	午餐:N	開始:POST	】:PARENTHESISCATEGORY	
+●:FW	圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	383375057:DET	
+【:PARENTHESISCATEGORY	延伸:Vi	閱讀:Vt	】:PARENTHESISCATEGORY	
+●:FW	【:PARENTHESISCATEGORY	台北:N	貝貝:N	西點:N	LesBebes:FW	
+繽紛:Vi	浪漫:Vi	少女系:N	甜點:N	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	382993646:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	B-LineByATrain:FW	
+在:P	都市:N	中:POST	找尋:Vt	屬於:Vt	自己:N	的:T	secretbar:FW	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	380114576:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	爐鍋:N	咖啡:N	小:Vi	藝埕:N	
+人文:N	巷弄:N	間:POST	的:T	咖啡:N	香:N	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	371969156:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	小:Vi	藝埕思:N	劇場:N	
+文學:N	與:C	不可思議:Vi	相遇:Vi	在:P	迪化街:N	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	375875567:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	Leparkcafe:FW	
+隱藏:Vt	在:P	都市:N	喧囂:Nv	後:POST	的:T	片刻:N	寧靜:Vi	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	324726350:DET	
+【:PARENTHESISCATEGORY	無:Vt	文字:N	好:Vi	讀版:N	】:PARENTHESISCATEGORY	
+九月:N	咖啡:N	SeptermberCafe:FW	
+-:DASHCATEGORY	Breakfast&amp:FW	
+BrunchRestaurant:FW	·:PERIODCATEGORY	DessertRestaurant:FW	·:PERIODCATEGORY	Caterer:FW	-:DASHCATEGORY	
+台北市:N	大安區:N	四維路:N	14巷:N	2:DET	-:DASHCATEGORY	1:DET	號:M	
+0227051669:DET	
+Tue-Fri:FW	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	pm:FW	-:DASHCATEGORY	8:DET	::COLONCATEGORY	00:DET	pm:FW	
+Sat-Sun:FW	::COLONCATEGORY	9:DET	::COLONCATEGORY	00:DET	am:FW	-:DASHCATEGORY	8:DET	::COLONCATEGORY	00:DET	pm:FW	
+周末:N	要:ADV	前往:Vt	東區:N	逛街:Vi	前:POST	
+特地:ADV	來到:Vt	這:DET	間:M	九月:N	咖啡:N	享用:Vt	早:Vi	午餐:N	
+原本:ADV	是:Vt	要:ADV	攜帶:Vt	上:N	電腦:N	與:C	幾:DET	本:M	好:Vi	書:N	久:Vi	坐:Vi	
+但:C	因為:C	用餐:Nv	空間:N	數:N	比較:ADV	少:Vi	
+僅有:Vt	五:DET	、:PAUSECATEGORY	六:DET	桌:M	
+只好:ADV	改成:Vt	好好:Vi	吃:Vt	早餐:N	之:T	旅:N	哩:T	
+整:DET	間:M	店:N	裝潢:N	很:ADV	可愛:Vi	
+除了:P	有:Vt	現在:N	很:ADV	流行:Vi	的:T	半:DET	工業:N	風:N	吊燈:N	外:POST	
+也:ADV	有:Vt	兼具:Vt	可愛:Vi	討:Vt	人:N	喜愛:Vt	的:T	手工:N	餅乾:N	
+咖啡:N	口感:N	
+如果:C	喜歡:Vt	喝:Vt	比較:ADV	濃郁:Vi	咖啡因:N	
+就:ADV	比較:ADV	不:ADV	建議:Vt	點:Vt	維也納:N	咖啡:N	
+這:DET	杯:M	比較:ADV	偏:Vt	清淡:Vi	味兒:N	
+餐點:N	部分:DET	
+雖然:C	單價:N	偏:ADV	高:Vi	
+但是:C	因為:C	份量:N	夠多:Vi	
+如果:C	是:Vt	兩:DET	個:M	人:N	來:Vi	
+很:ADV	建議:Vt	點上:Vt	一:DET	份:M	一起:ADV	享用:Vt	即可:ADV	
+九月:N	早:Vi	午餐:N	/:FW	綜合:A	麵包:N	、:PAUSECATEGORY	炒蛋:N	、:PAUSECATEGORY	德式:A	香腸:N	
+♥:FW	小:N	日記:N	
+這:DET	個:M	周:N	末:N	選擇:Vt	這:DET	間:M	早:Vi	午餐:N	最:ADV	主要:A	的:T	原因:N	是:Vt	
+因為:C	自己:N	很:ADV	愛:Vt	做:Vt	早:Vi	午餐:N	
+想:Vt	說來:ADV	看看:Vt	這些:DET	有:Vt	名氣:N	的:T	店家:N	是:Vt	如何:Vi	擺盤:N	
+以及:C	他們:N	選用:Vt	什麼:DET	食材:N	提供:Vt	每:DET	個:M	晨間:N	
+走進:Vt	他們:N	店裡:N	的:T	客人:N	
+這:DET	次:M	來到:Vt	也:ADV	算是:Vt	小小:Vi	吸收:Vt	了:ASP	一點:DET	想法:N	
+竟然:ADV	講到:Vt	早餐:N	
+就:ADV	跟:P	大家:N	分享:Vt	我:N	平常:N	周:N	末:POST	做:Vt	給:P	沖繩:N	男孩:N	的:T	早:Vi	午餐:N	::COLONCATEGORY	D:FW	
+早餐:N	
+很:ADV	重要:Vi	
+再:ADV	如何:ADV	忙碌:Vi	也:ADV	要:ADV	記得:Vt	吃:Vt	喔:T	::COLONCATEGORY	

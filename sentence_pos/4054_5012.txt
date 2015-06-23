@@ -1,0 +1,70 @@
+tanya:FW	413:DET	(:PARENTHESISCATEGORY	餅乾:N	chen:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山:N	南:N	大門:N	韓國:N	烤肉:N	專賣店:N	
+Sun:FW	
+Feb:FW	
+15:DET	
+14:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	08:DET	
+2015:DET	
+【:PARENTHESISCATEGORY	南:N	大門:N	韓國:N	烤肉:N	專賣店:N	】:PARENTHESISCATEGORY	單點式:A	韓國:N	烤肉:N	，:COMMACATEGORY	銅盤:N	烤肉:N	,:COMMACATEGORY	鐵板:N	烤肉:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	tanya413.pixnet.net/blog/post:FW	/:FW	109021234:DET	
+南:N	大門:N	韓國:N	烤肉:N	專賣店:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	25711017:DET	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	林森北路:N	119巷:N	63:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	pm:FW	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	am:FW	3:DET	
+週一:N	公休:Vi	
+消費:N	日期:N	及:C	金額:N	：:COLONCATEGORY	2015.1:DET	.:PERIODCATEGORY	16／2068:DET	元:M	
+2:DET	人:N	
+吃完:Vt	honeypig:FW	後:POST	
+朋友:N	開始:Vt	跟:P	我:N	討論:Vt	韓式:N	燒烤:Vt	
+其實:ADV	我:N	對:P	韓式:N	料理:N	真的:ADV	不:ADV	熟:Vi	
+也:ADV	沒有:ADV	特:ADV	愛:Vt	
+朋友:N	另外:ADV	還:ADV	有:Vt	推薦:Vt	一:DET	間:M	":FW	春川達卡:N	比:P	":FW	
+但:C	他:N	最後:N	說:Vt	還是:ADV	較:ADV	喜歡:Vt	南:N	大門:N	
+今天:N	就:ADV	來:ADV	品嘗:Vt	朋友:N	心:N	中第:Vi	一:DET	名:M	的:T	南:N	大門:N	
+位於:Vt	七:DET	條:M	通:Vi	
+我們:N	沒有:ADV	訂位:Vi	大約:ADV	晚上:N	八:DET	點:M	來:POST	
+等:Vt	了:ASP	半:DET	小時:N	就:ADV	有:Vt	位子:N	了:T	
+店:N	內:N	環境:N	
+小菜:N	是:Vt	無限:Vi	供應:Vt	
+聽說:Vt	
+因為:C	我們:N	當天:N	沒有:ADV	續:ADV	
+有:Vt	看到:Vt	隔壁桌:N	店員:N	有:Vt	給:Vt	圍:Vt	兜兜:N	
+並:C	把:P	圍:Vt	兜兜:N	放置:Vt	他們:N	的:T	包包:N	上:N	
+不:ADV	知道:Vt	是:Vt	要:ADV	另外:ADV	詢問:Vt	店員:N	還是:ADV	
+點餐:N	囉:T	
+有:Vt	分:M	銅盤:N	烤肉:N	及:C	鐵板:N	烤肉:N	
+我們:N	今天:N	剛好:ADV	都:ADV	有點:ADV	到:Vt	了:ASP	
+服務:Vt	不周:Vi	還可以:ADV	打給:Vt	大鬍子:N	老闆:N	申訴:Nv	
+這:DET	真的:ADV	很:ADV	可愛:Vi	
+烤牛:N	小:Vi	排:Vt	500:DET	元:M	
+都:ADV	有:Vt	專人:N	幫:P	你:N	烤:Vt	
+完全:ADV	不:ADV	用:Vt	動手:Vi	
+肉:N	雖然:C	有:Vt	醃製:Vt	過:ASP	
+但:C	不會:ADV	太:ADV	鹹:Vi	
+炒:Vt	年糕:N	250:DET	元:M	
+年糕:N	及:C	甜不辣:N	
+是:Vt	甜甜:Vi	的:T	醬汁:N	
+辣度:N	還:ADV	好:Vi	
+海鮮:N	煎餅:N	250:DET	元:M	
+海鮮:N	煎餅:N	很:ADV	厚實:Vi	
+感覺:N	就是:C	少:Vi	了:ASP	一味:ADV	
+涼拌:Vt	海螺:N	380:DET	元:M	
+原本:ADV	很:ADV	不:ADV	看好:Vt	的:T	涼拌:Nv	海螺:N	
+沒想到:ADV	超:Vt	好吃:Vi	的:T	耶:T	
+整:DET	道:M	菜:N	真的:ADV	又:ADV	酸:Vi	又:ADV	辣:Vi	
+韓味:N	十足:Vi	
+銅版:N	烤肉:N	
+牛:N	羊:N	
+500:DET	元:M	
+點:Vt	兩:DET	份:M	肉:N	即可:ADV	
+一:DET	份:M	肉:N	250:DET	元:M	
+店員:N	有:Vt	詢問:Vt	要:ADV	分開:Vt	還是:ADV	一起:ADV	炒:Vt	
+我們:N	說:Vt	一起:ADV	沒關係:Vi	
+然後:ADV	就:ADV	一起:ADV	大鍋:N	炒:Vt	
+我:N	比較:ADV	喜歡:Vt	銅盤烤肉:N	
+有:Vt	菜:N	還:ADV	有:Vt	湯:N	可以:ADV	喝:Vt	
+感覺:N	上:N	價格:N	跟:P	honeypig:FW	差不多:Vi	
+我:N	個:M	人:N	偏愛:Vt	honeypig:FW	的:T	肉質:N	及:C	環境:N	
+南:N	大門:N	的:T	涼拌:Nv	系列:N	真的:ADV	不錯:Vi	吃:Vt	呢:T	
+推:Vt	
+下:DET	次:M	有:Vt	機會:N	還:ADV	想來:ADV	南:N	大門:N	吃吃:ADV	看:Vt	韓式:N	炸醬麵:N	

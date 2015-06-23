@@ -1,0 +1,68 @@
+crothers:FW	(:PARENTHESISCATEGORY	浩浩仔:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	澠井川:N	日式:A	串燒:N	居酒:N	屋:N	
+Mon:FW	
+Aug:FW	
+4:DET	
+13:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	00:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	澠井:N	川:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	7月:N	
+地址:N	：:COLONCATEGORY	士林區:N	德行:N	西路:N	62巷:N	2:DET	號:M	
+電話:N	：:COLONCATEGORY	0228366996:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	1700:DET	~:FW	0100:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	50:DET	~:FW	300:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	N:FW	
+有無:Vt	包廂:N	：:COLONCATEGORY	N:FW	
+推薦:Vt	菜色:N	：:COLONCATEGORY	松坂:N	豬:N	
+官網:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	0:DET	rz.tw/xzmBk:FW	
+前:DET	幾:DET	天:M	跟:P	好朋友:N	相約:Vi	去:Vt	澠井川:N	吃飯:Vi	
+發現:Vt	這:DET	家:M	店:N	真的:ADV	是:Vt	在:P	太:ADV	棒:Vi	了:T	
+實在:ADV	是:Vt	有夠:ADV	好吃:Vi	
+所以:C	
+決定:Vt	來:ADV	跟:P	大家:N	分享:Vt	看看:ASP	
+只是:ADV	沒有:Vt	照片:N	就是了:Vi	
+覺得:Vt	遺憾:Vt	
+他們:N	這:DET	家:M	店:N	其實:ADV	離:P	捷運站:N	不遠處:N	
+就:ADV	在:P	士林:N	附近:N	而已:T	
+搭:Vt	個:M	大眾:N	交通:N	工具:N	其實:ADV	不:ADV	太:ADV	難找:Vt	的:T	
+再:ADV	來:ADV	就是:C	吃:Vt	的:T	部份:DET	了:T	
+他們:N	有:Vt	分:M	鹽烤:Vt	跟:P	醬燒:N	兩:DET	種:M	口味:N	
+我:N	個:M	人:N	比較:ADV	喜歡:Vt	吃:Vt	鹹:Vi	XD:FW	所以:C	接下來:ADV	
+介紹:Vt	鹽烤:Vt	的:T	部分:DET	會:ADV	比較:ADV	多:Vi	就是了:Vi	囧:Vi	
+之後:N	有:Vt	吃:Vt	比較:ADV	多:Vi	醬:N	燒:Vt	會:ADV	來:ADV	跟:P	大家:N	再:ADV	分享:Vt	的:T	
+首推:Vt	第:DET	一樣:Vi	跟:P	第二:DET	樣:M	就:ADV	是:Vt	鹽烤松坂豬:N	跟:P	鹽燒:N	牛:N	了:T	
+這:DET	兩樣:Vi	他們:N	的:T	餐點:N	都:ADV	有:Vt	個:M	特色:N	
+吃起來:ADV	
+非常:ADV	非常:ADV	的:T	爽口:Vi	
+而且:C	肉質:N	非常:ADV	的:T	鮮美:Vi	
+不:ADV	太:ADV	有:Vt	老掉:Vi	的:T	感覺:N	
+來:ADV	這邊:N	吃:Vt	的:T	話:N	一定:ADV	要:ADV	吃:Vt	這:DET	兩:DET	
+樣:N	
+另外:C	這:DET	間:M	店:N	的:T	老闆:N	實在:ADV	是:Vt	有夠:ADV	NICE:FW	的:T	
+也:ADV	非常:ADV	的:T	親近:Vt	
+他:N	蠻:ADV	會:ADV	跟:P	客人:N	互動:Nv	
+所以:C	在:P	用餐:Vi	
+上:N	有:Vt	問題:N	的:T	話:N	都:ADV	可以:ADV	去:ADV	請教:Vt	他:N	哦:T	
+他:N	都:ADV	可以:ADV	替:P	你:N	服務:Vt	的:T	
+剩下:Vt	的:T	部分:DET	其實:ADV	對:P	我:N	而言:Vt	印象:N	比較:ADV	沒:Vt	這麼:ADV	深刻:Vi	XD:FW	不過:C	我:N	朋友:N	都:ADV	還:ADV	蠻:ADV	推:Vt	其他:DET	餐點:N	就是了:Vi	
+想:Vt	
+吃:Vt	的:T	朋友:N	們:N	不妨:ADV	可以:ADV	去:ADV	品嘗:Vt	看看:ASP	唷:T	
+為了:P	避免:Vt	衝:Vt	文章:N	嫌疑:N	
+還是:ADV	來:ADV	介紹:Vt	一下:N	其他:DET	餐點:N	好了:T	XDDD:FW	
+喜歡:Vt	吃:Vt	海鮮類:N	的:T	話:N	他們:N	有:Vt	生蠔:N	可以:ADV	給:Vt	您:N	做:Vt	選擇:Vt	
+或者:C	是:Vt	秋刀魚:N	
+柳葉:N	魚:N	都:ADV	是:Vt	可以:ADV	作為:Vt	參考:N	
+的:T	唷:T	
+如果:C	想要:Vt	吃:Vt	熟:Vi	一點:ADV	的:T	話:N	
+也:ADV	可以:ADV	跟:P	他們:N	說:Vt	
+他們:N	都:ADV	會:ADV	烤熟:Vt	一點:DET	
+他們:N	的:T	魚肉:N	真的:ADV	是:Vt	還:ADV	蠻:ADV	嫩:Vi	的:T	
+而且:C	烤:Vt	的:T	不會:ADV	說:Vt	沒:Vt	味道:N	
+都:ADV	很:ADV	入:Vt	味:N	
+他們:N	的:T	生蠔:N	也:ADV	很:ADV	肥:Vt	嫩:Vi	多汁:Vi	
+真的:ADV	挺:ADV	好吃:Vi	的:T	
+是:Vt	男人:N	而且:C	有:Vt	閃光:N	千萬:DET	別:ADV	錯過:Vt	這:DET	道:M	餐點:N	啊:T	XDD:FW	
+大致上:ADV	就:ADV	是:Vt	這樣:Vi	啦:T	
+剩下:Vt	部分:DET	就:ADV	麻煩:Vt	各:DET	位:M	親自:ADV	去:Vt	現場:N	吃:Vt	看看:ASP	囉:T	
+我:N	相信:Vt	饕客:N	們:N	一定:ADV	會:ADV	滿:ADV	
+意:N	的:T	吧:T	

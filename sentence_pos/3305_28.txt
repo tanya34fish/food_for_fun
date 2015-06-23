@@ -1,0 +1,24 @@
+地址:N	：:COLONCATEGORY	新:Vi	北市:N	永和區:N	永和路:N	一段:N	30:DET	號:M	
+兩:DET	種:M	我:N	都:ADV	愛:Vt	
+三:DET	種:M	都:ADV	好喝:Vi	喔:T	
+這:DET	間:M	的:T	燒餅:N	油條:N	我:N	大推:Vt	
+可以:ADV	算是:Vt	目前:N	吃:Vt	過:ASP	數一數二:Vi	好吃:Vi	的:T	
+燒餅:N	淡淡:Vi	的:T	鹹香:N	酥脆:Vi	
+包:Vt	著:ASP	不會:ADV	油:Vi	的:T	油條:N	
+又:ADV	酥:Vi	又:ADV	軟:Vi	的:T	口感:N	真的:ADV	超:Vt	好吃:Vi	的:T	
+香濃:Vi	好喝:Vi	
+沒有:Vt	那:DET	種:M	有時候:ADV	會:ADV	喝到:Vt	的:T	焦焦:Vi	的:T	味道:N	
+也:ADV	沒有:Vt	粉粉:N	的:T	感覺:N	
+甜甜:Vi	又:ADV	軟軟:Vi	的:T	一口:ADV	接:Vt	一口:ADV	好好:Vi	吃:Vt	
+再:ADV	來:ADV	這:DET	個:M	山東:N	大:Vi	餅:N	也:ADV	是:Vt	大推:Vt	
+但:C	這麼:ADV	好吃:Vi	的:T	還:ADV	第一:DET	次:M	吃:Vt	到:P	
+夾:Vt	著:ASP	蔥:N	的:T	淡淡:Vi	香氣:N	
+口感:N	既:C	鬆軟:Vi	又:ADV	紮實:Vi	
+蛋:N	餅:N	也:ADV	好吃:Vi	
+但:C	也:ADV	算是:Vt	好吃:Vi	
+不過:C	我:N	覺得:Vt	這:DET	算是:Vt	比較:ADV	清淡:Vi	點:ADV	的:T	飯糰:N	
+菜圃:N	不:ADV	是:Vt	那:DET	種:M	鹹:Vi	的:T	
+沒有:ADV	特別:Vi	好吃:Vi	
+感覺:N	也:ADV	是:Vt	偏:ADV	清淡:Vi	
+找到:Vt	喜歡:Vt	的:T	早餐店:N	是:Vt	件:M	很:ADV	開心:Vi	的:T	事:N	
+就:ADV	可以:ADV	吃到:Vt	好吃:Vi	的:T	早餐:N	有:Vt	多:ADV	開心:Vi	啊:T	

@@ -1,0 +1,64 @@
+jiayunjiayun(jiayun:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	長:Vi	鼻子:N	泰式:A	餐廳:N	酸辣:N	好:Vi	滋味:N	
+Thu:FW	
+Aug:FW	
+21:DET	
+11:DET	::COLONCATEGORY	43:DET	::COLONCATEGORY	29:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	長:Vi	鼻子:N	泰式:A	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	中山北路:N	二段:N	20巷:N	19:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2523:DET	-:DASHCATEGORY	5023:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	~:FW	週四:N	12:DET	::COLONCATEGORY	00:DET	~:FW	14:DET	::COLONCATEGORY	3018:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	
+週五:N	12:DET	::COLONCATEGORY	00:DET	~:FW	14:DET	::COLONCATEGORY	3018:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+週六:N	12:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00週日:N	12:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	NT:FW	$:FW	500:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	泰式椒麻:N	雞:N	
+圖文並茂:Vi	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	jamieq8888.blogspot.tw/2014/08/a-roy.html:FW	
+一直:ADV	以來:POST	都:ADV	很:ADV	喜歡:Vt	泰式:A	料理:N	
+尤其:ADV	是:Vt	在:P	夏天:N	吃上:Vt	酸酸:Vi	辣辣:Vi	的:T	泰國菜:N	
+暑氣:N	也:ADV	消去:Vt	一半:DET	
+趁:P	
+著:Vt	英國:N	好友:N	歸台:N	的:T	聚餐:Nv	暨:C	慶祝:Nv	生日:N	晚餐:N	
+私心:N	的:T	選擇:Vt	了:ASP	我:N	心愛:A	的:T	泰國菜:N	
+長:Vi	鼻子:N	泰國:N	餐廳:N	交通:N	上:N	相當:Vi	的:T	方便:Vi	
+只:ADV	距離:P	捷運:N	中山:N	站:Vi	3:DET	分鐘:M	路程:N	
+裝潢:N	上:N	採用:Vt	了:ASP	大量:DET	的:T	
+大象:N	圖案:N	和:C	粉紅:N	配色:Vi	
+相當:ADV	適合:Vi	少女:N	的:T	聚會:N	
+長:Vi	鼻子:N	點餐:N	方式:N	為:Vt	套餐:N	形式:N	
+和:C	一般:A	的:T	泰式:A	餐廳:N	合:Vt	菜單點:N	和:C	吃到:Vt	飽:Vi	的:T	方式:N	不同:Vi	
+更:ADV	適合:Vi	情:N	
+侶:N	來:ADV	用餐:Vi	
+每:DET	次:M	在:P	泰國:N	餐廳:N	點:Vt	泰式:A	奶茶:N	都:ADV	是:Vt	件:M	很:ADV	冒險:Vi	的:T	行為:N	
+要:ADV	鼓起:Vt	勇氣:N	、:PAUSECATEGORY	深:Vi	呼:Vt	三:DET	口:M	氣:N	
+很:ADV	怕:Vt	店家:N	送上:Vt	的:T	是:Vt	雀:N	巢:N	即:Vt	溶泰式:A	奶茶:N	
+撇開:Vt	即:ADV	溶:Vt	飲料:N	的:T	甜膩:Vi	不:ADV	說:Vt	
+更:ADV	是:Vt	不:ADV	懂:Vt	為什麼:ADV	要:ADV	上:DET	餐:M	
+館:N	喝:Vt	自己:N	在:P	家:N	裡:N	就:ADV	可以:ADV	泡:Vt	的:T	茶飲:N	
+幸虧:ADV	長:Vi	鼻子:N	的:T	泰式:A	奶茶:N	是:Vt	採用:Vt	鮮奶:N	混合:Vt	泰式:A	茶葉:N	
+特殊:Vi	
+的:T	茶:N	香味:N	加上:Vt	鮮奶:N	再:ADV	以:P	煉乳:N	和:C	糖:N	調和:Vt	成:Vt	濃郁:Vi	的:T	泰式:A	鮮奶茶:N	
+個:M	人:N	相當:ADV	喜愛:Vt	
+柚子:N	公主:N	沙拉:N	相當:ADV	爽口:Vi	好吃:Vi	
+整:DET	份:M	沙拉:N	加上:Vt	了:ASP	檸檬:N	
+調味:Vi	上:POST	偏:ADV	酸:Vi	
+口水:N	盈腮:Vi	
+以:P	魚露:N	調味:Vi	的:T	紅色:N	酸辣湯:N	
+酸辣鹹香:N	
+色澤:N	偏:ADV	紅:Vi	
+湯味:N	馥郁:Vi	可口:Vi	
+且:C	辣度:N	十足:Vi	
+盤:N	底:POST	鋪上:Vt	高麗菜:N	絲:N	
+配上:Vt	醬漬:N	小菜:N	和:C	以:P	五:DET	香粉:N	調味:Vi	裹粉酥炸:Vt	的:T	雞肉:N	
+最後:N	淋:Vt	上香:Vi	濃:Vi	的:T	椒麻:N	
+醬汁:N	和:C	用:Vt	香菜:N	妝點:Vt	
+這:DET	道:M	色:N	香味:N	俱全:Vi	的:T	泰式香酥椒麻:N	雞:N	
+肉:N	的:T	鮮嫩:Vi	多汁:Vi	、:PAUSECATEGORY	炸:Vt	粉:N	的:T	爽口:Vi	不:ADV	油:N	
+膩:Vi	確實:ADV	讓:Vt	我們:N	一:DET	桌:M	留下:Vt	深刻:Vi	的:T	印象:N	
+整體:N	而言:Vt	
+長:Vi	鼻子:N	泰式:A	餐廳:N	在:P	不論:C	口味:N	上:N	、:PAUSECATEGORY	價位:N	上:POST	都:ADV	如同:Vt	裝潢:N	的:T	可愛:Vi	、:PAUSECATEGORY	讓:Vt	人:N	親近:Vt	
+我:N	想:Vt	我:N	
+很:ADV	快:Vi	就:ADV	會:ADV	再:ADV	來:ADV	吃:Vt	長:Vi	鼻子:N	

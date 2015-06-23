@@ -1,0 +1,137 @@
+tonlin:FW	(:PARENTHESISCATEGORY	帽子:N	與:C	大象:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	。:PERIODCATEGORY	東區:N	。:PERIODCATEGORY	kiki:FW	餐廳:N	（:PARENTHESISCATEGORY	川菜:N	料理:N	）:PARENTHESISCATEGORY	
+Tue:FW	
+Aug:FW	
+12:DET	
+21:DET	::COLONCATEGORY	04:DET	::COLONCATEGORY	06:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	kiki:FW	餐廳:N	復興:N	旗艦店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	07月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	復興南路:N	一段:N	28:DET	號:M	（:PARENTHESISCATEGORY	微風:N	廣場:N	斜對面:N	）:PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2752:DET	-:DASHCATEGORY	2781:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	~:FW	週六:N	11:DET	::COLONCATEGORY	30:DET	~:FW	15:DET	::COLONCATEGORY	00:DET	/:FW	17:DET	::COLONCATEGORY	15:DET	~:FW	22:DET	::COLONCATEGORY	30:DET	；:SEMICOLONCATEGORY	週日:N	11:DET	::COLONCATEGORY	30:DET	~:FW	15:DET	::COLONCATEGORY	00:DET	/:FW	17:DET	::COLONCATEGORY	15:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	，:COMMACATEGORY	但:C	包廂:N	有:Vt	低消:N	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tonlinphoto.pixnet.net/blog/post:FW	/:FW	41242075:DET	
+BBS:FW	純:Vi	文字版:N	：:COLONCATEGORY	久聞:Vt	kiki:FW	餐廳:N	大名:N	
+一直:ADV	到:P	去年:N	生日:N	才:ADV	第一:DET	次:M	吃:Vt	
+當時:N	是:Vt	看:Vt	在:P	壽星:N	優惠:Nv	去:ADV	的:T	
+不過:C	台北:N	餐廳:N	太多:Vi	
+這:DET	一:DET	年:M	來:ADV	都:ADV	沒:ADV	想起:Vt	它:N	
+kiki:FW	餐廳:N	不要:ADV	哭:Vi	
+直到:P	上:DET	個:M	月:N	月:N	底:POST	日文班:N	要:ADV	聚餐:Vi	
+才:ADV	想起:Vt	這:DET	家:M	嗜辣:Vi	與:C	不:ADV	嗜辣:Vi	人:N	都:ADV	能:ADV	吃:Vt	的:T	川菜:N	餐廳:N	
+很:ADV	適合:Vi	我們:N	班:N	老師:N	嗜辣:Vi	、:PAUSECATEGORY	同學:N	們:N	不:ADV	嗜辣:Vi	的:T	口味:N	
+因為:C	這:DET	一:DET	次:M	有:Vt	12:DET	位:M	大人:N	＋:FW	1:DET	位:M	幼兒:N	用餐:Vi	
+餐廳:N	貼心:Vi	地:T	準備:Vt	了:ASP	12:DET	人:N	圓桌:N	和:C	幼兒:N	餐椅:N	
+很:ADV	適合:Vi	我們:N	一:DET	群:M	人:N	聚餐:Vi	
+且:C	我們:N	的:T	位置:N	在:P	一樓:N	靠近:Vt	廚房:N	的:T	角落:N	
+小朋友:N	在:P	角落:N	空間:N	很:ADV	安全:Vi	不會:ADV	被:P	撞到:Vt	
+感覺:Vt	餐廳:N	很:ADV	貼心:Vi	
+服務:Vt	甚麼:DET	的:T	也:ADV	很:ADV	週到:Vi	
+餐:N	後:POST	吃:Vt	生日:N	蛋糕:N	也:ADV	沒有:ADV	加收:Vt	錢:N	
+很:ADV	加分:Vi	
+因為:C	人數:N	頗多:Vi	
+我們:N	這:DET	次:M	點:Vt	了:ASP	12:DET	菜:N	一:DET	湯:N	
+份量:N	剛好:ADV	
+提供給:Vt	大家:N	參考:Vt	一下:N	喔:T	
+以:P	我:N	本人:N	的:T	口味:N	來:ADV	區分:Vt	是:Vt	
+辣:Vi	：:COLONCATEGORY	魚香烘:Vi	蛋:N	、:PAUSECATEGORY	口水:N	雞:N	、:PAUSECATEGORY	辣子雞丁:N	、:PAUSECATEGORY	茄:b	香腸:N	煲:Vt	、:PAUSECATEGORY	紅椒:N	豆干:N	豬肉:N	絲:N	
+不:ADV	辣:Vi	：:COLONCATEGORY	老皮嫩肉:N	、:PAUSECATEGORY	宮保:N	臭豆腐:N	、:PAUSECATEGORY	腐乳:N	空心菜:N	、:PAUSECATEGORY	番茄:N	炒蛋:Vi	、:PAUSECATEGORY	梅干扣肉:N	、:PAUSECATEGORY	花雕:N	醉:Vi	雞腿:N	、:PAUSECATEGORY	豆酥:N	鱈魚:N	
+湯:N	：:COLONCATEGORY	火鍋:N	雞:N	
+大:Vi	
+老:Vi	皮:N	嫩:Vi	肉:N	招牌:N	菜色:N	
+表皮:N	金黃:Vi	酥脆:Vi	
+內裡:N	軟嫩:Vi	多汁:Vi	
+建議:Vt	趁熱:ADV	吃:Vt	
+這樣:Vi	表皮:N	比較:ADV	不會:ADV	被:P	醬汁:N	給:Vt	軟化:Vt	
+魚香烘:Vi	蛋:N	通常:ADV	桌菜:N	餐廳:N	都:ADV	會:ADV	有:Vt	這:DET	道:M	菜:N	
+簡單:Vi	易:Vi	做:Vt	
+又:ADV	頗:ADV	受:Vt	饕客:N	們:N	喜愛:Vt	
+kiki:FW	餐廳:N	的:T	魚:N	香烘:Vi	蛋:N	口味:N	微:ADV	辣:Vi	、:PAUSECATEGORY	入口:N	香嫩:Vi	
+而且:C	是:Vt	有:Vt	一:ADV	點:Vt	厚度:N	的:T	烘:Vt	蛋:N	
+因為:C	我:N	本人:N	是:Vt	蛋:N	料理:N	控:Vt	
+所以:C	超:Vt	喜歡:Vt	
+腐乳:N	空心菜:N	就是:C	腐乳:N	加上:Vt	空心菜:N	
+鍋氣:N	有夠:ADV	
+但是:C	沒:Vt	甚麼:DET	特別:Vi	的:T	
+可能:ADV	可以:ADV	在:P	一:DET	片:M	蛋:N	肉:N	海:N	中:POST	脫穎而出:Vi	的:T	原因:N	
+就:ADV	只:ADV	因為:C	它:N	是:Vt	綠色:N	蔬菜:N	
+花雕:N	醉:Vi	雞腿:N	好吃:Vi	
+我:N	一向:ADV	喜歡:Vt	醉雞:N	料理:N	
+在:P	夏日:N	裡:POST	很:ADV	清爽:Vi	開胃:Vi	
+這:DET	道:M	醉:Vi	雞腿:N	嫩:Vi	中:POST	帶:Vt	韌:Vi	、:PAUSECATEGORY	Q:FW	彈:Vt	順口:Vi	
+口水:N	雞:N	有點:ADV	辣:Vi	度:M	
+不:ADV	吃:Vt	辣:Vi	的:T	人:N	要:ADV	注意:Vt	
+雞肉:N	的:T	口感:N	和:C	油雞:N	類似:Vt	
+都:ADV	蠻:ADV	嫩:Vi	的:T	
+但:C	調味:Vi	比較:ADV	特別:Vi	
+走:Vi	一:DET	個:M	鹹鹹:Vi	香香:Vi	辣辣:Vi	頗:ADV	下:Vt	飯:N	的:T	路線:N	
+茄:b	香腸:N	煲:Vt	喜歡:Vt	茄子:N	也:ADV	喜歡:Vt	大腸:N	的:T	我:N	
+一向:ADV	喜歡:Vt	茄子:N	肥:Vt	腸煲:N	這:DET	道:M	料理:N	
+不過:C	kiki:FW	的:T	茄:b	香腸:N	煲:Vt	沒有:Vt	特別:Vi	突出:Vi	
+反而:C	是:Vt	有點:ADV	辣:Vi	讓:Vt	我:N	很:ADV	意外:Vt	
+說起來:ADV	
+茄子:N	肥:Vt	腸煲:N	在:P	我:N	心目中:N	是:Vt	政大:N	憩賢樓:N	三樓:N	的:T	金色:N	漁家:N	做:Vt	得:T	最:ADV	好吃:Vi	
+辣子雞丁:N	辣椒:N	很多:DET	
+炸雞:N	很:ADV	紅:Vi	
+但:C	其實:ADV	一切:DET	都:ADV	是:Vt	障眼法:N	
+這:DET	一:DET	道:M	菜:N	的:T	辣度:N	很:ADV	樸實:Vi	
+大概:ADV	是:Vt	幼幼班:N	等級:N	
+炸雞:N	炸:Vt	得:T	很:ADV	香:Vi	
+不過:C	肉:N	還:ADV	蠻:ADV	普通:Vi	的:T	
+不:ADV	是:Vt	走:Vi	嫩:Vi	肉:N	的:T	路線:N	
+梅干扣肉:N	鹹:Vi	偏:ADV	甜:Vi	的:T	口味:N	
+和:C	自助餐:N	及:C	家:N	中:N	老媽:N	所:ADV	作:Vt	的:T	單:N	偏:ADV	鹹:Vi	口味:N	不同:Vi	
+雖然:C	不:ADV	辣:Vi	
+肉:N	也:ADV	不:ADV	差:Vi	
+口味:N	也:ADV	算:Vt	好吃:Vi	
+但:C	沒有:Vt	太:ADV	有:Vt	特色:N	
+不:ADV	是:Vt	我:N	會:ADV	推薦:Vt	的:T	菜色:N	
+紅椒:N	豆干:N	豬肉:N	絲:N	這:DET	是:Vt	一:DET	道:M	我:N	有點:ADV	沒:Vt	印象:N	的:T	菜:N	
+好像:ADV	蠻:ADV	下:Vt	飯:N	的:T	
+好像:ADV	微:ADV	辣:Vi	
+一切:DET	都:ADV	是:Vt	好像:ADV	......:ETCCATEGORY	
+雖然:C	我:N	蠻:ADV	愛:Vt	吃:Vt	豆乾:N	的:T	
+但:C	不:ADV	愛:Vt	吃:Vt	切:Vt	太:ADV	細:Vi	的:T	豆乾:N	
+總:ADV	覺得:Vt	豆干:N	要:ADV	有點:ADV	厚度:N	才:ADV	有:Vt	咬:Vt	勁:N	
+喔:T	對了:Vi	
+炒:Vt	得:T	蠻:ADV	香:Vi	的:T	我:N	記得:Vt	
+':FW	蕃茄:N	炒蛋:Vi	點完:Vt	魚:N	香烘:Vi	蛋:N	後:POST	聽到:Vt	同學:N	又:ADV	點:Vt	了:ASP	蕃茄:N	炒蛋:N	讓:Vt	我:N	驚訝:Vt	了:ASP	一下:N	
+後來:N	發現:Vt	是:Vt	給:P	一:DET	歲:M	大:Vi	的:T	寶寶點:N	的:T	
+和:C	一般:A	餐廳蛋:N	比:P	蕃茄:N	多:Vi	的:T	蕃茄:N	茄:b	炒蛋:Vi	不同:Vi	
+kiki:FW	走:Vi	一:DET	個:M	番茄:N	與:C	醬:N	都:ADV	比:P	蛋:N	多:Vi	的:T	路線:N	
+但:C	......:ETCCATEGORY	我:N	本人:N	比較:ADV	喜歡:Vt	吃:Vt	蛋:N	啊:T	......:ETCCATEGORY	
+哭:Vi	著:ASP	跑走:Vi	
+宮保:N	臭豆腐:N	香:Vi	
+還是:ADV	臭:Vi	
+、:PAUSECATEGORY	酥:Vi	、:PAUSECATEGORY	脆:Vi	
+算是:Vt	色:N	香味:N	俱全:Vi	的:T	一:DET	道:M	菜:N	
+外皮:N	香酥:N	
+中心:N	微膨:N	有:Vt	空氣:N	感:Vt	
+一點點:DET	的:T	宮保:N	辣度:N	配上:Vt	臭豆腐:N	的:T	香味:N	很:ADV	搭配:Vt	
+火鍋:N	雞:N	因為:C	有:Vt	12:DET	人:N	
+所以:C	點:Vt	了:ASP	大鍋:N	的:T	火鍋:N	雞湯:N	
+和:C	想像:N	中:POST	的:T	不同:Vi	
+充滿:Vt	藥膳:N	香味:N	的:T	火鍋:N	雞湯:N	清味:N	濃:Vi	
+但:C	不會:ADV	有:Vt	膩:Vi	人:N	的:T	中藥味:N	
+喝下去:Vt	感覺:N	胃:N	暖暖:Vi	的:T	
+在:P	夏日:N	冷房:N	中:N	作為:Vt	溫補:N	的:T	一:DET	道:M	菜:N	
+火鍋:N	雞:N	很:ADV	成功:Vi	
+豆酥:N	鱈魚:N	滿滿:Vi	豆酥:N	覆蓋:Vt	著:ASP	鱈魚:N	
+撥開:Vt	豆酥:N	看到:Vt	雪白:Vi	的:T	魚肉:N	讓:Vt	人:N	特別:Vi	興奮:Vi	
+喜歡:Vt	吃:Vt	魚:N	的:T	我:N	
+最:ADV	喜歡:Vt	大:Vi	桌:N	菜:N	裡:POST	以:P	清蒸:Vt	為:P	烹調:Nv	方式:N	的:T	魚類:N	料理:N	
+脆香:N	的:T	豆酥:N	與:C	軟嫩:Vi	的:T	魚肉:N	
+對比:N	的:T	口感:N	在:P	嘴:N	中:N	交會:Vi	
+感覺:Vt	起來:ASP	相當:Vi	融合:Vt	
+和:C	一:DET	年:N	前:POST	造訪:Vt	kiki:FW	餐廳:N	相比:Vi	
+這:DET	一:DET	次:M	吃:Vt	了:ASP	更多:DET	道:M	菜:N	
+內心:N	也:ADV	有:Vt	了:ASP	比較:Nv	與:C	喜好:Nv	
+12:DET	菜:N	1:DET	湯:N	裡:N	
+最:ADV	喜歡:Vt	也:ADV	最:ADV	驚喜:Vi	的:T	莫過於:Vt	火鍋:N	雞:N	了:T	
+總是:ADV	特別:Vi	喜歡:Vt	這:DET	種:M	功夫:N	菜感:N	
+因為:C	吃到:Vt	細:Vi	火:N	慢:Vi	燉:Vt	所:ADV	煮出來:Vt	的:T	料理:N	
+吃:Vt	得:T	當下:N	也:ADV	幸福:Vi	無比:Vi	
+以上:N	
+和:P	大家:N	分享:Vt	囉:T	

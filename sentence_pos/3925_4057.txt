@@ -1,0 +1,90 @@
+sorimachi:FW	18:DET	(:PARENTHESISCATEGORY	森:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	遠:Vi	企:ADV	鐵匠:N	鐵板:N	居酒:N	屋:N	
+Thu:FW	
+Jan:FW	
+8:DET	
+13:DET	::COLONCATEGORY	54:DET	::COLONCATEGORY	52:DET	
+2015:DET	
+2014年:N	12月:N	
+先:ADV	來:ADV	說說:Vt	廣島:N	燒:Vt	的:T	故事:N	~:FW	
+話說:ADV	明治:N	時代:N	有用:Vi	醬油:N	調味:Vi	的:T	煎餅:N	，:COMMACATEGORY	名為:Vt	「:PARENTHESISCATEGORY	冬:N	冬燒:N	」:PARENTHESISCATEGORY	。:PERIODCATEGORY	
+後來:N	引進:Vt	了:ASP	辣:Vi	醬油:N	後:POST	，:COMMACATEGORY	冬:N	冬燒:N	被:P	徹底:Vi	的:T	改頭換面:Vi	，:COMMACATEGORY	
+運用:Vt	水:N	混合:Nv	麵粉:N	在:P	平面:N	的:T	鐵板:N	上:N	煎:Vt	烤:Vt	，:COMMACATEGORY	
+加上:C	蔥:N	、:PAUSECATEGORY	豆芽:N	和:C	少量:DET	蔬菜:N	，:COMMACATEGORY	
+成為:Vt	類似:Vt	煎餅:N	的:T	食物:N	，:COMMACATEGORY	
+這樣:Vi	融合:Vt	的:T	外國:N	風味:N	也:ADV	因為:C	非常:ADV	平價:N	，:COMMACATEGORY	又:ADV	有:Vt	「:PARENTHESISCATEGORY	一:DET	錢:M	洋食:N	」:PARENTHESISCATEGORY	的:T	稱號:N	。:PERIODCATEGORY	
+後來:N	，:COMMACATEGORY	日本:N	民眾:N	生活:N	品質:N	越來越:ADV	平穩:Vi	，:COMMACATEGORY	
+一:DET	錢:M	洋食:N	的:T	變化:N	越來越:ADV	多:Vi	，:COMMACATEGORY	
+可以:ADV	按照:P	顧客:N	的:T	喜好:N	加入:Vt	肉類:N	、:PAUSECATEGORY	雞蛋:N	或:C	炒麵:N	等:POST	，:COMMACATEGORY	
+成為:Vt	了:ASP	名副其實:Vi	的:T	「:PARENTHESISCATEGORY	廣島:N	風御:N	好:Vi	(:PARENTHESISCATEGORY	喜好:N	):PARENTHESISCATEGORY	燒:Vt	」:PARENTHESISCATEGORY	。:PERIODCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	ally701.pixnet.net/blog/post:FW	/:FW	402198817:DET	
+無:Vt	音樂:N	
+有:Vt	圖:N	真相:N	網誌:N	好讀:Vt	版:N	
+才:ADV	剛剛:ADV	進入:Vt	晚餐:N	時間:N	店:N	內:N	就:ADV	已經:ADV	做:Vt	滿:DET	七成:DET	的:T	客人:N	
+無論:C	是:Vt	吧台:N	座位:N	還是:ADV	和:P	室:N	
+都:ADV	有:Vt	濃濃:Vi	日式:A	風格:N	
+真:ADV	有點:ADV	來到:Vt	日本:N	的:T	錯覺:N	
+一:ADV	坐下:Vi	就:ADV	看到:Vt	師傅:N	馬不停蹄:Vi	的:T	料:N	裡:N	招牌:N	廣島:N	燒:Vt	
+看:Vt	著:ASP	冒:Vt	著:ASP	熱氣:N	的:T	鐵板:N	
+聽:Vt	著:ASP	吱吱:ADV	作響:Vi	的:T	沸騰:Vi	聲響:N	
+感受:Vt	著:ASP	濃濃:Vi	香氣:N	撲鼻:Vi	
+都:ADV	讓:Vt	人:N	迫不及待:ADV	大快朵頤:Vi	一:DET	番:M	
+":FW	鱈魚:N	肝:N	豆腐:N	":FW	作為:Vt	開胃菜:N	真的:ADV	很:ADV	稱職:Vi	
+鱈魚:N	肝:N	非常:ADV	濃郁:Vi	軟綿:N	順口:Vi	
+輕輕:Vi	一:ADV	抿:Vt	就:ADV	在:P	口:N	中:POST	溶化:Vt	開:Vt	來:ADV	
+搭配上:Vt	豆腐:N	的:T	清爽:Vi	
+濃濃:Vi	的:T	鮮味:N	伴隨:Vt	著:ASP	清新:Vi	
+十分:ADV	爽口:Vi	
+":FW	海:N	瓜子花:N	":FW	是:Vt	利用:Vt	新鮮:Vi	海:N	瓜子:N	加上:Vt	日本:N	燒:Vt	酌:ADV	
+和:C	特調:N	的:T	香料:N	奶油醬:N	一同:ADV	悶:Vi	煮:Vt	
+海:N	瓜子:N	的:T	肉質:N	特別:Vi	Q:FW	嫩:Vi	
+越:ADV	嚼:Vt	越:ADV	香:Vi	
+點綴:Vt	的:T	日本:N	酒:N	和:C	奶油醬:N	充分:Vi	提味:N	
+將:ADV	鮮:Vi	甜味:N	提升到:Vt	另:DET	一:DET	個:M	層次:N	
+湯汁:N	可是:C	不容:ADV	錯過:Vt	的:T	重頭戲:N	
+精華:N	匯集:Vt	
+上桌:Vi	瞬間:N	一掃而空:Vi	
+一:ADV	上桌:Vi	的:T	廣島:N	燒:Vt	只:ADV	有:Vt	微微:ADV	塗抹:Vt	上:POST	薄薄:Vi	的:T	醬汁:N	
+可以:ADV	自行:ADV	添加:Vt	美乃滋:N	和:C	廣島:N	燒醬:N	來:ADV	增添:Vt	風味:N	
+不同:Vi	的:T	吃法:N	
+不:ADV	一樣:Vi	的:T	享受:Nv	
+廣島:N	燒:Vt	有:Vt	原味:N	、:PAUSECATEGORY	泡菜:N	、:PAUSECATEGORY	起:Vt	司:N	、:PAUSECATEGORY	麻糬:N	和:C	豪華:Vi	燒:Vt	
+也:ADV	可以:ADV	單:ADV	點:Vt	自己:N	加:ADV	喜歡:Vt	的:T	配料:N	
+就:ADV	說:Vt	是:Vt	御:N	好:Vi	
+喜好:Vt	
+燒:Vt	了:ASP	嘛:T	
+裡面:N	的:T	中華:N	麵:N	也:ADV	可以:ADV	換成:Vt	烏龍麵:N	
+口感:N	會:ADV	很:ADV	不同:Vi	
+不要:ADV	看:Vt	他:N	好像:ADV	只是:ADV	一點:DET	菜:N	一點:DET	肉:N	再:ADV	加:Vt	一點:DET	麵:N	
+其實:ADV	飽足:Vi	感:Vt	十足:Vi	
+吃:Vt	一下:N	肚子:N	就:ADV	脹起來:Vi	了:T	
+":FW	蔥鹽:N	牛:N	舌:N	":FW	一:DET	上桌:Vi	趁熱:ADV	就:ADV	必須:ADV	趕快:ADV	吃完:Vt	
+冷:Vi	了:ASP	的:T	牛:N	舌:N	口感:N	會:ADV	變:Vi	硬:Vi	
+影響:Vt	風味:N	
+可以:ADV	自行:ADV	加上:Vt	青蔥:Vi	和:C	蒜泥:N	
+牛:N	舌:N	的:T	燒烤:Vt	時間:N	必須:ADV	拿捏:Vt	的:T	剛好:ADV	
+過多:Vi	與:C	不足:Vi	都:ADV	會:ADV	無法:ADV	將:P	牛:N	舌:N	的:T	風格:N	展現出來:Vi	
+帶:Vt	著:ASP	微微:ADV	粉紅:Vi	的:T	牛:N	舌:N	
+口感:N	非常:ADV	有:Vt	嚼:Vt	勁:N	
+淡淡:Vi	的:T	蔥蒜:N	香:N	非常:ADV	引人入勝:Vi	":FW	乾燒:Vi	蝦仁:N	":FW	處理:Vt	的:T	非常:ADV	特別:Vi	
+上:DET	層:M	嫩嫩:Vi	的:T	蛋:N	皮包:N	裹:Vt	著:ASP	蝦仁:N	
+增添:Vt	了:ASP	滑:Vi	嫩:Vi	感:N	
+而:C	蛋:N	香:N	也:ADV	和:P	蝦子:N	的:T	鮮嫩:Vi	相輔相成:Vi	
+甜甜:Vi	的:T	口感:N	非常:ADV	順口:Vi	
+":FW	鐵匠:N	鐵板:N	居酒屋:N	":FW	算是:Vt	走:Vi	精緻:Vi	路線:N	的:T	
+東西:N	都:ADV	是:Vt	重質:N	不:ADV	重量:Vi	
+每:DET	道:M	都:ADV	是:Vt	小小:Vi	一:DET	份:M	
+如果:C	人:N	多:ADV	要:ADV	分食:Vt	可能:ADV	就:ADV	必須:ADV	同:DET	一:DET	道:M	菜:N	多點:DET	個:M	一兩:DET	份:M	
+價錢:N	算是:Vt	中價位:N	
+整體:N	來:ADV	說:Vt	
+算是:Vt	一:DET	間:M	表現:N	不:ADV	俗:Vi	
+但:C	沒:ADV	驚艷:Vi	到:P	會:ADV	一直:ADV	想念:Vt	
+先:ADV	看:Vt	價錢:N	再:ADV	看:Vt	份量:N	會:ADV	有點:ADV	小小:Vi	不:ADV	成:Vt	正比:N	
+久久:ADV	吃:Vt	一:DET	次:M	也:ADV	還:ADV	不:ADV	賴:Vt	的:T	一:DET	間:M	店:N	
+鐵匠:N	鐵板:N	居酒屋:N	電話:N	::COLONCATEGORY	
+02:DET	
+2738:DET	-:DASHCATEGORY	9171:DET	地址:N	::COLONCATEGORY	台北市:N	敦化南路:N	二段:N	265巷:N	13:DET	號:M	1樓:N	營業:Nv	時間:N	::COLONCATEGORY	週一:N	至:P	週五:N	6:DET	::COLONCATEGORY	00:DET	pm:FW	
+12:DET	::COLONCATEGORY	00:DET	am:FW	周六:N	至:P	周日:N	12:DET	::COLONCATEGORY	00:DET	pm:FW	
+15:DET	::COLONCATEGORY	00:DET	pm:FW	6:DET	::COLONCATEGORY	00:DET	pm:FW	
+12:DET	::COLONCATEGORY	00:DET	am:FW	附近:N	食記:N	
+【:PARENTHESISCATEGORY	食記:N	】:PARENTHESISCATEGORY	BigPancia:FW	大:Vi	肚皮:N	--:DASHCATEGORY	超:Vt	隱密:Vi	卻:ADV	超:Vt	驚人:Vi	的:T	美味:N	【:PARENTHESISCATEGORY	食記:N	】:PARENTHESISCATEGORY	AllenDickson:FW	--:DASHCATEGORY	允:Vt	指:Vt	回味:Vt	好:ADV	幸福:Vi	【:PARENTHESISCATEGORY	食記:N	】:PARENTHESISCATEGORY	LUNAD'ITALIA:FW	月:N	之:T	意大利:N	--:DASHCATEGORY	在:P	期待:Nv	中:POST	畫下:Vt	句點:N	--:DASHCATEGORY	

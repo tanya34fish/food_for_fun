@@ -1,0 +1,39 @@
+aner:FW	(:PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	君悅:N	漂亮:Vi	餐廳:N	精緻:Vi	美味:Vi	氣質餐:N	
+Sun:FW	
+Feb:FW	
+15:DET	
+21:DET	::COLONCATEGORY	28:DET	::COLONCATEGORY	09:DET	
+2015:DET	
+無:Vt	音樂:N	圖文:N	網誌版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	wanwanr9.pixnet.net/blog/post:FW	/:FW	264221386:DET	
+=:FW	=:FW	
+餐廳:N	名稱:N	：:COLONCATEGORY	君悅:N	大:Vi	飯店:N	漂亮:Vi	餐廳:N	
+用餐:Nv	時間:N	::COLONCATEGORY	2015年:N	2月:N	
+地址:N	::COLONCATEGORY	台北市:N	信義區:N	松壽路:N	2:DET	號:M	
+電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	2720:DET	-:DASHCATEGORY	1230:DET	
+=:FW	=:FW	
+今天:N	的:T	聚會:N	非常:ADV	奇妙:Vi	
+是:Vt	同業:N	介紹:Vt	一:DET	個:M	廠商:N	要:ADV	給:Vt	我們:N	認識:Vt	
+所以:C	是:Vt	相當:ADV	陌生:Vi	的:T	廠商:N	就:ADV	約:ADV	在:P	君悅:N	的:T	漂亮廳:N	萬:N	也:ADV	有:Vt	一段:N	時間:N	沒有:ADV	造訪:Vt	漂亮廳:N	了:T	
+這:DET	是:Vt	漂亮廳:N	的:T	門口:N	不:ADV	知道:Vt	為什麼:ADV	這:DET	個:M	廳超:N	多:DET	台階:N	走到:Vt	最:ADV	裡面:N	的:T	包廂:N	都:ADV	要:ADV	上上下下:Vi	的:T	
+還:ADV	有:Vt	貼心:Vi	的:T	服務生:N	有:Vt	一直:ADV	提醒:Vt	腳步:N	
+很:ADV	豪華:Vi	氣派:Vi	阿:N	廠商:N	是:Vt	訂:Vt	了:ASP	一:DET	個:M	包廂:N	所以:C	萬:ADV	就:ADV	直接:Vi	往:P	最:ADV	裡面:N	走:Vi	了:ASP	
+開胃菜:N	很:ADV	常見:Vi	的:T	中式:A	開胃菜:N	滷:Vt	牛肉:N	、:PAUSECATEGORY	燻:Vt	鵝:N	、:PAUSECATEGORY	海蜇皮:N	等等:POST	清爽:Vi	好吃:Vi	
+鮑魚:N	雞湯:N	料超:N	澎湃:Vi	的:T	啦:T	有:Vt	美容:Nv	聖品:N	的:T	花膠:N	還:ADV	有:Vt	雞肉:N	鮑魚:N	超:Vt	豪華:Vi	的:T	一:DET	道:M	湯品:N	
+明蝦:N	個:M	頭:N	算是:Vt	中等:A	的:T	明蝦:N	這:DET	萬:DET	沒有:Vt	太:ADV	大:Vi	的:T	印象:N	
+乾煎:N	雞腿:N	排:Vt	這:DET	道:M	也:ADV	是:Vt	萬超:N	驚豔:Vi	的:T	啦:T	
+因為:C	雞腿肉:N	真的:ADV	超級:A	嫩:Nv	調味:N	不會:ADV	太:ADV	重:Vi	也:ADV	不會:ADV	太:ADV	
+清淡:Vi	剛剛好:ADV	
+清蒸:Vt	魚:N	肉捲:N	以及:C	嫩:Vi	豆腐:N	萬超推:N	那:DET	個:M	魚肉:N	捲:Vt	的:T	魚肉:N	很:ADV	細:Vi	豆腐:N	也:ADV	很:ADV	嫩:Vi	
+上湯:N	娃娃菜:N	
+非常:ADV	大:Vi	的:T	兩:DET	朵:M	娃娃菜:N	但:C	萬:ADV	不:ADV	喜歡:Vt	勾芡:Vi	的:T	東西:N	...:ETCCATEGORY	
+很多:DET	五星級:N	飯店:N	的:T	午間:N	套餐:N	在:P	整頓:Vt	餐:M	快用:A	完畢:Vi	前:POST	都:ADV	會:ADV	來:Vi	個:M	大:Vi	澱粉:N	可能:ADV	怕:Vt	客人:N	吃:Vt	不:ADV	飽:Vi	
+但:C	其實:ADV	今天:N	的:T	菜色:N	是:Vt	很:ADV	夠:Vi	的:T	萬:N	都:ADV	吃:Vt	很:ADV	飽:Vi	了:ASP	又:ADV	來:Vi	個:M	這:DET	個:M	炒麵:N	把:P	最後:N	一點:DET	空間:N	都:ADV	塞滿:Vt	啦:T	
+雖然:C	份量:N	不:ADV	大:Vi	這:DET	炒麵:N	夠:Vi	入味:N	但:C	麵條:N	偏:ADV	軟:Vi	不:ADV	是:Vt	萬:ADV	喜歡:Vt	的:T	那:DET	種:M	有:Vt	嚼:Vt	勁:N	的:T	
+飯:N	後:POST	甜點:N	以及:C	水果:N	甜點:N	是:Vt	沒有:Vt	很:ADV	稠:Vi	的:T	核桃:N	花生:N	露:Vt	很:ADV	香:Vi	裡面:N	有:Vt	一:DET	顆:M	很:ADV	大:Vi	的:T	元宵:N	
+真:ADV	是:Vt	飯:N	後:POST	的:T	完美:Vi	ending:FW	
+這:DET	個:M	聚會:N	最:ADV	妙:Vi	的:T	是:Vt	介紹:Vt	我們:N	來:Vi	的:T	人:N	本身:N	卻:ADV	沒有:ADV	到:Vt	
+萬剛:N	到時:ADV	有點:ADV	小:Vi	害羞:Vi	
+但:C	還:ADV	有:Vt	新:Vi	朋友:N	很:ADV	客氣:Vi	也:ADV	很:ADV	健談:Vi	
+一下:N	就:ADV	沒有:Vt	那麼:Vi	生疏感:N	了:T	
+希望:Vt	新:Vi	朋友:N	可以:ADV	創業:Vi	順:P	立:Vt	

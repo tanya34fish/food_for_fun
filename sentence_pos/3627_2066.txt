@@ -1,0 +1,70 @@
+yuenwei(Sia:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	香港:N	鑫華茶:N	餐廳:N	
+Thu:FW	
+Oct:FW	
+9:DET	
+02:DET	::COLONCATEGORY	13:DET	::COLONCATEGORY	41:DET	
+2014:DET	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	10月:N	
+Blog:FW	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	misssiataipei.blogspot.tw/2014/10/blog-post_8.html:FW	
+有時候:ADV	既:C	想:Vt	吃:Vt	鹹:Vi	食:N	又:ADV	想:Vt	吃:Vt	甜食:N	
+又:ADV	不:ADV	想:Vt	花:Vt	大錢:N	的:T	時候:N	
+總是:ADV	會:ADV	想到:Vt	茶:N	餐廳:N	
+茶:N	餐廳:N	總:ADV	給:Vt	人:N	熱熱鬧鬧:Vi	的:T	氣氛:N	
+往來:Vi	的:T	服務:Nv	大哥:N	大姊:N	總是:ADV	大聲:Vi	吆喝:Vt	著:ASP	帶位:N	
+嗓門:N	大:Vi	
+服務:Vt	的:T	速度:N	功力:N	也:ADV	是:Vt	一流:Vi	
+俐俐落落:Vi	不:ADV	囉嗦:Vi	
+兩三下:ADV	就:ADV	點:Vt	好:Vi	單:ADV	送:Vt	廚房:N	
+廚房:N	出菜:N	的:T	速度:N	也:ADV	是:Vt	
+沒:Vt	一會兒:N	
+點:Vt	好:Vi	的:T	菜全:N	送上:Vt	了:ASP	
+鑫華:N	就:ADV	在:P	政大:N	公企中心:N	對面:N	
+晚餐:N	時間:N	人來人往:Vi	
+但:C	也:ADV	不需:ADV	久:Vi	等:POST	
+和:C	友人:N	點:Vt	了:ASP	蝦米:N	煎腸粉:N	、:PAUSECATEGORY	咖哩:N	綜合:A	分食:Vt	
+自己:N	又:ADV	點:Vt	了:ASP	主食:N	臘味:N	蒸飯:N	
+加上:C	茶:N	餐廳:N	必:ADV	點:Vt	的:T	鮮油:N	菠蘿:N	飽和:Vi	凍:Vt	檸檬:N	紅茶:N	
+蝦米:N	煎腸:N	粉:N	
+$:FW	70:DET	
+顧名思義:ADV	是:Vt	以:P	腸粉:N	裹上:Vt	蝦米:N	碎:Vi	
+再:ADV	煎:Vt	得:T	兩:DET	面:M	表皮:N	酥香:N	
+腸粉:N	雖:C	比:P	一般:A	蒸:Vt	的:T	來得:ADV	厚:Vi	些:ADV	
+不過:C	入口:N	份量:N	剛好:ADV	
+配上:Vt	帶:Vt	些:M	蔴醬:N	的:T	醬料:N	
+香氣:N	迷人:Vi	
+咖哩:N	綜合:A	
+$:FW	100:DET	
+綜合:A	包括:Vt	了:ASP	白:Vi	蘿蔔:N	、:PAUSECATEGORY	魚蛋:N	、:PAUSECATEGORY	豬血:N	和:C	魷魚:N	
+蘿蔔:N	滷:Vt	透:ADV	軟:Vi	甜:Vi	
+魚:N	蛋入:N	味:N	
+魷魚:N	亦:ADV	軟:Vi	
+豬血:N	質感:N	有:Vt	些:M	粗:Vi	
+咖哩:N	香氣:N	足:N	
+但:C	個:M	人:N	覺得:Vt	也許:ADV	調味:Vi	可以:ADV	再:ADV	重點:N	
+臘味:N	蒸飯:N	
+$:FW	110:DET	
+簡單:Vi	的:T	臘腸:N	配:Vt	肝腸:N	放:Vt	在:P	飯:N	上:N	入:Vt	鍋:N	蒸:Vt	
+臘腸:N	與:C	肝腸:N	的:T	油脂:N	流入:Vt	飯:N	中:POST	
+香氣:N	逼:Vt	人:N	
+長米:N	的:T	乾爽:Vi	和:C	油脂:N	的:T	香甜:Vi	結合:Vt	
+胃口:N	大開:Vt	
+沒:Vt	幾:DET	下:M	就:ADV	吃完:Vt	了:ASP	
+鮮油:N	菠蘿:N	飽:Vi	
+$:FW	50:DET	
+吃完:Vt	主食:N	之後:POST	才:ADV	吃:Vt	早早:ADV	上桌:Vi	的:T	菠蘿:N	飽:Vi	
+雖然:C	有:Vt	些:M	溫:N	涼:Vi	
+但是:C	牛油:N	可:ADV	全:DET	都:ADV	融入:Vt	麵包:N	中:POST	
+牛油:N	份量:N	恰到好處:Vi	不過:C	膩:Vi	
+還是:ADV	很:ADV	好吃:Vi	
+不過:C	出菜:N	速度:N	實在:ADV	太:ADV	快:Vi	了:T	
+下:DET	次要:A	記得:Vt	吃完:Vt	飯:N	再:ADV	加:Vt	點:M	
+吃:Vt	個:M	剛:ADV	上桌:Vi	新鮮:Vi	溫熱:Vt	的:T	
+凍:Vt	檸檬:N	紅茶:N	
+$:FW	70:DET	
+這裡:N	的:T	凍:Vt	檸檬:N	紅茶:N	
+很:ADV	甜:Vi	
+沒有:Vt	檸茶常:N	有的:DET	酸澀感:N	
+飯:N	後:POST	搭上:Vt	一:DET	杯:M	
+剛好:ADV	
+Add:FW	::COLONCATEGORY	台北市:N	大安區:N	金華街:N	126:DET	-:DASHCATEGORY	1:DET	號:M	1樓:N	

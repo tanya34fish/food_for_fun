@@ -1,0 +1,143 @@
+traveler:FW	0:DET	(:PARENTHESISCATEGORY	我愛:N	旅行:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	大安:N	饕鍋:N	多樣:Vi	新鮮:Vi	食材:N	的:T	鴛鴦:N	鍋:N	
+Thu:FW	
+Jul:FW	
+31:DET	
+15:DET	::COLONCATEGORY	29:DET	::COLONCATEGORY	03:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	饕鍋:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	復興南路:N	一段:N	269:DET	號:M	2樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2754:DET	-:DASHCATEGORY	2388:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	18:DET	::COLONCATEGORY	00:DET	~:FW	02:DET	::COLONCATEGORY	00:DET	
+有:Vt	圖:N	無:Vt	音樂:N	無:Vt	閃光:N	好:Vi	讀:Vt	網誌版:N	::COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog/post:FW	/:FW	381952895:DET	
+在:P	台北市:N	麻辣:A	鍋:N	的:T	戰場:N	中:POST	
+主要:ADV	分成:Vt	吃到:Vt	飽:Vi	跟:P	單點式:A	的:T	
+這:DET	間:M	饕鍋:N	位於:Vt	捷運:N	大安站:N	附近:N	
+是:Vt	屬於:Vt	單點式:A	的:T	用餐:Nv	方式:N	
+雖然:C	吃到:Vt	飽:Vi	可以:ADV	依:P	自己:N	喜好:Vt	吃到:Vt	許多:DET	食材:N	
+但:C	相對:Vi	而言:Vt	單點式:A	的:T	反而:C	較:ADV	精緻:Vi	許多:DET	
+饕鍋:N	隱身:Vi	在:P	一般:A	民宅:N	的:T	二樓:N	之中:POST	
+幸好:ADV	招牌:N	算是:Vt	很:ADV	顯眼:Vi	
+不用:ADV	怕:Vt	會:ADV	找:Vt	不:ADV	到:Vt	
+沿著:P	樓梯:N	上:Vt	了:ASP	二樓:N	
+牆:N	上:N	大大:Vi	的:T	饕鍋:N	兩:DET	字:N	
+讓:Vt	人:N	一目瞭然:Vi	
+此外:C	饕鍋:N	用:Vt	的:T	是:Vt	知名:Vi	的:T	新竹:N	摃丸:Vi	
+店:N	內:N	的:T	設計:N	走:Vi	的:T	是:Vt	偏:Vt	中國風:N	
+除了:P	牆:N	上:N	的:T	牡丹:N	還:ADV	有:Vt	天花板:N	的:T	燈籠:N	
+都:ADV	有:Vt	濃濃:Vi	的:T	氣息:N	
+一:DET	旁:N	還:ADV	有:Vt	店家:N	自行:ADV	栽種:Vt	的:T	辣椒:N	
+牆:N	上:N	有:Vt	許多:DET	照片:N	都:ADV	是:Vt	老闆:N	跟:P	一些:DET	藝人:N	們:N	的:T	合照:N	
+可見:ADV	有:Vt	許多:DET	藝人:N	會:ADV	造訪:Vt	饕鍋:N	
+底下:N	這:DET	罈子:N	裡面:N	放:Vt	的:T	就是:C	酸菜:N	
+饕鍋:N	除了:P	麻辣:A	鍋:N	之外:POST	
+酸菜:N	白肉鍋:N	也:ADV	很:ADV	有名:Vi	
+而:C	這裡:N	的:T	酸菜:N	是:Vt	老闆:N	自行:ADV	製作:Vt	的:T	
+底下:N	的:T	水:N	是:Vt	老水:N	所以:C	濃度:N	非常:ADV	高:Vi	
+所以:C	白菜:N	都:ADV	會:ADV	被:P	擠壓:Vt	到:P	上面:N	
+特地:ADV	請:Vt	老闆:N	打開:Vt	讓:Vt	我們:N	一:ADV	聞:Vt	
+裡面:N	有:Vt	著:ASP	滿滿:Vi	的:T	蒜味:N	
+經:P	老闆:N	介紹:Vt	這:DET	白菜:N	放進去:Vi	最少:ADV	半:DET	個:M	月:N	
+才:ADV	能:ADV	變成:Vt	我們:N	酸菜:N	白肉:N	鍋:N	裡:N	的:T	白菜:N	
+另:DET	一:DET	邊:N	有:Vt	醬料檯:N	
+雖然:C	種類:N	不:ADV	多:Vi	但是:C	該:DET	有的:DET	也:ADV	有:Vt	
+坐下來:Vi	後:POST	首先:ADV	送上:Vt	的:T	是:Vt	熱:Vt	茶:N	
+值得:Vi	一:ADV	提:Vt	的:T	是:Vt	這裡:N	茶壺:N	裡面:N	是:Vt	真的:ADV	茶葉:N	
+不:ADV	像:Vt	有:Vt	些:M	店家:N	的:T	是:Vt	茶包:N	
+這:DET	就是:C	菜單:N	
+鍋類:N	共有:Vt	三:DET	種:M	
+一:DET	人:N	鍋:N	底:POST	費:Vt	酌收:Vt	150:DET	元:M	
+值得:Vi	讚許:Vt	的:T	是:Vt	這裡:N	不:ADV	另外:ADV	加收:Vt	服務費:N	
+在:P	現在:N	的:T	餐廳:N	來:ADV	說真的:ADV	是:Vt	少見:Vi	
+招待:Vt	的:T	小菜:N	兩:DET	盤:M	
+這裡:N	的:T	飯:N	不:ADV	是:Vt	一般:A	的:T	白飯:N	
+而是:C	比較:ADV	特別:Vi	的:T	養生:Nv	雜糧飯:N	
+口感:N	吃起來:ADV	比較:ADV	黏:Vi	一點:ADV	
+今天:N	點:Vt	的:T	是:Vt	酸菜:N	白肉鍋:N	跟:P	御品:N	大汗:N	鍋:N	的:T	鴛鴦:N	鍋:N	
+一:ADV	送:Vt	上桌:Vi	香氣:N	撲鼻:Vi	而:C	來:ADV	
+讓:Vt	人:N	忍不住:Vt	食指:N	大動:Vt	
+大汗:N	鍋:N	裡面:N	的:T	鍋:N	底:POST	有:Vt	鴨:N	血:N	跟:P	豆腐:N	
+在:P	這裡:N	要:ADV	特別:Vi	稱讚:Vt	一下:N	饕鍋:N	的:T	鴨血:N	
+真的:ADV	滷:Vt	得:T	非常:ADV	入:Vt	味:N	
+另外:C	在:P	鍋:N	裡:N	打撈:Vt	到:P	這:DET	個:M	小:Vi	布袋:N	
+裡面:N	應該:ADV	是:Vt	放:Vt	了:ASP	一些:DET	中藥材:N	跟:P	香料:N	
+酸菜:N	白肉:N	鍋:N	裡面:N	也:ADV	有:Vt	滿滿:Vi	的:T	酸菜:N	
+除此之外:ADV	鍋:N	底:POST	就:ADV	有:Vt	豬肉:N	可以:ADV	吃:Vt	囉:T	
+過:Vt	不久:N	菜色:N	漸漸:ADV	上:Vt	齊:Vi	了:T	
+看:Vt	這:DET	真的:ADV	是:Vt	超:Vt	豐盛:Vi	的:T	阿:N	
+羊肉:N	雖然:C	不:ADV	大:Vi	片:M	
+但是:C	吃起來:ADV	卻:ADV	非常:ADV	的:T	嫩:Vi	
+涮:b	在:P	酸菜:N	鍋:N	中:POST	相當:ADV	好吃:Vi	
+下:N	在:P	辣鍋:N	之中:POST	更:ADV	是:Vt	絕配:N	
+牛肉:N	則:ADV	是:Vt	跟:P	一般:A	火鍋店:N	常見:Vi	的:T	美:N	澳:N	牛肉:N	不同:Vi	
+這:DET	是:Vt	台灣:N	本土:N	出產:Vt	的:T	黃:N	牛肉:N	
+吃起來:ADV	也:ADV	很:ADV	嫩:Vi	很:ADV	甜:Vi	喔:T	
+最:ADV	特別:Vi	的:T	就是:C	這:DET	道:M	三:DET	層:M	肉:N	了:T	
+本來:ADV	送上:Vt	桌:N	時:POST	就:ADV	已經:ADV	是:Vt	半熟:Vi	的:T	
+只要:C	下鍋:Vi	涮:b	個:T	五:DET	秒:M	就:ADV	可以:ADV	吃:Vt	囉:T	
+下鍋:Vi	後:POST	肥肉:N	的:T	部分:DET	會:ADV	捲:Vt	皺:Vt	起來:ASP	
+吃起來:ADV	口感:N	Q:FW	彈:Vt	跟:P	一般:A	的:T	肥肉:N	是:Vt	不:ADV	太:ADV	一樣:Vi	的:T	
+吃:Vt	麻辣:A	鍋:N	怎麼:ADV	能:ADV	少:Vi	了:ASP	牛肚:N	跟:P	大腸:N	
+看:Vt	這:DET	藥膳:N	大腸:N	的:T	顏色:N	整體:N	已:ADV	呈現:Vt	深:Vi	咖啡色:N	
+可見:ADV	魯:N	得:T	相當:Vi	入味:N	
+綜合:A	海鮮:N	拼盤:N	
+有:Vt	干貝:N	、:PAUSECATEGORY	蛤蠣:N	跟:P	鮮蝦:N	
+除了:P	肉品:N	鮮嫩:Vi	美味:Vi	之外:POST	
+海鮮:N	也:ADV	很:ADV	鮮:Vi	甜:Vi	好吃:Vi	
+另外:C	還:ADV	有:Vt	一:DET	人:N	一:DET	顆:M	的:T	澳洲:N	鮑魚:N	
+這:DET	個:M	鮑魚:N	吃起來:ADV	非常:ADV	彈:Vt	牙:N	
+味道:N	也:ADV	很:ADV	甜:Vi	相當:ADV	好吃:Vi	
+這:DET	也:ADV	是:Vt	一般:A	的:T	火鍋店:N	比較:ADV	少見:Vi	的:T	食材:N	
+光:N	前面:N	這些:DET	食材:N	就:ADV	已經:ADV	快要:ADV	吃:Vt	不:ADV	完:Vi	
+還:ADV	有:Vt	兩:DET	盤:M	的:T	丸餃:N	類:N	
+丸子:N	的:T	部分:DET	有:Vt	紅麴丸:N	、:PAUSECATEGORY	魚丸:N	還:ADV	有:Vt	摃丸:Vi	
+吃起來:ADV	很:ADV	彈:Vt	牙:N	
+紅麴丸:N	的:T	味道:N	比較:ADV	特別:Vi	有點:ADV	像:Vt	花雕:N	雞:N	的:T	那:DET	種:M	味道:N	
+餃類:N	的:T	話:N	我:N	偏愛:Vt	蛋餃:N	
+放進去:Vi	辣:Vi	鍋:N	裡面:N	吸:Vt	滿:DET	湯汁:N	
+一口:ADV	咬下:Vt	滿滿:Vi	的:T	麻辣:A	鍋:N	香氣:N	
+算是:Vt	每:DET	次:M	我:N	吃:Vt	麻辣:A	鍋:N	必:ADV	點:Vt	的:T	
+店家:N	的:T	另:DET	一:DET	個:M	招牌:N	之:T	一:DET	川:N	丸子:N	
+這:DET	個:M	不用:ADV	下鍋:Vi	可以:ADV	直接:Vi	吃:Vt	
+現炸:Vi	出來:Vi	相當:ADV	可口:Vi	
+最後:N	吃完:Vt	了:ASP	後:POST	準備:Vt	上:N	甜點:N	
+這:DET	是:Vt	今天:N	的:T	甜點:N	黑:Vi	木耳:N	露:Vt	
+走:Vi	的:T	是:Vt	養生:Vi	的:T	路線:N	
+最後:N	真的:ADV	吃:Vt	不:ADV	完:Vt	鍋:N	底:POST	還:ADV	能:ADV	打包:Vi	呢:T	
+包:Vt	了:ASP	兩:DET	大:Vi	袋:N	回家:Vi	還:ADV	能:ADV	慢慢:Vi	回味:Vt	
+總結:N	::COLONCATEGORY	
+雖然:C	單點式:A	的:T	麻辣:A	鍋:N	價位:N	
+相較:Vi	於:P	吃到:Vt	飽:Vi	算是:Vt	比較:ADV	高:Vi	一點:ADV	
+且:C	食:Vt	材:N	不如:C	吃到:Vt	飽:Vi	那樣:Vi	多元化:Vt	
+但:C	精緻度:N	卻:ADV	是:Vt	吃到:Vt	飽:Vi	的:T	不能:ADV	比擬:Vt	的:T	
+這:DET	次:M	到:P	饕鍋:N	用餐:Vi	發現:Vt	有:Vt	些:M	東西:N	都:ADV	是:Vt	店家:N	自製:Vt	的:T	
+可見:ADV	老闆:N	的:T	用心:Vi	
+且:C	位於:Vt	捷運站:N	周邊:N	交通:N	也:ADV	很:ADV	方便:Vi	
+有:Vt	機會:N	的:T	話:N	不如:C	來:ADV	品嘗:Vt	看看:ASP	囉:T	
+餐廳:N	資訊:N	::COLONCATEGORY	
+餐廳:N	名稱:N	::COLONCATEGORY	饕鍋:N	
+餐廳:N	地址:N	::COLONCATEGORY	台北市:N	大安區:N	復興南路:N	一段:N	269:DET	號:M	2樓:N	
+餐廳:N	電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	2754:DET	-:DASHCATEGORY	2388:DET	
+營業:Nv	時間:N	::COLONCATEGORY	18:DET	::COLONCATEGORY	00:DET	
+02:DET	::COLONCATEGORY	00:DET	
+*:FW	*:FW	喜歡:Vt	的:T	話:N	歡迎:Vt	給:Vt	我:N	留言:Vi	
+謝謝:Vt	*:FW	*:FW	
+延伸:Vi	閱讀:Vt	::COLONCATEGORY	
+台北:N	大安:N	
+滿堂紅:Vi	頂級:A	麻辣:A	鴛鴦:N	火鍋:N	-:DASHCATEGORY	仁愛店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog/post:FW	/:FW	377323901:DET	
+台北:N	中山:N	
+滿堂紅:Vi	頂級:A	麻辣:A	鴛鴦:N	火鍋:N	-:DASHCATEGORY	松江:N	店大啖:Vt	美國:N	Prime:FW	級:N	牛肉:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog/post:FW	/:FW	375340184:DET	
+台北:N	信義:N	
+馬辣:N	頂級:A	麻辣:A	鴛鴦:N	鍋:N	信義店:N	-:DASHCATEGORY	多:DET	種:M	新鮮:Vi	食材:N	吃:Vt	到:P	飽:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog/post:FW	/:FW	373620119:DET	
+台北:N	中山:N	
+讓:Vt	人:N	一再:ADV	回訪:Vt	的:T	麻辣:A	鍋:N	-:DASHCATEGORY	老:Vi	四川:N	巴蜀:N	麻辣:A	燙:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog/post:FW	/:FW	320379551:DET	
+台北:N	中山:N	
+辛殿:N	麻辣:A	鍋:N	-:DASHCATEGORY	多:DET	種:M	高級:Vi	肉品:N	精緻:Vi	吃:Vt	到:P	飽:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog/post:FW	/:FW	350580263:DET	
+尼豪:N	的:T	溫泉:N	美食:N	旅行:Nv	手札:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog:FW	

@@ -1,0 +1,9 @@
+餐廳:N	地址:N	：:COLONCATEGORY	台北市:N	大安區:N	復興南路:N	一段:N	107巷:N	5弄:N	2:DET	號:M	
+平均:Vi	價位:N	：:COLONCATEGORY	$:FW	150:DET	~:FW	180:DET	/:FW	人:N	
+茶香:N	非常:ADV	濃郁:Vi	
+好吃:Vi	在:P	旁:N	的:T	草莓:N	雪酪:N	也:ADV	不:ADV	是:Vt	泛泛之輩:N	微:ADV	酸:Vi	微:ADV	甜:Vi	的:T	口感:N	除:P	了解:Vt	膩:Vi	外:POST	還:ADV	真是:ADV	讓:Vt	人:N	愛不釋手:Vi	呀:T	
+蕃茄:N	起:POST	司:Vt	三明治:N	/:FW	$:FW	150:DET	噢:T	
+雖然:C	三明治:N	是:Vt	主軸:N	...:ETCCATEGORY	但:C	其實:ADV	後方:N	的:T	蛋:N	沙拉:N	更:ADV	是:Vt	美味:Vi	
+真的:ADV	不:ADV	是:Vt	蓋:Vt	的:T	
+加分:Nv	維也納:N	咖啡:N	/:FW	$:FW	130:DET	光:N	看:Vt	那:DET	奶油:N	花:Vt	口水:N	就:ADV	要:ADV	流下來:Vi	了:ASP	
+後記:N	咖朵:N	可以:ADV	是:Vt	一:DET	人:N	的:T	咖啡館:N	也:ADV	可以:ADV	是:Vt	姊妹:N	的:T	聊天:Vi	小天地:N	

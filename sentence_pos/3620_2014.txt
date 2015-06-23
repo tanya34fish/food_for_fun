@@ -1,0 +1,73 @@
+yonatsumi:FW	(:PARENTHESISCATEGORY	囧:Vi	~:FW	好命人:N	~:FW	囧:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	天母:N	ete:FW	咖啡:N	，:COMMACATEGORY	可愛:Vi	拉花:N	
+Mon:FW	
+Oct:FW	
+6:DET	
+23:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	28:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	etecaf:FW	é:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	9月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北:N	天母:N	士林區:N	天母:N	東路:N	95:DET	號:M	
+電話:N	：:COLONCATEGORY	0228721230:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	7:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	19:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	周:N	一:ADV	休息:Vi	喔:T	!:EXCLAMATIONCATEGORY	!:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	100:DET	~:FW	400:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	無:Vt	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	早:Vi	午餐:N	軟法:N	套餐:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	yonatsumi.pixnet.net/blog/post:FW	/:FW	43992034:DET	
+每:DET	個:M	都:ADV	好吃:Vi	的:T	etecafe:FW	
+而且:C	奶泡拉花:N	也好:T	可愛:Vi	這:DET	個:M	位子:N	後來:N	變成:Vt	桌子:N	
+九月:N	開始:Vt	賣:Vt	麵包:N	
+不過:C	我:N	覺得:Vt	他們:N	店:N	內:N	的:T	擺設:N	可以:ADV	換:Vt	一下:N	
+這:DET	個:M	位子:N	不:ADV	多:ADV	擺:Vt	一:DET	桌:M	也:ADV	很:ADV	可惜:Vi	
+店:N	內:N	的:T	裝潢:N	並:ADV	不:ADV	特別:Vi	
+甚至:ADV	還:ADV	有:Vt	一點:DET	衝突:N	XD:FW	有:Vt	中國風:N	的:T	盆栽:N	之類:POST	的:T	
+蛋糕:N	的:T	櫃子:N	看起來:ADV	也:ADV	沒有:Vt	特別:Vi	吸引人:Vi	
+但是:C	
+我:N	有點:ADV	
+等:P	下:DET	有:Vt	照片:N	
+會:ADV	有:Vt	驚奇:Vt	大變:Vi	身:N	
+因為:C	套餐:N	的:T	甜點:N	是:Vt	兩:DET	顆:M	小:Vi	泡:Vt	芙:b	
+可以:ADV	加:Vt	五十:DET	變成:Vt	甜點櫃:N	裡:N	的:T	
+飲料:N	也:ADV	可以:ADV	補:Vt	差額:N	換成:Vt	拿:Vt	鐵:N	之類:POST	的:T	
+首先:ADV	注意到:Vt	老闆娘:N	的:T	用心:Vi	
+我:N	第一:DET	次:M	去:ADV	帶:Vt	小孩:N	
+老闆娘:N	送上:Vt	兩:DET	種:M	不同:Vi	的:T	水:N	
+應該:ADV	是:Vt	有:Vt	發現:Vt	很多:DET	小孩:N	都:ADV	不:ADV	喝:Vt	檸檬水:N	
+所以:C	給:Vt	小孩:N	的:T	是:Vt	普通:Vi	的:T	水:N	
+首先:ADV	是:Vt	套餐:N	的:T	奶茶:N	
+很:ADV	大:Vi	杯:M	
+滿:ADV	甜:Vi	的:T	
+但是:C	很:ADV	好喝:Vi	
+奶味:N	很:ADV	濃:Vi	
+然後:ADV	我:N	的:T	早:Vi	午餐:N	也:ADV	上來:Vi	了:ASP	
+我:N	點:Vt	了:ASP	軟法:N	
+裡面:N	選:Vt	德國:N	香腸:N	
+他們:N	的:T	麵包:N	
+貝果:N	
+醬料:N	等等:POST	都:ADV	是:Vt	自己:N	做:Vt	的:T	
+分量:N	很:ADV	滿意:Vt	
+味道:N	也:ADV	很:ADV	滿意:Vt	
+除了:P	蛋:N	的:T	味道:N	太:ADV	淡:Vi	以外:POST	
+我:N	後來:N	加:Vt	在:P	軟法:N	裡面:N	吃:Vt	了:ASP	
+但是:C	我:N	第四:DET	次:M	去:ADV	吃:Vt	的:T	時候:N	蛋:N	改成:Vt	薯條:N	了:T	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	常態:N	
+再:ADV	來:ADV	是:Vt	幫:P	我:N	小孩點:N	的:T	鬆餅:N	
+簡單:Vi	但是:C	好吃:Vi	
+鬆鬆軟軟:Vi	的:T	水果:N	也:ADV	很:ADV	新鮮:Vi	
+最:ADV	令:Vt	人:N	驚喜:Vi	的:T	就是:C	我:N	看:Vt	天母:N	的:T	社團:N	介紹:Vt	還:ADV	有:Vt	店家:N	的:T	fb:FW	他們:N	有:Vt	好多:DET	可愛:Vi	的:T	拉花:N	喔:T	
+所以:C	今天:N	特別:Vi	要:ADV	點:Vt	一:DET	杯:M	拿:Vt	鐵:N	
+然後:ADV	就:ADV	出現:Vi	了:ASP	讓:Vt	我:N	一:DET	件:M	傾心:Vi	的:T	拉花:N	阿:N	
+小:Vi	熊:N	和:C	兔子:N	的:T	臉:N	還:ADV	是:Vt	立體:Vi	的:T	
+不過:C	客製拉花:N	要:ADV	看:Vt	老闆娘:N	有沒有:ADV	空:Vt	喔:T	
+甜點:N	上:N	來:T	我們:N	也:ADV	是:Vt	驚叫:Vt	了:ASP	
+超:Vt	極:ADV	可愛:Vi	
+小孩:N	都:ADV	好:ADV	高興:Vt	
+媽媽:N	也:ADV	心花怒放:Vi	
+所以:C	很:ADV	快:Vi	有:Vt	了:ASP	第二:DET	次第:N	三:DET	次:M	第四:DET	次:M	的:T	聚餐:Nv	
+不過:C	我:N	還是:ADV	覺得:Vt	第一:DET	次:M	吃:Vt	的:T	東西:N	特別:Vi	美好:Vi	
+拉:Vt	花:N	也:ADV	特別:Vi	可愛:Vi	
+午餐:N	的:T	義大利麵:N	和:C	早:Vi	午餐:N	的:T	貝:N	果:C	我:N	都:ADV	覺得:Vt	還:ADV	好:Vi	
+如果:C	要:ADV	我:N	推薦:Vt	我:N	還是:ADV	推薦:Vt	軟法:N	
+現在:N	已經:ADV	是:Vt	天母:N	很:ADV	紅:Vi	的:T	店家:N	了:T	
+如果:C	早上:N	要:ADV	去:ADV	也:ADV	要:ADV	定位:Vi	喔:T	

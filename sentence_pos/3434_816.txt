@@ -1,0 +1,31 @@
+zitotw:FW	(:PARENTHESISCATEGORY	那:DET	個:M	人:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北:N	高:Vi	價位:N	單點燒肉:N	吃:Vt	哪:DET	家:M	？:QUESTIONCATEGORY	
+Mon:FW	
+Aug:FW	
+18:DET	
+13:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	40:DET	
+2014:DET	
+請益:Vi	
+台北:N	高:Vi	價位:N	單點燒肉:N	吃:Vt	哪:DET	家:M	
+MonAug:FW	1813:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	402014:DET	
+1:DET	.:PERIODCATEGORY	想:Vt	找:Vt	的:T	餐飲:N	類別:N	
+單點燒肉:N	
+2:DET	.:PERIODCATEGORY	用餐:Vi	地區:N	
+台北市:N	捷運:N	易:Vi	到:P	即可:ADV	
+3:DET	.:PERIODCATEGORY	每:DET	人:N	預算:N	
+每:DET	人:N	$:FW	1500:DET	元:M	左右:POST	
+4:DET	.:PERIODCATEGORY	用餐:Nv	時段:N	
+星期一:N	晚餐:N	
+5:DET	.:PERIODCATEGORY	用餐:Nv	人數:N	
+4:DET	人:N	
+6:DET	.:PERIODCATEGORY	查詢:Nv	精華區:N	及:C	板面:N	文章:N	後:POST	拿:Vt	不定:Vi	主意:N	的:T	候選:Nv	店家:N	
+無敵:Vi	老:Vi	乾杯:Vi	燃:Vt	胡同:N	
+太:ADV	久:Vi	沒有:ADV	來:ADV	food:FW	板:N	研究:Nv	高:Vi	單價:N	燒肉:N	了:T	
+剛剛:ADV	爬文:N	爬:Vi	了:ASP	半:DET	個:M	小時:N	還是:ADV	不:ADV	太:ADV	清楚:Vi	這些:DET	店:N	近來:ADV	的:T	水平:N	如何:ADV	
+想要:Vt	請問:Vt	板友:N	
+如果:C	注重:Vt	牛肉:N	肉質:N	服務:Nv	不要:ADV	太:ADV	差:Vi	該:ADV	選:Vt	哪:DET	家:M	呢:T	
+還:ADV	有:Vt	現在:N	胡同:N	在:P	台北:N	的:T	五:DET	家:M	店:N	的:T	差別:N	是:Vt	什麼:DET	
+官網:N	上:POST	都:ADV	沒有:ADV	說明:Vt	有:Vt	比較:ADV	推:Vt	哪:DET	家:M	分店:N	嗎:T	
+先:ADV	謝謝:Vt	大家:N	的:T	幫忙:Nv	
+發:Vt	1000:DET	p:FW	給:P	說服:Vt	我:N	去:ADV	吃:Vt	的:T	板友:N	
+一:DET	位:M	

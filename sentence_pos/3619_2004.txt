@@ -1,0 +1,99 @@
+thudadai:FW	(:PARENTHESISCATEGORY	血壓:N	血糖:N	血脂:N	~:FW	三:DET	高:Vi	~:FW	>:PARENTHESISCATEGORY	":FW	<:PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大同世界:N	美食:N	總匯:N	(:PARENTHESISCATEGORY	百:DET	種:M	早餐:N	):PARENTHESISCATEGORY	
+Mon:FW	
+Oct:FW	
+6:DET	
+21:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	44:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	世界:N	美食:N	總匯:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	9月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大同區:N	歸綏街:N	187:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	24:DET	hrs:FW	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	thudadai.pixnet.net/blog/post:FW	/:FW	58961908:DET	
+有時候:ADV	出遊:Vi	就是:C	這樣子:Vi	
+一旦:C	睡:Vi	過:ASP	頭:N	
+晚上:N	一:ADV	起床:Vi	就:ADV	過:Vt	12:DET	點:M	啦:T	
+在:P	台北:N	從來:ADV	也:ADV	不用:ADV	擔心:Vt	半夜:N	沒:Vt	東西:N	吃:Vt	
+只是:ADV	跑遠:Vi	跑:Vi	近:Vi	的:T	問題:N	
+這:DET	間:M	早餐店:N	
+或:C	說:Vt	是:Vt	宵夜:N	專用:Nv	
+我:N	很:ADV	久:Vi	以前:POST	就:ADV	知道:Vt	了:ASP	
+當時:N	住:Vt	這:DET	附近:N	倒:ADV	也:ADV	沒:ADV	吃:Vt	過:ASP	
+因為:C	看起來:ADV	特色:N	就:ADV	是:Vt	種類:N	很多:DET	
+然後:ADV	開:Vt	24:DET	小時:N	而已:T	
+味道:N	我:N	就:ADV	不:ADV	敢:Vt	太過:ADV	期待:Vt	
+不過:C	倒:ADV	可:ADV	當成:Vt	是:Vt	變相:N	的:T	永和:N	豆漿:N	
+半夜:N	過來:Vi	填填:Vt	肚子:N	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+半夜:N	這邊:N	生意:N	還是:ADV	相當:Vi	的:T	好:Vi	
+阿:N	是:Vt	都:ADV	不用:ADV	睡覺:Vi	的:T	嗎:T	
+^:FW	^:FW	":FW	
+雖說:C	種類:N	品:Vt	項:M	確實:Vi	很多:DET	
+但:C	看起來:ADV	大多:DET	只:ADV	是:Vt	同:DET	一:DET	類型:N	區分為:Vt	數:DET	小:Vi	類:M	而已:T	
+但:C	儘管:C	如此:Vi	也:ADV	已:ADV	頗為:ADV	豐富:Vt	
+只:ADV	不過:ADV	有的:DET	餐點:N	可能:ADV	早早:ADV	賣完:Vt	不一定:ADV	會:ADV	有:Vt	
+像:Vt	是:Vt	米糕:N	粥:N	
+除了:P	西式:A	的:T	漢堡:N	吐司:N	
+中式:A	的:T	饅頭:N	蛋:N	餅飯糰:N	...:ETCCATEGORY	等:POST	早餐類:N	
+還:ADV	有:Vt	賣:Vt	麵食:N	小菜:N	、:PAUSECATEGORY	
+炒飯:N	、:PAUSECATEGORY	粥:N	、:PAUSECATEGORY	炒:Vt	泡麵:N	、:PAUSECATEGORY	特餐:N	飯食:N	
+如果:C	是:Vt	我:N	說不定:ADV	會:ADV	把:P	店名:N	取:Vt	作為:N	":FW	台灣:N	小吃:N	總匯:N	":FW	
+感覺:Vt	比較:ADV	貼切:Vi	
+但:C	就算:C	這樣:Vi	取名:Vt	
+賣:Vt	的:T	品:N	項:N	仍:ADV	只是:ADV	台灣:N	小吃:N	的:T	冰山一角:N	哪:T	...:ETCCATEGORY	
+點完:Vt	餐:N	再:ADV	來:ADV	就是:C	滿滿:Vi	一:DET	桌:M	準備:Vt	進食:Vi	...:ETCCATEGORY	
+先:ADV	來:ADV	喝:Vt	口:N	店家:N	特有:A	的:T	花:N	生乳:N	
+30:DET	元:M	
+味道:N	極:ADV	甜:Vi	
+沒有:Vt	什麼:DET	乳味:N	
+對:P	我:N	來:ADV	說:Vt	
+太:ADV	甜:Vi	了:T	
+如果:C	加:Vt	個:M	半:DET	杯:M	的:T	鮮奶:N	進去:Vi	搞不好:ADV	比較:Vt	對:P	我:N	胃口:N	
+我:N	的:T	主食:N	是:Vt	豬排:N	炒:Vt	泡麵:N	
+70:DET	元:M	
+其實:ADV	還:ADV	不錯:Vi	
+因為:C	我:N	喜歡:Vt	炒:Vt	泡麵:N	不要:ADV	太:ADV	軟:Vi	
+這:DET	還:ADV	保有:Vt	一點:DET	ＱＱ:FW	微:ADV	硬:Vi	的:T	彈性:N	
+醃:Vt	過:ASP	的:T	切片:N	薄薄:Vi	煎:Vt	豬排:N	感覺:N	像:Vt	是:Vt	拿來:Vt	做:Vt	三明治:N	用:Vt	的:T	
+OK:FW	啦:T	
+蔥蛋:N	
+20:DET	元:M	
+和:C	水餃:N	
+30:DET	元:M	
+有:Vt	賣:Vt	水餃:N	還:ADV	真是:ADV	開心:Vi	
+雖然:C	只是:ADV	冷凍:Vt	水餃:N	...:ETCCATEGORY	
+有:Vt	八九:DET	顆:M	耶:T	
+蔥蛋:N	倒是:ADV	煎:Vt	得:T	嫩嫩:Vi	不會:ADV	殘油:N	太多:Vi	
+其實:ADV	來:ADV	這:DET	吃宵夜:Vi	求:Vt	的:T	是:Vt	一:DET	種:M	爽度:N	
+味道:N	還:ADV	過得去:Vi	就:ADV	好:Vi	
+宵夜:N	時間:N	有:Vt	這麼多:DET	種:M	選擇:N	就:ADV	是:Vt	它:N	的:T	利基:N	
+乾意:N	麵:N	
+30:DET	元:M	
+和:C	小菜:N	肝:N	連:C	肉:N	
+40:DET	元:M	
+麵體:N	其實:ADV	不:ADV	差:Vi	
+簡單:Vi	用:Vt	了:ASP	沙茶:N	調味:Vi	
+肝:N	連:C	滋味:N	一般:A	且:C	量:N	不:ADV	太多:Vi	
+當然:ADV	不能:ADV	和:P	某些:DET	地方:N	你:N	能:ADV	吃到:Vt	
+嚼:Vt	起來:ASP	肉味:N	濃:Vi	而:C	富:Vt	甜味:N	的:T	肝:N	連:C	肉:N	相比:Vi	
+但:C	這:DET	種:M	時間點:N	有得:ADV	吃:Vt	
+價位:N	也:ADV	還可以:ADV	接受:Vt	就:ADV	好:Vi	啦:T	
+最後:N	是:Vt	花生湯:N	
+35:DET	元:M	
+花生:N	燉:Vt	得:T	很:ADV	綿軟:Vi	
+湯:N	不:ADV	油:N	
+算:Vt	爽口:Vi	
+這樣:Vi	吃:Vt	一:DET	吃:Vt	255:DET	元:M	
+在:P	台北:N	且:C	是:Vt	宵夜:N	時間:N	算起來:ADV	並:ADV	不:ADV	貴:Vi	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+台北:N	-:DASHCATEGORY	1:DET	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/tkUwO:FW	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+台北:N	-:DASHCATEGORY	2:DET	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/OyLdd:FW	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+桃竹苗:N	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/tYphL:FW	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+中南部:N	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/NS4i:FW	5:DET	

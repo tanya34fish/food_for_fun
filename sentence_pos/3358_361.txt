@@ -1,0 +1,241 @@
+nikcoke:FW	(:PARENTHESISCATEGORY	小猴:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	壽:N	喜:Vt	燒:Vt	一:DET	丁:N	景美店:N	
+Sat:FW	
+Jul:FW	
+26:DET	
+23:DET	::COLONCATEGORY	31:DET	::COLONCATEGORY	04:DET	
+2014:DET	
+鍋物:N	最:ADV	前線:N	--:DASHCATEGORY	壽:N	喜:Vt	燒:Vt	一:DET	丁:N	景美店:N	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	4月:N	
+有:Vt	圖:N	有:Vt	真相:N	圖文並茂:Vi	版:N	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/nikcoke/article:FW	/:FW	75887526:DET	
+地點:N	：:COLONCATEGORY	台北市:N	文山區:N	景興路:N	188:DET	號:M	
+瀚星:N	百貨:N	B:FW	2:DET	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	29306575:DET	
+價位:N	：:COLONCATEGORY	
+平日:N	午餐:N	328:DET	元:M	
+平日:N	午:N	茶:N	298:DET	元:M	
+晚餐:N	假日:N	398:DET	元:M	
+以上:N	另:DET	收:Vt	10％:DET	清潔費:N	
+環境:N	：:COLONCATEGORY	
+位於:Vt	景美:N	夜市:N	瀚星:N	百貨:N	這邊:N	
+離:P	捷運:N	景美:N	站:Vi	不:ADV	算:Vt	太:ADV	遠:Vi	
+附近:N	有:Vt	停:Vt	
+車場:N	外:N	
+百貨公司:N	本身:N	也:ADV	有:Vt	設置:Vt	停車場:N	
+交通:N	上:N	算是:Vt	蠻:ADV	便利:Vt	的:T	
+百貨:N	的:T	部份:DET	當時:N	還:ADV	位處於:Vt	裝修:Nv	中:POST	
+最近:N	應該:ADV	已經:ADV	完成:Vt	並:ADV	陸續:ADV	進駐:Vt	
+一些:DET	店家:N	了:T	
+而:C	位在:Vt	地:T	下:DET	二樓:N	的:T	餐廳:N	在:P	當時:N	則:ADV	不:ADV	受:P	裝修:Vt	的:T	影響:N	
+寬敞:Vi	的:T	餐廳:N	環境:N	給:Vt	人:N	還:ADV	蠻:ADV	舒適:Vi	的:T	一:DET	個:M	感覺:N	
+而:C	店:N	內:N	的:T	用餐:Vi	在:P	裝潢:N	
+上:N	
+仍舊:ADV	是:Vt	走:Vi	幽靜:Vi	的:T	路線:N	
+整:DET	間:M	餐廳:N	的:T	色調:N	佈置:Nv	走案:N	色系:N	的:T	日式:A	
+木造:A	用餐:Nv	環境:N	為主:Vi	
+空間:N	上:N	感覺:N	則:ADV	是:Vt	較:P	雙城店:N	寬闊:Vi	了:ASP	許多:DET	
+蠻:ADV	適:Vi	
+合:Vt	多:DET	人:N	聚餐:Vi	的:T	一:DET	個:M	聚會:N	場所:N	
+店面:N	－:DET	
+展示:Vt	櫃:N	－:DET	
+看板:N	－:DET	其中:DET	一樓:N	的:T	看板:N	將:P	一:DET	丁:N	與:C	二:DET	丁:N	放:Vt	在一起:Vi	
+分別:ADV	也:ADV	是:Vt	鍋物:N	
+因此:C	也:ADV	不:ADV	太:ADV	確定:Vt	是否:ADV	兩:DET	家:M	是否:ADV	有:Vt	相關:Vi	
+日後:N	有:Vt	機會:N	在:P	看看:Vt	內容:N	是:Vt	
+否:T	有:Vt	差別:N	
+現切:N	肉品區:N	－:DET	旁邊:N	標示:Vt	的:T	肉品:N	感覺:N	跟上:Vt	次:M	在:P	雙城店:N	看到:Vt	的:T	似乎:ADV	有:Vt	
+些:M	差異:N	
+用餐:Nv	環境:N	－:DET	
+餐點:N	：:COLONCATEGORY	
+餐桌:N	－:DET	
+餐具:N	－:DET	
+紙墊:N	－:DET	上面:N	一樣:Vi	有:Vt	介紹:N	如何:ADV	食用:Vt	壽:N	喜:Vt	燒:Vt	
+但是:C	鍋:N	很:ADV	燙:Vi	看起來:ADV	真的:ADV	
+超:Vt	明顯:Vi	的:T	
+但:C	可惜紙:N	墊上:Vt	並:ADV	沒有:Vt	標示:N	提供:Vt	的:T	肉品:N	名稱:N	
+所以:C	還:ADV	跑:Vi	
+到:P	門口:N	再:ADV	拿:Vt	一:DET	次:M	DM:FW	
+又:ADV	順手:Vi	拍:Vt	了:ASP	一下:N	切肉區:N	旁:N	的:T	展示板:N	了解:Vt	今天:N	
+提供:Vt	了:ASP	哪些:DET	的:T	肉品:N	
+調味料:N	--:DASHCATEGORY	
+七:DET	味:M	粉:N	－:DET	
+香醋:N	－:DET	
+溫水:N	－:DET	
+壽喜:N	醬汁:N	－:DET	
+蛋:N	－:FW	上:DET	次:M	在:P	雙城店:N	因為:C	有:Vt	些:M	人:N	不:ADV	沾:Vt	蛋:N	
+所以:C	多:Vi	了:ASP	幾:DET	顆:M	就:ADV	沒:ADV	跟:P	服務:Nv	
+生:Vt	要:ADV	
+在:P	這:DET	次:M	過來:Vi	才:ADV	知道:Vt	原來:ADV	每:DET	人:N	僅:ADV	提供:Vt	一:DET	顆:M	
+續:ADV	點:Vt	需要:N	另外:ADV	再:ADV	
+付費:Vi	
+但:C	因為:C	沒:ADV	再:ADV	點:Vt	所以:C	也:ADV	忘:Vt	了:ASP	價位:N	是:Vt	多少:DET	
+撈:Vt	具:Vt	及:C	垃圾桶:N	－:DET	
+小:Vi	碗:N	－:DET	位在:Vt	桌子:N	邊:N	邊:N	的:T	小:Vi	抽屜:N	
+飲料區:N	--:DASHCATEGORY	
+可口可樂:N	系列:N	汽水機:N	－:DET	有:Vt	芬達:N	橘子:N	汽水:N	、:PAUSECATEGORY	雀:N	巢:N	檸檬茶:N	、:PAUSECATEGORY	美粒果清:N	
+果汁:N	、:PAUSECATEGORY	雪碧:N	及:C	可口可樂:N	可以:ADV	選擇:Vt	
+製冰機:N	－:DET	
+飲水機:N	－:DET	提供:Vt	冷:Vi	、:PAUSECATEGORY	熱水:N	服務:Nv	
+咖啡機:N	－:DET	有:Vt	義式:A	咖啡:N	與:C	美式:A	咖啡:N	兩:DET	種:M	選擇:N	
+沖泡式:N	茶包:N	－:DET	有:Vt	沖泡式:N	紅茶:N	與:C	綠茶:N	的:T	茶包:N	以及:C	奶精:N	及:C	糖包:N	自行:ADV	調:Vt	
+味:N	選用:Vt	
+熱飲杯:N	－:DET	
+鍋物:N	--:DASHCATEGORY	有:Vt	壽喜鍋:N	與:C	香麻鍋:N	兩:DET	款:M	
+因為:C	不:ADV	吃:Vt	辣:Vi	所以:C	繼續:Vt	選擇:Vt	壽喜:N	鍋:N	
+來:ADV	用餐:Vi	
+這:DET	次:M	因為:C	有:Vt	經驗:N	
+所以:C	趕緊:ADV	在:P	炒鍋:N	前:POST	先:ADV	把:P	食材:N	迅速:Vi	的:T	拍:Vt	
+下:DET	
+溫:N	野菜:N	--:DASHCATEGORY	每:DET	人:N	一:DET	份:M	
+吃起來:ADV	就:ADV	像:Vt	是:Vt	川燙悶:Vi	煮:Vt	過:ASP	的:T	香菇:N	、:PAUSECATEGORY	地瓜:N	、:PAUSECATEGORY	豆:N	
+腐:Vi	與:C	玉米:N	
+旁邊:N	有:Vt	附上:Vt	簡單:Vi	的:T	調味粉:N	與:C	醬汁:N	可以:ADV	沾:Vt	來:ADV	吃:Vt	
+味道:N	微:ADV	
+鹹:Vi	蠻:ADV	不錯:Vi	的:T	
+拿來:Vt	沾:Vt	肉:N	吃:Vt	也:ADV	有:Vt	不同:Vi	的:T	風味:N	口感:N	
+石鍋:N	過:Vt	橋:N	寬粉:N	--:DASHCATEGORY	料多:N	味道:N	換:Vt	了:ASP	一:DET	家:M	一樣:Vi	清淡:Vi	
+一樣:Vi	是:Vt	蠻:ADV	適合:Vi	解膩:Vi	
+用:Vt	的:T	一:DET	道:M	鍋物:N	
+食材:N	吃起來:ADV	也:ADV	較為:ADV	清爽:Vi	許多:DET	
+副食:N	--:DASHCATEGORY	古早味:N	光餅:N	搭配:Vt	蜂蜜:N	芥末醬:N	與:C	洋蔥:N	和:C	香菜:N	
+再:ADV	夾:Vt	幾:DET	片:M	剛:ADV	涮:b	
+好:Vi	的:T	牛肉:N	味道:N	相當:Vi	的:T	好吃:Vi	
+不過:C	每:DET	人:N	一樣:Vi	只:ADV	有:Vt	一:DET	份:M	
+需要:Vt	續點:N	則:ADV	
+需要:Vt	再:ADV	加:Vt	價購:Vt	
+而:C	剩下:Vt	的:T	蜂蜜:N	芥末醬:N	單獨:ADV	沾:Vt	肉片:N	也:ADV	有:Vt	蠻:ADV	不錯:Vi	的:T	滋:N	
+味:N	
+蔬食:N	與:C	推車:N	--:DASHCATEGORY	推車:N	有時:ADV	會:ADV	放置:Vt	在:P	飲料區:N	一:DET	旁:N	
+而:C	一:ADV	開始:Vi	的:T	時候:N	感:Vt	
+覺:Vt	服務生:N	推車:N	推:Vt	的:T	相當:ADV	勤勞:Vi	
+大約:ADV	十幾:DET	分鐘:M	就:ADV	來:Vi	一:DET	次:M	
+不過:C	一:ADV	開:Vt	
+始:Vi	的:T	菜色:N	都:ADV	還:ADV	沒:ADV	吃完:Vt	
+所以:C	都:ADV	只:ADV	能:ADV	先:ADV	回答:Vt	":FW	先:ADV	不:ADV	用:Vt	":FW	
+之後:N	努力:Vi	的:T	
+繼續:Vt	吃:Vt	肉:N	肉:N	
+肉類:N	--:DASHCATEGORY	第一:DET	次:M	沒有:Vt	特別:Vi	跟:P	服務生點:N	的:T	話:N	會:ADV	一:DET	次:M	將:P	全部:DET	的:T	肉:N	都:ADV	上上:Vt	
+來:ADV	
+之後:N	再:ADV	做:Vt	續點:N	
+不過:C	續:ADV	點:Vt	時:POST	一樣:Vi	因為:C	沒有:Vt	任何:DET	menu:FW	
+也:ADV	幾乎:ADV	
+都:ADV	是:Vt	服務生:N	想:Vt	上:N	什麼:DET	就:ADV	來:ADV	什麼:DET	
+所以:C	又:ADV	跑去:Vt	門口:N	拿:Vt	DM:FW	也:ADV	順便:ADV	拍下:Vt	
+當天:N	提供:Vt	種類:N	的:T	展示板:N	後:POST	再:ADV	來:ADV	點:ADV	
+不過:C	肉品:N	旁:N	的:T	標示牌:N	跟:P	展示板:N	
+上:N	的:T	肉質:N	則:ADV	是:Vt	有點:ADV	對照:Vt	不:ADV	起來:Vi	
+也:ADV	不:ADV	太:ADV	清楚:Vi	這:DET	次:M	肉質:N	的:T	等級:N	
+腹月脅心:N	－:DET	油花:N	的:T	分佈:Vi	較少:Vi	
+在:P	瘦肉:N	的:T	部份:DET	較:ADV	多:Vi	
+大約:ADV	涮:b	個:T	五:DET	到:P	七:DET	
+分:Vt	熟:Vi	左右:POST	就:ADV	可以:ADV	吃到:Vt	較:ADV	有:Vt	咬:Vt	勁:N	又:ADV	不會:ADV	太:ADV	油膩:Vi	的:T	美味:N	
+嫩:Vi	肩里肌:N	－:DET	油脂:N	含量:N	算是:Vt	三:DET	款:M	牛肉:N	中:POST	較:ADV	均勻:Vi	的:T	一:DET	款:M	
+肉質:N	吃起來:ADV	
+鮮:Vi	甜:Vi	又:ADV	柔軟:Vi	
+大約:ADV	涮:b	個:T	五:DET	分:M	熟:Vi	吃起來:ADV	鮮嫩:Vi	又:ADV	多汁:Vi	
+另外:C	搭配:Vt	古早:N	
+味:N	光餅:N	沾:Vt	蜂蜜:N	芥末醬:N	味道:N	也:ADV	很:ADV	搭:Vt	
+卡露:N	比:P	－:DET	跟:P	雙城店:N	的:T	卡路:N	比:P	應該:ADV	是:Vt	一樣:Vi	的:T	
+由於:C	油花:N	較:ADV	多:Vi	
+吃:Vt	起:ASP	
+來:ADV	肉質:N	的:T	口感:N	相當:Vi	的:T	滑嫩:Vi	甚至:ADV	是:Vt	油嫩:Vi	入口:N	
+另外:C	拿:Vt	肉片:N	包覆:Vt	石鍋:N	
+過:Vt	橋:N	寬粉:N	裡:N	的:T	一些:DET	蔬食:N	味道:N	也:ADV	蠻:ADV	好吃:Vi	的:T	
+霜降:N	珍豬:N	－:DET	吃起來:ADV	的:T	口感:N	滑嫩:Vi	
+由於:C	煮:Vt	的:T	偏向:Vt	全熟:N	
+所以:C	醬汁:N	也:ADV	
+吸附:Vt	的:T	較:ADV	多:Vi	
+味道:N	也:ADV	較:ADV	鹹:Vi	甜:Vi	一些:DET	
+梅花:N	豬:N	－:DET	肉片:N	的:T	部分:DET	感覺:N	較:ADV	厚實:Vi	一些:DET	
+吃起來:ADV	相對:Vi	也:ADV	較:ADV	有:Vt	一些:DET	咬:Vt	
+勁:N	
+豐厚:Vi	的:T	肉質:N	加上:C	吸附:Vt	較:ADV	多:Vi	的:T	鹹甜壽喜:N	醬汁:N	
+口感:N	吃起來:ADV	也:ADV	帶:Vt	
+點:Vt	彈性:N	
+雖然:C	不錯:Vi	吃:Vt	
+但是:C	來:Vi	這邊:N	還是:ADV	主要:ADV	以:P	吃:Vt	牛肉:N	為主:Vi	
+梅花:N	
+豬:N	只有:ADV	簡單:Vi	的:T	點上:Vt	一:DET	盤:M	就:ADV	繼續:Vt	吃:Vt	牛肉:N	了:T	
+甜食:N	--:DASHCATEGORY	每:DET	人:N	一:DET	份:M	檸檬:N	片加軟:N	麻:N	糬:b	冰淇淋:N	或:C	香橙奶酪:N	
+檸檬片:N	－:DET	薄薄:Vi	的:T	檸檬片:N	灑上:Vt	大量:DET	的:T	紅糖:N	
+吃起來:ADV	同時:N	具有:Vt	酸甜:Vi	的:T	
+衝擊:N	滋味:N	
+軟麻糬:N	冰淇淋:N	－:DET	這:DET	次:M	換:Vt	這:DET	一:DET	款:M	沒有點:N	
+但:C	吃完:Vt	香橙奶酪完:Vt	之後:POST	
+感覺:N	上:POST	較:ADV	偏愛:Vt	軟麻糬:N	冰淇淋:N	多:Vi	一些:DET	
+香橙奶酪:N	－:DET	份量:N	不:ADV	多:Vi	
+吃起來:ADV	感覺:Vt	比較:ADV	像:Vt	凍:Vt	的:T	一:DET	個:M	口感:N	加上:Vt	些微:A	
+的:T	香橙:N	醬汁:N	
+味道:N	上:N	算是:Vt	普普:N	
+評價:N	：:COLONCATEGORY	
+因為:C	在:P	景美:N	這邊:N	附近:N	加:Vt	個:M	油:N	剛好:ADV	又:ADV	很:ADV	餓:Vi	到:P	想:Vt	吃:Vt	個:M	吃到:Vt	飽:Vi	
+想到:Vt	上:POST	
+次:DET	吃:Vt	的:T	壽:N	喜:Vt	燒:Vt	一:DET	丁:N	在:P	景美:N	這邊:N	也:ADV	有:Vt	分店:N	
+因此:C	就:ADV	順便:ADV	的:T	繞:Vi	了:ASP	過來:Vi	
+吃:Vt	一下:N	單人:A	晚餐:N	
+在:P	食材:N	的:T	部份:DET	
+名稱:N	上:N	景美:N	跟:P	雙城:N	兩:DET	家:M	店:N	在:P	牛肉:N	的:T	部份:DET	有:Vt	一:DET	款:M	不:ADV	
+同:DET	
+不過:C	應該:ADV	都:ADV	是:Vt	相同:Vi	的:T	肉質:N	
+味道:N	上:POST	還是:ADV	以:P	牛:N	肉類:N	的:T	較為:ADV	好吃:Vi	
+在:P	肉質:N	上:N	DM:FW	只:ADV	有:Vt	簡單:Vi	的:T	標示:N	頂級:A	牛肉:N	與:C	上選:A	豬肉:N	兩:DET	款:M	
+其實:ADV	較:ADV	
+難:Vi	確認:Vt	要:ADV	選:Vt	哪:DET	種:M	肉:N	
+還好:Vi	切肉區:N	旁:N	有:Vt	板子:N	告知:Vt	今天:N	的:T	肉品:N	
+雖然:C	
+標榜:Vt	現:N	切:Vt	服務:Nv	
+不過:C	在:P	用餐:Vi	尖峰:A	期:N	為了:P	增加:Vt	上菜:Vi	的:T	速度:N	
+感覺:N	上:N	
+應該:ADV	是:Vt	當天:N	現:N	切:Vt	的:T	方式:N	
+這樣:Vi	也:ADV	比較:ADV	快:Vi	上菜:Vi	
+但:C	肉質:N	吃起來:ADV	
+還:ADV	
+是:Vt	一樣:Vi	的:T	好吃:Vi	且:C	鮮嫩:Vi	多汁:Vi	的:T	一:DET	個:M	口感:N	
+畢竟:ADV	限時:ADV	90:DET	分鐘:M	的:T	話:N	
+上:N	
+菜:N	的:T	速度:N	真的:ADV	不能:ADV	比較:ADV	慢:Vi	
+不然:C	真的:ADV	會:ADV	吃:Vt	不:ADV	過癮:Vi	又:C	一:DET	肚子:N	氣:N	
+在:P	服務:Vt	的:T	部份:DET	
+整體:N	來:ADV	說給:Vt	人:N	的:T	感覺:N	還:ADV	算是:Vt	不錯:Vi	
+前:DET	半:DET	段:M	的:T	時間:N	
+雖然:C	人潮:N	較:ADV	多:Vi	
+但是:C	推車:N	與:C	上菜:Vi	的:T	部份:DET	都:ADV	蠻:ADV	勤:Vi	的:T	
+但:C	下:DET	半:DET	場:M	的:T	時:N	
+間或:ADV	許是:ADV	因為:C	百貨公司:N	要:ADV	關門:Vi	的:T	時間:N	較:ADV	早:Vi	
+所以:C	剩下:Vt	的:T	半:DET	小時:N	差:Vi	
+不:ADV	多:ADV	都:ADV	在:P	清潔:Vi	人潮:N	已經:ADV	散去:Vi	的:T	區域:N	
+推車:N	就:ADV	放:Vt	在:P	飲料區:N	旁:N	自取:Vt	
+雖然:C	服務生:N	路過:Vt	的:T	次數:N	較少:Vi	
+但是:C	上肉:N	的:T	速度:N	也:ADV	到:P	沒有:Vt	很:ADV	慢:Vi	就:ADV	是:Vt	
+如果:C	很:ADV	介意:Vt	的:T	人:N	最好:ADV	還是:ADV	去:Vt	營業:Nv	時間:N	較:ADV	晚:Vi	的:T	雙城店:N	
+整體:N	來:ADV	說:Vt	
+這邊:N	的:T	食材:N	及:C	服務:Nv	跟:C	雙城店:N	都:ADV	相:ADV	差不多:Vi	
+雖然:C	結束:Vt	營:N	
+業:N	的:T	時間:N	較:ADV	早:Vi	
+不過:C	附近:N	還:ADV	有:Vt	景美:N	夜:N	以及:C	百貨:N	本身:N	其他:DET	的:T	門市:N	可:ADV	
+以:P	逛逛:Vt	
+空間:N	上:POST	也:ADV	更:ADV	適合:Vi	多:Vi	人:N	的:T	聚餐:Nv	環境:N	
+對於:P	壽:N	喜:Vt	燒:Vt	有:Vt	興趣:N	的:T	
+人:N	也:ADV	蠻:ADV	值得:Vi	來:Vi	這邊:N	試:Vt	一:ADV	試:Vt	味道:N	看看:Vt	
+其他:DET	鍋類食:N	記:Vt	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+壽:N	喜:Vt	燒:Vt	一:DET	丁:N	雙城店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/nikcoke/article:FW	/:FW	74682013:DET	
+鍋:N	爸:N	涮涮鍋:N	金山店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/nikcoke/article:FW	/:FW	75457716:DET	
+銀:N	湯匙:N	泰式:A	火鍋:N	台南:N	新光:N	小:Vi	西門店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/nikcoke/article:FW	/:FW	74839961:DET	
+北澤壽:N	喜:Vt	燒:Vt	台南:N	公園店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/nikcoke/article:FW	/:FW	73509733:DET	
+全:DET	以:P	自助:Vi	涮涮:b	鍋:M	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/nikcoke/article:FW	/:FW	72691913:DET	
+這:DET	一:DET	鍋:M	皇室:N	秘藏:Vt	鍋物:N	吉林:N	殿:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/nikcoke/article:FW	/:FW	72301815:DET	
+本燔:N	野菜:N	農場:N	台北:N	南京店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/nikcoke/article:FW	/:FW	72063127:DET	
+一:DET	番地:N	壽:N	喜:Vt	燒:Vt	台北:N	開封店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/nikcoke/article:FW	/:FW	71726403:DET	
+魯:N	山人:N	和風:N	壽:N	喜:Vt	燒鍋物:N	台大店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/nikcoke/article:FW	/:FW	70790271:DET	
+晶華:N	酒店:N	三燔:N	本家:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/nikcoke/article:FW	/:FW	67433555:DET	

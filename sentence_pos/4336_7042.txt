@@ -1,0 +1,95 @@
+clairegarden(stepbystep:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	石牌:N	水龜伯:N	~:FW	跳躍:Vi	的:T	黑白:A	雙仙鬥:N	奶:N	
+Mon:FW	
+May:FW	
+11:DET	
+22:DET	::COLONCATEGORY	20:DET	::COLONCATEGORY	08:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	水龜伯古早味:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	5月:N	
+地址:N	：:COLONCATEGORY	台北市:N	北投區:N	石牌路:N	二段:N	75巷:N	8:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2827:DET	-:DASHCATEGORY	4788:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	0:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	60:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	雙仙鬧:N	奶:N	
+網誌:N	圖文版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	423372446:DET	
+這:DET	天:M	來到:Vt	石牌:N	覓食:Vi	
+吃完:Vt	熱:Vt	的:T	要:ADV	來:ADV	個:M	涼:Vi	的:T	
+話:N	說:Vt	石牌:N	最:ADV	厲害:Vi	的:T	賣:Vt	涼:Vi	的:T	店:N	非水龜伯:N	莫:ADV	屬:Vt	了:ASP	
+其實:ADV	他:N	好像:ADV	也:ADV	有:Vt	賣:Vt	熱:Vt	的:T	只是:ADV	我:N	從來:ADV	沒:ADV	去:Vt	過:ASP	XD:FW	
+而且:C	水龜伯:N	還:ADV	是:Vt	少數:DET	賣:Vt	豆:N	花店:N	還:ADV	有:Vt	裝潢:Vt	的:T	店:N	呢:T	
+店:N	門口:N	就:ADV	有:Vt	一:DET	台:M	復古:Vt	腳踏車:N	和:C	蓑衣:N	等:POST	的:T	復古:Nv	設計:N	
+復古:Vt	CD:FW	、:PAUSECATEGORY	照相機:N	這裡:N	都:ADV	可見:ADV	
+牆:N	上:N	掛:Vt	著:ASP	復古:Vt	腳踏車:N	上面:N	則:ADV	冷氣:N	
+店家:N	很:ADV	逗趣:Vi	的:T	還:ADV	在:P	冷氣:N	上:N	標:Vt	著:ASP	":FW	古:N	早:ADV	無:Vt	這:DET	台:M	":FW	
+更:ADV	酷:Vi	的:T	是:Vt	還:ADV	有:Vt	復古:Vt	相片區:N	呢:T	
+看板:N	寫:Vt	著:ASP	水:N	龜伯:N	已經:ADV	被:P	各:DET	大:Vi	媒體:N	採訪:Vt	過:ASP	了:ASP	
+還是:C	王品戴董:N	強力:Vi	推薦:Vt	呢:T	
+哈哈:ADV	
+突然:ADV	感覺:Vt	自己:N	有點:ADV	眼:N	不:ADV	識:Vt	泰山:N	啊:T	
+夏天:N	水龜伯:N	的:T	生意:N	特別:Vi	好:Vi	
+點餐:N	就:ADV	勢必:ADV	要:ADV	排:Vt	一下隊:N	的:T	
+米苔目:N	和:C	燒麻糬:N	大大:Vi	的:T	擺:Vt	在:P	門口:N	前:N	這:DET	感覺:N	應該:ADV	是:Vt	招牌:N	喔:T	
+他:N	家:N	有:Vt	好多:DET	配料:N	可以:ADV	選擇:Vt	
+不過:C	我:N	的:T	雙仙鬧:N	奶:N	
+都:ADV	不用:ADV	選:Vt	料:N	就:ADV	直接:Vi	付錢:Vi	了:ASP	
+雙仙鬧:N	奶:N	
+端上來:Vt	的:T	好:Vi	大一:N	碗:N	
+裡面:N	五顏六色:N	好:ADV	繽紛:Vi	
+不過:C	我:N	一直:ADV	聽到:Vt	碗:N	裡:N	有:Vt	跳躍:Vi	的:T	聲音:N	
+不:ADV	知道:Vt	打:Vt	哪來:ADV	的:T	
+後來:N	再:ADV	多:ADV	看:Vt	幾:DET	次:M	”:FW	雙仙鬧:N	奶:N	”:FW	這:DET	幾:DET	個:M	字:N	終於:ADV	懂:Vt	了:ASP	
+雙仙:N	就:ADV	是:Vt	仙草:N	和:C	杏仁:N	露:Vt	兩:DET	個:M	黑白:A	仙:N	
+上面:N	淋:Vt	了:ASP	鮮奶球:N	
+再:ADV	加上:Vt	跳跳:Nv	糖:N	吱吱喳喳:Vi	作響:Vi	來:ADV	嬉鬧:Vi	
+整:DET	個:M	就是:C	很:ADV	繽紛:Vi	很:ADV	熱鬧:Vi	啦:T	
+除此之外:ADV	紅豆:N	、:PAUSECATEGORY	綜合:A	芋:b	圓:Vi	、:PAUSECATEGORY	小:Vi	湯圓:N	
+也:ADV	都:ADV	參與:Vt	了:ASP	這:DET	場:M	盛會:N	
+紅豆:N	吃起來:ADV	好:ADV	綿密:Vi	
+芋圓:N	有:Vt	超可愛:Vi	的:T	粉紅色:N	
+本來:ADV	可以:ADV	吃到:Vt	草莓:N	口味:N	的:T	
+不過:C	跟:P	其他:DET	芋圓:N	吃起來:ADV	好像:ADV	沒:Vt	甚麼:DET	差別:N	
+小:Vi	湯圓:N	很:ADV	黏:Vi	膩:Vi	吃起來:ADV	有點:ADV	QQ:FW	的:T	口感:N	
+杏仁:N	露:Vt	很:ADV	香:Vi	很:ADV	嫩:Vi	吃起來:ADV	恨:Vt	棒:Vi	
+其實:ADV	這:DET	道:M	冰:N	還:ADV	有:Vt	一:DET	個:M	厲害:Vi	的:T	地方:N	
+挖:Vt	到:P	下面:N	才:ADV	發現:Vt	這:DET	是:Vt	古早味:N	的:T	香蕉冰:N	呢:T	
+果真:ADV	是:Vt	招牌:N	吃起來:ADV	好:ADV	滿足:Vt	喔:T	
+地址:N	：:COLONCATEGORY	台北市:N	北投區:N	石牌路:N	二段:N	75巷:N	8:DET	號:M	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2827:DET	-:DASHCATEGORY	4788:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	0:DET	::COLONCATEGORY	00:DET	
+美食:N	指數:N	*:FW	*:FW	*:FW	*:FW	
+氣氛:N	指數:N	*:FW	*:FW	*:FW	*:FW	*:FW	
+cp:FW	值:N	指數:N	*:FW	*:FW	*:FW	*:FW	
+再:ADV	訪:Vt	指數:N	*:FW	*:FW	*:FW	*:FW	
+延伸:Vi	閱讀:Nv	-:DASHCATEGORY	北投區:N	美食:N	
+顛居酒屋:N	
+從:P	沒:Vt	失望:Vi	過:ASP	的:T	牛:N	肋條:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	422799733:DET	
+芳芳:N	江蘇:N	水餃:N	
+市場:N	內:N	的:T	人氣店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	417665575:DET	
+漢奇:N	肉羹:N	
+排隊:Vi	到:P	爆炸:Vi	也:ADV	要:ADV	吃:Vt	的:T	美味:N	大:Vi	塊:M	滷肉飯:N	攻略:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	403898575:DET	
+囍家:N	炭烤:Nv	三明治:N	
+一:DET	次:M	大:Vi	滿足:Vt	之:T	雙喜:N	
+豬排:N	+:FW	馬鈴薯:N	
+三明治:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	402837739:DET	
+阿玉飯糰:N	
+大排長龍:Vi	的:T	特製:Nv	飯糰:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	402074875:DET	
+滿:DET	客屋:N	拉麵:N	
+來自:Vt	溫泉:N	的:T	蛋:N	和:C	豆腐:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	401583850:DET	
+房:N	記:Vt	輝伯鴨:N	肉羹麵:N	
+粄條:N	藏:Vt	在:P	鴨:N	肉卷:N	裡:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	397711900:DET	
+北投:N	無名:A	小吃:N	
+在地人:N	推高:Vt	CP:FW	值:N	炒飯:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	373454300:DET	

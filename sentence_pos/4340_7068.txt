@@ -1,0 +1,117 @@
+smilekevinyu(woohooyoo:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	40:DET	年:M	老店:N	朱:N	記:Vt	餡餅:N	粥:N	新光三越:N	南西:N	店:N	
+Wed:FW	
+May:FW	
+13:DET	
+07:DET	::COLONCATEGORY	07:DET	::COLONCATEGORY	31:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	朱:N	記:Vt	餡餅:N	周:N	新光三越:N	南西:N	店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	12月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	南京西路:N	14:DET	號:M	B:FW	1:DET	(:PARENTHESISCATEGORY	2館:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2567:DET	-:DASHCATEGORY	6169:DET	
+圖文並茂版:N	吃:Vt	勤:Vi	男子:N	部落格:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	woohooyoo.blogspot.tw/2014/12/40.html:FW	
+朱:N	記:Vt	餡餅:N	粥:N	
+since:FW	1973:DET	
+松山:N	線:N	通車:Vi	後:POST	
+中山:N	南:N	西:N	商圈:N	租金:N	看漲:Vi	
+畢竟:ADV	中山:N	站:Vi	幾乎:ADV	能:ADV	直達:Vt	各:DET	大:Vi	熱門:Vi	地點:N	
+就:ADV	連:Vt	歷史:N	悠久:Vi	的:T	地標:N	麥當勞:N	也:ADV	禁不起:Vt	昂貴:Vi	租金:N	而:C	退出:Vt	了:ASP	
+咳:T	...:ETCCATEGORY	就:ADV	讓:Vt	回憶:N	永遠:ADV	停:Vt	在:P	那裡:N	....:ETCCATEGORY	
+我:N	要:ADV	說:Vt	的:T	是:Vt	
+位在:Vt	百貨:N	地下街:N	的:T	朱記:N	
+座位:N	有夠:ADV	少:Vi	大概:ADV	40:DET	個:M	
+沒辦法:Vi	
+佔地:Vt	大:Vi	=:FW	租金:N	貴:Vi	
+能:ADV	在:P	黃金:N	地段座:N	有:Vt	一席之地:N	不:ADV	容易:Vi	
+店面:N	小:Vi	
+排隊:Vi	人潮:N	相當:ADV	踴躍:Vi	
+半:DET	掩式:A	的:T	廚房:N	
+可以:ADV	看到:Vt	師傅:N	們:N	在:P	裡面:N	認真:Vi	搏鬥:Vi	
+自取式:N	的:T	小菜:N	
+選擇:Vt	相當:ADV	豐富:Vt	
+個:M	人:N	必:ADV	吃:Vt	的:T	是:Vt	苦瓜:N	和:C	茄子:N	
+妹扭:Vi	的:T	部分:DET	
+桌:N	上:POST	都:ADV	有:Vt	這些:DET	配備:N	
+最:ADV	左邊:N	的:T	是:Vt	砂糖:N	
+用來:Vt	加:Vt	在:P	小:Vi	米粥:N	裡:N	
+小小:Vi	一:DET	盅:M	的:T	是:Vt	辣油:N	
+小:Vi	碟子:N	用來:Vt	分裝:Vt	點心:N	
+人生:N	最:ADV	大:Vi	的:T	改變:N	就:ADV	是:Vt	不再:ADV	害怕:Vt	苦瓜:N	
+人:N	真的:ADV	很:ADV	妙:Vi	
+或許:ADV	是:Vt	因為:C	長大:Vi	後:POST	才:ADV	理解:Vt	
+很多:DET	事情:N	比:P	苦瓜:N	還要:ADV	苦澀:Vi	
+這:DET	點:M	滋味:N	不:ADV	算:Vt	什麼:DET	的:T	
+囉唆:Vi	完畢:Vi	
+所以:C	幾:DET	次:M	來:POST	都:ADV	會:ADV	點:M	醬悶:Vi	苦瓜:N	這樣:Vi	
+翡翠:N	鑲:Vt	肉:N	
+本來:ADV	以為:Vt	是:Vt	剝皮:Vi	辣椒:N	塞肉:N	肉:N	
+原來:ADV	是:Vt	青椒:N	啊:T	
+青椒:N	和:C	絞肉:N	的:T	組合:Nv	真的:ADV	是:Vt	絕配:N	
+上面:N	還:ADV	有:Vt	醃:Vt	過:ASP	的:T	整:DET	顆:M	蒜頭:N	
+紅燒:Vt	牛肉麵:N	
+牛肉:N	以及:C	帶:Vt	筋:N	牛肉:N	給:Vt	得:T	大方:Vi	
+湯頭:N	勉強:Vi	過關:Vi	
+並:C	不:ADV	是:Vt	會:ADV	留下:Vt	深刻:Vi	印象:N	的:T	紅燒:Nv	湯頭:N	
+刀削麵:N	的:T	部分:DET	就:ADV	很:ADV	有:Vt	嚼:Vt	勁:N	
+每:DET	咬:Vt	一口:ADV	都:ADV	能:ADV	聽到:Vt	口水:N	和:C	麵條:N	在:P	相親相愛:Vi	的:T	聲音:N	
+蔥油餅:N	好好:Vi	吃:Vt	
+表皮:N	微焦:N	油亮:Vi	
+口感:N	香:Vi	脆:Vi	
+我:N	覺得:Vt	餡餅:N	不一定:ADV	每:DET	次:M	都:ADV	要點:N	
+因為:C	餡餅:N	的:T	肉:N	吃起來:ADV	還是:ADV	會:ADV	有點:ADV	負擔:Vt	
+體重:N	的:T	部分:DET	
+但:C	蔥油餅:N	可以:ADV	來:Vi	一:DET	次:M	點:Vt	一:DET	次:M	
+牛肉:N	餡餅:N	
+表皮:N	金黃:Vi	
+牛肉:N	餡餅:N	的:T	內涵:N	
+不用說:ADV	也:ADV	知道:Vt	很:ADV	多汁:Vi	
+用餐:Vi	的:T	時候:N	必:ADV	點:Vt	的:T	小菜:N	之:T	一:DET	茄子:N	沒:Vt	了:ASP	
+好:ADV	失望:Vi	
+從小到大:ADV	都:ADV	很:ADV	愛:Vt	吃:Vt	的:T	牛肉:N	捲:Vt	餅:N	
+裡面:N	有:Vt	小黃瓜:N	、:PAUSECATEGORY	蔥:N	、:PAUSECATEGORY	牛腱:N	子肉:N	
+雖然:C	說:Vt	朱:N	記:Vt	餡餅:N	粥:N	有:Vt	將近:ADV	40:DET	年:M	的:T	歷史:N	
+但:C	我:N	也:ADV	是:Vt	今年:N	才:ADV	認識:Vt	它:N	的:T	
+不:ADV	知道:Vt	這樣:Vi	算是:Vt	相見恨晚:Vi	還是:C	莫逆之交:N	
+還是:ADV	只是:ADV	我:N	自己:N	一廂情願:Vi	的:T	裝熟:Vt	
+上上:A	篇:N	有:Vt	提到:Vt	我:N	有:Vt	北方人:N	的:T	血統:N	
+卻:ADV	沒有:Vt	北方人:N	的:T	身高:N	哭:Vi	哭:Vi	
+所以:C	對於:P	麵食:N	餅類:N	的:T	點心:N	完全:ADV	無法:ADV	產生:Vt	抗拒:Vt	的:T	基因:N	
+我:N	知道:Vt	有:Vt	些:M	人:N	好像:ADV	餐餐:DET	都:ADV	要:ADV	有:Vt	飯:N	才:ADV	覺得:Vt	有:Vt	在:P	吃:Vt	正餐:N	
+但:C	我:N	可以:ADV	用:P	一:DET	盤:M	牛肉:N	捲:Vt	餅:N	就:ADV	解決:Vt	
+只是:ADV	晚:Vi	一點:ADV	要:ADV	再:ADV	吃宵夜:Vi	啦:T	
+至於:P	朱:N	記:Vt	餡餅:N	粥:N	
+到底:ADV	推:Vt	不:ADV	推:Vt	呢:T	
+身為:Vt	堂堂:Vi	一:DET	個:M	中山王:N	不:ADV	挑:Vt	
+也:ADV	就是:C	本人:N	在:P	下:DET	我:N	
+喔:T	因為:C	我:N	就:ADV	住:Vt	在:P	相當:ADV	方便:Vi	的:T	中山:N	站:Vi	呀:T	
+當然:ADV	還是:ADV	推:Vt	的:T	
+我:N	覺得:Vt	這裡:N	的:T	餐點:N	偏:ADV	清淡:Vi	
+也:ADV	就是:C	吃下去:Vi	不會:ADV	覺得:Vt	好:Vi	負擔:N	好:ADV	有:Vt	壓力:N	唷:T	
+牛肉:N	捲:Vt	餅:N	的:T	鹹度:N	適中:Vi	腱子肉:N	回味:Vt	無窮:Vi	
+牛肉:N	餡餅:N	的:T	肉味:N	也:ADV	沒有:ADV	蓋過:Vt	餅皮:N	的:T	風采:N	
+就:ADV	連:Vt	一般:A	印象:N	中:POST	重:Vi	口味:N	的:T	紅燒:Nv	牛肉麵:N	
+也:ADV	都:ADV	存有:Vt	一:DET	個:M	哈囉:T	你:N	是:Vt	紅燒:Vt	嗎:T	
+的:T	懷疑:Nv	空間:N	
+突顯出:Vt	的:T	正:ADV	是:Vt	刀削麵:N	道地:Vi	的:T	帶:Vt	勁兒:N	
+所以:C	
+我:N	認為:Vt	
+朱記:N	的:T	所有:DET	配料:N	
+肉:N	啊:T	、:PAUSECATEGORY	湯:N	啊:T	
+都:ADV	是:Vt	用來:Vt	襯托出:Vt	主旋律:N	
+麵食:N	
+不過:C	還是:ADV	必須:ADV	說:Vt	
+由於:C	朱:N	記:Vt	漸漸:ADV	的:T	朝向:Vt	企業化:Vt	經營:Nv	模式:N	
+所以:C	給:Vt	人:N	一:ADV	種:M	好:Vi	商業:N	的:T	感覺:N	
+似乎:ADV	少:Vi	了:ASP	一點點:DET	傳統:Vi	的:T	人:N	味兒:N	
+我:N	想:Vt	
+不管:C	是:Vt	對:P	在地人:N	還:ADV	是:Vt	觀光客:N	
+有時候:ADV	除了:P	料理:N	優秀:Vi	外:POST	
+味道:N	
+也:ADV	很:ADV	重要:Vi	
+你:N	懂:Vt	的:T	
+朱:N	記:Vt	餡餅:N	粥:N	
+新光三越:N	南西:N	店:N	
+10444:DET	台北市:N	中山區:N	南京西路:N	14:DET	號:M	B:FW	1:DET	
+2:DET	館:N	
+Tel:FW	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2567:DET	-:DASHCATEGORY	6169:DET	

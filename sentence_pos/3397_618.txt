@@ -1,0 +1,61 @@
+likelihood:FW	(:PARENTHESISCATEGORY	我:N	是:Vt	北投人:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	北投:N	阿婆:N	的:T	台南:N	意麵:N	(:PARENTHESISCATEGORY	赤色:N	意麵:N	):PARENTHESISCATEGORY	
+Thu:FW	
+Aug:FW	
+7:DET	
+09:DET	::COLONCATEGORY	17:DET	::COLONCATEGORY	06:DET	
+2014:DET	
+店家:N	名稱:N	：:COLONCATEGORY	台南:N	意麵:N	
+地址:N	：:COLONCATEGORY	台北市:N	北投區:N	公舘路:N	31:DET	號:M	旁:N	
+營業:Nv	時間:N	：:COLONCATEGORY	中午:N	，:COMMACATEGORY	傍晚:N	(:PARENTHESISCATEGORY	19:DET	點:M	前:POST	收:Vt	):PARENTHESISCATEGORY	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	06月:N	
+平均:Vi	個:M	人:N	費用:N	：:COLONCATEGORY	未:ADV	記錄:Vt	(:PARENTHESISCATEGORY	約:ADV	50:DET	上下:N	):PARENTHESISCATEGORY	
+推薦:Vt	菜色:N	：:COLONCATEGORY	赤色:N	意麵:N	、:PAUSECATEGORY	炸:Vt	蘿蔔糕:N	、:PAUSECATEGORY	餛飩湯:N	
+捷運:N	鐵路:N	：:COLONCATEGORY	捷運:N	北投:N	站:Vi	(:PARENTHESISCATEGORY	約:ADV	步行:Vi	10:DET	分:M	):PARENTHESISCATEGORY	
+公車站:N	：:COLONCATEGORY	北投:N	國小:N	(:PARENTHESISCATEGORY	約:ADV	步行:Vi	5:DET	分:M	):PARENTHESISCATEGORY	
+汽車:N	停車:Vi	：:COLONCATEGORY	公舘:N	光明路:N	口:N	平面:N	停車場:N	、:PAUSECATEGORY	大豐:N	公園:N	地:T	下:DET	停車場:N	
+機車:N	停車:Vi	：:COLONCATEGORY	公舘路:N	路邊:N	機車:N	停車:Nv	格:N	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	babbitwang.pixnet.net/blog/post:FW	/:FW	106046573:DET	
+2014:DET	北投:N	巷弄:N	美食:N	
+阿婆:N	的:T	台南:N	意麵:N	
+前言:N	
+今年:N	真的:ADV	是:Vt	變化:N	很:ADV	大:Vi	的:T	一:DET	年:M	
+北投:N	很多:DET	傳統:N	路邊:N	小吃:N	消失:Vi	速度:N	真的:ADV	是:Vt	太:ADV	快:Vi	了:T	
+從:P	復興:N	公園:N	
+整修:Vt	把:P	珠海:N	路:N	上:N	的:T	超大:A	碗:N	便當店:N	與:C	豬血:N	糕:N	被:P	鏟掉:Vt	
+美味:Vi	的:T	市場:N	二樓:N	鹹菜飯:N	老闆:N	要:ADV	漲價:Vi	
+我:N	
+就:ADV	覺得:Vt	北投:N	開始:POST	要:ADV	邁進:Vt	高:Vi	價位:N	的:T	時代:N	了:T	
+在:P	這:DET	過渡:Nv	時期:N	趕緊:ADV	將:P	北投:N	還:ADV	存在:Vi	的:T	巷弄:N	老店:N	找出:Vt	
+來:ADV	吃吃:Vt	
+這:DET	間:M	位在:Vt	公舘路:N	7:DET	-:DASHCATEGORY	11:DET	旁:N	的:T	麵攤:N	
+我:N	從小:ADV	就:ADV	存在:Vi	了:ASP	
+可是:C	一直:ADV	沒有:ADV	吃:Vt	過:ASP	
+這:DET	次:M	跟:P	我:N	
+弟:N	去:ADV	挑戰:Vt	發現:Vt	這:DET	阿婆:N	賣:Vt	的:T	台南:N	意:N	麵:N	還:ADV	蠻:ADV	特別:Vi	的:T	
+顏色:N	是:Vt	紅色:N	的:T	
+真:ADV	高興:Vt	還:ADV	來得及:ADV	吃:Vt	到:P	
+所:ADV	
+以:P	我:N	又:ADV	給:P	這:DET	碗:M	麵:N	取:Vt	了:ASP	一:DET	個:M	名字:N	
+叫:Vt	赤色:N	意麵:N	
+帥氣:Vi	
+赤色:N	意麵:N	
+赤色:N	意麵:N	很:ADV	簡單:Vi	
+包含:Vt	了:ASP	鹽水:N	意麵:N	、:PAUSECATEGORY	豆芽菜:N	以及:C	甜:Vi	辣醬:N	
+其實:ADV	紅紅:Vi	的:T	也:ADV	算不上:Vt	甜:Vi	辣醬:N	
+因:C	
+為:P	甜:Vi	的:T	成分:N	居多:Vi	
+將:P	麵:N	拌:Vt	一:DET	拌:Vt	之後:POST	整:DET	碗:M	麵:N	就:ADV	變成:Vt	散發出:Vt	紅色:N	油光:N	的:T	意麵:N	
+這:DET	就是:C	我:N	覺得:Vt	視:P	
+覺:N	上:N	特別:Vi	的:T	地方:N	
+味道:N	上:POST	就是:C	偏:ADV	甜:Vi	
+我:N	吃:Vt	過:ASP	的:T	意:N	麵:N	不:ADV	分:Vt	南北:N	部:N	
+大多:DET	都:ADV	吃到:Vt	鹹:Vi	的:T	
+搭配:Vt	的:T	
+都:ADV	是:Vt	肉醬:N	或是:C	滷肉汁:N	
+如果說:C	南部:N	美食:N	都:ADV	偏:ADV	甜:Vi	
+那:ADV	這:DET	碗:M	真的:ADV	是:Vt	我:N	吃:Vt	過:ASP	最:ADV	甜:Vi	的:T	意麵:N	
+總結:Vt	
+使用:Vt	特別:Vi	的:T	醬料:N	產生:Vt	特別:Vi	視覺感:N	以及:C	特別:Vi	味道:N	的:T	麵:N	
+真的:ADV	是:Vt	值得:Vi	我:N	大推:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	pic.pimg.tw/babbitwang/1406249927-542844176_n.jpg:FW	

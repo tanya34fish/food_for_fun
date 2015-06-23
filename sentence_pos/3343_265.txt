@@ -1,0 +1,47 @@
+guessworld:FW	(:PARENTHESISCATEGORY	奶油:N	不:ADV	飛:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	北醫:N	附近:N	廣島屋:N	
+Wed:FW	
+Jul:FW	
+23:DET	
+10:DET	::COLONCATEGORY	21:DET	::COLONCATEGORY	56:DET	
+2014:DET	
+圖文:N	網誌版:N	請:Vt	點:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	guessworld.pixnet.net/blog/post:FW	/:FW	40955173:DET	
+店名:N	：:COLONCATEGORY	廣島屋:N	電話:N	：:COLONCATEGORY	0223451757:DET	地址:N	：:COLONCATEGORY	台北市:N	吳興街:N	269巷:N	22:DET	號:M	營業:Nv	時間:N	：:COLONCATEGORY	平日:N	：:COLONCATEGORY	17:DET	::COLONCATEGORY	30:DET	
+22:DET	::COLONCATEGORY	00:DET	假日:N	：:COLONCATEGORY	17:DET	::COLONCATEGORY	30:DET	
+22:DET	::COLONCATEGORY	00:DET	價位:N	：:COLONCATEGORY	329:DET	/:FW	人:N	消費:N	日期:N	：:COLONCATEGORY	May:FW	152014:DET	公司:N	往:P	北醫:N	附近:N	有:Vt	間:M	廣島屋:N	
+是:Vt	V:FW	查到:Vt	帶:Vt	我們:N	來:Vi	的:T	
+沒有:Vt	菜單:N	
+一:DET	個:M	人:N	就是:C	329:DET	
+坐下來:Vi	老闆:N	就:ADV	幫:P	你:N	配:Vt	菜:N	
+餐廳:N	就:ADV	是:Vt	舊舊:Vi	的:T	日式:A	風格:N	
+甜蝦:N	
+簡單:Vi	燙:Vt	過:ASP	並且:C	冰:Vt	過:ASP	
+覺得:Vt	滴滴答答:ADV	的:T	水份:N	有點:ADV	多:Vi	
+不:ADV	喜歡:Vt	
+但:C	同事:N	們:N	都:ADV	覺得:Vt	還:ADV	不錯:Vi	
+味增:N	涼拌:Vt	龍鬚菜:N	
+這:DET	道:M	除了:P	有點:ADV	過:ADV	鹹:Vi	外:POST	
+味道:N	還:ADV	蠻:ADV	好:Vi	
+咖哩:N	可樂餅:N	
+這:DET	道:M	好好:Vi	吃:Vt	
+炸:Vt	得:T	酥脆:Vi	
+內裡:N	是:Vt	香濃:Vi	的:T	咖哩:N	馬鈴薯:N	
+是:Vt	我:N	那:DET	天:M	第二:DET	喜歡:Vt	的:T	
+蟳味棒:N	拌:Vt	飯:N	
+飯:N	是:Vt	熱:Vt	的:T	有一點點:ADV	不:ADV	搭:Vt	
+好像:ADV	是:Vt	醋飯:N	會:ADV	更:ADV	好:Vi	
+代:N	鮑:N	蕃茄:N	
+照:P	燒雞:N	翅:N	
+大阪:N	燒:Vt	
+超:Vt	飽實:Vi	的:T	一:DET	大:Vi	份:M	
+裡面:N	有:Vt	炒麵:N	
+重頭戲:N	是:Vt	甜點:N	麻糬:N	
+炸:Vt	得:T	外面:N	超脆:Vi	
+裡面:N	超軟:Vi	
+自我:N	毀滅:Vt	指數:N	爆表:N	
+西瓜:N	有一點點:ADV	味道:N	
+遊走:Vt	在:P	不:ADV	吃完:Vt	明天:N	會:ADV	壞掉:Vi	的:T	邊緣:N	
+茶凍:N	不:ADV	值得:Vi	一:ADV	提:Vt	
+個:M	人:N	覺得:Vt	廣島屋:N	真的:ADV	頗:ADV	便宜:Vi	實惠:Vi	
+雖然:C	沒有:Vt	道道:DET	精彩:Vi	
+但:C	有:Vt	機會:N	還是:ADV	可:ADV	再:ADV	訪:Vt	的:T	

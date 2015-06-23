@@ -1,0 +1,80 @@
+cheichen:FW	(:PARENTHESISCATEGORY	小珊:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	的:T	道地:Vi	法式:A	薄餅:N	LaCreperie:FW	
+Wed:FW	
+Jul:FW	
+30:DET	
+14:DET	::COLONCATEGORY	28:DET	::COLONCATEGORY	55:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	LaCreperie:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	北市:N	敦化南路:N	一段:N	187巷:N	45:DET	-:DASHCATEGORY	2:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2775:DET	-:DASHCATEGORY	3949:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週二:N	到:P	週日:N	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	500:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	Y:FW	
+有無:Vt	包廂:N	：:COLONCATEGORY	N:FW	
+推薦:Vt	菜色:N	：:COLONCATEGORY	乳酪:N	馬鈴薯:N	蕎麥:N	薄餅:N	、:PAUSECATEGORY	焦糖:N	香蕉:N	冰淇淋:N	薄餅:N	
+無:Vt	音樂:N	圖文:N	網誌:N	好讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	mssandra.pixnet.net/blog/post:FW	/:FW	106119899:DET	
+七:DET	月份:N	才:ADV	正式:Vi	開始:Vt	營運:Vi	的:T	LaCreperie:FW	
+因為:C	知道:Vt	是:Vt	來自:Vt	法國:N	布列:Vi	塔尼:N	的:T	薄餅:N	
+珊卓:N	馬上:ADV	就:ADV	約:Vt	了:ASP	姊妹:N	一起:ADV	去:ADV	吃:Vt	
+LaCreperie:FW	在:P	東區:N	Zara:FW	後面:N	的:T	巷子:N	裡:N	
+在:P	咖啡:N	弄:Vt	對面:N	、:PAUSECATEGORY	TJBCafe:FW	的:T	轉角:N	
+不:ADV	是:Vt	很:ADV	明顯:Vi	的:T	位置:N	
+但是:C	卻:ADV	在:P	開店:Vi	不:ADV	到:Vt	一:DET	個:M	月:N	的:T	時間:N	就:ADV	高朋滿座:Vi	
+可以:ADV	想見:Vt	他們:N	家:N	的:T	薄餅:N	有:Vt	多:ADV	好吃:Vi	
+因為:C	布列:Vi	塔尼:N	靠:P	海:N	
+因此:C	LaCreperie:FW	是:Vt	以:P	海洋:N	、:PAUSECATEGORY	燈塔:N	的:T	造型:N	佈置:Nv	為主:Vi	
+一:DET	進:M	門:N	就:ADV	可以:ADV	看到:Vt	帆船:N	跟:P	槳:N	
+還:ADV	有:Vt	藍色:N	的:T	陳設:N	
+週末:N	的:T	下午:N	
+店:N	內:N	已經:ADV	好多:DET	人:N	了:T	呀:T	
+吧台:N	的:T	設計:N	是:Vt	讓:Vt	客人:N	晚上:N	也:ADV	可以:ADV	來:ADV	喝:Vt	點:M	小:Vi	酒:N	、:PAUSECATEGORY	放鬆:Vt	一下:N	
+不用:ADV	擔心:Vt	店:N	內:N	看起來:ADV	小小:Vi	的:T	
+其實:ADV	他們:N	還:ADV	有:Vt	2樓:N	
+2樓:N	因為:C	有:Vt	陽光:N	可以:ADV	灑:Vt	進來:Vi	
+所以:C	明亮:Vi	許多:DET	
+每:DET	張:M	桌子:N	上:POST	都:ADV	放:Vt	了:ASP	他們:N	特製:Vt	的:T	餐具:N	
+上面:N	寫:Vt	著:ASP	LaCreperie:FW	跟:P	他們:N	其他:DET	店:N	的:T	位置:N	
+目前:N	已經:ADV	有:Vt	上海:N	、:PAUSECATEGORY	香港:N	、:PAUSECATEGORY	胡志明:N	跟:P	金邊:N	
+台北:N	是:Vt	他們:N	的:T	第5:DET	站:N	
+桌:N	上:N	的:T	胡椒:N	鹽巴罐:N	也:ADV	是:Vt	用:P	他們:N	招牌:N	上:N	的:T	燈塔:N	去:ADV	做:Vt	設計:N	的:T	
+超可愛:Vi	
+冰釀:N	蘋果茶:N	@:FW	$:FW	150:DET	
+冰冰:N	甜甜:Vi	的:T	
+很:ADV	適合:Vi	夏日:N	午後:N	
+還:ADV	搭配:Vt	新鮮:Vi	水果:N	
+檸檬:N	冰沙:N	@:FW	$:FW	180:DET	
+夏日:N	消暑:Nv	良方:N	
+他們:N	用:P	新鮮:Vi	檸檬:N	下去:Vi	打:Vt	
+每:ADV	一口:ADV	都:ADV	可以:ADV	喝到:Vt	新鮮:Vi	檸檬:N	果肉:N	
+牛奶:N	可:ADV	爾:N	必:ADV	思冰沙:N	@:FW	$:FW	180:DET	
+濃濃:Vi	的:T	牛奶:N	加上:C	可:ADV	爾:N	必:ADV	思:Vt	
+也:ADV	是:Vt	個:M	很:ADV	適合:Vi	夏天:N	的:T	飲品:N	
+乳酪:N	馬鈴薯:N	蕎麥:N	薄餅:N	@:FW	$:FW	340:DET	
+他們:N	的:T	乳酪:N	是:Vt	用:P	法國:N	瑞布羅森:N	乳酪:N	
+口感:N	很:ADV	濃郁:Vi	
+帶:Vt	一點:DET	比較:ADV	重:Vi	的:T	鹹味:N	
+但是:C	搭配:Vt	馬鈴薯:N	跟:P	培根:N	
+還:ADV	有:Vt	烤:Vt	得:T	恰到好處:Vi	得:T	薄餅:N	
+非常:ADV	好吃:Vi	
+焦糖:N	香蕉:N	冰淇淋:N	薄餅:N	@:FW	$:FW	240:DET	
+這:DET	個:M	甜點:N	真的:ADV	大推:Vt	
+冰淇淋:N	搭配:Vt	他們:N	家:N	的:T	薄餅:N	本來:ADV	就:ADV	非常:ADV	好吃:Vi	
+再:ADV	加上:Vt	焦糖:N	跟:P	釀:Vt	過:ASP	的:T	香蕉:N	
+我們:N	姊妹:N	馬上:ADV	掃:Vt	光:N	
+番茄:N	菠菜:N	蕎麥:N	薄餅:N	@:FW	$:FW	260:DET	
+這:DET	個:M	薄餅:N	是:Vt	素食:N	者:N	也:ADV	可以:ADV	用:Vt	的:T	喔:T	
+一般:A	的:T	薄餅:N	吃起來:ADV	比較:ADV	滑:Vi	順:Vi	
+蕎麥:N	薄餅:N	跟:P	其他:DET	薄餅:N	比起來:ADV	
+有:Vt	多:Vi	了:ASP	一:DET	份:M	口感:N	
+特別:Vi	適合:Vi	配:Vt	鹹:Vi	食:N	食用:Vt	
+布列:Vi	塔尼:N	的:T	特產:N	除了:P	薄餅:N	
+Crepe:FW	
+之外:POST	還:ADV	有:Vt	蘋果酒:N	
+Cidre:FW	
+英文:N	是:Vt	Cider:FW	
+所以:C	LaCreperie:FW	也:ADV	有:Vt	特別:Vi	精選:Vt	了:ASP	法國:N	蘋果酒:N	進來:Vi	台灣:N	
+希望:Vt	下:DET	次:M	有:Vt	機會:N	可以:ADV	嘗試:Vt	看看:Vt	
+推薦給:Vt	大家:N	
+趕快:ADV	去:ADV	試試:Vt	吧:T	

@@ -1,0 +1,107 @@
+chochoc:FW	(:PARENTHESISCATEGORY	::COLONCATEGORY	Bebe:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	阪:b	急:Vi	百貨:N	UZNAOMOM:FW	杏桃:N	鬆餅屋:N	
+Tue:FW	
+Oct:FW	
+7:DET	
+00:DET	::COLONCATEGORY	17:DET	::COLONCATEGORY	37:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	UZNAOMOM:FW	杏桃:N	鬆餅屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	10:DET	/:FW	05:DET	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	忠孝東路:N	五段:N	8:DET	號:M	1:DET	F:FW	(:PARENTHESISCATEGORY	阪急:N	):PARENTHESISCATEGORY	
+捷運線:N	：:COLONCATEGORY	市政府:N	站:Vi	(:PARENTHESISCATEGORY	2:DET	號:M	出口:N	步行:Vi	5:DET	~:FW	10:DET	分鐘:M	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2722:DET	-:DASHCATEGORY	0179:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週日:N	到:P	週四:N	07:DET	::COLONCATEGORY	30:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	/:FW	週五:N	到:P	週六:N	07:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+當日:N	消費:N	：:COLONCATEGORY	NT:FW	$:FW	770:DET	/:FW	2:DET	人:N	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+推薦:Vt	菜色:N	：:COLONCATEGORY	起:Vt	司:N	鮭魚茶:N	泡飯:N	
+WI-FI:FW	密碼:N	：:COLONCATEGORY	27220179:DET	
+無:Vt	音樂:N	網誌:N	好讀版:N	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	chochoc.pixnet.net/blog/post:FW	/:FW	188120871:DET	
+每:DET	天:M	都:ADV	會:ADV	經過:Vt	阪急:N	
+看到:Vt	原來:ADV	是:Vt	小:Vi	b:FW	咖啡:N	的:T	店:N	在:P	裝潢:N	
+就:ADV	想:Vt	知道:Vt	到底:ADV	是:Vt	誰:N	擠掉:Vt	小:Vi	b:FW	
+╯:FW	°:FW	□:FW	°:FW	
+╯:FW	︵:FW	━:FW	
+嗯哼:T	原來:ADV	是:Vt	杏桃:N	鬆餅屋:N	
+額:N	
+其實:ADV	我:N	不:ADV	知道:Vt	有:Vt	什麼:DET	來頭:N	XDD:FW	
+後來:N	看到:Vt	阪急:N	DM:FW	介紹:Vt	來自:Vt	日本:N	
+又:ADV	消費:Vi	結帳:Vi	出示:Vt	會員卡:N	即:ADV	贈:Vt	omom:FW	專屬:Nv	木匙:N	一:DET	支:M	
+覺得:Vt	可愛:Vi	就:ADV	來:ADV	吃:Vt	了:ASP	\:FW	
+/:FW	/:FW	/:FW	/:FW	
+\:FW	很:ADV	好:Vi	拐:Vt	
+適逢:P	阪急:N	週年慶:N	的:T	禮拜日:N	
+快:Vi	1:DET	點:M	的:T	時間:N	進來:Vi	不用:ADV	等:Vt	就:ADV	有:Vt	位置:N	囉:T	
+一:DET	開始:Vi	是:Vt	坐:Vi	在:P	沙發:N	的:T	位置:N	等:POST	朋友:N	來:ADV	
+店員:N	加:Vt	水:N	加:Vt	好:ADV	勤:Vi	
+甚至:ADV	還:ADV	單膝:N	跪下:Vi	幫:P	我:N	加:Vt	水:N	耶:T	
+不用:ADV	這麼:ADV	客氣:Vi	啦:T	平身:N	平身:N	XDD:FW	
+後來:N	朋友:N	到:Vt	了:ASP	說:Vt	想:Vt	坐:Vi	正常:Vi	的:T	位置:N	才:ADV	好吃:Vi	東西:N	就:ADV	移位:Vi	了:ASP	
+杏桃:N	鬆餅屋:N	低:Vi	消:Vi	是:Vt	一:DET	杯:M	飲料:N	
+每:DET	個:M	餐點:N	都:ADV	是:Vt	套餐:N	價格:N	包含:Vt	一:DET	杯:M	160:DET	元:M	的:T	飲料:N	我們:N	點:Vt	了:ASP	起司:N	鮭魚茶:N	泡飯:N	
+含:Vt	沙拉:N	、:PAUSECATEGORY	小菜:N	和:C	飲料:N	
+和:C	照:P	燒:Vt	若:C	雞:N	沙拉佐:N	和風:N	洋蔥醬:N	
+含:Vt	小:Vi	鬆餅:N	、:PAUSECATEGORY	味噌湯:N	、:PAUSECATEGORY	點心:N	和:C	飲料:N	
+不:ADV	佔:Vt	空間:N	的:T	餐具:N	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	
+image.jpg:FW	
+小小:Vi	一:DET	間:M	店:N	
+店員:N	還:ADV	蠻:ADV	多:Vi	的:T	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	
+image.jpg:FW	
+不:ADV	知道:Vt	有:Vt	什麼:DET	意思:N	在:Vt	的:T	國王:N	企鵝:N	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	
+image.jpg:FW	
+鮭魚茶:N	泡飯:N	套餐:N	的:T	沙拉:N	
+搭配:Vt	日式:A	和風:N	醬料:N	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	
+image.jpg:FW	
+冰抹茶:N	拿:Vt	鐵:N	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	
+image.jpg:FW	
+鮭魚茶:N	泡飯:N	
+鮭魚肉:N	好:ADV	嫩:Vi	好好:Vi	吃:Vt	呀:T	
+還:ADV	搭配:Vt	我:N	超:Vt	愛:N	的:T	起:Vt	司:N	
+我:N	好:ADV	喜歡:Vt	
+\:FW	
+/:FW	/:FW	/:FW	/:FW	
+\:FW	但:C	份量:N	很少:ADV	吃:Vt	不:ADV	飽:Vi	唷:T	
+image.jpg:FW	
+熱抹:Vt	茶:N	漂浮:Vi	
+熱:Vt	的:T	才:ADV	是:Vt	用:P	大:Vi	碗公:N	裝:Vt	
+是:Vt	好喝:Vi	不:ADV	苦:Vi	的:T	抹:Vt	茶:N	
+抹茶:N	漂浮:Vi	是:Vt	加:Vt	棉花糖:N	、:PAUSECATEGORY	抹茶:N	拿:Vt	鐵會:N	另外:ADV	附:Vt	牛奶:N	和:C	黑糖:N	
+題外話:N	這:DET	家:M	店:N	很:ADV	不:ADV	貼心:Vi	一:DET	個:M	地方:N	
+沒有:ADV	問:Vt	飲料:N	要:ADV	隨:P	餐:N	上:N	還是:C	餐:N	後:POST	上:POST	ヽ:FW	
+`:FW	Д:FW	
+ﾉ:FW	━:FW	
+因為:C	桌子:N	很:ADV	小:Vi	放:Vt	兩:DET	個:M	餐盤:N	就:ADV	滿:Vt	了:ASP	
+我:N	只好:ADV	在:P	沙拉:N	上桌:Vi	前:POST	把:P	這:DET	碗:M	乾掉:Vi	
+是:Vt	說:Vt	還好:Vi	份量:N	也:ADV	不:ADV	多:Vi	_:FW	
+image.jpg:FW	
+雞肉:N	沙拉:N	套餐:N	的:T	小:Vi	鬆餅:N	
+奶油:N	好:ADV	香:Vi	好好:Vi	吃:Vt	喔:T	\:FW	
+/:FW	/:FW	/:FW	/:FW	
+\:FW	
+image.jpg:FW	
+雞肉:N	沙拉:N	
+就是:C	鮭魚茶:N	泡飯:N	附:Vt	的:T	沙拉:N	加大:Vt	豪華:Vi	版:N	
+多:Vi	了:ASP	糖心蛋:N	和:C	雞腿:N	
+還:ADV	蠻:ADV	清爽:Vi	的:T	
+不過:C	雞腿肉:N	很少:ADV	而且:C	像:Vt	是:Vt	調理:Vt	好:Vi	的:T	很:ADV	常見:Vi	的:T	那:DET	種:M	
+不然:C	你:N	看:Vt	雞腿:N	幹麻:N	藏:Vt	在:P	洋蔥:N	下面:N	
+擺盤:N	也:ADV	沒有:Vt	比較:ADV	漂亮:Vi	
+_:FW	
+另外:C	左下:N	的:T	年輪:N	餅乾:N	朋友:N	很:ADV	愛:Vt	
+結帳區:N	有:Vt	在:P	做:Vt	販售:Vt	
+一:DET	包:M	好像:ADV	80:DET	還:ADV	90:DET	元:M	
+image.jpg:FW	
+贈送:Vt	的:T	omom:FW	專屬:Nv	木匙:N	一:DET	支:M	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	▼:FW	
+image.jpg:FW	
+自首:Vi	
+其實:ADV	我們:N	都:ADV	沒:ADV	點:Vt	鬆餅:N	耶:T	
+哈哈:ADV	都:ADV	點:Vt	了:ASP	主餐類:N	
+我:N	最:ADV	喜歡:Vt	的:T	就是:C	起:Vt	司:N	鮭魚茶:N	泡飯:N	啦:T	
+雞肉:N	沙拉:N	就:ADV	是:Vt	安全牌:N	
+不會:ADV	不:ADV	好吃:Vi	但:C	也:ADV	不會:ADV	想:Vt	再:ADV	吃吃:Vt	看:Vt	
+整體:N	服務:Nv	還:ADV	不錯:Vi	
+很:ADV	喜歡:Vt	加:Vt	水:N	加:Vt	很:ADV	勤:Vi	這:DET	一點:DET	
+下:DET	次會:N	想:Vt	早:ADV	起來:Vi	吃:Vt	個:M	早:Vi	鳥:N	限定:Vt	
+07:DET	::COLONCATEGORY	30:DET	
+11:DET	::COLONCATEGORY	00:DET	
+的:T	早:Vi	午餐:N	或:C	鬆餅:N	系列:N	

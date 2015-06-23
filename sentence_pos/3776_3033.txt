@@ -1,0 +1,27 @@
+chrisxmen:FW	(:PARENTHESISCATEGORY	認真:Vi	揮霍:Vt	每:DET	一:DET	天:M	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	嘉禾屋:N	
+Thu:FW	
+Nov:FW	
+20:DET	
+14:DET	::COLONCATEGORY	17:DET	::COLONCATEGORY	44:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	嘉禾屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+網誌版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.xuite.net/chrisxmen770/wretch:FW	/:FW	253906020:DET	
+嘉禾屋:N	
+地址:N	︰:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	三段:N	３００:DET	號:M	Ｂ:FW	２:DET	
+SOGO:FW	復興館:N	
+電話:N	︰:COLONCATEGORY	02:DET	-:DASHCATEGORY	77450896:DET	
+時間:N	︰:COLONCATEGORY	11:DET	︰:COLONCATEGORY	00:DET	
+21:DET	︰:COLONCATEGORY	30:DET	
+百貨公司:N	就:ADV	在:P	飯店:N	的:T	正對面:N	
+看:Vt	這:DET	家:M	似乎:ADV	不錯:Vi	就:ADV	進去:Vi	吃:Vt	了:ASP	
+聽說:Vt	這:DET	是:Vt	嘉禾屋:N	在:P	台灣:N	第一:DET	家:M	分店:N	
+整:DET	個:M	裝潢:N	很:ADV	有:Vt	日式:A	風味:N	
+夏天:N	來:POST	碗:N	開胃:Vi	的:T	酸梅:N	豬肉:N	烏龍:N	
+微:ADV	酸:Vi	的:T	湯頭:N	和:C	清爽:Vi	的:T	配料:N	讓:Vt	胃:N	輕鬆:Vi	起來:ASP	
+依然:ADV	不:ADV	放棄:Vt	每:DET	到:P	日式:A	料理店:N	必:ADV	點:Vt	的:T	炸雞:N	
+不:ADV	難吃:Vi	但:C	就是:C	少:Vi	了:ASP	日本:N	那:DET	股:M	滋味:N	
+整體:N	的:T	感覺:N	很:ADV	舒服:Vi	
+有:Vt	滿滿:Vi	的:T	和風:N	感:Vt	
+讓:Vt	我:N	又:ADV	開始:Vt	想念:Vt	起:ASP	東京:N	了:T	

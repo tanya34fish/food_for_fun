@@ -1,0 +1,208 @@
+HENRY:FW	1:DET	(:PARENTHESISCATEGORY	黃:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	*:FW	中山:N	。:PERIODCATEGORY	歐華:N	酒店:N	*:FW	金牌級:N	神戶:N	肋:N	眼:N	牛排:N	
+Sun:FW	
+Aug:FW	
+24:DET	
+22:DET	::COLONCATEGORY	37:DET	::COLONCATEGORY	45:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	歐華:N	酒店:N	-:DASHCATEGORY	地中海:N	牛:N	肋排:N	牛排館:N	*:FW	美國:N	金牌級:N	神戶:N	肋:N	眼:N	牛排:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	林森北路:N	６４６:DET	號:M	
+電話:N	：:COLONCATEGORY	０２－２５８５３２５８:DET	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32604987:DET	
+＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	
+＊:FW	純:Vi	文字:N	
+前:DET	陣子:N	寫:Vt	了:ASP	一:DET	篇:M	台北:N	牛排:N	整理:Vt	文:N	
+心:N	裡:POST	還:ADV	在:P	盤算:Vt	著:ASP	什麼:DET	時候:N	要:ADV	把:P	口袋:N	名單:N	清:Vi	乾淨:Vi	XD:FW	
+這:DET	次:M	終於:ADV	成功:Vi	再:ADV	征服:Vt	一:DET	間:M	頂級:A	牛排:N	口袋:N	名單:N	『:PARENTHESISCATEGORY	歐華:N	酒店:N	-:DASHCATEGORY	地中海:N	牛:N	肋排:N	牛排館:N	』:PARENTHESISCATEGORY	啦:T	
+歐華:N	酒店:N	位在:Vt	林森北路:N	
+鄰近:Vt	的:T	捷運站:N	是:Vt	圓山:N	/:FW	民權:N	西路:N	/:FW	中山:N	國小:N	
+不過:C	步行:Vi	都:ADV	還:ADV	算:Vt	有點:ADV	距離:P	
+建議:Vt	開車:Vi	或:C	騎車:Vi	來訪:Vi	會:ADV	比較:ADV	方便:Vi	
+我:N	很少:ADV	來:ADV	這:DET	附近:N	
+這:DET	次:M	才:ADV	發現:Vt	這裡:N	的:T	酒店:N	都:ADV	有:Vt	濃濃:Vi	的:T	歐:N	風味:N	
+雖然:C	並:ADV	不:ADV	是:Vt	很:ADV	大:Vi	或:C	很:ADV	高:Vi	
+但:C	這裡:N	的:T	氛圍:N	有:Vt	讓:Vt	我:N	身:N	在:P	澳門:N	的:T	熟悉感:N	
+地中海:N	牛排館:N	就:ADV	在:P	酒店:N	１樓:N	
+旁邊:N	是:Vt	賣:Vt	甜點:N	蛋糕:N	的:T	歐麗:N	蛋糕:N	坊:N	
+他們:N	的:T	『:PARENTHESISCATEGORY	達克瓦茲:N	』:PARENTHESISCATEGORY	非:Vt	
+常:ADV	
+好:Vi	
+吃:Vt	
+我:N	完全:ADV	沒有:ADV	想到:Vt	會:ADV	吃到:Vt	這麼:ADV	好吃:Vi	的:T	達克瓦茲:N	
+所以:C	好:ADV	可惜:Vi	沒:ADV	拍到:Vt	照:P	就:ADV	下肚:Vi	了:ASP	XD:FW	
+從:P	外頭:N	就:ADV	能:ADV	看到:Vt	數十:N	甚至:ADV	上百:DET	瓶:M	的:T	藏酒:N	
+喜歡:Vt	以:P	美酒:N	配:Vt	美食:N	的:T	人:N	在:P	這裡:N	也:ADV	能:ADV	享受:Vt	
+這:DET	天:M	到訪:Vt	的:T	時間:N	天:N	還:ADV	沒:ADV	暗:Vi	
+所以:C	我們:N	到:Vt	了:ASP	飯店:N	頂樓:N	的:T	『:PARENTHESISCATEGORY	秘密:N	基地:N	』:PARENTHESISCATEGORY	
+風景:N	好棒:Vi	
+這裡:N	有:Vt	一:DET	片:M	『:PARENTHESISCATEGORY	薄層:N	式綠:N	屋頂:N	』:PARENTHESISCATEGORY	
+種植:Vt	適合:Vi	台灣:N	生長:Vi	的:T	耐旱:Vi	、:PAUSECATEGORY	淺:Vi	根:N	的:T	地:T	被:P	植物:N	
+也:ADV	有:Vt	雨水:N	回收:Vt	自動:Vi	灌溉:Vt	系統:N	
+這:DET	綠:Vi	屋頂:N	不僅:C	視野:N	好:Vi	還:ADV	能:ADV	達到:Vt	節能:Vi	減碳:N	的:T	目的:N	
+不過:C	這:DET	還不是:ADV	最:ADV	令:Vt	我:N	驚訝:Vt	的:T	
+我:N	覺得:Vt	最:ADV	酷:Vi	的:T	是:Vt	這:DET	一:DET	片:M	小小:Vi	的:T	『:PARENTHESISCATEGORY	田:N	』:PARENTHESISCATEGORY	
+原來:ADV	這裡:N	種:Vt	的:T	全:DET	是:Vt	主廚:N	要:ADV	用:Vt	的:T	香料草:N	
+是:Vt	不:ADV	是:Vt	超酷:Vi	的:T	
+據說:ADV	每每:ADV	有:Vt	颱風:N	來:ADV	主廚:Vi	都:ADV	會:ADV	很:ADV	心痛:Vi	說:Vt	
+回到:Vt	餐廳:N	內:N	
+裝潢:N	走:Vi	優雅:Vi	的:T	歐式:A	古典風:N	
+燈光:N	偏:ADV	黃:Vi	且:C	昏暗:Vi	
+氣氛:N	很:ADV	棒:Vi	
+也:ADV	有:Vt	包廂區:N	的:T	座位:N	
+有:Vt	需要:N	也:ADV	可以:ADV	訂位:Vi	時:POST	詢問:Vt	飯店:N	人員:N	
+菜單:N	
+點:Vt	圖:N	可以:ADV	看:Vt	放大:Vt	版:N	唷:T	
+牛排:N	價位:N	為:Vt	一千多:DET	
+六千多:DET	
+點:Vt	主菜:N	就:ADV	有:Vt	前:DET	菜:N	沙拉湯:N	甜點:N	
+餐:N	前:N	麵包:N	
+分別:ADV	有:Vt	蘿蔔:N	迷迭:Vi	香:N	亞:N	麻子:N	香菜:N	法國:N	麵包:N	布理歐:N	共:ADV	七:DET	種:M	
+能:ADV	一口氣:ADV	吃到:Vt	七:DET	種:M	麵包:N	的:T	口感:N	真:ADV	令:Vt	人:N	開心:Vi	
+他們:N	家:N	的:T	麵包:N	沒有:Vt	坊間:N	麵包店:N	的:T	可怕:Vi	香精味:N	
+僅有:Vt	淡淡:Vi	香氣:N	
+每:DET	一:DET	種:M	麵包:N	表現:N	都:ADV	不錯:Vi	
+我:N	最:ADV	喜歡:Vt	的:T	是:Vt	造型:N	像:Vt	是:Vt	可:ADV	頌:Vt	的:T	亞:N	麻子:N	麵包:N	
+最:ADV	左:N	
+如果:C	不:ADV	是:Vt	怕:Vt	等:P	下:DET	會:ADV	吃:Vt	太:ADV	飽:Vi	真的:ADV	很:ADV	想:Vt	再:ADV	續:ADV	加:Vt	耶:T	
+搭配:Vt	麵包:N	的:T	沾醬:N	分別:ADV	是:Vt	豆泥:N	橄欖醬:N	橄欖油:N	
+習慣:Vt	沾:Vt	奶油:N	的:T	也:ADV	會:ADV	另外:ADV	附上:Vt	
+服務生:N	還:ADV	特別:Vi	端出:Vt	了:ASP	最:ADV	新:Vi	引進:Vt	得:Vt	過:ASP	冠軍:N	的:T	橄欖油:N	
+光:ADV	是:Vt	色澤:N	就:ADV	與眾不同:Vi	
+前菜:N	
+進口:Vt	野生:A	生蠔:N	
+生蠔:N	是:Vt	來自:Vt	紐西蘭:N	的:T	野生:A	生蠔:N	
+大約:ADV	是:Vt	手掌心:N	的:T	大小:N	
+搭配:Vt	紅酒:N	醋:N	雞尾酒醬:N	與:C	檸檬:N	
+一:DET	入口:N	便:ADV	知:Vt	非常:ADV	新鮮:Vi	
+毫無:Vt	一:DET	絲:M	腥味:N	
+生蠔:N	本身:N	就:ADV	略帶:Vt	海:N	的:T	鹹味:N	
+醬汁:N	略:ADV	沾:Vt	一些:DET	即可:ADV	
+酥炸軟殼:N	蟹:N	
+這:DET	是:Vt	前菜:N	裡:POST	唯:ADV	二:DET	熱:Vt	菜:N	
+說真的:ADV	
+我:N	還:ADV	蠻:ADV	少:Vi	看到:Vt	炸軟殼:N	蟹:N	裹上:Vt	這麼:ADV	薄:Vi	的:T	粉:N	
+因為:C	一般:ADV	都:ADV	喜歡:Vt	用:P	厚厚:Vi	的:T	麵衣:N	來:Vi	『:PARENTHESISCATEGORY	撐場面:Vi	』:PARENTHESISCATEGORY	
+但:C	這:DET	隻:M	軟殼蟹:N	還:ADV	蠻:ADV	不:ADV	小:Vi	的:T	呢:T	
+連:C	蟹螯:N	都:ADV	有:Vt	
+更:ADV	不用說:ADV	咬下去:Vt	不:ADV	只:ADV	吃:Vt	的:T	到:P	軟殼:N	
+蟹肉:N	也:ADV	飽滿:Vi	軟嫩:Vi	
+底下:N	則:ADV	搭配:Vt	清爽:Vi	的:T	蘋果:N	西芹:N	沙拉:N	與:C	酸豆細香:N	蔥:N	醬:N	
+很:ADV	推薦點:N	這:DET	道:M	前:POST	菜:N	
+湯:N	
+烘烤:Vt	日本:N	栗:b	南瓜湯:N	
+選用:Vt	台灣:N	南投:N	改良:Vt	的:T	北海道:N	日本:N	栗:b	南瓜:N	熬煮:Vt	
+這:DET	種:M	南瓜:N	帶有:Vt	淡淡:Vi	的:T	栗子:N	味道:N	以及:C	地瓜:N	口感:N	
+因此:C	稱為:Vt	栗:b	南瓜:N	
+這:DET	南瓜湯:N	非常:ADV	濃郁:Vi	
+甚至:ADV	有:Vt	直接:Vi	在:P	喝:Vt	南瓜:N	泥:N	的:T	感覺:N	
+湯頭:N	鹹度:N	不過:C	高:Vi	
+喝:Vt	得:T	出:Vt	南瓜:N	本身:N	的:T	甜:Vi	
+焗烤:Vt	起:ASP	司:N	洋蔥湯:N	
+不:ADV	知道:Vt	從:P	什麼:DET	時候:N	開始:Vt	我:N	幾乎:ADV	是:Vt	看到:Vt	洋蔥湯:N	與:C	南瓜湯:N	就:ADV	會:ADV	點:Vt	
+尤其:ADV	是:Vt	焗烤:Vt	洋蔥湯:N	更:ADV	是:Vt	不能:ADV	放過:Vt	
+歐華:N	的:T	洋蔥:N	湯焗烤:N	起:POST	司:Vt	非常:ADV	厚:Vi	一:DET	層:M	
+洋蔥:N	有:Vt	拌炒:Vt	後:POST	的:T	香氣:N	
+湯頭:N	則:ADV	帶:Vt	點:M	酸度:N	
+味道:N	濃郁:Vi	卻:ADV	不:ADV	膩:Vi	口:N	
+兩:DET	道:M	湯品:N	都:ADV	表現:Vt	很:ADV	有:Vt	水準:N	
+沙拉:N	
+地中海:N	低溫:N	烹調:Nv	蔬菜:N	沙拉:N	
+聽到:Vt	服務生:N	說:Vt	這:DET	道:M	沙拉:N	很:ADV	漂亮:Vi	就:ADV	毫不:ADV	猶豫:Vt	的:T	點:Vt	了:ASP	
+果真:ADV	像:Vt	一:DET	盆:M	藝術品:N	好:ADV	漂亮:Vi	
+分別:ADV	將:ADV	紅:Vi	白:Vi	蘿蔔:N	小黃瓜:N	紅:Vi	甜菜:N	切成:Vt	薄片:N	捲起來:Vi	
+搭配:Vt	蜂蜜:N	芥花油:N	與:C	紅酒:N	醋醬:N	
+有沒有:ADV	注意到:Vt	上方:N	點綴:Vt	的:T	香料草:N	
+就是:C	從:P	剛剛:ADV	樓上:N	拿下來:Vi	的:T	噢:T	XD:FW	
+這:DET	道:M	沙拉:N	比較:ADV	著重:Vt	於:P	食材:N	本身:N	的:T	味道:N	
+醬汁:N	也:ADV	偏:ADV	清淡:Vi	
+歐華:N	經典:N	凱薩沙拉:N	
+比起:P	剛剛:ADV	的:T	『:PARENTHESISCATEGORY	花藝:N	沙拉:N	』:PARENTHESISCATEGORY	
+這:DET	道:M	沙拉:N	口味:N	就:ADV	較:ADV	重:Vi	些:ADV	
+凱薩醬:N	均勻:Vi	包覆:Vt	每:DET	一:DET	片:M	生菜:N	
+上方:N	灑上:Vt	大:Vi	片:N	的:T	現:N	刨帕瑪森:N	起:Vt	司:N	與:C	鮭魚:N	鬆:Vt	
+吃起來:ADV	非常:ADV	夠味:Vi	
+我:N	比較:ADV	喜歡:Vt	
+看到:Vt	沾醬:N	就:ADV	知道:Vt	牛排:N	準備:Vt	上桌:Vi	啦:T	
+由:P	左:N	而:C	右:N	分別:ADV	是:Vt	喜瑪拉雅山:N	玫瑰:N	鹽:N	法式:A	芥末:N	子:N	海鹽:N	
+美國:N	金牌級:N	濕式:N	熟成:Vt	４５:DET	天:M	神戶:N	肋:N	眼:N	牛排:N	
+２:DET	人:N	份:N	
+１６:DET	盎司:M	
+＄:FW	６５００:DET	
+老實說:ADV	這:DET	價位:N	的:T	牛排:N	我:N	還:ADV	真:ADV	是:Vt	第一:DET	次:M	吃:Vt	到:P	
+光:ADV	是:Vt	看:Vt	著:ASP	它:N	就:ADV	難:Vi	掩:Vt	興奮:Vi	的:T	心情:N	
+歐華:N	大多:DET	提供:Vt	濕式:N	熟成:Vt	的:T	牛排:N	
+也:ADV	有:Vt	一:DET	種:M	乾式:N	可以:ADV	選擇:Vt	
+日本:N	神戶:N	牛:N	可以:ADV	說:Vt	是:Vt	世界:N	上:N	最:ADV	高級:Vi	牛肉:N	的:T	代名詞:N	
+也:ADV	是:Vt	世界:N	上:N	９:DET	種:M	最:ADV	貴:Vi	食物:N	之:T	一:DET	
+美國:N	引進:Vt	日本:N	神戶:N	牛:N	的:T	飼養:Nv	方式:N	生產:Vt	出:Vt	神戶級:N	的:T	牛肉:N	
+如此:ADV	高級:Vi	的:T	牛排:N	當然:ADV	要:ADV	吃:Vt	三:DET	分:Vt	熟:Vi	
+整:DET	塊:M	牛排:N	分成:Vt	兩:DET	個:M	部位:N	
+上:N	蓋肉:N	與:C	沙朗:N	
+分:ADV	切成:Vt	比較:ADV	多:Vi	塊:M	的:T	是:Vt	沙朗:N	
+也:ADV	就是:C	紐約客:N	與:C	肋眼:N	的:T	統稱:N	
+有別於:Vt	其他:DET	牛排:N	餐廳:N	使用:Vt	的:T	鑄鐵:Vi	鍋:N	
+歐華:N	的:T	牛排:N	是:Vt	以:P	石盤:N	盛裝:Vi	
+一方面:C	能:ADV	維持:Vt	溫度:N	又:ADV	不會:ADV	讓:Vt	牛排:N	繼續:Vt	加熱:Vi	變得:Vt	更:ADV	熟:Vi	
+如此:Vi	可以:ADV	慢慢:Vi	品嘗:Vt	一直:ADV	都:ADV	呈現:Vt	三:DET	分:Vt	熟:Vi	粉嫩:Vi	色澤:N	的:T	頂級:A	牛排:N	
+由於:C	石盤:N	本身:N	凹凸:Vi	構造:N	的:T	關係:N	
+多餘:A	的:T	血水:N	會:ADV	留在:Vt	石盤:N	的:T	溝槽:N	裡:N	
+不:ADV	影響:Vt	牛排:N	表層:N	薄酥:N	的:T	
+口感:N	
+神戶:N	肋:N	眼:N	的:T	肉質:N	真的:ADV	與:P	我:N	以前:N	吃到:Vt	的:T	牛排:N	都:ADV	不:ADV	太:ADV	一樣:Vi	
+不只:ADV	是:Vt	用:P	嫩:Vi	來:ADV	形容:Vt	
+還是:ADV	一:DET	種:M	能:ADV	輕易:ADV	用:P	齒:N	間:POST	將:P	纖維:N	突破:Vt	重圍:N	斷開:Vi	的:T	快感:N	
+肉汁:N	並:ADV	不:ADV	是:Vt	很多:DET	
+但:C	都:ADV	像:P	融入:Vt	肉:N	裡:N	感覺:N	
+咬:Vt	起來:ASP	超:Vt	鮮美:Vi	的:T	
+照片:N	中:N	左方:N	的:T	兩:DET	小:Vi	塊:M	未:ADV	分切:N	的:T	牛肉:N	是:Vt	上:DET	蓋肉:N	
+就是:C	俗稱:Vt	的:T	老饕:N	牛排:N	
+老饕:N	牛排:N	的:T	外觀:N	雖然:C	沒有:Vt	沙朗:N	來:Vi	的:T	漂亮:Vi	
+但是:C	整:DET	頭:M	牛:N	就:ADV	只有:ADV	四:DET	小:Vi	塊:M	的:T	份量:N	而已:T	相當:ADV	珍貴:Vi	
+從:P	斷面秀:N	便:ADV	可:ADV	知:Vt	其:DET	油花:N	分布:Nv	更為:ADV	豐富:Vt	
+軟嫩:Vi	的:T	程度:N	更:ADV	勝:Vi	沙朗:N	
+油脂:N	的:T	香甜:Vi	在:P	口:N	中:POST	繚繞:Vi	得:T	好:ADV	迷人:Vi	
+美國:N	神戶:N	牛:N	的:T	質感:N	真的:ADV	很:ADV	棒:Vi	
+我:N	想:Vt	應該:ADV	是:Vt	其:DET	熟成:Vt	的:T	方式:N	讓:Vt	牛排:N	的:T	口感:N	不會:ADV	覺得:Vt	那麼:ADV	生:Vt	
+很:ADV	
+值得:Vi	試試:Vt	三:DET	分:Vt	熟:Vi	
+一:DET	旁:N	的:T	配菜:N	還:ADV	有:Vt	松露炒野菇:N	洋芋:N	泥:N	與:C	牛肉:N	原汁:N	
+洋:A	芋泥:N	有:Vt	拌入:Vt	奶油:N	
+柔順:Vi	綿滑:Vi	有:Vt	淡淡:Vi	奶香:N	
+牛肉:N	原汁:N	可以:ADV	用來:Vt	沾:Vt	牛排:N	
+但:C	我:N	個:M	人:N	覺得:Vt	牛肉:N	原汁:N	味道:N	偏:ADV	苦:Vi	
+比較:ADV	喜歡:Vt	沾:Vt	鹽:N	或是:C	帶:Vt	點:M	酸:Vi	的:T	
+芥末:N	籽醬:N	
+法式:A	香橙:N	煎餅:N	
+服務生:N	說:Vt	他們:N	家:N	的:T	煎餅:N	是:Vt	必:ADV	點:Vt	的:T	
+煎餅:N	裡:N	夾:Vt	著:ASP	柔軟:Vi	的:T	卡士達:N	
+搭配:Vt	杜瓦黑:N	櫻桃酒醬:N	與:C	一:DET	球:N	草莓:N	冰淇淋:N	
+酸酸甜甜:Vi	的:T	很:ADV	討喜:Vi	
+義大利:N	提拉米蘇:N	
+以:P	上下:N	兩:DET	層:M	軟:Vi	手指:N	餅乾:N	夾馬:N	斯卡:N	彭起司:N	
+搭配:Vt	一:DET	球:N	自製:Vt	的:T	香草:N	莢:N	冰淇淋:N	
+提拉米蘇:N	本身:N	比較:ADV	不:ADV	濕:Vi	軟:Vi	
+與:C	冰淇淋:N	一起:ADV	就:ADV	非常:ADV	美味:Vi	
+飲料:N	選卡布:N	奇:ADV	諾:FW	紅茶:N	
+還:ADV	會:ADV	附上:Vt	小:Vi	點心:N	是:Vt	馬卡龍:N	
+開心果:N	口味:N	的:T	馬卡龍:N	不會:ADV	死:Vi	甜:Vi	
+配:Vt	茶:N	剛好:ADV	
+結束:Vt	這:DET	完美:Vi	的:T	一:DET	餐:M	
+結論:N	：:COLONCATEGORY	
+有幸:Vi	能:ADV	吃到:Vt	這:DET	價位:N	的:T	牛排:N	總:ADV	覺得:Vt	此:DET	生:Vt	無憾:Vi	了:ASP	XD:FW	
+從前菜:N	、:PAUSECATEGORY	沙拉:N	、:PAUSECATEGORY	湯:N	開始:Vt	到:P	主餐:N	
+最後:N	甜點:N	
+每:DET	道:M	都:ADV	表現:Vt	得:T	很:ADV	有:Vt	水準:N	
+神戶:N	牛排:N	的:T	風味:N	獨特:Vi	令:Vt	人:N	驚艷:Vi	
+且:C	能:ADV	一:DET	次:M	享受:Vt	兩:DET	種:M	口感:N	
+若是:C	有:Vt	預算:N	考量:Vt	其實:ADV	一千多:DET	的:T	選項:N	也:ADV	不少:Vi	
+服務:Nv	方面:N	每:DET	桌:M	都:ADV	有:Vt	專屬:Vt	的:T	服務生:N	會:ADV	用心:Vi	照顧:Vt	解說:N	
+餐廳:N	氣氛:N	也:ADV	很:ADV	棒:Vi	
+個:M	人:N	覺得:Vt	很:ADV	適合:Vi	在:P	特別:Vi	的:T	日子:N	來:Vi	這裡:N	享受:Vt	
+食物:N	美味:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	★:FW	
+ＣＰ:FW	值:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	☆:FW	
+服務:Nv	態度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	★:FW	
+再:ADV	訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	☆:FW	
+本:DET	篇:M	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32604987:DET	
+台北:N	*:FW	牛排:N	餐廳:N	整理:Vt	文:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32270925:DET	

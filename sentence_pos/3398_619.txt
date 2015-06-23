@@ -1,0 +1,103 @@
+dressingfrad:FW	(:PARENTHESISCATEGORY	搜尋:Nv	::COLONCATEGORY	dressingfrad:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	圓山:N	采吉軒:N	紅豆:N	湯抹茶剉:N	冰:N	
+Thu:FW	
+Aug:FW	
+7:DET	
+10:DET	::COLONCATEGORY	22:DET	::COLONCATEGORY	09:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	采吉:N	軒:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大同區:N	哈密街:N	103:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2592:DET	-:DASHCATEGORY	4929:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	~:FW	週六:N	11:DET	::COLONCATEGORY	30:DET	~:FW	20:DET	::COLONCATEGORY	30:DET	(:PARENTHESISCATEGORY	週日:N	公休:Vi	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	50:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	抹茶:N	紅豆:N	牛奶:N	冰:N	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+無:Vt	音樂圖:N	多:ADV	縮:Vt	網址版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/l2uu:FW	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+聽說:Vt	圓山:N	捷運站:N	孔廟:N	保安宮:N	旁:N	
+有:Vt	一:DET	間:M	超:Vt	好吃:Vi	的:T	紅豆湯:N	
+雖然:C	是:Vt	夏天:N	但是:C	因為:C	太多:DET	人:N	說:Vt	好吃:Vi	了:T	
+所以:C	就算:C	離:P	捷運站:N	有點:ADV	小:Vi	距離:N	還是:ADV	殺:Vt	來:Vi	了:ASP	
+采吉軒:N	紅豆:N	專門店:N	
+店面:N	不:ADV	大:Vi	走:Vi	小巧:Vi	溫馨:Vi	風:N	
+有:Vt	三四:DET	張:M	桌椅:N	閒聊:Vt	享用:Vt	甜點:N	
+店:N	內:N	紅豆:N	全程:ADV	使用:Vt	手工:N	焙炒:Vt	
+使用:Vt	100:DET	%:M	萬丹:N	、:PAUSECATEGORY	大寮:N	產出:Vt	的:T	高雄:N	9:DET	號:M	紅豆:N	
+每:DET	天:M	的:T	手工:N	羊羹:N	限量:Vi	品數:N	都:ADV	不:ADV	一樣:Vi	可以:ADV	先:ADV	打電話:Vi	問:Vt	今天:N	是:Vt	甚麼:DET	口味:N	喔:T	
+夏天:N	必:ADV	吃:Vt	抹茶:N	紅豆:N	牛奶:N	冰:N	日式:A	紅豆:N	烤麻:N	糬:b	
+店:N	內:N	的:T	冬瓜:N	和:C	寒天:N	商品:N	都:ADV	是:Vt	親手:ADV	製作:Vt	絕對:ADV	不:ADV	假手他人:Vi	喔:T	.:PERIODCATEGORY	
+來:ADV	看:Vt	菜單:N	都:ADV	有:Vt	中英文:N	標示:Vt	方便:Vi	國外:N	旅客:N	閱讀:Vt	
+首先:ADV	是:Vt	刨冰:N	系列:N	可:ADV	搭配:Vt	抹茶:N	冰淇淋:N	薏仁椰奶:N	
+還:ADV	有:Vt	手工:N	羊羹:N	單:ADV	顆:M	40:DET	八入:N	禮盒:N	特價:N	280:DET	
+天然:A	嫩寒:Vi	天:M	可以:ADV	加入:Vt	冬瓜茶:N	鮮:Vi	檸檬:N	紅豆:N	以及:C	最:ADV	新品:N	項:M	鮮奶:N	.:PERIODCATEGORY	
+當然:ADV	手工:N	冬瓜茶:N	也:ADV	不可:ADV	錯過:Vt	加上:Vt	小:Vi	紫蘇:N	就:ADV	是:Vt	最:ADV	夯:b	的:T	夏季:N	清涼:Vi	飲品:N	啦:T	
+手焙:Vt	紅豆湯:N	有:Vt	原味:N	40:DET	加入:Vt	鮮奶:N	椰奶:N	陳皮:N	新鮮:Vi	桂花:N	還:ADV	有:Vt	現:N	烤:Vt	日式:A	麻糬:N	各:DET	種:M	不同:Vi	搭配:Vt	
+還:ADV	有:Vt	紅豆:N	湯圓:N	喔:T	
+也:ADV	有:Vt	超值:Vi	套餐:N	可以:ADV	兩:DET	人:N	分享:Vt	各:DET	種:M	商品:N	產品:N	都:ADV	是:Vt	現點現:N	做:Vt	
+有沒有:ADV	看到:Vt	這:DET	就是:C	那:DET	傳說:N	中:POST	古早:N	古早:N	綠色:N	機台:N	的:T	剉冰:N	機:N	啊:T	
+有夠:ADV	給:Vt	她:N	懷念:Vt	的:T	啦:T	
+這:DET	就是:C	來自:Vt	台灣:N	屏東:N	萬丹:N	出產:Vt	的:T	高雄:N	9:DET	號:M	紅豆:N	
+新鮮:Vi	的:T	紅豆:N	先:ADV	浸泡:Vi	八:DET	至:C	十:DET	小時:M	
+可:ADV	讓:Vt	水分:N	在:P	豆:N	裡:N	均勻:Vi	擴張:Vt	
+更:ADV	保持住:Vt	豆形:N	
+下面:N	則:ADV	是:Vt	天然:A	寒天:N	直接秀:N	給:Vt	你:N	看:Vt	
+抹茶:N	紅豆:N	牛奶:N	冰:N	中:POST	80:DET	大:Vi	120:DET	
+挖挖:Vt	挖:Vt	哇哇:ADV	
+滿滿:Vi	的:T	紅豆:N	淋:Vt	上:N	煉乳:N	
+怎麼:ADV	這麼:ADV	吸引人:Vi	啦:T	
+重點:N	是:Vt	這:DET	紅豆:N	非常:ADV	無敵:Vi	大:Vi	顆:M	
+我:N	敢:Vt	發誓:Vt	這:DET	是:Vt	我:N	吃:Vt	過:ASP	最:ADV	大:Vi	顆:M	的:T	紅豆:N	了:T	
+大:Vi	顆:M	到:Vt	有點:ADV	想:Vt	懷疑:Vt	是:Vt	大:Vi	紅豆:N	
+花豆:N	
+來:ADV	偽裝:Vt	的:T	嗎:T	
+這:DET	品:N	和:C	紅豆湯:N	不同:Vi	是:Vt	特意:ADV	保留:Vt	紅豆:N	的:T	完全:Vi	完整性:N	
+所以:C	吃起來:ADV	真的:ADV	紅豆:N	的:T	碩大:Vi	感:Vt	很:ADV	驚人:Vi	每:ADV	一口:ADV	都:ADV	覺得:Vt	不可思議:Vi	
+可以:ADV	充分:Vi	享受到:Vt	紅豆:N	顆粒:N	和:C	被:P	抿開:Vt	的:T	口感:N	
+剉冰:N	則:ADV	是:Vt	保有:Vt	古:Vi	早:Vi	感淋:N	上:N	黑:Vi	糖水:N	但是:C	我:N	建議:Vt	可以:ADV	請:Vt	店家:N	不要:ADV	淋:Vt	
+因為:C	紅豆:N	就:ADV	已經:ADV	夠:ADV	好吃:Vi	啦:T	
+抹茶:N	冰淇淋:N	則:ADV	是:Vt	選用:Vt	明治:N	但是:C	因為:C	紅豆:N	太:ADV	搶戲:N	所以:C	難得:Vi	明治:N	可以:ADV	去:Vt	旁邊:N	站:Vi	這樣:Vi	
+日式:A	紅豆:N	烤麻糬:N	60:DET	元:M	
+原味:N	紅豆湯:N	上:N	放:Vt	了:ASP	現:N	烤:Vt	的:T	日式:A	麻糬:N	
+麻糬:N	也:ADV	可以:ADV	單:ADV	點:Vt	搭配:Nv	醬油:N	鹹:Vi	甜:Vi	食用:Vt	
+紅豆湯:N	煮出:Vt	較:ADV	多:Vi	的:T	沙感:N	但是:C	一樣:Vi	有:Vt	顆粒狀:N	
+不過:C	甜:Vi	的:T	表現:N	方式:N	令:Vt	人:N	喜愛:Vt	
+現烤麻糬:N	則:ADV	是:Vt	吃起來:ADV	有:Vt	種:M	米果:N	感:Vt	
+不管:C	是:Vt	單:ADV	吃:Vt	享受:Vt	小牽絲:N	或是:C	壓扁:Vt	浸泡:Vi	到:P	紅豆:N	湯:N	裡:POST	都:ADV	很:ADV	適合:Vi	
+新品:N	鮮奶:N	寒:Vi	天:M	40:DET	
+寒天:N	充滿:Vt	了:ASP	咕嚕:ADV	咕嚕:ADV	感:Vt	搭配:Vt	鮮奶:N	很:ADV	容易:Vi	秒:M	殺:Vt	
+一:DET	杯:M	大概:ADV	10:DET	秒:M	就:ADV	會:ADV	被:P	喝:Vt	光光:Vi	
+喵:b	到:T	手工:N	羊羹:N	特價:N	中:POST	口味:N	有:Vt	六:DET	種:M	三:DET	個:M	100:DET	元:M	
+本:DET	日:M	就:ADV	是:Vt	這:DET	兩:DET	種:M	當家:Vi	啦:T	藍莓:N	和:C	蔓:b	越:ADV	莓:b	
+仿古:Vi	竹葉:N	包裝:N	很:ADV	可愛:Vi	
+首先:ADV	是:Vt	藍莓:N	口味:N	
+羊羹:N	後:POST	包裝:N	也:ADV	把:P	成分:N	營養:N	標示:N	寫:Vt	的:T	很:ADV	清楚:Vi	呢:T	
+長方形:N	顏色:N	有點:ADV	深:Vi	
+藍莓:N	的:T	甜度:N	比較:ADV	低:Vi	白:Vi	豆沙:N	很:ADV	細:Vi	的:T	凝固感:N	
+蔓:b	越:ADV	莓:b	口味:N	一樣:Vi	都:ADV	寫:Vt	得:T	很:ADV	清楚:Vi	
+裡面:N	還:ADV	有:Vt	一:DET	層:M	包裝:N	有點:ADV	粉紅感:N	
+可以:ADV	瞥見:Vt	小小:Vi	果乾:N	甜度:N	也:ADV	比較:ADV	明顯:Vi	果然:ADV	羊羹:N	是:Vt	用來:Vt	配:Vt	茶:N	的:T	甜點:N	啊:T	
+除了:P	羊羹:N	可以:ADV	買回家:Vi	紅豆湯:N	也:ADV	可以:ADV	當:P	伴:Vt	手禮:N	囉:T	
+直接:Vi	一:DET	個:M	禮盒:N	帶:Vt	著:ASP	走:Vi	也:ADV	可以:ADV	冷藏:Vt	宅配:N	訂購:Vt	
+產品:N	需:ADV	冷藏:Vt	
+一:DET	盒:M	可以:ADV	放:Vt	7:DET	包:M	紅豆:N	湯:N	每:DET	包:M	50:DET	元:M	
+很:ADV	重:Vi	沉沉:Vi	的:T	一:DET	大:Vi	包:M	
+包裝:N	也:ADV	印有:Vt	店名:N	
+真:Vi	材實料:N	隨便:Vi	一:ADV	拉:Vt	就:ADV	一:DET	堆:M	紅豆:N	可以:ADV	看:Vt	的:T	見:Vt	
+使用:Vt	耐熱:Vi	包裝:N	可以:ADV	直接:Vi	隔:Vt	水:N	加熱:Vi	
+也:ADV	可以:ADV	拆開:Vt	到:P	在:P	碗:N	裡:N	放進:Vt	微波爐:N	或是:C	電鍋:N	加熱:Vi	喔:T	
+一:DET	包:M	分量:N	是:Vt	兩:DET	人:N	分:Vt	
+紅豆湯:N	很:ADV	濃:Vi	純水:N	分:Vt	比較:ADV	少:Vi	
+可以:ADV	看到:Vt	每:DET	一:DET	顆:M	紅豆:N	保有:Vt	顆粒狀:N	但是:C	又:ADV	有點:ADV	小小:Vi	的:T	綻開:Vt	
+也:ADV	就是:C	比:P	冰品:N	的:T	紅豆:N	再:ADV	軟細:N	一點:DET	但是:C	又:ADV	沒有:ADV	到:P	破:Vt	的:T	地步:N	
+綿密:Vi	入口:N	的:T	令:Vt	人:N	喜愛:Vt	
+紅豆湯:N	帶:Vt	點:M	沙感:N	和:C	湯:N	融合度:N	很:ADV	高:Vi	
+甜度:N	暖暖:N	直:ADV	入:Vt	心:N	裡:N	
+夏天:N	冰冰:N	吃:Vt	也:ADV	很:ADV	令:Vt	人:N	喜愛:Vt	喔:T	
+整:DET	碗:N	的:T	完成度:N	非常:ADV	高:Vi	重點:N	是:Vt	坐:Vi	在:P	家:N	裡:N	就:ADV	可以:ADV	享用:Vt	高雄:N	9:DET	號:M	紅豆:N	
+愛:Vt	台灣:N	就:ADV	從:P	喝:Vt	台灣:N	紅豆湯:N	開始:Vi	喔:T	
+可以:ADV	從:P	圓山:N	捷運站:N	騎:Vt	YOUBIKE:FW	到:Vt	保安宮:N	旁:N	停好:Vt	
+采吉軒:N	就:ADV	在:P	保安宮:N	旁邊:N	可:ADV	來:ADV	買:Vt	羊羹:N	去:ADV	拜拜:Vi	甜甜:Vi	
+考生:N	來:Vi	孔廟:N	拜拜:Vi	也:ADV	記得:Vt	來:ADV	喝:Vt	杯:M	紅豆湯:N	吃:Vt	碗:N	紅豆:N	剉冰:N	喔:T	

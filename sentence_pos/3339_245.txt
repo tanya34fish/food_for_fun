@@ -1,0 +1,103 @@
+h294799(Katy:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	六:DET	張:M	犁塔吉:N	摩洛哥:N	料理:N	，:COMMACATEGORY	道地:Vi	的:T	北非菜:N	
+Mon:FW	
+Jul:FW	
+21:DET	
+22:DET	::COLONCATEGORY	49:DET	::COLONCATEGORY	45:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	塔吉:N	摩洛哥:N	料理:Vt	TajinMoroccanCuisine:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	07月:N	
+地址:N	：:COLONCATEGORY	台北市:N	基隆路:N	二段:N	144巷:N	3:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2732:DET	-:DASHCATEGORY	7296:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	（:PARENTHESISCATEGORY	Tue-Sun:FW	）:PARENTHESISCATEGORY	11:DET	::COLONCATEGORY	30:DET	–:FW	14:DET	::COLONCATEGORY	30,:NULL	18:DET	::COLONCATEGORY	00:DET	–:FW	21:DET	::COLONCATEGORY	00:DET	
+*:FW	週一:N	公休:Vi	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	270:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	
+有無:Vt	包廂:N	：:COLONCATEGORY	
+推薦:Vt	菜色:N	：:COLONCATEGORY	蕃茄:N	起:POST	司:Vt	牛:N	肉丸:N	塔吉:N	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	---:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+（:PARENTHESISCATEGORY	圖:N	多無:Vt	音樂:N	好:Vi	讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	h294799.pixnet.net/blog/post:FW	/:FW	380274842:DET	）:PARENTHESISCATEGORY	
+以下:N	為:Vt	網誌:N	純:Vi	文字版:N	
+不:ADV	知道:Vt	大家:N	有沒有:ADV	跟:P	我:N	一樣:Vi	
+每:DET	次:M	找:Vt	餐廳:N	都:ADV	是:Vt	一:DET	堆:M	義式:A	、:PAUSECATEGORY	日式:A	
+再不然:ADV	就:ADV	美式:A	餐廳:N	
+常常:ADV	吃下來:Vi	真的:ADV	會:ADV	到:P	很:ADV	膩:Vi	
+所以:C	我:N	還:ADV	蠻:ADV	喜歡:Vt	吃:Vt	一些:DET	特別:Vi	的:T	異國:N	料理:N	換換:Vt	口味:N	
+這:DET	次:M	吃:Vt	的:T	塔吉:N	是:Vt	摩洛哥:N	料理:N	
+一:ADV	提到:Vt	摩洛哥:N	我:N	只:ADV	想:Vt	的:T	到:Vt	摩洛哥:N	護:Vt	髮油:N	
+上網:Vi	查:Vt	了:ASP	一下:N	才:ADV	知道:Vt	原來:ADV	是:Vt	位於:Vt	北非:N	的:T	一:DET	個:M	國家:N	
+部分:DET	菜單:N	在:P	他們:N	粉絲:N	專頁:N	About:FW	的:T	地方:N	就:ADV	有:Vt	囉:T	
+點:Vt	我:N	
+那天:N	在:P	店裡:N	看到:Vt	的:T	菜單:N	種類:N	比較:ADV	多:Vi	
+價錢:N	也:ADV	稍稍:ADV	有:Vt	些:M	不同:Vi	
+這:DET	是:Vt	點:M	主餐:N	都:ADV	會:ADV	附:Vt	的:T	pita:FW	餅:N	
+1:DET	片:M	
+跟:P	番紅花飯:N	
+pita:FW	餅:N	蠻:ADV	大一:N	塊:N	的:T	
+番紅花飯:N	非常:ADV	小:Vi	
+大概:ADV	10:DET	口:M	解決:Vt	吧:T	XD:FW	
+番紅花:N	飯:N	吃起來:ADV	其實:ADV	沒:Vt	什麼:DET	味道:N	
+比較:Vt	粒粒:DET	分明:Vi	一點:ADV	
+摩洛哥:N	最:ADV	有名:Vi	的:T	就是:C	這:DET	個:M	塔吉鍋:N	啦:T	
+那:DET	時候:N	有:Vt	看到:Vt	桌:N	邊:N	有:Vt	介紹:N	塔吉鍋:N	的:T	好處:N	
+但:C	我:N	現在:N	忘:Vt	了:ASP	
+這:DET	個:M	鍋子:N	不但:C	形狀:N	特別:Vi	
+上面:N	的:T	圖案:N	更:ADV	是:Vt	可愛:Vi	
+有:Vt	種:M	隨性:Vi	又:ADV	很:ADV	藝術:N	的:T	感覺:N	
+送上來:Vt	拍:Vt	拍照:Vi	後:POST	店員:N	就:ADV	會:ADV	來:ADV	收走:Vt	蓋子:N	囉:T	
+老闆:N	有:Vt	拿:Vt	這:DET	碟:N	辣醬:N	給:Vt	我們:N	
+看起來:ADV	好像:ADV	很:ADV	辣:Vi	
+但:C	其實:ADV	還好:Vi	喔:T	
+我:N	還:ADV	蠻:ADV	喜歡:Vt	加:Vt	辣醬:N	後:POST	的:T	味道:N	
+蕃茄:N	起:POST	司:Vt	牛:N	肉丸:N	塔吉:N	CheeseKoftaTajin:FW	
+＄:FW	240:DET	＋:FW	10％:DET	
+牛:N	肉丸:N	蠻:ADV	多:Vi	顆:M	的:T	
+之前:N	只有:ADV	在:P	Ikea:FW	吃:Vt	過:ASP	牛:N	肉丸:N	
+Ikea:FW	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	h294799.pixnet.net/blog/post:FW	/:FW	260631761:DET	
+吃:Vt	了:ASP	塔吉:N	的:T	牛:N	肉丸:N	才:ADV	知道:Vt	
+牛:N	肉丸:N	也:ADV	是:Vt	有:Vt	等級:N	之:T	分:Vt	的:T	
+完整:Vi	地:T	把:P	肉汁:N	全部:DET	鎖:N	在:P	裡面:N	
+非常:ADV	多汁:Vi	
+喜歡:Vt	吃:Vt	蛋:N	汁:N	的:T	要:ADV	快點:ADV	把:P	蛋:N	打散:Vi	噢:T	
+不然:C	之後:N	它:N	就:ADV	會:ADV	變:Vt	全:DET	熟:Vi	了:T	
+醬汁:N	番茄味:N	很:ADV	重:Vi	
+用:P	pita:FW	餅:N	沾:Vt	著:ASP	吃:Vt	或:C	淋:Vt	在:P	番紅花:N	飯:N	上:POST	都:ADV	很:ADV	好吃:Vi	
+但:C	不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	我:N	的:T	本來:A	醬汁:N	就:ADV	比較:ADV	少:Vi	
+因為:C	我:N	是:Vt	個:M	極度:ADV	需要:Vt	一口:ADV	飯:N	一口:ADV	醬:N	的:T	人:N	
+吃到:Vt	最後:N	醬汁:N	蠻:ADV	嚴重:Vi	不足:Vi	的:T	
+但:C	同:DET	桌:M	的:T	朋友:N	們:N	都:ADV	沒:ADV	遇到:Vt	這:DET	個:M	問題:N	啦:T	
+摩洛哥:N	羊肉:N	塔吉:N	
+＄:FW	350:DET	＋:FW	10％:DET	
+這:DET	算是:Vt	店:N	內:N	的:T	招牌:N	吧:T	
+看:Vt	很多:DET	人:N	都:ADV	有點:ADV	這:DET	道:M	
+但:C	我:N	只:ADV	試:Vt	了:ASP	一下湯:N	
+還:ADV	不錯:Vi	
+朋友:N	說:Vt	羊肉:N	很:ADV	好吃:Vi	
+這:DET	個:M	我:N	忘記:Vt	是:Vt	什麼:DET	了:T	
+Ａ:FW	套餐:N	-:DASHCATEGORY	摩洛哥:N	薄荷茶:N	
+＄:FW	60:DET	＋:FW	10％:DET	
+除了:P	單點:N	外:POST	也:ADV	可以:ADV	加:Vt	套餐:N	
+有:Vt	三:DET	種:M	套餐:N	可以:ADV	選:Vt	
+薄荷:N	茶:N	的:T	茶壺:N	很:ADV	可愛:Vi	
+我:N	覺得:Vt	喝:Vt	起來:ASP	蠻:ADV	特別:Vi	的:T	
+一:DET	開始:Vi	是:Vt	薄荷:N	
+到:P	喉嚨:N	那會:N	有點:ADV	甜甜:Vi	的:T	味道:N	
+雖然:C	我:N	不:ADV	喜歡:Vt	薄荷:N	但:C	這:DET	個:M	茶:N	我:N	不:ADV	排斥:Vt	
+不過:C	一起:ADV	去:Vt	的:T	朋友:N	都:ADV	不:ADV	是:Vt	很:ADV	喜歡:Vt	..:ETCCATEGORY	
+茶:N	非常:ADV	少:Vi	
+倒:Vt	個:M	2:DET	-:DASHCATEGORY	3:DET	杯:M	就:ADV	沒有:Vt	了:ASP	&:FW	gt:FW	
+_:FW	&:FW	lt:FW	
+最後:N	是:Vt	環境:N	照:Vt	啦:T	
+整:DET	家:N	店:N	都:ADV	佈置:Vt	得:T	很:ADV	異國:N	
+老闆:N	跟:P	店員:N	的:T	也:ADV	都:ADV	很:ADV	親切:Vi	
+環境:N	上:POST	我:N	唯一:A	不:ADV	喜歡:Vt	的:T	是:Vt	
+我:N	那:DET	天:M	剛好:ADV	坐到:Vt	一:DET	張:M	藤編:N	椅:N	
+我:N	又:ADV	剛好:ADV	穿:Vt	熱褲:N	
+坐:Vi	的:T	不:ADV	是:Vt	很:ADV	舒服:Vi	T_T:FW	
+現在:N	店:N	內:N	有:Vt	按:Vt	讚:Vi	送:Vt	棉花糖:N	餅乾:N	的:T	活動:N	
+但:C	那天:N	聊:Vt	的:T	太:ADV	忘我:Vi	
+不知不覺:ADV	就:ADV	打烊:Vi	了:ASP	
+所以:C	沒:ADV	吃:Vt	到:P	
+整體:N	下來:POST	
+味道:N	跟:P	環境:N	都:ADV	不錯:Vi	
+只:ADV	是:Vt	朋友:N	們:N	一致:Vi	認為:Vt	價位:N	有點:ADV	偏:Vt	高:Vi	

@@ -1,0 +1,11 @@
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	忠孝東路:N	五段:N	6:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	250:DET	
+杏子:N	的:T	茶:N	好:ADV	好喝:Vi	
+友人:N	說:Vt	她:N	喜歡:Vt	腰:N	內:N	肉:N	因為:C	好:ADV	軟:Vi	
+還好:ADV	不:ADV	膩:Vi	口:N	
+不:ADV	知道:Vt	是:Vt	筋:N	還是:C	什麼:DET	有點:ADV	難:Vi	咬:Vt	
+蘿蔔:N	絲:N	個:M	人:N	覺得:Vt	很:ADV	好吃:Vi	
+雞:N	排好:Vt	嫩:Vi	
+吃起來:ADV	鹹鹹:Vi	的:T	不:ADV	嗆辣:Vi	
+友人:N	第一:DET	次:M	吃:Vt	表示:Vt	::COLONCATEGORY	好:ADV	軟:Vi	
+但:C	吃起來:ADV	完全:ADV	不:ADV	膩:Vi	口:N	唷:T	

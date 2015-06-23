@@ -1,0 +1,122 @@
+cindy:FW	24:DET	(:PARENTHESISCATEGORY	小:Vi	豬:N	咬:Vt	橘子:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	古亭:N	日本:N	牛丼:N	Sukiya:FW	蔥溫玉:N	牛丼:N	
+Wed:FW	
+Aug:FW	
+6:DET	
+19:DET	::COLONCATEGORY	21:DET	::COLONCATEGORY	26:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	sukiya:FW	?:QUESTIONCATEGORY	?:QUESTIONCATEGORY	家:N	
+消費:N	時間:N	：:COLONCATEGORY	103年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	二段:N	50:DET	號:M	(:PARENTHESISCATEGORY	古亭:N	站:Vi	7:DET	號:M	出口:Nv	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23584169:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	7:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	最後:N	點餐:N	22:DET	::COLONCATEGORY	30:DET	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	69:DET	元:M	起:POST	
+圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	celine1986love.pixnet.net/blog/post:FW	/:FW	30255131:DET	
+sukiya:FW	家:N	
+日本:N	第一:DET	大牛:N	丼:b	品牌:N	隆重:Vi	登台:Vi	
+首:DET	家:N	店:N	座落:Vt	於:P	台北:N	捷運:N	古亭:N	站:Vi	7:DET	號:M	出口:Nv	
+而:C	我:N	也:ADV	不:ADV	是:Vt	什麼:DET	哈:ADV	日族:N	
+對於:P	電視:N	報導:Vt	什麼:DET	日本:N	來:ADV	開:Vt	的:T	店:N	通常:ADV	是:Vt	無動於衷:Vi	
+當日:N	會:ADV	到訪:Vt	純粹:ADV	是:Vt	因為:C	
+1:DET	.:PERIODCATEGORY	聽說:Vt	他:N	比:P	吉野家:N	便宜:Vi	很多:DET	
+對於:P	吉野家:N	漲價:Vi	漲:Vi	這麼多:DET	
+很:ADV	不:ADV	爽:Vi	
+2:DET	.:PERIODCATEGORY	平日:N	下午:N	沒:Vt	事:N	做:Vt	
+不:ADV	來:ADV	吃:Vt	個:M	排隊:Nv	美食:N	讓:Vt	大家:N	羨慕:Vt	一下:N	
+很:ADV	浪費:Vi	假期:N	
+內側:N	是:Vt	外帶區:N	
+每:DET	人:N	限定:Vt	五:DET	碗:M	
+外測:Vt	是:Vt	內:N	用:P	區:N	
+無:Vt	用餐:Nv	時間:N	時間:N	限制:N	
+當天:N	算了:Vi	算:Vt	
+約略:ADV	等:Vt	了:ASP	12:DET	組:M	人馬:N	
+約莫:ADV	10:DET	分鐘:M	即可:ADV	入場:Vi	
+翻:Vt	桌率:N	蠻:ADV	高:Vi	
+店員:N	上菜:Nv	效率:N	非常:ADV	高:Vi	
+可以:ADV	節省:Vt	等待:Vt	的:T	時間:N	
+店:N	門口:N	的:T	右側:N	櫥窗櫃:N	內:N	展示:Vt	著:ASP	丼:b	飯:N	、:PAUSECATEGORY	咖哩飯:N	模型:N	
+算是:Vt	激勵:Vt	我:N	繼續:Vt	排隊:Vi	的:T	動力:N	
+實品:N	跟:P	展示品:N	一模一樣:Vi	
+完全:ADV	沒有:Vt	造假:Nv	嫌疑:N	
+唯一:A	拍攝:Vt	的:T	一:DET	張:M	店:N	內:N	實景:N	
+用餐:Nv	人潮:N	絡繹不絕:Vi	
+無法:ADV	好好:Vi	拍攝:Vt	
+左邊:N	是:Vt	吧台區:N	
+右邊:N	是:Vt	2:DET	人:N	or:FW	4:DET	人:N	座位區:N	
+拍攝:Vt	Menu:FW	給:Vt	大家:N	參考參考:Vt	
+特別:Vi	的:T	是:Vt	
+分成:Vt	
+迷你:Vi	碗:N	、:PAUSECATEGORY	中碗:N	、:PAUSECATEGORY	超值:Vi	碗:N	、:PAUSECATEGORY	超大:A	碗:N	
+還:ADV	蠻:ADV	想:Vt	見識:N	看看:Vt	超大:A	碗:N	
+到底:ADV	有:Vt	多:ADV	大:Vi	碗:N	
+優惠:Vt	套餐:N	
+我:N	覺得:Vt	蠻:ADV	划算:Vi	的:T	
+我:N	這:DET	種:M	無湯:N	不:ADV	歡:Vi	的:T	人:N	
+單:ADV	點:Vt	一:DET	碗:M	湯:N	就:ADV	20:DET	元:M	了:T	
+當然:ADV	要點:N	套餐:N	囉:T	
+飲料:N	賣:Vt	的:T	不:ADV	算:Vt	貴:Vi	
+特製:Vt	咖哩:N	
+迷你:Vi	碗:N	
+79:DET	元:M	
+友人:N	剛:ADV	用完:Vt	餐:N	就:ADV	被:P	我:N	拖來:Vt	吃:Vt	sukiya:FW	
+所以:C	只好:ADV	意思:N	意思:N	點:Vt	了:ASP	迷你:Vi	碗:N	
+也:ADV	沒:ADV	想像:Vt	中:POST	的:T	迷你:Vi	
+小鳥:N	胃:N	女生:N	
+應該:ADV	可以:ADV	飽:Vi	呦:b	
+沒有:ADV	試:Vt	吃:Vt	
+不:ADV	知道:Vt	味道:N	如何:ADV	
+蔥溫玉牛:N	丼:b	
+中碗:N	
+99:DET	元:M	
+可樂餅:N	套餐:N	
+50:DET	元:M	
+我:N	也:ADV	是:Vt	剛:ADV	吃飽:Vi	才:ADV	來:Vi	的:T	無誤:Vi	
+秉持:Vt	著:ASP	老娘:N	都:ADV	排隊:Vi	了:ASP	
+不:ADV	吃:Vt	白:Vi	不:ADV	吃:Vt	
+硬是:ADV	要點:N	個中:DET	碗:M	+:FW	套餐:N	
+撐破:Vt	肚皮:N	
+這:DET	是:Vt	未:ADV	攪拌:Vt	就:ADV	拍攝:Vt	的:T	味增:N	湯:N	
+所以:C	有點:ADV	不:ADV	均勻:Vi	的:T	顏色:N	
+印象:N	中:POST	湯:N	內:N	只有:C	蔥:N	、:PAUSECATEGORY	海帶:N	
+不過:C	味道:N	非常:ADV	好喝:Vi	
+重點:N	是:Vt	非常:ADV	滾燙:Vi	
+冷掉:Vt	的:T	湯:N	我:N	完全:ADV	喝:Vt	不:ADV	入口:Vi	
+原本:ADV	對:P	這:DET	個:M	可樂餅:N	很:ADV	期待:Vt	
+結果:ADV	
+我:N	失望:Vi	了:T	
+外皮:N	酥脆:Vi	沒:ADV	錯:Vi	
+但是:C	內:N	餡:N	沒:Vt	什麼:DET	味道:N	
+下:DET	次:M	不會:ADV	點:Vt	了:ASP	
+滿:ADV	滿滿:Vi	的:T	蔥花:N	
+看:Vt	了:ASP	就:ADV	心情:N	大悅:Vi	
+而且:C	蔥花:N	不會:ADV	過於:ADV	辛辣:Vi	
+但:C	好像:ADV	哪:DET	邊:N	怪怪:Vi	的:T	
+疑:Vt	
+阿:N	
+還:ADV	沒:ADV	打:Vt	蛋:N	上:POST	去:ADV	
+Oh:FW	
+No:FW	
+我:N	的:T	蛋:N	滑到:Vt	最:ADV	邊:N	邊:N	去:Vt	了:ASP	
+我:N	懂:Vt	了:ASP	
+下:DET	次:M	我:N	要:ADV	先:ADV	在:P	中間:N	挖:Vt	個:M	洞:N	
+讓:Vt	蛋:N	蛋:N	乖乖:Vi	躺:Vi	在:P	正中央:N	
+牛肉:N	的:T	份量:N	也:ADV	不少:Vi	
+而且:C	很:ADV	入:Vt	味:N	
+一口:ADV	蔥花:N	、:PAUSECATEGORY	飯:N	、:PAUSECATEGORY	牛肉:N	混:Vt	著:ASP	蛋夜:N	
+同時:N	入口:N	
+大大:Vi	滿足:Vt	啊:T	
+吃完:Vt	這:DET	整:DET	碗:M	牛丼:N	
+非常:ADV	有:Vt	飽足感:N	
+對了:Vi	
+一:DET	旁:N	會:ADV	準備:Vt	一:DET	杯:M	冰:N	茶:N	與:C	醃:Vt	薑絲:N	及:C	七:DET	味:M	粉:N	
+可以:ADV	讓:Vt	味覺:N	轉換:Vt	一下:N	喔:T	
+Celine:FW	寧:ADV	說:Vt	
+快點:ADV	開:Vt	分店:N	吧:T	
+我:N	會:ADV	常常:ADV	去:ADV	用餐:Vi	的:T	
+sukiya:FW	
+住址:N	::COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	二段:N	50:DET	號:M	
+古亭:N	站:Vi	7:DET	號:M	出口:Nv	
+電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	23584169:DET	
+營業:Nv	時間:N	::COLONCATEGORY	7:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	00:DET	
+最後:N	點餐:N	22:DET	::COLONCATEGORY	30:DET	
+官網:N	::COLONCATEGORY	請:Vt	點:Vt	此:DET	

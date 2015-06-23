@@ -1,0 +1,68 @@
+blackmamba01(I'mback:FW	!:EXCLAMATIONCATEGORY	!:EXCLAMATIONCATEGORY	!:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山北路:N	超人:N	氣:N	店家:N	-:DASHCATEGORY	博:N	多:Vi	一:DET	風堂:N	拉麵:N	
+Tue:FW	
+Aug:FW	
+19:DET	
+23:DET	::COLONCATEGORY	49:DET	::COLONCATEGORY	20:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	台北市:N	博:Vi	多:Vi	一:DET	風堂:N	拉麵:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	中山北路:N	一段:N	85:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2562:DET	-:DASHCATEGORY	9222:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	約:ADV	280:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	白丸:N	原味:N	、:PAUSECATEGORY	赤丸:N	新:Vi	味:N	
+建議:Vt	閱讀:Vt	圖文:N	網誌:N	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.xuite.net/sting1101130937/wretch:FW	/:FW	237084853:DET	
+無:Vt	音樂:N	
+&:FW	lt:FW	
+內文:N	&:FW	gt:FW	
+有:Vt	看過:Vt	國興:N	衛視:N	電視:N	冠軍:N	的:T	朋友:N	
+應該:ADV	對:P	一:DET	風堂:N	不:ADV	陌生:Vi	
+連贏:Vt	三:DET	屆:M	冠軍:N	的:T	拉麵:N	王河原:N	成:Vt	美:N	
+在:P	台灣:N	與:C	乾杯:Vi	燒肉:N	合作:Vi	
+開:Vt	了:ASP	這:DET	家:M	近期:N	媒體:N	也:ADV	常:ADV	幫忙:Vt	打廣告:Vi	的:T	：:COLONCATEGORY	博:Vt	多:DET	一:DET	風堂:N	拉麵:N	
+相信:Vt	有:Vt	很多:DET	去:ADV	吃:Vt	過:ASP	日本:N	一:DET	風堂:N	的:T	朋友:N	應該:ADV	也:ADV	是:Vt	這樣:Vi	覺得:Vt	
+味道:N	並:ADV	不:ADV	完全:ADV	一致:Vi	
+還是:C	日本:N	好吃:Vi	些:ADV	
+但:C	台灣:N	吃:Vt	得到:Vt	也:ADV	不錯:Vi	了:T	
+白丸:N	原味:N	：:COLONCATEGORY	想:Vt	體會:Vt	一:DET	風堂:N	湯頭:N	的:T	朋友:N	
+小弟:N	建議:Vt	點:ADV	這:DET	味:M	豬:N	
+豚:N	
+骨:N	湯頭:N	做:Vt	基底:N	的:T	湯:N	最:ADV	適合:Vi	
+赤丸:N	新:Vi	味:N	：:COLONCATEGORY	這:DET	則:ADV	是:Vt	比較:ADV	新潮:Vi	的:T	口味:N	
+加上:C	味增:N	醬:N	
+但是:C	又:ADV	跟:P	一般:A	味增:N	拉麵:N	較:ADV	溫潤:Vi	的:T	口感:N	不同:Vi	
+香油:N	也:ADV	很:ADV	搶戲:N	
+辣:Vi	肉味:N	增:Vt	：:COLONCATEGORY	豬骨:N	口味:N	基底:N	
+加上:C	絞肉炒成:Vt	的:T	辣:Vi	肉味:N	增:Vt	
+特色:N	就:ADV	是:Vt	帶有:Vt	些:M	辣味:N	
+稍微:ADV	油膩:Vi	
+湯頭:N	清爽:Vi	但是:C	肉醬味:N	又:ADV	厚重:Vi	
+嗜:Vt	辣:Vi	的:T	台灣:N	朋友:N	不用:ADV	太:ADV	期待:Vt	辣度:N	
+日本人:N	吃:Vt	辣:Vi	的:T	本事:N	跟:P	我們:N	差:Vi	遠:Vi	了:T	
+一:DET	風堂:N	一樣:Vi	沒有:Vt	特別:Vi	為了:P	台灣:N	去:ADV	改良:Vt	鹹度:N	的:T	問題:N	
+不過:C	由於:C	湯頭:N	加:Vt	了:ASP	麻油:N	
+算是:Vt	還:ADV	比較:ADV	容易:Vi	接受:Vt	一些:DET	
+至於:P	一:DET	風堂:N	的:T	麵:N	則:ADV	是:Vt	除了:P	Q:FW	彈:Vt	之外:POST	
+的確:ADV	可以:ADV	感受:Vt	得到:Vt	越:ADV	嚼:Vt	越:ADV	香:Vi	
+麵:N	與:C	湯:N	都:ADV	很:ADV	有:Vt	個性:N	
+點:N	來:ADV	吃:Vt	好玩:Vi	的:T	餃子:N	
+真的:ADV	跟:P	台灣:N	鍋貼:N	不:ADV	相關:Vi	
+日本:N	的:T	餃子:N	偏向:Vt	把:P	料絞:Vt	的:T	細細:Vi	地:T	
+皮:N	不:ADV	Q:FW	
+較:ADV	偏重:Vt	香味:N	
+品嚐:Vt	完:Vt	一:DET	風堂:N	
+感覺:N	上:POST	就是:C	不:ADV	太:ADV	同:ADV	於:P	一般:A	的:T	傳統:N	拉麵:N	
+好吃:Vi	並:ADV	多:Vi	了:T	一:ADV	分:Vt	新潮:Vi	
+至於:P	日本:N	的:T	味道:N	比較:ADV	
+之後:N	再:ADV	分享:Vt	
+還可以:ADV	看看:Vt	：:COLONCATEGORY	花月:N	嵐:N	
+一樣:Vi	可以:ADV	看看:Vt	：:COLONCATEGORY	梅光軒:N	
+可以:ADV	加熱:Vi	的:T	台式:A	拉麵:N	：:COLONCATEGORY	板橋:N	博:Vt	多:DET	拉麵:N	
+網誌:N	搬家:Vi	了:ASP	::COLONCATEGORY	分享:Vt	汽旅摩鐵:N	.:PERIODCATEGORY	美食:N	.:PERIODCATEGORY	遊記:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.xuite.net/sting1101130937/wretch:FW	
+記錄:N	與:C	抒發:Nv	生活:N	為主:Vi	
+當然:ADV	一樣:Vi	拒絕:Vt	廣告:N	

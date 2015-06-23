@@ -1,0 +1,108 @@
+work2dog:FW	(:PARENTHESISCATEGORY	臥嗑:N	土豆:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北市:N	忠孝:N	復興:Vt	站:Vi	~:FW	讚岐:N	烏龍麵:N	．:PERIODCATEGORY	土:N	三:DET	寒:Vi	六:DET	
+Sun:FW	
+Jul:FW	
+20:DET	
+20:DET	::COLONCATEGORY	30:DET	::COLONCATEGORY	57:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	土:N	三:DET	寒:Vi	六:DET	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	安東街:N	52號之三:N	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2771:DET	-:DASHCATEGORY	6661:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	10:DET	~:FW	14:DET	::COLONCATEGORY	10:DET	、:PAUSECATEGORY	16:DET	::COLONCATEGORY	50:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	平日:N	):PARENTHESISCATEGORY	、:PAUSECATEGORY	11:DET	::COLONCATEGORY	10:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	假日:N	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	work2dog.blogspot.tw/2014/07/blog-post_20.html:FW	
+日本:N	大阪:N	遇見:Vt	麵匠:N	の:FW	心:N	つ:FW	く:FW	し:FW	つ:FW	る:FW	と:FW	ん:FW	た:FW	ん:FW	後:POST	
+參考:Vt	遊記:N	
+就:ADV	一直:ADV	懷念:Vt	那:DET	濃郁:Vi	湯頭:N	與:C	Q:FW	彈:Vt	烏龍麵:N	的:T	味道:N	
+在:P	台灣:N	也:ADV	吃:Vt	過:ASP	幾:DET	間:M	從:P	日本:N	來:Vi	的:T	烏龍麵:N	分店:N	
+但:C	總:ADV	覺得:Vt	還:ADV	差一點:ADV	
+直到:P	今日:N	吃:Vt	土三寒六:N	．:PERIODCATEGORY	讚岐:N	烏龍麵:N	.......:ETCCATEGORY	.:PERIODCATEGORY	土三寒六:N	有:Vt	三:DET	間:M	分店:N	
+安東:N	店街店:N	從:P	捷運:N	忠孝:N	復興:Vt	站:Vi	1:DET	號:M	出口:N	走來:Vi	約:ADV	5:DET	分鐘:M	
+醒目:Vi	的:T	整:DET	排:M	紅:Vi	燈籠:N	
+遠:Vi	看:Vt	就:ADV	猜:Vt	的:T	出:Vt	是:Vt	間:M	日本:N	料理店:N	
+才:ADV	下午:N	17:DET	::COLONCATEGORY	30:DET	
+未:ADV	到:P	用餐:Nv	時間:N	
+但:C	已經:ADV	要:ADV	排隊:Vi	等待:Vt	叫號:Vt	了:ASP	
+土:N	三:DET	寒:Vi	六:DET	店名:N	由來:N	
+簡單:Vi	的:T	說:Vt	
+夏天:N	與:P	冬天:N	製麵:N	不同:Vi	的:T	鹽水:N	比例:N	
+才:ADV	能:ADV	做出:Vt	正統:N	又:ADV	好吃:Vi	的:T	讚岐:N	烏龍麵:N	
+很多:DET	日式:A	料理店:N	都:ADV	會:ADV	有:Vt	的:T	擺設:Vt	開放式:A	廚房:N	
+看:Vt	的:T	見:Vt	煮:Vt	麵:N	及:C	料理:N	過程:N	
+一般:ADV	都:ADV	是:Vt	熱:Vt	茶:N	或:C	冰:N	開水:N	
+很:ADV	少見:Vi	的:T	這裡:N	是:Vt	冰茶:N	
+菜單:N	
+點:Vt	圖:N	放大:Vt	
+來源:N	官方:N	FB:FW	
+新:Vi	菜色:N	
+點:Vt	圖:N	放大:Vt	
+來源:N	官方:N	FB:FW	
+因為:C	懷念:Vt	大阪:N	麵匠:N	の:FW	心:N	的:T	咖哩:N	烏龍麵:N	的:T	味道:N	
+幾乎:ADV	每:DET	次:M	到:P	烏龍:N	麵店:N	都:ADV	點:Vt	咖哩:N	口味:N	
+海:N	老天:N	咖哩:N	
+小:Vi	份:M	240:DET	元:M	
+放上:Vt	兩:DET	條:M	瘦弱:Vi	炸:Vt	蝦:N	
+看來:ADV	有:Vt	些:M	單薄:Vi	
+但:C	實際:Vi	上:POST	炸:Vt	蝦:N	非常:ADV	好吃:Vi	
+有:Vt	新鮮:Vi	活蝦:N	清蒸:Vt	後:POST	的:T	那:DET	種:M	彈:Vt	牙:N	口感:N	及:C	甜味:N	
+讓:Vt	臥嗑:N	土豆:N	很:ADV	驚訝:Vt	
+因為:C	常:ADV	吃到:Vt	的:T	炸蝦:N	
+都:ADV	為了:P	節省:Vt	成本:N	
+用:P	較:ADV	次等:A	的:T	蝦:N	
+反正:ADV	油炸:Vt	處理:Nv	後:POST	
+顧客:N	吃:Vt	不:ADV	出:Vt	差異:N	來:ADV	
+但:C	土:N	三:DET	寒:Vi	六:DET	的:T	炸蝦:N	
+的確:ADV	吃:Vt	的:T	出:Vt	新鮮:Vi	
+不:ADV	是:Vt	咖哩湯:N	
+而是:C	收乾:Vi	的:T	咖哩醬:N	
+味道:N	因:C	濃縮:Vi	而:C	厚重:Vi	
+滑:Vi	Q:FW	的:T	烏龍麵:N	
+吸滿:Vt	咖哩:N	後:POST	
+呼嚕嚕:ADV	地:T	送進:Vt	嘴:N	裡:N	
+非常:ADV	好吃:Vi	
+明:N	太子:N	雞翅:N	
+140:DET	元:M	2:DET	支:M	
+並:C	不:ADV	便宜:Vi	
+店:N	內:N	招牌:N	
+臥嗑:N	土豆:N	非常:ADV	推薦:Vt	
+但:C	明:N	太子:N	在:P	那:DET	
+搭:Vt	啦:T	
+就:ADV	藏:Vt	在:P	雞翅:N	裡:N	
+先:ADV	不論:C	味道:N	如何:ADV	
+念:Vt	在:P	你:N	有:Vt	創意:N	夠:Vi	噱頭:N	
+先:ADV	加:Vt	個:M	5:DET	分:M	再:ADV	說:Vt	
+炸雞:N	混:Vt	著:ASP	辛辣:Vi	明:Vi	太子:N	
+再:ADV	夾上:Vt	高麗菜:N	絲:N	
+口感:N	變化:N	十分:ADV	微妙:Vi	：:COLONCATEGORY	炸雞:N	的:T	香:N	
+明:N	太子:N	濃烈:Vi	的:T	鮮味:N	
+再:ADV	轉換成:Vt	高麗菜:N	的:T	清爽:Vi	
+未曾:ADV	試:Vt	過:ASP	的:T	味道:N	
+新:Vi	登場:Vi	太陽:N	花:Vt	烏龍麵:N	
+小:Vi	份:M	230:DET	元:M	
+泡菜湯:N	底:POST	
+有:Vt	牛:N	五:DET	花:N	、:PAUSECATEGORY	炸:Vt	雞肉:N	、:PAUSECATEGORY	魚:N	板:N	
+配料:N	豐富:Vt	
+烏龍麵:N	好吃:Vi	就:ADV	不必:ADV	再:ADV	說明:Vt	了:ASP	
+配料:N	也:ADV	不錯:Vi	
+除了:P	炸雞:N	湯泡:N	太:ADV	久:Vi	後:POST	
+外皮:N	口感:N	變:Vi	爛:Vi	外:POST	
+建議:Vt	先:ADV	把:P	炸:Vt	物嗑掉:Vt	吧:T	
+另外:C	臥嗑:N	土豆:N	最:ADV	愛:Vt	的:T	是:Vt	這:DET	泡菜:N	湯頭:N	
+剛:ADV	入口:Vi	是:Vt	一點點:DET	辛辣感:N	和:C	微酸:N	
+後頭:N	是:Vt	則:ADV	淡淡:Vi	微:ADV	甜:Vi	
+讓:Vt	人:N	欲罷不能:Vi	
+在:P	較:ADV	大:Vi	的:T	地圖:N	上:POST	查看:Vt	台北:N	景點土:N	三:DET	寒:Vi	六:DET	．:PERIODCATEGORY	讚岐:N	烏龍麵:N	
+安東:N	街店:N	
+官方:N	FB:FW	地址:N	：:COLONCATEGORY	台北市:N	大安區:N	安東街:N	52號之三:N	
+按此:ADV	Google:FW	導航:Vi	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2771:DET	-:DASHCATEGORY	6661:DET	營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	10:DET	
+14:DET	::COLONCATEGORY	10:DET	、:PAUSECATEGORY	16:DET	::COLONCATEGORY	50:DET	
+21:DET	::COLONCATEGORY	00:DET	
+平日:N	
+、:PAUSECATEGORY	11:DET	::COLONCATEGORY	10:DET	
+21:DET	::COLONCATEGORY	00:DET	
+假日:N	
+捷運:N	：:COLONCATEGORY	忠孝:N	復興:Vt	站:Vi	1:DET	號:M	出口:Nv	
+步行:Vi	約:ADV	5:DET	分鐘:M	--:DASHCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	work2dog.blogspot.tw:FW	/:FW	--:DASHCATEGORY	

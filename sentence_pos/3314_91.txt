@@ -1,0 +1,23 @@
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	洲子街:N	105:DET	號:M	
+採用:Vt	大:Vi	片:M	落地窗:N	讓:Vt	一樓:N	店面:N	透光:Vi	明亮:Vi	
+吸引:Vt	沙拉吧:N	的:T	客人:N	卻:ADV	又:ADV	同時:N	保有:Vt	高檔:N	餐廳:N	的:T	神秘感:N	
+因為:C	從:P	外頭:N	是:Vt	看:Vt	不:ADV	到:Vt	用餐:Nv	區域:N	
+牆:N	上:N	使用:Vt	各:DET	種:M	綠色:N	水果:N	、:PAUSECATEGORY	蔬菜:N	所:ADV	打造:Vt	沙拉吧:N	
+高:Vi	挑:Vt	的:T	設計:N	和:C	大量:DET	運用:Vt	鏡面:N	折射:Vi	的:T	概念:N	
+讓:Vt	空間:N	看起來:ADV	寬敞:Vi	、:PAUSECATEGORY	明亮:Vi	
+每:DET	人:N	60:DET	元:M	的:T	水資:N	
+主廚:N	沙拉:N	配料:N	豐富:Vt	的:T	主廚:N	沙拉:N	吃起來:ADV	很:ADV	清爽:Vi	
+肉質:N	軟:Vi	Q:FW	
+肉質:N	略帶:Vt	嚼:Vt	勁兒:N	卻:ADV	又:ADV	不會:ADV	過:ADV	老:Vi	、:PAUSECATEGORY	難以:ADV	咀嚼:Vt	
+混:Vt	著:ASP	海鹽:N	或:C	獨門:A	醬汁:N	一起:ADV	入口:Vi	更:ADV	好吃:Vi	
+完全:ADV	是:Vt	一:DET	道:M	會:ADV	讓:Vt	人:N	吃:Vt	很:ADV	飽:Vi	的:T	主餐:N	
+大推:Vt	
+DWG:FW	的:T	現:N	烤:Vt	鮭魚:N	相當:ADV	好吃:Vi	
+這:DET	道:M	菜:N	的:T	價值:N	跟:P	價錢:N	還是:ADV	不:ADV	對等:A	
+DWG:FW	的:T	甜點:N	幾乎:ADV	都:ADV	很:ADV	好吃:Vi	
+除了:P	幾:DET	款:M	餅乾類:N	略:ADV	顯:Vt	普通:Vi	
+蛋糕類:N	意外:N	的:T	好吃:Vi	
+焦糖:N	布丁:N	跟:P	水果:N	軟糖:N	好:ADV	甜:Vi	但是:C	好好:Vi	吃:Vt	
+讓:Vt	我:N	蠻:ADV	失望:Vi	的:T	
+熱:Vt	拿:Vt	鐵熱:N	伯爵:N	奶茶:N	兩:DET	份:M	都:ADV	是:Vt	好喝:Vi	不:ADV	出錯:Vi	的:T	飲料:N	
+後記:N	：:COLONCATEGORY	1:DET	.:PERIODCATEGORY	喜歡:Vt	寧靜:Vi	的:T	用餐:Nv	環境:N	

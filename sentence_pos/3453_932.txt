@@ -1,0 +1,87 @@
+ntddt:FW	(:PARENTHESISCATEGORY	哀:Vi	便:ADV	毛:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	-:DASHCATEGORY	中山:N	-:DASHCATEGORY	一:DET	鷺:N	炭火:N	燒鳥:N	工房:N	-:DASHCATEGORY	放:Vt	鹽:N	的:T	起:Vt	手:N	式:N	
+Sat:FW	
+Aug:FW	
+23:DET	
+16:DET	::COLONCATEGORY	09:DET	::COLONCATEGORY	03:DET	
+2014:DET	
+圖文並茂:Vi	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/YiYNzz:FW	
+標題:N	：:COLONCATEGORY	一:DET	鷺:N	炭火:N	燒鳥:N	工房:N	-:DASHCATEGORY	放:Vt	鹽:N	的:T	起:Vt	手:N	式:N	
+餐廳:N	名稱:N	：:COLONCATEGORY	一:DET	鷺:N	炭火:N	燒鳥:N	工房:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	-:DASHCATEGORY	08:DET	-:DASHCATEGORY	23:DET	
+地址:N	：:COLONCATEGORY	地址:N	：:COLONCATEGORY	
+台北市:N	中山區:N	民權東路:N	二段:N	152巷:N	1:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	700:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	
+本文:N	：:COLONCATEGORY	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+日本:N	鯖魚:N	一:DET	夜:N	干:Vt	
+雞:N	菲力:N	串:Vt	-:DASHCATEGORY	明:N	太子醬:N	
+炭烤:Vt	明:Vi	太子:N	醬飯:N	糰:b	
+北海道:N	大:Vi	干貝:N	
+埔里:N	大:Vi	香菇:N	
+黑羽:N	地:T	雞腿:N	肉串:N	-:DASHCATEGORY	鹽燒:N	
+雞胸:N	軟骨:N	串:Vt	
+安格斯牛:N	小:Vi	排:Vt	串:M	
+雞:N	橫膈膜:N	-:DASHCATEGORY	鹽燒:N	
+★:FW	評分:Vi	::COLONCATEGORY	8.5:DET	/:FW	10:DET	★:FW	CP:FW	值:N	::COLONCATEGORY	100:DET	%:M	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+一:ADV	踏入:Vt	店:N	內:N	
+一:DET	鷺:N	不:ADV	壓迫:Vt	的:T	招呼:Nv	態度:N	給:Vt	人:N	有:Vt	種:M	在:P	家:N	裡:N	的:T	自在:Vi	
+加:Vt	
+上:N	店員:N	與:C	顧客:N	的:T	嬉鬧聲:N	
+炭火:N	火苗:N	活潑:Vi	的:T	竄動:Vi	
+就:ADV	像:P	家:N	裡:N	塞滿:Vt	客人:N	般:POST	熱鬧:Vi	氣氛:N	..:ETCCATEGORY	
+瓷盤:N	上:N	有:Vt	卸:Vt	肉叉:N	端看:Vt	你:N	是:Vt	要:ADV	豪邁:Vi	把:P	整:DET	串:M	肉:N	拿起:Vt	撕:Vt	咬:Vt	或是:C	優雅:Vi	的:T	把:P	
+肉:N	一塊塊:DET	卸下:Vt	後:POST	以:P	筷子:N	不:ADV	沾手:Vi	地:T	送入:Vt	口:N	中:N	
+埔里:N	大:Vi	香菇:N	
+細緻:Vi	的:T	黑:Vi	胡椒:N	顆粒:N	與:C	精巧:Vi	鹽粒:N	交錯:Vi	分布:Vi	
+焦度:N	均勻:Vi	的:T	帽葉:N	與:C	內襯:N	中:POST	
+透出:Vt	3:DET	分:M	水:N	感:Vt	
+打破:Vt	傳統:N	豪邁:Vi	的:T	燒烤:Vt	印象:N	
+取而代之:Vi	的:T	是:Vt	走:Vi	質感:N	
+路線:N	
+雞:N	菲力:N	串:Vt	-:DASHCATEGORY	明:N	太子醬:N	
+口味:N	強烈:Vi	的:T	明:Vi	太子醬:N	承載:Vt	著:ASP	雞肉:N	軟嫩:Vi	
+令:Vt	人:N	分:Vt	不清:Vi	究竟:ADV	誰:N	是:Vt	主客:N	
+雞胸:N	軟骨:N	串:Vt	
+類:N	透抽:N	的:T	口感:N	與:C	外型:N	
+多點:DET	硬澀:Vi	
+像:Vt	是:Vt	在:P	活絡:Vi	齒:N	間:POST	的:T	彈簧:N	
+炭烤:Vt	明:Vi	太子:N	醬飯:N	糰:b	
+幾乎:ADV	萬搭:N	的:T	明:Vi	太子:N	
+配上:Vt	飯糰:N	已經:ADV	不:ADV	需要:Vt	太多:DET	裝飾:N	
+惟:ADV	粒粒:DET	米飯:N	
+中:N	仍:ADV	能:ADV	體會:Vt	炭火:N	燒烤:Vt	的:T	精煉:Nv	
+用餐:Vi	間:POST	欣賞:Vt	炭烤:Nv	手:N	熟練:Vi	又:ADV	優雅:Vi	的:T	炭烤:Nv	技巧:N	也:ADV	是:Vt	種:M	享受:Vt	...:ETCCATEGORY	
+黑羽:N	地:T	雞腿:N	肉串:N	-:DASHCATEGORY	鹽燒:N	
+柔:Vi	
+嫩:Vi	
+順:P	
+韌:Vi	兼具:Vt	
+嚼:Vt	勁:N	飽滿:Vi	且:C	持久:Vi	
+一:DET	眼:M	望去:Vi	的:T	彷彿:ADV	在:P	櫥窗:N	中:POST	新鮮:Vi	原始:Vi	食材:N	
+勾起:Vt	腦:N	中:POST	美味:Vi	補完:Vt	的:T	想像:N	
+力:N	...:ETCCATEGORY	
+日本:N	鯖魚:N	一:DET	夜:N	干:Vt	
+中規中矩:Vi	的:T	呈現:Nv	鯖魚:N	獨特:Vi	味道:N	與:C	偏軟帶:N	些微:A	嚼:Vt	勁:N	的:T	口感:N	
+烤魚:N	難度:N	
+在於:Vt	勻稱:Vi	與:C	焦熟度:N	
+這些:DET	標準:N	都:ADV	輕而易舉:Vi	達到:Vt	了:ASP	.:PERIODCATEGORY	
+安格斯牛:N	小:Vi	排:Vt	串:M	
+牛肉:N	鮮:Vi	汁:N	在:P	表面:N	呼之欲出:Vi	
+牛肉:N	鮮:Vi	甜:Vi	完全:ADV	鎖住:Vt	
+算是:Vt	考驗:N	炭烤:Vt	店:N	
+基本功:N	的:T	一:DET	道:M	菜:N	
+雞:N	橫膈膜:N	-:DASHCATEGORY	鹽燒:N	
+兼具:Vt	雞肉:N	與:C	雞骨:N	口感:N	再:ADV	加上:Vt	沾黏感:N	
+極為:ADV	有趣:Vi	
+北海道:N	大:Vi	干貝:N	
+約:ADV	5:DET	-:DASHCATEGORY	7:DET	分:M	熟:Vi	度:M	
+恰恰:ADV	能:ADV	保有:Vt	海鮮:N	大海:N	的:T	味道:N	
+無需:ADV	太多:Vi	加工:Vi	
+一點:DET	炭烤味:N	就:ADV	足夠:Vi	.:PERIODCATEGORY	
+ThisworkbyJimHorngislice:FW	
+nsedunderaCreativeCommons:FW	
+Attribution-ShareAlike3.0Unp:FW	
+ortedLicense:FW	

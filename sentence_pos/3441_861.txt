@@ -1,0 +1,156 @@
+windfree:FW	(:PARENTHESISCATEGORY	小:Vi	宅:N	檸檬:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安區:N	。:PERIODCATEGORY	尚:ADV	高韓家:N	@:FW	韓式:N	炸雞:N	初:POST	體驗:Vt	
+Wed:FW	
+Aug:FW	
+20:DET	
+02:DET	::COLONCATEGORY	58:DET	::COLONCATEGORY	30:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	尚:ADV	高韓家:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	光復南路:N	280巷:N	48:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2711:DET	-:DASHCATEGORY	5687:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	平日:N	午:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	30:DET	;:SEMICOLONCATEGORY	晚:N	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	假日:N	中午:N	營業:Vi	到:P	15:DET	::COLONCATEGORY	00:DET	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	-:DASHCATEGORY	400:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	拌:Vt	飯:N	、:PAUSECATEGORY	辣:Vi	豆腐湯:N	、:PAUSECATEGORY	韓式:N	炸雞:N	
+圖文:N	部落格:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	evisko.pixnet.net/blog/post:FW	/:FW	177554713:DET	
+其實:ADV	今天:N	本來:ADV	想要:Vt	吃:Vt	的:T	是:Vt	另:DET	一:DET	家:M	餐廳:N	
+但是:C	來到:Vt	忠孝東路:N	四段:N	就:ADV	特:ADV	奇怪:Vt	
+常常:ADV	想:Vt	吃:Vt	火鍋:N	就:ADV	會:ADV	被:P	日本:N	料理:N	吸引:Vt	去:T	
+有時候:ADV	想:Vt	吃:Vt	熱炒:Vt	又:ADV	被:P	小籠包:N	擄去:Vi	
+會:ADV	有:Vt	這樣:Vi	的:T	壞:Vt	習慣:N	都:ADV	是:Vt	因為:C	從:P	敦化南路:N	到:Vt	光復南路:N	這:DET	段:M	有:Vt	太多:DET	巷弄:N	美食:N	餐廳:N	
+也:ADV	算是:Vt	另:DET	類:M	的:T	鬼打:N	牆:N	
+所以:C	
+今天:N	意外:N	地:T	發現:Vt	了:ASP	這:DET	家:M	日本:N	最:ADV	大:Vi	韓式:N	料理:N	
+怎麼:ADV	念起來:ADV	這樣:Vi	繞口:Vi	
+我:N	一:DET	時間:N	還:ADV	以為:Vt	自己:N	眼花:Vi	咧:T	
+尚:ADV	高韓家:N	
+都:ADV	是:Vt	被:P	那:DET	清新:Vi	的:T	外觀:N	裝潢:N	擄去:Vi	的:T	
+加上:C	最近:N	可能:Vi	天氣:N	太過:ADV	悶熱:Vi	
+導致:Vt	對:P	韓國:N	料理:Vt	意外:N	地:T	癡情:Nv	
+已經:ADV	連:ADV	吃:Vt	兩:DET	天:M	.......:ETCCATEGORY	
+外觀:N	裝潢:N	很:ADV	時尚:N	
+跟:P	一般:A	那:DET	種:M	家庭式:A	韓國:N	料理:N	不:ADV	太:ADV	一樣:Vi	
+而且:C	我:N	大部分:DET	都:ADV	只:ADV	會:ADV	在:P	美食街:N	吃:Vt	韓式:A	拌:Vt	飯:N	
+所以:C	覺得:Vt	這:DET	種:M	裝潢:N	對:P	韓國:N	料理:N	來:ADV	說:Vt	非常:ADV	特別:Vi	
+一:DET	個:M	不:ADV	留神:Vt	就:ADV	踏進:Vt	去:Vt	了:ASP	
+後來:N	
+在:P	網路:N	上:N	搜尋:Vt	才:ADV	發現:Vt	已經:ADV	蠻:ADV	多:Vi	部落客:N	寫:Vt	過:ASP	
+是:Vt	自己:N	孤陋寡聞:Vi	罷了:T	
+整體:N	環境:N	明亮:Vi	整潔:Vi	
+讓:Vt	人:N	感覺:N	在:P	這:DET	個:M	空間:N	很:ADV	舒服:Vi	
+菜單:N	裡面:N	有:Vt	推薦:Vt	一:DET	人:N	份:N	料理:N	也:ADV	有:Vt	套餐:N	
+今天:N	我們:N	是:Vt	兩:DET	人:N	用餐:Vi	
+看:Vt	了:ASP	看:Vt	套餐:N	覺得:Vt	不:ADV	是:Vt	自己:N	想:Vt	吃:Vt	的:T	組合:Nv	
+索性:ADV	就:ADV	點:Vt	了:ASP	單點:N	
+頗:ADV	有:Vt	質感:N	的:T	擺設:Nv	
+但:C	店員:N	比較:ADV	冷冰冰:Vi	
+雖然:C	是:Vt	夏天:N	
+但是:C	還是:ADV	希望:Vt	有:Vt	溫暖:Vt	的:T	服務:Nv	啊:T	
+茶水:N	要:ADV	自助:Vi	
+我:N	並:ADV	不:ADV	介意:Vt	這:DET	種:M	方式:N	
+反而:C	覺得:Vt	挺:ADV	自在:Vi	的:T	
+因為:C	我:N	很:ADV	容易:Vi	口渴:Vi	
+都:ADV	不好意思:Vi	讓:Vt	店員:N	常:ADV	來:ADV	加:Vt	茶:N	
+醃:Vt	蘿蔔:N	頗:ADV	入:Vt	味:N	好吃:Vi	
+很:ADV	清甜:Vi	的:T	口感:N	
+黃:N	豆芽:N	這:DET	好像:ADV	是:Vt	吃:Vt	韓式:N	料理:N	的:T	必備:A	小菜:N	
+每:DET	間:M	店:N	的:T	口味:N	也:ADV	都:ADV	大同小異:Vi	
+都:ADV	頗:ADV	爽口:Vi	
+容易:Vi	一口:ADV	接:Vt	一口:ADV	
+其實:ADV	還:ADV	有:Vt	另:Des	一:DET	道:M	小菜:N	
+干絲:N	
+是:Vt	我:N	唯一:A	有:Vt	續加:Vt	的:T	
+但是:C	我:N	可能:ADV	當時:N	血糖:N	降:Vt	得:T	太:ADV	低:Vi	了:T	
+加上:C	有點:ADV	手抖:Vi	
+居然:ADV	沒有:ADV	拍到:Vt	它:N	
+登:Vt	愣:Vi	
+噯呀:T	
+它:N	真的:ADV	很:ADV	好吃:Vi	啊:T	
+好:ADV	可惜:Vi	沒:ADV	拍到:Vt	
+但是:C	
+這裡:N	的:T	重點:N	應該:ADV	只有:ADV	小菜:N	可以:ADV	續:ADV	加:Vt	
+筆記:N	
+其他:DET	不:ADV	重要:Vi	
+▲:FW	拌:Vt	飯:N	
+240:DET	元:M	雖然:C	我:N	很:ADV	餓:Vi	而且:C	手抖:Vi	
+但:C	因為:C	我:N	不:ADV	愛:Vt	石鍋嫌:N	上火:Vi	
+又:ADV	覺得:Vt	不:ADV	想:Vt	喝:Vt	湯湯水水:Vi	
+所以:C	點:Vt	了:ASP	最:ADV	普通:Vi	的:T	拌:Nv	飯:N	
+拌:Vt	飯:N	的:T	完美:Vi	情人:N	當然:ADV	就是:C	辣醬:N	
+這裡:N	的:T	辣醬:N	看起來:ADV	很:ADV	好吃:Vi	
+讓:Vt	我:N	迫:Vt	不:ADV	急待:Vt	想:Vt	把:P	他們:N	攪拌:Vt	在一起:Vi	
+口味:N	上:POST	微:ADV	辣:Vi	
+但:C	我:N	怕:Vt	太:ADV	鹹:Vi	沒有:ADV	加:Vt	太多:DET	
+又:ADV	加上:Vt	真:Vi	的:T	餓:Vi	瘋:Vi	了:T	
+就:ADV	一路:ADV	狂:Vi	吃:Vt	
+中途:N	有:Vt	稍微:ADV	質疑:Vt	一下:N	
+覺得:Vt	都:ADV	沒:Vt	甚麼:DET	肉:N	而:C	若有所失:Vi	
+但:C	整體:N	來:ADV	說:Vt	
+我:N	是:Vt	喜歡:Vt	這:DET	道:M	拌:Vt	飯:N	的:T	
+好:Vi	啦:T	
+不過:C	還是:ADV	覺得:Vt	它:N	有點:ADV	偏:Vt	貴:Vi	
+是:Vt	不:ADV	
+▲:FW	辣:Vi	豆腐湯:N	
+牛肉:N	
+300:DET	元:M	朋友:N	一直:ADV	想:Vt	知道:Vt	到底:ADV	有沒有:ADV	跟:P	涓:b	豆腐:N	一樣:Vi	好吃:Vi	的:T	豆腐:N	鍋:N	
+所以:C	很:ADV	期待:Vt	這:DET	道:M	料理:N	
+本來:ADV	看到:Vt	湯:N	很:ADV	紅:Vi	以為:Vt	會:ADV	很:ADV	辣:Vi	
+結果:ADV	出乎意外:Vi	地:T	沒有:Vt	
+只:ADV	有:Vt	湯頭:N	的:T	鮮美:Vi	與:C	層次:N	
+湯頭:N	屬於:Vt	比較:ADV	濃郁:Vi	
+口感:N	上:POST	比較:ADV	厚重:Vi	些:ADV	而且:C	很:ADV	香:Vi	
+而:C	涓:b	豆腐:N	是:Vt	比較:ADV	清甜:Vi	的:T	口感:N	
+辣:Vi	豆腐湯:N	中:POST	的:T	牛肉:N	也:ADV	頗:ADV	好吃:Vi	
+比較:ADV	令:Vt	人:N	覺得:Vt	困惑:Vi	的:T	是:Vt	
+我:N	點:Vt	辣:Vi	豆腐湯:N	時:POST	店員:N	沒有:ADV	告知:Vt	我:N	飯:N	要:ADV	加:Vt	錢:N	
+後來:N	才:ADV	在:P	帳單:N	上:POST	看到:Vt	這:DET	筆:M	數目:N	
+難道:ADV	是:Vt	菜單:N	上:N	有:Vt	寫:Vt	而:C	我:N	沒:ADV	注意:Vt	嗎:T	
+除此之外:ADV	
+這:DET	道:M	餐點:N	真的:ADV	沒:Vt	啥:DET	可:ADV	挑剔:Vt	的:T	
+頗:ADV	推:Vt	
+▲:FW	韓式:N	炸雞:N	
+120:DET	元:M	不:ADV	是:Vt	酥脆:Vi	的:T	口感:N	
+而是:C	裹:Vt	著:ASP	粉:N	軟嫩:Vi	軟嫩:Vi	的:T	
+因為:C	上面:N	的:T	辣醬:N	跟:P	之前:N	吃:Vt	的:T	拌:Nv	飯:N	味道:N	很:ADV	神似:Vt	
+所以:C	等:P	吃:Vt	過:ASP	拌:Vt	飯:N	後:POST	再:ADV	來:ADV	享用:Vt	這:DET	道:M	餐點:N	時:POST	
+整:DET	個:M	嘴:N	裡:N	充滿:Vt	了:ASP	辣醬:N	而:C	有:Vt	些:M	膩:Vi	了:T	
+若:C	問:Vt	我:N	下:DET	次:M	來:ADV	會不會:ADV	再:ADV	點:Vt	
+我:N	的:T	答案:N	是:Vt	肯定:Vt	的:T	
+不過:C	會:ADV	盡量:ADV	避開:Vt	其他:DET	拌:Vt	辣醬:N	吃:Vt	的:T	餐點:N	
+炸雞:N	炸:Vt	得:T	很:ADV	鮮嫩:Vi	
+算:Vt	不錯:Vi	吃:Vt	
+比:P	想像:N	中:POST	的:T	好吃:Vi	很多:DET	
+讓:Vt	我:N	覺得:Vt	安心:Vi	不少:Vi	
+整體:N	加上:Vt	側面:N	打聽:Vt	而言:Vt	
+我:N	覺得:Vt	我:N	今天:N	點:Vt	的:T	菜色:N	都:ADV	很:ADV	保險:Vi	
+算是:Vt	好吃:Vi	
+但是:C	我:N	今天:N	很:ADV	餓:Vi	很:ADV	餓:Vi	
+所以:C	怕:Vt	味覺:N	也:ADV	有:Vt	失準:Vi	
+朋友:N	聚會:N	時:POST	
+若:C	大家:N	想:Vt	吃:Vt	韓國:N	料理:N	就:ADV	會:ADV	帶:Vt	朋友:N	們:N	來:ADV	吃吃:Vt	看:Vt	
+自己:N	的:T	話:N	就:ADV	會:ADV	選擇:Vt	繼續:Vt	探索:Vt	其他:DET	的:T	美食:N	餐廳:N	
+畢竟:ADV	這:DET	附近:N	的:T	好吃:Vi	東西:N	太多:Vi	了:T	啊:T	
+至於:P	服務:Nv	是:Vt	屬於:Vt	普通:Vi	等級:N	
+沒有:ADV	把:P	日本:N	等級:N	的:T	服務:Nv	也:ADV	帶來:Vt	台灣:N	
+真的:ADV	讓:Vt	人:N	有:Vt	些:M	失落:Vi	
+其實:ADV	服務:Vt	技巧:N	、:PAUSECATEGORY	話術:N	甚麼:DET	都:ADV	是:Vt	次之:Vi	
+對:P	著:ASP	客人:N	露出:Vt	微笑:N	應該:ADV	是:Vt	服務業:N	最:ADV	基本:A	的:T	
+收銀檯:N	上:N	寫:Vt	著:ASP	
+本:DET	店:N	有:Vt	收:Vt	服務費:N	
+如:C	忘記:Vt	微笑:Vi	請:Vt	多:ADV	見諒:Vi	
+我:N	不:ADV	太:ADV	明白:Vt	這:DET	句:M	話:N	的:T	邏輯:N	是:Vt	甚麼:DET	＠:FW	＠:FW	至於:P	價格:N	
+在:P	這樣:Vi	的:T	地點:N	、:PAUSECATEGORY	這樣:Vi	的:T	裝潢:N	、:PAUSECATEGORY	這樣:Vi	的:T	菜色:N	三:DET	方:M	考慮:Nv	下:POST	
+我:N	覺得:Vt	價格:N	還:ADV	算:Vt	可以:ADV	接受:Vt	吧:T	
+但:C	如果:C	同樣:Vi	要:ADV	吃:Vt	拌:Vt	飯:N	的:T	話:N	
+我:N	一定:ADV	馬上:ADV	選擇:Vt	韓國:N	媽媽:N	烤肉店:N	的:T	
+因為:C	價錢:N	便宜:Vi	好多:DET	
+而且:C	口味:N	也:ADV	不會:ADV	輸:Vt	
+--:DASHCATEGORY	幸福:Vi	就:ADV	是:Vt	翻看:Vt	以前:POST	的:T	日記:N	
+想起:Vt	曾經:ADV	在:P	青澀:Vi	歲月:N	中:POST	經歷:Vt	的:T	歡喜:Nv	和:C	煩惱:N	
+想起:Vt	曾經:ADV	的:T	單純:Vi	和:C	傻氣:Vi	
+想起:Vt	那:DET	個:M	讓:Vt	自己:N	怦然:ADV	心動:Vi	的:T	名字:N	
+合上:Vt	日記:N	
+嘴角:N	情不自禁:Vi	浮起:Vi	一:DET	抹:M	微笑:N	
+王:N	的:T	貪吃誌:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	evisko.pixnet.net/blog:FW	--:DASHCATEGORY	

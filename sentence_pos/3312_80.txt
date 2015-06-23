@@ -1,0 +1,27 @@
+地址:N	：:COLONCATEGORY	新:Vi	北市:N	三峽區:N	大學路:N	200:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	400:DET	
+如果:C	覺得:Vt	台北:N	太:ADV	膩:Vi	
+普拉伯:N	義大利:N	坊:N	位於:Vt	三峽:N	台北:N	大學:N	旁:N	
+裡頭:N	風格:N	可愛:Vi	
+還:ADV	有:Vt	小孩:N	遊樂室:N	
+是:Vt	個:M	不錯:Vi	的:T	家庭:N	聚餐:Nv	地點:N	
+也:ADV	蠻:ADV	適合:Vi	拍照:Vi	的:T	
+不過:C	我:N	覺得:Vt	餐點:N	比較:ADV	不:ADV	那麼:ADV	精緻:Vi	
+一:DET	進:M	門:N	就:ADV	看到:Vt	好:Vi	大一:N	隻:M	熊:N	
+裝潢:N	得:T	很:ADV	用心:Vi	
+再:ADV	加:Vt	四:DET	人:N	套餐:N	$:FW	628:DET	和:C	兩:DET	人:N	套餐:N	$:FW	268:DET	
+算起來:ADV	每:DET	人:N	加:Vt	150:DET	就:ADV	可以:ADV	享受到:Vt	湯:N	
+蝦子:N	蠻:ADV	新鮮:Vi	的:T	
+沙拉:N	口味:N	則:ADV	一般:Vi	般:POST	
+咬:Vt	起來:ASP	很:ADV	硬:Vi	不:ADV	優:Vi	
+味道:N	不錯:Vi	
+覺得:Vt	比:P	淡菜:N	好吃:Vi	
+花枝:N	和:C	蛤蠣:N	用料:N	很:ADV	大方:Vi	
+也:ADV	都:ADV	蠻:ADV	新鮮:Vi	的:T	
+不過:C	焗飯:N	的:T	味道:N	很:ADV	淡:Vi	
+不:ADV	入味:N	
+覺得:Vt	不:ADV	是:Vt	那麼:ADV	對味:Vi	
+雞肉:N	蠻:ADV	嫩:Vi	的:T	
+麵:N	也:ADV	很:ADV	入:Vt	味:N	唷:T	
+鮮嫩:Vi	多汁:Vi	
+很:ADV	好吃:Vi	

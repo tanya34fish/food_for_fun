@@ -1,0 +1,131 @@
+assayu:FW	(:PARENTHESISCATEGORY	泡:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	松山區:N	寵物:N	咖啡:N	《:PARENTHESISCATEGORY	小:Vi	春日:N	和:C	動物:N	雜貨:N	》:PARENTHESISCATEGORY	
+Mon:FW	
+Aug:FW	
+25:DET	
+11:DET	::COLONCATEGORY	09:DET	::COLONCATEGORY	08:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	小:Vi	春日:N	和:C	動物:N	雜貨:N	/:FW	咖啡:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	延壽街:N	361:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	87876920:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	–:FW	21:DET	::COLONCATEGORY	00:DET	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ahwoo.pixnet.net/blog/post:FW	/:FW	179397574:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	以下:N	純:Vi	文字版:N	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	上上:A	個:M	禮拜:N	
+為了:P	打發:Vt	時間:N	跟:P	友人:N	要:ADV	來:ADV	台北:N	玩:Vt	
+所以:C	玩:Vt	起:ASP	了:ASP	
+開會:Vi	遊戲:N	
+就:ADV	像:P	小時候:N	開班:Vi	會:ADV	一樣:Vi	
+我們:N	兩:DET	個:M	開始:Vt	在:P	Skype:FW	討論:Vt	一些:DET	無聊:Vi	事:N	
+有時:ADV	因為:C	討論:Vt	太:ADV	快:Vi	
+一:DET	天:M	還:ADV	開:Vt	了:ASP	七八:DET	次:M	會:ADV	
+就是:C	無聊:Vi	找:Vt	話題:N	就:ADV	對了:Vi	
+而:C	小:Vi	春日:N	和:C	動物:N	雜貨:N	/:FW	咖啡:N	也:ADV	是:Vt	這樣:Vi	討論:Vt	出來:Vi	的:T	
+找:Vt	個:M	星期六:N	一起:ADV	去:ADV	跟:P	貓咪:N	狗狗:N	吃:Vt	下午茶:N	吧:T	
+小:Vi	春日:N	和:C	也:ADV	是:Vt	在:P	民生:N	社區:N	
+第一:DET	次:M	找:Vt	時:POST	還:ADV	不:ADV	小心:Vt	騎:Vt	過:ASP	了:ASP	頭:N	
+不過:C	也:ADV	不:ADV	算:Vt	難找:Vt	就:ADV	是:Vt	
+下雨:Vi	前:POST	的:T	午後:N	
+我們:N	是:Vt	該:ADV	躲進:Vt	咖啡店:N	裡:N	
+享受:Vt	香氣:N	
+招牌:N	讓:Vt	人:N	感覺:N	就是:C	十分:ADV	愜意:Vi	的:T	一:DET	家:M	店:N	
+藍綠色:N	也:ADV	帶有:Vt	夏天:N	的:T	沁涼:Vt	
+記得:Vt	進入:Vt	小:Vi	春日:N	和:C	一定:ADV	要:ADV	帶上:Vt	門:N	喔:T	
+不然:C	小:Vi	寶貝:N	跑走:Vi	了:ASP	
+大家:N	都:ADV	會:ADV	很:ADV	緊張:Vi	的:T	
+好:ADV	喜歡:Vt	屋簷:N	上:N	垂下:Vt	的:T	綠:Vi	藤蔓:N	
+就:ADV	像:Vt	水簾:N	一樣:Vi	
+好:ADV	有:Vt	生命力:N	的:T	感覺:N	
+再:ADV	提醒:Vt	一:DET	次:M	
+一定:ADV	要:ADV	關上:Vt	門:N	唷:T	
+J:FW	面對:Vt	一直:ADV	在:P	外面:N	拍照:Vi	的:T	我:N	
+開始:Vt	Murmur:FW	：:COLONCATEGORY	是:Vt	要:ADV	拍:Vt	多久:N	XDDDDD:FW	走進:Vt	店家:N	後:POST	
+會:ADV	先:ADV	見到:Vt	幾:DET	張:M	桌子:N	還:ADV	有:Vt	吧檯:N	
+約莫:ADV	10:DET	人:N	左右:POST	的:T	座位:N	數:DET	
+不少:DET	人:N	會:ADV	坐:Vi	在:P	吧檯:N	邊:N	
+用:P	著:ASP	電腦:N	
+享受:Vt	下午:N	
+穿過:Vt	吧檯:N	後:POST	
+又:ADV	會:ADV	再:ADV	看到:Vt	5:DET	、:PAUSECATEGORY	6:DET	張:M	桌子:N	
+約莫:ADV	可:ADV	再:ADV	容納:Vt	10:DET	幾:DET	20:DET	人:N	
+也:ADV	就是:C	吧檯:N	在:P	中央:N	位置:N	
+將:P	空間:N	一分為二:Vi	
+吧檯:N	邊:N	得:T	這:DET	個:M	數字:N	看板:N	
+會:ADV	隨著:P	店家:N	FB:FW	人數:N	來:ADV	波動:Vt	唷:T	
+店:N	中:N	也:ADV	有:Vt	很多:DET	有關:Vt	貓咪:N	狗狗:N	的:T	書籍:N	
+讓:Vt	愛:Vt	貓:N	愛:Vt	狗:N	人士:N	都:ADV	可以:ADV	來:ADV	閱讀:Vt	
+多:ADV	了解:Vt	牠們:N	
+沉浸:Vi	在:P	這:DET	個:M	小天地:N	
+去:Vt	的:T	那:DET	一:DET	天:M	
+店貓露:N	了:ASP	一下:N	臉:N	後:POST	
+就:ADV	跑去:Vt	睡覺:Vi	了:ASP	阿:N	阿阿:Vi	
+真:ADV	想:Vt	多:ADV	看看:Vt	牠:N	的:T	英姿:N	
+旁邊:N	也:ADV	準備:Vt	了:ASP	很多:DET	塑膠袋:N	
+如果:C	狗狗:N	突然:ADV	大便:Vi	了:ASP	
+可以:ADV	拿來:Vt	使用:Vt	
+真是:ADV	很:ADV	貼心:Vi	的:T	準備:Nv	
+超多:Vi	動物:N	玩偶:N	的:T	呀:T	
+不禁:Vt	讓:Vt	我:N	想起:Vt	我:N	最近:N	的:T	願望:N	是:Vt	在:P	J:FW	的:T	肚子:N	上:N	做:Vt	一:DET	個:M	動物園:N	
+然後:ADV	他:N	的:T	肚臍:N	變:Vi	水池:N	這樣:Vi	
+長頸鹿:N	還:ADV	是:Vt	猴子:N	之類:POST	的:T	就:ADV	可以:ADV	去:ADV	喝水:Vi	呀:T	什麼:DET	的:T	
+然後:ADV	再:ADV	跌進:Vt	水池:N	裡:N	
+為什麼:ADV	一定:ADV	要:ADV	跌進:Vt	水池:N	呢:T	
+因為:C	J:FW	討厭:Vt	別人:N	戳:Vt	他:N	肚臍:N	哈哈:ADV	哈哈:ADV	我:N	好壞:N	
+小:Vi	春日:N	和:P	內:N	也:ADV	有:Vt	再:ADV	販賣:Vt	一些:DET	寵物:N	用品:N	
+所以:C	也:ADV	可以:ADV	帶:Vt	自己:N	家:N	的:T	貓貓:N	狗狗:N	來:ADV	補:Vt	補貨:Vi	唷:T	
+Bytheway:FW	
+小:Vi	春日:N	和:P	內:N	的:T	另:DET	一:DET	邊:N	就是:C	寵物:N	美容區:N	囉:T	
+所以:C	也:ADV	可以:ADV	趁:P	小:Vi	寶貝:N	們:N	在:P	美容:N	的:T	時候:N	
+在:P	店:N	內:N	等待:Vt	享用:Vt	點心:N	
+真是:ADV	一舉兩得:Vi	呀:T	
+我們:N	那:DET	天:M	去:Vt	的:T	時候:N	呀:T	
+看到:Vt	幾乎:ADV	來:Vi	的:T	人:N	都:ADV	會:ADV	帶:Vt	他們:N	家:N	的:T	寵物:N	來:ADV	認識:Vt	新:Vi	朋友:N	呀:T	、:PAUSECATEGORY	兜兜風:Vi	
+也:ADV	不用:ADV	擔心:Vt	狗狗:N	突然:ADV	尿尿:Vi	不好意思:Vi	
+可以:ADV	請:Vt	店家:N	幫忙:Vt	繫上:Vt	禮貌:N	帶:Vt	
+就:ADV	不會:ADV	弄濕:Vt	地板:N	
+而且:C	來:Vi	的:T	人:N	應該:ADV	都:ADV	是:Vt	喜歡:Vt	或:C	熟悉:Vt	牠們:N	的:T	
+所以:C	也:ADV	都:ADV	會:ADV	彼此:N	體諒:Vt	
+這樣:Vi	的:T	環境:N	真的:ADV	很:ADV	得來:Vi	不易:Vi	呢:T	
+大家:N	要:ADV	好好:Vi	愛惜:Vt	呀:T	
+小:Vi	春日:N	和:Vi	的:T	菜單:N	就:ADV	是:Vt	這:DET	兩:DET	頁:M	
+簡單:Vi	明瞭:Vt	
+這:DET	是:Vt	友人:N	的:T	點:N	拿:Vt	鐵:N	--:DASHCATEGORY	110:DET	元:M	
+有沒有:ADV	看到:Vt	
+拉出來:Vi	的:T	花:N	是:Vt	個:M	可愛:Vi	的:T	熊熊:Vi	
+我:N	有:Vt	認錯:Vi	嗎:T	應該:ADV	是:Vt	吧:T	
+真是:ADV	太:ADV	有心:Vt	了:ASP	
+我:N	點:Vt	的:T	也:ADV	是:Vt	拿:Vt	鐵:N	
+獲得:Vt	得:T	是:Vt	小:Vi	貓咪:N	博士:N	
+真是:ADV	有夠:ADV	可愛:Vi	
+害:Vt	我:N	都:ADV	捨不得:Vt	喝:Vt	它:N	一口:ADV	了:T	
+喝:Vt	起來:ASP	味道:N	也:ADV	很:ADV	不錯:Vi	
+奶泡:N	很:ADV	細:Vi	致:Vt	
+J:FW	點:N	的:T	鮮果茶:N	--:DASHCATEGORY	120:DET	元:M	
+就:ADV	當:P	他:N	喝:Vt	得:T	很:ADV	開心:Vi	
+說:Vt	味道:N	不錯:Vi	時:POST	
+意外:N	發現:Vt	
+最:ADV	底部:N	可是:C	有:Vt	奇異果:N	
+J:FW	吃:Vt	了:ASP	奇異果:N	會:ADV	腫:Vi	的:T	跟:P	豬頭:N	一樣:Vi	大:Vi	
+還是:C	現在:N	就:ADV	是:Vt	也:ADV	是:Vt	
+被:P	J:FW	殺掉:Vt	所以:C	就:ADV	立:Vt	馬:N	換:Vt	我:N	喝:Vt	了:ASP	
+漁翁得利:Vi	
+但:C	其實:ADV	也:ADV	沒有:Vt	
+我:N	的:T	小:Vi	貓咪:N	博士:N	就:ADV	被:P	搶走:Vt	了:ASP	Q:FW	熱:Vt	巧克力:N	可可:N	--:DASHCATEGORY	100:DET	元:M	
+就是:C	熱:Vt	可可:N	嗯:T	
+友人:N	是:Vt	這麼:ADV	回答:Vt	的:T	
+這:DET	是:Vt	牛肉:N	捲:Vt	
+吃起來:ADV	味道:N	還:ADV	OK:FW	
+J:FW	一直:ADV	Murmur:FW	說:Vt	COSTCO:FW	得:T	比較:ADV	好吃:Vi	
+但:C	我:N	覺得:Vt	沙拉:N	的:T	部分:DET	還:ADV	挺:ADV	不錯:Vi	的:T	
+鮮:Vi	奶油:N	楓糖:N	果醬:N	鬆餅:N	--:DASHCATEGORY	140:DET	元:M	
+旁邊:N	附上:Vt	的:T	是:Vt	蘋果:N	
+我:N	還是:ADV	比較:ADV	喜歡:Vt	子:N	水滴狀:N	的:T	鬆餅:N	
+但:C	奶油:N	還:ADV	不錯:Vi	
+但:C	有點:ADV	胖:Vi	的:T	感覺:N	XDDDD:FW	我:N	覺得:Vt	小:Vi	春日:N	和:C	真的:ADV	是:Vt	家:N	很:ADV	適合:Vi	帶:Vt	家:N	中:N	寵物:N	來:ADV	認識:Vt	新:Vi	朋友:N	的:T	店:N	
+也:ADV	很:ADV	適合:Vi	喜歡:Vt	貓貓:N	狗狗:N	的:T	人:N	來:Vi	杯:M	下午茶:N	
+意淫:N	牠們:N	的:T	店:N	
+誤:ADV	
+也:ADV	是:Vt	個:M	很:ADV	適合:Vi	來:ADV	悠閒:Vi	下午:N	的:T	店:N	
+總之:ADV	
+推薦給:Vt	大家:N	囉:T	
+小:Vi	春日:N	和:C	動物:N	雜貨:N	/:FW	咖啡:N	地址:N	：:COLONCATEGORY	台北市:N	延壽街:N	361:DET	號:M	1樓:N	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	87876920:DET	--:DASHCATEGORY	

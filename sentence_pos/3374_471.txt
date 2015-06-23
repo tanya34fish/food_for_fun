@@ -1,0 +1,51 @@
+pancher7(pancher:FW	7:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	公館:N	師大:N	商圈:N	好:Vi	窩:N	咖啡:N	
+Thu:FW	
+Jul:FW	
+31:DET	
+15:DET	::COLONCATEGORY	00:DET	::COLONCATEGORY	14:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	好:Vi	窩:N	咖啡:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	溫州街:N	74巷:N	3弄:N	5:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2367:DET	-:DASHCATEGORY	8577:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週日:N	9:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	30:DET	
+圖文版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	deliciouslife.pixnet.net/blog/post:FW	/:FW	381437912:DET	
+純:Vi	文字:N	心得:N	↓:FW	
+在:P	去年:N	創立:Vt	blog:FW	開始:Vt	記錄:N	美食:N	生活:N	的:T	時候:N	就:ADV	收藏:Vt	了:ASP	好:Vi	窩:N	咖啡:N	
+倒:ADV	也:ADV	不:ADV	是:Vt	被:P	他們:N	家:N	可愛:Vi	的:T	三:DET	眼:M	怪:Vi	拉花:N	吸引:Vt	
+只是:ADV	單純:Vi	喜歡:Vt	裝潢:N	和:C	氣氛:N	
+這天:N	在:P	附近:N	吃:Vt	午餐:N	
+餐:N	後:POST	想:Vt	喝:Vt	杯:M	咖啡:N	
+太陽:N	又:ADV	烈:Vi	又:ADV	曬:Vt	的:T	
+正巧:ADV	經過:Vt	了:ASP	好:Vi	窩:N	
+二話不說:Vi	就:ADV	決定:Vt	入店:Vi	歇歇:Vi	
+桌數:N	不:ADV	多:Vi	
+且:C	桌:N	距:P	擺設:Vt	非常:ADV	靠近:Vt	
+聊天:Vi	時:POST	會:ADV	覺得:Vt	有點:ADV	害羞:Vi	
+怕:Vt	音量:N	失控:Vi	影響到:Vt	隔壁桌:N	的:T	客人:N	們:N	
+▼:FW	調味:Vi	拿:Vt	鐵:N	/:FW	摩卡:N	150:DET	元:M	
+意外:N	的:T	好喝:Vi	
+擺脫:Vt	摩卡:N	很:ADV	甜:Vi	的:T	刻板:Vi	印象:N	
+整:DET	杯:M	充滿:Vt	著:ASP	帶苦:Vi	的:T	巧克力:N	濃醇:Vi	香氣:N	
+奶味:N	比重:N	低:Vi	
+▼:FW	莫扎特:N	奶油:N	可可酒:N	咖啡:N	160:DET	元:M	
+最近:N	總是:ADV	喝:Vt	美式:A	也:ADV	感覺:Vt	膩:Vi	
+看見:Vt	menu:FW	上:N	有加:ADV	酒:N	的:T	咖啡:N	感到:Vt	很:ADV	有:Vt	興趣:N	
+拉花:N	功力:N	的確:ADV	不得了:Vi	
+線條:N	勾勒:Vt	的:T	細膩度:N	讓:Vt	我:N	好:ADV	捨不得:Vt	破壞:Vt	它:N	
+細緻:Vi	綿密:Vi	的:T	奶:N	泡:Vt	更:ADV	是:Vt	讓:Vt	咖啡:N	入口:N	時:POST	的:T	滑順度:N	大大:Vi	提升:Vt	
+第:DET	一:DET	時間:N	品味:Vt	到:P	淡:Vi	而:C	不:ADV	刺激:Vt	的:T	酒氣:N	
+接著:ADV	是:Vt	混合:Vt	巧克力:N	香:Vi	的:T	咖啡味:N	
+最後:N	才:ADV	品出:Vt	奶油:N	的:T	甜:Vi	
+比:P	摩卡:N	更加:ADV	好喝:Vi	的:T	讓:Vt	我:N	驚艷:Vi	
+消費:N	不:ADV	另:DET	收取:Vt	服務:Nv	費用:N	
+提供:Vt	WiFi:FW	
+也:ADV	觀迎:Vt	顧客:N	帶:Vt	寵物:N	造訪:Vt	
+每:DET	人:N	最:ADV	低:Vi	消費:N	130:DET	元:M	
+嚴禁:Vt	外食:Vi	
+目前:N	早上:N	9:DET	::COLONCATEGORY	00:DET	到:P	中午:N	12:DET	::COLONCATEGORY	30:DET	有:Vt	供應:Nv	早餐:N	
+好:Vi	窩:N	的:T	咖啡:N	真的:ADV	讓:Vt	我:N	覺得:Vt	很:ADV	好喝:Vi	
+是:Vt	讓:Vt	人:N	會:ADV	想:Vt	再:ADV	來:Vi	的:T	咖啡店:N	噢:T	
+『:PARENTHESISCATEGORY	食:N	、:PAUSECATEGORY	遊:Vt	』:PARENTHESISCATEGORY	→:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	deliciouslife.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	一同:ADV	討論:Vt	美食:N	→:FW	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/deliciouslife:FW	2013:DET	

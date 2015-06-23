@@ -1,0 +1,67 @@
+pancher7(pancher:FW	7:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	松山:N	咖哩:N	娘:N	
+Mon:FW	
+Oct:FW	
+6:DET	
+19:DET	::COLONCATEGORY	36:DET	::COLONCATEGORY	42:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	咖哩:N	娘:N	caridemadame:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	10:DET	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	敦化北路:N	165巷:N	14:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2712:DET	-:DASHCATEGORY	5606:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	賣光:Vt	(:PARENTHESISCATEGORY	約:ADV	14:DET	::COLONCATEGORY	00:DET	):PARENTHESISCATEGORY	、:PAUSECATEGORY	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	賣光:Vt	(:PARENTHESISCATEGORY	約:ADV	21:DET	::COLONCATEGORY	00:DET	):PARENTHESISCATEGORY	
+圖文版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	deliciouslife.pixnet.net/blog/post:FW	/:FW	393525320:DET	
+純:Vi	文字:N	心得:N	↓:FW	
+打從:P	得知:Vt	有:Vt	
+咖哩:N	娘:N	
+這:DET	間:M	餐廳:N	以來:POST	就:ADV	一直:ADV	都:ADV	很:ADV	想:Vt	去:ADV	吃:Vt	
+還:ADV	沒:ADV	等到:P	機會:N	就:ADV	幸運:Vi	的:T	先:ADV	收到:Vt	了:ASP	邀請:Vt	試:Vt	吃:Vt	的:T	信件:N	
+店名:N	很:ADV	有:Vt	創意:N	
+玻璃:N	上:N	的:T	告示語:N	充分:Vi	顯示出:Vt	老闆:N	的:T	堅持:Nv	和:C	隨性:Vi	
+不:ADV	收:Vt	服務費:N	
+餐具:N	水杯:N	歡迎:Vt	自取:Vt	
+玻璃瓶:N	裡:N	盛裝:Vi	著:ASP	使用:Vt	的:T	各:DET	式:M	香料:N	
+沒有:Vt	紙:N	本:DET	菜單:N	
+點餐:N	請:Vt	參考:Vt	牆:N	上:POST	說明:Vt	
+應對桌:N	上:N	的:T	鐵:N	/:FW	木牌:N	
+選好:Vt	後:POST	交給:Vt	服務生:N	就:ADV	完成點餐:N	
+方便:Vi	明瞭:Vt	也:ADV	環保:N	
+而:C	食:Vt	材:N	的:T	產地:N	也:ADV	標示:Vt	的:T	相當:ADV	清楚:Vi	明白:Vt	
+▼:FW	小菜:N	-:DASHCATEGORY	蜜:N	地瓜:N	&:FW	amp:FW	
+醋漬:N	佛手瓜:N	
+地瓜:N	很:ADV	甜:Vi	很:ADV	軟:Vi	
+佛手瓜:N	酸度:N	頗:ADV	高:Vi	
+嚐起來:ADV	像:Vt	情人果:N	
+▼:FW	套餐:N	-:DASHCATEGORY	南瓜:N	濃湯:N	&:FW	amp:FW	
+巴西:N	麵包:N	
+湯品:N	很:ADV	好喝:Vi	
+甜味:N	自然:N	且:C	帶有:Vt	南瓜肉:N	纖維:N	
+麵包:N	鬆軟:Vi	
+用:P	手:N	撕開:Vt	時:POST	感覺到:Vt	麵團:N	的:T	彈性:N	
+裡外:N	都:ADV	有:Vt	著:ASP	滿滿:Vi	的:T	黑:Vi	芝麻:N	粒:N	
+多:Vi	了:ASP	一:DET	股:M	清香:Vi	
+▼:FW	湯:N	咖哩:N	蔬菜:N	原價:N	280:DET	元:M	
+咖哩:N	娘:N	使用:Vt	的:T	米:N	為:P	彰化:N	台梗:N	九:DET	號:M	米:N	
+口感:N	Q:FW	彈:Vt	
+烤:Vt	過:ASP	的:T	蔬菜:N	淋:Vt	上湯:N	咖哩汁:N	後:POST	再:ADV	把:P	飯:N	也:ADV	加進去:Vt	就:ADV	可以:ADV	開動:Vi	了:ASP	
+綜合:A	蔬菜:N	有:Vt	小:Vi	紅蘿蔔:N	、:PAUSECATEGORY	花椰菜:N	、:PAUSECATEGORY	青椒:N	、:PAUSECATEGORY	杏鮑菇:N	、:PAUSECATEGORY	玉米:N	筍:N	和:C	南瓜:N	等等:POST	
+咖哩汁:N	因:C	使用:Vt	天然:A	香料:N	的:T	關係:N	帶有:Vt	一些些:DET	的:T	苦味:N	
+個:M	人:N	覺得:Vt	還:ADV	不錯:Vi	
+不:ADV	容易:Vi	膩:Vi	也:ADV	很:ADV	特別:Vi	
+▼:FW	咖哩:N	娘:N	牛排:N	原價:N	380:DET	元:M	
+爐烤:Vt	的:T	厚:Vi	切:Vt	8:DET	oz:FW	美國:N	牛排:N	
+擺:Vt	著:ASP	灑上:Vt	香料:N	的:T	奶油:N	
+咖哩醬:N	和:C	湯:N	咖哩:N	口感:N	與:C	口味:N	完全:ADV	不:ADV	一樣:Vi	
+質地:N	濃稠:Nv	、:PAUSECATEGORY	濃郁:Vi	香料:N	氣味:N	中:POST	有:Vt	著:ASP	清爽:Vi	的:T	酸香:N	
+牛排:N	肉質:N	嫩:Vi	Q:FW	有:Vt	彈性:N	
+就是:C	帶:Vt	筋:N	的:T	部位:N	嚼:Vt	的:T	有:Vt	些:M	辛苦:Vt	
+▼:FW	奶酪:N	原價:N	80:DET	元:M	
+滑:Vi	順:Vt	柔潤:Vi	伴隨:Vt	新鮮:Vi	香:Vi	草籽:N	
+本身:N	有:Vt	濃厚:Vi	奶香:N	但:C	沒:Vt	什麼:DET	甜度:N	
+與:C	店家:N	自製:Vt	焦糖醬:N	搭配:Vt	之下:POST	入口:N	即:ADV	化:Vt	相當:ADV	美味:Vi	
+咖哩:N	娘:N	的:T	手:N	打:Vt	香料:N	調味:Nv	咖哩:N	很:ADV	特別:Vi	
+推翻:Vt	了:ASP	以往:N	大眾:N	對於:P	咖哩:N	的:T	了解:Nv	與:C	印象:N	
+在:P	別的:DET	餐廳:N	也:ADV	尚:ADV	沒:ADV	吃到:Vt	過:ASP	這般:Vi	滋味:N	的:T	咖哩:N	
+喜愛:Vt	咖哩:N	的:T	朋友:N	可以:ADV	來:ADV	試試:Vt	
+『:PARENTHESISCATEGORY	食:N	、:PAUSECATEGORY	遊:Vt	』:PARENTHESISCATEGORY	→:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	deliciouslife.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	一同:ADV	討論:Vt	美食:N	→:FW	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/deliciouslife:FW	2013:DET	

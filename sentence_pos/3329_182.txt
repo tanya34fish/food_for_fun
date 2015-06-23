@@ -1,0 +1,61 @@
+zzt:FW	(:PARENTHESISCATEGORY	限量:Vi	版魔人:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	台北市:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	忠順街:N	]:PARENTHESISCATEGORY	新野豚骨:N	拉麵:N	定食:Vt	專賣店:N	
+Sat:FW	
+Jul:FW	
+19:DET	
+09:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	22:DET	
+2014:DET	
+店家:N	名稱:N	：:COLONCATEGORY	新野豚骨:N	拉麵:N	定食:Vt	專賣店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	文山區:N	忠順街:N	一段:N	84:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	120:DET	-:DASHCATEGORY	210:DET	元:M	，:COMMACATEGORY	不:ADV	收:Vt	服務費:N	
+圖文:N	好讀:Vt	版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/SmuC2i:FW	
+目前:N	我:N	已經:ADV	吃:Vt	過:ASP	而且:C	寫:Vt	過:ASP	文章:N	記錄:N	的:T	台北市:N	日式:A	拉麵店:N	一共:ADV	是:Vt	90:DET	家:M	
+這:DET	間:M	店:N	開幕:Vi	於:P	2013.0:DET	9.07:DET	
+位於:Vt	文山區:N	興隆路:N	與:C	忠順:Vi	街路:N	口:N	附近:N	
+店:N	內:N	約:ADV	可:ADV	
+容納:Vt	36:DET	個:M	位置:N	
+店:N	內:N	很:ADV	寬敞:Vi	
+店家:N	不:ADV	收:Vt	服務費:N	
+服務:Nv	人員:N	態度:N	普通:Vi	
+店家:N	播:Vt	
+放:Vt	的:T	是:Vt	華語:N	流行:Vi	音樂:N	
+店家:N	強調:Vt	湯:N	、:PAUSECATEGORY	飯:N	以及:C	飲料:N	都:ADV	無限:Vi	取用:Vt	
+菜單:N	封面:N	
+店家:N	下午:N	不:ADV	營業:Vi	
+想要:Vt	造訪:Vt	的:T	要:ADV	稍微:ADV	注意:Vt	一下:N	時間:N	
+菜單:N	
+拉麵:N	價位:N	介於:Vt	110:DET	元:M	至:P	150:DET	元:M	之間:POST	
+不:ADV	收:Vt	服務費:N	
+另外:C	還:ADV	有:Vt	套餐:N	可以:ADV	點選:Vt	
+價位:N	介於:Vt	90:DET	元:M	至:P	160:DET	元:M	之間:POST	
+點餐:N	要:ADV	用:P	這:DET	張:M	單子:N	勾選:Vt	
+勾完:Vt	去:Vt	櫃檯:N	結帳:Vi	以後:POST	才:ADV	會:ADV	製作:Vt	
+醬油:N	叉燒:N	拉麵:N	
+120:DET	元:M	
+配:Vt	菜:N	有:Vt	蔥:N	、:PAUSECATEGORY	筍乾:N	以及:C	海苔:N	
+湯頭:N	的:T	部份:DET	
+味道:N	很:ADV	清:Vi	
+淡:Vi	
+現場:N	很多:DET	人:N	都:ADV	是:Vt	去:ADV	拿:Vt	胡椒:N	和:C	七:DET	味:M	粉:N	自行:ADV	調配:Vt	自己:N	喜歡:Vt	的:T	味道:N	
+叉燒:N	有:Vt	薄薄:Vi	的:T	兩:DET	片:M	
+味道:N	普通:Vi	
+蛋:N	是:Vt	一般:A	的:T	水:N	煮:Vt	蛋:N	
+切口:N	不:ADV	完整:Vi	也:ADV	不:ADV	均勻:Vi	
+拉麵:N	份量:N	很多:DET	
+味道:N	一般:POST	
+不過:C	處理:Vt	的:T	還:ADV	不錯:Vi	
+麵條:N	不會:ADV	太:ADV	軟:Vi	
+綜論:N	之:T	
+以:P	吃:Vt	過:ASP	一:DET	次:M	的:T	經驗:N	來:ADV	說:Vt	
+這:DET	是:Vt	一:DET	間:M	中低價位:N	至:C	中價位:N	
+不:ADV	收:Vt	服務:Nv	
+費:Vt	
+湯品:N	、:PAUSECATEGORY	白飯:N	和:C	飲料:N	可以:ADV	無限:Vi	取用:Vt	
+用餐:Nv	環境:N	寬敞:Vi	的:T	日式:A	拉麵店:N	
+拉麵表:N	
+現:ADV	恰如:Vt	其:DET	份:M	
+整體:N	來:ADV	說:Vt	將:P	它:N	定位為:Vt	提供:Vt	附近:N	居民:N	用餐:Vi	的:T	日式:A	拉麵店:N	可以:ADV	說:Vt	是:Vt	
+剛剛好:ADV	
+也:ADV	很:ADV	適合:Vi	想要:Vt	吃:Vt	粗飽:Vi	的:T	客人:N	

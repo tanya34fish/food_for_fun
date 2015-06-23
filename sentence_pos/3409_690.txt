@@ -1,0 +1,201 @@
+maggie:FW	024:DET	(:PARENTHESISCATEGORY	莫莉:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	【:PARENTHESISCATEGORY	台北:N	】:PARENTHESISCATEGORY	LobsterBar:FW	，:COMMACATEGORY	顛覆:Vt	味蕾:N	的:T	龍蝦:N	之:T	旅:N	
+Sun:FW	
+Aug:FW	
+10:DET	
+20:DET	::COLONCATEGORY	24:DET	::COLONCATEGORY	19:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	TheLobsterBar:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	北市:N	大安區:N	大安路:N	一段:N	116巷:N	17:DET	號:M	一樓:N	
+電話:N	：:COLONCATEGORY	0227710333:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	Tue-Thu:FW	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	pm:FW	-:DASHCATEGORY	3:DET	::COLONCATEGORY	00:DET	pm:FW	,:COMMACATEGORY	5:DET	::COLONCATEGORY	00:DET	pm:FW	-:DASHCATEGORY	12:DET	::COLONCATEGORY	00:DET	am:FW	
+Fri:FW	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	pm:FW	-:DASHCATEGORY	3:DET	::COLONCATEGORY	00:DET	pm:FW	,:COMMACATEGORY	5:DET	::COLONCATEGORY	00:DET	pm:FW	-:DASHCATEGORY	2:DET	::COLONCATEGORY	00:DET	am:FW	
+Sat:FW	::COLONCATEGORY	5:DET	::COLONCATEGORY	00:DET	pm:FW	-:DASHCATEGORY	2:DET	::COLONCATEGORY	00:DET	am:FW	,:COMMACATEGORY	Sun:FW	::COLONCATEGORY	5:DET	::COLONCATEGORY	00:DET	pm:FW	-:DASHCATEGORY	10:DET	::COLONCATEGORY	00:DET	pm:FW	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	700:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	王牌:N	奶茶:N	，:COMMACATEGORY	龍蝦:N	三明治:N	
+【:PARENTHESISCATEGORY	台北:N	LobsterBar:FW	，:COMMACATEGORY	顛覆:Vt	味蕾:N	的:T	奇幻:Vi	龍蝦:N	之:T	旅:N	】:PARENTHESISCATEGORY	
+●:FW	圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	383127560:DET	
+【:PARENTHESISCATEGORY	延伸:Vi	閱讀:Vt	
+更多:DET	台北:N	】:PARENTHESISCATEGORY	
+●:FW	【:PARENTHESISCATEGORY	台北:N	九月:N	咖啡:N	
+美好:Vi	的:T	一:DET	天:M	就:ADV	從:P	早:Vi	午餐:N	開始:POST	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	383375057:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	貝貝:N	西點:N	LesBebes:FW	
+繽紛:Vi	浪漫:Vi	少女系:N	甜點:N	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	382993646:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	B-LineByATrain:FW	
+在:P	都市:N	中:POST	找尋:Vt	屬於:Vt	自己:N	的:T	secretbar:FW	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	380114576:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	爐鍋:N	咖啡:N	小:Vi	藝埕:N	
+人文:N	巷弄:N	間:POST	的:T	咖啡:N	香:N	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	371969156:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	小:Vi	藝埕思:N	劇場:N	
+文學:N	與:C	不可思議:Vi	相遇:Vi	在:P	迪化街:N	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	375875567:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	Leparkcafe:FW	
+隱藏:Vt	在:P	都市:N	喧囂:Nv	後:POST	的:T	片刻:N	寧靜:Vi	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	324726350:DET	
+【:PARENTHESISCATEGORY	無:Vt	文字:N	好:Vi	讀版:N	】:PARENTHESISCATEGORY	
+你:N	認為:Vt	一:DET	間:M	餐廳:N	最:ADV	重要:Vi	的:T	是:Vt	什麼:DET	
+讓:Vt	你們:N	想:Vt	再:ADV	訪:Vt	
+是:Vt	一:DET	道:M	好吃:Vi	料理:N	還是:C	一:DET	杯:M	好:Vi	酒:N	、:PAUSECATEGORY	氣氛:N	
+答案:N	是:Vt	::COLONCATEGORY	
+熱情:Vi	、:PAUSECATEGORY	人:N	與:C	人:N	之間:POST	的:T	互動:Nv	
+這:DET	是:Vt	一:DET	位:M	年:N	僅:ADV	23:DET	歲:M	bartender:FW	小:Vi	天:M	問:Vt	我們:N	的:T	問題:N	
+而:C	他:N	給:Vt	我們:N	的:T	答案:N	
+開業:Vi	才:ADV	半:DET	年:M	的:T	龍蝦:N	餐廳:N	
+主打:Nv	龍蝦:N	以及:C	海鮮:N	餐點:N	
+從:P	龍蝦:N	三明治:N	、:PAUSECATEGORY	龍蝦:N	濃湯:N	到:Vt	西班牙:N	海鮮:N	燉:Vt	飯:N	等等:POST	都:ADV	有:Vt	
+非常:ADV	特別:Vi	的:T	餐點:N	組合:Nv	而且:C	口感:N	也:ADV	真的:ADV	很:ADV	好吃:Vi	
+只:ADV	可惜:Vi	餐點:N	上面:N	照片:N	的:T	份量:N	與:C	實際:Vi	分量:N	完全:ADV	不:ADV	符合:Vt	阿:N	XD:FW	
+當天:N	因為:C	周末:N	用餐:Vi	人潮:N	非常:ADV	多:Vi	
+所以:C	店:N	內:N	安排:Vt	我們:N	做:Vt	吧台:N	的:T	位置:N	
+就:ADV	這樣:Vi	
+開啟:Vt	了:ASP	這:DET	一:DET	晚:M	微醺:Vi	酒精:N	作伴:Vi	的:T	生活:N	對談:Vi	
+顛覆:Vt	味蕾:N	的:T	奇幻:Vi	龍蝦:N	之:T	旅:N	
+這:DET	次:M	我們:N	點:Vt	了:ASP	
+蒜蝦:N	
+、:PAUSECATEGORY	
+煙燻:A	松露燉飯:N	
+、:PAUSECATEGORY	
+龍蝦:N	三明治:N	
+以及:C	
+Mojito:FW	、:PAUSECATEGORY	
+王牌:N	奶茶:N	
+奶茶:N	有:Vt	故事:N	
+是:Vt	菜單:N	上:N	沒有:Vt	
+稍後:ADV	跟:P	你們:N	解釋:Vt	XD:FW	
+蒜蝦:N	$:FW	380:DET	
+這:DET	道:M	是:Vt	我:N	超級:A	推薦:Vt	的:T	料理:N	
+比:P	主打:Vt	的:T	龍蝦:N	三明治:N	還:ADV	好吃:Vi	
+大量:DET	蒜:N	香:N	與:C	白酒:N	嗆出:Vt	的:T	蒜蝦:N	
+口感:N	非常:ADV	濃厚:Vi	且:C	蝦肉:N	富有:Vt	彈性:N	
+是:Vt	一:DET	道:M	讓:Vt	人:N	很:ADV	驚豔:Vi	的:T	一:DET	盤:M	開胃菜:N	
+連:C	Bartender:FW	小:Vi	天:M	都:ADV	說:Vt	這:DET	是:Vt	他:N	自己:N	很:ADV	愛:Vt	很:ADV	愛:Vt	的:T	一:DET	道:M	
+煙燻:A	松露燉飯:N	$:FW	480:DET	
+鴨肉:N	與:C	菇類:N	、:PAUSECATEGORY	松露:N	一同:ADV	燉煮:Vt	的:T	煙燻:A	鴨肉:N	燉飯:Vt	
+味道:N	均勻:Vi	充滿:Vt	層次:N	
+如果:C	喜歡:Vt	奶油:N	、:PAUSECATEGORY	松露:N	口感:N	的:T	
+這:DET	道:M	也:ADV	會:ADV	是:Vt	不錯:Vi	的:T	選擇:N	
+另外:C	原本:ADV	很:ADV	怕:Vt	吃:Vt	鴨肉:N	的:T	我:N	
+這:DET	次:M	再度:ADV	嘗試:Vt	
+也:ADV	覺得:Vt	還可以:ADV	
+鴨肉:N	本身:N	的:T	味道:N	有:Vt	被:P	處理:Vt	過:ASP	
+吃起來:ADV	口感:N	反而:C	像:P	八分:DET	熟:Vi	的:T	牛排:N	
+很:ADV	好吃:Vi	
+龍蝦:N	三明治:N	$:FW	680:DET	
+這:DET	跟:P	是:Vt	網路:N	上:N	和:C	龍蝦:N	濃湯:N	一樣:Vi	紅:Vi	的:T	餐點:N	
+現場:N	客人:N	也:ADV	是:Vt	每:DET	桌:M	必:ADV	點:Vt	
+我:N	個:M	人:N	是:Vt	認為:Vt	如果:C	不:ADV	怕:Vt	美乃滋:N	味道:N	的:T	可以:ADV	嘗試:Vt	
+龍蝦:N	很:ADV	新鮮:Vi	
+搭配:Vt	的:T	美乃滋:N	生菜:N	與:C	龍蝦:N	吃起來:ADV	口感:N	很:ADV	清爽:Vi	
+非常:ADV	適合:Vi	夏天:N	這:DET	種:M	炎熱:Vi	季節:N	享用:Vt	
+▼:FW	前面:N	這:DET	位:M	就:ADV	是:Vt	小:Vi	天:M	
+其實:ADV	像:P	這:DET	種:M	酒吧:N	結合:Vt	餐點:N	的:T	店:N	
+我:N	也:ADV	走訪:Vt	不少:DET	
+在:P	台北市:N	價位:N	上面:N	每:DET	間:M	都:ADV	差不多:Vi	
+但:C	這:DET	間:M	份量:N	稍微:ADV	比較:ADV	少:Vi	
+然後:ADV	口味:N	有點:ADV	過重:Vi	
+只:ADV	能:ADV	說:Vt	這:DET	間:M	的:T	餐點:N	比較:ADV	適合:Vi	當下:N	酒菜:N	
+如果:C	以:P	男生:N	胃口:N	來:ADV	說:Vt	
+這邊:N	平均:Vi	一:DET	個:M	人:N	要:ADV	吃到:Vt	$:FW	1000:DET	兩:DET	道:M	主菜:N	以上:POST	才:ADV	能:ADV	吃飽:Vi	
+哈哈:ADV	
+只:ADV	能:ADV	說:Vt	以:P	美式:A	酒吧:N	餐點:N	來:ADV	說:Vt	
+這:DET	間:M	很:ADV	不:ADV	適合:Vi	拿來:Vt	吃飽:Vi	用:P	
+但:C	可以:ADV	來:Vi	這邊:N	喝:Vt	酒:N	倒是:ADV	不錯:Vi	
+氣氛:N	很:ADV	棒:Vi	
+來:ADV	與:P	阮:N	經:P	天分:N	身:N	Bartender:FW	小:Vi	天:M	聊聊天:Vi	吧:T	
+這:DET	次:M	因為:C	有:Vt	機會:N	坐到:Vt	吧台:N	
+跟:P	小:Vi	天:M	聊:Vt	了:ASP	不少:DET	酒類:N	與:C	非:A	酒精:N	飲料:N	
+才:ADV	知道:Vt	真正:ADV	好喝:Vi	的:T	調:N	酒:N	不僅僅:ADV	是:Vt	menu:FW	上面:N	那些:DET	品:Vt	項:M	
+更多:DET	的:T	是:Vt	Bartender:FW	獨創:Nv	特調:N	的:T	技巧:N	與:C	創作:N	想像力:N	
+而:C	坐:Vi	吧台:N	的:T	好處:N	是:Vt	
+你:N	可以:ADV	隨便:Vi	點上:Vt	一:DET	種:M	臨時:N	想要:Vt	喝:Vt	的:T	口感:N	
+像:Vt	是:Vt	突然:ADV	想:Vt	喝:Vt	巧克力:N	口感:N	或者:C	要:ADV	很:ADV	酸:Vi	的:T	
+當然:ADV	也:ADV	可以:ADV	想要:Vt	水果:N	冰茶:N	系列:N	
+這些:DET	都:ADV	可以:ADV	請:Vt	Bartender:FW	幫:P	你:N	條配:N	
+雖然:C	我:N	這:DET	次:M	一樣:Vi	是:Vt	點:M	Mogito:FW	
+但是:C	也:ADV	麻煩:Vt	小:Vi	天:M	幫:P	我:N	微調:N	比較:ADV	酸:Vi	的:T	口感:N	
+而:C	這:DET	間:M	的:T	Mojito:FW	很:ADV	推薦:Vt	
+濃烈:Vi	的:T	杯:N	底:POST	大量:DET	壓縮:Nv	薄荷味:N	與:C	酒精:N	在:P	酒杯:N	中:POST	衝撞:Vt	出:Vt	的:T	舌尖:N	味覺:N	非常:ADV	的:T	棒:Vi	啊:T	
+menu:FW	上面:N	沒有:Vt	的:T	王牌:N	奶茶:N	怎麼:ADV	一:DET	回:M	事:N	
+說到:Vt	這:DET	杯:M	飲品:N	
+其實:ADV	是:Vt	一:ADV	開始:Vt	我們:N	發現:Vt	超:Vt	多:DET	人:N	點:Vt	奶茶:N	
+就:ADV	好奇:Vi	的:T	問起:Vt	了:ASP	這:DET	杯:M	
+而:C	我們:N	也:ADV	跟:P	小:Vi	天:M	點:N	上:POST	
+想:Vt	說來:ADV	喝喝:Vt	看:Vt	是:Vt	什麼:DET	原因:N	
+小:Vi	天:M	說:Vt	他們:N	店:N	內:N	的:T	奶茶:N	不錯:Vi	喝:Vt	
+但:C	他:N	最近:N	對:P	這:DET	杯:M	奶茶:N	有:Vt	更多:DET	的:T	想法:N	
+問:Vt	我們:N	願不願意:Vt	嘗試:Vt	新:Vi	作品:N	
+我們:N	當然:ADV	非常:ADV	期待:Vt	
+奶茶:N	看似:Vt	簡單:Vi	的:T	牛奶:N	與:C	茶:N	
+透過:P	小:Vi	天:M	之:T	手:N	
+首先:ADV	是:Vt	在:P	茶:N	與:C	牛奶:N	比例:N	條配好:Vt	之後:POST	
+在:P	牛奶:N	上方:N	撒上:Vt	糖粉:N	並且:C	小:Vi	火燒:N	烤成:Vt	焦糖味:N	
+接著:ADV	用:P	小:Vi	火:N	在:P	整:DET	杯:N	上方:N	稍微:ADV	燃燒:Vt	橘子皮:N	
+讓:Vt	橘子:N	香氣:N	與:C	焦糖:N	融入:Vt	
+然後:ADV	在:P	杯:N	外圍:N	輕輕:Vi	沾:Vt	點:M	橘子皮:N	的:T	香氣:N	
+讓:Vt	整:DET	杯:M	現在:N	圍繞:Vt	著:ASP	焦糖:N	與:C	橘:N	香味:N	
+還:ADV	沒:ADV	結束:Vt	
+最後:N	還:ADV	加入:Vt	了:ASP	少許:DET	的:T	蜂蜜:N	與:C	糖漿:N	
+完成:Vt	了:ASP	
+王牌:N	奶茶:N	
+無比:Vi	驚豔:Vi	
+我:N	跟:P	小:Vi	天:M	問:Vt	過:ASP	
+大家:N	看到:Vt	文章:N	去:Vt	店:N	內:N	可以:ADV	找:Vt	你:N	點:Vt	這:DET	杯:M	嗎:T	
+他:N	說:Vt	沒:Vt	問題:N	喔:T	哈哈:ADV	
+所以:C	
+大家:N	如果:C	真的:ADV	想:Vt	喝喝:Vt	看:Vt	
+千萬:DET	不要:ADV	害羞:Vi	就:ADV	給:Vt	他:N	點:N	上:POST	吧:T	
+小:Vi	天:M	是:Vt	個:M	充滿:Vt	熱情:Vi	的:T	Bartender:FW	
+雖然:C	年紀:N	僅僅:ADV	23:DET	歲:M	
+但:C	卻:ADV	有:Vt	著:ASP	成熟:Vi	穩重:Vi	的:T	談吐:N	
+對於:P	自己:N	的:T	人生:N	充滿:Vt	熱情:N	與:C	好奇:Vi	
+而且:C	很:ADV	清楚:Vi	自己:N	的:T	興趣:N	與:C	喜歡:Vt	的:T	方向:N	
+更:ADV	重要:Vi	的:T	是:Vt	
+他:N	知道:Vt	服務業:N	應該:ADV	要:ADV	給:Vt	客人:N	的:T	不能:ADV	單:ADV	只:ADV	是:Vt	餐點:N	好吃:Vi	、:PAUSECATEGORY	酒:N	好喝:Vi	而已:T	
+而是:C	那:DET	份:M	珍貴:Vi	的:T	
+人:N	與:C	人:N	之間:POST	真誠:Vi	、:PAUSECATEGORY	熱情:Vi	的:T	互動:Nv	
+所以:C	來到:Vt	這:DET	
+記得:Vt	跟:P	服務生:N	說:Vt	你:N	想:Vt	做:Vt	吧台:N	
+這樣:Vi	就:ADV	可以:ADV	盡情:ADV	的:T	喝到:Vt	小:Vi	天:M	的:T	新:Vi	創作:N	作品:N	囉:T	
+後記:N	::COLONCATEGORY	
+今天:N	與:C	沖繩:N	男孩:N	來到:Vt	這:DET	間:M	餐廳:N	
+除了:P	渡過:Vt	了:ASP	一:DET	個:M	美好:Vi	的:T	晚餐:N	夜晚:N	以外:POST	
+更:ADV	難得:Vi	的:T	是:Vt	讓:Vt	我們:N	看到:Vt	年輕人:N	這樣:Vi	的:T	生命:N	動力:N	與:C	正面:N	想法:N	
+激勵:Vt	我們:N	未來:N	在:P	做:Vt	任何:DET	事情:N	上:N	
+也:ADV	必須:ADV	時時:ADV	謹:ADV	替:P	自己:N	
+保有:Vt	活力:N	與:C	熱情:N	
+發揮:Vt	自己:N	的:T	能力:N	
+用:P	熱情:N	與:C	所有人:N	互動:Nv	
+謝謝:Vt	小:Vi	天:M	送給:Vt	了:ASP	我:N	最好:ADV	的:T	生日:N	禮物:N	
+這:DET	個:M	世代:N	是:Vt	很:ADV	
+虛擬:Vt	的:T	時代:N	
+大家:N	都:ADV	漸漸:ADV	從:P	人:N	與:C	人:N	互動:Vi	退去:Vt	到:P	透過:P	電腦:N	與:C	手機:N	互動:Nv	
+就:ADV	這樣:Vi	漸漸:ADV	失去:Vt	
+人:N	與:C	人:N	最:ADV	基本:A	的:T	微笑:N	與:C	熱情:N	
+做:Vt	部落格:N	才:ADV	半:DET	年:M	卻:ADV	收穫:Vt	滿載:Vt	
+除了:P	謝謝:Vt	很多:DET	人:N	一直:ADV	默默:ADV	支持:Vt	著:ASP	我們:N	的:T	圖文:N	
+更多:DET	的:T	是:Vt	我:N	也:ADV	讓:Vt	自己:N	再度:ADV	從:P	手機:N	與:C	電腦:N	走出:Vt	
+與:P	每:DET	一:DET	間:M	民宿:N	主人:N	、:PAUSECATEGORY	
+每:DET	一:DET	間:M	咖啡店:N	的:T	開店:Vi	主人:N	到:Vt	眼前:N	這:DET	杯:M	美酒:N	身:N	後:POST	的:T	大:Vi	工程:N	Bartender:FW	互動:Vi	聊天:Vi	
+並且:C	從:P	他們:N	的:T	故事:N	給:Vt	自已:N	啟發:Vt	更多:DET	更多:DET	
+希望:Vt	你們:N	也:ADV	可以:ADV	跟:P	我:N	一起:ADV	
+走出:Vt	虛擬:Nv	的:T	世界:N	
+回到:Vt	人群:N	
+就:ADV	像:P	吳念真:N	曾:ADV	說:Vt	
+真正:A	的:T	好朋友:N	不會:ADV	是:Vt	在:P	手機:N	或:C	螢幕:N	裡:N	
+而是:C	在:P	你:N	身邊:N	
+熱情:Vi	回應:Vt	他們:N	吧:T	
+另外:C	
+小:Vi	天:M	長:Vi	的:T	真的:ADV	超級:A	像:P	阮:N	經:P	天:N	
+而且:C	不只:ADV	我:N	一:DET	個:M	人:N	說:Vt	過:ASP	
+很多:DET	客人:N	都:ADV	說:Vt	過:ASP	啊:T	XDD:FW	
+大家:N	可以:ADV	自行:ADV	前去:Vt	用餐:Vi	時:POST	鑑定:Vt	一下:N	啊:T	
+文章:N	最後:N	再次:ADV	謝謝:Vt	小:Vi	天:M	在:P	我:N	二:DET	次:M	造訪:Vt	舉辦:Vt	家庭:N	聚會:N	時:POST	
+送給:Vt	我:N	的:T	特:A	調調酒:N	
+很:ADV	喜歡:Vt	
+謝謝:Vt	

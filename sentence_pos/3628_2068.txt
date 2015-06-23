@@ -1,0 +1,31 @@
+likelihood:FW	(:PARENTHESISCATEGORY	我:N	是:Vt	北投人:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	北投:N	義ㄇ:N	ㄞ:FW	ㄇ:N	ㄞ:FW	(:PARENTHESISCATEGORY	平價:N	義大利麵:N	):PARENTHESISCATEGORY	
+Thu:FW	
+Oct:FW	
+9:DET	
+09:DET	::COLONCATEGORY	12:DET	::COLONCATEGORY	28:DET	
+2014:DET	
+店家:N	名稱:N	：:COLONCATEGORY	義ㄇ:N	ㄞ:FW	ㄇ:N	ㄞ:FW	
+地址:N	：:COLONCATEGORY	台北市:N	北投區:N	石牌路:N	二段:N	68巷:N	19:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	28237574:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	30:DET	，:COMMACATEGORY	17:DET	::COLONCATEGORY	30:DET	~:FW	20:DET	::COLONCATEGORY	30:DET	
+休:Vt	：:COLONCATEGORY	星期一:N	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	07月:N	
+平均:Vi	個:M	人:N	費用:N	：:COLONCATEGORY	109:DET	元:M	(:PARENTHESISCATEGORY	545:DET	元:M	/:FW	5:DET	人:N	):PARENTHESISCATEGORY	
+推薦:Vt	菜色:N	：:COLONCATEGORY	
+捷運:N	鐵路:N	：:COLONCATEGORY	捷運:N	石牌:N	站:Vi	
+公車站:N	：:COLONCATEGORY	綜合:A	市場:N	
+汽車:N	停車:Vi	：:COLONCATEGORY	石牌:N	商城:N	平面:N	停車場:N	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	babbitwang.pixnet.net/blog/post:FW	/:FW	106742390:DET	
+2014:DET	北投:N	平價:N	義大利麵:N	
+義ㄇ:N	ㄞ:FW	ㄇ:N	ㄞ:FW	
+前言:N	
+藏:Vt	在:P	巷弄:N	中:POST	的:T	義ㄇ:N	ㄞ:FW	ㄇ:N	ㄞ:FW	是:Vt	一:DET	間:M	平價:N	美食店:N	
+整體:N	吃:Vt	一:DET	吃:Vt	平均:Vi	不會:ADV	超過:Vt	150:DET	元:M	
+不用:ADV	另外:ADV	
+加:Vt	錢:N	就:ADV	可以:ADV	喝:Vt	湯:N	喝到:Vt	飽:Vi	
+店:N	內:N	環境:N	很:ADV	乾淨:Vi	
+門口:N	的:T	落地:Nv	透明窗:N	讓:Vt	店:N	內:N	感覺:N	非常:ADV	的:T	明亮:Vi	
+想:Vt	
+聊天:Vi	又:ADV	不:ADV	想:Vt	吃:Vt	太:ADV	貴:Vi	的:T	話:N	義ㄇ:N	ㄞ:FW	ㄇ:N	ㄞ:FW	真的:ADV	是:Vt	不錯:Vi	的:T	選擇:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	pic.pimg.tw/babbitwang/1410742275-1383548707_n.jpg:FW	

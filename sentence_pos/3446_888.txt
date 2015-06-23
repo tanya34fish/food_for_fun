@@ -1,0 +1,84 @@
+jay70134(AJ:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	誠品:N	松菸店:N	thefirst:FW	下午茶:N	
+Thu:FW	
+Aug:FW	
+21:DET	
+11:DET	::COLONCATEGORY	30:DET	::COLONCATEGORY	13:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	thefirst:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	08:DET	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	菸廠路:N	88:DET	號:M	3樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	6636:DET	-:DASHCATEGORY	5888:DET	ext:FW	.:PERIODCATEGORY	1515:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	約:ADV	600:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	莓果:N	冰山:N	、:PAUSECATEGORY	鐵觀音:N	奶酪:N	
+圖文:N	好讀:Vt	版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jay7134.pixnet.net/blog/post:FW	/:FW	185697345:DET	
+位在:Vt	誠品:N	生活:N	松菸店:N	3樓:N	的:T	thefirst:FW	
+是:Vt	誠品:N	旗下:N	自有:Vt	品牌:N	餐廳:N	
+另:DET	還:ADV	有:Vt	EsliteCafe:FW	、:PAUSECATEGORY	TEAROOM:FW	、:PAUSECATEGORY	theLibrary:FW	分布:Vi	在:P	台北:N	、:PAUSECATEGORY	台中:N	不同:Vi	分店:N	
+門面:N	外觀:N	看起來:ADV	蠻:ADV	低調:Vi	的:T	
+沒想到:ADV	裡頭:N	別有洞天:Vi	
+一:DET	進:M	門:N	馬上:ADV	看到:Vt	蛋糕櫃:N	
+這:DET	款:M	擂茶奶酪:N	很:ADV	特別:Vi	
+空間:N	設計:N	相當:ADV	別緻:Vi	
+酒:N	藏:Vt	也:ADV	很:ADV	豐富:Vt	
+舒適:Vi	的:T	沙發區:N	
+但:C	View:FW	最好:Vi	的:T	還:ADV	是:Vt	窗:N	前:POST	第一:DET	排:M	的:T	席位:N	
+窗:N	前:POST	的:T	座位:N	採用:Vt	大:Vi	片:M	落地窗:N	設計:N	
+可:ADV	直接:Vi	欣賞:Vt	信義區:N	的:T	天際線:N	與:C	部分:DET	松菸:Vi	古蹟:N	建築:N	
+可惜:Vi	夏季:N	午後:N	雷陣雨:N	肆虐:Vt	的:T	季節:N	
+當天:N	下午:N	不一:Vi	會:ADV	就:P	狂風:N	暴雨:N	
+但:C	也:ADV	看:Vt	了:ASP	閃電:N	好幾:DET	次:M	打中:Vt	101:DET	頂端:N	的:T	避雷針:N	
+相當:ADV	壯觀:Vi	
+下午茶:N	套餐:N	選:Vt	一:DET	道:M	茶點:N	可:ADV	搭配:Vt	350:DET	元:M	的:T	飲品:N	
+超過:Vt	補:Vt	差額:N	
+詳細:Vi	菜單:N	&:FW	gt:FW	
+&:FW	gt:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.eslitegourmet.com.tw/Store/menu.aspx:FW	
+sid=A:FW	043:DET	
+強調:Vt	使用:Vt	台灣:N	在:P	地食材:N	與:C	融合:Vt	西方:N	料理:Vt	技術:N	創作:N	美食:N	
+茶飲:N	部分:DET	選用:Vt	具:Vt	台灣:N	特色:N	的:T	高山茶:N	
+特別:Vi	介紹:Vt	茶葉:N	生長:Vi	環境:N	與:C	標示:Vt	年份:N	
+2012:DET	梨山:N	冬茶:N	單:ADV	點:Vt	一:DET	壺:M	320:DET	元:M	
+可:ADV	搭配:Vt	午茶:N	套餐:N	
+一:ADV	送:Vt	上桌:Vi	
+茶飲:N	已經:ADV	倒置:Vt	在:P	聞香:Vi	杯:M	裡:POST	
+取出:Vt	聞香杯:N	先:ADV	嗅:Vt	一:DET	嗅:Vt	茶香:N	
+這:DET	壺:M	冬茶:N	口味:N	溫潤:Vi	滑順:N	
+絲毫:DET	沒有:Vt	澀味:N	
+不用:ADV	擔心:Vt	會:ADV	有:Vt	苦口:Vi	的:T	情況:N	發生:Vt	
+2014:DET	大禹嶺:N	春茶:N	單:ADV	點:Vt	350:DET	元:M	
+可:ADV	搭配:Vt	午茶:N	套餐:N	
+春茶:N	的:T	茶味:N	通常:ADV	較:P	冬茶:N	濃:Vi	
+選擇:Vt	冷泡:N	方式:N	帶出:Vt	茶香:N	
+比:P	熱水:N	沖泡:Vt	順口:Vi	些:ADV	
+也:ADV	適合:Vi	夏天:N	炎熱:Vi	
+天氣:N	飲用:Vt	
+莓果:N	冰山:N	580:DET	元:M	
+運用:Vt	分子:N	料理:N	的:T	概念:N	
+將:ADV	調製:Vt	好:Vi	的:T	原料:N	快速:Vi	冷凍:Nv	成:Vt	冰品:N	
+吃起來:ADV	不:ADV	是:Vt	冰淇淋:N	口感:N	
+而:C	比較:ADV	像:Vt	偏硬:Vi	的:T	棉花糖:N	
+一:DET	旁:N	的:T	莓果:N	們:N	也:ADV	是:Vt	凍成:Vt	冰塊:N	
+入口:N	時:POST	要:ADV	特別:Vi	留意:Vt	
+一:DET	次:M	吃:Vt	一:DET	顆:M	莓果:N	就:ADV	好:Vi	
+塞:Vt	太多:DET	嘴巴:N	可是:C	會:ADV	受不了:Vt	的:T	
+酸甜:Vi	滋味:N	與:C	有趣:Vi	口感:N	
+味道:N	不錯:Vi	
+跟:P	市面:N	上:N	常見:Vi	的:T	冰品:N	完全:ADV	不同:Vi	
+鐵觀音:N	烤布蕾:N	480:DET	元:M	
+我:N	覺得:Vt	鐵觀音:N	的:T	茶香:N	好:ADV	適合:Vi	入:Vt	甜點:N	
+之前:N	吃:Vt	過:ASP	用:Vt	鐵觀音:N	製成:Vt	的:T	冰淇淋:N	
+茶香:N	也:ADV	是:Vt	很:ADV	棒:Vi	
+迴:Vt	異於:Vt	抹茶:N	氣味:N	
+表層:N	帶:Vt	著:ASP	一:DET	層:M	焦糖:N	
+因:C	茶香:N	關係:N	反而:C	不:ADV	感覺:Vt	甜膩:Vi	
+吃膩:Vt	普通:Vi	蛋糕:N	
+想來:ADV	點:Vt	特別:Vi	甜點:N	當午:N	茶:N	的:T	話:N	可以:ADV	參考:Vt	一下:N	
+thefirst:FW	的:T	午茶:N	套餐:N	搭配:Vt	飲:Vt	
+品:N	還:ADV	不錯:Vi	喔:T	
+自助:Vi	旅行:Vi	、:PAUSECATEGORY	飛行:Nv	、:PAUSECATEGORY	美食:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jay7134.pixnet.net/blog:FW	

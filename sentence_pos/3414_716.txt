@@ -1,0 +1,89 @@
+leafphoto:FW	(:PARENTHESISCATEGORY	葉影瓶:N	像:P	_:FW	里夫:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	台北:N	]:PARENTHESISCATEGORY	胡椒餅:N	。:PERIODCATEGORY	老張:N	炭烤:Vt	燒餅店:N	/:FW	南港:N	
+Tue:FW	
+Aug:FW	
+12:DET	
+12:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	38:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	老張:N	炭烤:Vt	燒餅店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	南港區:N	忠孝東路:N	七段:N	602:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27835591:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	略:ADV	
+無:Vt	音樂:N	。:PERIODCATEGORY	有:Vt	圖:N	真相:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	leafphoto.pixnet.net/blog/post:FW	/:FW	106021109:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	我:N	是:Vt	分隔:Vt	線:N	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	台北:N	在:P	賣:Vt	胡椒餅:N	的:T	店家:N	還:ADV	真不少:Vi	
+但:C	真的:ADV	讓:Vt	我:N	印象:N	較:ADV	深:Vi	的:T	其實:ADV	不:ADV	算:Vt	多:Vi	
+其中:DET	對:P	高雄:N	鳳屏路:N	的:T	佳:Vi	香味:N	開車:Vi	排隊:Vi	的:T	印象:N	深刻:Vi	
+而:C	艋舺:N	龍山寺:N	的:T	福州:N	元祖:N	胡椒餅:N	則:ADV	是:Vt	從小:ADV	吃:Vt	到:P	大:Vi	
+但:C	今天:N	要:ADV	介紹:Vt	的:T	不:ADV	是:Vt	這:DET	兩:DET	家:M	
+而是:C	
+胡椒餅:N	兩:DET	張:M	
+的:T	其中:DET	之:T	一:DET	
+住:Vt	在:P	內湖:N	、:PAUSECATEGORY	南港:N	一帶:N	的:T	朋友:N	
+我:N	想:Vt	都:ADV	對:P	
+胡椒餅:N	兩:DET	張:M	
+有:Vt	印象:N	
+一:DET	家:M	是:Vt	位於:Vt	內湖:N	的:T	老張:N	胡椒餅:N	
+另:DET	一:DET	家:M	則:ADV	是:Vt	位於:Vt	南港:N	的:T	老張:N	炭烤:Vt	燒餅店:N	
+通常:ADV	大家:N	都:ADV	稱:Vt	南港:N	老張:N	胡椒餅:N	
+早:ADV	在:P	多:DET	年:M	前:POST	還:ADV	在:P	南港:N	軟體:N	園區:N	上班:Vi	的:T	時候:N	
+當時:N	就:ADV	很:ADV	常:ADV	跑來:Vi	買:Vt	南港:N	老張:N	胡椒餅:N	
+即使:C	後來:N	離開:Vt	南軟:Vi	多:DET	年:M	
+每:ADV	過:Vt	陣子:N	我:N	總會:ADV	特別:Vi	開:Vt	著:ASP	車:N	去:ADV	買來:Vt	回味:Vt	一下:N	
+礙於:Vt	Flickr:FW	空間:N	
+如果:C	圖片:N	出現:Vi	破圖:N	的:T	朋友:N	
+請:Vt	點擊:Vt	該:DET	張:M	圖片:N	觀看:Vt	
+謝謝:Vt	
+1:DET	.:PERIODCATEGORY	胡椒餅:N	喜歡:Vt	買:Vt	這:DET	類:M	炭爐:N	燒餅:N	的:T	朋友:N	不:ADV	曉得:Vt	有沒有:ADV	這樣:Vi	感覺:N	
+通常:ADV	外型:N	越:ADV	醜:Vi	越:ADV	不:ADV	工整:Vi	的:T	
+口味:N	上:POST	不:ADV	曉得:Vt	為啥:ADV	
+往往:ADV	特別:Vi	好吃:Vi	
+而:C	南港:N	老張:N	就:ADV	是:Vt	屬於:Vt	外型:N	不怎麼:ADV	工整:Vi	的:T	店家:N	
+這邊:N	其實:ADV	有:Vt	賣:Vt	3:DET	種:M	餅:N	
+胡椒餅:N	、:PAUSECATEGORY	三角餅:N	、:PAUSECATEGORY	小:Vi	酥餅:N	
+最:ADV	妙:Vi	的:T	是:Vt	三:DET	種:M	還:ADV	分:Vt	不同:Vi	時段:N	賣:Vt	
+胡椒餅:N	：:COLONCATEGORY	週二:N	
+週六:N	下午:N	2:DET	
+7點三:DET	角:M	餅:N	：:COLONCATEGORY	週二:N	
+週日:N	上午:N	6:DET	點:M	半:POST	
+11:DET	點:M	小:Vi	酥餅:N	：:COLONCATEGORY	下午:N	2:DET	
+7:DET	點:M	
+週六:N	日:N	為:P	上午:N	6:DET	點:M	半:POST	
+11:DET	點:M	嗯:T	.......:ETCCATEGORY	老實說:ADV	我:N	懶得:Vt	記:Vt	
+雖然:C	我:N	最:ADV	喜歡:Vt	的:T	是:Vt	胡椒餅:N	
+但:C	其他:DET	兩樣:Vi	也:ADV	不錯:Vi	
+通常:ADV	我:N	都:ADV	直接:Vi	去:T	
+不管:C	看到:Vt	有:Vt	啥:DET	
+買:Vt	就:ADV	對了:Vi	
+2:DET	.:PERIODCATEGORY	胡椒餅:N	個:M	人:N	大致:ADV	粗略:Vi	分為:Vt	兩:DET	類:M	
+一:DET	種:M	是:Vt	厚:Vi	皮:N	老:Vi	麵:N	
+通常:ADV	裡頭:N	的:T	肉餡:N	會:ADV	比較:ADV	多汁:Vi	
+而:C	另:DET	種:M	則:ADV	是:Vt	南港:N	老張:N	這:DET	種:M	薄:Vi	皮:N	酥脆:Vi	的:T	
+裡頭:N	的:T	肉餡:N	以:P	瘦肉:N	為主:Vi	
+咬:Vt	起來:ASP	不:ADV	乾澀:Vi	
+但:C	明顯:Vi	有:Vt	吃:Vt	肉:N	的:T	感覺:N	
+許多:DET	胡椒餅:N	失敗:Vi	處:N	就:ADV	在:P	肉餡:N	絞:Vt	得:T	太:ADV	細:Vi	
+肥肉:N	混:Vt	太多:DET	
+少:Vi	了:ASP	些:M	嚼:Vt	勁:N	
+南港:N	老張:N	胡椒餅:N	的:T	表皮:N	已經:ADV	不:ADV	是:Vt	酥:Vi	來:ADV	形容:Vt	了:ASP	
+而是:C	脆:Vi	
+肉餡:N	的:T	調味:N	上:N	甜度:N	偏低:Vi	
+比較:ADV	略為:ADV	辣:Vi	鹹:Vi	
+這:DET	兩樣:Vi	口感:N	算是:Vt	老張:N	胡椒餅:N	最:ADV	大:Vi	的:T	特色:N	
+個:M	頭:N	以:P	胡椒餅:N	來:ADV	說:Vt	不:ADV	算:Vt	大:Vi	
+我:N	想:Vt	這:DET	是:Vt	因為:C	薄:Vi	皮:N	的:T	關係:N	
+但:C	一:DET	個:M	35:DET	元:M	
+以:P	天龍國:N	物價:N	來:ADV	說:Vt	算:Vt	蠻:ADV	親民:Vi	的:T	
+3:DET	.:PERIODCATEGORY	颱風:N	前夕:N	來:ADV	買:Vt	
+我:N	躲:Vt	在:P	車:N	內:N	拍下:Vt	了:ASP	這:DET	張:M	不:ADV	算清楚:Vt	的:T	照片:N	
+大家:N	也:ADV	就:ADV	將:ADV	就:P	點:ADV	吧:T	後記:N	：:COLONCATEGORY	吃:Vt	這:DET	家:M	胡椒餅:N	多:DET	年:M	
+個:M	人:N	還是:ADV	覺得:Vt	現場:N	當場:ADV	吃:Vt	口味:N	最好:ADV	
+如果:C	買回來:Vt	溫溫:Vi	的:T	吃:Vt	
+大概:ADV	只:ADV	剩下:Vt	6:DET	
+7成:DET	的:T	美味:Vi	.....:ETCCATEGORY	所以:C	建議:Vt	如果:C	真的:ADV	要:ADV	外帶:Vt	
+一定:ADV	要:ADV	回:Vt	烤:Vt	加熱:Vi	
+大概:ADV	也:ADV	能:ADV	再:ADV	還原:Vt	8:DET	
+9成:DET	的:T	美味:N	
+重點:N	不:ADV	是:Vt	熱度:N	
+而是:C	要:Vt	烤回餅皮:N	的:T	脆度:N	
+分享:Vt	給:Vt	大家:N	

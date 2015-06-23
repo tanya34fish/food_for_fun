@@ -1,0 +1,98 @@
+zansi:FW	(:PARENTHESISCATEGORY	6:DET	角:M	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	有沒有:ADV	咖啡:N	DoubleH:FW	壹:DET	號:M	店:N	
+Wed:FW	
+Nov:FW	
+19:DET	
+18:DET	::COLONCATEGORY	14:DET	::COLONCATEGORY	10:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	有沒有:ADV	咖啡:N	DoubleH:FW	壹:DET	號:M	店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	11月:N	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	中正路:N	249:DET	-:DASHCATEGORY	1:DET	號:M	2:DET	F:FW	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2883:DET	-:DASHCATEGORY	3033:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	一:DET	~:FW	五:DET	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	六:DET	~:FW	日:M	10:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+圖文:N	網誌:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hssffor53624.pixnet.net/blog/post:FW	/:FW	398813740:DET	
+有沒有:ADV	咖啡:N	這:DET	個:M	店名:N	真的:ADV	很:ADV	有趣:Vi	
+算:Vt	滿:ADV	好:Vi	記:Vt	的:T	
+又:ADV	知道:Vt	士林:N	有:Vt	一:DET	間:M	不錯:Vi	的:T	店:N	囉:T	
+這:DET	是:Vt	第二:DET	次:M	來:ADV	有沒有:ADV	咖啡:N	用餐:Vi	
+週一:N	晚上:N	又:ADV	已經:ADV	七:DET	點:M	半:POST	了:T	
+除了:P	我:N	跟:P	朋友:N	還:ADV	有:Vt	一:DET	位:M	小姐:N	
+整:DET	間:M	店:N	滿:ADV	安靜:Vi	的:T	
+我:N	跟:P	朋友:N	都:ADV	很:ADV	納悶:Vt	明明:N	餐點:N	好吃:Vi	
+為什麼:ADV	生意:N	還:ADV	好:Vi	
+因為:C	上:DET	次:M	我們:N	來:Vi	的:T	
+時間:N	是:Vt	週日:N	
+也:ADV	沒有:Vt	客滿:Vi	
+可能:ADV	走:Vi	沒:Vt	幾:DET	步:M	就:ADV	是:Vt	咖啡:N	弄:Vt	吧:T	
+不過:C	我們:N	還:ADV	滿:ADV	喜歡:Vt	來:ADV	":FW	有沒有:ADV	咖:b	
+啡:b	":FW	
+人:N	比較:ADV	少:Vi	
+而且:C	飲料:N	跟:P	三明治:N	都:ADV	不錯:Vi	哦:T	
+這:DET	兩:DET	次:M	我們:N	都:ADV	是:Vt	點:M	三明治:N	
+其實:ADV	他:N	也:ADV	有:Vt	提供:Vt	義大利麵:N	、:PAUSECATEGORY	燉飯:Vt	哦:T	
+法式:A	香蕉:N	可可:N	歐蕾:N	
+NT:FW	$:FW	130:DET	
+這:DET	個:M	拉:Vt	花:N	也:ADV	太:ADV	漂亮:Vi	了:T	吧:T	
+還:ADV	附上:Vt	兩:DET	個:M	不同:Vi	顏色:N	的:T	愛心:N	棉花糖:N	
+女孩兒:N	看到:Vt	應該:ADV	都:ADV	會:ADV	忍不住:Vt	
+讚嘆:Vt	
+馬上:ADV	拿出:Vt	手機:N	拍:Vt	拍拍:Vt	啦:T	
+朋友:N	喝:Vt	起來:ASP	不會:ADV	太:ADV	甜:Vi	膩:Vi	
+它:N	很:ADV	喜歡:Vt	唷:T	
+德國:N	洋:A	甘菊:N	蘋果茶:N	
+NT:FW	$:FW	140:DET	
+一:DET	壺:M	茶:N	有:Vt	附上:Vt	兩:DET	顆:M	不同:Vi	顏色:N	的:T	砂糖:N	
+好:ADV	貼心:Vi	
+看起來:ADV	很:ADV	淡:Vi	的:T	蘋果茶:N	
+但:C	喝:Vt	起來:ASP	一點點:DET	酸甜:Vi	
+味:N	
+我:N	好:ADV	喜歡:Vt	喔:T	
+而且:C	洋:A	甘菊:N	可以:ADV	幫助:Vt	放鬆:Vt	心情:N	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	心理:N	作用:N	啦:T	
+就:ADV	覺得:Vt	喝上:Vt	
+一口:ADV	
+心情:N	就:ADV	輕鬆:Vi	許多:DET	
+而且:C	又:ADV	跟:P	朋友:N	談天說地:Vi	的:T	
+更:ADV	是:Vt	開心:Vi	啦:T	
+義式:A	火雞肉:N	三明治:N	
+NT:FW	$:FW	180:DET	
+看起來:ADV	非常:ADV	大一:N	份:N	
+有:Vt	3:DET	個:M	三明治:N	跟:P	小:Vi	的:T	歐姆:M	蛋捲:N	
+三明治:N	用:P	兩:DET	片:M	厚厚:Vi	的:T	吐司:N	夾:Vt	著:ASP	滿滿:Vi	的:T	餡料:N	
+然後:ADV	用:P	西洋:N	劍:N	造型:N	的:T	牙籤:N	固定:Vt	
+有:Vt	火:N	雞肉:N	、:PAUSECATEGORY	番:N	
+茄:b	、:PAUSECATEGORY	起:Vt	司片:N	、:PAUSECATEGORY	生菜:N	
+調味:Vi	也:ADV	剛剛好:ADV	
+麵包:N	很:ADV	柔軟:Vi	
+口感:N	很:ADV	棒:Vi	
+6:DET	角:M	這麼:ADV	會:ADV	吃:Vt	大概:ADV	吃:Vt	2:DET	份:M	就:ADV	飽:Vi	
+了:T	
+這:DET	兩:DET	次:M	都:ADV	剩:Vt	一:DET	個:M	三明治:N	打包:Vi	回家:Vi	
+缺點:N	就是:C	太:ADV	大:Vi	了:T	
+不:ADV	好:Vi	切:Vt	著:ASP	吃:Vt	
+就算:C	切:Vt	了:ASP	也:ADV	是:Vt	把:P	小:Vi	
+盤子:N	弄得:Vt	亂七八糟:Vi	的:T	
+但:C	真的:ADV	味道:N	很:ADV	棒:Vi	
+建議:Vt	初次:ADV	見面:Vi	的:T	約會:N	不要:ADV	點:Vt	這:DET	個:M	
+張大:Vt	嘴巴:N	的:T	模樣:N	
+好險:Vi	我:N	是:Vt	跟:P	朋友:N	一起:ADV	來:ADV	
+想:Vt	太多:DET	
+帕馬:N	火腿:N	三明治:N	
+NT:FW	$:FW	180:DET	
+跟:P	火雞肉:N	三明治:N	不同:Vi	的:T	就:ADV	只是:ADV	把:P	火雞肉:N	換成:Vt	帕馬:N	火腿:N	啦:T	
+朋友:N	說:Vt	他:N	也:ADV	很:ADV	喜歡:Vt	這:DET	個:M	三明治:N	
+也:ADV	對:P	麵包:N	的:T	口感:N	很:ADV	讚賞:Vt	哦:T	
+上:DET	一:DET	次:M	我:N	是:Vt	吃:Vt	櫻桃谷:N	煙燻:Vt	鴨胸:N	
+鴨胸:N	的:T	味道:N	也:ADV	不錯:Vi	哦:T	
+若是:C	有:Vt	來:Vi	士林:N	用餐:Vi	
+想:Vt	找:Vt	個:M	舒服:Vi	可以:ADV	聊天:Vi	的:T	地方:N	
+不妨:ADV	來:ADV	":FW	有沒有:ADV	咖啡:N	":FW	哦:T	
+餐點:N	跟:C	服務:Nv	都:ADV	
+不錯:Vi	啦:T	
+其實:ADV	裝潢:Vt	也:ADV	滿:ADV	漂亮:Vi	的:T	
+洗手間:N	也:ADV	很:ADV	乾淨:Vi	
+但:C	我:N	忘記:Vt	拍照:Vi	了:ASP	
+位在:Vt	二樓:N	所以:C	坐:Vi	窗:N	邊:N	
+可以:ADV	看:Vt	一下:N	士林:N	中正路:N	的:T	街景:N	哦:T	

@@ -1,0 +1,177 @@
+assayu:FW	(:PARENTHESISCATEGORY	泡:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北市:N	東區:N	單點式:A	《:PARENTHESISCATEGORY	大阪:N	燒肉:N	雙子:A	Futago:FW	》:PARENTHESISCATEGORY	
+Wed:FW	
+Aug:FW	
+6:DET	
+16:DET	::COLONCATEGORY	52:DET	::COLONCATEGORY	56:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	大阪:N	燒肉:N	雙子:A	Futago:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	大安路:N	一段:N	52巷:N	25:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27753614:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	17:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	1:DET	::COLONCATEGORY	00:DET	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ahwoo.pixnet.net/blog/post:FW	/:FW	167080248:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	以下:N	純:Vi	文字版:N	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	今年:N	的:T	情人節:N	J:FW	很:ADV	早:Vi	就:ADV	訂:Vt	了:ASP	大阪:N	燒肉:N	雙子:A	Futago:FW	
+要:ADV	帶:Vt	我:N	來:ADV	大吃:Vt	一:DET	番:M	
+原因:N	也:ADV	是:Vt	被:P	網路:N	上:N	的:T	食記:N	生火:Vi	了:ASP	
+所以:C	當天:N	真的:ADV	是:Vt	超:Vt	期待:Nv	要:ADV	來:ADV	吃:Vt	的:T	
+想到:Vt	燒肉:N	的:T	畫面:N	就:ADV	受不了:Vt	啦:T	
+大阪:N	燒肉:N	雙子:A	Futago:FW	在:P	日本:N	是:Vt	連鎖:A	燒:Vt	肉店:N	
+目前:N	在:P	台北:N	有:Vt	3:DET	家:M	分店:N	
+我們:N	吃:Vt	的:T	這:DET	一:DET	家:M	是:Vt	在:P	大安區:N	的:T	巷弄:N	內:N	
+當天:N	訂:Vt	的:T	是:Vt	晚上:N	6:DET	點:M	
+到:Vt	的:T	時候:N	店:N	內:N	已經:ADV	有:Vt	滿滿:Vi	的:T	人:N	啦:T	
+生意:N	真是:ADV	好:Vi	
+店:N	內:N	大概:ADV	僅:ADV	能:ADV	容納:Vt	30:DET	人:N	左右:POST	
+所以:C	要:ADV	來:ADV	吃:Vt	還是:ADV	先:ADV	訂位:Vi	吧:T	
+一:ADV	到:Vt	門口:N	就:ADV	可以:ADV	看到:Vt	充滿:Vt	日式:A	的:T	招牌:N	與:C	風格:N	
+不:ADV	乏:Vt	日式:A	立燈:N	、:PAUSECATEGORY	燈籠:N	、:PAUSECATEGORY	旗幟:N	、:PAUSECATEGORY	菜單:N	等等:POST	
+實在:ADV	是:Vt	讓:Vt	人:N	瞬間:N	來到:Vt	日本:N	了:T	呀:T	
+此外:C	
+大阪:N	燒肉:N	每:DET	個:M	月:N	25:DET	號:M	來:ADV	用餐:Vi	的:T	話:N	
+飲料:N	會:ADV	是:Vt	免費:Vi	的:T	唷:T	
+真的:ADV	是:Vt	超:Vt	划算:Vi	的:T	
+不過:C	還是:ADV	有:Vt	一些:DET	小小:Vi	規則:N	
+像:Vt	是:Vt	除了:P	有:Vt	金色:N	專屬:Vt	夾:Vt	的:T	客人:N	才:ADV	能:ADV	預約:Vt	
+其它:DET	就:ADV	要:Vt	現場:N	排隊:Vi	
+那:DET	要:ADV	怎樣:Vi	才:ADV	能:ADV	有:Vt	金色:N	專屬:Vt	夾:Vt	呢:T	
+就是:C	要:ADV	集滿:Vt	10:DET	點:M	囉:T	
+每:DET	次:M	用餐:Vi	超過:Vt	1000:DET	元:M	就:ADV	有:Vt	一點:DET	了:ASP	
+面對:Vt	即將:ADV	來到:Vt	的:T	父親節:N	也:ADV	有:Vt	專屬:Vt	活動:N	唷:T	
+還:ADV	沒想到:ADV	要:ADV	去:ADV	哪:ADV	慶祝:Vt	得:ADV	捧:Vt	友們:N	
+也:ADV	可以:ADV	來:ADV	吃吃:Vt	看:Vt	唷:T	
+因為:C	我們:N	當天:N	早到:Vi	了:ASP	一點點:DET	
+然後:ADV	店:N	內:N	剛好:ADV	在:P	整理:Vt	我們:N	的:T	桌子:N	
+於是:C	我們:N	在:P	外面:N	等候:Vt	
+等待:Vt	的:T	時刻:N	店員:N	還給:Vt	了:ASP	我們:N	冰:N	涼涼:Vi	的:T	毛巾:N	先:ADV	擦擦:Vt	手:N	
+真是:ADV	很:ADV	有:Vt	待客:Vi	之:T	道:N	呢:T	
+這:DET	是:Vt	店:N	內:N	的:T	景觀:N	
+礙於:Vt	當天:N	人:N	太多:Vi	所以:C	拍:Vt	得:T	有點:ADV	歪斜:Vi	真是:ADV	不好意思:Vi	呀:T	
+順便:ADV	介紹:Vt	一下:N	
+那:DET	一:DET	根:M	黑色:N	的:T	管子:N	就:ADV	是:Vt	來:ADV	抽:Vt	油煙:N	的:T	
+我:N	當天:N	回家:Vi	似乎:ADV	也:ADV	沒:Vt	什麼:DET	味道:N	
+似乎:ADV	排煙:N	做:Vt	得:T	還:ADV	不錯:Vi	
+牆壁:N	上:POST	也:ADV	有:Vt	很多:DET	菜色:N	的:T	照片:N	
+以及:C	看:Vt	不:ADV	懂:Vt	的:T	日文:N	
+很:ADV	有:Vt	味道:N	吧:T	
+這:DET	就是:C	傳說:N	中:POST	冰:N	涼涼:Vi	的:T	毛巾:N	
+在:P	大:Vi	熱天:N	來:Vi	一:DET	個:M	真是:ADV	格外:ADV	舒服:Vi	
+由於:C	實在:ADV	太:ADV	鈴郎:N	滿目:DET	了:T	
+所以:C	我們:N	請:Vt	了:ASP	店員:N	推薦:Vt	一下:N	菜色:N	
+大阪:N	燒:Vt	肉:N	內:N	還:ADV	蠻:ADV	多:Vi	店員:N	是:Vt	日本人:N	的:T	
+也:ADV	幾乎:ADV	大家:N	都:ADV	會:ADV	說:Vt	日文:N	
+也:ADV	都:ADV	很:ADV	熱情:Vi	
+此外:C	
+一:DET	進:M	門:N	時:POST	就:ADV	可以:ADV	感受到:Vt	濃濃:Vi	的:T	活力:N	與:C	熱鬧:Vi	氣氛:N	
+有點:ADV	日本:N	廟會:N	的:T	FU:FW	
+而:C	接下來:ADV	播映:Vt	的:T	就:ADV	是:Vt	最:ADV	重要:Vi	的:T	菜單:N	啦:T	
+其實:ADV	就:P	份量:N	與:C	價位:N	來:ADV	看:Vt	不:ADV	算:Vt	便宜:Vi	
+接下來:ADV	介紹:Vt	的:T	是:Vt	烤爐:N	的:T	部分:DET	
+大阪:N	燒:Vt	肉:N	用:Vt	的:T	不:ADV	是:Vt	炭火:N	
+而是:C	瓦斯爐:N	
+雖然:C	少:Vi	了:ASP	炭香:N	
+但:C	更:ADV	能:ADV	得宜:Vi	的:T	控制:Nv	火候:N	
+烤:Vt	出:Vt	希望:N	的:T	熟度:N	
+J:FW	說:Vt	::COLONCATEGORY	吃燒肉:N	當然:ADV	要:ADV	配:Vt	個:M	啤酒:N	呀:T	
+而:C	菜單:N	上:N	寫:Vt	著:ASP	朝日:N	啤酒:N	--:DASHCATEGORY	140:DET	元:M	
+帥哥:N	啤酒:N	--:DASHCATEGORY	260:DET	元:M	
+好奇:Vi	之下:POST	問:Vt	了:ASP	店員:N	帥哥:N	啤酒:N	到底:ADV	是:Vt	什麼:DET	呀:T	
+原來:ADV	是:Vt	份量:N	比較:ADV	大:Vi	的:T	啤酒:N	啦:T	哈哈:ADV	
+因此:C	除了:P	帥哥:N	當然:ADV	也:ADV	有:Vt	美女:N	啤酒:N	就:ADV	是:Vt	
+比較:ADV	划算:Vi	就:ADV	對了:Vi	
+所以:C	J:FW	點:Vt	了:ASP	帥哥:N	啤酒:N	一:DET	枚:M	
+啤酒:N	上面:N	滿滿:Vi	的:T	泡沫:N	真是:ADV	太:ADV	誘人:Vi	了:T	
+我:N	的:T	是:Vt	生:Vt	葡萄柚:N	沙瓦:N	--:DASHCATEGORY	130:DET	元:M	
+喝:Vt	起來:ASP	其實:ADV	還:ADV	好:Vi	
+建議:Vt	大家:N	還是:ADV	點:Vt	個:M	帥哥:N	美女:N	啤酒:N	好了:T	
+芝麻:N	高麗菜:N	沙拉:N	--:DASHCATEGORY	90:DET	元:M	
+由於:C	接下來:ADV	要:ADV	吃:Vt	滿滿:Vi	的:T	肉類:N	
+當然:ADV	一定:ADV	要點:N	個:T	蔬菜類:N	來:ADV	解:Vt	解膩:Vi	
+而:C	這:DET	盆:M	高麗菜:N	說:Vt	實在:ADV	也:ADV	真的:ADV	很:ADV	好吃:Vi	
+可以:ADV	吃:Vt	的:T	出來:Vi	高麗菜:N	很:ADV	新鮮:Vi	、:PAUSECATEGORY	相當:ADV	清脆:Vi	
+搭配:Vt	芝麻油:N	意外:N	適合:Vi	
+感覺:N	是:Vt	個:M	在:P	家:N	也:ADV	可以:ADV	自己:N	做:Vt	
+又:ADV	特別:Vi	適合:Vi	夏日:N	吃:Vt	的:T	餐點:N	
+首先:ADV	登場:Vi	的:T	是:Vt	鹽味:N	牛:N	舌:N	--:DASHCATEGORY	190:DET	元:M	
+光:ADV	看:Vt	這:DET	盤:M	送上來:Vt	我:N	的:T	肚子:N	就:ADV	咕嚕:ADV	咕嚕:ADV	叫:Vt	了:ASP	
+想像:Vt	著:ASP	牛:N	舌:N	搭上:Vt	檸檬:N	
+一定:ADV	是:Vt	個:M	不:ADV	膩:Vi	的:T	好:Vi	選擇:Vt	
+店員:N	幫:P	我們:N	上:Vt	烤爐:N	烤:Vt	
+若:C	我們:N	自己:N	烤:Vt	可能:ADV	就:ADV	浪費:Vt	了:ASP	哈哈:ADV	
+J:FW	也:ADV	時:POST	不時:ADV	得:ADV	跟:P	店員:N	聊:Vt	了:ASP	起來:ASP	
+我:N	的:T	眼睛:N	裡:POST	只有:ADV	油亮亮:Vi	的:T	牛:N	舌:N	
+牛:N	舌:N	吃起來:ADV	硬度:N	剛剛好:ADV	
+有:Vt	嚼:Vt	勁:N	
+味道:N	上:POST	也:ADV	不錯:Vi	
+但:C	還是:ADV	牛角:N	燒肉:N	的:T	牛:N	舌:N	最:ADV	讓:Vt	我:N	驚豔:Vi	
+人氣:N	第二:DET	代:N	黑:Vi	毛:N	和:C	牛:N	牛:N	肋肉:N	--:DASHCATEGORY	555:DET	元:M	
+這:DET	一:DET	道:M	菜:N	也:ADV	是:Vt	店員:N	極力:ADV	推薦:Vt	的:T	
+看:Vt	那:DET	油花:N	分布:Vi	真的:ADV	很:ADV	均勻:Vi	呢:T	
+等:P	烤好:Vt	後:POST	
+會:ADV	再:ADV	搭上:Vt	白:Vi	蘿蔔:N	和:C	蔥:N	一起:ADV	使用:Vt	
+捲起來:Vi	就:ADV	完成:Vt	這:DET	一:DET	到:P	美味:Vi	的:T	料理:N	啦:T	
+不得不:ADV	說:Vt	
+這:DET	一:DET	道:M	真的:ADV	很:ADV	優秀:Vi	
+肉:N	吃起來:ADV	很:ADV	嫩:Vi	、:PAUSECATEGORY	很:ADV	甜:Vi	
+再:ADV	配上:Vt	白:Vi	蘿蔔:N	跟:P	蔥:N	化解:Vt	了:ASP	肉:N	的:T	油膩感:N	
+一口:ADV	塞入:Vt	嘴:N	中:POST	真的:ADV	很:ADV	滿足:Vt	
+再:ADV	來:ADV	是:Vt	生:Vt	蛋:N	半生:N	牛肉:N	--:DASHCATEGORY	350:DET	元:M	
+許多:DET	食記:N	相當:ADV	推薦:Vt	的:T	一:DET	道:M	
+吃法:N	當然:ADV	就是:C	蛋:N	跟:P	肉:N	拌勻:Vi	後:POST	
+擠上:Vt	檸檬:N	汁液:N	
+由於:C	加入:Vt	蛋:N	的:T	關係:N	
+牛肉:N	非常:ADV	的:T	估溜:Vt	
+咬下去:Vt	也:ADV	是:Vt	很:ADV	有:Vt	嚼:Vt	勁:N	
+第一:DET	次:M	發現:Vt	牛肉:N	有:Vt	這樣:Vi	的:T	吃法:N	
+還:ADV	蠻:ADV	推薦:Vt	的:T	
+不:ADV	到:Vt	五:DET	分鐘:M	我:N	跟:P	J:FW	就:ADV	嗑:Vt	完:Vt	它:N	了:T	
+害怕:Vt	生:Vt	牛肉:N	的:T	朋友:N	完全:ADV	不用:ADV	擔心:Vt	
+真的:ADV	好吃:Vi	
+這:DET	是:Vt	壺漬特調:N	牛:N	肋肉:N	--:DASHCATEGORY	480:DET	元:M	
+一:ADV	打開:Vt	時:POST	
+聲光:N	效果:N	十足:Vi	
+傾盆:Vi	的:T	乾冰:N	就:ADV	冒出來:Vi	了:ASP	
+感覺:N	可以:ADV	放:Vt	個:M	結婚:Nv	戒指:N	來:ADV	求婚:Vi	或是:C	湖:N	中:POST	女神:N	之類:POST	的:T	哈哈:ADV	
+你:N	點:Vt	的:T	是:Vt	哪:DET	個:M	牛:N	肋條:N	呢:T	
+大:Vi	塊:M	還:ADV	是:Vt	小:Vi	塊:M	的:T	呀:T	
+整:DET	條:M	拉出來:Vi	後:POST	被:P	攤平:Vt	在:P	烤爐:N	上:N	
+醃:Vt	漬:Vt	過:ASP	的:T	看起來:ADV	就:ADV	是:Vt	味道:N	十足:Vi	
+烤:Vt	過後:POST	
+顏色:N	就:ADV	再:ADV	暗:Vi	了:ASP	一點:DET	
+店員:N	建議:Vt	我們:N	可以:ADV	點:Vt	一:DET	盤:M	生菜:N	搭配:Vt	著:ASP	吃:Vt	
+就是:C	生菜:N	包肉:N	這樣:Vi	
+聽起來:ADV	也:ADV	是:Vt	個:M	不錯:Vi	的:T	建議:N	
+比較:ADV	養生:Vi	健康:Vi	一點:ADV	
+而:C	單:ADV	吃:Vt	肉:N	其實:ADV	非常:ADV	好吃:Vi	
+肉:N	也:ADV	很:ADV	軟:Vi	嫩:Vi	
+味道:N	也:ADV	很:ADV	夠:Vi	
+搭上:Vt	生菜:N	的:T	話:N	
+也:ADV	就:ADV	真的:ADV	更:ADV	清爽:Vi	一點:ADV	
+Futago:FW	招牌:N	拼盤:N	--:DASHCATEGORY	435:DET	元:M	
+這:DET	道:M	菜:N	就:ADV	是:Vt	內臟:N	大:Vi	集合:Vt	
+然後:ADV	可以:ADV	搭配:Vt	辣:Vi	桔醬:N	一起:ADV	吃:Vt	
+不得不:ADV	說:Vt	
+辣桔醬:N	真的:ADV	還:ADV	蠻:ADV	辣:Vi	的:T	
+而:C	內臟:N	中:POST	
+牛肚:N	烤:Vt	起來:ASP	還:ADV	蠻:ADV	特別:Vi	的:T	
+雞:N	軟骨:N	--:DASHCATEGORY	90:DET	元:M	
+吃起來:ADV	就:ADV	是:Vt	雞:N	軟骨:N	
+不過:C	帶:Vt	肉:N	的:T	部分:DET	真的:ADV	是:Vt	特別:Vi	好吃:Vi	
+用餐:Vi	結束:Vt	後:POST	
+還:ADV	會:ADV	送上:Vt	了:ASP	一:DET	杯:M	茶:N	解膩:Vi	
+而且:C	
+因為:C	當天:N	是:Vt	情人節:N	
+大阪:N	燒肉:N	還:ADV	免費:Vi	招待:Vt	了:ASP	一:DET	球:N	巧克力:N	冰淇淋:N	
+真是:ADV	幸運:Vi	又:ADV	貼心:Vi	
+單點式:A	的:T	大阪:N	燒肉:N	
+雖然:C	打:Vt	的:T	份量:N	減半:Nv	價錢:N	減半:Vi	的:T	口號:N	
+但:C	其實:ADV	一:DET	餐:M	吃下來:Vi	依舊:ADV	是:Vt	不:ADV	便宜:Vi	
+我們:N	兩:DET	個:M	人:N	這:DET	餐:M	吃下來:Vi	就:ADV	花:Vt	了:ASP	2600多:DET	元:M	
+不過:C	吃起來:ADV	是:Vt	很:ADV	開心:Vi	的:T	
+因為:C	真的:ADV	覺得:Vt	每:DET	道:M	菜:N	都:ADV	有:Vt	用心:Vi	
+服務:Nv	也:ADV	很:ADV	周到:Vi	
+店:N	內:N	氣氛:N	也:ADV	掌握:Vt	得:T	很:ADV	好:Vi	
+偶一為之:Vi	
+還是:C	ok:FW	的:T	
+畢竟:ADV	只:ADV	是:Vt	個:M	小小:Vi	上班族:N	呀:T	
+大阪:N	燒肉:N	雙子:A	Futago:FW	地址:N	::COLONCATEGORY	台北市:N	大安區:N	大安路:N	一段:N	52巷:N	25:DET	號:M	電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	27753614:DET	--:DASHCATEGORY	

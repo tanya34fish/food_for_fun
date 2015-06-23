@@ -1,0 +1,197 @@
+tanya:FW	413:DET	(:PARENTHESISCATEGORY	餅乾:N	chen:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	肯恩:N	廚房:N	FocusKitchen:FW	
+Sat:FW	
+Aug:FW	
+9:DET	
+01:DET	::COLONCATEGORY	37:DET	::COLONCATEGORY	07:DET	
+2014:DET	
+肯恩:N	廚房:N	FocusKitchen:FW	。:PERIODCATEGORY	永康:N	街大:N	份量:N	、:PAUSECATEGORY	平價:N	早:Vi	午餐:N	,:COMMACATEGORY	美式:A	料理:N	,:COMMACATEGORY	墨西哥:N	料理:N	(:PARENTHESISCATEGORY	捷運:N	東門:N	站:Vi	
+):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	tanya413.pixnet.net/blog/post:FW	/:FW	106173278:DET	
+肯恩:N	廚房:N	FocusKitchen:FW	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23957917:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	信義路:N	二段:N	198巷:N	6:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	am9-pm:FW	23:DET	
+用餐:Nv	日期:N	：:COLONCATEGORY	2014:DET	.:PERIODCATEGORY	7.30:DET	
+最近:N	好:Vi	常:ADV	吃:Vt	早:Vi	午餐:N	喔:T	
+假日:N	睡:Vi	到:P	自然:N	醒:Vi	
+不管:C	睡:Vi	到:P	都:ADV	晚:Vi	都:ADV	想:Vt	先:ADV	吃:Vt	早餐:N	
+捷運:N	東門:N	站:Vi	5:DET	號:M	出口:Nv	
+看到:Vt	金石堂:N	右轉:Vi	進來:Vi	就:ADV	會:ADV	看到:Vt	
+旁邊:N	是:Vt	全:DET	家:N	便利商店:N	
+這:DET	間:M	朋友:N	之前:POST	就:ADV	來過:Vt	了:ASP	
+看來:ADV	還:ADV	願意:Vt	二:DET	訪:Vt	真的:ADV	是:Vt	還:ADV	不錯:Vi	吧:T	
+剛:ADV	到達:Vt	的:T	時候:N	約莫:ADV	快:Vi	五:DET	點:M	
+史努比:N	還:ADV	在:P	吧台:N	休息:Vi	
+好:ADV	可愛:Vi	XD:FW	
+站:Vi	在:P	吧台:N	前:POST	拍照:Vi	
+發現:Vt	銀球:N	反射出來:Vt	蠻:ADV	有趣:Vi	的:T	
+所以:C	自己:N	拍:Vt	了:ASP	一:DET	張:M	
+一樓:N	有:Vt	吧台:N	
+可以:ADV	看:Vt	老闆:N	表演:Vt	料理:N	
+我們:N	今天:N	下樓:Vi	囉:T	
+樓梯間:N	還:ADV	有:Vt	鍋子:N	當:Vt	裝飾:N	
+很:ADV	粗魯:Vi	的:T	我:N	
+居然:ADV	還可以:ADV	讓:Vt	樓梯間:N	裝飾:N	的:T	鍋子:N	打擊:N	出:Vt	交響樂:N	
+驚動:Vt	了:ASP	店長:N	XD:FW	
+我們:N	在:P	非:A	用餐:Nv	時間:N	前往:Vt	
+果真:ADV	非常:ADV	悠閒:Vi	
+安靜:Vi	
+主餐:N	部分:DET	大多:DET	是:Vt	270:DET	元:M	-:DASHCATEGORY	290:DET	元:M	左右:POST	
+可以:ADV	+:FW	120:DET	元:M	升級:Vi	為:Vt	套餐:N	
+並:C	可以:ADV	部分:DET	飲料:N	續杯:Vi	
+早:Vi	午餐:N	的:T	部分:DET	
+價格:N	已經:ADV	是:Vt	套餐價:N	部分:DET	飲料:N	續杯:Vi	
+個:M	人:N	覺得:Vt	
+早:Vi	午餐:N	的:T	部分:DET	很:ADV	便宜:Vi	
+按:P	我:N	看:Vt	詳細:Vi	菜單:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	tanya413.pixnet.net/album/set:FW	/:FW	17752423:DET	
+我:N	第一:DET	次:M	來:POST	
+看到:Vt	超:Vt	多:Vi	的:T	項目:N	每:DET	個:M	都:ADV	想:Vt	點:N	
+於是:C	店長:N	超:Vt	仔細:Vi	的:T	幫:P	我:N	介紹:Vt	
+聽完:Vt	店長:N	介紹:Vt	
+我:N	更:ADV	是:Vt	每:DET	個:M	都:ADV	想:Vt	點:N	
+完成:Vt	了:ASP	點:DET	餐:M	這:DET	個:M	任務:N	後:POST	
+發現:Vt	燈:N	也:ADV	亮:Vt	了:ASP	起來:ASP	
+他們:N	的:T	燈:N	好:ADV	特別:Vi	
+好像:ADV	是:Vt	化學:N	分子式:N	
+另外:C	左手:N	邊:N	布廉:N	後面:N	也:ADV	有:Vt	小:Vi	包廂:N	
+想要:Vt	小:Vi	包:Vt	場:N	的:T	朋友:N	蠻:ADV	適合:Vi	的:T	
+桌:N	上:N	的:T	調味料:N	
+tabasco:FW	、:PAUSECATEGORY	黃:N	芥末醬:N	、:PAUSECATEGORY	蕃茄醬:N	、:PAUSECATEGORY	還:ADV	有:Vt	胡椒粉:N	等等:POST	
+可以:ADV	說:Vt	是:Vt	樣樣:DET	齊全:Vi	了:T	
+這:DET	是:Vt	升級:Vi	套餐:N	的:T	沙拉:N	及:C	湯品:N	
+生菜:N	的:T	部分:DET	
+給:Vt	的:T	頗:ADV	有:Vt	誠意:N	
+有:Vt	生菜:N	還:ADV	有:Vt	新鮮:Vi	水果:N	
+沙拉醬:N	的:T	部分:DET	
+有點:ADV	優:Vi	格沙拉:N	的:T	感覺:N	
+但:C	不:ADV	酸:Vi	
+今天:N	提供:Vt	的:T	是:Vt	南瓜:N	蔬菜:N	農湯:N	
+很:ADV	紮實:Vi	的:T	一:DET	杯:M	濃湯:N	
+很:ADV	怕:Vt	接下來:ADV	的:T	餐點:N	吃:Vt	不:ADV	完:Vi	.....:ETCCATEGORY	
+忍:Vt	著:ASP	不:ADV	敢:Vt	喝:Vt	太多:DET	XD:FW	
+班尼頓:N	雙:A	蛋:N	早餐:N	
+燻:Vt	鮭魚:N	
+295:DET	元:M	
+飲料:N	是:Vt	水果:N	優格:N	奶昔:N	
+餅乾:N	有:Vt	偷偷:ADV	看:Vt	是:Vt	加:Vt	AB:FW	優酪乳:N	呢:T	
+整:DET	個:M	下:POST	重:Vt	本:DET	
+旁邊:N	還:ADV	有:Vt	一:DET	小:Vi	杯:N	是:Vt	現:ADV	打:Vt	果汁:N	
+今天:N	提供:Vt	的:T	是:Vt	綜合:A	果汁:N	
+店長:N	說:Vt	每:DET	天:M	都:ADV	不:ADV	一樣:Vi	
+但:C	都:ADV	是:Vt	新鮮:Vi	果汁:N	
+絕對:ADV	不:ADV	是:Vt	濃縮:Vi	的:T	
+燻:Vt	鮭魚:N	是:Vt	給:P	的:T	很:ADV	大方:Vi	
+足足:ADV	有:Vt	三:DET	大:Vi	片:M	
+看到:Vt	半:DET	融化:Vt	的:T	起:Vt	司:Vt	整:DET	個:M	就:ADV	加分:Vi	不少:DET	
+這:DET	全部:DET	吃完:Vt	
+友人:N	說:Vt	飽:Vi	到:P	不行:Vi	
+白醬:N	漁夫:N	海鮮:N	燉飯:Vt	290:DET	元:M	
++:FW	120:DET	元:M	升級:Vi	套餐:N	
+這:DET	是:Vt	我:N	的:T	一:DET	整:DET	個:M	套餐:N	
+男生:N	吃:Vt	這樣:Vi	肯定:Vt	飽:Vi	
+那:DET	個:M	燉飯:Vt	
+真的:ADV	太:ADV	超值:Vi	了:T	.....:ETCCATEGORY	
+奧立歐:N	奶昔:N	
+另外:C	加價:Vi	的:T	奶昔:N	
+就算:C	放到:Vt	用餐:Vi	結束:Vt	還是:ADV	很:ADV	好喝:Vi	
+白醬:N	漁夫:N	海鮮:N	燉飯:Vt	
+看:Vt	上面:N	擺滿:Vt	的:T	豐富:Vt	的:T	海鮮:N	料:Vt	
+下面:N	整:DET	個:M	是:Vt	堆:M	的:T	很:ADV	紮實:Vi	的:T	燉飯:Vt	
+我:N	整整:ADV	多:Vi	了:ASP	半:DET	盤:M	多:Vi	.....:ETCCATEGORY	硬:ADV	塞給:Vt	友人:N	的:T	
+說:Vt	是:Vt	白醬:N	
+但:C	其實:ADV	並:ADV	不會:ADV	很:ADV	奶:N	
+有:Vt	可能:ADV	是:Vt	海鮮:N	淋:Vt	醬:N	中和:Vi	了:ASP	些:M	奶味:N	
+但:C	這:DET	是:Vt	我:N	少數:DET	吃:Vt	過:ASP	
+吃到:Vt	最後:N	不會:ADV	膩:Vi	的:T	燉飯:Vt	
+飯:N	的:T	軟:Vi	硬度:N	剛好:ADV	
+不會:ADV	過:ADV	濕:Vi	軟:Vi	
+這樣:Vi	的:T	海鮮:N	燉飯:Vt	
+加:Vt	服務費:N	後:POST	才:ADV	三百:DET	元:M	初:POST	頭:N	
+海鮮:N	真的:ADV	很:ADV	彭派:N	
+魚:N	排:Vt	也:ADV	是:Vt	超大:A	一:DET	塊:M	
+淡菜:N	、:PAUSECATEGORY	蛤蠣:N	數量:N	也:ADV	很多:DET	
+海鮮:N	的:T	部分:DET	
+店長:N	說:Vt	都:ADV	是:Vt	老闆:N	每:DET	天:M	去:Vt	市場:N	挑選:Vt	的:T	
+保證:Vt	新鮮:Vi	
+所以:C	每:DET	天:M	都:ADV	不:ADV	一樣:Vi	
+希臘:N	披薩:N	260:DET	元:M	
+披薩:N	的:T	料:N	非常:ADV	多:Vi	
+皮:N	又:ADV	薄:Vi	脆:Vi	
+尤其:ADV	拿起:Vt	後:POST	
+更:ADV	感覺:Vt	披薩:N	的:T	紮實度:N	
+這裡:N	的:T	希臘:N	披薩:N	很:ADV	特別:Vi	
+上面:N	還:ADV	有:Vt	加上:C	羊奶:N	起:POST	司:Vt	
+羊奶:N	起:POST	司單:N	吃:Vt	雖:C	鹹:Vi	
+但:C	配餅皮:N	吃:Vt	其實:ADV	很:ADV	香:Vi	
+一般:A	的:T	希臘:N	披薩:N	大多:DET	是:Vt	很多:DET	的:T	蕃茄醬:N	
+口味:N	重:Vi	些:ADV	
+這裡:N	的:T	不會:ADV	唷:T	
+都:ADV	是:Vt	滿滿:Vi	的:T	蔬菜:N	
+算:Vt	蠻:ADV	清淡:Vi	的:T	
+冰:N	拿:Vt	鐵:N	
+墨西哥:N	料理:N	
+我:N	也:ADV	超:Vt	想:Vt	點:N	
+剛好:ADV	老爺:N	相中:Vt	了:ASP	
+牛肉:N	法士:N	達:Vt	290:DET	元:M	
+附:Vt	兩:DET	片:M	薄餅:N	
+還:ADV	有:Vt	玉米片:N	
+牛肉:N	的:T	旁邊:N	居然:ADV	還:ADV	有:Vt	飯:N	
+整:DET	個:M	光:N	看:Vt	就:ADV	覺得:Vt	超:Vt	飽:Vi	的:T	
+薄餅:N	打開:Vt	居然:ADV	還:ADV	有:Vt	包:M	料:N	
+是:Vt	起:Vt	司:N	還:ADV	有:Vt	特調:N	辣醬:N	
+薄餅:N	內:N	的:T	起:Vt	司:N	
+已經:ADV	半:DET	溶化:Vt	了:ASP	
+包:Vt	上:POST	與:C	香料:N	及:C	蔬菜:N	炒:Vt	的:T	入味:N	的:T	牛肉:N	
+其實:ADV	蠻:ADV	好吃:Vi	的:T	
+不會:ADV	死:Vi	鹹辣:Vi	
+還:ADV	有:Vt	點起:Vt	司作:N	中和:N	
+愛:Vt	吃:Vt	辣:Vi	的:T	你:N	一定:A	要點:N	這:DET	款:M	
+很:ADV	過癮:Vi	
+酸奶醬:N	及:C	微:ADV	酸:Vi	的:T	莎莎醬:N	
+這:DET	款:M	的:T	牛肉:N	份量:N	也:ADV	很多:DET	
+而且:C	各:DET	各:DET	牛肉:N	是:Vt	大:Vi	塊:M	帶:Vt	點:N	嚼:Vt	勁:N	
+炒:Vt	過:ASP	的:T	香料飯:N	
+老爺:N	吃光光:Vi	
+我:N	怕:Vt	辣:Vi	不:ADV	敢:Vt	吃:Vt	.....:ETCCATEGORY	已經:ADV	被:P	一:DET	個:M	薄餅:N	包:Vt	牛肉:N	辣:Vi	慘:Vi	
+不管:C	吃:Vt	的:T	多:ADV	飽:Vi	
+都:ADV	想來:ADV	份:M	甜點:N	
+手作:N	蘋果派:N	搭配:Vt	冰淇淋:N	150:DET	元:M	
+烤:Vt	的:T	熱熱:Vi	的:T	派:N	
+上面:N	還:ADV	有:Vt	焦糖:N	脆片:N	的:T	感覺:N	
+新鮮:Vi	蘋果:N	果粒:N	
+搭配:Vt	著:ASP	葡萄乾:N	還:ADV	有:Vt	些:M	杏仁:N	脆片:N	
+建議:Vt	還是:ADV	搭配:Vt	冰淇淋:N	較:ADV	好:Vi	
+有:Vt	不同:Vi	層次:N	的:T	口感:N	
+較:ADV	不:ADV	容易:Vi	膩:Vi	
+肯恩:N	廚房:N	的:T	料理:N	蠻:ADV	多元化:Vt	的:T	
+從:P	早:Vi	午餐:N	、:PAUSECATEGORY	墨西哥:N	料理:N	、:PAUSECATEGORY	美式:A	料理:N	、:PAUSECATEGORY	義大利麵:N	選擇:Vt	很多:DET	
+這:DET	次:M	吃:Vt	了:ASP	幾:DET	款:M	不同:Vi	方面:N	的:T	料理:N	都:ADV	還:ADV	不錯:Vi	
+尤其:ADV	份量:N	是:Vt	多:ADV	到:P	很:ADV	誇張:Vt	
+難怪:ADV	生意:N	超:Vt	好:Vi	
+從:P	六:DET	點:M	之後:POST	
+地下室:N	完全:ADV	客滿:Vi	
+有:Vt	學生:N	
+也:ADV	有:Vt	上班族:N	
+價格:N	便宜:Vi	
+部分:DET	飲料:N	又:ADV	可:ADV	續杯:Vi	
+餐點:N	大:Vi	份量:N	
+我:N	想:Vt	這:DET	也:ADV	是:Vt	生意:N	這:DET	麻:N	好:Vi	的:T	原因:N	吧:T	
+飲料:N	部份:DET	
+奶昔:N	及:C	咖啡:N	也:ADV	都:ADV	很:ADV	不錯:Vi	
+不:ADV	輸:Vt	專業:Vi	咖啡廳:N	
+下:DET	次:M	想要:Vt	來:ADV	吃吃:Vt	蛋捲:N	
+感覺:Vt	很:ADV	不錯:Vi	
+以後:N	姊妹:N	聚會:N	
+到:P	永康:N	這:DET	逛街:Vi	也:ADV	可以:ADV	來:ADV	這:DET	歇歇腳:Vi	
+還:ADV	有:Vt	好多:DET	甜點:N	
+蛋糕:N	
+咖啡廳:N	
+按:P	我:N	按:P	我:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	tanya413.pixnet.net/blog/post:FW	/:FW	65314341:DET	
+還:ADV	有:Vt	好多:DET	好多:DET	義大利麵:N	
+義式:A	料理:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	tanya413.pixnet.net/blog/post:FW	/:FW	65314309:DET	
+更多:DET	美式:A	料理:N	、:PAUSECATEGORY	漢堡:N	請:Vt	按:P	我:N	^:FW	^:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	tanya413.pixnet.net/blog/post:FW	/:FW	65313487:DET	

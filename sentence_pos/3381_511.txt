@@ -1,0 +1,90 @@
+sodue(sodue:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	TOROS:FW	先:ADV	切:Vt	牛排:N	(:PARENTHESISCATEGORY	內湖:N	旗艦店:N	):PARENTHESISCATEGORY	
+Sat:FW	
+Aug:FW	
+2:DET	
+20:DET	::COLONCATEGORY	40:DET	::COLONCATEGORY	27:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	TOROS:FW	鮮:Vi	切:Vt	牛排:N	內湖:N	旗艦店:N	
+消費:N	時間:N	：:COLONCATEGORY	2914年:N	/:FW	07月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	114:DET	民善街:N	205:DET	號:M	(:PARENTHESISCATEGORY	內外:N	標題:N	皆:ADV	請:Vt	附上:Vt	地區:N	！:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	0227967999:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	::COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	NTD:FW	1000:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	yes:FW	
+有無:Vt	包廂:N	：:COLONCATEGORY	no:FW	
+推薦:Vt	菜色:N	：:COLONCATEGORY	炭烤:Vt	美國:N	特優:N	級肋:N	眼:N	牛排:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.toros.com.tw:FW	/:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	ladyfrenzy.pixnet.net/blog/post:FW	/:FW	106165244:DET	雖然:C	在:P	舊金山點:N	的:T	亨利:N	八:DET	世:N	牛排:N	
+40:DET	oz:FW	
+讓:Vt	我們:N	兩:DET	個:M	吃:Vt	得:T	要:ADV	死:Vi	要:ADV	活:Vi	的:T	
+那:DET	種:M	大:Vi	口吃:Nv	肉:N	、:PAUSECATEGORY	並且:C	可以:ADV	品嘗到:Vt	一:DET	塊:M	厚:Vi	切:Vt	牛肉:N	裡面:N	不同:Vi	口感:N	的:T	經驗:N	卻:ADV	讓:Vt	我們:N	從此:ADV	著迷:Vi	
+所以:C	一:ADV	開始:Vt	我:N	要點:N	":FW	炭烤:Nv	美國:N	特優:N	級肋:N	眼:N	牛排:N	
+NTD:FW	1900:DET	
+":FW	19:DET	oz:FW	的:T	時候:N	
+明知道:Vt	吃:Vt	不:ADV	完:Vt	他:N	也:ADV	沒有:ADV	阻止:Vt	我:N	XD:FW	因為:C	食物:N	是:Vt	一:DET	種:M	回憶:N	呀:T	
+吃不了:Vt	那麼多:DET	、:PAUSECATEGORY	或:C	想:Vt	一:DET	次:M	體驗:Vt	不同:Vi	部位:N	的:T	肉品:N	
+可以:ADV	去:Vt	櫃檯:N	選切:Vt	
+以:P	重量:N	計價:Nv	
+但:C	我:N	一直:ADV	鍾情:Vi	於:P	富有:Vt	油花:N	的:T	部分:DET	
+二話不說:Vi	
+就是:C	":FW	炭烤:Nv	美國:N	特優:N	級肋:N	眼:N	牛排:N	":FW	另外:ADV	升級:Vi	套餐:N	
+然後:ADV	一連串:A	的:T	前菜:N	轟炸:Vt	開始:Vi	了:T	
+總:ADV	覺得:Vt	要:ADV	吃:Vt	這:DET	種:M	西餐:N	前面:N	至少:ADV	要:ADV	餓:Vi	一:DET	餐:M	=:FW	=:FW	大:Vi	大大:Vi	推:Vt	烤:Vt	麵包:N	
+充滿:Vt	香料:N	的:T	味道:N	
+還可以:ADV	一直:ADV	續:ADV	
+最:ADV	右邊:N	是:Vt	甜:Vi	奶油醬:N	
+超級:A	好吃:Vi	
+也:ADV	可以:ADV	搭配:Vt	中間:N	的:T	青醬:N	
+跟:P	這:DET	兩:DET	個:M	比起來:ADV	
+油:N	醋:N	完全:ADV	被:P	比下去:Vi	了:T	
+前菜:N	：:COLONCATEGORY	紅酒:N	蜜梨:N	鵝肝醬:N	鵝肝醬:N	味道:N	很:ADV	香:Vi	、:PAUSECATEGORY	不:ADV	太:ADV	鹹:Vi	
+蜜梨:N	也:ADV	不會:ADV	太:ADV	甜:Vi	
+兩:DET	種:M	搭:Vt	在一起:Vi	味道:N	很:ADV	溫和:Vi	、:PAUSECATEGORY	口感:N	卻:ADV	又:ADV	很:ADV	紮實:Vi	
+湯品:N	：:COLONCATEGORY	松露:N	野蕈:N	卡布:N	奇:ADV	諾:FW	濃湯:N	不:ADV	知:Vt	為何:ADV	這:DET	道:M	湯:N	的:T	基底:N	是:Vt	又:ADV	濃:Vi	又:C	綿:N	的:T	南瓜:N	味道:N	
+就:ADV	跟:P	吃:Vt	松露:N	巧克力:N	的:T	時候:N	一樣:Vi	
+我:N	還是:ADV	認:Vt	不:ADV	出松露:N	的:T	味道:N	
+不:ADV	是:Vt	說:Vt	他:N	沒有:ADV	
+而是:C	我:N	對:P	松露:N	的:T	味道:N	很:ADV	陌生:Vi	
+沙拉:N	：:COLONCATEGORY	水果:N	沙拉佐:N	覆盆子:N	優格醬:N	吃:Vt	啦:T	幾:DET	道:M	鹹:Vi	了:ASP	想:Vt	換:Vt	一點:DET	甜:Vi	的:T	
+所以:C	選擇:Vt	水果:N	沙拉:N	
+Dressing:FW	的:T	部份:DET	滿:ADV	稀:Vi	的:T	
+但:C	我:N	的:T	注意力:N	都:ADV	在:P	愛心型:N	的:T	蘋果:N	上:N	
+炭烤:Vt	美國:N	特優:N	級肋:N	眼:N	牛排:N	主角:N	終於:ADV	來:Vi	了:ASP	
+但:C	我:N	的:T	胃:N	只:ADV	剩下:Vt	30:DET	%:M	的:T	空間:N	給:Vt	他:N	了:T	QQ:FW	因為:C	兩:DET	個:M	人:N	一起:ADV	吃:Vt	
+店家:N	很:ADV	貼心:Vi	的:T	會:ADV	另外:ADV	準備:Vt	一:DET	個:M	溫:N	盤子:N	
+上面:N	有:Vt	烤:Vt	洋蔥:N	、:PAUSECATEGORY	地瓜:N	、:PAUSECATEGORY	與:C	青花菜:N	
+這:DET	塊:M	優級肋:N	眼:N	的:T	油花:N	很:ADV	均勻:Vi	
+每:ADV	一口:ADV	都:ADV	可以:ADV	吃到:Vt	豐富:Vt	的:T	脂肪:N	香:Vi	
+七:DET	分:M	熟:Vi	的:T	肉質:N	軟嫩:Vi	到:Vt	了:ASP	極點:N	
+因為:C	是:Vt	用:P	瓷盤:N	裝:Vt	盤:N	
+建議:Vt	點:Vt	七:DET	分:M	熟:Vi	
+五:DET	分:M	熟:Vi	的:T	血水:N	恐怕:ADV	就:ADV	會:ADV	有點:ADV	太多:Vi	了:T	
+19:DET	oz:FW	的:T	牛排:N	有:Vt	多:ADV	大:Vi	
+請:Vt	拿:Vt	左邊:N	的:T	叉子:N	當:Vt	比例尺:N	
+因為:C	盤子:N	很:ADV	大:Vi	、:PAUSECATEGORY	刀子:N	也:ADV	比:P	一般:A	的:T	牛排:N	刀大:N	
+牛排:N	上:N	沒有:Vt	醬料:N	
+灑:Vt	一點點:DET	海鹽:N	就:ADV	好:ADV	甜:Vi	
+但:C	這:DET	塊:M	牛肉:N	吃起來:ADV	像:P	煎:Vt	的:T	
+不:ADV	像:P	烤:Vt	的:T	
+一:ADV	來:Vi	沒有:ADV	看到:Vt	烤盤:N	的:T	紋路:N	
+二來:C	表面:N	很:ADV	濕潤:Vi	
+如果:C	要:ADV	雞蛋裡挑骨頭:Vi	的:T	話:N	XD:FW	甜點:N	我們:N	選:Vt	了:ASP	杏果:N	焦糖:N	冰淇淋:N	+:FW	奇異:Vi	果汁:N	
+奇異:Vi	果汁:N	非常:ADV	紮實:Vi	
+可以:ADV	喝到:Vt	一點點:DET	奇異果:N	塊:M	
+但:C	怕:Vt	酸:Vi	的:T	人:N	不宜:Vt	
+壽星:N	專屬:Nv	焦糖:N	布丁:N	+:FW	個性:N	馬克杯:N	當天:N	的:T	壽星:N	很多:DET	
+服務生:N	慶生:Vi	的:T	歌聲:N	此起彼落:Vi	
+當:P	我:N	聽到:Vt	第五:DET	遍:M	的:T	時候:N	才:ADV	後知後覺:Vi	地:T	緊張:Vi	起來:ASP	
+開始:Vt	警告:Vt	我:N	男朋友:N	如果:C	有:Vt	安排:Vt	唱:Vt	生日快樂:Vi	歌:N	趕快:ADV	去:ADV	給:Vt	我:N	退掉:Vt	&:FW	gt:FW	
+/:FW	/:FW	/:FW	/:FW	&:FW	lt:FW	
+超:Vt	害羞:Vi	的:T	啦:T	
+但:C	他:N	只是:ADV	一直:ADV	乾笑:Vi	
+嚷嚷:Vt	的:T	時候:N	
+店員:N	就:ADV	端上:Vt	了:ASP	一:DET	個:M	焦糖:N	布丁:N	
+輪到:Vt	我:N	啦:T	
+幫:P	我們:N	照:P	完:Vi	像:P	後:N	
+Toros:FW	作成:Vt	了:ASP	這樣:Vi	一:DET	個:M	馬克杯:N	
+一:DET	面:N	是:Vt	照片:N	、:PAUSECATEGORY	一:DET	面:N	是:Vt	TOROS:FW	的:T	LOGO:FW	
+可以:ADV	建議:Vt	他:N	門下:N	次:DET	幫:M	女生:N	慶生:Vi	的:T	時候:N	
+在:P	馬克杯:N	上:N	加註:Vt	":FW	永遠:ADV	18:DET	歲:M	":FW	嘛:T	::COLONCATEGORY	DDDDDD:FW	--:DASHCATEGORY	

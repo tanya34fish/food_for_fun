@@ -1,0 +1,56 @@
+peko721(PEKO:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	士林:N	夜市:N	-:DASHCATEGORY	13:DET	座:M	牛雜:Vi	牛雜:Vi	串:M	+:FW	港式凍奶:N	
+Sat:FW	
+Aug:FW	
+9:DET	
+00:DET	::COLONCATEGORY	04:DET	::COLONCATEGORY	12:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	13:DET	座:M	牛雜:Vi	/:FW	十三:DET	座:M	牛雜:Vi	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+電話:N	：:COLONCATEGORY	0936:DET	-:DASHCATEGORY	036379:DET	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	大南路:N	51:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	50:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	peko721.pixnet.net/blog/post:FW	/:FW	41231617:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+台灣:N	女婿:N	將:P	香港:N	北:N	角:N	的:T	經典:N	小吃:N	移師:Vt	台灣:N	士林:N	夜市:N	
+記得:Vt	前:DET	幾:DET	次:M	去:Vt	香港:N	總會:ADV	到:Vt	路邊:N	點:Vt	一:DET	份:M	牛雜:Vi	
+而:C	當時:N	必:ADV	吃:Vt	的:T	就是:C	北:N	角:N	的:T	
+13:DET	座:M	牛雜:N	/:FW	十三:DET	座:M	
+牛雜:Vi	
+沒想到:ADV	現在:N	在:P	台灣:N	就:ADV	品嚐:Vt	的:T	到:Vt	了:ASP	
+而:C	
+13:DET	座:M	牛雜:Vi	/:FW	十三:DET	座:M	牛雜:Vi	
+的:T	復古:Nv	攤位:N	就位:Vi	
+在:P	士林:N	夜市:N	
+老:Vi	香港:N	的:T	電車:N	化身成:Vt	奶茶:N	攤:Vt	
+PEKO:FW	看到:Vt	好多:DET	人:N	都:ADV	會:ADV	特別:Vi	跟:P	電車:N	來:ADV	張:Vt	合照:Vi	
+13:DET	座:M	牛雜:Vi	/:FW	十三:DET	座:M	牛雜:Vi	
+的:T	牛:N	雜有:Vt	原味:N	、:PAUSECATEGORY	麻辣:A	與:C	咖哩:N	
+但:C	咖哩:N	目前:N	還:ADV	沒:ADV	開:Vt	賣:Vt	
+另外:C	還:ADV	有:Vt	
+港式凍:N	奶茶:N	以及:C	冰沙椰奶:N	
+有:Vt	碗裝:N	
+$:FW	120:DET	
+跟:P	串:Vt	裝:Vt	
+$:FW	50:DET	
+內容物:N	都:ADV	一樣:Vi	
+只:ADV	差:Vi	在:P	份量:N	以及:C	碗:N	裝有:Vt	多:DET	幾:DET	口:M	湯汁:N	
+牛雜串:N	$:FW	50:DET	
+到底:ADV	牛雜串:N	包含:Vt	些:ADV	什麼:DET	
+大致上:ADV	就:ADV	是:Vt	牛肚:N	、:PAUSECATEGORY	牛腸:N	、:PAUSECATEGORY	牛肺:Vi	、:PAUSECATEGORY	牛:N	百:DET	頁:M	
+另外:C	會:ADV	加上:Vt	幾:DET	塊:M	蘿蔔:N	
+至於:P	味道:N	
+PEKO:FW	覺得:Vt	差異:N	不:ADV	大:Vi	
+不過:C	可能:ADV	因為:C	台灣:N	才:ADV	剛:ADV	試:Vt	營運:Vi	
+少:Vi	了:ASP	一點:DET	腥味:N	
+之前:N	在:P	香:N	
+港:N	吃:Vt	味道:N	比較:ADV	重:Vi	
+容易:Vi	膩:Vi	
+港式凍:N	奶茶:N	$:FW	60:DET	
+飲料:N	到:Vt	了:ASP	台灣:N	PEKO:FW	覺得:Vt	甜度:N	有:Vt	降低:Vt	一:DET	咪咪:Vi	
+茶香味:N	很:ADV	重:Vi	
+吃完:Vt	牛雜:Vi	來上:Vt	一:DET	杯:M	真的:ADV	很:ADV	對味:Vi	
+PEKO:FW	の:FW	SimpleLife:FW	
+部落格:N	-:DASHCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	peko721.pixnet.net/blog:FW	
+粉絲團:N	-:DASHCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/pekoblog:FW	

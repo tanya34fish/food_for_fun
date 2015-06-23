@@ -1,0 +1,60 @@
+spu70903(sPu:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山:N	女王:N	漢堡:N	-:DASHCATEGORY	老牌:Vi	台式:A	漢堡:N	炸雞店:N	
+Wed:FW	
+Jul:FW	
+23:DET	
+14:DET	::COLONCATEGORY	13:DET	::COLONCATEGORY	18:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	女王:N	漢堡:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	
+地址:N	：:COLONCATEGORY	104:DET	民族東路:N	2:DET	號:M	
+電話:N	：:COLONCATEGORY	0225943547:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	–:FW	21:DET	::COLONCATEGORY	00:DET	
+平均:Vi	價位:N	：:COLONCATEGORY	50:DET	-:DASHCATEGORY	199:DET	
+請:Vt	享用:Vt	圖:N	多:ADV	好:Vi	閱讀:Vt	網誌:N	版本:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sputravel.pixnet.net/blog/post:FW	/:FW	160703988:DET	
+一直:ADV	知道:Vt	上班:Vi	的:T	附近:N	有:Vt	家:M	老牌:Vi	台式:A	炸雞店:N	挺:ADV	有名:Vi	的:T	
+但:C	一直:ADV	沒:Vt	機會:N	吃到:Vt	
+這:DET	次:M	挑:Vt	了:ASP	個:M	下午茶:N	時間:N	來:ADV	體驗:Vt	看看:ASP	
+店:N	的:T	位子:N	就:ADV	在:P	中山北路:N	跟:P	民族東路:N	口:N	
+1樓:N	的:T	店面:N	有點:ADV	不:ADV	太:ADV	顯眼:Vi	
+這邊:N	除了:P	漢堡:N	有名:Vi	
+還:ADV	有:Vt	賣:Vt	PIZZA:FW	唷:T	
+不過:C	這:DET	天:M	不:ADV	太:ADV	餓:Vi	
+就:ADV	只有:ADV	點:Vt	了:ASP	一:DET	個:M	套餐:N	來:POST	SHARE:FW	
+這邊:N	的:T	MENU:FW	看起來:ADV	就:ADV	很:ADV	有:Vt	歷史:N	阿:N	
+店:N	內:N	的:T	用餐:Nv	環境:N	挺:ADV	寬敞:Vi	的:T	
+不:ADV	知道:Vt	能不能:ADV	包:Vt	場:N	辦:Vt	活動:N	呢:T	
+因為:C	下午:N	時間:N	
+很:ADV	快:Vi	我們:N	點:Vt	的:T	女王:N	漢堡:N	+:FW	套餐:N	
+$:FW	69:DET	+:FW	$:FW	55:DET	
+就:ADV	上:Vt	了:ASP	
+另外:C	還:ADV	有:Vt	嘴饞:Vi	單點:N	的:T	炸雞:N	
+腿:N	
+$:FW	47:DET	
+看:Vt	的:T	出來:Vi	是:Vt	老牌:Vi	台式:A	炸雞店:N	吧:T	
+漢堡:N	的:T	包裝:N	也:ADV	太:ADV	特別:Vi	了:T	
+閃亮:Vi	閃亮:Vi	的:T	
+點:Vt	了:ASP	最:ADV	常:ADV	吃:Vt	的:T	牛肉:N	+:FW	起:POST	司:Vt	的:T	漢堡:N	組合:Nv	
+吃起來:ADV	比:P	漢堡王:N	遜色:Vi	一些:DET	
+但:C	比:P	其他:DET	兩:DET	家:M	連鎖店:N	好:Vi	
+上:N	不少:DET	
+石布:N	最:ADV	愛:Vt	的:T	牛肉:N	起:POST	司:Vt	組合:Nv	就:ADV	是:Vt	漢堡王:N	了:T	
+肯德基:N	贏:Vt	在:P	炸雞:N	
+麥:N	當當:Vt	贏:Vt	在:P	薯條:N	XDD:FW	
+另外:C	這:DET	單:ADV	點:Vt	的:T	炸:Nv	雞腿:N	
+個:M	人:N	是:Vt	覺得:Vt	還:ADV	算:Vt	不錯:Vi	
+口味:N	不會:ADV	輸:Vt	那:DET	幾:DET	家:M	大:Vi	連鎖店:N	太多:Vi	
+來:ADV	體驗:Vt	過後:POST	的:T	感想:N	是:Vt	
+雖然:C	不至於:ADV	有:Vt	美味:Vi	到:P	讓:Vt	我:N	固定:Vt	造訪:Vt	
+但:C	還是:ADV	會:ADV	願意:Vt	多:ADV	來:Vi	幾:DET	次:M	
+體驗:Vt	
+看看:Vt	其他:DET	餐點:N	
+像:Vt	是:Vt	Pizza:FW	
+雞腿飯:N	
+等等:Vt	這:DET	種:M	另:DET	類:M	的:T	組合:Nv	
+這:DET	可就:ADV	是:Vt	一般:A	連鎖店:N	無法:ADV	匹敵:Vi	的:T	吧:T	
+下:DET	次:M	一定:ADV	要:ADV	揪:Vt	多:Vi	一點:ADV	人:N	來:ADV	
+才:ADV	能:ADV	share:FW	這些:DET	美食:N	阿:N	
+如果:C	覺得:Vt	文章:N	不錯:Vi	記得:Vt	點:Vt	石布:N	的:T	粉絲團:N	支持:Vt	一下:N	唷:T	
+^:FW	0:DET	^:FW	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/sputravel:FW	

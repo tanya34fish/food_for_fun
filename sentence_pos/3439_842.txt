@@ -1,0 +1,80 @@
+karenhsui:FW	(:PARENTHESISCATEGORY	要:ADV	當:P	快樂:Vi	的:T	天使:N	唷:T	1:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	伽利略:N	親子:N	餐廳:N	
+Tue:FW	
+Aug:FW	
+19:DET	
+16:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	02:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	伽利略:N	親子:N	餐廳:N	信義店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松高路:N	12:DET	號:M	4樓:N	新光三越:N	A:FW	8:DET	館:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27227718:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	：:COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	：:COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	400:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+推薦:Vt	菜色:N	：:COLONCATEGORY	伽利略:N	早餐:N	1:DET	號:M	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.galileibrunch.com:FW	/:FW	
+圖文並茂文:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/karenhsui/article:FW	/:FW	77576090:DET	
+隨著:P	同學:N	們:N	都:ADV	一一:ADV	嫁:Vt	人:N	
+再:ADV	來:ADV	就是:C	小:Vi	屁孩:N	一個個:DET	碰:ADV	出來:Vi	
+所以:C	餐廳:N	選擇:N	不能:ADV	再:ADV	走:Vi	少女:N	甜蜜:Vi	下午茶:N	路線:N	
+千挑萬:N	選:Vt	了:ASP	這:DET	間:M	親子:N	餐廳:N	
+伽利略:N	
+說:Vt	是:Vt	blueMonday:FW	但:C	用餐:Vi	的:T	人:N	還:ADV	真不少:Vi	呢:T	
+記得:Vt	一定:ADV	要:ADV	先:ADV	電話:N	預約:Vt	唷:T	
+迫不及待:ADV	要:ADV	先:ADV	點:Vt	餐嚕:N	
+全天候:ADV	供應:Vt	早:Vi	午餐:N	
+MENU:FW	-:DASHCATEGORY	伽利略:N	早餐:N	1:DET	號:M	
+必:ADV	點:Vt	
+$:FW	340:DET	元:M	
+內容:N	::COLONCATEGORY	新鮮:Vi	沙拉:N	&:FW	amp:FW	
+酵母:N	麵包:N	&:FW	amp:FW	
+有機:A	炒蛋:N	&:FW	amp:FW	
+煙燻:A	培根:N	&:FW	amp:FW	
+兩:DET	條:M	熱狗:N	&:FW	amp:FW	
+薯條:N	
+搭配:Vt	一:DET	杯:M	現:ADV	打:Vt	西瓜汁:N	&:FW	amp:FW	
+新鮮:Vi	水果:N	
+義式:A	歐姆:M	雷:N	蛋捲:N	$:FW	350:DET	
+內容:N	::COLONCATEGORY	酵母:N	麵包:N	&:FW	amp:FW	
+新鮮:Vi	沙拉:N	&:FW	amp:FW	
+起:Vt	司:N	玉米:N	番茄:N	&:FW	amp:FW	
+薯條:N	
+搭配:Vt	一:DET	杯:M	現:ADV	打:Vt	西瓜汁:N	&:FW	amp:FW	
+新鮮:Vi	水果:N	
+精選:Vt	尼:N	尼克:N	蛋佐:N	荷蘭醬:N	$:FW	330:DET	
+內容:N	::COLONCATEGORY	新鮮:Vi	沙拉:N	&:FW	amp:FW	
+帕:b	而:C	馬:N	火腿:N	&:FW	amp:FW	
+新鮮:Vi	沙拉:N	&:FW	amp:FW	
+兩:DET	顆:M	金黃色:N	元氣蛋:N	
+搭配:Vt	一:DET	杯:M	現:ADV	打:Vt	西瓜汁:N	&:FW	amp:FW	
+新鮮:Vi	水果:N	
+一定:ADV	也:ADV	要:ADV	有:Vt	小朋友:N	的:T	兒童餐:N	嚕:ADV	
+雙層:A	火腿:N	起:POST	司:Vt	好:Vi	寶寶:N	漢堡:N	
+外表:N	和:C	盤子:N	是:Vt	滿:ADV	討喜:Vi	的:T	
+麵包:N	感覺:N	是:Vt	一般:A	早餐店:N	的:T	漢堡:N	包:Vt	
+外:N	露出來:Vt	內:N	餡:N	的:T	感覺:N	很:ADV	不:ADV	優:Vi	
+搭配:Vt	牛奶:N	&:FW	amp:FW	
+玉米:N	濃湯:N	
+但:C	小朋友:N	只:ADV	看到:Vt	外型:N	就:ADV	開心:Vi	的:T	不得了:Vi	
+哪:DET	管:Vt	好吃:Vi	不:ADV	好吃:Vi	呀:T	
+旁邊:N	設有:Vt	兒童:N	遊戲區:N	
+透明:Vi	的:T	玻璃:N	設計:N	讓:Vt	用餐:Vi	的:T	家長:N	也:ADV	能:ADV	放心:Vt	的:T	讓:Vt	小朋友:N	在:P	裡面:N	玩耍:Vi	
+裡頭:N	的:T	玩具:N	都:ADV	是:Vt	店家:N	精選:Vt	過:ASP	的:T	很:ADV	放心:Vt	
+只是:ADV	有:Vt	小:Vi	小孩:N	的:T	話:N	家長:N	還是:ADV	要:ADV	陪同:Vt	會:ADV	比較:ADV	好:Vi	唷:T	
+辛苦:Vt	姜媽:N	帶:Vt	三:DET	隻:M	小毛頭:N	來:ADV	跟:P	我們:N	相見:Vi	
+整體:N	來:ADV	說:Vt	
+餐點:N	方面:N	大致上:ADV	都:ADV	很:ADV	新鮮:Vi	
+也:ADV	不會:ADV	有:Vt	過多:DET	加工:Nv	或是:C	淋:Vt	上:POST	多於:Vt	的:T	醬汁:N	
+增加:Vt	身體:N	負擔:N	
+連:C	果汁:N	都:ADV	用:P	慢:Vi	磨機:N	研磨:Vt	出來:Vi	100:DET	%:M	唷:T	
+份量:N	也:ADV	很:ADV	十足:Vi	
+小朋友:N	的:T	遊戲:N	空間:N	
+跟:P	其他:DET	親子:N	餐廳:N	比較:Vt	起來:ASP	
+應該:ADV	算:Vt	不錯:Vi	嚕:ADV	
+但:C	小朋友:N	一多:DET	就:ADV	會:ADV	顯得:Vt	很:ADV	擁擠:Vi	
+所以:C	千萬:DET	不要:ADV	挑:Vt	假日:N	來:ADV	阿:Vi	
+若:C	店家:N	能:ADV	安排:Vt	個:M	說:Vt	故事:N	姐姐:N	之類:POST	人員:N	
+小朋友:N	會:ADV	更:ADV	開心:Vi	
+家長:N	也:ADV	能:ADV	更:ADV	安心:Vi	的:T	用餐:Nv	
+達到:Vt	雙贏:Vi	的:T	成效:N	唷:T	

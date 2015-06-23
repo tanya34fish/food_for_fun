@@ -1,0 +1,113 @@
+ilynn:FW	0902:DET	(:PARENTHESISCATEGORY	肉鬆:N	吐司:N	就:ADV	是:Vt	幸福:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	新店:N	一:ADV	吃:Vt	愛上:Vt	：:COLONCATEGORY	陳記:N	越南:N	小:Vi	館:N	
+Thu:FW	
+Jan:FW	
+8:DET	
+00:DET	::COLONCATEGORY	38:DET	::COLONCATEGORY	11:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	越南:N	小:Vi	館:N	
+消費:N	時間:N	：:COLONCATEGORY	104:DET	/:FW	01:DET	
+地址:N	：:COLONCATEGORY	新:Vi	北市:N	新店:N	區安成街:N	17:DET	號:M	(:PARENTHESISCATEGORY	原安德街:N	83:DET	號:M	):PARENTHESISCATEGORY	
+本:DET	次:M	食用:Vt	：:COLONCATEGORY	生菜:N	春捲:N	(:PARENTHESISCATEGORY	50:DET	):PARENTHESISCATEGORY	、:PAUSECATEGORY	豬肉:N	河粉:N	(:PARENTHESISCATEGORY	70:DET	):PARENTHESISCATEGORY	、:PAUSECATEGORY	越:N	式:N	海鮮:N	米線:N	(:PARENTHESISCATEGORY	75:DET	):PARENTHESISCATEGORY	
+圖文:N	好讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/ilynn0902/article:FW	/:FW	84080268:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	安坑:N	在:P	新店區:N	已經:ADV	較:ADV	靠:Vt	山區:N	
+所以:C	比較:ADV	容易:Vi	下雨:Vi	
+但:C	這樣:Vi	的:T	小:Vi	地方:N	也:ADV	自:P	成:Vt	一:DET	格:N	的:T	形成:Nv	生活:N	機能:N	頗佳:Vi	的:T	聚落:N	
+在:P	街道:N	巷弄:N	間:POST	兜:Vt	轉:Vt	個:M	幾:DET	圈:M	
+食衣住行:N	的:T	問題:N	大致:ADV	都:ADV	能:ADV	得到:Vt	安排:Nv	
+當然:ADV	也:ADV	藏:Vt	著:ASP	幾:DET	間:M	非:ADV	吃:Vt	不:ADV	可:Vi	的:T	美食:N	
+今天:N	蘋果:N	要:ADV	介紹:Vt	的:T	這:DET	間:M	
+越南:N	小:Vi	館:N	
+原店址:N	在:P	安德:N	街:N	上:N	
+小小:Vi	的:T	店面:N	
+與:P	其他:DET	數:DET	間:M	小吃:N	並列:Vt	在一起:Vi	
+雖然:C	不:ADV	顯眼:Vi	
+提供:Vt	的:T	座位:N	也:ADV	只有:ADV	10:DET	人:N	左右:POST	
+但:C	憑著:P	老闆娘:N	的:T	好:Vi	手藝:N	
+生意:N	就:ADV	是:Vt	絡繹不絕:Vi	
+甚至:ADV	在:P	蘋果:N	剛:ADV	來到:Vt	此:DET	地:N	時:POST	
+被:P	當地人:N	稱為:Vt	：:COLONCATEGORY	來:ADV	安坑:N	絕對:ADV	不可:ADV	錯過:Vt	的:T	美食:N	
+去年:N	底:POST	
+位於:Vt	安德街:N	的:T	小小:Vi	店面:N	遷徒:Vt	到:P	安成街:N	的:T	大:Vi	店面:N	
+不:ADV	知情:Vi	的:T	朋友:N	
+還:ADV	以為:Vt	越南:N	小:Vi	館休業:N	了:T	
+引發:Vt	熟客:N	們:N	的:T	一陣:N	惋惜:Vt	
+幸好:ADV	後來:N	只:ADV	是:Vt	虛驚一場:N	
+沿著:P	安德街:N	與:C	安成街:N	交叉口:N	的:T	7:DET	-:DASHCATEGORY	11:DET	
+往:P	前:N	走:Vi	5:DET	分鐘:M	左右:POST	
+就:ADV	可以:ADV	抵達:Vt	新店:N	址:N	的:T	越南:N	小:Vi	館:N	
+店面:N	不再:ADV	需要:Vt	和:C	其他:DET	小吃攤:N	分享:Vt	了:ASP	
+店:N	內:N	目前:N	提供:Vt	15:DET	張:M	小:Vi	桌:N	
+至少:ADV	可:ADV	容納:Vt	30:DET	人:N	
+所以:C	現在:N	來:ADV	用餐:Vi	的:T	客人:N	
+可以:ADV	奢侈:Vi	的:T	享受:Vt	寬鬆:Vi	的:T	空間:N	
+雖然:C	如此:Vi	
+還是:ADV	常常:ADV	會:ADV	看到:Vt	店:N	內:N	滿:DET	坐:Vi	的:T	情況:N	哦:T	
+生意:N	真的:ADV	很:ADV	好:Vi	
+如果:C	對:P	越南:N	美食:N	不:ADV	熟悉:Vt	的:T	朋友:N	
+這裡:N	同樣:Vi	提供:Vt	餐點:N	的:T	實:N	拍照:Vi	
+讓:Vt	你:N	不用:ADV	瞎子:N	摸象:N	的:T	憑:P	運氣:N	點:Vt	餐:N	
+能夠:ADV	更:ADV	準確:Vi	的:T	找出:Vt	想:Vt	吃:Vt	的:T	
+店:N	內:N	擺設:Vt	還:ADV	算:Vt	乾淨:Vi	整齊:Vi	
+深色:N	的:T	桌子:N	及:C	簡便:Vi	的:T	圓椅:N	
+重點:N	是:Vt	美食:N	
+半:DET	自助式:N	的:T	用餐:Nv	環境:N	
+醬料:N	、:PAUSECATEGORY	餐具:N	自行:ADV	取用:Vt	
+生菜:N	春捲:N	
+50:DET	
+最:ADV	重要:Vi	的:T	就是:C	越南米:N	紙:N	和:C	米粉:N	
+再:ADV	加上:Vt	生菜:N	及:C	鮮蝦:N	兩:DET	尾:M	
+單:ADV	吃:Vt	沒有:Vt	味道:N	
+必須:ADV	沾上:Vt	一:DET	旁:N	的:T	醬料:N	
+甜甜:Vi	的:T	醬汁:N	加上:Vt	花生:N	顆粒:N	
+再:ADV	酌:ADV	以:P	紅:Vi	、:PAUSECATEGORY	白:Vi	蘿蔔:N	絲:N	
+完全:ADV	賦予:Vt	這:DET	道:M	菜:N	不同:Vi	的:T	風味:N	
+是:Vt	台:N	菜:N	中:POST	沒有:Vt	的:T	滋味:N	
+相信:Vt	在:P	悶熱:Vi	、:PAUSECATEGORY	沒:Vt	胃口:N	的:T	夏季:N	
+這:DET	道:M	菜:N	必定:ADV	受:P	歡迎:Vt	
+豬肉:N	河粉:N	
+70:DET	
+碗:N	裡:N	的:T	豬肉:N	剛:ADV	上桌:Vi	時:POST	
+中間:N	還:ADV	呈現:Vt	淡淡:Vi	的:T	粉紅色:N	
+相當:ADV	誘人:Vi	
+細細:Vi	的:T	河:N	粉佐上:N	清單:N	及:C	青菜:N	
+在:P	冬天:N	夜裡:N	熱熱:Vi	的:T	喝:Vt	
+相當:ADV	溫暖:Vt	
+越:ADV	式:M	海鮮:N	米線:N	
+75:DET	
+蘋果:N	個:M	人:N	私心:N	大力:ADV	推薦:Vt	
+絕對:ADV	不能:ADV	錯過:Vt	的:T	餐點:N	
+自從:P	第一:DET	次:M	嚐:Vt	過後:POST	
+每:DET	次:M	來:ADV	從來:ADV	不:ADV	變心:Vi	的:T	選擇:N	
+雖然:C	聽來:ADV	有點:ADV	誇張:Vt	
+但:C	這:DET	真的:ADV	是:Vt	一:DET	吃:Vt	就:ADV	會:ADV	喜歡:Vt	的:T	好:Vi	味道:N	
+以:P	蕃茄:N	熬:Vt	煮:Vt	湯頭:N	
+裡頭:N	有:Vt	滿滿:Vi	的:T	米線:N	、:PAUSECATEGORY	鮮蝦:N	、:PAUSECATEGORY	豬血:N	、:PAUSECATEGORY	手工:N	海鮮:N	丸子:N	、:PAUSECATEGORY	越南:N	火腿:N	
+再:ADV	加上:Vt	青菜:N	及:C	最後:N	的:T	九:DET	層:M	塔:N	
+就:ADV	成就:Vt	了:ASP	一:DET	碗:M	色:N	香味:N	俱全:Vi	的:T	越:N	式:N	海鮮:N	米線:N	
+蘋果:N	個:M	人:N	偏好:Vt	海鮮:N	
+但:C	又:ADV	不:ADV	喜歡:Vt	魚:N	漿:N	製品:N	及:C	現成:A	火鍋:N	料:Vt	
+所以:C	
+最:ADV	常:ADV	點:Vt	的:T	一定:A	海鮮:N	口味:N	
+但:C	又:ADV	極:ADV	怕:Vt	出現:Vi	人工:N	加工品:N	
+一向:ADV	是:Vt	在:P	點餐:N	時:POST	極:ADV	大:Vi	的:T	糾結:Nv	心情:N	
+但:C	這裡:N	的:T	海鮮:N	米線:N	採用:Vt	的:T	都:ADV	是:Vt	新鮮:Vi	食材:N	
+連:C	蘋果:N	個:M	人:N	最:ADV	害怕:Vt	的:T	丸子:N	也:ADV	很:ADV	不同:Vi	
+這裡:N	的:T	丸子:N	吃到:Vt	嘴:N	裡:N	的:T	反而:C	是:Vt	絞肉:N	
+比較:ADV	像:Vt	台菜:N	獅子頭:N	的:T	做法:N	
+這裡:N	的:T	各:DET	項:M	主食:N	
+店家:N	都:ADV	會:ADV	貼心:Vi	附上:Vt	新鮮:Vi	檸檬:N	
+滴:Vt	上:DET	幾:DET	滴:M	在:P	海鮮湯:N	中:POST	
+超:Vt	提味:N	的:T	
+如果:C	不:ADV	怕:Vt	豬血:N	的:T	朋友:N	
+一定:ADV	要:ADV	試試:Vt	這裡:N	的:T	豬血:N	
+略帶:Vt	鹹味:N	
+與:C	湯頭:N	結合:Vt	
+滑嫩:Vi	、:PAUSECATEGORY	新鮮:Vi	的:T	口感:N	
+真的:ADV	太:ADV	棒:Vi	了:T	
+百:DET	元:M	鈔:N	就:ADV	可以:ADV	搞定:Vt	營養:N	又:ADV	滿足:Vt	的:T	一:DET	餐:M	
+喜歡:Vt	越南:N	料理:N	的:T	朋友:N	來:POST	安坑:N	
+絕對:ADV	不要:ADV	錯過:Vt	越南:N	小:Vi	館:N	
+【:PARENTHESISCATEGORY	陳:N	記:Vt	越南:N	小:Vi	館:N	】:PARENTHESISCATEGORY	地址:N	：:COLONCATEGORY	新:Vi	北市:N	新店:N	區安成街:N	17:DET	號:M	
+原安德街:N	83:DET	號:M	
+延伸:Vi	閱讀:Vt	：:COLONCATEGORY	【:PARENTHESISCATEGORY	新北:N	新店:N	】:PARENTHESISCATEGORY	經典:N	老店:N	：:COLONCATEGORY	南川:N	麵館:N	【:PARENTHESISCATEGORY	新北:N	新店:N	】:PARENTHESISCATEGORY	排隊:Vi	名:M	店:N	外:N	的:T	最佳:A	選擇:N	：:COLONCATEGORY	老媽:N	麵館:N	【:PARENTHESISCATEGORY	新北:N	新店:N	】:PARENTHESISCATEGORY	去去:Vt	鼻塞:Vi	走:Vi	：:COLONCATEGORY	雲南:N	傣族:N	小吃:N	【:PARENTHESISCATEGORY	新北:N	新店:N	】:PARENTHESISCATEGORY	大菜:N	小食:N	：:COLONCATEGORY	老蔣:N	的:T	家鄉味:N	--:DASHCATEGORY	

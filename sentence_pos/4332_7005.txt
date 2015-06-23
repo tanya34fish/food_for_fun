@@ -1,0 +1,83 @@
+earth:FW	875:DET	(:PARENTHESISCATEGORY	噗:ADV	啊:T	juujon:FW	~:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	OvenMaru:FW	烤頂:N	鷄:b	
+Sun:FW	
+May:FW	
+10:DET	
+20:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	10:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	OvenMaru:FW	烤頂:N	鷄:b	
+消費:N	時間:N	：:COLONCATEGORY	2015:DET	/:FW	04:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	復興南路:N	一段:N	107巷:N	5弄:N	6:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2778:DET	-:DASHCATEGORY	3325:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	16:DET	::COLONCATEGORY	00:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	;:SEMICOLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	Sun:FW	,:COMMACATEGORY	Sat:FW	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	~:FW	450:DET	
+圖文:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	juujon.pixnet.net/blog/post:FW	/:FW	198199497:DET	
+在:P	韓國:N	自助:Vi	旅行:Vi	的:T	時候:N	很:ADV	喜歡:Vt	他們:N	的:T	炸雞:N	文化:N	
+配上:Vt	冰:N	涼涼:Vi	的:T	啤酒:N	是:Vt	再:ADV	享受:Vt	不過:C	
+而:C	最近:N	台北:N	進駐:Vt	了:ASP	一:DET	間:M	韓國:N	連鎖店:N	─:FW	Ovenmaru:FW	烤:Vt	頂雞:N	
+雖然:C	本身:N	是:Vt	用:P	烤:Vt	製:Vt	的:T	而:C	不:ADV	是:Vt	炸雞:N	
+卻:ADV	有:Vt	著:ASP	不:ADV	輸:Vt	炸雞:N	的:T	多汁:Vi	脆:Vi	彈:Vt	
+且:C	還:ADV	比較:ADV	不:ADV	膩:Vi	口:N	呢:T	
+不過:C	造訪:Vt	這裡:N	的:T	時候:N	會:ADV	發現:Vt	
+座位:N	其實:ADV	並:ADV	不:ADV	算:Vt	少:Vi	
+但:C	客人:N	相當:ADV	多:Vi	得:T	要:Vt	現場:N	排隊:Vi	
+就:P	現在:N	的:T	這:DET	種:M	熱潮:N	來:ADV	說:Vt	恐怕:ADV	這:DET	一陣子:N	都:ADV	有得:ADV	等:Vt	了:ASP	
+算是:Vt	比較:ADV	不便:Vi	的:T	部分:DET	
+不妨:ADV	考慮:Vt	外:POST	帶出來:Vt	然後:ADV	盡快:ADV	享用:Vt	會:ADV	來得:ADV	好些:Vi	
+排隊:Vi	等待:Vt	的:T	時候:N	還:ADV	發現到:Vt	有:Vt	不少:DET	韓國:N	學生:N	們:N	也:ADV	會:ADV	來:ADV	造訪:Vt	
+用餐:Vi	時:POST	也:ADV	不時:ADV	可以:ADV	發現:Vt	有:Vt	韓國:N	來:Vi	的:T	朋友:N	
+看來:ADV	這裡:N	確實:ADV	蠻:ADV	道地:Vi	的:T	呢:T	
+這裡:N	並:ADV	沒有:ADV	提供:Vt	免費:Vi	的:T	飲用水:N	
+因此:C	想要:Vt	解渴:Vi	都:ADV	得:Vt	另外:DET	點:M	飲料:N	
+啤酒:N	在:P	這裡:N	也:ADV	不:ADV	算:Vt	太:ADV	便宜:Vi	
+像:P	Hite:FW	一:DET	瓶:M	330:DET	ml:FW	就:ADV	要:ADV	百來:DET	塊:M	
+建議:Vt	點:Vt	一:DET	瓶:M	配:Vt	著:ASP	喝:Vt	過:ASP	過癮:Vi	就:ADV	好了:T	
+要:ADV	豪飲:Vt	還是:C	外:N	帶回去:Vi	另外:ADV	買:Vt	啤酒:N	喝:Vt	比較:ADV	痛快:Vi	
+沙拉:N	其實:ADV	就:ADV	很:ADV	簡單:Vi	的:T	一:DET	盤:M	沙拉:N	
+但:C	他:N	是:Vt	這裡:N	唯一:A	的:T	蔬菜:N	了:T	好像:ADV	
+醬汁:N	是:Vt	百香:N	果醬汁:N	
+若要:C	開胃:Vi	或:C	吃:Vt	點:M	蔬菜:N	的:T	話:N	再:ADV	點:Vt	就:ADV	好:Vi	
+然後:ADV	點:Vt	烤:Vt	頂雞:N	的:T	話:N	都:ADV	會:ADV	附上:Vt	醃:Vt	蘿蔔:N	
+醃:Vt	蘿蔔:N	是:Vt	我:N	個:M	人:N	韓國:N	時:POST	很:ADV	喜歡:Vt	的:T	品:N	項:M	
+有點:ADV	像:Vt	日式:A	的:T	醃:Vt	大根:N	但:C	水分:N	較:ADV	足:Vi	
+微微:A	的:T	酸甜:Vi	保:Vt	水:N	充分:Vi	緩解:Vt	了:ASP	重:Vi	口味:N	下:POST	的:T	鹹:Vi	膩:Vi	霸道:Vi	
+量:N	若:C	能:ADV	多:Vi	一點:ADV	更:ADV	好:Vi	
+在:P	這裡:N	主要:A	的:T	菜單:N	是:Vt	以:P	烤雞:N	為主:Vi	
+又:ADV	分成:Vt	帶:Vt	骨:N	無:Vt	骨:N	和:C	有沒有:ADV	加玄:N	米粉:N	共:ADV	四:DET	種:M	組合:Nv	
+而:C	其中:DET	烤:Vt	頂雞:N	就:ADV	是:Vt	外皮:N	有:Vt	帶:Vt	玄:Vi	米粉:N	的:T	版本:N	
+沾附:Vt	在:P	上頭:N	拿去:Vt	烤:Vt	製:Vt	之後:POST	
+所:ADV	形成:Vt	出來:Vi	的:T	酥脆:Vi	有:Vt	著:ASP	跟:P	炸雞:N	相像:Vi	的:T	口感:N	
+又:ADV	不會:ADV	如此:ADV	油膩:Vi	還:ADV	帶:Vt	著:ASP	雞汁:N	原:ADV	甜:Vi	
+這:DET	點:M	相當:ADV	迷人:Vi	
+不過:C	由於:C	是:Vt	用:P	烤:Vt	的:T	不:ADV	是:Vt	油炸:Vt	
+口感:N	上:POST	會:ADV	比:P	一般:A	炸雞:N	要:ADV	來:ADV	的:T	彈:Vt	牙:N	而:C	非:Vt	汁嫩:N	
+配上:Vt	蔥絲:N	跟:P	甜鹹鮮:N	的:T	醬汁:N	相當:ADV	好吃:Vi	且:C	下酒:Vi	
+非常:ADV	推薦:Vt	
+無骨:N	BBQ:FW	脆皮:N	烤雞:N	其實:ADV	就:ADV	是:Vt	沒有:Vt	玄:Vi	米粉:N	的:T	選擇:N	
+皮:N	倒是:ADV	沒有:ADV	烤:Vt	頂雞脆:Vi	所以:C	菜名:N	蠻:ADV	容易:Vi	誤導:Vt	的:T	
+外皮:N	比較:ADV	滑:Vi	口:N	而:C	仰賴:Vt	醬汁:N	的:T	巴附:Vt	
+所以:C	大抵:ADV	上:N	會:ADV	更:ADV	加重:Vt	口味:N	些:ADV	
+BBQ:FW	是:Vt	辣醬:N	的:T	口味:N	甜:Vi	中:POST	帶:Vt	辣:Vi	
+不過:C	這:DET	種:M	辣:Vi	是:Vt	後勁:N	慢慢:Vi	湧上來:Vi	的:T	
+確實:ADV	是:Vt	很:ADV	過癮:Vi	
+就是:C	會:ADV	容易:Vi	口渴:Vi	最好:ADV	要:ADV	搭配:Vt	飲料:N	
+免得:C	吃到:Vt	後頭:N	就:ADV	沒:Vt	前面:N	來得:ADV	好吃:Vi	了:T	
+烤:Vt	頂雞:N	用:P	玄:Vi	米粉:N	跟:P	烤:Vt	製:Vt	的:T	方法:N	去:ADV	呈現出:Vt	類似:Vt	炸:Vt	物:N	的:T	脆口:N	
+又:ADV	沒有:Vt	含油:Vi	的:T	那:DET	種:M	膩感:N	
+這:DET	點:M	來:ADV	說:Vt	確實:ADV	美味:Vi	好吃:Vi	值得:Vi	一:ADV	試:Vt	
+即便:C	要價:N	真的:ADV	不:ADV	算:Vt	便宜:Vi	
+也:ADV	還是:ADV	會:ADV	吸引:Vt	許多:DET	人:N	造訪:Vt	
+若:C	能:ADV	控制:Vt	在:P	三百:DET	出頭:POST	會:ADV	更:ADV	好:Vi	
+目前:N	再:ADV	訪:Vt	的:T	意願:N	還:ADV	蠻:ADV	高:Vi	的:T	
+不過:C	若:C	有:Vt	下:DET	次:M	再:ADV	訪:Vt	的:T	機會:N	可能:ADV	會:ADV	選擇:Vt	外帶:Vt	
+外帶:Vt	若是:C	水氣:N	不會:ADV	讓:Vt	外皮:N	受潮:Nv	的:T	話:N	
+帶回:Vt	家:N	配上:Vt	另外:C	買:Vt	的:T	啤酒:N	的:T	話:N	CP:FW	值:N	會:ADV	更:ADV	高:Vi	一些:DET	
+也:ADV	希望:Vt	未來:N	有:Vt	更多:DET	的:T	類似:Nv	的:T	選擇:N	
+當然:ADV	若:C	能:ADV	配合:Vt	台灣人:N	的:T	消費:N	習慣:N	價格:N	平民:N	一:DET	點:N	會:ADV	更:ADV	好:Vi	啦:T	
+相當:ADV	推薦:Vt	有:Vt	玄:Vi	米粉:N	的:T	烤:Nv	頂雞:N	系列:N	
+蔥絲:N	口味:N	不妨:ADV	試試:Vt	不會:ADV	失望:Vi	
+--:DASHCATEGORY	肝:N	血淚:N	吃:Vt	拍睡:Vi	http:FW	::COLONCATEGORY	/:FW	/:FW	juujon.pixnet.net/blog:FW	只要:C	有:Vt	過:ASP	半夜:N	摸黑:ADV	翻:Vt	冰箱:N	的:T	經驗:N	
+就:ADV	能:ADV	在:P	這裡:N	找到:Vt	些:ADV	什麼:DET	
+自:P	Facebook:FW	不:ADV	定期:ADV	接收:Vt	食記:N	、:PAUSECATEGORY	遊記:N	、:PAUSECATEGORY	食譜:N	與:C	歐遊:N	交換:Vt	心得:N	
+歡迎點:N	LIKE:FW	訂閱:Vt	
+└:FW	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/juujon:FW	--:DASHCATEGORY	

@@ -1,0 +1,17 @@
+地址:N	：:COLONCATEGORY	台北市:N	文山區:N	木柵路:N	一段:N	120:DET	號:M	
+店:N	內:N	約:ADV	可:ADV	容納:Vt	18:DET	人:N	的:T	座位:N	
+座位:N	還:ADV	蠻:ADV	狹窄:Vi	的:T	
+服務:Nv	人員:N	還:ADV	蠻:ADV	親切:Vi	的:T	
+價格:N	介於:Vt	120:DET	元:M	至:P	210:DET	元:M	之間:POST	
+不:ADV	收:Vt	服務費:N	
+還:ADV	蠻:ADV	有:Vt	咬:Vt	勁:N	的:T	
+拉麵:N	的:T	份量:N	有點:ADV	少:Vi	
+味道:N	以:P	這:DET	個:M	價格:N	來:ADV	說:Vt	也:ADV	還:ADV	不錯:Vi	
+以:P	這:DET	個:M	價:N	來:ADV	說:Vt	處理:Vt	得:T	不錯:Vi	
+初:ADV	喝:Vt	幾:DET	口:M	還:ADV	不錯:Vi	
+但是:C	會:ADV	膩:Vi	
+味道:N	一般:POST	
+這:DET	是:Vt	一:DET	間:M	中低價位:N	至:C	中價位:N	
+拉麵:N	本身:N	表現:Vt	不錯:Vi	
+但:C	湯頭:N	稍微:ADV	有點:ADV	死:Vi	鹹:Vi	的:T	感覺:N	
+不過:C	整體:N	來:ADV	說:Vt	如果:C	你:N	不:ADV	嫌:Vt	它:N	附近:N	交通:N	有點:ADV	不便:Vi	

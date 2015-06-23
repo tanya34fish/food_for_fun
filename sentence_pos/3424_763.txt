@@ -1,0 +1,50 @@
+imok0122(momo:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	麟光:N	站:Vi	80:DET	元:M	就:ADV	能:ADV	吃到:Vt	的:T	阿成:N	牛肉麵:N	
+Thu:FW	
+Aug:FW	
+14:DET	
+20:DET	::COLONCATEGORY	53:DET	::COLONCATEGORY	42:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	阿成:N	牛肉麵:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	富陽街:N	98:DET	號:M	(:PARENTHESISCATEGORY	近:DET	捷運:N	麟光:N	站:Vi	):PARENTHESISCATEGORY	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	3017:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	
+連絡:Vt	電話:N	::COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	8733:DET	-:DASHCATEGORY	3416:DET	
+平均:Vi	價位:N	::COLONCATEGORY	80:DET	元:M	起:POST	
+網誌:N	好讀:Vt	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ohamei.pixnet.net/blog/post:FW	?:QUESTIONCATEGORY	preview:FW	=:FW	2199976182:DET	
+今天:N	來到:Vt	這:DET	間:M	距離:N	捷運:N	麟光:N	站:Vi	約:ADV	5:DET	分鐘:M	的:T	路程:N	的:T	牛肉:N	麵店:N	
+在:P	店:N	門口:N	觀望:Vi	一會:N	
+有:Vt	種:M	開放式:A	廚房:N	的:T	明亮:Vi	店面:N	
+有:Vt	種:M	似乎:ADV	不錯:Vi	的:T	感覺:N	
+就:ADV	上門:Vi	了:ASP	
+店裡:N	的:T	裝潢:N	很:ADV	樸實:Vi	明亮:Vi	
+牆壁:N	上:POST	都:ADV	有:Vt	宣傳:N	及:C	介紹:N	的:T	單張:N	
+能:ADV	感受到:Vt	店家:N	的:T	應用:N	文字:N	強力:Vi	宣傳:Vt	自己:N	自:P	慢:Vi	的:T	好:Vi	口味:N	
+就算:C	第一:DET	次:M	來:Vi	的:T	人:N	
+也:ADV	有:Vt	點菜:Vi	的:T	參考:N	依據:P	
+看:Vt	了:ASP	牆:N	上:N	的:T	推介:Nv	
+老闆:N	推薦:Vt	的:T	是:Vt	兩:DET	款:M	-:DASHCATEGORY	滿漢:N	牛肉麵:N	及:C	碳烤:N	牛肉麵:N	
+不過:C	今天:N	天氣:N	熱:Vt	不:ADV	想:Vt	吃:Vt	偏重:Vt	口味:N	的:T	紅燒:Nv	牛肉麵:N	
+看:Vt	了:ASP	下:DET	菜單:N	
+單價:N	並:ADV	不:ADV	高:Vi	
+80:DET	元:M	就:ADV	可以:ADV	吃到:Vt	牛肉麵:N	了:T	
+第一:DET	次:M	造訪:Vt	
+就算:C	踩到:Vt	雷:N	也:ADV	不會:ADV	太:ADV	桑心:N	...:ETCCATEGORY	
+所以:C	點:Vt	了:ASP	以下:N	菜色:N	
+噹噹:ADV	
+小菜:N	30:DET	元:M	
+滷味:N	
+黑豆:N	干:Vt	、:PAUSECATEGORY	海帶:N	
+30:DET	元:M	
+微酸:N	小菜:N	味道:N	清爽:Vi	
+豆干:N	海帶:N	不會:ADV	過:ADV	硬:Vi	
+還:ADV	帶:Vt	點:M	甜味:N	
+而後:ADV	點:Vt	了:ASP	燙:Vt	青菜:N	、:PAUSECATEGORY	水餃:N	、:PAUSECATEGORY	餛飩湯:N	、:PAUSECATEGORY	清燉:Nv	牛肉麵:N	
+嘗:Vt	起來:ASP	的:T	感覺:N	
+都:ADV	偏:ADV	鹹:Vi	
+感覺:N	都:ADV	有:Vt	多:DET	加:Vt	了:ASP	一:DET	瓢:M	的:T	鹽水:N	
+所以:C	
+整體:N	不:ADV	符合:Vt	個:M	人:N	口味:N	
+不過:C	平實:Vi	的:T	價格:N	
+倒:ADV	也:ADV	可以:ADV	提供給:Vt	想要:Vt	平價:N	吃:Vt	麵:N	
+的:T	各:DET	位:M	做:Vt	參考:N	

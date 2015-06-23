@@ -1,0 +1,20 @@
+withdrawn:FW	(:PARENTHESISCATEGORY	翔:N	):PARENTHESISCATEGORY	
+Re:FW	::COLONCATEGORY	[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	*:FW	中山區:N	*:FW	咖哩王:N	。:PERIODCATEGORY	牽絲:Vt	的:T	起:Vt	司:N	豬排飯:N	
+Wed:FW	
+Jul:FW	
+30:DET	
+02:DET	::COLONCATEGORY	53:DET	::COLONCATEGORY	12:DET	
+2014:DET	
+Re:FW	::COLONCATEGORY	
+食記:N	
+台北:N	*:FW	中山區:N	*:FW	咖哩王:N	
+牽絲:Vt	的:T	起:Vt	司:N	豬排飯:N	
+WedJul:FW	3002:DET	::COLONCATEGORY	53:DET	::COLONCATEGORY	122014:DET	
+原文:N	43:DET	
+solitarymind:FW	抄襲:Vt	文章:N	已:ADV	在:P	BLOG:FW	公開:Vt	置頂:Vi	道歉:Vi	
+可是:C	第3:DET	點:M	說:Vt	ptt:FW	帳號:N	已經:ADV	被:P	水桶:N	所以:C	無法:ADV	在:P	美食版:N	發文:Vi	
+但是:C	版:N	上:N	沒有:Vt	水桶:N	公告:Vt	
+站:N	內:N	信:N	版主:N	代:N	po:FW	文:N	也:ADV	沒有:Vt	
+而:C	涉嫌:Vt	抄襲:Vt	的:T	文章:N	還是:C	存在:Nv	美食版:N	上:N	
+應該:ADV	是:Vt	要:ADV	一起:ADV	刪除:Vt	吧:T	
+此:DET	事件:N	後:POST	不:ADV	知道:Vt	版:N	上:N	的:T	寫:Vt	手:N	有沒有:ADV	去:ADV	翻:Vt	一下:N	自己:N	的:T	食:N	記:Vt	跟:P	別人:N	比較:Vt	一下:N	XD:FW	

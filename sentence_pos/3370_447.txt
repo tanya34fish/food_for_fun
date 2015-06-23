@@ -1,0 +1,189 @@
+vilo92(vilo:FW	92:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	SitDownPlease:FW	座味餐酒:N	
+Wed:FW	
+Jul:FW	
+30:DET	
+13:DET	::COLONCATEGORY	50:DET	::COLONCATEGORY	59:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	SitDownPlease:FW	座味餐酒:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	5月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	233巷:N	11:DET	號:M	
+電話:N	：:COLONCATEGORY	0227418555:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	30,:NULL	18:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	500:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	惡魔:N	的:T	羽翼:N	提拉米蘇:N	
+好讀:Vt	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	vilo92.pixnet.net/blog/post:FW	/:FW	381400109:DET	
+這:DET	間:M	餐廳:N	可是:C	比:P	我:N	想像:Vt	中:POST	的:T	還:ADV	要:ADV	熱門:Vi	啊:T	
+我們:N	有:Vt	訂位:Nv	
+當天:N	還:ADV	沒:ADV	開始:Vt	營業:Vi	
+外頭:N	已經:ADV	不少:Vi	人:N	開始:Vt	排隊:Vi	了:ASP	
+所以:C	建議:Vt	一定:ADV	要:ADV	提早:Vt	預約:Vt	囉:T	
+外觀:N	簡單:Vi	俐落:Vi	
+水泥:N	風格:N	其實:ADV	也:ADV	很:ADV	不錯:Vi	XD:FW	我們:N	點:Vt	餐:N	的:T	時候:N	猶豫:Vt	了:ASP	好久:Vi	
+不過:C	店家:N	都:ADV	還:ADV	蠻:ADV	有:Vt	耐心:N	的:T	
+服務:Nv	態度:N	很:ADV	親切:Vi	
+但是:C	
+不要:ADV	考慮:Vt	太:ADV	久:Vi	
+不然:C	等:P	大家:N	都:ADV	點完:Vt	餐:N	之後:POST	就:ADV	要:ADV	等上:Vt	一陣子:N	了:T	XD:FW	餐:N	前:N	麵包:N	每:DET	桌:M	都:ADV	會:ADV	附上:Vt	餐:N	前:N	麵包:N	
+一:DET	個:M	是:Vt	甜椒醬:N	、:PAUSECATEGORY	一:DET	個:M	是:Vt	鳳梨:N	腐乳醬:N	
+麵包:N	的:T	孔隙:N	不:ADV	小:Vi	
+吃起來:ADV	沒有:Vt	太多:DET	多餘:A	的:T	甜味:N	
+就是:C	很:ADV	簡單:Vi	的:T	麥香:N	
+很:ADV	有:Vt	嚼:Vt	勁:N	
+蠻:ADV	耐:Vt	吃:Vt	的:T	
+鏘鏘:ADV	
+餓:Vi	翻:Vt	了:ASP	
+我們:N	點:Vt	了:ASP	頂:Vt	著:ASP	先:ADV	與:P	加減:Vt	配:Vt	各:DET	一:DET	道:M	
+金黃色:N	的:T	餐點:N	雖然:C	不:ADV	是:Vt	特別:Vi	美:Vi	啦:T	
+但是:C	看起來:ADV	很:ADV	好吃:Vi	XDDD:FW	惡魔:N	的:T	羽翼:N	NT:FW	160:DET	這:DET	道:M	我:N	可是:C	毫不:ADV	猶豫:Vt	的:T	就:ADV	決定:Vt	點:Vt	它:N	了:T	
+我:N	熱愛:Vt	吃:Vt	炸雞:N	翅:N	啊:T	
+而且:C	
+惡魔:N	的:T	羽翼:N	這:DET	菜名:N	聽起來:ADV	有點:ADV	威:Vi	XDD:FW	都:ADV	說:Vt	是:Vt	惡魔:N	的:T	羽翼:N	了:T	
+所以:C	這:DET	是:Vt	一:DET	道:M	會:ADV	辣:Vi	的:T	雞:N	翅:N	
+用:P	匈牙利:N	紅椒粉:N	與:C	朝天:Vi	椒:b	特別:Vi	醃製:Vt	雞翅:N	
+吃下去:Vi	保證:Vt	辣:Vi	得:T	過癮:Vi	XDD:FW	雖然:C	點:N	之前:POST	就:ADV	知道:Vt	會:ADV	辣:Vi	了:T	
+但是:C	辣度:N	比:P	想像:N	中:POST	的:T	還要:ADV	嗆:Vi	
+吃起來:ADV	酸酸:Vi	辣辣:Vi	
+而且:C	好:ADV	辣:Vi	
+不過:C	蠻:ADV	好吃:Vi	的:T	
+炸:Vt	得:T	酥酥:Vi	的:T	
+調味:N	讓:Vt	人:N	喜歡:Vt	
+喜歡:Vt	這:DET	種:M	炸:Vt	得:T	金黃:Vi	酥脆:Vi	的:T	辣雞翅:N	喔:T	
+好:ADV	麻:Vi	、:PAUSECATEGORY	好:ADV	過癮:Vi	對於:P	不善:Vi	吃:Vt	辣:Vi	的:T	人:N	來:ADV	說:Vt	
+這:DET	真的:ADV	太:ADV	辣:Vi	了:T	
+不過:C	吃:Vt	到:P	後來:N	會:ADV	漸入佳境:Vi	
+不:ADV	覺得:Vt	辣:Vi	
+只:ADV	覺得:Vt	十分:ADV	夠味:Vi	XD:FW	洋芋:N	千:DET	層:M	NT:FW	180:DET	這:DET	洋芋:N	千:DET	層:M	呢:T	
+是:Vt	把:P	整:DET	顆:M	馬鈴薯:N	切成:Vt	薄片:N	
+一:DET	層:M	一:DET	層:M	堆疊:Vt	起來:ASP	
+然後:ADV	裹上:Vt	奶油:N	醬汁:N	
+鋪上:Vt	起:ASP	司絲:N	後:POST	放入:Vt	烤箱:N	
+出爐:Vi	再:ADV	淋上:Vt	主廚:N	特製:Vt	的:T	茄汁:N	肉醬:N	
+十分:ADV	夠味:Vi	呀:T	
+上面:N	的:T	焗烤:Vt	好吃:Vi	
+肉醬:N	也:ADV	好吃:Vi	
+洋芋:N	不:ADV	是:Vt	軟:Vi	爛:Vi	綿密:Vi	的:T	那:DET	種:M	
+吃起來:ADV	保有:Vt	一點:DET	脆度:N	
+一:DET	層:M	一:DET	層:M	的:T	口感:N	會:ADV	越:ADV	吃:Vt	越:ADV	涮嘴:N	我:N	覺得:Vt	醬汁:N	非常:ADV	加分:Vi	耶:T	
+沾上:Vt	醬汁:N	與:C	肉:N	末更:N	襯:Vt	馬鈴薯:N	的:T	原味:N	
+這:DET	道:M	很:ADV	特別:Vi	
+千:DET	層:M	洋芋:N	的:T	口感:N	脆脆:Vi	的:T	
+跟:P	一般:A	的:T	洋芋:N	不:ADV	太:ADV	一樣:Vi	
+是:Vt	可以:ADV	點:Vt	來:ADV	試試看:Vt	松:N	
+豬:N	雪裡紅:N	義大利麵:N	義大利麵:N	其實:ADV	我:N	猶豫:Vt	了:ASP	很:ADV	久:Vi	
+本來:ADV	想:Vt	點:M	奶油:N	干貝:N	義大利麵:N	
+但:C	陳:N	先生:N	說:Vt	他:N	想:Vt	吃:Vt	這:DET	道:M	
+好:Vi	吧:T	
+那:DET	就:ADV	點:Vt	吧:T	
+是:Vt	說:Vt	這:DET	道:M	比較:ADV	特別:Vi	啦:T	XD:FW	
+我:N	還:ADV	真:ADV	是:Vt	第一:DET	次:M	看到:Vt	雪裡紅:N	口味:N	的:T	義大利麵:N	呢:T	
+這:DET	道:M	中西:A	料理:N	是:Vt	座:M	味餐:N	酒:N	的:T	招牌:N	創意:N	料理:N	
+所:ADV	我:N	就:ADV	捨棄:Vt	了:ASP	其他:DET	選項:N	啦:T	
+這:DET	道:M	義大利麵:N	是:Vt	用:P	清:N	炒:Vt	的:T	方式:N	
+沒有:Vt	其他:DET	調味:N	或:C	醬汁:N	
+裡面:N	有:Vt	豬:N	絞肉:N	、:PAUSECATEGORY	雪裡紅:N	、:PAUSECATEGORY	菇類:N	
+第一:DET	口:M	不:ADV	太:ADV	習慣:Vt	
+不過:C	後來:N	蠻:ADV	特別:Vi	的:T	
+菜味:N	頗重:Vi	
+松阪:N	豬:N	還:ADV	蠻:ADV	好吃:Vi	的:T	
+很:ADV	彈:Vt	牙:N	
+整體:N	口味:N	很:ADV	清爽:Vi	
+松阪豬:N	口感:N	不錯:Vi	
+脆脆:Vi	的:T	很:ADV	有:Vt	嚼:Vt	勁:N	
+略:ADV	撒:Vt	些:M	鹽:N	就:ADV	很:ADV	美味:Vi	
+雪裡紅:N	給:Vt	的:T	很:ADV	大方:Vi	
+絞肉:N	很:ADV	彈:Vt	牙:N	
+喜歡:Vt	他們:N	的:T	絞肉:N	大概:ADV	是:Vt	本身:N	不:ADV	太:ADV	喜歡:Vt	這:DET	種:M	清:Vi	炒:Vt	的:T	義大利麵:N	
+一:ADV	開始:Vt	真的:ADV	覺得:Vt	很:ADV	不:ADV	好吃:Vi	
+但:C	喜歡:Vt	清淡:Vi	口味:N	或:C	減肥:Vi	中:POST	的:T	人:N	
+這:DET	還:ADV	挺:ADV	適合:Vi	的:T	
+麵條:N	口感:N	還:ADV	不錯:Vi	
+保有:Vt	一點:DET	硬度:N	
+雖然:C	有:Vt	注意到:Vt	是:Vt	清:N	炒:Vt	
+但:C	看到:Vt	【:PARENTHESISCATEGORY	創意:N	料理:N	】:PARENTHESISCATEGORY	我們:N	還:ADV	是:Vt	腦波:N	很:ADV	弱:Vi	的:T	點:N	下去:Vi	了:ASP	
+然後:ADV	
+我:N	果然:ADV	比較:ADV	喜歡:Vt	吃重:Vi	口味:N	
+濃郁:Vi	奶味:N	的:T	那:DET	種:M	
+哈哈:ADV	
+明:N	太子:N	鮮蝦:N	奶油:N	燉飯:Vt	NT:FW	350:DET	燉飯:Vt	蠻:ADV	好吃:Vi	的:T	
+飯量:N	剛好:ADV	
+燉飯米:Vt	稍微:ADV	偏:ADV	濕潤:Vi	
+不:ADV	是:Vt	我:N	喜歡:Vt	的:T	燉飯:Vt	米:N	
+個:M	人:N	是:Vt	喜歡:Vt	比較:ADV	乾:Vi	硬:Vi	的:T	口感:N	
+但:C	奶油醬:N	真的:ADV	太:ADV	好吃:Vi	
+忍不住:Vt	一口:ADV	接:Vt	一口:ADV	新鮮:Vi	的:T	草蝦:N	加入:Vt	高湯:N	、:PAUSECATEGORY	明:Vi	太子:N	、:PAUSECATEGORY	鮮:Vi	奶油:N	
+米飯:N	吸附:Vt	了:ASP	飽滿:Vi	醬汁:N	
+融合:Vt	了:ASP	鮮蝦:N	與:C	明:Vi	太子:N	的:T	鮮甜:Vi	
+喜歡:Vt	他們:N	的:T	醬汁:N	
+綠茶:N	加蓋:Vt	NT:FW	120:DET	這:DET	個:M	鹹甜:Vi	鹹甜:Vi	的:T	
+在:P	吃完:Vt	這些:DET	重:Vi	口味:N	的:T	食物:N	之後:POST	
+喝上:Vt	一:DET	杯:M	很:ADV	過癮:Vi	
+但:C	特色性:N	不:ADV	高:Vi	
+提拉米蘇:N	NT:FW	160:DET	聽說:Vt	這:DET	個:M	是:Vt	隱藏:Vt	版:N	
+可以:ADV	一:DET	次:M	擁有:Vt	三:DET	種:M	吃法:N	
+想:Vt	訂:Vt	隱藏:Vt	版:N	
+訂位:Vi	時:POST	可以:ADV	先:ADV	跟:P	店家:N	說:Vt	喔:T	
+避免:Vt	當天:N	向隅:Vi	
+跟:P	一般:A	提拉米蘇:N	不:ADV	太:ADV	一樣:Vi	的:T	是:Vt	
+另外:C	附:Vt	了:ASP	穀片:N	與:C	櫻桃:N	
+第一:DET	種:M	吃法:N	：:COLONCATEGORY	原味:N	第二:DET	種:M	吃法:N	：:COLONCATEGORY	搭上:Vt	穀片:N	第三:DET	種:M	吃法:N	：:COLONCATEGORY	配:Vt	櫻桃:N	搭配:Vt	榖片:N	的:T	口感:N	不錯:Vi	呢:T	
+綿密:Vi	的:T	奶油:N	與:C	榖:N	片:N	脆脆:Vi	的:T	口感:N	
+挺:ADV	有趣:Vi	的:T	
+不過:C	櫻桃:N	是:Vt	我:N	不:ADV	喜歡:Vt	的:T	味道:N	
+搭:Vt	起來:ASP	一點:DET	都:ADV	沒:Vt	加分:Nv	作用:N	XD:FW	蛋糕體:N	不:ADV	算:Vt	多:Vi	
+鮮:Vi	奶油:N	甜:Vi	但:C	不會:ADV	太:ADV	膩:Vi	
+上面:N	微:ADV	苦:Vi	的:T	可可粉:N	很:ADV	提:Vt	味:N	
+搭上:Vt	穀片:N	的:T	吃法:N	很:ADV	特別:Vi	
+口感:N	層次:N	豐富:Vt	
+脆脆:Vi	的:T	
+又:ADV	帶:Vt	著:ASP	綿密:Vi	的:T	奶油:N	
+我:N	還:ADV	蠻:ADV	喜歡:Vt	的:T	
+不過:C	櫻桃:N	的:T	味道:N	我:N	就:ADV	不:ADV	是:Vt	很:ADV	愛:Vt	囉:T	
+法芙娜:N	原味:N	巧克力:N	NT:FW	120:DET	這:DET	個:M	就:ADV	很:ADV	棒:Vi	了:T	
+好:ADV	好喝:Vi	
+非常:ADV	純:Vi	的:T	巧克力:N	味道:N	喝:Vt	起來:ASP	很:ADV	濃稠:Vi	
+喜歡:Vt	這:DET	種:M	稠稠:Vi	的:T	口感:N	
+非常:ADV	濃郁:Vi	
+又:ADV	香:Vi	又:ADV	醇:Vi	
+好:ADV	喜歡:Vt	這:DET	種:M	簡單:Vi	又:ADV	有點:ADV	慵懶:Vi	的:T	感覺:N	喔:T	
+還好:ADV	運用:Vt	了:ASP	許多:DET	的:T	溫暖:Nv	色彩:N	
+這:DET	種:M	紅磚:N	水泥:N	不會:ADV	過分:ADV	冰冷:Vi	呀:T	
+這:DET	間:M	之前:POST	看:Vt	網友:N	分享:Vt	就:ADV	一直:ADV	好:Vi	想:Vt	來:Vi	
+終於:ADV	挑:Vt	了:ASP	個:M	周末:N	晚上:N	前來:Vt	用餐:Vi	
+大部分:DET	餐點:N	味道:N	都:ADV	不錯:Vi	
+生意:N	也:ADV	極好:Vi	
+但:C	大概:ADV	是:Vt	期望:Vt	過:ASP	高:Vi	
+跟:P	想像:Vt	有:Vt	段:M	差距:N	
+不如:C	預期:Vt	
+義大利麵:N	讓:Vt	我:N	有點:ADV	難過:Vt	
+但:C	這:DET	是:Vt	我:N	個:M	人:N	問題:N	
+我:N	不:ADV	愛:Vt	清炒:Vt	XD:FW	
+只有:C	這:DET	個:M	跟:P	綠茶:N	加蓋:Vt	比較:ADV	不合:Vi	我:N	胃口:N	啦:T	
+推薦:Vt	指數:N	：:COLONCATEGORY	90:DET	惡魔:N	的:T	羽翼:N	調味:Vi	我:N	很:ADV	喜歡:Vt	
+又:ADV	麻:Vi	又:ADV	辣:Vi	很:ADV	過癮:Vi	
+肉質:N	也:ADV	還:ADV	蠻:ADV	鮮嫩:Vi	多汁:Vi	的:T	
+洋芋:N	千:DET	層:M	很:ADV	特別:Vi	
+跟:P	一般:A	吃:Vt	的:T	到:Vt	的:T	焗:b	烤馬鈴薯:N	不:ADV	太:ADV	一樣:Vi	
+保留:Vt	了:ASP	馬鈴薯:N	的:T	脆度:N	
+不:ADV	是:Vt	軟:Vi	爛:Vi	綿密:Vi	
+但:C	這:DET	一:DET	層:M	一:DET	層:M	的:T	口感:N	很:ADV	有趣:Vi	
+不過:C	主餐:N	部分:DET	
+我:N	個:M	人:N	是:Vt	沒有:Vt	很:ADV	喜歡:Vt	雪裡紅:N	義大利麵:N	
+味道:N	較為:ADV	清淡:Vi	
+雖然:C	麵條:N	本身:N	不錯:Vi	
+是:Vt	我:N	喜歡:Vt	的:T	那:DET	種:M	偏硬:Vi	些:ADV	的:T	口感:N	
+下:DET	次會:N	想:Vt	點:Vt	別的:DET	口味:N	
+明:N	太子:N	奶油:N	感覺:N	應該:ADV	蠻:ADV	好吃:Vi	的:T	XDDD:FW	至於:P	鮮蝦:N	燉:Vt	飯:N	也:ADV	還:ADV	不錯:Vi	
+雖然:C	米粒:N	偏:ADV	濕:Vi	軟:Vi	
+但:C	奶油:N	醬汁:N	非常:ADV	順口:Vi	好吃:Vi	
+招牌:N	甜點:N	是:Vt	提:Vt	拉米蘇:N	
+想:Vt	試試:Vt	不同:Vi	吃法:N	可以:ADV	點:Vt	隱藏:Vt	版:N	
+搭穀片:N	很:ADV	特別:Vi	
+不過:C	下:DET	次:M	再:ADV	來:ADV	
+我:N	應該:ADV	會:ADV	點:Vt	原味:N	就:ADV	好:Vi	XDDD:FW	情人節:N	快:ADV	到:Vt	了:ASP	
+如果:C	還:ADV	沒有:Vt	靈感:N	吃:Vt	什麼:DET	的:T	話:N	
+可以:ADV	考慮:Vt	座味餐酒:N	SitDownPlease:FW	
+服務:Nv	態度:N	佳:Vi	
+氣氛:N	環境:N	很:ADV	棒:Vi	
+餐點:N	味道:N	也:ADV	很:ADV	迷人:Vi	喔:T	
+前提:N	是:Vt	要點:N	對:P	東西:N	啦:T	XD:FW	

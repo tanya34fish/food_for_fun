@@ -1,0 +1,54 @@
+kemnly27(emily:FW	*:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	忠孝:N	新生:N	4:DET	Manocafe:FW	牽絲麻糬:N	鬆餅:N	初:POST	體驗:Vt	
+Fri:FW	
+Aug:FW	
+22:DET	
+02:DET	::COLONCATEGORY	27:DET	::COLONCATEGORY	47:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	4:DET	Manocafe:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	忠孝東路:N	2:DET	段:M	134巷:N	3:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23911356:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	元:M	
+圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	kemnly27.pixnet.net/blog/post:FW	/:FW	142865140:DET	
+身為:Vt	痛苦:Vi	的:T	上班族:N	可以:ADV	在:P	下午:N	享受到:Vt	悠閒:Vi	的:T	下午茶:N	是:Vt	多麼:ADV	幸福:Vi	的:T	事:N	啊:T	
+那:DET	天:M	我們:N	終於:ADV	短暫:Vi	脫離:Vt	地:T	工作:N	的:T	魔爪:N	前往:Vt	":FW	4:DET	manocafe:FW	":FW	嘗:Vt	鮮:Vi	
+這:DET	家:M	4:DET	manocafe:FW	一直:ADV	都:ADV	是:Vt	我:N	想:Vt	去:ADV	吃:Vt	的:T	名單:N	之:T	一:DET	
+因為:C	之前:N	看:Vt	朋友:N	去:ADV	吃:Vt	都:ADV	對:P	牽:Vt	絲:N	的:T	麻糬:N	鬆餅:N	讚不絕口:Vi	
+還:ADV	有:Vt	咖啡:N	大師:N	拉花:N	比賽:N	冠軍:N	的:T	頭銜:N	
+所以:C	這:DET	次:M	就:ADV	決定:Vt	要衝:N	一下:N	了:T	
+我們:N	去:Vt	的:T	這:DET	家:M	是:Vt	在:P	忠孝:N	新生:N	站:Vi	2:DET	號:M	出口:N	旁邊:N	的:T	分店:N	
+現在:N	在:P	松菸:Vi	、:PAUSECATEGORY	晶華:N	酒店:N	樓下:N	也:ADV	都:ADV	有:Vt	囉:T	
+但:C	還是:ADV	人潮:N	不斷:ADV	
+我們:N	一:ADV	到:Vt	就:ADV	發現:Vt	還要:ADV	再:ADV	等:Vt	50:DET	分鐘:M	
+是:Vt	台北市:N	的:T	上班族:N	下午:N	都:ADV	放假:Vi	了:T	嗎:T	
+但:C	為了:P	品嘗:Vt	這:DET	厲害:Vi	的:T	鬆餅:N	我們:N	還是:ADV	乖乖:Vi	等待:Vt	吧:T	
+還好:ADV	等待:Vt	的:T	時間:N	是:Vt	值得:Vi	的:T	
+友人:N	點:Vt	了:ASP	熱:Vt	抹茶:N	拿:Vt	鐵:N	
+抹茶:N	拿:Vt	鐵:N	一來:DET	就:ADV	覺得:Vt	這:DET	拉:Vt	花:N	也:ADV	太:ADV	可愛:Vi	了:T	吧:T	
+真:ADV	不愧:ADV	是:Vt	咖啡:N	大師:N	比賽:N	冠軍:N	
+又:ADV	來:Vi	了:ASP	一:DET	杯:M	
+熱:Vt	榛果:N	拿:Vt	鐵:N	
+我:N	覺得:Vt	榛果:N	拿:Vt	鐵:N	真的:ADV	很:ADV	香:Vi	
+因為:C	榛果:N	的:T	味道:N	凸顯:Vt	了:ASP	整:DET	杯:M	拿:Vt	鐵:N	的:T	香味:N	
+也:ADV	不會:ADV	覺得:Vt	苦澀:Vi	
+拿:Vt	鐵:N	的:T	口感:N	是:Vt	很:ADV	順:Vi	滑:Vi	的:T	
+接著:ADV	我們:N	期待:Vt	的:T	重頭戲:N	來:Vi	了:ASP	
+新鮮:Vi	水果:N	鬆餅:N	
+我:N	把:P	這:DET	張:M	PO:FW	給:Vt	上:DET	次:M	來:Vi	的:T	友人:N	看:Vt	
+還:ADV	說:Vt	::COLONCATEGORY	":FW	為什麼:ADV	你們:N	的:T	水果:N	比較:ADV	多:Vi	":FW	
+哈哈:ADV	哈哈:ADV	
+真的:ADV	就:ADV	像:Vt	照片:N	上:N	的:T	一樣:Vi	滿:DET	
+鬆餅:N	烤:Vt	的:T	外皮:N	很:ADV	脆:Vi	但:C	又:ADV	不失:Vt	鬆軟:Vi	
+重點:N	是:Vt	裡面:N	麻糬牽絲:N	實在:ADV	是:Vt	讓:Vt	我們:N	一直:ADV	發出:Vt	讚嘆聲:N	
+最後:N	上:POST	的:T	是:Vt	
+義式:A	什錦:A	烘:Vt	蛋:N	配:Vt	手工:N	麵包:N	
+蘑菇:N	
+這:DET	盤:M	也:ADV	是:Vt	讓:Vt	我們:N	驚呼:Vt	連連:ADV	
+烘:Vt	蛋:N	整:DET	個:M	非常:ADV	入:Vt	味:N	又:ADV	潤滑:Vt	
+蘑菇:N	整:DET	個:M	充滿:Vt	其中:DET	
+還:ADV	有:Vt	放上:Vt	牽絲:Vt	的:T	起:Vt	司:N	
+我們:N	整:DET	個:M	對:P	4:DET	manocafe:FW	非常:ADV	滿意:Vt	
+一直:ADV	說:Vt	下:DET	次:M	還:ADV	要:ADV	來:ADV	
+果然:ADV	名不虛傳:Vi	阿:N	

@@ -1,0 +1,162 @@
+luvyjh(luvyjh:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	內湖:N	菠啾:N	花園:N	來自:Vt	東京:N	的:T	野菜:N	風潮:N	
+Sat:FW	
+Jul:FW	
+19:DET	
+15:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	54:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	菠啾:N	花園:N	─:FW	PotagerGarden:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	6:DET	
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	陽光街:N	300:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	89786068:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週日:N	。:PERIODCATEGORY	
+午餐:N	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	/:FW	/:FW	下午茶:N	14:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	17:DET	::COLONCATEGORY	00:DET	/:FW	/:FW	晚餐:Vi	18:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	500:DET	-:DASHCATEGORY	600:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+推薦:Vt	菜色:N	：:COLONCATEGORY	孜:b	然:C	野菜:N	咖哩飯:N	(:PARENTHESISCATEGORY	全素:N	):PARENTHESISCATEGORY	，:COMMACATEGORY	羅勒:N	豆乳:N	義大利麵:N	(:PARENTHESISCATEGORY	可:ADV	全素:N	料理:N	):PARENTHESISCATEGORY	，:COMMACATEGORY	紅:Vi	甜椒:N	起:POST	司:Vt	蛋糕:N	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	luvyjh.pixnet.net/blog/post:FW	/:FW	155474916:DET	
+_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	
+去年:N	悄悄:ADV	從:P	東京:N	引進來:Vt	台:N	的:T	菠啾:N	花園:N	
+為:P	世界:N	第一:DET	家:M	野菜:N	甜點:N	專門店:N	
+主打:Nv	自然:N	‧:PERIODCATEGORY	健康:Vi	‧:PERIODCATEGORY	美食:N	
+在:P	充斥:Vi	食安:N	問題:N	的:T	年頭:N	
+完全:ADV	打中:Vt	民眾:N	的:T	內心:N	啊:T	
+所以:C	不:ADV	到:Vt	一:DET	年:M	時間:N	
+菠啾:N	花園:N	在:P	FB:FW	就:ADV	已經:ADV	吸引:Vt	了:ASP	上萬:DET	粉絲:N	
+當:P	我:N	在:P	知名:Vi	團購:Vt	網:N	看到:Vt	有:Vt	優惠:Nv	卷:N	時:POST	
+立馬:N	下:DET	訂單:N	
+p.s:FW	.:PERIODCATEGORY	若是:C	有:Vt	買:Vt	優惠:Nv	卷:N	的:T	朋友:N	
+記得:Vt	要:ADV	先:ADV	定位:Vi	喔:T	
+菠啾:N	的:T	地理:N	位置:N	其實:ADV	不:ADV	算:Vt	在:P	鬧區:N	裡面:N	
+若是:C	從:P	舊:Vi	宗路:N	開車:Vi	來:Vi	的:T	人:N	
+就:ADV	可以:ADV	看到:Vt	有:Vt	一:DET	個:M	大大:Vi	的:T	招牌:N	在:P	跟:P	你:N	招手:Vi	
+當天:N	很:ADV	可惜:Vi	的:T	是:Vt	晚上:N	時段:N	
+所以:C	無法:ADV	拍出:Vt	美美:N	的:T	戶外區:N	.......:ETCCATEGORY	
+但:C	照:P	不:ADV	到:Vt	戶外:N	沒關係:Vi	
+來來來來:N	照:P	室:N	內:N	
+這裡:N	居然:ADV	只:ADV	是:Vt	菠啾:N	的:T	小小:Vi	一:DET	區:N	而已:T	......:ETCCATEGORY	
+真的:ADV	是:Vt	讓:Vt	我:N	大開眼界:Vi	
+沒想到:ADV	台北市:N	還:ADV	有:Vt	空間:N	這麼:ADV	大:Vi	的:T	餐廳:N	
+戶外:N	400:DET	坪:M	+:FW	室:N	內:N	200:DET	坪:M	
+AMAZING:FW	
+這裡:N	真的:ADV	非常:ADV	適合:Vi	爸爸:N	媽媽:N	假日:N	帶:Vt	小朋友:N	來:ADV	消耗:Vt	體力:N	喔:T	
+室:N	內:N	一些:DET	餐桌:N	還:ADV	有:Vt	特別:Vi	精心:Vi	布置:Vt	
+讓:Vt	用餐:Vi	有:Vt	更:ADV	貼近:Vt	大自然:N	的:T	感覺:N	
+除了:P	經營:Vt	餐廳:N	之外:POST	
+菠啾:N	花園:N	其實:ADV	也:ADV	有:Vt	販賣:Vt	許多:DET	小:Vi	東西:N	
+因為:C	和:P	木柵:N	動物園:N	合作:Vi	圓仔:N	蛋糕:N	的:T	關係:N	
+店:N	內:N	有:Vt	販售:Vt	圓仔:N	小:Vi	餅乾:N	＆:FW	圓仔:N	蛋糕:N	
+還:ADV	有:Vt	各:DET	種:M	味道:N	的:T	手工:N	肥皂:N	&:FW	amp:FW	
+酒類:N	
+居然:ADV	連:Vt	食材:N	也:ADV	不:ADV	放過:Vt	
+驚:Vi	
+餐桌:N	上:N	擺放:Vt	在:P	小:Vi	鐵桶:N	裡:N	的:T	刀叉:N	與:C	淡木色:N	菜單:N	
+打:Vt	造出:Vt	自然:N	風尚:N	的:T	用餐:Nv	環境:N	
+另:DET	一:DET	個:M	有趣:Vi	的:T	點:N	是:Vt	
+菠啾:N	是:Vt	直接:Vi	給:Vt	你:N	一:DET	整:DET	罐:M	的:T	礦泉水:N	
+根據:P	菜單:N	上:N	的:T	介紹:N	
+這:DET	瓶:M	是:Vt	野草水:N	
+是:Vt	萃取:Vt	10多:DET	種:M	野生:A	植物:N	水溶性:N	礦物質:N	後:POST	
+再:ADV	與:P	純水:N	混合:Nv	而:C	成:Vt	的:T	...:ETCCATEGORY	
+老實說:ADV	
+我:N	是:Vt	喝:Vt	不:ADV	太:ADV	出:Vt	它:N	的:T	不同:Vi	
+不過:C	上頭:N	是:Vt	寫:Vt	自行:ADV	購買:Vt	要價:Vt	80:DET	元:M	
+餐點:N	部分:DET	
+我們:N	這:DET	次:M	總共:ADV	點:Vt	了:ASP	四:DET	道:M	主餐:N	加:Vt	套餐:N	
+分別:ADV	為:Vt	：:COLONCATEGORY	
+主餐:N	：:COLONCATEGORY	野菜:N	綠:Vi	咖哩飯:N	
+320:DET	元:M	
+、:PAUSECATEGORY	孜:b	然:C	野菜:N	咖哩飯:N	
+全素:N	
+320:DET	元:M	
+、:PAUSECATEGORY	波隆:N	那:DET	醬:N	義大利麵:N	
+360:DET	元:M	
+、:PAUSECATEGORY	羅勒:N	豆乳:N	義大利麵:N	
+360:DET	元:M	
+套餐:N	：:COLONCATEGORY	黃:N	甜椒:N	百香果慕斯:N	、:PAUSECATEGORY	紅:Vi	甜椒:N	起:POST	司:Vt	蛋糕:N	、:PAUSECATEGORY	牛蒡:N	巧克力:N	蛋糕:N	、:PAUSECATEGORY	冷:Vi	/:FW	熱:Vt	水果茶:N	、:PAUSECATEGORY	熱:Vt	薰衣草:Vt	
+茶:N	
+前菜:N	：:COLONCATEGORY	
+番茄:N	素:Vi	肉醬:N	燉:Vt	茄子:N	
+非常:ADV	推薦給:Vt	不:ADV	愛:Vt	吃:Vt	茄子:N	的:T	人:N	
+它:N	將:P	茄子:N	燉:Vt	到:P	非常:ADV	軟:Vi	爛:Vi	
+幾乎:ADV	入口:N	極化:Vt	
+利用:Vt	醬汁:N	凸顯出:Vt	茄子:N	的:T	甜味:N	
+南瓜湯:N	與:C	麵包:N	
+清新:Vi	的:T	南瓜湯:N	
+喝:Vt	起來:ASP	相當:ADV	濃郁:Vi	
+現烤:Vt	的:T	麵包:N	
+帶:Vt	點:M	淡淡:Vi	的:T	麵包:N	香:Vi	
+灑滿:Vt	芝麻:N	的:T	外皮:N	酥脆:Vi	
+讓:Vt	人:N	胃口:N	大開:Vt	
+波隆:N	那:DET	醬:N	義大利麵:N	
+這:DET	是:Vt	道:Vt	沒有:Vt	肉:N	的:T	肉醬:N	義大利麵:N	
+集:Vt	洋蔥:N	、:PAUSECATEGORY	蒜香:N	、:PAUSECATEGORY	日本:N	大豆:N	素:Vi	肉:N	末:POST	於:P	一:DET	身:N	
+再:ADV	和:P	濃縮:Nv	紅酒:N	熬煮:Vt	而:C	成:Vt	的:T	醬汁:N	
+吃起來:ADV	並:ADV	沒有:Vt	":FW	素:Vi	肉味:N	":FW	
+甚至:ADV	跟:P	平時:N	吃到:Vt	的:T	肉醬:N	超:Vt	像:P	
+平時:N	就:ADV	吃素:Vi	的:T	爸爸:N	
+也:ADV	讚不絕口:Vi	喔:T	
+孜:b	然:C	野菜:N	咖哩飯:N	
+全素:N	
+利用:Vt	有機:A	的:T	芥花籽油炒:Vt	香:Vi	的:T	孜:b	然:C	子:N	、:PAUSECATEGORY	薑:N	與:C	高麗菜:N	
+取代:Vt	了:ASP	全素:N	者:N	忌諱:N	的:T	蔥蒜:N	
+同時:N	搭配:Vt	大量:DET	的:T	野菜:N	和:C	白:Vi	芝麻醬:N	
+本人:N	超:Vt	愛:Vt	這:DET	道:M	的:T	
+今天:N	第一:DET	名:M	
+因為:C	它:N	完完全全:ADV	就:ADV	是:Vt	道地:Vi	印度:N	咖哩味:N	啊:T	
+濃厚:Vi	的:T	香料味:N	咖哩:N	醬汁:N	
+配上:Vt	香噴噴:Vi	的:T	紫:Vi	米飯:N	
+味蕾:N	全開:Vi	
+是:Vt	重:Vi	口味:N	的:T	人:N	不可:ADV	錯過:Vt	的:T	一:DET	道:M	
+野菜:N	綠:Vi	咖哩飯:N	
+同樣:Vi	以:C	有:Vt	機械:N	花籽油:N	炒:Vt	香草:N	香料:N	、:PAUSECATEGORY	南薑:N	、:PAUSECATEGORY	荳蔻粉:N	等:POST	食材:N	
+搭配:Vt	馬鈴薯:N	、:PAUSECATEGORY	筍子:N	熬:Vt	煮:Vt	3:DET	小時:N	而:C	成:Vt	
+帶有:Vt	濃濃:Vi	泰式:A	風格:N	的:T	椰奶:N	和:C	香茅:Vi	的:T	清:Vi	香味:N	
+搭配:Vt	紫:Vi	米飯:N	嚐起來:ADV	微:ADV	辣:Vi	
+羅勒:N	豆乳:N	義大利麵:N	
+金黃色:N	的:T	麵條:N	布滿:Vt	了:ASP	日本舞:N	菇:N	、:PAUSECATEGORY	金針菇:N	、:PAUSECATEGORY	鴻喜菇:N	、:PAUSECATEGORY	蘑菇:N	、:PAUSECATEGORY	杏鮑菇:N	等:POST	菇類:N	
+再:ADV	配上:Vt	由:P	黃豆:N	和:C	豆漿:N	混合:Vt	的:T	特殊:Vi	羅勒醬:N	
+只:ADV	是:Vt	這:DET	香菇:N	是:Vt	用:P	炒:Vt	的:T	
+個:M	人:N	認為:Vt	有:Vt	種:M	台式:A	的:T	口味:N	
+滿:ADV	特別:Vi	的:T	
+也:ADV	推薦:Vt	大家:N	可以:ADV	嚐:Vt	看看:ASP	
+紅:Vi	甜椒:N	起:POST	司:Vt	蛋糕:N	
+來自:Vt	澳洲:N	奶油:N	乳酪:N	與:C	紅椒:N	搭配:Vt	而:C	成:Vt	的:T	製成:Vt	的:T	蛋糕:N	
+嚐起來:ADV	有:Vt	濃郁:Vi	起司:N	香味:N	
+有:Vt	股:M	特殊:Vi	的:T	蔬菜:N	感:Vt	
+口味:N	好壞:N	就:ADV	見仁見智:Vi	了:T	
+男友:N	是:Vt	覺得:Vt	味道:N	很:ADV	詭異:Vi	@:FW	@:FW	
+但:C	我:N	就:ADV	覺得:Vt	還:ADV	不錯:Vi	
+牛蒡:N	巧克力:N	蛋糕:N	
+採用:Vt	來自:Vt	法國:N	的:T	米歇:N	爾:T	‧:PERIODCATEGORY	柯茲:N	巧克力:N	
+再:ADV	混入:Vt	的:T	牛蒡:N	顆粒:N	
+吃起來:ADV	有:Vt	布朗尼:N	的:T	口感:N	喔:T	
+good:FW	
+p.s:FW	吃:Vt	牛蒡:N	的:T	10:DET	大:Vi	好處:N	：:COLONCATEGORY	排便:Vi	順暢:Vi	、:PAUSECATEGORY	增加:Vt	飽足:Vi	感助減重:N	、:PAUSECATEGORY	保:Vt	肝:N	、:PAUSECATEGORY	降:Vt	血糖:N	/:FW	血脂:N	
+穩定:Vt	情緒:N	、:PAUSECATEGORY	降低:Vt	心血管:N	疾病:N	風險:N	、:PAUSECATEGORY	降:Vt	膽固醇:N	、:PAUSECATEGORY	抗:Vt	發炎:Vi	、:PAUSECATEGORY	抗:Vt	氧化:Nv	、:PAUSECATEGORY	防:Vt	癌:N	
+by:FW	康健:Vi	雜誌:N	
+黃:N	甜椒:N	百香果慕:Vt	斯:DET	
+如果:C	是:Vt	喜歡:Vt	奶酪類:N	的:T	人:N	
+非常:ADV	推薦:Vt	這:DET	道:M	喔:T	
+由:P	黃:N	甜椒:N	、:PAUSECATEGORY	百香果幕斯:N	和:C	海綿:N	蛋糕:N	堆疊:Vt	而:C	成:Vt	
+一:ADV	放進:Vt	口:N	中:POST	瞬間:N	化開:Vt	
+還:ADV	有:Vt	淡淡:Vi	的:T	百香果:N	的:T	酸:Vi	甜味:N	
+飲品:N	部分:DET	則:ADV	是:Vt	冷:Vi	/:FW	熱:Vt	水果:N	茶:N	與:C	熱:Vt	薰衣草:Vt	茶:N	
+大推冰:N	的:T	水果茶:N	
+有:Vt	奇異果:N	、:PAUSECATEGORY	番茄:N	、:PAUSECATEGORY	鳳梨:N	等:POST	新鮮:Vi	水果:N	
+番茄:N	與:C	鳳梨味:N	有點:ADV	重:Vi	
+不:ADV	是:Vt	噁心:Vi	的:T	那:DET	種:M	
+但:C	完全:ADV	不:ADV	違和:Vi	
+我:N	超:Vt	喜歡:Vt	
+哈:ADV	哈哈:ADV	
+整體:N	來:ADV	說:Vt	
+菠啾:N	花園:N	是:Vt	一:DET	個:M	
+好吃:Vi	、:PAUSECATEGORY	好玩:Vi	、:PAUSECATEGORY	又:ADV	健康:Vi	的:T	地方:N	
+空間:N	大:Vi	到:P	可以:ADV	讓:Vt	屁孩:N	奔跑:Vi	、:PAUSECATEGORY	文青:N	拍照:Vi	、:PAUSECATEGORY	情侶:N	談情說愛:Vi	
+老少咸宜:Vi	的:T	意思:N	
+更:ADV	推薦給:Vt	想要:Vt	健康:Vi	吃:Vt	的:T	大家:N	試:Vt	看看:Vt	喔:T	
+唯一:A	唯一:A	的:T	缺點:N	
+就是:C	餐點:N	屬於:Vt	中高:A	價位:N	...:ETCCATEGORY	
+但:C	看:Vt	在:P	食材:N	挑選:Vt	用心:Vi	、:PAUSECATEGORY	健康:Nv	和:C	創意:N	上:N	
+有:Vt	機會:N	還是:ADV	會:ADV	再:ADV	來:Vi	的:T	
+只:ADV	是:Vt	頻率:N	可能:ADV	就:ADV	不會:ADV	太:ADV	高:Vi	囉:T	

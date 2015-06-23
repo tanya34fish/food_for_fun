@@ -1,0 +1,53 @@
+likelihood:FW	(:PARENTHESISCATEGORY	我:N	是:Vt	北投人:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	北投:N	卡賀:N	廚房:N	(:PARENTHESISCATEGORY	推燒醬鴨:N	胸:N	起:POST	司:Vt	):PARENTHESISCATEGORY	
+Thu:FW	
+Jul:FW	
+24:DET	
+09:DET	::COLONCATEGORY	02:DET	::COLONCATEGORY	52:DET	
+2014:DET	
+店家:N	名稱:N	：:COLONCATEGORY	卡賀:N	廚房:N	
+地址:N	：:COLONCATEGORY	台北市:N	北投區:N	義理街:N	17:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	28218877:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	平:Vt	06:DET	::COLONCATEGORY	30:DET	/:FW	假:P	07:DET	::COLONCATEGORY	00:DET	至:C	14:DET	::COLONCATEGORY	00:DET	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	03月:N	
+本:DET	次:M	平均:Vi	消費:N	：:COLONCATEGORY	130:DET	元:M	(:PARENTHESISCATEGORY	390:DET	元:M	/:FW	3:DET	人:N	):PARENTHESISCATEGORY	
+推薦:Vt	菜色:N	：:COLONCATEGORY	夏威夷:N	牛肉堡:N	、:PAUSECATEGORY	高大:Vi	鮮奶:N	、:PAUSECATEGORY	燒醬鴨胸吉士:N	
+捷運:N	鐵路:N	：:COLONCATEGORY	捷運:N	石牌:N	站:Vi	(:PARENTHESISCATEGORY	1:DET	號:M	出口:Nv	，:COMMACATEGORY	步行:Vi	約:ADV	3:DET	分:M	):PARENTHESISCATEGORY	
+公車站:N	：:COLONCATEGORY	捷運:N	石牌:N	站:Vi	
+汽車:N	停車:Vi	：:COLONCATEGORY	無:Vt	
+機車:N	停車:Vi	：:COLONCATEGORY	路邊:N	
+圖文:N	版本:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	babbitwang.pixnet.net/blog/post:FW	/:FW	105790187:DET	
+2014:DET	北投:N	早:Vi	午餐:N	
+卡賀:N	廚房:N	
+到:Vt	了:ASP	假日:N	
+就:ADV	想:Vt	跟:P	白芷:N	公主:N	找:Vt	個:M	有:Vt	氣氛:N	有:Vt	Fu:FW	的:T	地方:N	輕鬆:Vi	的:T	吃:Vt	頓:M	早餐:N	
+北投:N	的:T	西式:A	早:Vi	午餐餐:N	
+廳:N	靠近:Vt	石牌:N	密度:N	比較:ADV	高:Vi	
+這:DET	次選:A	了:T	卡賀:N	廚房:N	是:Vt	因為:C	這邊:N	有:Vt	鼎鼎有名:Vi	的:T	高大:Vi	鮮奶:N	
+店:N	內:N	的:T	環:N	
+境:N	乾淨:Vi	明亮:Vi	
+很:ADV	適合:Vi	吃飯:Vi	聊天:Vi	
+餐點:N	價格:N	偏:ADV	高:Vi	
+但是:C	食:Vt	材:N	用料:N	不錯:Vi	是:Vt	有:Vt	到:P	那:DET	種:M	品質:N	
+不過:C	
+呢:T	
+幸福:Vi	的:T	時間:N	是:Vt	無價:Vi	的:T	
+偶爾:ADV	吃:Vt	
+稍微:ADV	貴:Vi	一點:ADV	也:ADV	OK:FW	的:T	啦:T	
+燒醬鴨胸吉士:N	70:DET	元:M	+:FW	B:FW	套餐:N	
+薯條:N	/:FW	飲料:N	
+50:DET	元:M	+:FW	鮮奶:N	茶補:N	差額:N	25:DET	元:M	
+這邊:N	的:T	消費:N	方式:N	一樣:Vi	也:ADV	是:Vt	單:A	點:N	或是:C	搭配:Nv	套餐:N	
+我:N	點:Vt	了:ASP	主餐:N	配:Vt	B:FW	套餐:N	
+不過:C	飲料:N	限定:Vt	20:DET	元:M	內:POST	
+我:N	選:Vt	了:ASP	鮮奶:N	茶:N	所以:C	又:ADV	要:ADV	加:Vt	差額:N	25:DET	元:M	
+所以:C	我:N	這:DET	套餐:N	吃下來:Vi	要:ADV	145:DET	元:M	
+以:P	我:N	吃:Vt	早餐:N	的:T	水準:N	
+這樣:Vi	的:T	價格:N	算:Vt	偏:Vt	高:Vi	
+雖然:C	價格:N	不:ADV	便宜:Vi	
+但是:C	我:N	點:Vt	的:T	燒醬鴨胸吉士:N	真的:ADV	超:Vt	好吃:Vi	
+酥脆:Vi	的:T	吐司:N	
+皮:N	
+內:N	夾:Vt	了:ASP	濃郁:Vi	的:T	起:Vt	司:N	以及:C	味道:N	比較:ADV	鹹:Vi	的:T	鴨肉:N	
+每:ADV	一口:ADV	從:P	舌頭:N	上:POST	都:ADV	吃:Vt	得:T	出:Vt	美味:Vi	的:T	感覺:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	pic.pimg.tw/babbitwang/1404817104-1416020018_n.jpg:FW	

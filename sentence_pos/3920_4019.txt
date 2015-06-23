@@ -1,0 +1,54 @@
+jclover:FW	(:PARENTHESISCATEGORY	幸運草:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	民生:N	社區:N	民生:N	工寓:N	
+Tue:FW	
+Jan:FW	
+6:DET	
+22:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	34:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	民生:N	工寓:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	01月:N	
+地址:N	：:COLONCATEGORY	105:DET	台北市:N	松山區:N	民生東路:N	四段:N	56巷:N	1弄:N	3:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	87121220:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	
+精美:Vi	圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/wSwD:FW	
+這:DET	一:DET	間:M	在:P	民生:N	社區:N	很:ADV	有名:Vi	了:T	
+最近:N	這:DET	附近:N	出現:Vi	很多:DET	工業:N	風:N	咖啡廳:N	
+工業:N	風:N	帶有:Vt	頹廢:Vi	但:C	又:ADV	讓:Vt	人:N	感到:Vt	舒適:Vi	
+可能:ADV	自己:N	本身:N	也:ADV	很:ADV	":FW	懶:Vi	":FW	漫:Vi	又:ADV	懷舊:Vi	
+不得不:ADV	推:Vt	一下:N	最近:N	的:T	多:Vi	啦:T	A:FW	夢:N	Standbyme:FW	超:Vt	好看:Vi	
+裝潢:N	擺:Vt	了:ASP	不同:Vi	的:T	書籍:N	及:C	啤酒:N	
+飲料:N	製作:Vt	台:N	前:N	的:T	小:Vi	吧檯:N	一直:ADV	有:Vt	陣陣:DET	咖啡:N	和:C	甜點:N	香:Vi	飄來:Vi	這裡:N	是:Vt	一:DET	人:N	霸占:Vt	的:T	好:Vi	空間:N	
+悠閒:Vi	的:T	聽:Vt	著:ASP	咖啡機:N	烹煮:Vt	的:T	聲音:N	濃郁:Vi	的:T	甜甜:Vi	的:T	香味:N	
+開心:Vi	了:ASP	我:N	
+不過:C	今天:N	是:Vt	和:P	朋友:N	來:ADV	
+好險:Vi	後來:N	後面:N	有:Vt	座位:N	不然:C	這樣:Vi	也:ADV	滿:ADV	難:Vi	聊天:Vi	
+搭上:Vt	剛好:ADV	有:Vt	外國人:N	
+這裡:N	很:ADV	像:Vt	外國:N	的:T	咖啡館:N	欸:T	沒有:T	啦:T	只是:ADV	因為:C	他:N	講:Vt	了:ASP	英文:N	::COLONCATEGORY	P:FW	
+水瓶:N	是:Vt	以:P	玻璃瓶:N	替代:Nv	有:Vt	在:P	小:Vi	酒館:N	的:T	FU:FW	玻璃:N	反射:Nv	的:T	光影:N	很:ADV	美:Vi	
+menu:FW	使用:Vt	類似:Vt	牛皮紙:N	
+感覺:N	像:Vt	在:P	寫:Vt	草稿:N	般:POST	的:T	沒有:Vt	壓迫感:N	
+朋友點:N	的:T	只:ADV	吃:Vt	了:ASP	一:DET	小:Vi	口:N	但:C	這:DET	一:DET	小:Vi	口:N	讓:Vt	我:N	想到:Vt	詩特莉:N	滿:ADV	有:Vt	味道:N	
+全名:N	忘:Vt	了:ASP	就:ADV	是:Vt	巧克力:N	花生醬:N	咖啡:N	一:ADV	開始:Vt	喝:Vt	上面:N	那:DET	層:M	沒有:ADV	攪拌:Vt	
+所以:C	就是:C	純:Vi	拿:Vt	鐵:N	咖啡味:N	
+沒:Vt	什麼:DET	感覺:N	攪拌:Vt	後:POST	
+有:Vt	花生:N	顆粒:N	一同:ADV	入口:Vi	
+原本:ADV	以為:Vt	會:ADV	很:ADV	甜:Vi	
+但:C	其實:ADV	就:ADV	是:Vt	淡淡:Vi	的:T	花生:N	巧克力味:N	反而:C	不:ADV	明顯:Vi	
+其實:ADV	我:N	覺得:Vt	這:DET	道:M	就:ADV	是:Vt	一:DET	個:M	噱頭:N	這裡:N	賣給:Vt	我:N	氣氛:N	而:C	不:ADV	是:Vt	味蕾:N	
+拿:Vt	鐵:N	目前:N	還是:C	旅沫豆行:N	得:T	我:N	心:N	
+朋友點:N	的:T	巧克力:N	
+肚子:N	餓:Vi	所以:C	點:Vt	了:ASP	一:DET	個:M	SCONE:FW	這樣:Vi	兩:DET	個:M	$:FW	80:DET	覺得:Vt	ok:FW	
+SCONE:FW	不:ADV	乾:Vi	
+外面:N	看起來:ADV	乾:Vi	
+但:C	內:N	餡:N	是:Vt	帶有:Vt	濕氣:N	尤其:ADV	加入:Vt	":FW	覆盆子:N	":FW	果醬:N	加入:Vt	後:POST	
+超:Vt	
+好:Vi	
+吃:Vt	
+後來:N	直接:Vi	單:ADV	吃:Vt	果醬:N	果醬:N	甜味:N	中:POST	帶有:Vt	莓果:N	的:T	酸味:N	很:ADV	相配:Vi	
+配上:Vt	SCONE:FW	100:DET	分:M	另外:ADV	的:T	檸檬:N	奶油:N	香:N	較之:P	下:N	就:ADV	沒:ADV	那麼:ADV	出色:Vi	
+但:C	一樣:Vi	很:ADV	滑:Vi	很:ADV	順口:Vi	
+單:ADV	吃:Vt	可以:ADV	搭配:Vt	也好:T	它們:N	融合:Vt	在一起:Vi	好:Vi	美好:Vi	好吃:Vi	
+結帳:Vi	螺絲:N	小:Vi	物:N	很:ADV	可愛:Vi	
+我:N	同學:N	是:Vt	個:M	白癡:N	還:ADV	要:ADV	把:P	它:N	帶上:Vt	無名指:N	哈哈:ADV	
+這裡:N	我:N	定義為:Vt	無聊:Vi	聊天:Vi	場所:N	或是:C	看:Vt	書打:N	報告:N	的:T	好:Vi	去處:N	

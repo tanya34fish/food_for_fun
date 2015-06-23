@@ -1,0 +1,220 @@
+crystalwhite(crystalwhite:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義:N	厲:Vi	家:N	菜:N	宮廷:N	御膳:N	料理:N	(:PARENTHESISCATEGORY	Bellavita:FW	):PARENTHESISCATEGORY	
+Tue:FW	
+Feb:FW	
+17:DET	
+00:DET	::COLONCATEGORY	21:DET	::COLONCATEGORY	24:DET	
+2015:DET	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	lovecc6.pixnet.net/blog/post:FW	/:FW	409994569:DET	
+消費:N	時間:N	：:COLONCATEGORY	2015:DET	/:FW	1:DET	號稱:Vt	歷時:Vt	兩:DET	年:M	裝潢:N	來自:Vt	北京:N	的:T	厲:Vi	家:N	菜:N	
+於:P	去年:N	八月:N	在:P	Bellavita:FW	貴婦:N	百貨:N	開幕:Vi	了:T	
+清朝:N	內務府:N	大臣:N	厲:Vi	子嘉:N	深受:P	慈禧:N	太后:N	愛戴:Nv	
+因:C	處理:Vt	御繕房:N	宮廷:N	料理:N	而:C	在:P	晚年:N	整理出:Vt	一:DET	本:M	菜譜:N	
+所謂:Vt	的:T	宮廷:N	御膳:N	
+求:Vt	的:T	是:Vt	選:Vt	料:N	精:Vi	、:PAUSECATEGORY	做:Vt	工細:Vi	
+最初:N	的:T	厲:Vi	家:N	菜:N	發源:Vi	於:P	北京:N	羊房:N	胡同:N	11:DET	號:M	
+沒有:Vt	任何:DET	招牌:N	
+每:DET	天:M	只:ADV	接待:Vt	一:DET	組:M	客人:N	
+後代:N	子孫:N	厲善麟:N	於:P	1985年:N	在:P	北京:N	開設:Vt	第一:DET	間:M	餐廳:N	
+之後:N	又:ADV	在:P	墨爾本:N	、:PAUSECATEGORY	上海:N	、:PAUSECATEGORY	天津:N	、:PAUSECATEGORY	東京:N	...:ETCCATEGORY	等:POST	開設:Vt	分店:N	
+東京:N	的:T	厲:Vi	家:N	菜:N	更:ADV	曾:ADV	獲得:Vt	米其林:N	二:DET	星:N	的:T	肯定:Nv	
+並:C	於:P	2014年:N	榮獲:Vt	
+亞洲:N	50:DET	最佳:A	餐廳:N	
+目前:N	分店:N	皆:ADV	為:Vt	中菜:N	西:N	吃:Vt	
+一:DET	人:N	一:DET	套餐:N	的:T	方式:N	呈現:Vt	
+厲:Vi	家:N	菜:N	剛:ADV	開幕:Vi	時:POST	
+我:N	曾:ADV	打去:Vi	訂位:Vi	
+但:C	後來:N	又:ADV	取消:Vt	了:ASP	
+原因:N	是:Vt	有:Vt	位:M	我:N	個:M	人:N	認為:Vt	文章:N	頗:ADV	具:Vt	參考:N	價值:N	且:C	無:Vt	任何:DET	商業:N	合作:Vi	的:T	部落客:N	
+對:P	這:DET	間:M	評價:N	相當:ADV	差:Vi	
+差:Vi	到:P	讓:Vt	我:N	即刻:ADV	怯步:Vi	
+但:C	最近:N	又:ADV	抱持:Vt	一:DET	種:M	是:Vt	地雷:N	也:ADV	就:ADV	認了:Vi	的:T	心情:N	
+重拾:Vt	電話:N	訂位:Vi	
+時間:N	來到:Vt	兩:DET	週:M	後:POST	
+餐廳:N	招牌:N	厲:Vi	家:N	菜:N	三:DET	個:M	字:N	
+題字:N	者:N	為:P	末代:N	皇帝:N	溥儀:N	的:T	弟弟:N	溥杰:N	
+上樓:Vi	才:ADV	是:Vt	真正:A	的:T	用餐區:N	
+深具:Vt	中國風:N	的:T	裝潢:N	
+以:P	灰黑:N	為:P	底:N	的:T	地磚:N	、:PAUSECATEGORY	屏風:N	、:PAUSECATEGORY	木櫃:N	和:C	涼亭:N	
+輔以:Vt	鮮豔:Vi	的:T	大紅:A	椅墊:N	
+古典:Vi	中:POST	融合:Vt	現代感:N	
+挑高:Vi	的:T	天花板:N	、:PAUSECATEGORY	桌:N	與:C	桌:N	間:POST	寬敞:Vi	的:T	距離:N	
+整體:N	感受:N	挺:ADV	舒適:Vi	的:T	
+茶資:N	每:DET	人:N	$:FW	90:DET	
+有有:Vi	阿里山:N	金萱:N	、:PAUSECATEGORY	阿里山:N	四:DET	季:N	春:N	、:PAUSECATEGORY	山林溪:N	深:Vi	培:Vi	烏龍:N	、:PAUSECATEGORY	木柵:N	鐵觀音:N	、:PAUSECATEGORY	雲南:N	普洱:N	熟茶:N	、:PAUSECATEGORY	雲南:N	邦威:N	普洱:N	生茶:N	
+想:Vt	佐紅:N	/:FW	白酒:N	、:PAUSECATEGORY	香檳:N	
+也:ADV	是:Vt	有的:DET	喔:T	
+套餐:N	包含:Vt	首碟:N	、:PAUSECATEGORY	熱:Vt	菜:N	、:PAUSECATEGORY	主食:N	、:PAUSECATEGORY	湯品:N	和:C	甜點:N	
+每:DET	道:M	份量:N	都:ADV	很:ADV	精緻:Vi	
+使:Vt	人:N	能:ADV	一:DET	次:M	品嘗:Vt	多樣:Vi	料理:N	
+商業:N	午餐:N	為:Vt	$:FW	980:DET	
+僅:ADV	於:P	平日:N	週一:N	至:P	週五:N	供應:Vt	
+菜單:N	如下:Vt	
+其餘:DET	套餐:N	從:P	$:FW	1:DET	
+580:DET	至:C	$:FW	8:DET	
+880:DET	皆:ADV	有:Vt	
+主要:A	差別:N	在:P	熱菜:N	
+最:ADV	便宜:Vi	的:T	套餐:N	有:Vt	干貝:N	、:PAUSECATEGORY	大蝦:N	
+往:P	上選:A	變成:Vt	刺參:N	、:PAUSECATEGORY	龍蝦:N	
+再:ADV	往:P	上:N	變成:Vt	魚翅:N	
+封頂:N	則:ADV	有:Vt	牡丹:N	蝦:N	、:PAUSECATEGORY	魚翅:N	、:PAUSECATEGORY	鮑魚:N	、:PAUSECATEGORY	花膠:N	
+簡單:Vi	來:ADV	說:Vt	就:ADV	是:Vt	價格:N	越:ADV	貴:Vi	食材:N	越:ADV	高檔:N	
+端看:Vt	個:M	人:N	喜好:Vt	了:ASP	
+我們:N	都:ADV	選:Vt	了:ASP	SetA:FW	
+從:P	商業:N	午餐:N	以外:POST	最:ADV	便宜:Vi	的:T	試:N	水溫:N	
+第一:DET	次:M	來:ADV	點:Vt	太:ADV	貴:Vi	
+萬一:C	不:ADV	好吃:Vi	會:ADV	想:Vt	罵:Vt	髒話:N	
+菜單:N	如下:Vt	
+【:PARENTHESISCATEGORY	蜜:N	核桃:N	酥:Vi	】:PARENTHESISCATEGORY	餐:N	前:POST	送上:Vt	蜜:N	核桃:N	酥:Vi	
+裹:Vt	著:ASP	糖衣:N	的:T	核桃:N	香酥:N	好:Vi	咬:Vt	不:ADV	黏:Vt	牙:N	
+【:PARENTHESISCATEGORY	阿里山:N	金萱茶:N	】:PARENTHESISCATEGORY	我們:N	都:ADV	選:Vt	了:ASP	回甘性:N	強:Vi	、:PAUSECATEGORY	口感:N	清潤:Vi	的:T	阿里山:N	金萱茶:N	
+茶杯:N	為:P	中國:N	景德鎮:N	純:Vi	手工:N	訂製:Vt	的:T	骨瓷:N	
+由:P	巡場:N	人員:N	不:ADV	定時:Vi	直接:Vi	倒:Vt	熱水:N	入:Vt	杯回:N	沖:Vt	
+說真的:ADV	
+杯子:N	這麼:ADV	小巧:Vi	
+主動:Vi	加:Vt	水:N	的:T	頻率:N	太:ADV	低:Vi	
+滾燙:Vi	的:T	熱水:N	也:ADV	總:ADV	要:ADV	放:Vt	上好:A	一會兒:N	才:ADV	能:ADV	入口:N	
+整:DET	餐:M	吃下來:Vi	喝:Vt	沒:Vt	多少:DET	茶:N	
+且:C	茶葉:N	就:ADV	這麼:ADV	一:DET	杯:M	
+就算:C	最後:N	沖淡:Vt	了:ASP	
+也:ADV	不會:ADV	換上:Vt	新:Vi	茶葉:N	
+能:ADV	想像:Vt	離開:Vt	後:POST	我:N	直:ADV	奔:Vi	車:N	上:N	灌:Vt	完:Vt	一:DET	瓶:M	水:N	的:T	模樣:N	嗎:T	
+其實:ADV	它們:N	只是:ADV	想:Vt	逼:Vt	人:N	買:Vt	很:ADV	貴:Vi	的:T	FIJI:FW	冰:N	礦泉水:N	來:ADV	喝:Vt	吧:T	
+首碟:N	共有:Vt	十:DET	道:M	菜:N	
+分成:Vt	三:DET	道:M	→:FW	三:DET	道:M	→:FW	四:DET	道:M	上:POST	齊:Vi	
+【:PARENTHESISCATEGORY	北京:N	燻肉:N	、:PAUSECATEGORY	翡翠:N	豆腐:N	、:PAUSECATEGORY	涼拌:Nv	火鴨絲:N	】:PARENTHESISCATEGORY	
+由:P	右:N	而:C	左:N	
+北京:N	燻肉:N	的:T	形式:N	類似:Vt	蜜汁:N	火腿:N	
+以:P	豬:N	五:DET	花:N	搭配:Vt	素:ADV	方:ADV	
+這兒:N	的:T	五花肉:N	是:Vt	燻:Vt	的:T	
+肥肉:N	比例:N	高:Vi	
+咬下:Vt	後:POST	脂肪:N	便:ADV	化:Vt	入口:N	中:N	
+不過:C	只有:ADV	小小:Vi	一:DET	片:M	
+還:ADV	來不及:ADV	細細:Vi	品嚐:Vt	就:ADV	吃完:Vt	了:ASP	
+翡翠:N	豆腐:N	是:Vt	將:P	毛豆:N	和:C	干貝:N	打成:Vt	泥:N	煮成:Vt	糊狀:N	
+一定:ADV	要:ADV	淋上:Vt	旁邊:N	小:Vi	湯池:N	內:N	的:T	辣油:N	攪和:Vt	著:ASP	吃:Vt	
+綿密:Vi	中:POST	帶有:Vt	干貝:N	的:T	鮮:Vi	
+毛豆:N	的:T	甜:Vi	
+還:ADV	有:Vt	辣:Vi	油:N	的:T	香:N	
+是:Vt	這:DET	天:M	令:Vt	人:N	驚豔:Vi	的:T	菜色:N	之:T	一:DET	
+涼拌:Vt	火鴨絲:N	是:Vt	將:P	鴨:N	肉絲:N	與:C	高麗菜:N	絲:N	涼拌:Nv	
+相當:ADV	開胃:Vi	
+【:PARENTHESISCATEGORY	炸:Vt	春捲:N	、:PAUSECATEGORY	羅漢:N	齋:N	、:PAUSECATEGORY	椒麻雞:N	】:PARENTHESISCATEGORY	
+由:P	左:N	而:C	右:N	
+炸:Vt	春捲:N	普通:Vi	了:ASP	些:ADV	
+就是:C	條:M	超:Vt	迷你:Vi	的:T	炸:Nv	春捲:N	
+羅漢:N	齋:N	用:P	白話:Vi	來:ADV	說:Vt	
+即:ADV	是:Vt	香菇:N	炒:Vt	豆皮:N	
+再:ADV	加上:Vt	少許:DET	的:T	黑:Vi	木耳:N	和:C	蓮藕:N	丁:N	
+這:DET	道:M	完全:ADV	不:ADV	是:Vt	我:N	的:T	菜:N	
+有:Vt	踏進:Vt	素食:N	自助餐店:N	的:T	錯覺:N	
+椒麻雞:N	是:Vt	屬於:Vt	中式:A	非泰式:A	的:T	椒麻雞:N	
+將:ADV	清燙:Vi	後:POST	帶:Vt	皮:N	的:T	軟:Vi	嫩:Vi	雞胸:N	肉片:N	成:Vt	小方:N	塊狀:N	
+放涼:Vi	後:POST	淋:Vt	上:POST	另外:ADV	調味:Vi	的:T	椒:b	麻醬:N	
+花椒味:N	濃:Vi	
+【:PARENTHESISCATEGORY	糖醋:N	排骨:N	、:PAUSECATEGORY	麻辣:A	牛肉:N	、:PAUSECATEGORY	炒咸食:Vt	、:PAUSECATEGORY	青蛤:N	丸子:N	】:PARENTHESISCATEGORY	
+由:P	左:N	至:P	右:N	
+由:P	上:N	而:C	下:DET	
+糖醋:N	排骨:N	看起來:ADV	素素白白:Vi	的:T	
+彷彿:ADV	一點:DET	都:ADV	不:ADV	入:Vt	味:N	
+但:C	實際:Vi	上:POST	卻:ADV	是:Vt	滿滿:Vi	的:T	甜:Vi	中:POST	帶:Vt	點:M	清爽:Vi	的:T	酸味:N	
+且:C	一:DET	入口:N	便:ADV	自動:Vi	骨肉:N	分離:Vt	
+肉質:N	非常:ADV	細緻:Vi	軟嫩:Vi	
+是:Vt	這:DET	天:M	令:Vt	人:N	驚豔:Vi	的:T	功夫菜:N	之:T	二:DET	
+麻辣:A	牛肉:N	是:Vt	裹粉:N	串:Vt	炸:Vt	的:T	牛:N	肉丸子:N	
+表皮:N	炸:Vt	得:T	香酥:N	
+可惜:Vi	內裡:N	牛肉:N	略:ADV	乾:Vi	硬:Vi	
+微微:A	的:T	香麻:N	充滿:Vt	孜:b	然:C	與:P	花椒:N	香:Vi	
+炒咸:N	食:Vt	為:P	蘿蔔:N	絲:N	灑上:Vt	白:Vi	芝麻:N	的:T	涼菜:N	
+沒:Vt	什麼:DET	亮點:N	可:ADV	言:Vt	
+青蛤:N	丸子:N	以:P	精緻:Vi	的:T	雕花:N	瓷:N	碗:N	盛裝:Vi	
+開蓋:Vt	後:POST	有:Vt	顆:M	將:P	蛤蠣:N	包裹:N	豬:N	絞肉蒸成:Vt	的:T	肉丸子:N	
+肉丸:N	倒:ADV	還:ADV	好:Vi	
+主要:ADV	吃:Vt	的:T	是:Vt	蛤蠣湯:N	的:T	鮮甜:Vi	
+【:PARENTHESISCATEGORY	桂花:N	烏梅汁:N	】:PARENTHESISCATEGORY	上:N	熱菜:N	前:POST	以:P	桂花:N	烏梅汁:N	清口:N	
+接下來:ADV	的:T	熱菜:N	共有:Vt	四:DET	道:M	
+一:DET	道:M	一:DET	盤:M	的:T	慢慢:Vi	上菜:Vi	
+【:PARENTHESISCATEGORY	青松:N	鮮:Vi	貝:N	】:PARENTHESISCATEGORY	上菜:Vi	時:POST	我:N	忍不住:Vt	小聲:Vi	說:Vt	：:COLONCATEGORY	
+這:DET	是:Vt	精子:N	造型:N	嗎:T	
+哈:ADV	哈哈:ADV	哈哈:ADV	
+好拉:N	不:ADV	開玩笑:Vi	
+青松:N	鮮:Vi	貝:N	是:Vt	將:P	北海道:N	干貝:N	裹上:Vt	麵衣:N	低溫:N	油炸:Vt	
+干貝:N	確實:ADV	被:P	鎖住:Vt	水分:N	不:ADV	過熟:Vi	
+但:C	麵衣:N	卻:ADV	顯得:Vt	油:N	軟:Vi	了:ASP	些:ADV	
+吃:Vt	不:ADV	太:ADV	慣:Vi	
+或許:ADV	是:Vt	想:Vt	表現出:Vt	干貝:N	的:T	鮮:Vi	
+所以:C	沒有:Vt	多餘:A	調味:N	
+滋味:N	非常:ADV	清淡:Vi	
+但:C	若:C	真:ADV	要:ADV	表現出:Vt	干貝:N	的:T	鮮:Vi	
+怎會:ADV	使用:Vt	油炸:Vt	呢:T	
+或許:ADV	我:N	不:ADV	懂:Vt	宮廷菜:N	吧:T	
+底層:N	鋪:Vt	的:T	是:Vt	炸:Vt	青江菜:N	絲:N	
+脆脆:Vi	的:T	口感:N	就:ADV	像:Vt	海苔:N	一樣:Vi	
+【:PARENTHESISCATEGORY	油燜:N	大蝦:N	】:PARENTHESISCATEGORY	大蝦:N	確實:ADV	大:Vi	隻:M	
+是:Vt	去:Vt	頭:N	剝:Vt	殼:N	的:T	大:Vi	明蝦:N	
+但:C	...:ETCCATEGORY	它:N	也:ADV	是:Vt	油炸:Vt	的:T	
+登:Vt	愣:Vi	
+大蝦:N	裹:Vt	著:ASP	以:P	花雕:N	酒:N	加:Vt	白糖:N	調味:Vi	的:T	濃稠:Nv	醬汁:N	
+下面:N	墊:Vt	著:ASP	酥炸:Vi	的:T	麵包:N	丁:N	
+可:ADV	將:P	醬汁:N	精華:N	抹:Vt	得:T	一乾二淨:Vi	
+吃到:Vt	這兒:N	我:N	不免:ADV	有點:ADV	小:Vi	抱怨:Vt	怎麼:ADV	都:ADV	是:Vt	炸:Vt	的:T	阿:N	
+【:PARENTHESISCATEGORY	菜:N	包飯:Vi	】:PARENTHESISCATEGORY	幸好:ADV	熱菜:N	第三:DET	道:M	不:ADV	是:Vt	炸:Vt	的:T	
+不然:C	好:ADV	膩:Vi	口:N	呢:T	
+菜:N	包飯:Vi	是:Vt	以:P	蘿:b	蔓生菜:N	墊底:Vi	
+夾:Vt	著:ASP	混入:Vt	鴨:N	肉丁:N	的:T	米飯:N	
+再:ADV	放上:Vt	幾:DET	片:M	薄:Vi	切:Vt	的:T	鮑魚片:N	與:C	蔥花:N	醬汁:N	
+吃法:N	顧名思義:ADV	是:Vt	將:P	生菜:N	包:Vt	著:ASP	食材:N	一口:ADV	吃下:Vt	
+【:PARENTHESISCATEGORY	焌油魚:N	】:PARENTHESISCATEGORY	
+焌:b	
+指:Vt	的:T	是:Vt	先:ADV	高溫:N	熱:Vt	油:N	後:POST	
+再:ADV	放入:Vt	食材大:N	火:N	快:ADV	炒:Vt	
+沒:ADV	記錯:Vt	的:T	話:N	這:DET	天:M	的:T	魚:N	是:Vt	石斑:N	
+高超:Vi	的:T	火侯:N	掌控:Vt	
+使得:Vt	魚肉:N	外皮:N	香酥:N	
+魚肉:N	仍:ADV	保持:Vt	鮮嫩:Vi	、:PAUSECATEGORY	富:Vt	彈性:N	
+可惜:Vi	阿:N	可惜:Vi	
+這:DET	依然:ADV	是:Vt	炸:Vt	的:T	
+吃到:Vt	第四:DET	道:M	真的:ADV	會:ADV	膩:Vi	
+熱菜:N	之後:POST	的:T	主食:N	可以:ADV	二:DET	選:Vt	一:DET	：:COLONCATEGORY	小:Vi	炒:Vt	茄子:N	配:Vt	米飯:N	or:FW	鹿尾:N	炸醬:N	配:Vt	手工:N	麵條:N	
+【:PARENTHESISCATEGORY	鹿尾:N	炸醬:N	配:Vt	手工:N	麵條:N	】:PARENTHESISCATEGORY	鹿尾:N	炸醬:N	是:Vt	真的:ADV	用:P	鹿尾:N	製成:Vt	的:T	炸醬:N	
+其實:ADV	我:N	也:ADV	是:Vt	第一:DET	次:M	吃:Vt	鹿尾:N	
+吃:Vt	不:ADV	出:Vt	什麼:DET	名堂:N	
+但:C	至少:ADV	就:ADV	是:Vt	個:M	肉味:N	濃郁:Vi	無:Vt	怪異:Vi	的:T	炸醬:N	搭配:Vt	寬版:N	的:T	手工:N	麵條:N	
+熟透:Vi	的:T	麵條:N	拌:Vt	醬:N	後:POST	仍:ADV	保有:Vt	麵體:N	Q:FW	彈:Vt	的:T	嚼:Vt	勁:N	
+【:PARENTHESISCATEGORY	冬瓜:N	蝦:N	丸子湯:N	】:PARENTHESISCATEGORY	湯頭:N	相當:ADV	清淡:Vi	
+就算:Vi	有加:ADV	鹽:N	也:ADV	是:Vt	極:ADV	少量:DET	
+主要:ADV	品嚐:Vt	是:Vt	冬瓜:N	和:C	蝦:N	丸子:N	帶出:Vt	的:T	自然:N	甜:Vi	吧:T	
+【:PARENTHESISCATEGORY	奶酪:N	、:PAUSECATEGORY	蜜汁:N	山藥:N	、:PAUSECATEGORY	水果:N	、:PAUSECATEGORY	三不:N	沾:Vt	】:PARENTHESISCATEGORY	點菜:Vi	時:POST	我:N	詢問:Vt	甜點:N	的:T	水果:N	可否:ADV	換成:Vt	其他:DET	
+服務:Nv	人員:N	說:Vt	只:ADV	能:ADV	換成:Vt	餐:N	前:POST	送:Vt	的:T	蜜:N	核桃:N	酥:Vi	
+也好:T	
+蜜:N	核桃:N	酥:Vi	我:N	蠻:ADV	愛:Vt	的:T	
+水果:N	我:N	敬謝不敏:Vi	
+甜點:N	的:T	奶:N	酪:b	服務:Nv	人員:N	也:ADV	特別:Vi	解釋:Vt	是:Vt	酸:Vi	的:T	口味:N	
+大概:ADV	怕:Vt	有:Vt	人:N	以為:Vt	是:Vt	壞掉:Vi	而:C	變酸:Vi	
+我:N	自己:N	吃起來:ADV	覺得:Vt	類似:Vt	酸奶:N	的:T	滋味:N	
+蜜汁:N	山藥:N	是:Vt	第一:DET	次:M	吃:Vt	到:P	
+蜜:N	得:T	相當:Vi	入味:N	
+三:DET	不:ADV	沾:Vt	是:Vt	一:DET	顆:M	蛋:N	黃色:N	的:T	小:Vi	圓球:N	
+以:P	蛋黃:N	、:PAUSECATEGORY	糖:N	、:PAUSECATEGORY	水:N	和:C	綠豆粉:N	製成:Vt	
+所以:C	三:DET	不:ADV	沾:Vt	指:Vt	的:T	是:Vt	不:ADV	沾:Vt	碟:N	、:PAUSECATEGORY	不:ADV	沾:Vt	筷:N	、:PAUSECATEGORY	不:ADV	沾:Vt	牙:N	
+我:N	用:P	筷子:N	戳:Vt	
+用:P	牙齒:N	大方:Vi	咬:Vt	
+還:ADV	真的:ADV	都:ADV	不:ADV	沾黏:Vt	耶:T	
+吃起來:ADV	類似:Vt	麻糬:N	
+比:P	麻糬:N	Q:FW	滑:Vi	得多:ADV	
+深得:Vt	我:N	心:N	
+中菜:N	西:N	吃:Vt	的:T	餐廳:N	感覺:N	好:ADV	適合:Vi	帶:Vt	外國人:N	來:ADV	
+這:DET	天:M	許多:DET	菜色:N	都:ADV	是:Vt	平常:N	完全:ADV	沒:ADV	接觸:Vt	過:ASP	的:T	
+有:Vt	些:M	確實:ADV	驚艷:Vi	
+但:C	熱:Vt	菜:N	幾乎:ADV	使用:Vt	油炸:Nv	最:ADV	讓:Vt	我:N	詬病:Vi	
+還是:C	老話:N	一:DET	句:M	：:COLONCATEGORY	或許:ADV	我:N	真的:ADV	不:ADV	懂:Vt	宮廷菜:N	吧:T	
+下:DET	次:M	再:ADV	訪:Vt	可能:ADV	要:ADV	等:Vt	哪:DET	天:M	朋友:N	請客:Vi	才:ADV	會:ADV	想:Vt	來:Vi	了:T	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松仁路:N	28:DET	號:M	3樓:N	
+Bellavita:FW	百貨:N	
+電話:N	：:COLONCATEGORY	
+02:DET	
+8729:DET	-:DASHCATEGORY	2638:DET	營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	
+14:DET	::COLONCATEGORY	00:DET	
+18:DET	::COLONCATEGORY	00:DET	
+22:DET	::COLONCATEGORY	00:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.bellavita.com.tw/cht/store.php:FW	
+d:FW	=:FW	112:DET	--:DASHCATEGORY	

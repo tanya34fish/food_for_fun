@@ -1,0 +1,21 @@
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	慶城街:N	16巷:N	8:DET	號:M	
+本:DET	次:M	消費:N	：:COLONCATEGORY	NT:FW	$:FW	75:DET	
+95:DET	/:FW	一:DET	人:N	
+現在:N	內:POST	用:Vt	的:T	地方:N	比較:ADV	明亮:Vi	寬敞:Vi	一點:ADV	
+而且:C	實際:Vi	上:POST	座位:N	還:ADV	蠻:ADV	多:Vi	的:T	
+個:M	人:N	覺得:Vt	兩:DET	種:M	沾醬:N	都:ADV	很:ADV	好吃:Vi	
+NT:FW	$:FW	75:DET	
+NT:FW	$:FW	95:DET	
+味道:N	與:C	一般:A	便當店:N	沒:Vt	什麼:DET	兩樣:Vi	
+所以:C	吃起來:ADV	比:P	台灣米:N	來得:ADV	乾:Vi	鬆:Vt	
+粒粒:DET	分明:Vi	的:T	口感:N	我:N	還:ADV	蠻:ADV	喜歡:Vt	的:T	
+重點:N	的:T	去:Vt	骨:N	雞肉:N	滑嫩:Vi	甘甜:Vi	
+只:ADV	覺得:Vt	味道:N	實在:ADV	不錯:Vi	
+但:C	其實:ADV	店家:N	的:T	秘方:N	就:ADV	在於:Vt	爽口:Vi	的:T	薑蔥醬:N	以及:C	酸酸甜甜:Vi	又:ADV	微:ADV	辣:Vi	的:T	特製:Nv	沾醬:N	啊:T	
+湯:N	就:ADV	很:ADV	普通:Vi	了:T	
+略:ADV	油:Vi	的:T	冬瓜湯:N	
+這:DET	是:Vt	一:DET	家:M	以:P	便當:N	店:N	來:ADV	看:Vt	價格:N	不:ADV	是:Vt	很:ADV	親切:Vi	
+但是:C	東西:N	不錯:Vi	吃:Vt	的:T	便當店:N	
+改裝:Vt	翻新:Vt	後:POST	內:N	用:Vt	環境:N	還:ADV	蠻:ADV	乾淨:Vi	的:T	
+加上:C	交通:N	便利:Nv	
+雖然:C	位在:Vt	巷子:N	但:C	位置:N	也:ADV	算好:Vt	找:Vt	

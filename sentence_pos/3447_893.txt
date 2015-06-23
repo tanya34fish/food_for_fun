@@ -1,0 +1,134 @@
+ni70043(vicky:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	。:PERIODCATEGORY	台北:N	美食:N	。:PERIODCATEGORY	有:Vt	歐:N	爸:N	幫忙:Vt	烤肉:N	的:T	：:COLONCATEGORY	Oppa:FW	烤肉:N	
+Thu:FW	
+Aug:FW	
+21:DET	
+19:DET	::COLONCATEGORY	12:DET	::COLONCATEGORY	44:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Oppa:FW	烤肉:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	7月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	四段:N	223巷:N	57:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27788626:DET	（:PARENTHESISCATEGORY	下午:N	4:DET	點:M	後:POST	才:ADV	開放:Vt	電話:N	訂位:Vi	喔:T	）:PARENTHESISCATEGORY	
+營業:Nv	時間:N	：:COLONCATEGORY	17:DET	::COLONCATEGORY	30:DET	~:FW	2:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	100:DET	~:FW	780:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	起士:N	海鮮:N	炒:Vt	年糕:N	
+無:Vt	音樂:N	部落格版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ni70043.pixnet.net/blog/post:FW	/:FW	165306543:DET	
+以下:N	為:Vt	純:Vi	文字版:N	：:COLONCATEGORY	
+＊:FW	封面:N	故事:N	：:COLONCATEGORY	天:N	啊:T	
+看到:Vt	這些:DET	我:N	口水:N	都:ADV	快:ADV	滴下來:Vi	了:ASP	
+這:DET	間:M	店:N	可是:C	姊姊:N	嚷嚷:Vt	好久:Vi	要:ADV	去:ADV	吃:Vt	的:T	呢:T	
+前:DET	兩:DET	天:M	我:N	有:Vt	電話:N	訂位:Vi	
+當天:N	因為:C	車況:N	有點:ADV	塞:Vi	
+所以:C	還:ADV	打去:Vi	延後:Vt	時間:N	
+台北:N	是:Vt	出:Vt	了:ASP	名:A	的:T	難:Vi	停車:Vi	
+歐:N	爸:N	建議:Vt	我們:N	停:Vt	到:P	假日:N	花市:N	那兒:N	的:T	停車場:N	
+其實:ADV	就:ADV	在:P	忠孝東路:N	四段:N	巷子:N	的:T	馬路:N	邊:N	
+不:ADV	難找:Vt	唷:T	
+但:C	我:N	跟:P	姊姊:N	還:ADV	殺:Vt	進去:Vi	小:Vi	巷子:N	裡:N	結果:N	找:Vt	不:ADV	到:Vt	
+這:DET	間:M	閃亮:Vi	亮:Vi	的:T	就是:C	Oppa:FW	烤肉:N	啦:T	
+我們:N	約:ADV	快:Vi	八:DET	點:M	的:T	時間:N	
+所以:C	早:ADV	就:ADV	餓:Vi	得:T	咕嚕:ADV	咕嚕:ADV	叫:Vt	啦:T	
+我們:N	被:P	安排:Vt	靠近:Vt	櫃台:N	角落:N	的:T	位置:N	
+進:Vt	門:N	後:POST	毆:Vt	爸:N	會:ADV	送上:Vt	菜單:N	
+然後:ADV	講解:Vt	一下:N	規矩:N	
+如果:C	要點餐:N	或是:C	需要:Vt	任何:DET	服務:Nv	
+這:DET	隻:M	雞:N	就:ADV	是:Vt	服務:Nv	鈴:N	喔:T	
+不要:ADV	懷疑:Vt	
+這:DET	真的:ADV	是:Vt	
+實際:Vi	操作:Vt	後:POST	
+發生:Vt	一:DET	個:M	問題:N	耶:T	
+我們:N	按:P	服務:Nv	鈴:N	之後:POST	
+歐:N	爸:N	好像:ADV	會:ADV	找:Vt	不:ADV	到:Vt	聲音:N	是:Vt	從:P	哪:DET	桌:M	發出來:Vt	的:T	
+跟:P	大家:N	簡單:Vi	說明:Vt	一下:N	
+這:DET	間:M	店主:N	打:Vt	有:Vt	帥哥:N	oppa:FW	會:ADV	幫忙:Vt	烤肉:N	
+所以:C	不用:ADV	自己:N	弄得:Vt	滿:DET	手:N	黏:Vt	呼呼:ADV	或是:C	怕:Vt	肉烤:Vt	得:T	黑黑:Vi	焦焦:Vi	
+專業:Vi	歐:N	爸:N	都:ADV	會:ADV	到:Vt	桌:N	邊:N	服務:Vt	喔:T	
+看:Vt	一下:N	歐:N	爸:N	送上:Vt	的:T	菜單:N	
+每:DET	一樣:Vi	看起來:ADV	都:ADV	紅紅:Vi	辣辣:Vi	好:Vi	下:Vt	飯:N	的:T	感覺:N	
+我們:N	今天:N	點:Vt	了:ASP	韓式:N	辣醬:N	梅花肉:N	、:PAUSECATEGORY	海鮮:N	煎餅:N	、:PAUSECATEGORY	傳統:Vi	泡菜:N	鍋:N	拌:Vt	飯:N	、:PAUSECATEGORY	起士:N	海鮮:N	炒:Vt	年糕:N	
+飲料:N	點:Vt	了:ASP	香蕉:N	牛奶:N	及:C	歐:N	爸:N	推薦:Vt	的:T	水蜜桃:N	果汁:N	
+菜單:N	上:N	沒有:Vt	
+跟:P	歐爸點:N	好:Vi	餐:N	後:POST	
+就:ADV	可以:ADV	去:Vt	前面:N	的:T	自助:Nv	沙拉吧:N	取用:Vt	吃到:Vt	飽:Vi	的:T	小菜:N	囉:T	
+基本:A	泡菜:N	一定:ADV	有:Vt	
+還:ADV	有:Vt	比較:ADV	開胃:Vi	的:T	豆乾:N	絲:N	
+豆芽:N	
+毛豆:N	之類:POST	的:T	
+喔:T	還:ADV	有:Vt	青菜:N	可以:ADV	包燒肉:N	一起:ADV	吃:Vt	喔:T	
+醬料:N	我們:N	也:ADV	盛:Vt	了:ASP	一點:DET	
+但:C	根本:ADV	沒:ADV	用到:Vt	
+拿:Vt	完:Vi	小菜:N	之後:POST	燒肉:N	就:ADV	來:Vi	啦:T	
+韓式:N	辣醬:N	梅花肉:N	
+梅花:N	豬肉:N	先:ADV	用:P	辣醬:N	醃:Vt	得:T	紅:Vi	吱吱:ADV	
+然後:ADV	歐:N	爸:N	就:ADV	放:Vt	上到:Vt	肉架:N	上:N	囉:T	
+旁邊:N	黃黃:Vi	的:T	那:DET	是:Vt	雞蛋:N	
+補:Vt	一:DET	張:M	還:ADV	沒:ADV	放上:Vt	烤肉:N	的:T	烤爐:N	
+還:ADV	有:Vt	些許:DET	的:T	金針菇:N	
+鋪:Vt	在:P	蛋:N	上面:N	喔:T	
+在:P	歐:N	爸:N	烤肉:N	的:T	時候:N	我:N	早:ADV	就:ADV	把:P	餐具:N	準備好:Vt	啦:T	
+韓國:N	的:T	筷子:N	好像:ADV	都:ADV	扁扁:Vi	的:T	
+說真的:ADV	不:ADV	是:Vt	很:ADV	好:Vi	拿:Vt	耶:T	
+耶:T	耶:T	耶:T	
+烤好:Vt	啦:T	
+歐:N	爸:N	還:ADV	幫:P	我們:N	分:ADV	裝到:Vt	碗:N	裡:N	
+好:ADV	好吃:Vi	
+完全:ADV	不用:ADV	沾:Vt	醬料:N	就:ADV	很:ADV	有:Vt	味道:N	
+豬肉:N	好:ADV	嫩:Vi	阿阿:Vi	阿:N	
+還:ADV	有:Vt	些許:DET	的:T	油花:N	
+微:ADV	辣:Vi	的:T	滋味:N	真是:ADV	太:ADV	棒:Vi	了:T	
+真的:ADV	是:Vt	瞬間:N	可以:ADV	秒:M	殺:Vt	
+不過:C	歐:N	爸:N	上菜:Nv	速度:N	飛快:ADV	
+起士:N	海鮮:N	炒:Vt	年糕:N	來:Vi	囉:T	
+最:ADV	上面:N	鋪上:Vt	大量:DET	的:T	起士:N	
+歐:N	爸:N	告知:Vt	可以:ADV	趁熱:ADV	攪拌:Vt	
+不過:C	當:P	我們:N	拿出:Vt	湯匙:N	的:T	時候:N	
+歐:N	爸:N	就:ADV	現身:Vi	要:ADV	幫忙:Vt	我們:N	服務:Vt	囉:T	
+攪拌:Vt	好:Vi	之後:POST	的:T	起士:N	融入:Vt	炒:Vt	年糕:N	的:T	醬汁:N	
+甜甜:Vi	辣辣:Vi	
+大:Vi	驚豔:Vi	
+這:DET	好像:ADV	是:Vt	我:N	第一:DET	次:M	吃:Vt	辣:Vi	炒:Vt	年糕:N	耶:T	
+年糕:N	QQ:FW	的:T	好吃:Vi	
+有點:ADV	類似:Vt	比較:ADV	硬:Vi	比較:ADV	紮實:Vi	的:T	麻糬:N	
+還:ADV	有:Vt	些許:DET	的:T	海鮮:N	和:C	高麗菜:N	
+一口:ADV	接:Vt	一口:ADV	
+好涮:Vi	嘴:N	
+現在:N	想到:Vt	口水:N	都:ADV	快:ADV	流下來:Vi	了:ASP	
+海鮮:N	煎餅:N	
+上桌:Vi	的:T	時候:N	已經:ADV	切:Vt	好:Vi	囉:T	
+表皮:N	煎:Vt	得:T	酥脆:Vi	
+上面:N	的:T	醬汁:N	我:N	沾:Vt	了:ASP	一口:ADV	覺得:Vt	太:ADV	鹹:Vi	哩:T	
+煎餅:N	本身:N	就:ADV	有:Vt	鹹度:N	
+單:ADV	吃:Vt	就:ADV	很:ADV	棒:Vi	
+除了:P	海鮮:N	
+裡面:N	也:ADV	有:Vt	高麗菜:N	
+不過:C	比起來:Vt	我:N	還是:ADV	愛:Vt	起:Vt	士:N	海鮮:N	炒:Vt	年糕:N	太多:Vi	太多:Vi	
+傳統:Vi	泡菜:N	鍋:N	拌:Vt	飯:N	
+會:ADV	點:Vt	這:DET	道:M	純粹:ADV	是:Vt	因為:C	沒有:Vt	主食:N	
+想要:Vt	墊墊:N	肚子:N	
+味道:N	上:N	普普通通:Vi	
+個:M	人:N	比較:ADV	喜歡:Vt	石鍋:N	拌:Vt	飯:N	有:Vt	微微:A	的:T	鍋巴:N	
+不過:C	這:DET	拿來:Vt	配:Vt	辣:Vi	炒:Vt	年糕:N	和:C	辣醬:N	豬肉:N	倒是:ADV	挺:ADV	不錯:Vi	的:T	
+水蜜桃:N	果汁:N	
+其實:ADV	我們:N	點:Vt	的:T	菜色:N	都:ADV	還:ADV	挺:ADV	重:Vi	口味:N	
+所以:C	一定:ADV	要:ADV	配:Vt	飲料:N	來:ADV	解:Vt	辣:Vi	和:C	去:Vt	一下:N	味道:N	
+喝到:Vt	最後:N	還:ADV	意外:Vt	發現:Vt	有:Vt	QQ:FW	的:T	椰果:N	
+如果:C	可以:ADV	大:Vi	罐:N	一點:DET	就:ADV	好:Vi	囉:T	
+至於:P	香蕉:N	牛奶:N	在:P	台灣:N	也:ADV	挺:ADV	火紅:Vi	的:T	
+COSTCO:FW	買:Vt	得到:Vt	
+小七:N	好像:ADV	也:ADV	有:Vt	
+姊姊:N	點:Vt	香蕉:N	牛奶:N	
+但是:C	香濃:Vi	的:T	奶味:N	似乎:ADV	不:ADV	適合:Vi	搭配:Vt	重:Vi	口味:N	
+所以:C	我:N	的:T	水蜜桃:N	果汁:N	就:ADV	分:Vt	她:N	喝:Vt	囉:T	
+最後:N	附上:Vt	一:DET	張:M	店:N	內:N	歐:N	爸:N	的:T	照片:N	給:Vt	大家:N	過:ADV	過癮:Vi	
+至於:P	帥:Vi	不:ADV	帥:Vi	嘛:T	就:ADV	見仁見智:Vi	囉:T	
+店面:N	資訊:N	：:COLONCATEGORY	
+店名:N	：:COLONCATEGORY	Oppa:FW	烤肉:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	四段:N	223巷:N	57:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27788626:DET	
+下午:N	4:DET	點:M	後:POST	才:ADV	開放:Vt	電話:N	訂位:Vi	喔:T	
+營業:Nv	時間:N	：:COLONCATEGORY	17:DET	::COLONCATEGORY	30:DET	
+2:DET	::COLONCATEGORY	00:DET	
+＊:FW	店:N	內:N	收取:Vt	一成:DET	服務費:N	
+提供:Vt	刷卡:Nv	

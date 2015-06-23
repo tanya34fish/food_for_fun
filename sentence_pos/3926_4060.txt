@@ -1,0 +1,231 @@
+xyxyx:FW	2:DET	(:PARENTHESISCATEGORY	堅持:Vt	相信:Vt	永:ADV	不:ADV	放棄:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	-:DASHCATEGORY	MUME:FW	。:PERIODCATEGORY	融合:Vt	多:DET	國:N	文化:N	FineDining:FW	
+Thu:FW	
+Jan:FW	
+8:DET	
+17:DET	::COLONCATEGORY	53:DET	::COLONCATEGORY	03:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	MUME:FW	
+消費:N	時間:N	：:COLONCATEGORY	2015:DET	/:FW	01:DET	/:FW	04:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	四維路:N	28:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2700:DET	-:DASHCATEGORY	0901:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	18:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	CloseTuesday-Sunday:FW	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	2480:DET	+:FW	10:DET	%:M	(:PARENTHESISCATEGORY	不:ADV	含:Vt	酒:N	水:N	):PARENTHESISCATEGORY	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.mume.tw:FW	
+---:DASHCATEGORY	部落格:N	圖文:N	連結:Nv	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ivyxyxyx0801.pixnet.net/blog/post:FW	/:FW	192340734:DET	---:DASHCATEGORY	上:DET	週:M	和:C	友人:N	阿仙:N	大師:N	聊到:Vt	米其林:N	三星:N	主廚:N	江振誠:N	來:Vi	台:N	開:Vt	的:T	餐廳:N	::COLONCATEGORY	RAW:FW	
+聊到:Vt	聽說:Vt	非常:ADV	難以:ADV	訂位:Vi	這:DET	事:N	
+阿仙:N	推薦:Vt	了:ASP	我:N	另:DET	一:DET	間:M	餐廳:N	::COLONCATEGORY	四維路:N	上:N	的:T	MUME:FW	說:Vt	是:Vt	集合:Vt	了:ASP	好幾:DET	位:M	來自:Vt	不同:Vi	國家:N	
+丹麥:N	、:PAUSECATEGORY	紐約:N	、:PAUSECATEGORY	澳洲:N	等:POST	不同:Vi	名:M	店:N	的:T	主廚:N	團隊:N	
+默默:ADV	低調:Vi	剛:ADV	開幕:Vi	的:T	餐廳:N	融合:Vt	多:DET	國:N	文化:N	卻:ADV	選用:Vt	台灣:N	本土:N	優質:A	食材:N	入菜:Vi	二話不說:Vi	
+馬上:ADV	訂:Vt	了:ASP	下:DET	個:M	週末:N	的:T	位子:N	訂位:Vi	時:POST	
+電話:N	那:DET	頭:M	傳來:Vt	英文:N	
+我:N	還是:ADV	不:ADV	死心:Vi	的:T	用:Vt	中文:N	訂位:Vi	果然:ADV	他:N	操:Vt	著:ASP	仿若:Vt	外國人:N	的:T	口音:N	
+還是:ADV	用:P	流利:Vi	的:T	中文:N	
+接受:Vt	了:ASP	我:N	的:T	訂位:Nv	很:ADV	順利:Vi	的:T	敲定:Vt	了:ASP	跨年:A	連假:N	最後:N	一:DET	天:M	的:T	位子:N	沒有:Vt	高調:N	的:T	招牌:N	
+石頭:N	質感:N	的:T	厚重:Vi	大門:N	
+寫:Vt	著:ASP	MUME:FW	四:DET	字:N	進:Vt	門:N	接待:Vt	處:N	
+竟然:ADV	是:Vt	個:M	調:Vt	酒吧:N	
+室內:N	氣氛:N	因為:C	昏黃:Vi	的:T	光線:N	而:C	顯得:Vt	溫暖:Vt	每:DET	桌:M	頭:N	上:N	的:T	吊燈:N	採用:Vt	新潮:Vi	又:ADV	有:Vt	創意:N	的:T	設計:N	：:COLONCATEGORY	大:Vi	繩索:N	製:Vt	的:T	吊燈:N	
+空氣:N	間:POST	彌漫:Vi	著:ASP	的:T	loungebar:FW	氣氛:N	和:C	我:N	原本:ADV	想像:Vt	的:T	高級:Vi	finedining:FW	西式:A	餐廳:N	不:ADV	一樣:Vi	
+我:N	原本:ADV	想像:Vt	類似:Vt	文華:N	東方:N	酒店:N	Bencotto:FW	那樣:Vi	的:T	氣質:N	
+反倒:C	類似:Vt	香港:N	NUR:FW	那:DET	種:M	輕鬆:Vi	時尚:N	的:T	現代:N	finedining:FW	
+後來:N	才:ADV	知道:Vt	
+原來:A	MUME:FW	的:T	主廚:N	曾:ADV	在:P	NUR:FW	工作:Vi	過:ASP	
+難怪:ADV	這麼:ADV	似曾相識:Vi	呀:T	
+其實:ADV	
+因為:C	前晚:N	喝:Vt	太多:DET	
+今晚:N	本來:ADV	不:ADV	想:Vt	點:M	酒:N	的:T	但是:C	一:ADV	進來:Vi	感受到:Vt	這:DET	種:M	氣氛:N	
+覺得:Vt	不:ADV	點:Vt	酒:N	真是:ADV	太:ADV	怪異:Vi	了:T	啊:T	
+一:DET	種:M	藉口:N	的:T	概念:N	
+你:N	去:Vt	了:ASP	就:ADV	知道:Vt	了:ASP	
+桌:N	上:N	擺:Vt	的:T	不:ADV	是:Vt	鮮花:N	
+而是:C	用:P	蠟:N	做成:Vt	的:T	蠟花:N	
+你:N	還:ADV	能:ADV	說:Vt	它:N	沒有:Vt	創意:N	嗎:T	
+自助式:N	的:T	餐具:N	把:P	成本:N	節省:Vt	下來:ASP	
+以:P	提供:Vt	CP:FW	值:N	更:ADV	高:Vi	的:T	優質:A	菜色:N	
+再:ADV	走到:Vt	後面:N	
+就:ADV	看到:Vt	開放式:A	廚房:N	多數:DET	的:T	東方:N	面孔:N	加:Vt	少數:DET	西洋:N	面孔:N	這裡:N	就:ADV	是:Vt	多:DET	國:N	大廚:N	聚集:Vt	的:T	地方:N	
+仔細:Vi	聽:Vt	他們:N	講話:Vi	
+幾乎:ADV	都:ADV	以:P	英文:N	交談:Vi	還:ADV	未:ADV	看:Vt	菜單:N	
+waiter:FW	先:ADV	送上:Vt	的:T	氣泡水:N	冬季:N	菜單:N	
+固定:Vt	價格:N	::COLONCATEGORY	NT:FW	.:PERIODCATEGORY	2480:DET	加上:Vt	一成:DET	服務費:N	目前:N	就:ADV	這麼:ADV	一:DET	份:M	菜單:N	
+6:DET	道:M	菜:N	
+包括:Vt	1:DET	道:M	甜點:N	
+只有:C	主菜:N	有:Vt	雞:N	或:C	牛:N	兩:DET	種:M	選擇:N	有:Vt	詢問:Nv	服務生:N	多:ADV	久:Vi	會:ADV	更換:Vt	一:DET	次:M	菜單:N	
+得到:Vt	的:T	答案:N	是:Vt	還:ADV	不:ADV	確定:Vt	
+酒:N	單:ADV	包括:Vt	cocktail:FW	
+beer:FW	
+wine:FW	
+tea:FW	選擇:N	並:ADV	不:ADV	多:Vi	
+尤其:ADV	是:Vt	housewine:FW	
+只:ADV	有:Vt	兩:DET	紅:Vi	一:DET	白品:N	項:N	也:ADV	差強人意:Vi	這:DET	點:M	就:ADV	和:P	NUR:FW	差:Vi	很多:Vi	了:T	...:ETCCATEGORY	只:ADV	有:Vt	一:DET	套:M	menu:FW	
+以:P	finedining:FW	的:T	身份:N	
+起碼:ADV	要:ADV	來:ADV	套:M	winepairing:FW	吧:T	
+不過:C	台灣:N	喝:Vt	酒:N	文化:N	還:ADV	差:Vi	香港:N	一點:DET	
+可能:ADV	因為:C	這樣:Vi	做:Vt	的:T	話:N	成本:N	也:ADV	要:ADV	提高:Vt	
+試:Vt	水溫:N	顧及:Vt	價格:N	的:T	因素:N	
+就:ADV	先:ADV	不:ADV	做:Vt	這:DET	種:M	規劃:N	
+也:ADV	不一定:ADV	畢竟:ADV	香港:N	NUR:FW	的:T	winepairing:FW	幾乎:ADV	跟:P	一:DET	套餐:N	要:ADV	一樣:Vi	的:T	價錢:N	了:T	...:ETCCATEGORY	
+當然:ADV	搭:Vt	得:T	無與倫比:Vi	的:T	讚:Vi	
+因為:C	受不了:Vt	這:DET	loungebar:FW	的:T	氣氛:N	
+XD:FW	我:N	還是:ADV	點:Vt	了:ASP	一:DET	白:Vi	一:DET	紅:Vi	兩:DET	杯:M	housewine:FW	當:Vt	佐餐:N	酒:N	White:FW	::COLONCATEGORY	LaChatNoirSauvignonBlanc:FW	2013:DET	
+NT.420/glass:FW	
+Red:FW	::COLONCATEGORY	ChateauCalebretBordeaux:FW	2012:DET	
+NT.380/glass:FW	
+結論:N	證明:Vt	::COLONCATEGORY	酒貴:N	又:C	soso:FW	
+下:DET	次:M	還:ADV	是:Vt	自己:N	帶:Vt	酒:N	來:Vi	好了:T	
+TOMATO:FW	這:DET	道:M	是:Vt	菜單:N	上:N	沒有:Vt	的:T	開胃:Nv	小菜:N	一:ADV	看到:Vt	這:DET	道:M	
+就:ADV	覺得:Vt	根本:ADV	是:Vt	NUR:FW	的:T	風格:N	
+四:DET	顆:M	聖女:N	小:Vi	蕃茄:N	
+紅:Vi	的:T	、:PAUSECATEGORY	橘:N	的:T	各:DET	兩:DET	顆:M	佐以:Vt	底下:N	透明:Vi	的:T	蕃茄:N	果凍:N	::COLONCATEGORY	madeby:FW	蕃茄:N	
+大蒜:N	
+Tabasco:FW	白色:N	的:T	是:Vt	limecream:FW	
+最:ADV	上面:N	綠色:N	的:T	植物:N	是:Vt	冰花:N	蕃茄:N	吃:Vt	來:ADV	酸酸甜甜:Vi	
+cream:FW	很:ADV	冰:Vt	
+似乎:ADV	冷凍:Vt	過:ASP	
+不會:ADV	很:ADV	膩:Vi	醬汁:N	酸酸:Vi	的:T	
+要:ADV	搭配:Vt	蕃茄:N	一起:ADV	吃:Vt	非常:ADV	開胃:Vi	的:T	一:DET	道:M	小菜:N	
+SCALLOPLocalclams:FW	
+lactofermentedapple:FW	
+basiloil:FW	干貝:N	切片:N	炙燒:Vi	
+吃起來:ADV	格外:ADV	的:T	香:N	另外:ADV	搭配:Vt	煙燻:Vt	過:ASP	的:T	海:N	瓜子:N	
+紫色:N	邊緣:N	中間:N	白色:N	的:T	是:Vt	醃:Vt	漬:Vt	過:ASP	的:T	紫色:N	蘿蔔:N	立體:Vi	的:T	咖啡色:N	薄片:N	是:Vt	煎:Vt	干貝:N	後:POST	
+干貝汁:N	收乾:Vi	所:ADV	造成:Vt	的:T	精華:N	佐以:Vt	發酵:Vi	過:ASP	的:T	蘋果汁:N	搭配:Vt	蘿勒油:N	製成:Vt	的:T	sauce:FW	炙燒:Vi	過:ASP	的:T	干貝:N	
+鮮:Vi	甜:Vi	又:ADV	帶有:Vt	油脂:N	的:T	香氣:N	搭配:Vt	微:ADV	甜:Vi	的:T	蘋果汁:N	sauce:FW	
+清爽:Vi	不:ADV	膩:Vi	
+鮮甜:Vi	美好:Vi	海:N	瓜子:N	鹹味:N	充足:Vi	
+同樣:Vi	是:Vt	海味:N	
+卻:ADV	和:P	干貝:N	帶來:Vt	明顯:Vi	對比:N	這樣:Vi	同:DET	處:M	一:DET	盤:M	
+更:ADV	突顯:Vt	各:DET	體:N	間:POST	的:T	不同:Vi	和:C	美好:Vi	第一:DET	道:M	海鮮:N	就:ADV	讓:Vt	人:N	讚許:Vt	
+SQUIDSmokedengawa:FW	
+crosnes:FW	
+prawnbroth:FW	
+arrowhead:FW	這:DET	道:M	的:T	主角:N	::COLONCATEGORY	軟絲:N	
+切成:Vt	麵條:N	形狀:N	泡:Vt	在:P	油:N	邊:N	泡:Vt	熟:Vi	另:C	還:ADV	加入:Vt	比目魚:N	緣側:N	佐以:Vt	水菜:N	、:PAUSECATEGORY	炸:Vt	慈菇:N	
+點綴:Vt	以:P	豆芽菜:N	湯汁:N	以:P	蝦頭:N	熬成:Vt	軟:Vi	絲:N	切成:Vt	像:P	麵條狀:N	
+足見:ADV	刀工:N	之:T	厲害:Vi	
+口感:N	也:ADV	相當:ADV	Q:FW	彈:Vt	
+比目魚:N	鰭:N	邊:N	肉:N	
+第一:DET	次:M	在:P	握:Vt	壽司:N	或:C	刺身:N	之外:POST	的:T	地方:N	吃:Vt	到:P	
+軟軟:Vi	油油:Vi	嫩嫩:Vi	的:T	
+老公:N	和:C	我:N	的:T	最愛:N	蝦子:N	熬:Vt	的:T	湯汁:N	加入:Vt	辣椒:N	汁辣:N	中:POST	帶:Vt	酸:Vi	
+有點:ADV	像:Vt	泰式:A	酸辣湯:N	一般:POST	
+算是:Vt	重:Vi	口味:N	的:T	一:DET	道:M	
+不同於:Vt	服務生:N	建議:Vt	我們:N	前面:N	的:T	海鮮:N	都:ADV	和:P	housewine:FW	白酒:N	搭配:Vt	...:ETCCATEGORY	我:N	反倒:C	覺得:Vt	這:DET	道:M	和:P	我:N	點:Vt	的:T	housewine:FW	紅酒:N	較:ADV	搭:Vt	
+麵包:N	上:N	麵包:N	的:T	時機:N	也:ADV	太:ADV	特別:Vi	..:ETCCATEGORY	竟然:ADV	不:ADV	是:Vt	最前面:N	...:ETCCATEGORY	而是:C	上:Vt	了:ASP	三:DET	道:M	菜:N	才:ADV	上:Vt	也好:T	
+不要:ADV	讓:Vt	你:N	一:ADV	開始:Vt	就:ADV	吃:Vt	太:ADV	飽:Vi	
+1:DET	/:FW	3:DET	的:T	進度:N	或許:ADV	剛剛好:ADV	
+冒:Vt	著:ASP	煙:N	的:T	熱:Vt	麵包:N	
+有:Vt	彈性:N	
+皮:N	脆:Vi	心軟:Vi	
+活:Vi	的:T	麵包:N	組織:N	
+附上:Vt	搭配:Nv	麵包:N	的:T	是:Vt	柚子:N	奶油:N	、:PAUSECATEGORY	牛油:N	、:PAUSECATEGORY	海鹽:N	三:DET	種:M	調味料:N	
+Anyway:FW	
+麵包體:N	好吃:Vi	
+其他:DET	真的:ADV	就:ADV	沒:ADV	那麼:ADV	重要:Vi	啦:T	
+":FW	HEARTBEETS"Duckhearts:FW	
+beetcrumbs:FW	
+pickledroselle:FW	
+oxalis:FW	
+beetcondiment:FW	鴨心佐:N	甜菜:N	根:N	
+包括:Vt	甜:Vi	菜根:N	實體:N	和:C	sauce:FW	
+粉末狀:N	的:T	是:Vt	麵包:N	吸取:Vt	甜菜:N	根:N	醬汁:N	再:ADV	做:Vt	烘乾:Vt	紅色:N	三角形:N	是:Vt	西瓜:N	蘿蔔:N	
+其實:ADV	跟:P	西瓜:N	沒有:Vt	關係:N	
+只是:ADV	取:Vt	其:DET	鮮豔:Vi	的:T	顏色:N	
+而是:C	蘿蔔:N	的:T	一:DET	種:M	紫色:N	的:T	是:Vt	紫:Vi	酢漿草:N	另外:ADV	還:ADV	有:Vt	醃:Vt	漬:Vt	過:ASP	的:T	洛神:N	花瓣:N	鴨:N	心:N	脆脆:Vi	QQ:FW	
+內裡:N	呈現:Vt	粉紅色:N	雖然:C	不:ADV	是:Vt	我:N	最愛:N	的:T	肝:N	
+但:C	同樣:Vi	是:Vt	粉嫩:Vi	的:T	內臟:N	
+當然:ADV	不同:Vi	口感:N	
+我:N	也:ADV	了:ASP	卻:ADV	一:DET	樁:M	心願:N	啦:T	
+除了:P	甜菜:N	根:N	sauce:FW	之外:POST	
+還:ADV	有:Vt	甜:Vi	菜根:N	塊:M	這:DET	道:M	酸酸:Vi	的:T	味道:N	
+其實:ADV	不:ADV	是:Vt	老公:N	的:T	菜:N	
+但:C	我:N	是:Vt	覺得:Vt	鴨:N	心:N	的:T	脆度:N	和:C	內臟:N	滋味:N	
+和:C	甜菜:N	根:N	、:PAUSECATEGORY	洛神花:N	的:T	酸度:N	
+剛好:ADV	達到:Vt	中和:N	的:T	感覺:N	
+坦白:Vi	講:Vt	
+我:N	覺得:Vt	如果:C	是:Vt	鴨肝:N	的:T	油脂:N	度:N	更:ADV	好:Vi	...:ETCCATEGORY	酸度:N	能夠:ADV	更:ADV	被:P	壓抑:Vt	、:PAUSECATEGORY	更:ADV	不:ADV	那麼:ADV	":FW	大人:N	":FW	
+還好:ADV	我:N	很:ADV	能:ADV	接受:Vt	..:ETCCATEGORY	還:ADV	能:ADV	接受:Vt	老公:N	剩下來:Vt	的:T	":FW	好:Vi	料:N	":FW	
+COBIAbabycabbage:FW	
+taiwanesesmokedbacon:FW	
+sorrelvinaigrette:FW	澎湖:N	人工:N	養殖:Vt	的:T	海鱺魚:N	
+搭配:Vt	來自:Vt	酸磨:N	葉:N	的:T	酸磨:N	汁:N	
+最:ADV	上面:N	那:DET	葉子:N	就:ADV	是:Vt	酸磨:N	葉:N	
+另外:C	再:ADV	搭配:Vt	的:T	時:N	蔬:b	有:Vt	::COLONCATEGORY	高麗菜心:N	、:PAUSECATEGORY	半月形狀:N	的:T	綠棗:N	黑色:N	的:T	是:Vt	煙燻:Vt	過:ASP	的:T	葡萄:N	籽油:N	再:ADV	佐以:Vt	碎碎:Vi	一點:ADV	一點:DET	咖啡色:N	的:T	台灣:N	臘肉:N	海鱺:N	魚肉:N	很:ADV	嫩:Vi	
+油脂:N	豐厚:Vi	至極:ADV	
+臘肉:N	的:T	鹹味:N	和:C	酸磨:N	醬汁:N	的:T	酸度:N	
+恰巧:ADV	可:ADV	中和:Vt	海鱺魚:N	的:T	油膩感:N	高麗菜:N	很:ADV	甜:Vi	
+棗子:N	不僅:C	juicy:FW	也:ADV	甜:Vi	
+而且:C	還是:ADV	和:P	高麗菜:N	不:ADV	一樣:Vi	的:T	甜味:N	巧妙:Vi	的:T	搭配:Nv	
+每:DET	道:M	用料:N	口感:N	和:C	味覺:N	的:T	差異:N	
+讓:Vt	層次感:N	蹦:Vi	發:Vi	而:C	出:Vt	非常:ADV	讓:Vt	人:N	驚豔:Vi	的:T	一:DET	道:M	
+UNI:FW	主菜:N	前:POST	上:Vt	了:ASP	一:DET	道:M	沒:ADV	在:P	菜單:N	上:N	的:T	小食:N	這:DET	道:M	仿照:P	海膽:N	壽司:N	的:T	概念:N	最:ADV	底下:N	是:Vt	米:M	餅:N	撒上:Vt	海苔粉:N	
+再:ADV	放上:Vt	海膽:N	佐以:Vt	泡:Vt	在:P	68:DET	度:M	的:T	水:N	讓:Vt	其:DET	半生:N	熟:Vi	的:T	蛋黃醬:N	上面:N	再:ADV	放:Vt	一:DET	小:Vi	片:M	紫蘇葉:N	海膽:N	濃郁:Vi	的:T	滋味:N	在:P	嘴巴:N	中:N	爆開:Vi	
+軟嫩鮮滑:Vi	再:ADV	佐以:Vt	海苔:N	米餅:N	的:T	酥脆:Vi	仿若:Vt	真的:ADV	有:Vt	和:P	吃:Vt	日本:N	料理:N	或:C	握:Vt	壽司:N	一樣:Vi	多層次:N	、:PAUSECATEGORY	前:DET	中:N	後味:N	的:T	感覺:N	
+BEEFSlowcookedshortrib:FW	
+roastedbabycarrot:FW	
+charredonion:FW	
+nasturtium:FW	美國:N	牛:N	小:Vi	排:Vt	
+經過:Vt	24:DET	小時:M	低溫:N	慢:Vi	煮:Vt	
+搭配:Vt	洋蔥醬:N	和:C	醃:Vt	漬:N	過後:POST	的:T	蘑菇:N	、:PAUSECATEGORY	金:N	蓮花瓣:N	、:PAUSECATEGORY	金:N	蓮花:N	葉:N	色澤:N	粉嫩:Vi	、:PAUSECATEGORY	油脂:N	分布:Vi	勻稱:Vi	的:T	牛:N	小:Vi	排:Vt	斷面:N	
+口感:N	有:Vt	彈性:N	而:C	嫩:Vi	
+油脂:N	豐足:Nv	
+肉味:N	並:ADV	俱:ADV	
+穠纖:N	合度:Vi	
+好:ADV	好吃:Vi	
+比:P	金:N	蓮花:N	和:C	葉:N	更:ADV	引人:N	著:Vt	目的:N	就是:C	像:Vt	小:Vi	辣椒:N	一樣:Vi	的:T	小:Vi	紅蘿蔔:N	
+搭配:Vt	的:T	洋蔥醬:N	甜味:N	濃厚:Vi	
+配:Vt	蔬菜:N	或:C	肉:N	都:ADV	好吃:Vi	是:Vt	老公:N	的:T	最愛:N	
+CHICKENTuberose:FW	
+crispybroccoli:FW	
+cauliflower:FW	兩:DET	大:Vi	塊:M	捲成:Vt	圓圈:N	的:T	立體:Vi	帶:Vt	皮:N	雞腿肉:N	
+最:ADV	外:N	圈:N	是:Vt	一:DET	層:M	薄:Vi	脆:Vi	琥珀色:N	的:T	雞皮:N	往:P	內:N	分別:ADV	是:Vt	杏色:N	和:C	粉紅色:N	的:T	雞肉:N	
+肉質:N	往:P	內:N	也:ADV	更加:ADV	軟:Vi	嫩:Vi	這:DET	道:M	使用:Vt	台灣:N	產:Vt	出生:Vi	80:DET	天:M	的:T	桂丁雞:N	雞腿:N	肉捲:N	起來:Vi	後:POST	蒸熟:Vi	外皮:N	再:ADV	炸:Vt	的:T	方式:N	
+使:Vt	其:DET	具有:Vt	薄:Vi	脆:Vi	的:T	口感:N	因此:C	能:ADV	外皮:N	酥脆:Vi	、:PAUSECATEGORY	內裡:N	軟嫩:Vi	多汁:Vi	肉質:N	非常:ADV	有:Vt	彈性:N	讓:Vt	我:N	想到:Vt	第一:DET	次:M	知道:Vt	桂丁:N	雞:N	
+是:Vt	在:P	台北:N	士林:N	的:T	鳥哲燒物:N	專門店:N	
+也:ADV	是:Vt	這樣:Vi	Q:FW	彈:Vt	軟嫩:Vi	的:T	健康:Nv	口感:N	呀:T	
+果然:ADV	是:Vt	高等:A	的:T	雞肉:N	
+佐以:Vt	兩:DET	種:M	sauce:FW	::COLONCATEGORY	白色:N	的:T	是:Vt	白:Vi	花椰菜醬:N	
+咖啡色:N	是:Vt	雞汁:N	上面:N	再:ADV	搭配:Vt	蕪菁:N	、:PAUSECATEGORY	晚香玉:N	筍:N	等:POST	蔬菜:N	
+以及:C	金針:N	的:T	莖:N	、:PAUSECATEGORY	和:C	形似:Vt	香菜:N	的:T	酥:Vi	炸:Vt	變種:N	花椰菜:N	白:Vi	花椰菜:N	醬汁:N	甜:Vi	中:POST	帶:Vt	酸:Vi	
+和:C	雞腿肉:N	的:T	油脂:N	格外:ADV	的:T	搭:Vt	又:ADV	帶有:Vt	乳酪:N	的:T	濃郁:Vi	錯覺:N	我:N	愛:Vt	
+桂丁雞:N	這:DET	道:M	不同:Vi	的:T	口感:N	和:C	味覺:N	兼具:Vt	
+酥脆:Vi	中:POST	帶:Vt	軟嫩:Vi	、:PAUSECATEGORY	油脂:N	中:POST	帶:Vt	蔬菜:N	的:T	鮮甜:Vi	
+不同:Vi	滋味:N	交織:Vt	我:N	覺得:Vt	比:P	牛:N	小:Vi	排:Vt	更:ADV	特別:Vi	老公:N	則:ADV	覺得:Vt	不同:Vi	主菜:N	都:ADV	很:ADV	出色:Vi	
+各:DET	有:Vt	所好:N	、:PAUSECATEGORY	因人而異:Vi	PUMPKINCremefraicheicecream:FW	
+lemoncream:FW	
+spicedcaramel:FW	最後:N	的:T	甜點:N	：:COLONCATEGORY	南瓜:N	蛋糕:N	佐以:Vt	檸檬:N	酸奶:N	sorbet:FW	、:PAUSECATEGORY	台灣:N	爆:Vi	米香:N	、:PAUSECATEGORY	焦化白:N	巧克力:N	和:C	檬檬醬:N	黃色:N	的:T	南瓜:N	蛋糕體:N	溼潤:Vi	且:C	綿密:Vi	佐以:Vt	微:ADV	酸:Vi	不:ADV	膩:Vi	類似:Vt	冰淇淋:N	的:T	檸檬:N	酸奶:N	以及:C	純白:A	的:T	急速:ADV	冷凍:Vt	的:T	檸檬:N	蛋黃醬:N	咖啡色:N	的:T	焦化白:N	巧克力:N	
+經過:Vt	液態:N	氮:N	處理:Vt	過:ASP	
+所以:C	會:ADV	冰冰:N	脆脆:Vi	的:T	
+因為:C	有:Vt	焦糖:N	所以:C	偏:ADV	甜:Vi	搭配:Vt	著:ASP	香味:N	十足:Vi	的:T	台灣:N	傳統:N	爆:Vi	米香:N	一起:ADV	吃:Vt	
+味道:N	中和:N	得:T	剛剛好:ADV	很:ADV	特別:Vi	、:PAUSECATEGORY	融合:Vt	民族:N	特色:N	、:PAUSECATEGORY	又:ADV	有點:ADV	接近:Vi	分子:N	料理:N	的:T	甜點:N	
+最後:N	價格:N	::COLONCATEGORY	加上:C	酒:N	以後:POST	一:DET	人:N	會:ADV	破:Vt	3000:DET	元:M	
+@:FW	@:FW	個:M	人:N	感覺:Vt	::COLONCATEGORY	好吃:Vi	
+以:P	CP:FW	值:N	來:ADV	說:Vt	也:ADV	值得:Vi	
+但是:C	加上:Vt	酒:N	的:T	話:N	
+酒:N	偏:ADV	貴:Vi	
+housewine:FW	也:ADV	不:ADV	頂:ADV	好:Vi	
+和:C	餐:N	比起來:Vt	酒:N	的:T	CP:FW	值低:Vi	不少:Vi	
+所以:C	乾脆:Vi	不要:ADV	在:P	那邊:N	點:Vt	酒:N	了:T	
+如果:C	你:N	能:ADV	克服:Vt	那邊:N	讓:Vt	你:N	想:Vt	喝:Vt	的:T	氣氛:N	的:T	話:N	
+XD:FW	
+要不然:C	就:ADV	乾脆:Vi	自己:N	帶:Vt	酒:N	
+MUME:FW	在:P	台灣:N	finedining:FW	的:T	文化:N	歷程:N	中:POST	
+是:Vt	非常:ADV	值得:Vi	一:DET	試:N	的:T	餐廳:N	
+感受:Vt	一下:N	其:DET	多:DET	國:N	高級:Vi	餐飲:N	激盪出:Vt	的:T	飲食:N	文化:N	
+跳脫:Vt	傳統:N	西餐廳:N	的:T	菜色:N	
+體驗:Vt	創意:N	之下:POST	讓:Vt	人:N	耳目一新:Vi	的:T	料理:N	呈現:Vt	
+特別:Vi	是:Vt	以:P	其:DET	affordable:FW	的:T	價位:N	
+不:ADV	試試看:Vt	怎麼:ADV	對得起:Vt	自己:N	呢:T	
+很:ADV	高興:Vt	台北:N	的:T	飲食:N	文化:N	因為:C	像:P	RAW:FW	、:PAUSECATEGORY	MUME:FW	、:PAUSECATEGORY	BENCOTTO:FW	、:PAUSECATEGORY	STAY:FW	這樣:Vi	的:T	餐廳:N	
+而:C	愈來愈:ADV	走向:Vt	國際化:Vt	之:T	路:N	
+得利:Vi	的:T	還是:ADV	我:N	這樣:Vi	的:T	愛:N	吃:Vt	一:DET	族:N	啊:T	
+::COLONCATEGORY	P:FW	
+延伸:Vi	閱讀:Vt	
+141107:DET	香港:N	中環:N	
+NURRestaurant:FW	-:DASHCATEGORY	2015年:N	米其林:N	一:DET	星:N	新:Vi	上榜:Vi	餐廳:N	http:FW	::COLONCATEGORY	/:FW	/:FW	ivyxyxyx0801.pixnet.net/blog/post:FW	/:FW	190168458140801:DET	台北:N	松山:N	
+Bencotto:FW	義大利:N	餐廳:N	@:FW	台北:N	文華:N	東方:N	酒店:N	http:FW	::COLONCATEGORY	/:FW	/:FW	ivyxyxyx0801.pixnet.net/blog/post:FW	/:FW	191273634131023:DET	台北:N	信義:N	
+w:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	ivyxyxyx0801.pixnet.net/blog:FW	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/ivyxyxyx:FW	0801:DET	--:DASHCATEGORY	

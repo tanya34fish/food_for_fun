@@ -1,0 +1,66 @@
+cubnbt:FW	93:DET	(:PARENTHESISCATEGORY	妮妮妮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	民生:N	社區:N	AfterhoursCafe:FW	
+Sun:FW	
+Aug:FW	
+24:DET	
+20:DET	::COLONCATEGORY	59:DET	::COLONCATEGORY	02:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	AfterhoursCafe:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	07:DET	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	延壽街:N	117:DET	-:DASHCATEGORY	1:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2756:DET	-:DASHCATEGORY	5117:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	~:FW	二:N	11:DET	::COLONCATEGORY	00:DET	~:FW	19:DET	::COLONCATEGORY	00:DET	週三:N	~:FW	日:M	11:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	230:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	起司:N	法式:A	吐司:N	佐:Vt	奶油:N	煎:Vt	香蕉:N	、:PAUSECATEGORY	焦糖:N	戚風:N	
+圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	cubnbt93.pixnet.net/blog/post:FW	/:FW	180290284:DET	
+在:P	民生:N	社區:N	AllPasta:FW	吃完:Vt	晚餐:N	後:POST	
+我們:N	延:Vt	著:ASP	延壽街:N	尋覓:Vt	要:ADV	續:ADV	攤:Vt	的:T	咖啡店:N	
+一路:ADV	上:Vt	經過:P	超:Vt	多:DET	家:N	餐廳:N	咖啡廳:N	的:T	
+相較:Vi	以前:POST	
+延壽街:N	變得:Vt	好:ADV	熱鬧:Vi	呀:T	
+忽然:ADV	被:P	有:Vt	著:ASP	大:Vi	片:M	落地窗:N	
+裝潢:N	有:Vt	著:ASP	濃濃:Vi	日式:A	風格:N	的:T	Afterhours:FW	吸引住:Vt	
+雖然:C	一:DET	個:M	人:N	都:ADV	沒有:Vt	
+我們:N	也:ADV	不管:C	踩:Vt	不:ADV	踩雷:Vt	就:ADV	進去:Vi	囉:T	
+包場:N	的:T	感覺:N	真:ADV	好:Vi	&:FW	lt:FW	
+3:DET	
+這邊:N	有:Vt	販賣:Vt	一些:DET	日式:A	雜貨:N	
+空間:N	擺設:Vt	寬敞:Vi	舒適:Vi	又:ADV	很:ADV	愜意:Vi	
+好:ADV	喜歡:Vt	這:DET	種:M	風格:N	
+這麼:ADV	大:Vi	片:M	落地窗:N	
+白天:N	來:POST	光線:N	應該:ADV	超:Vt	好:Vi	的:T	
+好:ADV	適合:Vi	來:T	這:DET	當:Vt	一:DET	日文:N	青:Vi	噢:T	
+飲料:N	的:T	Menu:FW	
+有:Vt	咖啡:N	、:PAUSECATEGORY	茶:N	、:PAUSECATEGORY	巧克力:N	、:PAUSECATEGORY	果汁:N	與:C	冰沙:N	
+餐點:N	Menu:FW	掛:Vt	在:P	吧檯:N	牆:N	上:N	
+鹹食:N	有:Vt	三明治:N	、:PAUSECATEGORY	貝果:N	和:C	鹹派:N	
+甜點:N	有:Vt	蛋糕:N	和:C	法式:A	吐司:N	
+鍋煮:Vt	錫蘭:N	奶茶:N	$:FW	140:DET	
+茶香:N	四溢:Vi	
+不過:C	口味:N	不:ADV	太:ADV	甜:Vi	
+美式:A	咖啡:N	$:FW	110:DET	
+法芙娜香:N	濃:Vi	可可:N	$:FW	160:DET	
+這:DET	可可:N	裝飾:N	得:T	好:ADV	有:Vt	美感:N	
+afterhours:FW	的:T	飲料:N	好像:ADV	都:ADV	不:ADV	太:ADV	甜:Vi	
+我:N	比較:ADV	prefer:FW	甜:Vi	一點:ADV	的:T	可可:N	
+起司:N	法式:A	吐司:N	佐:Vt	奶油:N	煎:Vt	香蕉:N	$:FW	130:DET	
+表皮:N	煎:Vt	至:P	焦黃:Vi	的:T	切:Vt	塊:M	法式:A	吐司:N	
+中間:N	夾:Vt	奶油:N	和:C	果醬:N	
+再:ADV	灑上:Vt	糖:N	霜:N	
+搭配:Vt	也:ADV	煎:Vt	過:ASP	的:T	香蕉片:N	
+好:ADV	精緻:Vi	的:T	吐司:N	呀:T	
+旁邊:N	那:DET	球:N	綿密:Vi	鮮:Vi	甜:Vi	的:T	鮮:Nv	奶油:N	不僅:C	點綴:Vt	擺盤:N	
+沾:Vt	著:ASP	口感:N	也:ADV	很:ADV	棒:Vi	
+我們:N	對:P	這:DET	道:M	都:ADV	很:ADV	滿意:Vt	
+來:ADV	afterhours:FW	必:ADV	點:Vt	唷:T	好好:Vi	吃:Vt	
+Afterhours:FW	焦糖:N	戚風:N	$:FW	150:DET	
+蛋糕:N	內:N	用:Vt	搭配:Nv	飲料:N	折價:Vt	20:DET	元:M	
+外帶:Vt	8:DET	折:M	
+蛋糕:N	綿密:Vi	鬆軟:Vi	
+搭配:Vt	脆:Vi	焦糖:N	口感:N	特別:Vi	
+很:ADV	喜歡:Vt	他們:N	家:N	的:T	鮮:Nv	奶油:N	了:T	
+甜:Vi	不:ADV	膩:Vi	口:N	非常:ADV	好吃:Vi	
+這:DET	次:M	初訪:Vt	Afterhours:FW	對:P	甜點:N	都:ADV	很:ADV	滿意:Vt	
+整:DET	個:M	用餐:Nv	氣氛:N	輕鬆:Vi	又:ADV	愜意:Vi	
+又:ADV	加上:Vt	包場:N	::COLONCATEGORY	P:FW	聊天:Vi	聊:Vt	再:ADV	大聲:Vi	都:ADV	不會:ADV	被:P	白眼:N	哈:ADV	哈哈:ADV	
+是:Vt	個:M	值得:Vi	再:ADV	來訪:Vi	的:T	咖啡廳:N	

@@ -1,0 +1,77 @@
+apple:FW	724724:DET	(:PARENTHESISCATEGORY	小美:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	淡水:N	ShanShanCha:FW	山山:N	來:Vi	茶:N	(:PARENTHESISCATEGORY	可:ADV	攜:Vt	寵物:N	
+Sun:FW	
+Jul:FW	
+20:DET	
+00:DET	::COLONCATEGORY	54:DET	::COLONCATEGORY	00:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	淡水:N	ShanShanCha:FW	山山:N	來:Vi	茶:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	新:Vi	北市:N	淡水區:N	中正路:N	11巷:N	1:DET	號:M	(:PARENTHESISCATEGORY	渡船:N	頭:N	旁:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2621:DET	-:DASHCATEGORY	1833:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	Mon.~Fri:FW	.:PERIODCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	
+Sat:FW	.:PERIODCATEGORY	10:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+Sun:FW	.:PERIODCATEGORY	10:DET	::COLONCATEGORY	30:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	低:Vi	銷:Vt	120:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+推薦:Vt	菜色:N	：:COLONCATEGORY	鬆餅:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.shanshancha.com:FW	/:FW	
+無:Vt	音樂:N	建議:Vt	閱讀:Vt	網誌版:N	::COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	xiaomei9928.pixnet.net/blog/post:FW	/:FW	380024024:DET	
+陽光:N	和:C	海洋:N	似乎:ADV	是:Vt	聯想到:Vt	夏季:N	必備:A	的:T	兩樣:Vi	快樂:Vi	元素:N	
+可惜:Vi	大多數:DET	人:N	都:ADV	不:ADV	是:Vt	常:ADV	有:Vt	長期:N	渡假:Vi	的:T	機會:N	
+偶爾:ADV	的:T	放假日:N	跟:P	老公:N	就是:C	想:Vt	發呆:Vi	看:Vt	書:N	、:PAUSECATEGORY	賞:Vt	景:N	看:Vt	夕陽:N	
+不過:C	因為:C	我們:N	有:Vt	一:DET	隻:M	胖:Vi	法鬥:N	常常:ADV	會:ADV	被:P	店家:N	拒:Vt	之:T	門:N	外:POST	
+有:Vt	養:Vt	寵物:N	的:T	應該:ADV	心有戚戚:Vi	焉:T	吧:T	
+所以:C	我:N	最近:N	開始:Vt	認真:Vi	想:Vt	搜集:Vt	可:ADV	帶:Vt	寵物:N	一起:ADV	的:T	店家:N	
+ShanShanCha:FW	就是:C	因為:C	這樣:Vi	才:ADV	雀屏中選:Vi	的:T	噢:T	
+先:ADV	跟:P	大家:N	推薦:Vt	一:DET	個:M	好:Vi	停車:Vi	的:T	地方:N	就:ADV	是:Vt	在:P	附近:N	的:T	淡水:N	國小:N	
+它:N	是:Vt	計次:Nv	收費:Nv	
+100:DET	元:M	/:FW	次:M	
+超級:A	划算:Vi	
+附近:N	的:T	著名:Vi	停車場:N	要:ADV	排:Vt	超:Vt	久:Vi	的:T	且:C	計時:Nv	算:Vt	
+出來:Vi	玩:Vt	光:N	想:Vt	著:ASP	時間:N	和:C	金錢:N	一起:ADV	流逝:Vi	心情:N	就:ADV	忐忑不安:Vi	
+老公:N	找到:Vt	的:T	淡水:N	國小:N	只要:C	逗留:Vi	2:DET	小時:M	以上:POST	就:ADV	非常:ADV	划算:Vi	
+ShanShanCha:FW	山山:N	來:Vi	茶:N	是:Vt	在:P	2樓:N	
+跟:P	我們:N	一樣:Vi	有:Vt	帶:Vt	寵物:N	推車:N	的:T	最好:ADV	2:DET	人:N	同行:N	才:ADV	方便:Vi	一:DET	個:M	人:N	抱:Vt	寵物:N	一:DET	個:M	人:N	抱:Vt	推車:N	
+映入:Vt	眼廉:N	的:T	室內:N	空間:N	真的:ADV	非常:ADV	棒:Vi	全:DET	玻璃:N	透光:Vi	進來:Vi	
+配合:Vt	渡假:Nv	風情:N	的:T	藤編椅:N	我:N	也:ADV	很:ADV	喜歡:Vt	
+雜誌區:N	的:T	有:Vt	適合:Vi	男性:N	閱讀:Vt	的:T	GQ:FW	以及:C	女性:N	的:T	流行:Nv	雜誌:N	都:ADV	是:Vt	近:DET	幾:DET	個:M	月:N	的:T	表示:Vt	都:ADV	有:Vt	在:P	更新:Vt	很:ADV	不:ADV	
+錯:Vi	
+桌:N	與:C	桌:N	之間:POST	的:T	距離:N	拿捏:Vt	的:T	也:ADV	不錯:Vi	不會:ADV	太:ADV	擁擠:Vi	
+店:N	內:N	唯一:A	的:T	沙發區:N	就位:Vi	在:P	一隅:N	現在:N	想想:Vt	我:N	怎麼:ADV	沒:ADV	要求:Vt	在:P	坐:Vi	沙發區:N	
+去:Vt	之前:POST	我:N	都:ADV	還:ADV	沒:ADV	吃飯:Vi	一:ADV	看到:Vt	MENU:FW	馬上:ADV	想:Vt	著:ASP	真:ADV	是:Vt	失策:Nv	
+因為:C	鹹食:N	的:T	價格:N	真的:ADV	有點:ADV	高貴:Vi	來:Vi	這裡:N	是:Vt	適合:Vi	下午茶:N	的:T	
+肚子:N	很:ADV	餓:Vi	的:T	我:N	點:Vt	了:ASP	
+普羅:N	旺斯:N	無:Vt	骨:N	雞腿:N	太陽蛋:N	
+360:DET	元:M	
+有:Vt	附:Vt	飲品:N	和:C	麥片:N	我:N	選:Vt	的:T	是:Vt	熱:Vt	麥片:N	和:C	茉香:N	翠玉:N	
+主餐:N	裡:N	應有:A	該:DET	有:Vt	麵包:N	的:T	但:C	服務生:N	來:ADV	告知:Vt	我:N	麵包:N	沒:Vt	了:ASP	可:ADV	換:Vt	薯條:N	
+如:P	圖:N	所:ADV	示:Vt	一:DET	塊:M	無骨:N	雞腿:N	、:PAUSECATEGORY	太陽:N	蛋:N	、:PAUSECATEGORY	薯條:N	及:C	沙拉:N	
+老實說:ADV	吃起來:ADV	真的:ADV	超級:A	普通:Vi	以:P	這:DET	個:M	價位:N	就是:C	不:ADV	難吃:Vi	但:C	只:ADV	能:ADV	想像:Vt	是:Vt	買:Vt	氣氛:N	才:ADV	不會:ADV	太:ADV	在意:Vt	價:N	
+格:N	
+反倒:C	是:Vt	熱:Vt	麥片:N	還:ADV	蠻:ADV	香:Vi	的:T	冰:N	的:T	茉香:N	翠玉:N	蠻:ADV	解膩:Vi	的:T	
+老公點:N	的:T	
+冰淇淋:N	麻糬:N	鬆餅:N	
+200:DET	元:M	我倆:N	都:ADV	覺得:Vt	這:DET	道:M	很:ADV	不錯:Vi	價格:N	也:ADV	合理:Vi	
+鬆餅:N	裡:N	的:T	麻糬:N	很:ADV	Q:FW	沾:Vt	著:ASP	冰淇淋:N	一起:ADV	吃:Vt	真:ADV	消暑:Vi	
+一:DET	球:N	香草:N	一:DET	球:N	巧克力:N	的:T	冰淇淋:N	都:ADV	很:ADV	好吃:Vi	
+以:P	女生:N	的:T	食量:N	而言:Vt	我:N	覺得:Vt	2:DET	人:N	一起:ADV	share:FW	比較:ADV	剛好:Vi	
+再:ADV	重申:Vt	一:DET	次:M	真的:ADV	來:ADV	這:DET	吃:Vt	下午茶:N	就:ADV	對了:Vi	
+肉:N	包包:N	等:Vt	我們:N	吃飯:Vi	都:ADV	等到:P	睡著:Vi	了:ASP	顆:M	
+我們:N	後來:N	有:Vt	把:P	肉包:N	放到:Vt	地上:N	但:C	只:ADV	讓:Vt	牠:N	在:P	我們:N	的:T	桌:N	邊:N	範圍:N	移動:Vt	
+服務生:N	的:T	態度:N	不慍不火:Vi	並:C	不會:ADV	覺得:Vt	熱情:Vi	但:C	請:Vt	他們:N	做:Vt	事:N	是:Vt	會:ADV	處理:Vt	的:T	
+女廁:N	裡:N	還:ADV	有:Vt	附:Vt	衛生棉:N	和:C	化妝:Nv	棉:N	這:DET	個:M	大:Vi	加分:Vi	
+超級:A	貼心:Vi	
+唯一:A	我:N	和:C	老公:N	非常:ADV	不:ADV	喜歡:Vt	的:T	一點:DET	是:Vt	店:N	內:N	冷氣:N	冷:Vi	到:P	好:ADV	可怕:Vi	並:C	不:ADV	是:Vt	很:ADV	舒服:Vi	的:T	氣溫:N	
+回來:Vi	後:POST	老公:N	還:ADV	感冒:Vi	了:ASP	orz:FW	
+ShanShanCha:FW	山山:N	來:Vi	茶:N	的:T	每:DET	人:N	低:Vi	銷:Vt	為:P	120:DET	元:M	另:DET	加:Vt	一成:DET	服務費:N	
+以:P	這樣:Vi	的:T	氣氛:N	和:C	環境:N	我:N	會:ADV	想:Vt	再:ADV	來:ADV	
+但:C	餐點:N	只:ADV	會:ADV	選:Vt	甜食:N	和:C	飲品:N	鹹:Vi	食:Vt	的:T	價格:N	和:C	水準:N	實在:ADV	是:Vt	太:ADV	不成:Vi	比例:N	
+店:N	內:N	有:Vt	提供:Vt	wifi:FW	不:ADV	看:Vt	雜誌:N	也:ADV	可以:ADV	盡情:ADV	的:T	當:P	低頭族:N	不過:C	會:ADV	很:ADV	可惜:Vi	就是了:Vi	
+這:DET	是:Vt	從:P	山:N	山:N	來:POST	茶:N	看出去:Vi	的:T	景象:N	
+綿延:Vt	的:T	河:N	邊:N	美景:N	讓:Vt	腦袋:N	的:T	壓力:N	釋放:Vt	不少:DET	
+離開:Vt	山山:N	來:Vi	茶:N	後:POST	我們:N	走到:Vt	離:P	這:DET	不:ADV	遠:Vi	的:T	真理:N	大學:N	走路:Vi	大概:ADV	15:DET	分鐘:M	內:POST	就:ADV	可以:ADV	到達:Vt	
+快:ADV	到達:Vt	時:POST	的:T	美景:N	陽光:N	灑:Vt	在:P	樹葉:N	透出來:Vi	美:Vi	極了:ADV	
+真理:N	大學:N	的:T	校:N	內:N	真的:ADV	極:ADV	美:Vi	老公:N	都:ADV	不管:C	熱氣:N	沸騰:Vi	拼命:Vi	捕捉:Vt	美景:N	
+雖然:C	這:DET	一:DET	區:N	的:T	範圍:N	不:ADV	大:Vi	但:C	如果:C	愛:Vt	攝影:N	的:T	人:N	來:ADV	應該:ADV	會:ADV	殺:Vt	不少:DET	底片:N	吧:T	

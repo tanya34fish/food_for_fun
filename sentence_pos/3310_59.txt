@@ -1,0 +1,11 @@
+地址:N	：:COLONCATEGORY	台北市:N	萬華區:N	昆明街:N	214:DET	-:DASHCATEGORY	1:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	80:DET	
+用餐:Nv	環境:N	十分:ADV	寬敞:Vi	
+還:ADV	帶:Vt	著:ASP	微微:A	的:T	鄉村:N	風:N	
+充分:Vi	的:T	利用:Vt	了:ASP	環境:N	
+町:N	竟然:ADV	100:DET	元:M	有:Vt	找:Vt	
+肉質:N	軟嫩:Vi	
+美味:N	更:ADV	加分:Vi	
+超級:A	好吃:Vi	
+值得:Vi	
+激推:Vt	

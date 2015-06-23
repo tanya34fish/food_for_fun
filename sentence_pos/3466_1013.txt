@@ -1,0 +1,95 @@
+changfong:FW	(:PARENTHESISCATEGORY	大同:N	寶寶:N	你:N	真:ADV	棒:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	開飯:Vi	川:N	食堂:N	‧:PERIODCATEGORY	福利:N	川菜:N	旗下:N	品牌:N	
+Tue:FW	
+Aug:FW	
+26:DET	
+18:DET	::COLONCATEGORY	24:DET	::COLONCATEGORY	13:DET	
+2014:DET	
+-----:DASHCATEGORY	
+圖文並茂版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	changfong.pixnet.net/blog/post:FW	/:FW	41206480:DET	
+-----:DASHCATEGORY	
+台北:N	‧:PERIODCATEGORY	大安區:N	
+開飯:Vi	川:N	食堂:N	‧:PERIODCATEGORY	福利:N	川菜:N	旗下:N	新:Vi	品牌:N	【:PARENTHESISCATEGORY	開飯:Vi	川:N	食堂:N	】:PARENTHESISCATEGORY	是:Vt	福利:N	川菜:N	的:T	年輕:Vi	新:Vi	品牌:N	
+裝潢:N	與:C	菜色:N	比較:ADV	迎合:Vt	現在:N	年輕人:N	的:T	口味:N	
+目前:N	在:P	台北:N	有:Vt	三:DET	家:M	分店:N	
+我們:N	來:Vi	的:T	是:Vt	位在:Vt	忠孝:N	復興:Vt	站:N	附近:N	Bistro:FW	98:DET	大樓:N	裡:N	的:T	分店:N	
+餐廳:N	裝潢:N	跟:P	一般:A	傳統:N	的:T	中菜:N	餐館:N	不:ADV	太:ADV	一樣:Vi	
+你:N	可以:ADV	看到:Vt	以:P	瓷盤:N	為:Vt	主體:N	點綴:Vt	在:P	牆面:N	上:N	的:T	裝飾:N	
+還:ADV	有:Vt	落地窗:N	可以:ADV	俯瞰:Vt	台北:N	街景:N	
+投射:Vt	燈光:N	、:PAUSECATEGORY	黑色:N	鐵:N	件:N	與:C	木桌:N	營造出:Vt	沉穩:Vi	中:POST	帶:Vt	點:M	溫暖:Vt	的:T	感受:N	
+接下來:ADV	就:ADV	是:Vt	菜單:N	啦:T	
+這裡:N	的:T	菜色:N	分成:Vt	小菜:N	、:PAUSECATEGORY	開胃菜:N	、:PAUSECATEGORY	肉類:N	、:PAUSECATEGORY	海鮮:N	、:PAUSECATEGORY	蔬菜:N	、:PAUSECATEGORY	飲料:N	等:POST	部分:DET	
+菜單:N	設計:N	得:T	很:ADV	有:Vt	質感:N	
+【:PARENTHESISCATEGORY	開飯:Vi	川:N	食堂:N	】:PARENTHESISCATEGORY	除了:P	單點:N	外:POST	
+也:ADV	有:Vt	套餐:N	的:T	組合:Nv	
+我們:N	選擇:Vt	的:T	是:Vt	四:DET	人:N	套餐:N	
+裡頭:N	有:Vt	冷盤:N	、:PAUSECATEGORY	肉類:N	、:PAUSECATEGORY	海鮮:N	、:PAUSECATEGORY	蛋:N	、:PAUSECATEGORY	青菜:N	、:PAUSECATEGORY	豆腐:N	與:C	湯:N	
+還:ADV	附:Vt	白飯:N	與:C	飲料:N	四:DET	杯:M	
+一:DET	個:M	人:N	是:Vt	450:DET	元:M	加:Vt	一成:DET	
+首先:ADV	介紹:Vt	飲料:N	部分:DET	：:COLONCATEGORY	【:PARENTHESISCATEGORY	花椒:N	凍:Vt	鳳梨:N	冰沙:N	】:PARENTHESISCATEGORY	乍:ADV	聽:Vt	之下:POST	
+花椒:N	與:C	鳳梨:N	似乎:ADV	是:Vt	從來:ADV	不會:ADV	放:Vt	在一起:Vi	的:T	兩樣:Nv	東西:N	
+不過:C	這裡:N	的:T	花椒:N	凍:Vt	只:ADV	有:Vt	淡淡:Vi	的:T	花椒:N	香氣:N	
+其實:ADV	與:P	鳳梨:N	的:T	酸香:N	不:ADV	衝突:Vi	
+反倒:C	有:Vt	種:M	特殊:Vi	的:T	化學:N	作用:N	
+非常:ADV	有趣:Vi	
+個:M	人:N	很:ADV	喜歡:Vt	
+【:PARENTHESISCATEGORY	甜:Vi	蔗茉:N	香茶:N	】:PARENTHESISCATEGORY	除了:P	有:Vt	甘蔗:N	的:T	甜味:N	外:POST	
+裡頭:N	還:ADV	有:Vt	薄荷:N	提味:N	
+清爽:Vi	好喝:Vi	
+【:PARENTHESISCATEGORY	洛神:N	獻花:Vi	冰:N	茶:N	】:PARENTHESISCATEGORY	特別:Vi	的:T	是:Vt	上頭:N	還:ADV	擺:Vt	著:ASP	一:DET	朵:M	洛神花:N	
+賣:Vt	相:ADV	很:ADV	好:Vi	
+酸酸甜甜:Vi	的:T	大眾:N	口味:N	
+【:PARENTHESISCATEGORY	桂花:N	烏龍茶:N	】:PARENTHESISCATEGORY	是:Vt	茶包:N	沖泡:Vt	的:T	
+就是:C	那樣:Vi	囉:T	
+再:ADV	來:ADV	就是:C	餐點:N	啦:T	
+這裡:N	的:T	白飯:N	是:Vt	用:P	小:Vi	鐵鍋裝:N	的:T	
+配上:Vt	那:DET	個:M	木頭:N	蓋子:N	
+很:ADV	有:Vt	質感:N	
+招待:Vt	的:T	【:PARENTHESISCATEGORY	蔓:b	越:Vt	莓醋:N	】:PARENTHESISCATEGORY	
+酸酸甜甜:Vi	滿:ADV	適合:Vi	佐餐:N	的:T	
+【:PARENTHESISCATEGORY	流:Vt	口水:N	雞:N	】:PARENTHESISCATEGORY	上頭:N	的:T	醬汁:N	是:Vt	以:P	芝麻醬:N	為:Vt	基底:N	
+還:ADV	有:Vt	花生:N	碎:Vi	與:C	辣油:N	增加:Vt	口感:N	與:C	香氣:N	
+醬汁:N	很:ADV	香:Vi	、:PAUSECATEGORY	很:ADV	夠味:Vi	
+下頭:N	的:T	雞肉:N	野軟嫩滑:Vi	口:N	
+兩:DET	者:N	搭配:Vt	起來:ASP	很:ADV	好吃:Vi	
+【:PARENTHESISCATEGORY	五:DET	更:M	腸旺:N	】:PARENTHESISCATEGORY	裡頭:N	的:T	料:N	給:Vt	得:T	不少:DET	
+豬血:N	、:PAUSECATEGORY	大腸:N	切:Vt	得:T	很:ADV	豪邁:Vi	
+口味:N	滿:ADV	重:Vi	的:T	也:ADV	滿:ADV	辣:Vi	
+令:Vt	人:N	多:ADV	扒:Vt	了:ASP	好幾:DET	口:M	飯:N	啊:T	
+【:PARENTHESISCATEGORY	百:DET	角:M	蓬蓬:DET	蝦球:N	】:PARENTHESISCATEGORY	這:DET	算是:Vt	創意:N	菜色:N	
+跟:P	川菜:N	應該:ADV	沒有:Vt	關係:N	
+哈:ADV	
+蝦球:N	外面:N	裹上:Vt	吐司:N	丁入:N	鍋:N	油炸:Vt	
+外層:N	酥脆:Vi	、:PAUSECATEGORY	內:N	餡:N	蝦肉:N	鮮:Vi	甜:Vi	飽滿:Vi	
+可以:ADV	搭配:Vt	美乃滋:N	與:C	泰式甜:N	辣醬:N	一起:ADV	吃:Vt	
+口感:N	更:ADV	豐富:Vt	
+【:PARENTHESISCATEGORY	黃金:N	美人:N	腿:N	】:PARENTHESISCATEGORY	與:C	鹹:Vi	蛋黃:N	一起:ADV	炒:Vt	的:T	筊白:N	筍:N	
+清甜:Vi	好吃:Vi	還:ADV	有:Vt	蛋黃:N	香氣:N	
+但:C	略微:ADV	鹹:Vi	了:ASP	一些些:DET	
+【:PARENTHESISCATEGORY	催淚蛋:N	】:PARENTHESISCATEGORY	與:C	不:ADV	辣:Vi	的:T	青龍:N	椒:b	一起:ADV	爆:Vi	炒:Vt	的:T	蛋:N	
+香氣:N	十足:Vi	
+蛋:N	很:ADV	厚實:Vi	還:ADV	有:Vt	焦:Vi	香味:N	
+不過:C	就:ADV	是:Vt	油膩:Vi	了:ASP	一點:DET	
+無法:ADV	吃:Vt	太多:DET	
+【:PARENTHESISCATEGORY	麻婆燒:N	豆腐:N	】:PARENTHESISCATEGORY	上桌:Vi	的:T	時候:N	還:ADV	微微:ADV	冒:Vt	著:ASP	泡:Vt	
+醬汁:N	濃厚:Vi	
+麻辣:A	的:T	口味:N	也:ADV	真的:ADV	很:ADV	下:Vt	飯:N	啊:T	
+【:PARENTHESISCATEGORY	連:C	鍋湯:N	】:PARENTHESISCATEGORY	連:C	鍋湯:N	的:T	由來:N	據說:ADV	是:Vt	因為:C	直接:Vi	把:P	煮好:Vt	湯:N	的:T	鍋子:N	端上:Vt	桌:N	
+另:DET	一:DET	說:Vt	則:ADV	是:Vt	將:ADV	素:Vi	的:T	蘿蔔:N	與:C	葷:Vi	的:T	五花肉:N	一起:ADV	連著:ADV	煮:Vt	
+【:PARENTHESISCATEGORY	連:C	鍋湯:N	】:PARENTHESISCATEGORY	裡頭:N	必備:A	有:Vt	五花肉片:N	與:C	白:Vi	蘿蔔片:N	
+湯頭:N	喝:Vt	起來:ASP	就是:C	豬肉:N	的:T	甜味:N	
+最後:N	還:ADV	有:Vt	花椒:N	的:T	香:N	與:C	麻:N	一起:ADV	呈現:Vt	
+很:ADV	好喝:Vi	
+四:DET	人:N	套餐:N	的:T	份量:N	不少:Vi	
+四:DET	個:M	人:N	吃:Vt	綽綽有餘:Vi	
+最後:N	還:ADV	打包:Vi	了:ASP	湯:N	回家:Vi	
+加:Vt	了:ASP	麵條:N	又:ADV	是:Vt	一:DET	餐:M	
+整體:N	來:ADV	說:Vt	
+菜色:N	不錯:Vi	
+口味:N	偏重:Vt	
+滿:ADV	好:Vi	下:Vt	飯:N	的:T	
+算是:Vt	不錯:Vi	的:T	聚餐:Nv	選擇:N	
+日期:N	：:COLONCATEGORY	2014.0:DET	5.11:DET	開飯:Vi	川:N	食堂:N	忠孝店:N	地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	四段:N	98:DET	號:M	7:DET	F:FW	
+Bistro:FW	98:DET	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8771:DET	-:DASHCATEGORY	6238:DET	營業:Nv	時間:N	：:COLONCATEGORY	午餐:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	15:DET	::COLONCATEGORY	00:DET	晚餐:N	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	網址:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.kaifun.com.tw:FW	/:FW	--:DASHCATEGORY	峰:N	大:Vi	的:T	生活:N	札記:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.pixnet.net/changfong:FW	--:DASHCATEGORY	

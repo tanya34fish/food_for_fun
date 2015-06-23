@@ -1,0 +1,65 @@
+uwxuwx(P:FW	幣:N	能:ADV	買:Vt	美食:N	嗎:T	?:QUESTIONCATEGORY	!:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	永康:N	商圈:N	-:DASHCATEGORY	8:DET	%:M	ice:FW	冰淇淋:N	專門店:N	
+Tue:FW	
+Aug:FW	
+12:DET	
+10:DET	::COLONCATEGORY	06:DET	::COLONCATEGORY	47:DET	
+2014:DET	
+圖文:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	77373691:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+8:DET	%:M	ice:FW	冰淇淋:N	專門店:N	
+永康:N	本:DET	店:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	永康街:N	13巷:N	6:DET	號:M	
+捷運:N	東門:N	站:Vi	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23956583:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	
+22:DET	::COLONCATEGORY	00:DET	
+消費:N	時間:N	：:COLONCATEGORY	2014.08:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+即日:N	起:POST	至:P	八月:N	底:POST	止:POST	
+8:DET	%:M	ice:FW	":FW	霜淇淋:N	":FW	和:C	新開幕:Vi	品牌:N	
+甜鹹:Vi	點心屋:N	
+":FW	外帶:Nv	甜點:N	":FW	同步:Vi	買:Vt	一:DET	送:Vt	
+一:DET	
+等同:ADV	買:Vt	一樣:Vi	賺:Vt	一樣:Vi	
+錯過:Vt	實在:ADV	可惜:Vi	
+到:P	現場:N	才:ADV	知道:Vt	
+有:Vt	我:N	愛:Vt	的:T	抹:Vt	茶:N	口味:N	
+Lucky:FW	
+我:N	買:Vt	一:DET	支:M	
+玄米抹茶:N	霜淇淋:N	
+和:C	一:DET	支:M	
+雪鹽黑糖:N	霜淇淋:N	
+折扣:N	後:POST	為:Vt	100:DET	元:M	
+送:Vt	的:T	口味:N	不:ADV	限:Vt	同:DET	一:DET	品:N	項:M	
+我:N	只是:ADV	想:Vt	試:Vt	看看:Vt	雪鹽黑糖:N	吃起來:ADV	是:Vt	什麼:DET	滋味:N	
+玄米抹茶:N	霜淇淋:N	
+是:Vt	一:DET	支:M	抹:Vt	茶:N	風味:N	極:ADV	強:Vi	又:ADV	不會:ADV	太:ADV	甜:Vi	的:T	好吃:Vi	霜淇淋:N	
+我:N	吃:Vt	不:ADV	出:Vt	明顯:Vi	的:T	玄米:N	味道:N	
+吃:Vt	不:ADV	出:Vt	霜淇淋:N	的:T	層次:N	豐富感:N	
+可能:ADV	跟:P	我:N	剛:ADV	吃完:Vt	濃厚:Vi	的:T	日式:A	拉麵:N	
+有關:Vt	
+真是:ADV	可惜:Vi	
+我:N	比較:ADV	期盼:Vt	8:DET	%:M	ice:FW	學:Vt	花見:Vi	抹:Vt	茶:N	霜淇淋:N	把:P	玄:Vi	米粒:N	直接:Vi	灑:Vt	在:P	霜淇淋:N	
+增添:Vt	視覺:N	與:C	口感:N	的:T	雙重:A	享:Vt	
+受:P	
+雪鹽黑糖:N	霜淇淋:N	
+濃醇:Vi	的:T	黑糖香:N	裡:POST	好像:ADV	真:ADV	得:ADV	吃:Vt	得到:Vt	那麼:ADV	一點點:DET	的:T	鹹:Vi	
+真的:ADV	很:ADV	特別:Vi	
+好吃:Vi	呢:T	
+最後:N	
+8:DET	%:M	ice:FW	的:T	霜淇淋餅:N	乾杯:Vi	從:P	原本:A	的:T	鬱金香:N	花型:N	改為:Vt	現在:N	的:T	方型:N	
+總:ADV	覺得:Vt	掉:Vt	了:ASP	一:DET	個:M	檔次:N	
+希望:Vt	趕緊:ADV	改回來:Vi	
+延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+◎:FW	NINAOGelato:FW	義式:A	冰淇淋:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	75629521:DET	
+◎:FW	花見:Vi	宇治抹茶:N	甘味處:N	
+抹茶:N	霜淇淋:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	72156192:DET	
+◎:FW	和:C	茗:N	甘味處:N	
+抹:Vt	茶:N	千:DET	層:M	蛋糕:N	
+下午茶:N	套餐:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	74504497:DET	
+人生:N	以:P	吃喝玩樂:Vi	為:P	目的:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx:FW	

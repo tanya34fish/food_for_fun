@@ -1,0 +1,76 @@
+ivyblueling(L-fan:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	築:Vt	地:T	平價:N	日本:N	料理:Vt	生魚片:N	蓋飯:N	100:DET	元:M	
+Thu:FW	
+Jul:FW	
+24:DET	
+23:DET	::COLONCATEGORY	00:DET	::COLONCATEGORY	20:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	築:Vt	地:T	平價:N	日本:N	料理:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	崇德街:N	7:DET	號:M	(:PARENTHESISCATEGORY	捷運:N	六:DET	張:M	犁站:N	出口處:N	附近:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	0961:DET	-:DASHCATEGORY	301:DET	-:DASHCATEGORY	986:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	0017:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	150:DET	元:M	
+推薦:Vt	菜色:N	：:COLONCATEGORY	招牌:N	生魚片:N	蓋飯:N	(:PARENTHESISCATEGORY	100:DET	元:M	):PARENTHESISCATEGORY	綜合:A	生魚片:N	(:PARENTHESISCATEGORY	180:DET	元:M	):PARENTHESISCATEGORY	味噌湯:N	(:PARENTHESISCATEGORY	30:DET	元:M	):PARENTHESISCATEGORY	
+食記:N	連結:Nv	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ivyblueling.pixnet.net/blog/post:FW	/:FW	58000398:DET	
+捷運:N	六:DET	張:M	犁站:N	附近:N	有:Vt	一:DET	間:M	非常:ADV	非常:ADV	平價:N	又:ADV	新鮮:Vi	美味:Vi	的:T	生魚片:N	蓋飯:N	
+去年:N	曾經:ADV	來:Vi	這邊:N	用餐:Vi	過:ASP	一:DET	次:M	一直:ADV	對:P	這裡:N	的:T	平價:N	生魚片:N	及:C	蓋飯:N	印象:N	深刻:Vi	
+剛好:ADV	趁著:P	來:Vi	台北:N	看:Vt	表演:N	就:ADV	帶:Vt	朋友:N	來:Vi	這裡:N	重溫:Vt	一下:N	生魚片:N	的:T	美好:Vi	拉:Vt	XDD:FW	
+隔:Vt	了:ASP	一:DET	年:M	了:ASP	店裡:N	沒:Vt	什麼:DET	太:ADV	大:Vi	改變:Vt	除了:P	菜單:N	有:Vt	多:Vi	了:ASP	選項:N	外:POST	依然:ADV	是:Vt	個:M	樸實:Vi	無華:Vi	的:T	小店:N	
+但:C	基本:N	上:N	餐點:N	好吃:Vi	外觀:N	其實:ADV	就:ADV	不:ADV	是:Vt	太:ADV	重要:Vi	了:T	吧:T	
+店:N	裡面:N	的:T	空間:N	不:ADV	大:Vi	大約:ADV	只有:ADV	20:DET	-:DASHCATEGORY	30:DET	個:M	座位:N	老闆:N	依然:ADV	看起來:ADV	酷酷:Vi	的:T	很:ADV	認真:Vi	的:T	在:P	製作:Vt	餐點:N	中:POST	
+假日:N	中午:N	生意:N	好像:ADV	沒有:Vt	想像:N	中:POST	好:Vi	耶:T	
+看到:Vt	櫃:N	裡:N	的:T	生魚片:N	都:ADV	要:ADV	流:Vt	口水:N	惹:Vt	朋友:N	也:ADV	很:ADV	好奇:Vi	究竟:ADV	這麼:Vi	平價:N	的:T	店:N	為何:ADV	會:ADV	讓:Vt	我:N	一直:ADV	念念不忘:Vt	XDD:FW	
+菜單:N	除了:P	生魚片:N	蓋飯:N	及:C	生魚片:N	外:POST	還:ADV	多:Vi	了:ASP	一些:DET	烤物:N	可以:ADV	選擇:Vt	
+不過:C	不:ADV	小心:Vt	忘:Vt	了:ASP	拍:Vt	烤物:N	的:T	菜單:N	=:FW	=:FW	orz:FW	不過:C	愛:Vt	吃:Vt	生食:N	的:T	我:N	絕對:ADV	是:Vt	點:M	上述:N	二:DET	樣:M	拉:Vt	XD:FW	
+餐具:N	請:Vt	自己:N	自取:Vt	喔:T	
+點完:Vt	餐:N	沒:Vt	多久:N	就:ADV	上桌:Vi	嘍:T	
+招牌:N	生魚片:N	蓋飯:N	
+100:DET	元:M	
+內容物:N	::COLONCATEGORY	旗魚:N	四:DET	片:M	鮭魚:N	三:DET	片:M	鮪魚:N	一:DET	片:M	蝦:N	一:DET	隻:M	花枝:N	或:C	章魚:N	共:ADV	二:DET	片:M	
+和:P	去年:N	的:T	規格:N	一樣:Vi	耶:T	
+竟然:ADV	完全:ADV	沒:ADV	漲價:Vi	
+太:ADV	誇張:Vt	了:ASP	拉:Vt	
+這樣:Vi	的:T	食材:N	價位:N	不用說:ADV	在:P	台北:N	了:T	在:P	台中:N	根本:ADV	也:ADV	吃:Vt	不:ADV	到:Vt	阿:N	
+不用說:ADV	了:T	來自:Vt	日本:N	進口:Vt	的:T	生魚片:N	不但:C	油花:N	均勻:Vi	部位:N	顯然:ADV	有:Vt	特別:Vi	挑:Vt	過:ASP	
+口感:N	新鮮:Vi	單:ADV	吃:Vt	不:ADV	加:Vt	哇:T	沙米:N	也:ADV	沒有:Vt	腥味:N	通常:ADV	這:DET	種:M	超:Vt	平價:N	的:T	生魚片:N	根本:ADV	很少:ADV	達到:Vt	這:DET	水準:N	阿:N	
+溫度:N	今天:N	雖然:C	好像:ADV	有點:ADV	不:ADV	算:Vt	很:ADV	冰:Vt	但:C	不致於:ADV	影響:Vt	口感:N	
+厚度:N	也:ADV	不:ADV	算:Vt	薄片:N	一:DET	份:M	八:DET	片:M	真的:ADV	是:Vt	非常:ADV	超值:Vi	又:C	大器:N	
+現在:N	知道:Vt	為什麼:ADV	會:ADV	願意:Vt	再:ADV	來:ADV	寫:Vt	二:DET	訪:Vt	了:ASP	吧:T	XDD:FW	
+這裡:N	的:T	生魚片:N	真的:ADV	是:Vt	平價:N	又:ADV	好吃:Vi	阿:N	由:P	其:DET	是:Vt	鮭魚:N	真的:ADV	很:ADV	讚:Vi	
+哇:T	沙米:N	是:Vt	屬於:Vt	一般:A	的:T	嗆辣型:N	醬油:N	和:C	爭:Vt	鮮:Vi	的:T	醬油:N	味道:N	很:ADV	像:Vt	還:ADV	不錯:Vi	不會:ADV	太:ADV	死:Vi	鹹:Vi	
+蝦子:N	雖然:C	就:ADV	是:Vt	一般:A	的:T	小:Vi	草蝦:N	但:C	吃起來:ADV	口感:N	脆:Vi	甜:Vi	真的:ADV	吃:Vt	的:T	出來:Vi	很:ADV	新鮮:Vi	喔:T	
+要:ADV	特別:Vi	提:Vt	一下:N	這裡:N	的:T	醋飯:N	非常:ADV	特別:Vi	入口:N	有:Vt	些微:A	鹹:Vi	甜:Vi	的:T	醬汁:N	香氣:N	再:ADV	灑上:Vt	很多:DET	的:T	白:Vi	芝麻:N	
+咀嚼:Vt	間:POST	有:Vt	著:ASP	淡淡:Vi	的:T	芝麻:N	香味:N	米飯:N	十分:ADV	有:Vt	嚼:Vt	勁:N	Q:FW	彈:Vt	
+單:ADV	吃:Vt	好像:ADV	覺得:Vt	不:ADV	大:Vi	習慣:Vt	畢竟:ADV	散:Vi	壽司:N	蓋:Vt	飯:N	大都:ADV	是:Vt	一般:A	醋飯:N	
+但:C	搭配:Vt	生魚片:N	卻:ADV	是:Vt	意外:N	的:T	match:FW	
+這裡:N	的:T	芝麻:N	冷:Vi	醋:N	飯:N	真的:ADV	很:ADV	特別:Vi	耶:T	
+朋友:N	也:ADV	是:Vt	一直:ADV	不停:ADV	稱讚:Vt	哈:ADV	
+綜合:A	生魚片:N	
+140:DET	元:M	
+上:DET	次:M	是:Vt	點:M	鮭:b	生:N	這:DET	次:M	點:N	綜合:A	試試:Vt	有:Vt	四:DET	片:M	旗魚:N	四:DET	片:M	鮭魚:N	二:DET	片:M	鮪魚:N	真的:ADV	是:Vt	很:ADV	讚:Vi	阿:N	
+這:DET	次:M	發現:N	這裡:N	的:T	蘿蔔:N	絲變:N	細:Vi	了:T	耶:T	
+上:DET	次:M	的:T	是:Vt	比較:ADV	粗:Vi	的:T	蘿蔔:N	絲:N	
+難道:ADV	是:Vt	老闆:N	改用:Vt	日本:N	品種:N	的:T	蘿蔔:N	了:T	嗎:T	XD:FW	
+切:Vt	細細:Vi	的:T	蘿蔔:N	絲:N	搭配:Vt	生魚片:N	感覺:N	品嘗:Vt	起來:ASP	又:ADV	更:ADV	細緻:Vi	了:T	
+兩:DET	人:N	吃:Vt	生魚片:N	吃:Vt	的:T	好:ADV	過癮:Vi	阿好:Vt	消暑:Vi	XDD:FW	
+上:DET	次:M	有:Vt	聽:Vt	老闆:N	說:Vt	他們:N	家:N	的:T	味噌湯:N	客人:N	都:ADV	很:ADV	愛:Vt	這:DET	次:M	就:ADV	點:Vt	了:ASP	一:DET	碗:M	來:ADV	試試:Vt	
+味噌湯:N	
+30:DET	元:M	
+看起來:ADV	好像:ADV	很:ADV	平凡:Vi	的:T	味噌湯:N	入口:N	鮮甜:Vi	香氣:N	十足:Vi	非常:ADV	清爽:Vi	不:ADV	油膩:Vi	
+魚肉:N	雖然:C	只有:ADV	2:DET	-:DASHCATEGORY	3:DET	片:M	但:C	令:Vt	人:N	驚喜:Vi	的:T	是:Vt	通常:ADV	味噌湯:N	的:T	魚肉:N	多半:DET	是:Vt	碎肉:N	這裡:N	的:T	都:ADV	是:Vt	完整:Vi	一:DET	塊:M	的:T	魚肉:N	
+而且:C	肉質:N	彈:Vt	牙:N	完全:ADV	無:Vt	腥味:N	
+感覺:N	是:Vt	用:P	好:Vi	的:T	魚肉:N	下去:Vi	煮:Vt	湯:N	耶:T	真的:ADV	很:ADV	好喝:Vi	阿:N	
+&:FW	gt:FW	
+/:FW	/:FW	/:FW	/:FW	&:FW	lt:FW	
+會:ADV	再:ADV	寫:Vt	二:DET	訪:Vt	的:T	關鍵:N	就:ADV	是:Vt	這:DET	一:DET	碗:M	阿:N	
+要不是:C	喝:Vt	不:ADV	下:Vt	了:ASP	真:ADV	想:Vt	再:ADV	點:Vt	一:DET	碗:M	哪:T	..:ETCCATEGORY	
+這裡:N	的:T	招牌:N	生魚片:N	蓋飯:N	超級:A	無敵:Vi	平價:N	只:ADV	要:Vt	100:DET	元:M	
+生魚片:N	新鮮:Vi	油花:N	均勻:Vi	CP:FW	值:N	高一盤:N	份量:N	十足:Vi	芝麻:N	冷:Vi	醋:N	飯:N	非常:ADV	特別:Vi	
+味噌湯:N	非常:ADV	清甜:Vi	魚肉:N	彈:Vt	牙:N	真的:ADV	非常:ADV	推薦:Vt	愛:N	吃:Vt	生魚片:N	的:T	朋友:N	一定:ADV	要:ADV	來:ADV	試試:Vt	拉:Vt	
+推薦:Vt	餐點:N	::COLONCATEGORY	招牌:N	生魚片:N	蓋飯:N	
+100:DET	元:M	
+綜合:A	生魚片:N	
+180:DET	元:M	
+味噌湯:N	
+30:DET	元:M	

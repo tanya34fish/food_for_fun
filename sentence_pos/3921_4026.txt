@@ -1,0 +1,52 @@
+hoho:FW	123:DET	(:PARENTHESISCATEGORY	我:N	現在:N	真是:ADV	晴空萬里:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	車站:N	微風:N	/:FW	兩:DET	面:M	燒肉:N	
+Wed:FW	
+Jan:FW	
+7:DET	
+13:DET	::COLONCATEGORY	44:DET	::COLONCATEGORY	41:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	兩:DET	面:M	燒肉:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	1月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	北平西路:N	3:DET	號:M	2樓:N	(:PARENTHESISCATEGORY	台北:N	車站:N	二樓:N	微風:N	廣場:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	2311:DET	-:DASHCATEGORY	2327:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	199:DET	元:M	加:Vt	一成:DET	服務費:N	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+推薦:Vt	菜色:N	：:COLONCATEGORY	豬肉:N	丼飯:N	
+網誌:N	好讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	daigo24.pixnet.net/blog/post:FW	/:FW	192324654:DET	
+好久:Vi	沒有:ADV	去:Vt	北:N	車:N	了:T	
+意外:N	的:T	又:ADV	剛好:ADV	到:Vt	北:N	車:N	
+便:ADV	決定:Vt	到:P	微風:N	樓上:N	的:T	二樓:N	去:ADV	吃:Vt	晚餐:N	
+在:P	樓上:N	逛:Vt	了:ASP	三:DET	次:M	都:ADV	找:Vt	不:ADV	到:Vt	什麼:DET	適合:Vi	的:T	
+因為:C	朋友:N	們:N	不:ADV	想:Vt	吃:Vt	美食街:N	的:T	東西:N	
+也:ADV	不:ADV	想:Vt	排隊:Vi	
+又:ADV	想:Vt	吃:Vt	有:Vt	店面:N	的:T	
+所以:C	就:ADV	挑:Vt	了:ASP	兩:DET	面:M	燒肉:N	
+門口:N	有:Vt	告示:N	特價:N	的:T	丼飯:N	
+原價:N	２４０:DET	元:M	的:T	都:ADV	特價:Vi	１９９:DET	元:M	
+這:DET	個:M	價位:N	對:P	不:ADV	是:Vt	想:Vt	吃:Vt	大餐:N	
+只是:ADV	想:Vt	吃:Vt	頓:M	飯:N	的:T	我們:N	算:Vt	適合:Vi	
+於是:C	便:ADV	進入:Vt	
+裡面:N	的:T	客人:N	不:ADV	多:Vi	
+服務生:N	立馬帶位:N	點菜:Vi	
+大部份:DET	的:T	客人:N	都:ADV	是:Vt	點:M	套餐:N	
+先:ADV	送上:Vt	沙拉:N	
+算:Vt	可口:Vi	
+這:DET	是:Vt	豬肉:N	片丼:N	
+１９９:DET	元:M	
+豬肉片:N	不:ADV	多:Vi	
+比:P	之前:N	吃:Vt	的:T	燒肉丼:Vt	算:Vt	少:Vi	
+肉:N	有點:ADV	偏:Vt	硬:Vi	
+雙魚丼柳頁魚:N	挺:ADV	好吃:Vi	的:T	
+魚:N	裡:N	的:T	蛋:N	很:ADV	飽滿:Vi	
+但是:C	另:DET	一:DET	種:M	像:Vt	是:Vt	鯊魚:N	煙:N	的:T	魚:N	
+肉質:N	偏:ADV	硬:Vi	
+烤:Vt	的:T	太:ADV	硬:Vi	了:T	吧:T	
+雞湯:N	可以:ADV	自己:N	加:Vt	
+蔥:N	也:ADV	是:Vt	自己:N	夾:Vt	
+飲料:N	有:Vt	數:Vt	種:M	可以:ADV	選:Vt	
+這:DET	是:Vt	柳澄汁:N	
+小菜:N	有:Vt	二:DET	種:M	
+但是:C	都:ADV	一樣:Vi	
+口味:N	沒有:ADV	特別:Vi	的:T	地方:N	
+基本:N	上:POST	沒有:ADV	給:Vt	人:N	太多:Vi	的:T	驚喜:Nv	
+但是:C	算是:Vt	可:ADV	接受:Vt	的:T	一:DET	頓:M	喔:T	

@@ -1,0 +1,62 @@
+dressingfrad:FW	(:PARENTHESISCATEGORY	搜尋:Nv	::COLONCATEGORY	dressingfrad:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義:N	哈:ADV	肯:Vt	鋪:Vt	日曬:Vi	菜脯司康:N	布丁:N	
+Wed:FW	
+Aug:FW	
+6:DET	
+13:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	37:DET	
+2014:DET	
+餐廳:N	名稱:N	::COLONCATEGORY	哈:ADV	肯:Vt	鋪:Vt	手感:N	烘焙:Vt	
+地址:N	::COLONCATEGORY	台北市:N	松高路:N	11:DET	號:M	B:FW	2:DET	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27224444:DET	
+營業:Nv	時間:N	::COLONCATEGORY	週日:N	~:FW	週四:N	am:FW	7:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	pm:FW	22:DET	::COLONCATEGORY	00:DET	
+週五:N	~:FW	週六:N	am:FW	7:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	pm:FW	23:DET	::COLONCATEGORY	00:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+無:Vt	音樂圖:N	多:ADV	縮:Vt	網址版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/yQV:FW	~:FW	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+在:P	信義:N	誠品:N	吃完:Vt	太陽:N	番茄:N	拉麵:N	之後:POST	
+沿著:P	走回:Vt	捷運站:N	的:T	路:N	上:N	
+發現:Vt	了:ASP	麵包店:N	哈:ADV	肯:Vt	鋪:Vt	
+平常:N	對:P	麵包:N	是:Vt	沒有:Vt	甚麼:DET	特別:Vi	的:T	興趣:N	今天:N	剛好:ADV	有空:Vi	就:ADV	逛:Vt	了:ASP	一下:N	
+種類:N	品:Vt	項:M	很多:DET	都:ADV	有:Vt	把:P	材料:N	解說:N	以及:C	熱量:N	寫出來:Vi	
+桑葚:N	也:ADV	出現:Vi	了:T	而且:C	是:Vt	有:Vt	完整:Vi	型:N	狀:N	的:T	整:DET	顆:M	這:DET	在:P	麵包店:N	還:ADV	滿:ADV	少見:Vi	的:T	
+日式:A	歐式:A	都:ADV	有:Vt	單價:N	其實:ADV	不:ADV	算:Vt	很:ADV	貴:Vi	
+這:DET	集:M	主打:Nv	的:T	就是:C	日曬:Vi	菜脯:N	系列:N	使用:Vt	客家:N	嬤嬤:N	手工:N	曬製:Vt	的:T	當:P	季:N	菜脯:N	
+搭配:Vt	毛豆:N	牛蒡:N	還:ADV	有:Vt	做成:Vt	司康:N	很:ADV	眼熟:Vi	的:T	酒釀:N	系列:N	這邊:N	也:ADV	有:Vt	
+小:Vi	法國:N	麵包:N	12:DET	元:M	也:ADV	有:Vt	肉桂:N	捲:Vt	滿滿:Vi	的:T	可:ADV	頌:Vt	鹹:Vi	起司:N	甜:Vi	巧克力:N	都:ADV	有:Vt	
+吐司:N	也:ADV	好多:DET	種類:N	方塊:N	火腿:N	才:ADV	35:DET	還:ADV	有:Vt	蜜紅:N	豆:N	蜂蜜:N	燕麥:N	牛奶:N	等等:POST	
+另外:C	還:ADV	有:Vt	很:ADV	像:Vt	黑:Vi	糖糕:N	的:T	布朗尼:N	蛋糕:N	
+鳳梨:N	磅:Vt	蛋糕:N	香蕉:N	核桃:N	48:DET	
+也:ADV	有:Vt	賣:Vt	整:DET	條:M	的:T	檸檬:N	蛋糕:N	200:DET	英式:A	鬆餅:N	單價:N	才:ADV	15:DET	
+產品:N	真的:ADV	很多:DET	有:Vt	些:M	也:ADV	提供:Vt	試:Vt	吃:Vt	很:ADV	不錯:Vi	
+店:N	內:N	當然:ADV	也:ADV	有:Vt	現烤:Vt	的:T	廚房:N	
+口味:N	多:DET	種:M	讓:Vt	人:N	感覺:N	可以:ADV	一直:ADV	逛:Vt	好好:Vi	研究:Nv	
+有:Vt	賣:Vt	可:ADV	麗露:N	也:ADV	有:Vt	瑪德蓮:N	
+也:ADV	可以:ADV	加購:Vt	飲料:N	比較:ADV	便宜:Vi	15:DET	元:M	
+買:Vt	了:ASP	立刻:ADV	到:Vt	美食街:N	享用:Vt	
+首先:ADV	是:Vt	黃金:N	栗子:N	燒:Vt	五:DET	顆:M	60:DET	元:M	
+有點:ADV	像:Vt	是:Vt	層層:DET	酥皮:N	包裹:N	外面:N	淋:Vt	上:Vt	了:ASP	糖衣:N	
+裡面:N	則:ADV	是:Vt	小小:Vi	的:T	有:Vt	栗子:N	泥:N	雖然:C	不:ADV	多:Vi	但是:C	因為:C	多:DET	層:M	口感:N	
+所以:C	還:ADV	不錯:Vi	
+日曬:Vi	菜脯司康:N	20:DET	
+吃起來:ADV	很:ADV	柔軟:Vi	耶:T	不:ADV	是:Vt	走:Vi	硬硬:Vi	的:T	路線:N	
+菜脯:N	的:T	味道:N	很:ADV	明顯:Vi	而且:C	和:P	麵糰:N	很:ADV	融合:Vt	
+不會:ADV	一定:ADV	要:ADV	吃到:Vt	才:ADV	會:ADV	有:Vt	味道:N	算是:Vt	表現:N	得:T	很:ADV	不錯:Vi	的:T	一:DET	品:N	有:Vt	回:M	購:Vt	
+香:Vi	草籽:N	焦糖:N	布丁:N	35:DET	
+令:Vt	人:N	期待:Vt	的:T	焦糖:N	
+營養:N	成分:N	和:C	熱:Vt	量表:N	也:ADV	有:Vt	寫清楚:Vt	
+必須:ADV	要:ADV	說:Vt	這:DET	紙:M	膜:N	好:ADV	難:Vi	開:Vt	啊:T	
+完全:ADV	無法:ADV	撕:Vt	很:ADV	久:Vi	
+可以:ADV	看到:Vt	香:Vi	草籽:N	出來:Vi	打招呼:Vi	
+布丁:N	本身:N	香草:N	的:T	味道:N	沒有:ADV	很:ADV	重:Vi	
+蛋香奶香:N	在:P	脆度:N	和:C	軟度:N	中間:N	取得:Vt	了:ASP	平衡:Vt	
+比較:ADV	愛:Vt	的:T	是:Vt	底下:N	的:T	焦糖:N	苦:Vi	
+搭配:Vt	有點:ADV	柔軟:Vi	的:T	布丁:N	剛好:ADV	但是:C	也:ADV	會:ADV	有:Vt	人:N	不:ADV	愛:Vt	苦:Vi	的:T	焦糖:N	啦:T	
+可:ADV	麗:Vi	露:Vt	45:DET	
+這:DET	款:M	有:Vt	試:Vt	吃:Vt	喔:T	覺得:Vt	不錯:Vi	所以:C	就:ADV	買:Vt	了:ASP	
+個:M	頭:N	適中:Vi	比:P	MAISONGOURMANDE:FW	吃吃:ADV	喝喝:Vt	小:Vi	一點:ADV	不過:ADV	也:ADV	比較:ADV	便宜:Vi	
+切開來:Vi	瞧瞧:Vt	
+可以:ADV	看到:Vt	內部:N	蜂巢狀:N	在:P	最:ADV	底:N	有點:ADV	小小:Vi	失敗:Vi	
+不過:C	外層:N	的:T	脆度:N	還是:ADV	不錯:Vi	
+裡面:N	則:ADV	是:Vt	軟:Vi	q:FW	有:Vt	彈:Vt	
+如果:C	從頭到尾:ADV	都:ADV	可以:ADV	彈:Vt	的:T	話:N	就:ADV	更:ADV	好了:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	dressingfrad.pixnet.net/blog:FW	

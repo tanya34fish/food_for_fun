@@ -1,0 +1,102 @@
+tigerteeth:FW	(:PARENTHESISCATEGORY	小:Vi	虎牙:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	東區:N	浪:N	奇:Vi	時尚:N	鍋物:N	用餐:Vi	也:ADV	能:ADV	時尚:N	
+Mon:FW	
+Aug:FW	
+4:DET	
+20:DET	::COLONCATEGORY	52:DET	::COLONCATEGORY	13:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	SHABULOUNGE:FW	浪:N	奇:Vi	時尚:N	鍋物:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	07月:N	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	-:DASHCATEGORY	500:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	190巷:N	32:DET	號:M	(:PARENTHESISCATEGORY	捷運:N	忠孝:N	復興:Vt	站:Vi	4:DET	號:M	出口:Nv	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2773:DET	-:DASHCATEGORY	3399:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週日:N	11:DET	::COLONCATEGORY	30:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sultt.pixnet.net/blog/post:FW	/:FW	30252227:DET	
+今天:N	這:DET	家:M	我們:N	是:Vt	使用:Vt	Gomaji:FW	的:T	團購券:N	
+原價:N	約:ADV	800多:DET	
+用:P	券:N	兩:DET	人:N	499:DET	
+店:N	門口:N	就:ADV	還:ADV	蠻:ADV	有:Vt	特色:N	的:T	
+有:Vt	注意到:Vt	照相機:N	的:T	部份:DET	不:ADV	是:Vt	禁止:Vt	符號:N	嗎:T	
+所以:C	是:Vt	歡迎:Vt	我們:N	拍照:Vi	的:T	意思:N	囉:T	
+^:FW	^:FW	推開:Vt	門:N	之後:POST	有點:ADV	想:Vt	笑:Vi	
+如果:C	不:ADV	是:Vt	火鍋:N	的:T	香氣:N	
+還:ADV	蠻:ADV	想:Vt	走到:Vt	吧台:N	點:Vt	酒:N	喝:Vt	的:T	
+凡:C	說:Vt	他:N	看到:Vt	這:DET	家:M	上面:N	寫:Vt	
+簡約:Vi	奢華:Vi	的:T	用餐:Nv	環境:N	
+就:ADV	覺得:Vt	很:ADV	適合:Vi	我:N	
+話:N	說:Vt	老婆:N	這樣:Vi	對:P	我:N	的:T	評價:N	
+該:ADV	說好:Vt	還是:ADV	不:ADV	好:Vi	呢:T	XDDD:FW	
+店面:N	其實:ADV	不:ADV	大:Vi	
+除了:P	吧台:N	以外:POST	
+剩下:Vt	就:ADV	是:Vt	兩:DET	個:M	四:DET	人:N	桌:N	
+上面:N	都:ADV	有:Vt	奢華:Vi	風格:N	的:T	吊燈:N	
+講完:Vt	我們:N	的:T	團購:Vt	券號:N	後:POST	就:ADV	來:ADV	點:Vt	餐:N	
+店家:N	有:Vt	特別:Vi	製作:Vt	一:DET	張:M	菜單:N	
+在:P	此:DET	把:M	選擇:N	打下來:Vi	：:COLONCATEGORY	安格斯:N	嫩:Vi	肩鍋:N	/:FW	安格斯:N	肥:Vt	牛:N	鍋:N	
+二:DET	選:Vt	一:DET	
+澳洲:N	自然:N	牛嫩肩:N	/:FW	紐西蘭:N	羊肉:N	/:FW	特選:Nv	自然:N	豬:N	梅花肉:N	/:FW	黃金:N	雞肉:N	/:FW	素食:N	總匯:N	
+五:DET	選:Vt	一:DET	
+湯頭:N	有:Vt	兩:DET	種:M	：:COLONCATEGORY	北海道:N	昆布湯:N	/:FW	樂活:N	高湯:N	
+二:DET	選:Vt	二:DET	
+因為:C	有:Vt	參考:Vt	店:N	門口:N	的:T	價目表:N	
+所以:C	點:Vt	了:ASP	比較:ADV	貴:Vi	的:T	安格斯:N	肥:Vt	牛:N	和:C	澳洲:N	自然:N	牛嫩肩:N	XD:FW	座位:N	下方:N	有:Vt	可以:ADV	掛:Vt	包包:N	的:T	勾:Vt	子:N	
+很:ADV	貼心:Vi	
+還是:ADV	繼續:Vt	在:P	欣賞:Vt	裝潢:N	中:POST	
+另外:C	店:N	內:N	有:Vt	WiFi:FW	
+帳號:N	密碼:N	在:P	衛生紙盒:N	上:N	
+醬料:N	
+可以:ADV	自行:ADV	搭配:Vt	辣椒:N	、:PAUSECATEGORY	蔥:N	、:PAUSECATEGORY	蒜末:N	和:C	蘿蔔:N	泥:N	
+這:DET	是:Vt	我:N	點:Vt	的:T	樂活:N	高湯:N	
+本來:ADV	以為:Vt	湯頭:N	會:ADV	很:ADV	養身:Nv	
+結果:ADV	這:DET	高湯:N	是:Vt	以:P	黃金:N	雞骨:N	、:PAUSECATEGORY	自然:N	豬骨:N	、:PAUSECATEGORY	紅蘿蔔:N	、:PAUSECATEGORY	白:Vi	蘿蔔:N	、:PAUSECATEGORY	玉米:N	慢火:N	熬煮:Vt	
+味道:N	還:ADV	蠻:ADV	濃:Vi	的:T	
+鹹:Vi	中:POST	帶:Vt	甜:Vi	
+凡:C	點:Vt	的:T	是:Vt	北海道:N	昆布湯:N	
+採用:Vt	北海道:N	特級:A	真:Vi	昆布:N	細:Vi	火:N	熬煮:Vt	
+比起來:ADV	這:DET	湯頭:N	反而:C	比較:ADV	淡:Vi	
+沒:Vt	啥:DET	味道:N	
+兩:DET	個:M	人:N	都:ADV	有的:DET	精緻:Vi	蔬食:N	菜盤:N	
+這:DET	個:M	我:N	一定:ADV	要:ADV	大力:ADV	推薦:Vt	一下:N	
+我:N	覺得:Vt	這:DET	菜:N	盤:N	好:ADV	用心:Vi	
+而且:C	裡面:N	有:Vt	神奇:Vi	的:T	料:N	
+像:Vt	是:Vt	水:N	蓮:N	、:PAUSECATEGORY	厚:Vi	絲瓜:N	、:PAUSECATEGORY	厚:Vi	茄子:N	、:PAUSECATEGORY	非常:ADV	粗壯:Vi	的:T	菇:N	
+連:C	玉米:N	煮:Vt	起來:ASP	都:ADV	比:P	一般:A	涮涮鍋:N	好吃:Vi	
+不:ADV	像:P	坊間:N	那:DET	種:M	一直:ADV	用:P	高麗菜:N	死命:ADV	往:P	上:N	加高:Vt	
+但:C	裡面:N	卻:ADV	非常:ADV	的:T	空虛:Nv	
+好:Vi	操作:Vt	的:T	加熱:Nv	面板:N	
+只:ADV	有:Vt	一:DET	份:M	的:T	海鮮:N	拼盤:N	
+內:N	有:Vt	東石:N	鮮蚵:Vi	、:PAUSECATEGORY	大:Vi	蛤蜊:N	和:C	奇:Vi	來:Vi	鯛魚片:N	
+新:Vi	鮮度:N	都:ADV	不錯:Vi	
+特別:Vi	是:Vt	蛤蜊:N	相當:ADV	多汁:Vi	
+吃起來:ADV	很:ADV	爽快:Vi	
+越:ADV	光:Vt	米飯:N	/:FW	烏龍麵:N	/:FW	冬粉:N	
+這:DET	個:M	部分:DET	是:Vt	三:DET	選:Vt	二:DET	
+我們:N	都:ADV	選:Vt	烏龍麵:N	
+麵:N	很:ADV	有:Vt	嚼:Vt	勁:N	
+也:ADV	相當:Vi	彈:Vt	牙:N	
+接下來:ADV	是:Vt	澳洲:N	自然:N	牛:N	嫩:Vi	肩鍋紅:N	豔豔:Vi	的:T	自然:N	牛:N	
+油花:N	頗:ADV	細緻:Vi	
+不過:C	澳牛:N	還是:ADV	不如:Vt	美牛:N	爽快:Vi	啊:T	
+下:DET	一:DET	盤:M	是:Vt	店家:N	主打:Vt	的:T	美國:N	穀飼安格:N	斯:DET	自然:N	牛:N	Prime:FW	系列:N	
+我們:N	選:Vt	的:T	是:Vt	安格斯:N	肥:Vt	牛:N	鍋:N	
+看看:Vt	這:DET	美麗:Vi	的:T	油花:N	在:P	這:DET	粉:N	嫩嫩:Vi	的:T	安格斯:N	司:Vt	肥牛:N	上:N	
+我:N	還:ADV	需要:Vt	告訴:Vt	你:N	很:ADV	好吃:Vi	嗎:T	
+其實:ADV	店家:N	給:Vt	的:T	份量:N	不會:ADV	少:Vi	
+但:C	這:DET	種:M	東西:N	吃完:Vt	你:N	總是:ADV	想要:Vt	再:ADV	來:ADV	一:DET	盤:M	的:T	
+對面:N	用餐:Vi	的:T	人:N	離開:Vt	後:POST	
+發覺:Vt	可以:ADV	從:P	鏡:N	中:POST	看見:Vt	自己:N	
+抽空:ADV	去:Vt	洗手間:N	看:Vt	一下:N	
+果然:ADV	還是:ADV	走:Vi	虛華:N	的:T	風格:N	XD:FW	甜點:N	有:Vt	兩:DET	種:M	可以:ADV	選:Vt	
+我們:N	就:ADV	各:ADV	來:Vi	一:DET	份:M	了:T	
+天然:A	芒果:N	布丁:N	
+雖然:C	少少:Vi	的:T	可是:C	口味:N	很:ADV	棒:Vi	
+相當:ADV	濃郁:Vi	
+另外:ADV	一:DET	份:M	是:Vt	銀耳:N	紅棗湯:N	
+這:DET	因為:C	不:ADV	是:Vt	本人:N	的:T	愛:N	
+只:ADV	能:ADV	說:Vt	料:N	多:ADV	實在:ADV	XD:FW	另外:C	湯匙:N	也:ADV	是:Vt	走:Vi	虛華:N	的:T	路線:N	XD:FW	感想:N	：:COLONCATEGORY	如果:C	是:Vt	買:Vt	券:N	兩:DET	人:N	499:DET	元:M	的:T	價格:N	來:ADV	說:Vt	
+算是:Vt	CP:FW	值:N	很:ADV	高:Vi	的:T	餐廳:N	
+另外:C	店家:N	精心:Vi	打造:Vt	了:ASP	簡約:Vi	奢華:Vi	的:T	環境:N	
+來:ADV	用餐:Vi	也:ADV	有:Vt	換:Vt	個:M	口味:N	的:T	新奇感:N	
+還:ADV	蠻:ADV	推:Vt	的:T	
+--:DASHCATEGORY	就:ADV	是:Vt	愛:Vt	旅行:Vi	我:N	的:T	旅遊:Nv	部落格:N	http:FW	::COLONCATEGORY	/:FW	/:FW	sultt.pixnet.net/blog:FW	--:DASHCATEGORY	

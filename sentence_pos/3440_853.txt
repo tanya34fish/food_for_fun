@@ -1,0 +1,41 @@
+chrisxmen:FW	(:PARENTHESISCATEGORY	認真:Vi	揮霍:Vt	每:DET	一:DET	天:M	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	稻禾:N	烏龍麵:N	(:PARENTHESISCATEGORY	松菸店:N	):PARENTHESISCATEGORY	
+Tue:FW	
+Aug:FW	
+19:DET	
+23:DET	::COLONCATEGORY	25:DET	::COLONCATEGORY	59:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	稻禾:N	烏龍麵:N	(:PARENTHESISCATEGORY	松菸店:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+網誌版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.xuite.net/chrisxmen770/wretch:FW	/:FW	234101496:DET	
+稻禾:N	烏龍麵:N	
+松菸:Vi	店:N	
+地址:N	::COLONCATEGORY	台北市:N	信義區:N	菸廠路:N	88:DET	號:M	B:FW	2:DET	
+電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	6636:DET	-:DASHCATEGORY	5559:DET	
+已:ADV	開店:Vi	有:Vt	段:M	時間:N	且:C	超過:Vt	了:ASP	用餐:Nv	時間:N	
+但:C	還是:ADV	小:Vi	排隊:Vi	一下:N	
+代表:N	應該:ADV	依然:ADV	美味:Vi	吧:T	
+門口:N	掛:Vt	個:M	好吃:Vi	鐘:N	
+如果:C	吃完:Vt	覺得:Vt	不錯:Vi	可以:ADV	敲:Vt	一下:N	表示:Vt	讚美:Vt	
+很:ADV	特別:Vi	的:T	設計:N	
+拿:Vt	餐具:N	的:T	右邊:N	有:Vt	我:N	最愛:N	的:T	蔥花:N	和:C	麵粉:N	酥:Vi	
+添加:Vt	在:P	麵:N	中:POST	可以:ADV	增添:Vt	風味:N	
+我:N	點:Vt	的:T	是:Vt	湯:N	咖哩:N	烏龍麵:N	
+點:Vt	了:ASP	炸雞:N	串:Vt	和:C	可樂餅:N	
+手工:N	現:ADV	做:Vt	的:T	烏龍:N	麵條:N	屬於:Vt	粗:Vi	麵:N	
+Q:FW	彈:Vt	有:Vt	嚼:Vt	勁:N	
+沾:Vt	著:ASP	咖哩:N	醬汁:N	越:ADV	咬:Vt	越:ADV	過癮:Vi	
+炸雞:N	串:Vt	和:C	可樂餅:N	味道:N	也:ADV	不錯:Vi	
+但:C	要是:C	能:ADV	剛:ADV	炸:Vt	好:Vi	的:T	就:ADV	更:ADV	美味:Vi	
+老婆點:N	的:T	是:Vt	明:Vi	太子:N	沾:Vt	麵:N	
+她:N	對於:P	明:N	太子:N	完全:ADV	無法:ADV	抵擋:Vt	
+弄破:Vt	半熟:Vi	的:T	蛋黃:N	與:C	明:Vi	太子醬:N	攪拌:Vt	均勻:Vi	
+再:ADV	擠:Vt	點:N	金桔汁:N	就:ADV	是:Vt	夏天:N	清爽:Vi	的:T	風味:N	
+不過:C	店家:N	給:Vt	的:T	明:Vi	太子:N	實在:ADV	太:ADV	豪氣:N	
+吃到:Vt	最後:N	感覺:N	鹹:Vi	了:ASP	點:M	
+吃完:Vt	離開:Vt	前:POST	敲:Vt	了:ASP	下:POST	好吃:Vi	鐘:N	
+不:ADV	是:Vt	因為:C	新奇:Vi	有趣:Vi	
+而是:C	真心:Vi	覺得:Vt	好吃:Vi	
+美食:N	電影:N	旅遊:Nv	教育:N	
+認真:Vi	揮霍:Vt	每:DET	一:DET	天:M	--:DASHCATEGORY	我:N	的:T	隨意:Vi	窩:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.xuite.net/chrisxmen770/wretch:FW	

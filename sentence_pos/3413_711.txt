@@ -1,0 +1,176 @@
+babycarp:FW	(:PARENTHESISCATEGORY	小魚:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	餛飩:N	舖子:N	‧:PERIODCATEGORY	傳說:N	中:POST	全:DET	台北:N	最:ADV	貴:Vi	的:T	餛飩:N	
+Mon:FW	
+Aug:FW	
+11:DET	
+23:DET	::COLONCATEGORY	17:DET	::COLONCATEGORY	09:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	餛飩:N	舖子:N	
+地址:N	：:COLONCATEGORY	台北市:N	市民:N	大道:N	5:DET	段:M	169:DET	號:M	(:PARENTHESISCATEGORY	近:DET	京華城:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2748:DET	-:DASHCATEGORY	2338:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	例假日:N	正常:Vi	營業:Nv	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014.7:DET	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.acarpblog.com/2014/08/blogger-htpt.html:FW	
+帶:Vt	骨:N	餛飩:N	
+是:Vt	甚麼:DET	阿:N	
+哈:ADV	
+首圖:N	就:ADV	破:Vt	梗:N	了:T	哩:T	
+原來:ADV	是:Vt	裡面:N	夾:Vt	蘆筍:N	阿:N	
+很:ADV	妙:Vi	
+是:Vt	不錯:Vi	吃:Vt	啦:T	
+但:C	還是:ADV	一般:A	口味:N	的:T	餛飩:N	就:ADV	好:Vi	
+這:DET	種:M	高拐:N	的:T	做法:N	我:N	還:ADV	真:ADV	吃:Vt	不:ADV	習慣:Vt	
+某:DET	天:M	友人:N	帶:Vt	我:N	來:ADV	吃:Vt	這:DET	間:M	
+很:ADV	貴:Vi	
+的:T	餛飩:N	
+雖然:C	不:ADV	便宜:Vi	
+但:C	生意:N	超:Vt	好:Vi	的:T	咧:T	
+原本:ADV	也:ADV	沒有:ADV	打算:Vt	要:ADV	寫:Vt	食記:N	
+相機:N	沒:ADV	帶:Vt	就:ADV	出門:Vi	了:ASP	
+但:C	覺得:Vt	餛飩:N	舖子:N	這:DET	間:M	店:N	蠻:ADV	有意思:Vi	
+打卡:Vi	
+的:T	時候:N	也:ADV	發現:Vt	大家:N	回應:Vt	蠻:ADV	熱烈:Vi	的:T	
+所以:C	就:ADV	用:P	手機:N	拍:Vt	了:ASP	照:Vt	
+應該:ADV	還:ADV	算:Vt	勉強:Vi	能:ADV	看:Vt	啦:T	&:FW	gt:FW	
+”:FW	&:FW	lt:FW	
+我:N	都:ADV	不:ADV	知道:Vt	原來:A	餛飩:N	舖子:N	已經:ADV	開:Vt	了:ASP	十幾:DET	年:M	
+中午:N	用餐:Nv	時間:N	
+京華城:N	這:DET	附近:N	沒:Vt	甚麼:DET	人潮:N	
+但:C	
+餛飩:N	舖子:N	裡面:N	小小:Vi	的:T	店:N	擠滿:Vt	了:ASP	人:N	
+真:ADV	不:ADV	知道:Vt	這:DET	種:M	大:Vi	熱天:N	
+這些:DET	人:N	是:Vt	從:P	哪:DET	冒出來:Vi	的:T	咧:T	
+當時:N	外面:N	的:T	座位區:N	也:ADV	很多:DET	人:N	
+滿:DET	到:P	外面:N	來:Vi	了:ASP	
+這:DET	張:M	是:Vt	吃完:Vt	之後:POST	拍:Vt	的:T	
+很多:DET	人:N	是:Vt	在:P	等:Vt	外帶:Vt	
+的:T	
+因為:C	裡面:N	位子:N	實在:ADV	不:ADV	多:Vi	
+但:C	站:Vi	在:P	外面:N	等:POST	好:Vi	熱:Vt	
+就算:C	裡面:N	已經:ADV	擠到:Vt	快:Vi	翻掉:Vi	
+但:C	我們:N	還是:ADV	
+硬:ADV	塞到:Vt	裡面:N	吹:Vt	冷氣:N	了:T	::COLONCATEGORY	p:FW	
+實在:ADV	好:ADV	有:Vt	耐心:N	耶:T	各:DET	位:M	
+室:N	內:N	的:T	座位:N	只有:C	角落:N	一:DET	張:M	可:ADV	坐:Vi	兩:DET	人:N	的:T	小:Vi	桌子:N	、:PAUSECATEGORY	吧台:N	、:PAUSECATEGORY	靠牆:N	約:ADV	六:DET	個:M	座位:N	
+就:ADV	這樣:Vi	
+這:DET	真的:ADV	不:ADV	
+像:P	吃:Vt	餛飩:N	的:T	小:Vi	館:N	耶:T	
+好像:ADV	美式:A	餐廳:N	還是:C	咖啡店:N	喔:T	
+旁邊:N	擺:Vt	了:ASP	別緻:Vi	的:T	抽屜:N	櫃子:N	
+擺:Vt	了:ASP	菜單:N	和:C	面紙:N	、:PAUSECATEGORY	餐具:N	等等:POST	
+牆:N	上:N	掛:Vt	的:T	不:ADV	是:Vt	一般:A	的:T	掛:Vt	畫:N	
+裡面:N	每:DET	格:N	就是:C	各:DET	種:M	口味:N	餛飩:N	的:T	圖示:Nv	
+畫框:N	還:ADV	不:ADV	一樣:Vi	耶:T	
+看:Vt	起:ASP	
+來:ADV	真的:ADV	好像:ADV	裝飾品:N	
+餛飩:N	口味:N	很多:DET	種:M	
+但:C	真的:ADV	不:ADV	便宜:Vi	內:POST	
+主要:ADV	分成:Vt	餛飩麵:N	、:PAUSECATEGORY	鴛鴦:N	餛飩湯:N	
+附:Vt	沾醬:N	
+和:C	抄手:N	三:DET	
+種:Vt	
+另外:C	有:Vt	生鮮:A	餛飩:N	外:POST	賣:Vt	
+不:ADV	吃:Vt	餛飩:N	的:T	話:N	也:ADV	有:Vt	乾:Vi	拌:Vt	麵:N	
+阿:N	
+竟然:ADV	沒:ADV	注意到:Vt	最:ADV	底下:N	有:Vt	烏魯:N	木:N	
+齊冰:N	
+太:ADV	特別:Vi	了:T	吧:T	
+不:ADV	知道:Vt	是:Vt	甚麼:DET	..:ETCCATEGORY	
+一般:ADV	都:ADV	只:ADV	會:ADV	有:Vt	鮮肉:N	啦:T	、:PAUSECATEGORY	蝦子:N	等:POST	的:T	口味:N	
+不:ADV	像:P	這邊:N	搞:Vt	了:ASP	很多:DET	高級:Vi	的:T	食材:N	
+像:Vt	是:Vt	干貝:N	、:PAUSECATEGORY	墨魚:N	、:PAUSECATEGORY	
+蒲鰻:N	等等:POST	
+讓:Vt	人:N	躍躍欲試:Vi	
+小菜櫃:N	上:POST	只有:ADV	兩:DET	種:M	
+快:ADV	被:P	拿:Vt	完:Vt	了:ASP	
+一:DET	盤:M	30:DET	元:M	
+終於:ADV	等到:P	吧台:N	的:T	兩:DET	個:M	座位:N	
+正:ADV	覺得:Vt	坐:Vi	小:Vi	圓:Vi	凳:N	好:ADV	麻煩:Vt	
+包包:N	還:ADV	要:ADV	放:Vt	在:P	腿:N	上:N	
+老闆:N	就:ADV	很:ADV	快:Vi	跟:P	
+我:N	說:Vt	桌子:N	底下:N	有:Vt	吊鉤:N	可以:ADV	掛:Vt	包包:N	
+真:ADV	貼心:Vi	
+櫃台:N	裡面:N	背景:N	又:C	彌勒佛:N	又:C	歐洲:N	立體畫:N	的:T	
+整:DET	個:M	很:ADV	中西合併:Vi	
+光:ADV	看:Vt	上面:N	的:T	話:N	
+會:ADV	覺得:Vt	這裡:N	好像:ADV	間:POST	小小:Vi	的:T	咖啡屋:N	
+尤其:ADV	又:ADV	有:Vt	吧台:N	呢:T	
+牆:N	上:N	的:T	是:Vt	薩克斯風:N	
+看起來:ADV	蠻:ADV	像:Vt	真的:ADV	...:ETCCATEGORY	咦:T	...:ETCCATEGORY	會不會:ADV	就:ADV	是:Vt	真的:ADV	阿:Vi	
+店:N	裡面:N	還:ADV	放:Vt	著:ASP	爵士樂:N	
+以為:Vt	這邊:N	是:Vt	pub:FW	還:ADV	是:Vt	小:Vi	酒館:N	了:ASP	阿:N	根本:ADV	
+放:Vt	名片:N	的:T	地方:N	寫:Vt	著:ASP	
+小:Vi	小店卡:N	
+我們:N	不:ADV	在乎:Vt	您:N	塞:Vt	在:P	何處:N	
+只:ADV	盼:Vt	在:P	您:N	不經意:ADV	翻出:Vt	它:N	的:T	同時:N	
+再:ADV	回來:Vi	坐坐:Vi	
+看:Vt	名片:N	上:N	有:Vt	兩:DET	間:M	店:N	
+不過:C	聽說:Vt	敦北:N	二館:N	那:DET	間:M	好像:ADV	已經:ADV	收:Vt	了:ASP	
+所以:C	現在:N	只有:C	京華城:N	附近:N	這:DET	
+間:N	
+看起來:ADV	很:ADV	性格:Vi	的:T	老闆:N	
+餛飩麵:N	都:ADV	是:Vt	現:ADV	煮:Vt	的:T	
+所以:C	先:ADV	吃:Vt	點:M	小菜:N	墊墊:N	肚子:N	
+用:P	豆瓣:N	醃:Vt	的:T	白:Vi	蘿蔔:N	紅蘿蔔:N	很:ADV	入:Vt	味:N	
+但:C	白:Vi	
+蘿蔔:N	有點:ADV	苦:Vi	
+還:ADV	問:Vt	老闆:N	說:Vt	這:DET	裡面:N	是:Vt	不:ADV	是:Vt	有加:ADV	苦瓜:N	
+搞笑:Vi	了:ASP	&:FW	gt:FW	
+”:FW	&:FW	lt:FW	
+可能:ADV	是:Vt	因為:C	現在:N	不:ADV	是:Vt	當:P	季:N	
+吧:T	
+筷架:N	很:ADV	別緻:Vi	
+但:C	不:ADV	太:ADV	實用:Vi	
+它:N	沒辦法:Vi	單獨:ADV	立:Vt	著:ASP	
+擺:Vt	起來:ASP	不:ADV	是:Vt	很:ADV	方便:Vi	
+調味:Vi	用:Vt	的:T	辣椒:N	是:Vt	裝:Vt	在:P	咖啡杯:N	裡:N	
+也:ADV	太:ADV	可愛:Vi	
+這:DET	辣椒:N	真的:ADV	讚:Vt	
+除了:P	八:DET	角:M	香料:N	之外:POST	感覺:N	還:ADV	有:Vt	
+中藥:N	的:T	香氣:N	
+先:ADV	送上:Vt	的:T	是:Vt	鮮肉:N	抄手:N	NT:FW	.:PERIODCATEGORY	50:DET	
+鋪:Vt	了:ASP	滿滿:Vi	蔥花:N	的:T	抄手:N	
+底下:N	一點點:DET	的:T	湯汁:N	調味:Vi	
+感覺:Vt	有:Vt	沙茶:N	、:PAUSECATEGORY	醋:N	等等:POST	
+再:ADV	淋:Vt	上:POST	香噴噴:Vi	辣椒:N	
+之後:N	更棒:N	
+辣椒醬:N	很:ADV	辣:Vi	
+但:C	那:DET	香氣:N	實在:ADV	太:ADV	迷人:Vi	
+會:ADV	讓:Vt	人:N	上癮:Vi	
+所以:C	就算:C	吃:Vt	得:T	一:DET	把:M	鼻涕:N	一:DET	把:M	
+眼淚:N	也:ADV	要:ADV	加:Vt	
+第一:DET	次:M	吃:Vt	
+口味:N	就:ADV	先:ADV	從:P	基本:A	款:N	的:T	鮮肉:N	開始:Vi	好了:T	
+皮:N	很:ADV	薄:Vi	很:ADV	嫩:Vi	
+跟:P	一般:A	的:T	餛飩:N	相比:Vi	這:DET	個:M	算是:Vt	大:Vi	顆:M	了:T	
+使用:Vt	豬:N	後腿肉:N	吃起來:ADV	很:ADV	細緻:Vi	可口:Vi	
+比例:N	非常:ADV	好:Vi	
+舖子:N	湯麵:N	
+全:DET	蝦:N	
+NT:FW	.:PERIODCATEGORY	140:DET	
+看起來:ADV	怎:ADV	覺得:Vt	有點:ADV	朦朧:Vi	.....:ETCCATEGORY	可能:ADV	是:Vt	...:ETCCATEGORY	鏡頭:N	髒髒:Vi	的:T	吧:T	
+是:Vt	一:DET	整:DET	隻:M	的:T	蝦:N	
+不:ADV	是:Vt	那:DET	種:M	小小:Vi	的:T	蝦仁:N	喔:T	
+所以:C	才:ADV	叫:Vt	”:FW	全蝦:N	”:FW	嘛:T	
+舖子:N	湯麵:N	
+帶:Vt	骨:N	
+NT:FW	.:PERIODCATEGORY	110:DET	
+除了:P	裡面:N	也:ADV	有:Vt	豬肉:N	之外:POST	
+還:ADV	以:P	蘆筍:N	入:Vt	餡:N	
+造型:N	好:ADV	特別:Vi	
+吃起來:ADV	清爽:Vi	又:ADV	有:Vt	飽足感:N	
+麵條:N	份量:N	不少:Vi	
+雖然:C	覺得:Vt	這樣:Vi	一:DET	碗:M	餛飩麵:N	要:ADV	一百多:DET	塊:M	還是:ADV	頗:ADV	貴:Vi	XDD:FW	
+可:ADV	別:ADV	急:Vi	著:ASP	一下子:N	就:ADV	把:P	麵:N	全部:DET	吃光光:Vi	
+旁邊:N	附:Vt	的:T	辣醬:N	
+可以:ADV	有:Vt	乾濕:Vi	兩:DET	種:M	吃法:N	
+把:P	麵:N	撈:Vt	一些:DET	進:Vt	
+去:ADV	就:ADV	變成:Vt	很:ADV	有:Vt	味道:N	的:T	乾:Vi	拌:Vt	麵:N	
+又:ADV	香:Vi	又:ADV	辣:Vi	好:Vi	過癮:Vi	
+吃完:Vt	之後:POST	好不容易:ADV	店裡:N	出現:Vi	一瞬間:N	有:Vt	清空:Vt	的:T	狀態:N	
+本:ADV	想要:Vt	趁:P	吧台:N	都:ADV	沒有:Vt	人:N	的:T	時候:N	拍:Vt	一下:N	
+結果:ADV	馬上:ADV	又:ADV	進來:Vi	一家人:N	
+都:ADV	快:Vi	兩:DET	點:N	了:ASP	耶:T	
+你們:N	是:Vt	來:ADV	吃:Vt	下午茶:N	的:T	嗎:T	...:ETCCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.acarpblog.com:FW	/:FW	
+只:ADV	是:Vt	一:DET	隻:M	胖嘟嘟:Vi	吉祥物:N	

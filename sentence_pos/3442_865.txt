@@ -1,0 +1,78 @@
+dressingfrad:FW	(:PARENTHESISCATEGORY	搜尋:Nv	::COLONCATEGORY	dressingfrad:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	天鵝:N	脖子街:N	中秋節:N	馬卡龍:N	
+Wed:FW	
+Aug:FW	
+20:DET	
+15:DET	::COLONCATEGORY	30:DET	::COLONCATEGORY	40:DET	
+2014:DET	
+餐廳:N	名稱:N	::COLONCATEGORY	天鵝:N	脖子街:N	
+地址:N	::COLONCATEGORY	台北市:N	大安區:N	復興南路:N	一段:N	92:DET	-:DASHCATEGORY	3:DET	號:M	
+電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	87733938:DET	
+營業:Nv	時間:N	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	20:DET	::COLONCATEGORY	00:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+無:Vt	音樂圖:N	多:ADV	好:Vi	讀:Vt	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/uCwo:FW	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+常常:ADV	在:P	電視:N	上:POST	看到:Vt	天鵝:N	脖子街:N	針對:P	不同:Vi	時節:N	
+推出:Vt	了:ASP	超:Vt	
+可愛:Vi	的:T	馬卡龍:N	
+這:DET	次:M	終於:ADV	入手:Vi	啦:T	
+專屬:Vt	紙袋:N	+:FW	厚實:Vi	有:Vt	直感:N	的:T	紙盒:N	
+是:Vt	可愛:Vi	的:T	巧:Vi	可:Vi	熊:N	喔:T	
+就是:C	手工:N	囍餅:N	起家:Vi	的:T	天鵝:N	脖子街:N	喔:T	
+商品:N	建議:Vt	三:DET	天:M	內:POST	食用:Vt	完畢:Vi	
+營養:N	成分:N	和:C	熱量:N	在:P	盒:N	底:POST	
+紙盒:N	裡:POST	也:ADV	有:Vt	玄機:N	
+帶:Vt	著:ASP	小:Vi	灰鼠:N	巧:Vi	可:ADV	熊在批:N	著:Vt	糖衣:N	的:T	甜點山:N	上:N	
+找尋:Vt	精靈:N	們:N	的:T	繽紛球:N	
+在:P	這:DET	趟:M	奇幻:Vi	的:T	旅程:N	
+想:Vt	把:P	驚喜:Vi	分享:Vt	給:Vt	你:N	
+裡面:N	付上:Vt	了:ASP	小:Vi	卡:N	
+寫上:Vt	伴手:N	禮:N	的:T	祝福:N	話語:N	抓:Vt	月:N	馬卡龍:N	禮盒:N	
+是:Vt	不:ADV	是:Vt	很:ADV	可愛:Vi	啊:T	
+一:DET	盒:M	九:DET	個:M	馬卡龍:N	7:DET	種:M	花樣:N	四:DET	種:M	口味:N	
+月兔:N	也:ADV	來:ADV	成為:Vt	甜點:N	囉:T	
+每:DET	個:M	馬卡龍:N	都:ADV	好:ADV	精緻:Vi	
+全:DET	員:M	大:Vi	集合:Vt	
+充滿:Vt	中秋節:N	氣氛:N	的:T	元素:N	一併:ADV	俱全:Vi	
+想到:Vt	秋天:N	就:ADV	想到:Vt	桂花:N	
+立體:Vi	的:T	糖霜:N	設計:N	可以:ADV	看出:Vt	功力:N	
+馬卡龍:N	必備:A	的:T	皺褶:N	
+充滿:Vt	桂花:N	特有:A	的:T	甜蜜感:N	
+花蜜:N	的:T	香氣:N	滿滿:Vi	
+糖霜:N	則:ADV	是:Vt	增加:Vt	了:ASP	甜度:N	表現:N	
+賞:Vt	著:ASP	桂花:N	吃:Vt	個:M	桂花:N	就:ADV	是:Vt	這:DET	個:M	意思:N	吧:T	
+中秋節:N	的:T	嫦娥:N	奔:Vi	月:N	
+象徵:Vt	著:ASP	花好月圓:Vi	
+兩:DET	款:M	都:ADV	是:Vt	紅棗:N	口味:N	喔:T	
+紅通通:Vi	的:T	喜氣:N	外殼:N	
+裡面:N	內:N	餡:N	就:ADV	是:Vt	紅棗:N	特有:A	內斂:Vi	甜:Vi	的:T	好:Vi	滋味:N	
+超可愛:Vi	重頭戲:N	登場:Vi	
+中秋節:N	除了:P	嫦娥:N	還:ADV	有:Vt	甚麼:DET	
+沒:ADV	錯:Vi	就:ADV	是:Vt	月:N	兔:N	本:DET	尊:M	啦:T	
+而且:C	全:DET	立體:Vi	感覺:N	比:P	桂花:N	更:ADV	搞:Vt	剛:ADV	
+很:ADV	考驗:Vt	技術:N	啊:T	
+可:ADV	吃:Vt	可:ADV	玩:Vt	可:ADV	消:Vi	油膩:Vi	的:T	文旦:N	柚子:N	啦:T	
+擬真度:N	非常:ADV	高:Vi	
+你:N	看:Vt	柚子:N	除了:P	有:Vt	斑駁感:N	之外:POST	
+竟然:ADV	還:ADV	幫忙:Vt	剝皮:Vi	了:ASP	啦:T	
+有沒有:ADV	這麼:ADV	專業:Vi	來著:T	可以:ADV	想像:Vt	糕點:N	師傅:N	拿:Vt	著:ASP	小:Vi	鑷子:N	的:T	細緻:Vi	動作:N	
+兩:DET	款:M	都:ADV	是:Vt	柚子:N	口味:N	喔:T	
+不:ADV	囉唆:Vi	直接:Vi	就:ADV	是:Vt	柚子醬:N	啦:T	
+就是:C	常:ADV	用來:Vt	泡茶:Vi	的:T	柚子:N	果醬:N	
+還可以:ADV	吃到:Vt	柚子:N	皮本:N	尊:N	無誤:Vi	
+外表:N	酥輕:Vi	咬:Vt	脆:Vi	裡面:N	充滿:Vt	柚香:N	
+中秋節:N	就:ADV	是:Vt	這:DET	一:DET	品:N	啦:T	當然:ADV	要:ADV	請出:Vt	月亮:N	娘娘:N	囉:T	
+今年:N	會:ADV	看到:Vt	雲:N	遮臉:Vi	還:ADV	是:Vt	大放光明:Vi	的:T	月亮:N	呢:T	
+黑:Vi	麻麻:Vi	的:T	外殼:N	是:Vt	竹炭:N	著色:Vi	
+有:Vt	偷看:Vt	到:P	內:N	餡:N	嗎:T	
+沒:ADV	錯:Vi	就:ADV	是:Vt	抹:Vt	茶:N	喔:T	
+抹:Vt	茶:N	好:ADV	好吃:Vi	
+本來:ADV	想:Vt	推薦:Vt	柚子:N	口味:N	的:T	
+但是:C	遇到:Vt	抹茶:N	瞬間:N	秒贏:N	抹茶:N	香氣:N	和:C	濃度:N	都:ADV	剛剛好:ADV	
+而且:C	不過:C	甜:Vi	外表:N	和:C	內在:N	都:ADV	很:ADV	令:Vt	人:N	喜愛:Vt	捏:Vt	
+官網:N	::COLONCATEGORY	
+地址:N	：:COLONCATEGORY	台中市:N	西屯區:N	西安街:N	277巷:N	17:DET	號:M	
+電話:N	::COLONCATEGORY	
+04:DET	
+2708:DET	-:DASHCATEGORY	5080:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	dressingfrad.pixnet.net/blog:FW	

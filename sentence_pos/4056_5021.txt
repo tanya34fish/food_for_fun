@@ -1,0 +1,218 @@
+madge:FW	123:DET	(:PARENTHESISCATEGORY	私語:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	手串:N	本:ADV	舖:Vt	．:PERIODCATEGORY	忠於:Vt	食物:N	的:T	原始:Vi	美味:Vi	
+Sun:FW	
+Feb:FW	
+15:DET	
+22:DET	::COLONCATEGORY	46:DET	::COLONCATEGORY	19:DET	
+2015:DET	
+店名:N	：:COLONCATEGORY	手串:N	本:ADV	舖:Vt	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	仁愛路:N	四段:N	8巷:N	20:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2705:DET	-:DASHCATEGORY	2892:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	18:DET	：:COLONCATEGORY	00:DET	-:DASHCATEGORY	0:DET	：:COLONCATEGORY	00:DET	
+好讀:Vt	圖文:N	網誌版:N	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	alisha0110.blogspot.tw/2015/02/blog-post_15.html#more:FW	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+我:N	還:ADV	蠻:ADV	喜歡:Vt	吃:Vt	串燒:N	的:T	
+前:DET	陣子:N	在:P	部落客:N	友人:N	的:T	推薦:Nv	下:POST	到手:Vi	串本舖:N	用餐:Vi	
+這:DET	家:M	店:N	靠近:Vt	仁愛:N	醫院:N	
+搭乘:Vt	捷運:N	的:T	話:N	從:P	忠孝:N	復興:Vt	站:Vi	走路:Vi	過來:Vi	比較:ADV	近:Vi	
+老闆:N	是:Vt	個:M	有:Vt	想法:N	有:Vt	勇氣:N	的:T	七年級:N	生:Vt	
+因為:C	愛:Vt	吃:Vt	串燒:N	
+毅然:ADV	決然:ADV	辭去:Vt	工作:N	
+前往:Vt	日本:N	學習:Vt	燒烤:Vt	
+後來:N	才:ADV	回:Vt	台:N	開:Vt	了:ASP	這:DET	間:M	充滿:Vt	日本:N	料理:Vt	精神:N	與:C	美味:Vi	的:T	串燒店:N	
+那:DET	天:M	印象:N	最:ADV	深刻:Vi	的:T	莫過於:Vt	明:Vi	太子:N	炒:Vt	烏龍麵:N	
+超級:A	對味:Vi	
+當然:ADV	還:ADV	有:Vt	許多:DET	強調:Vt	新:Vi	鮮食:N	材:N	、:PAUSECATEGORY	原汁:N	原味:N	的:T	美味:Vi	串燒:N	
+等不及:Vt	跟:P	大家:N	分享:Vt	啦:T	
+巷弄:N	裡:N	手串:N	本:ADV	舖:Vt	低調:Vi	地:T	藏身:Vi	其中:DET	
+外觀:N	帶:Vt	著:ASP	濃濃:Vi	的:T	日本:N	風情:N	
+讓:Vt	人:N	忍不住:Vt	好奇:Vi	駐足:Vi	
+一:ADV	進來:Vi	
+先:ADV	看到:Vt	手串:N	本:ADV	舖:Vt	的:T	標誌:N	
+門口:N	做:Vt	了:ASP	很:ADV	簡單:Vi	的:T	玄關:N	設計:N	
+上面:N	擺放:Vt	店家:N	的:T	名片:N	、:PAUSECATEGORY	販售:Vt	的:T	商品:N	
+桌:N	上:POST	在:P	賣:Vt	的:T	辣味:N	增醬:N	風味:N	一流:Vi	
+我:N	個:M	人:N	覺得:Vt	搭:Vt	什麼:DET	都:ADV	很:ADV	好吃:Vi	...:ETCCATEGORY	
+一:DET	罐:M	180:DET	元:M	
+價錢:N	和:C	超市:N	賣:Vt	的:T	醬料:N	當然:ADV	不能:ADV	比:P	
+但:C	日本:N	的:T	醬料:N	本來:ADV	就:ADV	很:ADV	貴:Vi	呀:T	
+不過:C	來:ADV	到手:Vi	串本舖:N	用餐:Vi	
+桌:N	上:POST	都:ADV	有:Vt	放:Vt	辣味:N	増醬:N	供:Vt	客人:N	使用:Vt	
+不妨:ADV	試試看:Vt	
+真的:ADV	不錯:Vi	吃:Vt	
+味道:N	不:ADV	辣:Vi	
+偏:ADV	甜:Vi	
+很:ADV	開胃:Vi	
+店:N	內:N	的:T	空間:N	不:ADV	大:Vi	
+但:C	空間:N	規劃:Vt	的:T	恰恰好:Vi	
+讓:Vt	客人:N	們:N	可以:ADV	近:Vt	距離:N	聊天:Vi	用餐:Vi	
+同時:N	也:ADV	不:ADV	感覺:Vt	擁擠:Vi	
+一樓:N	的:T	吧台:N	
+可以:ADV	近:Vt	距離:N	看到:Vt	師傅:N	料理:N	的:T	過程:N	
+位子:N	看起來:ADV	雖然:C	小:Vi	
+但:C	外套:N	都:ADV	可以:ADV	掛:Vt	在:P	後方:N	牆面:N	上:N	
+包包:N	也:ADV	可以:ADV	放:Vt	在:P	座椅:N	下方:N	的:T	籃子:N	中:POST	
+吧台:N	旁:N	特殊:Vi	的:T	一:DET	景:N	
+吊掛:Vt	的:T	鍋子:N	裡面:N	裝:Vt	的:T	是:Vt	燉肉:N	
+菜單:N	上:N	有:Vt	
+有:Vt	興趣:N	的:T	可以:ADV	詢問:Vt	
+一:DET	旁:N	看起來:ADV	很:ADV	像:Vt	裝飾:N	的:T	烤魚:N	
+是:Vt	真的:ADV	可以:ADV	食用:Vt	的:T	哦:T	
+只是:ADV	放:Vt	在:P	一:DET	旁:N	保溫:Vi	罷了:T	
+吧台:N	前方:N	的:T	冷藏櫃:N	擺滿:Vt	了:ASP	新鮮:Vi	的:T	肉串:N	
+店裡:N	以:P	雞:N	串燒:N	為主:Vi	
+在:P	這裡:N	可以:ADV	品嘗到:Vt	雞:N	各:DET	種:M	不同:Vi	的:T	部位:N	
+店裡:N	的:T	菜單:N	還:ADV	蠻:ADV	常:ADV	更換:Vt	的:T	
+所以:C	就:ADV	不:ADV	拍:Vt	嚕:ADV	
+有:Vt	興趣:N	的:T	可以:ADV	上:Vt	他們:N	粉絲團:N	去:ADV	看看:Vt	
+那:DET	天:M	我們:N	點:Vt	的:T	飲料:N	分別:ADV	是:Vt	葡萄:N	可:ADV	爾:N	必:ADV	思沙瓦:N	和:C	可:ADV	爾:N	必:ADV	思沙瓦:N	
+以:P	女生:N	的:T	口味:N	來:ADV	說:Vt	
+葡萄味:N	的:T	可:ADV	爾:N	必:ADV	思沙瓦:N	更:ADV	吸引:Vt	我:N	
+味道:N	更:ADV	香甜:Vi	
+基本:N	上:N	每:DET	組:M	客人:N	的:T	位置:N	前:POST	
+都:ADV	會:ADV	擺放:Vt	著:ASP	紙巾:N	、:PAUSECATEGORY	醬料罐:N	
+一:DET	罐:M	是:Vt	店家:N	的:T	招牌:N	辣味:N	增醬:N	
+一:DET	罐:M	是:Vt	唐辛子:N	
+自己:N	適量:Vi	取用:Vt	
+因為:C	手串:N	本:ADV	舖:Vt	的:T	串燒:N	口味:N	都:ADV	比較:ADV	清淡:Vi	
+強調:Vt	食:Vt	材:N	本身:N	的:T	美味:N	
+所以:C	吃:Vt	不:ADV	慣:Vi	的:T	朋友:N	
+可以:ADV	搭配:Vt	辣味:N	增醬:N	、:PAUSECATEGORY	唐辛子:N	食用:Vt	
+增添:Vt	不同:Vi	的:T	風味:N	
+坐:Vi	在:P	吧台區:N	就:ADV	可以:ADV	看到:Vt	師傅:N	料理:N	的:T	過程:N	嚕:ADV	
+炭火:N	下:POST	是:Vt	備長:N	炭:N	
+看:Vt	師傅:N	怎麼:ADV	掌控:Vt	火候:N	、:PAUSECATEGORY	再:ADV	一:DET	手:N	灑鹽花:N	的:T	技巧:N	
+感覺:N	厲害:Vi	
+首先:ADV	送上來:Vt	的:T	是:Vt	山葵:N	雞里:N	肌:N	
+我:N	第一:DET	次:M	看到:Vt	這麼:ADV	白:Vi	....:ETCCATEGORY	的:T	串燒:N	
+里肌肉:N	本來:ADV	就:ADV	比較:ADV	乾:Vi	
+這:DET	道:M	山葵:N	雞里肌:N	特別:Vi	只:ADV	做:Vt	7:DET	、:PAUSECATEGORY	8:DET	分:M	熟:Vi	
+所以:C	吃起來:ADV	也:ADV	比較:ADV	嫩:Vi	
+上面:N	只:ADV	灑:Vt	了:ASP	少許:DET	鹽:N	花:N	和:C	一點點:DET	的:T	山葵:N	
+口味:N	比較:ADV	清淡:Vi	
+從:P	里肌肉:N	切面:N	來:ADV	看:Vt	
+雞肉:N	好:ADV	粉嫩:Vi	阿:N	
+我:N	總:ADV	覺得:Vt	看起來:ADV	很:ADV	像:Vt	飛雷:N	口香糖:N	
+大蔥:N	腿肉:N	
+上面:N	同樣:Vi	灑:Vt	了:ASP	少許:DET	鹽:N	花:N	、:PAUSECATEGORY	胡椒:N	
+這:DET	道:M	對:P	我:N	來:ADV	說:Vt	比較:ADV	普通:Vi	些:ADV	
+明:N	太子:N	炒:Vt	烏龍:N	
+我:N	超:Vt	愛:Vt	吃:Vt	烏龍麵:N	的:T	
+明:N	太子:N	、:PAUSECATEGORY	半熟:Vi	蛋:N	、:PAUSECATEGORY	蔥花:N	和:C	烏龍麵:N	的:T	組合:Nv	
+簡直:ADV	就是:C	美味:Vi	關鍵字:N	
+這:DET	道:M	料理:N	超:Vt	好吃:Vi	
+必:ADV	點:Vt	
+我:N	超:Vt	喜歡:Vt	將:ADV	半熟:Vi	蛋:N	的:T	蛋:N	汁:N	和:C	在:P	麵:N	或者:C	飯:N	裡:N	
+口感:N	很:ADV	好:Vi	
+烏龍:N	麵:N	咕溜:N	咕溜:N	的:T	
+超:Vt	滑溜:Vi	、:PAUSECATEGORY	彈:Vt	牙:N	
+濃郁:Vi	的:T	醬汁:N	吃:Vt	得到:Vt	一顆顆:DET	的:T	明:Vi	太子:N	
+將:P	海苔:N	、:PAUSECATEGORY	蔥花:N	稍微:ADV	拌:Vt	一下:N	
+讓:Vt	人:N	忍不住:Vt	一口:ADV	接:Vt	一口:ADV	
+雞翅:N	
+我:N	第一:DET	次:M	看到:Vt	這樣:Vi	的:T	手:N	羽:N	先:ADV	
+店家:N	有:Vt	事先:ADV	處理:Vt	過:ASP	
+讓:Vt	客人:N	在:P	吃:Vt	雞翅:N	時:POST	非常:ADV	方便:Vi	
+可以:ADV	吃:Vt	得:T	優雅:Vi	
+不用:ADV	費勁:Vi	的:T	啃:Vt	
+雞皮:N	烤:Vt	的:T	蠻:ADV	香:Vi	
+肉:N	雖然:C	不:ADV	多:Vi	
+但:C	還:ADV	蠻:ADV	嫩:Vi	的:T	
+青椒:N	起:POST	司:Vt	肉捲:N	
+這:DET	道:M	也:ADV	算是:Vt	店家:N	的:T	特色:N	料理:N	
+也:ADV	是:Vt	我們:N	第一:DET	次:M	吃:Vt	到:P	
+用:P	豬肉片:N	包裹:N	青椒:N	和:C	起:Vt	司:N	
+應該:ADV	是:Vt	莫:N	扎瑞:N	拉起司:N	
+烤:Vt	的:T	金黃:Vi	漂亮:Vi	
+口感:N	非常:ADV	好:Vi	
+味道:N	香:Vi	
+吃進:Vt	嘴:N	裡:N	青椒:N	與:C	起:Vt	司:N	的:T	濃郁:Vi	和:C	肉片:N	融合:Vt	化開:Vt	
+雞頸肉:N	限量:Vi	珍品:N	
+我:N	和:C	閃光:N	都:ADV	是:Vt	第一:DET	次:M	吃:Vt	雞頸:N	肉:N	
+這:DET	道:M	料理:N	被:P	店家:N	列為:Vt	限量:Vi	珍品:N	
+想想:Vt	也:ADV	是:Vt	
+一:DET	隻:M	雞:N	的:T	頸部肉:N	會:ADV	有:Vt	多少:DET	呢:T	
+可是:C	我們:N	吃:Vt	的:T	不:ADV	是:Vt	很:ADV	習慣:Vt	
+我:N	個:M	人:N	覺得:Vt	口感:N	有點:ADV	像:Vt	是:Vt	沒:ADV	那麼:ADV	硬:Vi	的:T	雞:N	軟骨:N	
+但:C	還:ADV	帶:Vt	點:M	肉:N	...:ETCCATEGORY	總之:ADV	我:N	不:ADV	太:ADV	喜歡:Vt	
+但:C	我:N	覺得:Vt	這:DET	道:M	做為:Vt	下:DET	酒菜:N	
+應該:ADV	是:Vt	受:P	歡迎:Vt	的:T	
+雞心:N	管:Vt	限量:Vi	珍品:N	
+雞心:N	管:Vt	我:N	更:ADV	是:Vt	從:P	沒:ADV	聽:Vt	過:ASP	
+我:N	是:Vt	土包子:N	...:ETCCATEGORY	不好意思:Vi	
+我:N	和:C	閃光:N	都:ADV	是:Vt	頭:DET	一:DET	回:M	吃:Vt	
+過去:N	我們:N	兩:DET	個:M	都:ADV	是:Vt	不:ADV	敢:Vt	吃:Vt	內臟:N	部位:N	的:T	人:N	
+看到:Vt	這:DET	個:M	內心:N	有點:ADV	顫抖:Vt	
+烤:Vt	得:T	非常:ADV	漂亮:Vi	
+雞心:N	管:Vt	很:ADV	袖珍:Vi	
+看起來:ADV	像:Vt	小小:Vi	的:T	螺肉:N	
+實際:Vi	上:POST	吃起來:ADV	口感:N	非常:ADV	軟:Vi	嫩:Vi	
+不過:C	我們:N	實在:ADV	是:Vt	吃:Vt	不:ADV	習慣:Vt	啊:T	...:ETCCATEGORY	可惜:Vi	
+喜歡:Vt	吃:Vt	內臟類:N	的:T	朋友:N	
+一定:A	要點:N	來:ADV	試試看:Vt	
+很少:ADV	有:Vt	店家:N	可以:ADV	處理:Vt	得:T	這麼:Vi	好了:T	
+玉米:N	筍:N	
+玉米:N	筍:N	向來:ADV	是:Vt	我:N	的:T	愛:N	
+不管:C	去:ADV	吃:Vt	什麼:DET	
+只要:C	菜單:N	上:N	有:Vt	玉米:N	筍:N	的:T	選項:N	
+我:N	一定:ADV	都:ADV	會:ADV	點:ADV	
+尤其:ADV	是:Vt	串燒店:N	賣:Vt	的:T	玉米:N	筍:N	
+將:P	玉米:N	筍:N	剝開:Vt	後:POST	吃:Vt	它:N	的:T	原汁:N	原味:N	
+水嫩:Vi	多汁:Vi	
+直接:Vi	吃:Vt	或者:C	沾:Vt	點:M	玫瑰:N	鹽:N	都:ADV	很:ADV	讚:Vi	
+高麗菜:N	捲:Vt	
+這:DET	道:M	高麗菜:N	捲:Vt	是:Vt	一:DET	小:Vi	盅:N	的:T	
+不:ADV	知道:Vt	用:P	什麼:DET	熬製:Vt	的:T	高湯:N	
+味道:N	很:ADV	清甜:Vi	
+搭配:Vt	著:ASP	半熟:Vi	蛋:N	和:C	高麗菜:N	捲:Vt	
+高麗菜:N	已經:ADV	被:P	煮:Vt	的:T	軟:Vi	爛:Vi	
+輕輕:Vi	一:ADV	咬:Vt	裡面:N	是:Vt	多汁:Vi	的:T	雞肉:N	
+口感:N	有點:ADV	像:Vt	漢堡肉:N	
+鹽烤:Vt	香魚:N	
+串燒店:N	常見:Vi	的:T	烤魚:N	
+這:DET	個:M	也:ADV	是:Vt	很:ADV	講究:Vt	火候:N	掌控:Vt	的:T	功夫:N	
+主要:ADV	吃:Vt	魚:N	的:T	新鮮:Vi	原味:N	
+可:ADV	先:ADV	淋上金桔:N	
+增添:Vt	風味:N	
+一:DET	旁:N	也:ADV	有:Vt	胡椒:N	鹽:N	
+香魚:N	的:T	肉質:N	比較:ADV	粗:Vi	、:PAUSECATEGORY	散:Vi	
+我:N	沒有:ADV	很:ADV	愛:Vt	
+但:C	對:P	別人:N	來:ADV	說:Vt	也許:ADV	有:Vt	不同:Vi	感覺:N	
+鹽烤:Vt	香魚:N	最:ADV	重要:Vi	的:T	就是:C	吃:Vt	它:N	的:T	卵:N	啦:T	
+你:N	看看:Vt	這麼:Vi	大一:N	條:M	
+膽固醇:N	應該:ADV	很:ADV	高:Vi	...:ETCCATEGORY	我:N	個:M	人:N	是:Vt	抱:Vt	著:ASP	淺:Vi	嘗:Vt	即可:Vi	的:T	心態:N	
+吃:Vt	到:P	這裡:N	
+肚子:N	已經:ADV	很:ADV	撐:Vi	啦:T	
+老闆:N	最後:N	送上:Vt	烤麻糬:N	作為:Vt	餐:N	後:POST	甜點:N	
+我:N	很:ADV	喜歡:Vt	它們:N	使用:Vt	的:T	醬汁:N	和:C	上面:N	灑上:Vt	的:T	粉:N	
+甜甜:Vi	、:PAUSECATEGORY	鹹鹹:Vi	
+帶:Vt	點:M	淡淡:Vi	的:T	酒香:N	
+烤麻糬:N	好吃:Vi	
+不:ADV	黏:Vt	牙:N	
+但:C	我:N	覺得:Vt	不:ADV	夠:ADV	軟:Vi	
+太:ADV	有:Vt	彈性:N	以至於:C	吃:Vt	的:T	兩:DET	腮:N	有點:ADV	痠:Vi	
+我們:N	離開:Vt	時:POST	
+店裡:N	還:ADV	有:Vt	許多:DET	的:T	客人:N	
+比起:P	一樓:N	
+二樓:N	更:ADV	是:Vt	熱鬧:Vi	
+許多:DET	上班族:N	下班:Vi	後:POST	就:ADV	相約:Vi	前來:Vt	喝:Vt	點:M	小:Vi	酒:N	、:PAUSECATEGORY	吃吃:Vt	串燒:N	
+快活:Vi	極:ADV	啦:T	
+我:N	最:ADV	在意:Vt	的:T	廁所:N	環境:N	也:ADV	非常:ADV	乾淨:Vi	
+裡面:N	還:ADV	貼心:Vi	的:T	備有:Vt	漱口水:N	、:PAUSECATEGORY	衛生棉:N	、:PAUSECATEGORY	牙籤:N	、:PAUSECATEGORY	棉花棒:N	...:ETCCATEGORY	等:POST	
+在:P	和:P	老闆:N	聊天:Vi	的:T	過程:N	中:POST	
+發現:Vt	老闆:N	本身:N	也:ADV	很:ADV	愛:Vt	日本:N	的:T	清酒:N	呢:T	
+店裡:N	更:ADV	有:Vt	專業:Vi	的:T	唎酒:N	師:N	
+所以:C	他們:N	不:ADV	定期:ADV	還:ADV	會:ADV	舉辦:Vt	日本:N	清酒:N	品嚐會:N	
+教:Vt	大家:N	怎麼:ADV	喝:Vt	清酒:N	
+也:ADV	可以:ADV	一:DET	次:M	品嚐到:Vt	各:DET	種:M	不同:Vi	的:T	地方酒:N	
+對於:P	愛:Vt	喝:Vt	日本:N	酒:N	的:T	人:N	簡直:ADV	是:Vt	一:DET	大:Vi	福音:N	
+相關:Vi	資訊:N	可:ADV	密切:Vi	鎖定:Vt	他們:N	粉絲團:N	
+或者:C	常:ADV	去:Vt	手:N	串:Vt	本:DET	舖:Vt	報到:Vi	以:P	取得:Vt	第一手:A	消息:N	
+手串:N	本:ADV	舖:Vt	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2705:DET	-:DASHCATEGORY	2892:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	18:DET	：:COLONCATEGORY	00:DET	-:DASHCATEGORY	0:DET	：:COLONCATEGORY	00:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	仁愛路:N	四段:N	8巷:N	20:DET	號:M	
+艾莉莎愛:N	分享:Vt	．:PERIODCATEGORY	旅遊:Nv	．:PERIODCATEGORY	美食:N	．:PERIODCATEGORY	婚禮:N	
+部落格:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	alisha0110.blogspot.tw:FW	/:FW	
+粉絲:N	專頁:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/alisha:FW	0110:DET	

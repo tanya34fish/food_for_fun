@@ -1,0 +1,77 @@
+LoveFood:FW	(:PARENTHESISCATEGORY	食:Vt	在:P	愛玩:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	【:PARENTHESISCATEGORY	百合:N	莊園:N	】:PARENTHESISCATEGORY	籃球:N	國手:N	邱德治:N	的:T	中:N	餐廳:N	
+Mon:FW	
+Aug:FW	
+11:DET	
+11:DET	::COLONCATEGORY	14:DET	::COLONCATEGORY	43:DET	
+2014:DET	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.lovefood.cc/2014/08/blog-post_11.html:FW	
+【:PARENTHESISCATEGORY	百合:N	莊園:N	】:PARENTHESISCATEGORY	位於:Vt	大安區:N	的:T	樂利:N	路:N	上:N	
+是:Vt	有:Vt	小飛俠:N	外號:N	之:T	稱:N	的:T	前:DET	籃球:N	國手:N	邱德治:N	所:ADV	開設:Vt	
+店:N	雖然:C	不:ADV	大:Vi	間:N	
+不過:C	裝潢:N	蠻:ADV	典雅:Vi	精緻:Vi	的:T	
+並:C	內:N	有:Vt	個:M	小小:Vi	的:T	庭院:N	以及:C	二樓:N	包廂:N	
+百合:N	莊園:N	以:P	客家:N	創意:N	料理:N	為:Vt	特色:N	
+除:P	客家菜:N	外:POST	
+這裡:N	也:ADV	有:Vt	各:DET	式:M	有名:Vi	的:T	中菜:N	
+像:P	宮保:N	雞丁:N	、:PAUSECATEGORY	
+左宗棠雞:N	、:PAUSECATEGORY	椒香:N	口水:N	牛:N	等:POST	
+各:DET	菜:N	價位:N	約:ADV	在:P	$:FW	200:DET	
+$:FW	480:DET	間:M	
+首先:ADV	推薦:Vt	他:N	的:T	海鮮:N	咖哩:N	煲:Vt	
+也:ADV	是:Vt	店:N	內:N	點菜:Vi	排行:Vt	版:N	的:T	第一:DET	名:M	
+這:DET	道:M	煲:Vt	可能:ADV	所:ADV	認知:Vt	會:ADV	有點:ADV	不同:Vi	
+他:N	有點:ADV	是:Vt	泥:N	狀:N	
+還:ADV	附:Vt	熱騰騰:Vi	的:T	麵包:N	讓:Vt	你:N	沾:Vt	
+煲:Vt	裡:POST	主要:ADV	是:Vt	蝦仁:N	等:POST	食材:N	
+真的:ADV	很:ADV	香:Vi	濃:Vi	
+麵包:N	
+又:ADV	軟綿綿:Vi	真的:ADV	很:ADV	好吃:Vi	
+我們:N	點:Vt	的:T	是:Vt	小:Vi	份:M	就:ADV	有:Vt	七:DET	片:M	麵包:N	
+感覺:Vt	點:ADV	這:DET	道:M	
+幾乎:ADV	可以:ADV	不用:ADV	點:Vt	白飯:N	
+就:ADV	能:ADV	吃:Vt	很:ADV	飽:Vi	了:T	
+接:Vt	者:N	是:Vt	金沙:N	辣味:N	軟絲:N	
+是:Vt	店:N	內:N	點菜:Vi	排行:Vt	版:N	的:T	第二:DET	名:M	
+他:N	的:T	所謂:Nv	金沙:N	就:ADV	是:Vt	鹹:Vi	蛋黃:N	
+而:C	這:DET	軟絲:N	
+外皮:N	炸:Vt	得:T	很:ADV	香:Vi	酥:Vi	、:PAUSECATEGORY	裡面:N	的:T	軟絲:N	還是:ADV	很:ADV	有:Vt	彈性:N	
+口感:N	真的:ADV	不錯:Vi	
+接:Vt	者:N	是:Vt	三:DET	杯:M	美人:N	腿:N	
+也:ADV	就是:C	筍子:N	拉:Vt	
+三:DET	杯:M	系列:N	是:Vt	標準:N	的:T	下:DET	飯菜:N	
+味道:N	與:C	氣味:N	都:ADV	超重:Vi	
+美人:N	
+腿:N	夠:ADV	香:Vi	嫩:Vi	
+不過:C	有點:ADV	小:Vi	辣:Vi	就:ADV	是:Vt	
+另外:C	
+這:DET	道:M	左宗棠:N	雞:N	
+也:ADV	就是:C	炸雞:N	淋:Vt	上:POST	特製:Vt	的:T	醬料:N	
+但:C	個:M	人:N	覺得:Vt	百合:N	莊園:N	的:T	左宗棠:N	雞:N	的:T	醬:N	
+料:Vt	
+太:ADV	
+鹹:Vi	
+啦:T	
+有點:ADV	不合:Vi	本人:N	的:T	胃口:N	
+撇開:Vt	醬料:N	不:ADV	談:Vt	的:T	話:N	
+雞肉:N	真的:ADV	蠻:ADV	嫩:Vi	的:T	就是:C	
+本文:N	內:N	餐點:N	皆:ADV	為:Vt	自費:Vi	
+無:Vt	受:P	店家:N	免費:Vi	招待:Vt	
+發票:N	或:C	用餐:Nv	明細:N	如下:Vt	
+百合:N	莊園:N	
+電話:N	::COLONCATEGORY	
+02:DET	
+27333453:DET	
+地址:N	::COLONCATEGORY	台北市:N	大安區:N	樂利路:N	11巷:N	23:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	
+週日:N	11:DET	::COLONCATEGORY	00:DET	
+14:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	17:DET	::COLONCATEGORY	00:DET	
+21:DET	::COLONCATEGORY	30:DET	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014:DET	.:PERIODCATEGORY	7.30:DET	
+更多:DET	名人:N	的:T	店:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/bexnCR:FW	
+感謝:Vt	您:N	的:T	邀請:Nv	
+不過:C	我們:N	謝絕:Vt	試:Vt	吃:Vt	邀約:Vt	
+歡迎:Vt	推薦:Vt	好:Vi	餐廳:N	
+我們:N	會:ADV	自費:Vi	前往:Vt	體驗:Vt	
+食:Vt	在:P	愛玩:Vi	：:COLONCATEGORY	讓:Vt	食記:N	也:ADV	能:ADV	很:ADV	浪漫:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.LoveFood.cc:FW	

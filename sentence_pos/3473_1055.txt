@@ -1,0 +1,78 @@
+jojoyue:FW	(:PARENTHESISCATEGORY	開水:N	小姐:N	NN:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	新埔:N	-:DASHCATEGORY	殘念感:N	十足:Vi	的:T	方屋:N	餐廳:N	
+Thu:FW	
+Aug:FW	
+28:DET	
+16:DET	::COLONCATEGORY	40:DET	::COLONCATEGORY	32:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	方屋:N	餐廳:N	FoundHouse:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	220:DET	新:Vi	北市:N	板橋區:N	介壽街:N	2:DET	號:M	
+電話:N	：:COLONCATEGORY	0222595050:DET	
+附註:Vt	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	jojoyue.pixnet.net/blog/post:FW	/:FW	30322688:DET	
+圖文:N	好讀版:N	----:DASHCATEGORY	基於:P	愛:Vt	吃:Vt	的:T	因素:N	
+最近:N	常:ADV	與:P	朋友:N	相約:Vi	探索:Vt	板橋:N	各:DET	處:N	的:T	食物:N	選擇:Vt	XD:FW	這:DET	次:M	的:T	方屋:N	餐廳:N	是:Vt	步行:Vi	在:P	新埔站:N	充滿:Vt	小食店:N	的:T	巷子:N	裡:N	遇見:Vt	的:T	
+出色:Vi	的:T	餐廳:N	外形:N	以及:C	滿座:Vi	的:T	人潮:N	引起:Vt	了:ASP	少女:N	的:T	興趣:N	XD:FW	門口:N	的:T	手寫:A	菜單:N	簡潔:Vi	乾淨:Vi	
+很:ADV	吸引人:Vi	呦:b	雖然:C	餐廳:N	滿座:Vi	
+但:C	很:ADV	幸運:Vi	的:T	馬上:ADV	就:ADV	入座:Vi	了:ASP	
+一:DET	進:M	門:N	就:ADV	看到:Vt	非常:ADV	貼心:Vi	的:T	wifi:FW	用戶:N	密碼:N	呦:b	
+顯眼:Vi	極了:ADV	
+我:N	喜歡:Vt	這:DET	種:M	擺設:N	哈:ADV	哈哈:ADV	
+可以:ADV	免去:Vt	很多:DET	到:Vt	櫃台:N	詢問:Vt	的:T	時間:N	店:N	內:N	非常:ADV	寬敞:Vi	
+位置:N	數:N	也:ADV	不少:Vi	
+裝潢:N	的:T	方面:N	粗:Vi	曠:Vi	簡約:Vi	
+帶:Vt	著:ASP	一:DET	絲:M	隨興:Vi	的:T	閒適:Nv	相當:ADV	俐落:Vi	
+對:P	我:N	來:ADV	說:Vt	唯一:A	的:T	缺點:N	大概:ADV	就:ADV	是:Vt	靠:P	窗:N	的:T	高腳鐵椅:N	坐起來:Vi	非常:ADV	不:ADV	舒服:Vi	沒:Vt	一:ADV	下:Vt	就:ADV	屁股:N	痛:Vi	了:T	
+而且:C	像:P	我:N	這:DET	種:M	短腿系:N	女神:N	
+腳:N	無法:ADV	碰到:Vt	地:T	
+想要:Vt	移動:Vt	時:POST	會:ADV	發出:Vt	嘎:FW	資嘎茲:N	的:T	尷尬:Nv	聲響:N	XD:FW	服務生:N	遞:Vt	菜單:N	的:T	速度:N	還:ADV	算:Vt	相當:ADV	俐落:Vi	運用:Vt	蠟筆:N	寫:Vt	菜單:N	真的:ADV	太:ADV	可愛:Vi	了:T	啦:T	XDD:FW	細看:Vt	菜單:N	之後:POST	我:N	感覺:Vt	有點:ADV	訝異:Vt	
+看:Vt	外型:N	會:ADV	以為:Vt	是:Vt	賣:Vt	早:Vi	午餐:N	為主:Vi	的:T	餐廳:N	居然:ADV	還:ADV	有:Vt	小:Vi	火鍋:N	跟:P	中式:A	菜色:N	等等:POST	的:T	選擇:N	呢:T	但:C	因為:C	近:DET	門:M	時:POST	滿滿:Vi	看到:Vt	好多:DET	人:N	桌:N	上:POST	都:ADV	是:Vt	看來:ADV	非常:ADV	豐盛:Vi	的:T	早:Vi	午餐:N	賣:Vt	相:ADV	一流:Vi	
+於是:C	討論:Vt	過後:POST	兩:DET	個:M	少女:N	決定:Vt	跟隨:Vt	我們:N	的:T	少女心:N	
+點:Vt	一:DET	份:M	義大利麵:N	跟:P	早:Vi	午餐:N	囉:T	
+點:Vt	餐會:N	附贈:Vt	一:DET	杯:M	芭樂汁:N	與:C	咖啡:N	表現:N	中規中矩:Vi	沒有:Vt	特殊:Vi	印象:N	但:C	咖啡:N	是:Vt	可以:ADV	自己:N	手動:A	續杯:Vi	的:T	呦:b	
+這:DET	算是:Vt	一:DET	個:M	比較:ADV	體貼:Vt	服務生:N	也:ADV	增加:Vt	效率:N	的:T	聰明:Vi	小:Vi	地方:N	囉:T	另外:DET	杯:M	水:N	也:ADV	是:Vt	採取:Vt	自助:Vi	倒:ADV	取:Vt	的:T	方式:N	呦:b	
+只:ADV	是:Vt	我們:N	用餐:Vi	的:T	當天:N	可能:ADV	餐廳:N	比較:ADV	忙:Vi	
+水:N	區:N	看起來:ADV	有點:ADV	雜亂:Vi	
+我:N	就:ADV	打消:Vt	倒:Vt	水:N	的:T	念頭:N	了:ASP	綜合肉:N	早:Vi	午餐:N	320:DET	元:M	沒有:ADV	等待:Vt	太:ADV	久:Vi	主餐:N	就:ADV	上:Vt	囉:T	
+看起來:ADV	是:Vt	不:ADV	是:Vt	非常:ADV	厲害:Vi	呢:T	
+320:DET	元:M	的:T	價格:N	讓:Vt	我們:N	都:ADV	非常:ADV	期待:Vt	
+畢竟:ADV	幾乎:ADV	整:DET	間:M	餐廳:N	都:ADV	點:Vt	了:ASP	早:Vi	午餐:N	啊:T	
+麵包:N	微溫:N	
+抹上:Vt	奶油:N	後:POST	滋味:N	濃郁:Vi	
+相當:ADV	不錯:Vi	
+炒蛋:Vi	調味:Vi	不合:Vi	我們:N	胃口:N	
+總:ADV	覺得:Vt	太:ADV	淡:Vi	蔬菜:N	的:T	品質:N	跟:P	新:Vi	鮮度:N	都:ADV	一般:Vi	般:POST	
+沒有:ADV	萎縮:Vi	但:C	也:ADV	稱不上:Vt	爽脆:Vi	薯片:N	吃起來:ADV	類似:Vt	costco:FW	販賣:Vt	的:T	厚:Vi	薯片:N	
+意外:Vt	跟:P	沙拉醬:N	滿:ADV	搭:Vt	的:T	XDDDD:FW	至於:P	我們:N	期待:Vt	以:P	久:Vi	的:T	綜合肉:N	部分:DET	整:DET	盆:M	肉:N	包括:Vt	杏:N	鮑:N	菇:N	都:ADV	偏:Vt	油:N	
+油亮亮:Vi	油花:N	閃閃:Vi	XD:FW	正:ADV	是:Vt	因為:C	這:DET	個:M	油度:N	配上:Vt	微溫:N	的:T	溫度:N	讓:Vt	人:N	有點:ADV	難以:ADV	入口:Vi	令:Vt	人:N	失落:Vi	極了:ADV	的:T	部分:DET	是:Vt	骰子:N	牛:N	或許:ADV	是:Vt	當天:N	廚房:N	忙碌:Vi	沒有:Vt	時間:N	好好:Vi	處理:Vt	牛肉:N	
+我們:N	拿到:Vt	的:T	骰子:N	牛:N	咬下去:Vt	是:Vt	沒有:ADV	煎:Vt	透:ADV	的:T	脂肪:N	除了:P	油膩:Vi	極了:ADV	以外:POST	口腔:N	好像:ADV	在:P	玩:Vt	彈簧床:N	
+那:DET	味道:N	我:N	不:ADV	想:Vt	再:ADV	體驗:Vt	第二:DET	次:M	Ｔ＿Ｔ:FW	最後:N	這:DET	一:DET	大盤:N	早:Vi	午餐:N	我們:N	大概:ADV	吃:Vt	了:ASP	二分之一:DET	就:ADV	放棄:Vt	了:ASP	....:ETCCATEGORY	320:DET	掰掰:Vt	地中海:N	嫩煎:N	雞腿:N	排:Vt	義大利麵:N	200:DET	元:M	接下來:ADV	就:ADV	是:Vt	點餐:N	小:Vi	天才:N	我:N	點:Vt	的:T	義大利麵:N	啦:T	
+這:DET	個:M	好:ADV	好吃:Vi	
+我:N	本身:N	就:ADV	喜歡:Vt	寬版:N	麵條:N	
+醬汁:N	美味:Vi	且:C	味道:N	有:Vt	煮近:Vt	麵條:N	裡:N	呦:b	
+酸味:N	辣味:N	蒜味:N	融合:Vt	的:T	恰到好處:Vi	
+雞腿:N	排焦:N	香肉:N	嫩:Vi	好好:Vi	吃:Vt	喔:T	
+而且:C	才:ADV	兩百:DET	元:M	
+剛剛:ADV	我們:N	點:Vt	的:T	３２０:DET	悲傷:Vi	之:T	歌:N	到底:ADV	跟:P	這:DET	個:M	是:Vt	同:DET	一:DET	個:M	空間:N	的:T	產物:N	嗎:T	
+騙:Vt	我:N	
+現在:N	才:ADV	發現:Vt	忘:Vt	了:ASP	拍到:Vt	菜單:N	的:T	忘記:Vt	名字:N	的:T	檸檬:N	起:POST	司派:N	約:ADV	100:DET	元:M	他:N	也:ADV	是:Vt	讓:Vt	我:N	悲傷:Vi	萬分:ADV	的:T	一:DET	個:M	記憶:N	
+這:DET	個:M	蛋糕:N	的:T	餡料:N	非常:ADV	好吃:Vi	
+濃郁:Vi	而:C	充滿:Vt	風味:N	奶油:N	也:ADV	很:ADV	細緻:Vi	讓:Vt	我:N	幾乎:ADV	整:DET	坨:M	吃掉:Vt	
+可是:C	瑞:N	凡:C	
+派:Vt	皮:N	沒有:ADV	熟:Vi	
+.......:ETCCATEGORY	.......:ETCCATEGORY	.:PERIODCATEGORY	派:Vt	皮:N	
+沒有:ADV	熟:Vi	
+所以:C	我:N	得到:Vt	了:ASP	很:ADV	美味:Vi	的:T	餡料:N	
+跟:P	一:DET	個:M	充滿:Vt	未熟:Vi	麵粉味:N	的:T	派皮:N	
+....:ETCCATEGORY	我:N	終於:ADV	了解:Vt	MasterChef:FW	說:Vt	的:T	
+可惜:Vi	沒有:Vt	熟:Vi	
+因為:C	很:ADV	美味:Vi	
+是:Vt	什麼:DET	意思:N	了:T	
+然後:ADV	我:N	就:ADV	一直:ADV	充滿:Vt	這:DET	個:M	哀傷:Vi	的:T	眼神:N	惹:Vt	
+眼神:N	死:Vi	
+雖然:C	這:DET	次:M	的:T	用餐:Nv	經驗:N	不:ADV	算:Vt	太:ADV	好:Vi	
+但:C	看:Vt	方屋:N	餐廳:N	高朋滿座:Vi	的:T	狀態:N	
+我:N	總:ADV	覺得:Vt	應該:ADV	是:Vt	我們:N	當天:N	運氣:N	比較:ADV	不:ADV	好:Vi	吧:T	
+有:Vt	機會:N	還是:ADV	會:ADV	再:ADV	去:ADV	試試看:Vt	的:T	
+但:C	會:ADV	從:P	最:ADV	便宜:Vi	的:T	開始:Vi	點:ADV	
+哈哈:ADV	哈哈:ADV	哈哈:ADV	哈哈:ADV	哈哈:ADV	XDD:FW	--:DASHCATEGORY	

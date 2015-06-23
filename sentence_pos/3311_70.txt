@@ -1,0 +1,12 @@
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	忠孝東路:N	四段:N	553巷:N	26:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	
+我:N	想:Vt	是:Vt	因為:C	當天:N	瑟縮:Vi	在:P	屋簷:N	下:N	現場:N	候位:N	雨:N	和:C	雷:N	輪番:ADV	填充:Vt	感官:N	的:T	印象:N	太過:ADV	鮮明:Vi	
+從:P	透明:Vi	的:T	天花板:N	可以:ADV	看見:Vt	雨:N	的:T	姿態:N	及:C	台灣:N	特有:A	的:T	舊:Vi	公寓:N	景觀:N	
+店:N	內:N	空間:N	不:ADV	大:Vi	但:C	不:ADV	乏:Vt	提供:Vt	全:DET	家:M	大:Vi	小:Vi	一起:ADV	用餐:Vi	的:T	位置:N	
+但:C	卻:ADV	掩蓋:Vt	不:ADV	了:ASP	生菜:N	的:T	苦澀:Nv	
+麵:N	的:T	軟硬:Vi	適中:Vi	香料:N	氣味:N	很:ADV	足:Vi	稀少:Vi	的:T	雞肉:N	肉質:N	乾硬:Vi	且:C	沒有:Vt	入味:N	
+整:DET	起:POST	而言:Vt	算是:Vt	不:ADV	難吃:Vi	的:T	一:DET	道:M	菜:N	
+其實:ADV	份量:N	並:ADV	沒有:Vt	特別:Vi	大:Vi	但:C	我們:N	兩:DET	個:M	女生光:N	這:DET	盤:M	就:ADV	吃:Vt	了:ASP	很:ADV	久:Vi	
+在:P	嘴:N	裡:POST	卡滋卡茲:N	無限:Vi	翻騰:Vi	的:T	同時:N	甜味:N	亦:ADV	盡情:ADV	地:T	釋放:Nv	
+並:C	從中:ADV	領悟到:Vt	店員:N	的:T	苦心:N	
+當然:ADV	這:DET	有:Vt	一:DET	部分:DET	要:ADV	歸功於:Vi	它:N	不:ADV	算:Vt	便宜:Vi	的:T	價格:N	XD:FW	

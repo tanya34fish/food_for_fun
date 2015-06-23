@@ -1,0 +1,66 @@
+地址:N	::COLONCATEGORY	台北市:N	萬華區:N	武昌街:N	二段:N	50巷:N	15:DET	號:M	2樓:N	
+樓梯間:N	也:ADV	佈置:Vt	得:T	很:ADV	漂亮:Vi	
+整:DET	間:M	餐廳:N	非常:ADV	的:T	夢幻:N	又:ADV	明亮:Vi	
+位子:N	很多:DET	
+有:Vt	沙發:N	位:N	和:C	一般:A	的:T	位子:N	
+Oyamicafe:FW	的:T	座位:N	間:POST	都:ADV	隔:Vt	得:T	很:ADV	開:Vi	
+不用:ADV	擔心:Vt	擁擠:Vi	或是:C	被:P	強迫:Vt	聽:Vt	隔壁:N	的:T	八卦:N	
+整:DET	家:N	店:N	都:ADV	很:ADV	明亮:Vi	
+整體:N	看起來:ADV	是:Vt	中價位:N	的:T	餐廳:N	
+喝:Vt	起來:ASP	很:ADV	順口:Vi	
+店員:N	貼心:Vi	的:T	主動:Vi	給:Vt	了:ASP	我們:N	分享:Vt	盤:N	
+加:Vt	149:DET	元:M	升級成:Vt	套餐:N	
+就:ADV	可以:ADV	有:Vt	一:DET	碗:M	湯:N	＋:FW	麵包:N	＋:FW	140:DET	元:M	以內:POST	飲料:N	任選:Vt	＋:FW	甜點:N	一:DET	份:M	
+吃起來:ADV	有點:ADV	像:Vt	撒:Vt	了:ASP	糖粒:N	的:T	奶油:N	麵包:N	
+口感:N	很:ADV	柔軟:Vi	
+好吃:Vi	耶:T	
+濃湯:N	表現:Vt	一般:A	般:POST	
+濃郁度:N	中等:A	
+但:C	也:ADV	不會:ADV	很:ADV	稀:Vi	
+料:N	很:ADV	豐富:Vt	又:ADV	多:Vi	
+還:ADV	不錯:Vi	
+法式:A	野莓歐蕾:N	160:DET	元:M	
+底下:N	的:T	莓果:N	使用:Vt	的:T	是:Vt	很:ADV	甜:Vi	很:ADV	甜:Vi	的:T	糖漿:N	果醬:N	
+不然:C	會:ADV	無敵:Vi	甜:Vi	
+小小:Vi	失望:Vi	不:ADV	是:Vt	使用:Vt	天然:A	的:T	水果:N	
+牛奶:N	的:T	部分:DET	毛毛:Vi	覺得:Vt	有點:ADV	稀:Vi	
+奶味:N	不:ADV	是:Vt	很:ADV	夠:Vi	
+所以:C	會:ADV	覺得:Vt	稀:Vi	
+就:ADV	覺得:Vt	奶味:N	很:ADV	重:Vi	
+蜜桃香橙冰:N	茶:N	140:DET	元:M	
+味道:N	有點:ADV	像:Vt	便利商店:N	可以:ADV	買到:Vt	的:T	瓶裝:A	水果茶:N	
+不過:C	Oyami:FW	的:T	喝:Vt	起來:ASP	多:Vi	了:ASP	更多:DET	的:T	水果:N	的:T	新鮮味:N	
+Oyami:FW	美式:A	歡樂:Vi	組合:Vt	250:DET	元:M	
+但:C	油膩感:N	卻:ADV	一點:DET	也:ADV	不:ADV	重:Vi	
+份量:N	不:ADV	小:Vi	阿:N	
+吃起來:ADV	好:Vi	juicy:FW	
+可愛:Vi	又:ADV	好吃:Vi	
+好:Vi	姐妹:N	也:ADV	大:Vi	讚:Vt	雞塊:N	好吃:Vi	
+有:Vt	起:ASP	司:N	的:T	味道:N	
+口感:N	又:ADV	有點:ADV	像:Vt	包:Vt	著:ASP	蛋白:N	的:T	顆粒:N	感:Vt	
+總之:ADV	很:ADV	好吃:Vi	
+厚:Vi	切:Vt	牛排:N	三明治:N	180:DET	元:M	
+很:ADV	豐盛:Vi	的:T	擺盤:N	
+前前後後:ADV	都:ADV	有:Vt	滿滿:Vi	的:T	料:N	
+起:Vt	司:N	與:C	新鮮:Vi	生菜:N	的:T	清爽:Vi	
+口味:N	稍:ADV	重:Vi	
+好吃:Vi	
+唯一:A	小小:Vi	缺點:N	是:Vt	土司:N	有點:ADV	硬:Vi	
+明:N	太子:N	紅醬:N	義大利麵:N	260:DET	元:M	
+不過:C	紅:Vi	醬:N	的:T	味道:N	較:ADV	重:Vi	
+麵條:N	口感:N	偏軟:Vi	
+醬汁:N	的:T	份量:N	也:ADV	很:ADV	足:Vi	
+除了:P	因為:C	自己:N	選:Vt	了:ASP	紅:Vi	醬:N	而:C	使得:Vt	吃:Vt	不:ADV	太:ADV	到:P	明:N	太子:N	的:T	味道:N	之外:POST	
+份量:N	小小:Vi	的:T	
+口感:N	很:ADV	軟:Vi	綿:N	
+奶:N	味:N	足:N	
+咖啡:N	的:T	味道:N	太:ADV	重:Vi	了:T	
+熔岩:N	巧克力:N	布朗尼:N	250:DET	元:M	
+最:ADV	邪惡:Vi	好吃:Vi	了:T	
+但是:C	內層:N	還是:ADV	很:ADV	軟:Vi	泥:N	的:T	口感:N	
+超:Vt	喜歡:Vt	
+非常:ADV	好吃:Vi	
+讓:Vt	整體:N	比較:ADV	清爽:Vi	
+所有:DET	的:T	甜味:N	都:ADV	來自:Vt	乾燥:Vi	水果:N	經:P	熱水:N	沖泡:Vt	後:POST	釋放出:Vt	水果:N	最:ADV	原始:Vi	的:T	甘甜:Vi	
+很:ADV	香甜:Vi	
+真的:ADV	很:ADV	好喝:Vi	

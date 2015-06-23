@@ -1,0 +1,99 @@
+clairegarden:FW	(:PARENTHESISCATEGORY	單純:Vi	而:C	微小:Vi	的:T	幸福:Nv	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	PAUL:FW	(:PARENTHESISCATEGORY	信義:N	):PARENTHESISCATEGORY	~:FW	百:DET	年:M	法式:A	的:T	雙人:N	饗宴:N	
+Fri:FW	
+Aug:FW	
+1:DET	
+23:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	03:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	PAUL:FW	(:PARENTHESISCATEGORY	信義:N	新光:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松壽路:N	9:DET	號:M	2樓:N	(:PARENTHESISCATEGORY	新光三越:N	A:FW	9:DET	館:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2722:DET	-:DASHCATEGORY	0700:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	~:FW	週四:N	，:COMMACATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	
+週五:N	~:FW	週六:N	，:COMMACATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+週日:N	，:COMMACATEGORY	09:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	
+網誌:N	圖文版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	372926009:DET	
+之前:N	就:ADV	聽聞:Vt	過:ASP	PAUL:FW	的:T	大名:N	了:T	
+不過:C	印象:N	中:POST	他:N	是:Vt	賣:Vt	麵包:N	
+想不到:ADV	他:N	竟然:ADV	也:ADV	推出:Vt	了:ASP	套餐:N	呢:T	
+位在:Vt	新光三越:N	A:FW	9:DET	精品區:N	的:T	PAUL:FW	
+店:N	內:N	的:T	內裝:N	也:ADV	符合:Vt	著:ASP	這裡:N	貴氣:N	的:T	風格:N	
+黑白:A	相間:Vi	的:T	地磚:N	和:C	大大:Vi	的:T	吊燈:N	
+整:DET	個:M	就是:C	走:Vi	優雅:Vi	路線:N	
+掛:Vt	在:P	牆:N	上:N	的:T	壁畫:N	也:ADV	讓:Vt	人:N	印象:N	深刻:Vi	呢:T	
+另外:C	還:ADV	帶:Vt	點:M	鄉村:N	風:N	的:T	裝飾:N	
+店:N	外:N	PAUL:FW	大:Vi	的:T	名:N	搭配:Vt	著:ASP	閃亮:Vi	亮:Vi	的:T	巴黎:N	鐵塔:N	
+販賣:Vt	架:N	上:N	的:T	麵包:N	和:C	蛋糕:N	看:Vt	的:T	也:ADV	讓:Vt	人心:N	癢癢:Vi	的:T	呢:T	
+每:DET	日:M	例:N	湯:N	-:DASHCATEGORY	南瓜湯:N	
+南瓜湯:N	喝:Vt	起:ASP	還:ADV	算:Vt	濃郁:Vi	
+不過:C	倒是:ADV	少:Vi	了:ASP	幾:DET	分:M	香氣:N	
+濃湯:N	旁:N	還:ADV	有:Vt	附:Vt	麵包:N	
+但是:C	麵包:N	單:ADV	吃:Vt	有點:ADV	乾:Vi	
+建議:Vt	大家:N	要:ADV	泡:Vt	個:M	湯:N	比較:ADV	好吃:Vi	喔:T	
+突然:ADV	發現:Vt	它:N	家:N	的:T	餐巾紙:N	好:ADV	有:Vt	質感:N	呢:T	
+主廚:N	沙拉:N	
+好:ADV	大:Vi	的:T	一:DET	盤:M	沙拉:N	
+我們:N	用:P	小:Vi	碟子:N	裝:Vt	了:ASP	四:DET	次:M	才:ADV	吃完:Vt	呢:T	
+搭配:Vt	的:T	醬料:N	是:Vt	紅酒:N	油醋:N	醬:N	
+可惜:Vi	醬汁:N	太少:Vi	
+沒有:ADV	感受到:Vt	醬汁:N	的:T	美味:N	
+不過:C	還是:ADV	偏:ADV	清爽:Vi	
+裡面:N	有:Vt	生菜:N	、:PAUSECATEGORY	蕃茄:N	、:PAUSECATEGORY	蘋果:N	、:PAUSECATEGORY	葡萄乾:N	
+吃:Vt	了:ASP	裡面:N	後:POST	才:ADV	發現:Vt	竟然:ADV	還:ADV	有:Vt	核果:N	
+感覺:Vt	好:ADV	健康:Vi	喔:T	
+沙拉:N	裡:N	滿滿:Vi	的:T	起司:N	條:M	好:ADV	讓:Vt	人:N	好:ADV	驚喜:Vi	喔:T	
+套餐:N	裡:N	的:T	開胃菜:N	是:Vt	我:N	挺:ADV	期待:Vt	的:T	一:DET	道:M	菜:N	
+端上來:Vt	的:T	木板:N	上:N	有:Vt	四塊:N	麵包:N	
+看起來:ADV	就:ADV	帶:Vt	點:M	鄉村:N	風:N	呢:T	
+服務生:N	推薦:Vt	我們:N	要:ADV	從:P	清淡:Vi	口味:N	開始:Vt	吃:Vt	起:ASP	
+首先:ADV	就:ADV	是:Vt	蕃茄:N	莎莎醬:N	登場:Vi	
+吃起來:ADV	真的:ADV	味道:N	挺:ADV	清淡:Vi	的:T	
+再:ADV	來:ADV	就是:C	羅勒青醬:N	
+青醬:N	滿:DET	是:Vt	香氣:N	
+上面:N	淋:Vt	了:ASP	橄欖油:N	一:ADV	不:ADV	小心:Vt	就:ADV	會:ADV	滴下來:Vi	
+第三:DET	個:M	出場:Vi	的:T	是:Vt	菠菜:N	佐:Vt	陳年:A	酒醋:N	
+這:DET	麵包:N	的:T	組合:Nv	算是:Vt	有:Vt	蠻:ADV	多:Vi	驚喜:Vi	的:T	
+波菜:N	吃起來:ADV	很:ADV	嫩:Vi	
+不只:ADV	波菜:N	上:N	灑:Vt	了:ASP	起司:N	
+連:C	麵包:N	上:POST	都:ADV	還:ADV	淋:Vt	了:ASP	巧克力醬:N	
+如此:ADV	別出心裁:Vi	難怪:ADV	是:Vt	我:N	的:T	最愛:N	
+壓軸:Vi	的:T	就是:C	普羅:N	旺:Vi	斯:DET	酸豆:N	橄欖醬:N	
+不愧:ADV	是:Vt	重:Vi	口味:N	路線:N	
+真的:ADV	是:Vt	口味:N	濃郁:Vi	啊:T	
+PAUL:FW	的:T	麵包:N	越:ADV	咀嚼:Vt	越:ADV	能:ADV	吃:Vt	出:Vt	麵包:N	香氣:N	
+不過:C	麵包:N	有點:ADV	冷:Vi	掉到:Vt	是:Vt	失:Vt	了:ASP	幾:DET	分:M	美味:Vi	
+吃:Vt	了:ASP	上面:N	幾:DET	道:M	其實:ADV	已經:ADV	有:Vt	幾:DET	分:M	飽意:Vi	呢:T	
+但:C	我們:N	的:T	主餐:N	都:ADV	還:ADV	沒:ADV	來:Vi	呢:T	
+年:M	法式:A	的:T	饗宴:N	
+首先:ADV	上桌:Vi	的:T	主餐:N	是:Vt	維也納:N	奶油:N	煎:Vt	雞:N	排:Vt	
+一:ADV	看到:Vt	這:DET	雞:N	排:Vt	我:N	有點:ADV	傻眼:Vi	
+感覺:N	都:ADV	跟:P	刀叉:N	快:ADV	一樣:Vi	長:Vt	了:ASP	
+上面:N	附:Vt	了:ASP	羅勒醬:N	和:C	酸:Vi	豆醬:N	當:P	調味:Vi	
+另外:C	還:ADV	有:Vt	碎:Vi	蛋白:N	和:C	蛋黃:N	可以:ADV	搭配:Vt	
+不過:C	雞:N	排:Vt	吃起來:ADV	倒是:ADV	讓:Vt	我:N	有:Vt	些:M	失望:Vi	
+一:DET	則:ADV	是:Vt	沒有:Vt	雞:N	排:Vt	的:T	香氣:N	
+再:ADV	來:ADV	就是:C	吃:Vt	不:ADV	到:Vt	奶油味:N	啦:T	
+倒是:ADV	他:N	的:T	沾醬:N	蒜味:N	番茄醬:N	
+讓:Vt	我:N	覺得:Vt	還:ADV	挺:ADV	不錯:Vi	吃:Vt	的:T	
+夏:N	儂:N	無花果:N	煎鴨:N	胸:N	
+這:DET	道:M	名字:N	聽起來:ADV	就:ADV	很:ADV	吸引人:Vi	
+服務生:N	建議:Vt	熟度:N	是:Vt	七:DET	分:M	
+七:DET	分:M	熟:Vi	度:M	的:T	鴨:N	胸肉:N	看起來:ADV	很:ADV	粉嫩:Vi	
+肉質:N	吃起來:ADV	很:ADV	嫩:Vi	
+搭配:Vt	蘋果:N	丁:N	味道:N	更:ADV	有:Vt	層次:N	
+餐盤:N	上:N	還:ADV	有:Vt	著:ASP	鵝肝醬:N	麵包:N	更:ADV	顯貴:Vi	氣:N	呢:T	
+葡萄柚汁:N	
+小小:Vi	的:T	一:DET	杯:M	但是:C	味道:N	挺:ADV	濃郁:Vi	的:T	
+喝:Vt	起:ASP	來:ADV	來:ADV	略帶:Vt	澀味:N	
+莓果:N	茶:N	
+用:Vt	的:T	是:Vt	茶包:N	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	泡:Vt	不:ADV	夠:ADV	久:Vi	
+喝:Vt	起來:ASP	幾乎:ADV	沒:Vt	味道:N	
+用餐:Nv	環境:N	還:ADV	讓:Vt	人:N	挺:ADV	滿意:Vt	的:T	
+不過:C	滿心:ADV	期待:Vt	的:T	麵包:N	有點:ADV	冷:Vi	掉:Vi	
+還:ADV	有:Vt	雞:N	排:Vt	沒有:ADV	想像:Vt	中:POST	的:T	美味:N	
+讓:Vt	人:N	覺得:Vt	挺:ADV	可惜:Vi	的:T	啦:T	
+美食:N	指數:N	*:FW	*:FW	
+氣氛:N	指數:N	*:FW	*:FW	*:FW	*:FW	
+cp:FW	值:N	指數:N	*:FW	*:FW	
+再:ADV	訪:Vt	指數:N	*:FW	*:FW	

@@ -1,0 +1,99 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	花家:N	食堂:N	
+Wed:FW	
+Nov:FW	
+19:DET	
+19:DET	::COLONCATEGORY	42:DET	::COLONCATEGORY	31:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41478670:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	10:DET	
+週末:N	中午:N	不:ADV	知道:Vt	要:ADV	吃:Vt	什麼:DET	
+沒:Vt	什麼:DET	想法:N	念頭:N	
+只好:ADV	跑來:Vi	民生:N	社區:N	覓食:Vi	
+想起:Vt	
+之前:N	看過:Vt	迴紋針:N	介紹:Vt	的:T	花家:N	食堂:N	
+本來:A	心:N	裡:N	這:DET	家:M	店:N	價格:N	有點:ADV	不:ADV	合算:Vi	
+但:C	又:ADV	不:ADV	
+知:Vt	吃:Vt	啥:DET	
+還是:ADV	來:ADV	吃:Vt	看看:ASP	吧:T	
+據說:ADV	花家:N	食堂:N	也:ADV	是:Vt	日本人:N	開:Vt	的:T	
+裝修:Vt	走:Vi	的:T	是:Vt	木頭:N	風:N	
+店:N	內:N	客群:N	主要:A	還是:C	女性:N	
+男生:N	很少:ADV	
+畢竟:ADV	他:N	的:T	餐點:N	份量:N	比較:ADV	適合:Vi	女生:N	吃:Vt	
+也:ADV	是:Vt	女生:N	會:ADV	喜歡:Vt	的:T	風格:N	
+主要:ADV	提供:Vt	湯:N	咖哩:N	還:ADV	有定:A	食:N	
+定食:Vt	價格:N	都:ADV	在:P	三百:DET	以上:N	
+不需:ADV	服務費:N	
+若要:C	加:Vt	點:M	
+飲料:N	的:T	話:N	
+可以:ADV	折扣:Vt	二十:DET	元:M	
+不過:C	這樣:Vi	點:M	份定食:N	加:Vt	杯:M	飲料:N	就:ADV	將近:ADV	五百:DET	了:T	
+的:T	
+確:ADV	是:Vt	不:ADV	便宜:Vi	
+香煎鹽麴:N	雞腿:N	排:Vt	＄:FW	320:DET	
+定食:Vt	的:T	內容:N	除了:P	主菜:N	之外:POST	
+附上:Vt	一:DET	碗:M	白飯:N	、:PAUSECATEGORY	味噌湯:N	以及:C	三:DET	樣:M	小菜:N	
+小菜:N	的:T	味:N	
+道:Vt	都:ADV	挺:ADV	素雅:Vi	的:T	
+漬:Vt	番茄:N	、:PAUSECATEGORY	四季豆:N	及:C	鹿角菜:N	
+不:ADV	油膩:Vi	相當:ADV	清爽:Vi	
+也:ADV	難怪:ADV	女性客:N	
+人:N	居多:Vi	
+口味:N	比較:ADV	清淡:Vi	健康:Vi	
+米飯:N	的:T	部份:DET	
+不愧:ADV	是:Vt	日本人:N	煮:Vt	的:T	飯:N	
+口感:N	挺:ADV	不:ADV	
+錯:Vi	的:T	
+不過:C	不:ADV	知道:Vt	能不能:ADV	續飯:N	
+以:P	男生:N	的:T	食量:N	來:ADV	說:Vt	
+只:ADV	有:Vt	一:DET	碗:M	飯:N	可能:ADV	是:Vt	少:Vi	了:T	
+點:Vt	
+去:Vt	骨:N	雞腿:N	用:P	鹽:N	麴:N	來:ADV	調味:Vi	
+搭配:Vt	淋:Vt	上:POST	酸甜:Vi	和風醬:N	的:T	高麗菜:N	絲:N	
+雞腿:N	排:Vt	加:Vt	了:ASP	不少:DET	
+蔥花:N	
+其實:ADV	散發出:Vt	來:Vi	的:T	香氣:N	很:ADV	像:Vt	中菜:N	的:T	蔥油:N	雞:N	
+吃起來:ADV	也:ADV	像:Vt	
+因為:C	有:Vt	濃濃:Vi	的:T	
+蔥油:N	味:N	
+鹹味:N	來自於:Vi	鹽麴:N	
+鹽麴:N	的:T	鹹味:N	比:P	食鹽:N	來:Vi	的:T	溫和:Vi	一:DET	點:N	
+也:ADV	就是:C	沒:ADV	那麼:ADV	
+死鹹:Vi	
+鹹度:N	方面:N	
+個:M	人:N	是:Vt	覺得:Vt	若:C	配飯:N	的:T	話:N	挺:ADV	適中:Vi	
+單:ADV	吃:Vt	肉:N	多:Vi	了:ASP	還是:ADV	有點:ADV	鹹:Vi	膩:Vi	
+除了:P	鹹味:N	之外:POST	
+也:ADV	帶:Vt	點:N	微:ADV	甜:Vi	
+不過:C	就:ADV	與:P	迴紋針:N	老師:N	的:T	評價:N	一樣:Vi	
+花家:N	食堂:N	
+的:T	定食:Vt	著實:ADV	價位:N	高:Vi	了:ASP	點:M	
+以:P	份量:N	而言:Vt	
+其實:ADV	還是:ADV	比較:ADV	適合:Vi	女性:N	
+一般:ADV	正常:Vi	男:N	
+性:N	的:T	話:N	
+可能:ADV	會:ADV	覺得:Vt	吃:Vt	不:ADV	飽:Vi	
+而:C	吃:Vt	不:ADV	飽:Vi	的:T	話:N	
+心:N	裡:POST	自然:ADV	就:ADV	會:ADV	覺得:Vt	這:DET	價格:N	太:ADV	高:Vi	
+花家:N	食堂:N	
+地址:N	：:COLONCATEGORY	台北市:N	延壽街:N	137:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27603090:DET	
+延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+食記:N	
+台北:N	惣菜:N	本:ADV	舖:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41539882:DET	
+食記:N	
+台北:N	食彩:N	櫻:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41366938:DET	
+食記:N	
+永和:N	藤井:N	屋:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41278948:DET	
+食記:N	
+台中:N	茶寮侘助:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40835389:DET	
+食記:N	
+台北:N	厚子洋食:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	38997667:DET	
+一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	

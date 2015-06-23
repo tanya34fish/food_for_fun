@@ -1,0 +1,91 @@
+lovecala(cala:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	景美:N	米粉湯:N	炸:Vt	三鮮:N	紅燒肉:N	必:ADV	吃:Vt	
+Wed:FW	
+Jan:FW	
+7:DET	
+17:DET	::COLONCATEGORY	06:DET	::COLONCATEGORY	28:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	景美:N	米粉湯:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	12月:N	
+地址:N	：:COLONCATEGORY	台北市:N	文山區:N	景美街:N	119:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	29313079:DET	
+圖文:N	網誌:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	lovecala.pixnet.net/blog/post:FW	/:FW	190877592:DET	
+景美:N	夜市:N	是:Vt	學生:N	時代:N	最愛:N	混:Vi	的:T	地方:N	啊:T	
+不:ADV	曉得:Vt	多少:DET	個:M	晚餐:N	是:Vt	在:P	那裡:N	解決:Vt	的:T	
+反而:C	上班:Vi	後:POST	就:ADV	比較:ADV	少:Vi	去:T	
+不過:C	還是:ADV	常常:ADV	想念:Vt	那裡:N	的:T	小吃:N	
+還好:ADV	現在:N	捷運:N	搭:Vt	到:P	景美:N	站:Vi	一:ADV	出:Vt	站:Vi	
+就:ADV	到:Vt	了:ASP	
+超:Vt	方便:Vi	的:T	
+這裡:N	的:T	米粉湯:N	、:PAUSECATEGORY	鐵板燒:N	、:PAUSECATEGORY	水煎包:N	、:PAUSECATEGORY	碳烤:N	、:PAUSECATEGORY	麻油:N	雞:N	還:ADV	有:Vt	豆花:N	
+想到:Vt	都:ADV	流:Vt	口水:N	了:T	
+不過:C	最:ADV	讓:Vt	我:N	懷念:Vt	的:T	就是:C	米粉湯:N	和:C	豆花:N	了:T	
+這:DET	間:M	景美:N	米粉湯:N	老店:N	是:Vt	在:P	夜市:N	的:T	頭:N	
+就是:C	靠近:Vt	景:N	
+美橋:N	那邊:N	
+好久:Vi	沒:ADV	來:ADV	吃:Vt	
+看到:Vt	老闆:N	的:T	臉:N	竟然:ADV	還:ADV	是:Vt	熟悉:Vt	的:T	耶:T	
+真的:ADV	是:Vt	跟:P	著:ASP	我們:N	一起:ADV	長大:Vi	的:T	老店:N	了:T	
+店裡:N	就:ADV	是:Vt	這樣:Vi	簡單:Vi	沒有:Vt	裝潢:N	
+找到:Vt	位置:N	後:POST	再:ADV	點:Vt	餐:N	
+這:DET	是:Vt	裡面:N	的:T	一:DET	區:N	
+因為:C	外面:N	都:ADV	客滿:Vi	啦:T	
+米粉湯:N	一定:ADV	要:ADV	來:ADV	一:DET	碗:M	的:T	
+大骨:N	高湯:N	熬:Vt	的:T	米粉湯:N	
+一點點:DET	蔥花:N	再:ADV	撒:Vt	點:M	胡椒:N	就:ADV	好:ADV	好吃:Vi	
+這裡:N	的:T	小菜:N	我:N	每:DET	一:DET	種:M	都:ADV	吃:Vt	過:ASP	
+哈哈:ADV	
+對:P	我:N	來:ADV	說:Vt	是:Vt	完全:ADV	沒有:Vt	地雷:N	
+以下:N	就:ADV	是:Vt	我:N	久久:ADV	未:ADV	吃:Vt	一定:ADV	
+要:ADV	吃到:Vt	的:T	幾:DET	樣:M	囉:T	
+紅燒肉:N	炸:Vt	得:T	酥脆:Vi	的:T	外皮:N	裡面:N	是:Vt	三:DET	層:M	肉:N	
+不會:ADV	肥:Vt	吃起來:ADV	津津有味:Vi	
+特調:N	的:T	醬汁:N	和:C	小黃瓜:N	
+就:ADV	
+是:Vt	跟:P	一般:A	店家:N	的:T	紅燒肉:N	不:ADV	一樣:Vi	
+炸:Vt	三鮮:N	絕對:ADV	必:ADV	點:Vt	
+蝦仁:N	、:PAUSECATEGORY	花枝:N	和:C	蚵仔:N	就:ADV	是:Vt	三鮮:N	
+如果:C	只:ADV	喜歡:Vt	單:ADV	一樣:Vi	也:ADV	可以:ADV	單:ADV	點:Vt	
+我:N	是:Vt	三:DET	種:M	都:ADV	喜歡:Vt	吃:Vt	
+炸:Vt	得:T	好:ADV	酥:Vi	
+一口:ADV	一:DET	個:M	
+一樣:Vi	是:Vt	淋:Vt	上:POST	他們:N	的:T	獨家:A	醬汁:N	
+或是:C	喜歡:Vt	灑:Vt	點:N	胡:N	
+椒超:N	好吃:Vi	
+炸:Vt	豆腐:N	也好:T	好吃:Vi	
+一:DET	份:M	才:ADV	15:DET	元:M	
+是:Vt	傳統:Vi	豆腐:N	那:DET	種:M	吃起來:ADV	好:ADV	香:Vi	
+甜不辣:N	我:N	也:ADV	很:ADV	愛:Vt	
+不過:C	這天:N	吃:Vt	感覺:N	不:ADV	夠:ADV	脆:Vi	
+比較:ADV	軟:Vi	一點:ADV	
+我:N	是:Vt	比較:ADV	喜歡:Vt	酥酥脆脆:Vi	的:T	口感:N	啦:T	
+現在:N	難得:Vi	來:Vi	一:DET	趟:M	景美:N	夜市:N	
+想:Vt	吃:Vt	的:T	東西:N	好多:DET	
+不能:ADV	只:ADV	在:P	一:DET	間:M	店:N	就:ADV	把:P	肚子:N	給:Vt	塞滿:Vt	了:ASP	
+一定:ADV	要:ADV	
+留:Vt	一點:DET	給:Vt	我:N	最愛:N	的:T	豆花:N	啊:T	
+大家:N	知道:Vt	這:DET	間:M	三:DET	色:M	豆花:N	嗎:T	
+跟:P	米粉湯:N	分別:ADV	在:P	夜市:N	的:T	兩:DET	端:N	
+所以:C	為了:P	吃:Vt	這:DET	兩:DET	間:M	
+就:ADV	剛好:ADV	可以:ADV	
+把:P	整:DET	條:M	夜市:N	給:Vt	逛完:Vt	XD:FW	
+三:DET	色:M	豆花:N	就:ADV	在:P	捷運站:N	出口:Vt	那:DET	頭:M	進去:Vi	一:ADV	下:Vt	就:ADV	看到:Vt	了:ASP	
+每:DET	次:M	去:Vt	夜市:N	一定:ADV	要:ADV	用:P	這:DET	間:M	的:T	豆花:N	最:ADV	一:DET	個:M	
+完美:Vi	的:T	Ending:FW	啊:T	
+三:DET	色:M	豆花:N	、:PAUSECATEGORY	烏梅:N	豆花:N	和:C	粉圓:N	豆花:N	都:ADV	很:ADV	好吃:Vi	喔:T	
+豆花:N	真:Vi	材實料:N	都:ADV	可以:ADV	吃:Vt	出:Vt	濃濃:Vi	的:T	雞蛋:N	和:C	巧克力:N	味道:N	
+這:DET	個:M	甜湯:N	也:ADV	是:Vt	重點:N	
+甜:Vi	卻:ADV	很:ADV	甘:Vi	的:T	讓:Vt	人:N	
+一口:ADV	接:Vt	一口:ADV	
+現在:N	很少:DET	地方:N	可以:ADV	吃到:Vt	這:DET	種:M	布丁:N	口味:N	而且:C	湯:N	是:Vt	黑色:N	的:T	三:DET	色:M	豆花:N	了:T	
+我:N	真:ADV	希望:Vt	這:DET	間:M	店:N	可以:ADV	一:DET	
+直:ADV	開:Vt	到:P	我:N	老:Vi	XD:FW	
+每:DET	次:M	來到:Vt	景美:N	夜市:N	就:ADV	很多:DET	回憶:N	上:N	心頭:N	
+學生:N	時代:N	的:T	無憂無慮:Vi	
+逛:Vt	夜市:N	也:ADV	可以:ADV	逛:Vt	到:P	半夜:N	
+而且:C	好吃:Vi	的:T	真的:ADV	很多:Vi	呢:T	
+下:DET	次:M	一定:ADV	要:ADV	再:ADV	來:ADV	吃:Vt	炭烤:Nv	和:C	鐵板燒:N	的:T	啦:T	
+米粉湯:N	兩:DET	個:M	人:N	吃:Vt	這:DET	多:DET	小菜:N	和:C	兩:DET	碗:M	米粉湯:N	才:ADV	兩百:DET	元:M	
+三:DET	色:M	豆花:N	一:DET	碗:M	35:DET	元:M	
+真的:ADV	是:Vt	花:Vt	小錢:N	就:ADV	吃:Vt	
+得:ADV	好:ADV	開心:Vi	

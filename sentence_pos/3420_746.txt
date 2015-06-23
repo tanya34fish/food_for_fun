@@ -1,0 +1,184 @@
+chuantina:FW	(:PARENTHESISCATEGORY	一:DET	朵:M	小:Vi	桃紅:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	惡鬼:N	鷹流:N	。:PERIODCATEGORY	濃郁系:N	辛味:N	噌:b	，:COMMACATEGORY	叉燒:N	是:Vt	亮:Vi	
+Wed:FW	
+Aug:FW	
+13:DET	
+20:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	55:DET	
+2014:DET	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	385409750:DET	
+鷹流:N	辛味:N	噌:b	拉麵:N	惡鬼:N	warugaki:FW	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	8月:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27237379:DET	
+店址:N	：:COLONCATEGORY	台北市:N	信義區:N	松仁路:N	86:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	AM:FW	11:DET	：:COLONCATEGORY	00:DET	
+PM:FW	21:DET	：:COLONCATEGORY	30:DET	
+向來:ADV	是:Vt	拉麵:N	控:Vt	的:T	我:N	
+早:ADV	就:ADV	對:P	惡鬼:N	鷹流:N	虎視眈眈:Vi	了:T	
+是:Vt	不:ADV	是:Vt	有:Vt	這麼:ADV	想:Vt	吃:Vt	XD:FW	
+先前:N	造訪:Vt	鷹流:N	本:DET	店:N	時:POST	
+對:P	它們:N	家:N	含有:Vt	膠原:N	蛋白:N	的:T	湯:N	底:POST	留下:Vt	不錯:Vi	的:T	好:Vi	印象:N	
+不同於:Vt	本:DET	店:N	的:T	惡鬼:N	是:Vt	以:P	辣味:N	噌:b	聞名:Vi	
+對:P	嗜:Vt	辣:Vi	的:T	我:N	來:ADV	說:Vt	
+更:ADV	是:Vt	有:Vt	著:ASP	加乘:Vt	的:T	吸引力:N	：:COLONCATEGORY	
+惡鬼:N	鷹:N	流:Vt	座落:Vt	於:P	NEO:FW	19:DET	裡面:N	
+寬廣:Vi	的:T	大門:N	設計:N	
+在:P	一:DET	進:M	門:N	就:ADV	立:Vt	馬:N	可以:ADV	發現:Vt	它:N	的:T	所在:N	
+是:Vt	說:Vt	這:DET	個:M	門:N	前:POST	獨立:Vi	的:T	坐椅:N	還:ADV	挺:ADV	吸睛:Vi	的:T	
+全部:DET	就:ADV	只有:ADV	一:DET	張:M	
+不:ADV	知道:Vt	坐:Vi	在:P	這裡:N	用餐:Vi	的:T	客人:N	會不會:ADV	在意:Vt	路人:N	行:Vi	注目禮:N	
+感覺:N	點綴:Vt	的:T	意味:N	比較:ADV	濃厚:Vi	XD:FW	
+一:DET	旁:N	還:ADV	附有:Vt	長:Vi	條:M	式:N	座椅:N	
+木製:A	裝潢:N	簡單:Vi	樸素:Vi	
+倒是:ADV	上頭:N	四四方方:Vi	的:T	惡鬼:N	雕模成:Vt	了:ASP	最:ADV	顯眼:Vi	的:T	裝飾:N	
+整:DET	個:M	空間:N	瀰漫:Vi	著:ASP	濃濃:Vi	的:T	日式:A	風味:N	
+讓:Vt	人:N	宛若:Vt	飄過:Vi	遠洋:N	置身:Vt	於:P	日本:N	
+整:DET	個:M	超:Vt	和風:N	的:T	說:Vt	
+我:N	喜歡:Vt	這樣子:Vi	的:T	環境:N	
+用:P	起:ASP	餐:N	來:ADV	特別:Vi	地:T	有:Vt	味道:N	：:COLONCATEGORY	
+牆:N	上:N	是:Vt	張:N	大幅:ADV	的:T	惡鬼圖:N	
+巧妙:Vi	呼應:Vt	店名:N	
+對:P	小朋友:N	來:ADV	說:Vt	也許:ADV	較為:ADV	恐懼:Vt	
+但:C	成年人:N	如:P	我們:N	
+倒:ADV	覺得:Vt	它:N	氣勢:N	極度:ADV	磅礴:Vi	呀:T	
+有別於:Vt	鷹流:N	本:DET	店:N	
+調味:N	佐醬:N	也:ADV	很:ADV	有:Vt	大:Vi	的:T	不同:N	呦:b	
+蒜頭:N	醬油:N	、:PAUSECATEGORY	芝麻:N	
+還:ADV	有:Vt	用來:Vt	中和湯:N	底:POST	的:T	蘋果:N	醋:N	
+醬料台:N	下面:N	放置:Vt	的:T	是:Vt	乾淨:Vi	的:T	衛生:N	筷:N	
+目前:N	正:ADV	值:Vt	惡鬼:N	週年慶:N	
+任選:Vt	二:DET	碗:M	拉麵:N	、:PAUSECATEGORY	二:DET	杯:M	飲品:N	及:C	炸:Vt	物:N	只:ADV	要:Vt	777:DET	元:M	
+跟:P	原價:N	比較:Vt	起來:ASP	還:ADV	實惠:Vi	不少:Vi	呢:T	
+完整:Vi	菜單:N	請:Vt	點:Vt	我:N	
+桌:N	上:N	立牌:N	
+上頭:N	貼心:Vi	的:T	備註:Nv	食用:Vt	拉麵:N	的:T	小:Vi	技巧:N	
+例如:P	先:ADV	加:Vt	芝麻:N	增加:Vt	風味:N	、:PAUSECATEGORY	勘入:Vt	蘋果:N	醋:N	調整:Vt	湯頭:N	
+亦:ADV	或:ADV	在:P	湯底內:N	加入:Vt	紫:Vi	米飯:N	等等:POST	
+原來:A	拉麵:N	也:ADV	可以:ADV	有:Vt	這麼多:DET	豐富:Vt	的:T	吃法:N	
+可樂:N	、:PAUSECATEGORY	雪碧:N	、:PAUSECATEGORY	可:ADV	爾:N	必:ADV	思:Vt	
+NT:FW	.:PERIODCATEGORY	50:DET	元:M	
+大:Vi	熱天:N	的:T	
+主餐:N	之前:POST	先:ADV	來:ADV	喝:Vt	杯:N	冰飲:Vt	透心涼:Vi	吧:T	
+招牌:N	惡鬼:N	味噌強霸:N	辣:Vi	
+NT:FW	.:PERIODCATEGORY	330:DET	元:M	
+雖說:C	惡鬼:N	是:Vt	嗜:Vt	辣:Vi	者:N	的:T	天堂:N	
+不過:C	不:ADV	吃:Vt	辣:Vi	的:T	朋友:N	也:ADV	別:ADV	擔心:Vt	
+這:DET	
+兒:N	還:ADV	有:Vt	分:M	不:ADV	辣:Vi	及:C	微:ADV	辣:Vi	的:T	程度:N	呦:b	
+拉麵:N	一:ADV	端上:Vt	桌:N	
+完全:ADV	延續:Vt	鷹流:N	的:T	強大:Vi	氣勢:N	
+寬碗:N	裝盛:Vt	
+厚實:Vi	叉燒:N	、:PAUSECATEGORY	海苔:N	、:PAUSECATEGORY	豆芽菜:N	、:PAUSECATEGORY	蒜苗:N	、:PAUSECATEGORY	洋蔥:N	、:PAUSECATEGORY	玉米:N	筍:N	以及:C	辣椒:N	條:M	
+模樣:N	看上去:ADV	著實:ADV	豐盛:Vi	得:T	很:ADV	
+併:Vt	持:Vt	著:ASP	湯:N	底:POST	是:Vt	拉麵:N	的:T	靈魂:N	
+第一:DET	口:M	我:N	就:ADV	先:ADV	品嚐:Vt	它:N	的:T	湯頭:N	
+完全:ADV	傳承:Vt	本:DET	店:N	的:T	濃郁:Vi	及:C	稠:Vi	厚:Vi	
+差別:N	在於:Vt	添加:Vt	的:T	膠原:N	蛋白:N	較少:Vi	
+比較:ADV	沒有:Vt	唇:N	間:POST	抿:Vt	起來:ASP	會:ADV	有:Vt	黏黏:Vi	的:T	感覺:N	
+湯:N	裡:N	加:Vt	了:ASP	肉:N	末:N	
+咬到:Vt	時:POST	還:ADV	會:ADV	在:P	舌尖:N	上:N	綻放:Vt	淡淡:Vi	的:T	香氣:N	呦:b	
+爽脆:Vi	筍條:N	
+吸附:Vt	湯汁:N	之後:POST	的:T	鹹度:N	很:ADV	高:Vi	
+我:N	覺得:Vt	惡鬼:N	有:Vt	個:M	特色:N	
+不管:C	是:Vt	什麼:DET	口味:N	都:ADV	會:ADV	加入:Vt	大量:DET	豆芽菜:N	
+我:N	想:Vt	是:Vt	個:M	頗為:ADV	解膩:Vi	的:T	存在:Nv	：:COLONCATEGORY	
+叉燒肉:N	應該:ADV	是:Vt	拉麵:N	最:ADV	大:Vi	的:T	亮點:N	
+大:Vi	塊:M	又:ADV	厚實:Vi	
+只:ADV	能:ADV	說:Vt	吃起來:ADV	的:T	爽度:N	很:ADV	高:Vi	
+本身:N	有:Vt	股:M	超:Vt	鮮明:Vi	的:T	炙燒:Vi	香氣:N	
+肥脥:N	部份:DET	不:ADV	多:Vi	
+但:C	肉質:N	卻:ADV	完全:ADV	不:ADV	老:Vi	柴:N	
+一致:Vi	獲得:Vt	大家:N	的:T	讚賞:Nv	
+使用:Vt	唐辛子:N	粗:Vi	麵條:N	
+表面:N	呈現:Vt	淡淡:Vi	的:T	紅色:N	
+口感:N	略:ADV	硬:Vi	而:C	富有:Vi	嚼:Vt	勁:N	
+初:ADV	嚐:Vt	微:ADV	辣:Vi	
+但:C	愈:ADV	吃:Vt	後勁:N	愈:ADV	強:Vi	
+後來:N	整:DET	個:M	大:Vi	爆:Vi	汗:N	XD:FW	
+玉子:N	蛋:N	的:T	表現:N	也:ADV	不錯:Vi	
+蛋白:N	Q:FW	彈:Vt	
+糖心:N	的:T	部份:DET	也:ADV	有:Vt	入:Vt	味:N	：:COLONCATEGORY	
+麻辣:A	味噌:N	叉燒:N	拉麵:N	
+NT:FW	.:PERIODCATEGORY	330:DET	元:M	
+如果:C	你:N	是:Vt	肉控:N	
+那麼:ADV	點:Vt	這:DET	碗:M	準:ADV	沒:ADV	錯:Vi	
+重達:Vt	200:DET	公克:M	的:T	叉燒:N	
+足足:ADV	有:Vt	三:DET	大:Vi	塊:M	呦:b	
+在:P	配料:N	方面:N	也:ADV	是:Vt	使用:Vt	超多:Vi	豆芽:N	
+其它:DET	還:ADV	有:Vt	青蔥:Vi	、:PAUSECATEGORY	蒜苗:N	
+以及:C	塊頭:N	較:ADV	小:Vi	的:T	筍乾:N	
+老實說:ADV	這:DET	碗:M	的:T	賣:Vt	相:N	可是:C	比:P	招牌:N	還:ADV	吸引:Vt	我:N	呢:T	
+美味:Vi	叉燒肉:N	
+大:Vi	份量:N	更:ADV	可以:ADV	吃:Vt	得:T	過癮:Vi	又:ADV	滿足:Vt	
+美食:N	的:T	東西:N	向來:ADV	都:ADV	是:Vt	主觀:Vi	的:T	
+對:P	我:N	而言:Vt	
+純正:Vi	日系:N	那:DET	種:M	又:ADV	濃:Vi	又:ADV	鹹:Vi	的:T	湯頭:N	更:ADV	是:Vt	我:N	的:T	最愛:N	
+但:C	每:DET	個:M	人:N	接受度:N	不同:Vi	
+以:P	惡鬼:N	鷹流:N	來:ADV	說:Vt	
+它:N	的:T	湯:N	除了:P	稠:Vi	
+豚骨:N	的:T	背脂:N	也:ADV	很:ADV	高:Vi	
+如果:C	吃:Vt	不:ADV	習慣:Vt	的:T	朋友:N	也:ADV	別:ADV	擔心:Vt	
+除了:P	有:Vt	白湯:N	可以:ADV	調整:Vt	濃淡:N	之外:POST	
+也:ADV	可以:ADV	利用:Vt	蘋果:N	醋:N	來:ADV	中和:Vt	它:N	的:T	鹹度:N	呦:b	
+惡鬼:N	味噌:N	沾:Vt	麵:N	
+NT:FW	.:PERIODCATEGORY	280:DET	元:M	
+原:ADV	以為:Vt	我:N	的:T	招牌:N	惡鬼:N	已經:ADV	很:ADV	霸氣:Vi	了:T	
+沒想到:ADV	沾:Vt	麵:N	的:T	視覺:N	效果:N	更:ADV	是:Vt	大:Vi	盛地:N	更:ADV	上:Vt	一:DET	層:M	樓:N	
+配料:N	大致上:ADV	都:ADV	大同小異:Vi	
+當然:ADV	豆芽:N	也:ADV	是:Vt	多:Vi	的:T	不遑多讓:Vi	
+它:N	的:T	叉燒:N	看起來:ADV	好:ADV	嬌嫩:Vi	呦:b	
+&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+而且:C	怎麼:ADV	感覺:Vt	這:DET	塊:M	的:T	油花:N	好像:ADV	比較:ADV	多:Vi	說:Vt	
+肥脥:N	般:POST	的:T	模樣:N	整:DET	個:M	超:Vt	邪惡:Vi	
+在:P	味覺:N	上:N	同樣:Vi	是:Vt	烤:Vt	過:ASP	的:T	香氣:N	最:ADV	明顯:Vi	
+就是:C	要:ADV	這:DET	種:M	大:Vi	塊:M	肉:N	
+吃起來:ADV	才:ADV	過癮:Vi	：:COLONCATEGORY	
+沾:Vt	麵:N	的:T	麵條:N	留有:Vt	烹煮:Vt	過:ASP	的:T	餘溫:N	
+可能:ADV	沒有:ADV	一直:ADV	浸泡:Vi	在:P	湯:N	裡:N	
+口感:N	比起:P	拉麵:N	還要:ADV	來得:ADV	Q:FW	滑:Vi	有:Vt	彈性:N	
+而:C	佐醬:N	本身:N	同樣:Vi	是:Vt	辛味:N	噌:b	
+不過:C	滋味:N	沒:ADV	那麼:ADV	鹹:Vi	
+是:Vt	略為:ADV	清爽:Vi	一些些:DET	
+如果:C	人客:N	你:N	不:ADV	喜:Vt	太:ADV	濃稠:Vi	的:T	湯:N	
+那麼:ADV	沾:Vt	麵:N	倒是:ADV	個:M	不錯:Vi	的:T	好:Vi	選擇:Vt	
+惡鬼:N	特製:Nv	叉:N	燒飯:Vi	
+NT:FW	.:PERIODCATEGORY	50:DET	元:M	
+如果:C	有:Vt	人:N	問到:Vt	惡鬼:N	有:Vt	什麼:DET	可以:ADV	推薦:Vt	的:T	
+那麼:ADV	我:N	心目中:N	的:T	NO:FW	.:PERIODCATEGORY	1:DET	應該:ADV	就是:C	這:DET	個:M	叉燒飯:N	了:T	
+別:ADV	看:Vt	圖片:N	好像:ADV	小小:Vi	一:DET	盅:M	
+但:C	吃起來:ADV	其實:ADV	挺:ADV	有:Vt	飽足感:N	的:T	呦:b	
+使用:Vt	紫:Vi	米飯:N	
+口感:N	比:P	一般:A	的:T	白米:N	更:ADV	甘甜:Vi	
+上頭:N	還:ADV	舖:Vt	著:ASP	滿滿:Vi	的:T	叉燒肉:N	
+另外:C	佐以:Vt	蒜苗:N	點綴:Vt	調味:Vi	
+CP:FW	值:N	還:ADV	挺:ADV	高:Vi	的:T	
+紫米:N	除了:P	富含:Vt	對:P	人體:N	有益:Vt	的:T	營養:N	成份:N	
+想要:Vt	多點:DET	拉麵:N	吃法:N	的:T	朋友:N	
+不妨:ADV	也:ADV	可以:ADV	試試:Vt	把:P	紫米:N	泡:Vt	在:P	湯:N	裡:N	
+吃:Vt	來:ADV	別有:Vt	一:DET	番:M	風味:N	
+炸雞:N	唐揚:N	
+NT:FW	.:PERIODCATEGORY	150:DET	元:M	
+無骨:N	雞肉:N	外:POST	酥內:N	嫩:Vi	
+而:C	肉質:N	本身:N	的:T	口感:N	還:ADV	挺:ADV	多汁:Vi	的:T	
+旁邊:N	附加:Vt	美奶:N	滋:N	
+其實:ADV	我:N	覺得:Vt	單:ADV	吃:Vt	就:ADV	相當:ADV	不錯:Vi	了:T	
+金絲:N	麵線:N	蝦:N	
+NT:FW	.:PERIODCATEGORY	150:DET	元:M	
+這:DET	道:M	炸:Vt	物:N	很:ADV	特別:Vi	
+印象:N	中:POST	好像:ADV	沒:ADV	在:P	拉:Vt	麵店:N	瞧:Vt	過:ASP	它:N	
+如果:C	不:ADV	說:Vt	我:N	還:ADV	真:ADV	猜:Vt	不:ADV	出:Vt	它:N	是:Vt	什麼:DET	玩意兒:N	
+只:ADV	覺得:Vt	它:N	活:Vi	脫:Vt	像:Vt	極了:ADV	蠶:N	寶寶:N	吐:Vt	絲:N	把:P	自己:N	包起:Vt	來:Vi	的:T	模樣:N	XD:FW	
+雖然:C	我:N	自己:N	是:Vt	比較:ADV	喜歡:Vt	炸雞:N	
+不過:C	其實:ADV	這:DET	道:M	金線:N	蝦:N	也:ADV	不錯:Vi	
+口感:N	酥脆:Vi	之餘:POST	
+還:ADV	吃:Vt	得到:Vt	麵線:N	一:DET	條:M	一:DET	條:M	的:T	感覺:N	
+內:N	餡:N	中:POST	是:Vt	飽滿:Vi	帶有:Vt	甜味:N	的:T	蝦肉:N	
+其中:DET	還:ADV	加:Vt	了:ASP	類似:Vt	荸齊:N	這:DET	類:M	食材:N	脆脆:Vi	的:T	口感:N	
+滋味:N	還:ADV	挺:ADV	新鮮:Vi	的:T	呦:b	
+吃:Vt	過:ASP	本:DET	店:N	及:C	惡鬼:N	
+深深:Vi	覺得:Vt	它們:N	在:P	湯頭:N	上:POST	完全:ADV	不:ADV	一樣:Vi	
+雖然:C	都:ADV	屬:Vt	濃郁系:N	
+但:C	本:DET	店:N	的:T	是:Vt	鹹:Vi	中:POST	帶有:Vt	豚骨:N	的:T	鮮甜:Vi	
+而:C	惡鬼:N	就:ADV	是:Vt	以:P	辣:Vi	及:C	重:Vi	口味:N	讓:Vt	人:N	印象:N	深刻:Vi	
+而:C	叉燒肉:N	可以:ADV	說:Vt	是:Vt	大賣:Vt	點:M	所在:N	
+很:ADV	適合:Vi	肉控:N	的:T	朋友:N	囉:T	

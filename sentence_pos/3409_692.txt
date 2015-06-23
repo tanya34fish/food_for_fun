@@ -1,0 +1,171 @@
+j035p:FW	(:PARENTHESISCATEGORY	水心:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	永康:N	商圈:N	§:FW	日式:A	古屋賞:N	味:N	青田:N	七六:DET	
+Sun:FW	
+Aug:FW	
+10:DET	
+21:DET	::COLONCATEGORY	41:DET	::COLONCATEGORY	55:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	青田:N	七六:DET	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	青田街:N	7巷:N	6:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2391:DET	-:DASHCATEGORY	6676:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週日:N	
+午餐:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	最後:N	點餐:N	時間:N	13:DET	::COLONCATEGORY	30:DET	):PARENTHESISCATEGORY	
+午茶:N	14:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	17:DET	::COLONCATEGORY	00:DET	
+晚餐:N	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	最後:N	點餐:N	時間:N	20:DET	::COLONCATEGORY	00:DET	):PARENTHESISCATEGORY	
+每:DET	個:M	月:N	第一:DET	個:M	星期一:N	休館:Vi	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	500:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	，:COMMACATEGORY	需:ADV	預訂:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	若:C	雞:N	唐揚定食:N	
+有:Vt	圖好讀:Vt	網誌版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	letgo1991.pixnet.net/blog/post:FW	/:FW	379179674:DET	
+台北:N	最:ADV	美:Vi	的:T	一:DET	條:M	街:N	
+和:C	一:DET	棟:M	充滿:Vt	故事:N	的:T	老:Vi	房子:N	
+開:Vt	在:P	古蹟:N	裡:N	的:T	日式:A	餐廳:N	
+實在:ADV	很:ADV	值得:Vi	細細:Vi	品味:N	
+這:DET	間:M	餐廳:N	就:ADV	是:Vt	隱身:Vi	在:P	永康:N	商圈:N	和:C	師大:N	商圈:N	間:N	的:T	
+青田:N	七六:DET	
+2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1517.5:DET	9.08:DET	.:PERIODCATEGORY	jpg:FW	這:DET	是:Vt	家:N	很:ADV	特別:Vi	的:T	餐廳:N	
+建築:N	外觀:N	是:Vt	台北市:N	定:Vt	古蹟:N	－－:DET	
+馬廷英:N	故居:N	
+不:ADV	知道:Vt	馬廷英:N	是:Vt	誰:N	的:T	請:Vt	點:N	這裡:N	
+有:Vt	我們:N	的:T	維基:N	好朋友:N	
+我:N	也:ADV	是:Vt	回來:Vi	寫:Vt	網誌:N	才:ADV	去:Vt	google:FW	的:T	：:COLONCATEGORY	P:FW	決定:Vt	要:ADV	來:ADV	拜訪:Vt	這:DET	家:M	餐廳:N	是:Vt	因為:C	
+我:N	那些:DET	熱愛:Vt	抹:Vt	茶:N	的:T	高中:N	教友:N	們:N	想:Vt	再:ADV	訪:Vt	和:C	茗:N	甘味:N	坊:N	被:P	我:N	打:Vt	槍:N	
+至於:P	原因:N	是:Vt	什麼:DET	
+有空:Vi	我:N	會:ADV	補上:Vt	二:DET	訪:Vt	心得:N	
+總之:ADV	最後:N	我們:N	找到:Vt	這:DET	家:M	日式:A	風格:N	的:T	
+青田:N	七六:DET	
+2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1517.5:DET	8.46:DET	.:PERIODCATEGORY	jpg:FW	主:N	屋:N	旁:N	的:T	牆:N	上:N	
+有:Vt	366:DET	種花:Vi	的:T	圖騰:N	作為:Vt	
+生日:N	花紋:N	
+這:DET	讓:Vt	我:N	想起:Vt	了:ASP	台南:N	夕:N	遊:Vt	出張:N	所:ADV	的:T	生日:N	鹽:N	
+很:ADV	吸引:Vt	女孩兒:N	的:T	特色:N	
+照片:N	裡:N	是:Vt	我:N	將要:ADV	遠行:Vi	的:T	好朋友:N	
+在:P	尋找:Vt	自己:N	或:C	男碰友:N	的:T	生日:N	花紋:N	
+進入:Vt	室:N	內:N	時:POST	
+服務生:N	會:ADV	請:Vt	你:N	把:P	鞋子:N	放:Vt	在:P	門口:N	的:T	鞋櫃:N	
+就:ADV	像:Vt	在:P	日劇:N	裡:N	看到:Vt	的:T	
+每:DET	一:DET	戶:M	人家:N	都:ADV	有:Vt	個:M	小:Vi	玄關:N	穿脫:Vt	鞋子:N	
+而且:C	入:Vt	內:N	一定:ADV	要:ADV	穿:Vt	襪子:N	喔:T	
+據說:ADV	這:DET	是:Vt	為了:P	維護:Vt	古蹟:N	
+避免:Vt	檜木:N	做:Vt	的:T	木質:N	地板:N	受到:Vt	磨損:Vt	
+很:ADV	特別:Vi	
+好像:ADV	自己:N	也:ADV	為:Vt	維護:Nv	古蹟:N	付出:Vt	了:ASP	一:DET	份:M	心力:N	並:ADV	沒有:Vt	
+沒有:ADV	穿:Vt	襪子:N	的:T	人:N	也:ADV	別:ADV	擔心:Vt	
+店家:N	在:P	玄關:N	提供:Vt	襪子:N	
+一:DET	雙:M	只要:C	10:DET	元:M	
+2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1518.0:DET	0.28:DET	.:PERIODCATEGORY	jpg:FW	這:DET	是:Vt	我們:N	的:T	包廂:N	
+在:P	決定:N	聚餐:Nv	地點:N	是:Vt	青田:N	六七:DET	後:POST	
+我:N	當仁不讓:Vi	的:T	立馬:N	電話:N	訂位:Vi	
+碰到:Vt	吃:Vt	我:N	都:ADV	能:ADV	非常:ADV	積極:Vi	
+大概:ADV	是:Vt	受:P	朋友:N	影響:N	哈哈:ADV	
+特別:Vi	提醒:Vt	想要:Vt	在:P	包廂:N	用餐:Vi	的:T	朋友:N	
+包廂:N	是:Vt	要:ADV	事先:ADV	電話:N	訂位:Vi	的:T	喔:T	
+電話:N	中:POST	也:ADV	有:Vt	特別:Vi	提醒:Vt	包廂:N	有:Vt	低消:N	1800:DET	元:M	以及:C	入:Vt	內:N	要:ADV	穿:Vt	襪子:N	::COLONCATEGORY	":FW	
+菜單:N	上:N	有:Vt	說明:Vt	每:DET	人:N	低:Vi	消:Vt	150:DET	元:M	及:C	10:DET	%:M	服務費:N	
+攜帶:Vt	外食:Nv	的:T	話:N	每:DET	人:N	要:ADV	加收:Vt	100:DET	元:M	清潔費:N	喔:T	
+2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1518.0:DET	0.36:DET	.:PERIODCATEGORY	jpg:FW	已經:ADV	準備好:Vt	的:T	餐具:N	和:C	典雅:Vi	的:T	菜單:N	
+後面:N	還:ADV	有:Vt	不:ADV	小心:Vt	入:Vt	鏡:N	的:T	滅火器:N	
+由於:C	整:DET	棟:M	建築物:N	是:Vt	木造:A	的:T	
+所以:C	室:N	內:N	是:Vt	全面:ADV	禁:Vt	菸:N	的:T	
+2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1518.2:DET	5.23:DET	.:PERIODCATEGORY	jpg:FW	坐下來:Vi	後:POST	
+幾:DET	個:M	好久:Vi	不:ADV	見:Vt	的:T	高中:N	友人:N	嘰哩:ADV	呱:ADV	拉:Vt	
+講到:Vt	差點:ADV	忘:Vt	了:ASP	點:DET	餐:M	
+圖片:N	取自:Vi	青田:N	七六:DET	官網:N	
+晚餐:N	時段:N	的:T	定食:Vt	價位:N	偏:ADV	高:Vi	
+大約:ADV	是:Vt	在:P	460:DET	元:M	到:Vt	580:DET	元:M	之間:POST	
+也:ADV	因為:C	價位:N	偏:ADV	高:Vi	
+所以:C	我:N	決定:Vt	和:C	朋友:N	合:Vt	點:M	一:DET	份:M	
+其實:ADV	是:Vt	因為:C	我:N	不:ADV	敢:Vt	高估:Vt	自己:N	的:T	食量:N	
+2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1518.3:DET	4.11:DET	.:PERIODCATEGORY	jpg2014-07-1518.36.15.jpg:FW	若:C	雞:N	唐揚定食:N	460:DET	元:M	日本:N	的:T	套餐:N	多:ADV	是:Vt	一:DET	小:Vi	份:M	一:DET	小:Vi	份:M	
+只:ADV	屬於:Vt	自己:N	
+有:Vt	獨特:Vi	的:T	尊榮:N	感:Vt	這:DET	個:M	有點:ADV	高貴:Vi	的:T	套餐:N	包含:Vt	：:COLONCATEGORY	炸雞:N	、:PAUSECATEGORY	黃:N	芥末醬:N	
+大概:ADV	吧:T	
+、:PAUSECATEGORY	茶碗:N	蒸:Vt	、:PAUSECATEGORY	味噌湯:N	、:PAUSECATEGORY	沙拉:N	、:PAUSECATEGORY	涼菜:N	、:PAUSECATEGORY	蝦捲:N	和:C	附餐:N	飲料:N	一:DET	杯:M	
+炸雞:N	很:ADV	好吃:Vi	
+外皮:N	酥脆:Vi	卻:ADV	不過:C	乾:Vi	、:PAUSECATEGORY	內裡:N	多汁:Vi	肉嫩:N	
+配上:Vt	黃:N	芥末:N	和:C	微微:ADV	酸:Vi	黃瓜:N	的:T	提味:N	
+一下子:N	被:P	我們:N	解決:Vt	了:ASP	
+涼菜:N	是:Vt	小黃瓜:N	
+在:P	夏天:N	吃:Vt	很:ADV	是:Vt	清爽:Vi	
+蝦捲:N	則:ADV	是:Vt	沾上:Vt	旁邊:N	的:T	沾醬:N	
+也:ADV	就:ADV	沒有:ADV	油炸:Vt	的:T	油膩感:N	
+沙拉:N	的:T	部分:DET	就:ADV	是:Vt	中規中矩:Vi	啦:T	
+感覺:N	上:N	蘿:b	蔓生菜:N	和:C	夾:Vt	在:P	MOSBurger:FW	裡:N	的:T	一樣:Vi	和風醬:N	也:ADV	很:ADV	像:Vt	
+味噌湯:N	裡:N	有:Vt	很多:DET	魚肉:N	和:C	湯:N	豆腐:N	
+我:N	吃:Vt	得:T	很:ADV	開心:Vi	
+茶碗:N	蒸:Vt	我們:N	本來:ADV	以為:Vt	是:Vt	奶酪:N	呢:T	
+裡面:N	也:ADV	藏:Vt	了:ASP	香菇:N	和:C	魚片:N	
+看起來:ADV	很少:ADV	
+但是:C	卻:ADV	餵飽:Vt	了:ASP	兩:DET	隻:M	小鳥:N	胃:N	
+應該:ADV	還:ADV	不錯:Vi	吧:T	
+但:C	我:N	不得不:ADV	談談:Vt	附餐:N	飲料:N	－－:DET	甘蔗汁:N	
+多麼:ADV	令:Vt	人:N	懷念:Vt	的:T	飲品:N	
+記得:Vt	小時候:N	
+我:N	會:ADV	跟:P	著:ASP	祖母:N	去:Vt	北投:N	市場:N	
+然後:ADV	我:N	會:ADV	拜託:Vt	祖母:N	買給:Vt	我:N	喝:Vt	
+大概:ADV	有:Vt	10多:DET	年:M	沒:ADV	喝:Vt	過:ASP	了:T	吧:T	
+這裡:N	的:T	甘蔗汁:N	加:Vt	了:ASP	檸檬片:N	
+很:ADV	好喝:Vi	
+2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1518.3:DET	5.18:DET	.:PERIODCATEGORY	jpg:FW	紅麴味噌松阪:N	豬:N	定食:Vt	580:DET	元:M	朋友點:N	的:T	
+在:P	配菜:N	上:POST	和:P	我們:N	的:T	一樣:Vi	
+不同:Vi	的:T	是:Vt	主菜:N	
+看起來:ADV	也:ADV	很:ADV	美味:Vi	喔:T	
+2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1518.2:DET	4.19:DET	.:PERIODCATEGORY	jpg:FW	七六:DET	蔬食:N	套餐:N	760:DET	元:M	/:FW	和風:N	蔬果:N	沙拉:N	朋友:N	裡:N	有:Vt	兩:DET	位:M	吃素:Vi	
+本來:ADV	要:ADV	合:Vt	點:M	一:DET	份:M	蔬食:N	套餐:N	
+卻:ADV	因為:C	溝通:Vt	的:T	問題:N	變成:Vt	兩:DET	份:M	...:ETCCATEGORY	2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1518.5:DET	4.42:DET	.:PERIODCATEGORY	jpg:FW	七六:DET	蔬食:N	套餐:N	760:DET	元:M	/:FW	味噌筊白筍:N	和:C	旭日:N	艷茄:Vi	旭日:N	艷茄:Vi	很:ADV	驚人:Vi	的:T	是:Vt	整:DET	顆:M	番茄:N	
+看:Vt	了:ASP	都:ADV	好:Vi	想:Vt	戳:Vt	他:N	幾:DET	下:M	
+咦:T	
+但是:C	他們:N	兩:DET	個:M	坐:Vi	得:T	離:P	我:N	太:ADV	遠:Vi	
+所以:C	後續:A	幾:DET	道:M	菜:N	我:N	都:ADV	沒:ADV	拍到:Vt	
+圖片:N	取自:Vi	青田:N	七六:DET	官網:N	
+整:DET	個:M	套餐:N	有:Vt	8:DET	道:M	菜:N	及:C	一:DET	杯:M	養生茶:N	、:PAUSECATEGORY	一:DET	小:Vi	杯:N	醋飲:Vt	
+很:ADV	適合:Vi	老人家:N	或:C	減肥:Vi	的:T	女孩兒:N	喔:T	
+可能:ADV	是:Vt	知道:Vt	今天:N	要:ADV	吃:Vt	大餐:N	
+大家:N	都:ADV	餓:Vi	著:ASP	肚子:N	
+三兩:DET	下:M	就:ADV	吃光:Vt	了:ASP	
+所以:C	服務生:N	陸續:ADV	送上:Vt	了:ASP	甜點:N	2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1518.5:DET	8.28:DET	.:PERIODCATEGORY	jpg:FW	經典:N	巧克力:N	蛋糕:N	150:DET	元:M	朋友點:N	的:T	
+蛋糕:N	看起來:ADV	很:ADV	紮實:Vi	
+我:N	本來:ADV	很:ADV	想:Vt	嘗試:Vt	
+但是:C	又:ADV	覺得:Vt	來:Vi	這裡:N	吃:Vt	巧克力:N	很:ADV	怪:Vi	
+並:C	不會:ADV	
+所以:C	變心:Vi	了:T	......:ETCCATEGORY	2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1518.5:DET	9.16:DET	.:PERIODCATEGORY	jpg:FW	羽冰:N	乳酪:N	150:DET	元:M	今夜:N	真的:ADV	吃:Vt	得:T	很:ADV	清爽:Vi	
+這:DET	個:M	蛋糕:N	適合:Vi	怕:Vt	胖:Vi	或:C	怕:Vt	膩:Vi	的:T	女孩:N	
+有:Vt	著:ASP	清甜:Vi	的:T	奶香:N	
+上面:N	放:Vt	的:T	不:ADV	是:Vt	檸檬:N	喔:T	
+是:Vt	金桔:N	::COLONCATEGORY	
+2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1518.2:DET	5.45:DET	.:PERIODCATEGORY	jpg:FW	翠:Vi	之:T	華:N	180:DET	元:M	名字:N	很:ADV	文:Vi	青:Vi	
+但:C	他:N	不過:ADV	是:Vt	區區:ADV	的:T	抹:Vt	茶:N	牛奶:N	XD:FW	因為:C	是:Vt	朋友:N	的:T	
+所以:C	沒:ADV	能:ADV	和和:Vi	茗:N	甘味:N	坊:N	比較:Vt	下:POST	
+上面:N	有:Vt	可愛:Vi	的:T	拉花:N	
+卻:ADV	被:P	朋友:N	嫌棄:Vt	了:ASP	
+他:N	明明:ADV	就:ADV	很:ADV	可愛:Vi	呀:T	
+S__4939903.jpg:FW	和風:N	夏日:N	四:DET	果冰:N	160:DET	元:M	2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1518.2:DET	9.31:DET	.:PERIODCATEGORY	jpg:FW	烤:Vt	鮭魚:N	飯糰:N	80:DET	元:M	送:Vt	上桌:Vi	時:POST	
+香氣:N	四溢:Vi	的:T	烤:Nv	飯糰:N	
+朋友:N	說:Vt	很:ADV	好吃:Vi	::COLONCATEGORY	
+本來:ADV	很:ADV	想:Vt	加:Vt	點:M	一:DET	份:M	來:ADV	嚐嚐:Vt	
+可惜:Vi	胃:N	容量:N	已經:ADV	飽和:Vi	了:T	
+在:P	這裡:N	想:Vt	讚美:Vt	下:DET	服務生:N	
+從:P	沒有:ADV	覺得:Vt	10:DET	%:M	服務費:N	這麼:ADV	值得:Vi	過:ASP	
+因為:C	看到:Vt	我們:N	多:ADV	是:Vt	兩:DET	人:N	合用:Vt	一:DET	份:M	套餐:N	
+所以:C	服務生:N	在:P	送上:Vt	主餐:N	時:POST	
+都:ADV	會:ADV	多:POST	準備:Vt	一:DET	個:M	空碗:N	
+免去:Vt	我們:N	討:Vt	碗:N	的:T	尷尬:Vi	
+連:C	後面:N	送上:Vt	的:T	甜點:N	
+也:ADV	都:ADV	附上:Vt	了:ASP	兩:DET	隻:M	叉子:N	
+好:ADV	貼心:Vi	::COLONCATEGORY	
+2014:DET	-:DASHCATEGORY	07:DET	-:DASHCATEGORY	1519.2:DET	6.05:DET	.:PERIODCATEGORY	jpg:FW	黑糖凍:N	不:ADV	知道:Vt	附餐:N	甜點:N	是否:ADV	也:ADV	是:Vt	服務生:N	的:T	貼心:Vi	
+我們:N	只:ADV	點:Vt	了:ASP	3:DET	個:M	套餐:N	
+卻:ADV	有:Vt	6:DET	份:M	黑糖凍:N	呢:T	
+這:DET	個:M	黑糖:N	凍:Vt	吃:Vt	得:T	出:Vt	黑糖:N	的:T	香氣:N	
+卻:ADV	不會:ADV	過:ADV	甜:Vi	
+不:ADV	知道:Vt	有沒有:ADV	提供:Vt	網購:Vt	
+我:N	太:ADV	喜歡:Vt	了:ASP	這:DET	個:M	飯:N	後:POST	小:Vi	點心:N	餐廳:N	動線:N	★:FW	★:FW	★:FW	★:FW	★:FW	裝潢:Vt	風格:N	★:FW	★:FW	★:FW	★:FW	★:FW	
+在:P	古蹟:N	裡:N	約會:Vi	
+很:ADV	有:Vt	氣氛:N	
+服務:Nv	態度:N	★:FW	★:FW	★:FW	★:FW	★:FW	
+我:N	想:Vt	給:Vt	六:DET	顆:M	星星:N	
+餐點:N	價位:N	★:FW	★:FW	★:FW	☆:FW	☆:FW	
+我:N	覺得:Vt	價格:N	有點:ADV	不:ADV	可愛:Vi	
+主觀:Vi	美味:N	★:FW	★:FW	★:FW	★:FW	★:FW	--:DASHCATEGORY	

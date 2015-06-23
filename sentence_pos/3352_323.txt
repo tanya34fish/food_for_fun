@@ -1,0 +1,45 @@
+qazxswedcv(Cindy:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	溫德德式:A	烘培:Vt	餐館:N	
+Fri:FW	
+Jul:FW	
+25:DET	
+12:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	46:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Wendel:FW	’:FW	sGermanBakery&amp:FW	;:SEMICOLONCATEGORY	Bistro:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	光復南路:N	260巷:N	28:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27118919:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	08:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	-:DASHCATEGORY	500:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	經典:N	早餐:N	
+圖文並茂:Vi	無:Vt	音樂:N	部落格版:N	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	circlecindy.blogspot.tw/2014/07/wendels-german-bakery-bistro.html:FW	
+每:DET	到:P	周:N	末:POST	
+總是:ADV	會:ADV	很:ADV	想:Vt	用:P	豐盛:Vi	的:T	brunch:FW	來:ADV	開啟:Vt	美好:Vi	的:T	一:DET	天:M	
+這:DET	個:M	週末:N	隨意:Vi	走走:Vi	逛:Vt	到:Vt	的:T	Wandel:FW	’:FW	s:FW	溫德德式:A	烘培:Vt	餐館:N	
+就:ADV	位在:Vt	國父:N	紀念館:N	附近:N	的:T	巷弄:N	裡:N	
+提供:Vt	正統:A	德式:A	烘培:Vt	與:C	輕食:Vt	料理:N	
+讓:Vt	你:N	在:P	台北:N	也:ADV	能:ADV	吃到:Vt	道地:Vi	的:T	德國:N	好:Vi	味道:N	
+走入:Vt	溫德:N	烘培:Vt	餐館:N	裡:N	
+典雅:Vi	的:T	歐式:A	裝潢:N	、:PAUSECATEGORY	精緻:Vi	手工:N	水晶燈:N	映入:Vt	眼簾:N	
+一:DET	字:N	排開:Vi	的:T	手工:N	麵包:N	與:C	西點:N	
+散發出:Vt	濃濃:Vi	的:T	香氣:N	
+每:DET	
+一:DET	種:M	麵包:N	與:C	甜點:N	都:ADV	讓:Vt	我:N	看:Vt	的:T	口水:N	直流:Vi	
+好:Vi	想:Vt	每:DET	一樣:Vi	都:ADV	吃吃:Vt	看:Vt	喔:T	
+這天:N	選擇:Vt	了:ASP	溫德:N	經典:N	早餐:N	1932:DET	
+特殊:Vi	的:T	木製:A	餐盤:N	上:N	
+擺放:Vt	了:ASP	冷:Vi	肉盤:N	、:PAUSECATEGORY	乳酪:N	、:PAUSECATEGORY	蔬菜:N	沙拉:N	、:PAUSECATEGORY	水果:N	優格:N	、:PAUSECATEGORY	經典:N	炒蛋:Vi	、:PAUSECATEGORY	焗烤:Vt	番茄:N	與:C	德式:A	香腸:N	
+整:DET	個:M	套餐:N	除了:P	這些:DET	之外:POST	還:ADV	附上:Vt	一:DET	整:DET	籃:N	的:T	德式:A	手工:N	小:Vi	餐包:N	喔:T	
+真的:ADV	超:Vt	喜歡:Vt	這:DET	家:M	的:T	早:Vi	午餐:N	
+其中:DET	要:ADV	特別:Vi	推薦:Vt	的:T	是:Vt	它們:N	的:T	炒蛋:N	
+綿密:Vi	鬆軟:Vi	的:T	口感:N	、:PAUSECATEGORY	濃郁:Vi	的:T	蛋:N	香味:N	
+配上:Vt	清爽:Vi	的:T	焗烤:Vt	番茄:N	真的:ADV	非常:ADV	好吃:Vi	
+冷:Vi	肉盤:N	也:ADV	是:Vt	我:N	的:T	最愛:N	
+冷:Vi	肉:N	本身:N	都:ADV	已經:ADV	均勻:Vi	的:T	沾:Vt	過:ASP	和風醬:N	
+搭配:Vt	著:ASP	乳酪:N	一起:ADV	吃:Vt	實在:ADV	是:Vt	非常:ADV	的:T	完美:Vi	
+這:DET	個:M	周:N	末:POST	不要:ADV	在:P	家:N	賴床:Vi	到:P	下午:N	
+起身:Vi	去:ADV	品嘗:Vt	一:DET	頓:M	美味:Vi	豐盛:Vi	的:T	早:Vi	午餐:N	吧:T	
+絕對:ADV	會:ADV	帶給:Vt	你:N	最:ADV	棒:Vi	的:T	滿足:Nv	

@@ -1,0 +1,25 @@
+wahaha:FW	0329:DET	(:PARENTHESISCATEGORY	我:N	是:Vt	傻:Vi	兔:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北市:N	單點燒:N	肉店:N	推薦:Vt	！:EXCLAMATIONCATEGORY	
+Tue:FW	
+Aug:FW	
+26:DET	
+02:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	57:DET	
+2014:DET	
+請益:Vi	
+台北市:N	單點燒:N	肉店:N	推薦:Vt	
+TueAug:FW	2602:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	572014:DET	
+因為:C	九月:N	初:ADV	是:Vt	和:P	男友:N	的:T	一:DET	週年:M	
+又:ADV	加上:Vt	適逢:P	中秋節:N	
+所以:C	我們:N	決定:Vt	吃:Vt	燒肉:N	啦:T	
+上網:Vi	查:Vt	了:ASP	一下:N	
+目前:N	有:Vt	幾:DET	家:M	無法:ADV	選擇:Vt	
+1:DET	.:PERIODCATEGORY	大捥:N	
+2:DET	.:PERIODCATEGORY	油花:N	
+3:DET	.:PERIODCATEGORY	大阪:N	雙子:A	
+4:DET	.:PERIODCATEGORY	甕:N	也:ADV	
+5:DET	.:PERIODCATEGORY	老:Vi	乾杯:Vi	
+主要:A	考量點:N	是:Vt	希望:Vt	有:Vt	氣氛:N	一點:DET	的:T	燒:Vt	肉店:N	
+且:C	牛肉:N	要:ADV	好吃:Vi	
+想:Vt	問問:Vt	大家:N	在:P	心:N	中:POST	的:T	排名:Nv	為何:ADV	
+謝謝:Vt	大家:N	：:COLONCATEGORY	
+SentfrommyiPhone:FW	

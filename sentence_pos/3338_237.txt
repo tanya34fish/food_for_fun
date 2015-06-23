@@ -1,0 +1,43 @@
+colaw:FW	(:PARENTHESISCATEGORY	合法:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安區:N	--:DASHCATEGORY	樂:Vi	麵:N	屋:N	(:PARENTHESISCATEGORY	紫蘇:N	起:POST	司豚骨:N	拉麵:N	):PARENTHESISCATEGORY	
+Mon:FW	
+Jul:FW	
+21:DET	
+19:DET	::COLONCATEGORY	54:DET	::COLONCATEGORY	18:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	樂:Vi	麵:N	屋:N	忠孝店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	4月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	大安路:N	一段:N	83巷:N	10:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	87728159:DET	
+圖文:N	網誌版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	hkfh.pixnet.net/blog/post:FW	/:FW	43707847:DET	
+看到:Vt	樂:Vi	麵:N	屋:N	有:Vt	新:Vi	口味:N	
+一定:ADV	是:Vt	要:ADV	嘗試:Vt	一下:N	的:T	啦:T	
+紫蘇:N	起:POST	司豚骨:N	拉麵:N	280:DET	
+麵:N	一:ADV	上桌:Vi	
+起:Vt	司:N	的:T	香味:N	就:ADV	撲鼻:Vi	而:C	來:ADV	
+感覺:N	味道:N	會:ADV	很:ADV	重:Vi	
+可是:C	喝:Vt	一口:ADV	湯:N	的:T	感覺:N	
+味道:N	居然:ADV	很:ADV	清爽:Vi	
+綠色:N	的:T	配菜:N	讓:Vt	湯:N	每:ADV	一口:ADV	都:ADV	有:Vt	很多:DET	的:T	菜味:N	
+讓:Vt	很:ADV	重:Vi	的:T	起:Vt	司:N	反而:C	不會:ADV	感覺:Vt	這麼:ADV	膩:Vi	
+感覺:Vt	很:ADV	有趣:Vi	的:T	搭配:Nv	
+我:N	覺得:Vt	是:Vt	很:ADV	適合:Vi	在:P	天氣:N	熱:Vt	時:POST	吃:Vt	的:T	拉麵:N	
+叉燒肉:N	塊:N	也:ADV	很:ADV	有趣:Vi	
+很:ADV	像:Vt	三:DET	層:M	肉:N	的:T	作法:N	
+吃起來:ADV	偏:ADV	瘦:Vi	我:N	很:ADV	喜歡:Vt	這:DET	種:M	口味:N	
+整體:N	來:ADV	說:Vt	我:N	蠻:ADV	喜歡:Vt	這:DET	碗:M	拉麵:N	
+希望:Vt	會:ADV	變成:Vt	可以:Vi	常態:N	吃到:Vt	的:T	口味:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	hkfh.pixnet.net/album/photo:FW	/:FW	277958377:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	hkfh.pixnet.net/album/photo:FW	/:FW	277958380:DET	
+從來:ADV	還:ADV	沒:ADV	吃:Vt	過:ASP	樂:Vi	麵:N	屋:N	的:T	布丁:N	
+閃光:N	說:Vt	想:Vt	吃:Vt	看看:ASP	
+我:N	也:ADV	很:ADV	好奇:Vi	
+就:ADV	點:Vt	了:ASP	一:DET	顆:M	來:ADV	試試:Vt	
+其實:ADV	一:DET	顆:M	還:ADV	蠻:ADV	貴:Vi	的:T	
+不過:C	比:P	想像:N	中:POST	的:T	大:Vi	顆:M	
+很:ADV	奇妙:Vi	的:T	是:Vt	吃起來:ADV	很:ADV	紮實:Vi	
+口感:N	很:ADV	奇妙:Vi	牛奶味:N	很:ADV	重:Vi	
+其實:ADV	是:Vt	蠻:ADV	值得:Vi	的:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	hkfh.pixnet.net/album/photo:FW	/:FW	277958395:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	hkfh.pixnet.net/album/photo:FW	/:FW	277958389:DET	

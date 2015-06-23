@@ -1,0 +1,51 @@
+iioouu:FW	(:PARENTHESISCATEGORY	小萍:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	：:COLONCATEGORY	冬至:N	必:ADV	吃:Vt	湯圓:N	冠軍:N	☆:FW	雙連:A	圓仔湯:N	
+Mon:FW	
+Aug:FW	
+4:DET	
+21:DET	::COLONCATEGORY	50:DET	::COLONCATEGORY	11:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	雙連:A	圓仔湯:N	
+品嘗:Vt	日期:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	民生西路:N	136:DET	號:M	1樓:N	（:PARENTHESISCATEGORY	捷運:N	雙連:N	站:Vi	1:DET	號:M	出口:Nv	）:PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2550:DET	-:DASHCATEGORY	8646:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	23:DET	::COLONCATEGORY	30:DET	
+---:DASHCATEGORY	
+網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	anrine910070.pixnet.net/blog/post:FW	/:FW	184073100:DET	
+---:DASHCATEGORY	
+本來:ADV	是:Vt	想:Vt	試試:Vt	朝思暮想:Vi	的:T	甘味:N	処:b	も:FW	ち:FW	餅屋:N	
+誰:N	知道:Vt	它:N	居然:ADV	沒:ADV	開:Vt	
+唉:T	
+跟:P	它:N	真:ADV	沒:Vt	緣份:N	
+屢次:ADV	造訪:Vt	不:ADV	是:Vt	沒:ADV	開:Vt	就:ADV	是:Vt	又:ADV	搬家:Vi	了:ASP	
+希望:Vt	下:DET	次:M	能:ADV	有:Vt	機會:N	吃到:Vt	
+無法:ADV	克制:Vt	想:Vt	吃:Vt	麻糬:N	的:T	念頭:N	
+只好:ADV	到:P	鄰近:Vt	的:T	雙連:A	圓仔湯:N	解饞:Vi	
+2013年:N	蕃薯:N	藤:N	輕:Vi	旅行:Nv	頻道:N	與:C	PK:FW	吧:T	舉辦:Vt	
+2013:DET	冬至:N	必:ADV	吃:Vt	湯圓:N	
+票選:Vt	活動:N	
+冷甜湯:N	與:C	燒麻糬:N	讓:Vt	雙連:A	圓仔湯:N	成功:Vi	奪下:Vt	第一:DET	名:M	佳績:N	
+其實:ADV	早:ADV	在:P	去年:N	的:T	比賽:N	前:POST	
+1951年:N	創立:Vt	的:T	雙連:A	圓仔湯:N	
+在:P	台北:N	就:ADV	一直:ADV	享有:Vt	頗:ADV	高:Vi	的:T	知名度:N	
+今天:N	到:Vt	圖書館:N	隨意:Vi	翻閱:Vt	兩:DET	本:M	台北:N	美食:N	
+居然:ADV	都:ADV	看到:Vt	它:N	的:T	蹤影:N	
+也許:ADV	是:Vt	名氣:N	大:Vi	再:ADV	加上:Vt	坐落:Vi	在:P	台北市:N	鬧區:N	
+這裡:N	的:T	甜品:N	價格:N	貴:Vi	得:T	嚇人:Vi	
+最:ADV	便宜:Vi	的:T	甜湯:N	就:ADV	是:Vt	一:DET	個:M	便當價:N	
+燒麻糬:N	更:ADV	不得了:Vi	
+兩:DET	顆:M	就:ADV	要:ADV	75:DET	元:M	
+燒麻:N	糬:b	
+一:DET	甜:Vi	一:DET	鹹:Vi	
+75:DET	元:M	
+兩:DET	顆:M	白:Vi	胖胖:Vi	的:T	麻糬:N	
+光:ADV	看:Vt	就:ADV	讓:Vt	人:N	食指:N	大動:Vt	
+採用:Vt	低溫:N	油泡:N	
+端上:Vt	桌:N	整:DET	份:M	還:ADV	熱:Vt	呼呼:ADV	的:T	
+麻糬:N	的:T	口感:N	確實:ADV	相較:Vi	坊間:N	來:Vi	的:T	更:ADV	香:Vi	Q:FW	且:C	彈性:N	
+大:Vi	口:N	咬下:Vt	那:DET	股:M	香:N	Q:FW	勁:N	會:ADV	更:ADV	鮮明:Vi	
+裹上:Vt	不少:DET	花生粉:N	但:C	卻:ADV	不會:ADV	太:ADV	甜:Vi	膩:Vi	
+鹹味:N	的:T	也:ADV	不:ADV	賴:Vt	加:Vt	的:T	是:Vt	肉鬆:N	與:C	海苔:N	
+一:ADV	開始:Vt	還:ADV	覺得:Vt	麻糬吃:Vt	鹹:Vi	蠻:ADV	突兀:Vi	的:T	
+沒想到:ADV	毫無:Vt	違和感:N	
+還:ADV	比:P	甜:Vi	得:T	更為:ADV	耐:Vt	吃:Vt	

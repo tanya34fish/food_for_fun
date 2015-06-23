@@ -1,0 +1,67 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	LeRubanP:FW	â:FW	tisserie:FW	法朋:N	烘焙:Vt	甜點:N	
+Wed:FW	
+Jul:FW	
+23:DET	
+19:DET	::COLONCATEGORY	42:DET	::COLONCATEGORY	13:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40951633:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+許久:N	沒有:ADV	吃:Vt	法式:A	甜點:N	了:T	
+去:ADV	吃:Vt	野村:N	壽司:N	的:T	時候:N	
+恰好:ADV	經過:Vt	法朋:N	
+很:ADV	久:Vi	以前:POST	就:ADV	
+聽聞:Vt	過:ASP	他:N	的:T	大名:N	
+一直:ADV	想:Vt	來:Vi	嘗嘗:Vt	
+但:C	總是:ADV	沒有:Vt	機會:N	
+吃完:Vt	野村:N	後:POST	
+心想:Vt	週末:N	
+不:ADV	知:Vt	有無:Vt	位子:N	
+來:ADV	碰碰運氣:Vi	
+順便:ADV	躲:Vt	即將:ADV	傾盆:Vi	而:C	下:N	的:T	大雨:N	
+法朋:N	位於:Vt	國泰:N	醫院:N	後:POST	
+這:DET	一帶:N	雖然:C	都:ADV	是:Vt	住宅區:N	
+但:C	隱藏:Vt	著:ASP	不少:DET	小店:N	
+週末:N	的:T	
+法朋:N	生意:N	相當:ADV	好:Vi	
+排隊:Vi	結帳:Vi	的:T	客人:N	絡繹不絕:Vi	
+不過:C	大多:DET	以:P	外帶:Vt	為主:Vi	
+內:N	用:Vt	的:T	
+室內:N	座位:N	已經:ADV	坐滿:Vt	
+不:ADV	奢求:Vt	
+所以:C	就:ADV	坐:Vi	戶外:N	
+還好:ADV	這:DET	幾:DET	天:M	一直:ADV	下雨:Vi	
+氣溫:N	也:ADV	
+不:ADV	高:Vi	
+不:ADV	熱:Vt	
+法朋:N	除了:P	甜點:N	之外:POST	也:ADV	有:Vt	麵包:N	
+買:Vt	麵包:N	的:T	人:N	其實:ADV	不少:Vi	
+甜點:N	每:DET	樣:M	看起來:ADV	都:ADV	挺:ADV	有:Vt	
+特色:N	
+誘人:Vi	食慾:N	
+珠寶盒:N	＄:FW	150:DET	
+點:Vt	了:ASP	一:DET	個:M	有:Vt	我:N	愛:Vt	吃:Vt	的:T	草莓:N	的:T	珠寶盒:N	
+雖然:C	早:ADV	就:ADV	不:ADV	是:Vt	草莓:N	的:T	季節:N	了:T	
+不過:C	法朋:N	
+的:T	草莓:N	竟然:ADV	不會:ADV	過:ADV	酸:Vi	
+也:ADV	是:Vt	難得:Vi	
+除了:P	草莓:N	之外:POST	
+還:ADV	點綴:Vt	著:ASP	一兩:DET	顆:M	藍莓:N	以及:C	
+荔枝:N	寒天:N	凍:Vt	
+主題:N	有:Vt	乳酪:N	巧克力:N	慕斯:N	、:PAUSECATEGORY	巧克力:N	蛋糕:N	
+玫瑰:N	白蜜桃奶醬:N	構成:Vt	
+巧克力:N	蛋糕:N	在:P	最:ADV	底層:N	
+量:N	不:ADV	多:Vi	
+因此:C	巧克力味:N	其實:ADV	不:ADV	是:Vt	很:ADV	重:Vi	
+比較:ADV	凸顯:Vt	的:T	風:N	
+味:N	是:Vt	微:ADV	酸:Vi	的:T	乳酪:N	巧克力:N	慕斯:N	以及:C	蜜桃奶醬:N	
+不致於:ADV	過:ADV	甜:Vi	
+風味:N	清爽:Vi	充滿:Vt	酸甜:Vi	
+果香:N	
+配杯黑:Vi	美式:A	咖啡:N	解膩:Vi	
+悠閒:Vi	度過:Vt	一:DET	下午:N	
+LeRubanP:FW	â:FW	tisserie:FW	法朋:N	烘焙:Vt	甜點:N	坊:N	
+地址:N	：:COLONCATEGORY	台北市:N	仁愛路:N	四段:N	300巷:N	20弄:N	11:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27003501:DET	
+一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	

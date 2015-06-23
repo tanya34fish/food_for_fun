@@ -1,0 +1,75 @@
+yucon:FW	(:PARENTHESISCATEGORY	攝影:N	‧:PERIODCATEGORY	旅行:Vi	‧:PERIODCATEGORY	拈花惹草:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	AGCTApartment:FW	。:PERIODCATEGORY	三樓:N	的:T	咖啡店:N	風景:N	
+Tue:FW	
+Aug:FW	
+12:DET	
+20:DET	::COLONCATEGORY	56:DET	::COLONCATEGORY	03:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	AGCTApartment:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23696659:DET	
+地址:N	：:COLONCATEGORY	台北市:N	溫州街:N	49巷:N	2:DET	-:DASHCATEGORY	2:DET	號:M	3樓:N	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	周:M	一:DET	、:PAUSECATEGORY	二:DET	休:Vi	
+Blog:FW	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	morrisyu.com/archives:FW	/:FW	2978:DET	
+AGCTApartment:FW	
+撇開:Vt	賣場:N	、:PAUSECATEGORY	百貨公司:N	不:ADV	算:Vt	
+應該:ADV	是:Vt	第一:DET	次:M	喝:Vt	咖啡:N	是:Vt	要:ADV	坐:Vi	電梯:N	上樓:Vi	的:T	
+位在:Vt	台電:N	大樓:N	站:Vi	附近:N	
+溫州街:N	巷子:N	內:N	
+位在:Vt	三樓:N	的:T	AGCTApartment:FW	
+之前:N	去:Vt	過:ASP	的:T	自然:N	醒:Vi	咖啡:N	公寓:N	、:PAUSECATEGORY	日子:N	咖啡:N	二:DET	店:N	都:ADV	是:Vt	位在:Vt	二樓:N	
+而:C	AGCT:FW	更:ADV	高:Vi	一:DET	層:N	樓:N	
+一:ADV	開始:Vt	還:ADV	找:Vt	不:ADV	到:Vt	AGCT:FW	的:T	正門:N	在:P	那兒:N	
+看到:Vt	地址:N	抬頭:Vi	看:Vt	
+被:P	一:DET	棵:M	楓香:N	給:Vt	包圍住:Vt	
+光:ADV	是:Vt	這:DET	一:DET	小:Vi	區塊:N	
+就:ADV	好幾:DET	家:M	咖啡店:N	
+假日:N	下午:N	
+每:DET	家:N	的:T	生意:N	都:ADV	很:ADV	好:Vi	呀:T	
+電梯:N	入口:N	在:P	側邊:N	小:Vi	巷子:N	內:N	
+別:ADV	懷疑:Vt	按上:Vt	三樓:N	就:ADV	可以:ADV	直達:Vt	AGCTApartment:FW	
+一:ADV	到:Vt	三樓:N	
+就:ADV	馬上:ADV	被:P	這:DET	排:M	窗:N	景:N	給:Vt	吸引住:Vt	
+剛好:ADV	位置:N	也:ADV	被:P	安排:Vt	在:P	這兒:N	
+AGCTApartment:FW	是:Vt	複合式:A	經營:Nv	
+除了:P	咖啡店:N	外:N	
+還:ADV	有:Vt	自有:Vt	品牌:N	的:T	服飾:N	銷售:Nv	
+店:N	內:N	的:T	空間:N	不:ADV	大:Vi	
+不過:C	座位:N	間:POST	安排:Vt	得:T	不錯:Vi	
+不會:ADV	讓:Vt	人:N	覺得:Vt	擁擠:Vi	
+沒有:Vt	手:N	作:Vt	menu:FW	
+餐點:N	就:ADV	寫:Vt	在:P	黑板:N	上:N	
+輕食:Vt	、:PAUSECATEGORY	手沖:N	咖啡:N	、:PAUSECATEGORY	茶類:N	為主:Vi	
+輕食:Vt	的:T	部分:DET	覺得:Vt	價位:N	有點:ADV	高:Vi	
+VitaminCcombo:FW	
+非常:ADV	妙:Vi	的:T	一:DET	杯:M	飲料:N	
+玻璃瓶:N	內:N	放:Vt	著:ASP	滿滿:Vi	的:T	葡萄柚:N	
+酸味:N	十足:Vi	
+如果:C	怕:Vt	酸:Vi	還可以:ADV	一直:ADV	加:Vt	白開水:N	稀釋:Vt	
+真的:ADV	是:Vt	補充:Vt	滿滿:Vi	的:T	維他命:N	C:FW	
+義式:A	天使:N	冷:Vi	麵:N	
+麵條:N	口感:N	偏:ADV	硬:Vi	
+不過:C	橄欖油:N	稍微:ADV	多:Vi	了:ASP	些:ADV	
+有:Vt	些:M	膩口:N	
+B.L.TClassic:FW	
+培根:N	、:PAUSECATEGORY	生菜:N	、:PAUSECATEGORY	雞蛋:N	三明治:N	
+味道:N	上:POST	並:ADV	不:ADV	突出:Vi	
+綜合:A	豆手沖:N	咖啡:N	
+酸味:N	明顯:Vi	
+我:N	還:ADV	蠻:ADV	喜歡:Vt	的:T	
+整體:N	來:ADV	說:Vt	
+喜歡:Vt	AGCT:FW	的:T	空間:N	大於:Vt	食物:N	
+雖然:C	坐:Vi	在:P	窗:N	前:POST	的:T	位置:N	有時:ADV	曬:Vt	到:P	太陽:N	會:ADV	有點:ADV	熱:Vt	
+不過:C	看:Vt	著:ASP	外頭:N	的:T	風景:N	是:Vt	很:ADV	舒服:Vi	的:T	事:N	
+還:ADV	有:Vt	一點:DET	要:ADV	補充:Vt	的:T	
+以前:N	刻板:Vi	印象:N	到:P	這樣:Vi	的:T	小店:N	服務生:N	的:T	態度:N	可能:ADV	都:ADV	不會:ADV	太:ADV	好:Vi	
+不過:C	在:P	AGCT:FW	可:ADV	都:ADV	是:Vt	笑臉:N	迎人:N	
+不時:ADV	的:T	還:ADV	會:ADV	前來:Vt	主動:Vi	加:Vt	水:N	
+在:P	服務:Nv	上:POST	可是:C	大大:Vi	的:T	加分:Nv	
+--:DASHCATEGORY	@:FW	_:FW	_:FW	_:FW	
+&:FW	gt:FW	
+/:FW	-:DASHCATEGORY	_:FW	攝影:Vi	‧:PERIODCATEGORY	旅行:Vi	‧:PERIODCATEGORY	拈花惹草:Vi	→:FW	Morris:FW	
+_:FW	
+\:FW	
+_:FW	
+_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	morrisyu.com:FW	/:FW	--:DASHCATEGORY	

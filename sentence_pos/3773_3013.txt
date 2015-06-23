@@ -1,0 +1,272 @@
+seagreen:FW	2005:DET	(:PARENTHESISCATEGORY	對:Vi	的:T	時間:N	，:COMMACATEGORY	對:Vi	的:T	人:N	。:PERIODCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	法孚:N	CafeV:FW	法式:A	薄餅:N	下午茶:N	(:PARENTHESISCATEGORY	天母店:N	):PARENTHESISCATEGORY	
+Wed:FW	
+Nov:FW	
+19:DET	
+19:DET	::COLONCATEGORY	07:DET	::COLONCATEGORY	09:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	法孚:N	CafeV:FW	(:PARENTHESISCATEGORY	天母店:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	忠誠路:N	二段:N	188:DET	號:M	2樓:N	(:PARENTHESISCATEGORY	誠品:N	忠誠店:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2877:DET	-:DASHCATEGORY	1162:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	～:FW	22:DET	::COLONCATEGORY	00:DET	
+有:Vt	圖:N	有:Vt	真相:N	之:T	我:N	愛:Vt	巧克力:N	甜:Vi	薄餅:N	網誌版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	mei30530.pixnet.net/blog/post:FW	/:FW	398567737:DET	
+溼溼:Vi	冷冷:Vi	的:T	陰天:N	
+不:ADV	適合:Vi	外出:Vi	
+那:DET	就:ADV	在:P	室:N	內:N	享用:Vt	甜蜜:Vi	蜜:N	的:T	法式:A	下午茶:N	
+跟:P	三五:DET	知心:A	朋友:N	閒聊:Vt	談天:Vi	
+也:ADV	是:Vt	悠閒:Vi	度過:Vt	假日:N	的:T	好:Vi	方法:N	哦:T	
+近日:N	很:ADV	榮幸:Vi	接到:Vt	新:Vi	開:Vt	慕:N	的:T	法式:A	甜點:N	店家:N	法孚:N	CafeV:FW	
+天母店:N	
+邀請:Vt	我們:N	品嚐:Vt	道地:Vi	的:T	法式:A	薄餅:N	下午茶:N	
+以下:N	店家:N	介紹:Vt	資訊:N	擷取:Vt	自:P	官方:N	臉書:N	粉絲:N	頁法孚:Vt	Caf:FW	é:FW	V:FW	的:T	靈感:N	來自於:Vi	法國:N	知名:Vi	作家:N	雨果:N	
+VictorHugo:FW	
+在:P	巴黎:N	故居:N	所在地:N	-:DASHCATEGORY	孚日:N	廣場:N	
+PlacedesVosges:FW	
+位於:Vt	時下:N	最:ADV	潮:Vi	的:T	文創:N	藝術:N	餐飲:N	中心:N	的:T	瑪黑區:N	
+leMarais:FW	
+孚日:N	廣場:N	被:P	譽為:Vt	巴黎:N	最:ADV	美:Vi	的:T	花園:N	廣場:N	
+週邊:N	圍繞:Vt	法式:A	建築:N	
+並:C	充滿:Vt	畫廊:N	、:PAUSECATEGORY	小:Vi	餐館:N	及:C	精品店:N	
+也:ADV	常:ADV	有:Vt	小型:N	樂團:N	表演:N	
+是:Vt	巴黎人:N	聚集:Vt	
+享受:Vt	悠閒:Vi	氛圍:N	的:T	去處:N	
+歷時:Vt	一年:N	籌畫:Vt	並:ADV	禮聘:Vt	法籍:N	資深:Vi	餐飲:N	總監:N	FrancoisBrami:FW	來:Vi	台:N	
+法孚:N	Caf:FW	é:FW	V:FW	即將:ADV	在:P	台北:N	重現:Vi	結合:Vt	巴黎:N	人文:N	藝術:N	精神:N	與:C	精緻:Vi	法式:A	薄餅:N	午:N	茶:N	文化:N	的:T	輕食:Vt	甜點店:N	
+主推:N	餐點:N	：:COLONCATEGORY	法式:A	甜:Vi	薄餅:N	
+LesCrepes:FW	
+&:FW	amp:FW	
+鹹:Vi	薄餅:N	
+LesGalettes:FW	
+源自:Vt	法國:N	布列:Vi	塔尼:N	地區:N	的:T	傳統:N	餐點:N	
+將:ADV	新鮮:Vi	餡料:N	包裹:N	在:P	純:Vi	手工:N	現:ADV	作:Vt	的:T	金黃:Vi	餅皮:N	
+搭配:Vt	道地:Vi	的:T	法式:A	蘋果酒:N	
+讓:Vt	難以:ADV	形容:Vt	的:T	滿足:Nv	與:C	幸福感:N	在:P	唇齒:N	間:POST	蔓延:Vi	
+法孚:N	CafeV:FW	
+天母店:N	
+位於:Vt	台北:N	士林:N	忠誠路:N	的:T	誠品:N	忠誠店:N	二樓:N	
+可以:ADV	選擇:Vt	搭乘:Vt	捷運:N	或:C	公車:N	前往:Vt	較為:ADV	方便:Vi	
+搭乘:Vt	捷運:N	淡水線:N	/:FW	石牌:N	站:Vi	—:DASHCATEGORY	至:P	綜合:A	市場:N	轉乘:Vt	224:DET	、:PAUSECATEGORY	601:DET	、:PAUSECATEGORY	645:DET	
+淡水線:N	/:FW	芝山:N	站:Vi	—:DASHCATEGORY	至:P	忠誠:Nv	公園:N	搭乘:Vt	285:DET	、:PAUSECATEGORY	606:DET	、:PAUSECATEGORY	646:DET	、:PAUSECATEGORY	紅:Vi	12:DET	、:PAUSECATEGORY	紅:Vi	15:DET	
+搭乘:Vt	公車:N	279:DET	
+285:DET	
+606:DET	
+616:DET	
+645:DET	
+646:DET	
+685:DET	
+紅:Vi	12:DET	
+紅:Vi	15:DET	副:M	線:N	
+在:P	啟智:A	學校:N	站:Vi	下車:Vi	
+220:DET	、:PAUSECATEGORY	220:DET	區間車:N	、:PAUSECATEGORY	224:DET	、:PAUSECATEGORY	267:DET	正:Vi	、:PAUSECATEGORY	601:DET	、:PAUSECATEGORY	紅:Vi	19:DET	
+在:P	天母:N	廣場:N	站:Vi	下車:Vi	
+沿:P	天母:N	東路:N	步行:Vi	約:ADV	5:DET	分鐘:M	即可:ADV	抵達:Vt	
+進入:Vt	誠品:N	
+通往:Vt	二樓:N	的:T	手:N	扶梯:N	旁:N	懸掛:Vt	著:ASP	大大:Vi	的:T	長:Vi	幅:M	宣傳:N	布幕:N	
+列滿:Vt	了:ASP	法孚:N	CafeV:FW	的:T	各:DET	項:M	美食:N	
+搭乘:Vt	手:N	扶梯:N	到達:Vt	二樓:N	
+左側:N	就是:C	法孚:N	CafeV:FW	了:T	
+紅:Vi	、:PAUSECATEGORY	綠:Vi	、:PAUSECATEGORY	白:Vi	三:DET	色:M	條紋:N	相間:Vi	的:T	屋棚:N	及:C	紅黃:N	磚牆:N	
+可愛:Vi	而:C	活潑:Vi	
+法孚:N	CafeV:FW	11月:N	中:POST	新開幕:Vi	
+當天:N	為:P	試:Vt	營運:Nv	期間:N	
+店:N	內:N	牆面:N	貼:Vt	以:P	描金:N	的:T	玫瑰:N	花紋:N	壁紙:N	
+令:Vt	我:N	回想起:Vt	法國:N	巴黎:N	凡爾賽宮:N	時:POST	所:ADV	見:Vt	的:T	花紋:N	壁紙:N	
+纖細:Vi	柔軟:Vi	的:T	粉色:N	花朵:N	搭配:Vt	深米:N	底色:N	
+顯出:Vt	一:DET	種:M	低調:N	華貴:Vi	
+非常:ADV	的:T	有:Vt	質感:N	
+用餐:Vi	座位區:N	呈:Vt	L:FW	型:N	
+靠:P	窗:N	旁:N	的:T	座位:N	採光:N	極:ADV	佳:Vi	
+可見:ADV	戶外:N	綠樹:N	成蔭:Vi	
+非常:ADV	舒適:Vi	
+白色:N	桌面:N	搭配:Vt	鮮豔:Vi	的:T	紅:Vi	、:PAUSECATEGORY	黃:N	、:PAUSECATEGORY	綠:Vi	各:DET	色:M	沙發椅:N	
+醒目:Vi	、:PAUSECATEGORY	亮眼:Vi	
+為:P	沈靜:Vi	的:T	店:N	內:N	添:Vt	了:ASP	幾許:DET	活潑:Vi	朝氣:N	
+店:N	內:N	大約:ADV	分為:Vt	二:DET	區:N	
+一:DET	區:N	是:Vt	客人:N	座位區:N	
+一:DET	區:N	就是:C	開放式:A	的:T	廚房:N	
+可以:ADV	清楚:Vi	望見:Vt	廚房:N	整理:Vt	得:T	明亮:Vi	乾淨:Vi	
+而且:C	廚師:N	人手:N	還:ADV	不少:Vi	
+除了:P	主廚:N	外:POST	還:ADV	有:Vt	三:DET	位:M	廚師:N	
+廚師:N	們:N	穿著:Vt	白色:N	廚師:N	服:Vt	
+戴:Vt	著:ASP	黑白:A	條紋:N	的:T	斜扁:Vi	帽:N	
+簡單:Vi	的:T	帽飾:N	
+就:ADV	能:ADV	張:Vt	顯出:Vt	強烈:Vi	的:T	法式:A	風情:N	
+廚房:N	內:N	還:ADV	能:ADV	看見:Vt	製作:Vt	薄餅:N	使用:Vt	的:T	麵粉類:N	
+純:Vi	手工:N	現點:N	現:ADV	作:Vt	的:T	料理:N	方式:N	令:Vt	人:N	很:ADV	開心:Vi	
+為了:P	品嚐到:Vt	最:ADV	新鮮:Vi	、:PAUSECATEGORY	剛:ADV	出爐:Vi	的:T	美味:Vi	薄餅:N	
+花:Vt	些:M	時間:N	等待:Vt	
+絕對:ADV	是:Vt	值得:Vi	的:T	
+帥氣:Vi	的:T	型:N	男:N	主廚:N	及:C	廚師:N	認真:Vi	製作:Vt	餐點:N	
+在:P	燒熱:Vt	的:T	鐵板:N	上:N	抹上:Vt	薄薄:Vi	的:T	麵糊:N	
+細心:Vi	推勻:Vi	
+煎熟成餅:N	
+再:ADV	加上:Vt	各:DET	式:M	佐料:N	
+就是:C	正統:A	的:T	法式:A	薄餅:N	作法:N	
+而:C	一:DET	旁:N	的:T	黑底黃標:N	圓:Vi	茶罐:N	看來:ADV	好:Vi	熟悉:Vt	
+原來:ADV	是:Vt	四月:N	法國:N	遊:Vt	時:POST	拜訪:Vt	過:ASP	的:T	法國:N	知名:Vi	茶品:N	-:DASHCATEGORY	瑪黑:N	兄弟茶:N	
+店:N	內:N	使用:Vt	的:T	茶具:N	是:Vt	法式:A	圓型:N	白瓷:N	茶壺:N	
+白底:N	搭配:Vt	青花:N	
+又:ADV	摻雜:Vt	了:ASP	些許:DET	中國:N	青花瓷:N	的:T	調性:N	
+充滿:Vt	了:ASP	浪漫:Vi	的:T	異國:N	風情:N	
+入座:Vi	後:POST	
+先:ADV	送上:Vt	開水:N	
+免費:Vi	
+使用:Vt	的:T	玻璃杯:N	造型:N	很:ADV	特殊:Vi	
+居然:ADV	是:Vt	傾斜:Vi	不:ADV	規則狀:N	
+可愛:Vi	又:ADV	有趣:Vi	
+店家:N	今日:N	為:P	我們:N	準備:Vt	了:ASP	招牌:N	的:T	鹹:Vi	薄餅:N	、:PAUSECATEGORY	甜:Vi	薄餅:N	各:DET	一:DET	份:M	
+冰:N	水果:N	茶:N	及:C	蘋果酒:N	各:DET	一:DET	杯:M	
+法式:A	鹹:Vi	薄餅:N	-:DASHCATEGORY	馬賽:N	風味:N	300:DET	元:M	方型:N	的:T	深褐:A	色帶:N	黑:Vi	薄餅:N	
+摺疊:Vt	成:Vt	有:Vt	稜:N	有:Vt	角:N	的:T	正:Vi	方型:N	
+中間:N	隱約:ADV	可見:ADV	豐富:Vt	的:T	餡料:N	
+一:DET	旁:N	搭配:Vt	少許:DET	生菜:N	沙拉:N	及:C	清:N	燙:Vt	過:ASP	的:T	蔬菜:N	等:POST	
+店家:N	提供:Vt	的:T	餐具:N	非常:ADV	厚:Vi	實有:Vt	質感:N	
+根據:P	官方:N	介紹:Vt	
+鹹:Vi	薄餅:N	稱為:Vt	
+Galette:FW	
+特地:ADV	採用:Vt	
+蕎麥粉:N	
+製成:Vt	
+具有:Vt	酥脆:Vi	的:T	口感:N	
+不過:C	當天:N	實際:Vi	品嚐:Vt	後:POST	
+發現:Vt	不:ADV	曉得:Vt	是否:ADV	配方:N	有:Vt	做:Vt	調整:Vt	
+又:ADV	或:P	著:ASP	是:Vt	內部:N	餡料:N	過於:ADV	溼潤:Vi	
+薄餅:N	口感:N	嚐:Vt	不:ADV	出:Vt	酥脆:Vi	
+倒是:ADV	綿密:Vi	偏:ADV	軟:Vi	
+吃:Vt	得:T	出:Vt	蕎麥:N	香氣:N	
+餡料:N	為:Vt	漬:N	橄欖:N	、:PAUSECATEGORY	番茄:N	、:PAUSECATEGORY	青:Vi	、:PAUSECATEGORY	黃:N	、:PAUSECATEGORY	紅椒:N	及:C	鯷魚:N	、:PAUSECATEGORY	鮪魚片:N	、:PAUSECATEGORY	灑上:Vt	大量:DET	起:POST	司:N	等:POST	
+起:Vt	司:N	使用:Vt	的:T	是:Vt	瑞士:N	艾曼托:N	乳酪:N	
+EmmentalCheese:FW	
+艾曼托:N	乳酪:N	可:ADV	說:Vt	是:Vt	瑞士:N	最:ADV	具:Vt	代表性:N	的:T	乳酪:N	
+質地:N	微軟:N	有:Vt	彈性:N	
+濃郁:Vi	的:T	風味:N	令:Vt	人:N	吃:Vt	過:ASP	就:ADV	難以:ADV	忘懷:Vt	
+生菜:N	沙拉:N	份量:N	並:ADV	不:ADV	多:Vi	
+少少:Vi	幾:DET	片:M	菜葉:N	及:C	小:Vi	番茄:N	
+清脆:Vi	新鮮:Vi	
+清:N	燙:Vt	過:ASP	的:T	青菜類:N	有青:N	、:PAUSECATEGORY	白花菜:N	及:C	切成:Vt	花狀:N	的:T	胡蘿蔔:N	及:C	彎豆:N	
+馬賽:N	風:N	鹹:Vi	薄餅:N	充滿:Vt	強烈魚:N	鮮:Vi	風味:N	
+屬於:Vt	重:Vi	口味:N	
+尤其:ADV	是:Vt	醃製:Vt	的:T	鯷魚:N	
+鮮味:N	極:ADV	重:Vi	
+完整:Vi	的:T	魚身:N	看來:ADV	很:ADV	大氣:N	
+不過:C	直接:Vi	吃:Vt	的:T	話:N	
+我:N	想:Vt	一般人:N	應該:ADV	不:ADV	太:ADV	能:ADV	接受:Vt	
+建議:N	與:C	其他:DET	餡料:N	拌碎:Vt	後:POST	分:Vt	著:ASP	吃:Vt	
+又:ADV	或:P	著:ASP	是:Vt	店家:N	可以:ADV	先:ADV	提醒:Vt	客人:N	
+此:DET	道:M	薄餅:N	的:T	海鮮:N	風味:N	較為:ADV	強烈:Vi	
+可以:ADV	依:P	客人:N	喜好:N	稍:ADV	做:Vt	調整:Vt	
+當天:N	是:Vt	邊:N	吃:Vt	邊:N	搭配:Vt	生菜:N	蔬食:N	等:POST	
+可以:ADV	稍稍:ADV	調整:Vt	口味:N	
+這:DET	道:M	鹹:Vi	薄餅:N	份量:N	十足:Vi	
+既:C	使:Vt	是:Vt	二:DET	人:N	分食:Vt	
+吃完:Vt	後:POST	已:ADV	稍:ADV	有:Vt	飽足:Vi	感:Vt	了:ASP	
+法式:A	冰茶:N	-:DASHCATEGORY	普羅:N	旺:Vi	斯:DET	水果:N	茶:N	200:DET	元:M	以:P	飲品:N	來:ADV	說:Vt	
+價位:N	不:ADV	低:Vi	
+份量:N	也:ADV	稱得上:Vt	有:Vt	誠意:N	
+可以:ADV	一:DET	杯:M	到底:ADV	
+滿滿:Vi	一:DET	大:Vi	杯:M	冰:N	茶:N	中:POST	
+有:Vt	一半:DET	是:Vt	百香果:N	、:PAUSECATEGORY	鳳梨:N	、:PAUSECATEGORY	柳丁:N	等:POST	各:DET	式:M	水果:N	碎粒:N	等:POST	
+香甜:Vi	而:C	不:ADV	膩:Vi	
+清新:Vi	爽口:Vi	
+若:C	說:Vt	缺點:N	的:T	話:N	
+大約:ADV	就:ADV	是:Vt	外表:N	過於:ADV	平實:Vi	
+若是:C	能:ADV	多:DET	些:M	水果:N	在:P	杯緣:N	裝飾:N	
+或是:C	不同:Vi	色調:N	的:T	水果:N	切碎:Vt	讓:Vt	色彩:N	更:ADV	鮮明:Vi	
+看來:ADV	會:ADV	更加:ADV	美觀:Vi	有:Vt	質感:N	
+而:C	飲用:Vt	方面:N	
+因為:C	有:Vt	眾多:Vi	的:T	水:N	果粒:N	
+用:P	小:Vi	吸管:N	飲用:Vt	就:ADV	不:ADV	太:ADV	方便:Vi	
+容易:Vi	堵塞:Vt	
+建議:Vt	改用:Vt	大:Vi	吸管:N	搭配:Vt	長柄:N	小:Vi	湯匙:N	等:POST	
+客人:N	更:ADV	易於:ADV	食用:Vt	果粒:N	
+不然:C	喝完:Vt	冰茶:N	留下:Vt	大半:DET	杯:M	的:T	果粒:N	實在:ADV	是:Vt	太:ADV	可惜:Vi	了:T	
+果粒:N	纖維:N	對於:P	身體:N	腸胃:N	可是:C	很:ADV	好:Vi	滴:Vt	
+布列:Vi	塔尼:N	特選:Vt	氣泡:N	蘋果酒:N	2:DET	%:M	200:DET	元:M	金黃:Vi	澄澈:Vi	的:T	酒液:N	裝盛:Vt	在:P	透明:Vi	水晶:N	杯:N	中:POST	
+細小:Vi	的:T	汽泡:N	不斷:ADV	上昇:Vi	躍動:Vi	
+美麗:Vi	的:T	酒色:N	及:C	優美:Vi	的:T	杯身:N	弧度:N	更:ADV	是:Vt	相:ADV	益:Vt	得:T	彰:N	
+四月:N	去:Vt	法國:N	時:POST	
+我:N	心心念念:Vi	的:T	就是:C	買:Vt	蘋果酒:N	回來:Vi	
+可惜:Vi	種種:DET	陰錯陽差:Vi	
+總是:ADV	錯過:Vt	沒:ADV	下手:Vi	
+能:ADV	在:P	台灣:N	嚐到:Vt	道地:Vi	的:T	法國:N	蘋果酒:N	
+可:ADV	說:Vt	是:Vt	稍稍:ADV	安慰:Vt	了:ASP	我:N	的:T	懊惱:Nv	與:C	失意:Vi	
+聞:Vt	得:T	出:Vt	淡淡:Vi	的:T	發酵:Nv	果香:N	
+冰涼:Vi	的:T	口感:N	
+微微:A	的:T	酸味:N	非常:ADV	清新:Vi	
+要是:C	能:ADV	搭配:Vt	著:ASP	馬賽:N	風味:N	鹹:Vi	薄餅:N	同:ADV	吃:Vt	一定:ADV	更:ADV	合拍:Vt	
+法式:A	甜:Vi	薄餅:N	-:DASHCATEGORY	榛果:N	巧克力:N	240:DET	元:M	雪白:Vi	的:T	方型:N	瓷盤:N	
+上:N	呈:Vt	疊成:Vt	三角型:N	的:T	金黃色:N	薄餅:N	
+遍:DET	灑:Vt	如:P	細:Vi	雪:N	般:POST	的:T	白色:N	糖粉:N	
+佐上:N	香草:N	冰淇淋:N	及:C	茶花狀:N	奶油:N	
+再:ADV	淋:Vt	上:POST	細緻:Vi	的:T	巧克力醬:N	線條:N	
+一角:N	放上:Vt	翠綠:Vi	奇異果:N	切片:N	、:PAUSECATEGORY	鮮紅:Vi	草莓:N	、:PAUSECATEGORY	楊桃:N	星星:N	做為:Vt	點綴:Vt	
+完全:ADV	呈現出:Vt	法式:A	簡約:Vi	的:T	優雅:Nv	及:C	時尚:N	感:Vt	
+奶油型:N	呈現:Vt	花狀:N	、:PAUSECATEGORY	膨鬆香濃:Vi	
+可惜:Vi	不:ADV	夠:ADV	綿密:Vi	細緻:Vi	
+美:N	中:N	稍:ADV	有:Vt	不足:Vi	
+香草:N	冰淇淋:N	口感:N	柔滑:Vi	綿密:Vi	、:PAUSECATEGORY	微微:A	的:T	香草:N	風味:N	及:C	甜度:N	都:ADV	恰到好處:Vi	
+冰涼:Vi	甜美:Vi	
+入口:N	即:ADV	化:Vt	
+搭配:Vt	著:ASP	熱:Vt	呼呼:ADV	的:T	薄餅:N	
+可:ADV	說:Vt	是:Vt	絕配:N	
+甜:Vi	薄餅:N	的:T	口感:N	較:ADV	鹹:Vi	薄餅:N	更為:ADV	紮實:Vi	有:Vt	嚼:Vt	勁:N	
+內:N	餡:N	是:Vt	滿滿:Vi	的:T	濃稠:Nv	巧克力醬:N	
+除了:P	麥香:N	
+也:ADV	能:ADV	品嚐到:Vt	核果:N	香:N	及:C	甘苦:N	濃郁:Vi	的:T	巧克力:N	香:Vi	
+個:M	人:N	建議:Vt	搭配:Vt	著:ASP	奶油:N	或:C	冰淇淋:N	同:ADV	吃:Vt	
+尤其:ADV	是:Vt	搭配:Vt	冰涼:Vi	甜美:Vi	的:T	冰淇淋:N	
+會:ADV	讓:Vt	整體:N	的:T	味道:N	更加:ADV	豐美:Vi	迷人:Vi	
+水果類:N	已:ADV	做好:Vt	去:Vt	皮:N	、:PAUSECATEGORY	切片:N	等:POST	細部:A	處理:Nv	
+方便:Vi	食用:Vt	
+在:P	用餐:Nv	期間:N	
+不斷:ADV	有:Vt	好奇:Vi	的:T	客人:N	佇足:Vi	想:Vt	入:Vt	內:N	用餐:Vi	嚐鮮:Vt	
+顯見:ADV	店家:N	整體:N	氣氛:N	裝潢:N	有:Vt	到位:Vi	
+成功:Vi	營造出:Vt	舒適:Vi	的:T	餐廳:N	氛圍:N	
+吸引:Vt	住客群:N	
+而:C	在內:POST	享用:Vt	下午茶:N	的:T	我們:N	
+也:ADV	度過:Vt	了:ASP	一:DET	個:M	不錯:Vi	的:T	假日:N	下午茶:N	約會:Vi	
+雖然:C	是:Vt	試:Vt	營運:Nv	期間:N	
+員工:N	的:T	服務:Nv	態度:N	比:P	我:N	想像:Vt	的:T	好:Vi	
+每:DET	位:M	都:ADV	很:ADV	親切:Vi	、:PAUSECATEGORY	沈著:Vi	
+既:C	使:Vt	客人:N	較:ADV	多:Vi	
+座位:N	需:ADV	不時:ADV	調整:Vt	
+也:ADV	不:ADV	顯:Vt	慌亂:Vi	
+每:DET	道:M	餐點:N	上桌:Vi	時:POST	
+也:ADV	會:ADV	做:Vt	完整:Vi	的:T	介紹:N	及:C	食用:Vt	上:POST	的:T	建議:N	
+而:C	上菜:Vi	速度:N	
+因為:C	是:Vt	現點現:N	作:Vt	
+加上:C	幾近:Vt	滿座:Vi	
+等待:Vt	的:T	時間:N	可:ADV	說:Vt	是:Vt	在:P	合理:Vi	範圍:N	內:N	
+不過:C	餐點:N	跟上:Vt	菜:N	流程:N	方面:N	
+個:M	人:N	以為:Vt	倒是:ADV	有:Vt	
+提昇:Vt	
+的:T	空間:N	
+所謂:Vt	的:T	
+提昇:Vt	
+是:Vt	指:Vt	本來:ADV	就:ADV	已經:ADV	有:Vt	一定:A	的:T	水準:N	
+只要:C	多:ADV	加:Vt	一:DET	份:M	細心:Vi	
+會:ADV	更加:ADV	完善:Vi	完美:Vi	
+比如說:P	餐點:N	與:C	飲品:N	的:T	搭配上:Vt	
+協調度:N	可以:ADV	再:ADV	加強:Vt	些:M	
+首先:C	薄餅:N	搭配:Vt	蘋果酒:N	是:Vt	法國:N	的:T	道地:Vi	吃法:N	
+只是:ADV	當:Vt	第一:DET	道:M	鹹:Vi	薄餅:N	上桌:Vi	時:POST	
+飲品:N	只:ADV	上:Vt	了:ASP	冰:N	水果茶:N	
+直到:P	用完:Vt	鹹:Vi	薄餅:N	
+蘋果酒:N	才:ADV	上桌:Vi	
+實在:ADV	是:Vt	稍:ADV	嫌:Vt	可惜:Vi	
+而:C	之前:N	也:ADV	提到:Vt	冰:N	水果:N	茶:N	的:T	裝飾:N	及:C	飲用:Vt	方式:N	可以:ADV	再:ADV	細緻:Vi	些:ADV	、:PAUSECATEGORY	貼心:Vi	些:ADV	
+整體:N	而言:Vt	
+法孚:N	CafeV:FW	的:T	餐點:N	及:C	飲品:N	都:ADV	有:Vt	一定:A	的:T	水準:N	
+用料:N	實在:ADV	
+口味:N	道地:Vi	
+只要:C	小:Vi	細節處:N	再:ADV	多:ADV	注意:Vt	些:ADV	
+相信:Vt	整體:N	的:T	品質:N	可以:ADV	提昇:Vt	至:P	更:ADV	高:Vi	的:T	層次:N	
+讓:Vt	法式:A	時尚:N	及:C	優雅:Vi	在:P	台北:N	天母:N	誠品:N	發光:Vi	、:PAUSECATEGORY	發熱:Vi	
+讓:Vt	更多:DET	人:N	都:ADV	能:ADV	品嚐到:Vt	法式:A	美食:N	
+另外:C	
+提前:Vi	跟:P	各:DET	位:M	預告:Vt	一下:N	
+除了:P	天母:N	店:N	外:N	
+誠品:N	信義店:N	將:ADV	於:P	12月:N	中旬:N	開幕:Vi	
+有:Vt	興趣:N	的:T	朋友:N	
+千萬:DET	不能:ADV	錯過:Vt	哦:T	

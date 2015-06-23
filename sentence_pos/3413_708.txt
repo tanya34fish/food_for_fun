@@ -1,0 +1,85 @@
+luckbear04(luckbear:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	-:DASHCATEGORY	朝鮮:N	味:N	韓國:N	料理:N	
+Mon:FW	
+Aug:FW	
+11:DET	
+21:DET	::COLONCATEGORY	49:DET	::COLONCATEGORY	38:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	朝:P	鮮味:N	韓國:N	料理:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	07月:N	
+地址:N	：:COLONCATEGORY	台北市:N	仁愛路:N	四段:N	345巷:N	4弄:N	2:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	8773:DET	-:DASHCATEGORY	9190:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	–:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	低消:N	170:DET	元:M	
+圖文版:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	luckbear.pixnet.net/blog/post:FW	/:FW	30266921:DET	
+忠孝:N	敦化:N	站:N	美食:N	-:DASHCATEGORY	朝鮮:N	味:N	韓國:N	料理:Vt	小菜:N	可以:ADV	吃到:Vt	飽:Vi	
+應該:ADV	就是:C	這:DET	家:M	朝鮮:N	味:N	韓國:N	料理:N	最:ADV	吸引人:Vi	的:T	地方:N	
+近期:N	吃:Vt	過:ASP	的:T	兩:DET	家:M	人氣:N	韓式:N	料理:N	-:DASHCATEGORY	朝鮮味:N	以及:C	公館:N	的:T	小:Vi	飯館兒:N	
+雖然:C	口味:N	上:POST	跟:P	在:P	首:N	爾時:ADV	的:T	感受:N	有:Vt	些:M	差距:N	
+不過:C	都:ADV	算:Vt	的:T	上:N	是:Vt	份量:N	十足:Vi	的:T	平價:N	韓味:N	選擇:Vt	
+朝:P	鮮味:N	韓國:N	料理:N	的:T	用餐:Nv	環境:N	
+空間:N	不:ADV	算:Vt	寬敞:Vi	燈光:N	也:ADV	昏暗:Vi	了:ASP	些:ADV	
+畢竟:ADV	是:Vt	走平價:N	路線:N	的:T	餐館:N	就:ADV	不用:ADV	太:ADV	苛求:Vt	了:ASP	
+另外:C	這裡:N	有:Vt	最:ADV	低:Vi	消費:N	170:DET	元:M	的:T	限制:N	
+也:ADV	就是:C	最少:Vi	要:ADV	點:Vt	一:DET	份:M	經濟:N	套餐:N	或是:C	辣:Vi	炒:Vt	年糕:N	之類:POST	的:T	
+才:ADV	可以:ADV	坐下來:Vi	享用:Vt	小菜:N	吃到:Vt	飽:Vi	的:T	服務:Nv	
+朝:P	鮮味:N	最:ADV	大:Vi	的:T	特色:N	
+就是:C	招牌:N	上:N	寫:Vt	的:T	近:DET	五十:DET	種:M	小菜:N	可以:ADV	吃到:Vt	飽:Vi	
+各:DET	種:M	涼拌:Nv	菜色:N	款式:N	非常:ADV	豐富:Vt	
+除了:P	紅通通:Vi	的:T	韓式:N	泡菜:N	之外:POST	
+還:ADV	有:Vt	些:M	讓:Vt	人:N	意想不到:Vt	的:T	口味:N	變化:N	
+銅盤烤肉:N	
+豬肉:N	
+215:DET	元:M	除了:P	豬肉:N	外:POST	還:ADV	有:Vt	一些:DET	蔬菜:N	跟:P	金針菇:N	
+雖然:C	東西:N	不:ADV	多:Vi	但:C	閃:Vt	亮亮:Vi	的:T	銅盤:N	看起來:ADV	就:ADV	很:ADV	有:Vt	氣勢:N	
+豬肉:N	給:Vt	的:T	份量:N	還:ADV	不:ADV	算:Vt	少:Vi	
+醃肉:N	的:T	醬汁:N	是:Vt	一般:A	烤肉:N	常見:Vi	的:T	
+帶:Vt	著:ASP	蒜香:N	鹹鹹:Vi	甜甜:Vi	的:T	滋味:N	
+搭配:Vt	白飯:N	應該:ADV	也:ADV	夠:Vi	一般人:N	飽足:Vi	
+但是:C	如果:C	想:Vt	多:ADV	吃:Vt	點:M	小菜:N	的:T	話:N	
+點:Vt	白飯:N	就:ADV	顯得:Vt	有:Vt	些:M	多餘:A	了:T	
+通常:ADV	來:Vi	平價:N	消費:N	的:T	餐館:N	
+點:Vt	豬肉:N	是:Vt	比較:ADV	安全:Vi	的:T	選擇:N	
+另外:C	銅板:N	烤:Vt	肉:N	旁:N	煮:Vt	蔬菜:N	的:T	高湯:N	還:ADV	蠻:ADV	鹹:Vi	的:T	
+口味:N	沒:ADV	這麼:ADV	重:Vi	的:T	話:N	就:ADV	別:ADV	讓:Vt	蔬菜:N	煮:Vt	太:ADV	久:Vi	了:T	
+豬:N	軟排:N	馬鈴薯:N	湯飯:N	195:DET	元:M	這:DET	碗:M	湯飯:N	跟:P	我們:N	預期:Vt	的:T	有:Vt	些:M	落差:N	
+都:ADV	要:ADV	怪:Vt	首:DET	爾:N	的:T	Onedang:FW	馬鈴薯:N	排骨湯:N	太:ADV	美味:Vi	
+才:ADV	會:ADV	讓:Vt	我們:N	對:P	這:DET	碗:M	豬:N	軟排:N	馬鈴薯湯:N	失望:Vi	
+跟:P	在:P	首:DET	爾:N	吃到:Vt	的:T	真的:ADV	不:ADV	太:ADV	一樣:Vi	
+不過:C	他:N	的:T	用料:N	其實:ADV	給:Vt	的:T	蠻:ADV	多:Vi	的:T	
+排骨:N	、:PAUSECATEGORY	馬鈴薯:N	、:PAUSECATEGORY	冬粉:N	、:PAUSECATEGORY	豆腐:N	等:POST	滿滿:Vi	一:DET	鍋:M	外加:Vt	一:DET	碗:M	白飯:N	
+一般人:N	要:ADV	吃完:Vt	這:DET	整:DET	份:M	應該:ADV	會:ADV	有點:ADV	撐:Vi	
+對於:P	食量:N	不:ADV	大:Vi	又:ADV	想:Vt	吃:Vt	很多:DET	小菜:N	的:T	人:N	不:ADV	太:ADV	適合:Vi	囉:T	
+接下來:ADV	才:ADV	是:Vt	我們:N	的:T	重點:N	
+看到:Vt	五顏六色:N	的:T	小菜:N	每:DET	種:M	都:ADV	會:ADV	想:Vt	拿來:Vt	嚐嚐:Vt	看:Vt	
+不過:C	千萬:DET	別:ADV	太:ADV	心急:Vi	
+因為:C	桌子:N	有點:ADV	小:Vi	放不下:Vt	太多:Vi	的:T	碟子:N	
+除了:P	基本:A	的:T	泡菜:N	、:PAUSECATEGORY	醃:Vt	蘿蔔:N	必:ADV	吃:Vt	之外:POST	
+蜜糖:N	地瓜:N	、:PAUSECATEGORY	芋頭:N	以及:C	花生:N	、:PAUSECATEGORY	龍鬚菜:N	都:ADV	是:Vt	我:N	喜歡:Vt	的:T	款式:N	
+比較:ADV	特別:Vi	的:T	還:ADV	有:Vt	百:DET	香果粉粿:N	以及:C	帶:Vt	著:ASP	鹹味:N	的:T	水梨:N	
+這:DET	個:M	就:ADV	依:P	看:Vt	各:DET	人:N	口味:N	喜好:N	來:ADV	選擇:Vt	囉:T	
+種類:N	雖然:C	多:DET	
+不過:C	有:Vt	些:M	只:ADV	能:ADV	說:Vt	是:Vt	創意:N	取勝:Vi	
+比較:ADV	合:Vt	口味:N	的:T	還是:ADV	只有:ADV	幾:DET	樣:M	
+沾:Vt	了:ASP	一:DET	層:M	糖衣:N	的:T	地瓜:N	
+有:Vt	點點:DET	類似:Vt	拔絲:N	地瓜:N	的:T	口感:N	與:C	味道:N	
+但是:C	這:DET	款:M	相當:ADV	有:Vt	飽足感:N	
+別:DET	一:DET	次:M	拿:Vt	太多:Vi	免得:C	吃:Vt	不:ADV	完:Vi	浪費:Vt	了:ASP	
+小黃瓜:N	加上:Vt	花生:N	也:ADV	是:Vt	很:ADV	刷嘴:N	的:T	組合:Nv	
+不過:C	擔心:Vt	熱量:N	太:ADV	高:Vi	也:ADV	是:Vt	吃:Vt	一:DET	盤:M	就:ADV	夠:Vi	了:T	
+百香果:N	調味:Vi	的:T	小菜:N	也:ADV	有:Vt	好幾:DET	種:M	
+不過:C	就:ADV	屬:Vt	粉:N	粿:b	看起來:ADV	最:ADV	開胃:Vi	
+酸酸甜甜:Vi	的:T	是:Vt	適合:Vi	夏天:N	的:T	滋味:N	
+蜜:N	芋頭:N	跟:P	地瓜:N	的:T	做法:N	類似:Vt	
+在:P	剛:Vi	起鍋:N	時:POST	外層:N	都:ADV	沾上:Vt	了:ASP	一:DET	層:M	糖:N	
+所以:C	吃起來:ADV	會:ADV	有點:ADV	外脆內:N	鬆軟:Vi	的:T	口感:N	
+不過:C	芋頭:N	會:ADV	比:P	地瓜:N	來:Vi	的:T	乾口:N	些:M	
+雖然:C	主餐:N	並:ADV	不如:Vt	預期:N	中:POST	的:T	滿意:Nv	
+但:C	畢竟:ADV	這:DET	是:Vt	家:N	平價:N	又:C	另:DET	類:M	的:T	吃到:Vt	飽:Vi	餐廳:N	
+也:ADV	不:ADV	需要:Vt	太:ADV	過於:ADV	苛求:Vt	
+選擇:Vt	基本:A	款:N	的:T	餐點:N	
+然後:ADV	盡情:ADV	又:ADV	不:ADV	浪費:Vt	的:T	選擇:N	想:Vt	吃:Vt	的:T	小菜:N	
+應該:ADV	也:ADV	會:ADV	是:Vt	愉快:Vi	的:T	一:DET	餐:M	
+朝:P	鮮味:N	營業:Nv	電話:N	：:COLONCATEGORY	
+02:DET	
+8773:DET	-:DASHCATEGORY	9190:DET	營業:Nv	地址:N	：:COLONCATEGORY	台北市:N	仁愛路:N	四段:N	345巷:N	4弄:N	2:DET	號:M	營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	–:FW	22:DET	::COLONCATEGORY	00:DET	--:DASHCATEGORY	

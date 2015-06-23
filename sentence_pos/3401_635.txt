@@ -1,0 +1,260 @@
+vivagozo(wei:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	松山區:N	｜:FW	超值:Vi	吃到:Vt	飽:Vi	*:FW	田季:N	石板:N	燒肉:N	*:FW	
+Fri:FW	
+Aug:FW	
+8:DET	
+08:DET	::COLONCATEGORY	12:DET	::COLONCATEGORY	42:DET	
+2014:DET	
+[:PARENTHESISCATEGORY	瑋瑋:N	*:FW	美食:N	萬歲:Vi	]:PARENTHESISCATEGORY	圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	vivawei.pixnet.net/blog/post:FW	/:FW	4820894:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	田季:N	石板:N	燒肉:N	消費:N	時間:N	：:COLONCATEGORY	2014年:N	08月:N	地址:N	：:COLONCATEGORY	台北市:N	松山區:N	復興北路:N	323:DET	號:M	
+近:ADV	中山:N	國中:N	捷運站:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2712:DET	-:DASHCATEGORY	0095:DET	營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週五:N	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	凌晨:N	02:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	週六:N	至:P	週日:N	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	凌晨:N	02:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	周一:N	至:C	周五:N	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+499:DET	元:M	
+、:PAUSECATEGORY	21:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	凌晨:N	02:DET	::COLONCATEGORY	00:DET	
+夜貓場:N	399:DET	元:M	
+國定:A	假日:N	及:C	例假日:N	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	凌晨:N	02:DET	::COLONCATEGORY	00:DET	
+499:DET	元:M	
+最後:N	收客:N	時間:N	皆:ADV	為:Vt	24:DET	::COLONCATEGORY	00:DET	推薦:Vt	菜色:N	：:COLONCATEGORY	泡菜:N	培根:N	捲:Vt	
+青椒:N	炒:Vt	雞腿肉:N	
+奶油:N	蝦:N	
+愛:Vt	的:T	大:Vi	海鮮:N	
+三:DET	杯:M	花枝:N	官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.stone-bbq.com:FW	/:FW	這:DET	一:DET	間:M	
+田季:N	石板:N	燒肉:N	
+在:P	兩:DET	年:N	前:POST	就:ADV	已經:ADV	放到:Vt	我:N	的:T	口袋:N	名單:N	了:T	
+靠近:Vt	
+中山:N	國中:N	捷運站:N	
+附近:N	的:T	牛角:N	燒肉:N	也:ADV	一直:ADV	是:Vt	我:N	想要:Vt	吃:Vt	
+卻:ADV	遲遲:ADV	沒有:Vt	時間:N	可以:ADV	安排:Vt	去:ADV	吃:Vt	的:T	店家:N	啦:T	
+店家:N	的:T	活動:N	
+在:P	門口:N	都:ADV	有:Vt	公告:N	
+特別:Vi	是:Vt	有:Vt	留:Vt	名片:N	可以:ADV	享:Vt	95:DET	折:M	的:T	優惠:Nv	還:ADV	蠻:ADV	特別:Vi	的:T	
+店家:N	若:C	客滿:Vi	或是:C	要:ADV	安排:Vt	座位:N	時:POST	
+門口處:N	這邊:N	有:Vt	等候區:N	可以:ADV	稍:ADV	作:Vt	等候:Nv	
+店:N	內:N	的:T	用餐區:N	
+座位:N	數:Vt	超級:A	多:Vi	
+滿:DET	坐起來:Vi	也:ADV	很:ADV	可觀:Vi	
+這:DET	天:M	是:Vt	下午:N	五:DET	點:M	抵達:Vt	
+我們:N	是:Vt	店:N	內:N	第二:DET	組:M	客人:N	
+首先:ADV	
+這:DET	是:Vt	店家:N	的:T	自助區:N	
+所有:DET	的:T	肉:N	和:C	食材:N	都:ADV	在:P	這:DET	一:DET	區:N	
+也:ADV	有:Vt	火鍋:N	料:N	和:C	青菜:N	可以:ADV	煮:Vt	火鍋:N	
+店家:N	的:T	肉品:N	
+牛:N	、:PAUSECATEGORY	羊:N	、:PAUSECATEGORY	豬:N	、:PAUSECATEGORY	雞:N	通通:ADV	有:Vt	
+一些:DET	基本:A	款:N	的:T	配料:N	和:C	菜盤:N	
+殊不知:Vt	在:P	這邊:N	可以:ADV	組合成:Vt	千百:DET	種:M	不同:Vi	的:T	變化:N	
+讓:Vt	我們:N	看下去:Vi	
+這:DET	一:DET	區:N	有:Vt	料理:N	的:T	專用:Nv	醬料:N	
+可以:ADV	自行:ADV	調配:Vt	
+也:ADV	可以:ADV	詢問:Vt	服務:Nv	人員:N	要:ADV	如何:ADV	調配:Vt	會:ADV	比較:ADV	洽:Vt	當:P	唷:T	
+飲料區:N	
+可以:ADV	無限:Vi	自取:Vt	
+有:Vt	雀:N	巢:N	檸檬茶:N	、:PAUSECATEGORY	雀:N	巢:N	金橘:N	密:Vi	味:N	綠茶:N	
+日式:A	煎茶:N	、:PAUSECATEGORY	可:ADV	爾:N	必:ADV	思:Vt	
+可口可樂:N	系列:N	的:T	基本:A	款:N	氣泡:N	飲料:N	
+白飯:N	
+啤酒:N	另外:ADV	計費:Vi	
+青島:N	啤酒:N	的:T	部份:DET	只要:C	加價:Vi	99:DET	元:M	就:ADV	可以:ADV	無限:Vi	暢飲:Vt	
+如果:C	是:Vt	角:N	High:FW	單杯:N	售價:N	是:Vt	110:DET	元:M	
+暢飲:Vt	則:ADV	是:Vt	150:DET	元:M	
+周:N	一:ADV	到:P	周日:N	的:T	21:DET	::COLONCATEGORY	30:DET	後:POST	可以:ADV	無限:Vi	暢飲:Vt	
+＃:FW	角:M	High:FW	無限:Vi	暢飲:Vt	：:COLONCATEGORY	150:DET	元:M	／:FW	人:N	
+乾杯:Vi	
+角:N	High:FW	喝:Vt	起來:ASP	感覺:N	沒有:Vt	一般:A	啤酒:N	的:T	麥味:N	和:C	苦味:N	
+個:M	人:N	覺得:Vt	有點:ADV	太:ADV	清淡:Vi	了:ASP	些:ADV	
+蠻:ADV	適合:Vi	不:ADV	喜歡:Vt	酒精:N	味道:N	太:ADV	重:Vi	的:T	女生:N	
+未滿:Vt	１８:DET	歲:M	請:Vt	勿:ADV	飲酒:Vi	
+開車:Vi	不:ADV	喝:Vt	酒:N	
+喝:Vt	酒:N	不:ADV	開車:Vi	
+這:DET	是:Vt	用來:Vt	調味:Vi	的:T	調味粉:N	
+在:P	料理:N	時:POST	扮演:Vt	不可或缺:A	的:T	角色:N	
+因為:C	我們:N	抵達:Vt	的:T	時間:N	很:ADV	早:Vi	
+所以:C	就:ADV	由:P	服務:Nv	人員:N	先:ADV	替:P	我們:N	服務:Vt	
+特別:Vi	推薦:Vt	廚藝:N	好:Vi	的:T	人:N	可以:ADV	來:Vi	這邊:N	展現:Vt	
+像:P	我們:N	就:ADV	偏向:Vt	請:Vt	服務:Vt	人員:N	協助:Vt	啦:T	
+＃:FW	第一:DET	道:M	：:COLONCATEGORY	起:Vt	司:N	牛肉片:N	起:POST	司:Vt	牛肉:N	處理:Vt	得:T	剛剛好:ADV	
+如果:C	是:Vt	我們:N	自己:N	炒:Vt	一定:ADV	會:ADV	用:Vt	的:T	太:ADV	乾:Vi	
+要:ADV	在:P	這裡:N	上班:Vi	還:ADV	真:ADV	不:ADV	簡單:Vi	
+輕輕鬆鬆:Vi	就:ADV	完成:Vt	一:DET	道:M	很:ADV	嫩:Vi	的:T	起:Vt	司:N	牛肉片:N	
+＃:FW	第二:DET	道:M	：:COLONCATEGORY	芥末:N	豬肉片:N	雖然:C	說:Vt	是:Vt	芥末:N	口味:N	的:T	
+但:C	因為:C	是:Vt	撒上:Vt	芥末粉:N	
+所以:C	芥末:N	的:T	味道:N	不:ADV	那麼:ADV	明顯:Vi	
+可以:ADV	自己:N	去:Vt	醬料區:N	拿:Vt	一些:DET	醬料:N	自己:N	加料:Vi	
+調配:Vt	自己:N	比較:ADV	喜歡:Vt	的:T	味道:N	：:COLONCATEGORY	
+＃:FW	第三:DET	道:M	：:COLONCATEGORY	泡菜:N	培根:N	捲:Vt	
+推薦:Vt	
+泡菜:N	培根:N	捲超:N	厲害:Vi	
+簡單:Vi	的:T	食材:N	搭配:Vt	在一起:Vi	非常:ADV	好吃:Vi	
+裡面:N	包:Vt	著:ASP	台式:A	泡菜:N	吃起來:ADV	覺得:Vt	很:ADV	爽口:Vi	
+只:ADV	能:ADV	說:Vt	在:P	這邊:N	上班:Vi	不:ADV	容易:Vi	
+每:DET	一:DET	道:M	都:ADV	非常:ADV	厲害:Vi	
+根本:ADV	就:ADV	像:Vt	是:Vt	在:P	熱炒店:N	享受:Vt	現點現:N	做:Vt	的:T	感覺:N	
+＃:FW	第四:DET	道:M	：:COLONCATEGORY	青椒:N	炒:Vt	雞腿肉:N	
+推薦:Vt	
+雞腿肉:N	非常:ADV	嫩:Vi	口:N	
+搭配:Vt	著:ASP	青椒:N	覺得:Vt	很:ADV	合拍:Vi	
+重:Vi	口味:N	的:T	這:DET	一:DET	道:M	非常:ADV	下:Vt	飯:N	
+個:M	人:N	很:ADV	喜歡:Vt	
+＃:FW	第五:DET	道:M	：:COLONCATEGORY	絲瓜:N	蛤蜊:N	基本:A	款:N	的:T	絲瓜:N	炒:Vt	蛤蜊:N	很:ADV	好吃:Vi	
+加上:C	九:DET	層:M	塔:N	香氣:N	更加:ADV	足夠:Vi	
+＃:FW	第六:DET	道:M	：:COLONCATEGORY	奶油:N	蝦:N	
+推薦:Vt	
+這:DET	一:DET	道:M	實在:ADV	太:ADV	強大:Vi	
+服務:Nv	人員:N	操刀:Vi	果然:ADV	不同凡響:Vi	
+找:Vt	對:P	服務:Nv	人員:N	真的:ADV	超:Vt	重要:Vi	啦:T	
+而且:C	不:ADV	是:Vt	這樣:ADV	熟:Vi	了:ASP	就:ADV	讓:Vt	我們:N	直接:Vi	吃:Vt	喔:T	
+這:DET	道:M	料理:N	十分:ADV	費工:Vi	
+一:DET	面煎:N	熟:Vi	以後:POST	還:ADV	要:ADV	一一:ADV	翻:Vt	面:N	
+服務:Nv	人員:N	既然:C	還:ADV	用:P	夾子:N	幫:P	我們:N	把:P	蝦殼:N	剝:Vt	好:Vi	
+技術:N	非常:ADV	好:Vi	
+也:ADV	讓:Vt	我們:N	用:P	崇拜:Vt	的:T	眼神:N	仰望:Vt	他:N	
+哈哈:ADV	
+等:P	剝完:Vt	蝦:N	殼:N	以後:POST	
+會:ADV	用:P	奶油:N	炒:Vt	過:ASP	
+吃起來:ADV	非常:ADV	香:Vi	
+味道:N	很:ADV	濃郁:Vi	
+超級:A	推薦:Nv	
+很:ADV	好吃:Vi	
+看到:Vt	自助區:N	裡面:N	有:Vt	年糕:N	
+就:ADV	特別:Vi	想要:Vt	做:Vt	個:M	辣:Vi	炒:Vt	年糕:N	來:ADV	吃吃:Vt	
+就:ADV	麻煩:Vt	服務:Nv	人員:N	出手:Vi	啦:T	
+哈哈:ADV	＃:FW	第七:DET	道:M	：:COLONCATEGORY	辣:Vi	炒:Vt	年糕:N	辣:Vi	炒:Vt	年糕:N	的:T	醬料:N	是:Vt	服務:Nv	人員:N	幫:P	我們:N	搭配:Vt	的:T	
+吃起來:ADV	和:P	實際:Vi	和:C	辣:Vi	炒:Vt	年糕:N	雖然:C	不能:ADV	相提並論:Vi	
+但是:C	醬料:N	辣辣:Vi	甜甜:Vi	的:T	
+個:M	人:N	很:ADV	喜歡:Vt	
+一:DET	旁:N	還:ADV	有:Vt	小黃瓜:N	和:C	花椰菜:N	
+吃:Vt	多:Vi	了:ASP	也:ADV	不:ADV	覺得:Vt	膩口:N	
+除了:P	石板:N	可以:ADV	料理:Vt	以外:POST	
+一:DET	旁:N	還:ADV	有:Vt	火鍋:N	可以:ADV	用來:Vt	煮:Vt	比較:ADV	清淡:Vi	的:T	湯:N	和:C	青菜:N	
+料理:Vt	到:P	一半:DET	
+還:ADV	會:ADV	有:Vt	服務:Nv	人員:N	協助:Vt	添加:Vt	木炭:N	
+＃:FW	第八:DET	道:M	：:COLONCATEGORY	辣:Vi	炒:Vt	蛤蜊:N	剛剛:ADV	的:T	絲瓜:N	蛤蜊:N	是:Vt	屬於:Vt	比較:ADV	清淡:Vi	的:T	一:DET	道:M	
+之後:N	又:ADV	料理:Vt	了:ASP	一:DET	道:M	比較:ADV	適合:Vi	當作:Vt	下酒菜:N	的:T	料理:N	
+辣:Vi	炒:Vt	蛤蠣:N	醬料:N	需要:Vt	自己:N	控制好:Vt	
+不然:C	一:DET	個:M	不:ADV	小心:Vt	容易:Vi	太:ADV	鹹:Vi	
+辣度:N	也:ADV	可以:ADV	自己:N	拿捏:Vt	
+＃:FW	第九:DET	道:M	：:COLONCATEGORY	愛:Vt	的:T	大:Vi	海鮮:N	
+特別:Vi	推薦:Vt	
+這:DET	一:DET	道:M	是:Vt	服務:Nv	人員:N	
+崇仁:N	
+的:T	拿手菜:N	
+如果:C	當天:N	有:Vt	壽星:N	或是:C	慶祝:Nv	特別:Vi	節日:N	
+可以:ADV	請:Vt	他:N	幫忙:Vt	做:Vt	這:DET	一:DET	道:M	唷:T	
+首先:ADV	
+會:ADV	先:ADV	選擇:Vt	幾:DET	類:M	的:T	海鮮:N	炒:Vt	一:DET	炒:Vt	
+然後:ADV	就:ADV	很:ADV	厲害:Vi	的:T	把:P	他們:N	用:P	成:Vt	愛心:N	的:T	形狀:N	
+接著:ADV	就:ADV	把:P	打到:Vt	發泡:Vi	的:T	蛋:N	汁:N	倒入:Vt	剛剛:ADV	用:P	好:Vi	的:T	愛心:N	形狀:N	海鮮:N	上面:N	
+原本:ADV	還:ADV	以為:Vt	這:DET	一:DET	道:M	是:Vt	海鮮:N	煎:Vt	
+但:C	事實:N	上:POST	並:ADV	沒:ADV	那麼:ADV	簡單:Vi	
+讓:Vt	我們:N	看:Vt	得:T	目瞪口呆:Vi	
+努力:Vi	的:T	把:P	剛剛:ADV	倒下去:Vi	的:T	蛋:N	也:ADV	用:P	成:Vt	愛心:N	的:T	形狀:N	
+這:DET	可:ADV	不:ADV	是:Vt	人人:N	都:ADV	能夠:ADV	用出:Vt	完美:Vi	的:T	愛心:N	形狀:N	喔:T	
+崇仁:N	邀請:Vt	我們:N	跟:P	他:N	一起:ADV	把:P	這:DET	個:M	無敵:Vi	大:Vi	愛心:N	放到:Vt	盤子:N	上:N	
+多:Vi	了:ASP	這:DET	個:M	步驟:N	
+感覺:Vt	自己:N	也:ADV	有:Vt	參與:Vt	製作:Vt	捏:Vt	
+哈哈:ADV	
+這樣:Vi	也:ADV	能:ADV	跟:P	客人:N	有:Vt	進一步:A	的:T	互動:Nv	
+最後:N	
+就:ADV	在:P	這:DET	個:M	愛:N	的:T	大:Vi	海鮮:N	上面:N	倒入:Vt	起:ASP	司粉:N	
+而且:C	還可以:ADV	指定:Vt	想要:Vt	寫:Vt	的:T	字:N	在:P	上面:N	呢:T	
+今天:N	非常:ADV	謝謝:Vt	崇仁:N	替:P	我們:N	服務:Vt	
+也:ADV	幫:P	我:N	寫:Vt	了:ASP	
+Wei:FW	
+的:T	字樣:N	
+看:Vt	了:ASP	好:ADV	驚喜:Vi	啊:T	
+從來:ADV	沒有:ADV	看過:Vt	這樣:Vi	的:T	料理:N	
+當然:ADV	要:ADV	好好:Vi	地:T	跟:P	他:N	合照:Vi	紀念:Vt	一下:N	囉:T	：:COLONCATEGORY	
+除了:P	賣:Vt	相好:N	以外:POST	
+也:ADV	十分:ADV	好吃:Vi	
+外層:N	的:T	蛋:N	吃起來:ADV	像:Vt	是:Vt	蒸:Vt	蛋:N	的:T	口感:N	
+很:ADV	嫩:Vi	口:N	
+看:Vt	著:ASP	這:DET	道:M	料理:N	的:T	製作:Nv	過程:N	
+真的:ADV	是:Vt	用:P	吃驚:Vi	來:ADV	形容:Vt	
+想不到:ADV	能:ADV	吃到:Vt	這麼:ADV	有:Vt	特色:N	的:T	料理:N	
+越:ADV	晚:Vi	客人:N	越:ADV	多:Vi	
+我們:N	本來:ADV	想要:Vt	霸佔:Vt	崇仁:N	一:DET	整:DET	天:M	
+但是:C	也:ADV	想要:Vt	自己:N	表現:Vt	一下:N	啦:T	
+哈哈:ADV	
+＃:FW	第十:DET	道:M	：:COLONCATEGORY	空心菜:N	炒:Vt	牛肉:N	之後:POST	是:Vt	用:Vt	了:ASP	一:DET	到:P	空心菜:N	炒:Vt	牛肉:N	
+但是:C	吃起來:ADV	有點:ADV	偏:Vt	鹹:Vi	
+事實:N	證明:Vt	崇仁:N	的:T	技術:N	還是:ADV	難以:ADV	超越:Vt	啊:T	
+因為:C	想要:Vt	吃:Vt	花枝:N	
+但是:C	又:ADV	不:ADV	想要:Vt	炒:Vt	一:DET	道:M	失敗:Vi	的:T	花枝:N	
+就:ADV	請:Vt	崇仁:N	技術:N	指導:Vt	一下:N	
+請:Vt	他:N	幫:P	我們:N	搭配:Vt	適合:Vi	跟:P	炒:Vt	花枝:N	搭配:Vt	的:T	配料:N	
+原來:ADV	加入:Vt	芹菜:N	是:Vt	很:ADV	合拍:Vi	的:T	選項:N	阿:N	
+＃:FW	第十一:DET	道:M	：:COLONCATEGORY	三:DET	杯:M	花枝:N	
+推薦:Vt	
+雖然:C	店家:N	有:Vt	三:DET	杯:M	醬:N	
+但是:C	崇仁:N	還是:ADV	幫:P	我們:N	特:ADV	調:Vt	了:ASP	他:N	覺得:Vt	比較:ADV	適合:Vi	的:T	醬料:N	
+就是:C	醬油膏:N	加上:Vt	辣椒:N	還:ADV	有:Vt	九:DET	層:M	塔:N	啦:T	
+非常:ADV	好吃:Vi	
+而且:C	自己:N	炒:Vt	的:T	會:ADV	更:ADV	有:Vt	成就感:N	
+而且:C	還好:ADV	吃到:Vt	我:N	完全:ADV	忘:Vt	了:ASP	拍:Vt	他:N	.....:ETCCATEGORY	哈哈:ADV	
+所以:C	只:ADV	有:Vt	這:DET	張:M	我:N	開心:Vi	拿:Vt	著:ASP	成品:N	的:T	照片:N	啦:T	
+哭:Vi	
+＃:FW	第十二:DET	道:M	：:COLONCATEGORY	乾煎:N	柳葉魚:N	乾煎:N	柳葉魚:N	看似:Vt	簡單:Vi	完成:Vt	
+但是:C	需要:Vt	耐心:N	和:C	時間:N	
+因為:C	要:ADV	等:Vt	一:DET	面:N	有點:ADV	微:Vi	焦:Vi	了:ASP	才:ADV	能夠:ADV	翻:Vt	面:N	
+這:DET	一:DET	道:M	非常:ADV	適合:Vi	在:P	用餐:Vi	的:T	尾聲:N	出現:Vi	
+可以:ADV	跟:P	朋友:N	聊天:Vi	和:C	喝:Vt	酒:N	當作:Vt	下:DET	酒菜:N	
+吃到:Vt	快:Vi	飽:Vi	的:T	時候:N	
+稍微:ADV	去:ADV	巡邏:Vi	一下:N	
+就:ADV	看到:Vt	熟食區:N	有:Vt	薯條:N	、:PAUSECATEGORY	雞塊:N	等:POST	炸:Vt	物:N	
+＃:FW	炸:Vt	薯條:N	
+炸:Vt	薯條:N	還:ADV	蠻:ADV	好吃:Vi	的:T	
+吃起來:ADV	很:ADV	脆:Vi	口:N	
+不會:ADV	因為:C	放:Vt	在:P	熟食區:N	比較:ADV	久:Vi	而:C	覺得:Vt	軟化:Vt	
+＃:FW	花生:N	烤餅:N	烤餅:N	的:T	部分:DET	有點:ADV	微:Vi	焦:Vi	
+裡面:N	加入:Vt	了:ASP	一些:DET	花生粉:N	
+不過:C	會:ADV	覺得:Vt	吃起來:ADV	太:ADV	乾:Vi	了:ASP	一點:DET	
+在:P	每:DET	天:M	晚上:N	六:DET	點:M	
+店家:N	會:ADV	有:Vt	DJ:FW	在:P	現場:N	演出:Vt	
+櫃台處:N	有:Vt	點歌:Vi	單:ADV	可以:ADV	拿:Vt	
+晚上:N	六:DET	點:M	有:Vt	DJ:FW	進駐:Vt	真的:ADV	超:Vt	熱鬧:Vi	
+現場:N	氣氛:N	整:DET	個:M	都:ADV	被:P	炒熱:Vt	
+每:DET	天:M	的:T	DJ:FW	都:ADV	會:ADV	有:Vt	變動:Vt	
+吃:Vt	了:ASP	那麼多:DET	道:M	餐點:N	以後:POST	
+本來:ADV	以為:Vt	這邊:N	會:ADV	有:Vt	優格:N	冰淇淋:N	
+但是:C	這:DET	天:M	來到:Vt	店家:N	原來:ADV	只有:ADV	傳統:Vi	的:T	冰淇淋:N	了:T	
+＃:FW	芋仔冰:N	古早味:N	的:T	芋仔冰:N	我:N	很:ADV	喜歡:Vt	
+但是:C	第一:DET	口:M	要:ADV	咬下去:Vt	的:T	時候:N	比較:ADV	困難:Vi	
+因為:C	會:ADV	有點:ADV	硬:Vi	
+但是:C	等:P	他:N	稍微:ADV	融化:Vt	一些:DET	以後:POST	再:ADV	吃:Vt	會:ADV	比較:ADV	好:Vi	入口:N	
+芋頭:N	的:T	香味:N	也:ADV	很:ADV	足夠:Vi	
+等到:P	我們:N	用完:Vt	餐:N	以後:POST	
+本來:ADV	空蕩蕩:Vi	的:T	店家:N	到:P	最後:N	整:DET	個:M	已經:ADV	呈現:Vt	客滿:Vi	的:T	狀態:N	
+平日:N	生意:N	也:ADV	超:Vt	好:Vi	
+所以:C	
+如果:C	想要:Vt	來:ADV	
+田季:N	石板:N	燒肉:N	
+用餐:Vi	的:T	話:N	
+建議:Vt	可以:ADV	提早:Vt	來:Vi	用餐:Vi	
+或是:C	提早:Vt	先:ADV	訂位:Vi	囉:T	
+用完:Vt	餐:N	後:POST	
+結帳處:N	旁:N	就:ADV	有:Vt	薄荷糖:N	
+讓:Vt	口:M	氣:N	可以:ADV	清香:Vi	一些:DET	
+店:N	內:N	也:ADV	有:Vt	WIFI:FW	可以:ADV	使用:Vt	
+因為:C	用完:Vt	餐:N	後:POST	身:N	上:POST	難免:ADV	會:ADV	味道:N	
+所以:C	還:ADV	很:ADV	貼心:Vi	的:T	準備:Vt	了:ASP	熊:N	寶貝:N	來:ADV	消除:Vt	一些:DET	氣味:N	
+整體:N	而言:Vt	
+我:N	覺得:Vt	如果:C	
+田季:N	石板:N	燒肉:N	
+有:Vt	專人:N	幫忙:Vt	料理:N	的:T	話:N	CP:FW	值:N	非常:ADV	高:Vi	
+可以:ADV	讓:Vt	人:N	吃:Vt	的:T	很:ADV	驚豔:Vi	
+但:C	如果:C	店家:N	生意:N	超:Vt	好:Vi	
+可能:ADV	就:ADV	要:ADV	自立自強:Vi	
+我:N	覺得:Vt	如果:C	不:ADV	太:ADV	會:ADV	下廚:Vi	的:T	人:N	來:Vi	這邊:N	恐怕:ADV	會:ADV	蠻:ADV	苦惱:Vi	的:T	
+不過:C	可以:ADV	跟:P	朋友:N	任意:ADV	炒:Vt	一些:DET	自己:N	喜歡:Vt	吃:Vt	的:T	東西:N	
+感覺:N	就:ADV	會:ADV	像:Vt	是:Vt	BBQ:FW	的:T	那:DET	種:M	感覺:N	
+也:ADV	是:Vt	蠻:ADV	特別:Vi	的:T	
+必須:ADV	要:ADV	說:Vt	
+今天:N	特別:Vi	感謝:Vt	服務:Nv	人員:N	
+崇仁:N	
+替:P	我們:N	服務:Vt	
+讓:Vt	我們:N	都:ADV	可以:ADV	吃到:Vt	水準:N	以上:POST	的:T	料理:N	
+如果:C	自己:N	不:ADV	知道:Vt	怎麼:ADV	料理:Vt	比較:ADV	好:Vi	
+建議:Vt	還是:ADV	先:ADV	詢問:Vt	服務:Nv	人員:N	再:ADV	自己:N	料理:Vt	
+這樣:Vi	才:ADV	不:ADV	容易:Vi	毀:Vt	了:ASP	這:DET	一:DET	餐:M	啦:T	
+哈哈:ADV	

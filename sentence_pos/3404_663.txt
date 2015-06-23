@@ -1,0 +1,77 @@
+KUNI:FW	0202:DET	(:PARENTHESISCATEGORY	藐視:Vt	王法:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	咖哩王:N	CurryKing:FW	
+Sat:FW	
+Aug:FW	
+9:DET	
+03:DET	::COLONCATEGORY	42:DET	::COLONCATEGORY	05:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	2014年:N	七月:N	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	384035069:DET	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	--:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+咖哩王:N	CurryKing:FW	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	長安東路:N	二段:N	169:DET	-:DASHCATEGORY	14:DET	號:M	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2711:DET	-:DASHCATEGORY	2659:DET	
+時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	
+14:DET	::COLONCATEGORY	3017:DET	::COLONCATEGORY	00:DET	
+21:DET	::COLONCATEGORY	00:DET	Mon:FW	
+Fri:FW	
+11:DET	::COLONCATEGORY	30:DET	
+21:DET	::COLONCATEGORY	00:DET	Sat:FW	
+Sun:FW	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	--:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+總算:ADV	輪到:Vt	CurryKing:FW	啦:T	
+一連:ADV	吃:Vt	了:ASP	許多:DET	家:M	咖哩:N	也:ADV	該:ADV	是:Vt	時候:N	
+聽說:Vt	是:Vt	從:P	東區:N	忠孝東路:N	搬來:Vt	
+加上:C	看到:Vt	不少:DET	網友:N	推崇:Vt	
+好奇心:N	一:ADV	起:Vt	就:ADV	一路:ADV	跑到:Vt	長安東路:N	上:N	
+毫不起眼:Vi	同時:N	稍:ADV	嫌:Vt	簡陋:Vi	的:T	外觀:N	
+使用:Vt	空氣門:N	也:ADV	太:ADV	陽春:Vi	了:T	
+餐廳:N	內:N	空間:N	不:ADV	大:Vi	桌椅:N	不:ADV	多:Vi	
+看:Vt	了:ASP	菜單:N	研究:Vt	一:DET	番:M	
+價格:N	上:POST	不:ADV	算:Vt	便宜:Vi	
+點:Vt	了:ASP	一:DET	盤:M	咖哩:N	牛肉飯:N	
+小:Vi	
+NT:FW	.:PERIODCATEGORY	200:DET	
+酸梅汁:N	一:DET	杯:M	
+NT:FW	.:PERIODCATEGORY	40:DET	
+咖哩:N	吃:Vt	多:Vi	了:ASP	加上:Vt	自己:N	平常:N	有:Vt	在:P	煮:Vt	
+也:ADV	快:ADV	能:ADV	分門別類:Vi	了:ASP	
+CurryKing:FW	的:T	醬汁:N	第一:DET	口:M	下去:Vi	馬上:ADV	湧出:Vi	典型:Vi	的:T	咖哩:N	塊:M	溫和:Vi	
+辣度:N	出來:Vi	
+偏辛:N	口:N	日式:A	
+雖:C	有:Vt	另外:ADV	調和:Vt	過:ASP	
+但:C	嚴格:Vi	論:Vt	味道:N	走向:N	卻:ADV	類似:Vt	COCO:FW	一:DET	番:M	屋:N	
+
+剛好:ADV	都:ADV	不:ADV	算:Vt	鮮明:Vi	的:T	個性:N	
+盤:N	裡:N	辣:Vi	蘿蔔:N	竟:ADV	意外:Vt	與:P	醬汁:N	結合:Vt	在一起:Vi	
+真:ADV	神奇:Vi	
+台北:N	幾乎:ADV	每:DET	家:M	日式:A	咖哩:N	都:ADV	有:Vt	放:Vt	漬物:N	
+只是:ADV	從未:ADV	見:Vt	過:ASP	融合度:N	如此:ADV	高:Vi	的:T	
+好:ADV	有意思:Vi	
+最後:N	加:Vt	點:M	一:DET	盤:M	豬排飯:N	
+NT:FW	.:PERIODCATEGORY	200:DET	
+則:ADV	意外:Vt	落馬:Vi	
+過:ADV	薄:Vi	的:T	肉排:N	加上:C	炸:Vt	得:T	偏乾:N	
+愈:ADV	是:Vt	吃:Vt	愈:ADV	是:Vt	後悔:Vt	
+看來:ADV	炸:Vt	功:N	並非:ADV	咖哩王:N	所長:N	呀:T	
+相關:Vi	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+請:Vt	用:P	滑鼠:N	點選:Vt	
+寅樂屋:N	Torarakuya-Taipei:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	372000332:DET	
+磨磨:Vt	咖哩:N	：:COLONCATEGORY	記憶:N	中:POST	的:T	阿嬤:N	味道:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	367757924:DET	
+香料館:N	：:COLONCATEGORY	美味:Vi	平價:N	咖哩:N	聖地:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	314596187:DET	
+多:DET	年:M	前:POST	的:T	逸香:N	如今:N	已:ADV	成:Vt	絕響:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	294995312:DET	
+百:DET	元:M	以下:POST	的:T	平價:N	咖哩:N	豬排飯:N	：:COLONCATEGORY	大川:N	日式:A	咖哩飯:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	359456981:DET	
+咖哩:N	娘:N	：:COLONCATEGORY	簡單:Vi	與:C	歐風:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	365938325:DET	
+中田:N	日式:A	咖哩飯:N	：:COLONCATEGORY	永和:N	平價:N	咖哩:N	推薦:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	366768062:DET	
+痞客:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog:FW	
+粉絲:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/KUNIwithGourmet:FW	
+Musik:FW	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tinyurl.com/n4sdnhw:FW	

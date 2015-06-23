@@ -1,0 +1,69 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	咖哩:N	先生:N	
+Tue:FW	
+Oct:FW	
+7:DET	
+21:DET	::COLONCATEGORY	14:DET	::COLONCATEGORY	28:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41317369:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	8:DET	被:P	通知:Vt	要:ADV	來:ADV	台北:N	科大:N	開:Vt	個:M	會議:N	
+中午:N	離開:Vt	辦公室:N	後:POST	
+先:ADV	到:Vt	了:ASP	台大:N	商圈:N	、:PAUSECATEGORY	溫州街:N	小:Vi	巷弄:N	中:POST	的:T	咖哩:N	先生:N	吃:Vt	個:M	中餐:N	
+咖哩:N	先生:N	的:T	老闆:N	是:Vt	來自:Vt	香港:N	的:T	僑生:N	
+畢業:Vi	之後:POST	留在:Vt	臺灣:N	
+先:ADV	跟:P	著:ASP	印度:N	僑友:N	一起:ADV	賣:Vt	咖哩:N	
+後來:N	自己:N	開:Vt	了:ASP	這:DET	家:M	低調:Vi	小店:N	
+咖哩:N	先生:N	在:P	小:Vi	巷子:N	之中:POST	
+沒有:ADV	明顯:Vi	的:T	招牌:N	與:C	門面:N	
+只:ADV	是:Vt	一:DET	扇:M	小:Vi	門:N	
+旁邊:N	掛:Vt	著:ASP	小小:Vi	的:T	招牌:N	
+沒:ADV	注意:Vt	的:T	話:N	
+一下:N	就:ADV	錯過:Vt	了:ASP	
+店裡:N	賣:Vt	的:T	食物:N	很:ADV	簡單:Vi	
+主食:N	就:ADV	一樣:Vi	咖哩:N	
+然後:ADV	幾:DET	樣:M	家鄉:N	的:T	蒸魚:N	、:PAUSECATEGORY	蒸:Vt	肉餅:N	與:C	青菜:N	
+有時:ADV	還:ADV	會:ADV	有:Vt	煲湯:N	
+牆:N	上:N	的:T	菜單:N	沒:ADV	列出:Vt	價錢:N	
+不愧:ADV	是:Vt	在:P	台大:N	商圈:N	以:P	學生:N	為:Vt	客群:N	的:T	餐廳:N	
+米飯:N	的:T	部份:DET	採:Vt	自助:Vi	吃到:Vt	飽:Vi	的:T	形式:N	
+提供:Vt	胚牙米:Vt	與:C	泰國:N	香米:N	
+香米:N	煮:Vt	的:T	比較:ADV	疏鬆:Vi	
+就:ADV	像:Vt	在:P	香港:N	吃:Vt	的:T	米飯:N	一般:POST	
+咖哩:N	牛腩:N	看似:Vt	平常:Vi	的:T	咖哩:N	
+裡頭:N	只:ADV	有:Vt	馬鈴薯:N	與:C	牛腩:N	
+但:C	仔細:Vi	看看:Vt	咖哩:N	醬汁:N	
+都:ADV	是:Vt	熬:Vt	煮成:Vt	泥:N	的:T	香料:N	與:C	蔬菜:N	
+因此:C	咖哩醬:N	的:T	口感:N	並:ADV	不:ADV	是:Vt	滑:Vi	順:Vt	濃稠:Vi	
+而是:C	帶:Vt	點:M	泥:N	的:T	沙狀:N	感:Vt	
+有:Vt	著:ASP	各:DET	式:M	香料:N	的:T	香氣:N	
+也:ADV	帶:Vt	點:N	微:ADV	辣:Vi	
+風味:N	強烈:Vi	而:C	適合:Vi	下:Vt	飯:N	
+讓:Vt	人:N	不禁:Vt	多:DET	吃:Vt	了:ASP	好幾:DET	碗:M	米飯:N	
+牛腩:N	與:C	馬鈴薯:N	皆:ADV	燉:Vt	得:T	入味:N	軟:Vi	爛:Vi	
+鹹蛋:N	蒸:Vt	肉餅:N	本來:ADV	想:Vt	點:N	蒸:Vt	魚:N	
+但:C	一:DET	個:M	人:N	吃怕:Vt	是:Vt	太多:Vi	
+只好:ADV	點份:N	鹹蛋:N	蒸:Vt	肉餅:N	
+這:DET	是:Vt	粵菜:N	中:POST	常見:Vi	的:T	菜式:N	
+不過:C	咖哩:N	先生:N	的:T	蒸:Nv	肉餅:N	賣:Vt	相:N	上:N	差:Vi	了:ASP	點:M	
+灰白色:N	的:T	扁平:Vi	肉餅:N	中間:N	貼:Vt	著:ASP	一:DET	顆:M	鹹:Vi	蛋黃:N	
+灑上:Vt	幾:DET	粒:M	蔥花:N	
+肉餅:N	口感:N	彈嫩:Vi	
+但是:C	味道:N	極:ADV	淡:Vi	
+可:ADV	說:Vt	是:Vt	沒:Vt	什麼:DET	味道:N	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	還:ADV	要:ADV	加豉油:N	才:ADV	對:P	
+鹹蛋:N	黃:N	也:ADV	不:ADV	夠:ADV	鹹:Vi	
+但:C	掰:Vt	下:DET	一點:DET	鹹蛋:N	配:Vt	著:ASP	肉餅:N	吃:Vt	
+也:ADV	總算:ADV	有:Vt	味道:N	了:T	
+可惜:Vi	鹹蛋:N	與:C	肉餅:N	的:T	風味:N	沒有:ADV	融合:Vt	
+印象:N	中:POST	以往:N	吃:Vt	過:ASP	的:T	鹹蛋:N	蒸:Vt	肉餅:N	或:C	鹹魚:N	蒸:Vt	肉餅:N	都:ADV	沒:ADV	那麼:ADV	清淡:Vi	呀:T	
+咖哩:N	先生:N	地址:N	：:COLONCATEGORY	台北市:N	新生南路:N	三段:N	70巷:N	6:DET	號:M	電話:N	：:COLONCATEGORY	0930773073:DET	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+食記:N	
+台北:N	羊成:Vt	小:Vi	館:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41089639:DET	
+食記:N	
+台北:N	十三:DET	座:M	牛雜:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41180107:DET	
+食記:N	
+台北:N	強記:Vt	港:N	式:N	小:Vi	館:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40694554:DET	
+食記:N	
+台北:N	香港:N	大:Vi	排:Vt	檔:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	39206446:DET	
+食記:N	
+台北:N	維多利亞茶:N	餐廳:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	32410737:DET	--:DASHCATEGORY	一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	--:DASHCATEGORY	

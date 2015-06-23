@@ -1,0 +1,65 @@
+tashatasha(Tasha:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	凌晨:N	營業:Vi	「:PARENTHESISCATEGORY	炭火:N	燒肉:N	無敵:Vi	」:PARENTHESISCATEGORY	台北:N	約會:N	、:PAUSECATEGORY	消夜:N	
+Thu:FW	
+Nov:FW	
+20:DET	
+22:DET	::COLONCATEGORY	33:DET	::COLONCATEGORY	52:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	炭火:N	燒肉:N	無敵:Vi	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	
+地址:N	：:COLONCATEGORY	台北市:N	市民:N	大道:N	四段:N	183:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2578:DET	-:DASHCATEGORY	9797:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週日:N	18:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	02:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	800:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	石鍋:N	拌:Vt	飯:N	
+官網:N	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	hellotasha.pixnet.net/blog/post:FW	/:FW	399004600:DET	
+好讀:Vt	網誌版:N	
+市民:N	大道:N	上:N	這:DET	間:M	炭火:N	燒肉:N	無敵:Vi	
+入口:N	有點:ADV	隱密:Vi	
+每:DET	次:M	經過:Vt	總是:ADV	非常:ADV	好奇:Vi	
+想:Vt	知道:Vt	葫蘆:N	裡:POST	到底:ADV	賣:Vt	什麼:DET	料:N	
+這:DET	天:M	正好:ADV	有空:Vi	過來:Vi	用餐:Vi	
+才:ADV	發現:Vt	這邊:N	走:Vi	一:DET	個:M	年輕人:N	路線:N	
+一樓:N	是:Vt	吧台式:N	的:T	用餐區:N	
+整:DET	個:M	很:ADV	新潮:Vi	的:T	感覺:N	
+酒類:N	選擇:N	還:ADV	蠻:ADV	多:Vi	
+也:ADV	有:Vt	啤酒:N	
+從:P	餐具:N	的:T	選用:Nv	
+到:P	服務:Nv	人員:N	的:T	制服:N	
+都:ADV	很:ADV	有:Vt	設計:N	感:Vt	
+木刻:N	的:T	menu:FW	
+店:N	內:N	用:Vt	炭火:N	烤爐:N	
+店員:N	會:ADV	幫忙:Vt	烤:Vt	
+服務:Nv	還:ADV	不錯:Vi	
+每:DET	份:M	肉:N	的:T	分量:N	
+感覺:N	比:P	一般:A	的:T	烤:Nv	肉:N	要:ADV	多點:DET	
+但:C	價格:N	不:ADV	算:Vt	便宜:Vi	
+個:M	人:N	覺得:Vt	在:P	台北市:N	的:T	燒:Vt	肉店:N	中:N	
+價位:N	是:Vt	偏:ADV	高:Vi	的:T	
+油花:N	好:ADV	美:Vi	
+一:ADV	看:Vt	就:ADV	好吃:Vi	
+雖然:C	燒:Vt	肉:N	是:Vt	本:DET	店:N	主打:Nv	
+但:C	依:P	價格:N	來:ADV	看:Vt	中規中矩:Vi	
+沒有:ADV	覺得:Vt	特別:Vi	突出:Vi	的:T	地方:N	
+倒是:ADV	石鍋:N	拌:Vt	飯:N	相當:ADV	不錯:Vi	
+加上:C	生:Vt	蛋黃:N	整:DET	個:M	令:Vt	人:N	食指:N	大動:Vt	
+是:Vt	說:Vt	無敵:Vi	這邊:N	氣氛:N	還:ADV	不錯:Vi	
+對:P	年輕人:N	來:ADV	說:Vt	
+是:Vt	以:P	吃飯:Vi	的:T	氛圍:N	取勝:Vi	
+整:DET	個:M	很:ADV	有:Vt	潮店:N	的:T	感覺:N	
+營業:Nv	時間:N	也:ADV	到:P	凌晨:N	
+很:ADV	適合:Vi	夜貓子:N	
+有:Vt	在:P	東區:N	又:ADV	想:Vt	吃:Vt	個:M	低調:N	潮潮:Vi	燒肉:N	的:T	話:N	
+可以:ADV	過來:Vi	無敵:Vi	喔:T	
+炭火:N	燒肉:N	無敵:Vi	Muteki:FW	
+地址:N	::COLONCATEGORY	台北市:N	市民:N	大道:N	四段:N	183:DET	號:M	
+電話:N	::COLONCATEGORY	
+02:DET	
+2578:DET	-:DASHCATEGORY	9797:DET	
+營業:Nv	時間:N	::COLONCATEGORY	週一:N	-:DASHCATEGORY	週日:N	18:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	02:DET	::COLONCATEGORY	00:DET	
+Tasha:FW	的:T	小:Vi	房間:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	hellotasha.pixnet.net/blog:FW	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/pages/Tasha:FW	/:FW	310771535603285:DET	

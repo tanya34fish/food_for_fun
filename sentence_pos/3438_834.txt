@@ -1,0 +1,72 @@
+lovecala(cala:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	阿:N	剛:ADV	雲:N	泰:N	創作:N	料理:Vt	平價:N	好吃:Vi	泰國菜:N	
+Tue:FW	
+Aug:FW	
+19:DET	
+12:DET	::COLONCATEGORY	56:DET	::COLONCATEGORY	05:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	阿:N	剛:ADV	雲:N	泰:N	創作:N	料理:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	汀州路:N	三段:N	150:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23644278:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	-:DASHCATEGORY	350:DET	
+圖文:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	lovecala.pixnet.net/blog/post:FW	/:FW	184916463:DET	
+這:DET	間:M	位於:Vt	公館:N	商圈:N	的:T	阿:N	剛:ADV	雲:N	泰:N	創作:N	料理:N	
+至少:ADV	開:Vt	了:ASP	有:Vt	十:DET	年:M	了:T	吧:T	
+好久:Vi	好久:Vi	沒:ADV	來:ADV	吃:Vt	喔:T	
+學生:N	時期:N	常:ADV	在:P	公館:N	打轉:Vi	
+吃:Vt	小吃:N	、:PAUSECATEGORY	買:Vt	運動鞋:N	、:PAUSECATEGORY	逛:Vt	書店:N	
+那時:N	就:ADV	常:ADV	來:ADV	這:DET	吃:Vt	了:ASP	
+門口:N	就:ADV	寫:Vt	著:ASP	98:DET	元:M	起:POST	
+所以:C	又:ADV	是:Vt	一:DET	間:M	平價:N	的:T	好:Vi	料理:N	啦:T	
+店裡:N	不:ADV	算:Vt	小:Vi	
+可以:ADV	多:Vi	人:N	聚餐:Vi	的:T	大:Vi	圓桌:N	
+也:ADV	有:Vt	四:DET	人:N	的:T	小:Vi	桌:N	
+一:ADV	坐下來:Vi	看到:Vt	熟悉:Vt	的:T	菜單:N	
+趕快:ADV	點:Vt	餐:N	才:ADV	是:Vt	重點:N	
+最近:N	好像:ADV	蠻:ADV	常:ADV	吃:Vt	泰國菜:N	的:T	
+夏天:N	還是:ADV	需要:Vt	些:ADV	下:Vt	飯:N	的:T	重:Vi	口味:N	吧:T	XD:FW	
+必:ADV	點打拋:N	豬肉:N	
+這裡:N	的:T	不:ADV	是:Vt	很多:DET	醬汁:N	的:T	那:DET	種:M	
+九:DET	層:M	塔:N	的:T	香味:N	比較:ADV	重:Vi	
+我:N	蠻:ADV	喜:Vt	
+歡:Vi	這樣:Vi	乾炒:Vt	而且:C	九:DET	層:M	塔提味:N	真的:ADV	很:ADV	好吃:Vi	耶:T	
+辣:Vi	炒:Vt	海鮮:N	我:N	絕對:ADV	要:ADV	大推:Vt	
+送上來:Vt	時:POST	還:ADV	想:Vt	說:Vt	這:DET	薑絲:N	也:ADV	放:Vt	太多:Vi	了:T	吧:T	
+沒想到:ADV	那:DET	不:ADV	是:Vt	薑絲:N	
+是:Vt	有點:ADV	脆脆:Vi	的:T	竹筍:N	
+吃進去:Vt	也:ADV	太:ADV	驚喜:Vi	了:T	
+異口同聲:ADV	
+說好:Vt	好吃:Vi	
+海鮮:N	一樣:Vi	有:Vt	九:DET	層:M	塔:N	的:T	香味:N	
+因為:C	竹筍:N	多:Vi	了:ASP	點:M	甜味:N	
+意外:N	的:T	很:ADV	爽口:Vi	整:DET	盤:M	吃光:Vt	
+光:ADV	
+下:DET	次:M	必:ADV	點:Vt	
+因為:C	這:DET	天:M	不:ADV	想:Vt	吃:Vt	炸:Vt	的:T	椒麻:N	雞:N	
+就:ADV	點:Vt	了:ASP	份泰式蔥油:N	雞:N	
+去:Vt	骨:N	的:T	雞肉:N	用:P	涼拌:Vt	的:T	
+酸酸甜甜:Vi	的:T	醬汁:N	好:ADV	清爽:Vi	
+皮:N	都:ADV	做:Vt	得:T	QQ:FW	的:T	
+肉:N	嫩嫩:Vi	的:T	
+冰冰涼涼:Vi	的:T	是:Vt	道:N	很:ADV	適合:Vi	夏天:N	的:T	菜色:N	
+蝦醬:N	高麗菜:N	就:ADV	沒:Vt	什麼:DET	特別:Vi	
+但:C	也:ADV	是:Vt	好吃:Vi	啦:T	
+只是:ADV	好像:ADV	比較:ADV	油:Vi	一點:ADV	
+夏天:N	真的:ADV	很少:ADV	在:P	喝:Vt	熱湯:N	
+熱:Vt	得:T	要:ADV	死:Vi	還:ADV	比較:ADV	想:Vt	喝:Vt	飲料:N	
+不過:C	很:ADV	想念:Vt	這裡:N	的:T	苦:Nv	瓜肉:N	末湯:N	
+就:ADV	點:Vt	了:ASP	一:DET	份:M	
+苦瓜:N	不會:ADV	苦:Vi	
+吃起來:ADV	還:ADV	帶:Vt	有點:ADV	
+甘:Vi	甜味:N	
+自己:N	心:N	裡:N	想:Vt	這樣:Vi	應該:ADV	有:Vt	退火:Vi	算:Vt	涼補:Vt	吧:T	XD:FW	
+這樣:Vi	四:DET	菜:N	一:DET	湯:N	算是:Vt	剛剛好:ADV	
+有:Vt	肉:N	有:Vt	菜:N	還:ADV	有:Vt	海鮮:N	
+一共:ADV	七百:DET	元:M	左右:POST	
+好吃:Vi	比較:ADV	重要:Vi	
+價位:N	又:ADV	合理:Vi	
+環境:N	也:ADV	很:ADV	不錯:Vi	
+下:DET	次:M	再:ADV	約:ADV	一:ADV	約:ADV	一:ADV	起來:Vi	吧:T	
+記得:Vt	
+辣:Vi	炒:Vt	海鮮:N	必:ADV	點:Vt	

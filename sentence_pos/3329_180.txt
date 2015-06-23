@@ -1,0 +1,33 @@
+artiller:FW	(:PARENTHESISCATEGORY	砲仔:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北:N	哪裡:N	有:Vt	賣:Vt	雪:N	藏:Vt	蛋糕:N	(:PARENTHESISCATEGORY	semifreddo:FW	):PARENTHESISCATEGORY	
+Sat:FW	
+Jul:FW	
+19:DET	
+00:DET	::COLONCATEGORY	20:DET	::COLONCATEGORY	20:DET	
+2014:DET	
+請益:Vi	
+台北:N	哪裡:N	有:Vt	賣:Vt	雪:N	藏:Vt	蛋糕:N	
+semifreddo:FW	
+SatJul:FW	1900:DET	::COLONCATEGORY	20:DET	::COLONCATEGORY	202014:DET	
+1:DET	.:PERIODCATEGORY	想:Vt	找:Vt	的:T	餐飲:N	類別:N	
+任何:DET	有:Vt	賣:Vt	這:DET	項:M	甜點:N	的:T	餐廳:N	
+2:DET	.:PERIODCATEGORY	用餐:Vi	地區:N	
+台北市:N	
+3:DET	.:PERIODCATEGORY	每:DET	人:N	預算:N	
+新台幣:N	$:FW	2000:DET	元:M	
+意思:N	就:ADV	是:Vt	再:ADV	貴:Vi	也:ADV	沒:ADV	差:Vi	
+只要:C	能:ADV	吃到:Vt	這:DET	種:M	蛋糕:N	就:ADV	好:Vi	
+4:DET	.:PERIODCATEGORY	用餐:Nv	時段:N	
+週末:N	
+5:DET	.:PERIODCATEGORY	用餐:Nv	人數:N	
+1:DET	人:N	
+6:DET	.:PERIODCATEGORY	查詢:Nv	精華區:N	及:C	板面:N	文章:N	後:POST	拿:Vt	不定:Vi	主意:N	的:T	候選:Nv	店家:N	
+勉強:Vi	讓:Vt	我:N	覺得:Vt	有:Vt	相像:Vi	的:T	是:Vt	多:DET	年:M	前:POST	在:P	螺絲:N	瑪麗:N	吃到:Vt	的:T	餐:N	後:POST	甜點:N	
+如果:C	用:P	中文:N	解釋:Vt	的:T	話:N	應該:ADV	叫做:Vt	半:DET	冷凍:Nv	冰淇淋:N	蛋糕:N	
+冰淇淋:N	混合:Vt	鮮:Vi	奶油:N	後:POST	拿去:Vt	冷凍:Nv	
+通常:ADV	會:ADV	加入:Vt	堅果類:N	
+餅乾:N	等等:POST	添增:Vt	口感:N	
+那:DET	次:M	在:P	螺絲:N	瑪麗:N	我:N	記得:Vt	吃到:Vt	的:T	是:Vt	加入:Vt	杏仁:N	的:T	
+因為:C	冰淇淋:N	混合:Vt	了:ASP	鮮:Vi	奶油:N	
+吃起來:ADV	相對:Vi	輕盈:Vi	而且:C	富有:Vt	口感:N	
+可惜:Vi	螺絲:N	瑪麗:N	沒有:ADV	單:ADV	賣:Vt	這:DET	個:M	蛋糕:N	

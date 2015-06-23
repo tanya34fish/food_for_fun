@@ -1,0 +1,81 @@
+TW00500203(Ming:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	AnikiBurger:FW	阿尼基:N	美式:A	餐廳:N	
+Thu:FW	
+Oct:FW	
+9:DET	
+03:DET	::COLONCATEGORY	06:DET	::COLONCATEGORY	03:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	AnikiBurger:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	10月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	238巷:N	1:DET	號:M	(:PARENTHESISCATEGORY	sogo:FW	敦化館:N	旁:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2711:DET	-:DASHCATEGORY	6077:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	250:DET	~:FW	300:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	n/a:FW	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+圖文:N	網誌:N	好讀:Vt	版本:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	carlming.pixnet.net/blog/post:FW	/:FW	188248536:DET	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+好:C	陣子:N	沒:ADV	吃:Vt	美式:A	漢堡:N	了:T	
+大約:ADV	三:DET	到:P	四:N	年:N	前:POST	師大:N	那邊:N	開始:Vt	開:Vt	起:ASP	超:Vt	多:DET	家:N	漢堡店:N	
+自從:P	之前:N	的:T	抗爭:N	後:POST	那:DET	一帶:N	的:T	漢堡店:N	也:ADV	慢慢:Vi	搬走:Vt	或:C	歇業:Vi	
+取而代之:Vi	的:T	是:Vt	東區:N	漢堡店:N	林立:Vi	
+今天:N	跟:P	朋友:N	來:Vi	的:T	這:DET	家:M	ANIKI:FW	漢堡:N	以前:POST	就:ADV	有:Vt	來:ADV	吃:Vt	過:ASP	
+不過:C	那時:N	沒:ADV	在:P	寫:Vt	食記:N	
+這:DET	次:M	就:ADV	介紹:Vt	一下:N	這:DET	家:M	還:ADV	不錯:Vi	的:T	小店:N	吧:T	
+店面:N	在:P	SOGO:FW	":FW	敦化:N	":FW	館:N	旁:N	
+這:DET	個:M	館:N	很少:Vi	人:N	知道:Vt	
+不:ADV	是:Vt	最:ADV	舊:Vi	的:T	忠孝館:N	也:ADV	不:ADV	是:Vt	綠綠:Vi	大大:Vi	捷運:N	旁:N	的:T	復興館:N	
+說:Vt	了:ASP	好幾:DET	次:M	還是:ADV	有:Vt	朋友:N	跑錯:Vt	XD:FW	
+在:P	敦化館:N	旁邊:N	的:T	圍牆:N	
+外表:N	很:ADV	像:Vt	日式:A	居酒:N	屋:N	
+但:C	裡面:N	賣:Vt	得:T	是:Vt	漢堡:N	、:PAUSECATEGORY	義大利麵:N	、:PAUSECATEGORY	燉:Vt	飯:N	、:PAUSECATEGORY	早:Vi	午餐:N	
+菜單:N	蠻:ADV	有:Vt	特色:N	的:T	ANIKI:FW	就:ADV	是:Vt	日文:N	大哥:N	的:T	意思:N	拉:Vt	
+價位:N	差不多:ADV	在:P	200:DET	
+300:DET	
+也:ADV	有:Vt	附:Vt	飲料:N	喝到:Vt	飽:Vi	很:ADV	不錯:Vi	
+香煎:N	磨菇:Vi	牛肉堡:N	NT:FW	.:PERIODCATEGORY	260:DET	
+這裡:N	附餐:N	可以:ADV	選擇:Vt	脆薯:N	或是:C	帶:Vt	皮:N	薯條:N	
+奶油:N	煎:Vt	過:ASP	的:T	磨菇:Vi	香味四溢:Vi	
+漢堡:N	排:Vt	雖然:C	不:ADV	厚:Vi	但:C	還是:ADV	很:ADV	多汁:Vi	
+比較:ADV	奇怪:Vt	的:T	是:Vt	這邊:N	配菜:N	沒有:Vt	美:N	生菜:N	
+取代:Vt	的:T	是:Vt	大:Vi	黃瓜:N	...:ETCCATEGORY	
+很少:ADV	吃到:Vt	這樣:Vi	的:T	組合:Nv	有點:ADV	意外:Vt	
+這邊:N	的:T	脆薯:N	炸:Vt	得:T	也:ADV	蠻:ADV	不錯:Vi	
+吃起來:ADV	不會:ADV	太:ADV	油:Vi	也:ADV	保有:Vt	薯條:N	的:T	鬆軟:Vi	跟:P	香味:N	
+組合:Vt	起來:ASP	大小:N	正好:ADV	可以:ADV	一口:ADV	咬下:Vt	
+奶油:N	燻:Vt	鮭魚:N	義大利麵:N	NT:FW	.:PERIODCATEGORY	270:DET	
+這:DET	道:M	麵食:N	使用:Vt	的:T	是:Vt	斜管:N	麵:N	
+上頭:N	有:Vt	兩:DET	種:M	不同:Vi	味道:N	的:T	起士:N	增加:Vt	香味:N	
+配上:Vt	一點:DET	花椰菜:N	均衡:Vt	一下:N	飲食:N	
+醬汁:N	收:Vt	得:T	不錯:Vi	吃起來:ADV	很:ADV	濃郁:Vi	
+一:ADV	送上來:Vt	香味:N	就:ADV	跟:P	著:ASP	過來:Vi	
+燻:Vt	鮭魚:N	在:P	底下:N	扮:Vt	一:DET	扮:Vt	很:ADV	香:Vi	沒有:Vt	魚:N	腥味:N	
+青醬:N	烤雞:N	外國:N	粥:N	NT:FW	.:PERIODCATEGORY	280:DET	
+這裡:N	的:T	醬汁:N	調:Vt	得:T	真的:ADV	還:ADV	不錯:Vi	
+青醬:N	的:T	味道:N	也:ADV	是:Vt	很:ADV	香:Vi	
+朋友:N	是:Vt	覺得:Vt	飯:N	有點:ADV	太:ADV	硬:Vi	
+我:N	倒是:ADV	還:ADV	蠻:ADV	愛:Vt	這:DET	種:M	燉飯:Vt	的:T	口感:N	
+香:Vi	濃:Vi	花生醬:N	牛肉:N	漢堡:N	NT:FW	.:PERIODCATEGORY	250:DET	
+送上來:Vt	時:POST	被:P	豪邁:Vi	的:T	花生醬:N	嚇一跳:Vi	
+厚厚:Vi	的:T	一:DET	層:M	蓋過:Vt	了:ASP	漢堡:N	排:Vt	
+很:ADV	有:Vt	氣勢:N	的:T	感覺:N	
+鳳梨:N	蝦球堡:N	NT:FW	.:PERIODCATEGORY	250:DET	
+這邊:N	超:Vt	好玩:Vi	的:T	竟然:ADV	有:Vt	道地:Vi	正宗:N	鳳梨:N	蝦球堡:N	這:DET	玩意:N	
+我:N	想:Vt	應該:ADV	超:Vt	少:Vi	人:N	點:Vt	過:ASP	這:DET	口味:N	的:T	漢堡:N	吧:T	
+正好:ADV	是:Vt	朋友:N	4:DET	點:M	半:POST	才:ADV	吃:Vt	過:ASP	不:ADV	餓:Vi	又:ADV	是:Vt	個:M	鳳梨:N	蝦球:N	控:Vt	才:ADV	會:ADV	選擇:Vt	這:DET	玩意:N	吧:T	XD:FW	
+另外:C	這邊:N	也:ADV	有:Vt	賣:Vt	早:Vi	午餐:N	蛋捲:N	之類:POST	的:T	
+肚子:N	不:ADV	餓:Vi	也:ADV	是:Vt	可以:ADV	過來:Vi	吃:Vt	個:M	小:Vi	東西:N	
+第二:DET	次:M	回訪:Vt	的:T	經驗:N	還是:ADV	很:ADV	好:Vi	
+漢堡:N	好吃:Vi	但是:C	肉排:N	略:ADV	小:Vi	
+義大利麵:N	跟:P	燉:Vt	飯:N	完全:ADV	超乎:Vt	我:N	想像:Vt	中:POST	的:T	好吃:Vi	
+醬汁:N	完全:ADV	不:ADV	輸:Vt	外面:N	的:T	店:N	
+餐點:N	也:ADV	很:ADV	多元:Vi	
+這:DET	家:M	店:N	唯:ADV	二:DET	比較:ADV	大:Vi	的:T	缺點:N	大概:ADV	是:Vt	限時:A	90:DET	分鐘:M	
+不過:C	現在:N	很多:DET	美式:A	漢堡:N	也:ADV	都:ADV	有限:Vi	時:POST	增加:Vt	翻:Vt	桌率:N	了:T	
+再:ADV	來:ADV	就是:C	地點:N	比較:ADV	難找:Vt	一些:DET	
+卡爾:N	茗:N	生活:N	
+美食:N	
+遊憩:Vi	之:T	點滴:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	carlming.pixnet.net/blog:FW	
+吃吃:ADV	喝喝:Vt	敗家:Vi	粉絲團:N	

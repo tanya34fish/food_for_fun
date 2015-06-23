@@ -1,0 +1,113 @@
+spu70903(sPu:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義:N	超:Vt	厲害:Vi	的:T	PASTA:FW	小店:N	-:DASHCATEGORY	PALMPASTA:FW	
+Wed:FW	
+Aug:FW	
+27:DET	
+22:DET	::COLONCATEGORY	52:DET	::COLONCATEGORY	38:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	PALMPASTA:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	110:DET	台北市:N	信義區:N	和平東路:N	三段:N	173:DET	號:M	(:PARENTHESISCATEGORY	近:DET	六:DET	張:M	犁站:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	0223788807:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	7:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	(:PARENTHESISCATEGORY	僅有:Vt	週二:N	早上:N	是:Vt	11:DET	::COLONCATEGORY	30:DET	開:M	):PARENTHESISCATEGORY	
+推薦:Vt	菜色:N	：:COLONCATEGORY	各:DET	式:M	義大利麵:N	、:PAUSECATEGORY	各:DET	式:M	燉飯:Vt	
+無:Vt	音樂:N	、:PAUSECATEGORY	圖多:N	、:PAUSECATEGORY	好:Vi	閱讀:Vt	網誌版:N	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	sputravel.pixnet.net/blog/post:FW	/:FW	182392855:DET	
+這:DET	次:M	介紹:N	的:T	是:Vt	在:P	六:DET	張:M	犁:N	捷運站:N	附近:N	的:T	一:DET	家:M	好吃:Vi	餐廳:N	
+也:ADV	是:Vt	上:DET	次:M	寫:Vt	中西:A	美食:N	的:T	蛋捲:N	分享:Vt	文:N	的:T	
+時候:N	
+看到:Vt	版友:N	的:T	推薦:Nv	
+不過:C	可惜:Vi	這:DET	次:M	來:ADV	用餐:Vi	的:T	時間:N	是:Vt	晚餐:N	
+原來:A	蛋捲:N	只有:C	早餐:N	有:Vt	阿:N	
+不過:C	這:DET	家:M	餐點:N	的:T	美味:Vi	程度:N	加上:Vt	實惠:Vi	的:T	價格:N	
+都:ADV	讓:Vt	我:N	非常:ADV	驚艷:Vi	啊:T	
+當下:N	就:ADV	決定:Vt	一定:ADV	要:ADV	好好:Vi	為:P	這:DET	家:M	寫:Vt	篇:M	分享:Vt	文:N	
+讓:Vt	大家:N	都:ADV	能:ADV	知道:Vt	
+當時:N	看:Vt	一些:DET	前輩:N	們:N	的:T	介紹:N	
+雖然:C	知道:Vt	店:N	不:ADV	大:Vi	間:N	
+但:C	實際:Vi	來:Vi	店:N	門口:N	還:ADV	真的:ADV	很:ADV	小:Vi	間:POST	呢:T	XDDD:FW	
+看看:Vt	這:DET	店:N	門口:N	吧:T	
+接著:ADV	看:Vt	這:DET	超:Vt	精緻:Vi	的:T	菜單:N	吧:T	
+石布:N	還是:C	第一:DET	次:M	看到:Vt	這麼:ADV	精緻:Vi	的:T	菜單:N	
+加工:Vi	的:T	菜單:N	雖然:C	看過:Vt	很多:DET	
+但:C	這邊:N	的:T	菜單:N	都:ADV	用:P	實際:Vi	照片:N	拍出:Vt	餐點:N	真實:Vi	的:T	樣貌:N	
+比:P	一些:DET	加工:Nv	
+過:ASP	頭:N	的:T	好多:DET	了:T	
+文字:N	、:PAUSECATEGORY	排版:Nv	等等:POST	也:ADV	都:ADV	很:ADV	讓:Vt	我:N	喜歡:Vt	
+超讚:N	的:T	菜單:N	
+推:Vt	
+另外:C	回來:Vi	整理:Vt	相片:N	才:ADV	發現:Vt	
+來:ADV	這:DET	其實:ADV	光點:N	啤酒:N	+:FW	點心:N	也:ADV	很:ADV	划算:Vi	
+點:Vt	兩:DET	支:M	久:Vi	就:ADV	能:ADV	送:Vt	小:Vi	點心:N	呢:T	
+這邊:N	的:T	酒:N	也:ADV	都:ADV	是:Vt	一些:DET	市面:N	上:N	比較:ADV	少:Vi	看見:Vt	的:T	酒類:N	呢:T	
+若是:C	假日:N	晚上:N	時候:N	
+來:ADV	這邊:N	點:DET	個:M	幾:DET	支:M	啤酒:N	
+送:Vt	些:M	甜點:N	或:C	起:Vt	司:N	薯條:N	來:ADV	嗑:Vt	嗑:Vt	
+我:N	想:Vt	也:ADV	是:Vt	個:M	不錯:Vi	
+的:T	選擇:N	
+當天:N	因為:C	我:N	沒:ADV	很:ADV	愛:Vt	吃:Vt	沙拉:N	的:T	關係:N	
+我:N	選擇:Vt	B:FW	套餐:N	
+濃湯:N	+:FW	飲料:N	=:FW	$:FW	70:DET	
+而已:T	
+友人:N	則:ADV	是:Vt	選擇:Vt	了:ASP	A:FW	
+套餐:N	
+濃湯:N	+:FW	飲料:N	=:FW	$:FW	100:DET	
+這:DET	是:Vt	濃湯:N	的:T	部分:DET	
+味道:N	普通:Vi	沒:ADV	特別:Vi	印象:N	
+但:C	也:ADV	不會:ADV	差:Vi	到:P	哪:DET	去:ADV	就是了:Vi	
+A:FW	套餐:N	附:Vt	的:T	沙拉:N	
+偷:ADV	挖:Vt	了:ASP	朋友:N	的:T	幾:DET	口:M	來:ADV	吃:Vt	
+我:N	是:Vt	個:M	不會:ADV	特別:Vi	愛:Vt	吃:Vt	沙拉:N	
+但:C	愛:Vt	吃:Vt	裡面:N	的:T	麵包:N	
+丁:N	的:T	小孩子:N	XDDD:FW	
+友人點:N	的:T	PALM:FW	招牌:N	肉醬:N	義大利麵:N	
+$:FW	180:DET	
+看:Vt	這:DET	醬:N	有沒有:ADV	覺得:Vt	跟:P	其他:DET	肉醬:N	義大利麵:N	不:ADV	太:ADV	一樣:Vi	
+啊:T	
+這邊:N	的:T	醬:N	雖然:C	也:ADV	是:Vt	以:P	番茄:N	加:Vt	上肉:N	末:N	組合:Vt	而:C	成:Vt	
+但:C	味道:N	上:POST	就是:C	特別:Vi	的:T	香:N	濃:Vi	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	加:Vt	
+了:Vt	比較:ADV	特殊:Vi	的:T	奶油:N	
+跟:P	以前:N	一般:ADV	吃:Vt	的:T	肉醬:N	都:ADV	不:ADV	太:ADV	一樣:Vi	
+偷吃:Vt	了:ASP	幾:DET	口:M	覺得:Vt	還:ADV	滿:ADV	好吃:Vi	的:T	XDD:FW	
+再:ADV	來:ADV	是:Vt	我:N	點:Vt	的:T	黑:Vi	菌菇:N	乳酪:N	雞肉:N	燉飯:Vt	
+$:FW	250:DET	
+這:DET	真的:ADV	好:ADV	好吃:Vi	呀:T	
+很少:ADV	吃到:Vt	這麼:ADV	對味:Vi	的:T	燉飯:Vt	
+一般:A	的:T	燉飯:Vt	容易:Vi	不:ADV	是:Vt	太:ADV	乾:Vi	就:ADV	是:Vt	太:ADV	濕:Vi	
+吃起來:ADV	很:ADV	倒胃:Vi	
+但:C	這邊:N	掌握:Vt	的:T	黏稠度:N	剛好:ADV	
+從:P	這:DET	照片:N	
+就:ADV	能:ADV	看出來:Vt	這:DET	比例:N	超讚:N	的:T	吧:T	
+果然:ADV	第:Vi	一口:ADV	就:ADV	讓:Vt	我:N	嚇:Vt	了:ASP	一:DET	跳:N	
+這:DET	黑:Vi	菌菇:N	跟:P	這:DET	燉飯:Vt	超:A	搭:Vt	的:T	
+搭上:Vt	原本:A	香氣:N	四溢:Vi	的:T	奶香:N	
+有夠:ADV	
+讚:Vi	的:T	
+另外:C	我們:N	也:ADV	加:Vt	點:M	了:ASP	起司:N	薯條:N	
+$:FW	120:DET	
+朋友:N	笑:Vi	著:ASP	說:Vt	：:COLONCATEGORY	
+起:Vt	司:N	加上:Vt	薯條:N	就:ADV	是:Vt	個:M	很:ADV	邪惡:Vi	的:T	組合:Nv	阿:N	
+我:N	也:ADV	很:ADV	認同:Vt	這:DET	句:M	話:N	
+超:Vt	邪惡:Vi	的:T	阿:N	
+原本:ADV	就:ADV	炸:Vt	的:T	酥脆:Vi	的:T	金黃:Vi	薯條:N	
+加上:C	濃郁:Vi	的:T	起:Vt	司:N	
+這:DET	比:P	
+蜂蜜:N	芥末醬:N	還:ADV	要:ADV	邪惡:Vi	阿:N	
+哈:ADV	哈哈:ADV	阿:Vi	
+這:DET	是:Vt	要:ADV	我們:N	怎麼:ADV	忍得住:Vt	呢:T	XDD:FW	
+最後:N	還:ADV	有:Vt	打卡:Vi	送:Vt	的:T	小:Vi	甜點:N	-:DASHCATEGORY	焦糖:N	烤布:N	蕾:N	
+真是:ADV	賺到:Vt	了:ASP	
+打:Vt	一:DET	個:M	卡:N	就:ADV	送:Vt	一:DET	個:M	甜點:N	
+要不是:C	有:Vt	來:ADV	這:DET	家:M	店:N	的:T	粉絲團:N	先:ADV	逛逛:Vt	
+還:ADV	不:ADV	知道:Vt	有:Vt	這:DET	優惠:Vt	呢:T	
+單:ADV	賣:Vt	一:DET	個:M	可是:C	要:ADV	$:FW	60:DET	元:M	呢:T	
+味道:N	也:ADV	相當:ADV	讚:Vi	唷:T	
+最後:N	跟:P	店家:N	拿:Vt	了:ASP	張:M	名片:N	
+這麼:ADV	優質:A	的:T	店:N	一定:ADV	要:ADV	推薦給:Vt	大家:N	的:T	呀:T	
+而且:C	我:N	還:ADV	沒有:ADV	吃到:Vt	聽說:Vt	CP:FW	值:N	更:ADV	高:Vi	的:T	蛋捲:N	阿:N	
+只有:C	早上:N	有:Vt	賣:Vt	
+下:DET	次:M	一定:ADV	還:ADV	會:ADV	再:ADV	來:ADV	這:DET	家:M	的:T	
+如果:C	覺得:Vt	文章:N	不錯:Vi	記得:Vt	點:Vt	石布:N	的:T	粉絲團:N	支持:Vt	一下:N	唷:T	
+^:FW	0:DET	^:FW	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/sputravel:FW	

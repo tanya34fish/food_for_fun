@@ -1,0 +1,39 @@
+standinghere:FW	(:PARENTHESISCATEGORY	南瓜:N	與:C	美乃滋:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	_:FW	chinchincafe:FW	,:COMMACATEGORY	遇見:Vt	蛋:N	奶舒:N	女孩:N	
+Mon:FW	
+May:FW	
+11:DET	
+09:DET	::COLONCATEGORY	33:DET	::COLONCATEGORY	52:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	chinchincafe:FW	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	03月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	光復南路:N	102:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	0287736601:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	–:FW	18:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	週六:N	10:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	20:DET	::COLONCATEGORY	00:DET	,:COMMACATEGORY	週日:N	公休:Vi	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	蛋:N	奶舒:N	女孩:N	
+【:PARENTHESISCATEGORY	部落格:N	完整:Vi	版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	standinghere.pixnet.net/blog/post:FW	/:FW	42333367:DET	】:PARENTHESISCATEGORY	
+chinchincafe:FW	
+原本:ADV	開:Vt	在:P	東區:N	後:POST	巷:N	
+年初:N	搬到:Vt	了:ASP	舊:Vi	華視:N	大樓:N	下:POST	
+位於:Vt	光復南路:N	與:C	忠孝路:N	口:N	附近:N	
+偶然:ADV	看到:Vt	網友:N	的:T	食記:N	
+被:P	他們:N	推出:Vt	":FW	蛋:N	奶舒:N	女孩:N	":FW	吸引住:Vt	
+就:ADV	一直:ADV	想:Vt	著:ASP	要:ADV	去:ADV	吃:Vt	看看:ASP	...:ETCCATEGORY	
+好:Vi	吧:T	
+先後:N	吃:Vt	了:ASP	JamlingCafe:FW	
+Mee'scafe:FW	
+我:N	承認:Vt	那:DET	時期:N	對:P	這:DET	類:M	甜食:N	很:ADV	著迷:Vi	哈:ADV	哈哈:ADV	
+不過:C	
+chinchincafe:FW	
+搬家:Vi	後:POST	
+也許:ADV	配合:Vt	那邊:N	的:T	上班族:N	生態:N	
+或者:C	店主:N	也:ADV	想要:Vt	多:DET	些:M	生活:N	品質:N	
+平日:N	營業:Nv	時間:N	都:ADV	只:ADV	到:P	18:DET	::COLONCATEGORY	00:DET	
+只有:C	週六:N	會:ADV	開:Vt	到:P	晚上:N	八:DET	點:M	...:ETCCATEGORY	
+之所以:C	能夠:ADV	嚐到:Vt	還是:ADV	因為:C	新春:N	開工:Vi	那:DET	天:M	公司:N	提早:Vt	放:Vt	人:N	
+我:N	回家路:N	上:POST	突然:ADV	想起:Vt	
+便:ADV	一:DET	個:M	人:N	跑去:Vt	嚐嚐:Vt	了:ASP	哈哈:ADV	
+http:FW	::COLONCATEGORY	/:FW	/:FW	pic.pimg.tw/standinghere/1430798062-3507859869.jpg:FW	

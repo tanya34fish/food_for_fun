@@ -1,0 +1,138 @@
+supergodking:FW	(:PARENTHESISCATEGORY	累:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	LeTAO:FW	小:Vi	樽洋菓子鋪:N	來自:Vt	北海道:N	的:T	新鮮:Vi	
+Wed:FW	
+May:FW	
+13:DET	
+13:DET	::COLONCATEGORY	25:DET	::COLONCATEGORY	43:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	LeTAO:FW	小:Vi	樽洋菓子鋪松菸店:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	5月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	忠孝東路:N	四段:N	553巷:N	30:DET	號:M	(:PARENTHESISCATEGORY	近:DET	捷運:N	市政府:N	站:Vi	2:DET	號:M	出口:Nv	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2760:DET	-:DASHCATEGORY	2100:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	~:FW	20:DET	::COLONCATEGORY	00:DET	
+低消:N	::COLONCATEGORY	一:DET	杯:M	飲品:N	或:C	聖代:N	/:FW	人:N	
+價位:N	::COLONCATEGORY	約:ADV	250:DET	起:M	/:FW	人:N	
+網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	karenchang1981.pixnet.net/blog/post:FW	/:FW	282559243:DET	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+LeTAO:FW	小:Vi	樽洋菓子鋪:N	-:DASHCATEGORY	來自:Vt	北海道:N	的:T	新鮮:Vi	松菸:Vi	店:N	
+人:N	在:P	京都:N	時:POST	總:ADV	想:Vt	著:ASP	北海道:N	的:T	美食:N	
+回到:Vt	台灣:N	後:POST	知道:Vt	LeTAO:FW	小:Vi	樽洋菓子:N	鋪:Vt	在:P	松菸:Vi	附近:N	開店:Vi	
+立:Vt	馬:N	跑去:Vt	湊熱鬧:Vi	
+從:P	國父:N	紀念館:N	旁:N	逸仙:N	路:N	對面:N	的:T	巷子:N	走進去:Vi	
+走到:Vt	一半:DET	發現:Vt	...:ETCCATEGORY	天:M	啊:T	
+排隊:Vi	人龍:N	出現:Vi	了:T	...:ETCCATEGORY	
+不過:C	冷靜:Vi	一:ADV	看:Vt	
+發現:Vt	大排長龍:Vi	的:T	是:Vt	隔壁:N	的:T	好滴:Vi	咖啡:N	
+頓時:ADV	鬆:Vt	了:ASP	一口氣:ADV	
+到:Vt	的:T	時候:N	店家:N	還:ADV	未:ADV	開門:Vi	營業:Vi	
+但是:C	可以:ADV	先進:Vi	店裡:N	登記:Vt	名字:N	跟:P	電話:N	
+圖片:N	
+超:Vt	喜歡:Vt	LeTAO:FW	的:T	雙層:A	乳酪:N	蛋糕:N	
+是:Vt	我:N	心:N	中:POST	的:T	小:Vi	樽:N	必:ADV	吃:Vt	名:M	物:N	之:T	一:DET	
+圖片:N	
+好像:ADV	太:ADV	久:Vi	沒:ADV	去:Vt	北海道:N	玩:Vt	了:ASP	
+沒:Vt	follow:FW	到:P	出:Vt	了:ASP	好多:DET	點心:N	啊:T	
+圖片:N	
+這裡:N	還:ADV	有:Vt	販售:Vt	北海道:N	的:T	工藝品:N	
+不過:C	價值:N	不:ADV	斐:N	
+圖片:N	
+松菸店:N	的:T	風格:N	跟:P	姊妹店:N	中山北路:N	KONAYUKI:FW	粉雪:N	北海道:N	StyleCaf:FW	é:FW	差不多:Vi	
+屬於:Vt	明亮:Vi	舒適:Vi	的:T	原木:N	風格:N	
+圖片:N	
+松菸店:N	跟:P	KONAYUKI:FW	粉雪:N	北海道:N	StyleCaf:FW	é:FW	相:N	比起來:ADV	
+有:Vt	米飯:N	套餐:N	
+但:C	沒有:Vt	三明治:N	
+而:C	飲料:N	及:C	甜點:N	則:ADV	差不多:Vi	
+圖片:N	
+來:ADV	用餐:Vi	兩:DET	次:M	
+第一:DET	次:M	只:ADV	有點:ADV	套餐:N	送:Vt	的:T	一:DET	片:M	餅乾:N	
+第二:DET	次:M	是:Vt	母親節:N	當天:N	用餐:Vi	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	母親節:N	關係:N	有:Vt	多:DET	送:Vt	一:DET	片:M	RueIRONAI:FW	白:Vi	巧克力:N	夾心:A	餅乾:N	
+圖片:N	
+4:DET	種:M	米飯:N	可:ADV	加:Vt	120:DET	元:M	升級:Vi	為:Vt	套餐:N	
+單片:N	的:T	莓果:N	鬆餅:N	+:FW	飲料:N	
+第一:DET	次:M	吃:Vt	的:T	是:Vt	陽光:N	漢堡:N	排飯:N	套餐:N	
+NTD:FW	360:DET	+:FW	120:DET	
+米飯:N	只:ADV	有:Vt	五穀米:N	
+沒有:Vt	白飯:N	可:ADV	選擇:Vt	
+旁邊:N	附有:Vt	生菜:N	沙拉:N	
+另:C	附:Vt	和風:N	沙拉醬:N	
+而:C	牛肉:N	漢堡:N	排:Vt	上面:N	有:Vt	一:DET	顆:M	漂亮:Vi	的:T	太陽:N	蛋:N	
+圖片:N	
+給:P	主角:N	漢堡:N	排:Vt	來:ADV	張:Vt	特寫:N	
+真:ADV	是:Vt	份量:N	十足:Vi	
+切開:Vt	時:POST	肉汁:N	就:ADV	像:Vt	個:M	小:Vi	噴泉:N	般:POST	的:T	湧出:Vi	
+真是:ADV	要:ADV	小心:Vt	燙口:Vt	啊:T	
+唯一:A	美中不足:Vi	的:T	是:Vt	
+漢堡:N	排:Vt	的:T	醬汁:N	酸酸:Vi	的:T	
+而:C	那:DET	酸味:N	又:ADV	正好:ADV	很:ADV	不得:ADV	我:N	歡心:N	...:ETCCATEGORY	個:M	人:N	認為:Vt	應該:ADV	是:Vt	調味:Vi	的:T	比例:N	問題:N	
+不然:C	這:DET	真是:ADV	令:Vt	人:N	銷魂:Vi	的:T	漢堡:N	排:Vt	
+圖片:N	
+第二:DET	次:M	用餐:Vi	原:ADV	想:Vt	選擇:Vt	歐風:N	烤:Vt	牛肉:N	歐姆:M	蛋:N	燴飯:N	
+不過:C	看到:Vt	菜單:N	上:N	這:DET	款:M	也:ADV	是:Vt	有:Vt	很多:DET	醬汁:N	
+為了:P	安全:Vi	起見:POST	先:ADV	詢問:Vt	過:ASP	服務:Nv	人員:N	醬汁:N	是否:ADV	同:Vt	陽光:N	漢堡:N	排飯:N	
+答案:N	是:Vt	::COLONCATEGORY	一樣:Vi	
+所以:C	改選:Vt	了:ASP	什錦:A	菇燉飯:N	套餐:N	
+NTD:FW	340:DET	+:FW	120:DET	
+烤:Vt	牛肉:N	被:P	捲成:Vt	一:DET	朵:M	玫瑰花:N	
+燉飯:Vt	帶有:Vt	點起司:N	的:T	香味:N	
+口感:N	濕潤:Vi	吃起來:ADV	清爽:Vi	不:ADV	膩:Vi	
+大推:Vt	
+圖片:N	
+圖片:N	
+套餐:N	飲料:N	有:Vt	咖啡:N	/:FW	紅茶:N	/:FW	柳橙汁:N	可:ADV	供:Vt	選擇:Vt	
+這:DET	次選:A	的:T	是:Vt	柳橙汁:N	
+喝:Vt	起來:ASP	普普通通:Vi	
+肯定:Vt	不:ADV	是:Vt	鮮榨:Vt	的:T	
+圖片:N	
+鬆餅:N	吃起來:ADV	就:ADV	是:Vt	綿密:Vi	鬆軟:Vi	的:T	雞蛋糕:N	
+由於:C	上面:N	淋:Vt	了:ASP	莓:b	果醬:N	吃起來:ADV	酸酸:Vi	的:T	不:ADV	甜:Vi	膩:Vi	
+可是:C	單片:N	鬆餅:N	因為:C	沒有:Vt	冰淇淋:N	
+顯得:Vt	醬汁:N	有點:ADV	太:ADV	酸:Vi	反而:C	缺乏:Vt	吃:Vt	甜點:N	的:T	滿足感:N	
+導致:Vt	完:Vt	食:N	後:POST	有:Vt	那麼:ADV	點:Vt	不:ADV	滿足:Vt	
+圖片:N	
+套餐:N	贈送:Vt	的:T	餅乾:N	
+兩:DET	次:M	翻:Vt	過去:N	一:ADV	看:Vt	都:ADV	是:Vt	隔:P	天:N	就:ADV	過:Vt	賞:Vt	味:N	期限:N	的:T	...:ETCCATEGORY	OH:FW	
+那:DET	種:M	感覺:N	...:ETCCATEGORY	我:N	想:Vt	大家:N	都:ADV	知道:Vt	的:T	
+圖片:N	
+綜合:A	水果:N	雙:A	味:N	乳酪:N	蛋糕:N	
+NTD:FW	250:DET	
+這:DET	是:Vt	LeTAO:FW	必:ADV	吃:Vt	的:T	經典:N	啊:T	
+乳酪:N	蛋糕:N	是:Vt	一:DET	層:M	凍:Vt	乳酪:N	免烤:Vt	蛋糕:N	
+一:DET	層:M	乳酪:N	烤:Vt	蛋糕:N	
+細膩:Vi	滑順:N	
+入口:N	即:ADV	化:Vi	的:T	口感:N	
+回想:Vt	起來:ASP	口水:N	都:ADV	要:ADV	流出來:Vi	了:ASP	
+在:P	台灣:N	的:T	乳酪:N	蛋糕盤:N	有:Vt	北海道:N	澤西:N	牛:N	牛乳:N	霜淇淋:N	
+我:N	特:ADV	愛:Vt	這:DET	款:M	霜淇淋:N	
+吃起來:ADV	是:Vt	濃郁:Vi	的:T	起:Vt	司:N	牛奶:N	霜淇淋:N	的:T	味道:N	
+圖片:N	
+綜合:A	水果:N	聖代:N	
+NTD:FW	220:DET	
+是:Vt	維他命:N	滿滿:Vi	的:T	健康:Nv	聖代:N	
+上面:N	有:Vt	一:DET	球:N	香草:N	冰淇淋:N	
+下面:N	有一點點:ADV	像:Vt	是:Vt	北海道:N	澤西:N	牛:N	牛乳:N	霜淇淋:N	的:T	部分:DET	
+還:ADV	有:Vt	滿滿:Vi	的:T	水果:N	及:C	一些:DET	玉米片:N	
+圖片:N	
+圖片:N	
+宇治金:N	時:POST	聖代:N	
+NTD:FW	220:DET	
+滿滿:Vi	的:T	北海道:N	澤西:N	牛:N	牛乳:N	霜淇淋:N	
+配料:N	有有:Vi	白玉:N	
+栗子:N	及:C	紅豆:N	餡:N	外加:Vt	兩:DET	根:M	巧克力:N	棒:Vi	
+底下:N	有:Vt	玉米片:N	
+紅豆:N	餡:N	及:C	抹茶:N	凍:Vt	
+多層次:N	的:T	口感:N	吃起來:ADV	超過:Vt	癮:N	
+圖片:N	
+圖片:N	
+心得:N	::COLONCATEGORY	
+來:ADV	LeTAO:FW	用餐:Nv	讓:Vt	人:N	有:Vt	回到:Vt	北海道:N	的:T	感覺:N	
+餐點:N	皆:ADV	有:Vt	水準:N	之上:POST	的:T	表現:N	
+不過:C	缺點:N	是:Vt	鹹食:N	只:ADV	有:Vt	四:DET	款:M	
+單:ADV	點:Vt	蛋糕:N	
+鬆餅:N	或:C	沙拉:N	又:ADV	必須:ADV	要:ADV	加:Vt	點:M	飲料:N	
+不過:C	店:N	內:N	還是:ADV	挺:ADV	療癒:Vi	的:T	有:Vt	機會:N	還是:ADV	可以:ADV	來:ADV	用餐:Vi	
+若:C	預算:N	不:ADV	夠:Vi	的:T	話:N	
+也:ADV	可以:ADV	外帶:Vt	乳酪:N	蛋糕:N	回家:Vi	享用:Vt	
+兩:DET	次:M	到:Vt	松菸店:N	都:ADV	沒:ADV	看到:Vt	我:N	最愛:N	的:T	LeTAO:FW	的:T	白:Vi	葡萄酒:N	生:Vt	巧克力:N	
+希望:Vt	松菸店:N	也:ADV	可以:ADV	引進:Vt	這:DET	款:M	人氣:N	巧克力:N	喔:T	

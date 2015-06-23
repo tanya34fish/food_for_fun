@@ -1,0 +1,121 @@
+windfree:FW	(:PARENTHESISCATEGORY	小:Vi	宅:N	檸檬:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	口吉:N	口吉:N	韓國:N	料理:N	
+Wed:FW	
+Feb:FW	
+18:DET	
+01:DET	::COLONCATEGORY	41:DET	::COLONCATEGORY	18:DET	
+2015:DET	
+餐廳:N	名稱:N	｜:FW	口吉:N	口:N	吉韓式:A	料理:N	
+地址:N	｜:FW	台北市:N	光復南路:N	308巷:N	22:DET	號:M	
+捷運:N	｜:FW	捷運:N	【:PARENTHESISCATEGORY	國父:N	紀念館:N	站:Vi	】:PARENTHESISCATEGORY	2:DET	號:M	出口:Nv	，:COMMACATEGORY	往:P	仁愛路:N	方向:N	走:Vi	
+電話:N	｜:FW	02:DET	-:DASHCATEGORY	2741:DET	-:DASHCATEGORY	7672:DET	
+營業:Nv	時間:N	｜:FW	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	30:DET	，:COMMACATEGORY	17:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+可否:ADV	刷卡:Vi	｜:FW	可:ADV	
+服務費:N	｜:FW	有:Vt	，:COMMACATEGORY	10:DET	%:M	
+推薦:Vt	菜色:N	｜:FW	烤:Vt	五花肉:N	、:PAUSECATEGORY	銅盤:N	豬肉:N	、:PAUSECATEGORY	石鍋:N	拌:Vt	飯:N	、:PAUSECATEGORY	酒釀:N	、:PAUSECATEGORY	冰:N	柚子茶:N	
+消費:N	時間:N	｜:FW	104年:N	2月:N	
+消費:N	金額:N	｜:FW	1980:DET	元:M	/:FW	4:DET	人:N	(:PARENTHESISCATEGORY	套餐:N	換:Vt	部隊:N	鍋:N	+:FW	100:DET	元:M	):PARENTHESISCATEGORY	
+圖文:N	網誌:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	evisko.pixnet.net/blog/post:FW	/:FW	264524233:DET	
+過年:Vi	前:POST	與:P	前:DET	同事:N	們:N	相約:Vi	聚餐:Vi	
+這:DET	次:M	來到:Vt	
+口:N	吉:Vi	口:M	吉韓式:A	料理:N	
+是:Vt	這:DET	個:M	月:N	不斷:ADV	重複:Vt	的:T	對:P	韓式:N	料理:N	的:T	執念:N	
+不過:C	是:Vt	大家:N	投票:Vi	表決:Vt	的:T	啦:T	
+再:ADV	多:ADV	吃:Vt	幾:DET	間:M	應該:ADV	就:ADV	可以:ADV	直接:Vi	開:Vt	個:M	評比:Nv	專題:N	了:T	XD:FW	這裡:N	是:Vt	以:P	烤肉:N	、:PAUSECATEGORY	部隊:N	鍋:N	為主:Vi	
+看店:Vi	外:POST	就:ADV	知道:Vt	是:Vt	都:ADV	會:ADV	風格:N	
+也:ADV	就是:C	裝潢:Vt	得:T	比較:ADV	精美:Vi	
+內裝:N	也:ADV	是:Vt	
+比起:P	一般:A	的:T	韓式:N	料理:N	
+這裡:N	的:T	裝潢:N	真的:ADV	比較:Vt	時尚:N	些:ADV	
+非常:ADV	符合:Vt	東區:N	的:T	氣氛:N	
+因為:C	我們:N	共有:Vt	八:DET	人:N	被:P	分成:Vt	兩:DET	桌:M	
+就:ADV	各自:N	點:Vt	了:ASP	SEOUL:FW	套餐:N	來:ADV	吃:Vt	
+不要:ADV	看:Vt	這些:DET	好像:ADV	品:Vt	項:M	不:ADV	多:Vi	
+其實:ADV	吃完:Vt	後:POST	會:ADV	讓:Vt	人:N	飽:Vi	到:Vt	頭頂:N	
+當時:N	
+傑西:N	告訴:Vt	我們:N	會:ADV	很:ADV	飽:Vi	的:T	時候:N	
+我們:N	還:ADV	滿:Vt	臉:N	不:ADV	相信:Vt	
+深信:Vt	等一下:ADV	一定:ADV	會:ADV	再:ADV	加:Vt	點:M	
+沒道理:Vi	我們:N	上:DET	次:M	在:P	HoneyPig:FW	吃到:Vt	2800多:DET	元:M	卻:ADV	不會:ADV	飽:Vi	
+這裡:N	1880:DET	元:M	會:ADV	飽:Vi	到:Vt	頭頂:N	
+是:Vt	不:ADV	是:Vt	
+▲:FW	酒釀:N	、:PAUSECATEGORY	冰:N	柚子茶:N	我們:N	選擇:Vt	冰飲:Vt	先:ADV	上:Vt	
+左邊:N	的:T	酒釀:N	超:Vt	推:Vt	
+其實:ADV	沒:Vt	甚麼:DET	酒味:N	比較:ADV	像:Vt	薏米:N	水:N	
+冰冰涼涼:Vi	的:T	搭配:Nv	熱:N	呼呼:ADV	的:T	韓式:N	料理:N	相當:ADV	對味:Vi	
+建議:Vt	必:ADV	點:Vt	
+▲:FW	銅盤:N	豬肉:N	這裡:N	的:T	豬肉:N	是:Vt	道地:Vi	韓式:N	做法:N	
+只要:C	醃:Vt	漬:N	的:T	味道:N	不錯:Vi	就是:C	最:ADV	好吃:Vi	的:T	
+韓國:N	烤肉:N	就:ADV	是:Vt	要:ADV	烤成:Vt	這樣:Vi	一塊塊:DET	的:T	才:ADV	好吃:Vi	
+這裡:N	的:T	銅盤烤:Vt	豬肉:N	很:ADV	入:Vt	味:N	
+味道:N	不錯:Vi	
+▲:FW	部隊:N	鍋加:N	100:DET	元:M	可以:ADV	將:P	湯類:N	換成:Vt	部隊:N	鍋:N	
+部隊:N	鍋:N	是:Vt	一:DET	種:M	類似:Vt	西式:A	雜鍋:N	的:T	韓國:N	濃湯:N	火鍋:N	
+看:Vt	名字:N	就:ADV	知道:Vt	跟:P	戰爭:N	有關:Vt	
+沒:ADV	錯:Vi	
+部隊:N	鍋:N	之所以:C	會:ADV	那麼:ADV	像:Vt	大雜燴:N	
+其實:ADV	也:ADV	是:Vt	因為:C	戰爭:N	時:POST	物資:N	缺乏:Vt	
+所以:C	才:ADV	會:ADV	出現:Vi	這:DET	種:M	將:P	所有:DET	食材:N	丟進:Vt	鍋:N	中:POST	的:T	料理:N	
+味道:N	其實:ADV	還:ADV	不錯:Vi	
+但是:C	也:ADV	沒有:Vt	特別:Vi	驚豔:Vi	
+倒是:ADV	裡面:N	的:T	馬鈴薯:N	跟:P	香腸:N	頗:ADV	得:Vt	我:N	心:N	
+部隊:N	鍋:N	除了:P	用料:N	豐盛:Vi	
+還:ADV	附上:Vt	麵條:N	讓:Vt	我們:N	搭配:Vt	
+吃:Vt	這:DET	一:DET	鍋:M	下去:Vt	我:N	看:Vt	沒:ADV	飽:Vi	的:T	也:ADV	不:ADV	多:Vi	了:T	
+部隊:N	鍋:N	的:T	料:N	大致上:ADV	是:Vt	這些:DET	
+火腿肉:N	、:PAUSECATEGORY	香腸:N	、:PAUSECATEGORY	金針菇:N	、:PAUSECATEGORY	馬鈴薯:N	等等:POST	
+▲:FW	石鍋:N	拌:Vt	飯:N	相較:Vi	於:P	石鍋:N	拌:Vt	飯:N	
+我:N	比較:ADV	愛:Vt	烤:Vt	肉:N	拌:Vt	飯:N	
+因為:C	我:N	不:ADV	是:Vt	很:ADV	愛:Vt	鍋巴飯:N	生硬:Vi	的:T	口感:N	
+不過:C	
+這裡:N	的:T	石鍋:N	拌:Vt	飯:N	很:ADV	夠味:Vi	
+辣:Vi	得:T	很:ADV	過癮:Vi	
+加上:C	有:Vt	很多:DET	食材:N	
+所以:C	吃:Vt	了:ASP	特有:A	飽足感:N	
+雖然:C	是:Vt	四:DET	個:M	人:N	分:Vt	著:ASP	吃:Vt	
+不過:C	真的:ADV	很:ADV	飽:Vi	啊:T	
+但:C	又:ADV	很:ADV	好吃:Vi	想:Vt	一直:ADV	吃:Vt	
+好:ADV	病態:Vi	啊:T	
+▲:FW	海鮮:N	煎餅:N	這裡:N	的:T	海鮮:N	煎餅:N	海鮮:N	料:N	蠻:ADV	多:Vi	很:ADV	實在:Vi	
+口感:N	有點:ADV	像:Vt	較:ADV	薄:Vi	的:T	蘿蔔糕:N	
+不:ADV	是:Vt	說:Vt	它:N	不:ADV	好吃:Vi	
+而是:C	覺得:Vt	這樣:Vi	的:T	稍:ADV	軟:Vi	口感:N	很:ADV	微妙:Vi	
+相較:Vi	起來:ASP	我:N	仍:ADV	是:Vt	喜歡:Vt	韓國:N	嬤嬤:N	烤肉:N	的:T	海鮮:N	煎餅:N	
+比較:ADV	厚:Vi	實有:Vt	麵香:N	
+▲:FW	烤:Vt	五花肉:N	入:Vt	味:N	又:ADV	燒烤:Vt	得宜:Vi	的:T	五花肉:N	
+搭配:Vt	豆芽菜:N	是:Vt	相當:ADV	對味:Vi	又:ADV	好吃:Vi	
+雖然:C	五花肉:N	真的:ADV	很:ADV	油:Vi	
+但:C	大:Vi	口:N	吃:Vt	肉:N	不:ADV	就是:C	要:ADV	這樣:Vi	的:T	爽快:Vi	感:Vt	嗎:T	
+暫時:ADV	把:P	肥胖:Vi	拋諸:Vt	腦:N	外:N	吧:T	
+一定:ADV	要:ADV	搭配:Vt	生菜:N	來:ADV	吃:Vt	才:ADV	算是:Vt	吃:Vt	過:ASP	韓國:N	烤肉:N	
+雖然:C	我:N	不能:ADV	妄言:Vi	何謂:Vt	道地:Vi	韓食:N	
+但是:C	詢問:Vt	去:ADV	過:Vt	韓國:N	的:T	朋友:N	都:ADV	紛紛:ADV	表示:Vt	
+在:P	韓國:N	吃:Vt	烤肉:N	的確:ADV	是:Vt	有:Vt	搭配:Nv	生菜:N	的:T	
+這裡:N	除了:P	辣醬:N	
+還:ADV	附上:Vt	蒜片:N	
+一起:ADV	搭:Vt	著:ASP	吃:Vt	又:ADV	辣:Vi	又:C	香:N	又:ADV	嗆:Vi	
+只:ADV	能:ADV	說:Vt	爽:Vi	啦:T	
+▲:FW	鍋蒸:N	蛋:N	我:N	對:P	滑嫩:Vi	的:T	蒸蛋:N	沒有:Vt	偏執:Nv	
+只要:C	是:Vt	蛋類:N	料理:Vt	我:N	都:ADV	特:ADV	愛:Vt	
+這:DET	道:M	鍋蒸:N	蛋:N	沒有:ADV	很:ADV	華麗:Vi	豐富:Vt	的:T	味道:N	
+但是:C	底部:N	仍:ADV	有:Vt	鍋蒸:N	蛋:N	特色:N	的:T	鍋巴:N	
+一:DET	邊:N	還:ADV	能:ADV	吃到:Vt	些微:A	焦香:N	
+也:ADV	算是:Vt	韓式蒸:N	蛋:N	的:T	一:DET	大:Vi	特色:N	
+還:ADV	在:P	讚嘆:Vt	蒸:Vt	蛋:N	的:T	我們:N	
+才:ADV	聊:Vt	了:ASP	一:DET	分鐘:M	
+回頭:ADV	看:Vt	蒸:Vt	蛋:N	已經:ADV	剩下:Vt	一半:DET	不禁:Vt	大驚:Vi	
+唉唷:T	
+原來:ADV	是:Vt	像:P	舒芙蕾:N	一樣:Vi	會:ADV	消風:Vi	啊:T	
+還是:ADV	熱熱:Vi	吃:Vt	最:ADV	好吃:Vi	
+整體:N	而言:Vt	
+在:P	口:N	吉:Vi	口:N	吉:Vi	吃:Vt	得:T	非常:ADV	開心:Vi	
+這裡:N	的:T	服務:Nv	很:ADV	積極:Vi	也:ADV	重視:Vt	客人:N	需求:N	
+東西:N	好吃:Vi	
+是:Vt	一:DET	間:M	消費:Vi	起來:ASP	讓:Vt	人:N	覺得:Vt	剛剛好:ADV	的:T	餐廳:N	
+吃:Vt	東西:N	真的:ADV	不:ADV	需要:Vt	很多:DET	噱頭:N	或是:C	廣告:N	
+只要:C	菜色:N	不錯:Vi	也:ADV	不:ADV	用到:Vt	珍饈:N	海味:N	
+這樣:Vi	簡簡單單:Vi	的:T	餐廳:N	也:ADV	能:ADV	讓:Vt	大家:N	歡聚:Vt	一:DET	堂:M	
+吃:Vt	得:T	盡興:Vi	又:ADV	開心:Vi	
+如果:C	想要:Vt	吃:Vt	間:POST	氣氛:N	不錯:Vi	又:ADV	好:Vi	味道:N	的:T	韓式:N	料理:N	
+小:Vi	宅:N	檸檬:N	肯定:Vt	會:ADV	第一:DET	個:M	推薦:Vt	這裡:N	
+--:DASHCATEGORY	如果:C	我:N	真的:ADV	愛:Vt	過:ASP	你我:N	就:ADV	不會:ADV	忘記:Vt	當然:ADV	我:N	還是:ADV	得:ADV	不動聲色:Vi	地:T	走下去:Vi	說:Vt	這:DET	天氣:N	真:ADV	好:Vi	風:N	又:ADV	輕柔:Vi	還:ADV	能:ADV	在:P	斜陽:N	裏:N	疲倦:Vi	地:T	微笑:N	說:Vt	人生:N	極:ADV	平凡:Vi	也:ADV	沒有:Vt	什麼:DET	波折:N	和:C	憂愁:Nv	可是:C	如果:C	我:N	真的:ADV	愛:Vt	過:ASP	你我:N	就:ADV	不:ADV	會:ADV	忘記:Vt	就是:C	在:P	這:DET	個:M	十字路口:N	年輕:Vi	的:T	你我:N	曾:ADV	揮手:Vi	從此:ADV	分離:Vt	--:DASHCATEGORY	

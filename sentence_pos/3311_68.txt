@@ -1,0 +1,32 @@
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	中山北路:N	二段:N	52:DET	號:M	
+平均:Vi	價位:N	：:COLONCATEGORY	下午茶:N	540:DET	，:COMMACATEGORY	服務費:N	10:DET	%:M	另:DET	計:N	
+這:DET	家:M	店:N	的:T	位子:N	很:ADV	好:Vi	找:Vt	
+就:ADV	在:P	中山北路:N	上:N	
+但:C	離:P	捷運:N	有:Vt	一:DET	小:Vi	段:M	距離:N	
+服務:Nv	人員:N	也:ADV	主動:Vi	的:T	幫:P	我們:N	更換到:Vt	樓上:N	
+另外:C	這邊:N	也:ADV	有:Vt	靠:Vt	窗:N	的:T	選擇:N	
+如果:C	想:Vt	一:DET	邊:N	悠閒:Vi	的:T	用餐:Nv	一:DET	邊:N	放空:Vi	看:Vt	著:ASP	窗:N	外:POST	
+果然:ADV	好吃:Vi	
+蝦子:N	也:ADV	是:Vt	飽滿:Vi	又:ADV	新鮮:Vi	
+聽說:Vt	以前:N	CP:FW	更:ADV	高:Vi	的:T	時候:N	還:ADV	有:Vt	甜蝦:N	
+我:N	更:ADV	喜歡:Vt	這:DET	極:ADV	黑豬:N	
+看:Vt	廚師:N	現:ADV	切:Vt	就:ADV	快:ADV	流:Vt	口水:N	了:T	
+那:DET	油花:N	均勻:Vi	的:T	橫切面:N	加上:C	烤:Vt	的:T	酥脆:Vi	的:T	表皮:N	
+因為:C	極:ADV	黑豬:N	太:ADV	好吃:Vi	了:T	
+味道:N	還:ADV	不:ADV	賴:Vt	
+燈光:N	打下來:Vi	甚麼:DET	菜:N	拍:Vt	起來:ASP	都:ADV	好:ADV	可口:Vi	阿:N	
+味道:N	算:Vt	清淡:Vi	但:C	又:ADV	有:Vt	入:Vt	味:N	
+一點:DET	也:ADV	不會:ADV	死:Vi	鹹:Vi	
+好吃:Vi	
+但:C	口感:N	是:Vt	我:N	的:T	菜:N	
+專人:N	替:P	你:N	服務:Vt	
+不:ADV	賴:Vt	吧:T	
+大推:Vt	可:ADV	爾:N	必:ADV	思沙瓦:N	
+不過:C	我:N	還是:ADV	很:ADV	滿意:Vt	這:DET	次:M	的:T	用餐:Nv	經驗:N	啦:T	
+是:Vt	不:ADV	是:Vt	看起來:ADV	超:Vt	可口:Vi	阿:N	
+超:Vt	對:P	我:N	的:T	味:N	
+也:ADV	還:ADV	算:Vt	可口:Vi	
+最後:N	就是:C	有:Vt	專人:N	幫:P	你:N	服務:Vt	的:T	冰淇淋:N	啦:T	
+味道:N	不:ADV	賴:Vt	
+出乎意料:Vi	的:T	順口:Vi	
+好吃:Vi	

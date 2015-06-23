@@ -1,0 +1,31 @@
+belongings(taichung:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	抱怨:Vt	]:PARENTHESISCATEGORY	bellinipasta:FW	台北:N	忠孝店:N	
+Mon:FW	
+Aug:FW	
+4:DET	
+23:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	15:DET	
+2014:DET	
+抱怨:Vt	
+bellinipasta:FW	台北:N	忠孝店:N	
+MonAug:FW	423:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	152014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	BelliniPasta:FW	
+忠孝店:N	
+消費:N	時間:N	：:COLONCATEGORY	02082014:DET	
+事發:Vi	經過:N	：:COLONCATEGORY	吃完:Vt	蝦仁:N	青醬:N	義大利麵:N	
+才:ADV	發現:Vt	裡面:N	沒有:ADV	加:Vt	蝦仁:N	
+跟:P	服務生:N	反應:N	後:POST	
+說:Vt	要:ADV	補:Vt	我們:N	一:DET	盤:M	炒:Vt	蝦仁:N	.......:ETCCATEGORY	
+這:DET	就:ADV	有點:ADV	像:Vt	蛋炒飯:N	沒:ADV	加:Vt	蛋:N	
+事:N	後:POST	說:Vt	我:N	補:Vt	你:N	蛋:N	一樣:Vi	好笑:Vi	
+原本:ADV	服務生:N	只有:ADV	說:Vt	要:ADV	補:Vt	一:DET	盤:M	蝦仁:N	
+後來:N	經理:N	請:Vt	了:ASP	三:DET	杯:M	繽紛:Vi	檸檬:N	漾:Vi	
+我:N	以前:N	在:P	別:DET	家:N	分店:N	點:Vt	過:ASP	繽紛:Vi	檸檬:N	漾:Vi	
+店員:N	說:Vt	可以:ADV	無限:Vi	續杯:Vi	.....:ETCCATEGORY	
+再:ADV	來:ADV	就是:C	發現:Vt	帳單:N	上:POST	竟然:ADV	被:P	多:DET	加:Vt	了:ASP	這:DET	三:DET	杯:M	飲料:N	的:T	錢:N	......:ETCCATEGORY	
+這:DET	不:ADV	是:Vt	要:ADV	請:Vt	我們:N	喝:Vt	的:T	嗎:T	
+跟:P	服務生:N	反應:N	後:POST	才:ADV	被:P	刪除:Vt	......:ETCCATEGORY	
+幸好:ADV	我:N	有:Vt	仔細:Vi	看:Vt	帳單:N	
+帳單:N	上:N	的:T	餐點:N	名稱:N	都:ADV	是:Vt	英文:N	
+懶得:Vt	看:Vt	的:T	人:N	可能:ADV	會:ADV	不:ADV	小心:Vt	多:ADV	付:Vt	了:ASP	飲料:N	錢:N	
+出:Vt	了:ASP	這:DET	一連串:A	的:T	狀況:N	竟然:ADV	還:ADV	被:P	收:Vt	服務費:N	
+我:N	超:Vt	不:ADV	爽:Vi	的:T	啦:T	

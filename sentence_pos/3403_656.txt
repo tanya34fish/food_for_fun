@@ -1,0 +1,152 @@
+saliha(saliha:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山:N	站:Vi	*:FW	稻禾:N	烏龍麵:N	~:FW	平價:N	明:Vi	太子:N	烏龍麵:N	
+Fri:FW	
+Aug:FW	
+8:DET	
+22:DET	::COLONCATEGORY	56:DET	::COLONCATEGORY	21:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	稻禾:N	烏龍麵:N	
+消費:N	時間:N	：:COLONCATEGORY	103年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山北路:N	二段:N	16巷:N	21:DET	號:M	(:PARENTHESISCATEGORY	近:DET	捷運:N	中山:N	站:Vi	2:DET	號:M	出口:Nv	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2536:DET	-:DASHCATEGORY	2828:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週日:N	至:P	週四:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	
+週五:N	、:PAUSECATEGORY	週六:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	150:DET	~:FW	200:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	炸雞:N	明:Vi	太子:N	烏龍:N	麵柚香:N	蘿蔔:N	
+網誌:N	圖文:N	無:Vt	音樂版:N	內:N	有:Vt	菜單:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	saliha.pixnet.net/blog/post:FW	/:FW	383749589:DET	
+雖然:C	是:Vt	在:P	熱鬧:Vi	的:T	中山:N	站:N	一帶:N	
+但:C	位於:Vt	巷弄:N	中:POST	的:T	稻禾:N	烏龍麵:N	
+入夜:Vi	後:POST	
+週遭:N	環境:N	還:ADV	蠻:ADV	安靜:Vi	的:T	
+這:DET	間:M	店:N	極:ADV	具:Vt	日式:A	風情:N	
+門口:N	的:T	樹木:N	及:C	流水:N	造景:N	更:ADV	增添:Vt	了:ASP	這:DET	種:M	情調:N	
+內部:N	則:ADV	是:Vt	相當:ADV	平民化:Vt	的:T	陳設:N	
+簡單:Vi	的:T	長:Vi	排:Vt	桌椅:N	
+空間:N	也:ADV	不:ADV	算:Vt	大:Vi	
+但:C	客人:N	很多:DET	
+有:Vt	些:M	擁擠:Vi	
+入門:Nv	店員:N	帶:Vt	入座:Vi	後:POST	
+要:ADV	自行:ADV	到:P	櫃檯:N	點:Vt	餐:N	
+所以:C	呢:T	
+好不容易:ADV	被:P	分到:Vt	的:T	位子:N	
+記得:Vt	要:ADV	放:Vt	些:M	不:ADV	貴重:Vi	的:T	物品:N	佔據:Vt	一下:N	
+以免:C	下:DET	一:DET	組:M	客人:N	以為:Vt	沒:Vt	人:N	就:ADV	入座:Vi	了:ASP	
+門:N	外:POST	就:ADV	可以:ADV	看到:Vt	的:T	透明:Vi	隔間:N	
+這裡:N	有:Vt	師父:N	現:ADV	做:Vt	烏龍麵:N	喔:T	
+用餐:Vi	的:T	時候:N	我們:N	剛好:ADV	坐:Vi	在:P	隔間:Vi	的:T	後方:N	
+就:ADV	一直:ADV	聽見:Vt	師父:N	
+豆:N	豆豆:N	
+的:T	切麵:N	聲音:N	
+稻禾:N	烏龍:N	麵:N	採:Vt	自助式:N	的:T	點餐:N	方式:N	
+入座:Vi	後:POST	就:ADV	可以:ADV	到:Vt	點餐區:N	點餐:N	了:ASP	
+取:Vt	了:ASP	托盤:N	後:POST	
+如果:C	看到:Vt	檯面:N	上:N	有:Vt	喜歡:Vt	的:T	小菜:N	、:PAUSECATEGORY	炸:Vt	物:N	或是:C	飲料:N	等:POST	
+就:ADV	放入:Vt	自己:N	的:T	托盤:N	
+炸:Vt	物:N	都:ADV	是:Vt	現:ADV	炸:Vt	的:T	
+所以:C	也:ADV	有:Vt	可能:ADV	排到:Vt	拿:Vt	炸:Vt	物:N	的:T	時候:N	卻:ADV	發現:Vt	檯面:N	上:N	空空如也:Vi	
+因為:C	被:P	拿光:N	了:T	XD:FW	
+像:P	我們:N	這:DET	天:M	就是:C	這:DET	種:M	狀況:N	
+這:DET	時候:N	可以:ADV	在:P	最後:N	點餐:N	時:POST	跟:P	店員:N	講:Vt	
+要:ADV	補加:Vt	哪:DET	種:M	炸:Vt	物:N	
+店員:N	就:ADV	會:ADV	幫忙:Vt	處理:Vt	
+炸:Vt	物像:N	是:Vt	炸:Vt	竹輪:N	、:PAUSECATEGORY	炸:Vt	地瓜:N	、:PAUSECATEGORY	炸雞:N	、:PAUSECATEGORY	野菜:N	可樂餅:N	、:PAUSECATEGORY	炸:Vt	大蝦:N	等等:POST	
+價格:N	都:ADV	不會:ADV	太:ADV	高:Vi	
+大約:ADV	在:P	40:DET	
+60:DET	之間:POST	
+除:P	炸:Vt	物:N	
+也:ADV	有:Vt	很多:DET	日式:A	小菜:N	可以:ADV	選擇:Vt	
+一樣:Vi	是:Vt	看到:Vt	喜歡:Vt	的:T	就:ADV	放入:Vt	托盤:N	中:N	囉:T	
+小菜:N	拿:Vt	完:Vi	
+就:ADV	會:ADV	進入:Vt	最後:N	的:T	烏龍:N	麵:N	點:N	餐拉:N	
+我:N	是:Vt	建議:Vt	進入點:N	烏龍麵:N	前:POST	可以:ADV	先:ADV	大概:ADV	想:Vt	一下:N	要:ADV	吃:Vt	什麼:DET	
+不然:C	現點現:N	想:Vt	
+如果:C	猶豫不決:Vi	
+後面:N	一:DET	堆:M	排隊:Vi	的:T	人:N	
+就:ADV	會:ADV	變:Vi	的:T	有點:ADV	緊張:Vi	
+我:N	真的:ADV	很:ADV	容易:Vi	緊張:Vi	XD:FW	
+選好:Vt	後:POST	
+店員:N	就:ADV	在:P	你:N	面前:N	現:ADV	作:Vt	餐點:N	囉:T	
+然後:ADV	就:ADV	可以:ADV	結帳:Vi	了:ASP	
+以下:N	來:ADV	看看:Vt	餐點:N	吧:T	
+小菜:N	們:N	這:DET	三:DET	樣:M	都:ADV	是:Vt	45:DET	元:M	
+稻禾:N	的:T	小菜:N	份量:N	還:ADV	挺:ADV	多:Vi	的:T	
+讓:Vt	人:N	很:ADV	滿意:Vt	
+尤其:ADV	我們:N	才:ADV	兩:DET	個:M	人:N	
+簡直:ADV	是:Vt	吃到:Vt	撐:Vt	XDDD:FW	
+泡菜:N	辣:Vi	了:ASP	一點:DET	
+但:C	算:Vt	蠻:ADV	有:Vt	層次:N	的:T	味道:N	
+芝麻:N	牛蒡:N	跟:P	柚香:N	蘿蔔:N	好吃:Vi	耶:T	
+牛蒡脆:N	中:POST	帶:Vt	嫩:Vi	
+拌:Vt	的:T	甘甜:Vi	甘甜:Vi	的:T	
+咬:Vt	起來:ASP	很:ADV	過癮:Vi	
+柚香:N	蘿蔔:N	也:ADV	沒:ADV	讓:Vt	我:N	失望:Vi	
+清脆:Vi	多汁:Vi	
+帶有:Vt	柚子:N	的:T	微微:A	清香:N	
+酸甜:Vi	開胃:Vi	
+其實:ADV	我:N	也:ADV	很:ADV	想:Vt	吃:Vt	梅漬:N	番茄:N	
+但:C	拿:Vt	太多:Vi	了:T	
+只好:ADV	下:DET	次:M	
+炸:Vt	竹輪:N	$:FW	40:DET	
+其實:ADV	這:DET	炸:Vt	竹輪:N	只有:ADV	一半:DET	喔:T	XDDDDDDDDDD:FW	不:ADV	是:Vt	一:DET	整:DET	支:M	
+但:C	吃起來:ADV	倒:ADV	還:ADV	不錯:Vi	
+雖然:C	炸:Vt	衣:N	也:ADV	有點:ADV	厚度:N	
+不過:C	因為:C	與:P	魚:N	漿:N	間:M	有:Vt	些:M	空隙:N	
+所以:C	咬:Vt	起來:ASP	十分:ADV	有:Vt	咬:Vt	感:N	
+蓬鬆:Vi	蓬鬆:Vi	的:T	很:ADV	好吃:Vi	
+也:ADV	不會:ADV	覺得:Vt	炸:Vt	衣:N	很:ADV	膩:Vi	
+吃起來:ADV	是:Vt	海苔:N	的:T	香味:N	
+很:ADV	清甜:Vi	
+炸:Vt	雞塊:N	$:FW	60:DET	
+這:DET	還:ADV	挺:ADV	熱門:Vi	的:T	耶:T	
+幾乎:ADV	每:DET	個:M	人:N	都:ADV	會:ADV	拿:Vt	
+所以:C	輪到:Vt	我們:N	的:T	時候:N	就:ADV	被:P	拿:Vt	光:N	了:T	
+但:C	前面:N	有:Vt	說:Vt	過:ASP	
+沒:ADV	拿到:Vt	也:ADV	沒關係:Vi	XD:FW	
+因為:C	還是:ADV	可以:ADV	跟:P	結帳:Vi	的:T	店員:N	追加:Vt	
+之後:N	會:ADV	補上:Vt	
+炸:Vt	雞塊:N	以:P	一:DET	串:M	的:T	方式:N	送上:Vt	
+其實:ADV	一:DET	串:M	大概:A	四塊:N	炸雞:N	
+不能:ADV	說:Vt	便宜:Vi	
+但:C	味道:N	真的:ADV	不錯:Vi	喔:T	
+炸:Vt	衣:N	厚:Vi	了:ASP	點:M	
+但:C	雞肉:N	很:ADV	嫩:Vi	
+而且:C	有:Vt	調味:Vi	過:ASP	
+所以:C	單:ADV	吃:Vt	也:ADV	很:ADV	鮮美:Vi	
+明:N	太子:N	烏龍麵:N	$:FW	160:DET	
+喔喔:ADV	
+明:N	太子:N	還給:Vt	的:T	蠻:ADV	大:Vi	球:N	耶:T	
+配料:N	很:ADV	簡單:Vi	的:T	是:Vt	蔥花:N	、:PAUSECATEGORY	海苔:N	絲:N	、:PAUSECATEGORY	溫泉:N	蛋:N	等:POST	
+但:C	加上:C	明:N	太子:N	整:DET	個:M	看起來:ADV	就:ADV	很:ADV	有:Vt	質感:N	
+而且:C	所有:DET	的:T	烏龍麵:N	裡面:N	
+只有:ADV	明:Vi	太子:N	這:DET	款:M	有:Vt	溫泉蛋:N	
+其他:DET	都:ADV	是:Vt	要:ADV	加價:Vi	才:ADV	有:Vt	
+有:Vt	明:Vi	太子:N	加持:Vt	下:POST	的:T	味道:N	果然:ADV	很:ADV	不錯:Vi	
+看:Vt	了:ASP	那:DET	晶瑩:Vi	橘亮:N	的:T	顏色:N	就:ADV	讓:Vt	人:N	垂涎:Vt	欲:Vt	滴:Vt	了:ASP	
+與:P	戳破:Vt	後:POST	的:T	溫泉:N	蛋:N	、:PAUSECATEGORY	海苔:N	、:PAUSECATEGORY	蔥花:N	等:POST	拌:Vt	在一起:Vi	
+麵:N	吃起來:ADV	也:ADV	充滿:Vt	明:Vi	太子:N	的:T	鮮味:N	與:C	各:DET	配料:N	的:T	香氣:N	
+好吃:Vi	好吃:Vi	
+我:N	覺得:Vt	160:DET	是:Vt	蠻:ADV	值得:Vi	的:T	
+不過:C	這:DET	碗:M	是:Vt	乾:Vi	的:T	
+沒有:Vt	湯:N	
+蒜香:N	牛肉:N	烏龍麵:N	$:FW	165:DET	
+這:DET	碗:M	則:ADV	是:Vt	湯麵:N	
+牛肉片:N	給:Vt	的:T	還:ADV	不少:Vi	
+牛肉:N	咬:Vt	起來:ASP	頗:ADV	肥:Vt	嫩:Vi	
+湯:N	喝:Vt	起來:ASP	十足:Vi	蒜香:N	
+還:ADV	頗:ADV	入:Vt	味:N	的:T	
+味道:N	比:P	明:N	太子:N	那:DET	碗:M	清淡:Vi	些:ADV	
+至於:P	最:ADV	重要:Vi	的:T	麵條:N	呢:T	
+麵量:N	不會:ADV	太少:Vi	
+不過:C	我:N	覺得:Vt	麵條:N	口感:N	好像:ADV	不如:Vt	我:N	預期:Vt	中:POST	的:T	好吃:Vi	耶:T	
+但:C	很:ADV	有:Vt	可能:ADV	是:Vt	因為:C	我:N	已經:ADV	很:ADV	習慣:Vt	也:ADV	更:ADV	愛:Vt	讚岐:N	烏龍麵:N	那:DET	種:M	Q:FW	到:P	彈:Vt	牙:N	的:T	口感:N	
+我:N	媽:N	很:ADV	常:ADV	煮:Vt	
+所以:C	相較:Vi	之下:POST	就:ADV	覺得:Vt	這:DET	咬:Vt	勁:N	還好:Vi	了:T	
+總結:Vt	
+價格:N	還:ADV	算:Vt	平價:N	
+而且:C	成品:N	也:ADV	跟:P	菜單:N	上:N	的:T	圖:N	長:Vi	的:T	差不多:Vi	
+但是:C	麵條:N	擺:Vt	得:T	不如:Vt	菜單:N	上:N	好看:Vi	XD:FW	
+小菜:N	份量:N	很:ADV	夠:Vi	
+整體:N	來:ADV	說:Vt	還:ADV	蠻:ADV	令:Vt	人:N	滿意:Vt	
+但:C	我:N	想:Vt	我:N	還是:ADV	會:ADV	等:Vt	不用:ADV	排隊:Vi	的:T	時間:N	再:ADV	來:ADV	吃:Vt	→:FW	超:Vt	討厭:Vt	排隊:Vi	
+還好:ADV	這:DET	次:M	不用:ADV	排:Vt	就:ADV	有:Vt	位子:N	

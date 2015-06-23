@@ -1,0 +1,135 @@
+yeahbonnie(bonnie:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	樂活:N	養生:Nv	健康:Nv	鍋:N	台北:N	光復南路:N	國父:N	紀念館:N	
+Fri:FW	
+Aug:FW	
+8:DET	
+20:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	19:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	樂活:N	養生:Nv	健康:Nv	鍋:N	光復:Vt	店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	08:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	光復南路:N	574:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2325:DET	-:DASHCATEGORY	3701:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	am-11pm:FW	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	220:DET	-:DASHCATEGORY	400:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+好讀圖:N	多:Vi	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	yeahbonnie0227.pixnet.net/blog/post:FW	/:FW	169542093:DET	
+以下:N	純:Vi	文字:N	
+夏天:N	的:T	台北:N	真的:ADV	是:Vt	一:ADV	走出:Vt	門:N	就:ADV	會:ADV	噴:Vt	汗:N	的:T	程度:N	
+中午:N	正:ADV	值:Vt	艷陽:N	高照:Vi	
+但:C	愛:Vt	吃:Vt	鍋:N	的:T	我:N	還是:ADV	跟:P	朋友:N	一:DET	家:M	走進:Vt	火鍋店:N	惹:Vt	
+樂活:N	養身:Nv	健康:Nv	鍋:N	-:DASHCATEGORY	光復:Vt	直營店:N	
+前:DET	幾:DET	天:M	朋友:N	說:Vt	這:DET	間:M	看似:Vt	不起眼:Vi	的:T	火鍋店:N	
+晚餐:N	時間:N	竟:ADV	有:Vt	人:N	在:P	外頭:N	排隊:Vi	
+決定:Vt	今天:N	來:ADV	吃:Vt	看看:ASP	一探究竟:Vi	
+位於:Vt	光復南路:N	上:N	的:T	火鍋店:N	
+相當:ADV	顯眼:Vi	
+捷運:N	搭:Vt	到:P	國父:N	紀念館:N	站:Vi	之後:POST	
+再:ADV	轉搭:Vt	公車:N	到:P	三:DET	張:M	梨:N	到站:Nv	就:ADV	到:Vt	店:N	唷:T	
+中午:N	近:DET	13:DET	：:COLONCATEGORY	00:DET	進去:Vi	
+客人:N	不:ADV	算:Vt	多:Vi	大約:ADV	16:DET	位:M	
+看來:ADV	台灣人:N	夏天:N	一樣:Vi	要:ADV	喝:Vt	熱騰騰:Vi	的:T	湯:N	所:ADV	言:Vt	不:ADV	假:Vi	
+位置:N	很多:DET	
+四:DET	人:N	以上:POST	兩:DET	人:N	都:ADV	有:Vt	
+兩:DET	人:N	的:T	多:DET	是:Vt	並排:Vi	坐:Vi	著:ASP	
+我們:N	今天:N	坐:Vi	在:P	靠:Vt	窗:N	的:T	位置:N	
+我:N	很:ADV	喜歡:Vt	這:DET	種:M	位置:N	
+不管:C	是:Vt	跟:P	朋友:N	還是:C	情人:N	
+都:ADV	可以:ADV	很:ADV	近:Vi	的:T	聊天:Vi	
+一:ADV	到:P	服務生:N	問:Vt	了:ASP	幾:DET	人:N	是否:ADV	共鍋:N	後:POST	就:ADV	會:ADV	先:ADV	上菜盤:N	
+南瓜:N	、:PAUSECATEGORY	香菇:N	、:PAUSECATEGORY	金針菇:N	、:PAUSECATEGORY	蝦子:N	、:PAUSECATEGORY	貢丸:N	、:PAUSECATEGORY	魚板:N	、:PAUSECATEGORY	半:DET	面:M	玉米:N	、:PAUSECATEGORY	蛋餃:N	、:PAUSECATEGORY	蒟蒻:b	、:PAUSECATEGORY	花椰菜:N	、:PAUSECATEGORY	芋頭:N	、:PAUSECATEGORY	高麗:N	
+菜:N	...:ETCCATEGORY	ETC:FW	..:ETCCATEGORY	
+還:ADV	有:Vt	裝:Vt	不:ADV	下:Vt	另外:ADV	裝:Vt	的:T	青江菜:N	
+有:Vt	蟲蟲:N	咬:Vt	的:T	痕跡:N	
+似乎:ADV	沒有:Vt	農藥:N	
+是:Vt	不:ADV	是:Vt	....:ETCCATEGORY	非常:ADV	多:Vi	
+而且:C	這:DET	家:M	有:Vt	一:DET	個:M	很:ADV	值得:Vi	鼓勵:Vt	的:T	地方:N	
+朋友:N	跟:P	我:N	都:ADV	有一點點:ADV	點:Vt	的:T	小:Vi	挑食:Vi	
+詢問:Vt	店員:N	能否:ADV	換:Vt	菜:N	盤:N	裡頭:N	的:T	某些:DET	小菜:N	
+店員:N	一口:ADV	答應:Vt	
+因此:C	我:N	把:P	一些:DET	我:N	不:ADV	吃:Vt	的:T	跟:P	他:N	換:Vt	了:ASP	花椰菜:N	
+看:Vt	了:ASP	看:Vt	菜單:N	選擇:Vt	很多:DET	
+除了:P	肉鍋:N	也:ADV	有:Vt	素食:N	鍋:N	
+我們:N	點:Vt	了:ASP	左下角:N	的:T	
+商業:N	午餐:N	
+雞肉:N	+:FW	麻辣:A	湯頭:N	與:C	
+牛肉:N	+:FW	養生:Nv	湯頭:N	
+還:ADV	沒:ADV	上菜:Vi	前:POST	先:ADV	看看:Vt	除了:P	肉:N	與:C	菜盤:N	外:POST	
+店:N	內:N	還:ADV	有:Vt	些:ADV	什麼:DET	副食:N	唷:T	
+六:DET	種:M	杜:N	老爺:N	冰淇淋:N	
+冰:N	的:T	除了:P	芬達:N	、:PAUSECATEGORY	雪碧:N	、:PAUSECATEGORY	可樂:N	等:POST	氣泡:N	飲料:N	
+還:ADV	有:Vt	醋:N	
+水密桃:N	與:C	多多:Vi	口味:N	
+熱:Vt	的:T	有:Vt	咖啡:N	與:C	茶:N	在:P	非:A	吃到:Vt	飽:Vi	的:T	火鍋店:N	中:N	
+飲料:N	選擇:Vt	非常:ADV	多:Vi	
+鹹:Vi	時:POST	的:T	話:N	
+有:Vt	一般:A	米飯:N	與:C	五穀飯:N	
+嫌:Vt	白飯:N	無聊:Vi	還:ADV	有:Vt	魯汁:N	讓:Vt	你:N	加:Vt	
+蛋:N	、:PAUSECATEGORY	各:DET	式:M	麵:N	通通:ADV	不用:ADV	錢:N	...:ETCCATEGORY	開始:Vt	理解為:Vt	什麼晚:N	上會:N	有:Vt	排隊:Nv	人潮:N	了:T	
+飯:N	後:POST	還:ADV	有:Vt	甜點:N	蛋糕:N	跟:P	水鍋:N	店家:N	實在:ADV	很:ADV	大方:Vi	....:ETCCATEGORY	
+醬料區:N	有:Vt	
+除了:P	一般:A	醬料:N	還:ADV	為了:P	素食:N	者:N	準備:Nv	素醬:N	非常:ADV	貼心:Vi	
+拍完:Vt	可以:ADV	上菜:Vi	囉:T	
+商業:N	午餐:N	雞肉:N	鍋:N	NT:FW	220:DET	+:FW	麻辣:A	湯頭:N	NT:FW	30:DET	
+湯頭:N	有:Vt	一般:A	湯頭:N	也:ADV	有:Vt	加價:Vi	湯頭:N	
+看:Vt	各自:N	喜好:Vt	
+洪:N	通通:ADV	的:T	麻辣湯:N	中:POST	
+有:Vt	辣椒:N	有:Vt	花椒:N	
+先:ADV	吃:Vt	了:ASP	青江菜:N	煮:Vt	沒:Vt	多:ADV	久:Vi	
+就:ADV	已經:ADV	吸:Vt	飽:Vi	麻辣:A	湯汁:N	
+不用:ADV	沾醬:N	就:ADV	有:Vt	辣味:N	以及:C	花椒:N	麻味:N	相當:ADV	過癮:Vi	
+我:N	喜歡:Vt	先:ADV	煮完:Vt	青菜:N	後:POST	在:P	放:Vt	肉盤:N	
+才:ADV	不會:ADV	整:DET	鍋:N	都:ADV	是:Vt	肉渣:N	
+因為:C	太晚:Vi	煮:Vt	雞肉:N	
+夾:Vt	的:T	時候:N	都:ADV	已經:ADV	散掉:Vi	了:T	
+雞肉:N	一般:POST	般:POST	
+青菜:N	、:PAUSECATEGORY	火鍋:N	料類:N	都:ADV	不用:ADV	沾醬:N	就:ADV	自然:ADV	有:Vt	味:N	
+肉片:N	我:N	就:ADV	有:Vt	沾醬:N	了:T	
+商業:N	午餐:N	牛肉:N	鍋:N	NT:FW	230:DET	+:FW	藥膳湯:N	底:POST	NT:FW	20:DET	
+朋友點:N	的:T	鍋:N	
+要:ADV	膳:N	香氣:N	濃:Vi	裡頭:N	也:ADV	看:Vt	的:T	見:Vt	許多:DET	中藥材:N	
+牛肉:N	雖然:C	便宜:Vi	
+但:C	不會:ADV	":FW	潤:Vt	":FW	
+雖然:C	不:ADV	到:Vt	入口:N	即:ADV	化:Vt	
+也:ADV	不:ADV	至:P	軟:Vi	爛:Vi	咬不動:Vt	
+最後:N	因為:C	吃:Vt	太:ADV	飽:Vi	了:T	
+店:N	內:N	的:T	副點:N	完全:ADV	吃:Vt	不下:ADV	惹:Vt	
+ＢＯＢＯ:FW	小結:N	
+交通:N	：:COLONCATEGORY	
+國父:N	紀念館:N	出來:Vi	走路:Vi	要:ADV	很:ADV	久:Vi	從:P	3:DET	號:M	出口:N	出來:Vi	走到:Vt	麥當勞:N	轉乘:Vt	公車:N	
+幾乎:ADV	都:ADV	有:Vt	到:P	
+到:P	三:DET	張:M	犁:N	
+到站:Vi	即:ADV	到:Vt	店:N	
+服務:Nv	：:COLONCATEGORY	
+要求:Vt	換:Vt	菜:N	人員:N	親切:Vi	
+基本:N	上:N	有求必應:Vi	
+也:ADV	不會:ADV	不耐煩:Vi	::COLONCATEGORY	
+食物:N	：:COLONCATEGORY	
+店:N	內:N	副食:N	超多:Vi	
+但:C	因為:C	太:ADV	飽:Vi	都:ADV	沒:ADV	吃:Vt	
+火鍋:N	的:T	菜盤:N	根本:ADV	是:Vt	1.5:DET	人:N	份:N	
+不:ADV	怕:Vt	吃:Vt	不:ADV	飽:Vi	
+環境:N	：:COLONCATEGORY	
+湯匙:N	跟:P	碗盤:N	都:ADV	有:Vt	一點:DET	老舊:Vi	痕跡:N	
+環境:N	不:ADV	到:Vt	一塵不染:Vi	
+但:C	有:Vt	基本:A	清潔:Nv	
+價位:N	：:COLONCATEGORY	
+商業:N	午餐:N	才:ADV	220:DET	
+除了:P	菜:N	盤:N	多:Vi	
+副食:N	讓:Vt	你:N	吃到:Vt	飽:Vi	
+非常:ADV	划算:Vi	
+再:ADV	訪率:N	：:COLONCATEGORY	
+東西:N	便宜:Vi	
+份量:N	又:ADV	多:Vi	
+但:C	食物:N	普通:Vi	並:C	不:ADV	驚艷:Vi	
+想:Vt	吃:Vt	美食:N	時:POST	不會:ADV	特別:Vi	想到:Vt	他:N	
+樂活:N	養生:Nv	健康:Nv	鍋:N	光復:Vt	店:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	光復南路:N	574:DET	號:M	
+電話:N	
+02:DET	
+2325:DET	-:DASHCATEGORY	3701:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	：:COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	：:COLONCATEGORY	00:DET	
+下午:N	會:ADV	休息:Vi	
+可:ADV	刷卡:Vi	無:Vt	服務費:N	
+成為:Vt	VIP:FW	享:Vt	":FW	正餐:Vi	9:DET	折:M	":FW	":FW	商業餐:N	95:DET	折:M	":FW	
+臉書:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/lohas.tidi/timeline:FW	

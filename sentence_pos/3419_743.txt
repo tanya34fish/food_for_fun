@@ -1,0 +1,84 @@
+savvik(Essay:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	捷運:N	東門:N	站銀翼:N	餐廳:N	三:DET	訪:Vt	
+Wed:FW	
+Aug:FW	
+13:DET	
+20:DET	::COLONCATEGORY	14:DET	::COLONCATEGORY	33:DET	
+2014:DET	
+圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	savvik123.pixnet.net/blog/post:FW	/:FW	177298344:DET	
+店名:N	：:COLONCATEGORY	銀翼:N	餐廳:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2341:DET	-:DASHCATEGORY	7799:DET	
+地址:N	：:COLONCATEGORY	台北市:N	金山南路:N	2:DET	段:M	18:DET	號:M	2:DET	F:FW	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014:DET	/:FW	4:DET	
+價格:N	：:COLONCATEGORY	300:DET	-:DASHCATEGORY	600:DET	
+人:N	
+拍攝:Vt	相機:N	：:COLONCATEGORY	CanonEOSM:FW	
+個:M	人:N	評價:Vt	：:COLONCATEGORY	會:ADV	再:ADV	來:ADV	
+友人:N	揪團:N	
+然後:ADV	才:ADV	發現:Vt	我:N	好久:Vi	沒:ADV	來:ADV	這:DET	間:M	餐廳:N	呢:T	
+●:FW	肴肉風:N	雞:N	雙拼:A	
+中:N	
+來自:Vt	鎮江:N	的:T	肴:b	肉:N	在:P	吃:Vt	那麼多:DET	間:M	店:N	之後:POST	仍然:ADV	不:ADV	常:ADV	見到:Vt	
+所以:C	算是:Vt	一:DET	解:Vt	口:N	饞:Vi	之:T	苦:Nv	
+風雞:N	以前:POST	也:ADV	說:Vt	過:ASP	
+醉蟹:N	不:ADV	看:Vt	燈:N	、:PAUSECATEGORY	風:N	雞:N	不過:C	燈:N	、:PAUSECATEGORY	刀魚:N	不過:C	清明:Vi	、:PAUSECATEGORY	鱘魚:N	不過:C	端午:N	
+但:C	現在:N	大家:N	都:ADV	用:P	冰箱:N	......:ETCCATEGORY	就:ADV	隨時:ADV	都:ADV	可以:ADV	吃到:Vt	
+懷念:Vt	的:T	滋味:N	
+●:FW	肴:b	豬腳:N	
+以前:N	比較:ADV	不會:ADV	點:Vt	的:T	東西:N	
+一方面:C	和:P	肴肉:N	稍稍:ADV	有一點點:ADV	的:T	重疊性:N	
+都:ADV	是:Vt	用:P	硝:N	作出:Vt	來:Vi	的:T	
+肴:b	豬腳:N	其實:ADV	是:Vt	肴肉:N	的:T	衍生品:N	
+發現:Vt	肉:N	可以:ADV	這樣:Vi	作:Vt	
+乾脆:Vi	作:Vt	整:DET	隻:M	豬腳:N	
+如何:ADV	
+切:Vt	分開來:Vi	
+肉質:N	細嫩:Vi	
+而且:C	少:Vi	了:ASP	一般:A	紅燒:Nv	蹄膀:N	的:T	那:DET	種:M	油膩感:N	
+爽口:Vi	
+很:ADV	好吃:Vi	
+趁:P	別人:N	注意力:N	在:P	別:DET	道:M	我:N	很:ADV	熟悉:Vt	的:T	菜:N	時:POST	多:ADV	夾:Vt	了:ASP	兩:DET	口:M	
+●:FW	清:N	炒:Vt	鱔魚:N	
+家:N	裡:N	對:P	江浙菜:N	算:Vt	知:Vt	之:N	能:ADV	詳:ADV	
+清:N	炒:Vt	鱔魚:N	更:ADV	是:Vt	最愛:N	之:T	一:DET	
+不過:C	這邊:N	的:T	鱔魚:N	算是:Vt	還:ADV	好:Vi	
+最近:N	吃到:Vt	的:T	幾:DET	間:M	店:N	
+我:N	較:ADV	愛:Vt	上海:N	鄉村:N	的:T	
+席:N	間:POST	有:Vt	人:N	提到:Vt	台南:N	鱔魚:N	炒麵:N	
+這:DET	兩:DET	種:M	作法:N	算是:Vt	天差地遠:Vi	
+誰:N	優:Vi	誰:N	劣:Vi	很:ADV	難:Vi	講:Vt	
+當然:ADV	
+熟知:Vt	我:N	
+的:T	人:N	知道:Vt	我:N	會:ADV	投:Vt	那:DET	一:DET	邊:N	
+●:FW	雪菜:N	百:DET	頁:M	
+也:ADV	是:Vt	江浙:N	家常菜:N	
+●:FW	砂鍋:N	清燉:Nv	獅子頭:N	
+獅子頭:N	算:Vt	還:ADV	好:Vi	
+肉:N	算:Vt	大:Vi	顆:M	
+但:C	肉質:N	或:C	湯頭:N	算:Vt	中等:A	
+近年:N	我:N	比較:ADV	喜歡:Vt	的:T	獅子頭:N	是:Vt	吉林:N	川客:N	小:Vi	館:N	
+●:FW	文思:N	豆腐:N	
+揚州:N	名:A	菜:N	
+用:P	菜:N	刀把:N	豆府切:N	的:T	極:ADV	細:Vi	
+可惜:Vi	銀翼:N	沒有:Vt	現場:N	表演:N	
+●:FW	魚香:N	肉絲:N	
+魚香:N	者:N	
+不:ADV	是:Vt	真的:ADV	用:P	魚:N	去:ADV	作:Vt	
+而是:C	拿:Vt	料理魚:N	的:T	材料:N	來:ADV	作:Vt	
+它:N	是:Vt	川菜:N	
+但:C	又:ADV	不:ADV	見:Vt	於:P	川菜:N	之:T	譜:N	的:T	一:DET	道:M	菜:N	
+魚香:N	肉絲:N	這:DET	名字:N	
+是:Vt	老蔣:N	的:T	廚師:N	定名:Vt	然後:ADV	帶來:Vt	台灣:N	的:T	
+很:ADV	下:Vt	飯:N	
+●:FW	炒:Vt	肝:N	大:Vi	
+銀翼:N	的:T	招牌菜:N	
+為什麼:ADV	叫:Vt	炒:Vt	肝:N	大:Vi	
+其實:ADV	是:Vt	和:P	材料:N	有關:Vt	
+這:DET	道:M	菜:N	叫:Vt	『:PARENTHESISCATEGORY	肝:N	』:PARENTHESISCATEGORY	『:PARENTHESISCATEGORY	大:Vi	』:PARENTHESISCATEGORY	
+也:ADV	就是:C	豬肝:N	和:C	大腸:N	....:ETCCATEGORY	
+兩:DET	者:N	湊:Vt	在一起:Vi	‧:PERIODCATEGORY	味道:N	很:ADV	棒:Vi	
+下:Vt	飯:N	好:Vi	菜:N	
+●:FW	總:ADV	評:Vt	
+還是:ADV	很:ADV	棒:Vi	的:T	一:DET	道:M	菜:N	
+雖然:C	不能:ADV	說:Vt	每:DET	道:M	菜:N	都:ADV	最佳:A	
+但:C	整體:N	組合:Nv	上:POST	也:ADV	還是:ADV	不錯:Vi	

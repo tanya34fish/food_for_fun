@@ -1,0 +1,70 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	OvenMaru:FW	烤頂:N	鷄:b	
+Sun:FW	
+May:FW	
+10:DET	
+20:DET	::COLONCATEGORY	59:DET	::COLONCATEGORY	20:DET	
+2015:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	42352963:DET	
+時間:N	：:COLONCATEGORY	2015:DET	/:FW	5:DET	近:Vi	些:ADV	年:M	台北:N	開:Vt	了:ASP	很多:DET	韓國:N	料理店:N	
+而且:C	有別於:Vt	原有:Vt	傳統:Vi	的:T	那些:DET	豆腐:N	鍋:N	、:PAUSECATEGORY	煎餅:N	、:PAUSECATEGORY	銅盤烤肉:N	的:T	料理:N	
+冒出:Vt	了:ASP	以前:N	從:P	沒:ADV	見:Vt	過:ASP	、:PAUSECATEGORY	聽:Vt	過:ASP	的:T	韓國菜:N	
+像:Vt	是:Vt	韓式:N	炸雞:N	還:ADV	有:Vt	今天:N	來:ADV	吃:Vt	的:T	烤:Nv	頂雞:N	
+可能:ADV	是:Vt	我:N	沒:ADV	看:Vt	韓劇:N	又:ADV	對:P	韓國:N	不:ADV	是:Vt	很:ADV	熟:Vi	
+所以:C	這些:DET	新興:A	的:T	韓國:N	料理:N	都:ADV	沒:ADV	見:Vt	過:ASP	吧:T	
+雖然:C	對:P	韓國:N	沒:Vt	什麼:DET	喜好:N	
+但:C	不得不:ADV	佩服:Vt	他們:N	的:T	文化:N	政策:N	
+竟然:ADV	能:ADV	靠:P	韓劇:N	帶動:Vt	餐飲:N	熱潮:N	
+在:P	亞洲:N	各:DET	地:N	開:Vt	了:ASP	很多:DET	韓國:N	料理店:N	
+跟:P	以前:N	的:T	日本:N	一樣:Vi	
+其實:ADV	這:DET	都:ADV	是:Vt	一:DET	種:M	異國:N	飲食:N	文化:N	的:T	植入:Nv	
+但:C	很:ADV	可惜:Vi	的:T	是:Vt	台灣:N	的:T	餐飲業:N	好像:ADV	就:ADV	很少:ADV	能:ADV	這樣:Vi	大力:ADV	輸出到:Vt	各:DET	國:N	
+東區:N	巷弄:N	中:POST	的:T	烤:Nv	頂雞:N	
+也:ADV	是:Vt	我:N	最近:N	才:ADV	知道:Vt	的:T	韓國:N	菜新:N	玩意兒:N	
+沒想到:ADV	除了:P	韓式:N	炸雞:N	之外:POST	
+又:ADV	多:Vi	了:ASP	一樣:Vi	烤:Vt	頂雞:N	
+無骨:N	原味:N	烤:Vt	頂雞:N	＄:FW	379:DET	入座:Vi	之後:POST	
+先:ADV	送上:Vt	粉色:N	的:T	醃:Vt	蘿蔔:N	
+大概:ADV	是:Vt	吃:Vt	多:Vi	了:ASP	烤雞:N	畢竟:ADV	會:ADV	膩:Vi	
+蘿蔔:N	可以:ADV	解:Vt	解:Vt	油膩感:N	
+等:Vt	了:ASP	一會兒:N	
+我:N	點:Vt	的:T	無骨:N	烤:Vt	頂:Vt	雞:N	送上:Vt	
+因為:C	不:ADV	想:Vt	啃:Vt	骨頭:N	
+所以:C	就:ADV	沒:Vt	點:N	帶:Vt	骨:N	的:T	全:DET	雞:N	
+而是:C	點:Vt	了:ASP	以:P	雞腿肉:N	製作:Vt	的:T	烤:Nv	頂雞:N	
+這:DET	烤:Vt	頂雞:N	的:T	表面:N	有:Vt	一粒粒:DET	的:T	榖物:N	粒:N	
+我:N	看:Vt	了:ASP	看:Vt	
+突然:ADV	覺得:Vt	這:DET	不:ADV	就是:C	中菜:N	裡:N	的:T	粉蒸:N	排骨:N	燒烤:Vt	版:N	嗎:T	
+粉蒸:N	排骨:N	是:Vt	用:P	搗碎:Vt	的:T	米粒:N	裹:Vt	在:P	肉:N	上:N	
+再:ADV	蒸熟:Vi	食用:Vt	
+而:C	這:DET	烤:Vt	頂雞:N	也:ADV	差不多:Vi	
+用:P	搗碎:Vt	的:T	榖物:N	裹:Vt	在:P	雞皮:N	上:N	
+烤:Vt	得:T	酥脆:Vi	
+因此:C	
+烤:Vt	頂雞:N	酥脆:Vi	的:T	外皮:N	並非:ADV	來自於:Vi	雞皮:N	或是:C	粉:N	、:PAUSECATEGORY	漿:N	
+而是:C	外層:N	的:T	榖物:N	細粒:N	
+無骨:N	雞肉:N	都:ADV	用:P	雞腿肉:N	
+只有:C	雞皮:N	才:ADV	沾:Vt	了:ASP	碎粒:N	
+另:DET	一:DET	面:N	的:T	肉:N	並:ADV	沒有:Vt	
+雞肉:N	是:Vt	相當:ADV	鮮嫩:Vi	多汁:Vi	
+但是:C	本身:N	沒:Vt	什麼:DET	味道:N	
+果然:ADV	是:Vt	原味:N	
+但:C	以:P	個:M	人:N	的:T	飲食:N	口味:N	
+覺得:Vt	灑:Vt	點:M	胡椒:N	鹽:N	或:C	什麼:DET	調味粉:N	的:T	應該:ADV	更:ADV	好吃:Vi	
+不過:C	若是:C	覺得:Vt	沒:Vt	啥:DET	味道:N	
+那:DET	還是:ADV	點:Vt	別的:DET	有:Vt	醬燒:N	過:Vt	的:T	烤:Nv	頂雞:N	就:ADV	好:Vi	
+不過:C	一:DET	個:M	人:N	吃:Vt	這麼:ADV	一:DET	大盤:N	烤雞:N	還:ADV	真:ADV	膩:Vi	
+還是:ADV	兩:DET	人:N	以上:POST	吃:Vt	比較:ADV	好:Vi	吧:T	
+吃:Vt	了:ASP	幾:DET	塊:M	便有:Vt	種:M	很:ADV	單調:Vi	的:T	感覺:N	
+OvenMaru:FW	烤頂鷄:N	地址:N	：:COLONCATEGORY	台北市:N	復興南路:N	一段:N	107巷:N	5弄:N	6:DET	號:M	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27783325:DET	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+食記:N	
+八德:N	Jagiya:FW	親愛:Vi	的:T	韓式:N	炸雞:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41550094:DET	
+食記:N	
+台北:N	春川達卡:N	比:P	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41300869:DET	
+食記:N	
+台北:N	紅通通:Vi	韓味鍋物:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40313536:DET	
+食記:N	
+台北:N	福氣:N	韓國:N	炸雞:N	ChickeninBok&amp:FW	
+Beerhttp:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	32078981:DET	
+食記:N	
+板橋:N	江:N	原:ADV	道:Vt	韓國:N	料理:Vt	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40815034:DET	--:DASHCATEGORY	一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	--:DASHCATEGORY	

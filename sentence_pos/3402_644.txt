@@ -1,0 +1,119 @@
+hydeist0724(Giselle:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	巴黎廳:N	1930:DET	．:PERIODCATEGORY	亞都:N	麗緻:Vi	大:Vi	飯店:N	
+Fri:FW	
+Aug:FW	
+8:DET	
+17:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	59:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	巴黎廳:N	1930:DET	．:PERIODCATEGORY	亞都:N	麗緻:Vi	大:Vi	飯店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	03:DET	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	民權東路:N	二段:N	41:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2597:DET	-:DASHCATEGORY	1234:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週五:N	18:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	/:FW	六:DET	、:PAUSECATEGORY	日:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	30:DET	、:PAUSECATEGORY	18:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+網誌:N	圖文:N	好讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	giselle240790.pixnet.net/blog/post:FW	/:FW	4821275:DET	
+建議:Vt	閱讀:Vt	
+無:Vt	音樂:N	
+一直:ADV	以來:POST	都:ADV	很:ADV	想:Vt	嚐嚐:Vt	看:Vt	法式:A	料理:N	
+於是:C	找到:Vt	了:ASP	非常:ADV	多:Vi	老饕:N	推薦:Vt	的:T	巴黎廳:N	1930:DET	
+餐廳:N	就:ADV	位於:Vt	亞都:N	麗緻:Vi	大:Vi	飯店:N	
+聽說:Vt	巴黎廳:N	1930:DET	的:T	主廚:N	ChefClementPellerin:FW	也:ADV	是:Vt	很:ADV	有:Vt	來頭:N	的:T	
+除了:P	他:N	本身:N	是:Vt	個:M	土生土長:Vi	的:T	法國人:N	外:POST	
+以:P	其:DET	對:P	法式:A	料理:N	的:T	研究:Nv	以及:C	豐富:Vt	的:T	經驗:N	
+更:ADV	能:ADV	替:P	我們:N	呈現:Vt	原汁:N	原味:N	又:ADV	富含:Vt	巧思:N	的:T	法式:A	料理:N	
+聽說:Vt	要:ADV	品嚐:Vt	法式:A	料理:N	就:ADV	絕對:ADV	不能:ADV	錯過:Vt	巴黎廳:N	1930:DET	
+抱:Vt	著:ASP	既:C	期待:Vt	又:ADV	怕:Vt	受:P	傷害:N	的:T	心情:N	準備:Vt	來:ADV	享受:Vt	法式:A	大餐:N	
+還:ADV	沒有:ADV	去:ADV	過:Vt	法國:N	
+先:ADV	來:Vi	這裡:N	吃吃:Vt	法國餐:N	過過:Vt	乾癮:N	囉:T	
+巴黎廳:N	1930:DET	的:T	裝潢:N	其實:ADV	頗:ADV	有:Vt	現代感:N	且:C	帶:Vt	點:M	時尚:N	的:T	味道:N	
+雖然:C	是:Vt	跟:P	我:N	原先:ADV	想像:Vt	的:T	法式:A	裝潢:N	有:Vt	些:M	出入:N	
+抬頭:Vi	看:Vt	又:ADV	有:Vt	氣勢:N	磅礡:Vi	的:T	水晶燈:N	懸掛:Vt	在:P	天花板:N	
+當天:N	用餐:Vi	的:T	人:N	並:ADV	不:ADV	多:Vi	
+我們:N	被:P	安排:Vt	坐:Vi	在:P	沙發:N	的:T	位置:N	
+兩:DET	旁:N	有:Vt	霧面:N	玻璃:N	隔間:N	
+比較:ADV	隱密:Vi	
+桌子:N	也:ADV	很:ADV	大:Vi	
+用餐:Vi	起來:ASP	很:ADV	舒適:Vi	
+不會:ADV	有:Vt	擁擠:Vi	的:T	感覺:N	
+菜單:N	的:T	菜色:N	應該:ADV	會:ADV	隨著:P	時間:N	不同:Vi	有所:Vt	變化:N	
+套餐式:A	的:T	餐點:N	
+有:Vt	餐:M	前酒:N	、:PAUSECATEGORY	餐:N	前:N	麵包:N	、:PAUSECATEGORY	開胃菜:N	、:PAUSECATEGORY	前菜:N	、:PAUSECATEGORY	主餐:N	、:PAUSECATEGORY	甜點:N	及:C	飲品:N	
+每:DET	樣:M	的:T	選擇:N	就:ADV	各:DET	兩:DET	種:M	而已:T	
+所以:C	我們:N	就:ADV	各:DET	點:M	一:DET	份:M	嚐鮮:Vt	了:ASP	
+桌:N	上:POST	都:ADV	備有:Vt	消毒:Vt	的:T	濕:Vi	紙巾:N	可以:ADV	擦:Vt	手:N	
+先:ADV	上桌:Vi	的:T	就是:C	白酒:N	
+一:DET	上:N	酒:N	不:ADV	曉得:Vt	為什麼:ADV	就:ADV	很:ADV	有:Vt	要:ADV	慶祝:Vt	些:ADV	什麼:DET	的:T	氣氛:N	
+上菜:Vi	時:POST	服務生:N	都:ADV	會:ADV	詳細:Vi	解說:Vt	每:DET	道:M	菜:N	的:T	食材:N	及:C	建議:N	的:T	食用:Vt	方式:N	
+餐:N	前:N	麵包:N	餐:N	前:N	麵包:N	的:T	分量:N	不會:ADV	很多:DET	
+印象:N	中:POST	法式:A	料理:N	就:ADV	是:Vt	什麼:DET	東西:N	都:ADV	一點點:DET	
+然後:ADV	會:ADV	一:DET	道:M	菜:N	一:DET	道:M	菜:N	非常:ADV	悠閒:Vi	的:T	上來:Vi	
+麵包:N	吃起來:ADV	還可以:ADV	
+印象:N	最:ADV	深刻:Vi	的:T	反而:C	是:Vt	ECHIRE:FW	的:T	無:Vt	鹽:N	奶油:N	
+真的:ADV	好:Vi	
+好吃:Vi	
+其實:ADV	我:N	不:ADV	太:ADV	喜歡:Vt	吃:Vt	麵包:N	
+任何:DET	麵包:N	都:ADV	是:Vt	
+只有:C	奶油:N	可以:ADV	讓:Vt	我:N	增加:Vt	吃:Vt	麵包:N	的:T	意願:N	
+直接:Vi	吃:Vt	奶油:N	感覺:N	好像:ADV	也:ADV	怪怪:Vi	的:T	XD:FW	
+椰汁蝦夷蔥:N	先:ADV	鴨:N	細:Vi	麵:N	端上來:Vt	還:ADV	真的:ADV	有:Vt	些:M	傻眼:Vi	
+因為:C	上頭:N	有:Vt	根:M	針筒:N	
+裡面:N	又:ADV	裝有:Vt	乳白:N	液體:N	
+除了:P	吃:Vt	藥:N	我:N	想不到:ADV	別的:DET	
+經:P	服務生:N	解說:N	之後:POST	是:Vt	要:ADV	把:P	針筒:N	裡面:N	的:T	液體:N	注入:Vt	那:DET	碗:M	黑黑:Vi	的:T	湯:N	@:FW	@:FW	然後:ADV	很:ADV	神奇:Vi	的:T	從:P	針筒:N	出來:Vi	的:T	液體:N	就:ADV	變成:Vt	像:P	麵條:N	一樣:Vi	一:DET	條:M	一:DET	條:M	的:T	
+我:N	看:Vt	菜單:N	上面:N	這:DET	到:P	菜:N	的:T	英文:N	是:Vt	DIYLaMian:FW	
+原來:A	DIY:FW	的:T	意思:N	就:ADV	是:Vt	麵:N	要:ADV	自己:N	擠:Vt	嘛:T	
+真的:ADV	是:Vt	滿:ADV	有:Vt	創意:N	的:T	一:DET	道:M	菜:N	@:FW	@:FW	水牛:N	瑪芝瑞拉:N	、:PAUSECATEGORY	陳年:A	巴薩米克:N	酒:N	醋:N	這:DET	是:Vt	一:DET	道:M	口胃:N	很多:DET	層次:N	的:T	開胃菜:N	
+薄薄:Vi	的:T	那:DET	片:M	就:ADV	是:Vt	陳年:A	的:T	巴薩米克:N	酒:N	醋:N	
+真的:ADV	有:Vt	散發:Vt	一:DET	股:M	濃濃:Vi	陳年:A	醋:N	的:T	味道:N	
+開胃菜:N	主要:ADV	由:P	番茄:N	、:PAUSECATEGORY	羅勒:N	、:PAUSECATEGORY	起:Vt	司:N	
+mozzarella:FW	
+分別:ADV	以:P	三:DET	種:M	不同:Vi	型態:N	呈現:Vt	
+看似:Vt	三:DET	色:M	粉末狀:N	的:T	這:DET	碗:M	其實:ADV	嚐起來:ADV	是:Vt	綿綿:Vi	冰:N	的:T	口感:N	
+羅勒:N	起:POST	司:Vt	番茄:N	口味:N	的:T	綿綿:Vi	冰:N	
+另外:ADV	一:DET	碗:M	就是:C	湯:N	那樣:Vi	
+我:N	個:M	人:N	是:Vt	覺得:Vt	這:DET	道:M	菜:N	還:ADV	滿:Vt	挑戰:N	味蕾:N	的:T	
+這:DET	是:Vt	我:N	從來:ADV	沒有:ADV	嚐試:Vt	過:ASP	味道:N	
+奶油:N	牛:N	肝:N	菌菇:N	燉飯:Vt	這:DET	頓:M	燉:Vt	飯量:N	不:ADV	多:Vi	
+但是:C	味道:N	另:DET	人:N	驚豔:Vi	
+味道:N	十分:ADV	濃郁:Vi	
+吃起來:ADV	粒粒:DET	分明:Vi	、:PAUSECATEGORY	唇齒:N	留:Vt	香:N	
+吃:Vt	的:T	一:DET	顆:M	飯粒:N	都:ADV	捨不得:Vt	剩下:Vt	
+奶油:N	培根:N	義大利麵:N	上菜:Vi	的:T	時候:N	覺得:Vt	這:DET	道:M	菜:N	很:ADV	眼熟:Vi	
+這:DET	不:ADV	就是:C	我:N	在:P	家:N	裡:N	吃:Vt	的:T	肉燥:N	泡麵:N	加:Vt	蛋:N	嗎:T	
+喂:T	喂:T	喂:T	
+不過:C	吃起來:ADV	味道:N	是:Vt	完全:Vi	的:T	不:ADV	一樣:Vi	啦:T	
+上頭:N	還:ADV	灑:Vt	有:Vt	帕瑪森:N	起:Vt	司提:N	味:N	
+厲害:Vi	的:T	是:Vt	他:N	的:T	蛋白:N	不:ADV	是:Vt	凝固狀:N	的:T	
+是:Vt	有:Vt	一:ADV	點:Vt	泡沫狀:N	的:T	蛋白:N	
+整:DET	顆:M	蛋:N	跟:P	麵:N	攪拌:Vt	後:POST	
+口感:N	吃起來:ADV	相當:ADV	滑:Vi	順:Vt	綿密:Vi	
+紙包:N	圓鱈附:N	安地斯山:N	藜麥:N	鱈魚:N	原本:ADV	就是:C	我:N	愛:Vt	吃:Vt	的:T	魚類:N	了:T	
+因為:C	鱈魚:N	肉質:N	鮮嫩:Vi	且:C	沒:Vt	什麼:DET	刺:N	
+這:DET	個:M	雪魚:N	吃起來:ADV	很:ADV	不錯:Vi	
+配:Vt	著:ASP	一:DET	旁:N	很:ADV	特殊:Vi	的:T	山藜麥:N	一起:ADV	吃:Vt	
+讓:Vt	鱈魚:N	的:T	口感:N	吃起來:ADV	更:ADV	豐富:Vt	
+羅勒香橙:N	鴨胸:N	這:DET	鴨胸:N	吃起來:ADV	也:ADV	是:Vt	有:Vt	在:P	水準:N	上:N	
+比較:ADV	特別:Vi	的:T	就是:C	他:N	的:T	橙汁:N	是:Vt	做成:Vt	很:ADV	像:Vt	皮蛋:N	那樣:Vi	
+切開:Vt	後:POST	汁液:N	就:ADV	會:ADV	流出來:Vi	
+搭配:Vt	著:ASP	鴨:N	胸:N	吃:Vt	
+既有:A	羅勒:N	的:T	香味:N	也:ADV	有:Vt	橙汁:N	的:T	清香:N	
+薄荷:N	黑:Vi	巧克力:N	75:DET	%:M	的:T	黑:Vi	巧克力:N	
+搭配:Vt	的:T	薄荷:N	是:Vt	以:P	泡沫狀:N	呈現:Vt	
+很:ADV	特殊:Vi	
+香檸優格馬卡龍:N	這:DET	甜點:N	我:N	倒是:ADV	沒有:Vt	什麼:DET	印象:N	
+不過:C	優格:N	可以:ADV	跟:P	法國:N	有名:Vi	的:T	甜點:N	馬卡龍:N	做:Vt	結合:Vt	
+主廚:N	是:Vt	確實:ADV	是:Vt	滿:ADV	有:Vt	創意:N	的:T	
+卡布:N	奇:ADV	諾:FW	&:FW	amp:FW	
+茶茶:N	我:N	忘記:Vt	是:Vt	什麼:DET	口味:N	了:T	
+因為:C	跟:P	卡布:N	奇:ADV	諾:FW	比起來:Vi	卡布:N	奇:ADV	諾:FW	的:T	味道:N	比較:ADV	勝出:Vi	
+很:ADV	好喝:Vi	
+只有:ADV	一:ADV	小:Vi	杯:M	讓:Vt	我們:N	兩:DET	個:M	搶:Vt	XD:FW	在:P	巴黎廳:N	1930:DET	邂逅:Vt	的:T	高級:Vi	法式:A	饗宴:N	
+感覺:N	還:ADV	不錯:Vi	
+廚師:N	用:Vt	了:ASP	很多:DET	創意:N	來:ADV	呈現:Vt	食材:N	不同:Vi	的:T	風貌:N	
+也:ADV	因為:C	這樣:Vi	也:ADV	嚐到:Vt	了:ASP	同樣:Vi	的:T	食物:N	卻:ADV	不同以往:Vi	的:T	滋味:N	
+每:DET	道:M	菜:N	的:T	味道:N	在:P	嘴:N	裡:POST	都:ADV	有:Vt	很多:DET	層次:N	的:T	表現:N	
+是:Vt	個:M	適合:Vi	在:P	一些:DET	特別:Vi	的:T	日子:N	
+帶:Vt	重要:Vi	的:T	人:N	來:ADV	享受:Vt	的:T	一:DET	家:M	餐廳:N	
+--:DASHCATEGORY	Giselle:FW	
+吉賽兒:N	吃飽:Vi	睡:Vi	
+睡飽:Vi	吃:Vt	http:FW	::COLONCATEGORY	/:FW	/:FW	giselle240790.pixnet.net/blog:FW	--:DASHCATEGORY	

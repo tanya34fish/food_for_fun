@@ -1,0 +1,79 @@
+iioouu:FW	(:PARENTHESISCATEGORY	小萍:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	：:COLONCATEGORY	跟:P	著:ASP	電影:N	場景:N	吃:Vt	美食:N	☆:FW	萬國:N	酸菜麵:N	
+Mon:FW	
+May:FW	
+11:DET	
+22:DET	::COLONCATEGORY	03:DET	::COLONCATEGORY	25:DET	
+2015:DET	
+店名:N	：:COLONCATEGORY	萬國:N	酸菜麵:N	
+品嘗:Vt	日期:N	：:COLONCATEGORY	2015:DET	/:FW	4:DET	
+地址:N	：:COLONCATEGORY	台北市:N	萬華區:N	漢口街:N	二段:N	42巷:N	2:DET	號:M	（:PARENTHESISCATEGORY	鄰近:Vt	捷運:N	西門:N	站:Vi	6:DET	號:M	出口:Nv	）:PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2370:DET	-:DASHCATEGORY	8643:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	06:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	13:DET	::COLONCATEGORY	30:DET	
+---:DASHCATEGORY	
+網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	anrine910070.pixnet.net/blog/post:FW	/:FW	197460174:DET	
+---:DASHCATEGORY	知道:Vt	萬國:N	酸菜:N	麵超:N	多:DET	年:M	了:T	
+可是:C	一直:ADV	沒有:Vt	機會:N	吃到:Vt	
+主因:N	就:ADV	是:Vt	我:N	太:ADV	愛:Vt	睡覺:Vi	了:ASP	
+每:DET	次:M	到:Vt	西門町:N	都:ADV	下午:N	四:DET	、:PAUSECATEGORY	五:DET	點:M	
+店家:N	老早:ADV	就:ADV	打烊:Vi	了:ASP	
+麵店:N	躲:Vt	於:P	隱密:Vi	的:T	小:Vi	巷:N	內:N	
+走:Vi	在:P	繁華:Vi	的:T	街道:N	上:POST	很:ADV	容易:Vi	與:P	它:N	差:Vi	身:N	而:C	過:Vt	
+周遭:N	最:ADV	明顯:Vi	的:T	店家:N	應:ADV	屬:Vt	楊記:N	花生:N	玉米:N	冰:N	
+看到:Vt	它:N	之後:POST	就:ADV	可以:ADV	發現:Vt	麵館:N	的:T	指引:Nv	招牌:N	了:T	
+為什麼:ADV	會:ADV	對:P	這:DET	間:M	店:N	有:Vt	印象:N	呢:T	
+其實:ADV	是:Vt	因為:C	多:DET	年:M	前:POST	看:Vt	了:ASP	由:P	彭于晏:N	、:PAUSECATEGORY	陳意涵:N	、:PAUSECATEGORY	陳妍希:N	主演:Vt	的:T	
+聽說:Vt	
+這:DET	部:M	電影:N	
+陳:N	意涵:N	表演:N	結束:Vt	後:POST	
+和:C	彭于晏:N	去:ADV	大快朵頤:Vi	的:T	麵攤:N	就:ADV	是:Vt	這:DET	家:M	萬:DET	國:N	酸菜麵:N	
+此:DET	場景:N	拍攝:Vt	的:T	時間:N	還:ADV	蠻:ADV	長:Vi	的:T	
+當時:N	還:ADV	有:Vt	新聞:N	特別:Vi	報導:Vt	
+所以:C	我:N	就:ADV	把:P	它:N	收入:N	口袋:N	名單:N	了:T	
+比起:P	周圍:N	新穎:Vi	華麗:Vi	的:T	餐廳:N	
+它們:N	的:T	用餐:Nv	環境:N	簡陋:Vi	許多:DET	
+不過:C	這:DET	並:ADV	不:ADV	影響:Vt	老:Vi	麵攤:N	的:T	人氣:N	
+慕名而來:Vi	的:T	顧客:N	依舊:ADV	讓:Vt	店裡:N	坐:Vi	無:Vt	虛席:N	
+順道:ADV	一:ADV	提:Vt	之前:POST	看到:Vt	有:Vt	人:N	說:Vt	店家:N	態度:N	不:ADV	好:Vi	
+但:C	我們:N	的:T	經驗:N	卻:ADV	很:ADV	不錯:Vi	
+店員:N	看:Vt	我:N	懷孕:Vi	馬上:ADV	幫:P	我:N	找到:Vt	1:DET	個:M	空位:N	叫:Vt	我:N	先:ADV	坐:Vi	
+等:POST	其它:DET	桌:M	客人:N	用完:Vt	餐:N	
+再:ADV	幫:P	我們:N	2:DET	人:N	安排:Vt	入座:Vi	
+我們:N	到時:ADV	再:ADV	十:DET	分鐘:M	就:ADV	打烊:Vi	了:ASP	
+究竟:ADV	有:Vt	幾:DET	種:M	小菜:N	可:ADV	選:Vt	並:ADV	不:ADV	知曉:Vt	
+因為:C	架:Vt	上:POST	已經:ADV	沒:ADV	剩:Vt	幾:DET	盤:M	了:T	
+怎麼:ADV	算:Vt	錢:N	很:ADV	簡單:Vi	
+對照:Vt	牆:N	上:N	盤子:N	上:N	的:T	價格:N	就:ADV	知道:Vt	了:ASP	
+酸菜:N	乾:Vi	麵:N	
+小:Vi	
+50:DET	元:M	
+我:N	原本:ADV	料想:Vt	這裡:N	的:T	酸菜:N	
+應該:ADV	和:P	牛肉麵店:N	一:DET	旁:N	隨:P	你:N	挾:Vt	的:T	酸菜:N	一樣:Vi	
+切成:Vt	塊狀:N	帶有:Vt	水份:N	
+結果:ADV	卻:ADV	非:ADV	如此:Vi	
+鋪:Vt	在:P	麵:N	上:N	的:T	酸菜:N	細碎:Vi	乾鬆:Vi	
+感覺:N	用力:Vi	吹氣:Vi	就:ADV	飛散:Vi	了:ASP	
+原來:A	老闆:N	是:Vt	乾炒:Vt	的:T	方式:N	製成:Vt	
+和:C	牛肉:N	麵店:N	油炒:Vt	不同:Vi	
+攪和:Vt	麵:N	下:POST	的:T	醬油:N	充分:Vi	拌勻:Vi	後:POST	
+一:DET	碗:M	鹹香:N	可口:Vi	的:T	酸菜:N	麵:N	就:ADV	完成:Vt	了:ASP	
+第一:DET	次:M	吃到:Vt	這:DET	種:M	麵:N	
+樸實:Vi	又:ADV	具:Vt	獨特性:N	
+難怪:ADV	能:ADV	飄香:Vi	一:DET	甲子:N	
+酸菜:N	蛋:N	餛飩:N	湯麵:N	
+小:Vi	
+80:DET	元:M	
+湯麵:N	沒有:ADV	乾:Vi	麵:N	來:Vi	的:T	香:Vi	
+別:ADV	看:Vt	表面:N	飄滿:Vt	酸菜:N	好像:ADV	很:ADV	重:Vi	口味:N	
+但:C	其實:ADV	比:P	乾:Vi	麵:N	來:Vi	的:T	清淡:Vi	
+因為:C	酸菜:N	本身:N	並:ADV	沒有:ADV	放:Vt	太多:DET	佐料:N	去:ADV	調味:Vi	
+吃:Vt	的:T	是:Vt	它:N	原始:Vi	得:T	清甜:Vi	鹹香:N	
+半熟:Vi	蛋:N	好:ADV	誘人:Vi	
+輕戳:N	後:POST	濃稠:Vi	的:T	蛋:N	汁:N	就:ADV	會:ADV	流進:Vt	碗:N	中:POST	
+可是:C	我們:N	不:ADV	想:Vt	破壞:Vt	湯頭:N	
+所以:C	請:Vt	店家:N	再:ADV	給:Vt	我們:N	空盤:N	單獨:ADV	吃:Vt	它:N	
+哈哈:ADV	
+餛飩:N	大小:N	適中:Vi	
+裡面:N	也:ADV	加有:Vt	酸菜:N	
+這:DET	是:Vt	我:N	覺得:Vt	和:C	其它:DET	家:M	最:ADV	不同:Vi	的:T	地方:N	
+--:DASHCATEGORY	波:N	比:P	看:Vt	世界:N	粉絲團:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/anrine:FW	100:DET	--:DASHCATEGORY	

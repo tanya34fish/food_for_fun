@@ -1,0 +1,143 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	十三:DET	座:M	牛雜:Vi	
+Mon:FW	
+Jul:FW	
+28:DET	
+19:DET	::COLONCATEGORY	18:DET	::COLONCATEGORY	37:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41180107:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	號稱:Vt	全:DET	世界:N	最:ADV	便宜:Vi	的:T	香港米:N	其:DET	林名店添:N	好運:N	前天:N	氣勢洶洶:Vi	登台:Vi	開店:Vi	
+一:ADV	開店:Vi	就:ADV	毫無:ADV	懸:Vt	念:Vt	地:T	大排長龍:Vi	
+據說:ADV	有:Vt	人:N	排:Vt	了:ASP	四:DET	小時:M	才:ADV	吃:Vt	到:P	
+而:C	我:N	的:T	吃:Vt	貨:N	好友:N	早上:N	九:DET	點:M	半:DET	就:ADV	去:ADV	排隊:Vi	
+倒是:ADV	前:DET	十五:DET	名:M	
+還:ADV	上:Vt	了:ASP	新聞:N	被:P	訪問:Vt	
+添:Vt	好運:N	生意:N	好:Vi	、:PAUSECATEGORY	名氣:N	高:Vi	
+從:P	香港:N	開:Vt	到:P	新加坡:N	
+又:ADV	來:Vi	台灣:N	開店:Vi	
+反觀:Vt	
+北:N	角:N	的:T	十三:DET	座:M	牛雜:Vi	
+香港:N	的:T	庶民:N	小吃:N	名店:N	
+因為:C	租金:N	高:Vi	、:PAUSECATEGORY	人力:N	成本:N	高:Vi	
+最後:N	在:P	香港:N	撐:Vt	不:ADV	下去:Vi	了:ASP	
+轉戰:Vt	來:Vi	台灣:N	士林:N	夜市:N	開店:Vi	
+添:Vt	好運:N	與:C	十三:DET	座:M	牛雜:N	都:ADV	是:Vt	香港:N	名:A	店:N	
+一:DET	個:M	是:Vt	得意洋洋:Vi	往:P	海外:N	開店:Vi	
+另:DET	一:DET	個:M	則:ADV	是:Vt	不敵:Vt	租金:N	黯然:ADV	離:P	港:N	在:P	台:N	開店:Vi	
+怎麼:ADV	兩:DET	家:M	店:N	的:T	命運:N	差:Vi	那麼多:Vi	呢:T	
+由:P	此:DET	看來:ADV	
+米其林:N	星星:N	的確:ADV	是:Vt	有:Vt	他:N	的:T	商業:N	行銷:N	魅力:N	
+擁有:Vt	米其林:N	一:DET	星:N	評價:N	的:T	添:Vt	好運:N	
+來:Vi	了:ASP	台灣:N	第一:DET	天:M	風風光光:Vi	
+而:C	十三:DET	座:M	牛雜:N	緊接著:ADV	在:P	添:Vt	好運:N	開幕:Vi	試賣:Vt	的:T	隔天:N	悄然:ADV	開幕:Vi	試賣:Vt	
+第一:DET	天:M	我:N	沒:ADV	去:ADV	
+不:ADV	清楚:Vi	狀況:N	
+第二天:N	星期一:N	下午:N	一:ADV	開店:Vi	我:N	就:ADV	到:Vt	了:ASP	店裡:N	
+除了:P	某:DET	森:N	新聞台:N	記者:N	之外:POST	
+也:ADV	不:ADV	見:Vt	有:Vt	其他:DET	客人:N	
+看來:ADV	我:N	是:Vt	拿:Vt	了:ASP	今天:N	頭香:N	
+這樣:Vi	想想:Vt	
+昨天:N	開幕:Vi	試:Vt	賣:Vt	的:T	人氣:N	大概:ADV	也:ADV	比不過:Vt	添:Vt	好運:N	吧:T	
+至少:ADV	新聞:N	沒:ADV	見到:Vt	什麼:DET	消息:N	
+錦上添花:Vi	人人:N	會:ADV	
+雪中送炭:Vi	就:ADV	不一定:ADV	了:T	
+我:N	在:P	香港:N	就:ADV	吃:Vt	過:ASP	添:Vt	好運:N	
+短:Vi	時間:N	內:N	也:ADV	就:ADV	不再:ADV	去:ADV	湊熱鬧:Vi	
+既然:C	沒:ADV	吃:Vt	過:ASP	十三:DET	座:M	
+那:DET	就:ADV	來:ADV	吃吃:Vt	看:Vt	吧:T	
+煮:Vt	牛雜:N	的:T	檯子:N	在:P	外頭:N	
+新開幕:Vi	
+看:Vt	著:ASP	不鏽鋼:N	檯面:N	乾淨:Vi	的:T	很:ADV	
+店:N	內:N	別出心裁:Vi	地:T	設計:Vt	了:ASP	香港島:N	的:T	名產:N	電車:N	
+電車:N	裡面:N	是:Vt	調製:Vt	飲料:N	的:T	區域:N	
+架:N	上:N	擺滿:Vt	了:ASP	奶水:N	
+現在:N	只:ADV	提供:Vt	兩:DET	種:M	飲料:N	
+一:ADV	是:Vt	港式凍:N	奶茶:N	
+二:DET	是:Vt	牛奶:N	冰沙:N	
+說來:ADV	我:N	對:P	香港:N	北:N	角:N	有:Vt	一:DET	份:M	特殊:Vi	感情:N	
+因為:C	我:N	第一:DET	次:M	出國:Vi	是:Vt	去:Vt	香港:N	
+住:Vt	的:T	地方:N	在:P	北:N	角:N	華:N	都:ADV	行:Vi	
+這:DET	是:Vt	幾:DET	個:M	在:P	台灣:N	留學:Vi	過:ASP	的:T	香港人:N	開:Vt	的:T	旅館:N	
+他們:N	簡直:ADV	就是:C	鄉民:N	
+每天:N	掛:Vt	在:P	PTT:FW	
+講:Vt	著:ASP	一:DET	副:M	臺灣腔:N	國語:N	
+令:Vt	人:N	好不:ADV	親切:Vi	
+可惜:Vi	的:T	是:Vt	華:N	都:ADV	行:Vt	現在:N	好像:ADV	換:Vt	經營:Nv	者:N	了:T	
+不:ADV	知道:Vt	還:ADV	有沒有:ADV	營業:Vi	
+台北:N	的:T	十三:DET	座:M	牛雜內:N	用:Vt	不:ADV	提供:Vt	座位:N	
+就:ADV	像:P	日本:N	一樣:Vi	採立食:Vt	的:T	方式:N	
+除了:P	靠:Vt	牆:N	邊:N	上:N	的:T	檯子:N	外:POST	
+還:ADV	有:Vt	後面:N	兩:DET	個:M	骰子:N	疊成:Vt	的:T	桌子:N	
+因為:C	我:N	有:Vt	一點:DET	早:ADV	到:Vt	
+他們:N	五:DET	點:M	才:ADV	開店:Vi	
+但:C	五:DET	點:M	了:T	也:ADV	還:ADV	沒:ADV	準備好:Vt	
+剛:ADV	開幕:Vi	看起來:ADV	手忙腳亂:Vi	
+老闆:N	請:Vt	我:N	等等:ADV	又:ADV	送:Vt	了:ASP	一:DET	杯:M	椰奶冰沙:N	請:Vt	我:N	喝:Vt	
+冰沙椰奶:N	味道:N	非常:ADV	濃郁:Vi	
+炎炎夏日:N	一:ADV	喝:Vt	就:ADV	消暑:Vi	
+原味:N	牛雜:Vi	
+碗:N	
+＄:FW	120:DET	十三:DET	座:M	賣:Vt	的:T	食物:N	很:ADV	單純:Vi	
+就是:C	牛:N	雜:Vi	而已:T	
+牛雜分串:N	與:C	碗:N	
+口味:N	則:ADV	有:Vt	原味:N	、:PAUSECATEGORY	麻辣:A	與:C	咖哩:N	
+其實:ADV	我:N	想:Vt	吃:Vt	咖哩:N	
+但:C	老闆:N	直接:Vi	端:Vt	了:ASP	原味:N	給:Vt	我:N	
+心想:Vt	也罷:T	
+先:ADV	吃:Vt	原味:N	
+台灣:N	大概:ADV	比較:ADV	少:Vi	單:ADV	吃:Vt	牛:N	雜:Vi	
+通常:ADV	都:ADV	是:Vt	牛雜湯:N	或:C	牛雜:Vi	麵:N	
+而且:C	牛:N	雜:Vi	的:T	種類:N	也:ADV	沒:Vt	那麼多:DET	
+十三:DET	座:M	的:T	牛雜:N	種類:N	不少:Vi	
+除了:P	常見:Vi	的:T	牛肚:N	、:PAUSECATEGORY	板筋:N	之外:POST	
+還:ADV	有:Vt	牛腸:N	、:PAUSECATEGORY	牛肺:Vi	、:PAUSECATEGORY	牛:N	膀胱:N	與:C	蘿蔔:N	等:POST	
+份量:N	不少:Vi	
+這:DET	個:M	價錢:N	也:ADV	不:ADV	算:Vt	貴:Vi	
+一般:A	台灣:N	牛雜湯:N	也:ADV	不過:ADV	是:Vt	這:DET	價錢:N	吧:T	
+牛雜:N	的:T	滷:Nv	水:N	是:Vt	濃濃:Vi	的:T	藥材味:N	
+這:DET	個:M	香味:N	其實:ADV	台灣人:N	應該:ADV	也:ADV	不:ADV	陌生:Vi	
+蠻:ADV	多:Vi	傳統:Vi	滷味:N	就:ADV	是:Vt	這:DET	種:M	香氣:N	
+只:ADV	是:Vt	十三:DET	座:M	的:T	味道:N	更:ADV	濃烈:Vi	
+滷:Vt	的:T	透徹:Vi	入味:N	
+牛雜:N	雖然:C	都:ADV	是:Vt	內臟:N	
+但:C	吃:Vt	不:ADV	到:Vt	有:Vt	腥:Vi	羶味:N	
+處理:Vt	的:T	不錯:Vi	
+而:C	口感:N	比較:ADV	韌:Vi	的:T	牛肚:N	、:PAUSECATEGORY	板筋:N	也:ADV	滷:Vt	的:T	恰好:ADV	
+不會:ADV	像:Vt	橡皮筋:N	一樣:Vi	難:Vi	咬:Vt	不斷:Vi	
+脆嫩:Vi	的:T	口感:N	
+比較:ADV	特別:Vi	不:ADV	常:ADV	吃:Vt	的:T	牛:N	膀胱:N	口感:N	粉粉:N	
+有點:ADV	像:Vt	粉腸:N	裡頭:N	的:T	那:DET	種:M	粉狀:N	口感:N	
+挺:ADV	入:Vt	味:N	的:T	
+其中:DET	我:N	個:M	人:N	最:ADV	喜歡:Vt	的:T	是:Vt	牛腸:N	
+軟嫩:Vi	通透:Vi	
+肥嫩:Vi	不:ADV	膩:Vi	
+而且:C	牛腸:N	不:ADV	像:Vt	豬:N	大腸:N	那樣:ADV	有:Vt	股:M	異味:N	
+果然:ADV	吃:Vt	草:N	的:T	腸胃:N	還是:ADV	比較:ADV	乾淨:Vi	點:ADV	
+墊:Vt	在:P	最:ADV	底:N	的:T	還:ADV	有:Vt	清甜:Vi	的:T	蘿蔔:N	
+蘿蔔:N	也:ADV	是:Vt	充滿:Vt	濃濃:Vi	藥材:N	香氣:N	
+我:N	本來:ADV	對於:P	十三:DET	座:M	選:Vt	在:P	士林:N	夜市:N	開店:Vi	覺得:Vt	有點:ADV	可惜:Vi	
+但:C	吃完:Vt	之後:POST	
+又:ADV	覺得:Vt	這:DET	牛雜:N	實在:ADV	是:Vt	很:ADV	適合:Vi	作為:Vt	夜市:N	裡:N	的:T	小吃:N	
+小小:Vi	一:DET	碗:M	用:P	叉子:N	串:Vt	著:ASP	吃:Vt	
+相當:Vi	涮嘴:N	
+頗:ADV	合:Vt	夜市:N	的:T	味道:N	
+我:N	想起:Vt	古惑仔:N	裡:POST	雷耀揚:N	說:Vt	：:COLONCATEGORY	
+整:DET	個:M	駱克道:N	只有:C	我:N	這:DET	間:M	Pub:FW	可以:ADV	叫:Vt	客人:N	聽:Vt	莫札特:N	
+這:DET	就:ADV	是:Vt	藝術:N	與:C	市井:N	之:T	徒:N	的:T	分別:N	
+那:DET	添:Vt	好運:N	與:C	十三:DET	座:M	兩:DET	家:M	在:P	台北:N	開店:Vi	的:T	氣勢:N	
+大概:ADV	就:ADV	是:Vt	米:N	其:DET	林名店:N	與:C	市井:N	小吃:N	的:T	分別:N	吧:T	
+十三:DET	座:M	牛雜:N	地址:N	：:COLONCATEGORY	台北市:N	士林區:N	大南路:N	51:DET	號:M	電話:N	：:COLONCATEGORY	0936:DET	-:DASHCATEGORY	036379:DET	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+食記:N	
+台北:N	強記:Vt	港:N	式:N	小:Vi	館:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40694554:DET	
+食記:N	
+台北:N	港九:N	香滿樓:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40622641:DET	
+食記:N	
+台北:N	香港:N	大:Vi	排:Vt	檔:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	39206446:DET	
+食記:N	
+香港:N	容:Vt	記:Vt	小菜王:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	38264345:DET	
+食記:N	
+香港:N	麥文:N	記:Vt	麵家:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	38263949:DET	
+食記:N	
+香港:N	路邊攤:N	烤鴨:N	胸:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	26551280:DET	
+食記:N	
+香港:N	樂園:N	牛丸:N	大王:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	26549292:DET	--:DASHCATEGORY	一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	--:DASHCATEGORY	

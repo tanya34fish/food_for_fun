@@ -1,0 +1,90 @@
+fssmiling:FW	(:PARENTHESISCATEGORY	│:FW	Open:FW	免:ADV	│:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	亞坤:N	，:COMMACATEGORY	來自:Vt	新加坡:N	的:T	咖椰:N	吐司:N	
+Fri:FW	
+Aug:FW	
+1:DET	
+09:DET	::COLONCATEGORY	53:DET	::COLONCATEGORY	31:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	亞坤:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8751:DET	-:DASHCATEGORY	9656:DET	
+平均:Vi	價位:N	：:COLONCATEGORY	100:DET	/:FW	人:N	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週六:N	08:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	16:DET	::COLONCATEGORY	30:DET	
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	瑞光路:N	478巷:N	18弄:N	34:DET	號:M	
+網址:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	minnn22.pixnet.net/blog/post:FW	/:FW	183716202:DET	
+亞坤:N	位在:Vt	內湖:N	科學園區:N	的:T	深處:N	
+離:P	最近:N	的:T	西湖站:N	慢速:A	走路:Vi	得:T	要:Vt	15:DET	分鐘:M	
+幸好:ADV	西湖:N	站:Vi	似乎:ADV	
+快要:ADV	設:Vt	Youbike:FW	站點:N	了:T	
+這樣:Vi	假日:N	來:Vi	個:M	空城:N	內科:N	行:Vi	也:ADV	比較:ADV	方便:Vi	
+店:N	的:T	位置:N	在:P	辦公:Nv	大樓:N	一樓:N	
+不過:C	難得:Vi	沒有:ADV	像:Vt	覺旅:N	咖啡:N	一樣:Vi	採用:Vt	樓中樓:N	設計:N	
+因為:C	附近:N	的:T	費:N	
+尼:N	漢堡:N	、:PAUSECATEGORY	擴邦:N	麵包:N	、:PAUSECATEGORY	BANAGREEN:FW	感覺:N	起來:Vi	好像:ADV	就:ADV	是:Vt	賣:Vt	不同:Vi	食物:N	的:T	覺:N	旅:N	一般:POST	
+我:N	記得:Vt	高中:N	讀書:Vi	時:POST	
+學校:N	附近:N	也:ADV	有:Vt	開:Vt	一:DET	間:M	亞坤:N	
+那:DET	時候:N	亞坤:N	的:T	牛油:N	吐司:N	是:Vt	風靡:Vt	少女界:N	的:T	食:N	
+物:N	哈哈:ADV	
+一:DET	份:M	45:DET	元:M	的:T	吐司:N	對於:P	窮:Vi	高中生:N	來:ADV	說:Vt	感覺:N	超貴:N	
+不過:C	如果:C	當:P	月:N	東省:N	西省:N	有點:ADV	錢:N	就:ADV	
+會:ADV	去:ADV	買:Vt	亞坤:N	早餐:N	犒賞:Vt	自己:N	的:T	節省:Vt	
+現在:N	雖然:C	只:ADV	是:Vt	窮困:Vi	的:T	上班族:N	
+不過:C	至少:ADV	可以:ADV	在:P	早餐:N	上面:N	
+多:ADV	花:Vt	一點點:DET	錢:N	了:T	
+感覺:N	真:ADV	是:Vt	奇妙:Vi	
+亞坤:N	最:ADV	有名:Vi	的:T	就是:C	咖椰:N	吐司:N	
+可以:ADV	單:ADV	點:Vt	也:ADV	可以:ADV	點:Vt	套餐:N	
+因為:C	這:DET	次:M	是:Vt	和:P	小弟:N	一起:ADV	來:ADV	
+所以:C	我:N	
+們:N	就:ADV	共:ADV	點:Vt	了:ASP	一:DET	份:M	咖椰:N	吐司:N	套餐:N	
+$:FW	110:DET	
+一起:ADV	吃:Vt	
+再:ADV	多:ADV	加:Vt	一:DET	杯:M	冰:N	奶茶:N	
+$:FW	60:DET	
+吐司:N	套餐:N	有:Vt	兩:DET	份:M	咖椰:N	吐司:N	、:PAUSECATEGORY	一:DET	顆:M	養生蛋:N	
+可以:ADV	選:Vt	全熟:N	的:T	水:N	煮:Vt	蛋:N	或是:C	半熟:Vi	的:T	溫泉:N	蛋:N	
+、:PAUSECATEGORY	一:DET	杯:M	熱:Vt	
+茶:N	或:C	咖啡:N	和:C	一:DET	份:M	甜點:N	
+分量:N	看起來:ADV	很少:ADV	
+可是:C	對於:P	平常:N	早餐:N	一:DET	杯:M	牛奶:N	就:ADV	飽:Vi	的:T	我:N	和:C	小弟:N	根本:ADV	
+是:Vt	大胃王:N	套餐:N	
+幸好:ADV	我們:N	很:ADV	有:Vt	智慧:N	的:T	合點:N	
+不然:C	根本:ADV	吃:Vt	不:ADV	完:Vt	XD:FW	
+咖椰:N	吐司:N	看起來:ADV	真的:ADV	是:Vt	滿:ADV	特別:Vi	的:T	
+咖啡色:N	的:T	吐司:N	用:P	烤:Vt	台烤:Vt	的:T	脆脆:Vi	的:T	像:Vt	餅乾:N	一樣:Vi	
+裡面:N	抹上:Vt	
+甜甜:Vi	的:T	半:DET	透明:Vi	咖椰:N	醬:N	
+再:ADV	夾上:Vt	一:DET	塊:M	鹽味:N	奶油:N	
+又:ADV	鹹:Vi	又:ADV	甜:Vi	完全:ADV	是:Vt	我:N	的:T	口味:N	
+可惜:Vi	的:T	是:Vt	咖椰:N	醬:N	
+不:ADV	是:Vt	平均:Vi	的:T	抹:Vt	在:P	吐司:N	上:N	
+只:ADV	有:Vt	中間:N	的:T	地方:N	有:Vt	
+奶油:N	也:ADV	是:Vt	小:Vi	塊:M	的:T	夾:Vt	在:P	中間:N	
+如果:C	每:ADV	一口:ADV	都:ADV	能:ADV	
+吃到:Vt	餡料:N	就:ADV	更:ADV	好了:T	
+半熟:Vi	蛋:N	就:ADV	是:Vt	半熟:Vi	蛋:N	
+蛋黃:N	是:Vt	比較:ADV	深:Vi	橘色:N	的:T	那:DET	種:M	
+搭配:Vt	醬油:N	跟:P	胡椒:N	鹽單:N	吃:Vt	就:ADV	頗:ADV	好吃:Vi	的:T	
+或是:C	
+可以:ADV	用:P	吐司:N	去:ADV	沾:Vt	蛋黃:N	吃:Vt	也:ADV	不錯:Vi	
+奶茶:N	是:Vt	屬於:Vt	茶味:N	比較:ADV	重:Vi	的:T	奶茶:N	
+味道:N	會:ADV	讓:Vt	人:N	聯想到:Vt	泰式:A	奶:N	
+茶:N	的:T	那:DET	種:M	口味:N	
+冷:Vi	熱:N	都:ADV	好喝:Vi	
+不過:C	這:DET	種:M	天氣:N	還是:ADV	點:Vt	冷:Vi	得:T	比較:ADV	好:Vi	
+我:N	就:ADV	像:Vt	傻子:N	一樣:Vi	點:Vt	了:ASP	熱:Vt	的:T	
+然後:ADV	喝:Vt	了:ASP	猛:ADV	冒:Vt	汗:N	
+甜點:N	是:Vt	茶凍:N	
+就是:C	一般:A	的:T	茶凍:N	而已:T	沒:Vt	什麼:DET	特別:Vi	
+不會:ADV	太:ADV	甜:Vi	
+很:ADV	適合:Vi	當作:Vt	
+喝:Vt	了:ASP	甜甜:Vi	的:T	奶茶:N	後:POST	的:T	收尾:Nv	
+結論:N	時間:N	
+亞坤:N	的:T	早餐:N	真的:ADV	滿:ADV	好吃:Vi	的:T	
+不過:C	我:N	覺得:Vt	不用:ADV	點:Vt	套餐:N	也:ADV	沒關係:Vi	
+重點:N	的:T	吐司:N	有:Vt	吃:Vt	
+到:P	就:ADV	值得:Vi	
+而且:C	比起:P	內:N	用:Vt	我:N	覺得:Vt	外帶:Vt	比較:ADV	適合:Vi	
+因為:C	店裡:N	的:T	空調:N	好:ADV	弱:Vi	
+坐:Vi	一下:N	下:POST	就:ADV	覺得:Vt	熱:Vt	
+了:T	

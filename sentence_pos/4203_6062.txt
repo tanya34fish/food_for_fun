@@ -1,0 +1,82 @@
+aner:FW	(:PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	山海樓:N	手工:N	台菜:N	好吃:Vi	的:T	養生:Nv	餐廳:N	
+Fri:FW	
+Apr:FW	
+3:DET	
+16:DET	::COLONCATEGORY	52:DET	::COLONCATEGORY	21:DET	
+2015:DET	
+無:Vt	音樂:N	圖文:N	網誌版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	wanwanr9.pixnet.net/blog/post:FW	/:FW	273285856:DET	
+=:FW	=:FW	
+餐廳:N	名稱:N	：:COLONCATEGORY	台北:N	山海樓:N	手工:N	台菜:N	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	3月:N	
+地址:N	::COLONCATEGORY	台北市:N	中山區:N	中山北路:N	二段:N	11巷:N	16:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2581:DET	-:DASHCATEGORY	5760:DET	
+=:FW	=:FW	
+要:ADV	找到:Vt	在:P	台北:N	有:Vt	包廂:N	一:DET	大:Vi	桌:M	可:ADV	容納:Vt	20多:DET	人:N	非:Vt	西餐:N	交通:N	便利:Nv	的:T	餐廳:N	
+最後:N	選定:Vt	了:ASP	這:DET	家:M	聽說:Vt	是:Vt	永豐餘:N	生技:N	旗下:N	的:T	健康:Vi	養生:Vi	豪華:Vi	台菜:N	餐廳:N	
+地點:N	隱秘:Vi	但:C	很:ADV	方便:Vi	就:ADV	在:P	中山:N	站:N	大倉:N	久:Vi	和:C	旁邊:N	的:T	巷子:N	進去:Vi	
+居然:ADV	有:Vt	那麼:ADV	一:DET	家:M	獨棟:A	有:Vt	花園:N	的:T	洋房:N	別墅:N	
+一:ADV	看進去:Vt	有種:Vi	豪宅:N	官邸:N	的:T	感覺:N	看:Vt	介紹:N	是:Vt	1932年:N	的:T	老:Vi	房子:N	過去:N	為:P	日本:N	醫生:N	的:T	私宅:N	
+我們:N	的:T	包廂:N	一角:N	很:ADV	美:Vi	的:T	畫:N	以及:C	藝術品:N	等:POST	人:N	都:ADV	到齊:Vi	後:POST	開始:Vt	上菜:Vi	啦:T	
+主人家:N	因為:C	很:ADV	怕:Vt	大夥:N	吃:Vt	不:ADV	飽:Vi	聽說:Vt	還:ADV	有:Vt	幫:P	我們:N	加菜:Vi	喔:T	也:ADV	太:ADV	幸福:Vi	了:T	吧:T	
+現烤:Vt	野生:A	烏魚:N	子:N	
+幾:DET	本:M	上:POST	我們:N	的:T	菜:N	都:ADV	是:Vt	一:DET	大:Vi	盆:M	來:Vi	的:T	餐廳:N	會:ADV	幫:P	我們:N	分盤:N	服務:Nv	所以:C	上菜:Vi	
+山海:N	豪華:Vi	拼盤:N	
+包括:Vt	六:DET	道:M	手工:N	菜人蔘豬心:N	/:FW	捆:Vt	蹄:N	/:FW	肝:N	花:N	/:FW	甘蔗:N	燻雞:N	/:FW	三:DET	色:M	蛋:N	中:POST	捲:Vt	/:FW	達:N	那:DET	滷:Vt	鮑:N	
+魚:N	
+大概:ADV	都:ADV	是:Vt	冷盤:N	醺雞:N	很:ADV	嫩:Vi	很:ADV	好吃:Vi	
+蚵:N	爹:N	拼:Vt	海菜:N	煎餅:N	
+蚵:N	爹:N	深受:P	友人:N	好評:N	是:Vt	選用:Vt	外:POST	拿:Vt	頂洲鮮蚵:N	、:PAUSECATEGORY	四:DET	種:M	蔬菜:N	、:PAUSECATEGORY	肉絲:N	作為:Vt	內:N	餡:N	
+新鮮:Vi	好吃:Vi	
+煎餅:N	薄:Vi	脆:Vi	類似:Vt	餅干:N	口感:N	...:ETCCATEGORY	
+蔬菜:N	花園:N	
+好:ADV	漂亮:Vi	的:T	配色:Nv	跟:C	精美:Vi	的:T	盤子:N	但:C	真的:ADV	份量:N	都:ADV	就:ADV	一:ADV	小:Vi	片:M	這樣:Vi	而已:T	味道:N	也:ADV	很:ADV	清:Vi	
+淡:Vi	
+季節:N	冰沙:N	
+酸酸甜甜:Vi	的:T	口感:N	可以:ADV	去:Vt	一下:N	口:N	裡:N	的:T	氣味:N	女生:N	吃:Vt	很:ADV	ok:FW	萬:DET	就:ADV	覺得:Vt	蠻:ADV	好吃:Vi	的:T	
+但:C	隔壁:N	的:T	男生:N	一口:ADV	吃下去:Vi	說:Vt	了:ASP	聲:N	":FW	好:ADV	酸:Vi	":FW	男女:N	對:P	酸:Vi	的:T	承受度:N	果然:ADV	差:Vi	很:ADV	大:Vi	...:ETCCATEGORY	
+封肉滷:N	筍:N	
+這:DET	道:M	菜:N	聽說:Vt	是:Vt	後來:N	主人家:N	加菜:Vi	的:T	部分:DET	下面:N	鋪:Vt	了:ASP	筍絲:N	
+還:ADV	有:Vt	一:DET	層:M	邪惡:Vi	的:T	油:N	嘿:T	
+封肉:N	超級:A	好吃:Vi	軟:Vi	爛:Vi	夠味:Vi	還好:ADV	有:Vt	分:M	菜:N	每:DET	人:N	是:Vt	一:DET	小:Vi	份:N	不然:C	我:N	可能:ADV	會:ADV	無法:ADV	阻止:Vt	自己:N	再:ADV	去:ADV	
+夾:Vt	一:DET	塊:M	呵呵:ADV	
+餐廳:N	介紹:Vt	文:N	
+客家:N	宴席菜:N	帶:Vt	皮掛川:N	五花肉:N	與:C	筍子:N	一起:ADV	滷製封肉皮:N	Q:FW	筍子:N	入味:N	
+三:DET	絲:M	丸:M	
+肉丸:N	MIX:FW	蘿蔔:N	絲:N	、:PAUSECATEGORY	蛋絲:N	等:POST	...:ETCCATEGORY	沒:Vt	太:ADV	大:Vi	印象點:N	
+高麗菜:N	封:Vt	
+高麗菜:N	很:ADV	脆:Vi	甜:Vi	感覺:N	又:ADV	是:Vt	一:DET	道:M	養生:Vi	的:T	來:Vi	了:ASP	...:ETCCATEGORY	
+麻油:N	雞:N	米糕:N	
+其實:ADV	萬:ADV	平常:Vi	餐敍:N	很少:ADV	吃:Vt	這:DET	類:M	大:Vi	澱粉:N	的:T	但:C	今天:N	這:DET	道:M	讓:Vt	萬有:N	驚豔:Vi	到:P	吃光光:Vi	喔:T	
+麻油:N	很:ADV	香:Vi	一口:ADV	接:Vt	一口:ADV	
+石斛:N	八寶:N	葫蘆:N	雞湯:N	
+跟:P	剛剛:ADV	的:T	麻油:N	雞:N	米糕:N	感覺:N	好像:ADV	是:Vt	一:DET	組:M	的:T	雞湯:N	好鮮:Vi	
+紅豆:N	煎:Vt	追:Vt	
+這:DET	也:ADV	是:Vt	加:Vt	點:M	的:T	甜點:N	看起來:ADV	好:ADV	漂亮:Vi	上面:N	的:T	裝飾品:N	也:ADV	可以:ADV	吃:Vt	是:Vt	麥芽糖:N	來:Vi	的:T	
+這:DET	道:M	菜:N	有:Vt	故事:N	聽說:Vt	是:Vt	相傳:Vt	鄭成功:N	來:Vi	台:N	物資:N	缺:Vt	正好:ADV	遇上:Vt	端午節:N	沒有:ADV	足夠:Vi	的:T	糯米:N	綁:Vt	粽子:N	
+因此:C	發明:Vt	了:ASP	糯米:N	漿:N	加:Vt	紅豆:N	的:T	煎鎚:N	代替:Vt	粽子:N	慰勞:Vt	士兵:N	是:Vt	傳統:Vi	美食:N	
+一口:ADV	下去:Vi	其實:ADV	紅豆:N	的:T	味道:N	不:ADV	重:Vt	很多:DET	人:N	本來:ADV	以為:Vt	是:Vt	麻:N	及:C	外層:N	刷:Vt	了:ASP	糖漿:N	外:POST	脆內軟:Vi	熱熱:Vi	
+的:T	好吃:Vi	好吃:Vi	
+杏仁:N	豆腐:N	
+杏仁味:N	非常:ADV	濃:Vi	好:Vi	香:N	不會:ADV	很:ADV	甜:Vi	膩:Vi	
+結尾:Vi	還:ADV	有:Vt	一:DET	大盤:N	的:T	
+季節:N	水果:N	
+同樣:ADV	高:Vi	品質:N	就:ADV	沒:ADV	特別:Vi	拍照:Vi	了:ASP	
+對了:Vi	再:ADV	介紹:Vt	一下:N	他們:N	的:T	飲料:N	當場:ADV	因為:C	有:Vt	部分:DET	朋友:N	開車:Vi	不:ADV	喝:Vt	酒:N	
+山海樓:N	跟:P	我們:N	推荐:Vt	了:ASP	他們:N	
+以:P	獨特:Vi	葡萄酒:N	釀造:Vt	技術:N	來:ADV	做:Vt	的:T	蘋果汁:N	
+來:ADV	取代:Vt	酒:N	
+感覺:Vt	很:ADV	神:Vi	的:T	樣子:N	每:DET	個:M	人:N	都:ADV	好奇:Vi	的:T	來:Vi	了:ASP	一:DET	杯:M	....:ETCCATEGORY	但:C	萬:ADV	好像:ADV	還是:ADV	比較:ADV	喜歡:Vt	喝:Vt	的:T	到:P	渣渣:N	的:T	現:N	
+打:Vt	果汁:N	阿:N	...:ETCCATEGORY	
+我們:N	的:T	大:Vi	包廂:N	在:P	台北:N	要:ADV	找到:Vt	可以:ADV	容維:N	近:ADV	30:DET	人:N	的:T	大:Vi	桌:N	真的:ADV	不:ADV	容易:Vi	阿:N	....:ETCCATEGORY	
+再:ADV	來:ADV	一:DET	瞥:Vt	建築物:N	外觀:N	綠意盎然:Vi	
+除了:P	我們:N	的:T	大:Vi	包廂:N	旁邊:N	也:ADV	有:Vt	小:Vi	包廂:N	好:ADV	溫馨:Vi	...:ETCCATEGORY	但:C	燈光:N	是:Vt	不:ADV	是:Vt	有點:ADV	怪怪:Vi	的:T	...:ETCCATEGORY	
+一樓:N	也:ADV	備有:Vt	台菜:N	餐廳:N	必備:A	的:T	海鮮:N	區阿:N	...:ETCCATEGORY	
+據:P	側面:N	了解:Vt	今天:N	我們:N	這:DET	頓:M	是:Vt	請:Vt	山海樓配:N	菜:N	一:DET	個:M	人:N	的:T	費用:N	大約:ADV	是:Vt	2500:DET	元:M	UP:FW	/:FW	不:ADV	加:Vt	酒:N	水:N	
+實在:ADV	是:Vt	不:ADV	便宜:Vi	阿:N	....:ETCCATEGORY	
+特別:Vi	照:Vt	了:ASP	他們:N	的:T	套餐:N	菜單:N	套餐價:N	是:Vt	2680:DET	元:M	咋舌:Vi	了:ASP	一下:N	....:ETCCATEGORY	
+其實:ADV	在:P	來:Vi	山海樓:N	之前:POST	有:Vt	聽到:Vt	朋友:N	對:P	餐廳:N	的:T	評價:N	就:ADV	是:Vt	走:Vi	健康:Vi	養生:Nv	路線:N	
+所以:C	我:N	心:N	中:POST	對:P	他:N	的:T	美味度:N	就:ADV	先:ADV	打:Vt	了:ASP	拆扣:N	
+但:C	實際:Vi	來:ADV	用:Vt	過:ASP	餐:N	後:POST	的確:ADV	覺得:Vt	是:Vt	蠻:ADV	不錯:Vi	吃:Vt	的:T	
+但:C	若:C	考量:Vt	到:P	價格:N	...:ETCCATEGORY	小聲:Vi	的:T	說:Vt	可能:ADV	還是:ADV	想來:ADV	個:M	大魚大肉:N	吧:T	....:ETCCATEGORY	
+養生菜:N	我:N	還:ADV	無法:ADV	領略:Vt	阿:N	....:ETCCATEGORY	

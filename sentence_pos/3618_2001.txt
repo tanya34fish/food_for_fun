@@ -1,0 +1,105 @@
+earth:FW	875:DET	(:PARENTHESISCATEGORY	噗:ADV	啊:T	juujon:FW	~:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	SoloPasta:FW	
+Mon:FW	
+Oct:FW	
+6:DET	
+19:DET	::COLONCATEGORY	38:DET	::COLONCATEGORY	57:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	SoloPasta:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	10:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	安和路:N	一段:N	29之1號:N	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2775:DET	-:DASHCATEGORY	3645:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	15:DET	::COLONCATEGORY	00:DET	;:SEMICOLONCATEGORY	17:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	;:SEMICOLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	Sun:FW	,:COMMACATEGORY	Fri:FW	,:COMMACATEGORY	Sat:FW	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	350:DET	~:FW	500:DET	
+圖文:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	juujon.pixnet.net/blog/post:FW	/:FW	188082243:DET	
+這:DET	天:M	是:Vt	去:Vt	歐洲:N	念書:Vi	時:POST	的:T	小:Vi	同學會:N	
+恰巧:ADV	找到:Vt	這:DET	間:M	義式:A	風味:N	濃厚:Vi	的:T	SoloPasta:FW	
+和:C	Solo:FW	
+Trattoria:FW	一樣:Vi	同:ADV	為:P	王嘉平:N	主廚:N	旗下:N	的:T	餐廳:N	
+著重:Vt	在:P	義大利麵:N	的:T	各:DET	種:M	風味:N	
+感覺:Vt	蠻:ADV	漂亮:Vi	的:T	
+是:Vt	個:M	適合:Vi	聚餐:Vi	的:T	好:Vi	去處:N	
+位於:Vt	敦南:N	誠品:N	後方:N	的:T	SoloPasta:FW	其實:ADV	交通:N	方式:N	算:Vt	方便:Vi	
+我們:N	抵達:Vt	
+的:T	時候:N	大約:ADV	六:DET	點:M	
+即便:C	SoloPasta:FW	已經:ADV	開:Vt	很:ADV	久:Vi	了:T	
+不過:C	到:P	晚上:N	時間:N	還是:C	位置:N	滿滿:Vi	的:T	
+建議:Vt	
+來:Vi	之前:POST	最好:ADV	先:ADV	訂位:Vi	比較:ADV	保險:Vi	
+另外:C	要:ADV	提到:Vt	是:Vt	這裡:N	有:Vt	每:DET	人:N	350:DET	元:M	的:T	低消:N	
+對於:P	每:DET	道:M	義大利麵:N	
+差不多:Vi	三百:DET	塊:M	以內:POST	是:Vt	個:M	有點:ADV	不:ADV	乾:Vi	不:ADV	脆:Vi	的:T	數字:N	
+總之:ADV	大概:ADV	是:Vt	要點:N	盤麵:N	之外:POST	又:ADV	要:ADV	多點:DET	一:DET	個:M	品:N	項:M	
+就是了:Vi	
+一:ADV	開始:Vt	上桌:Vi	的:T	是:Vt	皮耶蒙:N	熱水澡:N	沙拉:N	
+簡單:Vi	說:Vt	就:ADV	是:Vt	一:DET	堆:M	新鮮:Vi	的:T	蔬菜:N	搭配:Vt	一:DET	碗:M	鯷魚:N	大蒜:N	醬汁:N	
+其實:ADV	風味:N	是:Vt	非常:ADV	好吃:Vi	一點:ADV	也:ADV	不:ADV	難:Vi	想像:Vt	
+名字:N	雖然:C	是:Vt	熱水澡:N	
+而且:C	下方:N	還:ADV	有:Vt	個:M	蠟燭:N	燈:N	在:P	燒:Vt	
+但:C	實際:Vi	上:POST	一直:ADV	都:ADV	溫溫:Vi	的:T	沒有:Vt	很:ADV	熱:Vt	
+感覺:N	熱:Vt	一:DET	點:N	會:ADV	更:ADV	香:Vi	
+只要:C	一點:DET	要:ADV	注意:Vt	就:ADV	是:Vt	上方:N	的:T	油:N	是:Vt	沒:ADV	
+有:Vt	味道:N	的:T	
+醬汁:N	都:ADV	沉澱:Vi	在:P	下面:N	
+建議:Vt	先:ADV	用:P	羅曼葉:N	把:P	下面:N	的:T	醬汁:N	撈:Vt	一下:N	攪拌:Vt	均勻:Vi	
+也:ADV	比較:ADV	好:Vi	
+沾附:Vt	味道:N	
+不然:C	芹菜:N	或:C	胡蘿蔔:N	這:DET	類:M	蔬菜:N	還:ADV	蠻:ADV	難:Vi	沾附:Vt	這:DET	種:M	油醬:N	
+可就:ADV	浪費:Vt	了:ASP	
+巴薩醋燻鴨胸:N	奶油:N	義大利麵:N	算是:Vt	店家:N	推薦:Vt	的:T	經典:N	菜色:N	
+鴨胸:N	的:T	香氣:N	其實:ADV	蠻:ADV	明顯:Vi	的:T	可以:ADV	聞到:Vt	
+麵條:N	本身:N	飽滿:Vi	地:T	沾:Vt	附:Vt	了:ASP	醬汁:N	
+帶:Vt	著:ASP	濃郁:Vi	醇厚:Vi	的:T	奶醬:N	甜:Vi	
+而:C	巴薩醋:N	不僅:C	讓:Vt	風味:N	多點:DET	層次:N	
+色調:N	也:ADV	呈現:Vt	可口:Vi	的:T	琥珀色:N	
+味道:N	非常:ADV	推薦:Vt	
+不過:C	整:DET	道:N	吃完:Vt	終究:ADV	還是:ADV	會:ADV	有點:ADV	膩:Vi	
+建議:Vt	可以:ADV	兩:DET	
+人:N	點:Vt	兩:DET	道:M	一同:ADV	分食:Vt	會:ADV	比較:ADV	好:Vi	
+煙花女:N	麵:N	可以:ADV	理解為:Vt	味道:N	豐富:Vt	且:C	偏重:Vt	口味:N	的:T	麵食:N	
+用:P	鯷魚:N	、:PAUSECATEGORY	橄欖:N	和:C	一些:DET	辛:Vi	香料:N	調出:Vt	來:Vi	的:T	醬:N	
+料:Vt	充分:Vi	均勻:Vi	地:T	拌:Vt	在:P	麵:N	體:N	上:N	
+其實:ADV	入口:Vi	的:T	感覺:N	有一點點:ADV	像:Vt	沙茶:N	
+但是:C	香氣:N	沒有:ADV	那麼:ADV	膩:Vi	
+本身:N	
+的:T	鮮:Vi	甜:Vi	也:ADV	很:ADV	夠味:Vi	
+一:DET	旁:N	的:T	小:Vi	貝柱:N	是:Vt	軟軟:Vi	的:T	那:DET	種:M	
+很:ADV	開胃:Vi	香鮮:N	的:T	一:DET	品:N	適合:Vi	熱天:N	來:ADV	吃:Vt	
+羅馬:N	辣味:N	鹹豬肉:N	管:Vt	麵:N	就:ADV	很:ADV	偏:Vt	紅醬風:N	了:T	
+番茄:N	的:T	味道:N	很:ADV	鮮:Vi	比較:ADV	清爽:Vi	些:ADV	
+鹹豬肉:N	細細:Vi	咬:Vt	可以:ADV	吃:Vt	
+到:P	油脂:N	香氣:N	
+另外:C	還:ADV	有:Vt	稍稍:ADV	混入:Vt	一些:DET	羊奶:N	起:POST	士:N	
+但:C	個:M	人:N	覺得:Vt	香氣:N	沒:ADV	到:P	很:ADV	出來:Vt	有點:ADV	可惜:Vi	
+不:ADV	
+然:C	味道:N	是:Vt	很:ADV	不錯:Vi	的:T	
+自製:Vt	香腸:N	肉:N	末炒普利亞貓:N	耳朵麵:N	是:Vt	個:M	人:N	覺得:Vt	接受度:N	可能:ADV	是:Vt	最:ADV	高:Vi	的:T	
+一:DET	入口:N	就:ADV	能:ADV	很:ADV	充分:Vi	地:T	感:N	
+受到:Vt	香腸:N	熟成:Vt	過:ASP	的:T	氣息:N	
+因為:C	肉:N	末:N	的:T	品質:N	跟:P	風味:N	都:ADV	非常:ADV	有:Vt	水準:N	
+所以:C	整:DET	道:M	麵食:N	的:T	很:ADV	有:Vt	整體:N	
+性:N	之外:POST	也:ADV	相當:Vi	加分:Vi	
+貓:N	耳朵:N	的:T	硬度:N	比:P	一般:A	義大利麵:N	要:ADV	更:ADV	耐嚼:Vt	些:M	
+需要:Vt	多:ADV	咬:Vt	幾:DET	下:M	正好:ADV	能:ADV	細細:Vi	
+品味:N	搭出:Vt	來:Vi	的:T	鮮味:N	
+如果:C	喜歡:Vt	這邊:N	的:T	肉腸:N	的:T	話:N	一定:ADV	會:ADV	很:ADV	喜歡:Vt	這:DET	品:N	
+相當:ADV	推薦:Vt	接受度:N	應該:ADV	很:ADV	
+高:Vi	
+栗子:N	蒙布朗:N	畫面:N	真的:ADV	很:ADV	美:Vi	
+不過:C	比:P	想像:N	中:POST	的:T	小:Vi	多:Vi	了:T	
+簡單:Vi	說:Vt	就是:C	一:DET	塊:M	栗子:N	泥:N	餡:N	的:T	蛋糕:N	甜點:N	
+外頭:N	有:Vt	鮮:Vi	奶油:N	覆蓋:Vt	上:POST	去:ADV	
+再:ADV	撒上:Vt	口感:N	有點:ADV	像:Vt	仙貝:N	的:T	糖霜:N	增加:Vt	脆感:N	
+整體:N	上:N	是:Vt	蠻:ADV	好吃:Vi	的:T	甜:Vi	
+點:Vt	
+就是:C	有點:ADV	小:Vi	稍稍:ADV	高價:ADV	了:ASP	點:M	
+SoloPasta:FW	整體:N	上:POST	真的:ADV	都:ADV	在:P	水準:N	之上:POST	
+最:ADV	厲害:Vi	的:T	就是:C	醬汁:N	跟:P	料:N	的:T	處理:Nv	都:ADV	非常:ADV	好:Vi	
+而且:C	每:DET	一:DET	
+道:Vt	的:T	特色:N	都:ADV	很:ADV	鮮明:Vi	
+是:Vt	真的:ADV	能:ADV	吃到:Vt	很:ADV	好吃:Vi	的:T	義大利麵:N	的:T	好:Vi	去處:N	
+整體:N	氣氛:N	看起來:ADV	是:Vt	很:ADV	活潑:Vi	
+大方:Vi	的:T	那:DET	種:M	很:ADV	適合:Vi	來:ADV	聚餐:Vi	
+而且:C	其實:ADV	份量:N	也:ADV	不:ADV	算:Vt	少:Vi	
+但:C	似乎:ADV	只有:ADV	單:ADV	點:Vt	所以:C	還:ADV	有:Vt	些:ADV	不:ADV	滿足:Vt	
+大概:ADV	一:DET	個:M	人:N	一:DET	盤:M	麵:N	加:Vt	一:DET	個:M	前:POST	菜:N	或:C	甜點:N	會:ADV	比較:ADV	剛好:Vi	

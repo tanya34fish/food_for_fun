@@ -1,0 +1,15 @@
+samorz:FW	(:PARENTHESISCATEGORY	安藤:N	棕熊:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北市:N	哪:N	邊:N	有:Vt	真的:ADV	用:P	番紅花:N	的:T	料理:N	
+Mon:FW	
+Aug:FW	
+18:DET	
+22:DET	::COLONCATEGORY	35:DET	::COLONCATEGORY	33:DET	
+2014:DET	
+請益:Vi	
+台北市:N	哪:N	邊:N	有:Vt	真的:ADV	用:P	番紅花:N	的:T	料理:N	
+MonAug:FW	1822:DET	::COLONCATEGORY	35:DET	::COLONCATEGORY	332014:DET	
+因為:C	自己:N	很:ADV	好奇:Vi	世界:N	上:N	最:ADV	貴:Vi	的:T	香料:N	是:Vt	什麼:DET	味道:N	
+想:Vt	在:P	台北市:N	吃到:Vt	真的:ADV	有用:Vi	番紅花:N	的:T	料理:N	
+有:Vt	什麼:DET	選擇:Vt	西班牙:N	海鮮:N	燉飯:Vt	
+請問:Vt	台北市:N	想:Vt	吃到:Vt	預算:N	1:DET	人:N	1000:DET	左右:N	4:DET	人:N	台北市:N	吃:Vt	的:T	到:Vt	嗎:T	
+有:Vt	推薦:Vt	的:T	店:N	嗎:T	

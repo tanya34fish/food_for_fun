@@ -1,0 +1,53 @@
+uwxuwx(P:FW	幣:N	能:ADV	買:Vt	美食:N	嗎:T	?:QUESTIONCATEGORY	!:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	饒河:N	夜市:N	-:DASHCATEGORY	鴨霸:Vi	雞王:N	「:PARENTHESISCATEGORY	香酥:N	芋泥:N	鴨:N	」:PARENTHESISCATEGORY	
+Fri:FW	
+Jul:FW	
+25:DET	
+09:DET	::COLONCATEGORY	46:DET	::COLONCATEGORY	50:DET	
+2014:DET	
+圖文:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	76343142:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	鴨霸:Vi	雞王:N	地址:N	：:COLONCATEGORY	台北市:N	松山區:N	饒河街:N	255:DET	號:M	
+松山:N	慈祐宮:N	旁:N	
+營業:Nv	時間:N	：:COLONCATEGORY	17:DET	::COLONCATEGORY	30:DET	
+01:DET	::COLONCATEGORY	00:DET	消費:N	時間:N	：:COLONCATEGORY	2014.07:DET	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	在:VCP	立法院:N	經營:Vt	20:DET	年:M	的:T	老字號:N	餐廳:N	
+第二:DET	代:N	到:Vt	饒河:N	夜市:N	賣:Vt	起:ASP	炸雞:N	排:Vt	、:PAUSECATEGORY	芋泥:N	鴨:N	
+講起:Vt	廣東:N	名:A	菜:N	
+香酥:N	芋泥:N	鴨:N	
+是:Vt	滿漢全席:N	其中:DET	一:DET	道:M	
+一般:ADV	在:P	粵菜:N	餐廳:N	至少:ADV	得:ADV	花:Vt	二百:DET	元:M	才:ADV	吃:Vt	得到:Vt	
+現在:N	鴨霸:Vi	雞王:N	把:P	這:DET	道:M	菜:N	帶進:Vt	夜市:N	裡:N	
+1百:DET	元:M	有:Vt	找:Vt	
+算是:Vt	推廣價:N	
+讓:Vt	更多:DET	民眾:N	認識:Vt	這:DET	道:M	越來越:ADV	少見:Vi	的:T	功夫菜:N	
+除了:P	芋泥:N	鴨:N	
+鴨霸:Vi	雞王:N	還:ADV	有:Vt	賣:Vt	炸雞:N	排:Vt	、:PAUSECATEGORY	炸:Vt	地瓜:N	、:PAUSECATEGORY	炸:Vt	魷魚:N	...:ETCCATEGORY	等:POST	
+給:Vt	我:N	感覺:Vt	是:Vt	連鎖店:N	-:DASHCATEGORY	派克:N	雞:N	排:Vt	的:T	升級版:N	
+香酥:N	芋泥:N	鴨:N	
+一:DET	份:M	80:DET	元:M	
+附:Vt	生菜:N	沙拉:N	
+生菜:N	沙拉:N	有:Vt	三:DET	種:M	淋醬:N	可以:ADV	挑:Vt	
+我:N	選:Vt	澄汁:N	
+店員:N	建議:Vt	芋泥:N	鴨:N	內:N	用:Vt	
+外帶:Vt	的:T	話:N	
+就是:C	邊:ADV	逛:Vt	夜市:N	邊:N	吃:Vt	
+打包:Vi	的:T	話:N	
+會:ADV	失去:Vt	原有:Nv	滋味:N	
+最後:N	
+我:N	選:Vt	內用:N	
+芋泥:N	鴨:N	就:ADV	是:Vt	兩:DET	片:M	芋泥:N	夾:Vt	著:ASP	去:Vt	骨鴨:N	胸:N	
+不需:ADV	裏:N	粉:N	
+直接:Vi	下鍋:Vi	油炸:Vt	
+外層:N	會:ADV	有:Vt	類似:Vt	香酥:N	蜂巢:N	的:T	口感:N	
+吃完:Vt	芋泥:N	鴨:N	
+個:M	人:N	的:T	最:ADV	大:Vi	想法:N	就是:C	
+它:N	算是:Vt	不錯:Vi	吃:Vt	的:T	炸物:N	
+頗:ADV	含油:Vi	的:T	炸物:N	
+沒有:ADV	預想:Vt	中:POST	酥脆:Vi	
+也:ADV	無法:ADV	感受到:Vt	店家:N	在:P	文宣:N	中:POST	所:ADV	提:Vt	
+芋泥:N	綿密:Nv	鴨肉:N	甘甜:Vi	
+倒是:ADV	生菜:N	沙拉:N	的:T	澄汁:N	
+酸酸甜甜:Vi	
+小:Vi	清新:Vi	
+很:ADV	解膩:Vi	
+我:N	好:ADV	喜歡:Vt	
+延伸:Vi	閱讀:Vt	：:COLONCATEGORY	◎:FW	台北:N	亞東:N	甜不辣:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	74835936:DET	◎:FW	台北:N	黃:N	媽媽:N	米粉湯:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	61598802:DET	◎:FW	南投:N	日月潭:N	飯:N	飯:N	雞:N	翅:N	+:FW	拉長:Vt	蝦:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	72989174:DET	--:DASHCATEGORY	人生:N	以:P	吃喝玩樂:Vi	為:P	目的:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx:FW	--:DASHCATEGORY	

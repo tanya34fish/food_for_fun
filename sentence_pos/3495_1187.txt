@@ -1,0 +1,171 @@
+h1038333(bear:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	泰:N	鍋:N	中:POST	的:T	美味:N	#:FW	藍象廷:N	
+Wed:FW	
+Sep:FW	
+3:DET	
+00:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	32:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	藍象廷:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	08月:N	
+地址:N	：:COLONCATEGORY	台北市:N	慶城街:N	一:DET	號:M	B:FW	1:DET	
+電話:N	：:COLONCATEGORY	0225466579:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	~:FW	400:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	泰式:A	蒸籠:N	料理:N	
+官網:N	：:COLONCATEGORY	無:Vt	
+(:PARENTHESISCATEGORY	無:Vt	音樂:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	huian19900731.pixnet.net/blog/post:FW	/:FW	388136687:DET	):PARENTHESISCATEGORY	
+最近:N	Joanne:FW	去:ADV	做:Vt	了:ASP	泰式:A	按摩:Nv	
+在:P	按摩:Vt	過程:N	中:POST	憶起:Vt	去:Vt	泰國:N	的:T	種種:DET	
+突然:ADV	一陣:N	感傷:Vt	的:T	想:Vt	找尋:Vt	泰:N	
+國:N	的:T	好:Vi	味道:N	
+所以:C	瘋狂:Vi	蒐尋:Vt	有關:P	泰國:N	的:T	一切:DET	
+只:ADV	為:Vt	一:DET	解:Vt	思鄉:Vi	情:N	
+誤:ADV	
+說:Vt	得:T	好:ADV	想像:Vt	我:N	是:Vt	小:Vi	泰泰:N	一樣:Vi	
+哈:ADV	
+這:DET	間:M	店:N	是:Vt	Joanne:FW	在:P	臉:N	書:N	上:POST	無意:Vt	間:POST	看見:Vt	友人:N	去:ADV	吃:Vt	的:T	
+所以:C	立馬孤:Vi	狗:N	收進:Vt	口袋:N	
+一:ADV	休假:Vi	馬上:ADV	去:ADV	吃:Vt	
+藍象廷:N	位在:Vt	慶城街:N	一:DET	號:M	的:T	B:FW	1:DET	
+沒有:Vt	車:N	也:ADV	很:ADV	方便:Vi	到達:Vt	的:T	地方:N	
+搭文湖線:N	到:Vt	南京東路:N	站:Vi	一:DET	號:M	出口:Nv	就:ADV	可:ADV	見到:Vt	了:ASP	
+一下:N	到:Vt	樓下:N	是:Vt	一般:A	百貨:N	的:T	美食街:N	
+還:ADV	想:Vt	說:Vt	自己:N	有沒有:ADV	走錯:Vi	
+還:ADV	好:Vi	
+就是:C	這:DET	沒:ADV	錯:Vi	
+門口:N	有:Vt	裝飾:Vt	過:ASP	
+很:ADV	喜歡:Vt	的:T	風格:N	
+還:ADV	有:Vt	這:DET	指示牌:N	
+彷彿:ADV	告訴:Vt	我:N	轉:Vt	個:M	彎:N	就:ADV	可:ADV	見到:Vt	倫敦:N	、:PAUSECATEGORY	雪梨:N	、:PAUSECATEGORY	紐約:N	
+天:N	啊:T	好:Vi	想:Vt	去:ADV	
+從:P	大門:N	拍:Vt	進去:Vi	
+一樣桌:N	跟:P	桌:N	間:POST	滿:DET	靠近:Vt	的:T	
+想想:Vt	在:P	台北:N	寸土寸金:Vi	
+不:ADV	省:Vt	點:DET	空間:N	多:ADV	擺:Vt	張:M	桌椅:N	
+怎麼:ADV	對:P	
+椅子:N	是:Vt	舒服:Vi	的:T	沙發型:N	
+雖然:C	沒有:Vt	傳統:N	泰式:A	風格:N	
+但是:C	明亮:Vi	舒服:Vi	的:T	用餐:Nv	環境:N	
+就是:C	棒:Vi	
+桌:N	跟:P	桌:N	間:POST	的:T	距離:N	都:ADV	滿:ADV	近:Vi	的:T	
+尤其:ADV	點:Vt	一:DET	堆:M	東西:N	的:T	時候:N	完全:ADV	放不下:Vt	
+飲料:N	似乎:ADV	是:Vt	吃:Vt	鍋:N	不可:ADV	少:Vi	的:T	東西:N	
+自助區:N	的:T	飲料:N	吧:T	
+可樂:N	紅茶:N	咖啡:N	要:ADV	甚麼:DET	有:Vt	甚麼:DET	
+但:C	它:N	的:T	泰奶:N	
+好:ADV	白:Vi	
+怎麼:ADV	不:ADV	是:Vt	泰國:N	那:DET	種:M	迷人:Vi	的:T	橘紅色:N	
+所以:C	喝:Vt	起來:ASP	真的:ADV	沒有:Vt	泰國:N	的:T	茶香:N	搭:Vt	
+配超甜:Vi	煉乳:N	的:T	爽快:Vi	滋味:N	
+香茅:Vi	綠茶:N	就:ADV	別:ADV	說:Vt	了:ASP	
+Joanne:FW	真的:ADV	不:ADV	愛:Vt	
+連:C	菜單:N	都:ADV	是:Vt	大象:N	
+好:ADV	可愛:Vi	呀:T	
+簡單:Vi	的:T	菜單:N	
+主要:A	的:T	點菜:Vi	方式:N	就:ADV	先:ADV	選:Vt	鍋:N	底:POST	
+敢:Vt	吃:Vt	辣:Vi	的:T	就:ADV	選:Vt	泰式酸辣鍋:N	及:C	青:Vi	咖哩:N	鍋:N	
+對於:P	不:ADV	
+敢:Vt	吃:Vt	辣:Vi	的:T	朋友:N	就:ADV	選:Vt	泰式:A	番茄:N	鍋:N	或:C	檸檬:N	香茅:Vi	鍋:N	
+因為:C	怕:Vt	太:ADV	辣:Vi	
+Joanne:FW	選:Vt	的:T	是:Vt	泰式:A	酸辣鍋加:N	泰式:A	番茄:N	鍋:N	
+後來:N	覺得:Vt	應該:ADV	遵循:Vt	自己:N	的:T	本意:N	選青:N	
+咖哩:N	跟:P	酸辣:N	鍋:N	
+若:C	有點:ADV	鍋:N	可以:ADV	100:DET	元:M	加:Vt	點:M	兩樣:Vi	泰式:A	功夫:N	料理:N	
+或:C	Joanne:FW	超級:A	推薦:Vt	的:T	泰式:A	蒸籠:N	料理:N	
+而且:C	本來:ADV	的:T	用餐:Vi	使用:Vt	100:DET	分鐘:M	還可以:ADV	因為:C	蒸籠:N	料理:N	再:ADV	加:Vt	20:DET	分鐘:M	的:T	用餐:Nv	時間:N	
+餐具:N	
+不:ADV	像:P	泰國:N	是:Vt	給:P	叉子:N	跟:P	湯匙:N	
+畢竟:ADV	在:P	台灣:N	啊:T	
+上方:N	的:T	醬:N	一定:ADV	要:ADV	介紹:Vt	一下:N	
+左邊:N	檸檬:N	青醬:N	
+適合:Vi	肉類:N	、:PAUSECATEGORY	右邊:N	羅:N	望:Vt	酸子:N	醬:N	
+適合:Vi	蔬菜:N	
+吃:Vt	起:ASP	
+來:ADV	都:ADV	是:Vt	酸酸甜甜:Vi	
+檸檬:N	青醬:N	帶:Vt	點:M	微微:A	的:T	辣:Vi	
+沾上:Vt	它:N	肉:N	都:ADV	可以:ADV	多:ADV	吃:Vt	好幾:DET	塊:M	
+等待:Vt	的:T	時間:N	先:ADV	來:Vi	小菜:N	Joanne:FW	想:Vt	毛豆:N	大概:ADV	很:ADV	便宜:Vi	吧:T	怎麼:ADV	到:Vt	台灣:N	餐廳:N	且:C	不管:C	吃:Vt	哪:DET	種:M	國家:N	的:T	料理:N	
+怎麼:ADV	都:ADV	是:Vt	他:N	當:P	開胃:Vi	小菜:N	
+還:ADV	有:Vt	蝦餅:N	
+這:DET	是:Vt	Joanne:FW	不:ADV	敢:Vt	吃:Vt	的:T	餅乾:N	
+所以:C	沒:ADV	吃:Vt	
+首先:ADV	會:ADV	先:ADV	上:Vt	的:T	是:Vt	蒸籠:N	料理:N	
+底層:N	是:Vt	利用:Vt	香蘭葉蒸:N	煮:Vt	
+當:P	水:N	滾:Vi	了:ASP	
+服務:Nv	人員:N	就:ADV	會:ADV	幫:P	你:N	層層:DET	堆疊:Nv	蒸籠:N	料理:N	
+放:Vt	底層:N	的:T	是:Vt	無骨牛:Vi	小:Vi	排:Vt	
+看看:Vt	那:DET	油花:N	
+看到:Vt	它:N	就:ADV	在:P	想像:Vt	它:N	有:Vt	多:ADV	美味:Vi	了:T	
+上:N	層:N	是是:Vi	清蒸:Vt	蔬菜:N	
+裡面:N	有:Vt	栗子:N	地瓜:N	、:PAUSECATEGORY	蘆筍:N	、:PAUSECATEGORY	秋葵:N	、:PAUSECATEGORY	娃娃菜:N	、:PAUSECATEGORY	甜椒:N	及:C	玉米:N	筍:N	
+其中:DET	超級:A	推薦:Vt	的:T	就是:C	栗子:N	地瓜:N	
+明明:ADV	是:Vt	地瓜:N	卻:ADV	又:ADV	栗子:N	的:T	香氣:N	
+吃起來:ADV	綿綿:Vi	鬆鬆:Vi	
+Jonnne:FW	包:Vt	
+辦:Vt	全部:DET	
+應該:ADV	是:Vt	整:DET	籠:N	的:T	蔬菜:N	
+接著:ADV	就:ADV	是:Vt	等待:Vt	
+等待:Vt	沙漏:N	滴完:Vt	
+就:ADV	可以:ADV	吃:Vt	了:ASP	
+店家:N	推薦:Vt	沾:Vt	著:ASP	蒸籠:N	內牛:N	小:Vi	排:Vt	的:T	醬汁:N	-:DASHCATEGORY	香茅:Vi	薄荷醬:N	
+酸酸甜甜:Vi	
+其:DET	食:Vt	Joanne:FW	覺得:Vt	沾:Vt	什麼:DET	都:ADV	好:Vi	
+吃:Vt	
+當:P	沙漏:N	滴完:Vt	了:ASP	
+時間:N	到:Vt	了:ASP	
+開籠:N	的:T	時刻:N	
+真是:ADV	興奮:Vi	
+這:DET	混:Vt	著:ASP	香蘭葉:N	的:T	牛肉:N	服務:Nv	人員:N	幫忙:Vt	灑:Vt	
+上海:N	鹽:N	
+就:ADV	這樣:Vi	吃:Vt	也:ADV	簡單:Vi	卻:ADV	很:ADV	美味:Vi	
+超:Vt	適合:Vi	減肥:Vi	的:T	人:N	
+沾:Vt	著:ASP	店家:N	提供:Vt	的:T	香茅:Vi	薄荷醬:N	
+我:N	想:Vt	一:DET	個:M	人:N	就:ADV	可以:ADV	吃:Vt	完整:Vi	籠:N	了:T	
+在:P	那:DET	瞬間:N	升起:Vi	自己:N	也:ADV	買:Vt	一:DET	個:M	
+蒸籠:N	回家:Vi	的:T	慾望:N	
+很:ADV	快速:Vi	的:T	我們:N	吃完:Vt	這:DET	全部:DET	的:T	東西:N	
+期待:Vt	的:T	泰式椒麻:N	雞:N	來:Vi	了:ASP	
+酥脆:Vi	軟嫩:Vi	的:T	雞肉:N	加上:C	想念:Vt	的:T	椒麻:N	香味:N	
+就是:C	這:DET	個:M	味道:N	
+老闆:N	白飯:N	
+再:ADV	來:ADV	兩:DET	碗:M	
+涼拌:Vt	海鮮:N	
+也:ADV	是:Vt	Joanne:FW	到:P	泰式:A	餐廳:N	絕對:A	要點:N	的:T	
+酸甜:Vi	微:ADV	辣:Vi	的:T	泰式:A	醬料:N	拌:Vt	著:ASP	海鮮:N	
+我:N	要:ADV	全部:DET	
+打包:Vi	回家:Vi	
+天天:ADV	吃:Vt	
+哈:ADV	
+在:P	瞬間:N	服務:Nv	人員:N	幫:P	我們:N	換上:Vt	鍋:N	了:T	
+左邊:N	是:Vt	泰式:A	番茄:N	鍋:N	
+右邊:N	是:Vt	泰式酸辣:Vi	鍋:N	
+吃:Vt	過:ASP	酸辣鍋完:Vt	
+全:DET	不會:ADV	把:P	火鍋:N	料:Vt	往:P	番茄:N	鍋丟:N	
+當然:ADV	吃:Vt	過:ASP	肉:N	怎麼:ADV	可以:ADV	不:ADV	了解:Vt	一下:N	↓:FW	↓:FW	↓:FW	
+五:DET	花:N	牛:N	
+滿滿:Vi	油脂:N	
+吃起來:ADV	當然:ADV	軟嫩:Vi	好吃:Vi	
+低脂:N	牛:N	
+相較:Vi	五:DET	花:N	牛:N	口感:N	就:ADV	稍:ADV	硬:Vi	
+但:C	不會:ADV	滿:Vt	嘴:N	都:ADV	油:Vi	的:T	感覺:N	
+梅花:N	豬:N	
+胭脂:N	豬:N	
+因:C	Joanne:FW	嗜牛:N	成:Vt	性:N	
+對:P	豬:N	就:ADV	覺得:Vt	肉:N	比較:ADV	硬:Vi	
+煮:Vt	的:T	時間:N	要:ADV	抓:Vt	對:P	才:ADV	好吃:Vi	
+廢話:N	
+除了:P	白飯:N	還:ADV	有:Vt	媽媽麵:N	
+這:DET	完全:ADV	解:Vt	了:ASP	我:N	的:T	鄉思愁:N	啊:T	
+在:P	泰國:N	的:T	時光:N	
+消夜:N	天天:ADV	都:ADV	是:Vt	它:N	陪伴:Vt	我:N	
+Joanne:FW	是:Vt	將:P	麵:N	煮好:Vt	在:P	淋:Vt	上:N	酸辣鍋:N	的:T	湯:N	
+天:N	啊:T	
+有夠:ADV	好吃:Vi	但:C	真的:ADV	別:ADV	吃:Vt	太多:DET	
+其他:DET	東西:N	會:ADV	因為:C	這:DET	包:M	麵:N	就:ADV	吃:Vt	不:ADV	下:Vt	了:T	
+有:Vt	一:DET	種:M	感動:Vt	來自:Vt	鍋:N	中:POST	的:T	美味:N	
+店家:N	是:Vt	這麼:ADV	形容:Vt	的:T	
+吃完:Vt	真的:ADV	有:Vt	種:M	我:N	想:Vt	再:ADV	去:Vt	一:DET	趟:M	泰國:N	的:T	想法:N	
+我:N	真的:ADV	很:ADV	思鄉:Vi	
+到底:ADV	什麼:DET	時候:N	才:ADV	有:Vt	機會:N	再:ADV	回鄉:N	一:DET	趟:M	呢:T	

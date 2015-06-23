@@ -1,0 +1,89 @@
+Faberge:FW	(:PARENTHESISCATEGORY	你:N	的:T	大:Vi	Ｆ:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	LDTG_SunnyCafe:FW	台北:N	_:FW	中正區:N	
+Thu:FW	
+Aug:FW	
+28:DET	
+22:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	52:DET	
+2014:DET	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014.0:DET	7.26:DET	.:PERIODCATEGORY	午餐:N	友:N	：:COLONCATEGORY	7:DET	人:N	
+餐廳:N	名稱:N	：:COLONCATEGORY	SunnyCafe:FW	完整:Vi	食記:N	請:Vt	點:N	這裡:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/sU7G:FW	
+餐廳:N	地址:N	：:COLONCATEGORY	台北市:N	中華路:N	一段:N	23:DET	號:M	電話:N	：:COLONCATEGORY	０２－２３１４５３３３:DET	綜合:A	評價:N	：:COLONCATEGORY	6.0:DET	分:M	價位:N	：:COLONCATEGORY	約:ADV	224:DET	元:M	推薦:Nv	料理:N	：:COLONCATEGORY	鮪魚:N	披薩:N	::COLONCATEGORY	6.1:DET	分:M	早:Vi	午餐:N	::COLONCATEGORY	5.6:DET	分:M	原味:N	鬆餅:N	::COLONCATEGORY	5.9:DET	分:M	六:DET	年:M	以來:POST	
+一直:ADV	每:DET	週:M	出團:Vi	的:T	簡單:Vi	美食團:N	
+一直:ADV	相信:Vt	非:A	營利:Nv	才:ADV	能:ADV	不忘:Vt	味:N	初:POST	
+希望:Vt	也:ADV	能:ADV	與:P	你:N	相遇:Vi	在:P	某:DET	次:M	滿足:Vt	的:T	美味:Vi	餐桌:N	
+成為:Vt	一起:ADV	吃飯:Vi	的:T	朋友:N	
+如果:C	可以:ADV	
+如果:C	可以:ADV	
+但願:Vt	和:P	你:N	一起:ADV	嚐:Vt	遍:DET	幸福:Vi	
+餐廳:N	介紹:Vt	::COLONCATEGORY	文章:N	提供:Vt	：:COLONCATEGORY	團長:N	阿彥:N	很:ADV	難:Vi	想像:Vt	會:ADV	有:Vt	這樣:Vi	一:DET	間:M	咖啡廳:N	位於:Vt	中華路:N	
+門口:N	一:DET	大:Vi	片:M	落地窗:N	
+窗明几淨:Vi	的:T	感覺:N	
+就:ADV	如同:Vt	店名:N	sunnycafe:FW	
+引進:Vt	了:ASP	非常:ADV	充足:Vi	的:T	陽光:N	
+店:N	內:N	裝潢:Vt	走:Vi	loft:FW	風格:N	
+美式:A	閣樓:N	或:C	倉庫:N	風格:N	
+的:T	裝潢:N	
+看起來:ADV	就:ADV	有:Vt	一:DET	種:M	休閒:Nv	隨性:Vi	的:T	風格:N	
+帶:Vt	有點:ADV	老舊:Vi	復古:Vt	的:T	情懷:N	
+咖啡廳:N	的:T	隔壁:N	就:ADV	是:Vt	飯店:N	一樓:N	大廳:N	
+咖啡廳:N	與:C	飯店:N	相通:Vi	
+咖啡廳:N	老闆娘:N	嫁給:Vt	了:ASP	飯店:N	老闆:N	
+而:C	有:Vt	了:ASP	這樣:Vi	的:T	咖啡廳:N	
+checkpoint:FW	::COLONCATEGORY	SunnyCafe:FW	1:DET	.:PERIODCATEGORY	建議:N	事先:ADV	訂位:Vi	事先:ADV	訂位:Vi	是:Vt	最好:Vi	的:T	
+推薦:Vt	料理:Vt	第一:DET	道:M	::COLONCATEGORY	鮪魚:N	披薩:N	推薦度:N	：:COLONCATEGORY	72.9:DET	%:M	美味度:N	：:COLONCATEGORY	6.2:DET	價格:N	：:COLONCATEGORY	150:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=488#d:FW	2672:DET	介紹:N	--:DASHCATEGORY	不同於:Vt	一般:A	咖啡:N	簡餐:N	的:T	吐司式:N	披薩:N	
+這裡:N	的:T	鮪魚:N	比薩:N	還:ADV	算是:Vt	厚實:Vi	有:Vt	料:N	
+份瞭:N	看起來:ADV	不:ADV	大:Vi	但:C	用料:N	還:ADV	算:Vt	紮實:Vi	
+一:DET	個:M	人:N	吃:Vt	應該:ADV	蠻:ADV	有:Vt	飽足感:N	的:T	
+厚厚:Vi	的:T	起:Vt	司:N	跟:P	安全:Vi	的:T	鮪魚:N	洋蔥:N	餡料:N	
+不:ADV	讓:Vt	人:N	失望:Vi	的:T	一:DET	品:N	
+ｂｙ:FW	柏蓉:N	推薦:Vt	料理:Vt	第二:DET	道:M	::COLONCATEGORY	早:Vi	午餐:N	推薦度:N	：:COLONCATEGORY	61.4:DET	%:M	美味度:N	：:COLONCATEGORY	5.6:DET	價格:N	：:COLONCATEGORY	150:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=488#d:FW	2673:DET	介紹:N	--:DASHCATEGORY	炒蛋:N	好吃:Vi	
+火腿:N	跟:P	培根:N	可以:ADV	多:ADV	煎:Vt	個:M	30:DET	秒:M	
+鄙人:N	在:P	下:DET	我:N	超:Vt	不:ADV	健康:Vi	的:T	喜歡:Vt	焦焦:Vi	的:T	醃肉:N	
+耶:T	
+吐司:N	普通:Vi	
+不過:C	抹醬:N	給:Vt	得:T	很:ADV	大方:Vi	
+有:Vt	奶油:N	跟:P	草莓醬:N	
+那:DET	個:M	一:DET	小攤:N	生菜:N	有:Vt	新鮮:Vi	還:ADV	不錯:Vi	
+ｂｙ:FW	兔子:N	評價:N	--:DASHCATEGORY	這:DET	個:M	價位:N	配上:Vt	這樣:Vi	的:T	份量:N	有點:ADV	不:ADV	值得:Vi	
+雖然:C	─:FW	Alex:FW	他:N	的:T	杯子:N	跟:P	杯墊:N	相當:Vi	的:T	好看:Vi	看起來:ADV	份量:N	不少:Vi	
+但是:C	炒蛋:Vi	不:ADV	大:Vi	像:Vt	炒:Vt	的:T	
+像:P	─:FW	柏蓉:N	放:Vt	在:P	那:DET	用:P	悶:Vi	的:T	
+口感:N	不佳:Vi	對:P	女生:N	而言:Vt	
+一:DET	個:M	人:N	吃:Vt	略:ADV	多:Vi	
+對:P	男生:N	而言:Vt	算:Vt	─:FW	阿彥:N	是:Vt	八分:DET	飽:Vi	的:T	內容:N	
+推薦:Vt	料理:Vt	第三:DET	道:M	::COLONCATEGORY	原味:N	鬆餅:N	推薦度:N	：:COLONCATEGORY	55.7:DET	%:M	美味度:N	：:COLONCATEGORY	5.9:DET	價格:N	：:COLONCATEGORY	229:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=488#d:FW	2677:DET	介紹:N	--:DASHCATEGORY	店家:N	非常:ADV	貼心:Vi	的:T	幫:P	我們:N	切成:Vt	小:Vi	塊:M	了:T	
+雖說:C	也:ADV	是:Vt	有:Vt	可能:ADV	本來:ADV	就:ADV	長:Vi	這樣:Vi	
+推薦:Vt	下午茶:N	可以:ADV	點:Vt	這:DET	個:M	再:ADV	加:Vt	杏仁:N	冰淇淋:N	
+冰淇淋:N	超:Vt	好吃:Vi	的:T	
+謎:N	::COLONCATEGORY	不:ADV	是:Vt	要:ADV	介紹:Vt	鬆餅:N	嗎:T	
+ｂｙ:FW	兔子:N	評價:N	--:DASHCATEGORY	鬆餅:N	烤:Vt	的:T	夠:ADV	脆:Vi	
+配上:Vt	蜂蜜:N	趁熱:ADV	吃:Vt	還:ADV	不錯:Vi	吃:Vt	─:FW	Alex:FW	就:ADV	是:Vt	一般:A	市面:N	上:N	賣:Vt	的:T	鬆餅:N	─:FW	羊:N	咩:ADV	份量:N	不少:Vi	
+價格:N	宜人:Vi	─:FW	阿彥:N	本:DET	次:M	餐友:N	給分:Vi	的:T	詳細:Vi	內容:N	::COLONCATEGORY	
+口味:N	各:DET	有:Vt	喜好:N	
+僅:ADV	能:ADV	當作:Vt	參考:N	::COLONCATEGORY	滿:DET	分為:Vt	五:DET	顆:M	
+適合:Vi	朋友:N	聚餐:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	適合:Vi	情侶:N	約會:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	適合:Vi	家庭:N	聚會:N	：:COLONCATEGORY	★:FW	★:FW	☆:FW	餐廳:N	氣氛:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	價格:N	划算:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	美味:Vi	滿意:Vt	程度:N	：:COLONCATEGORY	★:FW	★:FW	☆:FW	
+就:ADV	該:DET	價位:N	而言:Vt	
+服務:Nv	品質:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	綜合:A	評價:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	再次:ADV	拜訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	推薦:Nv	朋友:N	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	本:DET	次:M	消費:N	金額:N	
+飲料:N	另:DET	計:N	
+：:COLONCATEGORY	每:DET	人:N	224:DET	元:M	
+7:DET	人:N	用餐:Vi	
+用餐:Vi	建議:Vt	事項:N	：:COLONCATEGORY	1:DET	.:PERIODCATEGORY	建議:N	事先:ADV	訂位:Vi	：:COLONCATEGORY	事先:ADV	訂位:Vi	是:Vt	最好:Vi	的:T	
+近期:N	餐友:N	分享:Vt	：:COLONCATEGORY	
+金:N	稻子:N	
+黃龍莊:N	
+女巫店:N	
+粉雪:N	北海道:N	Cafe:FW	
+INDULGE:FW	
+FafaVoila:FW	法法:N	小:Vi	館:N	...:ETCCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/2/Food_index.php:FW	
+t=&amp:FW	
+uid:FW	=:FW	八:DET	月份:N	美食團:N	行事曆:N	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/InfoNew.php:FW	
+t=&amp:FW	
+uid:FW	=:FW	如果:C	可以:ADV	
+希望:Vt	成為:Vt	與:P	你:N	一起:ADV	吃飯:Vi	的:T	朋友:N	bonnecontinuation:FW	
+F:FW	--:DASHCATEGORY	和:P	寂寞:Vi	、:PAUSECATEGORY	忙碌:Vi	、:PAUSECATEGORY	渺小:Vi	無關:Vi	美好:Vi	的:T	食物:N	是:Vt	擁抱:Vt	生活:N	的:T	大事:N	
+不:ADV	解釋:Vt	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/f.life.plus:FW	--:DASHCATEGORY	

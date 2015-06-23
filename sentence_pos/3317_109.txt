@@ -1,0 +1,31 @@
+pttdouble:FW	(:PARENTHESISCATEGORY	多多:ADV	綠:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北:N	電影院:N	旁:N	不錯:Vi	的:T	日本:N	料理店:N	?:QUESTIONCATEGORY	
+Tue:FW	
+Jul:FW	
+15:DET	
+16:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	08:DET	
+2014:DET	
+請益:Vi	
+台北:N	電影院:N	旁:N	不錯:Vi	的:T	日本:N	料理店:N	
+TueJul:FW	1516:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	082014:DET	
+1:DET	.:PERIODCATEGORY	想:Vt	找:Vt	的:T	餐飲:N	類別:N	日本:N	料理:N	
+2:DET	.:PERIODCATEGORY	用餐:Vi	地區:N	台北市:N	信義區:N	/:FW	大安區:N	/:FW	中正區:N	/:FW	公館:N	/:FW	西門町:N	
+3:DET	.:PERIODCATEGORY	每:DET	人:N	預算:N	新台幣:N	$:FW	1500:DET	元:M	
+4:DET	.:PERIODCATEGORY	用餐:Nv	時段:N	午餐:N	晚餐:N	
+5:DET	.:PERIODCATEGORY	用餐:Nv	人數:N	2:DET	人:N	
+6:DET	.:PERIODCATEGORY	查詢:Nv	精華區:N	及:C	板面:N	文章:N	後:POST	拿:Vt	不定:Vi	主意:N	的:T	候選:Nv	店家:N	
+1:DET	.:PERIODCATEGORY	微風:N	後面:N	的:T	瞞:Vt	著:ASP	爹:N	/:FW	微風:N	廣場:N	電影院:N	這樣:Vi	是:Vt	一:DET	個:M	選擇:N	
+2.101:DET	對面:N	的:T	ATT:FW	的:T	日本:N	料理店:N	+:FW	信義:N	威秀:N	是:Vt	個:M	選擇:N	
+3:DET	.:PERIODCATEGORY	梅花:N	電影院:N	/:FW	對面:N	的:T	陶板屋:N	
+4:DET	.:PERIODCATEGORY	京站:N	跟:P	京站:N	威秀:N	
+5:DET	.:PERIODCATEGORY	西門町:N	的:T	高級:Nv	日本:N	料理店:N	請:Vt	推薦:Vt	
+有:Vt	家:M	老牌:Vi	叫:Vt	火車頭:N	的:T	不:ADV	喜歡:Vt	@:FW	@:FW	
+6:DET	.:PERIODCATEGORY	其他:DET	請:Vt	推薦:Vt	
+7:DET	.:PERIODCATEGORY	特殊:Vi	需求:N	
+台北:N	市區:N	交通:N	方便:Vi	
+且:C	該:DET	日本:N	料理店:N	旁邊:N	要:ADV	有:Vt	走路:Vi	10:DET	分鐘:M	內:POST	可:ADV	到:Vt	的:T	電影院:N	
+感謝:Vt	
+※:FW	編輯:Nv	::COLONCATEGORY	pttdouble:FW	
+36.224:DET	.:PERIODCATEGORY	98.49:DET	
+07:DET	/:FW	15:DET	/:FW	201416:DET	::COLONCATEGORY	09:DET	::COLONCATEGORY	12:DET	
+推:Vt	CBJackal:FW	::COLONCATEGORY	欣欣:N	大眾:N	旁邊:N	有:Vt	串場:Vi	跟:P	大版:N	雙子:A	燒肉:N	可是:C	在:P	中山區:N	XD:FW	07:DET	/:FW	1516:DET	::COLONCATEGORY	20:DET	

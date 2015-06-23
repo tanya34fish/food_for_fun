@@ -1,0 +1,90 @@
+saretta(fortesfortunaiuvat:FW	!:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	MarketPlace:FW	市集:N	站:Vi	前:POST	
+Tue:FW	
+Jul:FW	
+29:DET	
+11:DET	::COLONCATEGORY	50:DET	::COLONCATEGORY	17:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	MarketPlace:FW	市集:N	台北:N	站:Vi	前:POST	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	重慶南路:N	一段:N	1:DET	號:M	2樓:N	
+電話:N	：:COLONCATEGORY	0277252525:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	平日:N	營業:Nv	時間:N	為:Vt	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	；:SEMICOLONCATEGORY	假日:N	營業:Nv	時間:N	為:Vt	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	．:PERIODCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	套餐:N	200:DET	~:FW	300:DET	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	漢堡類:N	
+無:Vt	音樂:N	網誌:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sarettaye.pixnet.net/blog/post:FW	/:FW	41177980:DET	
+早上:N	和:C	朋友:N	聽完:Vt	美國:N	媽咪:N	教育:N	專家:N	教育:N	講座:N	
+聽:Vt	了:ASP	很多:DET	在:P	家:N	和:C	小:Vi	寶貝:N	自學:Nv	的:T	方法:N	
+亂:Vi	聊:Vt	一:DET	
+陣:N	後:POST	又:ADV	轉移陣地:Vi	到:P	這裡:N	
+MarketPlace:FW	市集:N	．:PERIODCATEGORY	台北:N	站前店:N	．:PERIODCATEGORY	
+其實:ADV	它:N	就:ADV	在:P	愛:Vt	蘇活:N	對面:N	
+各:DET	位:M	老師:N	們:N	上完:Vt	師訓:N	後:POST	再:ADV	也:ADV	不用:ADV	另:DET	覓:Vt	他處:N	打牙祭:Vi	啦:T	
+過:Vt	個:M	斑馬線:N	
+就:ADV	到:Vt	囉:T	
+很:ADV	有:Vt	童趣感:N	的:T	擺設:N	呢:T	
+上:Vt	了:ASP	樓梯:N	目的地:N	就:ADV	到:Vt	囉:T	
+門:N	旁:N	有:Vt	小:Vi	黑板:N	告示:N	關於:P	基本:A	消費:N	和:C	營業:Nv	
+時間:N	．:PERIODCATEGORY	低消:N	就:ADV	是:Vt	一:DET	份:M	套餐:N	或:C	飲料:N	
+不:ADV	算:Vt	太:ADV	難:Vi	達陣:Vi	．:PERIODCATEGORY	
+平日:N	營業:Nv	時間:N	為:Vt	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+假日:N	營業:Nv	時間:N	為:Vt	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	．:PERIODCATEGORY	
+店:N	內:N	一:DET	景:N	
+其實:ADV	滿:ADV	寬敞:Vi	的:T	
+又:ADV	有:Vt	wifi:FW	
+很多:DET	人:N	都:ADV	開始:Vt	玩:Vt	起:ASP	桌:N	遊:Vt	來:Vi	了:ASP	
+但:C	我們:N	連:ADV	有:Vt	訂位:Nv	也:ADV	是:Vt	
+要:ADV	等:Vt	
+還好:ADV	有:Vt	訂位:Nv	
+店:N	內:N	的:T	菜單:N	擺放:Vt	
+看:Vt	的:T	出來:Vi	很:ADV	用心:Vi	
+不過:C	好:ADV	餓:Vi	好:Vi	想:Vt	趕快:ADV	點:Vt	餐:N	．:PERIODCATEGORY	
+點菜:Vi	很:ADV	簡單:Vi	
+套餐:N	有:Vt	分:M	米食:N	、:PAUSECATEGORY	漢堡:N	、:PAUSECATEGORY	鮮奶:N	吐司:N	／:FW	法國:N	麵包:N	、:PAUSECATEGORY	蔬食:N	、:PAUSECATEGORY	鬆餅:N	選擇:Vt	很多:DET	
+選擇:Vt	
+其中:DET	一:DET	種:M	再:ADV	看:Vt	要不要:ADV	加:Vt	79:DET	元:M	升級:Vi	精緻:Vi	套餐:N	
+或是:C	129:DET	元:M	升級:Vi	豪華:Vi	套餐:N	
+我:N	覺得:Vt	好像:ADV	就是:C	多:DET	
+了:ASP	個:M	麵包:N	的:T	差別:N	哈哈:ADV	
+．:PERIODCATEGORY	
+聽說:Vt	大家:N	推:Vt	漢堡:N	
+我們:N	全部:DET	的:T	人:N	都:ADV	點:Vt	漢堡:N	．:PERIODCATEGORY	
+服務生:N	終於:ADV	叫到:Vt	我們:N	
+順道:ADV	給:Vt	了:ASP	我們:N	代表:Vt	桌號:N	的:T	餐具盒:N	．:PERIODCATEGORY	餐具:N	和:C	水:N	都:ADV	是:Vt	自助式:N	的:T	．:PERIODCATEGORY	
+套餐:N	附:Vt	的:T	濃湯:N	
+質地:N	較:ADV	稀:Vi	
+滋味:N	不錯:Vi	
+黑:Vi	胡椒粉:N	是:Vt	Cathy:FW	幫:P	我:N	弄:Vt	的:T	
+=:FW	^:FW	_:FW	^:FW	=:FW	
+湯:N	上完:Vt	
+飲料:N	立刻:ADV	就:ADV	來:Vi	了:ASP	．:PERIODCATEGORY	冷泡:N	玫瑰:N	蜜桃:N	煎茶:N	．:PERIODCATEGORY	Debi:FW	還:ADV	提醒:Vt	我:N	插:Vt	了:ASP	吸管:N	比較:ADV	好:Vi	拍:Vt	
+冷泡:N	烏:N	
+龍:N	綠茶:N	
+我:N	覺得:Vt	普普:N	．:PERIODCATEGORY	奶油:N	伯爵茶:N	
+Ariel:FW	說:Vt	沒:Vt	甚麼:DET	奶味:N	耶:T	
+還是:ADV	要:ADV	加:Vt	顆:M	奶精球:N	
+招牌:N	牛肉堡:N	．:PERIODCATEGORY	玉米:N	片:N	超:Vt	好吃:Vi	喔:T	
+西西里:N	雞腿堡:N	
+那:DET	塊:M	雞肉:N	煎:Vt	的:T	真是:ADV	多汁:Vi	
+看:Vt	得:T	我:N	都:ADV	餓:Vi	了:T	．:PERIODCATEGORY	辣味:N	招牌:N	牛肉堡:N	
+看到:Vt	旁邊:N	的:T	辣:Vi	
+椒:b	了:ASP	嗎:T	
+甜點:N	
+起:Vt	司:N	蛋糕:N	
+起:Vt	司:N	味道:N	沒有:ADV	很:ADV	濃:Vi	．:PERIODCATEGORY	
+被:P	苦:Vi	巧克力粉:N	包裹:Vt	著:ASP	的:T	巧克力:N	蛋糕:N	真:ADV	是:Vt	好吃:Vi	
+假日:N	實在:ADV	人:N	太多:Vi	
+店家:N	用餐:Nv	時間:N	僅:ADV	二:DET	小時:M	
+但:C	這:DET	也:ADV	無礙:Vi	我:N	當時:N	所:ADV	受到:Vt	的:T	感動:Nv	
+謝謝:Vt	你們:N	
+尤其:ADV	是:Vt	Ariel:FW	近期:N	在:P	教學:Nv	上:POST	不斷:Vi	的:T	給:Vt	我:N	意見:N	與:C	鼓勵:Nv	
+讓:Vt	我:N	變得:Vt	更:ADV	勇敢:Vi	自信:Vt	了:ASP	
+初次:ADV	見面:Vi	的:T	
+Debi:FW	和:C	Cathy:FW	也:ADV	十分:ADV	熱情:Vi	
+完全:ADV	沒有:Vt	甚麼:DET	陌生感:N	．:PERIODCATEGORY	人:N	與:C	人:N	的:T	友誼:N	
+就:ADV	像:Vt	是:Vt	多數:DET	人:N	的:T	心靈:N	結:Vt	
+合:Vt	在一起:Vi	
+而:C	這:DET	種:M	可貴:Vi	的:T	聯繫:Nv	
+真是:ADV	溫柔:Vi	甜蜜:Vi	
+在:P	美好:Vi	的:T	午後:N	

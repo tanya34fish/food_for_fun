@@ -1,0 +1,14 @@
+地址:N	：:COLONCATEGORY	10697:DET	台北市:N	大安區:N	大安路:N	一段:N	52巷:N	25:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1000:DET	~:FW	3000:DET	(:PARENTHESISCATEGORY	男生:N	的:T	話:N	大概:ADV	要:ADV	2千:DET	以上:N	比較:ADV	吃:Vt	得:T	飽:Vi	..:ETCCATEGORY	):PARENTHESISCATEGORY	
+肉:N	真的:ADV	超:Vt	好吃:Vi	的:T	
+小:Vi	杯:M	軟性:A	飲料:N	是:Vt	60:DET	元:M	
+大:Vi	杯:M	直接:Vi	Double:FW	120:DET	元:M	
+非常:ADV	划算:Vi	
+這麼:ADV	大:Vi	片:M	價格:N	也:ADV	只要:C	驚人:Vi	的:T	555:DET	唷:T	
+超:Vt	划算:Vi	的:T	啦:T	
+這:DET	種:M	這麼:ADV	大:Vi	塊:M	的:T	肉:N	在:P	烤:Vt	之前:POST	大家:N	會:ADV	一起:ADV	喊:Vt	...:ETCCATEGORY	123:DET	":FW	":FW	":FW	唷:T	一休:N	":FW	":FW	":FW	":FW	
+這:DET	塊:M	燒肉:N	真的:ADV	超級:A	嫩:Vi	的:T	阿:N	
+超:Vt	好吃:Vi	的:T	啦:T	
+他:N	有:Vt	做:Vt	鹽:N	跟:P	醬:N	的:T	口味:N	...:ETCCATEGORY	小弟:N	比較:ADV	推薦:Vt	原味:N	....:ETCCATEGORY	雖然:C	只有:ADV	五:DET	片:M	...:ETCCATEGORY	不過:C	口感:N	之:T	嫩:Vi	...:ETCCATEGORY	真的:ADV	是:Vt	很:ADV	扯餒:Vi	
+那:DET	個:M	麵:N	已經:ADV	變色:Vi	了:ASP	非常:ADV	Q:FW	彈:Vt	啊:T	
+真的:ADV	超:Vt	好吃:Vi	的:T	阿:N	

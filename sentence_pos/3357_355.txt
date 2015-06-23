@@ -1,0 +1,121 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	二月:N	半:DET	そ:FW	ば:FW	蕎麥麵:N	
+Sat:FW	
+Jul:FW	
+26:DET	
+20:DET	::COLONCATEGORY	29:DET	::COLONCATEGORY	06:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40951684:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	6:DET	就:P	我:N	對:P	日本:N	麵食:N	的:T	淺薄:Vi	了解:Vt	
+常見:Vi	的:T	麵類:N	主要:ADV	有:Vt	三:DET	
+分別:ADV	為:Vt	拉麵:N	、:PAUSECATEGORY	烏龍麵:N	與:C	蕎麥麵:N	
+這:DET	三:DET	樣:M	麵食:N	在:P	日本:N	可:ADV	說:Vt	是:Vt	平民:N	美食:N	
+隨處:ADV	可見:ADV	
+而且:C	消費:N	也:ADV	不:ADV	貴:Vi	
+可是:C	在:P	這:DET	三:DET	種:M	麵食:N	中:POST	
+蕎麥:N	麵:N	又:ADV	有:Vt	特殊:Vi	的:T	地位:N	
+在:P	米其林:N	指南:N	的:T	評鑑:Nv	當中:POST	
+只:ADV	有:Vt	蕎麥:N	麵店:N	摘星:Vt	
+而且:C	還:ADV	不少:Vi	
+儘管:C	大多:DET	是:Vt	一:DET	星:N	而已:T	
+而:C	米其林:N	指南:N	也:ADV	特別:Vi	劃分:Vt	了:ASP	一:DET	個:M	蕎麥麵:N	的:T	類別:N	給:Vt	日本:N	蕎麥:N	麵店:N	
+不:ADV	像:P	壽司店:N	、:PAUSECATEGORY	懷:Vt	石料亭:N	、:PAUSECATEGORY	割烹:Vt	小:Vi	料理:N	都:ADV	被:P	統一:Vt	劃分為:Vt	日本:N	料理:N	
+然而:C	蕎麥:N	麵:N	實在:ADV	很:ADV	普遍:Vi	
+尤其:ADV	是:Vt	車站:N	的:T	立食:Vt	麵店:N	幾乎:ADV	必:ADV	有:Vt	
+不少:DET	日本人:N	把:P	蕎麥麵:N	當做:Vt	早餐:N	
+但:C	蕎麥:N	麵:N	又:ADV	很:ADV	特別:Vi	
+在:P	日本:N	又:ADV	有:Vt	專門:Vt	販賣:Vt	蕎麥麵:N	的:T	餐館:N	
+也:ADV	就是:C	這些:DET	餐館:N	得到:Vt	米其林:N	星星:N	
+究竟:ADV	身價:N	可:ADV	高:Vi	可:ADV	低:Vi	的:T	蕎麥麵:N	有:Vt	什麼:DET	魅力:N	
+我:N	始終:ADV	無法:ADV	理解:Vt	
+我:N	吃:Vt	過:ASP	日本:N	的:T	車:N	站立:Vi	食:Vt	蕎麥麵:N	
+也:ADV	吃:Vt	過:ASP	米其林:N	一:DET	星:N	的:T	蕎麥麵:N	
+當然:ADV	兩:DET	者:N	還是:ADV	有:Vt	差別:N	
+只是:C	蕎麥麵:N	這:DET	種:M	麵食:N	
+對:P	我:N	而言:Vt	
+總是:ADV	興致:N	缺缺:Vi	
+蓋因:C	我:N	喜歡:Vt	吃:Vt	有:Vt	筋道:N	嚼:Vt	勁:N	的:T	麵:N	
+像:Vt	是:Vt	中國:N	北方:N	的:T	麵食:N	
+而:C	以往:N	吃:Vt	過:ASP	的:T	蕎麥麵:N	
+無論:C	高貴:Vi	便宜:Vi	
+麵條:N	總:ADV	不:ADV	是:Vt	我:N	喜歡:Vt	的:T	口感:N	
+在:P	台北:N	不:ADV	常:ADV	吃:Vt	蕎麥麵:N	
+其實:ADV	也:ADV	沒:ADV	吃:Vt	過:ASP	幾:DET	家:M	
+這:DET	次:M	與:C	友人:N	相約:Vi	中山:N	商圈:N	的:T	二月:N	半:DET	
+據說:ADV	這:DET	家:M	蕎麥麵:N	十分:ADV	地道:Vi	
+是:Vt	一:DET	對:M	日本:N	夫婦:N	開:Vt	的:T	店:N	
+蕎麥:N	麵:N	主要:ADV	分為:Vt	湯麵:N	、:PAUSECATEGORY	冷麵:N	、:PAUSECATEGORY	沾:Vt	麵:N	
+副食:N	為:P	天:N	婦羅:N	
+這:DET	是:Vt	日本:N	蕎麥:N	麵店:N	常見:Vi	的:T	搭配:Nv	
+本來:ADV	是:Vt	與:P	兩:DET	位:M	友人:N	相約:Vi	
+結果:ADV	被:P	放:Vt	鴿子:N	
+最後:N	只:ADV	剩:Vt	我:N	一:DET	個人用餐:N	
+就:ADV	被:P	安排:Vt	到:P	大:Vi	桌子:N	的:T	一:DET	人:N	座位:N	
+與:P	其他:DET	客人:N	並:C	桌:N	
+好久:Vi	沒:ADV	被:P	放:Vt	鴿子:N	了:T	
+鴨蔥:N	沾:Vt	汁:N	十:DET	割:Vt	烏龍麵:N	＄:FW	240二月:N	半:DET	的:T	蕎麥麵:N	有:Vt	十:DET	割:Vt	與:C	九:DET	割:Vt	之:T	分:Nv	
+十:DET	割:Vt	意指:Vt	完全:ADV	用:P	蕎麥粉:N	製作:Vt	
+九割:Vt	則:ADV	是:Vt	混入:Vt	一成:DET	麵粉:N	
+我:N	點:Vt	的:T	是:Vt	鴨蔥汁:N	沾:Vt	麵:N	
+在:P	日本:N	的:T	米其林:N	一:DET	星:N	蕎麥:N	麵店:N	也:ADV	是:Vt	點:M	這:DET	道:M	
+這:DET	是:Vt	相當:ADV	常見:Vi	的:T	蕎麥麵:N	吃法:N	
+蕎麥麵:N	用:P	竹籃:N	盛:Vt	著:ASP	送上:Vt	
+泡:Vt	過:ASP	冷水:N	冰鎮:A	的:T	蕎麥:N	麵條:N	
+首先:ADV	不:ADV	沾:Vt	汁:N	單:ADV	吃:Vt	麵條:N	
+麵心:N	仍:ADV	帶:Vt	點:N	微:ADV	硬:ADV	感:Vt	
+但:C	表層:N	還是:ADV	略微:ADV	柔軟:Vi	
+帶:Vt	著:ASP	淡雅:Vi	香氣:N	
+看來:ADV	蕎麥:N	麵:N	真的:ADV	是:Vt	不可能:ADV	做:Vt	的:T	跟:P	全:DET	麵粉:N	的:T	麵條:N	一樣:Vi	彈勁:N	
+頂多:ADV	是:Vt	微:ADV	硬:Vi	
+鴨蔥:N	沾:Vt	汁:N	
+使用:Vt	宜蘭:N	鴨肉:N	
+沒有:Vt	鴨肉:N	的:T	野味:N	
+肉質:N	堪稱:Vt	細緻:Vi	不:ADV	硬:Vi	
+可惜:Vi	說:Vt	是:Vt	鴨蔥:N	汁:N	
+但:C	蔥:N	實在:ADV	不:ADV	多:Vi	
+沒:ADV	見到:Vt	多少:DET	
+醬油:N	沾:Vt	汁:N	的:T	味道:N	不:ADV	是:Vt	很:ADV	重:Vi	
+與:P	日本:N	相比:Vi	清淡:Vi	了:ASP	許多:DET	
+或許:ADV	是:Vt	有:Vt	調整為:Vt	台灣:N	口味:N	吧:T	
+記得:Vt	在:P	京都:N	米其林:N	一:DET	星:N	的:T	蕎麥店:N	吃:Vt	的:T	鴨肉:N	
+還是:ADV	帶:Vt	骨:N	的:T	
+而且:C	其:DET	滋味:N	反倒:C	沒有:Vt	台灣:N	鴨肉:N	好吃:Vi	
+冰涼:Vi	的:T	蕎麥:N	麵:N	放入:Vt	溫熱:Vt	的:T	沾:Vt	汁:N	
+不一會兒:ADV	馬上:ADV	更:ADV	軟:Vi	
+被:P	熱湯:N	浸泡:Vi	後:POST	更:ADV	顯:Vt	軟:Vi	爛:Vi	
+因此:C	若:C	喜歡:Vt	吃:Vt	有:Vt	口感:N	的:T	麵條:N	
+請:Vt	勿:ADV	讓:Vt	蕎麥麵:N	逗留:Vi	於:P	湯汁:N	內:N	過:ADV	久:Vi	
+如:P	我:N	的:T	吃法:N	
+麵條:N	一入:N	沾:Vt	汁:N	略:ADV	沾:Vt	就:ADV	馬上:ADV	拉起:Vt	入口:N	
+如此:Vi	尚:ADV	能:ADV	保持:Vt	一點:DET	麵心微:N	硬:Vi	的:T	口感:N	
+只:ADV	是:Vt	對:P	我:N	而言:Vt	
+蕎麥:N	麵:N	終究:ADV	是:Vt	一:DET	種:M	太過:ADV	軟:Vi	爛:Vi	的:T	麵食:N	
+看來:ADV	在:P	日本:N	麵食:N	方面:N	
+我:N	還是:ADV	偏好:Vt	拉麵:N	與:C	烏龍麵:N	
+不過:C	就:ADV	以:P	健康:Nv	和:C	清爽:Vi	而言:Vt	
+蕎麥:N	麵:N	的確:ADV	是:Vt	遠勝:Vt	於:P	前述:N	兩:DET	種:M	麵食:N	
+而且:C	蕎麥:N	麵店:N	可以:ADV	更:ADV	優雅:Vi	、:PAUSECATEGORY	高級:Vi	
+或許:ADV	這:DET	也:ADV	是:Vt	蕎麥麵:N	為:P	日本:N	唯一:A	能:ADV	取得:Vt	米其林:N	星星:N	的:T	原因:N	
+吃完:Vt	麵條:N	
+剩下:Vt	的:T	沾:Vt	汁:N	可以:ADV	沖入:Vt	蕎麥:N	麵湯:N	來:ADV	喝:Vt	
+這:DET	也:ADV	是:Vt	吃:Vt	蕎麥麵:N	的:T	傳統:N	
+店員:N	說:Vt	兩:DET	匙:M	沾:Vt	汁:N	沖:Vt	一:DET	杯:M	湯:N	
+個:M	人:N	認為:Vt	要:ADV	三:DET	匙:M	比較:ADV	夠味:Vi	
+蕎麥麵:N	湯:N	即:ADV	是:Vt	煮:Vt	蕎麥麵:N	的:T	水:N	
+顏色:N	白濁:Vi	
+因為:C	裡頭:N	有:Vt	不少:DET	煮:Vt	麵:N	落下:Vt	的:T	蕎麥粉:N	
+據說:ADV	這:DET	湯:N	非常:ADV	健康:Vi	
+沖入:Vt	沾:Vt	汁:N	後:POST	的:T	麵湯:N	
+喝:Vt	起來:ASP	溫潤:Vi	香甜:Vi	
+帶:Vt	點:M	蕎麥粉:N	的:T	沙沙:ADV	感:Vt	
+雖然:C	我:N	不:ADV	欣賞:Vt	蕎麥麵:N	的:T	口感:N	
+但:C	我:N	卻:ADV	很:ADV	喜歡:Vt	喝:Vt	蕎麥:N	麵湯:N	
+二月:N	半:DET	そ:FW	ば:FW	蕎麥麵:N	地址:N	：:COLONCATEGORY	台北市:N	中山北路:N	二段:N	20巷:N	1:DET	-:DASHCATEGORY	2:DET	號:M	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	25638008:DET	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+食記:N	
+京都:N	蕎麦屋:N	に:FW	こ:FW	ら:FW	米其林:N	一:DET	星:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40400332:DET	
+食記:N	
+京都:N	麺家:N	京都:N	上:N	が:FW	も:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	32231221:DET	
+食記:N	
+京都:N	名物立食:N	そ:FW	ば:FW	処:b	都:N	そ:FW	ば:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	28924207:DET	
+食記:N	
+台北:N	二:DET	訪:Vt	ゆ:FW	で:FW	太郎:N	YUDETAROU:FW	蕎麥麵:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	32555309:DET	--:DASHCATEGORY	一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	--:DASHCATEGORY	

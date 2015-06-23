@@ -1,0 +1,119 @@
+wlsherica:FW	(:PARENTHESISCATEGORY	文字:N	工作:N	者:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	內湖:N	蹺蹺板:N	小屋:N	
+Fri:FW	
+Aug:FW	
+15:DET	
+20:DET	::COLONCATEGORY	55:DET	::COLONCATEGORY	09:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	蹺蹺板:N	小屋:N	
+消費:N	時間:N	：:COLONCATEGORY	201408:DET	
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	內湖路:N	一段:N	285巷:N	59弄:N	7:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2627:DET	-:DASHCATEGORY	1482:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	NO:FW	
+推薦:Vt	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	shrimp2.pixnet.net/blog/post:FW	/:FW	106325336:DET	
+其實:ADV	已經:ADV	來:ADV	
+蹺蹺板:N	小屋:N	SeesawHuts:FW	
+N:FW	次:M	了:T	
+前:DET	公司:N	在:P	附近:N	的:T	緣故:N	
+偶爾:ADV	同事:N	邀約:Vt	來:POST	蹺蹺板:N	大快朵頤:Vi	一:DET	番:M	
+蹺蹺板:N	小屋:N	也:ADV	很:ADV	爭氣:Vi	地:T	始終:ADV	在:P	西湖:N	捷運:N	外:POST	屹立不搖:Vi	
+再:ADV	提醒:Vt	一下:N	他:N	的:T	位置:N	該:ADV	怎麼:ADV	走:Vi	
+文湖線:N	西湖:N	捷運站:N	一:DET	號:M	出口:Nv	
+左手:N	邊:N	看到:Vt	星巴克:N	
+立刻:ADV	巷子:N	左轉:Vi	
+沿著:P	這:DET	條:M	巷子:N	直走:Vt	
+左邊:N	會:ADV	經過:Vt	小學:N	
+右手:N	邊:N	就:ADV	是:Vt	許多:DET	商家:N	小吃:N	
+同時:N	也:ADV	會:ADV	經過:Vt	許多:DET	叉路:N	巷子:N	
+當:P	你:N	看到:Vt	巷子:N	口:N	有:Vt	派克:N	雞:N	排:Vt	
+立刻:ADV	右轉:Vi	
+就:ADV	可以:ADV	看到:Vt	斗大:A	
+蹺蹺板:N	小屋:N	SeesawHuts:FW	
+的:T	招牌:N	
+這:DET	段:M	步行:Nv	時間:N	約:ADV	5:DET	分鐘:M	左右:POST	
+蹺蹺板:N	小屋:N	似乎:ADV	固定:Vt	一段:N	時間:N	就:ADV	會:ADV	更改:Vt	菜單:N	
+現在:N	菜單:N	主打:Vt	兩:DET	大:Vi	類:M	：:COLONCATEGORY	特餐:N	
+飯:N	/:FW	烏龍麵:N	
+漢堡:N	
+以及:C	其他:DET	單點:N	小吃:N	/:FW	飲料:N	
+價位:N	在:P	130:DET	-:DASHCATEGORY	300:DET	之間:POST	
+算是:Vt	相當:ADV	樸實:Vi	
+點:Vt	主餐:N	加:Vt	點:M	飲料:N	可:ADV	做:Vt	點:M	折扣:N	
+大:Vi	杯:N	拿:Vt	鐵:N	也:ADV	只:ADV	要:Vt	50:DET	元:M	
+使用:Vt	的:T	豆子:N	是:Vt	illy:FW	
+喝:Vt	起來:ASP	很:ADV	不錯:Vi	
+我:N	已經:ADV	喝:Vt	過:ASP	三:DET	次:M	他們:N	家:N	的:T	咖啡:N	
+溫醇:N	香甜:Vi	
+不:ADV	苦澀:Vi	
+老實說:ADV	比起:P	starbucks:FW	我:N	更:ADV	愛:Vt	蹺蹺板:N	的:T	咖啡:N	
+另外:C	也:ADV	喝:Vt	過:ASP	招牌:N	蹺:Vt	奶茶:N	
+口味:N	有點:ADV	類似:Vt	香港:N	鴛鴦:N	
+茶味:N	偏:ADV	濃:Vi	
+也:ADV	推薦:Vt	
+入座:Vi	→:FW	點:M	餐:N	結帳:Vi	→:FW	自助:Vi	取用:Vt	餐具:N	/:FW	飲用水:N	→:FW	等:POST	餐:N	
+廚房:N	旁:N	有:Vt	個:M	小:Vi	檯子:N	上:N	有:Vt	基本:A	調味料:N	與:C	餐具:N	
+自取:Vt	喔:T	
+【:PARENTHESISCATEGORY	南蠻:N	炸雞:N	塊:M	佐塔塔醬特餐:N	-:DASHCATEGORY	NT:FW	180:DET	】:PARENTHESISCATEGORY	
+特:ADV	餐點:N	閱率:N	很:ADV	高:Vi	
+白飯:N	、:PAUSECATEGORY	料多:N	味噌湯:N	、:PAUSECATEGORY	主菜:N	、:PAUSECATEGORY	配菜:N	一:DET	款:M	、:PAUSECATEGORY	生菜:N	一:DET	碗:M	
+生菜:N	沙拉:N	有:Vt	少許:DET	洋蔥:N	、:PAUSECATEGORY	宏:N	蘿蔔:N	絲:N	、:PAUSECATEGORY	美:N	生菜:N	
+新鮮:Vi	清脆:Vi	多汁:Vi	
+醬料:N	是:Vt	帶:Vt	點:M	酸:Vi	的:T	油醋:N	醬:N	
+不:ADV	喜歡:Vt	的:T	朋友:N	可以:ADV	改:Vt	沾:Vt	炸雞:N	塔塔醬:N	XD:FW	
+米飯:N	滿滿:Vi	一:DET	碗:M	
+據說:ADV	以前:N	可:ADV	續:ADV	
+現在:N	我:N	就:ADV	不:ADV	曉得:Vt	
+應該:ADV	不行:Vi	吧:T	
+米飯:N	不會:ADV	太:ADV	濕:Vi	黏:Vi	
+配:Vt	炸雞:N	很:ADV	OK:FW	
+飯桶:N	無誤:Vi	
+配菜:N	不一定:ADV	
+但:C	多半:DET	是:Vt	台式:A	涼菜:N	
+例如:P	麻油:N	拌:Vt	龍鬚菜:N	、:PAUSECATEGORY	涼拌:Nv	豆干:N	等:POST	
+相當:ADV	無:Vt	國界:N	的:T	特餐:N	
+味噌湯:N	有:Vt	海帶:N	芽:N	、:PAUSECATEGORY	白:Vi	蘿蔔:N	、:PAUSECATEGORY	水:N	豆腐:N	、:PAUSECATEGORY	紅蘿蔔:N	
+料:N	多:ADV	實在:ADV	
+味道:N	清淡:Vi	
+與:C	炸雞餐:N	是:Vt	不錯:Vi	的:T	搭配:Nv	
+沒:ADV	讓:Vt	人:N	覺得:Vt	味噌湯:N	隨便:Vi	來著:T	
+主要:A	炸雞:N	
+一:DET	份:M	約:ADV	5:DET	塊:M	
+配:Vt	少許:DET	高麗菜:N	絲:N	與:C	特製:Vt	塔塔:N	醬:N	
+塔塔醬:N	不會:ADV	太:ADV	甜:Vi	
+我:N	是:Vt	無糖:N	主義:N	者:N	
+炸雞:N	究竟:ADV	有:Vt	多:ADV	威:Vi	
+別:ADV	看:Vt	他:N	好像:ADV	炸:Vt	得:T	很:ADV	深:Vi	
+其實:ADV	他:N	一點:DET	焦味:N	都:ADV	沒有:Vt	
+能夠:ADV	將:P	皮:N	炸:Vt	得:T	如此:ADV	合:Vt	我:N	胃口:N	
+除:P	蹺蹺板:N	無:Vt	人:N	能:ADV	出其右:Vi	啊:T	
+咬下去:Vt	清脆:Vi	的:T	聲響:N	
+雞皮:N	在:P	口:N	中:POST	綻放:Vt	的:T	香氣:N	
+美味:Vi	極品:N	
+雞腿:N	肉全:N	熟:Vi	中:POST	還:ADV	帶有:Vt	飽滿:Vi	肉汁:N	
+香:Vi	
+香:Vi	
+香:Vi	
+即便:C	炸雞:N	冷:Vi	了:ASP	也:ADV	不:ADV	回:Vt	油:N	、:PAUSECATEGORY	外皮:N	照樣:ADV	酥脆:Vi	有勁:Vi	
+完全:ADV	是:Vt	我:N	的:T	菜:N	
+【:PARENTHESISCATEGORY	招牌:N	拿:Vt	鐵:N	-:DASHCATEGORY	主餐:N	加購:Vt	NT:FW	50:DET	】:PARENTHESISCATEGORY	
+之前:N	來:ADV	即便:C	內用:N	
+拿:Vt	鐵:N	也:ADV	是:Vt	以:P	塑膠:N	外帶:Vt	杯:N	呈現:Vt	
+這:DET	次:M	居然:ADV	是:Vt	透明:Vi	玻璃杯:N	
+真是:ADV	驚訝:Vt	
+上頭:N	的:T	奶:N	泡:Vt	多:DET	到:P	快:Vi	滿:DET	出來:Vi	
+味道:N	一如:P	往昔:N	
+清爽:Vi	的:T	拿:Vt	鐵:N	
+味道:N	不:ADV	苦:Vi	不:ADV	澀:Vi	
+相當:ADV	溫和:Vi	
+蹺蹺板:N	小屋:N	的:T	炸雞:N	
+以:P	它:N	的:T	滋味:N	跟:P	價格:N	
+位居:Vt	台北:N	第一:DET	啊:T	
+吃:Vt	過:ASP	好幾:DET	家:M	炸雞:N	定食:Vt	
+不論:C	日式:A	或是:C	無:Vt	國界:N	
+目前:N	只有:C	蹺蹺板:N	小屋:N	成功:Vi	讓:Vt	我:N	回訪:Vt	+:FW	介紹:Vt	朋友:N	來:ADV	吃:Vt	
+雖然:C	用餐:Nv	環境:N	較:ADV	小:Vi	
+冷氣:N	沒有:ADV	那麼:Vi	的:T	堅強:Vi	
+但:C	衝:Vi	著:ASP	招牌:N	炸雞:N	特餐:N	
+下班:Vi	後:POST	的:T	解放:Nv	
+我:N	會:ADV	選擇:Vt	蹺蹺板:N	小屋:N	

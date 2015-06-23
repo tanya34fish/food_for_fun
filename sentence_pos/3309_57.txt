@@ -1,0 +1,13 @@
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松壽路:N	20:DET	號:M	2樓:N	
+我:N	覺得:Vt	座位:N	沒有:Vt	很多:DET	
+有:Vt	附:Vt	喝:Vt	起來:ASP	普普:N	的:T	味噌湯:N	
+我:N	覺得:Vt	這:DET	燒:Vt	肉片:N	還:ADV	不錯:Vi	吃:Vt	喔:T	
+肉片:N	真的:ADV	很多:DET	
+飯:N	吃起來:ADV	也:ADV	蠻:ADV	ok:FW	的:T	
+這樣:Vi	多:Vi	了:ASP	滑:Vi	順:Vt	感:N	也:ADV	不錯:Vi	吃:Vt	
+口感:N	柔嫩:Vi	
+可是:C	風味:N	的:T	濃郁度:N	就:ADV	覺得:Vt	不:ADV	太:ADV	夠:Vi	了:T	
+像:P	我:N	這:DET	種:M	吃:Vt	慣重味:N	的:T	人:N	會:ADV	覺得:Vt	比較:ADV	無:Vt	感:N	
+比:P	預期:N	的:T	還要:ADV	好吃:Vi	
+而且:C	份量:N	多:Vi	
+醬醪:N	系列:N	就:ADV	點到:Vt	不:ADV	對味:Vi	的:T	沙朗丼:N	了:T	

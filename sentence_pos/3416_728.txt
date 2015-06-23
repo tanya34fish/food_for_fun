@@ -1,0 +1,147 @@
+HENRY:FW	1:DET	(:PARENTHESISCATEGORY	黃:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	*:FW	東區:N	。:PERIODCATEGORY	Caffebene:FW	*:FW	來自:Vt	韓國:N	的:T	丹堤:N	
+Tue:FW	
+Aug:FW	
+12:DET	
+22:DET	::COLONCATEGORY	46:DET	::COLONCATEGORY	26:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	台北:N	*:FW	東區:N	。:PERIODCATEGORY	Caffebene:FW	(:PARENTHESISCATEGORY	台北:N	1:DET	號:M	店:N	):PARENTHESISCATEGORY	*:FW	來自:Vt	韓國:N	的:T	丹堤:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	08月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	四段:N	２１６巷:N	３２弄:N	１８:DET	號:M	
+電話:N	：:COLONCATEGORY	０２－２７１１９９０６:DET	（:PARENTHESISCATEGORY	不用:ADV	打:Vt	了:ASP	全:DET	年:M	無:Vt	訂位:Nv	機制:N	）:PARENTHESISCATEGORY	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32671892:DET	
+＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	
+＊:FW	純:Vi	文字:N	
+看:Vt	了:ASP	一:DET	堆:M	台北:N	Caffebene:FW	的:T	普評:N	跟:P	負評:N	後:POST	本來:ADV	打消:Vt	我:N	非:ADV	來:ADV	不可:ADV	得:Vt	念頭:N	了:T	
+阿:N	
+但是:C	我:N	好奇心:N	還是:ADV	太過:ADV	旺盛:Vi	
+加上:C	開幕:Vi	期間:N	有:Vt	九:DET	折:M	
+到:P	今天:N	而已:T	←:FW	好:Vi	欠:Vt	揍阿:Vt	XD:FW	
+就:ADV	秉持:Vt	著:ASP	不期:ADV	不:ADV	待:Vt	不:ADV	受:Vt	傷害:N	+:FW	貪:Vt	九:DET	折:M	小便宜:N	的:T	心態:N	來:Vi	了:ASP	XDDD:FW	
+Caffebene:FW	來:Vi	台北:N	的:T	第一:DET	家:M	店:N	就:ADV	選:Vt	在:P	一級:N	戰區:N	
+東區:N	明曜:N	百貨:N	後方:N	巷子:N	裡:N	
+其實:ADV	我:N	喜歡:Vt	直接:Vi	打:Vt	『:PARENTHESISCATEGORY	咖啡病:N	』:PARENTHESISCATEGORY	
+因為:C	我:N	真的:ADV	有:Vt	咖啡:N	病阿:N	
+一:DET	天:M	沒有:ADV	喝:Vt	咖啡:N	就:ADV	像:Vt	生病:Vi	了:ASP	一樣:Vi	
+我:N	知道:Vt	代言人:N	是:Vt	張:M	根:N	碩:N	
+也:ADV	知道:Vt	張根碩:N	好像:ADV	很:ADV	紅:Vi	
+爸:N	特:ADV	
+我:N	真的:ADV	不:ADV	知:Vt	到:P	他:N	長:Vt	什麼:DET	樣子:N	XDDD:FW	
+看到:Vt	看板:N	才:ADV	知道:Vt	
+哦:T	
+原來:ADV	長:Vi	這樣:Vi	
+還:ADV	蠻:ADV	像:Vt	飛輪海:N	的:T	
+話說回來:ADV	那:ADV	他:N	旁邊:N	那:DET	女:N	的:T	速:Vi	隨:P	
+對不起:Vt	
+我:N	不:ADV	哈:ADV	韓星:N	不要:ADV	白眼:N	我:N	XD:FW	
+走進:Vt	咖啡:N	病:N	後:POST	第一:DET	件:M	事:N	就是:C	：:COLONCATEGORY	不要:ADV	猶豫:Vt	了:ASP	趕緊:ADV	埋頭:ADV	找:Vt	位子:N	吧:T	
+我們:N	很:ADV	幸運:Vi	的:T	完全:ADV	沒有:ADV	等待:Vt	就:ADV	有:Vt	位子:N	了:T	
+不過:C	並:ADV	不:ADV	是:Vt	生意:N	不:ADV	好:Vi	噢:T	
+店:N	內:N	始終:ADV	維持:Vt	著:ASP	９成:DET	滿:DET	以上:POST	的:T	狀態:N	
+但:C	人潮:N	還是:ADV	有:Vt	比:P	預期:N	的:T	少:Vi	很多:DET	是:Vt	真的:ADV	XD:FW	
+是:Vt	因為:C	從:P	高雄:N	一路:ADV	紅:Vi	到:Vt	台中:N	
+輪到:Vt	台北:N	的:T	時候:N	大家:N	都:ADV	膩:Vi	了:T	嗎:T	
+還是:ADV	真的:ADV	價:N	泥:N	拍:Vt	呷:Vt	
+等下:ADV	就:ADV	知道:Vt	啦:T	
+風格:N	結合:Vt	了:ASP	歐風:N	以及:C	韓:N	系:N	社區:N	文化:N	
+牆壁:N	上:N	的:T	插圖:N	也:ADV	很:ADV	有:Vt	質感:N	
+裝潢:N	還:ADV	不錯:Vi	阿:N	
+但是:C	去:ADV	過:Vt	高雄:N	台中店:N	的:T	人:N	都:ADV	說:Vt	台北店:N	實在:ADV	有夠:ADV	小:Vi	有夠:ADV	擠:Vt	XD:FW	
+我:N	是:Vt	無感:N	啦:T	東區:N	的:T	咖啡店:N	不:ADV	都:ADV	這樣:Vi	
+而且:C	不:ADV	這樣:Vi	翻:Vt	桌率:N	哪:DET	會:ADV	高:Vi	哪:T	撐:Vt	得:Vt	起:ASP	高昂:Vi	的:T	租金:N	哈哈:ADV	
+因此:C	目前:N	為止:POST	還:ADV	在:P	我:N	可以:ADV	接受:Vt	的:T	範圍:N	
+找到:Vt	位子:N	後:POST	就:ADV	可以:ADV	自行:ADV	到:P	櫃檯:N	點:Vt	餐:N	
+菜單:N	在:P	這裡:N	
+背面:N	的:T	早餐:N	只:ADV	在:P	下午:N	一點:N	前:POST	提供:Vt	
+如果:C	一點:DET	後:POST	想:Vt	吃:Vt	鹹:Vi	的:T	就:ADV	只:ADV	剩下:Vt	唯一:A	的:T	選擇:N	：:COLONCATEGORY	蒜香:N	起:POST	司:Vt	吐司:N	
+這:DET	是:Vt	我:N	皺:Vi	的:T	第:DET	一下:N	眉頭:N	XD:FW	
+如果:C	不:ADV	知道:Vt	要點:N	什麼:DET	可以:ADV	去:Vt	櫃台:N	附近:N	參考:Vt	『:PARENTHESISCATEGORY	三:DET	布魯:N	』:PARENTHESISCATEGORY	
+三布魯:N	就:ADV	是:Vt	Sample:FW	的:T	非常:ADV	台味:N	講法:N	
+前:DET	陣子:N	看:Vt	雨:N	後:POST	驕陽:N	學到:Vt	的:T	XDDD:FW	
+看起來:ADV	很:ADV	厲害:Vi	很:ADV	漂亮:Vi	的:T	刨冰:N	
+但:C	聽說:Vt	很:ADV	雷:N	很:ADV	騙錢:Vi	
+尤其:ADV	是:Vt	巧克力:N	惡魔:N	那:DET	個:M	
+一:DET	碗:M	要:ADV	２５０:DET	包括:Vt	熱量:N	１３００:DET	大:Vi	卡:N	
+第一:DET	次:M	覺得:Vt	ICEMONSTER:FW	好像:ADV	蠻:ADV	佛心:N	的:T	
+誤:ADV	
+咖啡病:N	也:ADV	有:Vt	賣:Vt	品牌:N	商品:N	
+是:Vt	各式各樣:A	的:T	杯子:N	
+看起來:ADV	好像:ADV	百貨公司:N	的:T	贈品:N	
+而且:C	超商:N	集點:N	換:Vt	杯子:N	導致:Vt	我們:N	家:N	杯子:N	量:N	爆增:Vt	
+害:Vt	我:N	現在:N	看到:Vt	杯子:N	都:ADV	完全:Vi	無感:N	
+然後:ADV	我:N	要:ADV	來:ADV	說:Vt	讓:Vt	我:N	皺:Vt	第二:DET	下:M	眉頭:N	的:T	事:N	了:T	
+對:P	
+就是:C	這:DET	個:M	鐘:N	
+它:N	好像:ADV	很:ADV	有名:Vi	大家:N	也:ADV	都:ADV	很:ADV	愛:Vt	跟:P	它:N	拍照:Vi	
+爸:N	特:ADV	
+東區店:N	的:T	鐘:N	根本:ADV	就:ADV	黏:Vt	歪:Vi	了:T	啊:T	
+我:N	真的:ADV	邊:ADV	看:Vt	邊:N	在:P	心:N	裡:N	大笑:Vi	欸:T	XDDDDD:FW	
+點完:Vt	餐:N	後:POST	就:ADV	拿:Vt	著:ASP	小:Vi	飛碟:N	在:P	位子:N	上:N	等:Vt	它:N	震動:Vt	再:ADV	去:ADV	取:Vt	餐:N	就:ADV	可以:ADV	了:T	
+點:Vt	了:ASP	一:DET	鹹:Vi	一:DET	甜:Vi	+:FW	一:DET	杯:M	咖啡:N	
+因為:C	完全:ADV	沒有:Vt	套餐價:N	或:C	飲料:N	加購:Vt	優惠:Nv	
+個:M	人:N	覺得:Vt	並:ADV	沒有:Vt	很:ADV	便宜:Vi	
+尤其:ADV	是:Vt	國寶:N	珍:N	奶:N	居然:ADV	一:DET	杯:M	１２０:DET	起跳:Nv	
+芋香:N	口味:N	看起來:ADV	還:ADV	超級色:N	
+素:ADV	
+蒜香:N	起:POST	司:Vt	吐司:N	＄:FW	１５０:DET	
+因為:C	我們:N	當天:N	是:Vt	去:ADV	吃:Vt	晚餐:N	的:T	
+所以:C	還是:ADV	點:Vt	了:ASP	這:DET	唯一:A	的:T	鹹食:N	
+不然:C	我:N	原本:ADV	覺得:Vt	區區:ADV	一:DET	個:M	厚:Vi	片:M	吐司:N	居然:ADV	要:ADV	１５０:DET	是:Vt	搶劫:Vt	嗎:T	
+好:Vi	啦:T	他:N	的:T	起:Vt	司醬:N	真的:ADV	還:ADV	蠻:ADV	多:Vi	蠻:ADV	濃郁:Vi	的:T	
+中間:N	也:ADV	還:ADV	有:Vt	再:ADV	夾:Vt	一:DET	片:M	起:POST	司:Vt	
+吐司:N	因:C	有:Vt	塗抹:Vt	上蒜香:N	奶油:N	吃起來:ADV	鹹香:N	夠味:Vi	不會:ADV	很:ADV	乾:Vi	很:ADV	單調:Vi	
+不過:C	ＴＪ:FW	說:Vt	了:ASP	一:DET	句:M	中懇:Vi	的:T	話:N	：:COLONCATEGORY	厚片:N	吐司:N	而已:T	要:ADV	做:Vt	得:T	不:ADV	好吃:Vi	也:ADV	很:ADV	難:Vi	吧:T	
+而且:C	他:N	還:ADV	賣:Vt	這麼:ADV	貴:Vi	耶:T	
+好:Vi	啦:T	也:ADV	對:P	
+然後:ADV	蒜:N	香味:N	雖然:C	不:ADV	重:Vi	但:C	吃完:Vt	後:POST	嘴巴:N	還是:ADV	會:ADV	有點:ADV	臭臭:Vi	的:T	XD:FW	
+草莓:N	派思脆:Vi	＄:FW	１７０:DET	
+既然:C	大家:N	都:ADV	覺得:Vt	刨冰:N	很:ADV	雷:N	就:ADV	點派思脆:Vi	好了:T	
+至少:ADV	它:N	蠻:ADV	美:Vi	的:T	看:Vt	了:ASP	心情:N	不:ADV	壞:Vt	
+派思脆:Vi	跟:P	剛剛:ADV	的:T	蒜香:N	吐司:N	一樣:Vi	
+外表:N	很:ADV	漂亮:Vi	不過:C	中間:N	完全:ADV	沒:Vt	什麼:DET	特別:Vi	的:T	XD:FW	想:Vt	拍:Vt	剖面:N	就:ADV	會:ADV	
+有:Vt	點燈:Vi	冷:Vi	
+這:DET	麵包:N	吃起來:ADV	就:P	丹麥:N	麵包:N	阿:N	
+外層:N	略:ADV	酥脆:Vi	似:ADV	可:ADV	頌:Vt	還:ADV	有:Vt	一點:DET	糖衣:N	
+草莓:N	軟軟:Vi	爛爛:Vi	的:T	應該:ADV	不:ADV	是:Vt	新鮮:Vi	草莓:N	
+比較:ADV	像:Vt	是:Vt	被:P	拿去:Vt	做成:Vt	草莓:N	果醬:N	做到:Vt	一半:DET	就:ADV	
+厄:b	
+被:P	放:Vt	
+去:ADV	派:Vt	思脆:Vi	上:Vt	了:ASP	
+但:C	也:ADV	不會:ADV	很:ADV	難吃:Vi	啦:T	其實:ADV	
+不過:C	鮮:Vi	奶油:N	就:ADV	比較:Vt	扣分:N	
+在:P	那邊:N	給:Vt	我:N	有點:ADV	乳:Vt	水:N	分離:Vt	的:T	口感:N	實在:ADV	不:ADV	
+太:ADV	好:Vi	
+咖啡:N	拿:Vt	鐵:N	＄:FW	１０５:DET	
+中杯:N	
+阿:N	阿阿:Vi	我:N	居然:ADV	還:ADV	沒:ADV	拍照:Vi	就:ADV	喝:Vt	了:ASP	導致:Vt	他:N	八分:DET	滿:DET	
+害:Vt	我:N	差點:ADV	強迫症:N	發作:Vi	再:ADV	去:ADV	點:Vt	一:DET	杯:M	啦:T	
+咖啡:N	味道:N	跟:P	星巴克:N	真:Vi	的:T	還:ADV	蠻:ADV	像:Vt	的:T	耶:T	
+不過:C	以:P	去:Vt	冰:N	拿:Vt	鐵:N	來:ADV	說:Vt	鮮奶量:N	比:P	星巴克:N	偏:ADV	少:Vi	了:ASP	點:M	
+還:ADV	記得:Vt	上:N	回去:Vi	韓國:N	玩:Vt	的:T	時後:N	
+因為:C	是:Vt	跟:P	團:N	所以:C	完全:ADV	不:ADV	知道:Vt	咖啡病:N	
+覺得:Vt	韓國:N	的:T	咖啡:N	實在:ADV	很:ADV	
+難:Vi	喝:Vt	
+鮮奶量:N	超級:A	無敵:Vi	少:Vi	的:T	
+而且:C	他們:N	好:ADV	喜歡:Vt	喝:Vt	即:Vt	溶式:A	三合一:Vi	咖啡:N	
+因此:C	這:DET	杯:M	拿:Vt	鐵:N	已:ADV	有:Vt	超出:Vt	我:N	預期:Vt	的:T	好喝:Vi	了:T	
+吃完:Vt	喝完:Vt	要:ADV	自己:N	拿:Vt	餐盤:N	去:ADV	放:Vt	唷:T	
+去:ADV	逛逛:Vt	官網:N	才:ADV	發現:Vt	當日:N	壽星:N	可以:ADV	免費:Vi	兌換:Vt	派思脆:Vi	或:C	刨冰:N	一:DET	份:M	耶:T	
+圖片:N	取自:Vi	caffebene:FW	官網:N	
+結論:N	：:COLONCATEGORY	
+有沒有:ADV	人:N	覺得:Vt	我:N	這:DET	篇:M	廢話:N	很多:DET	
+因為:C	不:ADV	講:Vt	廢話:N	這:DET	篇:M	實在:ADV	也:ADV	沒:Vt	什麼:DET	好:Vi	打:Vt	的:T	XD:FW	
+簡單:Vi	來:ADV	說:Vt	咖啡病:N	從頭到尾:ADV	就:ADV	是:Vt	丹堤:N	韓國:N	版阿:N	
+論:Vt	鹹:Vi	食丹堤:N	還:ADV	樂勝:N	勒:Vt	
+我:N	覺得:Vt	這:DET	不:ADV	是:Vt	咖啡病:N	的:T	問題:N	啦:T	
+實在:ADV	是:Vt	台灣:N	的:T	咖啡店:N	實在:ADV	太:ADV	萬能:Vi	了:T	
+不只:ADV	要:ADV	賣:Vt	咖啡:N	鬆餅:N	還:ADV	要:ADV	賣:Vt	義大利麵:N	pizza:FW	漢堡:N	早:Vi	午餐:N	炸:Vt	的:T	烤:Vt	的:T	通通:ADV	有:Vt	
+到:P	台灣:N	的:T	咖啡店:N	裡:N	總:ADV	能:ADV	找到:Vt	想:Vt	吃:Vt	的:T	東西:N	是:Vt	很:ADV	幸福:Vi	的:T	事:N	
+當然:ADV	咖啡病:N	還是:ADV	有:Vt	其:DET	優點:N	
+在:P	東區:N	能:ADV	又:ADV	多:Vi	了:ASP	個:M	不:ADV	限:Vt	時間:N	又:ADV	有:Vt	免費:Vi	wifi:FW	的:T	地方:N	
+對於:P	有:Vt	這:DET	類:M	需求:N	的:T	顧客:N	來:ADV	說:Vt	除了:P	星巴克:N	丹堤:N	西雅圖:N	外:N	又:ADV	多:Vi	了:ASP	個:M	選擇:N	囉:T	
+食物:N	美味:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	☆:FW	
+ＣＰ:FW	值:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	☆:FW	
+服務:Nv	態度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	☆:FW	
+再:ADV	訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	☆:FW	
+本:DET	篇:M	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32671892:DET	

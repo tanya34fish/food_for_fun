@@ -1,0 +1,87 @@
+william:FW	62600:DET	(:PARENTHESISCATEGORY	我:N	叫:Vt	阿:N	豬仔:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	內湖:N	737巷:N	之:T	特製:Nv	小籠包:N	、:PAUSECATEGORY	豬:N	大郎:N	豬血:N	糕:N	
+Fri:FW	
+Jul:FW	
+25:DET	
+22:DET	::COLONCATEGORY	45:DET	::COLONCATEGORY	09:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	特製:Vt	小籠包:N	、:PAUSECATEGORY	蒸餃:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	內湖區:N	內湖路:N	一段:N	737巷:N	49:DET	號:M	(:PARENTHESISCATEGORY	港墘:N	1:DET	號:M	出口:Vt	六:DET	分鐘:M	，:COMMACATEGORY	康:N	是:Vt	美:N	對面:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2627:DET	-:DASHCATEGORY	5775:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	17:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	01:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	週一:N	公休:Vi	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	30:DET	~:FW	90:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	不可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	小籠包:N	、:PAUSECATEGORY	蒸餃:N	
+餐廳:N	名稱:N	：:COLONCATEGORY	豬:N	大郎:N	豬血:N	糕:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	內湖路:N	一段:N	737巷:N	30:DET	號:M	前:POST	(:PARENTHESISCATEGORY	港墘:N	1:DET	號:M	出口:Vt	五:DET	分鐘:M	，:COMMACATEGORY	屈臣氏:N	門口:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2627:DET	-:DASHCATEGORY	5775:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	15:DET	::COLONCATEGORY	30:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	賣完:Vt	就:ADV	收:Vt	(:PARENTHESISCATEGORY	每:DET	周:M	二:DET	公休:Vi	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1:DET	支:M	35:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	不可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	豬血:N	糕:N	
+好看:Vi	又:ADV	好吃:Vi	的:T	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	vanilladog.pixnet.net/blog/post:FW	/:FW	58039854:DET	
+朝聖:Vi	完:Vt	碧山巖:N	絕美:Vi	夜景:N	後:POST	想要:Vt	祭祭:Vt	五臟廟:N	嘛:T	
+那:DET	就:ADV	直:ADV	奔:Vi	有名:Vi	的:T	內湖路:N	737巷:N	來去:Vi	解決:Vt	晚餐:N	
+短短:Vi	一:DET	條:M	巷子:N	美食:N	倒是:ADV	不少:Vi	耶:T	
+今天:N	首要:N	目標:N	就:ADV	是:Vt	
+超:Vt	火紅:A	的:T	特製:Nv	小籠包:N	和:C	蒸餃:N	
+店:N	門:N	前:POST	常常:ADV	排:Vt	著:ASP	長長:Vi	外帶:Vt	人龍:N	
+如果:C	是:Vt	內:N	用:Vt	就:ADV	直接:Vi	進:Vt	店裡:N	找:Vt	位子:N	就:ADV	好了:T	
+位子:N	頗多:Vi	的:T	
+1:DET	.:PERIODCATEGORY	小籠包:N	一:DET	籠:N	$:FW	90:DET	
+這裡:N	的:T	小籠包:N	不:ADV	是:Vt	走:Vi	薄:Vi	皮:N	路線:N	
+是:Vt	比較:ADV	傳統:Vi	的:T	小籠包:N	
+皮:N	吃起來:ADV	非常:ADV	的:T	Q:FW	厚度:N	蠻:ADV	適中:Vi	的:T	上頭:N	折皮:N	的:T	部分:DET	稍:ADV	厚:Vi	
+但:C	不:ADV	影響:Vt	口感:N	反倒:C	更:ADV	是:Vt	能:ADV	咀嚼出:Vt	麵粉:N	香氣:N	
+生意:N	非常:ADV	的:T	好:Vi	小籠包:N	和:C	蒸餃:N	都:ADV	是:Vt	當天:N	手工:N	現:ADV	做:Vt	現:N	包:Vt	的:T	
+內:N	餡:N	果然:ADV	特別:Vi	的:T	新鮮:Vi	吃:Vt	的:T	到:P	豬肉:N	的:T	鮮度:N	
+最:ADV	加分:Vi	的:T	是:Vt	能:ADV	吃:Vt	的:T	到:Vt	鮮:Vi	甜:Vi	的:T	肉汁:N	我:N	覺得:Vt	不:ADV	沾醬:N	就:ADV	非常:ADV	好吃:Vi	呢:T	
+想不到:ADV	走:Vi	
+厚皮:N	
+路線:N	的:T	小籠包:N	表現:N	得:ADV	那麼:ADV	亮眼:Vi	呢:T	
+2:DET	.:PERIODCATEGORY	蒸餃:N	一:DET	籠:N	$:FW	70:DET	
+蒸餃:N	也:ADV	是:Vt	來:ADV	這:DET	必:ADV	點:Vt	的:T	
+這裡:N	的:T	蒸餃:N	各:DET	各:DET	感覺:N	胖嘟嘟:Vi	的:T	賣:Vt	向:P	還:ADV	不錯:Vi	
+咬下去:Vt	後:POST	才:ADV	發現:Vt	原來:ADV	它:N	裡頭:N	充滿:Vt	著:ASP	肉汁:N	
+肉汁:N	爆漿:N	程度:N	居然:ADV	更:ADV	甚於:Vt	小籠包:N	
+裡頭:N	包:Vt	的:T	高麗菜:N	略:ADV	有:Vt	脆度:N	
+外皮:N	一樣:Vi	非常:ADV	的:T	Q:FW	
+男友:N	說:Vt	他:N	更:ADV	喜歡:Vt	蒸餃:N	XDDD:FW	
+這裡:N	的:T	醬汁:N	是:Vt	自助式:N	的:T	
+已經:ADV	調配好:Vt	的:T	裡面:N	有加:ADV	辣:Vi	喔:T	怕:Vt	辣:Vi	的:T	朋友:N	要:ADV	小心:Vt	XD:FW	
+還:ADV	有:Vt	新鮮:Vi	的:T	薑絲:N	
+男友:N	說:Vt	這裡:N	薑絲:N	不會:ADV	辣:Vi	
+很:ADV	推薦:Vt	它:N	的:T	辣味:N	的:T	醬汁:N	辣度:N	是:Vt	小:Vi	辣:Vi	的:T	程度:N	
+配:Vt	小籠包:N	跟:P	蒸餃:N	更:ADV	提:Vt	味:N	
+3:DET	.:PERIODCATEGORY	酸辣湯:N	
+小:Vi	
+$:FW	30:DET	
+酸辣湯:N	料:N	挺:ADV	多:Vi	的:T	
+但:C	真的:ADV	頗:ADV	小:Vi	碗:N	的:T	
+胡椒粉:N	味道:N	非常:ADV	重:Vi	覺得:Vt	普普:N	
+對了:Vi	送完:Vt	全部:DET	餐點:N	會:ADV	先:ADV	收費:Vt	喔:T	
+另外:C	聽說:Vt	737巷:N	這裡:N	還:ADV	有:Vt	一:DET	攤:M	豬血:N	糕:N	聽說:Vt	非常:ADV	的:T	利害:N	
+沒:ADV	錯:Vi	
+就:ADV	是:Vt	擁有:Vt	許多:DET	分店:N	的:T	豬:N	大郎:N	豬血:N	糕:N	本:DET	店:N	
+聽說:Vt	還:ADV	是:Vt	本:DET	店:N	最:ADV	好吃:Vi	啦:T	
+人:N	多:Vi	的:T	時候:N	還要:ADV	抽:Vt	號碼牌:N	喔:T	
+但:C	今天:N	我們:N	蠻:ADV	幸運:Vi	的:T	一下子:N	就:ADV	買到:Vt	了:ASP	
+上頭:N	撲:Vt	了:ASP	滿滿:Vi	的:T	花生粉:N	跟:P	香菜:N	
+非常:ADV	的:T	大一:N	支阿:N	
+比:P	臉:N	還:ADV	長:Vi	
+好多:DET	
+口感:N	帶有:Vt	嚼:Vt	勁:N	
+特別:Vi	的:T	是:Vt	能:ADV	吃:Vt	的:T	到:P	切成:Vt	碎:Vi	粒狀:N	的:T	花生:N	
+還:ADV	不錯:Vi	但:C	我:N	比較:ADV	喜歡:Vt	偏軟:Vi	一點點:DET	的:T	口感:N	XDD:FW	
+以:P	CP:FW	值:N	來:ADV	說:Vt	35:DET	元:M	可以:ADV	吃到:Vt	那麼:ADV	大:Vi	支:M	的:T	豬血:N	糕:N	真的:ADV	超:Vt	划算:Vi	的:T	
+不:ADV	負責:Vt	小:Vi	總結:N	ヾ:FW	
+*:FW	Φ:FW	ω:FW	Φ:FW	
+ツ:FW	
+內湖:N	737巷:N	簡直:ADV	就是:C	內湖:N	小吃:N	的:T	美食:N	聚集地:N	
+小籠包:N	和:C	蒸餃:N	大推:Vt	阿:N	
+很:ADV	推薦:Vt	大家:N	去:Vt	內湖:N	玩:Vt	可以:ADV	把:P	他:N	列為:Vt	參考:N	
+下:DET	次:M	再:ADV	來:ADV	繼續:Vt	挑戰:Vt	其他:DET	美味:Vi	小吃:N	

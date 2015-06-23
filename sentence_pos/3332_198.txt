@@ -1,0 +1,62 @@
+zzt:FW	(:PARENTHESISCATEGORY	限量:Vi	版魔人:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	台北市:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	家:N	樂福:N	內湖店:N	]:PARENTHESISCATEGORY	麵屋:N	一:DET	本:M	槍:N	
+Sun:FW	
+Jul:FW	
+20:DET	
+10:DET	::COLONCATEGORY	48:DET	::COLONCATEGORY	47:DET	
+2014:DET	
+店家:N	名稱:N	：:COLONCATEGORY	麵屋:N	一:DET	本:M	槍:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	民善街:N	88:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	139:DET	-:DASHCATEGORY	169:DET	元:M	，:COMMACATEGORY	不:ADV	收:Vt	服務費:N	
+圖文:N	好讀:Vt	版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/HS3u6g:FW	
+目前:N	我:N	已經:ADV	吃:Vt	過:ASP	而且:C	寫:Vt	過:ASP	文章:N	記錄:N	的:T	台北市:N	日式:A	拉麵店:N	一共:ADV	是:Vt	92:DET	家:M	
+這:DET	間:M	店:N	開:Vt	在:P	家:N	樂福:N	內湖店:N	
+是:Vt	一:DET	間:M	屬於:Vt	美食街:N	型態:N	的:T	日式:A	拉麵:N	店家:N	
+一:DET	本:M	
+槍:N	
+這:DET	個:M	詞:N	是:Vt	指:Vt	堅持:Vt	到底:Vi	、:PAUSECATEGORY	擁有:Vt	很:ADV	厲害:Vi	的:T	絕招:N	或是:C	一:DET	槍:M	決勝負:Vi	的:T	意思:N	
+就:ADV	我:N	
+的:T	理解:Nv	
+最早:ADV	應該:ADV	是:Vt	在:P	指:Vt	日本:N	戰國:N	時代:N	的:T	兵法家:N	上:POST	泉伊:N	勢:N	守秀:N	綱:N	
+劍術:N	
+新:Vi	
+陰流:N	
+的:T	開創:Nv	者:N	
+人:N	稱:Vt	
+上:Vt	州:N	の:FW	一:DET	本:M	槍:N	
+店家:N	的:T	食物:N	模型:N	做:Vt	得:T	還:ADV	挺:ADV	有模有樣:Vi	的:T	
+調味料:N	集中:Vt	放:Vt	在:P	櫃檯:N	
+有:Vt	黑:Vi	胡椒:N	以及:C	七:DET	味:M	粉:N	兩:DET	種:M	
+拉麵:N	價位:N	介於:Vt	139:DET	元:M	至:P	169:DET	元:M	之間:POST	
+加:Vt	麵:N	要:ADV	另外:ADV	加:Vt	10:DET	元:M	
+減:Vt	量:N	也:ADV	可以:ADV	少:Vi	10:DET	元:M	
+店家:N	不:ADV	收:Vt	服務費:N	
+另外:C	有加:ADV	30:DET	/:FW	50:DET	/:FW	70:DET	元:M	的:T	套餐價:N	
+可以:ADV	另外:DET	點:M	豆腐:N	、:PAUSECATEGORY	黃金:N	
+蛋:N	、:PAUSECATEGORY	豬排:N	等:POST	餐點:N	
+另外:C	還:ADV	有:Vt	雙人:N	份:N	套餐:N	可以:ADV	點:Vt	
+侍:Vt	
+大阪:N	豚骨:N	拉麵:N	
+139:DET	元:M	
+不:ADV	收:Vt	服務費:N	
+配:Vt	菜:N	有:Vt	蔥:N	、:PAUSECATEGORY	筍乾:N	和:C	海苔:N	
+湯頭:N	
+有點:ADV	鹹:Vi	有點:ADV	油膩:Vi	
+喝:Vt	多:Vi	了:ASP	會:ADV	有:Vt	明顯:Vi	口乾舌燥:Vi	的:T	狀況:N	
+叉燒:N	有:Vt	三:DET	片:M	
+份量:N	和:C	味道:N	普通:Vi	
+蛋:N	表現:Vt	水準:N	中等:A	
+麵:N	份量:N	剛好:ADV	
+煮:Vt	得:T	有點:ADV	過:ADV	軟:Vi	
+麵:N	本身:N	品質:N	一般:POST	
+綜論:N	之:T	
+以:P	吃:Vt	過:ASP	一:DET	次:M	的:T	經驗:N	來:ADV	說:Vt	
+這:DET	是:Vt	一:DET	間:M	中低價位:N	至:C	中價位:N	
+不:ADV	收:Vt	服務費:N	
+的:T	日式:A	拉麵店:N	
+以:P	這樣:Vi	的:T	價格:N	和:C	表現:N	作為:Vt	大:Vi	賣場:N	美食街:N	的:T	拉麵店:N	是:Vt	沒有:Vt	問題:N	
+的:T	
+如果:C	店家:N	想:Vt	再:ADV	往:P	前進:Vi	的:T	話:N	
+應該:ADV	去:ADV	思考:Vt	湯頭:N	是否:ADV	要:ADV	再:ADV	做:Vt	調整:Vt	

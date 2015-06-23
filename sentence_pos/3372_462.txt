@@ -1,0 +1,60 @@
+imok0122(momo:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	麟光:N	站:Vi	宛如:Vt	置身:Vt	夜店:N	的:T	上乘:Vi	三:DET	家:M	涮涮:b	鍋:M	
+Wed:FW	
+Jul:FW	
+30:DET	
+22:DET	::COLONCATEGORY	43:DET	::COLONCATEGORY	48:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	上乘:Vi	三:DET	家:M	涮涮鍋:N	共和國:N	(:PARENTHESISCATEGORY	和平店:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	和平東路:N	三段:N	316:DET	號:M	(:PARENTHESISCATEGORY	和平東路:N	/:FW	富陽:N	街口:N	-:DASHCATEGORY	捷運:N	麟光:N	站:Vi	):PARENTHESISCATEGORY	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+連絡:Vt	電話:N	::COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2739:DET	-:DASHCATEGORY	8832:DET	
+平均:Vi	價位:N	::COLONCATEGORY	200:DET	元:M	起:POST	
+網誌:N	好讀:Vt	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ohamei.pixnet.net/blog/post:FW	/:FW	164330931:DET	
+這:DET	間:M	火鍋店:N	距離:N	麟光:N	站:Vi	走路:Vi	約:ADV	10:DET	分鐘:M	
+如果:C	搭:Vt	公車:N	就:ADV	在:P	富陽:N	街口:N	下車:Vi	比較:ADV	近:Vi	
+某:DET	天:M	經過:Vt	發現:Vt	這:DET	種:M	神祕:Vi	的:T	建築:N	
+透過:P	大:Vi	片:M	落地窗:N	
+隱約:ADV	看得出來:Vt	生意:N	還:ADV	不錯:Vi	
+而且:C	內:N	頭:N	裝潢:N	不錯:Vi	
+以為:Vt	是:Vt	間:M	高級:Vi	餐廳:N	
+原來:ADV	是:Vt	賣:Vt	涮涮:b	鍋:M	
+外頭:N	價目表:N	就:ADV	像:Vt	錢:N	X:FW	系列:N	的:T	
+價位:N	
+令:Vt	人:N	覺得:Vt	有:Vt	種:M	躍躍欲試:Vi	的:T	感覺:N	
+外頭:N	招牌:N	菜單:N	
+仔細:Vi	看:Vt	內容:N	
+賣:Vt	的:T	也:ADV	與眾不同:Vi	-:DASHCATEGORY	竹炭鍋:N	、:PAUSECATEGORY	鱷魚肉:N	、:PAUSECATEGORY	副餐:N	是:Vt	握:Vt	壽司:N	、:PAUSECATEGORY	手捲:N	
+一:DET	進:M	門:N	
+映入:Vt	眼簾:N	的:T	就是:C	裡頭:N	的:T	裝潢:N	
+充滿:Vt	神秘:Vi	紫:Vi	色調:N	的:T	裝潢:N	加上:Vt	挑高:Vi	樓中樓:N	跟:P	華麗:Vi	水晶:N	
+燈:N	
+以為:Vt	是:Vt	走到:Vt	Loungebar:FW	的:T	感覺:N	....:ETCCATEGORY	
+鍋子:N	裡:N	飄:Vi	的:T	黑色:N	木棒:N	
+就是:C	標榜:Vt	&:FW	lt:FW	
+淨化:Vt	水質:N	&:FW	gt:FW	
+的:T	竹炭:N	
+店員:N	會:ADV	倒:Vt	黑色:N	的:T	飲料:N	給:Vt	你:N	
+一:ADV	嚐:Vt	是:Vt	清涼:Vi	退火:Vi	仙草茶:N	
+稍:ADV	甜:Vi	但:C	很:ADV	適合:Vi	現:ADV	正:ADV	悶熱:Vi	的:T	夏天:N	
+也:ADV	有:Vt	豐富:Vt	的:T	佐料區:N	、:PAUSECATEGORY	仙草:N	茶:N	及:C	竹炭:N	水:N	
+任君:N	取用:Vt	
+我們:N	點:Vt	了:ASP	&:FW	lt:FW	
+香草:N	豬:N	、:PAUSECATEGORY	板腱牛:N	、:PAUSECATEGORY	石:N	家:N	羊肉:N	&:FW	gt:FW	
+肉:N	端上來:Vt	的:T	樣子:N	
+像:P	那:DET	種種:DET	冷凍:Nv	太:ADV	久:Vi	慘白:Vi	的:T	色澤:N	
+菜單:N	也:ADV	標明:Vt	每:DET	種:M	肉:N	須:ADV	料理:Vt	的:T	秒:M	數:DET	
+肉片:N	厚薄:N	適中:Vi	
+軟嫩:Vi	好吃:Vi	
+而:C	菜盤:N	內容物:N	雖:C	不:ADV	豐富:Vt	多樣:Vi	
+但:C	也:ADV	是:Vt	分量:N	足夠:Vi	
+大致:ADV	來:ADV	說:Vt	就:ADV	一半:DET	蔬菜:N	一半:DET	火鍋:N	料類:N	
+如果:C	
+喜歡:Vt	吃:Vt	火鍋:N	料:N	的:T	人:N	應該:ADV	會:ADV	蠻:ADV	喜歡:Vt	的:T	
+最後:N	的:T	甜點:N	則:ADV	是:Vt	芒果:N	冰沙:N	
+中間:N	黑黑:Vi	的:T	是:Vt	完全:ADV	不:ADV	搭:Vt	嘎:FW	的:T	竹炭:N	花生:N	
+店裡:N	也:ADV	有:Vt	販賣:Nv	...:ETCCATEGORY	
+評價:N	::COLONCATEGORY	環境:N	漂亮:Vi	
+餐點:N	價格:N	合理:Vi	美味:Vi	
+值得:Vi	推薦:Vt	

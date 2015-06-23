@@ -1,0 +1,120 @@
+gaga:FW	124:DET	(:PARENTHESISCATEGORY	子虛:N	烏有:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	DIARY:FW	小:Vi	酒館:N	
+Wed:FW	
+Jul:FW	
+30:DET	
+22:DET	::COLONCATEGORY	07:DET	::COLONCATEGORY	08:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	DIARY:FW	小:Vi	酒館:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	06:DET	/:FW	12:DET	&:FW	amp:FW	;:SEMICOLONCATEGORY	2014:DET	/:FW	04:DET	/:FW	30:DET	&:FW	amp:FW	;:SEMICOLONCATEGORY	2013:DET	/:FW	12:DET	/:FW	04:DET	
+地址:N	：:COLONCATEGORY	台北市:N	東豐街:N	53:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2706:DET	-:DASHCATEGORY	3553:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	15:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	2400:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	每:DET	人:N	低:Vi	消:Vt	800:DET	元:M	，:COMMACATEGORY	一成:DET	服務費:N	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	老饕肉:N	
+圖文:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.xuite.net/dog78124/gaga:FW	/:FW	230570137:DET	
+寫:Vt	這:DET	篇:M	食記:N	的:T	時候:N	口:N	水流:N	不:ADV	停:Vt	
+從:P	去年:N	到:P	現在:N	去:Vt	了:ASP	幾:DET	次:M	
+每:DET	次:M	都:ADV	吃:Vt	得:T	心滿意足:Vi	
+沒有:Vt	用餐:Nv	時間:N	限制:N	更:ADV	方便:Vi	聊到:Vt	天荒地老:Vi	
+絕對:ADV	是:Vt	需要:Vt	提早:Vt	訂位:Vi	的:T	餐廳:N	
+1:DET	個:M	月:N	前:POST	是:Vt	相當:ADV	保險:Vi	的:T	時間:N	
+某:DET	次:M	訂位:Vi	的:T	時候:N	被:P	建議:N	提前:Vi	兩:DET	週:M	即可:ADV	
+然後:ADV	真的:ADV	打過去:Vi	的:T	時候:N	會:ADV	被:P	告知:Vt	只:ADV	剩:Vt	吧台:N	的:T	位子:N	
+因此:C	建議:Vt	座位:N	不要:ADV	強求:Vt	
+用餐:Vi	前:POST	一:DET	天:M	會:N	電話:N	確認:Vt	
+但:C	招牌:N	太:ADV	不:ADV	顯眼:Vi	了:T	
+一:DET	家:M	非常:ADV	難:Vi	找到:Vt	的:T	店:N	
+其實:ADV	我:N	都:ADV	是:Vt	靠:Vt	著:ASP	記:N	旁邊:N	店家:N	
+KIKI:FW	
+來:ADV	找到:Vt	它:N	
+相當:ADV	透明化:Vt	的:T	廚房:N	可以:ADV	稍微:ADV	了解:Vt	料理:N	誕生:Vi	的:T	過程:N	
+令:Vt	人:N	驚奇:Vt	的:T	是:Vt	
+開放式:A	廚房:N	卻:ADV	收拾:Vt	得:T	相當:ADV	整齊:Vi	
+服務生:N	相當:ADV	注意:Vt	用餐:Nv	狀況:N	
+吃完:Vt	一:DET	道:M	菜:N	收拾:Vt	完:Vi	後:POST	才:ADV	會:ADV	接著:ADV	上菜:Vi	
+網誌:N	內:N	有:Vt	翻攝:Vt	菜單:N	的:T	照片:N	
+上面:N	有:Vt	價位:N	
+以下:N	是:Vt	曾經:ADV	吃:Vt	過:ASP	的:T	菜色:N	
+附有:Vt	照片:N	
+值得:Vi	注意:Vt	的:T	是:Vt	
+菜單:N	會:ADV	不:ADV	定時:Vi	更動:Vi	
+有:Vt	些:M	佳餚:N	可能:ADV	變:Vi	絕響:N	
+菜色:N	：:COLONCATEGORY	鳳梨:N	乾:Vi	一:ADV	開始:Vt	附贈:Vt	的:T	開胃:Vi	小:Vi	點心:N	
+鄉村:N	麵包:N	Baguette:FW	
+Lemonbutter:FW	
+Calvodos:FW	
+Lirenwurst:FW	法國:N	傳統:N	麵包:N	相當:ADV	堅硬:Vi	
+增添:Vt	飽足感:N	的:T	菜色:N	
+附贈:Vt	三:DET	種:M	抹:Vt	醬:N	
+最:ADV	左邊:N	白色:N	的:T	略:ADV	酸:Vi	
+個:M	人:N	最:ADV	喜歡:Vt	最:ADV	右邊:N	的:T	豬肝醬:N	
+蟹肉:N	煎餅:N	Crabmeatcake:FW	
+patty:FW	
+據說:ADV	是:Vt	人氣:N	餐點:N	
+份量:N	精緻:Vi	
+酥煎:N	比目魚:N	Flounder:FW	西班牙式:A	的:T	酸甜:Vi	相當:ADV	開胃:Vi	
+果粉炸:Vi	後:POST	的:T	魚肉:N	太:ADV	好吃:Vi	了:T	
+吃:Vt	了:ASP	這:DET	道:M	菜:N	戰力:N	增加:Vt	20:DET	%:M	
+布袋:N	春雞:N	roastspringchichen/dijongrainmustard:FW	法國:N	春雞:N	中:POST	填充:Vt	雞肉:N	幕:N	斯:DET	
+適合:Vi	多:Vi	人:N	食用:Vt	
+服務生:N	會:ADV	幫忙:Vt	切:Vt	塊:M	
+一定:ADV	要:Vt	沾醬:N	食用:Vt	
+讓:Vt	人:N	一:ADV	想到:Vt	就:P	口水:N	滿溢:Vi	
+主要:ADV	是:Vt	那:DET	醬:N	太:ADV	開胃:Vi	了:T	
+但:C	口感:N	喜好:Nv	程度:N	因人而異:Vi	
+香木:N	甜橙:N	鴨胸:N	Duckbreastwithorangesauce:FW	先乾煎:N	鴨胸:N	再:ADV	以:P	180:DET	度:M	火烤:Vt	3:DET	分鐘:M	
+加上:C	帶有:Vt	新鮮:Vi	茵陳蒿:N	和:C	白酒:N	醋:N	的:T	甜橙:N	醬汁:N	
+一:DET	片:M	鴨:N	胸肉:N	疊:Vt	著:ASP	一:DET	片:M	果瓣:N	
+巧妙:Vi	的:T	搭配:Nv	舌:N	間:N	留香:N	
+功夫:N	鴨腿:N	Duckconfit:FW	持續:Vt	5:DET	小時:M	
+以:P	60:DET	度:M	高溫:N	燉煮:Nv	
+下面:N	鋪:Vt	著:ASP	豬腳:N	會:ADV	搭配:Vt	的:T	酸菜:N	
+皮:N	脆脆:Vi	的:T	肉:N	鮮嫩:Vi	
+搭配:Vt	玫瑰:N	頁鹽:Vt	食用:Vt	
+烤:Vt	牛肉:N	Roastbeef:FW	歐洲:N	小:Vi	酒館:N	必備:A	佳餚:N	
+切開:Vt	鮮紅:Vi	的:T	嫩:Nv	肉:N	讓:Vt	人:N	難忘:Vt	
+個:M	人:N	覺得:Vt	沒有:ADV	讓:Vt	人:N	驚艷:Vi	的:T	感覺:N	
+老饕肉:N	Ribeyetop:FW	每:DET	頭:M	牛:N	只:ADV	能:ADV	供應:Vt	12:DET	客:M	的:T	肋眼:N	上:N	蓋肉:N	
+極品:N	中:POST	的:T	極品:N	
+不需:ADV	佐料:N	也:ADV	是:Vt	美味:Vi	的:T	極致:N	
+但:C	還是:ADV	可以:ADV	嘗試:Vt	一下:N	附贈:Vt	的:T	藍紋:N	起:POST	司:N	、:PAUSECATEGORY	玫瑰:N	頁鹽:Vt	、:PAUSECATEGORY	黃:N	芥末:N	沾醬:N	
+切開:Vt	後:POST	可怕:Vi	的:T	鮮嫩:Vi	多汁:Vi	
+完全:ADV	入口:Vi	即:ADV	化:Vt	
+做夢:Vi	都:ADV	想:Vt	入口:N	的:T	肉:N	
+巧克力:N	雞翅:N	Frychickenwings/chillichocolate:FW	去:Vt	骨:N	雞翅:N	醃製:Vt	香料:N	2:DET	天:M	
+再:ADV	撒上:Vt	自製:Vt	的:T	辣:Vi	巧克力:N	
+酥烤:Vt	的:T	雞:N	翅:N	相當:ADV	美味:Vi	
+由於:C	這:DET	家:M	餐廳:N	經常:ADV	端出:Vt	不:ADV	常見:Vi	的:T	菜餚:N	
+會:ADV	讓:Vt	人:N	眼睛:N	一:ADV	亮:Vi	
+大快朵頤:Vi	時:POST	
+無聲:Vi	勝:Vi	有聲:A	
+芒果米:N	布丁:N	Ricepudding:FW	吃起來:ADV	以為:Vt	是:Vt	布丁:N	
+但:C	底層:N	有:Vt	許多:DET	米粒:N	相當:ADV	特別:Vi	
+口感:N	酸甜:Vi	
+壽星:N	限定:Vt	的:T	小:Vi	招待:Vt	
+但:C	個:M	人:N	對於:P	米粒:N	有:Vt	無法:ADV	形容:Vt	的:T	違和感:N	
+跳過:Vt	米粒:N	不:ADV	談:Vt	
+是:Vt	個:M	好:Vi	布丁:N	
+調:Vt	酒:N	菜單:N	服務生:N	在:P	吧台:N	現場:N	調:Vt	客人:N	所:ADV	需:Vt	的:T	酒:N	
+我:N	覺得:Vt	這:DET	也:ADV	是:Vt	來:Vi	這裡:N	吃飯:Vi	的:T	另:DET	種:M	樂趣:N	
+酒杯:N	下面:N	的:T	每:DET	張:M	杯墊:N	都:ADV	是:Vt	由:P	服務生:N	親手:ADV	書寫:Vt	
+這:DET	年頭:N	錢:N	真的:ADV	不:ADV	好:Vi	賺:Vt	
+誤:ADV	
+上面:N	清楚:Vi	標示:Vt	名稱:N	及:C	成份:N	
+由於:C	平常:N	不:ADV	喝:Vt	酒:N	
+因此:C	都:ADV	請:Vt	店員:N	推薦:Vt	
+適合:Vi	女生:N	喝:Vt	或是:C	酒精:N	濃度:N	低:Vi	的:T	
+個:M	人:N	認為:Vt	下面:N	3:DET	款:M	
+最:ADV	喜歡:Vt	的:T	是:Vt	Applepie:FW	
+ApplePie:FW	蘋果派:N	含:Vt	蘋果:N	及:C	萊姆:N	原汁:N	
+喝完:Vt	不:ADV	醉:Vi	像:Vt	飲品:N	
+OrangeBrulee:FW	香橙:N	布蕾:N	香橙:N	干邑:N	及:C	杏仁酒:N	、:PAUSECATEGORY	可可:N	、:PAUSECATEGORY	奶油:N	調和:Vt	
+非常:ADV	推薦:Vt	
+HighBall:FW	薑汁:N	汽水:N	和:C	蘇打水:N	調和:Vt	
+酒精:N	濃度:N	不:ADV	高:Vi	
+Diarybistro:FW	小:Vi	酒館:N	地址:N	：:COLONCATEGORY	台北市:N	東豐街:N	53:DET	號:M	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2706:DET	-:DASHCATEGORY	3553:DET	營業:Nv	時間:N	：:COLONCATEGORY	15:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	2400:DET	低消:N	800:DET	元:M	/:FW	人:N	
+10:DET	%:M	服務費:N	
+可:ADV	刷卡:Vi	--:DASHCATEGORY	

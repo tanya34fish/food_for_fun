@@ -1,0 +1,89 @@
+QQminiai:FW	(:PARENTHESISCATEGORY	大貓:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	敦南:N	MiaPatisserie:FW	米兒:N	法式:A	甜點:N	
+Mon:FW	
+Jul:FW	
+28:DET	
+17:DET	::COLONCATEGORY	15:DET	::COLONCATEGORY	49:DET	
+2014:DET	
+MiaPatisserie:FW	米兒:N	法式:A	甜點:N	
+地址:N	::COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	235:DET	-:DASHCATEGORY	2:DET	號:M	
+訂位:Nv	專線:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	2741:DET	-:DASHCATEGORY	8080:DET	
+營業:Nv	時間:N	::COLONCATEGORY	週一:N	～:FW	週日:N	11:DET	::COLONCATEGORY	30:DET	～:FW	22:DET	::COLONCATEGORY	00:DET	提:Vt	
+供:Vt	刷卡:Nv	服務:Nv	、:PAUSECATEGORY	接受:Vt	預約:Nv	、:PAUSECATEGORY	外帶:Vt	服務:Nv	
+圖文:N	同步:Vi	發表:Vt	於:P	GET:FW	窩:N	http:FW	::COLONCATEGORY	/:FW	/:FW	www.getwo.com.tw/forum.php:FW	?:QUESTIONCATEGORY	mod=viewthread&amp:FW	;:SEMICOLONCATEGORY	tid:FW	=:FW	167:DET	
+拜訪:Vt	日期:N	：:COLONCATEGORY	2014:DET	.:PERIODCATEGORY	7.12:DET	下午茶:N	
+拜訪:Vt	契機:N	：:COLONCATEGORY	新:Vi	朋友:N	的:T	推薦:Nv	
+邀請:Vt	我:N	去:ADV	嘗:Vt	鮮:Vi	
+知道:Vt	敦南:N	誠品:N	旁邊:N	有:Vt	棟:M	豪宅:N	
+卻:ADV	沒:ADV	發現:Vt	竟然:ADV	藏:Vt	了:ASP	間:N	餐廳:N	
+據說:ADV	原本:ADV	是:Vt	藝人:N	葉璦菱:N	開:Vt	的:T	
+後來:N	轉手:Vi	
+自己:N	當:P	房東:N	收租:Vi	就:ADV	好:Vi	
+主廚:N	來頭:N	不:ADV	小:Vi	唷:T	
+【:PARENTHESISCATEGORY	日籍:N	甜點:N	主廚:N	】:PARENTHESISCATEGORY	嘉手納慶:N	一:DET	
+是:Vt	將:ADV	半熟:Vi	凹:Vi	蛋糕:N	引進:Vt	台灣:N	的:T	第一:DET	人:N	
+曾:ADV	遠:Vi	赴:Vt	法國:N	藍:Vi	帶:Vt	學習:Vt	正統:A	甜點:N	手藝:N	
+並:C	於:P	法國:N	知名:Vi	餐廳:N	擔任:Vt	主廚:N	
+返:Vt	日後:N	
+任職:Vt	於:P	東京:N	Canovano:FW	、:PAUSECATEGORY	NOBU:FW	等:POST	知名:Vi	高級:Vi	餐廳:N	
+不僅:C	擅長:Vt	冰淇淋:N	、:PAUSECATEGORY	水果:N	、:PAUSECATEGORY	野莓:N	等:POST	食材:N	的:T	靈活:Vi	運用:Vt	
+細膩:Vi	精準:Vi	的:T	搭配:Nv	與:C	擺:Vt	盤:N	
+更:ADV	展現出:Vt	一絲不苟:Vi	的:T	日式:A	精神:N	
+如上:Vi	節錄:Vt	自:P	官網:N	介紹:Vt	
+因為:C	是:Vt	跟:P	新:Vi	朋友:N	去:ADV	
+不好意思:Vi	狂拍:N	
+所以:C	門面:N	、:PAUSECATEGORY	環境:N	、:PAUSECATEGORY	空間:N	都:ADV	沒有:Vt	
+直接:Vi	進入:Vt	正題:N	....:ETCCATEGORY	afternoontea:FW	啦:T	
+原本:ADV	對於:P	零:DET	瑯滿:Vt	目的:N	menu:FW	感到:Vt	苦惱:Vi	
+不:ADV	知道:Vt	選:Vt	哪:DET	道:M	
+同行:N	友人:N	就:ADV	選:Vt	了:ASP	雙人:N	英式:A	午茶:N	套餐:N	$:FW	980:DET	
+須:ADV	再:ADV	加:Vt	1成:DET	服務費:N	唷:T	
+應該:ADV	是:Vt	南瓜:N	濃湯:N	
+口味:N	濃醇:Vi	
+感覺:N	沒:ADV	加:Vt	甚麼:DET	奇怪:Vt	的:T	奶粉:N	
+本人:N	很:ADV	怕:Vt	喝到:Vt	用:P	奶粉:N	增加:Vt	奶香:N	濃稠感:N	的:T	湯:N	
+麵包:N	...:ETCCATEGORY	本人:N	喜愛:Vt	熱:Vt	的:T	麵包:N	
+端上:Vt	桌:N	來:ADV	冷冷硬硬:Vi	的:T	
+完全:ADV	不:ADV	想:Vt	吃:Vt	第二:DET	塊:M	...:ETCCATEGORY	
+搭配:Vt	的:T	油:N	醋:N	也:ADV	一般:Vi	般:POST	
+沒:ADV	特別:Vi	愛:Vt	
+但:C	也:ADV	不:ADV	難吃:Vi	就是了:Vi	
+重點:N	上桌:Vi	啦:T	
+豪華:Vi	三:DET	層:M	下午茶:N	
+莓果:N	口味:N	冰淇淋:N	
+酸甜:Vi	適中:Vi	不:ADV	膩:Vi	口:N	
+小小:Vi	漢堡:N	....:ETCCATEGORY	沒:Vt	甚麼:DET	印象:N	
+因為:C	吃:Vt	不:ADV	下:Vt	給:Vt	同行:N	友人:N	吃:Vt	了:ASP	XDDD:FW	
+鮪魚:N	醬泡:N	芙:b	
+上頭:N	沾到:Vt	旁邊:N	鹹派:N	的:T	酸:Vi	黃瓜醬:N	
+很:ADV	不:ADV	湊巧:Vi	
+我:N	不:ADV	愛:Vt	鮪魚醬:N	......:ETCCATEGORY	
+而且:C	我:N	忘:Vt	了:ASP	拍:Vt	鹹:Vi	派:N	......:ETCCATEGORY	
+切片:N	巧克力:N	蛋糕:N	&:FW	amp:FW	
+應該:ADV	是:Vt	洋梨:N	派:Vt	
+同行:N	友人:N	熱愛:Vt	巧克力:N	
+讚不絕口:Vi	
+導致:Vt	後面:N	再:ADV	吃:Vt	其他:DET	口味:N	就:ADV	覺得:Vt	都:ADV	只是:ADV	中規中矩:Vi	了:T	
+哈:ADV	
+所以:C	下:DET	次要:A	把:P	最:ADV	愛:Vt	的:T	、:PAUSECATEGORY	口味:N	濃郁:Vi	的:T	擺:Vt	最後:N	啦:T	
+西點:N	餅乾:N	&:FW	amp:FW	
+繽紛:Vi	馬卡龍:N	
+我:N	吃:Vt	的:T	是:Vt	檸檬:N	&:FW	amp:FW	
+抹茶:N	口味:N	馬卡龍:N	
+檸檬:N	酸:Vi	中和:Vi	了:ASP	甜膩:Vi	
+抹:Vt	茶味:N	濃厚:Vi	
+吃:Vt	馬卡龍:N	時:POST	的:T	小:Vi	插曲:N	
+拿抹:Vt	茶:N	那:DET	塊:M	時:POST	
+感覺:N	下方:N	濕濕:Vi	黏黏:Vi	的:T	
+翻過來:Vi	發現:Vt	下面:N	沒有:Vt	那:DET	塊:M	脆皮:N	
+招來:Vt	服務生:N	反映:Vt	
+直接:Vi	送上:Vt	一:DET	塊:M	新:Vi	的:T	
+但:C	夾:Vt	馬卡龍擺盤:N	時:POST	
+工作:N	人員:N	不可能:ADV	沒:ADV	發現:Vt	
+恐怕:ADV	是:Vt	抱持:Vt	僥倖:Vi	心理:N	
+讓:Vt	無知:Vi	客人:N	吃掉:Vt	就:ADV	算了:Vi	吧:T	
+這:DET	點:M	真:ADV	是:Vt	大:Vi	大大大大:Vi	扣分:N	
+再:ADV	訪:Vt	意願:N	....:ETCCATEGORY	千:DET	元:M	大鈔:N	我:N	想:Vt	拿去:Vt	吃:Vt	其他:DET	的:T	店:N	
+大貓宅:N	生活:N	http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog:FW	
+愛力:N	獅:N	粉絲:N	圖:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/AlicesVoice:FW	
+GET:FW	窩:N	http:FW	::COLONCATEGORY	/:FW	/:FW	www.getwo.com.tw/forum.php:FW	

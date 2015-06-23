@@ -1,0 +1,106 @@
+clairegarden:FW	(:PARENTHESISCATEGORY	單純:Vi	而:C	微小:Vi	的:T	幸福:Nv	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	滿堂紅:Vi	麻辣:A	鍋:N	(:PARENTHESISCATEGORY	仁愛:N	):PARENTHESISCATEGORY	~:FW	大吃:Vt	prime:FW	牛肉:N	
+Tue:FW	
+Aug:FW	
+5:DET	
+15:DET	::COLONCATEGORY	15:DET	::COLONCATEGORY	58:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	滿堂紅:Vi	頂級:A	麻辣:A	鴛鴦:N	火鍋:N	(:PARENTHESISCATEGORY	仁愛:N	旗艦店:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	仁愛路:N	四段:N	228之4號:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27016669:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週五:N	(:PARENTHESISCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	15:DET	::COLONCATEGORY	30:DET	；:SEMICOLONCATEGORY	17:DET	::COLONCATEGORY	00:DET	~:FW	01:DET	::COLONCATEGORY	30:DET	):PARENTHESISCATEGORY	
+網誌:N	圖文版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	383239868:DET	
+和:C	愛:Vt	吃:Vt	麻辣:A	鍋:N	的:T	朋友:N	約好:Vt	要:ADV	去:ADV	吃:Vt	這:DET	家:M	麻辣:A	鍋:N	
+她:N	超級:A	踴躍:Vi	的:T	要:ADV	報名:Vi	著:ASP	
+即使:C	她:N	之前:POST	已經:ADV	來:ADV	吃:Vt	過:ASP	
+她:N	還是:ADV	非常:ADV	的:T	雀躍:Vi	欲:Vt	試:Vt	啦:T	
+店家:N	位在:Vt	二樓:N	
+一樓:N	店:N	外頭:N	是:Vt	如同:Vt	店名:N	高掛:Vt	的:T	大紅:A	燈籠群:N	
+走上:Vt	二樓:N	後:POST	發現:Vt	店:N	內:N	早已:ADV	滿滿:Vi	是:Vt	客人:N	啦:T	
+我們:N	坐:Vi	在:P	中間:N	走道區:N	
+桌子:N	很:ADV	大:Vi	不過:C	等到:P	火鍋:N	料:N	上桌:Vi	後:POST	瞬間:N	有:Vt	種:M	不:ADV	夠:ADV	大:Vi	的:T	感覺:N	了:T	XD:FW	
+店家:N	提供:Vt	了:ASP	六:DET	種:M	湯頭:N	
+麻辣:A	鍋:N	、:PAUSECATEGORY	昆布:N	、:PAUSECATEGORY	酸菜:N	、:PAUSECATEGORY	牛奶味:N	噌:b	、:PAUSECATEGORY	蘆薈:N	養生:Vi	、:PAUSECATEGORY	菓風:N	泡菜:N	
+我們:N	點:Vt	了:ASP	牛奶味:N	噌:b	和:C	麻辣:A	鍋湯:N	底:POST	
+我:N	喝:Vt	了:ASP	點:M	牛奶湯:N	味道:N	很:ADV	濃郁:Vi	還:ADV	挺:ADV	好喝:Vi	的:T	呢:T	
+麻辣湯:N	底:POST	很:ADV	香:Vi	不會:ADV	太:ADV	辣:Vi	
+裡面:N	有:Vt	鴨:N	血:N	和:C	豆腐:N	的:T	湯:N	底:POST	
+豆腐:N	充分:Vi	吸收:Vt	了:ASP	湯汁:N	比:P	鴨血:N	好吃:Vi	呢:T	
+醬料區:N	約莫:ADV	有:Vt	數十:DET	種:M	醬料:N	可以:ADV	選用:Vt	
+不過:C	店家:N	特別:Vi	介紹:Vt	了:ASP	日式:A	果醋醬:N	和:C	特調:N	醬汁:N	兩:DET	種:M	
+店:N	內:N	有:Vt	一:DET	個:M	大:Vi	冰櫃:N	
+裡面:N	放:Vt	了:ASP	各:DET	種:M	肉類:N	
+看:Vt	著:ASP	這些:DET	肉品:N	
+就:ADV	覺得:Vt	肉片:N	應該:ADV	很:ADV	高級:Vi	喔:T	
+我們:N	第一:DET	輪:M	的:T	點菜:Vi	
+看起來:ADV	真:ADV	彭派:N	
+辣鍋:N	的:T	大腸:N	頭:N	和:C	牛:N	筋:N	
+大腸:N	頭:N	我:N	不:ADV	敢:Vt	吃:Vt	
+牛:N	筋超:N	有:Vt	嚼:Vt	勁:N	的:T	覺得:Vt	有點:ADV	難:Vi	咬:Vt	
+老油條:N	真的:ADV	是:Vt	火鍋:N	的:T	好:Vi	夥伴:N	
+吃起來:ADV	真:ADV	好吃:Vi	
+根本:ADV	不管:C	它:N	是:Vt	高:Vi	熱量:N	
+還:ADV	點:Vt	了:ASP	第二:DET	盤:M	
+鯛魚片:N	
+不:ADV	知道:Vt	是:Vt	放:Vt	太:ADV	久:Vi	了:T	
+吃起來:ADV	有點:ADV	味道:N	呢:T	@:FW	@:FW	
+綜合:A	菇類:N	
+有:Vt	杏:N	鮑:N	菇:N	、:PAUSECATEGORY	金針菇:N	、:PAUSECATEGORY	袖珍:Vi	菇:N	、:PAUSECATEGORY	鮮:Vi	香菇:N	
+香菇:N	吃起來:ADV	都:ADV	很:ADV	鮮:Vi	甜:Vi	多汁:Vi	
+手工:N	鮮蝦丸:N	、:PAUSECATEGORY	花枝丸:N	
+朋友:N	力推:Vt	他:N	家:N	手工丸:N	
+吃起來:ADV	特別:Vi	Q:FW	彈:Vt	
+而且:C	鮮蝦丸:N	裡面:N	真的:ADV	有:Vt	鮮蝦:N	
+真的:ADV	是:Vt	值得:Vi	推薦:Vt	喔:T	
+他:N	家:N	主打:Vt	Prime:FW	等級:N	的:T	頂級:A	牛肉:N	
+肉片:N	色澤:N	看起來:ADV	都:ADV	超棒:N	的:T	
+吃起來:ADV	有:Vt	很:ADV	有:Vt	嚼:Vt	勁:N	呢:T	
+吃:Vt	了:ASP	一:DET	輪:M	覺得:Vt	有點:ADV	口渴:Vi	
+問:Vt	朋友:N	這裡:N	有:Vt	飲料區:N	嗎:T	
+她:N	指:Vt	了:ASP	後方:N	的:T	冰箱:N	
+哇:T	
+這:DET	是:Vt	可口可樂:N	可以:ADV	喝到:Vt	飽:Vi	嗎:T	
+不過:C	我:N	不:ADV	喝:Vt	可樂:N	喝:Vt	了:ASP	果汁:N	和:C	葡萄:N	芬達:N	
+話:N	說:Vt	光:ADV	喝:Vt	這些:DET	飲料:N	就:ADV	還:ADV	蠻:ADV	過癮:Vi	的:T	呢:T	
+其實:ADV	吃完:Vt	了:ASP	一:DET	輪:M	後:POST	就:ADV	有點:ADV	飽:Vi	了:T	
+我們:N	這:DET	輪:M	就:ADV	加:Vt	點:M	蝦子:N	、:PAUSECATEGORY	蛤蠣:N	、:PAUSECATEGORY	香菇:N	貢丸:N	、:PAUSECATEGORY	老油條:N	
+蝦子:N	和:C	蛤蠣:N	肉質:N	還:ADV	蠻:ADV	鮮:Vi	甜:Vi	的:T	
+朋友:N	還:ADV	又:ADV	加:Vt	點:M	了:ASP	一:DET	份:M	蛤蠣:N	
+香菇:N	貢丸:N	肉質:N	扎實:Vi	
+綜合:A	餃:b	
+有:Vt	蝦餃:N	、:PAUSECATEGORY	魚餃:N	和:C	蛋餃:N	
+吃起來:ADV	品質:N	都:ADV	還:ADV	不錯:Vi	
+不過:C	實在:ADV	是:Vt	太:ADV	飽:Vi	了:T	
+嫩:Vi	雞肉:N	
+梅花:N	豬肉:N	
+這:DET	兩:DET	種:M	肉品:N	野蠻:Vi	好吃:Vi	的:T	
+嫩:Vi	雞肉:N	真的:ADV	是:Vt	超嫩:Vi	的:T	
+最後:N	就:ADV	是:Vt	即使:C	吃:Vt	再:ADV	飽:Vi	一定:ADV	不能:ADV	錯過:Vt	哈根:N	達:Vt	斯:DET	啦:T	
+而且:C	他:N	家:N	提供:Vt	了:ASP	八:DET	種:M	口味:N	
+我:N	忍不住:Vt	吃:Vt	了:ASP	兩:DET	輪:M	冰:N	呢:T	
+他:N	家:N	的:T	Prime:FW	等級:N	牛肉:N	真的:ADV	品質:N	很:ADV	棒:Vi	
+而且:C	湯頭:N	也:ADV	有:Vt	一定:A	水準:N	
+難怪:ADV	在:P	炎熱:Vi	的:T	夏天:N	裡:POST	還:ADV	能:ADV	高朋滿座:Vi	的:T	
+冬天:N	我:N	一定:ADV	再:ADV	來:ADV	好好:Vi	這裡:N	享受:Vt	
+我:N	覺得:Vt	這裡:N	有:Vt	吃到:Vt	飽:Vi	很:ADV	好:Vi	的:T	一點:DET	就:ADV	是:Vt	服務生:N	會:ADV	很:ADV	熱心:Vt	幫忙:Vt	加:Vt	點:M	
+感覺:N	就是:C	不:ADV	怕:Vt	客人:N	吃:Vt	的:T	
+話:N	說:Vt	一:ADV	回家:Vi	就:ADV	收到:Vt	店家:N	的:T	簡訊:N	
+真是:ADV	讓:Vt	我:N	有點:ADV	受寵若驚:Vi	的:T	感覺:N	呢:T	
+美食:N	指數:N	*:FW	*:FW	*:FW	*:FW	
+氣氛:N	指數:N	*:FW	*:FW	*:FW	
+cp:FW	值:N	指數:N	*:FW	*:FW	*:FW	*:FW	
+再:ADV	訪:Vt	指數:N	*:FW	*:FW	*:FW	*:FW	
+延伸:Vi	閱讀:Nv	-:DASHCATEGORY	火鍋:N	大:Vi	飽足:Vi	
+捷運:N	南京東路:N	站畏公:N	長生:Vi	麻辣:A	鍋:N	
+香:Vi	而:C	溫醇:N	養生:Vi	麻辣:A	鍋:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	362967995:DET	
+捷運:N	國父:N	紀念館站:N	魚:N	歌:N	燈火:N	
+氣勢:N	驚人:Vi	23:DET	cm:FW	大:Vi	明蝦:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	337090382:DET	
+捷運:N	大安:N	站饕:Vi	鍋:N	
+不:ADV	一樣:Vi	的:T	三:DET	層:M	肉:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	336506000:DET	
+捷運:N	中山:N	站:N	九寨:N	十:DET	鍋:M	
+頂級:A	食材:N	+:FW	道地:Vi	川味:N	的:T	麻辣:A	饗宴:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	clairegarden.pixnet.net/blog/post:FW	/:FW	224479511:DET	

@@ -1,0 +1,82 @@
+s500i:FW	(:PARENTHESISCATEGORY	偏執狂:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	福甜屋:N	&:FW	火頭山:N	
+Wed:FW	
+Jul:FW	
+23:DET	
+13:DET	::COLONCATEGORY	41:DET	::COLONCATEGORY	44:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	福甜屋:N	&:FW	amp:FW	;:SEMICOLONCATEGORY	山頭:N	火:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	新生南路:N	三段:N	56巷:N	11:DET	號:M	
+台北市:N	大同區:N	承德路:N	一段:N	1:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2558:DET	-:DASHCATEGORY	2577:DET	):PARENTHESISCATEGORY	
+營業:Nv	時間:N	：:COLONCATEGORY	周二:N	-:DASHCATEGORY	周五:N	15:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	週六:N	-:DASHCATEGORY	周日:N	13:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+周日:N	～:FW	周四:N	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	30:DET	、:PAUSECATEGORY	周五:N	、:PAUSECATEGORY	周六:N	11:DET	::COLONCATEGORY	00:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	mypaper.pchome.com.tw/yu1122_iv/post:FW	/:FW	1328976258:DET	
+*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	
+以下:N	為:Vt	網誌:N	內容:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	photo.pchome.com.tw/yu1122_iv:FW	/:FW	140608813737:DET	
+阿樂:N	去:Vt	台北:N	健保署:N	本部:N	上課:Vi	
+還:ADV	沒:ADV	去:Vt	之前:POST	就:ADV	先:ADV	找好:Vt	去:Vt	台北:N	要:ADV	吃:Vt	什麼:DET	XDD:FW	
+剛好:ADV	這:DET	間:M	店:N	離:P	點點:DET	的:T	學校:N	非常:ADV	近:Vi	
+就:ADV	決定:Vt	吃:Vt	他:N	了:T	
+日式:A	烤麻糬:N	無法:ADV	抗拒:Vt	甜食:N	的:T	誘惑:Nv	
+http:FW	::COLONCATEGORY	/:FW	/:FW	photo.pchome.com.tw/yu1122_iv:FW	/:FW	140608810682:DET	
+在:P	烤好:Vt	的:T	麻糬:N	上面:N	塗上:Vt	黑糖:N	
+工作:N	人員:N	強調:Vt	說:Vt	這:DET	黑糖:N	是:Vt	日本:N	帶回來:Vt	的:T	噢:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	photo.pchome.com.tw/yu1122_iv:FW	/:FW	140608802872:DET	
+抹茶:N	口味:N	
+剛:ADV	烤好:Vt	的:T	麻糬:N	外皮:N	帶:Vt	些:M	為:Vt	焦為脆:N	的:T	口感:N	
+沾上:Vt	不:ADV	甜:Vi	的:T	抹:Vt	茶粉:N	加上:Vt	底部:N	的:T	黑糖:N	
+一口:ADV	咬下:Vt	讓:Vt	人:N	大大:Vi	的:T	滿足:Nv	
+阿樂:N	覺得:Vt	這:DET	是:Vt	三:DET	個:M	口味:N	裡面:N	的:T	第一:DET	名:M	
+http:FW	::COLONCATEGORY	/:FW	/:FW	photo.pchome.com.tw/yu1122_iv:FW	/:FW	140608801990:DET	
+黃豆粉:N	
+阿樂:N	沒有:ADV	很:ADV	喜歡:Vt	黃豆:N	的:T	味道:N	
+吃:Vt	了:ASP	一:DET	個:M	其他:DET	就:ADV	交給:Vt	點點:DET	去:ADV	善後:Vi	XD:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	photo.pchome.com.tw/yu1122_iv:FW	/:FW	140608801361:DET	
+海苔:N	甜:Vi	醬油:N	
+醬油:N	海苔:N	
+雖然:C	標榜:Vt	是:Vt	甜:Vi	醬油:N	但是:C	阿樂:N	和:C	點點:DET	都:ADV	覺得:Vt	醬油:N	過:ADV	鹹:Vi	....:ETCCATEGORY	
+烤完:Vt	放上:Vt	海苔:N	又:ADV	加上:Vt	我們:N	沒有:ADV	馬上:ADV	吃:Vt	
+所以:C	我們:N	的:T	口感:N	表達:Vt	應該:ADV	不:ADV	是:Vt	很:ADV	正確:Vi	XDD:FW	
+吃:Vt	著:ASP	沾抹:Vt	茶粉:N	的:T	烤:Nv	麻糬:N	
+讓:Vt	阿樂:N	對:P	日本:N	的:T	嚮往:Nv	又:ADV	加深:Vt	了:ASP	幾:DET	分:M	
+希望:Vt	過:ASP	不久:N	就:ADV	可以:ADV	在:P	日本:N	吃到:Vt	抹茶烤麻:N	糬:b	
+http:FW	::COLONCATEGORY	/:FW	/:FW	photo.pchome.com.tw/yu1122_iv:FW	/:FW	140608792229:DET	
+會:ADV	來:ADV	吃:Vt	這:DET	間:M	有:Vt	些:ADV	誤打誤撞:Vi	
+因為:C	阿樂:N	要:ADV	搭:Vt	高鐵:N	回:Vt	台南:N	想:Vt	說:Vt	就:ADV	在:P	京站:N	附近:N	解決:Vt	晚餐:N	
+點點:DET	說:Vt	這:DET	間:M	好像:ADV	很:ADV	厲害:Vi	
+很多:DET	人:N	在:P	排隊:Vi	
+我們:N	也:ADV	跟:P	著:ASP	來:Vi	這:DET	湊熱鬧:Vi	
+我們:N	只有:ADV	兩:DET	個:M	人:N	很:ADV	快:Vi	就:ADV	安排:Vt	的:T	位置:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	photo.pchome.com.tw/yu1122_iv:FW	/:FW	140608798770:DET	
+特選:Vt	豬頰肉:N	拉麵:N	中:POST	碗:N	
+$:FW	330:DET	
+湯頭:N	是:Vt	選:Vt	味噌:N	口味:N	
+麵條:N	吃起來:ADV	很:ADV	Q:FW	有:Vt	嚼:Vt	勁:N	
+不過:C	湯:N	的:T	鹹味:N	過重:Vi	...:ETCCATEGORY	
+讓:Vt	我們:N	忍不住:Vt	一直:ADV	喝水:Vi	
+肉滷制:N	的:T	鬆軟:Vi	很:ADV	好:Vi	咀嚼:Vt	
+苦媽:N	看:Vt	了:ASP	照片:N	稱讚:Vt	喜歡:Vt	這樣:ADV	乾:Vi	濕:Vi	分離:Vt	的:T	方式:N	
+因為:C	可以:ADV	按照:P	自己:N	的:T	方式:N	把:P	配料:N	一一:ADV	放入:Vt	拉麵:N	中:POST	慢慢:Vi	品嘗:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	photo.pchome.com.tw/yu1122_iv:FW	/:FW	140608797564:DET	
+辣味:N	噌:b	拉麵:Vi	小:Vi	碗:N	
+$:FW	210:DET	
+看到:Vt	送上來:Vt	的:T	拉麵:N	
+讓:Vt	阿樂:N	一:DET	整:DET	個:M	很:ADV	期待:Vt	
+想:Vt	說:Vt	可以:ADV	享受:Vt	辣:Vi	到:P	痛快:Vi	的:T	感覺:N	
+結果:ADV	吃:Vt	了:ASP	幾:DET	口:M	之後:POST	發現:Vt	...:ETCCATEGORY	一直:ADV	沒有:Vt	辣:Vi	的:T	感覺:N	
+跟:P	阿:N	樂:Vi	的:T	想像:N	有:Vt	落差:N	
+不過:C	阿樂:N	還是:ADV	覺得:Vt	辣味:N	噌:b	拉麵:Vi	比:P	特選:Vt	豬頰肉:N	拉麵:N	好吃:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	photo.pchome.com.tw/yu1122_iv:FW	/:FW	140608795648:DET	
+溏心:N	蛋:N	
+$:FW	30:DET	
+阿樂:N	之前:POST	在:P	小七:N	吃:Vt	過:ASP	溏心蛋:N	很:ADV	鹹:Vi	有:Vt	被:P	嚇到:Vt	XDD:FW	
+所以:C	阿樂:N	這:DET	次:M	吃到:Vt	覺得:Vt	特別:Vi	好吃:Vi	
+怎麼樣:Vi	都:ADV	贏過:Vt	小七:N	吧:T	哈哈:ADV	阿:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	photo.pchome.com.tw/yu1122_iv:FW	/:FW	140608792754:DET	
+用餐:Vi	要:ADV	額外:A	收取:Vt	10:DET	%:M	的:T	服務費:N	
+吃飽:Vi	要:ADV	來:ADV	離開:Vt	時:POST	
+看到:Vt	外面:N	依舊:ADV	有:Vt	排隊:Vi	的:T	人:N	龍:N	
+阿樂:N	想:Vt	山頭:N	火:N	應該:ADV	有:Vt	它:N	的:T	魅力:N	所在:N	吧:T	

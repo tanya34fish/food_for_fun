@@ -1,0 +1,120 @@
+mu2nov:FW	(:PARENTHESISCATEGORY	口瓜:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	車站:N	墨西哥:N	捲:Vt	大:Vi	口:N	吃:Vt	LIBREBURRITO:FW	
+Wed:FW	
+Jul:FW	
+30:DET	
+21:DET	::COLONCATEGORY	22:DET	::COLONCATEGORY	51:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	LIBREBURRITO&amp:FW	;:SEMICOLONCATEGORY	THEBASE:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	漢口街:N	一段:N	36:DET	號:M	B1F:FW	(:PARENTHESISCATEGORY	內外:N	標題:N	皆:ADV	請:Vt	附上:Vt	地區:N	！:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23311228:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	07:DET	::COLONCATEGORY	30:DET	p.m:FW	.:PERIODCATEGORY	-:DASHCATEGORY	10:DET	::COLONCATEGORY	00:DET	p.m:FW	.:PERIODCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	160:DET	~:FW	240:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	雞肉:N	墨西哥:N	捲:Vt	餅:N	
+網誌圖:N	多多:ADV	好:ADV	香:Vi	好:Vi	讀版:N	::COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	isamber.blog131.fc2.com/blog-entry-174.html:FW	
+離:P	KFC:FW	不:ADV	遠:Vi	的:T	漢口街:N	和:C	懷寧:N	街口:N	附近:N	
+THEBASE:FW	就:ADV	在:P	華華:Vi	飯店:N	的:T	樓下:N	
+因為:C	在:P	B:FW	1:DET	
+感覺:Vt	有點:ADV	像:Vt	是:Vt	女巫:N	店阿:N	之類:POST	樂團:N	的:T	表演:Nv	場所:N	還:ADV	讓:Vt	人:N	有點兒:ADV	猶豫:Vt	
+不過:C	剛好:ADV	看到:Vt	1樓:N	柱子:N	上:N	有:Vt	MENU:FW	介紹:Vt	著:ASP	他們:N	提供:Vt	的:T	菜單:N	
+墨西哥:N	捲:Vt	看起來:ADV	很:ADV	yummy:FW	而且:C	還:ADV	有:Vt	免費:Vi	無線:A	網路:N	
+就:ADV	決定:Vt	試試:Vt	了:ASP	
+不只:ADV	下樓:Vi	進:Vt	門口:N	可以:ADV	看到:Vt	這些:DET	很:ADV	有:Vt	特色:N	的:T	塗鴉:Nv	
+整:DET	個:M	餐廳:N	空間:N	裡:POST	也:ADV	充滿:Vt	著:ASP	異國:N	塗鴉:Nv	創作:N	
+進店:N	後:POST	發現:Vt	地下室:N	空間:N	非常:ADV	大:Vi	耶:T	
+內部:N	裝潢:N	挺:ADV	有:Vt	氣氛:N	的:T	
+首先:ADV	在:P	左側:N	的:T	是:Vt	他們:N	家:N	的:T	開放式:A	廚房:N	與:C	櫃檯:N	
+因為:C	墨西哥:N	捲:Vt	應該:ADV	算是:Vt	輕食:Vt	吧:T	
+也:ADV	不會:ADV	有:Vt	什麼:DET	嚴重:Vi	油煙:N	問題:N	
+廚房:N	前端:N	結合:Vt	自助:Nv	式點餐:N	櫃台:N	
+進店:N	後:POST	拿取:Vt	厚厚:Vi	MENU:FW	本:ADV	並:ADV	找尋:Vt	好:Vi	您:N	速西:N	的:T	座位:N	後:POST	再:ADV	到:P	櫃檯:N	點:Vt	餐:N	、:PAUSECATEGORY	結帳:Vi	
+杯:N	水:N	也:ADV	是:Vt	自取:Vt	哦:T	
+餐點:N	完成:Vt	後:POST	由:P	服務:Nv	人員:N	為:P	您:N	送:Vt	上桌:Vi	
+安柏:N	個:M	人:N	還:ADV	蠻:ADV	喜歡:Vt	這:DET	種:M	自助:Nv	點:N	餐:N	的:T	方式:N	...:ETCCATEGORY	因為:C	每:DET	次:M	才:ADV	剛:ADV	坐下:Vi	服務:Vt	人員:N	就:ADV	趕來:Vi	點:M	餐:N	的:T	壓力:N	很:ADV	大:Vi	阿:N	
+喜歡:Vt	這:DET	種:M	慢慢:Vi	翻:Vt	著:ASP	MENU:FW	的:T	感覺:N	
+主餐:N	除了:P	配料:N	滿滿:Vi	的:T	墨西哥:N	捲:Vt	餅:N	
+還:ADV	有:Vt	像:Vt	是:Vt	墨西哥:N	蓋:Vt	飯:N	、:PAUSECATEGORY	墨西哥:N	起:POST	司:Vt	薄餅:N	、:PAUSECATEGORY	墨西哥:N	起:POST	司:Vt	玉米片:N	or:FW	一:DET	次:M	享受:Vt	3:DET	種:M	墨西哥:N	玉米餅:N	拼盤:N	
+這:DET	幾:DET	種:M	不同:Vi	的:T	主食:N	除了:P	有:Vt	SIZE:FW	上:N	普通:Vi	/:FW	SUPER:FW	的:T	選擇:N	
+也:ADV	個別:ADV	對應:Vt	搭配:Vt	三:DET	種:M	肉類:N	
+牛:N	、:PAUSECATEGORY	豬:N	、:PAUSECATEGORY	雞:N	
+與:C	蔬菜:N	有:Vt	不同:Vi	的:T	定價:N	
+而:C	主餐:N	都:ADV	可以:ADV	+:FW	$:FW	50:DET	有:Vt	飲料:N	或:C	+:FW	$:FW	70:DET	有:Vt	附餐:N	
+玉米片:N	/:FW	薯條:N	/:FW	手工:N	烤餅:N	
+與:C	飲料:N	
+CP:FW	值:N	挺:ADV	高:Vi	的:T	加購:Vt	搭配:Vt	
+如果:C	是:Vt	週一:N	到:P	週五:N	時段:N	
+這兒:N	也:ADV	提供:Vt	非常:ADV	划算:Vi	的:T	商業:N	午餐:N	和:C	下午茶:N	特餐:N	
+每:DET	天:M	都:ADV	有:Vt	不同:Vi	的:T	選擇:N	
+如果:C	我:N	在:P	附近:N	上班:Vi	搞不好:ADV	真的:ADV	可以:ADV	每:DET	天:M	來:POST	
+感覺:N	都:ADV	很:ADV	好吃:Vi	ar:FW	有點:ADV	難以:ADV	抉擇:Vt	
+最後:N	決定:Vt	先:ADV	攻:Vt	招牌:N	餐點:N	囉:T	
+普通:Vi	SIZE:FW	的:T	
+雞肉:N	
+墨西哥:N	捲:Vt	餅:N	+:FW	$:FW	70:DET	副:M	餐:N	飲料:N	
+今天:N	飲料:N	選:Vt	的:T	是:Vt	水果茶:N	
+須:ADV	補:Vt	套餐:N	差價:N	
+等待:Vt	餐點:N	的:T	同時:N	也:ADV	就是:C	安柏:N	在:P	這:DET	遼闊:Vi	空間:N	內:N	跑跳:Vi	閒晃:N	的:T	時間:N	了:T	
+除了:P	提供:Vt	墨西哥:N	料理:N	外:POST	
+店:N	內:N	還:ADV	販售:Vt	塗鴉:Nv	墨水:N	KRINK:FW	
+而:C	因:C	老闆:N	的:T	愛好:Nv	也:ADV	特別:Vi	有:Vt	著:ASP	潮流:N	服飾:N	、:PAUSECATEGORY	配件:N	等:POST	販售:Nv	陳設:N	區域:N	
+另外:C	也:ADV	有:Vt	很多:DET	的:T	書籍:N	和:C	繪本:N	
+並且:C	有:Vt	一些:DET	展演:N	的:T	資訊:N	
+我們:N	座位:N	的:T	旁邊:N	有:Vt	一:DET	整:DET	排:M	電腦:N	
+付費:Vi	就:ADV	可以:ADV	使用:Vt	
+還:ADV	真:ADV	有點:ADV	像:Vt	網咖:N	哈哈:ADV	
+特別:Vi	喜愛:Vt	的:T	是:Vt	
+有:Vt	個:M	區塊:N	可以:ADV	用:P	拉門:N	獨立:Vi	圍成:Vt	開會:Vi	或是:C	發表會:N	的:T	空間:N	
+明亮:Vi	又:ADV	寬闊:Vi	
+有:Vt	需要:N	的:T	話:N	可以:ADV	參考:Vt	櫃檯:N	的:T	會議室:N	出租:Vt	說明:N	
+對了:Vi	這兒:N	好:ADV	貼心:Vi	的:T	一點:DET	是:Vt	除了:P	WIFI:FW	外:N	
+座位:N	附近:N	都:ADV	有:Vt	插座:N	可以:ADV	使用:Vt	
+肚子:N	要:ADV	飽飽:Vi	也:ADV	趕快:ADV	來:ADV	讓:Vt	手機:N	充飽:Vi	電:N	
+餐點:N	終於:ADV	來:Vi	囉:T	
+先:ADV	由:P	副餐:N	炸:Vt	薯條:N	介紹:Vt	起:ASP	
+以:P	2:DET	人:N	共:ADV	吃:Vt	的:T	份量:N	來:ADV	說:Vt	很:ADV	OK:FW	
+帶:Vt	點:M	厚度:N	更:ADV	能:ADV	嚐到:Vt	馬鈴薯:N	的:T	口感:N	
+炸:Vt	過:ASP	的:T	薯條:N	在:P	煎台:N	上:POST	再:ADV	煎:Vt	一:DET	次:M	
+外層:N	酥脆感:N	更:ADV	升級:Vi	了:T	
+一口:ADV	接:Vt	一口:ADV	超:Vt	滿足:Vt	
+...:ETCCATEGORY	怎麼辦:Vi	我:N	好:ADV	愛:Vt	酥酥脆脆:Vi	的:T	肥胖:Vi	薯:b	
+主餐:N	就:ADV	是:Vt	以:P	包裹:N	成:Vt	條狀:N	的:T	墨西哥:N	捲:Vt	餅:N	啦:T	
+以:C	用:P	鋁箔紙:N	包裹:N	更:ADV	能:ADV	保溫:Vi	
+趕緊:ADV	直接:Vi	打開:Vt	食用:Vt	
+包:Vt	得:T	也:ADV	太:ADV	紮:Vt	時:POST	緊密:Vi	了:T	
+哈:ADV	
+大:Vi	咬:Vt	一口:ADV	
+裡頭:N	包:Vt	著:ASP	雞肉:N	、:PAUSECATEGORY	番茄:N	、:PAUSECATEGORY	調味:Nv	米飯:N	、:PAUSECATEGORY	新鮮:Vi	蔬菜:N	、:PAUSECATEGORY	燉豆:Vt	、:PAUSECATEGORY	醬料:N	、:PAUSECATEGORY	酸奶:N	與:C	起:Vt	司:N	等:POST	
+雞:N	肉塊:N	不會:ADV	柴柴:N	的:T	、:PAUSECATEGORY	可以:ADV	嚐出:Vt	肉質:N	的:T	鮮甜:Vi	
+內:N	餡:N	充滿:Vt	蔬菜:N	也:ADV	感覺:Vt	很:ADV	健康:Vi	
+口感:N	很:ADV	豐富:Vt	
+除:P	生菜:N	和:C	其他:DET	餡料:N	外:POST	
+約:ADV	有:Vt	一半:DET	的:T	空間:N	是:Vt	滿滿:Vi	的:T	墨西哥米:N	
+單:ADV	吃:Vt	捲:Vt	餅:N	外皮:N	的:T	部分:DET	也:ADV	覺得:Vt	很:ADV	Q:FW	很:ADV	有:Vt	嚼:Vt	勁:N	
+嚼:Vt	
+不:ADV	需要:Vt	用:P	刀叉:N	
+單手:ADV	就:ADV	能:ADV	食用:Vt	的:T	吃法:N	相當:ADV	俐落:Vi	
+而且:C	因為:C	包裹:N	得:T	非常:ADV	紮實:Vi	
+不會:ADV	邊:ADV	吃:Vt	邊:N	掉:Vt	
+也:ADV	不會:ADV	滴:Vt	汁:N	
+感覺:Vt	相當:ADV	適合:Vi	外出:Vi	攜帶:Vt	
+或許:ADV	哪:DET	天:M	picnic:FW	可以:ADV	考慮:Vt	外帶:Vt	一下:N	
+是:Vt	不:ADV	是:Vt	
+切面:N	可以:ADV	看到:Vt	滿滿:Vi	的:T	餡料:N	
+紮實:Vi	到:P	不:ADV	
+會:ADV	
+掉:Vi	
+落:Vi	
+真的:ADV	是:Vt	猴腮雷阿:N	
+本人:N	覺得:Vt	水果:N	茶:N	除了:P	稍微:ADV	偏:ADV	甜:Vi	之外:POST	其實:ADV	在:P	飲料:N	口感:N	層次:N	上:N	的:T	表現:N	算是:Vt	還:ADV	蠻:ADV	不錯:Vi	的:T	
+然後:ADV	艾:N	先生:N	覺得:Vt	好喝:Vi	
+搭配:Vt	充滿:Vt	醬料:N	的:T	墨西哥:N	捲:Vt	或是:C	酥脆:Vi	的:T	肥胖:Vi	薯:b	都:N	很:ADV	優秀:Vi	啦:T	
+LIBREBURRITO:FW	不但:C	距離:P	台北:N	車站:N	很:ADV	近:Vi	
+而且:C	沒有:Vt	用餐:Nv	時間:N	限制:N	
+更:ADV	提供:Vt	寬闊:Vi	的:T	空間:N	與:C	WIFI:FW	、:PAUSECATEGORY	插座:N	給:Vt	客人:N	使用:Vt	
+高:Vi	CP:FW	值:N	的:T	墨西哥:N	異國:N	料理:N	
+選擇:Vt	多樣化:Vt	
+無論:C	學生:N	或:C	上班族:N	、:PAUSECATEGORY	平日:N	或:C	假日:N	
+都:ADV	很:ADV	適合:Vi	來:Vi	這兒:N	輕鬆:Vi	的:T	享受:Nv	美好:Nv	時光:N	
+--:DASHCATEGORY	Amber|150cm:FW	的:T	走:Vi	跳:Vi	日常:A	|:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	isamber.blog131.fc2.com:FW	/:FW	--:DASHCATEGORY	

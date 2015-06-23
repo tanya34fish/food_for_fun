@@ -1,0 +1,128 @@
+saliha(saliha:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	內湖:N	*:FW	象園:N	咖啡:N	~:FW	碧湖:N	公園:N	旁:N	的:T	親子:N	餐廳:N	
+Wed:FW	
+Jul:FW	
+16:DET	
+22:DET	::COLONCATEGORY	36:DET	::COLONCATEGORY	08:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	象園:N	咖啡:N	
+消費:N	時間:N	：:COLONCATEGORY	103年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	內湖路:N	二段:N	192:DET	號:M	
+（:PARENTHESISCATEGORY	近:DET	捷運:N	文德:N	站:Vi	，:COMMACATEGORY	碧湖:N	公園:N	旁邊:N	）:PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	0227926080:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	周一:N	~:FW	周日:N	11:DET	::COLONCATEGORY	00:DET	–:FW	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	180:DET	~:FW	300:DET	
+網誌:N	圖文:N	無:Vt	音樂版:N	內:N	有:Vt	菜單:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	saliha.pixnet.net/blog/post:FW	/:FW	379434599:DET	
+為什麼:ADV	叫做:Vt	象園:N	咖啡:N	呢:T	
+因為:C	餐廳:N	後方:N	有:Vt	一:DET	個:M	非常:ADV	像:Vt	是:Vt	大象:N	鼻子:N	的:T	石壁:N	
+所以:C	就:ADV	取為:Vt	象園:N	囉:T	
+還:ADV	真的:ADV	是:Vt	非常:ADV	像:Vt	耶:T	
+這:DET	間:M	餐廳:N	放:Vt	在:P	口袋:N	好:Vi	一陣子:N	了:T	
+離:P	捷運:N	文德:N	站:Vi	不:ADV	遠:Vi	
+就:ADV	在:P	碧湖:N	公園:N	旁邊:N	
+那天:N	在:P	碧湖:N	公園:N	散步:Vi	完:Vi	
+天氣:N	炎熱:Vi	
+好:Vi	想:Vt	找:Vt	個:M	地方:N	休息:Vi	一下:N	
+就:ADV	來:Vi	這裡:N	喝喝:Vt	下午茶:N	囉:T	
+白色:N	簡單:Vi	
+是:Vt	間:M	雅致:Vi	的:T	餐廳:N	
+不過:C	雖然:C	在:P	碧湖:N	公園:N	旁邊:N	
+被:P	綠:Vi	樹:N	環繞:Vt	
+環境:N	頗為:ADV	寧靜:Vi	
+但:C	餐廳:N	客人:N	絡繹不絕:Vi	
+相當:Vi	的:T	熱鬧:Vi	
+象園:N	咖啡:N	分為:Vt	室:N	外:N	和:C	室內:N	
+各:DET	有:Vt	優點:N	啦:T	
+我:N	比較:ADV	喜歡:Vt	室:N	外:N	可以:ADV	看到:Vt	湖景:N	的:T	座位:N	
+但:C	這天:N	下午:N	實在:ADV	太:ADV	熱:Vt	
+因此:C	我們:N	還是:ADV	選擇:Vt	了:ASP	有:Vt	冷氣:N	的:T	室內:N	空間:N	
+周六:N	下午:N	
+戶外:N	座位:N	客人:N	寥寥無幾:Vi	
+不過:C	接近:Vt	傍晚:N	的:T	時候:N	這裡:N	的:T	座位區:N	客人:N	會:ADV	慢慢:Vi	增加:Vt	
+大概:ADV	是:Vt	因為:C	晚上:N	比較:ADV	涼爽:Vi	吧:T	
+象園:N	是:Vt	間:M	親子:N	餐廳:N	喔:T	
+院子:N	中:POST	還:ADV	設有:Vt	兒童:N	遊樂:Nv	設施:N	給:Vt	小朋友:N	們:N	玩耍:Vi	
+室內:N	空間:N	則:ADV	走:Vi	清新:Vi	的:T	風格:N	
+色調:N	很:ADV	舒服:Vi	
+用餐:Vi	的:T	客人:N	大都:ADV	是:Vt	一:DET	家:M	大小:N	
+小朋友:N	非常:ADV	多:Vi	
+在:P	這裡:N	聊天:Vi	可以:ADV	很:ADV	放鬆:Vt	
+因為:C	氣氛:N	很:ADV	熱鬧:Vi	
+也:ADV	蠻:ADV	吵雜:Vi	的:T	
+因為:C	很多:DET	小朋友:N	
+餐廳:N	有:Vt	準備:Nv	小朋友:N	餐具:N	
+菜單:N	上:POST	也:ADV	有:Vt	專門:Vt	為:P	小朋友:N	設計:N	的:T	菜色:N	
+象園:N	咖啡:N	的:T	菜單:N	
+選擇:Vt	蠻:ADV	多:Vi	的:T	
+大部分:DET	是:Vt	輕:Vi	食:N	、:PAUSECATEGORY	鬆餅:N	、:PAUSECATEGORY	義大利麵:N	的:T	東西:N	
+每:DET	人:N	低:Vi	消:Vt	120:DET	元:M	
+需:ADV	加:Vt	%:M	10:DET	服務費:N	
+用餐:Nv	時間:N	2:DET	小時:M	
+有:Vt	下午茶:N	套餐:N	可以:ADV	選擇:Vt	
+我們:N	選:Vt	了:ASP	
+以下:N	價格:N	需:ADV	加:Vt	一成:DET	服務費:N	
+鬆餅:N	下午茶:N	套餐:N	：:COLONCATEGORY	
+任一:DET	鬆餅:N	+:FW	任一:DET	飲料:N	=:FW	280:DET	
+下午茶:N	套餐:N	：:COLONCATEGORY	
+午茶:N	主餐:N	+:FW	任一:DET	飲料:N	=:FW	200:DET	
+法式:A	吐司:N	佐:Vt	蜂蜜:N	
+單:ADV	點:Vt	80:DET	元:M	
+金黃:Vi	漂亮:Vi	的:T	法式:A	吐司:N	
+咬:Vt	起來:ASP	蠻:ADV	嫩:Vi	的:T	
+隨:P	餐:N	還:ADV	附有:Vt	蜂蜜:N	與:C	鮮:Vi	奶油:N	
+有:Vt	多:DET	種:M	吃法:N	
+好像:ADV	布丁:N	鬆餅:N	
+單:ADV	點:Vt	185:DET	元:M	
+不:ADV	是:Vt	好像:ADV	布丁:N	
+真的:ADV	就是:C	布丁:N	XD:FW	
+看上去:ADV	還:ADV	挺:ADV	豐盛:Vi	的:T	
+四:DET	大:Vi	片:M	鬆餅:N	、:PAUSECATEGORY	草莓:N	冰淇淋:N	佐:Vt	草莓:N	、:PAUSECATEGORY	一:DET	個:M	大:Vi	布丁:N	、:PAUSECATEGORY	鮮:Vi	奶油:N	
+盤:N	上:POST	還:ADV	繪:Vt	了:ASP	個:M	小小:Vi	的:T	大象:N	
+很:ADV	可愛:Vi	
+鬆餅:N	沒有:ADV	特別:Vi	酥嫩:Vi	
+但:C	不:ADV	乾:Vi	不:ADV	硬:Vi	
+也:ADV	十分:ADV	容易:Vi	入口:N	
+佐料:N	我:N	都:ADV	蠻:ADV	喜歡:Vt	的:T	
+草莓:N	冰淇淋:N	輕:Vi	甜:Vi	不:ADV	膩:Vi	
+鮮:Vi	奶油:N	味道:N	香醇:Vi	
+布丁:N	則:ADV	是:Vt	鮮嫩:Vi	濃郁:Vi	
+焦糖:N	帶有:Vt	微微:A	的:T	苦味:N	
+很:ADV	好吃:Vi	
+夏威夷:N	水果茶:N	
+單:ADV	點:Vt	160:DET	元:M	
+水果:N	茶:N	的:T	味道:N	也:ADV	蠻:ADV	特別:Vi	的:T	
+平常:N	常:ADV	喝到:Vt	的:T	大都:ADV	是:Vt	柑橘類:N	、:PAUSECATEGORY	百香果:N	、:PAUSECATEGORY	莓果:N	等:POST	主味:N	
+象園:N	的:T	水果:N	茶主味:N	則:ADV	是:Vt	水蜜桃:N	喔:T	
+淡淡:Vi	甜味:N	
+有:Vt	水蜜桃:N	香氣:N	
+不怎麼:ADV	酸:Vi	
+清涼:Vi	消暑:Vi	
+夏季:N	森巴:N	蘇打:N	
+單:ADV	點:Vt	160:DET	元:M	
+夏季:N	特:ADV	調:Vt	在:P	正規:A	菜單:N	上:N	沒有:Vt	
+是:Vt	季節:N	產品:N	
+有:Vt	好幾:DET	種:M	口味:N	的:T	蘇打:N	
+當時:N	在:P	菜單:N	上:POST	看到:Vt	
+覺得:Vt	名子:N	跟:P	漸層:N	的:T	彩色:N	都:ADV	很:ADV	美:Vi	
+所以:C	就:ADV	點:Vt	看看:ASP	
+但是:C	拿到:Vt	後:POST	有點:ADV	失望:Vi	
+完全:ADV	沒有:Vt	漸層:N	的:T	顏色:N	
+就是:C	一:DET	杯:M	橘紅色:N	的:T	飲料:N	
+哭:Vi	
+我:N	選:Vt	的:T	是:Vt	葡萄柚:N	的:T	口味:N	
+喝:Vt	起來:ASP	像:Vt	是:Vt	葡萄柚:N	汽水:N	
+葡萄柚:N	微:ADV	苦:Vi	的:T	風味:N	與:C	與:P	汽水:N	的:T	組合:Nv	還:ADV	蠻:ADV	特別:Vi	的:T	
+還可以:Vi	啦:T	
+不會:ADV	怪怪:Vi	的:T	
+整體:N	來:ADV	說:Vt	餐點:N	跟:C	服務:Nv	態度:N	還是:ADV	蠻:ADV	令:Vt	人:N	滿意:Vt	的:T	
+不過:C	有點:ADV	可惜:Vi	的:T	是:Vt	
+用餐:Nv	時間:N	只有:ADV	兩:DET	小時:M	
+沒辦法:Vi	久:Vi	坐:Vi	
+即使:C	餐廳:N	沒有:Vt	客滿:Vi	
+店員:N	還是:ADV	會:ADV	來:ADV	提醒:Vt	用餐:Nv	時間:N	到:Vt	了:ASP	
+夜晚:N	回來:Vi	看:Vt	碧湖:N	織:Vt	屋:N	
+路過:Vt	象園:N	
+晚上:N	的:T	象:N	園:N	人:N	變得:Vt	很多:DET	
+戶外:N	跟:P	室:N	內:N	都:ADV	坐滿:Vt	客人:N	了:T	
+昏黃:Vi	的:T	燈光:N	下:POST	別有:Vt	一:DET	番:M	情調:N	

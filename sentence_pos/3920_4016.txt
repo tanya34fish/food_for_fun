@@ -1,0 +1,45 @@
+avadakedavra:FW	(:PARENTHESISCATEGORY	陳小昭:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	天母:N	三明堂:N	．:PERIODCATEGORY	草莓:N	大福:N	．:PERIODCATEGORY	麻糬:N	烏龍麵:N	
+Tue:FW	
+Jan:FW	
+6:DET	
+21:DET	::COLONCATEGORY	54:DET	::COLONCATEGORY	51:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	三明:N	堂:N	
+用餐:Nv	日期:N	：:COLONCATEGORY	2014:DET	/:FW	12:DET	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	天母:N	東路:N	49:DET	-:DASHCATEGORY	1:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2876:DET	-:DASHCATEGORY	5283:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	9:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	
+圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	chaochao.tw/archives:FW	/:FW	8432:DET	
+三明堂:N	草莓:N	大福:N	的:T	好:Vi	味道:N	是:Vt	我:N	想念:Vt	日式:A	甜點:N	時:POST	的:T	第一:DET	選擇:N	
+可惜:Vi	遠:Vi	在:P	天母:N	只:ADV	能:ADV	偶爾:ADV	經過:Vt	的:T	時候:N	買來:Vt	解:Vt	解饞:Vi	阿:N	
+2013年:N	剛:ADV	搬:Vt	過:ASP	新:Vi	家:N	的:T	三明堂:N	維持:Vt	一貫:A	低調:N	質樸:Vi	的:T	店面:N	
+裡面:N	除了:P	販售:Vt	各:DET	種:M	日式:A	甜點:N	之外:POST	也:ADV	有:Vt	提供:Vt	咖哩:N	、:PAUSECATEGORY	烏龍麵:N	、:PAUSECATEGORY	壽喜:N	燒:Vt	等:POST	正餐:N	可:ADV	選擇:Vt	
+中午:N	時段:N	用餐:Vi	的:T	客人:N	並:ADV	不:ADV	多:Vi	
+但是:C	來:ADV	外帶:Vt	草莓:N	大福:N	的:T	人:N	絡繹不絕:Vi	
+好:ADV	擔心:Vt	吃完:Vt	飯:N	就:ADV	沒:ADV	得:ADV	買:Vt	
+趕緊:ADV	先:ADV	跟:P	老闆:N	預定:Vt	一:DET	個:M	起來:Vi	
+*:FW	
+炸:Vt	蝦麻糬豆皮:N	烏龍麵:N	
+*:FW	250:DET	元:M	
+冬天:N	來:POST	碗:N	暖暖:Vi	的:T	烏龍麵:N	最:ADV	幸福:Vi	了:T	
+附上:Vt	一:DET	小:Vi	碟:N	的:T	漬物:N	還:ADV	有:Vt	一:DET	份:M	味道:N	甜甜:Vi	像:Vt	是:Vt	果凍類:N	的:T	甜點:N	
+烏龍麵:N	的:T	賣:Vt	相:ADV	很:ADV	不錯:Vi	啊:T	
+湯頭:N	喝:Vt	起來:ASP	清爽:Vi	甘甜:Vi	
+最:ADV	特別:Vi	的:T	是:Vt	豆皮:N	裡面:N	包:Vt	了:ASP	麻糬:N	阿:N	
+雖然:C	味道:N	是:Vt	甜:Vi	的:T	但:C	跟:P	烏龍麵:N	一點:DET	也:ADV	不:ADV	衝突:Vi	
+好吃:Vi	
+至於:P	炸:Vt	蝦:N	的:T	部分:DET	就:ADV	普通:Vi	了:ASP	點:M	
+下:DET	次:M	單:ADV	點:Vt	烏龍:N	麵:N	來:ADV	吃:Vt	就:ADV	好:Vi	
+*:FW	
+草莓:N	大福:N	
+*:FW	60:DET	元:M	
+可:ADV	說:Vt	是:Vt	鎮店:N	之:T	寶:N	的:T	草莓:N	大福:N	
+可是:C	老闆娘:N	現點:N	現:ADV	作:Vt	出來:Vi	給:Vt	我:N	的:T	
+內用:N	會:ADV	幫:P	你:N	對:P	切開來:Vi	剛好:ADV	可以:ADV	欣賞:Vt	一下:N	草莓:N	鮮豔:Vi	欲:Vt	滴:Vt	的:T	樣子:N	
+Q:FW	彈:Vt	的:T	外皮:N	裹:Vt	著:ASP	紅豆:N	泥:N	和:C	草莓:N	
+紅豆:N	餡:N	不會:ADV	太:ADV	甜:Vi	膩:Vi	融合:Vt	草莓:N	的:T	酸甜:Vi	滋味:N	剛剛好:ADV	
+一口:ADV	咬下:Vt	慢慢:Vi	享受:Vt	草莓:N	的:T	香氣:N	和:C	汁液:N	在:P	嘴:N	中:POST	化開:Vt	的:T	感覺:N	
+好:ADV	甜蜜:Vi	
+雖然:C	60:DET	元:M	實在:ADV	不能:ADV	說:Vt	是:Vt	便宜:Vi	
+但是:C	偶爾:ADV	嚐:Vt	一:DET	次:M	也:ADV	算是:Vt	生活:N	中:POST	的:T	小:Vi	幸福:Vi	吧:T	

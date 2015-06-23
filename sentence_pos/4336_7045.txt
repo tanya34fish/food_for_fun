@@ -1,0 +1,123 @@
+flower:FW	3:DET	(:PARENTHESISCATEGORY	周:N	花花:Vi	，:COMMACATEGORY	甲:DET	飽:Vi	沒:T	？:QUESTIONCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	森林:N	食堂:N	日本:N	最:ADV	大:Vi	連鎖:A	庶民:N	食堂:N	
+Mon:FW	
+May:FW	
+11:DET	
+22:DET	::COLONCATEGORY	42:DET	::COLONCATEGORY	03:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	大安:N	森林:N	食堂:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	5月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	新生南路:N	一段:N	161:DET	-:DASHCATEGORY	3:DET	號:M	
+電話:N	：:COLONCATEGORY	0227550997:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	$:FW	130:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	起:Vt	司玉子燒:N	、:PAUSECATEGORY	煮:Vt	漢堡:N	排:Vt	、:PAUSECATEGORY	可樂餅:N	烏龍麵:N	
+網誌:N	好:Vi	讀:Vt	多:DET	圖:N	無:Vt	音樂版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/zlA2lK:FW	
+大安:N	森林:N	食堂:N	來:Vi	台:N	展店:N	已:ADV	有:Vt	一些:DET	時日:N	
+網路:N	上:N	的:T	評價:N	正反:N	兩極:N	皆:ADV	有:Vt	
+反倒:C	讓:Vt	周:N	花花:N	更:ADV	想:Vt	親自:ADV	一:ADV	吃:Vt	
+尖峰:A	時段:N	前往:Vt	用餐:Vi	雖然:C	仍:ADV	需要:Vt	排隊:Vi	
+但:C	人潮:N	明顯:Vi	比:Vt	之前:POST	少:Vi	上:POST	許多:DET	
+店址:N	位在:Vt	新生南路:N	上:N	
+門面:N	、:PAUSECATEGORY	招牌:N	都:ADV	相當:ADV	明顯:Vi	
+可以:ADV	坐:Vi	捷運:N	至:C	大安:N	森林:N	公園:N	站:Vi	
+步行:Vi	前往:Vt	約:ADV	5:DET	分鐘:M	路程:N	
+由於:C	鄰近:Vt	信義路:N	、:PAUSECATEGORY	永康街:N	
+若是:C	搭:Vt	到:P	東門:N	站:Vi	再:ADV	走過來:Vi	也:ADV	不會:ADV	太:ADV	遠:Vi	
+我們:N	是:Vt	假日:N	晚間:N	5:DET	點:M	多:Vi	來訪:Vi	
+約:ADV	要:ADV	等:Vt	個:M	幾:DET	組:M	
+流程:N	是:Vt	這樣:Vi	的:T	
+抵達:Vt	後:POST	要:ADV	先:ADV	跟:P	店家:N	登記:Nv	並:ADV	領取:Vt	號碼牌:N	
+接著:ADV	在:P	外頭:N	等:POST	
+等到:P	號:N	後:POST	店員:N	對:P	協助:Vt	帶位:N	入座:Vi	
+店:N	內:N	其實:ADV	一直:ADV	都:ADV	有:Vt	空位:N	
+但:C	店員:N	沒有:ADV	持續:Vt	放:Vt	人:N	進去:Vi	
+猜想:Vt	大概:ADV	是:Vt	為了:P	維持:Vt	取:Vt	餐:M	品質:N	
+讓:Vt	每:DET	位:M	客人:N	在:P	不:ADV	那麼:ADV	壓迫:Vt	的:T	環境:N	下:POST	慢慢:Vi	選擇:Vt	
+在:P	外頭:N	等候:Vt	入座:Vi	的:T	空檔:N	千萬:DET	別:ADV	閒:Vi	著:ASP	
+建議:Vt	大家:N	先:ADV	研究:Vt	菜單:N	
+想想:Vt	等一下:ADV	要:ADV	拿:Vt	什麼:DET	
+像:P	我:N	就:ADV	會:ADV	先:ADV	規劃好:Vt	
+並:C	先:ADV	試:Vt	算:Vt	金額:N	
+才:ADV	不會:ADV	一:DET	個:M	失:Vt	心:N	瘋:Vi	拿:Vt	太多:DET	吃:Vt	不:ADV	完:Vi	又:ADV	爆:Vi	預算:N	
+等:Vt	了:ASP	大概:ADV	20:DET	分鐘:M	終於:ADV	到:P	號:N	啦:T	
+服務生:N	會:ADV	先:ADV	帶:Vt	客人:N	到:P	座位:N	上:N	
+然後:ADV	就:ADV	可以:ADV	到:P	餐檯取餐:N	囉:T	
+因為:C	是:Vt	食堂:N	
+所以:C	一切:DET	都:ADV	是:Vt	自助式:N	
+有:Vt	提供:Vt	微波爐:N	讓:Vt	客人:N	自行:ADV	加熱:Vi	
+要:ADV	外帶:Vt	的:T	也:ADV	有:Vt	供應:Vt	相關:Vi	餐具:N	
+分成:Vt	幾:DET	個:M	區域:N	
+生食:Vt	沙拉:N	、:PAUSECATEGORY	煎物:N	煮:Vt	物:N	、:PAUSECATEGORY	炸:Vt	物烤物:N	、:PAUSECATEGORY	麵類:N	等:POST	
+看到:Vt	實體:N	真的:ADV	會:ADV	讓:Vt	人:N	腦波:N	變弱:Vi	
+加入:Vt	日式:A	風格:N	的:T	食物:N	賣:Vt	像:P	實在:ADV	好:ADV	誘人:Vi	
+有:Vt	些:M	品:N	項:M	是:Vt	現點現:N	做:Vt	
+若:C	店員:N	來不及:ADV	製作:Vt	
+會:ADV	先:ADV	拿到:Vt	一:DET	個:M	小:Vi	牌子:N	
+完成:Vt	後:POST	會:ADV	立刻:ADV	拿給:Vt	你:N	
+或是:C	直接:Vi	送到:Vt	座位:N	上:N	
+服務:Vt	很:ADV	不錯:Vi	
+最後:N	一關:N	當然:ADV	就是:C	結帳:Vi	啦:T	
+老實說:ADV	
+我:N	並:ADV	不會:ADV	覺得:Vt	他:N	特別:Vi	貴:Vi	或是:C	特別:Vi	便宜:Vi	
+只:ADV	是:Vt	以:P	品牌:N	包裝:N	
+日本:N	最:ADV	大:Vi	庶民:N	食堂:N	
+而言:Vt	
+台灣人:N	會:ADV	覺得:Vt	唬人:Vi	啊:T	哪裡:ADV	庶民:N	XD:FW	
+但:C	和:P	台灣:N	其他:DET	日本:N	料理:N	相比:Vi	
+價格:N	是:Vt	有:Vt	比較:ADV	便宜:Vi	沒:ADV	錯:Vi	啊:T	
+咱們:N	今天:N	晚餐:N	總計:ADV	$:FW	260:DET	
+一:DET	人:N	只要:C	$:FW	130:DET	唷:T	
+其實:ADV	對於:P	不:ADV	是:Vt	非常:ADV	餓:Vi	的:T	我們:N	來:ADV	說:Vt	
+這:DET	幾:DET	項:M	就:ADV	很:ADV	夠:Vi	吃:Vt	了:ASP	
+起:Vt	司玉子燒:N	---:DASHCATEGORY	$:FW	60:DET	
+開放式:A	的:T	廚房:N	可以:ADV	看到:Vt	師傅:N	煎玉子燒:Vt	的:T	過程:N	
+長長:Vi	厚厚:Vi	一:DET	捲:M	
+這樣:Vi	一:DET	份:M	賣:Vt	$:FW	60:DET	
+老實說:ADV	真:ADV	得:ADV	不:ADV	貴:Vi	
+周:N	花花:N	比較:ADV	喜歡:Vt	帶:Vt	湯汁:N	的:T	玉子:N	燒:Vt	
+這:DET	道:M	對:P	我:N	來:ADV	說:Vt	稍:ADV	乾:Vi	了:ASP	點:M	
+但:C	有:Vt	加入:Vt	香:N	濃:Vi	起司:N	
+整體:N	來:ADV	說:Vt	還:ADV	算:Vt	不錯:Vi	吃:Vt	啦:T	
+煮:Vt	漢堡:N	排:Vt	
+牛:N	
+---:DASHCATEGORY	$:FW	80:DET	、:PAUSECATEGORY	白飯:N	
+中:N	
+---:DASHCATEGORY	$:FW	25:DET	
+內含:Vt	牛肉:N	成份:N	
+不:ADV	吃:Vt	牛肉:N	的:T	人:N	記得:Vt	避開:Vt	這:DET	道:M	
+酸甜:Vi	醬汁:N	口味:N	相當:ADV	重:Vi	
+得:ADV	配:Vt	著:ASP	白飯:N	一起:ADV	吃:Vt	才:ADV	過癮:Vi	
+漢堡:N	排比:Nv	想像:N	中:POST	厚實:Vi	
+切下:Vt	還:ADV	有:Vt	肉汁:N	溢出:Vi	
+挺:Vt	Juicy:FW	的:T	
+前面:N	幾:DET	口:M	還:ADV	不錯:Vi	吃:Vt	
+但:C	建議:Vt	大家:N	一定:ADV	要:ADV	趁熱:ADV	品嚐:Vt	
+冷掉:Vt	後:POST	很:ADV	油膩:Vi	
+吃到:Vt	最:ADV	底層:N	時:POST	只:ADV	剩:Vt	油味:N	了:T	
+附:Vt	的:T	那:DET	球:N	義大利麵:N	反而:C	變成:Vt	負擔:N	
+吸收:Vt	了:ASP	豐富:Vt	油脂:N	啊:T	
+可樂餅:N	烏龍麵:N	---:DASHCATEGORY	$:FW	95:DET	
+一般:A	可樂餅:N	好像:ADV	都:ADV	放:Vt	在:P	清湯:N	烏龍麵:N	裡:N	
+但:C	我:N	請:Vt	店員:N	分開:Vt	裝:Vt	
+烏龍麵:N	Ｑ:FW	彈:Vt	得:ADV	令:Vt	人:N	意外:N	
+比:P	很多:DET	烏龍麵:N	專賣店:N	還:ADV	好吃:Vi	
+推薦:Vt	
+湯頭:N	也:ADV	比:P	想像:N	中:POST	有:Vt	味道:N	
+喜歡:Vt	蔥味:N	的:T	朋友:N	喝到:Vt	見底:N	沒:Vt	問題:N	
+可樂餅:N	的:T	馬鈴薯:N	內裡:N	鬆軟:Vi	綿密:Vi	還:ADV	算:Vt	好吃:Vi	
+只是:ADV	炸:Vt	物:N	不能:ADV	擺:Vt	
+麵衣:N	的:T	油味:N	頗重:Vi	
+沒:Vt	醬料:N	可:ADV	沾:Vt	壓:Vt	不過:C	那:DET	味道:N	
+吃完:Vt	飯:N	後:POST	記得:Vt	將:P	餐具:N	放回:Vt	回收:Vt	檯:M	
+這:DET	才:ADV	是:Vt	日本:N	食堂:N	的:T	精神:N	
+整體:N	來:ADV	說:Vt	
+我:N	覺得:Vt	大安:N	森林:N	食堂:N	沒有:Vt	網友:N	說:Vt	得:ADV	那麼:ADV	糟:Vi	啊:T	XD:FW	
+之後:N	到:P	這:DET	附近:N	如果:C	不用:ADV	排:Vt	太:ADV	久:Vi	
+還是:ADV	會:ADV	願意:Vt	再:ADV	訪:Vt	的:T	店:N	
+個人用餐:N	經驗:N	提供給:Vt	大家:N	參考:Vt	
+畢竟:ADV	口味:N	真的:ADV	是:Vt	很:ADV	主觀:Vi	的:T	一:DET	件:M	事:N	啊:T	
+笑:Vi	
+歡迎:Vt	加入:Vt	":FW	周花:N	花甲:N	飽:Vi	沒:Vt	":FW	粉絲團:N	
+最:ADV	新:Vi	美食:N	資訊:N	報:Vt	你:N	知:Vt	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/tenjochou:FW	

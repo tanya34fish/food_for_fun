@@ -1,0 +1,135 @@
+william:FW	62600:DET	(:PARENTHESISCATEGORY	我:N	叫:Vt	阿:N	豬仔:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	Vapiano:FW	自助式:N	義式:A	料理:N	台北:N	101:DET	夜景:N	
+Thu:FW	
+Aug:FW	
+28:DET	
+10:DET	::COLONCATEGORY	02:DET	::COLONCATEGORY	50:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Vapiano:FW	自助式:N	義式:A	料理:N	
+用餐:Nv	日期:N	::COLONCATEGORY	2014年:N	8月:N	
+地址:N	::COLONCATEGORY	台北市:N	信義區:N	松壽路:N	12:DET	號:M	10:DET	F(ATT4FUN:FW	):PARENTHESISCATEGORY	
+(:PARENTHESISCATEGORY	市政府:N	3:DET	號:M	or:FW	台北:N	世貿:N	捷運:N	出口:Nv	，:COMMACATEGORY	走路:Vi	差不多:Vi	十:DET	分鐘:M	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2722:DET	-:DASHCATEGORY	7111:DET	(:PARENTHESISCATEGORY	假日:N	不能:ADV	定位:Vi	，:COMMACATEGORY	特殊:Vi	假日:N	除外:Vi	):PARENTHESISCATEGORY	
+營業:Nv	時間:N	：:COLONCATEGORY	AM:FW	11:DET	::COLONCATEGORY	00:DET	~:FW	PM:FW	23:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	用餐:Nv	時間:N	：:COLONCATEGORY	通常:ADV	無:Vt	時間:N	限制:N	，:COMMACATEGORY	客滿:Vi	情況:N	用餐:Nv	時間:N	限:Vt	2:DET	小:Vi	
+時:N	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	一:DET	卡:M	至少:ADV	一:DET	餐點:N	，:COMMACATEGORY	不:ADV	加:Vt	10:DET	%:M	服務費:N	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	::COLONCATEGORY	章魚:N	奶綠:N	鮮蝦:N	花捲麵:N	人氣:N	提拉米蘇:N	撒旦:N	巧克力:N	
+官網:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.vapiano.com.twsExamination:FW	
+好看:Vi	好吃:Vi	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	vanilladog.pixnet.net/blog/post:FW	/:FW	58248765:DET	
+輕鬆:Vi	用餐:Nv	環境:N	簡單:Vi	享受:Vt	101:DET	夜景:N	
+VAPIANO:FW	來自於:Vi	德國:N	是:Vt	全球性:N	連鎖:A	餐廳:N	
+來:Vi	台北:N	展店:N	的:T	第一:DET	家:M	店:N	剛好:ADV	是:Vt	全球:N	第101:DET	家:M	而且:C	旁邊:N	就是:C	台北:N	101:DET	
+VAPIANO:FW	源自於:Vt	義大利文:N	
+『:PARENTHESISCATEGORY	VA:FW	』:PARENTHESISCATEGORY	是:Vt	『:PARENTHESISCATEGORY	走路:Vi	』:PARENTHESISCATEGORY	
+而:C	『:PARENTHESISCATEGORY	PIANO:FW	』:PARENTHESISCATEGORY	是:Vt	『:PARENTHESISCATEGORY	慢:Vi	』:PARENTHESISCATEGORY	
+兩:DET	者:N	組合:Vt	起來:ASP	是:Vt	『:PARENTHESISCATEGORY	慢活:N	』:PARENTHESISCATEGORY	的:T	意思:N	
+餐廳:N	的:T	不論:C	是:Vt	佈置:Nv	和:C	點餐:N	方式:N	也:ADV	都:ADV	帶給:Vt	客人:N	一:DET	種:M	輕鬆:Vi	舒適:Vi	的:T	感覺:N	
+一:ADV	進入:Vt	店裡:N	往:P	右:N	看:Vt	有:Vt	一:DET	小:Vi	塊:M	全:DET	是:Vt	放:Vt	種植:Vt	香料:N	盆栽:N	區塊:N	
+恩:N	該:ADV	不會:ADV	Vapiano:FW	的:T	香料:N	也:ADV	是:Vt	自己:N	種:Vt	的:T	吧:T	
+XDD:FW	
+在:P	這裡:N	你:N	可以:ADV	享受:Vt	像:P	在:P	逛:Vt	美食街:N	一樣:Vi	走馬看花:Vi	後:POST	想:Vt	點:N	再:ADV	點:Vt	XDD:FW	
+透明化:Vt	的:T	廚房:N	環境:N	也:ADV	令:Vt	人:N	多:Vi	一:DET	份:M	安心:Vi	的:T	感覺:N	呢:T	
+由:P	服務生:N	帶入:Vt	位子:N	後:POST	會:ADV	發給:Vt	每:DET	個:M	人:N	一:DET	張:M	晶片卡:N	
+低消:N	是:Vt	每:DET	張:M	卡片:N	至少:ADV	要點:N	一樣:Vi	東西:N	
+卡片:N	一定:ADV	要:ADV	小心:Vt	拿好:Vt	喔:T	
+不:ADV	見:Vt	可是:C	要:ADV	賠:Vt	2000:DET	大洋:N	的:T	呢:T	
+其實:ADV	我:N	很:ADV	喜歡:Vt	這:DET	種:M	點:DET	餐:M	方式:N	
+看完:Vt	所有:DET	餐點:N	後:POST	再:ADV	按照:P	自己:N	的:T	步調:N	去:Vt	各:DET	櫃檯:N	點:Vt	餐:N	
+可以:ADV	慢慢:Vi	的:T	天人交戰:Vi	要點:N	什麼:DET	XDD:FW	
+PS:FW	官網:N	菜單:N	有:Vt	部分:DET	菜色:N	沒有:Vt	部分:DET	價錢:N	不同:Vi	我:N	下:DET	次:M	不:ADV	偷懶:Vi	了:T	
+除了:P	固定:Vt	菜單:N	外:POST	
+vapiano:FW	每:DET	個:M	品:N	項:N	都:ADV	有:Vt	當:P	月:N	special:FW	可:ADV	選擇:Vt	
+棒棒:DET	
+VAPIANO:FW	主要:ADV	賣:Vt	點:N	之:T	一:DET	就是:C	每:DET	日:M	新鮮:Vi	製作:Vt	的:T	義大利麵:N	麵條:N	
+多達:Vt	七:DET	種:M	選擇:N	
+而且:C	有:Vt	些:M	麵條:N	是:Vt	外面:N	看:Vt	不:ADV	到:Vt	的:T	
+每:DET	一:DET	種:M	都:ADV	好:Vi	想來:ADV	一口:ADV	看看:Vt	呀:T	
+後來:N	決定:Vt	這:DET	款:M	看起來:ADV	非常:ADV	特別:Vi	的:T	
+長:Vi	捲:Vt	麵:N	
+選擇:Vt	好:Vi	餐點:N	跟:P	服務生:N	講完:Vt	後:POST	
+就:ADV	可以:ADV	拿:Vt	晶片:N	卡在:Vt	這:DET	台:M	機器:N	上:N	
+逼:Vt	
+一下點餐:N	手續:N	就:ADV	完成:Vt	
+簡簡單單:Vi	啦:T	
+而且:C	是:Vt	百分百:DET	現:ADV	點:Vt	現:N	做:Vt	
+義大利麵:N	大概:ADV	等:Vt	個:M	五:DET	分鐘:M	左右:POST	就:ADV	好:Vi	囉:T	
+章魚:N	奶綠:N	鮮蝦:N	花捲麵:N	$:FW	400:DET	
+我:N	和:C	朋友:N	吃:Vt	了:ASP	一口:ADV	後:POST	齊聲:ADV	說:Vt	好吃:Vi	
+麵條:N	口感:N	非常:ADV	Q:FW	每:DET	日新:A	鮮貨:N	就:ADV	是:Vt	不:ADV	一樣:Vi	XD:FW	
+麵條:N	充分:Vi	吸附:Vt	醬汁:N	蘿勒:N	的:T	香氣:N	好:ADV	濃郁:Vi	好:Vi	新鮮:Vi	
+蝦子:N	和:C	章魚:N	非常:ADV	的:T	新鮮:Vi	吃:Vt	的:T	到:P	Q:FW	彈:Vt	
+份量:N	大約:ADV	是:Vt	一:DET	人:N	份:N	如果:C	是:Vt	大:Vi	胃王:N	有:Vt	可能:ADV	會:ADV	吃:Vt	不:ADV	飽:Vi	的:T	感覺:N	
+南法:N	鮭魚:N	沙拉:N	$:FW	280:DET	
+加菲力:N	牛:N	肉塊:N	+:FW	80:DET	
+這:DET	沙拉:N	真的:ADV	是:Vt	用料:N	實在:ADV	壓:Vt	
+看到:Vt	這:DET	鮭魚:N	塊:N	和:C	牛肉:N	塊:M	多:POST	到:Vt	快:Vi	溢出來:Vi	的:T	樣子:N	就:ADV	覺得:Vt	好:ADV	開心:Vi	
+蔬菜:N	新鮮:Vi	爽脆:Vi	
+鮭魚:N	煎:Vt	的:T	剛好:ADV	咬下去:Vt	還:ADV	帶有:Vt	水分:N	有點:ADV	偏:Vt	鹹:Vi	
+其實:ADV	心:N	裡:POST	不斷:ADV	吶喊:Vi	：:COLONCATEGORY	為什麼:ADV	不:ADV	是:Vt	燻:Vt	鮭魚:N	
+我:N	要:ADV	大推:Vt	這:DET	個:M	牛:N	肉塊:N	
+有夠:ADV	揪:Vt	C:FW	的:T	
+給:Vt	的:T	份量:N	也:ADV	蠻:ADV	有:Vt	誠意:N	的:T	好:ADV	好吃:Vi	
+側面:N	照:Vt	看起來:ADV	更:ADV	是:Vt	驚人:Vi	
+份量:N	大約:ADV	可以:ADV	三:DET	個:M	人:N	左右:POST	都:ADV	沒:Vt	問題:N	
+突然:ADV	覺得:Vt	這:DET	個:M	碗:N	...:ETCCATEGORY	有點:ADV	像:Vt	浴缸:N	
+VAPIANO:FW	也:ADV	是:Vt	大:Vi	賣:Vt	點:N	之:T	一:DET	手工:N	現烤:Vt	pizza:FW	
+可能:ADV	PIZZA:FW	製作:Nv	時間:N	稍:ADV	久:Vi	
+有:Vt	發給:Vt	我們:N	這:DET	個:M	振動:Vt	的:T	提醒:Nv	工具:N	
+義式:A	臘腸:N	口味:N	$:FW	360:DET	
+加:Vt	雙倍:N	起:POST	司:Vt	+:FW	40:DET	
+披薩:N	蠻:ADV	大一:N	塊:N	的:T	比起:P	義大利麵:N	算是:Vt	cp:FW	值:N	較:ADV	高:Vi	的:T	
+跟:P	服務生:N	點:Vt	餐:N	時:POST	他:N	就:ADV	有:Vt	提醒:Vt	我們:N	這:DET	口味:N	會:ADV	比較:ADV	鹹:Vi	
+不過:C	實際:Vi	吃:Vt	了:ASP	一口:ADV	
+真的:ADV	覺得:Vt	好:ADV	鹹:Vi	耶:T	
+0:DET	_:FW	0:DET	":FW	
+而且:C	這:DET	臘腸:N	味道:N	可能:ADV	太:ADV	道地:Vi	了:T	
+不:ADV	太:ADV	合:Vt	我:N	胃口:N	
+撇開:Vt	臘腸:N	味道:N	不:ADV	說:Vt	
+個:M	人:N	覺得:Vt	VAPINO:FW	的:T	pizza:FW	料:N	似乎:ADV	有:Vt	那麼:Vi	一:DET	點:N	少:Vi	
+我們:N	有:Vt	多:DET	加:Vt	cheese:FW	但:C	沒有:Vt	感覺:N	有:Vt	濃郁:Vi	起司味:N	的:T	感覺:N	&:FW	gt:FW	
+皿:b	&:FW	lt:FW	
+有點:ADV	小小:Vi	失望:Vi	
+SexOnTheBeach:FW	性感:Vi	海灘:N	$:FW	240:DET	
+左:N	
+調:Vt	酒:N	表現:N	不錯:Vi	喔:T	
+而且:C	蠻:ADV	大:Vi	杯:N	的:T	
+原:ADV	以為:Vt	主打:Nv	義大利麵:N	的:T	Vapiano:FW	的:T	甜點:N	應該:ADV	還:ADV	好:Vi	
+想不到:ADV	表現:N	得:T	意外:N	優秀:Vi	耶:T	
+人氣:N	提拉米蘇:N	$:FW	130:DET	
+提拉米蘇:N	用:P	玻璃:N	小:Vi	罐子:N	裝盛:Vt	好:ADV	可愛:Vi	
+也:ADV	非常:ADV	有:Vt	重量感:N	
+口感:N	柔軟:Vi	滑:Vi	順馬:N	斯卡:N	彭起司:N	味道:N	非常:ADV	的:T	濃郁:Vi	後味:N	帶有:Vt	香醇:Vi	酒香:N	
+是:Vt	偏向:Vt	大人:N	口味:N	
+我:N	很:ADV	愛:Vt	
+但:C	Vapiano:FW	的:T	提拉米蘇:N	海綿:N	蛋糕體:N	佔:Vt	的:T	成份:N	較:ADV	小:Vi	
+建議:Vt	最好:ADV	兩:DET	人:N	吃:Vt	比較:ADV	好:Vi	比較:ADV	不會:ADV	膩:Vi	喔:T	
+另:DET	一:DET	款:M	是:Vt	我們:N	一:DET	眼:M	就:ADV	中意:Vt	的:T	
+名字:N	聽起來:ADV	也:ADV	很:ADV	厲害:Vi	XD:FW	
+撒旦:N	巧克力:N	$:FW	130:DET	
+店員:N	從:P	冷藏櫃:N	取出來:Vi	後:POST	又:ADV	在:P	上頭:N	灑上:Vt	花生:N	碎粒:N	
+賣:Vt	相好:N	誘人:Vi	阿:N	
+從:P	切開:Vt	蛋糕:N	時:POST	就:ADV	可以:ADV	感受到:Vt	它:N	的:T	
+扎實:Vi	
+巧克力:N	味道:N	非常:ADV	非常:ADV	濃郁:Vi	口感:N	濕潤:Vi	偏:ADV	甜:Vi	
+大推:Vt	巧克力:N	控:Vt	來:ADV	吃:Vt	
+不過:C	這:DET	最好:ADV	也:ADV	是:Vt	兩:DET	人:N	吃:Vt	比較:ADV	好:Vi	喔:T	
+國外:N	的:T	甜點:N	甜度:N	真的:ADV	是:Vt	比較:ADV	高:Vi	
+享用:Vt	完:Vi	美食:N	
+記得:Vt	一定:ADV	要:ADV	來:ADV	店:N	外:N	享受:Vt	一下:N	夜景:N	啦:T	
+美麗:Vi	的:T	101:DET	真是:ADV	看:Vt	也:ADV	看:Vt	不:ADV	膩:Vi	
+吃完:Vt	才:ADV	發現:Vt	外面:N	有:Vt	沙發:N	...:ETCCATEGORY	應該:ADV	要:ADV	把酒:Vi	拿出來:Vi	喝:Vt	的:T	
+不:ADV	負責:Vt	小:Vi	總結:N	ヾ:FW	
+*:FW	Φ:FW	ω:FW	Φ:FW	
+ツ:FW	
+上:DET	次:M	去:ADV	吃:Vt	streamrestaurant&amp:FW	
+lounge:FW	時:POST	就:ADV	看上:Vt	vapiano:FW	了:T	
+這裡:N	的:T	義大利麵:N	真的:ADV	令:Vt	我:N	印象:N	深刻:Vi	呀:T	
+大推:Vt	
+太:ADV	喜歡:Vt	他們:N	的:T	麵條:N	跟:P	醬汁:N	了:T	
+餐點:N	其實:ADV	不:ADV	算:Vt	便宜:Vi	中等:A	價位:N	
+適合:Vi	多點:DET	人:N	來:ADV	會:ADV	比較:ADV	划算:Vi	
+然後:ADV	記得:Vt	一定:ADV	要:ADV	先:ADV	訂位:Vi	或者:C	早點:N	到:P	這:DET	間:M	人氣:N	很:ADV	夯:b	的:T	
+如果:C	你:N	是:Vt	義大利麵:N	愛好:Vt	者:N	大:Vi	推:Vt	你:N	來:ADV	試試看:Vt	
+總:ADV	評:Vt	★:FW	★:FW	★:FW	☆:FW	

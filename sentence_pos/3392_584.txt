@@ -1,0 +1,71 @@
+type:FW	1:DET	(:PARENTHESISCATEGORY	教練:N	!:EXCLAMATIONCATEGORY	我:N	想:Vt	拍照:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	【:PARENTHESISCATEGORY	台北:N	】:PARENTHESISCATEGORY	亞都:N	麗緻:Vi	《:PARENTHESISCATEGORY	天香樓:N	》:PARENTHESISCATEGORY	東坡:N	肉超讚:N	!:EXCLAMATIONCATEGORY	
+Tue:FW	
+Aug:FW	
+5:DET	
+21:DET	::COLONCATEGORY	31:DET	::COLONCATEGORY	47:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	亞都:N	麗緻:Vi	-:DASHCATEGORY	天香樓:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	民權東路:N	二段:N	41:DET	號:M	b:FW	1:DET	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2597:DET	-:DASHCATEGORY	1234:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1500:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	東坡肉:N	
+【:PARENTHESISCATEGORY	圖文版:N	部落格:N	】:PARENTHESISCATEGORY	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	melodysfunplay.pixnet.net/blog/post:FW	/:FW	80073083:DET	
+趕緊:ADV	加入:Vt	Mel:FW	的:T	粉絲團:N	
+就:ADV	可:ADV	收到:Vt	最:ADV	新:Vi	最:ADV	夯:b	的:T	情報:N	喔:T	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/melodysfunplay:FW	
+【:PARENTHESISCATEGORY	吃:Vt	台北:N	】:PARENTHESISCATEGORY	亞都:N	麗緻:Vi	
+天香樓:N	
+杭州:N	東坡:N	肉超:N	讚:Vt	
+吃:Vt	了:ASP	好多:DET	次:M	天香樓:N	
+決定:Vt	把:P	這:DET	間:M	道地:Vi	的:T	杭州菜:N	記錄下來:Vi	並:ADV	推薦給:Vt	大家:N	
+這:DET	篇:M	食記:N	忘記:Vt	拍餐:N	
+廳:N	了:T	
+請:Vt	大家:N	自己:N	上:Vt	官網:N	看:Vt	吧:T	
+直接:Vi	進入:Vt	美食:N	介紹:Vt	
+以下:N	是:Vt	一:DET	人:N	套餐:N	份量:N	
+旅展:N	購買:Vt	餐卷:N	
+兩:DET	人才:N	$:FW	1500:DET	含:Vt	稅:N	
+超:Vt	划算:Vi	
+龍井:N	鮮:Vi	蝦仁:N	
+以:P	龍井:N	葉:N	入菜:Vi	於:P	蝦仁:N	裡:N	是:Vt	杭州菜:N	的:T	特色菜:N	之:T	一:DET	
+非常:ADV	好吃:Vi	
+加:Vt	一點:DET	黑:Vi	醋:N	更:ADV	提:Vt	味:N	
+宋嫂:N	鮮魚:N	羹:N	
+裡面:N	有:Vt	香菇:N	豌豆:N	魚:N	漿:N	蟹肉:N	蛋白質:N	清淡:Vi	好喝:Vi	
+乾燒:Vi	左宗棠:N	雞:N	
+甜甜:Vi	辣辣:Vi	的:T	肌肉:N	稍微:ADV	炸:Vt	過:ASP	外皮:N	比較:ADV	硬:Vi	
+嫩:Vi	豆腐:N	
+忘:Vt	了:ASP	全名:N	
+西湖:N	醋溜:N	魚:N	
+用:P	醬油:N	&:FW	amp:FW	
+鎮江:N	醋:N	調味:Vi	而:C	成:Vt	的:T	酸甜醬:N	
+把:P	含土味:N	的:T	草魚:N	臭味:N	蓋:Vt	到:P	了:ASP	
+草魚:N	的:T	魚肉:N	意外:N	的:T	嫩:Vi	
+杭州:N	東坡肉:N	
+大大:Vi	推:Vt	
+帶:Vt	了:ASP	幾:DET	位:M	長輩:N	來:ADV	吃:Vt	這:DET	道:M	東坡肉:N	
+吃:Vt	過:ASP	的:T	都:ADV	必:ADV	說:Vt	讚:Vt	
+連:C	不:ADV	吃:Vt	肥肉:N	的:T	我:N	都:ADV	覺得:Vt	超:Vt	好吃:Vi	
+一點:DET	都:ADV	
+不:ADV	覺得:Vt	油:N	
+紅燒:Vt	醬汁:N	裡:N	帶:Vt	點:M	酒味:N	
+再:ADV	配上:Vt	醃:Vt	蘿蔔乾:N	
+真是:ADV	超級:A	對味:Vi	
+季節:N	水果:N	
+酒釀:N	甜:Vi	湯圓:N	
+我:N	超:Vt	愛:Vt	他們:N	的:T	酒釀:N	甜:Vi	湯圓:N	
+QQ:FW	軟軟:Vi	的:T	
+配上:Vt	裡面:N	的:T	芝麻:N	糊:Vt	
+好吃:Vi	
+如果:C	碰上:Vt	生日宴:N	
+餐:N	
+廳:N	還:ADV	會:ADV	免費:Vi	贈送:Vt	一:DET	人:N	一:DET	顆:M	棗泥:N	壽桃:N	喔:T	
+天香樓:N	真的:ADV	是:Vt	不管:C	來:ADV	幾:DET	次:M	
+久久:ADV	就:ADV	會:ADV	想:Vt	再:ADV	回來:Vi	吃:Vt	的:T	一:DET	間:M	老店:N	
+好:Vi	的:T	餐廳:N	就:ADV	是:Vt	會:ADV	讓:Vt	人:N	回味:Vt	無:Vt	
+窮:Vi	

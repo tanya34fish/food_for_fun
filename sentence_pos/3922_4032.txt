@@ -1,0 +1,150 @@
+asca0927(asca:FW	0927:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	AGCTCafe:FW	，:COMMACATEGORY	閣樓:N	上:N	的:T	秘密:N	咖啡館:N	
+Wed:FW	
+Jan:FW	
+7:DET	
+20:DET	::COLONCATEGORY	22:DET	::COLONCATEGORY	07:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	AGCTapartment:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	12月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	溫州街:N	49巷:N	2:DET	-:DASHCATEGORY	2:DET	號:M	3樓:N	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2369:DET	-:DASHCATEGORY	6659:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	WED-SUN:FW	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	150:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	無:Vt	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	茶:N	瑪瑙:N	FreshLimeTea:FW	/:FW	橘茶:N	嫣:N	ThaiLatte:FW	
+官網:N	：:COLONCATEGORY	
+【:PARENTHESISCATEGORY	台北:N	AGCTCafe:FW	，:COMMACATEGORY	閣樓:N	間:POST	的:T	秘密:N	咖啡館:N	】:PARENTHESISCATEGORY	
+●:FW	圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.biteamap.com/blog/post:FW	/:FW	402104590:DET	
+【:PARENTHESISCATEGORY	EnjoyTaipei:FW	
+HaveFun:FW	
+】:PARENTHESISCATEGORY	
+●:FW	【:PARENTHESISCATEGORY	台北:N	小草:N	作:Vt	
+女孩:N	們:N	的:T	香草:N	果醬:N	祕密:N	花園:N	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.biteamap.com/blog/post:FW	/:FW	399973663:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	PanHouse:FW	
+細細:Vi	品嚐:Vt	美酒:N	、:PAUSECATEGORY	美食:N	與:C	文化:N	交流:Nv	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.biteamap.com/blog/post:FW	/:FW	398436508:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	Nonzero:FW	
+歐風:N	生活:N	美學:N	雜誌:N	Monocle:FW	首度:ADV	來:Vi	台:N	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.biteamap.com/blog/post:FW	/:FW	397531027:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	雀客:N	咖啡:N	/:FW	雀客:N	旅館:N	
+周末:N	早:Vi	午餐:N	就:ADV	來:ADV	Checkinn:FW	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.biteamap.com/blog/post:FW	/:FW	394392482:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	TexasRoadhouse:FW	德州:N	鮮:Vi	切:Vt	牛排:N	
+來:ADV	場:M	牛仔:N	party:FW	吧:T	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.biteamap.com/blog/post:FW	/:FW	395906825:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	UnoCoffee:FW	內湖店:N	
+16:DET	個:M	夏天:N	就:ADV	在:P	這裡:N	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	386090708:DET	
+【:PARENTHESISCATEGORY	無圖:N	好:Vi	讀版:N	】:PARENTHESISCATEGORY	
+AGCTapartment:FW	
+台北市:N	大安區:N	溫州街:N	49巷:N	2:DET	-:DASHCATEGORY	2:DET	號:M	3樓:N	
+02:DET	
+2369:DET	-:DASHCATEGORY	6659:DET	
+營業:Nv	時間:N	WED-SUN:FW	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	00:DET	
+二樓:N	咖啡館:N	的:T	不同:Vi	風景:N	
+對:P	著:ASP	眼前:N	著:Vt	安靜:Vi	的:T	環境:N	非常:ADV	喜歡:Vt	
+隨便:Vi	點:ADV	杯:M	咖啡:N	就:ADV	靠在:Vt	窗:N	邊:N	陽光:N	窗台:N	坐下:Vi	有時:ADV	發呆:Vi	
+有時:ADV	往:P	下:N	看:Vt	著:ASP	那:DET	來往:Nv	人群:N	經過:Vt	
+討論:Vt	著:ASP	這:DET	周:M	發生:Vt	的:T	生活:N	故事:N	
+又:ADV	或者:C	看:Vt	著:ASP	那:DET	躡手躡腳:ADV	
+剛:ADV	睡醒:Vi	伸懶腰:Vi	的:T	小:Vi	貓咪:N	來回:Vt	走動:Vi	...:ETCCATEGORY	
+在:P	這樣:Vi	二樓:N	的:T	咖啡館:N	空間:N	裡:N	
+一:DET	個:M	早上:N	一:DET	杯:M	咖啡:N	
+絕對:ADV	夠:Vi	你:N	儲存:Vt	一:DET	整:DET	個:M	周:N	末:N	身:N	心靈:N	攝取量:N	
+無:Vt	邊界:N	創意:N	般:POST	豐富:Vt	之:T	咖啡館:N	
+這:DET	間:M	充滿:Vt	文化:N	、:PAUSECATEGORY	時尚:N	、:PAUSECATEGORY	音樂:N	和:C	咖啡館:N	許多:DET	元素:N	的:T	咖啡館:N	
+創辦:Vt	者:N	是:Vt	兩:DET	位:M	分別:ADV	有:Vt	建築:N	、:PAUSECATEGORY	景觀:N	背景:N	設計:Vt	者:N	的:T	創辦人:N	
+在:P	2009年:N	成立:Vt	了:ASP	服飾:N	品牌:N	AGCT:FW	後:POST	
+希望:Vt	透過:P	一:DET	個:M	平台:N	與:C	空間:N	與:C	其他:DET	類型:N	創意人:N	交流:Vi	
+而:C	成立:Vt	了:ASP	這:DET	間:M	公寓:N	咖啡店:N	
+從:P	餐點:N	到:Vt	店:N	內:N	擺飾:N	與:C	裝潢:N	設計:N	就:ADV	不能:ADV	發現:Vt	
+極:ADV	具:Vt	用心:Vi	與:C	巧思:N	
+幾:DET	個:M	區域:N	的:T	位置:N	看似:Vt	一起:ADV	又:ADV	各自:N	獨立:Vi	
+有:Vt	自已:N	專屬:Vt	的:T	空間:N	與:C	樣子:N	
+除了:P	大家:N	最:ADV	愛:Vt	的:T	窗:N	邊:N	小:Vi	吧檯區:N	、:PAUSECATEGORY	兩:DET	人:N	靠:P	窗:N	獨立:Vi	藍:Vi	椅區:N	
+很:ADV	適合:Vi	好友:N	交換:Nv	禮物:N	的:T	三:DET	人:N	座:N	到:P	十:DET	人:N	座:M	長桌:N	
+看似:Vt	隨興:Vi	的:T	配色:Nv	與:C	擺放:Vt	
+卻:ADV	有:Vt	在:P	空間:N	上:POST	彼此:N	呼應:Vt	
+餐點:N	更:ADV	是:Vt	不用說:ADV	的:T	美味:N	與:C	特別:Vi	
+不再:ADV	只是:ADV	單調:Vi	的:T	咖啡:N	與:C	早:Vi	午餐:N	
+取而代之:Vi	的:T	
+橘茶:N	嫣:N	ThaiLatte:FW	
+、:PAUSECATEGORY	
+茶:N	瑪瑙:N	FreshLimeTea:FW	
+搭配:Vt	著:ASP	
+B.L.TClassic:FW	
+、:PAUSECATEGORY	
+Frittata:FW	
+到:P	甜點:N	與:C	冰淇淋:N	
+我:N	覺得:Vt	有時:ADV	經典:N	的:T	菜單:N	選項:N	反而:C	不用:ADV	多:Vi	
+簡單:Vi	、:PAUSECATEGORY	到位:Vi	、:PAUSECATEGORY	特色:N	、:PAUSECATEGORY	經典:N	、:PAUSECATEGORY	俐落:Vi	即可:ADV	
+橘茶:N	嫣:N	ThaiLatte:FW	
+、:PAUSECATEGORY	
+茶:N	瑪瑙:N	FreshLimeTea:FW	
+、:PAUSECATEGORY	
+早:Vi	午餐:N	B.L.TClassic:FW	
+B.L.TClassic:FW	
+雙:A	份:N	培根:N	與:C	生菜:N	沙拉:N	和:C	太陽蛋:N	
+口感:N	清脆:Vi	爽口:Vi	不:ADV	油膩:Vi	
+非常:ADV	喜歡:Vt	而且:C	很:ADV	符合:Vt	經典:N	的:T	感覺:N	
+簡簡單單:Vi	卻:ADV	口感:N	非常:ADV	豐富:Vt	與:C	均勻:Vi	
+茶:N	瑪瑙:N	FreshLimeTea:FW	
+這:DET	份:M	三明治:N	旁邊:N	搭配:Vt	的:T	就是:C	冰:N	的:T	茶:N	瑪瑙:N	
+強烈:Vi	檸檬味:N	讓:Vt	酸度:N	很:ADV	夠:Vi	
+酸:Vi	但:C	卻:ADV	不會:ADV	澀:Vi	
+喜歡:Vt	喝:Vt	酸:Vi	的:T	朋友:N	很:ADV	建議:Vt	這:DET	杯:M	
+除了:P	第一:DET	口:M	的:T	酸度:N	後:POST	
+再:ADV	來:Vi	的:T	就:ADV	是:Vt	會:ADV	出現:Vi	類似:Vt	柑橘:N	的:T	甜味:N	
+一點點:DET	的:T	那麼:ADV	點綴:Vt	著:ASP	
+卻:ADV	有:Vt	
+像:Vt	是:Vt	主角:N	般:POST	的:T	與:P	檸檬:N	搶:Vt	著:ASP	圍繞:Vt	在:P	口:N	裡:N	舌尖:N	
+橘茶:N	嫣:N	ThaiLatte:FW	
+另:DET	一:DET	杯:M	熱:Vt	的:T	飲品:N	則:ADV	是:Vt	橘茶:N	嫣:N	
+從:P	名稱:N	中:POST	不:ADV	難:Vi	看出:Vt	茶:N	來自於:Vi	泰國:N	曼谷:N	
+那:DET	最:ADV	代表:Vt	泰國:N	紅茶:N	熱情:Vi	的:T	鮮紅色:N	茶色:N	與:C	奶:N	泡:Vt	、:PAUSECATEGORY	檸檬皮:N	攪拌:Vt	在一起:Vi	
+就:ADV	像:Vt	是:Vt	又:ADV	再度:ADV	攪拌:Vt	起:ASP	我們:N	曼谷:N	之:T	旅:N	的:T	回憶:N	
+甘甜:Vi	、:PAUSECATEGORY	豐富:Vt	
+充滿:Vt	層次:N	
+非常:ADV	喜歡:Vt	這:DET	杯:M	
+整:DET	個:M	空間:N	除了:P	前面:N	的:T	餐飲區:N	
+四周:N	則:ADV	另:DET	有:Vt	兩:DET	區塊:N	獨立:Vi	空間:N	
+販售:Vt	著:ASP	服飾:N	、:PAUSECATEGORY	設計品:N	與:C	書籍:N	
+並且:C	不:ADV	定時:Vi	的:T	有:Vt	樂團:N	演出:Vt	
+就:ADV	這樣:Vi	在:P	一:DET	個:M	充滿:Vt	多層次:N	文化:N	的:T	空間:N	裡:N	
+享用:Vt	咖啡:N	
+又:ADV	比:P	一般:A	我:N	喜歡:Vt	的:T	單純:Vi	美式:A	、:PAUSECATEGORY	粗曠:Vi	多:Vi	了:ASP	更多:DET	我:N	熱愛:Vt	的:T	細膩度:N	
+那:DET	種:M	深度:N	文化:N	的:T	氛圍:N	結合:Vt	到位:Vi	、:PAUSECATEGORY	簡單:Vi	、:PAUSECATEGORY	經典:N	的:T	餐點:N	
+很:ADV	適合:Vi	睡醒:Vi	後:POST	躲進:Vt	來:Vi	的:T	秘密:N	空間:N	
+坐:Vi	著:ASP	白日夢:N	或者:C	安靜:Vi	的:T	閱讀:Nv	
+另外:C	一:ADV	提:Vt	
+這天:N	周六:N	造訪:Vt	時:POST	
+離:P	開門:Vi	營業:Vi	的:T	11:DET	點:M	的:T	前:DET	半:DET	小時:N	
+已:ADV	有:Vt	許多:DET	跟:P	我:N	一樣:Vi	好奇:Vi	的:T	朋友:N	在:P	店:N	門口:N	等待:Vt	
+是:Vt	間:M	非常:ADV	熱鬧:Vi	與:C	繁忙:Vi	的:T	咖啡:N	小:Vi	館:N	
+如:C	在:P	假日:N	造訪:Vt	請:Vt	務必:ADV	記得:Vt	提前:Vi	來電:Vi	預約:Vt	
+小:Vi	日記:N	::COLONCATEGORY	
+當天:N	週六:N	抵達:Vt	時:POST	
+已經:ADV	客滿:Vi	
+坐:Vi	在:P	吧檯:N	與:C	店主:N	人:N	聊天:Vi	聊:Vt	完:Vi	要:ADV	準備:Vt	離開:Vt	時:POST	
+他們:N	還:ADV	說:Vt	::COLONCATEGORY	這麼:ADV	早:ADV	就:ADV	要:ADV	離開:Vt	了:ASP	阿:N	
+那時:N	我們:N	已經:ADV	坐:Vi	了:ASP	一:DET	個:M	多:POST	小時:N	
+在:P	台北:N	咖啡店:N	
+我:N	相信:Vt	你我:N	都:ADV	很少:ADV	有:Vt	店主:N	人:N	會:ADV	這樣:Vi	跟:P	你:N	說:Vt	吧:T	
+沒有:Vt	用餐:Nv	時間:N	限制:N	
+沒有:ADV	急:Vi	著:ASP	收:Vt	你:N	桌:N	上:N	的:T	餐盤:N	與:C	咖啡杯:N	
+反而:C	希望:Vt	你:N	多:ADV	留下:Vt	一點:DET	時間:N	
+好好:Vi	享用:Vt	周末:N	時光:N	
+我:N	想:Vt	這:DET	也:ADV	是:Vt	二樓:N	風景:N	中:POST	另:DET	一:DET	個:M	令:Vt	人:N	感到:Vt	悠閒:Vi	氛圍:N	的:T	主因:N	之:T	一:DET	
+而:C	在:P	與:P	他們:N	聊天:Vi	時:POST	
+發現:Vt	了:ASP	這:DET	個:M	#:FW	小:N	破爛:Vi	咖啡杯:N	
+一:ADV	問:Vt	才:ADV	知道:Vt	他們:N	兩:DET	間:M	咖啡店:N	彼此:N	是:Vt	朋友:N	
+這:DET	間:M	小:Vi	破爛:Vi	我:N	也:ADV	很:ADV	推薦:Vt	大家:N	
+有:Vt	興趣:N	可以:ADV	看看:Vt	
+一:DET	間:M	都:ADV	是:Vt	由:P	二手:A	傢俱:N	裝飾:N	而:C	成:Vt	的:T	超:A	有:Vt	特色:N	咖啡館:N	
+♥:FW	焦糖:N	熱:Vt	一點:ADV	
+歡迎:Vt	來:ADV	拜訪:Vt	♥:FW	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/summertsai:FW	000:DET	
+ref=hl:FW	

@@ -1,0 +1,103 @@
+s945246(chichi:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	行:Vi	天宮:N	站上:Vt	引:Vt	水產:N	之:T	煮:Vt	海:N	
+Sun:FW	
+Feb:FW	
+15:DET	
+16:DET	::COLONCATEGORY	45:DET	::COLONCATEGORY	50:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	上:N	引:Vt	水產:N	（:PARENTHESISCATEGORY	煮:Vt	海:N	TresorsdeLamer:FW	）:PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	1月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	民族東路:N	410巷:N	2弄:N	18:DET	號:M	(:PARENTHESISCATEGORY	內外:N	標題:N	皆:ADV	請:Vt	附上:Vt	地區:N	！:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	25081268:DET	EXT:FW	：:COLONCATEGORY	233:DET	-:DASHCATEGORY	234:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週日:N	06:DET	::COLONCATEGORY	00:DET	~:FW	24:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1000:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	雙人:N	海鮮:N	鍋:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.addiction.com.tw:FW	/:FW	(:PARENTHESISCATEGORY	具:Vt	購物:Nv	功能:N	之:T	官網:N	請:Vt	勿:ADV	附上:Vt	，:COMMACATEGORY	違者:N	刪:Vt	文:N	不:ADV	另:DET	通知:N	):PARENTHESISCATEGORY	
+網誌:N	好讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	jennifery2012.pixnet.net/blog/post:FW	/:FW	194028501:DET	
+情人節:N	當然:ADV	要:ADV	來:ADV	個:M	情人節:N	大餐:N	任務:N	
+當然:ADV	今天:N	出刊:Vi	有失:Vt	專業:Vi	XD:FW	但是:C	大家:N	還是:ADV	可以:ADV	去:ADV	煮:Vt	海碰:N	
+碰運氣:Vi	
+說不定:ADV	剛好:ADV	有:Vt	位置:N	
+又:ADV	可以:ADV	享受:Vt	一:DET	頓:M	＂:FW	和:C	平常:N	價格:N	一樣:Vi	＂:FW	、:PAUSECATEGORY	＂:FW	不會:ADV	被:P	貴:Vi	到:P	＂:FW	的:T	西:N	
+洋:N	情人節:N	大餐:N	喔:T	
+以:P	台北:N	喜歡:Vt	吃:Vt	日本:N	料理:N	、:PAUSECATEGORY	火鍋:N	、:PAUSECATEGORY	海鮮:N	的:T	朋友:N	
+當然:ADV	首推:Vt	三:DET	井:N	集團:N	的:T	＂:FW	煮:Vt	海:N	＂:FW	
+除了:P	不:ADV	需要:Vt	
+站:Vi	著:ASP	吃:Vt	很:ADV	久:Vi	以外:POST	
+這邊:N	的:T	燈光:N	就:ADV	是:Vt	比:P	上:N	引:Vt	水產:N	那邊:N	的:T	火鍋區:N	＂:FW	暗:Vi	＂:FW	
+氣氛:N	相對:Vi	比較:ADV	好:Vi	
+雖:C	
+然:C	價格:N	較:ADV	高:Vi	一些些:DET	
+但:C	如果:C	要:ADV	享受:Vt	甜蜜:Vi	的:T	情人:N	時光:N	
+來:ADV	這邊:N	就:ADV	對了:Vi	
+但:C	由於:C	上:N	引:Vt	水產:N	離:P	捷:N	
+運:Vt	還是:ADV	有:Vt	段:M	距離:N	
+因此:C	我們:N	搭:Vt	捷運:N	到:P	行:Vt	天宮:N	站:Vi	以後:POST	
+用:P	Uber:FW	叫:Vt	了:ASP	輛:M	BMW:FW	送:Vt	我們:N	過去:N	
+有:Vt	
+需要:Vt	序號:N	的:T	可以:ADV	看:Vt	這邊:N	
+輸入:Vt	序號:N	首:DET	次:M	獲得:Vt	200:DET	元:M	搭:Vt	車:N	金:N	喔:T	：:COLONCATEGORY	dws6g:FW	
+大家:N	問:Vt	價格:N	會不會:ADV	很:ADV	貴:Vi	
+其實:ADV	一點:DET	也:ADV	不會:ADV	
+看到:Vt	左下:N	腳:N	的:T	海鮮:N	鍋:N	嗎:T	
+兩:DET	人才:N	1:DET	
+580:DET	元:M	
+再:ADV	
+點:DET	個:M	單點:N	
+大概:ADV	2:DET	
+000:DET	元:M	可以:ADV	搞定:Vt	
+點:Vt	了:ASP	火鍋:N	以後:POST	這些:DET	都:ADV	可以:ADV	加:Vt	點:M	
+價格:N	當然:ADV	就:ADV	直接:Vi	問:Vt	服務:Nv	人員:N	囉:T	
+煮:Vt	海:N	一樓:N	會:ADV	先:ADV	幫:P	你:N	點:Vt	好:Vi	餐:N	
+點:Vt	
+到:P	二樓:N	就:ADV	會:ADV	給:Vt	你:N	飲料:N	的:T	菜單:N	
+當然:ADV	想要:Vt	加:Vt	點:M	食物:N	部分:DET	
+二樓:N	也:ADV	是:Vt	可以:ADV	效勞:Vi	的:T	
+點:Vt	好:Vi	就:ADV	來到:Vt	二樓:N	囉:T	
+我們:N	各:ADV	點:Vt	了:ASP	一:DET	杯:M	生啤酒:N	和:C	黑:Vi	啤酒:N	
+後來:N	發現:Vt	我們:N	點:Vt	的:T	黑:Vi	啤酒:N	樓下:N	
+立吞:Vt	區域:N	也:ADV	有:Vt	賣:Vt	喔:T	
+有點:ADV	生魚片:N	
+先:ADV	來:Vi	了:ASP	個:M	新鮮:Vi	山葵:N	
+自己:N	磨:Vt	哇:T	沙比:N	
+養:Vt	雞:N	雞:N	最:ADV	喜歡:Vt	新鮮:Vi	的:T	山葵:N	了:T	
+養:Vt	雞:N	雞:N	
+默默:ADV	的:T	一直:ADV	覺得:Vt	這:DET	個:M	小:Vi	掃把:N	很:ADV	棒:Vi	...:ETCCATEGORY	
+生魚片:N	拼盤:N	上桌:Vi	囉:T	
+每:DET	一:DET	種:M	海鮮:N	都:ADV	好:ADV	鮮美:Vi	
+吃:Vt	的:T	出來:Vi	喔:T	
+蝦仁:N	炒飯:N	
+這:DET	是:Vt	擔心:Vt	吃:Vt	不:ADV	飽:Vi	點:ADV	的:T	
+但:C	後來:N	真的:ADV	覺得:Vt	有點:ADV	太多:Vi	了:T	所以:C	請:Vt	大家:N	如果:C	要點:N	
+就:ADV	點:Vt	
+個:M	生魚片:N	就:ADV	好:Vi	
+或是:C	就:ADV	炒飯:Vi	就:ADV	好:Vi	
+不要:ADV	點:Vt	太多:DET	阿:N	....:ETCCATEGORY	
+上:DET	鍋:M	囉:T	
+剛:ADV	開始:Vi	的:T	湯:N	相當:ADV	清澈:Vi	甚至:ADV	沒有:Vt	什麼:DET	味道:N	
+今天:N	的:T	火鍋:N	料:N	上桌:Vi	了:ASP	好:ADV	開心:Vi	
+裡面:N	的:T	螃蟹:N	就:ADV	有:Vt	兩:DET	種:M	
+還:ADV	有:Vt	一:DET	顆:M	好:ADV	大:Vi	的:T	干貝:N	
+蛤蠣:N	也好:T	肥美:Vi	
+這:DET	一:DET	盤:M	看起來:ADV	還:ADV	好:Vi	
+但:C	全部:DET	吃下:Vt	肚:N	以後:POST	真的:ADV	超超:N	超級:A	飽:Vi	...:ETCCATEGORY	其實:ADV	不:ADV	知道:Vt	是否:ADV	只:ADV	點:Vt	海鮮:N	鍋:N	
+會不會:ADV	遇到:Vt	低銷:Vt	問題:N	
+否則:C	這:DET	一:DET	盤:M	真的:ADV	就:ADV	夠:Vi	了:ASP	阿:N	...:ETCCATEGORY	我們:N	兩:DET	個:M	真的:ADV	吃到:Vt	快要:ADV	吐:Vt	了:ASP	...:ETCCATEGORY	以後:POST	再:ADV	
+點:Vt	少一點:DET	
+只是:ADV	吃完:Vt	還是:ADV	不得不:ADV	稱讚:Vt	
+真的:ADV	有夠:ADV	新鮮:Vi	好吃:Vi	
+這樣:Vi	算:Vt	下來:ASP	煮:Vt	海:N	真的:ADV	很:ADV	划算:Vi	
+飯:N	後:POST	甜點:N	
+給:Vt	得:T	很少:DET	XD:FW	但是:C	那:DET	個:M	右邊:N	大廚:N	手工:N	蛋糕:N	長:Vi	的:T	雖:C	醜:Vi	但:C	很:ADV	好吃:Vi	
+立吞:Vt	區域:N	也:ADV	有:Vt	賣:Vt	
+吃飽:Vi	真的:ADV	太:ADV	飽:Vi	了:T	
+溜:Vi	下去:ASP	立吞:Vt	區域:N	繞繞:Vi	拍:Vt	拍照:Vi	
+但是:C	原:A	PO:FW	還是:ADV	討厭:Vt	站:Vi	著:ASP	吃:Vt	
+特別:Vi	是:Vt	站:Vi	著:ASP	
+吃:Vt	還是:ADV	滿:ADV	高級:Vi	的:T	價格:N	
+和:P	日本:N	的:T	立吞:Vt	較:ADV	便宜:Vi	的:T	形象:N	都:ADV	不同:Vi	
+有點:ADV	不:ADV	喜歡:Vt	但是:C	煮:Vt	海:N	坐:Vi	著:ASP	倒是:ADV	
+就:ADV	可以:ADV	接受:Vt	了:ASP	
+分享:Vt	給:P	喜歡:Vt	吃:Vt	海鮮:N	、:PAUSECATEGORY	火鍋:N	、:PAUSECATEGORY	偶爾:ADV	吃:Vt	一:DET	頓:M	大餐:N	的:T	大家:N	

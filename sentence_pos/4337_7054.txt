@@ -1,0 +1,32 @@
+liam185(God&Lucifer:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	抱怨:Vt	]:PARENTHESISCATEGORY	台北士:N	三:DET	寒:Vi	六:DET	食物:N	有:Vt	蟲:N	還:ADV	要:Vt	收費:Vt	
+Tue:FW	
+May:FW	
+12:DET	
+11:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	10:DET	
+2015:DET	
+抱怨:Vt	
+台北士:N	三:DET	寒:Vi	六:DET	食物:N	有:Vt	蟲:N	還:ADV	要:Vt	收費:Vt	
+TueMay:FW	1211:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	102015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	土:N	三:DET	寒:Vi	六:DET	
+地址:N	：:COLONCATEGORY	台北市:N	復興南路:N	一段:N	126巷:N	6:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27754611:DET	
+消費:N	時間:N	：:COLONCATEGORY	2015:DET	/:FW	05:DET	/:FW	09:DET	
+事發:Vi	經過:N	：:COLONCATEGORY	與:C	友人:N	去:ADV	吃:Vt	晚餐:N	友人:N	點:Vt	了:ASP	一:DET	碗:M	裡面:N	有:Vt	炸雞:N	的:T	烏龍:N	湯麵:N	
+吃:Vt	一:DET	吃:Vt	發現:Vt	炸雞:N	上:N	有:Vt	隻:M	小:Vi	蟲:N	..:ETCCATEGORY	整:NeqaI	個:M	噁心:Vi	
+後來:N	跟:P	店員:N	反應:N	
+店員:N	只:ADV	回:Vt	一:DET	句:M	::COLONCATEGORY	喔:T	
+竟然:ADV	沒:ADV	道歉:Vi	
+不:ADV	知:Vt	是:Vt	不:ADV	是:Vt	常常:ADV	加料:Vi	
+後來:N	不:ADV	知:Vt	是:Vt	不:ADV	是:Vt	見到:Vt	我們:N	不悅:Vi	
+有:Vt	個:M	較:ADV	年長:Vi	店員:N	來:ADV	問:Vt	要:ADV	換:Vt	一:DET	碗:M	新:Vi	的:T	嗎:T	
+友人:N	當然:ADV	是:Vt	不要:ADV	
+難道:ADV	要:ADV	再:ADV	繼續:Vt	吃:Vt	加:Vt	蟲:N	的:T	麵:N	
+最:ADV	誇張:Vt	的:T	是:Vt	
+結帳:Vi	的:T	時候:N	竟然:ADV	還:ADV	要:ADV	收費:Nv	...:ETCCATEGORY	
+後來:N	大聲:Vi	的:T	詢問:Nv	
+順便:ADV	給:P	旁邊:N	的:T	客人:N	聽:Vt	
+::COLONCATEGORY	請問:Vt	食物:N	裡:N	有:Vt	蟲:N	要:ADV	收費:Vt	嗎:T	
+店員:N	才:ADV	不悅:Vi	地:T	把:P	它:N	扣掉:Vt	
+只:ADV	能:ADV	說:Vt	現在:N	餐廳:N	的:T	食品:N	把關:Vi	越來越:ADV	糟糕:Vi	
+不:ADV	是:Vt	壞掉:Vi	就是:C	有:Vt	加料:Vi	

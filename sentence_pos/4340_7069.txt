@@ -1,0 +1,56 @@
+j19617(j:FW	19617:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	的:T	北投:N	魷魚:N	傳統:Vi	小吃:N	~:FW	自製:Vt	麻辣麵:N	吃法:N	
+Wed:FW	
+May:FW	
+13:DET	
+08:DET	::COLONCATEGORY	13:DET	::COLONCATEGORY	33:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	台北市:N	北投:N	魷魚:N	傳統:Vi	小吃:N	
+消費:N	時間:N	::COLONCATEGORY	2015年:N	4月:N	
+地址:N	：:COLONCATEGORY	台北市:N	光復南路:N	290巷:N	3:DET	號:M	（:PARENTHESISCATEGORY	國父:N	紀念館:N	站:Vi	二:DET	號:M	出口:Nv	）:PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	022711:DET	-:DASHCATEGORY	1128:DET	
+有:Vt	圖:N	有:Vt	真相:N	完整:Vi	網誌版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	findse.pixnet.net/blog/post:FW	/:FW	423203563:DET	
+北投:N	魷魚:N	位在:Vt	台北:N	國父:N	紀念館:N	對面:N	麥當勞:N	旁:N	的:T	巷子:N	裡:N	
+記憶:N	中:POST	它:N	也:ADV	是:Vt	老字號:N	的:T	連鎖店:N	了:T	
+之前:N	吃:Vt	過:ASP	幾:DET	次:M	
+味道:N	還:ADV	不錯:Vi	
+店面:N	空間:N	不:ADV	小:Vi	
+牆壁:N	用色:Vi	跳脫:Vt	傳統:Vi	小吃:N	的:T	樣貌:N	
+看來:ADV	活潑:Vi	許多:DET	
+價位:N	頗:ADV	符合:Vt	這:DET	個:M	地段:N	的:T	單價:N	
+嗜辣成性:N	的:T	我:N	
+本來:ADV	想:Vt	點:M	麻辣:A	拉麵:N	
+再:ADV	加:Vt	麻辣:A	臭豆腐:N	
+但:C	後來:N	卻:ADV	點:Vt	了:ASP	麻辣:A	鴨:N	血:N	和:C	魷魚:N	羹:N	麵:N	
+原因:N	在於:Vt	找到:Vt	了:ASP	兩全其美:Vi	的:T	辦法:N	
+這:DET	麻辣:A	鴨血:N	的:T	味道:N	和:C	我:N	平常:N	吃:Vt	別:DET	家:N	的:T	麻辣:A	滷:Nv	鴨血:N	不:ADV	太:ADV	相同:Vi	
+多:Vi	了:ASP	一:DET	份:M	香料:N	的:T	香:N	辛味:N	
+不:ADV	太:ADV	辣:Vi	
+但:C	會:ADV	麻:Vi	
+鴨血軟:N	嫩:Vi	彈性:N	
+可以:ADV	再:ADV	入:Vt	味:N	些:ADV	
+反倒:C	它:N	的:T	豆腐:N	吸味:N	十足:Vi	
+搶眼度:N	超過:Vt	主角:N	
+同事:N	還:ADV	點:Vt	了:ASP	小菜:N	
+這:DET	豬血:N	糕:N	好吃:Vi	啊:T	
+不會:ADV	過份:Vi	的:T	黏稠:Vi	
+有:Vt	種:M	軟綿:N	的:T	彈:Vt	牙:N	口感:N	
+主角:N	上場:Vi	了:ASP	
+魷魚:N	羹:N	麵:N	
+這:DET	魷魚:N	羹:N	的:T	味道:N	相當:ADV	相當:ADV	重:Vi	
+重:Vi	到:P	我:N	忍不住:Vt	皺眉:Vi	
+就是:C	魷魚:N	特有:A	的:T	氣味:N	
+因為:C	魷魚:N	氣味:N	過重:Vi	
+所以:C	我:N	稍微:ADV	嚼:Vt	一下:N	就:ADV	吞下去:Vi	了:ASP	
+那:DET	這樣:Vi	幹嘛:Vi	要點:N	它:N	啊:T	
+前:DET	文:N	有:Vt	提到:Vt	我:N	原本:ADV	想:Vt	點:M	麻辣:A	拉麵:N	
+後來:N	卻:ADV	點:Vt	了:ASP	魷魚:N	羹:N	麵:N	和:C	麻辣:A	鴨血:N	
+因為:C	我:N	發現:Vt	我:N	可以:ADV	把:P	魷魚:N	羹:N	麵:N	的:T	麵條:N	撈出:Vt	來:ADV	放到:Vt	另:DET	一:DET	個:M	碗:N	裡:N	
+然後:ADV	再:ADV	把:P	麻辣:A	鴨血:N	的:T	湯汁:N	倒入:Vt	麵:N	裡:N	
+再:ADV	加:Vt	些:M	辣椒:N	就:ADV	成:Vt	了:ASP	一:DET	碗:M	自製:Vt	的:T	麻辣麵:N	了:T	
+花:Vt	兩:DET	道:M	錢:N	卻:ADV	可:ADV	享受:Vt	三:DET	道:M	美食:N	的:T	風味:N	
+嘿嘿:ADV	
+這樣:Vi	做法:N	還:ADV	真:ADV	不錯:Vi	吃:Vt	喔:T	
+整體:N	而言:Vt	
+北投:N	魷魚:N	的:T	表現度:N	還是:ADV	有:Vt	一定:A	水準:N	
+只:ADV	不過:C	我:N	突然:ADV	很:ADV	想念:Vt	年輕:Vi	時:POST	在:P	西門町:N	吃:Vt	的:T	那:DET	家:M	謝謝:Vt	魷魚:N	羹:N	啊:T	

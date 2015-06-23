@@ -1,0 +1,59 @@
+cheichen:FW	(:PARENTHESISCATEGORY	小珊:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	忠孝:N	新生:N	麻糬:N	鬆餅:N	與:C	冠軍:N	咖啡:N	4:DET	Mano:FW	
+Fri:FW	
+Nov:FW	
+21:DET	
+01:DET	::COLONCATEGORY	06:DET	::COLONCATEGORY	59:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	4:DET	Mano:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	10月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	忠孝東路:N	二段:N	134巷:N	3:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2391:DET	-:DASHCATEGORY	1356:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	400:DET	-:DASHCATEGORY	500:DET	
+有無:Vt	包廂:N	：:COLONCATEGORY	N:FW	
+推薦:Vt	菜色:N	：:COLONCATEGORY	義式:A	什錦:A	烘:Vt	蛋:N	配:Vt	手工:N	麵包:N	、:PAUSECATEGORY	蜂蜜:N	鮮:Vi	奶油:N	鬆餅:N	、:PAUSECATEGORY	拿:Vt	鐵:N	咖啡:N	
+無:Vt	音樂:N	圖文:N	網誌:N	好讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/1amhEp:FW	
+今天:N	要:ADV	介紹:Vt	的:T	是:Vt	忠孝:N	新生站:N	旁邊:N	的:T	4:DET	Mano:FW	
+4:DET	Mano:FW	是:Vt	在:P	2009年:N	由:P	台灣:N	咖啡:N	大師:N	競賽:N	冠軍:N	的:T	團隊:N	開:Vt	的:T	
+無論:C	平:Vt	假日:N	人潮:N	都:ADV	是:Vt	滿滿:Vi	的:T	
+而且:C	他們:N	假日:N	是:Vt	沒有:ADV	接受:Vt	訂位:Vi	的:T	
+淚:N	
+在:P	忠孝:N	新生:N	站:Vi	2:DET	號:M	出口:N	出來:Vi	直直:Vi	走:Vi	的:T	左手:N	邊:N	就:ADV	會:ADV	看到:Vt	4:DET	Mano:FW	
+我們:N	當天:N	大概:ADV	1:DET	點:M	去:ADV	
+剛好:ADV	剩下:Vt	最後:N	一:DET	桌:M	
+看到:Vt	後面:N	的:T	朋友:N	們:N	就:ADV	開始:Vt	排隊:Vi	啦:T	
+店:N	裡面:N	有:Vt	個:M	長長:Vi	的:T	工作檯:N	
+整:DET	個:M	很:ADV	有:Vt	質感:N	
+而且:C	我:N	蠻:ADV	喜歡:Vt	他們:N	維持:Vt	工作檯:N	很:ADV	乾淨:Vi	的:T	這:DET	點:M	
+牆:N	上:POST	也:ADV	放上:Vt	了:ASP	好多:DET	他們:N	的:T	獎杯:N	
+光:ADV	看:Vt	就:ADV	覺得:Vt	他們:N	的:T	咖啡:N	應該:ADV	很:ADV	厲害:Vi	
+誤:ADV	
+義式:A	什錦:A	烘:Vt	蛋:N	配:Vt	手工:N	麵包:N	@:FW	$:FW	220:DET	
+可以:ADV	選:Vt	雞肉:N	跟:P	蘑菇:N	兩:DET	種:M	口味:N	
+今天:N	我:N	選:Vt	的:T	是:Vt	雞肉:N	的:T	
+烘:Vt	蛋:N	真的:ADV	是:Vt	一:DET	個:M	很:ADV	適合:Vi	秋天:N	吃:Vt	的:T	食物:N	
+因為:C	切開:Vt	就:ADV	會:ADV	有:Vt	種:M	鬆鬆軟軟:Vi	的:T	溫暖感:N	
+4:DET	Mano:FW	的:T	烘:Vt	蛋:N	還:ADV	搭配:Vt	了:ASP	蔬菜:N	
+所以:C	吃起來:ADV	還:ADV	多:Vi	了:ASP	一點:DET	清爽感:N	
+蜂蜜:N	鮮:Vi	奶油:N	鬆餅:N	@:FW	$:FW	160:DET	
+其實:ADV	他們:N	的:T	鬆餅:N	跟:P	立裴米堤:N	有點:ADV	像:Vt	
+也:ADV	是:Vt	走:Vi	麻糬:N	鬆餅:N	的:T	路線:N	
+不過:C	口感:N	上面:N	我:N	比較:ADV	喜歡:Vt	立:Vt	裴米堤:N	的:T	
+比較:ADV	鬆軟:Vi	
+感覺:Vt	4:DET	Mano:FW	的:T	表皮:N	比較:ADV	脆:Vi	一些:DET	
+帶:Vt	著:ASP	淡淡:Vi	蜂蜜:N	的:T	香氣:N	
+不過:C	也:ADV	是:Vt	蠻:ADV	好吃:Vi	的:T	
+拿:Vt	鐵:N	咖啡:N	@:FW	$:FW	160:DET	
+這:DET	拉花:N	真的:ADV	也:ADV	是:Vt	好:ADV	細緻:Vi	、:PAUSECATEGORY	好:ADV	對稱:Vi	
+雖然:C	比賽:N	的:T	咖啡:N	通常:ADV	都:ADV	是:Vt	濃縮:Nv	咖啡:N	
+但是:C	加:Vt	了:ASP	牛奶:N	之後:POST	還是:ADV	可以:ADV	聞到:Vt	咖啡:N	的:T	香氣:N	
+拿:Vt	鐵:N	有:Vt	一:DET	股:M	來自:Vt	牛奶:N	很:ADV	濃郁:Vi	的:T	味道:N	
+真的:ADV	蠻:ADV	好喝:Vi	的:T	
+而且:C	他們:N	家:N	的:T	杯子:N	有:Vt	設計:Vt	過:ASP	
+直接:Vi	拿:Vt	也:ADV	不會:ADV	燙:Vt	
+坦白:Vi	說:Vt	
+4:DET	Mano:FW	的:T	餐點:N	與:C	飲料:N	的:T	份量:N	都:ADV	不:ADV	算:Vt	太多:Vi	
+但是:C	整體:N	味道:N	是:Vt	蠻:ADV	好:Vi	的:T	
+鬆餅:N	我:N	還是:ADV	愛:Vt	立裴米堤:N	呀:T	
+要:ADV	講:Vt	幾:DET	次:M	...:ETCCATEGORY	
+下:DET	次:M	有:Vt	機會:N	還:ADV	想來:ADV	試試看:Vt	4:DET	Mano:FW	其他:DET	的:T	咖啡:N	

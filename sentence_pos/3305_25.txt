@@ -1,0 +1,31 @@
+地址:N	：:COLONCATEGORY	106:DET	台北市:N	大安區:N	忠孝東路:N	四段:N	205巷:N	39:DET	-:DASHCATEGORY	1:DET	號:M	
+交通:N	：:COLONCATEGORY	捷運:N	忠孝:N	敦化:N	站:Vi	2:DET	號:M	出口:Nv	
+Zara:FW	旁邊:N	的:T	巷子:N	走到:Vt	底:N	
+靠近:Vt	市民:N	大道:N	那邊:N	
+平日:N	週日:N	晚間:N	來:Vi	店:N	消費:N	每:DET	人:N	低:Vi	消:Vt	300:DET	元:M	
+週五:N	-:DASHCATEGORY	週六:N	晚間:N	來:Vi	店:N	消費:N	每:DET	人:N	低:Vi	消:Vt	500:DET	元:M	
+環境:N	幽幽暗暗:Vi	
+很:ADV	有:Vt	氣氛:N	
+而且:C	空間:N	滿:ADV	大:Vi	可以:ADV	容納:Vt	很多:DET	人:N	
+也:ADV	有:Vt	吧檯區:N	可以:ADV	欣賞:Vt	調酒師:N	
+NT:FW	300:DET	
+NT:FW	200:DET	
+NT:FW	400:DET	
+花枝圈:N	滿:ADV	軟:Vi	很:ADV	好吃:Vi	
+薯條:N	則:ADV	是:Vt	很:ADV	有:Vt	誠意:N	的:T	裝滿:Vt	整:DET	個:M	盆栽杯:N	
+整:DET	個:M	杯子:N	都:ADV	裝滿:Vt	了:ASP	薯條:N	
+松露:N	菌菇:N	奶油:N	燉:Vt	飯:N	配:Vt	香:Vi	煎松板:N	豬:N	則:ADV	是:Vt	不會:ADV	很:ADV	膩:Vi	
+分量:N	也:ADV	剛剛好:ADV	
+尚:ADV	面松板豬:N	口感:N	滑嫩:Vi	
+而且:C	一共:ADV	有:Vt	四:DET	片:M	
+一:DET	個:M	人:N	吃:Vt	份量:N	也:ADV	足夠:Vi	
+加上去:Vi	整:DET	個:M	味道:N	都:ADV	跑出來:Vi	很:ADV	濃郁:Vi	好吃:Vi	呀:T	
+NT:FW	350:DET	
+NT:FW	400:DET	
+NT:FW	350:DET	
+超:Vt	清涼:Vi	的:T	
+喝:Vt	起來:ASP	玫瑰:N	香:N	跟:P	水果:N	味道:N	很:ADV	搭:Vt	
+琴酒:N	味道:N	不會:ADV	很:ADV	重:Vi	
+結帳:Vi	完:Vt	一:DET	個:M	人:N	加上:C	服務費:N	大概:ADV	是:Vt	NT:FW	750:DET	左右:POST	
+很:ADV	喜歡:Vt	這:DET	種:M	氣氛:N	好店:N	
+價位:N	算:Vt	中上:A	但是:C	算:Vt	美食:N	美酒:N	美:Nv	燈光:N	好:Vi	店:N	推薦:Vt	囉:T	

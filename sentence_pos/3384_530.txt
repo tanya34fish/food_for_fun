@@ -1,0 +1,78 @@
+sosold:FW	(:PARENTHESISCATEGORY	大:Vi	熱天:N	的:T	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	。:PERIODCATEGORY	信義:N	世貿:N	101:DET	站:N	饗:Vt	食:Vt	天堂:N	吃:Vt	粗飽:Vi	
+Sun:FW	
+Aug:FW	
+3:DET	
+15:DET	::COLONCATEGORY	47:DET	::COLONCATEGORY	09:DET	
+2014:DET	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+多:ADV	照:Vt	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	carina101.pixnet.net/blog/post:FW	/:FW	184656225:DET	
+這:DET	天:M	又:ADV	是:Vt	一:DET	個:M	不:ADV	知道:Vt	要:ADV	吃:Vt	什麼:DET	一:DET	天:M	雖然:C	一直:ADV	想:Vt	吃:Vt	寒舍:N	艾美:N	
+但:C	一:ADV	想到:Vt	價錢:N	又:ADV	猶豫:Vt	了:ASP	起來:ASP	
+忽然:ADV	想起:Vt	有:Vt	人:N	說:Vt	信義區:N	的:T	饗:Vt	食:Vt	天堂:N	比:P	桃園:N	的:T	好吃:Vi	桃園:N	中壢:N	的:T	饗:Vt	食:Vt	天堂:N	我:N	已經:ADV	吃:Vt	了:ASP	快:Vi	十:DET	次:M	
+左右:N	
+最後:N	幾:DET	次:M	覺得:Vt	實在:ADV	很:ADV	虛:Vi	東西:N	很多:Vi	但:C	沒有:Vt	特別:Vi	好吃:Vi	的:T	但:C	桃園:N	的:T	選擇:N	比較:ADV	不:ADV	多:Vi	
+台北:N	是:Vt	選擇:Vt	多:Vi	但:C	價錢:N	也:ADV	偏:ADV	高:Vi	
+饗:Vt	食:Vt	天堂:N	ATT4FUN:FW	
+信義店:N	
+地址:N	：:COLONCATEGORY	台北市:N	110:DET	松壽路:N	12:DET	號:M	6樓:N	電話:N	：:COLONCATEGORY	0277375889:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	–:FW	14:DET	::COLONCATEGORY	00:DET	
+14:DET	::COLONCATEGORY	30:DET	–:FW	16:DET	::COLONCATEGORY	15:DET	
+17:DET	::COLONCATEGORY	30:DET	–:FW	21:DET	::COLONCATEGORY	30:DET	
+價目表:N	
+這:DET	天:M	是:Vt	平常:N	天:N	中午:N	所以:C	是:Vt	658:DET	/:FW	1:DET	人:N	再:ADV	加:Vt	一成:DET	服務費:N	
+不愧:ADV	是:Vt	信義店:N	裝潢:N	的:T	貴氣:N	十足:Vi	
+不:ADV	知道:Vt	為什麼:ADV	有:Vt	種:M	哈利波特霍格華玆:N	學院:N	的:T	感覺:N	
+吃:Vt	起:ASP	飯:N	來:ADV	好:ADV	有:Vt	氣氛:N	
+取:Vt	餐區:N	說:Vt	大:Vi	不:ADV	大:Vi	說:Vt	小:Vi	不:ADV	小:Vi	
+嬌艷:Vi	欲:Vt	滴:Vt	的:T	烤鴨:N	
+有用:Vi	餅皮:N	捲好:Vt	的:T	但是:C	吃下去:Vi	覺得:Vt	沒有:Vt	很:ADV	好吃:Vi	
+跟:P	師傅:N	另外:C	要求:Vt	只:ADV	要:Vt	鴨肉:N	就:ADV	好:Vi	
+給:Vt	了:ASP	兩:DET	隻:M	鴨腿:N	
+皮:N	有:Vt	一點:DET	脆:Vi	但:C	肉:N	稍:ADV	嫌:Vt	柴:N	了:T	些:ADV	
+燒肉:N	炒飯:N	
+看:Vt	著:ASP	來:ADV	頗:ADV	美味:Vi	但:C	來:ADV	吃到:Vt	飽:Vt	我:N	是:Vt	不:ADV	吃:Vt	炒飯:N	的:T	
+饗:Vt	樂骨:N	
+吃:Vt	不:ADV	太:ADV	出:Vt	是:Vt	羊:N	還是:C	豬:N	
+男友:N	說:Vt	是:Vt	羊:N	
+但:C	我:N	平常:N	是:Vt	吃:Vt	不:ADV	下:Vt	羊肉:N	的:T	因為:C	怕:Vt	膻:b	但:C	這:DET	個:M	肉:N	我:N	敢:Vt	吃:Vt	
+也:ADV	還:ADV	不錯:Vi	吃:Vt	只:ADV	是:Vt	也:ADV	是:Vt	稍微:ADV	柴:N	了:T	些:ADV	
+盤:N	中:POST	另:DET	有:Vt	泰式酸辣魚:N	不會:ADV	太:ADV	辣:Vi	
+薑黃:Vi	小:Vi	排:Vt	
+有:Vt	夾:Vt	了:ASP	一:DET	塊:M	我:N	不:ADV	是:Vt	很:ADV	愛:Vt	薑黃:Vi	所以:C	沒有:Vt	很:ADV	喜歡:Vt	
+生冷:Vi	海鮮區:N	
+生:Vt	牛肉:N	太:ADV	生:Vi	了:ASP	我:N	吃:Vt	不:ADV	太:ADV	習慣:Vt	男友:N	倒是:ADV	挺:ADV	喜歡:Vt	的:T	
+炙燒:Vi	鮭魚:N	沒:Vt	我:N	想:Vt	的:T	那般:ADV	好吃:Vi	
+蝦子:N	吃起來:ADV	就:ADV	是:Vt	冷凍:Vt	蝦:N	不:ADV	夠:ADV	鮮嫩:Vi	
+貝類:N	因為:C	有:Vt	放:Vt	冰:N	保存:Nv	還:ADV	ok:FW	
+牛排:N	頗:ADV	厚:Vi	吃起來:ADV	還:ADV	ok:FW	沒有:ADV	到:P	難吃:Vi	也:ADV	沒有:Vt	好吃:Vi	
+就是:C	頗:ADV	普通:Vi	
+鮭魚:N	味噌湯:N	/:FW	鮮:Vi	蛤蜊:N	清湯:N	/:FW	酸辣:N	海鮮湯:N	
+這邊:N	是:Vt	現點現取:Vt	
+告訴:Vt	廚師:N	要:ADV	什麼:DET	湯:N	才:ADV	會:ADV	開始:Vt	製作:Vt	
+酸辣湯:N	蠻:ADV	酸:Vi	辣:Vi	的:T	
+忘記:Vt	那裡:N	拿:Vt	的:T	魚:N	排:Vt	
+吃完:Vt	絕對:ADV	不會:ADV	再:ADV	想:Vt	吃:Vt	第二:DET	個:M	
+起:Vt	司:N	拼盤:N	
+只:ADV	能:ADV	說:Vt	不要:ADV	亂:Vi	拿:Vt	我:N	拿:Vt	了:ASP	中間:N	方塊:N	有:Vt	小黑:Vi	點:ADV	的:T	起:Vt	司:N	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	食用:Vt	方式:N	錯誤:N	吃:Vt	一:DET	個:M	我:N	就:ADV	不:ADV	小心:Vt	吐出來:Vi	了:ASP	
+冰品區:N	
+用:Vt	的:T	很:ADV	像:Vt	COLDSTONE:FW	
+只:ADV	有:Vt	兩:DET	種:M	可以:ADV	選擇:Vt	宇治金:N	時:POST	和:C	跳跳:Nv	草莓:N	
+正好:ADV	都:ADV	是:Vt	我:N	不:ADV	喜歡:Vt	的:T	口味:N	
+但:C	又:ADV	想:Vt	嚐試:Vt	看看:Vt	於是:C	挑:Vt	了:ASP	草莓:N	口味:N	
+吃起來:ADV	就:ADV	是:Vt	攪拌:Vt	過:ASP	的:T	冰:N	呀:T	
+不過:C	裡面:N	好像:ADV	有:Vt	放:Vt	跳跳:Nv	糖:N	
+這邊:N	的:T	哈根:N	達:Vt	斯:DET	都:ADV	是:Vt	很:ADV	不:ADV	討喜:Vi	的:T	口味:N	
+總結:N	：:COLONCATEGORY	兩:DET	人:N	含:Vt	一成:DET	服務費:N	約:ADV	花費:Vt	1446:DET	元:M	
+1:DET	人:N	為:P	723:DET	元:M	
+真的:ADV	吃:Vt	了:ASP	頗:ADV	有:Vt	後悔:Vt	的:T	感覺:N	
+東西:N	是:Vt	蠻:ADV	多:Vi	選擇:Vt	該:DET	有的:DET	也:ADV	都:ADV	有:Vt	
+但:C	
+真的:ADV	是:Vt	吃:Vt	粗飽:Vi	的:T	
+沒有:Vt	幾:DET	樣:M	我:N	真的:ADV	覺得:Vt	很:ADV	美味:Vi	的:T	
+很多:DET	都:ADV	是:Vt	我:N	吃:Vt	了:ASP	一:DET	次:M	就:ADV	打死:Vt	不:ADV	想:Vt	再:ADV	吃:Vt	第二:DET	次:M	的:T	食物:N	
+雖然:C	食物:N	下面:N	都:ADV	有:Vt	在:P	保持:Vt	加溫:Vi	
+但:C	我:N	11:DET	::COLONCATEGORY	30:DET	就:ADV	進場:Vi	了:ASP	很多:DET	熱食:N	都:ADV	已經:ADV	是:Vt	半:DET	冷:Vi	的:T	狀態:N	
+服務生:N	收桌:N	收:Vt	的:T	很:ADV	勤快:Vi	比:P	桃園:N	/:FW	中壢:N	的:T	饗:Vt	食:Vt	天堂:N	我:N	想:Vt	只有:ADV	好在:ADV	裝潢:Vt	
+食物:N	是:Vt	不:ADV	分:Vt	上下:N	的:T	吃粗:Vt	飽:Vi	

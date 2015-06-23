@@ -1,0 +1,115 @@
+yeahbonnie(bonnie:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	饕鍋:N	-:DASHCATEGORY	酸菜:N	白肉御品:N	大汗:N	台北:N	大安區:N	
+Tue:FW	
+Aug:FW	
+5:DET	
+11:DET	::COLONCATEGORY	02:DET	::COLONCATEGORY	41:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	饕鍋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	8:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	復興南路:N	一段:N	269:DET	號:M	2樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2754:DET	-:DASHCATEGORY	2388:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週日:N	~:FW	三:DET	晚上:N	18:DET	::COLONCATEGORY	00:DET	~:FW	01:DET	::COLONCATEGORY	00:DET	
+週四:N	~:FW	六:N	晚上:N	18:DET	::COLONCATEGORY	00:DET	~:FW	02:DET	::COLONCATEGORY	00:DET	
+週六:N	&:FW	amp:FW	;:SEMICOLONCATEGORY	日:N	中午:N	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	400:DET	-:DASHCATEGORY	600:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	不可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	酸菜:N	白肉鍋:N	/:FW	大腸:N	頭:N	
+網誌:N	圖多無:Vt	音樂:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	yeahbonnie0227.pixnet.net/blog/post:FW	/:FW	166377459:DET	
+以下:N	純:Vi	文字檔:N	↓:FW	很:ADV	有事:Vi	的:T	我:N	是:Vt	夏天:N	也:ADV	一定:ADV	要:ADV	吃:Vt	鍋:N	的:T	人:N	決定:Vt	走:Vi	在:P	路:N	上:N	有:Vt	什麼:DET	麻辣:A	火鍋:N	就:ADV	進去:Vi	吃:Vt	於是:C	我們:N	看到:Vt	了:ASP	
+饕鍋:N	
+那:DET	就:ADV	試試看:Vt	吧:T	復興南路:N	一段:N	這:DET	有:Vt	很多:DET	小吃店:N	
+平日:N	中:POST	晚餐:N	時間:N	總是:ADV	滿滿:Vi	人潮:N	饕鍋:N	的:T	牆:N	上:N	招牌:N	相當:ADV	明顯:Vi	
+但:C	實際:Vi	要:ADV	進入:Vt	店:N	內:N	
+就:ADV	得:ADV	張大:Vt	眼:N	了得:Vi	從:P	一:DET	個:M	小:Vi	樓梯:N	上去:Vi	
+二樓:N	右轉:Vi	
+饕鍋:N	就:ADV	到:Vt	囉:T	
+七夕:N	的:T	中午:N	
+現場:N	客人:N	零散:Vi	
+約:ADV	四:DET	桌:M	客人:N	
+生意:N	普普通通:Vi	放眼:Vt	望去:Vi	內:POST	裝潢:Vt	古色古香:Vi	白天:N	拍照:Vi	竟然:ADV	有點:ADV	朦朧美:N	加上:Vt	上頭:N	多:ADV	懸掛:Vt	著:ASP	燈籠:N	氣氛:N	浪漫:Vi	懷舊:Vi	內:POST	裝潢:N	一共:ADV	七:DET	桌:M	
+約:ADV	能:ADV	容納:Vt	40:DET	位:M	客人:N	
+看:Vt	了:ASP	一下:N	菜單:N	
+是:Vt	單點:N	非:ADV	吃到:Vt	飽:Vi	的:T	料理:N	鍋:N	底:POST	酸菜:N	白肉御品:N	大汗:N	
+麻辣:A	鍋:N	
+養生:Nv	藥膳:N	當然:ADV	要:ADV	來:ADV	個:M	麻辣:A	與:C	酸:Vi	白菜:N	的:T	鴛鴦:N	鍋:N	囉:T	在:P	上:N	鍋:N	前:POST	隨意:Vi	晃:Vt	了:ASP	一下:N	店:N	內:N	因為:C	
+鍋:N	底:POST	不:ADV	是:Vt	點:Vt	了:ASP	就:ADV	上:Vt	
+大概:ADV	得:ADV	等:Vt	個:M	10:DET	-:DASHCATEGORY	15:DET	分鐘:M	先:ADV	來:ADV	看看:Vt	沾醬區:N	一共:ADV	八:DET	樣:M	沾醬:N	與:C	雞蛋:N	有:Vt	基本:A	的:T	醬油:N	、:PAUSECATEGORY	沙茶:N	、:PAUSECATEGORY	炒:Vt	辣椒油:N	、:PAUSECATEGORY	蔥花:N	以及:C	花生粉:N	等等:POST	我:N	只:ADV	用:Vt	了:ASP	些:M	基本:A	調味:N	但:C	其實:ADV	整:DET	餐:M	下來:POST	調味料:N	派:Vt	不:ADV	大上:Vt	用場:N	因為:C	火:N	鍋料:N	相當:Vi	入味:N	調味區:N	後方:N	有:Vt	一:DET	排:M	照片:N	
+相當:ADV	眼熟:Vi	主播:N	陳海茵:N	、:PAUSECATEGORY	藝人:N	蔣偉文:N	、:PAUSECATEGORY	沈玉琳都曾是座:N	上:N	嘉賓:N	一:DET	旁:N	還:ADV	有:Vt	飲料區:N	其實:ADV	邊:ADV	邊:ADV	貼有:Vt	
+打卡:Vi	送:Vt	飲品:N	
+但:C	只:ADV	限定:Vt	一:DET	瓶:M	易開罐:N	喲:T	或者:C	可以:ADV	付費:Vi	選擇:Vt	台灣:N	啤酒:N	、:PAUSECATEGORY	烏龍茶:N	、:PAUSECATEGORY	維大利:N	等等:POST	拍:Vt	了:ASP	一:DET	輪:M	
+當日:N	小菜:N	先:ADV	上桌:Vi	惹干絲:Vt	有:Vt	煮軟:Vi	但:C	盤:N	底:POST	有點:ADV	油:Vi	接著:ADV	就:ADV	是:Vt	主角:N	啦:T	
+鴛鴦:N	鍋:N	來:ADV	惹:Vt	
+有沒有:ADV	
+兩:DET	鍋:M	餡料:N	滿:ADV	滿滿:Vi	
+麻辣:A	鍋:N	這邊:N	可以:ADV	看見:Vt	裡頭:N	有:Vt	許多:DET	中藥材:N	有:Vt	聽說:Vt	過:ASP	他們:N	的:T	麻辣:A	鍋:N	非常:ADV	
+香甜:Vi	
+果真:ADV	
+不但:C	甜:Vi	還:ADV	會:ADV	回甘:Vi	
+目前:N	還:ADV	沒:ADV	喝:Vt	過:ASP	這:DET	種:M	口感:N	的:T	麻辣:A	鍋:N	
+除了:P	中藥材:N	枸杞:N	等等:POST	
+還:ADV	能:ADV	看到:Vt	一:DET	小:Vi	包:Vt	原來:A	裡頭:N	是:Vt	會:ADV	讓:Vt	舌頭:N	發麻:Vi	的:T	花椒:N	
+怕:Vt	客人:N	不:ADV	小心:Vt	吃下:Vt	肚麻:N	過:ASP	頭:N	才:ADV	會:ADV	包起:Vt	這:DET	麻辣:A	大汗:N	鍋湯味偏:Vi	麻:Vi	
+但:C	沒有:Vt	
+八:DET	年:M	得:T	臭豆腐:N	
+麻麻度:N	適中:Vi	
+辣度:N	適中:Vi	吃下:Vt	鍋:N	底:POST	的:T	鴨:N	血:N	與:C	豆腐:N	
+並:C	不會:ADV	辣:Vi	到:P	想:Vt	喝:Vt	飲料:N	相對:Vi	的:T	滷:Vt	透:ADV	的:T	火鍋:N	料:N	呈現出:Vt	的:T	中藥:N	香味:N	吃起來:ADV	沒有:Vt	負擔:N	正:ADV	因為:C	沒:ADV	負擔:Vt	
+他:N	的:T	鴨血:N	就:ADV	略:ADV	顯:Vt	的:T	過於:ADV	清淡:Vi	而:C	無味:Vi	
+還好:ADV	滷:Vt	透:Vt	了:ASP	豆腐:N	好吃:Vi	程度:N	能夠:ADV	抵:Vt	過:ASP	無趣:Vi	的:T	鴨血:N	
+再:ADV	來:ADV	是:Vt	一:DET	旁:N	的:T	酸菜:N	白肉鍋:N	今天:N	我們:N	情侶:N	倆狂:N	喝:Vt	
+因為:C	它:N	的:T	酸:Vi	白菜:N	夠:ADV	酸:Vi	
+湯頭:N	夠:ADV	甘:Vi	
+裡面:N	除了:P	滿滿:Vi	白菜:N	還:ADV	有:Vt	些許:DET	白:Vi	肉片:N	、:PAUSECATEGORY	凍:Vt	豆腐:N	老闆:N	說:Vt	他們:N	在:P	醃製:Vt	時:POST	
+增添:Vt	辣椒:N	、:PAUSECATEGORY	蒜頭:N	等:POST	辛:DET	香料:N	再:ADV	與:P	老滷:N	汁:N	及:C	高粱酒:N	共同:A	發酵:Vi	而:C	成:Vt	兩:DET	個:M	禮拜:N	後:POST	就:ADV	能:ADV	進入:Vt	客人:N	口:N	中:N	囉:T	
+看看:Vt	店:N	內:N	擺滿:Vt	老闆:N	醃製:Vt	的:T	白菜:N	
+就是:C	要:ADV	讓:Vt	人:N	放心:Vt	清楚:Vi	看見:Vt	我們:N	吃:Vt	的:T	白菜:N	從:P	哪來:ADV	
+再:ADV	來:ADV	看看:Vt	我們:N	今天:N	點:Vt	了:ASP	什麼:DET	料:N	1:DET	.:PERIODCATEGORY	藥膳:N	大腸:N	NT:FW	290:DET	我們:N	只:ADV	點:Vt	了:ASP	半:DET	份:M	因為:C	太:ADV	餓:Vi	了:ASP	還:ADV	沒:ADV	拍:Vt	就:ADV	丟:Vt	下鍋:Vi	
+悲劇:N	沒關係:Vi	
+趕快:ADV	再:ADV	撈出:Vt	來:ADV	給:Vt	大家:N	看:Vt	一下:N	處理:Vt	的:T	很:ADV	乾淨:Vi	
+沒有:Vt	腥味:N	
+切:Vt	的:T	也:ADV	很:ADV	厚:Vi	不:ADV	小氣:Vi	半:DET	份:M	大約:ADV	7:DET	-:DASHCATEGORY	9:DET	片:M	怕:Vt	沒:ADV	煮熟:Vi	會:ADV	拉肚子:Vi	放:Vt	在:P	鍋:N	內:N	煮:Vt	滿:ADV	久:Vi	的:T	撈出:Vt	來:ADV	果然:ADV	沒:ADV	讓:Vt	我們:N	失望:Vi	非常:ADV	入:Vt	味:N	
+大腸:N	本身:N	的:T	鹹味:N	外:POST	還:ADV	有:Vt	中藥:N	甘甜:Vi	
+2:DET	.:PERIODCATEGORY	台灣:N	黃:N	牛肉:N	NT:FW	360:DET	只:M	點:Vt	半:DET	份:M	台灣:N	牛:N	跟:P	外國:N	牛:N	味道:N	有:Vt	什麼:DET	差:Vi	大概:ADV	就:ADV	是:Vt	台灣:N	牛:N	肥肉:N	較少:Vi	口感:N	偏:ADV	硬:Vi	但:C	我們:N	實際:Vi	滷:Vt	過:ASP	口感:N	並:ADV	不:ADV	硬:ADV	也:ADV	沒有:Vt	可怕:Vi	的:T	牛:N	腥味:N	唷:T	3:DET	.:PERIODCATEGORY	綜合:A	丸子:N	NT:FW	150:DET	一共:ADV	四:DET	種:Vt	丸子:N	：:COLONCATEGORY	花枝丸:N	
+虱目魚丸:N	
+紅麴:N	丸:M	
+燕:N	丸丸:DET	類:M	並:ADV	沒有:Vt	太:ADV	大:Vi	特色:N	而且:C	
+紅麴丸:N	吃:Vt	出來:Vi	的:T	味道:N	是:Vt	一:DET	種:M	臘味:N	只:ADV	吃:Vt	了:ASP	半:DET	個:M	剩下:Vt	的:T	叫:Vt	wen:FW	吃光:Vt	要:ADV	惜福:Vi	
+4:DET	.:PERIODCATEGORY	綜合:A	菇類:N	NT:FW	180:DET	裡頭:N	有:Vt	金針菇:N	、:PAUSECATEGORY	杏:N	鮑:N	菇:N	等等:POST	中規中矩:Vi	的:T	食材:N	
+碰到:Vt	好:Vi	的:T	湯頭:N	讓:Vt	你:N	上:Vt	天堂:N	菇類:N	放:Vt	在:P	麻辣湯:N	中:POST	
+不用:ADV	沾醬:N	就:ADV	非常:ADV	入:Vt	味:N	、:PAUSECATEGORY	甘甜:Vi	
+最後:N	送上:Vt	木耳:N	甜點:N	
+其他:DET	吃:Vt	不:ADV	完:Vi	的:T	就:ADV	打包:Vi	囉:T	
+要:ADV	惜福:Vi	
+ＢＯＢＯ:FW	小結:N	交通:N	3:DET	星:N	：:COLONCATEGORY	捷運:N	復興:Vt	站:Vi	五:DET	號:M	出口:Nv	
+得:ADV	再:ADV	走:Vi	個:M	10:DET	分鐘:M	左右:POST	
+但:C	對:P	開車族:N	來:ADV	說:Vt	相當:ADV	方便:Vi	
+對面:N	就:ADV	有:Vt	停車場:N	囉:T	
+服務:Vt	3:DET	星:N	：:COLONCATEGORY	態度:N	一般:POST	
+店:N	內:N	只有:C	老闆:N	跟:P	店員:N	兩:DET	人:N	
+鍋:N	底:N	上菜:Vi	速度:N	比較:ADV	慢:Vi	
+食物:N	4:DET	星:N	：:COLONCATEGORY	平均:Vi	四:DET	星:N	
+五:DET	星:N	給:Vt	回甘:Vi	的:T	用心湯:N	底:POST	
+饕鍋:N	的:T	肉類:N	值得:Vi	四:DET	星:N	
+至於:P	火鍋:N	料:N	等:POST	
+雖然:C	中規中矩:Vi	卻:ADV	沒有:ADV	令:Vt	人:N	驚艷:Vi	的:T	感覺:N	
+一般:A	般:POST	只:ADV	能:ADV	拿:Vt	3:DET	顆:M	心:N	
+環境:N	3:DET	星:N	：:COLONCATEGORY	是:Vt	一:DET	個:M	比較:ADV	隨性:Vi	的:T	店家:N	
+桌:N	上:POST	還:ADV	殘:Vi	有:Vt	上:DET	一:DET	桌:M	留下:Vt	沒:ADV	擦乾淨:Vi	的:T	污漬:N	
+但:C	裝潢:N	算是:Vt	用心:Vi	
+古色古香:Vi	
+價位:N	3:DET	星:N	：:COLONCATEGORY	不:ADV	便宜:Vi	喲:T	
+我們:N	兩:DET	人:N	四:DET	道:M	菜:N	要價:Vt	1015:DET	
+不:ADV	是:Vt	想:Vt	吃:Vt	就:ADV	吃:Vt	的:T	價位:N	
+但:C	頗:ADV	適合:Vi	多:Vi	人:N	聚餐:Vi	
+因為:C	四:DET	道:M	菜:N	看似:Vt	少:Vi	
+實際:Vi	上:POST	我們:N	完全:ADV	吃:Vt	不:ADV	完:Vi	
+至少:ADV	打包:Vi	了:ASP	1:DET	/:FW	4:DET	
+再:ADV	訪率:N	4:DET	星:N	：:COLONCATEGORY	算是:Vt	意外:N	發現:Vt	的:T	火鍋店:N	
+湯:N	底:POST	太:ADV	優秀:Vi	
+也:ADV	有:Vt	許多:DET	聽說:Vt	好吃:Vi	的:T	
+川:N	丸子:N	
+等:POST	還:ADV	沒:ADV	吃:Vt	過:ASP	
+期待:Vt	下:DET	次:M	再:ADV	來:ADV	品嘗:Vt	看看:Vt	以上:POST	
+謝謝:Vt	大家:N	^:FW	^:FW	--:DASHCATEGORY	

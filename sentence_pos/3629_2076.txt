@@ -1,0 +1,81 @@
+Weeci:FW	(:PARENTHESISCATEGORY	橘色:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	唐宮:N	蒙古:N	烤肉:N	涮羊肉:N	餐廳:N	
+Thu:FW	
+Oct:FW	
+9:DET	
+16:DET	::COLONCATEGORY	48:DET	::COLONCATEGORY	24:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	唐宮:N	蒙古:N	烤肉:N	涮羊肉:N	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	9月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	松江路:N	283:DET	號:M	2樓:N	
+電話:N	：:COLONCATEGORY	0225026762:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	500:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可以:ADV	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+圖文:N	分享:Vt	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	mustann.pixnet.net/blog/post:FW	/:FW	188269899:DET	
+蒙古:N	烤:Vt	肉:N	是:Vt	我:N	在:P	若干:DET	年:M	年:M	前:POST	在:P	夜市:N	吃:Vt	的:T	
+在:P	大排長龍:Vi	中:POST	享受:Vt	那:DET	股:M	撲鼻:Vi	而:C	來:ADV	鐵板味:N	
+等到:P	排到:Vt	我:N	的:T	時候:N	
+玲瑯滿:N	目的菜:N	
+我:N	都:ADV	眼花:Vi	了:T	
+那:DET	時候:N	吃到:Vt	這:DET	種:M	玩意兒:N	
+在:P	鐵板:N	上:N	烤肉:N	
+真是:ADV	很:ADV	新鮮:Vi	
+味道:N	也:ADV	難忘:Vt	::COLONCATEGORY	D:FW	
+同事:N	介紹:N	、:PAUSECATEGORY	朋友:N	介紹:N	、:PAUSECATEGORY	還:ADV	有:ADV	部落格:N	介紹:Vt	
+這:DET	次要:A	吃:Vt	的:T	是:Vt	唐宮:N	蒙古:N	烤肉:N	
+才:ADV	一:ADV	進去:Vi	
+就:ADV	看到:Vt	滿滿:Vi	的:T	人:N	
+這:DET	其實:ADV	可以:ADV	當作:Vt	一:DET	次:M	烤肉:N	聚會:Vi	啦:T	
+如果:C	吃膩:Vt	了:ASP	燒烤:Vt	的:T	及:C	戶外:N	烤肉:N	
+可以:ADV	來:ADV	吃吃:Vt	看:Vt	
+來:ADV	這裡:N	呢:T	
+我:N	覺得:Vt	點:Vt	兩:DET	吃:Vt	的:T	比較:ADV	划算:Vi	
+可以:ADV	吃吃:Vt	蒙古:N	烤肉:N	
+再:ADV	吃:Vt	一下:N	酸菜:N	白肉鍋:N	
+蠻:ADV	過癮:Vi	的:T	
+今天人:N	頗多:Vi	的:T	
+好像:ADV	平常:Vi	就:ADV	這樣:Vi	多:Vi	人:N	
+就:ADV	要:ADV	趕快:ADV	去:ADV	排隊:Vi	啦:T	
+先:ADV	去:ADV	夾:Vt	幾:DET	盤:M	蒙古:N	烤肉:N	來:ADV	吃吃:Vt	
+這些:DET	倒是:ADV	在:P	鐵板:N	上:N	一個個:DET	地:N	蹦出:Vt	味道:N	了:T	
+香:Vi	蔥:N	有:Vt	洋蔥:N	的:T	甜味:N	、:PAUSECATEGORY	還:ADV	有:Vt	空心菜:N	的:T	香氣:N	、:PAUSECATEGORY	番茄:N	不錯:Vi	吃:Vt	
+頗:ADV	不錯:Vi	的:T	
+吃:Vt	了:ASP	2:DET	round:FW	
+發現:Vt	不要:ADV	用:Vt	太:ADV	油:Vi	
+不然:C	肚子:N	好:ADV	膩:Vi	喔:T	
+再:ADV	來:ADV	就是:C	喝:Vt	一下:N	酸菜:N	白肉鍋:N	
+覺得:Vt	味道:N	蠻:ADV	不錯:Vi	的:T	
+不:ADV	夠:ADV	酸:Vi	
+裏頭:N	小姐:N	會:ADV	來:ADV	補:Vt	白菜:N	
+總:ADV	覺得:Vt	酸:Vi	會:ADV	解:Vt	油膩:Vi	
+有:Vt	羊肉:N	跟:P	豬肉:N	可以:ADV	涮:b	
+也:ADV	因為:C	肉片:N	很:ADV	薄:Vi	
+算:Vt	幾:DET	秒:M	就:ADV	可以:ADV	上桌:Vi	了:ASP	
+話:N	說:Vt	涮羊肉:N	真的:ADV	比:P	涮:b	豬肉:N	還:ADV	有:Vt	味道:N	
+真的:ADV	很:ADV	對味:Vi	
+挺:ADV	不錯:Vi	的:T	
+其實:ADV	白肉鍋:N	其他:DET	的:T	我:N	都:ADV	沒:Vt	啥:DET	吃:Vt	
+總:ADV	覺得:Vt	要:ADV	來:ADV	吃:Vt	酸菜:N	、:PAUSECATEGORY	白肉:N	、:PAUSECATEGORY	喝:Vt	點湯:Vi	
+湯:N	有:Vt	用:P	蝦米味:N	
+挺:ADV	香:Vi	的:T	
+再:ADV	吃:Vt	一下:N	烤肉:N	若:C	盤:N	
+感覺:Vt	很:ADV	不錯:Vi	
+飲料:N	的:T	話:N	呢:T	
+就是:C	要:ADV	解渴:Vi	啦:T	
+但:C	這裡:N	的:T	飲料:N	不:ADV	便宜:Vi	喔:T	
+還:ADV	有:Vt	甜點:N	
+這裡:N	有:Vt	剉冰:N	、:PAUSECATEGORY	燒:Vt	仙草:N	還:ADV	有:Vt	生菜:N	、:PAUSECATEGORY	冰淇淋:N	
+冰淇淋:N	就:ADV	還好:Vi	&:FW	gt:FW	
+”:FW	&:FW	lt:FW	
+不:ADV	是:Vt	甚麼:DET	大:Vi	牌子:N	
+印象:N	中:POST	還是:ADV	喜歡:Vt	H:FW	牌:N	的:T	啦:T	
+大致上:ADV	烤肉:N	的:T	肉質:N	及:C	配料:N	都:ADV	很:ADV	不錯:Vi	
+很:ADV	好吃:Vi	
+不要:ADV	太:ADV	油:Vi	的:T	其實:ADV	可以:ADV	吃:Vt	好幾:DET	碗:M	
+還:ADV	又:ADV	超:Vt	解膩:Vi	的:T	酸菜:N	白肉鍋:N	
+但:C	剉冰:N	紅豆:N	跟:P	花:Vt	豆:N	蠻:ADV	硬:Vi	的:T	..:ETCCATEGORY	比較:ADV	偏好:Vt	嫩嫩:Vi	的:T	會:ADV	更:ADV	好吃:Vi	
+跟:P	家人:N	來:ADV	也:ADV	蠻:ADV	適合:Vi	的:T	
+記錄:Vt	我:N	的:T	愜意:Vi	生活:N	&:FW	amp:FW	
+料理:N	實作:Nv	
+http:FW	::COLONCATEGORY	/:FW	/:FW	mustann.pixnet.net/blog/post:FW	/:FW	179361126:DET	

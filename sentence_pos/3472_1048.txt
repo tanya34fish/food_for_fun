@@ -1,0 +1,67 @@
+jiayunjiayun(jiayun:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	L'IDIOT:FW	驢子:N	餐廳:N	
+Thu:FW	
+Aug:FW	
+28:DET	
+11:DET	::COLONCATEGORY	22:DET	::COLONCATEGORY	52:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	L'IDIOT:FW	驢子:N	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	104:DET	林森北路:N	369:DET	號:M	華泰:N	王子:N	大:Vi	飯店:N	1:DET	F:FW	
+電話:N	：:COLONCATEGORY	0225818111:DET	#:FW	1511:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	Mon-Sun:FW	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	NT:FW	$:FW	1000:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+推薦:Vt	菜色:N	：:COLONCATEGORY	牛排:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.lidiotrestaurant.com:FW	/:FW	
+圖文並茂:Vi	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	jamieq8888.blogspot.tw/2014/08/l.htmlFacebook:FW	上:N	有:Vt	位:M	朋友:N	大概:ADV	每:DET	個:M	月:N	都:ADV	會:ADV	在:P	驢子:N	餐廳:N	打卡:Vi	、:PAUSECATEGORY	分享:Vt	美食:N	照片:N	
+連續:ADV	看:Vt	了:ASP	幾:DET	個:M	月:N	後:POST	
+終於:ADV	按捺:Vt	不:ADV	住:Vt	好奇心:N	訂:Vt	了:ASP	餐廳:N	和:C	好友:N	在:P	下班:Vi	後:POST	去:ADV	品嚐:Vt	到底:ADV	是:Vt	怎樣:Vi	的:T	魔力:N	可以:ADV	讓:Vt	人:N	月月:DET	拜訪:Vt	
+原本:ADV	位於:Vt	民生東路:N	上:N	驢子:N	餐廳:N	
+後:N	因:C	租約:N	到期:Vi	
+現在:N	遷至:Vt	華:N	泰:N	王子:N	飯店:N	的:T	一樓:N	
+交通:N	上:POST	十分:ADV	方便:Vi	
+一:ADV	踏入:Vt	餐廳:N	
+簡約:Vi	的:T	現代:Vi	裝潢:N	十分:ADV	讓:Vt	人:N	放鬆:Vt	
+店:N	內:N	幾乎:ADV	都:ADV	是:Vt	使用:Vt	這:DET	種:M	鎢絲燈:N	泡:Vt	
+亮度:N	雖:C	不如:Vt	一般:A	燈泡:N	來:Vi	的:T	亮:Vi	
+卻:ADV	給:Vt	人:N	一:DET	種:M	很:ADV	柔和:Vi	放鬆:Vt	的:T	感覺:N	
+著實:ADV	替:P	店:N	內:N	氣氛:N	加:Vt	了:ASP	不少:DET	分:M	
+店家:N	所:ADV	贈送:Vt	的:T	餐:N	前:POST	開胃:Vi	麵包:N	
+烤:Vt	得:T	酥脆:Vi	的:T	切片:N	法國:N	麵包:N	
+上頭:N	擺:Vt	著:ASP	蕃茄:N	泥:N	和:C	甜椒:N	
+一:DET	軟:Vi	一:DET	脆:Vi	的:T	組合:Nv	和:C	烤:Vt	過:ASP	之後:POST	的:T	蔬菜:N	香:N	相當:ADV	好吃:Vi	
+也:ADV	為:Vt	晚餐:N	展開:Vt	序曲:N	
+詢問:Vt	了:ASP	服務:Nv	人員:N	後:POST	得知:Vt	今日:N	湯品:N	為:Vt	蘑菇:N	濃湯:N	
+我:N	最愛:N	的:T	湯品:N	前:DET	三:DET	名:M	
+入口:N	菇類:N	豐富:Vt	的:T	香氣:N	、:PAUSECATEGORY	濃郁:Vi	滑順:N	的:T	口感:N	讓:Vt	我:N	很:ADV	快:Vi	就:ADV	喝完:Vt	這:DET	道:M	湯:N	
+點餐:N	前:POST	
+服務:Nv	人員:N	特別:Vi	推薦:Vt	牛排:N	
+採用:Vt	西班牙:N	進口:Vt	的:T	烤爐:N	
+薰烤:Vt	的:T	木材:N	則:ADV	是:Vt	白:Vi	橡木桶:N	木屑:N	
+不僅:C	使:Vt	肉類:N	有:Vt	著:ASP	獨特:Vi	的:T	柴:N	香味:N	還可以:ADV	將:P	肉類:N	的:T	香味:N	甜味:N	鎖住:Vt	
+一切:DET	下:POST	
+肉香:N	四溢:Vi	
+牛排:N	的:T	外層:N	烤:Vt	得:T	略:ADV	焦:Vi	
+水分:N	較少:ADV	卻:ADV	紮實:Vi	有:Vt	嚼:Vt	勁:N	
+內層:N	部分:DET	可以:ADV	感受到:Vt	肉質:N	的:T	細緻:Vi	
+軟嫩:Vi	可口:Vi	
+可以:ADV	說:Vt	是:Vt	鮮嫩:Vi	到:Vt	入口:N	即:ADV	化:Vi	的:T	地步:N	
+配菜:N	的:T	部分:DET	也:ADV	不:ADV	馬虎:Vi	
+玉米:N	筍:N	鮮:Vi	甜:Vi	脆:Vi	口:N	
+洋蔥:N	軟嫩甜香:N	
+馬鈴薯:N	則:ADV	細膩:Vi	綿滑佐上:Vt	荷蘭醬:N	更:ADV	添:Vt	風味:N	
+採用:Vt	義大利:N	甜香:N	杏仁酒:N	製作:Nv	而:C	成:Vt	的:T	提拉米蘇:N	
+一:DET	層:M	手指:N	餅乾:N	一:DET	層:M	起:POST	司:Vt	可可粉:N	的:T	造型:N	相當:ADV	吸睛:Vi	
+最:ADV	上:DET	層:M	疊放:Vt	咖啡:N	冰淇淋:N	
+我:N	是:Vt	一:DET	個:M	不:ADV	吃苦:Vi	的:T	人:N	
+也:ADV	吃不了:Vt	苦:Vi	
+平常:N	不:ADV	喝:Vt	咖啡:N	的:T	我:N	
+不:ADV	小心:Vt	沾到:Vt	大人:N	風味:N	咖啡:N	冰淇淋:N	
+苦:Vi	得:T	我:N	眼淚:N	都:ADV	要:ADV	流下:Vt	
+不過:C	香濃滑順:N	的:T	起:Vt	司:N	加上:C	泡:Vt	過:ASP	酒:N	的:T	手指:N	餅乾:N	和:C	可可粉:N	
+溼潤:Vi	綿密:Vi	甜:Vi	而:C	不:ADV	膩:Vi	
+微醺:Vi	的:T	甜蜜:Nv	口感:N	讓:Vt	我:N	印象:N	深刻:Vi	
+入口:N	擺放:Vt	的:T	驢子:N	玩偶:N	
+頭:N	上:POST	還:ADV	戴:Vt	了:ASP	不同:Vi	的:T	帽子:N	
+相當:ADV	可愛:Vi	

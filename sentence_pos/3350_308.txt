@@ -1,0 +1,93 @@
+spu70903(sPu:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	師大:N	夜市:N	中西:A	美食:N	-:DASHCATEGORY	極品:N	蛋捲:N	必:ADV	推:Vt	
+Thu:FW	
+Jul:FW	
+24:DET	
+22:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	34:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	中西:A	美食:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	106:DET	台北市:N	大安區:N	師大路:N	93巷:N	8:DET	號:M	
+電話:N	：:COLONCATEGORY	0223699751:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	10:DET	::COLONCATEGORY	00:DET	–:FW	23:DET	::COLONCATEGORY	00:DET	
+平均:Vi	價位:N	：:COLONCATEGORY	200:DET	~:FW	300:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	祖母:N	招牌:N	蛋捲:N	
+無:Vt	音樂:N	、:PAUSECATEGORY	圖:N	多:ADV	好:Vi	閱讀:Vt	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sputravel.pixnet.net/blog/post:FW	/:FW	161461089:DET	
+這:DET	是:Vt	一:DET	家:M	吃:Vt	過:ASP	就:ADV	會:ADV	上癮:Vi	的:T	Brunch:FW	店:N	
+第一:DET	次:M	吃:Vt	這:DET	家:M	店:N	也:ADV	大概:ADV	快:Vi	四:DET	年:M	前:POST	了:T	呢:T	
+那時:N	要:ADV	找:Vt	家:N	好吃:Vi	的:T	Brunch:FW	可:ADV	沒:ADV	這麼:ADV	容易:Vi	
+更:ADV	不用說:ADV	要:ADV	找到:Vt	一:DET	家:M	好吃:Vi	的:T	蛋捲店:N	了:T	
+早:ADV	午餐:Vi	嘛:T	
+當然:ADV	是:Vt	睡:Vi	到:P	自然:N	醒:Vi	才:ADV	前往:Vt	嚕:ADV	
+不過:C	到:P	店:N	門口:N	時人:N	還:ADV	沒:Vt	很多:DET	
+舒適:Vi	的:T	用餐:Nv	環境:N	
+跟:P	一般:A	的:T	咖啡店:N	很:ADV	像:Vt	
+接下來:ADV	是:Vt	菜單:N	的:T	部分:DET	
+這邊:N	的:T	價格:N	跟:P	一般:A	的:T	早:Vi	午餐:N	差不多:Vi	
+點:Vt	法:N	也:ADV	是:Vt	類似:Vt	
+但:C	MENU:FW	實在:ADV	太多:Vi	頁數:N	
+我:N	就:ADV	挑:Vt	幾:DET	頁:M	重點:N	放:Vt	就:ADV	好:Vi	
+All-DayBrunch:FW	
+讓:Vt	人:N	瘋狂:Vi	的:T	Omelet:FW	
+一定:A	要點:N	阿:N	
+還:ADV	有:Vt	女友點:N	的:T	漢堡:N	
+看:Vt	這:DET	價格:N	
+CP:FW	應該:ADV	不錯:Vi	高:Vi	唷:T	
+另外:C	還:ADV	有:Vt	主食:N	、:PAUSECATEGORY	開胃菜:N	、:PAUSECATEGORY	義大利麵:N	、:PAUSECATEGORY	下午茶:N	、:PAUSECATEGORY	點心:N	、:PAUSECATEGORY	飲料:N	等:POST	各式各樣:A	齊全:Vi	的:T	餐點:N	
+頁數:N	太:ADV	
+多:DET	
+我:N	就:ADV	不:ADV	全部:DET	放上:Vt	來:Vi	啦:T	
+等待:Vt	餐點:N	的:T	同時:N	來:ADV	用:P	安全帽:N	玩:Vt	一下:N	自拍:Vi	XDDD:FW	
+套餐:N	附:Vt	的:T	飲料:N	很:ADV	快:Vi	就:ADV	上:Vt	啦:T	
+這:DET	是:Vt	我:N	點:Vt	的:T	冰:N	咖啡:N	
+小瑜點:N	的:T	可樂:N	
+可以:ADV	無限:Vi	續杯:Vi	
+那天:N	喝:Vt	了:ASP	三四:DET	杯:M	吧:T	
+兩:DET	個:M	愛:Vt	喝:Vt	可樂:N	的:T	小孩子:N	XDD:FW	
+接著:ADV	就:ADV	是:Vt	祖母:N	招牌:N	蛋捲:N	
+$:FW	275:DET	
+啦:T	
+拍:Vt	的:T	我:N	口水:N	都:ADV	快:ADV	流下來:Vi	了:ASP	
+有沒有:ADV	看到:Vt	這:DET	飽滿:Vi	的:T	蛋捲:N	
+跟:P	一般:A	店家:N	蛋捲:N	鬆軟:Vi	的:T	感覺:N	完全:ADV	不:ADV	一樣:Vi	啊:T	
+淋上:Vt	番茄醬:N	看起來:ADV	更:ADV	可口:Vi	了:T	
+我:N	喜歡:Vt	吃:Vt	法國:N	吐司:N	
+還:ADV	多:ADV	加:Vt	了:ASP	30:DET	$:FW	把:P	吐司:N	都:ADV	換成:Vt	法國:N	吐司:N	
+還:ADV	有:Vt	附:Vt	一:DET	小:Vi	塊:M	薯餅:N	唷:T	
+看:Vt	上面:N	的:T	照片:N	你:N	一定:ADV	會:ADV	懷疑:Vt	
+有:Vt	這麼:ADV	好吃:Vi	嗎:T	
+那:DET	只好:ADV	拍:Vt	張:M	橫切面:N	
+讓:Vt	你:N	看看:Vt	外:POST	熟:Vi	內軟:Vi	的:T	蛋捲:N	有:Vt	多:DET	極品:N	
+三兩:DET	下:M	就:ADV	清潔:Vi	溜溜:Vi	了:T	
+畢竟:ADV	蛋捲:N	本來:ADV	就:ADV	不:ADV	是:Vt	份量:N	大:Vi	的:T	餐點:N	
+但:C	吃完:Vt	後:POST	還是:ADV	要:ADV	誇獎:Vt	中西:A	美食:N	一:DET	番:M	
+不得不:ADV	說:Vt	現在:N	Brunch:FW	店:N	這麼多:DET	
+最:ADV	美味:Vi	的:T	蛋捲:N	還是:C	這:DET	
+家阿:N	
+接著:ADV	是:Vt	小瑜點:N	的:T	牛肉:N	培根:N	漢堡:N	
+$:FW	230:DET	
+算是:Vt	常見:Vi	的:T	基本:A	組合:Nv	
+但:C	有:Vt	生菜:N	+:FW	薯條:N	+:FW	可樂:N	無限:Vi	續:ADV	
+到:P	飽:Vi	
+完全:ADV	就:ADV	被:P	後:DET	兩:DET	項:M	吸引:Vt	
+想:Vt	都:ADV	沒:ADV	想:Vt	就:ADV	決定:Vt	點:DET	個:M	漢堡:N	套餐:N	了:T	
+原:ADV	以為:Vt	漢堡:N	應該:ADV	弱弱:Vi	的:T	
+沒想到:ADV	這邊:N	的:T	漢堡:N	也:ADV	滿:ADV	美味:Vi	的:T	呢:T	
+除了:P	漢堡:N	皮相:N	當:Vt	普通:Vi	外:POST	
+內:N	餡:N	的:T	起:Vt	司:N	、:PAUSECATEGORY	牛肉:N	都:ADV	有:Vt	不錯:Vi	的:T	水準:N	
+搭配:Vt	培根:N	這:DET	種:M	基本:A	組合:Nv	就:ADV	足:Vt	
+以:P	嶄露:Vt	它:N	的:T	美味:N	
+像:P	這樣:Vi	吃飽:Vi	喝足:Vi	
+結帳:Vi	的:T	費用:N	還:ADV	不:ADV	到:Vt	六百:DET	塊:M	
+個:M	人:N	覺得:Vt	這:DET	幾:DET	年:M	的:T	漲價:Vi	幅度:N	算:Vt	小:Vi	的:T	
+比起:P	永康:N	、:PAUSECATEGORY	東區:N	一些:DET	早:Vi	午餐店:N	
+動不動:ADV	就:ADV	要:ADV	三四百:DET	塊:M	以上:POST	
+在:P	這:DET	一:DET	人:N	不:ADV	到:Vt	三百:DET	還:ADV	算是:Vt	可:ADV	接:Vt	
+受:Vt	的:T	啦:T	
+重點:N	是:Vt	這邊:N	有:Vt	無敵:Vi	好吃:Vi	的:T	祖母:N	蛋捲:N	阿:N	
+臨走:ADV	前:POST	還:ADV	拍:Vt	了:ASP	一下:N	店:N	內:N	貓咪:N	的:T	懶樣:N	才:ADV	離開:Vt	XDD:FW	
+也:ADV	太:ADV	懶:Vi	了:T	吧:T	
+逗:Vt	她:N	都:ADV	不理:Vt	
+如果:C	覺得:Vt	文章:N	不錯:Vi	記得:Vt	點:Vt	石布:N	的:T	粉絲團:N	支持:Vt	一下:N	唷:T	
+^:FW	0:DET	^:FW	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/sputravel:FW	

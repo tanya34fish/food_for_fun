@@ -1,0 +1,88 @@
+hatawa(Hatawa:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	內湖:N	*:FW	Sincerita:FW	心義:N	義式:A	風味:N	廚房:N	
+Thu:FW	
+Jul:FW	
+31:DET	
+20:DET	::COLONCATEGORY	55:DET	::COLONCATEGORY	03:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	Sincerita:FW	心義:N	義式:A	風味:N	廚房:N	
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	內湖路:N	一段:N	323巷:N	9:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2659:DET	-:DASHCATEGORY	1900:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週日:N	11:DET	::COLONCATEGORY	30:DET	~:FW	13:DET	::COLONCATEGORY	4517:DET	::COLONCATEGORY	30:DET	~:FW	20:DET	::COLONCATEGORY	45:DET	
+好吃:Vi	圖文:N	在:P	裡面:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/xGPv:FW	
+＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	
+上:DET	次:M	誤打誤撞:Vi	發現:Vt	這:DET	家:M	義大利麵:N	好吃:Vi	的:T	店家:N	
+詳見:Vt	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/13o:FW	0:DET	
+之後:N	某天:N	看到:Vt	Gomaji:FW	上:N	開:Vt	了:ASP	團購:Vt	
+趕快:ADV	下手:Vi	買:Vt	兩:DET	張:M	起來:Vi	囤阿:N	
+看看:Vt	有:Vt	多:ADV	划算:Vi	：:COLONCATEGORY	兩:DET	人:N	２９９:DET	
+主餐:N	限定:Nv	款:N	義大利麵:N	或:C	燉:Vt	飯:N	選:Vt	２:DET	、:PAUSECATEGORY	附:Vt	濃湯:N	、:PAUSECATEGORY	麵包:N	、:PAUSECATEGORY	脆薯:N	、:PAUSECATEGORY	生:Vt	
+菜:N	沙拉:N	、:PAUSECATEGORY	甜點:N	、:PAUSECATEGORY	飲料:N	無限:Vi	暢飲:Vt	
+非常:ADV	超值:Vi	與:C	期待:Nv	
+供:Vt	填寫:Vt	的:T	團購券:N	Menu:FW	單:A	
+這:DET	次:M	主餐:N	選:Vt	了:ASP	：:COLONCATEGORY	莫札瑞:N	拉起司:N	肉醬麵:N	／:FW	青醬:N	雞肉:N	燉飯:Vt	
+面對:Vt	飢腸轆轆:Vi	的:T	我們:N	
+濃湯:N	與:C	麵包:N	很:ADV	快:Vi	的:T	先:ADV	送上來:Vt	了:ASP	
+玉米:N	洋蔥湯:N	
+納塔:N	覺得:Vt	比:P	上:DET	次:M	的:T	胡蘿蔔:N	雞蓉湯:N	還:ADV	要:ADV	遜色:Vi	一點:ADV	
+但:C	也:ADV	是:Vt	不錯:Vi	喝:Vt	的:T	
+好:ADV	喜歡:Vt	麵包:N	塗抹:Vt	得:T	很:ADV	均勻:Vi	下去:ASP	烤:Vt	的:T	樣子:N	
+感覺:N	就:ADV	很:ADV	有:Vt	誠意:N	
+簡單:Vi	的:T	香蒜:N	麵包:N	烤:Vt	的:T	酥酥:Vi	、:PAUSECATEGORY	趁熱:ADV	送上來:Vt	趕快:ADV	吃:Vt	幾乎:ADV	是:Vt	不會:ADV	踩雷:Vt	
+他們:N	的:T	薯條:N	真的:ADV	大推:Vt	
+一樣:Vi	現炸:Vi	送上來:Vt	熱:N	呼呼:ADV	超燙:Vi	口:N	
+外脆內:N	鬆軟:Vi	
+超:Vt	快:Vi	就:ADV	能:ADV	掃:Vt	盤:N	
+生菜:N	還是:ADV	要:ADV	推:Vt	一下:N	
+很:ADV	喜歡:Vt	這:DET	個:M	瓷:N	碗:N	的:T	駛袋:N	歐:N	
+印象:N	中上:A	次:M	也:ADV	有:Vt	提到:Vt	這:DET	碗:M	有:Vt	事先:ADV	冰鎮:A	過:N	很:ADV	
+用心:Vi	
+這:DET	次:M	的:T	醬汁:N	換成:Vt	藍莓:N	優格:N	醬:N	
+正:ADV	哭:Vi	哭:Vi	想念:Vt	著上:Vt	次:M	有:Vt	著:ASP	一點:DET	巴薩米:N	可:ADV	醋:N	風味:N	的:T	和風醬:N	
+A:FW	蘯氶:b	A:FW	菜葉:N	搭:Vt	著:ASP	藍莓醬:N	入口:N	
+竟:ADV	也:ADV	出乎意料:Vi	的:T	喜歡:Vt	
+這:DET	不:ADV	小心:Vt	也:ADV	清:Vt	碗:N	了:T	
+納塔:N	這:DET	次:M	吃:Vt	的:T	是:Vt	：:COLONCATEGORY	莫札瑞:N	拉起司:N	肉醬麵:N	
+他們:N	家:N	的:T	蕃茄:N	醬汁:N	煮:Vt	的:T	挺:ADV	出色:Vi	
+有:Vt	許多:DET	香料:N	融合:Vt	去:ADV	熬:Vt	煮:Vt	的:T	蕃茄:N	味道:N	
+融合:Vt	大大:Vi	塊狀:N	的:T	莫札:N	
+瑞:N	拉起司:N	很:ADV	順口:Vi	
+小:Vi	尼點:N	的:T	：:COLONCATEGORY	青醬:N	雞肉:N	燉飯:Vt	
+可惡:Vi	阿:N	我:N	不禁:Vt	要:ADV	吶喊:Vi	這:DET	比:P	我:N	的:T	肉醬麵:N	還要:ADV	豐富:Vt	許多:DET	
+論擺盤:N	就:ADV	不得了:Vi	阿:N	
+上頭:N	
+是:Vt	炸:Vt	南瓜片:N	
+紫色:N	有點:ADV	忘:Vt	了:ASP	感覺:N	是:Vt	炸:Vt	芋頭片:N	
+絲狀物:N	入口:N	之後:POST	才:ADV	知道:Vt	是:Vt	炸:Vt	馬鈴薯:N	絲:N	
+搭上:Vt	
+青醬:N	口味:N	的:T	燉飯:Vt	意外:N	的:T	合拍:Vt	
+炸:Vt	過:ASP	的:T	馬鈴薯:N	香味:N	會:ADV	淡淡:Vi	的:T	與:P	青醬:N	一同:ADV	混:Vt	和:C	
+沒:ADV	拍到:Vt	裡頭:N	的:T	
+雞肉:N	塊:N	有:Vt	多:DET	豐富:Vt	．．．:ETCCATEGORY	感覺:N	上:POST	幾乎:ADV	都:ADV	是:Vt	Ｑ:FW	嫩:Vi	雞腿肉:N	
+而且:C	已經:ADV	數不清:Vi	吃:Vt	了:ASP	幾:DET	塊:M	
+甜點:N	時間:N	
+預設:Vt	本來:ADV	以為:Vt	是:Vt	像:P	上:DET	次:M	一樣:Vi	的:T	奶酪:N	上場:Vi	
+沒:ADV	想到:Vt	是:Vt	盆栽:N	造型:N	的:T	提拉米蘇:N	
+光:ADV	是:Vt	造型:N	已經:ADV	讓:Vt	納塔:N	捨不得:Vt	開動:Vi	了:ASP	啦:T	救命:Vi	阿:N	
+這:DET	提拉:N	是:Vt	納塔:N	最:ADV	愛:Vt	的:T	模式:N	
+：:COLONCATEGORY	８０％:DET	口感:N	上:POST	幾乎:ADV	都:ADV	是:Vt	提:Vt	拉:Vt	的:T	慕:Vt	斯:DET	
+蛋糕體:N	佔:Vt	很少:Vi	的:T	空間:N	
+真的:ADV	深得:Vt	我:N	心:N	阿:N	
+每:ADV	一口:ADV	都:ADV	超級:A	滿足:Vt	
+一般:A	外面:N	賣:Vt	的:T	提拉米蘇:N	蛋糕體:N	幾乎:ADV	都:ADV	佔:Vt	了:ASP	40:DET	-:DASHCATEGORY	70:DET	%:M	左右:POST	
+可:ADV	納塔:N	是:Vt	
+慕斯:N	或:C	奶油:N	控:Vt	
+目前:N	止:POST	唯有:ADV	吃到:Vt	心義:N	的:T	提拉:N	能:ADV	讓:Vt	我:N	身:N	心靈:N	合一:Vi	阿:N	
+我:N	誇張:Vt	了:ASP	
+在:P	心:N	義:N	不僅:C	大推:Vt	義大利麵:N	
+還:ADV	要:ADV	大:Vi	推:Vt	他們:N	的:T	甜點:N	阿:N	
+樣樣:DET	都:ADV	用心:Vi	
+現在:N	團購券:N	還:ADV	有:Vt	在:P	賣:Vt	
+之後:N	的:T	檔次:N	似乎:ADV	少:Vi	了:ASP	生菜:N	和:C	濃湯:N	的:T	供應:Vt	QQ:FW	
+不過:C	還是:ADV	很:ADV	值:Vi	啦:T	
+趕快:ADV	去:ADV	支持:Vt	一下:N	吧:T	
+▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	
+▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	
+▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	
+▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	
+▇:FW	▇:FW	▇:FW	#:FW	

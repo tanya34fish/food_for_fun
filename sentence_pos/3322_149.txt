@@ -1,0 +1,18 @@
+sprewellmins:FW	(:PARENTHESISCATEGORY	希望:Vt	能:ADV	感到:Vt	滿足:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北:N	哪裡:N	有:Vt	黑皮:N	臭豆腐:N	?:QUESTIONCATEGORY	
+Thu:FW	
+Jul:FW	
+17:DET	
+02:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	37:DET	
+2014:DET	
+請益:Vi	
+台北:N	哪裡:N	有:Vt	黑皮:N	臭豆腐:N	
+ThuJul:FW	1702:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	372014:DET	
+在:P	高雄:N	有:Vt	吃:Vt	過:ASP	
+感覺:N	就是:C	臭豆腐界:N	的:T	王者:N	
+超:Vt	好吃:Vi	
+台北:N	有:Vt	在:P	賣:Vt	嗎:T	
+另外:C	有:Vt	人:N	在:P	台北:N	吃:Vt	過:ASP	高雄:N	台南:N	口味:N	的:T	臭豆腐:N	嗎:T	
+之前:N	在:P	南:N	機場:N	吃:Vt	過:ASP	一:DET	家:M	口味:N	逼近:Vt	南部:N	味:N	的:T	臭豆腐:N	
+但:C	..:ETCCATEGORY	他:N	關:Vt	了:ASP	
+好:Vi	想:Vt	再:ADV	吃:Vt	一口:ADV	

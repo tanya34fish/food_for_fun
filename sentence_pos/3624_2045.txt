@@ -1,0 +1,48 @@
+likelihood:FW	(:PARENTHESISCATEGORY	我:N	是:Vt	北投人:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	北投:N	大樹:N	下:N	土虱:N	(:PARENTHESISCATEGORY	媽咪:N	發:Vt	奶:N	推薦:Vt	!:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+Wed:FW	
+Oct:FW	
+8:DET	
+09:DET	::COLONCATEGORY	30:DET	::COLONCATEGORY	01:DET	
+2014:DET	
+店家:N	名稱:N	：:COLONCATEGORY	大樹:N	下:N	土虱:N	
+地址:N	：:COLONCATEGORY	台北市:N	北投區:N	豐年路:N	一段:N	1:DET	號:M	
+電話:N	：:COLONCATEGORY	待查:Vi	
+營業:Nv	時間:N	：:COLONCATEGORY	待查:Vi	(:PARENTHESISCATEGORY	晚上:N	才:ADV	有:Vt	):PARENTHESISCATEGORY	
+消費:N	日期:N	：:COLONCATEGORY	2013年:N	12月:N	
+平均:Vi	個:M	人:N	費用:N	：:COLONCATEGORY	65:DET	元:M	(:PARENTHESISCATEGORY	2014年:N	70:DET	元:M	):PARENTHESISCATEGORY	
+推薦:Vt	菜色:N	：:COLONCATEGORY	土虱:N	、:PAUSECATEGORY	藥:N	燉:Vt	排骨:N	
+捷運:N	鐵路:N	：:COLONCATEGORY	捷運:N	北投:N	站:Vi	
+公車站:N	：:COLONCATEGORY	無:Vt	
+汽車:N	停車:Vi	：:COLONCATEGORY	不:ADV	好:ADV	停:Vt	，:COMMACATEGORY	可以:ADV	停:Vt	捷運站:N	停車場:N	
+機車:N	停車:Vi	：:COLONCATEGORY	路邊:N	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	babbitwang.pixnet.net/blog/post:FW	/:FW	106839482:DET	
+2013:DET	北投:N	進補:Vi	美食:N	
+大樹:N	下:N	土虱:N	
+最近:N	下雨天:N	
+天:N	涼涼:Vi	就:ADV	會:ADV	想:Vt	喝:Vt	一些:DET	湯湯水水:Vi	的:T	暖暖:N	身體:N	
+每:DET	到:P	深夜:N	
+在:P	暗暗:ADV	的:T	小:Vi	街道:N	上:N	有:Vt	
+著:Vt	亮亮:Vi	的:T	地方:N	
+這:DET	個:M	亮點:N	給予:Vt	人們:N	力量:N	與:C	溫暖:Vt	
+因為:C	通常:ADV	可能:ADV	是:Vt	24:DET	小時:N	的:T	超商:N	或是:C	賣:Vt	消夜:N	
+的:T	店家:N	
+回到:Vt	重點:N	
+北投:N	捷運站:N	附近:N	有:Vt	一:DET	間:M	晚上:N	才:ADV	會:ADV	出現:Vi	的:T	土虱:N	攤:Vt	
+如果:C	天氣:N	冷:Vi	通常:ADV	賣:Vt	得:T	
+很:ADV	好:Vi	
+搶:Vt	都:ADV	搶不到:Vt	
+以前:N	我:N	超:Vt	愛:Vt	吃:Vt	土虱:N	的:T	
+自從:P	有:Vt	胃潰瘍:N	之後:POST	每:DET	次:M	吃完:Vt	土虱:N	胃:N	都:ADV	不:ADV	舒服:Vi	
+我:N	通常:ADV	都:ADV	是:Vt	陪:Vt	白芷:N	公主:N	來:ADV	吃:Vt	
+我:N	自己:N	則:ADV	是:Vt	點:M	藥:N	燉:Vt	排骨:N	
+土虱:N	
+中:N	
+65:DET	元:M	2014年:N	調整為:Vt	70:DET	元:M	
+土虱:N	的:T	魚:N	皮:N	光:ADV	看:Vt	就:ADV	覺得:Vt	超:Vt	可口:Vi	
+閃:Vt	亮亮:Vi	的:T	膠質:N	真:ADV	讓:Vt	人:N	心動:Vi	啊:T	
+魚肉:N	刺:N	就:ADV	要:ADV	努力:Vi	拔:Vt	了:ASP	
+這:DET	是:Vt	
+吃:Vt	土虱:N	一定:ADV	要:ADV	面對:Vt	的:T	難題:N	
+拔完:Vt	之後:POST	就:ADV	可以:ADV	吃到:Vt	口感:N	綿綿:Vi	的:T	魚肉:N	嚕:ADV	
+http:FW	::COLONCATEGORY	/:FW	/:FW	pic.pimg.tw/babbitwang/1411377468-2519737448_n.jpg:FW	

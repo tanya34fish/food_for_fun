@@ -1,0 +1,80 @@
+lovecala(cala:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	SunnyThai:FW	泰味:N	小屋:N	平價:N	好吃:Vi	泰國菜:N	
+Mon:FW	
+Aug:FW	
+4:DET	
+14:DET	::COLONCATEGORY	15:DET	::COLONCATEGORY	21:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	SunnyThai:FW	泰味:N	小屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	新:Vi	北市:N	永和:N	區保平路:N	178:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	22320919:DET	
+圖文:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	lovecala.pixnet.net/blog/post:FW	/:FW	183789726:DET	
+夏天:N	到:Vt	了:ASP	
+食慾:N	總是:ADV	很:ADV	不:ADV	穩定:Vt	
+不:ADV	是:Vt	吃:Vt	不:ADV	下:Vt	就:ADV	是:Vt	想:Vt	吃重:Vi	口味:N	才:ADV	下:Vt	飯:N	
+這:DET	天:M	是:Vt	兄弟:N	姊妹:N	們:N	的:T	聚餐:Nv	
+大家:N	想來:ADV	點:Vt	酸酸:Vi	辣辣:Vi	的:T	
+於是:C	找到:Vt	了:ASP	這:DET	間:M	看起來:ADV	評價:Vt	不錯:Vi	的:T	泰味:N	小屋:N	
+他們:N	不:ADV	給:Vt	訂位:Nv	
+所以:C	我們:N	就:ADV	用餐:Vi	時間:N	早一點:ADV	去:ADV	
+在:P	永安:N	市場站:N	附近:N	就:ADV	有:Vt	兩:DET	間:M	分店:N	
+交通:N	上:N	算是:Vt	蠻:ADV	方便:Vi	的:T	
+生意:N	果然:ADV	是:Vt	很:ADV	好:Vi	
+提早:Vt	了:ASP	用餐:Nv	時間:N	還:ADV	幾乎:ADV	滿座:Vi	
+還好:ADV	有:Vt	早點:N	來:ADV	
+這:DET	是:Vt	有點:ADV	家庭式:A	的:T	感覺:N	
+沒有:Vt	什麼:DET	特別:Vi	的:T	裝潢:N	
+店裡:N	也:ADV	不:ADV	大:Vi	
+客人:N	很多:DET	我:N	也:ADV	不好意思:Vi	拍:Vt	餐廳:N	內:N	的:T	環境:N	
+就:ADV	好好:Vi	用餐:Vi	吧:T	
+菜單:N	選擇:N	還:ADV	蠻:ADV	多:Vi	的:T	
+價位:N	也:ADV	真的:ADV	都:ADV	很:ADV	平價:N	
+多點:DET	幾:DET	樣:M	大家:N	一起:ADV	吃:Vt	也:ADV	不會:ADV	心疼:Vt	
+先:ADV	來:Vi	杯:M	飲料:N	
+泰式:A	奶茶:N	蠻:ADV	好喝:Vi	的:T	
+不會:ADV	有:Vt	那:DET	種:M	茶澀味:N	很:ADV	重:Vi	的:T	感覺:N	
+另:DET	一:DET	個:M	是:Vt	芒果汁:N	也:ADV	好喝:Vi	
+夏天:N	就:ADV	是:Vt	芒果:N	的:T	季節:N	啊:T	
+涼拌:Vt	青:Vi	木瓜:N	是:Vt	我們:N	的:T	必:ADV	點:Vt	
+吃:Vt	泰國菜:N	的:T	清涼:Vi	開胃菜:N	一定:ADV	要:ADV	的:T	啊:T	
+不過:C	這裡:N	的:T	好:ADV	辣:Vi	喔:T	
+平常:N	我們:N	也:ADV	算是:Vt	有:Vt	吃:Vt	點:M	小:Vi	辣:Vi	
+結果:ADV	這:DET	一:DET	盤:M	四:DET	個:M	人:N	有:Vt	兩:DET	個:M	人:N	覺得:Vt	太:ADV	辣:Vi	
+趕緊:ADV	跟:P	店員:N	說:Vt	其他:DET	的:T	菜:N	都:ADV	小:Vi	辣:Vi	就:ADV	好:Vi	
+免得:C	接下來:ADV	的:T	每:DET	道:M	菜:N	都:ADV	很:ADV	辣:Vi	就:ADV	完:Vt	了:ASP	
+辣:Vi	炒:Vt	空心菜:N	蠻:ADV	好吃:Vi	的:T	
+就:ADV	不會:ADV	很:ADV	辣:Vi	了:T	
+我:N	印象:N	很:ADV	深:Vi	這:DET	一:DET	盤:M	60:DET	元:M	
+算是:Vt	很:ADV	經濟:Vi	實惠:Vi	的:T	價錢:N	
+雖然:C	不:ADV	是:Vt	很:ADV	大盤:N	
+但:C	幾:DET	個:M	人:N	享用:Vt	還:ADV	是:Vt	夠:Vi	的:T	
+而且:C	我:N	想:Vt	就算:C	是:Vt	兩:DET	個:M	人:N	來:ADV	吃:Vt	也:ADV	可以:ADV	點:Vt	了:ASP	三:DET	道:M	菜:N	
+吃下來:Vi	也:ADV	不:ADV	貴:Vi	
+打拋:Vi	豬肉:N	
+下:Vt	飯:N	的:T	必:ADV	點菜:Vi	
+這:DET	道:M	菜:N	通常:ADV	都:ADV	蠻:ADV	好吃:Vi	的:T	
+反正:ADV	就是:C	醬料:N	調:Vt	得:T	好:Vi	
+炒:Vt	得:T	夠味:Vi	
+肉:N	不要:ADV	炒:Vt	到:P	老:Vi	就:ADV	很:ADV	好吃:Vi	了:T	
+椒麻雞:N	大家:N	都:ADV	愛:Vt	吃:Vt	
+酥酥脆脆:Vi	的:T	外皮:N	配上:Vt	軟嫩:Vi	的:T	雞肉:N	
+酸酸甜甜:Vi	的:T	醬汁:N	
+這:DET	間:M	的:T	算是:Vt	好吃:Vi	的:T	喔:T	
+泰式:A	炒河粉:N	比較:ADV	平淡:Vi	一些:DET	
+味道:N	是:Vt	還:ADV	不錯:Vi	
+但:C	沒:Vt	什麼:DET	特別:Vi	
+以上:N	就:ADV	是:Vt	四:DET	個:M	人:N	吃:Vt	的:T	一:DET	桌:M	
+因為:C	有:Vt	人:N	沒:ADV	很:ADV	餓:Vi	所以:C	沒:ADV	點:Vt	很多:DET	
+每:DET	道:M	菜:N	大概:ADV	都:ADV	是:Vt	幾十:DET	元:M	到:Vt	兩百:DET	元:M	以下:POST	
+印象:N	我們:N	這:DET	次:M	點:N	的:T	最:ADV	貴:Vi	的:T	就是:C	椒麻雞:N	150:DET	元:M	
+所以:C	還:ADV	真的:ADV	是:Vt	平價:N	喔:T	
+重點:N	是:Vt	平價:N	裡:N	的:T	好吃:Vi	
+我們:N	都:ADV	很:ADV	喜歡:Vt	吃:Vt	泰國菜:N	
+所以:C	也:ADV	喜歡:Vt	發現:Vt	新:Vi	的:T	餐廳:N	
+當然:ADV	越:ADV	便宜:Vi	去:ADV	吃:Vt	的:T	機會:N	才:ADV	越:ADV	多:Vi	嘛:T	
+尤其:ADV	是:Vt	我們:N	都:ADV	很:ADV	愛:Vt	每:DET	種:M	菜:N	都:ADV	想:Vt	吃到:Vt	
+除了:P	人:N	多:ADV	好:Vi	點菜:Vi	
+價位:N	合理:Vi	才:ADV	吸引人:Vi	啊:T	
+下:DET	次:M	還:ADV	要:ADV	來:ADV	吃吃:Vt	別的:DET	
+像:Vt	是:Vt	月亮:N	蝦餅:N	就:ADV	還:ADV	沒:ADV	吃到:Vt	呢:T	XD:FW	--:DASHCATEGORY	

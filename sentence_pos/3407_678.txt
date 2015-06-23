@@ -1,0 +1,87 @@
+LoveFood:FW	(:PARENTHESISCATEGORY	食:Vt	在:P	愛玩:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	【:PARENTHESISCATEGORY	Lacuz:FW	】:PARENTHESISCATEGORY	泰式:A	吃到:Vt	飽:Vi	、:PAUSECATEGORY	哭泣:Vi	的:T	老虎:N	
+Sun:FW	
+Aug:FW	
+10:DET	
+04:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	41:DET	
+2014:DET	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.lovefood.cc/2014/08/lacuz.html:FW	
+【:PARENTHESISCATEGORY	Lacuz:FW	】:PARENTHESISCATEGORY	是:Vt	位於:Vt	台北:N	的:T	連鎖:A	泰式:A	料理:N	餐廳:N	
+目前:N	在:P	士林:N	、:PAUSECATEGORY	公館:N	與:C	信義區:N	皆:ADV	有:Vt	分店:N	
+基本:A	
+上:N	各:DET	家:N	分店:N	菜色:N	都:ADV	差不多:Vi	
+主要:A	差異:N	在:P	信義店:N	走:Vi	精緻:Vi	單點:N	
+士林:N	與:C	公館:N	兩:DET	店:N	有:Vt	提供:Vt	吃到:Vt	飽:Vi	
+當中:N	士林店:N	為:P	旗艦店:N	
+所以:C	裝潢:N	算是:Vt	各:DET	分店:N	中:N	較:ADV	豪華:Vi	的:T	
+目前:N	吃到:Vt	飽:Vi	消費:N	方式:N	為:P	平日:N	$:FW	480:DET	+:FW	10:DET	%:M	、:PAUSECATEGORY	假日:N	$:FW	520:DET	+:FW	10:DET	%:M	
+兒童:N	費用:N	為:Vt	$:FW	300:DET	+:FW	10:DET	%:M	
+有:Vt	用餐:Nv	時間:N	
+2:DET	小時:N	的:T	限制:N	
+不過:C	本:DET	次:M	用餐:Vi	有:Vt	超過:Vt	2:DET	小時:N	沒:ADV	被:P	趕:Vt	
+應該:ADV	是:Vt	客滿:Vi	時:POST	才:ADV	會:ADV	嚴格:Vi	執行:Vt	
+基本:N	上:N	菜色:N	可以:ADV	分為:Vt	肉類:N	、:PAUSECATEGORY	海鮮:N	、:PAUSECATEGORY	青菜:N	
+首先:ADV	個:M	人:N	蠻:ADV	喜歡:Vt	的:T	就是:C	哭泣:Vi	的:T	老虎:N	
+也:ADV	就是:C	烤牛:N	
+肉拉:N	
+沒:ADV	加:Vt	什麼:DET	調味料:N	
+肉質:N	還:ADV	算:Vt	不錯:Vi	又:ADV	有:Vt	香氣:N	
+店家:N	的:T	文宣:N	則:ADV	是:Vt	說:Vt	這:DET	是:Vt	用:P	Choice:FW	等級:N	的:T	
+去:Vt	骨牛:N	小:Vi	排:Vt	香烤:Vt	而:C	成:Vt	
+另外:C	較:ADV	熱門:Vi	的:T	還:ADV	有:Vt	椒麻雞:N	與:C	月亮:N	蝦餅:N	
+他:N	這:DET	椒麻雞:N	真的:ADV	有:Vt	辣:Vi	
+不過:C	我:N	是:Vt	覺得:Vt	炸:Vt	得:T	有點:ADV	老:Vi	
+並:C	不會:ADV	有:Vt	那:DET	種:M	多汁:Vi	的:T	感覺:N	
+而:C	月亮:N	蝦餅舊:N	普普通通:Vi	
+不過:C	都:ADV	是:Vt	現:ADV	炸:Vt	熱騰騰:Vi	
+小:Vi	炸:Vt	品:N	部分:DET	
+我:N	覺得:Vt	還:ADV	不錯:Vi	的:T	有:Vt	炸:Vt	皮蛋:N	啊:T	
+真的:ADV	夠:ADV	香:Vi	酥:Vi	
+皮蛋:N	裡面:N	也好:T	嫩:Vi	
+其他:DET	還:ADV	有:Vt	像:Vt	炸:Vt	
+豆腐:N	、:PAUSECATEGORY	果香:N	炸:Vt	立方:N	等:POST	
+不過:C	因為:C	醬料:N	都:ADV	差不多:Vi	
+都:ADV	是:Vt	酸酸:Vi	辣辣:Vi	這樣:Vi	
+吃:Vt	到:P	最後:N	會:ADV	覺得:Vt	菜色:N	
+都:ADV	很:ADV	像:Vt	
+海鮮:N	部分:DET	的:T	話:N	
+推薦:Vt	就:ADV	是:Vt	他:N	的:T	酸辣:N	生鮮:A	蝦:N	與:C	酸辣:N	魚:N	
+蝦子:N	還:ADV	算:Vt	新鮮:Vi	
+而且:C	就:ADV	真的:ADV	是:Vt	生:Vi	的:T	
+而:C	酸辣魚:N	還給:Vt	蠻:ADV	大:Vi	片:N	的:T	
+而且:C	他:N	的:T	菜色:N	擺盤:N	應該:ADV	都:ADV	不錯:Vi	
+視覺:N	上:POST	也:ADV	加分:Vi	
+其他:DET	泰國:N	餐廳:N	常見:Vi	的:T	菜色:N	大多:DET	也:ADV	都:ADV	有:Vt	
+像:P	蝦醬:N	炒:Vt	青菜:N	、:PAUSECATEGORY	泰式:A	香煎:N	豬:N	干:Vt	、:PAUSECATEGORY	泰式:A	咖哩:N	炒:Vt	蝦:N	等:POST	
+不過:C	還是:ADV	一樣:Vi	
+就是:C	菜色:N	都:ADV	偏:ADV	酸酸:Vi	辣辣:Vi	同樣:Vi	的:T	味道:N	
+吃:Vt	多:Vi	了:ASP	會:ADV	覺得:Vt	很:ADV	相像:Vi	
+飲料:N	部分:DET	則:ADV	是:Vt	個:M	人:N	比較:ADV	不:ADV	滿意:Vt	的:T	部分:DET	
+原因:N	就:ADV	不:ADV	多:ADV	說:Vt	了:ASP	
+反正:ADV	他:N	的:T	飲料:N	都:ADV	超:Vt	鮮豔:Vi	
+視覺:N	
+100:DET	分:M	啦:T	
+但是:C	味覺:N	就:ADV	
+哀:Vi	最後:N	我:N	主要:ADV	還是:ADV	配:Vt	白開水:N	為:Vt	多:Vi	
+Lacuz:FW	新泰:N	食:Vt	餐廳:N	
+士林:N	旗艦店:N	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	中山北路:N	五段:N	437:DET	號:M	
+捷運:N	士林:N	站:Vi	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2883:DET	-:DASHCATEGORY	2959:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週五:N	11:DET	::COLONCATEGORY	30:DET	
+14:DET	::COLONCATEGORY	30:DET	
+Lacuz:FW	新泰:N	食:Vt	餐廳:N	
+台大:N	公館店:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	四段:N	85:DET	號:M	2樓:N	
+捷運:N	公館:N	站:Vi	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2366:DET	-:DASHCATEGORY	1098:DET	、:PAUSECATEGORY	
+02:DET	
+2366:DET	-:DASHCATEGORY	1812:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週五:N	11:DET	::COLONCATEGORY	30:DET	
+14:DET	::COLONCATEGORY	30:DET	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014.6:DET	
+更多:DET	台北:N	吃到:Vt	飽:Vi	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/WrSbn:FW	

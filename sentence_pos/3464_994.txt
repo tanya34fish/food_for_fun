@@ -1,0 +1,98 @@
+phoennivia:FW	(:PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義:N	BOTEJYU:FW	波天:N	久:Vi	摩登:Vi	燒:Vt	(:PARENTHESISCATEGORY	統一:N	阪急:N	):PARENTHESISCATEGORY	
+Mon:FW	
+Aug:FW	
+25:DET	
+23:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	59:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	BOTEJYU:FW	波天:N	久:Vi	摩登:Vi	燒:Vt	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	忠孝東路:N	五段:N	8:DET	號:M	B:FW	2樓:N	(:PARENTHESISCATEGORY	統一:N	阪急:N	B:FW	2:DET	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	8780:DET	-:DASHCATEGORY	9810:DET	（:PARENTHESISCATEGORY	暫不:ADV	開放:Vt	訂位:Nv	）:PARENTHESISCATEGORY	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	元:M	，:COMMACATEGORY	需:ADV	加:Vt	10:DET	%:M	服務費:N	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.botejyu.com.tw:FW	/:FW	
+blogger:FW	圖文版:N	
+台北:N	餐廳:N	--:DASHCATEGORY	
+信義:N	
+日式:A	料理:N	
+大阪:N	道頓:N	堀:b	
+BOTEJYU:FW	波天:N	久:Vi	摩登:Vi	燒:Vt	˙:FW	大阪:N	燒:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	phoennivia.blogspot.tw/2014/08/botejyu.html:FW	
+約:Vt	了:ASP	星期六:N	中午:N	的:T	聚餐:Nv	
+沒:ADV	錯:Vi	
+又:ADV	來:ADV	吃:Vt	大阪:N	燒:Vt	了:ASP	
+大概:ADV	是:Vt	大阪:N	燒:Vt	的:T	餐廳:N	比較:ADV	少見:Vi	吧:T	
+每:DET	次:M	找:Vt	餐廳:N	只要:C	看到:Vt	大阪:N	燒:Vt	餐廳:N	
+幾乎:ADV	都:ADV	毫無:Vt	意外:N	地:T	選擇:Vt	它:N	
+今天:N	來到:Vt	的:T	是:Vt	位於:Vt	捷運:N	市政府站:N	附近:N	的:T	店家:N	
+來自:Vt	日本:N	大阪:N	的:T	元祖:N	摩登:Vi	燒:Vt	－BOTEJYU:FW	
+創立:Vt	於:P	1946年:N	的:T	波天久:N	起源:N	於:P	大阪:N	的:T	美食:N	商店街:N	
+用:P	鏟子:N	翻:Vt	面:N	的:T	BOTE:FW	
+加上:C	煎製:Vt	時:POST	JYU:FW	的:T	聲音:N	
+就是:C	BOTEJYU:FW	的:T	由來:N	
+摩登:Vi	燒:Vt	就:ADV	是:Vt	以:P	台灣人:N	熟悉:Vt	的:T	大阪:N	燒:Vt	加上:C	燒:Vt	麵:N	製成:Vt	的:T	
+在:P	波天:N	久:Vi	的:T	店:N	門口:N	就:ADV	可以:ADV	看到:Vt	大大:Vi	的:T	摩登:Vi	燒:Vt	圖片:N	囉:T	
+濃稠:Vi	的:T	醬汁:N	、:PAUSECATEGORY	煎:Vt	至:P	微焦:N	的:T	餅:N	皮:N	、:PAUSECATEGORY	一:DET	圈:M	又:ADV	一:DET	圈:M	的:T	麵條:N	
+加上:C	空氣:N	中:POST	那:DET	隱隱約約:Vi	的:T	香氣:N	
+真是:ADV	勾起:Vt	人:N	的:T	食慾:N	
+在:P	等:Vt	朋友:N	來:Vi	的:T	過程:N	中:POST	
+一:DET	邊:N	打探:Vt	著:ASP	店:N	門口:N	的:T	食物:N	樣品:N	
+為了:P	讓:Vt	客人:N	可以:ADV	看清楚:Vt	摩登:Vi	燒:Vt	的:T	內容物:N	
+食物:N	樣品:N	還:ADV	做成:Vt	了:ASP	窗簾:N	般:POST	可以:ADV	打開:Vt	的:T	模式:N	
+真的:ADV	好:ADV	有趣:Vi	
+還好:ADV	約:Vt	的:T	時間:N	是:Vt	十:DET	一點:DET	半:DET	
+這時:N	店:N	內:N	還:ADV	沒有:ADV	坐滿:Vt	
+暫不:ADV	開放:Vt	訂位:Vi	的:T	波天:N	久:Vi	
+過:Vt	了:ASP	十二:DET	點:M	之後:POST	就:ADV	要:ADV	開始:Vt	候位:N	囉:T	
+翻開:Vt	菜單:N	
+波天:N	久:Vi	除了:P	招牌:N	的:T	摩登:Vi	燒:Vt	及:C	大阪:N	燒外:Vt	
+也:ADV	有:Vt	許多:DET	鐵板:N	料理:N	
+像:Vt	是:Vt	鐵板燒麵:N	、:PAUSECATEGORY	鐵板燒:N	烏龍:N	、:PAUSECATEGORY	鐵板:N	燒飯:Vi	等:POST	
+大阪:N	街頭:N	常見:Vi	的:T	章魚:N	燒:Vt	和:C	炸雞:N	
+波天:N	久:Vi	也:ADV	有:Vt	喔:T	
+波天:N	久:Vi	的:T	大阪:N	燒:Vt	是:Vt	在:P	廚房:N	料理:N	好:Vi	
+直接:Vi	在:P	鐵板:N	上:N	保溫:Vi	食用:Vt	
+所以:C	想要:Vt	自己:N	動手:Vi	做:Vt	的:T	朋友:N	
+可能:ADV	無法:ADV	大展:Vt	廚藝:N	了:T	
+打頭陣:Vi	的:T	是:Vt	傳統:Vi	好吃:Vi	燒:Vt	－:DET	麻糬:N	起:POST	司:Vt	好吃:Vi	燒:Vt	
+230:DET	元:M	
+看到:Vt	上頭:N	滿滿:Vi	的:T	柴魚片:N	跳舞:Vi	
+就:ADV	不禁:Vt	令:Vt	人:N	食指:N	大動:Vt	
+起:Vt	司鹹:Vi	香味:N	是:Vt	麻糬:N	起:POST	司:Vt	好吃:Vi	燒:Vt	的:T	一:DET	大:Vi	亮點:N	
+薄薄:Vi	一:DET	層:M	的:T	大阪:N	燒:Vt	醬汁:N	突出:Vt	了:ASP	起司:N	獨特:Vi	的:T	奶:N	香:N	與:C	鹹味:N	
+起:Vt	司:N	與:C	麻糬:N	聯手:Vi	拉出:Vt	一條條:DET	誘人:Vi	的:T	線條:N	
+加上:C	柴魚片:N	的:T	香氣:N	與:C	高麗菜:N	絲:N	的:T	爽脆:Vi	
+是:Vt	很:ADV	有:Vt	口感:N	的:T	一:DET	品:N	
+桌:N	邊:N	也:ADV	有:Vt	海苔粉:N	及:C	柴魚粉:N	可以:ADV	增添:Vt	香氣:N	
+喜歡:Vt	的:T	話:N	
+就:ADV	撒上:Vt	一些:DET	吧:T	
+傳統:Vi	好吃:Vi	燒:Vt	第二:DET	彈:Vt	－:DET	豬肉:N	泡菜:N	好吃:Vi	燒:Vt	
+200:DET	元:M	
+上頭:N	那:DET	白白:Vi	的:T	醬汁:N	是:Vt	酸味:N	美乃滋:N	喔:T	
+一般:A	印象:N	中:POST	的:T	大阪:N	燒:Vt	總是:ADV	有:Vt	黃:Vi	芥末:N	在:P	上頭:N	畫:N	上:N	格子:N	般:POST	的:T	稜線:N	
+但:C	在:P	大阪:N	燒:Vt	上:POST	淋上:Vt	美乃滋:N	的:T	構想:N	
+據說:ADV	是:Vt	來自:Vt	波天:N	久:Vi	喔:T	
+用:P	大量:DET	蔬菜:N	、:PAUSECATEGORY	水果:N	和:C	30:DET	種:M	以上:POST	的:T	香料:N	融和:Vi	烏:N	斯:DET	特:ADV	郡:N	醬油:N	
+造就:Vt	了:ASP	波天:N	久:Vi	的:T	密傳:N	醬汁:N	
+加上:C	微:ADV	酸:Vi	的:T	白色:N	美乃滋:N	
+配上:Vt	又:ADV	酸:Vi	又:ADV	辣:Vi	的:T	泡菜:N	一同:ADV	入口:Vi	
+是:Vt	口味:N	相當:ADV	濃重:Vi	的:T	一:DET	品:N	
+最後:N	一:DET	道:M	是:Vt	明:Vi	太子:N	豬肉:N	摩登:Vi	燒:Vt	
+280:DET	元:M	
+微:A	橘色:N	的:T	明:Vi	太子醬:N	淋:Vt	滿:Vt	了:ASP	摩登:Vi	燒:Vt	
+取代:Vt	柴魚片:N	在:P	摩登:Vi	燒上:Vt	跳舞:Vi	的:T	是:Vt	細細:Vi	的:T	海苔:N	絲:N	
+和:P	大阪:N	燒:Vt	吃:Vt	來:ADV	最:ADV	大:Vi	的:T	不同點:N	就:ADV	是:Vt	摩登:Vi	燒:Vt	上下:N	兩:DET	層:M	薄薄:Vi	的:T	麵皮:N	
+吃起來:ADV	有點:ADV	像:Vt	是:Vt	比較:ADV	厚:Vi	的:T	又:ADV	煎:Vt	得:T	脆脆:Vi	的:T	潤餅:N	皮:N	
+而:C	大阪:N	燒:Vt	沒有:Vt	的:T	燒麵:N	
+除了:P	Q:FW	彈:Vt	口感:N	之外:POST	
+還:ADV	帶:Vt	了:ASP	些:M	香:Vi	脆:Vi	感:N	
+高麗菜:N	的:T	清脆:Vi	、:PAUSECATEGORY	燒麵:N	的:T	Q:FW	彈:Vt	、:PAUSECATEGORY	麵皮:N	的:T	香脆:Vi	讓:Vt	摩登:Vi	燒:Vt	口感:N	層次:N	豐富:Vt	
+嚼:Vt	來:POST	鹹香:N	的:T	豬肉:N	和:C	濃郁:Vi	的:T	明:Vi	太子醬:N	
+讓:Vt	人:N	沉浸:Vi	在:P	摩登:Vi	燒:Vt	的:T	多:DET	層:M	滋味:N	與:C	濃厚:Vi	味道:N	之中:POST	
+飽:Vi	了:T	
+飽:Vi	了:T	
+三:DET	個:M	人:N	吃:Vt	三:DET	個:M	大阪:N	燒加:Vt	三:DET	杯:M	飲料:N	就:ADV	真的:ADV	好:ADV	飽:Vi	
+下:DET	次:M	聚會:N	
+再:ADV	來:ADV	吃:Vt	大阪:N	燒:Vt	吧:T	

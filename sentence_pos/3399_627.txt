@@ -1,0 +1,105 @@
+yeahbonnie(bonnie:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	東區:N	頂:ADV	好:Vi	美景:N	川味:N	小吃:N	台北:N	大安區:N	
+Thu:FW	
+Aug:FW	
+7:DET	
+21:DET	::COLONCATEGORY	49:DET	::COLONCATEGORY	27:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	頂:ADV	好:Vi	美景:N	川味:N	小吃:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	::COLONCATEGORY	台北市:N	忠孝東路:N	四段:N	97:DET	號:M	B:FW	1:DET	
+電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	27819004:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	周:N	二:DET	到:P	周六:N	11:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	50:DET	以上:N	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	否:T	
+推薦:Vt	菜色:N	：:COLONCATEGORY	紅油:N	抄手:N	
+官網:N	：:COLONCATEGORY	無:Vt	
+
+無圖:N	網誌:N	好讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	yeahbonnie0227.pixnet.net/blog/post:FW	/:FW	168955950:DET	
+晶瑩剔透:Vi	
+這:DET	四:DET	個:M	字:N	形容:Vt	它:N	不為過:Vi	吧:T	
+不過:C	...:ETCCATEGORY	長:Vi	得:T	有點:ADV	像:Vt	三:DET	更:ADV	的:T	餃子:N	....:ETCCATEGORY	
+言歸正傳:Vi	這:DET	篇:M	要:ADV	來:ADV	介紹:Vt	台北人:N	口:N	耳:N	相傳:Vt	的:T	
+排隊:Vi	美食:N	
+紅油:N	炒:Vt	手:N	
+我:N	的:T	哥哥:N	是:Vt	一:DET	位:M	非常:ADV	挑食:Vi	的:T	人:N	
+他:N	的:T	人生:N	中:POST	
+不:ADV	吃:Vt	蔬菜:N	、:PAUSECATEGORY	不:ADV	吃:Vt	香菇:N	、:PAUSECATEGORY	不:ADV	吃:Vt	海鮮:N	
+所以:C	跟:P	他:N	吃飯:Vi	一定:ADV	是:Vt	吃:Vt	滷肉:N	飯:N	、:PAUSECATEGORY	炸雞:N	、:PAUSECATEGORY	義大利麵:N	、:PAUSECATEGORY	鐵板燒:N	
+再:ADV	來:ADV	就是:C	炒:Vt	手:N	惹:Vt	
+他:N	可是:C	一:DET	位:M	炒:Vt	手:N	品嘗:Vt	高手:N	
+他:N	多:DET	次:M	跟:P	我:N	提到:Vt	頂:ADV	好:Vi	B:FW	1:DET	的:T	炒手:N	店:N	
+美景:N	川味:N	小吃:N	
+我:N	去:Vt	過:ASP	兩:DET	次:M	一:DET	次:M	炒:Vt	手:N	買完:Vt	一:DET	次:M	沒:ADV	開:Vt	
+這:DET	次:M	他:N	親自:ADV	帶:Vt	我:N	去:ADV	終於:ADV	吃到:Vt	囉:T	::COLONCATEGORY	D:FW	
+位於:Vt	台北:N	熱鬧:Vi	東區:N	的:T	頂:ADV	好:Vi	樓下:N	下去:Vi	後:POST	右轉:Vi	到底:ADV	
+店面:N	小小:Vi	的:T	
+大概:ADV	能:ADV	容納:Vt	15:DET	人:N	左右:POST	的:T	位置:N	
+平日:N	中午:N	去:ADV	大約:ADV	等:Vt	個:M	10分鐘:N	假日:N	可怕:Vi	了:ASP	大約:ADV	30:DET	分鐘:M	以上:POST	
+等:POST	的:T	久:Vi	一方面:C	是:Vt	因為:C	
+老闆:N	只:ADV	用:P	一:DET	個:M	鍋子:N	煮:Vt	
+青菜:N	→:FW	麵條:N	→:FW	炒:Vt	手:N	→:FW	青菜:N	..:ETCCATEGORY	
+無限:Vi	循環:N	
+待:P	我們:N	坐下:Vi	後:POST	約莫:ADV	等:Vt	了:ASP	15:DET	分鐘:M	以上:POST	餐點:N	才:ADV	全部:DET	到齊:Vi	
+中間:N	的:T	就是:C	那:DET	唯一:A	的:T	一:DET	鍋:M	
+等待:Vt	過程:N	就:ADV	先:ADV	吃吃:Vt	小吃:N	墊胃:Vi	
+小黃瓜:N	海帶:N	絲:N	看起來:ADV	都:ADV	很:ADV	好吃:Vi	
+但:C	
+哥哥:N	全部:DET	不:ADV	敢:Vt	吃:Vt	
+點:Vt	了:ASP	他:N	最:ADV	愛:Vt	的:T	豆干:N	
+上頭:N	放:Vt	了:ASP	一:DET	瓣:M	辣椒:N	裝飾:N	
+其實:ADV	不會:ADV	辣:Vi	
+不用:ADV	醬油:N	美景:N	的:T	豆干:N	就:ADV	很:ADV	有:Vt	味道:N	了:T	
+油:N	香味:N	以及:C	豆:N	干:Vt	本身:N	的:T	滋味:N	
+愛:Vt	吃:Vt	辣:Vi	的:T	兄妹:N	還是:ADV	加:Vt	了:ASP	點:M	辣醬:N	
+看起來:ADV	好:ADV	油油亮亮:Vi	紅通通:Vi	
+但:C	還是:ADV	不:ADV	辣:Vi	
+香氣:N	濃厚:Vi	就是了:Vi	
+在:P	東區:N	的:T	小吃:N	裡頭:N	
+美景:N	的:T	價位:N	非常:ADV	親切:Vi	
+平均:Vi	50:DET	的:T	湯麵:N	現在:N	真的:ADV	很:ADV	少見:Vi	了:T	
+但:C	份量:N	也:ADV	不:ADV	到:Vt	多:POST	就是了:Vi	
+等:Vt	了:ASP	好久:Vi	哥哥:N	的:T	酸辣:N	麵:N	終於:ADV	來:Vi	了:ASP	
+酸辣:N	麵:N	NT:FW	55:DET	元:M	
+此:DET	酸辣:N	非:ADV	比:P	酸辣:N	
+不:ADV	是:Vt	外頭:N	那:DET	種:M	酸辣湯:N	
+他:N	的:T	醬汁:N	其實:ADV	就:ADV	跟:P	紅油:N	炒:Vt	手:N	的:T	湯汁:N	很:ADV	像:Vt	
+不過:C	他:N	多:Vi	了:ASP	一:DET	股:M	酸:Vi	以及:C	香料味:N	
+吃起來:ADV	酸鹹:Vi	酸鹹:Vi	很:ADV	對:P	夏天:N	的:T	口味:N	
+金銀:N	剔透:Vi	的:T	炒手:N	
+小:Vi	碗:N	10:DET	顆:M	NT:FW	50:DET	
+大:Vi	碗:N	20:DET	顆:M	NT:FW	100:DET	
+美景:N	炒:Vt	手:N	裡頭:N	
+是:Vt	當天:N	現:N	宰:Vt	的:T	溫體:A	黑:Vi	毛豬:N	
+在:P	沒有:Vt	醬汁:N	的:T	情況:N	下單:Vi	吃:Vt	
+其實:ADV	味道:N	並:ADV	不:ADV	突出:Vi	
+但:C	加上:Vt	醬汁:N	後:POST	
+肉味:N	、:PAUSECATEGORY	微:A	辣味:N	與:C	酒:N	香味:N	
+結合:Vt	後:POST	咬下:Vt	入口:N	口齒:N	留:Vt	香:N	
+美景:N	的:T	炒手:N	沒有:Vt	外面:N	大:Vi	顆:M	
+但:C	肉質:N	新鮮:Vi	沒有:Vt	花俏:Vi	的:T	調味:N	
+簡單:Vi	卻:ADV	吃:Vt	得:T	出:Vt	老闆:N	的:T	用心:Vi	
+ＢＯＢＯ:FW	小結:N	
+交通:N	：:COLONCATEGORY	忠孝:N	復興:Vt	捷運:N	站出來:Vi	走:Vi	個:M	三:DET	分鐘:M	就:ADV	到:Vt	了:ASP	
+服務:Nv	：:COLONCATEGORY	就:ADV	跟:P	路邊攤:N	小吃:N	一樣:Vi	
+送:Vt	菜:N	而已:T	
+沒有:ADV	特別:Vi	服務:Nv	
+但:C	老闆娘:N	多:ADV	是:Vt	笑容:N	滿:DET	面:M	
+食物:N	：:COLONCATEGORY	份量:N	雖:C	小:Vi	
+但:C	食:Vt	材:N	上面:N	吃:Vt	的:T	老闆:N	的:T	用心:Vi	
+炒:Vt	手肉:N	味道:N	雖:C	一般:ADV	但:C	很:ADV	新鮮:Vi	
+搭配:Vt	醬汁:N	後:POST	
+更:ADV	好吃:Vi	
+環境:N	：:COLONCATEGORY	店面:N	很:ADV	小:Vi	桌椅:N	很:ADV	小:Vi	
+價位:N	：:COLONCATEGORY	在:P	寸土寸金:Vi	的:T	台北:N	
+這樣:Vi	的:T	價格:N	真的:ADV	很:ADV	平實:Vi	
+但:C	酸辣:N	麵:N	偏:Vt	貴:DET	55:DET	元:M	
+裡面:N	就是:C	湯:N	跟:P	麵:N	
+些許:DET	小菜:N	沒:Vt	別的:DET	
+再:ADV	訪率:N	：:COLONCATEGORY	老闆:N	用心:Vi	
+因此:C	動作:N	相當:ADV	慢:Vi	
+而且:C	只:ADV	用:P	一:DET	鍋:M	煮:Vt	
+沒:Vt	耐心:N	的:T	人:N	或:C	很:ADV	餓:Vi	的:T	人:N	不:ADV	適合:Vi	
+不過:C	只:ADV	想:Vt	簡單:Vi	吃:Vt	的:T	人:N	
+在:P	東區:N	不:ADV	趕時間:Vi	一定:ADV	要:ADV	來:ADV	嘗試:Vt	看看:Vt	

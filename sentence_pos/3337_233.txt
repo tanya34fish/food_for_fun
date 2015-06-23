@@ -1,0 +1,122 @@
+tong817(tong:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	文山區:N	德國:N	農夫:N	廚房:N	
+Mon:FW	
+Jul:FW	
+21:DET	
+16:DET	::COLONCATEGORY	10:DET	::COLONCATEGORY	01:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	德國:N	農夫:N	廚房:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	文山區:N	興隆路:N	二段:N	220巷:N	35:DET	號:M	1樓:N	(:PARENTHESISCATEGORY	興隆:Vi	公園:N	旁:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8663:DET	-:DASHCATEGORY	9666:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	00,:NULL	17:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	550:DET	~:FW	650:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	德式:A	烤:Vt	豬腳:N	、:PAUSECATEGORY	豬肋排:N	、:PAUSECATEGORY	德式:A	香腸:N	
+圖文:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tongblack212.pixnet.net/blog/post:FW	/:FW	159566163:DET	
+位於:Vt	台北市:N	興隆:Vi	公園:N	旁:N	的:T	德國:N	農夫:N	廚房:N	開業:Vi	已經:ADV	一段:N	時間:N	
+每:DET	回:M	和:C	老公:N	散步:Vi	經過:Vt	
+總是:ADV	想:Vt	找:Vt	時間:N	品嘗:Vt	
+老闆:N	是:Vt	德國:N	南方人:N	
+娶:Vt	了:ASP	台灣:N	女生:N	
+開:Vt	了:ASP	這:DET	間:M	德式:A	餐廳:N	
+今天:N	和:C	公婆:N	四:DET	人:N	一起:ADV	來:ADV	用餐:Vi	
+餐廳:N	很:ADV	有:Vt	德國:N	小店:N	的:T	氣氛:N	
+桌:N	與:C	桌:N	之間:POST	有點:ADV	小:Vi	擠:Vt	
+不過:C	整體:N	氣氛:N	很:ADV	好:Vi	
+Menu:FW	上:N	註明:Vt	
+這裡:N	最:ADV	出名:Vi	的:T	就是:C	德國:N	豬腳:N	、:PAUSECATEGORY	德式:A	香腸:N	、:PAUSECATEGORY	豬肋排:N	和:C	烤雞:N	
+除了:P	德式:A	香腸:N	
+其他:DET	出名:Vi	餐點:N	都:ADV	需要:Vt	花費:Vt	很多:DET	時間:N	
+所以:C	都:ADV	要:ADV	前:DET	一:DET	天:M	就:ADV	先:ADV	預訂:Vt	喔:T	
+今天:N	除了:P	烤雞:N	外:POST	
+其他:DET	推薦:Nv	餐點:N	通通:ADV	點上:Vt	了:ASP	
+以下:N	就:ADV	看:Vt	介紹:Vt	吧:T	
+首先:ADV	上場:Vi	的:T	是:Vt	洋蔥湯:N	
+呵呵:ADV	
+公公:N	點:N	的:T	
+sorry:FW	
+無法:ADV	介紹:Vt	
+不過:C	公公:N	通通:ADV	喝:Vt	光光:Vi	
+應該:ADV	是:Vt	好喝:Vi	吧:T	
+烤豬肋排配:N	馬鈴薯:N	、:PAUSECATEGORY	玉米:N	棒:Vi	、:PAUSECATEGORY	自製:Vt	酸:Vi	奶油醬:N	
+$:FW	440:DET	
+需:ADV	預定:Vt	
+豬肋:N	排:Vt	其實:ADV	不:ADV	大:Vi	
+有點:ADV	焦:Vi	
+切開:Vt	後:POST	正好:ADV	四:DET	根:M	
+一:DET	人:N	一:DET	根:M	
+味道:N	不錯:Vi	不過:C	好少:Vi	喔:T	
+烤:Vt	的:T	鬆軟:Vi	的:T	馬鈴薯:N	搭配:Vt	自製:Vt	的:T	酸:Vi	奶油醬:N	
+也:ADV	很:ADV	不錯:Vi	
+德式烤:Vt	豬腳:N	
+肘:N	
+配:Vt	酸菜:N	、:PAUSECATEGORY	馬鈴薯:N	泥:N	
+$:FW	540:DET	
+限量:Vi	預訂:Vt	
+一:ADV	上桌:Vi	覺得:Vt	
+挖:Vt	
+好:Vi	大一:N	塊:M	
+服務:Nv	人員:N	貼心:Vi	的:T	講解:Nv	並:ADV	幫:P	我們:N	剪開:Vt	
+不過:C	
+有:Vt	些:M	地方:N	沒有:ADV	剪開:Vt	
+用:P	桌:N	上:N	的:T	刀子:N	也:ADV	無法:ADV	切開:Vt	
+還是:ADV	再:ADV	請:Vt	服務:Vt	人員:N	幫忙:Vt	剪開:Vt	
+不過:C	後來:N	發現:Vt	
+中間:N	的:T	骨頭:N	佔:Vt	大:Vi	塊:M	
+肉:N	其實:ADV	份量:N	也:ADV	不:ADV	算:Vt	多:Vi	
+偏少:Vi	
+豬腳:N	外皮:N	酥脆:Vi	
+肉質:N	很:ADV	Q:FW	彈:Vt	不:ADV	油膩:Vi	
+搭配:Vt	兩:DET	種:M	醬汁:N	
+芥末醬:N	及:C	洋蔥:N	醬汁:N	
+吃起來:ADV	各:ADV	有:Vt	特色:N	
+酸菜:N	很:ADV	符合:Vt	口味:N	
+沒有:Vt	過:ASP	酸:Vi	
+馬鈴薯:N	泥:N	是:Vt	我:N	的:T	最愛:N	
+手工:N	德國:N	麵包:N	籃:N	
+紅蘿蔔:N	核桃:N	麵包:N	
+這:DET	是:Vt	為了:P	搭配:Vt	酸菜:N	另外:ADV	叫:Vt	的:T	
+不過:C	送上:Vt	桌:N	時:POST	冷冷:Vi	的:T	
+感覺:Vt	很:ADV	扣分:N	
+至少:ADV	也:ADV	送進:Vt	烤箱:N	烤:Vt	兩:DET	分鐘:M	吧:T	XD:FW	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	因為:C	是:Vt	冷:Vi	的:T	關係:N	
+麵包:N	覺得:Vt	普普:N	
+豬肉:N	腸:N	配:Vt	德式:A	酸菜:N	和:C	馬鈴薯:N	泥:N	
+$:FW	400:DET	
+德國:N	香腸:N	很:ADV	Q:FW	也:ADV	有:Vt	嚼:Vt	勁:N	
+搭配:Vt	酸菜:N	和:C	馬鈴薯:N	泥:N	
+醬汁:N	一樣:Vi	附上:Vt	芥末醬:N	及:C	洋蔥:N	醬汁:N	
+不過:C	吃:Vt	到:P	後面:N	會:ADV	膩:Vi	
+因為:C	三:DET	條:M	德國:N	香腸:N	都:ADV	是:Vt	一樣:Vi	的:T	口味:N	XD:FW	
+德式:A	香腸:N	口味:N	應該:ADV	很多:DET	
+建議:Vt	店家:N	應該:ADV	讓:Vt	餐點:N	更:ADV	有:Vt	特色:N	一些:DET	
+義大利:N	尖管:N	肉醬麵:N	
+$:FW	270:DET	
+來:Vi	德國:N	餐廳:N	點:Vt	義大利麵:N	夠:ADV	特別:Vi	吧:T	
+呵呵:ADV	
+其實:ADV	是:Vt	因為:C	本人:N	太:ADV	愛:Vt	義大利麵:N	
+所以:C	還是:ADV	忍不住:Vt	選:Vt	了:ASP	義大利麵:N	
+結果:ADV	證實:Vt	
+..:ETCCATEGORY	來:Vi	德國:N	餐廳:N	
+真的:ADV	就:ADV	應該:ADV	點:Vt	德國菜:N	XD:FW	
+其實:ADV	也:ADV	不:ADV	是:Vt	難吃:Vi	
+麵條:N	煮:Vt	的:T	Q:FW	度:M	正好:ADV	
+肉醬:N	味道:N	也:ADV	ok:FW	
+但:C	想到:Vt	就:ADV	單:ADV	點:DET	個:M	肉醬麵:N	
+份量:N	也:ADV	不:ADV	多:Vi	
+就:ADV	要:ADV	$:FW	270:DET	
+抱歉:Vt	
+本人:N	愛:Vt	碎碎:Vi	念:Vt	XD:FW	
+整體:N	而言:Vt	
+餐點:N	口味:N	相當:ADV	不錯:Vi	
+餐廳:N	氣氛:N	也:ADV	很:ADV	不:ADV	賴:Vt	
+只:ADV	是:Vt	以:P	份量:N	來:ADV	說:Vt	
+餐點:N	份量:N	不:ADV	算:Vt	多:Vi	
+大:Vi	食量:N	的:T	朋友:N	們:N	可能:ADV	要:ADV	多點:DET	一些:DET	
+建議:Vt	多:DET	些:M	朋友:N	點:Vt	多樣:Vi	菜色:N	分食:Vt	
+另外:C	強烈:Vi	建議:N	一定:ADV	要:ADV	事先:ADV	預定:Vt	位置:N	和:C	人氣:N	餐點:N	
+豬腳:N	、:PAUSECATEGORY	豬肋排:N	和:C	烤雞:N	
+否則:C	都:ADV	無法:ADV	享受到:Vt	喔:T	
+文山區:N	難得:Vi	有:Vt	這樣:Vi	特色:N	的:T	小店:N	
+不管:C	怎樣:ADV	
+還是:ADV	支持:Vt	一下:N	囉:T	

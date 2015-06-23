@@ -1,0 +1,77 @@
+writerou:FW	(:PARENTHESISCATEGORY	春衫:N	猶:ADV	濕:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北市:N	「:PARENTHESISCATEGORY	跳舞:Vi	香水:N	」:PARENTHESISCATEGORY	SOGO:FW	復興店:N	下午茶:N	
+Tue:FW	
+Jul:FW	
+29:DET	
+18:DET	::COLONCATEGORY	34:DET	::COLONCATEGORY	57:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	PerfumeDance:FW	「:PARENTHESISCATEGORY	跳舞:Vi	香水:N	」:PARENTHESISCATEGORY	SOGO:FW	復興店:N	
+地址:N	：:COLONCATEGORY	臺北市:N	忠孝東路:N	三段:N	300:DET	號:M	B:FW	3:DET	
+電話:N	：:COLONCATEGORY	（:PARENTHESISCATEGORY	02:DET	）:PARENTHESISCATEGORY	8978:DET	-:DASHCATEGORY	5868:DET	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	7月:N	
+網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.udn.com/ccpou:FW	/:FW	15535782:DET	
+標題:N	：:COLONCATEGORY	PerfumeDance:FW	
+跳舞:Vi	香水:N	
+下午茶:N	內文:N	：:COLONCATEGORY	﹝:PARENTHESISCATEGORY	SOGO:FW	復興店:N	﹞:PARENTHESISCATEGORY	PerfumeDance:FW	
+跳舞:Vi	香水:N	
+在:P	台北:N	、:PAUSECATEGORY	板橋:N	、:PAUSECATEGORY	桃園:N	、:PAUSECATEGORY	新竹:N	、:PAUSECATEGORY	台中:N	、:PAUSECATEGORY	高雄:N	等:POST	地:N	都:ADV	有:Vt	分店:N	
+是:Vt	歐式:A	咖啡館:N	
+賣:Vt	餐:N	也:ADV	賣:Vt	咖啡:N	
+不過:C	其:DET	蜜糖:N	土司:N	和:C	水果茶:N	名氣:N	響亮:Vi	
+深獲:Vt	都:ADV	會:ADV	年輕:Vi	女性:N	的:T	青睞:N	
+週二:N	下午:N	
+搭:Vt	台北:N	捷運:N	板南線:N	於:P	忠孝:N	復興:Vt	站:Vi	下車:Vi	
+至:P	PerfumeDance:FW	
+跳舞:Vi	香水:N	
+SOGO:FW	復興店:N	喝:Vt	下午茶:N	
+﹝:PARENTHESISCATEGORY	顧客:N	絕大:A	多數:DET	是:Vt	年輕:Vi	女性:N	﹞:PARENTHESISCATEGORY	PerfumeDance:FW	
+跳舞:Vi	香水:N	
+裝潢:Vt	採水:N	藍:Vi	、:PAUSECATEGORY	紫:Vi	、:PAUSECATEGORY	白:Vi	、:PAUSECATEGORY	黑:Vi	色調:N	
+充滿:Vt	威尼斯:N	風情:N	
+古典:Vi	、:PAUSECATEGORY	高雅:Vi	而:C	又:ADV	散發:Vt	年輕:Vi	氣息:N	
+牆:N	上:N	掛:Vt	著:ASP	數:DET	頂:M	華麗:Vi	的:T	威尼斯:N	面具:N	
+頗為:ADV	吸睛:Vi	
+女:N	服務生:N	穿:Vt	女僕:N	裝:Vt	
+頭:N	上:N	佩戴:Vt	小巧:Vi	的:T	帽子:N	
+十分:ADV	可愛:Vi	
+客人:N	幾乎:ADV	滿座:Vi	
+消費:N	限時:ADV	90:DET	分鐘:M	
+果然:ADV	
+顧客:N	絕大:A	多數:DET	是:Vt	年輕:Vi	女性:N	
+﹝:PARENTHESISCATEGORY	宮廷:N	玫瑰:N	咖啡:N	﹞:PARENTHESISCATEGORY	點:Vt	了:ASP	宮廷:N	玫瑰:N	咖啡:N	
+165:DET	元:M	
+和:C	金磚:N	土司:N	
+藍色:N	多瑙河:N	
+305:DET	元:M	
+宮廷:N	玫瑰:N	咖啡:N	以:P	白色:N	磁杯:N	裝盛:Vt	
+奶:N	泡上:Vt	拉:Vt	了:ASP	兩:DET	朵:M	花:N	
+添上:Vt	綠:Vi	薄荷葉:N	和:C	紫紅:N	玫瑰:N	葉:N	
+實在:ADV	賞心悅目:Vi	
+這:DET	是:Vt	拿:Vt	鐵:N	咖啡:N	混合:Vt	淡淡:Vi	的:T	玫瑰:N	香:Vi	
+味道:N	十分:ADV	獨特:Vi	
+﹝:PARENTHESISCATEGORY	金磚:N	土司:N	
+藍色:N	多瑙河:N	
+﹞:PARENTHESISCATEGORY	金磚:N	土司:N	
+藍色:N	多瑙河:N	
+由:P	一塊塊:DET	裹糖:N	的:T	蜜糖:N	吐司:N	堆疊:Vt	起來:ASP	
+彷如:Vt	一:DET	座:M	小:Vi	山:N	
+山頂:N	安放:Vt	一:DET	球:N	香草:N	冰淇淋:N	
+其:DET	上:N	加:Vt	一:DET	顆:M	深紫色:N	的:T	桑椹:N	
+再:ADV	淋:Vt	上:DET	卡:M	士達醬:N	、:PAUSECATEGORY	巧克力:N	與:C	牛奶:N	
+配上:Vt	些許:DET	核桃:N	
+以及:C	黑:Vi	磁盤:N	周邊:N	的:T	草莓:N	和:C	一:DET	尾:M	巧克力:N	小:Vi	海豚:N	
+很:ADV	有:Vt	視覺:N	效果:N	
+金磚:N	土司:N	外表:N	微:ADV	帶:Vt	酥脆:Vi	
+內部:N	土司:N	頗:ADV	紮實:Vi	
+連同:P	巧克力:N	冰淇淋:N	一起:ADV	入口:Vi	
+融合:Vt	微:ADV	鹹:Vi	的:T	奶油味:N	和:C	甜:Vi	而:C	不:ADV	膩:Vi	的:T	冰淇淋:N	
+堪稱:Vt	一絕:N	
+讓:Vt	人:N	內心:N	充滿:Vt	了:ASP	喜悅:Vi	
+美中不足:Vi	的:T	是:Vt	
+草莓:N	太:ADV	小:Vi	了:T	
+PerfumeDance:FW	
+跳舞:Vi	香水:N	
+顯然:ADV	甜點:N	要:ADV	比:P	鹹食:N	主餐:N	出色:Vi	亮眼:Vi	
+享受:Vt	這樣:Vi	的:T	下午茶:N	時光:N	
+是:Vt	炎炎夏日:N	的:T	小:Vi	確:ADV	幸:ADV	
+--:DASHCATEGORY	春衫:N	猶:ADV	是:Vt	小:Vi	蠻:ADV	針線:N	曾:ADV	濕:Vi	西湖:N	雨:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.udn.com/ccpou/article:FW	--:DASHCATEGORY	

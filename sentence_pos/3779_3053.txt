@@ -1,0 +1,60 @@
+hoho:FW	123:DET	(:PARENTHESISCATEGORY	我:N	現在:N	真是:ADV	晴空萬里:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	品田:N	牧場:N	(:PARENTHESISCATEGORY	家:N	樂福:N	桂林店:N	):PARENTHESISCATEGORY	
+Fri:FW	
+Nov:FW	
+21:DET	
+15:DET	::COLONCATEGORY	49:DET	::COLONCATEGORY	03:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	品田:N	牧場:N	(:PARENTHESISCATEGORY	家:N	樂福:N	桂林店:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	11月:N	
+地址:N	：:COLONCATEGORY	台北市:N	萬華區:N	桂林路:N	1:DET	號:M	4樓:N	(:PARENTHESISCATEGORY	近:ADV	小:Vi	南門:N	站:Vi	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2388:DET	-:DASHCATEGORY	1611:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+網誌:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	daigo24.pixnet.net/blog/post:FW	/:FW	190548132:DET	
+由於:C	最近:N	開始:POST	要:ADV	忙:Vi	了:T	
+所以:C	便:ADV	在:P	十一月:N	來:ADV	吃:Vt	頓:M	飯:N	
+我們:N	選擇:Vt	的:T	是:Vt	位於:Vt	桂林路:N	上:N	的:T	品田:N	牧場:N	
+在:P	家:N	樂福:N	的:T	樓上:N	
+但是:C	我們:N	坐車:Vi	是:Vt	坐到:Vt	西門:N	站:Vi	再:ADV	走過去:Vi	
+所以:C	經過:Vt	了:ASP	西:N	本:ADV	願:Vt	寺:N	
+照例:ADV	又:ADV	拍:Vt	了:ASP	一下:N	照片:N	
+走:Vi	了:ASP	大約:ADV	十:DET	分鐘:M	後:POST	才:ADV	抵達:Vt	
+由於:C	沒有:ADV	預約:Vt	
+幸好:ADV	還:ADV	有:Vt	位置:N	
+但是:C	沒:ADV	預約:Vt	也:ADV	要:ADV	留:Vt	電話:N	
+怪:Vt	
+我們:N	坐下:Vi	後:POST	就:ADV	各:ADV	點:Vt	了:ASP	章魚:N	燒:Vt	豬排:N	和:C	海味:N	菲力:N	
+這:DET	是:Vt	目錄:N	
+這:DET	是:Vt	磨:Vt	芝麻:N	
+這:DET	是:Vt	茶水:N	
+很:ADV	快:Vi	會:ADV	來:ADV	補上:Vt	
+這:DET	是:Vt	沙拉:N	
+很:ADV	大:Vi	隻:M	的:T	蝦子:N	
+吃起來:ADV	很:ADV	夠味:Vi	
+也:ADV	很:ADV	大一盤:N	
+這:DET	是:Vt	高麗菜:N	絲:N	
+可:ADV	無限:Vi	續盤:N	
+我們:N	淋上:Vt	芝麻醬:N	吃:Vt	也:ADV	很:ADV	好吃:Vi	
+但:C	太:ADV	大盤:N	了:T	
+只:ADV	續:Vt	了:ASP	一:DET	次:M	
+服務生:N	是:Vt	說:Vt	要:ADV	等上:Vt	二十:DET	分鐘:M	
+但:C	我們:N	沒:ADV	等:P	多久:N	就:ADV	上:Vt	主菜:N	了:T	
+這:DET	是:Vt	章魚:N	燒:Vt	豬排:N	
+一共:ADV	大約:ADV	有:Vt	六:DET	塊:M	
+看起來:ADV	很少:ADV	
+但:C	吃起來:ADV	份量:N	很:ADV	足:Vi	
+這:DET	是:Vt	海味:N	菲力:N	
+蝦子:N	很:ADV	大:Vi	隻:M	
+魚肉:N	有:Vt	二:DET	片:M	也:ADV	很:ADV	酥:Vi	嫩:Vi	
+最後:N	實在:ADV	是:Vt	吃:Vt	不:ADV	下:Vt	了:T	
+只好:ADV	打包:Vi	一半:DET	
+這:DET	是:Vt	甜點:N	
+我們:N	都:ADV	選:Vt	了:ASP	一樣:Vi	的:T	野莓奶酪:N	
+酸酸甜甜:Vi	的:T	很:ADV	好吃:Vi	
+甜點:N	和:C	飲料:N	是:Vt	一起:ADV	上:Vt	的:T	
+這:DET	是:Vt	冰:N	咖啡:N	
+沒有:Vt	什麼:DET	特別:Vi	的:T	
+味道:N	挺:ADV	濃:Vi	的:T	
+這:DET	次:M	感覺:N	上:N	有:Vt	比:P	上:DET	回:M	好吃:Vi	
+不同:Vi	分店:N	好像:ADV	處理:Vt	上:POST	不:ADV	太:ADV	一樣:Vi	
+謝謝:Vt	收看:Nv	

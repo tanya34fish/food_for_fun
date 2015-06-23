@@ -1,0 +1,44 @@
+guessworld:FW	(:PARENTHESISCATEGORY	奶油:N	不:ADV	飛:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	安和路:N	多麼:ADV	Cafe:FW	+:FW	
+Wed:FW	
+Apr:FW	
+1:DET	
+21:DET	::COLONCATEGORY	37:DET	::COLONCATEGORY	08:DET	
+2015:DET	
+圖文:N	網誌版:N	請:Vt	點:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	guessworld.pixnet.net/blog/post:FW	/:FW	42071374:DET	
+店名:N	：:COLONCATEGORY	多麼:ADV	Cafe:FW	+:FW	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27330009:DET	地址:N	：:COLONCATEGORY	台北市:N	大安區:N	安和路:N	二段:N	217巷:N	16:DET	號:M	營業:Nv	時間:N	：:COLONCATEGORY	Sun:FW	
+Thu:FW	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	
+1:DET	::COLONCATEGORY	00:DET	
+Fri:FW	
+Sat:FW	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	
+3:DET	::COLONCATEGORY	00:DET	消費:N	日期:N	：:COLONCATEGORY	Mar:FW	72015:DET	今天:N	放假:Vi	跟:P	同事:N	去:ADV	看:Vt	電影:N	
+結束:Vt	後:POST	就:ADV	到:Vt	附近:N	的:T	咖啡店:N	聊聊天:Vi	喝:Vt	東西:N	
+想起:Vt	一直:ADV	想:Vt	去:Vt	的:T	口袋:N	名單:N	─:FW	多麼:ADV	咖啡:N	就:ADV	在:P	附近:N	
+馬上:ADV	就:ADV	去:Vt	囉:T	
+一:DET	開始:Vi	只:ADV	有:Vt	吧台:N	位置:N	
+所以:C	比較:ADV	擠:Vi	一些:DET	
+待:P	二樓:N	有:Vt	空位:N	時:POST	就:ADV	換上去:Vi	囉:T	
+整體:N	環境:N	跟:P	空間:N	就:ADV	寬敞:Vi	舒服:Vi	多:Vi	了:T	
+鬆餅:N	
+$:FW	150:DET	
+可:ADV	任選:Vt	雙醬:N	
+點:Vt	了:ASP	一:DET	份:M	鬆餅:N	分食:Vt	
+烤:Vt	得:T	酥酥:Vi	香香:Vi	的:T	
+味道:N	還:ADV	不錯:Vi	囉:T	
+可:ADV	選:Vt	兩:DET	種:M	不同:Vi	配料:N	
+第一:DET	個:M	選:Vt	了:ASP	肉桂:N	蘋果:N	佐:Vt	香草:N	冰淇淋:N	
+新鮮:Vi	的:T	蘋果片:N	用:P	肉桂:N	調味:Vi	並:ADV	漬:Vt	過:ASP	
+有:Vt	甜香:N	但:C	不會:ADV	過重:Vi	
+搭上:Vt	冰淇淋:N	正好:ADV	
+另:DET	一:DET	款:M	是:Vt	帶:Vt	著:ASP	檸檬:N	酸香:N	的:T	奶油:N	
+配上:Vt	甜蜜:Vi	蜜:N	的:T	蜂蜜:N	
+檸檬:N	口味:N	卡士達佐:N	新鮮:Vi	野:Vi	蜂蜜:N	
+焦糖:N	拿:Vt	鐵:N	
+$:FW	160:DET	
+我:N	的:T	焦糖:N	拿:Vt	鐵:N	好不:ADV	焦糖:N	
+一直:ADV	懷疑:Vt	是否:ADV	沒:ADV	加:Vt	到:P	
+有:Vt	些:M	細節:N	的:T	裝潢:N	很:ADV	可愛:Vi	
+門口:N	的:T	位置:N	採光:N	好棒:Vi	
+沒有:ADV	吃到:Vt	他們:N	家:N	的:T	蛋糕:N	有點:ADV	可惜:Vi	
+才:ADV	下午:N	兩:DET	點:N	多:POST	就:ADV	向隅:Vi	了:T	
+有機:A	會會:Vt	想:Vt	再:ADV	來:ADV	試試:Vt	蛋糕:N	囉:T	

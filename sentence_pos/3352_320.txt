@@ -1,0 +1,21 @@
+aner:FW	(:PARENTHESISCATEGORY	姊:N	說:Vt	永遠:ADV	都:ADV	要:ADV	美:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	香港:N	友人:N	來:ADV	請:Vt	推荐:Vt	台北:N	車站:N	舒適:Vi	餐廳:N	
+Fri:FW	
+Jul:FW	
+25:DET	
+09:DET	::COLONCATEGORY	25:DET	::COLONCATEGORY	59:DET	
+2014:DET	
+請益:Vi	
+香港:N	友人:N	來:ADV	請:Vt	推荐:Vt	台北:N	車站:N	舒適:Vi	餐廳:N	
+FriJul:FW	2509:DET	::COLONCATEGORY	25:DET	::COLONCATEGORY	592014:DET	
+各:DET	位:M	鄉民:N	大大:Vi	好:Vi	
+因為:C	有:Vt	香港:N	友人:N	
+1:DET	位:M	男:N	
+來訪:Vi	
+想:Vt	請教:Vt	各:DET	位在:Vt	台北:N	車站:N	附近:N	
+坐椅:N	舒服:Vi	東西:N	好吃:Vi	最好:ADV	不要:ADV	有:Vt	時間:N	限制:N	的:T	餐廳:N	
+下午茶:N	/:FW	咖啡廳:N	/:FW	BRUNCH:FW	/:FW	美式:A	餐廳:N	
+等等:POST	皆:ADV	可:ADV	
+排除:Vt	港式茶:N	餐廳:N	也:ADV	盡量:ADV	不要:ADV	那:DET	種:M	全球:N	都:ADV	有的:DET	連鎖:A	餐廳:N	等:POST	
+還是:ADV	希望:Vt	有:Vt	一點:DET	讓:Vt	港:N	友人:N	覺得:Vt	有:Vt	特色:N	的:T	場所:N	
+先:ADV	謝謝:Vt	大家:N	了:T	

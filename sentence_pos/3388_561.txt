@@ -1,0 +1,56 @@
+imimemeya:FW	(:PARENTHESISCATEGORY	獨角獸:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	小涼院:N	霜淇淋:N	專門店:N	
+Mon:FW	
+Aug:FW	
+4:DET	
+21:DET	::COLONCATEGORY	29:DET	::COLONCATEGORY	06:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	小涼院:N	霜淇淋:N	專門店:N	
+用餐:Nv	日期:N	：:COLONCATEGORY	2014.08:DET	
+內:N	有:Vt	食物:N	照:Vt	之:T	網誌版:N	::COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	memeya.pixnet.net/blog/post:FW	/:FW	32654162:DET	
+以下:N	是:Vt	網誌:N	複製:Vt	貼上:Vt	BBS:FW	文字版:N	::COLONCATEGORY	
+消費:N	日期:N	2014.08:DET	
+-:DASHCATEGORY	店家:N	資訊:N	-:DASHCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	復興南路:N	二段:N	148巷:N	34:DET	號:M	
+捷運:N	科技:N	大樓:N	站:Vi	路程:N	六:DET	分鐘:M	
+近:ADV	開平:N	餐飲:N	學校:N	
+電話:N	：:COLONCATEGORY	0930348005:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	13:DET	::COLONCATEGORY	00:DET	
+20:DET	::COLONCATEGORY	00:DET	
+售完:Vt	為止:POST	
+FB:FW	：:COLONCATEGORY	小涼院:N	霜淇淋:N	專門店:N	
+其他:DET	：:COLONCATEGORY	有:Vt	內:N	用:Vt	座位:N	
+這:DET	是:Vt	一:DET	家:M	我:N	不經意:ADV	看到:Vt	宣傳:Vt	布條:N	的:T	店:N	
+七月:N	中旬:N	左右:POST	
+被:P	弔胃口:Vi	了:ASP	好多:DET	禮拜:N	
+今天:N	經過:Vt	終於:ADV	開:Vt	了:ASP	
+據說:ADV	是:Vt	昨天:N	開幕:Vi	
+試賣:Vt	中:POST	
+打卡:Nv	半價:N	
+$:FW	80:DET	X:FW	0.5:DET	=:FW	40:DET	
+宣傳單:N	上:POST	強調:Vt	天然:A	無:Vt	添加:Vt	
+今天:N	是:Vt	荔枝:N	口味:N	
+老闆娘:N	說:Vt	採用:Vt	多:DET	層:M	工法:N	製作:Vt	的:T	荔枝:N	乾:Vi	
+不:ADV	是:Vt	新鮮:Vi	的:T	荔枝:N	果肉:N	
+霜淇淋:N	原料:N	內:N	含有:Vt	牛奶:N	
+上面:N	淋:Vt	的:T	是:Vt	洛神花:N	蜂蜜:N	
+由於:C	是:Vt	荔枝:N	乾:Vi	為:Vt	主要:A	材料:N	
+濃:Vi	甜:Vi	的:T	荔枝:N	蜜香:N	是:Vt	最:ADV	強烈:Vi	的:T	味道:N	
+再:ADV	來:ADV	是:Vt	點綴:Vt	的:T	蜂蜜:N	香氣:N	和:C	些微:A	的:T	蜂蜜:N	甜味:N	
+和:C	霜淇淋:N	主體:N	很:ADV	搭:Vt	
+後來:N	出現:Vi	的:T	是:Vt	些許:DET	柴:N	燒:Vt	
+炭香:N	
+的:T	煙燻:A	味道:N	
+整體:N	氣味:N	很:ADV	豐富:Vt	
+但:C	全部:DET	的:T	美妙:Vi	綜合:Vt	在一起:Vi	久:Vi	了:ASP	有:Vt	些:M	過:ADV	甜:Vi	
+但:C	放心:Vt	
+店裡:N	有:Vt	自助:Nv	水杯:N	區:N	
+至於:P	口感:N	類似:Vt	較:ADV	滑:Vi	順:Vi	的:T	sorbet:FW	
+且:C	在:P	嘴:N	裡:POST	不會:ADV	有:Vt	刮:Vt	嘴:N	或:C	黏膩:Vi	的:T	感覺:N	
+店裡:N	的:T	擺設:N	很:ADV	簡單:Vi	舒服:Vi	
+有:Vt	六:DET	個:M	左右:POST	的:T	椅子:N	以及:C	一:DET	長桌:N	
+老闆娘:N	說:Vt	這:DET	禮拜:N	都:ADV	是:Vt	荔枝:N	口味:N	喔:T	
+喜歡:Vt	吃:Vt	冰:N	或是:C	荔枝:N	愛好:Vt	者:N	不要:ADV	錯過:Vt	
+決定:Vt	要:ADV	把:P	他:N	家:N	的:T	口味:N	們:N	集滿:Vt	
+握拳:Vi	

@@ -1,0 +1,50 @@
+iioouu:FW	(:PARENTHESISCATEGORY	小萍:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	：:COLONCATEGORY	靠:P	一味:ADV	走紅:Vi	江湖:N	☆:FW	慶城街:N	海南:N	雞:N	
+Sun:FW	
+Aug:FW	
+3:DET	
+00:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	21:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	慶城街:N	海南:N	雞:N	
+品嘗:Vt	日期:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	慶城街:N	16巷:N	8:DET	號:M	（:PARENTHESISCATEGORY	捷運:N	南京東路:N	站:Vi	）:PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	8712:DET	-:DASHCATEGORY	1200:DET	、:PAUSECATEGORY	0916:DET	-:DASHCATEGORY	728:DET	-:DASHCATEGORY	830:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	（:PARENTHESISCATEGORY	例假日:N	公休:Vi	）:PARENTHESISCATEGORY	
+---:DASHCATEGORY	
+網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	anrine910070.pixnet.net/blog/post:FW	/:FW	184540611:DET	
+---:DASHCATEGORY	
+難:Vi	得到:Vt	這:DET	附近:N	辦事:Vi	
+趕緊:ADV	抓住:Vt	機會:N	來:ADV	品嘗:Vt	這:DET	家:M	平價:N	的:T	捷運:N	美食:N	吧:T	
+烈日:N	當頭:ADV	還是:ADV	不少:Vi	人:N	撐:Vt	著:ASP	傘:N	排隊:Vi	
+看:Vt	了:ASP	一下:N	大家:N	的:T	穿著:N	
+大多:DET	是:Vt	附近:N	的:T	上班族:N	
+果然:ADV	一點:DET	多:POST	後:POST	排隊:Vi	的:T	人潮:N	全:DET	散光:N	了:T	
+不:ADV	喜歡:Vt	排隊:Vi	的:T	人:N	
+記得:Vt	避開:Vt	用餐:Vi	的:T	高峰:N	時段:N	喔:T	
+三:DET	年:M	前來:Vt	時:POST	店:N	內外:N	長:Vi	得:T	不:ADV	是:Vt	這樣:Vi	
+當時:N	有:Vt	不少:DET	文章:N	都:ADV	說:Vt	這裡:N	有:Vt	隱藏:Vt	版:N	菜單:N	
+就是:C	想:Vt	多:ADV	吃:Vt	點:M	雞肉:N	可以:ADV	和:P	店員:N	加:Vt	點:M	
+但:C	現在:N	已經:ADV	不用:ADV	再:ADV	靠:Vt	著:ASP	口:M	耳:N	相傳:Vt	了:ASP	
+店家:N	明文:ADV	寫:Vt	著:ASP	單:ADV	點:Vt	雞腿:N	半:DET	隻:M	55:DET	元:M	、:PAUSECATEGORY	一:DET	隻:M	110:DET	元:M	、:PAUSECATEGORY	白飯:N	15:DET	元:M	
+這裡:N	只:ADV	賣:Vt	海南:N	雞:N	一:DET	種:M	菜色:N	
+分:Vt	1:DET	號:M	餐:N	和:C	2:DET	號:M	餐:N	
+差別:N	只:ADV	在:P	有無:ADV	配:Vt	菜:N	
+由:P	此:DET	可:ADV	知:Vt	生意:N	要好:Vi	
+其實:ADV	只要:C	有:Vt	一:DET	項:M	明星:N	餐品:N	即可:ADV	
+一:DET	號:M	餐:N	
+75:DET	元:M	
+無配:Vi	菜:N	
+米飯:N	用:P	泰國:N	長米:N	加:Vt	七:DET	葉蘭:N	與:C	牛奶:N	
+吃起來:ADV	粒粒:DET	分明:Vi	帶有:Vt	香氣:N	
+不過:C	友人:N	則:ADV	覺得:Vt	有:Vt	些:M	乾:Vi	
+喜歡:Vt	黏:Vt	Q:FW	水份:N	多:Vi	的:T	人:N	應該:ADV	會:ADV	吃:Vt	不:ADV	習慣:Vt	
+薑蔥醬:N	味道:N	有點:ADV	鹹:Vi	屬於:Vt	重:Vi	口味:N	
+紅色:N	的:T	雖然:C	看似:Vt	辣椒:N	很多:DET	
+但:C	其實:ADV	只有:ADV	小辣:Vi	
+兩:DET	者:N	沾:Vt	雞肉:N	吃:Vt	都:ADV	很:ADV	不:ADV	賴:Vt	
+海南:N	雞:N	採用:Vt	細:Vi	火悶腿肉:N	方式:N	製成:Vt	
+每:DET	塊:M	吃起來:ADV	都:ADV	帶有:Vt	肉汁:N	嫩:Vi	的:T	不得了:Vi	
+雞肉:N	品質:N	不:ADV	好:Vi	時:POST	
+用:P	這樣:Vi	的:T	悶:Vi	煮法:N	很:ADV	容易:Vi	殘留:Vt	明顯:Vi	的:T	腥味:N	
+但:C	這裡:N	完全:ADV	沒有:Vt	
+即便:C	不:ADV	沾:Vt	醬料:N	原味:N	享用:Vt	還是:ADV	鮮嫩:Vi	可口:Vi	

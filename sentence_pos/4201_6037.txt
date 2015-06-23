@@ -1,0 +1,84 @@
+weiyu:FW	0331:DET	(:PARENTHESISCATEGORY	男孩:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	忠孝:N	敦化:N	24:DET	小時:M	京星:N	飲茶:Vi	
+Thu:FW	
+Apr:FW	
+2:DET	
+17:DET	::COLONCATEGORY	53:DET	::COLONCATEGORY	27:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	京星:N	
+消費:N	時間:N	：:COLONCATEGORY	104:DET	/:FW	4:DET	
+東區:N	24:DET	小時:M	港式:A	飲茶:Nv	推薦:Nv	、:PAUSECATEGORY	忠孝:N	敦化:N	人氣:N	美食:N	－:FW	《:PARENTHESISCATEGORY	京星:N	港式:A	飲茶:Nv	Part:FW	1:DET	》:PARENTHESISCATEGORY	
+&:FW	lt:FW	;:SEMICOLONCATEGORY	好讀:Vt	圖文:N	…:ETCCATEGORY	&:FW	gt:FW	;:SEMICOLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	weiyu0331.pixnet.net/blog/post:FW	/:FW	416915656:DET	
+終於:ADV	如願以償:Vi	來到:Vt	東區:N	的:T	
+京星港式:A	飲茶:Nv	Part:FW	1:DET	
+也:ADV	可以:ADV	說:Vt	我:N	根本:ADV	就是:C	鄉巴佬:N	
+即使:C	以前:N	在:P	東區:N	工作:N	一:DET	年:M	半:DET	也:ADV	從不:ADV	曾:ADV	進來:Vi	過:ASP	
+算是:Vt	一:DET	個:M	圓夢:Vi	計畫:N	
+簡直:ADV	是:Vt	三:DET	個:M	願望:N	一:DET	次:M	滿足:Vt	
+這:DET	次:M	Ethan:FW	和:C	好友:N	來:ADV	吃:Vt	飲茶:Vi	
+就:ADV	抱持:Vt	著:ASP	一定:ADV	要:ADV	吃到:Vt	滿足:Vt	的:T	心情:N	
+所以:C	看:Vt	著:ASP	菜單:N	也:ADV	沒:ADV	客氣:Vi	
+想:Vt	吃:Vt	什麼:DET	就:ADV	吃:Vt	什麼:DET	
+完全:ADV	就:ADV	是:Vt	一:DET	個:M	愉快:Vi	
+只:ADV	能:ADV	說:Vt	
+還好:ADV	有:Vt	來:ADV	吃:Vt	
+絕對:ADV	不會:ADV	後悔:Vt	的:T	
+京星港式:A	飲茶:Nv	Part:FW	1:DET	
+店家:N	資訊:N	地址:N	：:COLONCATEGORY	台北市:N	敦化南路:N	一段:N	216:DET	號:M	2樓:N	電話:N	：:COLONCATEGORY	
+02:DET	
+2741:DET	-:DASHCATEGORY	2625:DET	時間:N	：:COLONCATEGORY	24:DET	小時:M	捷運:N	：:COLONCATEGORY	捷運:N	板南線:N	忠孝:N	敦化:N	4:DET	號:M	出口:N	位於:Vt	忠孝:N	敦化:N	的:T	
+京星港式:A	飲茶:Nv	Part:FW	1:DET	
+24:DET	小時:M	營業:Nv	
+服務:Vt	各式各樣:A	的:T	客人:N	
+不論:C	是:Vt	加班:Vi	到:P	半夜:N	
+或是:C	中午:N	和:C	同事:N	一同:ADV	聊:Vt	八卦:N	
+京星港式:A	飲茶:Nv	Part:FW	1:DET	
+都:ADV	是:Vt	不少:DET	人:N	的:T	最佳:A	選擇:N	
+大:Vi	張:M	的:T	菜單:N	因為:C	太多:DET	頁:M	我:N	就:ADV	沒:ADV	拍:Vt	了:ASP	
+不過:C	詳情:N	也:ADV	可以:ADV	上:Vt	官網:N	自己:N	找:Vt	
+有:Vt	拍:Vt	小:Vi	張:M	的:T	點心:N	部分:DET	
+比較:ADV	一目了然:Vi	
+有:Vt	開放式:A	的:T	廚房:N	也:ADV	讓:Vt	客人:N	可以:ADV	安心:Vi	食用:Vt	
+不過:C	雖然:C	今天:N	點:Vt	的:T	奶皇包:N	上面:N	有:Vt	蒼蠅:N	
+但:C	店員:N	也:ADV	是:Vt	很:ADV	迅速:Vi	地:T	幫:P	我們:N	重:ADV	上:Vt	了:ASP	一:DET	份:M	
+就:ADV	不:ADV	計較:Vt	了:ASP	
+【:PARENTHESISCATEGORY	XO:FW	醬松阪:N	豬公:N	仔麵:N	】:PARENTHESISCATEGORY	$:FW	260:DET	Ethan:FW	最:ADV	愛:Vt	的:T	不:ADV	敗:Vi	料理:N	
+每:DET	次:M	就是:C	想:Vt	吃:Vt	XO:FW	醬:N	系列:N	的:T	炒物:N	
+不僅:C	很:ADV	開胃:Vi	又:ADV	重:Vi	口味:N	
+讓:Vt	人:N	永遠:ADV	吃:Vt	不:ADV	膩:Vi	
+不過:C	一:DET	個:M	人:N	好像:ADV	吃:Vt	不:ADV	完:Vt	一:DET	盤:M	
+得:ADV	跟:P	三五:DET	好友:N	一起:ADV	share:FW	比較:ADV	實在:Vi	
+【:PARENTHESISCATEGORY	揚州:N	炒飯:N	】:PARENTHESISCATEGORY	$:FW	200:DET	炒飯:N	料:N	很:ADV	豐盛:Vi	
+不過:C	味道:N	偏:Vt	蛋:N	
+感覺:N	加:Vt	一些:DET	辣椒:N	醬提味:N	會:ADV	更:ADV	好吃:Vi	
+【:PARENTHESISCATEGORY	滑:Vi	蛋:N	牛肉:N	粥:N	】:PARENTHESISCATEGORY	$:FW	150:DET	牛肉:N	粥:N	味道:N	很:ADV	香:Vi	
+不過:C	也:ADV	是:Vt	比較:ADV	清淡:Vi	口味:N	
+我:N	很:ADV	喜歡:Vt	牛肉:N	粥:N	的:T	清香:N	
+但是:C	如果:C	可以:ADV	再:ADV	鹹:Vi	一點點:DET	
+應該:ADV	會:ADV	很:ADV	剛好:Vi	
+【:PARENTHESISCATEGORY	蜜汁:N	叉燒:N	酥:Vi	】:PARENTHESISCATEGORY	$:FW	95:DET	簡直:ADV	入口:Vi	即:ADV	化:Vi	的:T	叉燒:N	酥:Vi	
+Ethan:FW	大:Vi	推薦:Vt	
+吃:Vt	一口:ADV	就:ADV	會:ADV	愛上:Vt	
+而且:C	整:DET	個:M	嘴巴:N	都:ADV	會:ADV	滿:ADV	滿滿:Vi	的:T	滿足:Nv	
+【:PARENTHESISCATEGORY	柱侯炆:N	牛肚:N	】:PARENTHESISCATEGORY	$:FW	100:DET	入味:N	的:T	牛肚:N	非常:ADV	Q:FW	彈:Vt	
+一直:ADV	咬:Vt	都:ADV	覺得:Vt	不會:ADV	累:Vt	
+【:PARENTHESISCATEGORY	豉汁大:N	鳳爪:N	】:PARENTHESISCATEGORY	$:FW	120:DET	Ethan:FW	不:ADV	愛:Vt	鳳爪:N	
+因為:C	覺得:Vt	口感:N	太:ADV	真實:Vi	有點:ADV	可怕:Vi	
+不過:C	味道:N	也:ADV	ok:FW	
+也:ADV	不會:ADV	很:ADV	難:Vi	咬:Vt	
+【:PARENTHESISCATEGORY	脆:Vi	炸:Vt	蘿蔔糕:N	】:PARENTHESISCATEGORY	$:FW	85:DET	蘿蔔糕:N	要:ADV	大推:Vt	
+說:Vt	老實話:N	我:N	也:ADV	沒:ADV	吃:Vt	過:ASP	用:P	炸:Vt	的:T	蘿蔔糕:N	
+不過:C	炸:Vt	起來:ASP	的:T	外皮:N	超級:A	酥脆:Vi	
+可是:C	沒想到:ADV	一:ADV	咬下去:Vt	裡面:N	又:ADV	超軟:Vi	Q:FW	
+這:DET	真的:ADV	不:ADV	推薦:Vt	不行:Vi	
+【:PARENTHESISCATEGORY	桂林:N	牛肉:N	腸粉:N	】:PARENTHESISCATEGORY	$:FW	100:DET	配上:Vt	淡淡:Vi	醬油:N	香:Vi	的:T	腸粉:N	
+用心:Vi	品嘗:Vt	牛肉:N	和:C	醬油:N	的:T	搭配:Nv	
+裹上:Vt	一:DET	層:M	不會:ADV	太:ADV	厚:Vi	的:T	腸粉:N	皮:N	
+吃起來:ADV	真的:ADV	很:ADV	滿足:Vt	
+【:PARENTHESISCATEGORY	奶皇流:N	沙包:N	】:PARENTHESISCATEGORY	$:FW	100:DET	一:DET	咬下去:Vt	整:DET	個:M	大爆:Vi	漿:N	
+有別於:Vt	外面:N	的:T	奶皇:N	包:Vt	
+這邊:N	的:T	流沙:N	感:Vt	非常:ADV	強調:Vt	
+是:Vt	真的:ADV	會:ADV	流出來:Vi	的:T	那:DET	種:M	
+奶油味:N	比較:ADV	濃:Vi	
+值得:Vi	點:ADV	來:ADV	吃:Vt	

@@ -1,0 +1,21 @@
+地址:N	：:COLONCATEGORY	光復南路:N	280巷:N	45:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	左右:POST	
+很:ADV	好吃:Vi	
+店:N	內:N	都:ADV	是:Vt	沉穩:Vi	的:T	原木色:N	
+櫃檯:N	就:ADV	在:P	一:DET	入門:Vi	的:T	地方:N	
+真的:ADV	好:ADV	貼心:Vi	
+平日:N	的:T	下午茶:N	時段:N	$:FW	200:DET	元:M	有:Vt	一:DET	杯:M	咖啡:N	加:Vt	一:DET	個:M	點心:N	
+感覺:N	也:ADV	太:ADV	超值:Vi	了:T	
+我:N	點:Vt	了:ASP	Eric:FW	大推:Vt	的:T	
+克立瑪:N	$:FW	180:DET	
+香杏克立瑪:N	$:FW	200:DET	
+杏仁:N	克立瑪:N	$:FW	220:DET	
+冰淇淋:N	味道:N	加:Vt	在:P	偏:Vt	酸:Vi	的:T	咖啡:N	裡:N	
+中和:N	的:T	剛剛好:ADV	
+不會:ADV	太:ADV	甜:Vi	膩:Vi	
+香草:N	的:T	味道:N	並:ADV	不:ADV	明顯:Vi	
+沒有:ADV	那麼:ADV	甜:Vi	
+但:C	咖啡:N	實在:ADV	太:ADV	酸:Vi	了:T	
+是:Vt	偏:ADV	鬆厚:Vi	的:T	口感:N	
+藍莓:N	起:POST	司:Vt	蛋糕:N	是:Vt	偏:ADV	清爽:Vi	的:T	味道:N	
+但:C	蛋糕:N	很:ADV	扎實:Vi	

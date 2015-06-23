@@ -1,0 +1,140 @@
+lovecala(cala:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	GB:FW	鮮釀:Vt	餐廳:N	輕鬆:Vi	美味:Vi	的:T	美式:A	餐廳:N	
+Sun:FW	
+Feb:FW	
+15:DET	
+19:DET	::COLONCATEGORY	45:DET	::COLONCATEGORY	54:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	GB:FW	鮮釀:Vt	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	1月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松壽路:N	11:DET	號:M	2樓:N	(:PARENTHESISCATEGORY	新光三越:N	A:FW	11:DET	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	87867588:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	梅爾森:N	BBQ:FW	豬肋:N	排:Vt	
+圖文:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	lovecala.pixnet.net/blog/post:FW	/:FW	193448310:DET	
+這:DET	個:M	冬天:N	其實:ADV	冷:Vi	的:T	時候:N	沒:Vt	幾:DET	天:M	耶:T	
+週末:N	還:ADV	常常:ADV	陽光:N	普照:Vt	
+雖然:C	風:N	吹:Vt	了:ASP	還是:ADV	會:ADV	冷:Vi	
+但是:C	曬曬太陽:Vi	好:ADV	舒服:Vi	喔:T	
+看到:Vt	天氣:N	好:Vi	
+就:ADV	會:ADV	想:Vt	出去:Vi	趴:Vi	趴:Vi	走:Vi	
+隨性:Vi	派:Vt	就:ADV	這樣:Vi	機動:A	出發:Vi	信義區:N	逛逛:Vt	囉:T	
+信義區:N	不:ADV	是:Vt	只有:ADV	逛街:Vi	而已:T	
+世貿:N	對面:N	巷子:N	裡:N	的:T	四四:DET	南村:N	可:ADV	熱鬧:Vi	了:T	
+有的:DET	人:N	在:P	外拍:N	
+有的:DET	人:N	就坐:Vi	在:P	草地:N	上:N	聊天:Vi	
+有的:DET	人:N	逛逛:Vt	裡面:N	的:T	展覽:Nv	
+更:ADV	有:Vt	一:DET	堆:M	人:N	在:P	假日:N	市集:N	裡:N	尋:Vt	寶:N	
+累:Vt	了:ASP	也:ADV	可以:ADV	坐下:Vi	吃:Vt	點:M	東西:N	
+而且:C	這裡:N	可是:C	拍攝:Vt	101:DET	很:ADV	棒:Vi	的:T	位置:N	喔:T	
+好多:DET	人:N	在:P	這:DET	拍照:Vi	呢:T	
+我們:N	也:ADV	在:P	這:DET	逛:Vt	得:T	不亦樂乎:Vi	
+逛:Vt	到:P	大約:ADV	四五:DET	點:M	
+開始:Vt	尋覓:Vt	晚餐:N	
+因為:C	大家:N	也:ADV	知道:Vt	
+假日:N	要:ADV	在:P	熱門:Vi	的:T	地區:N	吃:Vt	個:M	飯:N	
+沒:ADV	訂位:Vi	還:ADV	真是:Vt	一:DET	位:M	難:Vi	求:Vt	
+所以:C	我們:N	決定:Vt	避開:Vt	熱門:Vi	用餐:Nv	時段:N	
+逛:Vt	到:P	五:DET	點:M	就:ADV	來去:Vi	新光三越:N	看看:Vt	有:Vt	什麼:DET	好吃:Vi	
+看到:Vt	GB:FW	想想:Vt	好久:Vi	沒:ADV	吃:Vt	了:ASP	
+立刻:ADV	手:N	刀:N	衝上前:Vi	問問:Vt	有:Vt	沒:Vt	位置:N	
+哈哈:ADV	
+剩下:Vt	吧台:N	的:T	位置:N	
+不過:C	沒關係:Vi	
+吃:Vt	到:P	想:Vt	吃:Vt	的:T	東西:N	比較:ADV	重要:Vi	
+既來之則安之:Vi	
+兩:DET	個:M	人:N	坐:Vi	吧台:N	也:ADV	是:Vt	挺:ADV	不錯:Vi	的:T	
+吧台:N	的:T	位置:N	其實:ADV	蠻:ADV	寬敞:Vi	的:T	
+椅子:N	也:ADV	有:Vt	靠背:N	坐:Vi	得:T	很:ADV	舒服:Vi	
+前面:N	還:ADV	有:Vt	電視:N	播放:Vt	體育:N	頻道:N	
+標準:N	的:T	美式:A	餐廳:N	Style:FW	
+這裡:N	的:T	招牌:N	就:ADV	是:Vt	手工:N	鮮:Vi	釀:Vt	啤酒:N	
+好多:DET	種:M	口味:N	呢:T	
+要是:C	有:Vt	盛大:Vi	體育:N	賽事:N	時:POST	
+在:P	這:DET	喝:Vt	啤酒:N	
+大家:N	一起:ADV	加油:Vi	一定:ADV	很:ADV	High:FW	
+裝潢:N	的:T	蠻:ADV	有:Vt	味道:N	的:T	
+地上:N	還:ADV	有:Vt	投射燈:N	打出:Vt	招牌:N	
+整:DET	個:M	餐廳:N	就是:C	一:DET	種:M	歡樂:Vi	的:T	用餐:Nv	氣氛:N	
+很:ADV	快速:Vi	的:T	點:N	好:Vi	菜:N	
+因為:C	其實:ADV	都:ADV	想好:Vt	要:ADV	吃:Vt	什麼:DET	啦:T	XD:FW	飲料:N	因為:C	我們:N	不:ADV	喝:Vt	酒:N	
+就:ADV	點:Vt	了:ASP	杯:M	檸檬:N	冰:N	茶:N	和:C	可樂:N	
+可樂:N	是:Vt	可以:ADV	續杯:Vi	的:T	喔:T	
+檸檬:N	冰:N	茶:N	很:ADV	濃:Vi	
+是:Vt	新鮮:Vi	檸檬汁:N	做成:Vt	的:T	
+酸酸:Vi	好喝:Vi	
+因為:C	這裡:N	的:T	份量:N	都:ADV	不:ADV	小:Vi	
+所以:C	兩:DET	個:M	人:N	沒法:ADV	點:Vt	太多:DET	種類:N	
+就:ADV	一:DET	人選:N	一:DET	種:M	主餐:N	囉:T	
+紐約:N	牛排:N	與:C	碳烤:N	鮮蝦:N	是:Vt	8:DET	ozUSDAChoice:FW	等級:N	的:T	牛排:N	
+還:ADV	有:Vt	一:DET	大:Vi	球:N	培根:N	馬鈴薯:N	泥:N	
+用:P	看:Vt	的:T	就:ADV	覺得:Vt	好:ADV	飽:Vi	
+五:DET	分:M	熟:Vi	是:Vt	我們:N	都:ADV	喜歡:Vt	的:T	熟度:N	
+牛排:N	說:Vt	大:Vi	不:ADV	大:Vi	
+不過:C	這:DET	種:M	厚度:N	我:N	覺得:Vt	剛剛好:ADV	
+原味:N	的:T	牛排:N	
+加:Vt	點:M	海鹽:N	就:ADV	很:ADV	好吃:Vi	
+其實:ADV	本來:ADV	對於:P	美式:A	餐廳:N	的:T	牛排:N	是:Vt	沒有:Vt	很:ADV	高:Vi	期待:Vt	的:T	
+沒想到:ADV	這裡:N	的:T	出乎意外:Vi	的:T	好吃:Vi	
+馬鈴薯:N	泥:N	加:Vt	了:ASP	培根:N	讓:Vt	口感:N	更:ADV	添:Vt	層次:N	
+不然:C	單:ADV	吃:Vt	一:DET	大:Vi	球:N	薯泥:N	真的:ADV	會:ADV	有點:ADV	膩:Vi	
+而且:C	這:DET	真的:ADV	很:ADV	有:Vt	飽足感:N	
+另外:C	特別:Vi	的:T	是:Vt	附上:Vt	藍紋:N	起:POST	司醬:N	
+可以:ADV	沾:Vt	牛排:N	用:Vt	的:T	喔:T	
+藍紋:N	起:POST	司:Vt	就:ADV	是:Vt	以:P	特別:Vi	又:ADV	突出:Vi	的:T	味道:N	著名:Vi	
+我:N	覺得:Vt	沾:Vt	一點:DET	也:ADV	蠻:ADV	好吃:Vi	的:T	
+烤蝦:N	一:DET	串:M	四:DET	個:M	
+入味:N	又:ADV	飽滿:Vi	
+已經:ADV	去殼:Vi	讓:Vt	你:N	吃:Vt	得:T	很:ADV	爽快:Vi	
+另:DET	一:DET	份:M	點:N	的:T	是:Vt	梅爾森:N	BBQ:FW	豬肋:N	排:Vt	
+已經:ADV	想:Vt	吃:Vt	豬肋:N	排好:Vt	久:Vi	了:T	喔:T	
+終於:ADV	給:Vt	我:N	吃到:Vt	啦:T	
+看起來:ADV	很:ADV	大一:N	份:N	吧:T	
+還:ADV	附上:Vt	蒜味:N	薯條:N	和:C	一些:DET	生菜:N	
+感覺:Vt	自己:N	好像:ADV	大:Vi	胃:N	王:N	
+豬肋排:N	最:ADV	重要:Vi	的:T	就是:C	醬汁:N	
+帶:Vt	點:M	甜味:N	的:T	蜜汁:N	烤肉醬:N	
+覆蓋:Vt	在:P	軟嫩:Vi	的:T	肋:N	排上:Vt	
+真的:ADV	超:Vt	好吃:Vi	的:T	
+看起來:ADV	很:ADV	大:Vi	
+其實:ADV	因為:C	帶:Vt	骨:N	
+所以:C	沒有:ADV	那麼:ADV	誇張:Vt	啦:T	
+我:N	一:DET	個:M	人:N	還是:ADV	把:P	它:N	吃光光:Vi	了:ASP	XD:FW	值得:Vi	一:ADV	提:Vt	的:T	是:Vt	這:DET	薯條:N	還:ADV	真:ADV	好吃:Vi	
+很少:ADV	吃到:Vt	這樣:Vi	蒜味:N	的:T	薯條:N	
+讓:Vt	我們:N	一口:ADV	接:Vt	一口:ADV	
+脆脆:Vi	又:ADV	好:ADV	香:Vi	喔:T	
+以為:Vt	這樣:Vi	就:ADV	結束:Vt	了:ASP	嗎:T	
+Oh:FW	
+No:FW	
+沒有:Vt	個:M	甜點:N	做:Vt	Ending:FW	行:Vi	嗎:T	
+一:DET	邊:N	叫:Vt	著:ASP	好:ADV	飽:Vi	喔:T	
+一:DET	邊:N	又:ADV	想:Vt	吃:Vt	點:M	甜:Vi	的:T	
+來到:Vt	美式:A	餐廳:N	最愛:N	的:T	就是:C	來:Vi	個:M	布朗尼:N	啊:T	
+說到:Vt	我:N	都:ADV	要:ADV	流:Vt	口水:N	了:T	
+軟軟:Vi	有點:ADV	黏:Vi	又:ADV	扎實:Vi	口感:N	的:T	布朗尼:N	
+一定:ADV	要:ADV	熱熱:Vi	的:T	
+然後:ADV	配上:Vt	冰淇淋:N	一起:ADV	這:DET	種:M	冰火:N	融化:Vt	在:P	嘴:N	裡:N	超:Vt	好吃:Vi	的:T	
+我:N	平時:N	不:ADV	喜歡:Vt	吃:Vt	巧克力:N	
+卻:ADV	對:P	這:DET	種:M	布朗尼:N	情有獨鍾:Vi	
+就:ADV	知道:Vt	他:N	有:Vt	多:ADV	厲害:Vi	了:T	吧:T	
+而且:C	這裡:N	的:T	好:ADV	用心:Vi	喔:T	
+裝飾:N	得:T	好:ADV	漂亮:Vi	
+還:ADV	淋上:Vt	巧克力:N	和:C	焦糖醬:N	
+是:Vt	稍微:ADV	甜:Vi	了:ASP	點:M	
+但:C	美式:A	甜點:N	就:ADV	是:Vt	要:ADV	甜死:Vt	人:N	不:ADV	償命:Vi	啊:T	
+吃完:Vt	真的:ADV	是:Vt	超:Vt	滿足:Vt	的:T	啦:T	
+雖然:C	付錢:Vi	的:T	時候:N	一千六百多:DET	好像:ADV	有點:ADV	貴:Vi	
+不過:C	我們:N	吃:Vt	牛排:N	又:ADV	吃:Vt	肋:N	排:Vt	都:ADV	那麼:ADV	大:Vi	份:M	
+還:ADV	吃:Vt	甜點:N	呢:T	
+食物:N	很:ADV	好吃:Vi	
+用餐:Nv	環境:N	很:ADV	舒服:Vi	
+就:ADV	覺得:Vt	心情:N	很:ADV	好:Vi	呢:T	
+吃完:Vt	就:ADV	在:P	新光三越:N	逛逛:Vt	
+微風:N	松高店:N	有:Vt	一些:DET	特別:Vi	品牌:N	也:ADV	蠻:ADV	好:Vi	逛:Vt	的:T	
+下午:N	逛:Vt	四四:DET	南村:N	踏青:Vi	
+晚上:N	逛:Vt	百貨公司:N	看看:Vt	流行:Vi	挺:ADV	不錯:Vi	的:T	
+晚上:N	的:T	信義:N	商圈:N	霓虹:N	閃爍:Vi	
+從:P	新光:N	信義店:N	一路:ADV	逛:Vt	到:P	ATT4FUN:FW	
+再:ADV	到:Vt	101:DET	散散步:Vi	兼:Vt	消化:Vt	一下:N	晚餐:N	
+完美:Vi	的:T	隨性:Vi	半:DET	日:M	遊:Vt	成功:Vi	

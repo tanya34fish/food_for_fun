@@ -1,0 +1,77 @@
+rositi:FW	(:PARENTHESISCATEGORY	李米:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	甘:N	記:Vt	蕃茄:N	刀削麵:N	松江:N	南京:N	
+Sat:FW	
+Aug:FW	
+23:DET	
+23:DET	::COLONCATEGORY	27:DET	::COLONCATEGORY	47:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	甘:Vi	記:Vt	蕃茄:N	刀削:N	麵:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	08:DET	
+地址:N	：:COLONCATEGORY	台北市:N	四平街:N	42:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2511:DET	-:DASHCATEGORY	3884:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	14:DET	::COLONCATEGORY	0017:DET	::COLONCATEGORY	30:DET	~:FW	20:DET	::COLONCATEGORY	00:DET	週六:N	日:N	公休:Vi	
+圖文版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	leemi.pixnet.net/blog/post:FW	/:FW	185350515:DET	
+捷運:N	松江:N	南京站:N	週邊:N	四平街:N	有:Vt	兩:DET	家:M	專賣:Nv	蕃茄:N	刀削麵:N	的:T	店家:N	
+分別:ADV	是:Vt	四平:b	商圈:N	尾端:N	的:T	
+四平街:N	番茄:N	牛肉麵:N	
+和:C	靠近:Vt	一:DET	江街:N	的:T	
+甘:Vi	記:Vt	蕃茄:N	刀削:N	麵:N	
+菜單:N	內容:N	差不多:Vi	且:C	生意:N	都:ADV	很:ADV	好:Vi	
+這:DET	天:M	比較:ADV	懶惰:Vi	決定:Vt	去:ADV	離:P	捷運站:N	近:DET	一點:DET	的:T	甘記:N	
+反正:ADV	沒:ADV	吃:Vt	過:ASP	這:DET	間:M	剛好:ADV	換:Vt	口味:N	比較:Vt	一下:N	
+晚餐:N	時間:N	生意:N	非常:ADV	好:Vi	
+幾乎:ADV	維持:Vt	著:ASP	全:DET	滿:DET	的:T	狀態:N	
+桌子:N	空出來:Vt	也:ADV	很:ADV	快:Vi	就:ADV	被:P	剛:ADV	進:Vt	門:N	的:T	客人:N	
+補上:Vt	
+也:ADV	有:Vt	不少:DET	附近:N	的:T	上班族:N	來:ADV	這:DET	解決:Vt	一:DET	頓:M	飯:N	
+室:N	內:N	有:Vt	冷氣:N	開放:Vt	
+比較:ADV	不會:ADV	吃到:Vt	滿頭大汗:Vi	
+我:N	上門:Vi	差不多:Vi	晚上:N	7:DET	點:M	左右:POST	
+菜單:N	上:N	的:T	酸辣:N	、:PAUSECATEGORY	炸醬:N	以及:C	所有:DET	飯類:N	都:ADV	已:ADV	售罄:Vi	
+蕃茄:N	蛋花麵:N	90:DET	元:M	&:FW	amp:FW	
+炸:Vt	排骨:N	60:DET	元:M	
+本來:ADV	想:Vt	選:Vt	個:M	蕃茄:N	排骨:N	麵:N	就:ADV	好:Vi	
+但:C	網:N	上:N	文章:N	又:ADV	對:P	這裡:N	的:T	蛋:N	花多:N	有:Vt	推薦:Nv	
+既然:C	沒:ADV	看到:Vt	額外:A	
+加:Vt	蛋:N	的:T	選項:N	還是:ADV	分開:Vt	點:ADV	了:T	
+煮:Vt	刀削麵:N	是:Vt	比較:ADV	花:Vi	時間:N	的:T	
+外加:Vt	生意:N	好:Vi	等:Vt	了:ASP	有:Vt	一會麵:N	才:ADV	上桌:Vi	
+喝:Vt	了:ASP	一口:ADV	湯:N	有點:ADV	失望:Vi	
+味道:N	淡:Vi	了:ASP	點:M	
+雖然:C	鹹度:N	並:ADV	沒有:Vt	大:Vi	問題:N	
+但是:C	蕃茄:N	滋味:N	似:ADV	有若:Vt	無:Vt	
+的:T	有:Vt	些:M	可惜:Vi	
+沒有:Vt	我:N	喜歡:Vt	的:T	酸甜:Vi	清爽味:N	
+味道:N	明顯:Vi	比:P	另:DET	一:DET	家:M	淡:Vi	
+當然:ADV	也:ADV	可能:ADV	是:Vt	因為:C	今天:N	點:Vt	
+的:T	不:ADV	是:Vt	純:Vi	番茄湯:N	可能:ADV	被:P	稀釋:Vt	了:ASP	
+刀削:N	麵條:N	比較:ADV	薄:Vi	一些:DET	
+很:ADV	滑:Vi	口:N	但:C	有點:ADV	偏:Vt	軟:Vi	
+我:N	個:M	人:N	比較:ADV	喜:Vt	
+歡:Vi	吃:Vt	削:Vt	得:T	厚:Vi	一點:ADV	的:T	
+最好:ADV	中心:N	煮:Vt	透:ADV	但:C	保有:Vt	一點:DET	咬:Vt	麵糰:N	的:T	感覺:N	
+就:P	湯:N	和麵:Vi	來:ADV	說:Vt	我:N	比較:ADV	喜歡:Vt	另:DET	
+一:DET	家:M	
+四平街:N	番茄:N	牛肉麵:N	
+蛋:N	的:T	部分:DET	我:N	也:ADV	覺得:Vt	還好:Vi	而已:T	
+幾乎:ADV	都:ADV	是:Vt	凝結成:Vt	整:DET	塊:M	
+吃起來:ADV	
+比較:ADV	像:Vt	炒蛋:N	
+離:P	我:N	理想:Vi	的:T	鬆軟:Vi	蛋:N	花:N	有點:ADV	差距:N	
+炸:Vt	排骨:N	就:ADV	不錯:Vi	
+油:N	有:Vt	瀝乾:Vt	有:Vt	加分:Vi	
+肉:N	不:ADV	是:Vt	特別:Vi	厚:Vi	
+但:C	吃起來:ADV	不:ADV	乾:Vi	硬:ADV	也:ADV	相當:Vi	入味:N	
+無論:C	是:Vt	
+四平街:N	番茄:N	牛肉麵:N	
+或是:C	
+甘:Vi	記:Vt	蕃茄:N	刀削:N	麵:N	
+我:N	想:Vt	生意:N	能:ADV	這麼:ADV	好:ADV	肯定:Vt	都:ADV	是:Vt	
+有:Vt	吸引人:Vi	的:T	地方:N	
+只:ADV	是:Vt	個:M	人:N	口味:N	使然:Vi	所以:C	愛:Vt	
+四平街:N	番茄:N	牛肉麵:N	
+多:DET	一些:DET	
+下:DET	回:M	再:ADV	找:Vt	些:M	新:Vi	
+名單:N	換換:Vt	口味:N	
+如果:C	有:Vt	覺得:Vt	哪些:DET	店家:N	的:T	蕃茄:N	刀削麵:N	不錯:Vi	也:ADV	歡迎:Vt	推薦:Nv	
+感謝:Vt	

@@ -1,0 +1,116 @@
+breeze:FW	1006:DET	(:PARENTHESISCATEGORY	考拉:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	-:DASHCATEGORY	韓劇:N	迷:Vt	必:ADV	知:Vt	咖啡廳:N	cafebene:FW	
+Thu:FW	
+Nov:FW	
+20:DET	
+00:DET	::COLONCATEGORY	38:DET	::COLONCATEGORY	39:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	cafebene:FW	卡啡:N	陪:Vt	你:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	11月:N	
+地址:N	：:COLONCATEGORY	台北市:N	忠孝東路:N	四段:N	216巷:N	32弄:N	18:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27119906:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	170:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	N:FW	
+有無:Vt	包廂:N	：:COLONCATEGORY	N:FW	
+推薦:Vt	菜色:N	：:COLONCATEGORY	巧:Vi	酥:Vi	刨冰:N	,:COMMACATEGORY	蒜味:N	起:POST	司:Vt	土司:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.caffebene.com.tw:FW	/:FW	
+網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/SpvI:FW	
+以前:N	看:Vt	韓劇:N	時:POST	
+總是:ADV	會:ADV	發現:Vt	從:P	主角:N	到:P	配角:N	
+只要:C	是:Vt	必須:ADV	見面:Vi	
+不論:C	是:Vt	談:Vt	事情:N	還是:ADV	談戀愛:Vi	
+幾乎:ADV	都:ADV	會:ADV	找:Vt	一:DET	家:M	咖啡廳:N	
+面對面:Vi	坐:Vi	著:ASP	
+直到:P	親自:ADV	去:Vt	一:DET	趟:M	韓國:N	自由行:Vi	
+才:ADV	發現:Vt	首:DET	爾:N	市區:N	內:N	果真:ADV	是:Vt	每:DET	50:DET	公尺:M	就:ADV	有:Vt	一:DET	家:M	咖啡廳:N	
+對:P	一:DET	個:M	不:ADV	愛:Vt	喝:Vt	咖啡:N	的:T	人:N	
+我:N	
+來:ADV	說:Vt	
+實在:ADV	不:ADV	理解:Vt	到底:ADV	是:Vt	有:Vt	甚麼:DET	魔力:N	能:ADV	讓:Vt	首:DET	爾人:N	供養:Vt	這麼多:DET	的:T	咖啡廳:N	
+因為:C	常:ADV	出現:Vi	在:P	韓劇:N	場景:N	中:POST	
+而:C	在:P	台灣:N	逐漸:ADV	打開:Vt	知名度:N	的:T	Caf:FW	é:FW	bene:FW	
+在:P	2013年:N	挾:Vt	著:ASP	
+祕密:N	花園:N	
+的:T	高:Vi	人氣:N	而:C	來:ADV	
+從:P	第一:DET	間:M	台灣:N	分店:N	開幕:Vi	半:DET	年:M	來:POST	幾乎:ADV	任一:DET	時段:N	都:ADV	滿座:Vi	
+讓:Vt	我:N	只好:ADV	按:P	耐住:Vt	想:Vt	一探究竟:Vi	的:T	心情:N	
+終於:ADV	盼到:Vt	了:ASP	平日:N	休假:Vi	
+週一:N	下午:N	拉:Vt	著:ASP	閃光:N	去:Vt	caf:FW	é:FW	bene:FW	
+正:ADV	竊喜:Vi	門口:N	沒有:ADV	排隊:Vi	人龍:N	
+沒想到:ADV	推:Vt	門:N	進入:Vt	卻:ADV	看到:Vt	自助:Nv	候位:N	告示牌:N	前:POST	已:ADV	有:Vt	一:DET	組:M	客人:N	
+所以:C	自助:Vi	排隊:Vi	就:ADV	是:Vt	自己:N	乖乖:Vi	排隊:Vi	
+當:ADV	有:Vt	客人:N	離開:Vt	
+就:ADV	自己:N	依序:ADV	找:Vt	位置:N	坐下:Vi	
+我們:N	大概:ADV	等:Vt	了:ASP	20:DET	分鐘:M	左右:POST	才:ADV	入席:Vi	
+雖說:C	是:Vt	自助:Nv	候位:N	
+店員:N	也:ADV	會:ADV	適時:ADV	出現:Vi	觀察:Vt	座位區:N	狀況:N	
+將:P	桌面:N	擦乾淨:Vi	之後:POST	
+再:ADV	提醒:Vt	客人:N	入座:Vi	
+Caf:FW	é:FW	bene:FW	以:P	歐式:A	風格:N	裝潢:N	
+以:P	木頭:N	為:Vt	主色:N	
+經營:Vt	方式:N	有點:ADV	像:Vt	是:Vt	怡客丹堤:N	之類:POST	的:T	連鎖:A	咖啡廳:N	
+客人:N	自己:N	找:Vt	位置:N	坐下:Vi	、:PAUSECATEGORY	自己:N	拿:Vt	菜單:N	參考:N	再:ADV	去:Vt	櫃檯:N	點:Vt	餐:N	
+拿到:Vt	呼叫器:N	後:POST	
+再行:ADV	取餐:N	
+吃飽:Vi	喝足:Vi	後:POST	自己:N	把:P	餐盤:N	放回去:Vi	
+沒有:Vt	低消:N	
+很多:DET	咖啡廳:N	都:ADV	要:ADV	一:DET	人:N	一:DET	杯:M	飲料:N	低消:N	
+沒有:Vt	服務費:N	
+沒有:Vt	時間:N	限制:N	
+如果:C	使用:Vt	免費:Vi	wifi:FW	及:C	人潮:N	眾多:Vi	時:POST	以:P	90:DET	分鐘:M	為限:Vi	
+而且:C	燈光:N	美:Nv	氣氛:N	佳:Vi	
+拍:Vt	起:ASP	照:Vt	來:ADV	好:ADV	有:Vt	感覺:N	
+他們:N	的:T	咖啡:N	強調:Vt	是:Vt	用:P	從:P	農場:N	直接:Vi	到:P	餐桌:N	的:T	咖啡豆:N	製成:Vt	
+能:ADV	用:Vt	更:ADV	好:Vi	的:T	品質:N	和:C	以:P	合理:Vi	的:T	價格:N	提供給:Vt	客人:N	
+立意:N	良善:Vi	
+但:C	
+這些:DET	其他:DET	食物:N	看起來:ADV	比:P	咖啡:N	誘人:Vi	太多:Vi	了:T	啊:T	
+跟:P	甕:N	一樣:Vi	大小:N	的:T	各:DET	式:M	刨冰:N	也:ADV	是:Vt	店裡:N	的:T	招牌:N	
+每:DET	一:DET	盅:M	都:ADV	用:Vt	著:ASP	繽紛:Vi	色彩:N	
+吸引:Vt	著:ASP	我們:N	的:T	目光:N	
+OREO:FW	口味:N	的:T	任何:DET	食物:N	都:ADV	是:Vt	我倆:N	的:T	最愛:N	
+就:ADV	決定:Vt	是:Vt	你:N	了:T	
+巧克力:N	酥片:N	和:C	牛奶味:N	的:T	冰屑:N	一起:ADV	放入:Vt	口:N	中:POST	
+冰涼:Vi	沁心:Vt	又:C	雙重:A	口感:N	
+比:P	OREO:FW	本身:N	還:ADV	好吃:Vi	許多:ADV	啊:T	
+最:ADV	底:N	一:DET	層:M	的:T	巧克力:N	酥片:N	另外:ADV	還:ADV	鋪有:Vt	大:Vi	顆:M	的:T	蜜紅:N	豆:N	
+和:C	牛奶:N	冰:N	相當:ADV	搭:Vt	
+想到:Vt	不:ADV	敗:Vi	經典:N	義美:N	紅豆:N	牛奶:N	冰棒:N	
+一:DET	個:M	不起眼:Vi	
+好:Vi	吧:T	
+一:DET	片:M	有:Vt	著:ASP	美味:Vi	色澤:N	
+紅黃:N	暖色系:N	有:Vt	引起:Vt	食慾:N	效果:N	
+的:T	厚:Vi	片:M	吐司:N	
+竟然:ADV	要:ADV	150:DET	
+著實:ADV	讓:Vt	我:N	小小:Vi	抽:Vt	了:ASP	一口氣:ADV	
+不過:C	一:ADV	想到:Vt	我:N	盼:Vt	著:ASP	來:Vi	這兒:N	這麼:ADV	久:Vi	又:ADV	排隊:Vi	排:Vt	了:ASP	這麼:ADV	久:Vi	
+眼睛:N	便:ADV	自動:Vi	忽略:Vt	價格:N	
+點:Vt	了:ASP	這:DET	一:DET	份:M	蒜香:N	起:POST	司:Vt	土司:N	
+閃光:N	一:ADV	將:P	它:N	端上:Vt	桌:N	的:T	瞬間:N	香氣:N	撲鼻:Vi	
+我:N	知道:Vt	
+它:N	不會:ADV	讓:Vt	我:N	失望:Vi	
+同樣:Vi	的:T	
+卡路里:N	也:ADV	不會:ADV	讓:Vt	我:N	失望:Vi	
+一:DET	刀:M	切下:Vt	將:P	吐司:N	左右:POST	分開:Vt	
+黃澄澄:Vi	的:T	起:Vt	司:N	緩緩:Vi	地:T	流淌:Vt	到:P	白色盤:N	中:POST	
+也:ADV	和:P	餐刀:N	難分難捨:Vi	
+吐司:N	和:C	起司:N	中間:N	就是:C	吃:Vt	了:ASP	嘴巴:N	不會:ADV	臭:Vi	的:T	蒜香:N	醬:N	
+熱:Vt	呼呼:ADV	的:T	吐司:N	充滿:Vt	嚼:Vt	感:N	
+閃光:N	一:ADV	吃到:Vt	好吃:Vi	的:T	
+小小:Vi	的:T	眼睛:N	會:ADV	笑:Vi	到:P	瞇:Vt	起:ASP	
+附上:Vt	一:DET	句:M	：:COLONCATEGORY	好:ADV	幸福:Vi	喔:T	
+這:DET	兩:DET	者:N	讓:Vt	他:N	至少:ADV	
+喔:T	
+了:Vt	三:DET	次:M	
+現在:N	到:P	月底:N	還:ADV	有:Vt	滿:Vt	350:DET	元:M	抽:Vt	雙人:N	首:N	爾:N	來回:Vt	機票:N	的:T	活動:N	喔:T	
+如何:ADV	去:Vt	：:COLONCATEGORY	東區:N	ZARA:FW	對面:N	巷子:N	進去:Vi	
+往:P	前:N	走到:Vt	第三:DET	條:M	小:Vi	弄:Vt	左轉:Vi	進入:Vt	
+第三:DET	間:M	店面:N	就是了:Vi	
+Caf:FW	é:FW	bene:FW	台北:N	忠孝店:N	
+最:ADV	新開幕:Vi	在:P	微風:N	松高:N	
+另:C	在:P	高雄:N	台中:N	也:ADV	都:ADV	有:Vt	門市:N	
+02:DET	-:DASHCATEGORY	27119906:DET	
+台北市:N	忠孝東路:N	四段:N	216巷:N	32弄:N	18:DET	號:M	1樓:N	
+營業:Nv	時間:N	11:DET	::COLONCATEGORY	00:DET	
+23:DET	::COLONCATEGORY	00:DET	

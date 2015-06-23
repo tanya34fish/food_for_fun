@@ -1,0 +1,108 @@
+g662211(wei:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	車站:N	，:COMMACATEGORY	OldiesBurger:FW	新:Vi	美式:A	文化:N	料理:N	
+Tue:FW	
+Aug:FW	
+12:DET	
+00:DET	::COLONCATEGORY	49:DET	::COLONCATEGORY	33:DET	
+2014:DET	
+．:PERIODCATEGORY	餐廳:N	名稱:N	：:COLONCATEGORY	OldiesBurger:FW	|:FW	新:Vi	美式:A	文化:N	料理:N	
+．:PERIODCATEGORY	消費:N	時間:N	：:COLONCATEGORY	2014.6:DET	
+．:PERIODCATEGORY	電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2552:DET	-:DASHCATEGORY	6222:DET	
+．:PERIODCATEGORY	地址:N	：:COLONCATEGORY	台北市:N	大同區:N	華陰街:N	57:DET	號:M	1樓:N	
+．:PERIODCATEGORY	消費:N	金額:N	：:COLONCATEGORY	$:FW	1287:DET	/:FW	2:DET	人:N	(:PARENTHESISCATEGORY	已:ADV	加:Vt	10:DET	%:M	服務費:N	):PARENTHESISCATEGORY	(:PARENTHESISCATEGORY	低消:N	$:FW	300:DET	):PARENTHESISCATEGORY	
+．:PERIODCATEGORY	營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週五:N	::COLONCATEGORY	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	00:DET	|:FW	週六:N	-:DASHCATEGORY	週日:N	::COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+．:PERIODCATEGORY	網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	highca10said.pixnet.net/blog/post:FW	/:FW	185059740:DET	
+我:N	的:T	老天爺:N	
+High:FW	小編:N	最近:N	面臨:Vt	新:Vi	工作:N	跟:P	邀約:Vt	不斷:Vi	的:T	情況:N	
+忙:Vi	到:P	炸掉:Vt	
+好幾:DET	家:M	自己:N	跑去:Vt	吃:Vt	的:T	餐廳:N	都:ADV	來不及:ADV	寫:Vt	
+像:P	這:DET	家:M	OldiesBurger:FW	居然:ADV	快:Vi	兩:DET	個:M	月:N	才:ADV	寫:Vt	XD:FW	":FW	
+切入:Vt	正題:N	
+單單:ADV	以:P	美式:A	漢堡:N	來:ADV	講:Vt	
+High:FW	小編:N	目前:N	推薦:Vt	的:T	是:Vt	
+【:PARENTHESISCATEGORY	澳森:N	漢堡:N	】:PARENTHESISCATEGORY	、:PAUSECATEGORY	【:PARENTHESISCATEGORY	1:DET	bite2go:FW	】:PARENTHESISCATEGORY	台中:N	的:T	【:PARENTHESISCATEGORY	傻子:N	廚房:N	】:PARENTHESISCATEGORY	這:DET	三:DET	家:M	都:ADV	還:ADV	滿:ADV	喜歡:Vt	的:T	
+其餘:DET	像:Vt	是:Vt	【:PARENTHESISCATEGORY	發福:Vi	漢堡:N	】:PARENTHESISCATEGORY	套餐:N	組合:Vt	c/p:FW	值:N	頗:ADV	高:Vi	
+【:PARENTHESISCATEGORY	BLTBurger:FW	】:PARENTHESISCATEGORY	適合:Vi	喝:Vt	酒:N	看:Vt	運動:N	比賽:N	吃:Vt	美式:A	料理:N	
+不得不:ADV	說:Vt	
+這:DET	家:M	美式:A	漢堡:N	真的:ADV	是:Vt	超酷:Vi	的:T	
+從:P	裝潢:N	、:PAUSECATEGORY	餐點:N	到:P	老闆:N	本身:N	就:ADV	是:Vt	很:ADV	獨特:Vi	、:PAUSECATEGORY	藝術:N	、:PAUSECATEGORY	前衛:Vi	
+看到:Vt	網路:N	上:N	的:T	食記:N	
+被:P	三:DET	片:M	蘋果:N	的:T	漢堡:N	吸引到:Vt	
+精心:Vi	設計:N	的:T	擺盤:N	
+超:Vt	有:Vt	美感:N	
+視覺:N	上:POST	更:ADV	是:Vt	享受:Vt	
+【:PARENTHESISCATEGORY	Menu:FW	】:PARENTHESISCATEGORY	店家:N	詳細:Vi	菜單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/PgEqS:FW	0:DET	
+連:C	水:N	都:ADV	這麼:ADV	用心:Vi	
+這:DET	是:Vt	我:N	看過:Vt	最:ADV	漂亮:Vi	的:T	草莓:N	薄荷水:N	
+【:PARENTHESISCATEGORY	費城:N	牛肉:N	起:POST	司:Vt	薯條:N	】:PARENTHESISCATEGORY	$:FW	260:DET	
+PhilyBeefCheeseFries:FW	
+來:ADV	OldiesBurger:FW	前:POST	
+只:ADV	知道:Vt	要點:N	
+貓王:N	醉:Vi	愛:Vt	漢堡:N	
+其他:DET	都:ADV	不:ADV	知道:Vt	XD:FW	":FW	
+請:Vt	店員:N	推薦:Vt	之下:POST	點:Vt	了:ASP	
+這:DET	道:M	
+費城:N	牛肉:N	起:POST	司:Vt	薯條:N	
+真的:ADV	非常:ADV	厲害:Vi	
+第一:DET	次:M	吃到:Vt	薯條:N	濕:Vi	的:T	還可以:ADV	這麼:ADV	好吃:Vi	
+以:P	牛肉片:N	及:C	洋蔥:N	
+伴:Vt	著:ASP	大量:DET	的:T	起:Vt	司:N	
+濃稠:Vi	的:T	口感:N	
+牛肉:N	香氣:N	
+洋蔥:N	清甜:Vi	
+搭配:Vt	半濕:Vi	半:DET	軟:Vi	的:T	薯條:N	
+超:Vt	好吃:Vi	
+超:Vt	夠味:Vi	
+【:PARENTHESISCATEGORY	貓王:N	醉:Vi	愛:Vt	漢堡:N	】:PARENTHESISCATEGORY	$:FW	320:DET	
+ElvisPresley:FW	
+切:ADV	達:Vt	起:ASP	司:N	、:PAUSECATEGORY	瑞士:N	起:Vt	司:N	、:PAUSECATEGORY	培根:N	、:PAUSECATEGORY	蘋果:N	、:PAUSECATEGORY	花生醬:N	、:PAUSECATEGORY	新鮮:Vi	菠菜:N	
+啊哈:T	
+一:DET	整:DET	球:N	的:T	花生醬:N	
+融化:Vt	的:T	cheeeeeeeeese:FW	
+微焦:N	的:T	培根:N	
+烤:Vt	過:ASP	的:T	漢堡:N	包:Vt	以及:C	清脆:Vi	的:T	生菜:N	
+再:ADV	加上:Vt	三:DET	片:M	蘋果:N	綴飾:Vt	
+你:N	說:Vt	
+這:DET	不:ADV	是:Vt	藝術品:N	是:Vt	什麼:DET	&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+因為:C	疊:Vt	的:T	超:A	
+高:Vi	
+以至於:C	壓扁:Vt	後:POST	還是:ADV	非常:ADV	難以:ADV	入口:Vi	
+必須:ADV	比:P	看:Vt	牙醫:N	張嘴:Vi	張:Vt	的:T	大:Vi	才能:N	一口:ADV	咬下:Vt	
+花生醬:N	味道:N	帶:Vt	點:M	鹹味:N	
+不:ADV	是:Vt	甜:Vi	的:T	那:DET	種:M	
+patty:FW	部分:DET	不會:ADV	太:ADV	乾:Vi	
+整體:N	來:ADV	說:Vt	還:ADV	ok:FW	
+【:PARENTHESISCATEGORY	田納西:N	燒烤:Vt	漢堡:N	】:PARENTHESISCATEGORY	$:FW	340:DET	
+TennesseeGrill:FW	
+切:ADV	達:Vt	起:ASP	司:N	、:PAUSECATEGORY	瑞士:N	起:Vt	司:N	、:PAUSECATEGORY	火烤:Vt	番茄:N	、:PAUSECATEGORY	焦糖:N	洋蔥:N	、:PAUSECATEGORY	培根:N	、:PAUSECATEGORY	太陽:N	蛋:N	、:PAUSECATEGORY	燒烤:Vt	醬:N	、:PAUSECATEGORY	新鮮:Vi	菠菜:N	
+店員:N	推薦:Vt	的:T	
+不過:C	High:FW	小編:N	不:ADV	喜歡:Vt	這:DET	道:M	說:Vt	
+可能:ADV	是:Vt	不:ADV	喜歡:Vt	太陽蛋:N	破掉:Vi	後:POST	
+搞:Vt	得:T	整:DET	個:M	很:ADV	messy:FW	吧:T	
+整體:N	味道:N	是:Vt	不錯:Vi	
+尤其:ADV	是:Vt	燒烤:Vt	sauce:FW	
+非常:ADV	棒:Vi	
+其他:DET	部分:DET	就:ADV	是:Vt	被:P	濕濕:Vi	的:T	太陽:N	蛋:N	給:Vt	.....:ETCCATEGORY	弄濕:Vt	了:ASP	::COLONCATEGORY	
+【:PARENTHESISCATEGORY	巧克力:N	布朗尼:N	&:FW	amp:FW	
+香草:N	冰淇淋:N	】:PARENTHESISCATEGORY	$:FW	250:DET	
+ChocolateBrownie&amp:FW	
+Vanillaicecream:FW	
+份量:N	非常:ADV	大:Vi	
+兩:DET	個:M	人:N	吃:Vt	會:ADV	太多:Vi	
+畢竟:ADV	甜點:N	就:ADV	是:Vt	小:Vi	而:C	巧:Vi	而:C	美:Vi	而:C	優:Vi	嘛:T	
+哈哈:ADV	::COLONCATEGORY	D:FW	
+巧克力:N	布朗尼:N	部分:DET	有:Vt	濕潤:Vi	、:PAUSECATEGORY	有:Vt	厚實:Vi	
+搭配:Vt	香草:N	冰淇淋:N	還:ADV	不:ADV	賴:Vt	
+不過:C	Brownie:FW	倒是:ADV	滿:ADV	甜:Vi	的:T	
+話說:ADV	這:DET	個:M	IceCream:FW	真的:ADV	是:Vt	超:Vt	好吃:Vi	
+聽:Vt	店員:N	說:Vt	這:DET	個:M	冰淇淋:N	成本:N	可:ADV	不:ADV	低:Vi	呢:T	
+【:PARENTHESISCATEGORY	OldiesBurger:FW	貼紙:N	】:PARENTHESISCATEGORY	
+店家:N	送上:Vt	的:T	貼紙:N	
+High:FW	咖:b	小編:N	一:ADV	回家:Vi	就:P	立馬:N	把:P	它:N	貼上:Vt	安全帽:N	上:N	::COLONCATEGORY	D:FW	
+這些:DET	裝潢:N	塗鴉:Nv	設計:N	真:ADV	是:Vt	迷人:Vi	
+整:DET	家:N	店:N	的:T	完成度:N	非常:ADV	高:Vi	
+餐點:N	、:PAUSECATEGORY	服務:Nv	、:PAUSECATEGORY	裝潢:N	都:ADV	很:ADV	到位:Vi	
+而:C	OldiesBURGER:FW	就:ADV	在:P	京站:N	的:T	星巴克:N	出口:N	附近:N	而已:T	
+很:ADV	好:Vi	找:Vt	
+【:PARENTHESISCATEGORY	食尚:N	high:FW	咖:b	之:T	食話食:N	說:Vt	】:PARENTHESISCATEGORY	FB:FW	粉絲團:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/highca.said:FW	

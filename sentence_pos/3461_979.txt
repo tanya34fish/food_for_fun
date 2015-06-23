@@ -1,0 +1,150 @@
+w:FW	979255:DET	(:PARENTHESISCATEGORY	維尼:N	寶貝:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	西門:N	。:PERIODCATEGORY	超:Vt	童話:N	世界:N	Oyamicafe:FW	
+Mon:FW	
+Aug:FW	
+25:DET	
+17:DET	::COLONCATEGORY	07:DET	::COLONCATEGORY	26:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	超:Vt	童話:N	世界:N	Oyamicafe:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	108:DET	台北市:N	萬華區:N	武昌街:N	二段:N	50巷:N	15:DET	號:M	2樓:N	
+電話:N	：:COLONCATEGORY	0223111127:DET	
+有:Vt	圖:N	網誌版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	w979255.pixnet.net/blog/post:FW	/:FW	43726192:DET	
+台北:N	西門:N	
+超:Vt	童話:N	世界:N	Oyamicafe:FW	
+這:DET	次:M	跟:P	朋友:N	的:T	小:Vi	約會:N	
+來到:Vt	了:ASP	西門町:N	阿:N	
+是:Vt	說:Vt	之前:POST	都:ADV	覺得:Vt	這邊:N	是:Vt	美食:N	沙漠:N	
+但:C	隨著:P	時間:N	的:T	改變:N	
+西門:N	這邊:N	也:ADV	變化:Vt	好:ADV	大:Vi	喔:T	
+雖然:C	這邊:N	還是:ADV	以:P	學生:N	來:ADV	逛:Vt	居多:Vi	
+會約:N	這:DET	間:M	
+是:Vt	因為:C	朋友:N	推薦:Vt	
+價格:N	平實:Vi	
+而:C	環境:N	布置:Vt	優美:Vi	
+才:ADV	會:ADV	再次:ADV	回訪:Vt	喔:T	
+當然:ADV	我:N	自己:N	是:Vt	初:ADV	訪:Vt	
+就:ADV	加減:Vt	寫:Vt	一下:N	食記:N	來:ADV	做:Vt	分享:Vt	
+就:ADV	先:ADV	來:ADV	看看:Vt	環境:N	的:T	布置:Nv	囉:T	
+上面:N	跟:P	首:DET	圖:N	這:DET	張:M	
+我:N	根本:ADV	就:ADV	覺得:Vt	這邊:N	之前:POST	是:Vt	開:Vt	婚紗店:N	的:T	吧:T	
+上:N	圖:N	的:T	檯燈:N	
+一:ADV	看:Vt	就:ADV	知道:Vt	花:Vt	很多:DET	錢:N	
+我:N	之前:POST	也:ADV	狂:Vi	再:ADV	看:Vt	檯燈:N	阿:N	
+要不是:C	我:N	家:N	現在:N	是:Vt	用:P	租:Vt	的:T	
+不然:C	也:ADV	很:ADV	想:Vt	重新:ADV	布置:Vt	家:N	裡:N	
+座位:N	設計:N	有:Vt	沙發椅:N	之外:POST	
+一般:A	座位:N	也:ADV	不會:ADV	排:Vt	得:T	太:ADV	密集:Vi	
+一:ADV	看:Vt	就:ADV	知道:Vt	有:Vt	認真:Vi	經營:Vt	
+這些:DET	布置花:N	下來:POST	是:Vt	需:ADV	用到:Vt	很多:DET	費用:N	滴:Vt	
+難怪:ADV	有:Vt	人:N	指定:Vt	要:ADV	來:ADV	這邊:N	吃:Vt	東西:N	
+順便:ADV	拍照:Vi	XD:FW	
+店:N	內:N	菜單:N	
+他們:N	有:Vt	一:DET	本:M	專用:Vi	的:T	菜單:N	
+其實:ADV	這:DET	是:Vt	點:M	菜單:N	
+但:C	我:N	懶得:Vt	整:DET	個:M	重拍:Vt	
+有:Vt	價格:N	跟:P	產品:N	就:ADV	好了:T	吧:T	
+XD:FW	
+OYAMI:FW	招牌:N	奶霜冰:N	咖啡:N	&:FW	amp:FW	
+有機:A	甜橙:N	瑪黛:N	茶:N	
+我:N	點:Vt	的:T	是:Vt	咖啡:N	
+上面:N	滿滿:Vi	的:T	奶霜:N	
+喝:Vt	起來:ASP	比較:ADV	溫:Vt	醇:Vi	一點:ADV	
+雖然:C	我:N	覺得:Vt	咖啡:N	本身:N	喝:Vt	起來:ASP	算是:Vt	偏:Vt	酸:Vi	的:T	味道:N	
+但:C	加:Vt	了:ASP	糖:N	跟:P	奶霜:N	至少:ADV	不會:ADV	過於:ADV	突出:Vi	
+而:C	冰:N	茶:N	是:Vt	朋友點:N	的:T	
+味道:N	應該:ADV	是:Vt	還好:Vi	吧:T	
+我們:N	分別:ADV	都:ADV	點:Vt	了:ASP	套餐:N	
+加:Vt	149:DET	元:M	有:Vt	濃湯:N	、:PAUSECATEGORY	麵包:N	、:PAUSECATEGORY	飲料:N	
+這:DET	個:M	地點:N	其實:ADV	不:ADV	太:ADV	過份:Vi	
+濃湯:N	奶:N	香味:N	中等:A	
+喝:Vt	起來:ASP	不至於:ADV	水水:Vi	的:T	
+以:P	套餐:N	內容:N	
+這樣:Vi	的:T	品質:N	還:ADV	算:Vt	有:Vt	誠意:N	
+配上:Vt	含有:Vt	套餐:N	麵包:N	
+上面:N	撒:Vt	了:ASP	滿滿:Vi	的:T	細:Vi	砂糖:N	
+並:C	運用:Vt	奶油:N	烤:Vt	香:N	
+吃起來:ADV	稍微:ADV	偏:Vt	油:N	了:T	點:ADV	
+但:C	卻:ADV	很:ADV	順口:Vi	
+個:M	人:N	還:ADV	覺得:Vt	不錯:Vi	
+打卡:Vi	贈送:Vt	的:T	薯條:N	
+好像:ADV	每:DET	天:M	限定:Vt	30:DET	名:M	喔:T	
+炸:Vt	得:T	酥酥脆脆:Vi	的:T	
+即使:C	是:Vt	贈送:Vt	看得出來:Vt	也:ADV	不:ADV	馬虎:Vi	
+這邊:N	比較:ADV	有名:Vi	的:T	應該:ADV	就是:C	焗:b	烤:Vt	吧:T	
+我:N	看:Vt	整:DET	個:M	菜單:N	
+費用:N	都:ADV	不:ADV	算:Vt	太:ADV	高:Vi	
+一:DET	份:M	主餐:N	240:DET	-:DASHCATEGORY	360:DET	之間:POST	
+我:N	點:Vt	的:T	是:Vt	蒜香嫩烤:N	雞腿:N	焗飯:N	
+燉飯:Vt	共有:Vt	三:DET	種:M	口味:N	可:ADV	選擇:Vt	
+白醬:N	、:PAUSECATEGORY	紅醬:N	、:PAUSECATEGORY	青醬:N	
+就:ADV	以:P	減肥:Vi	的:T	人:N	來:ADV	說:Vt	
+紅醬:N	是:Vt	裡面:N	最:ADV	低:Vi	的:T	喔:T	
+焗:b	烤:Vt	都:ADV	漲:Vi	一樣:Vi	
+所以:C	不:ADV	需要:Vt	特別:Vi	拍照:Vi	介紹:Vt	吧:T	XD:FW	
+起:Vt	司:N	用量:N	給:Vt	的:T	不少:DET	
+都:ADV	有:Vt	牽絲:Vt	的:T	感覺:N	
+口味:N	的:T	部分:DET	也:ADV	很:ADV	夠:Vi	力:N	
+至少:ADV	吃:Vt	得:T	出:Vt	有:Vt	用到:Vt	適量:Vi	的:T	醬汁:N	去:ADV	做:Vt	調整:Vt	
+青醬:N	口味:N	滿:ADV	清爽:Vi	的:T	
+紅醬:N	當然:ADV	是:Vt	滿滿:Vi	的:T	番茄:N	香味:N	
+還:ADV	算:Vt	不錯:Vi	吃:Vt	喔:T	
+題外話:N	
+我們:N	餐點:N	都:ADV	是:Vt	同時:N	上桌:Vi	的:T	
+而:C	很:ADV	不幸:Vi	的:T	一:DET	上桌:Vi	
+就:ADV	發現:Vt	我:N	的:T	紅醬:N	居然:ADV	有:Vt	頭髮:N	
+就:ADV	剛好:ADV	在:P	旁:N	子:N	的:T	邊:N	上:N	
+我:N	就:ADV	一直:ADV	盯:Vt	著:ASP	頭髮:N	看:Vt	
+服務生:N	也:ADV	注意到:Vt	我們:N	的:T	異樣:N	
+馬上:ADV	就:ADV	走過來:Vi	看:Vt	
+就:ADV	直接:Vi	說:Vt	要:ADV	幫:P	我:N	換:Vt	一:DET	盤:M	
+看過:Vt	太多:DET	服務:Vt	差:Vi	的:T	餐:N	應:ADV	
+他們:N	這樣:Vi	做:Vt	是:Vt	有:Vt	讓:Vt	我:N	
+訝異:Vt	一下:N	
+後面:N	店長:N	也:ADV	跑來:Vi	致歉:Vi	
+並:C	說明會:N	馬上:ADV	製作好:Vt	我:N	的:T	餐點:N	
+整:DET	個:M	就:ADV	很:ADV	大:Vi	心:N	啊:T	
+其實:ADV	讓:Vt	我:N	訝異:Vt	的:T	是:Vt	
+服務生:N	年紀:N	很:ADV	輕:Vi	
+看起來:ADV	才:ADV	17:DET	-:DASHCATEGORY	18:DET	歲:M	
+可能:ADV	更:ADV	小:Vi	
+他:N	就:ADV	注意到:Vt	這些:DET	小:Vi	
+細節:N	
+不:ADV	是:Vt	餐廳:N	本身:N	教:Vt	得:T	好:Vi	
+就是:C	他:N	天生:Vi	適合:Vi	服務業:N	XD:FW	
+可能:N	之前:POST	工作:N	環境:N	小:Vi	屁孩:N	太多:Vi	了:T	
+加上:C	很多:DET	餐廳:N	
+年長:Vi	的:T	服務生:N	也:ADV	不見得:ADV	這麼:ADV	細心:Vi	
+讓:Vt	我:N	有點:ADV	大大:Vi	感嘆:Vt	啊:T	
+這:DET	是:Vt	紅醬:N	裡面:N	有的:DET	配料:N	
+上面:N	看起來:ADV	很:ADV	像:Vt	牛肉:N	
+事實:N	上:POST	他:N	是:Vt	雞皮:N	吧:T	
+我:N	點:Vt	的:T	是:Vt	雞腿:N	排:Vt	喔:T	
+雞腿:N	排:Vt	稍微:ADV	油膩:Vi	了:ASP	點:M	
+但:C	就是:C	一般:A	餐廳:N	會:ADV	有的:DET	去:Vt	骨:N	雞腿:N	排:Vt	
+套餐:N	的:T	甜點:N	
+提拉米蘇:N	
+以:P	套餐:N	而言:Vt	
+這樣:Vi	的:T	品質:N	真的:ADV	很:ADV	不錯:Vi	了:T	
+雖然:C	份量:N	偏:ADV	小:Vi	
+但:C	吃:Vt	得:T	出來:Vi	有:Vt	用心:Vi	去:ADV	做:Vt	
+不會:ADV	是:Vt	很:ADV	重:Vi	的:T	鮮:Nv	奶油:N	味道:N	
+算:Vt	很:ADV	好吃:Vi	的:T	點心:N	喔:T	
+C:FW	妞:N	說:Vt	
+之前:N	來:ADV	吃:Vt	還:ADV	沒:Vt	這麼多:DET	人:N	
+當天:N	一:ADV	到:Vt	餐廳:N	卻:ADV	已:ADV	是:Vt	滿:DET	桌:N	了:T	
+看來:ADV	這:DET	間:M	生意:N	是:Vt	越來越:ADV	好:Vi	
+當然:ADV	也:ADV	可能:ADV	是:Vt	暑假:N	的:T	關係:N	
+但是:C	很:ADV	貼心:Vi	的:T	服務:Nv	
+有:Vt	讓:Vt	我:N	對:P	這邊:N	大大:Vi	加分:Vi	喔:T	
+若是:C	平常:N	想要:Vt	小小:Vi	的:T	聚餐:Nv	
+環境:N	跟:P	餐點:N	都:ADV	是:Vt	可以:ADV	考慮:Vt	的:T	地點:N	喔:T	
+然後:ADV	當天:N	有:Vt	一直:ADV	拍照:Vi	
+最後:N	老闆:N	還:ADV	問:Vt	我們:N	
+是:Vt	不:ADV	是:Vt	國外:N	來:Vi	的:T	....:ETCCATEGORY	
+我們:N	看起來:ADV	像:Vt	觀光客:N	嗎:T	
+ORZ:FW	...:ETCCATEGORY	
+對了:Vi	
+他:N	有加:ADV	一成:DET	的:T	服務費:N	
+推薦給:Vt	各:DET	位:M	囉:T	

@@ -1,0 +1,151 @@
+lovedach:FW	(:PARENTHESISCATEGORY	毛毛:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山:N	鰻:N	料理:Vt	京都屋:N	不:ADV	愛:Vt	這樣:Vi	的:T	炭香:N	
+Fri:FW	
+Nov:FW	
+21:DET	
+21:DET	::COLONCATEGORY	47:DET	::COLONCATEGORY	09:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	鰻:N	料理:Vt	京都屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014.11:DET	
+地址:N	::COLONCATEGORY	台北市:N	中山區:N	天津街:N	41:DET	號:M	
+電話:N	::COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2541:DET	-:DASHCATEGORY	9803:DET	
+營業:Nv	時間:N	::COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	17:DET	::COLONCATEGORY	30:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	480:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	無:Vt	…:ETCCATEGORY	
+圖文:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	lovedach.pixnet.net/blog/post:FW	/:FW	398044936:DET	
+PTT:FW	文字版:N	::COLONCATEGORY	
+毛毛:N	是:Vt	個:M	鰻魚:N	控:Vt	
+每:DET	次:M	去:Vt	日本:N	走跳:Vi	
+一定:ADV	會:ADV	去:ADV	吃:Vt	鰻魚飯:N	
+但:C	想想:Vt	在:P	台灣:N	吃:Vt	過:ASP	的:T	鰻魚:N	飯店家:N	
+卻:ADV	不:ADV	多:Vi	
+除了:P	頻頻:ADV	踩雷:Vt	以至於:C	對:P	台灣:N	的:T	鰻魚飯:N	失望:Vi	到:Vt	極點:N	之外:POST	
+節節:ADV	升高:Vt	的:T	鰻魚飯:N	價位:N	也:ADV	
+是:Vt	讓:Vt	人:N	卻步:Vi	的:T	原因:N	之:T	一:DET	
+這:DET	次:M	帶:Vt	著:ASP	帶:Vt	著:ASP	毛:N	媽:N	去:ADV	品嘗:Vt	看看:ASP	朋友:N	推薦:Vt	的:T	京都屋:N	
+結果:ADV	....:ETCCATEGORY	
+結果:ADV	就:ADV	是:Vt	也:ADV	炸:Vt	了:ASP	=:FW	_:FW	_:FW	_:FW	_:FW	_:FW	=:FW	
+這麼:ADV	說:Vt	大家:N	應該:ADV	明白:Vt	毛毛:N	的:T	意思:N	...:ETCCATEGORY	
+吃完:Vt	差點:ADV	想:Vt	哭:Vi	跑:Vi	大叫:Vt	台灣:N	的:T	鰻魚:N	飯:N	都:ADV	怎麼:Vi	了:T	
+都:ADV	一定:ADV	要:ADV	這麼:ADV	崩壞:Vi	嗎:T	
+大家:N	繼續:Vt	看下去:Vi	
+看完:Vt	再:ADV	決定:Vt	要不要:ADV	一起:ADV	哭:Vi	跑:Vi	
+誰:N	要:ADV	阿:N	XD:FW	
+店家:N	離:P	捷運站:N	有點:ADV	距離:P	
+要:ADV	走:Vi	一段:N	路:N	才:ADV	會:ADV	到達:Vt	
+如果:C	餓肚子:Vi	的:T	話:N	
+這:DET	條:M	路:N	會:ADV	有點:ADV	漫長:Vi	XD:FW	
+店家:N	下午:N	有:Vt	休息:Vi	
+傍晚:N	17:DET	::COLONCATEGORY	30:DET	才:ADV	會:ADV	開門:Vi	
+大家:N	要:ADV	記得:Vt	喔:T	
+不要:ADV	撲空:Vi	了:ASP	
+我們:N	大概:ADV	17:DET	::COLONCATEGORY	25:DET	分:M	到達:Vt	
+門口:N	竟然:ADV	就:ADV	已經:ADV	有:Vt	2:DET	、:PAUSECATEGORY	3:DET	組:M	人馬:N	在:P	等待:Vt	了:ASP	
+心:N	裡:POST	還:ADV	很:ADV	高興:Vt	
+想:Vt	說:Vt	終:ADV	
+於:P	可以:ADV	在:P	台灣:N	吃到:Vt	好吃:Vi	的:T	鰻魚飯:N	了:T	嗎:T	
+灑淚:Vi	的:T	請:Vt	大家:N	繼續:Vt	看下去:Vi	
+不要:ADV	這樣:Vi	XD:FW	
+門口:N	吊:Vt	著:ASP	紅色:N	的:T	燈籠:N	
+店面:N	右邊:N	是:Vt	門口:N	
+左邊:N	有:Vt	個:M	透明:Vi	窗戶:N	可以:ADV	直間:N	看到:Vt	廚房:N	的:T	工作:N	
+大批:DET	大批:DET	的:T	鰻魚:N	就:ADV	直接:Vi	在:P	
+你:N	眼前:N	現烤:Vt	
+他們:N	家:N	很:ADV	特別:Vi	的:T	是:Vt	主打:Vt	
+本土:N	鰻魚:N	
+使用:Vt	台灣:N	自己:N	養:Vt	的:T	鰻魚:N	而:C	非:ADV	進口:Vt	
+看起來:ADV	是:Vt	老師傅:N	了:T	
+每:DET	個:M	人:N	都:ADV	在:P	忙碌:Vi	著:ASP	準備:Vt	17:DET	::COLONCATEGORY	30:DET	開始:Vi	供應:Vt	的:T	食材:N	
+照片:N	拍:Vt	得:T	不:ADV	是:Vt	很:ADV	清楚:Vi	
+但是:C	大家:N	可以:ADV	注意到:Vt	右下:N	角:N	那:DET	串:M	鰻魚:N	
+黑色:N	焦掉:N	的:T	部分:DET	很多:DET	
+看到:Vt	
+這邊:N	的:T	毛毛:N	
+心:N	裡:N	萌生:Vt	不祥:Vi	預感:N	...:ETCCATEGORY	
+時間:N	一:ADV	到:Vt	
+店家:N	很:ADV	準時:Vi	的:T	開門:Vi	迎接:Vt	客人:N	
+位子:N	算:Vt	頗多:Vi	的:T	
+簡單:Vi	的:T	木頭:N	桌椅:N	
+坐定:Vi	後:POST	店員:N	送上:Vt	濕:Vi	紙巾:N	、:PAUSECATEGORY	筷子:N	和:C	熱:Vt	茶:N	
+桌:N	上:N	有:Vt	提供:Vt	一些:DET	醬料:N	可以:ADV	自行:ADV	使用:Vt	
+MENU:FW	很多:DET	頁:M	
+最後:N	補上:Vt	
+鰻重:Vi	
+大:Vi	
+480:DET	元:M	
+本來:ADV	想:Vt	點:M	鰻御:N	膳:N	
+配餐:N	比較:ADV	多樣:Vi	
+而且:C	還:ADV	有:Vt	毛毛:N	想:Vt	吃:Vt	的:T	玉子燒:N	在內:POST	
+但:C	詢問:Vt	店員:N	後:POST	
+鰻重:Vi	
+的:T	鰻魚:N	份量:N	比較:ADV	多:Vi	
+想:Vt	吃:Vt	鰻魚:N	的:T	毛毛:N	
+還是:ADV	決定:Vt	選:Vt	鰻魚:N	多:Vi	的:T	鰻重:Vi	
+有:Vt	附:Vt	一:DET	碗:M	味噌湯:N	和:C	醃:Vt	漬:N	
+物:N	一:DET	碟:N	
+打開:Vt	後:POST	整:DET	個:M	人:N	都:ADV	要:ADV	跳舞:Vi	了:ASP	
+期待:Vt	吃:Vt	鰻魚飯:N	好久:Vi	
+但:C	夾起來:Vi	後:POST	.....:ETCCATEGORY	
+好:ADV	薄:Vi	好:Vi	薄:Vi	
+這:DET	鰻魚:N	的:T	厚度:N	大概:ADV	是:Vt	之前:N	去:ADV	吃:Vt	名:N	代宇奈:N	と:FW	と:FW	
+點:Vt	我:N	看:Vt	食記:N	
+的:T	一半:DET	
+先:ADV	安慰:Vt	自:P	
+己:N	一下:N	
+厚度:N	不打緊:Vi	
+口味:N	才:ADV	是:Vt	重點:N	
+咬下去:Vt	後:POST	
+再度:ADV	...:ETCCATEGORY	
+整:DET	個:M	鰻魚:N	都:ADV	是:Vt	烤焦:Vt	的:T	味道:N	
+烤焦:Vt	烤焦烤焦:Vt	
+回音:N	
+怎麼:ADV	會:ADV	是:Vt	這樣:Vi	
+當下:N	真:ADV	想:Vt	撇:Vt	頭:N	哭:Vi	跑:Vi	
+然後:ADV	再:ADV	回來:Vi	繼續:Vt	吃完:Vt	它:N	Q___Q:FW	
+焦味:N	實在:ADV	讓:Vt	人:N	難以:ADV	接受:Vt	....:ETCCATEGORY	
+接下來:ADV	吃吃:Vt	看:Vt	米飯:N	好了:T	...:ETCCATEGORY	沒:Vt	話:N	好說:Vi	了:T	...:ETCCATEGORY	米飯:N	軟軟:Vi	黏黏:Vi	的:T	
+完全:ADV	不:ADV	是:Vt	我:N	的:T	菜:N	
+沒有:ADV	很:ADV	濃:Vi	的:T	味噌湯:N	
+小菜:N	OK:FW	啦:T	...:ETCCATEGORY	很:ADV	清爽:Vi	
+京都:N	風:N	鰻魚:N	蛋捲:N	120:DET	元:M	
+來:ADV	吃:Vt	鰻魚:N	
+除了:P	鰻魚飯:N	系列:N	
+蛋捲:N	幾乎:ADV	是:Vt	毛毛:N	必:ADV	點:Vt	的:T	餐點:N	
+看起來:ADV	白拋拋:N	的:T	蛋捲:N	
+和:C	一般:A	
+外面:N	表層:N	會:ADV	煎:Vt	到:P	上色:Vi	的:T	的:T	玉子:N	燒:Vt	不:ADV	太:ADV	一樣:Vi	
+旁邊:N	附:Vt	了:ASP	一:DET	小:Vi	坨:M	蘿蔔:N	泥:N	和:C	紅:Vi	薑片:N	
+但:C	吃:Vt	玉子:N	燒:Vt	
+完全:ADV	無味:Vi	
+要:ADV	加:Vt	點:M	醬油:N	才:ADV	會:ADV	比較:ADV	有:Vt	味道:N	
+毛毛:N	不:ADV	是:Vt	吃重:Vi	口味:N	的:T	人:N	
+所以:C	
+完全:ADV	沒有:Vt	味道:N	不:ADV	是:Vt	習慣:Vt	關係:N	...:ETCCATEGORY	
+玉子燒:N	口感:N	非常:ADV	非常:ADV	嫩:Vi	
+嫩:Vi	到:P	沒有:Vt	口感:N	了:T	=:FW	_:FW	_:FW	_:FW	=:FW	
+傳統:Vi	的:T	玉子:N	燒:Vt	都:ADV	是:Vt	表面:N	稍微:ADV	有:Vt	硬度:N	
+越:ADV	
+裡面:N	越:ADV	嫩:Vi	這樣:Vi	
+從:P	裡:N	到:Vt	外:N	都:ADV	是:Vt	軟軟:Vi	嫩嫩:Vi	的:T	...:ETCCATEGORY	不:ADV	是:Vt	很:ADV	喜歡:Vt	這樣:Vi	
+MENU:FW	很多:DET	頁:M	
+以下:N	提供給:Vt	大家:N	
+*:FW	*:FW	整體:N	小小:Vi	評論:N	*:FW	*:FW	
+鰻魚:N	、:PAUSECATEGORY	米飯:N	、:PAUSECATEGORY	味噌湯:N	、:PAUSECATEGORY	玉子燒:N	....:ETCCATEGORY	沒有:Vt	一樣:Vi	毛毛:Vi	喜歡:Vt	
+明明:N	之前:POST	看:Vt	很多:DET	人:N	的:T	食:N	記:Vt	就:ADV	都:ADV	評價:Vt	很:ADV	好:Vi	的:T	阿:N	...:ETCCATEGORY	怎麼:ADV	會:ADV	這樣:Vi	ˊ:FW	ˋ:FW	
+後來:N	再次:ADV	看:Vt	了:ASP	許多:DET	食記:N	
+才:ADV	知:Vt	他們:N	家:N	主打:Nv	":FW	炭香:N	":FW	烤:Vt	鰻魚:N	
+但是:C	當下:N	吃:Vt	的:T	時候:N	完全:ADV	感受:Vt	步道:N	所謂:Vt	的:T	":FW	炭香:N	":FW	
+只:ADV	覺得:Vt	
+完全:ADV	就:ADV	是:Vt	烤焦:Vt	的:T	味道:N	...:ETCCATEGORY	只:ADV	能:ADV	說:Vt	不合:Vi	胃口:N	吧:T	
+真:ADV	不:ADV	知道:Vt	台灣:N	還:ADV	有:Vt	哪:DET	家:M	鰻魚飯:N	好吃:Vi	了:T	
+目前:N	吃:Vt	過:ASP	兩:DET	家:M	都:ADV	被:P	炸:Vt	
+如果:C	格友們:N	有:Vt	推薦:Vt	的:T	鰻魚飯:N	
+還:ADV	請:Vt	推薦給:Vt	毛毛:N	
+不然:C	現在:N	對:P	台灣:N	的:T	鰻魚:N	飯:N	真的:ADV	都:ADV	好:ADV	失望:Vi	噢:T	....:ETCCATEGORY	
+以上:N	為:Vt	個:M	人:N	觀感:N	
+僅:ADV	供:Vt	參考:Vt	
+●:FW	給:Vt	毛毛:N	一:DET	個:M	『:PARENTHESISCATEGORY	讚:Vt	』:PARENTHESISCATEGORY	和:C	『:PARENTHESISCATEGORY	推:Vt	』:PARENTHESISCATEGORY	吧:T	::COLONCATEGORY	D:FW	你:N	的:T	讚:Vi	和:C	推:Vt	都:ADV	是:Vt	毛毛:N	的:T	寫:Vt	文:N	動力:N	唷:T	●:FW	
+●:FW	有:Vt	任何:DET	想:Vt	和:C	毛毛:N	說:Vt	的:T	話:N	、:PAUSECATEGORY	分享:Vt	的:T	事:N	、:PAUSECATEGORY	意見:N	
+都:ADV	歡迎:Vt	留言:N	和:C	毛毛:N	交流:Vi	●:FW	

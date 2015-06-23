@@ -1,0 +1,84 @@
+dressingfrad(dressingfrad:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山:N	新丼:N	日式:A	丼:b	飯:N	定食:Vt	
+Fri:FW	
+Jul:FW	
+25:DET	
+21:DET	::COLONCATEGORY	44:DET	::COLONCATEGORY	22:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	新丼:N	日式:A	丼飯:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	6月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大同區:N	長安西路:N	66:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2555:DET	-:DASHCATEGORY	9292:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+無:Vt	音樂圖:N	多:ADV	縮:Vt	網址版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/x0dY:FW	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+中山:N	站:N	附近:N	美食:N	多:Vi	巷子:N	裡:N	的:T	下午茶:N	店:N	一:DET	間:M	接著:Vt	一:DET	間:M	開:Vt	
+其實:ADV	往:P	當代:N	藝術館:N	走:Vi	這邊:N	也:ADV	有:Vt	好吃:Vi	的:T	日式:A	定食:Vt	
+新丼:N	是:Vt	今年:N	才:ADV	新開幕:Vi	的:T	店家:N	
+菜單:N	在:P	外牆:N	以及:C	店:N	門口:N	都:ADV	有:Vt	全:DET	附圖:N	可以:ADV	先:ADV	參考:Vt	
+店:N	內:N	走長型:N	設計:Vt	平常:N	可是:C	被:P	上班族:N	擠滿:Vt	滿:ADV	特別:Vi	選:Vt	一:DET	開門:Vi	就:ADV	衝進來:Vi	
+可以:ADV	選擇:Vt	長:Vi	連:C	沙發區:N	桌子:N	間距:N	會:ADV	比較:ADV	近:Vi	或是:C	獨立:Vi	靠:P	鏡區:N	
+來:ADV	看:Vt	菜單:N	所有:DET	丼飯:N	除了:P	雞魚:N	之外:POST	都:ADV	是:Vt	可以:ADV	做成:Vt	牛肉:N	或是:C	豬肉:N	的:T	選擇:N	
+傳統:Vi	基本:A	款:N	是:Vt	140:DET	加上:Vt	起:ASP	司:N	的:T	美式:A	新丼:N	是:Vt	180:DET	
+搭配:Vt	泡菜:N	就:ADV	是:Vt	韓式:N	160:DET	
+還:ADV	有:Vt	雞肉:N	的:T	親子:N	丼:b	160:DET	炸豬排:N	160:DET	炸:Vt	牡蠣:N	炸:Vt	蝦:N	炸:Vt	魚:N	180:DET	
+非常:ADV	受:Vt	的:T	歡迎:Vt	的:T	還:ADV	有:Vt	炸雞:N	丼:b	160:DET	
+味增:N	口味:N	的:T	豆腐:N	丼黑:Vi	胡椒:N	雙:A	味:N	還可以:ADV	跟:P	玉米:N	做:Vt	搭配:Vt	
+九:DET	層:M	塔:N	的:T	台式:A	新丼:N	160:DET	感覺:N	也:ADV	很:ADV	有趣:Vi	捏:Vt	
+丼:b	飯:N	都:ADV	有:Vt	附上:Vt	味增湯:N	以及:C	小菜:N	
+也:ADV	可以:ADV	+:FW	80多:DET	馬鈴薯:N	沙拉:N	溫泉蛋:N	還:ADV	有:Vt	飲料:N	
+炸:Vt	物:N	都:ADV	可以:ADV	單:ADV	點:Vt	120:DET	很:ADV	便宜:Vi	當然:ADV	小菜:N	和:C	飲料:N	都:ADV	可以:ADV	單:ADV	點:Vt	
+店:N	內:N	提供:Vt	免費:Vi	熱:Vt	麥茶:N	無糖:N	綠茶:N	喝:Vt	起來:ASP	不:ADV	苦澀:Vi	
+餐點:N	都:ADV	是:Vt	現點現:N	做:Vt	所以:C	要:ADV	等一會:ADV	
+招牌:N	豆腐:N	丼:b	180:DET	+:FW	套餐:N	80:DET	
+特別:Vi	使用:Vt	味增:N	醬汁:N	熬:Vt	煮:Vt	肉片:N	和:C	豆腐:N	洋蔥:N	
+這裡:N	的:T	肉片:N	不:ADV	是:Vt	想像:Vt	中:POST	的:T	火鍋:N	肉片:N	那樣:Vi	是:Vt	厚厚:Vi	大:Vi	片:N	的:T	梅花肉:N	呢:T	
+味增:N	醬汁:N	沒有:ADV	想像:Vt	中:POST	的:T	重:Vi	口味:N	
+是:Vt	比較:ADV	清爽:Vi	的:T	感覺:N	和:C	豆腐:N	一起:ADV	更:ADV	增添:Vt	黃豆:N	韻味:N	嫩:Vi	豆腐:N	和:C	青蔥:Vi	點綴:Vt	
+更:ADV	可以:ADV	顯出:Vt	肉片:N	的:T	原汁:N	原味:N	
+非常:ADV	推薦給:Vt	長輩:N	這:DET	一:DET	品:N	獲得:Vt	極:ADV	高:Vi	評價:N	喔:T	
+配菜:N	們:N	也:ADV	是:Vt	裝:Vt	在:P	":FW	心:N	":FW	的:T	小:Vi	盤子:N	裡:N	耶:T	這:DET	等:P	下:DET	一併:ADV	介紹:Vt	
+美式:A	新丼:N	180:DET	+:FW	套餐:N	80:DET	
+喔喔:ADV	喔:T	我:N	要:ADV	融化:Vt	了:ASP	好多:DET	好多:DET	好多:DET	起:POST	司:Vt	啊:T	
+肉片:N	都:ADV	被:P	起:ASP	司:N	淹沒:Vt	了:ASP	然後:ADV	再:ADV	用:P	噴:Vt	槍烤:N	過:Vt	
+拯救:Vt	肉片:N	大:Vi	作戰:Vi	
+實在:ADV	是:Vt	非常:ADV	邪惡:Vi	的:T	一:DET	品:N	啊:T	
+首先:ADV	是:Vt	起司:N	濃稠感:N	有:Vt	種:M	跟:P	著:ASP	它:N	一起:ADV	融化:Vt	的:T	美味:N	
+梅花:N	肉片:N	非常:ADV	大:Vi	片:N	是:Vt	可以:ADV	整:DET	片:M	拉起來:Vi	跟:P	湯匙:N	比:P	長度:N	的:T	大:Vi	尺寸:N	
+絕對:ADV	不會:ADV	因為:C	熬:Vt	煮:Vt	過:ASP	而:C	變得:Vt	碎:Vi	巴巴:ADV	
+大:Vi	口:N	吃:Vt	肉:N	的:T	心情:N	在:P	這裡:N	完全:ADV	呈現:Vt	
+別:ADV	忘:Vt	了:ASP	還:ADV	有:Vt	高級:Vi	的:T	生:Vt	雞蛋:N	黃:N	怕:Vt	吃:Vt	生:Vi	的:T	朋友:N	也:ADV	可以:ADV	在:P	點餐:N	的:T	時候:N	改成:Vt	全:DET	熟:Vi	
+但是:C	誰:N	可以:ADV	擋住:Vt	這:DET	蛋黃:N	流:Vt	
+出來:Vi	的:T	好吃度:N	呢:T	
+肉片:N	和:C	切絲:N	洋蔥:N	本來:ADV	就:ADV	有:Vt	經過:Vt	醬汁:N	熬煮:Vt	
+我:N	個:M	人:N	比較:ADV	喜歡:Vt	基本:A	款:N	的:T	醬汁:N	味道:N	比較:Vt	味增重:N	一點:DET	
+跟:P	米飯:N	的:T	搭配度:N	也:ADV	很:ADV	高:Vi	
+加上:Vt	起:ASP	司:N	一瞬間:N	有:Vt	種:M	再:ADV	吃:Vt	焗烤飯:N	的:T	感覺:N	
+這裡:N	的:T	肉片:N	真的:ADV	很:ADV	大:Vi	片:N	而且:C	分量:N	很多:DET	
+吃到:Vt	最後:N	有點:ADV	想:Vt	投降:Vi	啦:T	
+好:Vi	大一:N	碗:N	
+一直:ADV	狂嗑:N	起:POST	司:Vt	也:ADV	是:Vt	有:Vt	想:Vt	換:Vt	口味:N	的:T	時候:N	就是:C	小菜:N	登場:Vi	的:T	時間:N	啦:T	
+店家:N	自製:Vt	的:T	溫泉:N	蛋:N	快要:ADV	全:DET	熟:Vi	之前:POST	的:T	蛋黃:N	特有:A	的:T	柔軟度:N	和:C	醬汁:N	
+夏天:N	就:ADV	是:Vt	要:ADV	來:ADV	這:DET	一:DET	品:N	無誤:Vi	
+小小:Vi	的:T	馬鈴薯:N	沙拉:N	裡面:N	也:ADV	吃:Vt	得到:Vt	
+水:N	煮:Vt	蛋:N	.:PERIODCATEGORY	紅蘿蔔:N	等等:POST	食材:N	的:T	的:T	認真:Vi	
+酸甜:Vi	糖醋:N	炸雞:N	130:DET	
+就是:C	日式:A	炸雞:N	120:DET	+:FW	糖醋醬:N	啦:T	
+這:DET	一:DET	份:M	很多:DET	捏:Vt	有:Vt	10:DET	塊:M	左右:POST	必須:ADV	大聲:Vi	說:Vt	這:DET	好:ADV	好吃:Vi	啊:T	
+炸:Vt	皮:N	使用:Vt	日本:N	的:T	炸雞粉:N	所以:C	調味:Vi	會:ADV	偏重:Vt	有點:ADV	空氣感:N	的:T	炸法:N	
+讓:Vt	外皮:N	吃起來:ADV	卡滋:N	卡滋:N	的:T	酥脆:Vi	
+裡面:N	的:T	雞肉:N	是:Vt	真:Vi	雞肉:N	喔:T	可以:ADV	吃:Vt	的:T	到:P	軟骨:N	和:C	肉汁:N	
+這:DET	款:M	就算:C	吃:Vt	太:ADV	飽:Vi	還是:ADV	可以:ADV	吃光光:Vi	啦:T	必:ADV	點:Vt	很:ADV	推薦:Vt	
+因為:C	炸:Vt	皮:N	本身:N	就:ADV	非常:ADV	有:Vt	味道:N	了:T	
+所以:C	醬汁:N	的:T	部分:DET	僅僅:ADV	是:Vt	用來:Vt	改變:Vt	口味:N	而已:T	
+可以:ADV	直接:Vi	點:M	日式:A	炸雞:N	就:ADV	好:Vi	囉:T	
+推出:Vt	了:ASP	霜淇淋:N	單:ADV	點:Vt	35:DET	用餐:Vi	加:Vt	購價:N	25:DET	
+工作:N	人員:N	製作:Nv	霜淇淋:N	中:POST	
+走:Vi	的:T	是:Vt	比較:ADV	小:Vi	隻:M	但是:C	紮實:Vi	路線:N	
+巧克力:N	不會:ADV	太:ADV	甜:Vi	膩口:N	可可:N	的:T	香氣:N	慢慢:Vi	帶出來:Vt	
+平常:N	吃:Vt	霜淇淋:N	吃到:Vt	一半:DET	就:ADV	會:ADV	膩:Vi	了:ASP	想:Vt	找:Vt	人:N	接手:Vt	
+但是:C	這:DET	隻:M	不會:ADV	捏:Vt	
+七月:N	底:POST	前:POST	打卡:Vi	就:ADV	有:Vt	送:Vt	捏:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	dressingfrad.pixnet.net/blog:FW	

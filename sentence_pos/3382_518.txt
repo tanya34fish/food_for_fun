@@ -1,0 +1,104 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	開封街:N	香菇:N	肉粥:N	
+Sat:FW	
+Aug:FW	
+2:DET	
+23:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	58:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40991641:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+住:Vt	板橋:N	的:T	我:N	每:ADV	往:P	台北:N	進城:Vi	時:POST	
+環:N	河南路:N	勢必:ADV	經:Vt	的:T	一:DET	條:M	路:N	
+記得:Vt	我:N	還:ADV	是:Vt	奧:N	少年:N	
+的:T	時候:N	
+曾經:ADV	與:P	幾:DET	個:M	網友:N	廝混:Vi	
+晝伏夜出:Vi	
+有:Vt	幾:DET	次:M	經過:Vt	環:N	河南路:N	
+總會:ADV	來:ADV	開:Vt	
+封:Vt	街尾:N	的:T	這:DET	家:M	無名:A	香菇:N	肉粥:N	小攤:N	吃:Vt	個:M	宵夜:N	
+幾年:N	過去:N	了:T	
+人事:N	已:ADV	非:Vt	
+當年:N	一:DET	
+起:Vi	廝混:Vi	的:T	朋友:N	宛如:Vt	陌路:N	
+不曾:ADV	聯絡:Vt	
+但:C	這:DET	家:M	香菇:N	肉粥:N	依然:ADV	健在:Vi	
+每:DET	次:M	經過:Vt	總:A	
+會:ADV	想起:Vt	當年:N	那:DET	段:M	荒唐:Vi	歲月:N	
+儘管:C	時常:ADV	經過:Vt	
+但:C	也:ADV	從未:ADV	想:Vt	著:ASP	再:ADV	訪:Vt	
+這:DET	天:M	晚餐:N	想:Vt	去:ADV	吃:Vt	的:T	海南:N	雞:N	飯:N	沒:ADV	開:Vt	
+回家:Vi	
+的:T	路:N	上:N	經過:Vt	香菇:N	肉粥:N	
+便:ADV	來:ADV	回味:Vt	一下:N	當年:N	的:T	滋味:N	
+這麼多:DET	年:M	過去:N	
+這:DET	家:M	攤子:N	的:T	香菇:N	肉粥:N	好像:ADV	還是:ADV	沒有:Vt	漲價:Vi	
+倒是:ADV	小菜:N	的:T	部份:DET	似:Vt	
+乎:P	都:ADV	漲價:Vi	了:T	
+台北:N	其實:ADV	不:ADV	難:Vi	見:Vt	這樣:Vi	的:T	香菇:N	肉粥:N	小攤:N	
+或是:C	米粉湯:N	
+而:C	搭配:Vt	的:T	
+小菜:N	除了:P	黑白:A	切:Vt	之外:POST	
+還:ADV	有:Vt	炸:Vt	物:N	
+最:ADV	常:ADV	以:P	炸:Vt	三鮮:N	、:PAUSECATEGORY	炸:Vt	豆腐:N	為主:Vi	
+這:DET	也:ADV	是:Vt	頗:ADV	具:Vt	
+有:Vt	台灣:N	風味:N	的:T	小:Vi	吃食:N	
+通常:ADV	都:ADV	是:Vt	在:P	宵夜:N	時段:N	出現:Vi	
+而:C	這:DET	家:M	無名:A	小攤:N	開:Vt	的:T	晚:Vi	
+常常:ADV	深夜:N	經過:Vt	都:ADV	還:ADV	見:Vt	得到:Vt	其:DET	在:P	營業:Nv	
+香菇:N	肉粥:N	＄:FW	15:DET	
+香菇:N	肉粥:N	是:Vt	台灣:N	很:ADV	常見:Vi	的:T	鹹粥:N	
+不同於:Vt	港:N	式:N	、:PAUSECATEGORY	潮州:N	的:T	粥:N	
+這:DET	種:M	鹹粥:N	說起來:ADV	比:P	
+較:ADV	像:Vt	泡飯:N	
+米粒:N	保持:Vt	完整:Vi	而:C	略:ADV	硬:Vi	
+常見:Vi	的:T	是:Vt	以:P	大:Vi	骨:N	湯頭:N	為:Vt	湯:N	底:POST	
+然後:ADV	加入:Vt	高:Vi	
+麗菜:N	、:PAUSECATEGORY	香菇:N	、:PAUSECATEGORY	肉絲:N	
+有:Vt	著:ASP	高麗菜:N	的:T	清甜:Vi	
+切:Vt	了:ASP	一:DET	份:M	紅燒肉:N	與:C	粉肝:N	
+但:C	這:DET	家:M	的:T	粉肝:N	竟然:ADV	切片:Vi	後:POST	又:ADV	燙:Vt	煮:Vt	過:ASP	
+因此:C	吃起來:ADV	沒:ADV	
+那麼:ADV	滑嫩:Vi	
+而是:C	有點:ADV	粗粗:Vi	的:T	口感:N	
+個:M	人:N	比較:ADV	不:ADV	偏好:Vt	這樣:Vi	的:T	粉肝:N	
+紅燒肉:N	配:Vt	甜:Vi	
+醬油:N	
+以:P	瘦肉:N	為主:Vi	
+但:C	不:ADV	顯:Vt	乾硬:Vi	
+應該:ADV	跟:P	老闆娘:N	說:Vt	挑:Vt	半:DET	肥瘦:Nv	的:T	
+口感:N	應該:ADV	更:ADV	
+好:Vi	
+每:DET	次:M	吃:Vt	香菇:N	肉粥:N	
+我:N	都:ADV	會點盤:N	炸:Vt	三鮮:N	
+蚵仔:N	、:PAUSECATEGORY	花枝:N	和:C	蝦仁:N	
+裹:Vt	蕃薯粉:N	油炸:Vt	
+沾:Vt	著:ASP	胡椒粉:N	吃:Vt	
+三:DET	種:M	食材炸:N	的:T	酥脆:Vi	
+口感:N	各自:N	不同:Vi	
+通常:ADV	三:DET	種:M	炸:Vt	物:N	中:POST	我:N	最:ADV	喜:Vt	
+歡:Vi	的:T	是:Vt	蚵仔:N	
+可惜:Vi	蚵仔:N	小:Vi	顆:M	了:ASP	些:ADV	
+吃起來:ADV	不:ADV	過癮:Vi	
+印象:N	中:POST	以前:N	的:T	炸:Nv	三鮮:N	個:M	頭:N	
+都:ADV	比較:ADV	大:Vi	
+現在:N	好像:ADV	有:Vt	些:M	縮水:Vi	了:T	
+開封街:N	香菇:N	肉粥:N	
+地址:N	：:COLONCATEGORY	台北市:N	開封街:N	二段:N	86:DET	號:M	
+延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+食記:N	
+台北:N	灶頂:N	高麗菜:N	飯:N	、:PAUSECATEGORY	原汁:N	排骨湯:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40760623:DET	
+食記:N	
+台北:N	阿財:N	虱目魚:N	肚:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40495840:DET	
+食記:N	
+台北:N	阿角:N	紅燒肉:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40286044:DET	
+食記:N	
+台北:N	賣:Vt	麵炎仔金泉:N	小吃店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	39328678:DET	
+食記:N	
+台北:N	3:DET	元:M	6:DET	虱目魚:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	39324520:DET	
+一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	

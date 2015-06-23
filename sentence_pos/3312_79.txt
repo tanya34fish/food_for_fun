@@ -1,0 +1,5 @@
+::COLONCATEGORY	地址:N	：:COLONCATEGORY	台北市:N	中山北路:N	六段:N	752:DET	號:M	
+是:Vt	在:P	原:A	路段:N	的:T	470:DET	號:M	
+原址:N	往:P	南側:N	些:M	
+在:P	內湖:N	瑞光路:N	588:DET	號:M	
+較:ADV	寬敞:Vi	明亮:Vi	新潮:Vi	

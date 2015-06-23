@@ -1,0 +1,63 @@
+f77142002(milk:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	。:PERIODCATEGORY	忠孝:N	復興:Vt	站:N	kiki:FW	川菜:N	
+Mon:FW	
+May:FW	
+11:DET	
+21:DET	::COLONCATEGORY	08:DET	::COLONCATEGORY	17:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	kiki:FW	川菜:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	5月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	復興南路:N	一段:N	28:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2752:DET	-:DASHCATEGORY	2781:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	AM:FW	~:FW	03:DET	::COLONCATEGORY	00:DET	PM:FW	/:FW	05:DET	::COLONCATEGORY	15:DET	PM:FW	~:FW	10:DET	::COLONCATEGORY	30:DET	PM:FW	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	$:FW	350:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	老:Vi	皮:N	嫩:Vi	肉:N	
+圖文:N	網誌:N	(:PARENTHESISCATEGORY	無:Vt	音樂:N	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	christy0104.pixnet.net/blog/post:FW	/:FW	281306857:DET	
+藝人:N	藍心湄:N	開:Vt	的:T	店:N	
+1991年:N	至今:ADV	單:A	川菜:N	餐廳:N	已:ADV	有:Vt	10:DET	間:M	
+還:ADV	開:Vt	了:ASP	泰式:A	餐廳:N	
+kiki:FW	復興店:N	位於:Vt	微風:N	廣場:N	對面:N	
+3:DET	層:M	樓:N	可:ADV	容納:Vt	多:DET	人:N	用餐:Vi	
+蒜泥:N	白肉:N	$:FW	240:DET	
+腐乳:N	空心菜:N	$:FW	180:DET	
+老:Vi	皮:N	嫩:Vi	肉:N	$:FW	220:DET	
+來:ADV	kiki:FW	必:ADV	點:Vt	
+老皮:N	就:ADV	是:Vt	外面:N	帶:Vt	點:M	微焦:N	的:T	豆腐皮:N	
+但:C	咬下去:Vt	時:POST	
+仍:ADV	是:Vt	相當:ADV	軟:Vi	嫩:Vi	
+茄:b	香腸:N	煲:Vt	$:FW	360:DET	
+一直:ADV	覺得:Vt	外面:N	餐廳:N	茄子:N	煮:Vt	起來:ASP	還:ADV	漂亮:Vi	的:T	紫色:N	-:DASHCATEGORY	覺得:Vt	厲害:Vi	
+宮保:N	臭豆腐:N	$:FW	220:DET	
+有點:ADV	辣:Vi	
+豆腐:N	炸:Vt	得:T	外酥內脆:Vi	
+有點:ADV	臭:Vi	又:ADV	不會:ADV	太:ADV	臭:Vi	
+辣子雞丁:N	$:FW	360:DET	
+炸:Vt	的:T	香酥:N	的:T	雞:N	丁:N	均勻:Vi	和:C	上:N	辣椒粉:N	再:ADV	與:P	乾:Vi	辣椒:N	拌炒:Vt	
+超級:A	下:DET	酒菜:N	
+蟹黃:N	海鮮:N	豆腐:N	煲:Vt	$:FW	380:DET	
+採用:Vt	雞蛋:N	豆腐:N	
+裡面:N	有:Vt	蝦子:N	、:PAUSECATEGORY	蛤蜊:N	、:PAUSECATEGORY	花枝:N	等:POST	豐富:Vt	海鮮:N	料:Vt	
+烏梅汁:N	
+去:Vt	油解:N	膩:Vi	
+年輕:Vi	化:Vi	的:T	川菜:N	
+適合:Vi	聚餐:Nv	活動:N	
+壽星:N	前後:POST	3:DET	日:M	來:ADV	用餐:Vi	還可以:ADV	打折:Vi	喔:T	
+圖文:N	網誌:N	
+無:Vt	音樂:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	christy0104.pixnet.net/blog/post:FW	/:FW	281306857:DET	
+※:FW	延伸:Vi	閱讀:Vt	
+【:PARENTHESISCATEGORY	台北:N	美食:N	推薦:Vt	
+大安區:N	
+忠孝:N	敦化:N	站:Vi	】:PARENTHESISCATEGORY	參:DET	和:C	院:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	christy0104.pixnet.net/blog/post:FW	/:FW	160774071:DET	
+【:PARENTHESISCATEGORY	台北:N	美食:N	推薦:Vt	
+大安區:N	】:PARENTHESISCATEGORY	雞窩:N	
+雞湯:N	好:ADV	好喝:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	christy0104.pixnet.net/blog/post:FW	/:FW	210155854:DET	
+【:PARENTHESISCATEGORY	台北:N	美食:N	推薦:Vt	
+中山:N	站:Vi	】:PARENTHESISCATEGORY	龍:N	都:ADV	酒樓:N	
+台北:N	最:ADV	好吃:Vi	的:T	烤鴨:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	christy0104.pixnet.net/blog/post:FW	/:FW	257809312:DET	

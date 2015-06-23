@@ -1,0 +1,168 @@
+chuantina:FW	(:PARENTHESISCATEGORY	一:DET	朵:M	小:Vi	桃紅:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	す:FW	き:FW	家:N	。:PERIODCATEGORY	起士:N	與:C	爆漿:N	溫泉:N	蛋:N	的:T	完美:Vi	結合:Vt	
+Sun:FW	
+Jul:FW	
+27:DET	
+09:DET	::COLONCATEGORY	33:DET	::COLONCATEGORY	41:DET	
+2014:DET	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	380770154:DET	
+す:FW	き:FW	家:M	SUKIYA:FW	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	7月:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23584169:DET	
+店址:N	：:COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	二段:N	50:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	AM:FW	7:DET	：:COLONCATEGORY	00:DET	
+23:DET	：:COLONCATEGORY	00:DET	
+前:DET	三:DET	個:M	月:N	
+之後:N	會:ADV	依:P	情況:N	調整:Vt	
+期待:Vt	以:P	久:Vi	的:T	す:FW	き:FW	家:N	終於:ADV	來:Vi	台灣:N	展店:N	囉:T	
+忍不住:Vt	有:Vt	想:Vt	放:Vt	鞭炮:N	的:T	雀悅:N	感:Vt	
+呀:ADV	呼:Vt	
+身為:Vt	日本:N	平價:N	丼:b	飯店:N	的:T	NO:FW	.:PERIODCATEGORY	1:DET	龍頭:N	
+一:ADV	來:Vi	立馬:N	引起:Vt	熱潮:N	
+在:P	開幕:Vi	第一:DET	天:M	就:ADV	吸引:Vt	超:Vt	多:DET	人:N	前往:Vt	朝聖:Vi	
+一直:ADV	到:P	現在:N	已經:ADV	將近:ADV	三:DET	星期:N	了:T	
+想:Vt	吃:Vt	還:ADV	得:ADV	排上:Vt	1:DET	
+2:DET	個:M	小時:N	呢:T	
+す:FW	き:FW	家:M	座落:Vt	的:T	地點:N	位於:Vt	羅斯福路:N	上:N	
+旁邊:N	就:ADV	是:Vt	古亭:N	捷運站:N	
+一:ADV	出:Vt	站:Vi	就:ADV	可以:ADV	看到:Vt	囉:T	
+印像:N	中上:A	次:M	造訪:Nv	是:Vt	在:P	試:Vt	營運:Vi	過後:POST	沒:Vt	幾:DET	天:M	
+現場:N	看到:Vt	人潮:N	立馬:N	轉向:P	吃:Vt	別:DET	間:M	
+因為:C	數:Vt	一:DET	數:N	少:ADV	說:Vt	50:DET	個:M	起跳:Vi	
+我:N	想:Vt	沒:ADV	排:Vt	個:M	2:DET	
+3:DET	小時:N	應該:ADV	是:Vt	吃:Vt	不:ADV	到:Vt	吧:T	
+前天:N	適逢:P	颱風:N	天:N	撿到:Vt	一:DET	天:M	放:Vt	假日:N	
+想:Vt	說:Vt	來去:Vi	碰碰運氣:Vi	
+人潮:N	有:Vt	少:Vi	了:ASP	一些些:DET	
+不過:C	前前後後:ADV	還是:ADV	等:Vt	了:ASP	近:DET	50:DET	分鐘:M	
+嘖嘖:ADV	
+人氣:N	著實:ADV	旺:Vi	得:T	不得了:Vi	
+不管:C	前:N	看:Vt	、:PAUSECATEGORY	後看:Vt	
+全部:DET	都:ADV	是:Vt	人頭:N	XD:FW	
+日本:N	的:T	模型:N	真的:ADV	都:ADV	做:Vt	得:T	既:C	精緻:Vi	又:ADV	可口:Vi	
+大家:N	可以:ADV	趁:P	排隊:Vi	空檔:N	先:ADV	想想:Vt	待會:ADV	要:ADV	吃:Vt	什麼:DET	呦:b	
+整體:N	的:T	空間:N	約莫:ADV	一:DET	個:M	店面:N	大小:N	
+裝潢:N	跟:P	吉野家:N	有:Vt	一些些:DET	相似:Vi	
+只:ADV	是:Vt	燈光:N	更:ADV	明亮:Vi	
+新店:N	新象:N	氣:N	
+服務:Nv	態度:N	相對:Vi	也好:T	上:POST	很多:DET	
+我:N	覺得:Vt	要:ADV	等:Vt	很:ADV	久:Vi	
+人:N	多:ADV	當然:ADV	是:Vt	一:DET	個:M	原因:N	
+但:C	座位:N	認真:Vi	來:ADV	說:Vt	也:ADV	不:ADV	多:Vi	呀:T	
+裡面:N	就:ADV	一:DET	個:M	圓弧:N	吧檯:N	及:C	正常:Vi	桌椅:N	位置:N	
+全部:DET	坐滿:Vt	應該:ADV	還:ADV	不:ADV	到:Vt	40:DET	人:N	
+還好:Vi	丼飯:N	這:DET	玩意兒:N	也:ADV	不用:ADV	花:Vt	太多:DET	時間:N	
+不然:C	肯定:Vt	等到:P	地:N	老:Vi	又:C	天荒:N	了:T	XD:FW	
+提供:Vt	的:T	餐點:N	主要:ADV	以:P	丼飯:N	及:C	咖哩飯:N	為主:Vi	
+平均:Vi	價格:N	約莫:ADV	在:P	100:DET	元:M	上下:POST	
+客人:N	可:ADV	依:P	自己:N	的:T	食量:N	選擇:Vt	適合:Vi	的:T	size:FW	
+也:ADV	可:ADV	為:Vt	升級:Vi	套餐:N	
+價格:N	又:ADV	更:ADV	划算:Vi	了:T	
+而且:C	這邊:N	竟然:ADV	還:ADV	有:Vt	兒童餐:N	耶:T	
+組合:Vt	看起來:ADV	超可愛:Vi	的:T	
+甚至:ADV	還:ADV	備有:Vt	小朋友:N	愛:Vt	喝:Vt	的:T	果汁:N	及:C	餅乾:N	
+整:DET	個:M	也:ADV	太:ADV	貼心:Vi	了:T	吧:T	
+桌:N	上:N	備有:Vt	服務:Nv	鈴:N	
+除了:P	結帳:Vi	
+舉凡:C	點菜:Vi	、:PAUSECATEGORY	請:Vt	服務:Vt	人員:N	倒:Vt	茶:N	
+就:ADV	盡情:ADV	地:T	Touch:FW	它:N	吧:T	
+醃:Vt	漬薑:N	絲:N	
+是:Vt	說:Vt	日本人:N	真的:ADV	好:ADV	愛:Vt	這:DET	東西:N	：:COLONCATEGORY	
+三:DET	種:M	起:POST	士牛:N	丼:b	
+NT:FW	.:PERIODCATEGORY	119:DET	／:FW	超值:Vi	碗:N	
+早:ADV	在:P	看到:Vt	DM:FW	時:POST	
+我:N	就:ADV	決定:Vt	要點:N	它:N	
+雖然:C	不:ADV	知:Vt	起:ASP	士:N	加:Vt	牛:N	丼:b	到底:ADV	會:ADV	蹦出:Vt	什麼:DET	新:Vi	滋味:N	
+但:C	實在:ADV	抗拒不了:Vt	呀:T	
+只:ADV	能:ADV	說起:Vt	士:N	是:Vt	種:M	讓:Vt	人:N	又:ADV	愛:Vt	又:ADV	恨:Vt	的:T	東西:N	
+喜:Vt	的:T	是:Vt	美味:Vi	
+恨:Vt	的:T	是:Vt	熱量:N	爆高:N	XD:FW	
+跟:P	想像:N	中:POST	覆蓋:Vt	一:DET	層:M	半:DET	融:Vi	起:ASP	士:N	的:T	模樣:N	有:Vt	些:M	不:ADV	一樣:Vi	
+是:Vt	說:Vt	最好:Vi	店員:N	還:ADV	幫:P	你:N	加熱:Vi	呀:T	
+XD:FW	
+上頭:N	舖疊:Vt	著:ASP	深淺:N	交錯:Vi	的:T	起士:N	絲:N	
+賣:Vt	相:ADV	看起來:ADV	還:ADV	挺:ADV	可口:Vi	的:T	：:COLONCATEGORY	
+另外:C	加碼:Vi	一:DET	粒:M	溫泉蛋:N	
+NT:FW	.:PERIODCATEGORY	20:DET	元:M	
+爆漿:N	的:T	澄黃:Vi	蛋:N	液:N	
+讓:Vt	整:DET	個:M	丼飯:N	的:T	可口度:N	瞬間:N	飆:Vi	到:Vt	了:ASP	頂點:N	
+說:Vt	它:N	是:Vt	超:Vt	邪惡:Vi	美食:N	
+當真:Vi	一點:ADV	也:ADV	不為過:Vi	&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+蛋:N	汁:N	融合:Vt	了:ASP	牛丼:N	醬汁:N	
+吃:Vt	來:POST	鹹香:N	且:C	帶有:Vt	蛋:N	液:N	微微:ADV	黏稠:Vi	的:T	口感:N	
+蛋白:N	軟嫩:Vi	
+混:Vt	著:ASP	米飯:N	一:DET	塊:M	吃:Vt	更:ADV	顯得:Vt	濕潤:Vi	
+在:P	咀嚼:Vt	的:T	過程:N	中:POST	
+可以:ADV	感受:Vt	淡淡:Vi	起:ASP	士味:N	在:P	舌尖:N	上:N	綻放:Vt	
+其實:ADV	起士:N	並:ADV	不:ADV	是:Vt	屬於:Vt	濃郁:Vi	路線:N	的:T	
+算是:Vt	一:DET	種:M	巧妙:Vi	點綴:Vt	
+反而:C	是:Vt	牛丼:N	的:T	香氣:N	及:C	鹹度:N	較:ADV	鮮明:Vi	呦:b	
+雖然:C	牛:N	丼:b	的:T	滋味:N	偏:ADV	鹹:Vi	
+不過:C	非常:ADV	夠味:Vi	
+我:N	還:ADV	挺:ADV	喜歡:Vt	的:T	
+尤其:ADV	它:N	的:T	份量:N	給:Vt	得:T	大器:N	
+以:P	價格:N	來:ADV	說:Vt	
+真的:ADV	就是:C	平價:N	又:ADV	不失:Vt	水準:N	
+蔥溫玉牛:N	丼:b	
+NT:FW	.:PERIODCATEGORY	119:DET	元:M	
+滿滿:Vi	的:T	青蔥:Vi	
+如果:C	跟:P	洪:N	先生:N	一樣:Vi	是:Vt	個:M	蔥控:Vi	的:T	話:N	
+那麼:ADV	看到:Vt	這:DET	碗:M	肯定:Vt	會:ADV	有:Vt	種:M	立馬:N	想:Vt	大:Vi	啃:Vt	的:T	衝動:Nv	XD:FW	
+溫泉蛋:N	是:Vt	它:N	的:T	基本:A	配備:N	
+真的:ADV	不管:C	什麼:DET	食材:N	加上:Vt	半熟:Vi	蛋:N	
+視覺:N	上:N	的:T	美味度:N	完全:ADV	大:Vi	加分:Vi	
+看到:Vt	這:DET	蛋:N	汁:N	
+好:Vi	想:Vt	就:ADV	躺:Vi	在:P	上頭:N	翻滾:Vi	呦:b	
+尖叫:Vt	
+牛丼:N	沾:Vt	著:ASP	蛋:N	液:N	一:DET	塊:M	吃:Vt	
+完全:ADV	就:ADV	是:Vt	美味:Vi	
+不過:C	它:N	的:T	蔥:N	反倒:C	沒:ADV	那麼:ADV	讓:Vt	人:N	滿意:Vt	
+吃:Vt	來:POST	嗆味:N	重:Vi	
+香度:N	卻:ADV	不:ADV	高:Vi	
+不過:C	價格:N	便宜:Vi	也:ADV	沒:Vt	什麼:DET	好:Vi	挑剔:Vt	的:T	啦:T	
+另:C	加:Vt	50:DET	元:M	可:ADV	升級成:Vt	套餐:N	
+除了:P	主菜:N	
+還:ADV	有:Vt	味噌湯:N	及:C	手:N	作:Vt	可樂餅:N	
+每:DET	碟:N	二:DET	塊:M	
+個:M	頭:N	還:ADV	不:ADV	小:Vi	
+內:N	餡:N	是:Vt	軟綿香:N	濃:Vi	的:T	馬鈴薯:N	
+感覺:N	跟:P	台灣:N	的:T	有:Vt	些:M	不:ADV	太:ADV	一樣:Vi	
+我:N	很:ADV	喜歡:Vt	它:N	薄:Vi	脆:Vi	的:T	麵衣:N	
+不:ADV	油:N	不:ADV	膩:Vi	非常:ADV	酥脆:Vi	
+想到:Vt	幾:DET	個:M	月:N	前去:Vt	日本:N	
+雖然:C	知道:Vt	す:FW	き:FW	家:M	是:Vt	當地:N	很:ADV	紅:Vi	的:T	丼:b	飯店:N	
+但:C	卻:ADV	都:ADV	沒有:ADV	想要:Vt	吃:Vt	它:N	的:T	衝動:Nv	
+反而:C	是:Vt	來:Vi	台:N	開:Vt	了:ASP	第一:DET	間:M	之後:POST	
+整:DET	個:M	被:P	人潮:N	帶動:Vt	慾望:N	
+也:ADV	加入:Vt	排隊:Vi	的:T	行列:N	
+雖然:C	不:ADV	知道:Vt	日本:N	的:T	味道:N	是:Vt	如何:ADV	
+不過:C	就:ADV	依:P	它:N	的:T	價格:N	來:ADV	說:Vt	
+表現:N	真的:ADV	是:Vt	頗:ADV	有:Vt	水準:N	的:T	
+只:ADV	能:ADV	說:Vt	整:DET	個:M	完:Vi	勝:Vi	吉野家:N	XD:FW	
+延伸:Vi	閱讀:Vt	
+二:DET	子:N	山:N	食堂:N	
+一:DET	份:M	定食:Vt	
+滿足:Vt	你:N	拉麵:Vi	、:PAUSECATEGORY	蓋飯雙:N	享受:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	80381539:DET	
+漁寶:N	平民:N	食堂:N	
+擁有:Vt	超:Vt	可口:Vi	賣:Vt	相:N	的:T	澎:N	派:Vt	海鮮:N	蓋飯:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	80381920:DET	
+小:Vi	六:DET	食堂:N	
+明:N	太子:N	鮭魚:N	丼:b	
+平價:N	大:Vi	享受:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	80381920:DET	
+し:FW	ら:FW	す:FW	問:Vt	屋:N	と:FW	び:FW	っ:FW	ち:FW	ょ:FW	
+本:DET	店:N	
+江:N	之:T	島:N	必:ADV	吃:Vt	的:T	無敵:Vi	吻仔魚丼:N	飯:N	
+澎派:N	新鮮:Vi	大:Vi	滿足:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	372894830:DET	
+銀河:N	堂讚岐:N	烏龍麵:N	
+宛若:Vt	置身:Vt	於:P	江戶:N	時代:N	的:T	舊:Vi	時空:N	
+品嚐:Vt	現:N	打:Vt	現:N	做:Vt	的:T	道地:Vi	烏龍麵:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	319916930:DET	
+築:Vt	地:T	市場:N	
+日本:N	最:ADV	大:Vi	魚市場:N	
+決:ADV	不能:ADV	錯過:Vt	無敵:Vi	海鮮:N	丼:b	
+還:ADV	有:Vt	必:ADV	吃:Vt	的:T	超大:A	烤:Vt	牡蠣:N	及:C	海膽:N	扇貝:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	370704167:DET	

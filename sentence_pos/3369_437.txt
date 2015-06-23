@@ -1,0 +1,88 @@
+weiyu:FW	0331:DET	(:PARENTHESISCATEGORY	男孩:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	公館:N	小郭:N	牛肉麵:N	龍潭:N	豆花:N	
+Wed:FW	
+Jul:FW	
+30:DET	
+00:DET	::COLONCATEGORY	53:DET	::COLONCATEGORY	56:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	公館:N	夜市:N	小郭:N	牛肉麵:N	龍潭:N	豆花:N	
+消費:N	時間:N	：:COLONCATEGORY	103:DET	/:FW	7:DET	
+夏日:N	新:Vi	組合:N	！:EXCLAMATIONCATEGORY	公館:N	夜市:N	美食:N	、:PAUSECATEGORY	台大:N	商圈:N	人氣店:N	－:FW	《:PARENTHESISCATEGORY	小郭:N	牛肉麵:N	》:PARENTHESISCATEGORY	、:PAUSECATEGORY	《:PARENTHESISCATEGORY	龍潭:N	豆花:N	》:PARENTHESISCATEGORY	
+&:FW	lt:FW	;:SEMICOLONCATEGORY	好讀:Vt	圖文:N	&:FW	gt:FW	;:SEMICOLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	weiyu0331.pixnet.net/blog/post:FW	/:FW	381398264:DET	
+今天:N	撇開:Vt	大魚大肉:N	來到:Vt	一:DET	個:M	逛:Vt	夜市:N	的:T	時間:N	
+帶:Vt	各:DET	位:M	來到:Vt	Ethan:FW	長大:Vi	的:T	公館:N	商圈:N	
+當然:ADV	也:ADV	就:ADV	是:Vt	超人:Vi	氣:N	的:T	台大:N	對面:N	
+雖然:C	食物:N	總是:ADV	琳瑯滿目:Vi	
+可是:C	今天:N	要:ADV	推薦:Vt	兩:DET	家:M	Ethan:FW	的:T	愛店:N	
+可以:ADV	說:Vt	是:Vt	真的:ADV	萬:ADV	中選:Vi	一:DET	
+在:P	這:DET	個:M	尖峰:A	的:T	晚餐:N	時間:N	
+首推:Vt	就:ADV	是:Vt	從:P	景美:N	小:Vi	攤販:N	升級成:Vt	大:Vi	店面:N	的:T	超:Vt	好吃:Vi	牛肉麵:N	
+配上:Vt	獨家:A	麻辣:A	湯頭:N	很:ADV	夠味:Vi	的:T	
+小郭:N	牛肉麵:N	
+和:C	吃完:Vt	正餐:N	必:ADV	吃:Vt	的:T	古早:N	味:N	
+龍潭:N	豆花:N	
+準備好:Vt	了:ASP	就:ADV	一起:ADV	出發:Vi	吧:T	
+跳:Vi	一下:N	
+小郭:N	牛肉麵:N	
+店家:N	資訊:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	4:DET	段:M	140:DET	號:M	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2368:DET	-:DASHCATEGORY	0566:DET	
+時間:N	：:COLONCATEGORY	1100:DET	-:DASHCATEGORY	2300:DET	
+捷運:N	：:COLONCATEGORY	新店線:N	公館:N	捷運站:N	一:DET	號:M	出口:Nv	
+左轉:Vi	10:DET	分鐘:M	路程:N	
+位於:Vt	羅斯福路:N	上:N	的:T	
+小郭:N	牛肉麵:N	
+可是:C	開幕:Vi	不久:N	就:ADV	累積:Vt	了:ASP	超高:Vi	人氣:N	
+也:ADV	是:Vt	因為:C	以前:N	Ethan:FW	念:Vt	世新:N	的:T	時候:N	
+他:N	突然:ADV	開:Vt	在:P	景美:N	夜市:N	裡面:N	
+就:P	瞬間:N	竄紅:Vi	變成:Vt	學生:N	們:N	熱愛:Vt	的:T	必:ADV	吃:Vt	美食:N	之:T	一:DET	
+因為:C	生意:N	太:ADV	好:Vi	的:T	關係:N	
+老闆:N	乾脆:Vi	搬到:Vt	公館:N	變成:Vt	一:DET	家:M	店:N	
+雖然:C	說:Vt	我:N	不:ADV	知道:Vt	現在:N	景美:N	還:ADV	有沒有:ADV	
+上:DET	次:M	去:ADV	沒有:ADV	看到:Vt	
+不過:C	沒關係:Vi	
+反正:ADV	公館:N	離:P	我:N	家:N	也:ADV	比較:ADV	近:Vi	哈哈:ADV	
+接著:ADV	我們:N	來:ADV	看看:Vt	菜單:N	的:T	部分:DET	
+可以:ADV	選擇:Vt	招牌:N	的:T	沙朗:N	牛肉麵:N	
+是:Vt	以:P	肉片:N	的:T	方式:N	很:ADV	特別:Vi	
+當然:ADV	還:ADV	有:Vt	有名:Vi	的:T	水餃:N	
+不過:C	不過:C	
+Ethan:FW	每:DET	次:M	來:Vi	這邊:N	必:ADV	吃:Vt	的:T	還是:C	麻辣麵:N	
+【:PARENTHESISCATEGORY	麻辣:A	招牌:N	湯麵:N	】:PARENTHESISCATEGORY	$:FW	35:DET	
+來:ADV	來:ADV	來:ADV	
+各:DET	位:M	客官:N	看:Vt	過來:Vi	
+麻辣麵:N	上菜:Vi	啦:T	
+首先:ADV	就:ADV	是:Vt	要:ADV	搭配:Vt	一些:DET	麻辣:A	川:N	丸子:N	和:C	必備:A	的:T	豆腐:N	、:PAUSECATEGORY	鴨血:N	
+接著:ADV	還:ADV	有:Vt	肉類:N	
+讓:Vt	你:N	三:DET	個:M	願望:N	一:DET	次:M	滿足:Vt	
+蓋章:Vi	認證:Vi	
+配上:Vt	Q:FW	彈:Vt	的:T	麵:N	
+絕對:ADV	愛不釋口:Vi	到:P	一:DET	個:M	極限:N	
+轉圈:Vi	
+龍潭:N	豆花:N	
+店家:N	資訊:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	汀洲路:N	三段:N	237:DET	號:M	
+時間:N	：:COLONCATEGORY	1100:DET	-:DASHCATEGORY	2300:DET	
+捷運:N	：:COLONCATEGORY	新店線:N	公館:N	捷運站:N	一:DET	號:M	出口:Nv	
+左轉:Vi	第一:DET	個:M	巷口:N	右轉:Vi	再:ADV	右轉:Vi	
+吃完:Vt	正餐:N	
+尤其:ADV	在:P	這:DET	種:M	夏天:N	不:ADV	流汗:Vi	才:ADV	怪:Vt	
+那麼:ADV	
+我們:N	跟:P	著:ASP	Ethan:FW	的:T	腳步:N	繼續:Vt	來到:Vt	位於:Vt	汀洲:N	路:N	上:N	的:T	龍潭:N	豆花:N	
+讓:Vt	你:N	吃:Vt	不:ADV	完:Vi	兜:Vt	著:ASP	走:Vi	
+不過:C	你:N	也:ADV	不要:ADV	幻想:Vt	會:ADV	有:Vt	多:ADV	涼快:Vi	
+因為:C	
+龍潭:N	豆花:N	
+可是:C	走:Vi	一:DET	個:M	自然:N	風:N	的:T	電風扇:N	路線:N	
+可是:C	這麼:ADV	熱:Vt	卻:ADV	一樣:Vi	人氣:N	不:ADV	減:Vt	
+可見:ADV	有:Vt	多:ADV	好吃:Vi	
+【:PARENTHESISCATEGORY	古早味:N	花生:N	豆花:N	】:PARENTHESISCATEGORY	$:FW	35:DET	
+萬:DET	年:M	不變:Vi	的:T	單一:A	口味:N	
+就是:C	只:ADV	有:Vt	古早:N	花生味:N	
+所以:C	你:N	只要:C	跟:P	店員:N	說:Vt	你:N	要:ADV	幾:DET	碗:M	就:ADV	可以:ADV	了:T	
+甜蜜:Vi	的:T	糖水:N	配上:Vt	小:Vi	碎:Vi	冰:N	
+最後:N	是:Vt	香濃:Vi	的:T	花生:N	和:C	綿密:Nv	豆花:N	組合:Nv	
+絕對:ADV	是:Vt	夏天:N	每:DET	一:DET	餐:M	的:T	肥胖:Vi	ending:FW	

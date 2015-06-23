@@ -1,0 +1,136 @@
+rositi:FW	(:PARENTHESISCATEGORY	李米:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	TaSweet:FW	緹:b	思:Vt	手:N	作:Vt	燒菓子:N	蛋糕:N	捲泡:Vt	芙:b	
+Wed:FW	
+Aug:FW	
+27:DET	
+00:DET	::COLONCATEGORY	04:DET	::COLONCATEGORY	50:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	TaSweet:FW	緹:b	思:Vt	手:N	作:Vt	燒菓:Vt	子:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	08:DET	
+地址:N	：:COLONCATEGORY	台北市:N	光復南路:N	415巷:N	74:DET	號:M	1:DET	F:FW	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23451268:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週二:N	-:DASHCATEGORY	週六:N	::COLONCATEGORY	13:DET	::COLONCATEGORY	00:DET	~:FW	20:DET	::COLONCATEGORY	00週日:N	::COLONCATEGORY	13:DET	::COLONCATEGORY	00:DET	~:FW	19:DET	::COLONCATEGORY	00:DET	
+圖文版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	leemi.pixnet.net/blog/post:FW	/:FW	185540841:DET	
+TaSweet:FW	是:Vt	最近:N	有:Vt	在:P	關注:Vt	的:T	甜點店:N	之:T	一:DET	
+週末:N	剛好:ADV	有:Vt	個:M	聚會:N	在:P	附近:N	
+決定:Vt	就:ADV	趁:P	前面:N	空檔:N	
+去:ADV	吃:Vt	塊:M	蛋糕:N	
+雖然:C	開:Vt	在:P	靜:Vi	巷:N	內:N	但:C	地址:N	算好:Vt	找:Vt	
+捷運:N	國父:N	紀念館:N	站出來:Vi	往:P	仁愛路:N	方向:N	過:Vt	路口:N	
+第一:DET	個:M	巷子:N	左轉:Vi	走:Vi	一會:N	就:ADV	到:Vt	了:ASP	
+是:Vt	間:M	小小:Vi	鄉村:N	風:N	的:T	店面:N	
+TaSweet:FW	的:T	店主:N	是:Vt	從:P	日本:N	菓子:N	專門:Vt	學校:N	習藝:Vi	回來:Vi	的:T	
+商品:N	之前:POST	都:ADV	是:Vt	在:P	網路:N	上:N	販售:Vt	
+實:ADV	
+體:N	店面:N	今年:N	五月:N	才:ADV	正式:Vi	開幕:Vi	
+店裡:N	只有:ADV	一:DET	個:M	不:ADV	大:Vi	的:T	冷藏:Nv	蛋糕櫃:N	
+主要:A	的:T	品:N	項:M	有:Vt	日式:A	蛋糕:N	捲:Vt	
+、:PAUSECATEGORY	磅:Vt	蛋糕:N	、:PAUSECATEGORY	泡芙:N	、:PAUSECATEGORY	布丁:N	等:POST	點心:N	
+事:N	前:POST	有:Vt	先:ADV	預訂:Vt	週末:N	限定:Vt	的:T	蘋果派:N	
+不過:C	後來:N	店家:N	這:DET	天:M	因故:ADV	
+沒有:ADV	供應:Vt	
+有點:ADV	可惜:Vi	
+門口:N	的:T	長桌:N	有:Vt	陳列:Vt	一些:DET	常溫:N	糕點:N	可:ADV	選購:Vt	
+另外:C	也:ADV	有:Vt	接受:Vt	客製化:Vt	禮盒:N	
+的:T	訂單:N	
+甜點:N	想:Vt	直接:Vi	在:P	這:DET	吃:Vt	或:C	買回家:Vi	享用:Vt	皆:ADV	可:ADV	
+若:C	外帶:Vt	則:ADV	會:ADV	附:Vt	保:Vt	冷:Vi	劑:N	
+店家:N	建議:Vt	糕點:N	當日:N	現:N	作:Vt	
+的:T	要:ADV	盡快:ADV	食用:Vt	
+像:Vt	是:Vt	脆:Vi	皮:N	捲:Vt	和:C	夾:Vt	餡:N	的:T	鮮:Nv	奶油:N	都:ADV	是:Vt	趁早:ADV	吃:Vt	口感:N	較:ADV	佳:Vi	
+放到:Vt	第二:DET	天:M	美味:N	度會:N	打:Vt	
+折扣:N	
+店:N	內:N	座位:N	只有:ADV	兩:DET	張:M	二:DET	人:N	座:N	和:C	一:DET	張:M	四:DET	人:N	座:N	
+內:N	用:Vt	低消:N	是:Vt	一:DET	杯:M	飲料:N	+:FW	一:DET	份:M	甜點:N	
+可:ADV	用餐:Vi	
+1.5:DET	小時:M	
+後面:N	無:Vt	人:N	訂位:Vi	時:POST	則:ADV	沒:Vt	時間:N	限制:N	
+不:ADV	另:DET	收:Vt	服務費:N	
+自己:N	感覺:Vt	是:Vt	選擇:Vt	外帶:Vt	的:T	客人:N	比:P	
+較:P	多:Vi	一點:ADV	
+內:N	用:Vt	有:Vt	飲品:N	+:FW	甜點:N	的:T	低消:N	限制:N	
+飲料:N	單:A	的:T	部分:DET	內容:N	有:Vt	法國茶:N	品牌:N	KUSMITEA:FW	、:PAUSECATEGORY	咖啡:N	和:C	果:N	
+汁:N	
+分類:N	不:ADV	多:Vi	
+想想:Vt	甜點:N	才:ADV	是:Vt	這裡:N	的:T	主力:N	
+經典:N	冰:N	咖啡:N	120:DET	元:M	
+咖啡:N	會:ADV	附:Vt	糖漿:N	和:C	牛奶:N	
+而且:C	店家:N	還:ADV	說:Vt	牛奶:N	不:ADV	夠:Vi	可以:ADV	再:ADV	追加:Vt	
+菜單:N	上:POST	明明:ADV	就:ADV	還:ADV	有:Vt	供應:Vt	比:P	
+較:ADV	貴:Vi	的:T	咖啡:N	歐蕾:N	
+Caf:FW	é:FW	aulait:FW	=:FW	咖啡:N	牛奶:N	
+這樣:Vi	好像:ADV	有點:ADV	寵壞:Vt	客人:N	的:T	感覺:N	XD:FW	
+這:DET	杯:M	冰咖:N	
+啡:b	我:N	比較:ADV	沒:Vt	心得:N	
+下:DET	次:M	來:ADV	應該:ADV	配壺:N	熱:Vt	茶:N	才:ADV	對:P	
+印象:N	比較:ADV	深:Vi	的:T	事情:N	是:Vt	杯子:N	杯墊:N	我:N	都:ADV	喜歡:Vt	
+可是:C	它們:N	組合:Vt	起來:ASP	站:Vi	不:ADV	太:ADV	穩:Vi	
+杯子:N	的:T	杯:N	底:POST	較:ADV	
+窄:Vi	
+杯墊:N	又:ADV	是:Vt	有:Vt	厚度:N	軟軟:Vi	那:DET	種:M	
+不:ADV	小心:Vt	撞到:Vt	桌角:N	一下:N	差點:ADV	就:ADV	倒:Vt	了:ASP	
+芒果:N	綠茶:N	捲:Vt	
+夏日:N	限定:Vt	
+110:DET	元:M	/:FW	片:M	
+去:Vt	前:N	就:ADV	已:ADV	想好:Vt	要點:N	的:T	品:N	項:M	
+但:C	蘋果派:N	沒有:Vt	臨時:A	決定:N	改成:Vt	夏季:N	限定:Vt	的:T	芒果:N	綠茶:N	捲:Vt	
+幸好:ADV	
+這:DET	是:Vt	正確:Vi	的:T	選擇:N	
+因為:C	我:N	非常:ADV	喜歡:Vt	這:DET	一:DET	款:M	
+蛋糕體:N	類似:Vt	手指:N	餅乾:N	
+斜紋:N	是:Vt	擠:Vt	麵糊:N	的:T	排列成:Vt	
+果:N	
+再:ADV	灑上:Vt	糖:N	去:ADV	烤:Vt	作出:Vt	脆皮:N	口感:N	
+外層:N	糖酥:N	在:P	口:N	中:POST	融掉:Vt	的:T	口感:N	頗:ADV	美妙:Vi	
+夾:Vt	餡:N	是:Vt	混:Vt	了:ASP	芒果:N	泥:N	
+的:T	日本:N	鮮:Vi	奶油:N	、:PAUSECATEGORY	百香:N	果凍:N	和:C	新鮮:Vi	的:T	愛:Nv	文:N	芒果:N	
+蛋糕體:N	的:T	綠:Vi	茶味:N	不:ADV	是:Vt	很:ADV	濃:Vi	那:DET	種:M	
+淡淡:Vi	清香:Vi	加:Vt	
+上:N	水果:N	的:T	微酸:N	香甜:Vi	
+好好:Vi	吃:Vt	很:ADV	有:Vt	夏季感:N	的:T	一:DET	個:M	組合:Nv	
+雖然:C	有:Vt	些:M	朋友:N	可能:ADV	比較:ADV	希望:Vt	裡頭:N	塞滿:Vt	新鮮:Vi	水果:N	然後:ADV	鮮:Vi	奶油:N	少一點:DET	這樣:Vi	
+但:C	我:N	覺得:Vt	現在:N	
+這:DET	個:M	比例:N	正好:ADV	
+因為:C	這裡:N	的:T	鮮:Nv	奶油:N	沒有:Vt	那:DET	種:M	膩口:N	的:T	感覺:N	
+蛋糕:N	裹上:Vt	輕盈:Vi	柔軟:Vi	的:T	奶油:N	入口:N	的:T	
+感覺:N	真的:ADV	很:ADV	不錯:Vi	
+以前:N	不:ADV	覺得:Vt	自己:N	有:Vt	這麼:ADV	愛:Vt	吃:Vt	鮮:Vi	奶油:N	啊:T	XD:FW	
+水蜜桃:N	捲:Vt	
+夏日:N	限定:Vt	
+140:DET	元:M	/:FW	片:M	
+也:ADV	是:Vt	夏日:N	限定:Vt	款:N	的:T	水蜜桃:N	捲:Vt	
+蛋糕體:N	和:C	奶油:N	的:T	比例:N	與:C	上款:N	略:ADV	有:Vt	差別:N	
+裝飾:N	的:T	是:Vt	水蜜桃:N	
+切片:N	和:C	糖酥:N	榛果:N	
+原料:N	的:T	鮮:Nv	奶油:N	和:C	日清:N	麵粉:N	從:P	日本:N	進口:Vt	
+夾:Vt	餡:N	的:T	水蜜桃:N	則:ADV	是:Vt	產:Vt	自:P	拉拉山:N	
+另外:C	加上:Vt	了:ASP	自製:Vt	的:T	白酒:N	水蜜桃:N	凍:Vt	
+戚風:N	蛋糕體:N	適中:Vi	的:T	鬆軟:Vi	
+帶:Vt	點:M	綿彈:N	的:T	口感:N	頗好:Vi	
+和:P	上:N	一:DET	
+款:N	相比:Vi	鮮:Vi	奶油:N	比較:Vt	少一點:DET	
+但:C	嚐:Vt	來:POST	濕潤度:N	是:Vt	夠:Vi	的:T	
+兩:DET	種:M	水蜜桃:N	夾:Vt	餡:N	的:T	口感:N	差別:N	也:ADV	比較:ADV	吃:Vt	的:T	
+出來:Vi	
+個:M	人:N	向來:ADV	不:ADV	是:Vt	特別:Vi	喜歡:Vt	水蜜桃:N	
+但:C	這:DET	個:M	蛋糕:N	捲:Vt	我:N	覺得:Vt	相當:ADV	不錯:Vi	
+原味:N	泡芙:N	65:DET	元:M	/:FW	個:T	
+每:DET	日:M	限量:Vi	的:T	泡芙:N	
+泡芙皮:N	加:Vt	了:ASP	杏仁角:N	去:ADV	烤:Vt	
+多:Vi	了:ASP	堅果:N	油脂:N	香:Vi	
+口感:N	也:ADV	比較:ADV	豐富:Vt	
+夾:Vt	餡:N	
+是:Vt	卡士達:N	混合:Vt	鮮:Vi	奶油:N	加上:Vt	新鮮:Vi	香:Vi	草籽:N	
+口感:N	同樣:Vi	不會:ADV	太:ADV	厚重:Vi	
+雖然:C	整體:N	沒有:Vt	蛋糕:N	捲:Vt	那麼:Vi	的:T	
+驚為天人:Vi	
+但:C	也:ADV	是:Vt	不錯:Vi	的:T	一:DET	款:M	
+TaSweet:FW	店:N	小:Vi	座位:N	少:Vi	
+如果:C	想:Vt	在:P	假日:N	來:ADV	喝:Vt	下午茶:N	配:Vt	蛋糕:N	建議:N	先:ADV	訂位:Vi	會:ADV	比較:ADV	保險:Vi	
+店裡:N	
+的:T	人:N	很:ADV	客氣:Vi	介紹:N	時:POST	也:ADV	有:Vt	耐心:N	
+感覺:Vt	蠻:ADV	好:Vi	的:T	
+重點:N	是:Vt	蛋糕:N	甜點:N	我:N	有:Vt	喜歡:Vt	
+是:Vt	將來:N	會:ADV	想:Vt	再:ADV	去:Vt	的:T	
+店:N	
+下:DET	次要:A	試試:Vt	其他:DET	口味:N	的:T	脆皮:N	捲:Vt	

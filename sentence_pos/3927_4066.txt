@@ -1,0 +1,45 @@
+guessworld:FW	(:PARENTHESISCATEGORY	奶油:N	不:ADV	飛:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	松仁:N	RoiduPain:FW	-:DASHCATEGORY	國王:N	烘焙:Vt	
+Thu:FW	
+Jan:FW	
+8:DET	
+22:DET	::COLONCATEGORY	40:DET	::COLONCATEGORY	19:DET	
+2015:DET	
+圖文:N	網誌版:N	請:Vt	點:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	guessworld.pixnet.net/blog/post:FW	/:FW	41750119:DET	
+店名:N	：:COLONCATEGORY	RoiduPain:FW	-:DASHCATEGORY	國王:N	烘焙:Vt	
+松仁店:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23451686:DET	地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松仁路:N	188:DET	號:M	營業:Nv	時間:N	：:COLONCATEGORY	8:DET	::COLONCATEGORY	00:DET	
+21:DET	::COLONCATEGORY	00:DET	消費:N	日期:N	：:COLONCATEGORY	Nov:FW	
+Dec:FW	2014:DET	公司:N	附近:N	最近:N	又:ADV	開:Vt	了:ASP	新:Vi	的:T	國王:N	烘焙:Vt	
+已經:ADV	去:Vt	過:ASP	好幾:DET	次:M	
+味道:N	還:ADV	挺:ADV	不錯:Vi	的:T	
+麵包:N	的:T	種類:N	非常:ADV	多:Vi	
+而且:C	試:Vt	吃:Vt	很:ADV	大方:Vi	
+通常:ADV	中間:N	有:Vt	很多:DET	種:M	口味:N	的:T	長:Vi	麵包:N	
+覺得:Vt	有:Vt	興趣:N	的:T	話:N	
+都:ADV	可以:ADV	請:Vt	店家:N	切:Vt	一:DET	小:Vi	塊:M	試:Vt	吃:Vt	看看:ASP	
+通常:ADV	試:Vt	吃:Vt	後:POST	都:ADV	很:ADV	容易:Vi	淪陷:Vi	就:ADV	是:Vt	
+也:ADV	有:Vt	賣:Vt	奶油:N	跟:P	醬料:N	
+有:Vt	些:M	麵包:N	是:Vt	秤重:Vi	的:T	
+店員:N	會:ADV	詢問:Vt	大概:ADV	希望:Vt	的:T	厚度:N	
+手工:N	黑糖:N	
+秤重:Vi	計價:Vi	
+黑糖:N	的:T	非常:ADV	香:Vi	濃:Vi	
+麵包:N	帶有:Vt	嚼:Vt	勁:N	
+但:C	我:N	第二:DET	次:M	買:Vt	
+因為:C	隔:Vt	天才:N	吃:Vt	就:ADV	覺得:Vt	沒:Vt	第一:DET	次:M	的:T	美味:N	
+有點:ADV	太:ADV	飪:b	了:T	
+建議:N	還是:C	當天:N	最:ADV	美味:Vi	
+不然:C	可以:ADV	要:ADV	稍微:ADV	加熱:Vi	一下:N	
+葡萄:N	炫風:N	
+$:FW	45:DET	
+蘋果派:N	
+$:FW	190:DET	
+蘋果派:N	我:N	很:ADV	喜歡:Vt	
+有時候:ADV	美式:A	的:T	過:ADV	甜:Vi	膩:Vi	了:T	
+但:C	這:DET	家:M	的卻:ADV	非常:ADV	清爽:Vi	
+蘋果片:N	看似:Vt	有點:ADV	乾:Vi	
+但:C	吃起來:ADV	還:ADV	帶:Vt	脆甜:Vi	
+另外:C	大:Vi	推:Vt	他們:N	家:N	的:T	巧:Vi	酥:Vi	核桃:N	
+整:DET	個:M	超:Vt	美味:Vi	
+下:DET	次:M	再:ADV	來:ADV	補:Vt	照片:N	

@@ -1,0 +1,67 @@
+tzuyang:FW	555:DET	(:PARENTHESISCATEGORY	555:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	石牌:N	圓運:N	銅:N	盤烤:Vt	肉:N	
+Thu:FW	
+Aug:FW	
+28:DET	
+21:DET	::COLONCATEGORY	52:DET	::COLONCATEGORY	11:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	圓運:N	銅:N	盤烤:Vt	肉:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	北投區:N	裕民:N	二路:N	2:DET	號:M	2樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2828:DET	-:DASHCATEGORY	6881:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	3017:DET	::COLONCATEGORY	00:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	平日:N	$:FW	299:DET	晚餐:N	/:FW	假日:N	$:FW	399:DET	不:ADV	收:Vt	服務費:N	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tzuyang555.pixnet.net/blog/post:FW	/:FW	43853941:DET	
+去年:N	當:P	搬家工:N	被:P	請:Vt	了:ASP	一:DET	頓:M	和:C	民:N	
+今年:N	又:ADV	請:Vt	我:N	幫忙:Vt	搬家:Vi	..:ETCCATEGORY	雖然:C	吃:Vt	一:DET	頓:M	不錯:Vi	
+但:C	可以:ADV	不要:ADV	每:DET	個:M	地方:N	都:ADV	只:ADV	住:Vt	一:DET	年:M	嗎:T	..:ETCCATEGORY	咳:T	咳:T	..:ETCCATEGORY	回歸:Vt	正題:N	
+這:DET	家:M	在:P	石牌:N	的:T	銅盤烤肉:N	吃到:Vt	飽:Vi	隱身:Vi	在:P	市場:N	中:N	
+可以:ADV	說:Vt	相當:ADV	不起眼:Vi	
+店:N	內:N	位子:N	挺:ADV	多:Vi	的:T	
+假日:N	中午:N	坐:Vi	大概:ADV	5:DET	、:PAUSECATEGORY	6成:DET	滿:Vi	而已:T	
+反過來說:ADV	用餐:Vi	環境:N	&:FW	amp:FW	
+品質:N	比較:ADV	好:Vi	
+不會:ADV	太:ADV	吵:Vi	
+吃到:Vt	飽:Vi	就:ADV	先:ADV	繞:Vi	一圈:N	看看:Vt	環境:N	吧:T	
+飲料機:N	是:Vt	百:DET	事:N	家:N	的:T	
+不:ADV	知道:Vt	未來:N	百:DET	事:N	的:T	飲料:N	機會:N	不會:ADV	像:Vt	costco:FW	一樣:Vi	能:ADV	喝到:Vt	MountainDew:FW	...:ETCCATEGORY	醬料:N	選擇:N	不:ADV	多:Vi	
+不過:C	因為:C	肉:N	幾乎:ADV	都:ADV	有:Vt	醃:Vt	過:ASP	的:T	
+不:ADV	沾醬:N	也:ADV	都:ADV	蠻:ADV	夠味:Vi	
+有:Vt	蝦子:N	
+但是:C	自然:ADV	是:Vt	我:N	pass:FW	的:T	項目:N	
+望:Vt	向:P	旁邊:N	的:T	代鮑:N	...:ETCCATEGORY	XD:FW	..:ETCCATEGORY	
+一些:DET	配料:N	
+銅盤烤:Vt	肉:N	旁邊:N	還:ADV	有:Vt	淺淺:Vi	的:T	肉汁:N	可以:ADV	煮:Vt	
+或是:C	放烤:Vt	盤:N	上:N	煎:Vt	也:ADV	行:Vi	
+小菜:N	除了:P	泡菜:N	之外:POST	其他:DET	口味:N	都:ADV	沒有:Vt	很:ADV	韓式:N	...:ETCCATEGORY	一堆堆:DET	的:T	肉肉:N	肉肉:N	肉:N	
+牛:N	羊:N	雞:N	豬:N	都:ADV	有:Vt	
+厚片:N	的:T	則:ADV	是:Vt	豬:N	小:Vi	排:Vt	&:FW	amp:FW	
+雞腿:N	排:Vt	
+青菜:N	種類:N	較少:Vi	
+就:P	高麗菜:N	&:FW	amp:FW	
+可以:ADV	包肉:N	來:ADV	吃:Vt	的:T	美:Nv	生菜:N	
+冰淇淋:N	則:ADV	是:Vt	吃到:Vt	飽店:N	可見度:N	也:ADV	挺:ADV	高:Vi	的:T	聖堤:N	亞:N	
+石鍋:N	拌:Vt	飯:N	不:ADV	夠:Vi	可以:ADV	再:ADV	跟:P	服務生:N	叫:Vt	
+只:ADV	吃:Vt	了:ASP	一:DET	小:Vi	口:N	
+畢竟:ADV	飯:N	類:N	的:T	東西:N	太:ADV	佔:Vt	胃:N	
+海鮮:N	煎餅:N	是:Vt	個:M	一:ADV	出來:Vi	就:ADV	被:P	掃台:N	的:T	東西:N	
+酥酥脆脆:Vi	沾:Vt	點:M	醬:N	或是:C	配:Vt	個:M	泡菜:N	吃:Vt	都:ADV	很:ADV	不錯:Vi	
+雖然:C	平常:N	比較:ADV	喜歡:Vt	牛肉:N	
+但是:C	他們:N	家:N	的:T	肉類:N	
+我:N	個:M	人:N	喜好:Nv	是:Vt	豬肉:N	&:FW	gt:FW	
+牛肉:N	
+醃:Vt	得:T	挺:ADV	夠味:Vi	
+不:ADV	太:ADV	需要:Vt	沾醬:N	就:ADV	很:ADV	有:Vt	味道:N	
+小:Vi	排:Vt	雖然:C	肉厚點:N	比較:ADV	滿足:Vt	
+但是:C	實在:ADV	熟:Vi	的:T	太:ADV	慢:Vi	了:T	...:ETCCATEGORY	加上:Vt	四:DET	個:M	人:N	吃:Vt	一:DET	鍋:M	
+會:ADV	來不及:ADV	吃:Vt	XDD:FW	結論:N	時間:N	：:COLONCATEGORY	以:P	目前:N	有:Vt	蝦子:N	吃到:Vt	飽:Vi	的:T	店家:N	來:ADV	說:Vt	
+價格:N	算物:N	有所:Vt	值:N	
+食材補:N	得:ADV	還:ADV	算:Vt	勤:Vi	
+唯獨:C	海鮮:N	煎餅:N	上:N	得:T	有點:ADV	慢:Vi	
+再:ADV	加上:Vt	大家:N	一:ADV	拿:Vt	就是:C	四五:DET	片:M	
+吃下來:Vi	只:ADV	搶到:Vt	兩三:DET	次:M	而已:T	
+新:Vi	鮮度:N	OK:FW	
+至少:ADV	這樣:Vi	隨便:Vi	煮:Vt	隨便:Vi	吃:Vt	也:ADV	沒有:ADV	拉肚子:Vi	XDD:FW	假日:N	三百多:DET	塊:M	就:ADV	能:ADV	吃到:Vt	飽:Vi	的:T	店家:N	真的:ADV	屈指可數:Vi	
+預算:N	有限:Vi	又:ADV	想:Vt	大:Vi	口:N	吃:Vt	肉:N	的:T	時候:N	
+這:DET	間:M	是:Vt	可以:ADV	考慮:Vt	的:T	選項:N	

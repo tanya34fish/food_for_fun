@@ -1,0 +1,89 @@
+callista(callista:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	滿腹屋:N	-:DASHCATEGORY	小資女:N	的:T	下班:Vi	好:Vi	去處:N	
+Thu:FW	
+Apr:FW	
+2:DET	
+14:DET	::COLONCATEGORY	56:DET	::COLONCATEGORY	12:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	滿腹屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	3月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	仁愛路:N	四段:N	228:DET	-:DASHCATEGORY	3:DET	號:M	
+電話:N	：:COLONCATEGORY	0227553336:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	·:PERIODCATEGORY	11:DET	::COLONCATEGORY	30:DET	–:FW	15:DET	::COLONCATEGORY	00,:NULL	18:DET	::COLONCATEGORY	30:DET	–:FW	01:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	-:DASHCATEGORY	600:DET	(:PARENTHESISCATEGORY	看:Vt	要:ADV	怎麼:ADV	點:Vt	):PARENTHESISCATEGORY	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	迷你:Vi	丼飯:N	牛:N	肋條:N	
+官網:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/manpukuyaTaiwan:FW	?:QUESTIONCATEGORY	fref=ts:FW	
+部落格:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	callista0208.pixnet.net/blog/post:FW	/:FW	274088986:DET	
+下班:Vi	後:POST	想:Vt	跟:P	同事:N	及:C	好友:N	聚會:N	卻:ADV	不:ADV	知道:Vt	要:ADV	去:Vt	哪裡:N	嗎:T	
+這:DET	間:M	非常:ADV	適合:Vi	食量:N	不:ADV	大:Vi	又:ADV	想:Vt	小酌:Vi	及:C	吃:Vt	串燒:N	的:T	小資:N	女:N	喔:T	
+其實:ADV	我:N	之前:POST	就:ADV	想:Vt	跟:P	同事:N	一起:ADV	去:ADV	吃:Vt	的:T	但:C	當天:N	訂位:Vi	竟然:ADV	訂:Vt	不:ADV	到:Vt	
+所以:C	更:ADV	激發:Vt	了:ASP	我們:N	想:Vt	吃:Vt	的:T	慾望:N	結果:N	過:Vt	了:ASP	幾:DET	天:M	再:ADV	訂:Vt	就:ADV	訂位:Vi	成功:Vi	了:T	
+撒花:N	
+餐廳:N	位置:N	呢:T	是:Vt	在:P	仁愛:N	國中:N	附近:N	從:P	捷運站:N	過去:N	要:ADV	走:Vi	ㄧ:N	小:Vi	段:M	路:N	
+就:ADV	會:ADV	看到:Vt	紅色:N	的:T	招牌:N	跟:P	可愛:Vi	的:T	串燒:N	Logo:FW	
+這:DET	間:M	店:N	裡面:N	的:T	位子:N	不:ADV	多:Vi	
+難怪:ADV	之前:POST	訂:Vt	不:ADV	到:Vt	
+大概:ADV	是:Vt	五:DET	桌:M	和:C	ㄧ:N	個:M	吧台:N	
+後面:N	的:T	牆:N	是:Vt	投影:N	布幕:N	會:ADV	投影:Vi	一些:DET	MV:FW	之類:POST	的:T	
+店:N	內:N	燈光:N	不會:ADV	很:ADV	昏暗:Vi	環境:N	滿:ADV	明亮:Vi	乾淨:Vi	的:T	
+接著:ADV	就:ADV	是:Vt	點餐:N	時間:N	了:T	這:DET	間:M	店:N	的:T	店員:N	”:FW	超級:A	“:FW	熱情:Vi	的:T	
+他:N	會:ADV	跟:P	你:N	推薦:Vt	什麼:DET	比較:ADV	好吃:Vi	之類:POST	的:T	之後:N	也:ADV	會:ADV	一直:ADV	很:ADV	注意:Vt	我們:N	的:T	用餐:Nv	狀況:N	等等:POST	的:T	
+菜單:N	的:T	部分:DET	每:DET	個:M	餐點:N	的:T	價格:N	都:ADV	不會:ADV	很:ADV	貴:Vi	大概:ADV	50:DET	-:DASHCATEGORY	150:DET	
+首先:ADV	第一:DET	道:M	先:ADV	來:ADV	吃:Vt	個:M	沙拉:N	開開:Vt	胃:N	-:DASHCATEGORY	芝麻:N	牛:N	舌:N	沙拉:N	
+$:FW	100:DET	
+沙拉:N	的:T	部分:DET	是:Vt	很:ADV	普通:Vi	的:T	醬:N	但:C	牛:N	舌:N	滿:ADV	好吃:Vi	的:T	
+奶油:N	炒:Vt	高麗菜:N	
+$:FW	60:DET	
+吃起來:ADV	有:Vt	淡淡:Vi	的:T	奶油:N	香:Vi	但:C	這:DET	道:M	的:T	表現:N	是:Vt	滿:ADV	普通:Vi	的:T	
+高麗菜:N	是:Vt	要:ADV	要求:Vt	別人:N	多:ADV	好吃:Vi	拉:Vt	
+大阪:N	燒:Vt	炒:Vt	烏龍:N	
+$:FW	140:DET	
+上面:N	是:Vt	水波蛋:N	一點點:DET	的:T	海苔:N	粉底:N	下:POST	是:Vt	柴:N	魚片:N	跟:P	一些:DET	蔬菜:N	
+這:DET	道:M	的:T	口味:N	很:ADV	日式:A	有:Vt	一點:DET	的:T	甜味:N	我:N	同事:N	跟:P	我:N	都:ADV	覺得:Vt	這:DET	道:M	滿:ADV	好吃:Vi	的:T	
+來:Vi	店:N	必:ADV	點:Vt	迷你:Vi	奶油:N	牛丼飯:N	
+$:FW	50:DET	
+哇:T	看到:Vt	這:DET	個:M	價格:N	真的:ADV	會:ADV	嚇到:Vt	吧:T	
+超:Vt	便宜:Vi	的:T	
+不過:C	他:N	的:T	份量:N	也:ADV	是:Vt	縮小版:N	的:T	大概:ADV	就是:C	家:N	裡:N	裝:Vt	飯:N	的:T	小:Vi	碗:N	的:T	量:N	
+我:N	是:Vt	滿:DET	建議:N	怕:Vt	吃:Vt	不:ADV	飽:Vi	的:T	人:N	可以:ADV	一:DET	人:N	點:Vt	一:DET	碗:M	飯:N	在:P	點:Vt	一些:DET	串燒:N	來:ADV	吃:Vt	
+不要:ADV	看:Vt	他:N	小小:Vi	一:DET	碗:M	但:C	麻雀:N	雖:C	小:Vi	五臟:N	俱全:Vi	重點:N	是:Vt	它:N	十分:ADV	美味:Vi	
+煮:Vt	物:N	-:DASHCATEGORY	奶油:N	綜合:A	菇煮:N	
+$:FW	70:DET	
+這:DET	道:M	吃起來:ADV	口味:N	算:Vt	還:ADV	滿:ADV	清淡:Vi	的:T	喝:Vt	起來:ASP	有:Vt	淡淡:Vi	的:T	奶油味:N	和:C	一點:DET	甜味:N	
+但是:C	表現:Vt	普通:Vi	並:C	不:ADV	是:Vt	下:DET	次:M	來:ADV	還:ADV	會:ADV	想:Vt	讓:Vt	人:N	想:Vt	點:N	的:T	東西:N	哈哈:ADV	
+接著:ADV	要:ADV	來:ADV	介紹:Vt	串燒:N	了:T	先:ADV	來:ADV	介紹:Vt	放:Vt	串燒:N	的:T	地方:N	店家:N	用:P	蠟燭:N	來:ADV	維持:Vt	串燒:N	的:T	美味:N	
+每:ADV	一口:ADV	放:Vt	在:P	嘴:N	裡:POST	都:ADV	像:Vt	剛:ADV	烤好:Vt	的:T	一樣:Vi	這:DET	真的:ADV	是:Vt	很:ADV	聰明:Vi	的:T	道具:N	呢:T	
+櫛瓜:N	
+$:FW	60:DET	
+這:DET	個:M	欸:T	痾:b	就:ADV	是:Vt	瓜類:N	的:T	味道:N	呵呵:ADV	呵:T	
+我:N	覺得:Vt	這:DET	個:M	可以:ADV	不:ADV	要點:N	拉:Vt	哈哈:ADV	
+我們:N	幹嘛:ADV	點:Vt	這:DET	個:M	拉:Vt	
+北海道:N	干貝:N	明:Vi	太子:N	口味:N	
+$:FW	70:DET	
+明:N	太子:N	跟:P	干貝:N	搭:Vt	在一起:Vi	根本:N	鮮味:N	十足:Vi	干貝:N	也:ADV	很:ADV	新鮮:Vi	
+因為:C	一:DET	串:M	只有:ADV	兩:DET	個:M	所以:C	我們:N	後來:N	又:ADV	加:Vt	點:M	了:ASP	一:DET	串:M	
+這:DET	道:M	我:N	滿:DET	推薦:Vt	大家:N	可以:ADV	點:Vt	的:T	喔:T	
+牛:N	肋條:N	兩:DET	串:M	
+$:FW	80:DET	
+口味:N	上:POST	可以:ADV	選:Vt	椒鹽:N	跟:P	醬燒:N	這:DET	道:M	我們:N	是:Vt	選:Vt	醬燒:N	的:T	另:DET	ㄧ:N	個:M	忘:Vt	了:ASP	拍:Vt	的:T	霜降:N	豬:N	是:Vt	選:Vt	椒鹽:N	的:T	
+兩:DET	種:M	口味:N	都:ADV	滿:ADV	不錯:Vi	的:T	重點:N	是:Vt	因為:C	他:N	的:T	肉質:N	非常:ADV	的:T	鮮:Vi	甜:Vi	所以:C	怎麼:ADV	調味:Vi	都:ADV	好吃:Vi	吧:T	
+愛:Vt	吃:Vt	肉:N	的:T	人:N	ㄧ定:Vt	要點:N	就算:C	每:DET	個:M	肉串:N	都:ADV	點:Vt	也:ADV	不會:ADV	花:Vt	很多:DET	錢:N	喔:T	哈:ADV	哈哈:ADV	
+自製:Vt	手工:N	雞:N	肉丸:N	兩:DET	串:M	
+$:FW	60:DET	
+這:DET	道:M	是:Vt	店員:N	推薦:Vt	的:T	我們:N	吃:Vt	過:ASP	以後:N	也:ADV	覺得:Vt	滿:ADV	好吃:Vi	的:T	
+豬:N	五:DET	花:N	包:Vt	金針菇:N	
+$:FW	50:DET	
+豬肉:N	油油:Vi	嫩嫩:Vi	的:T	搭配:Nv	金針菇:N	讓:Vt	他:N	吃起來:ADV	不會:ADV	太:ADV	油膩:Vi	比較:ADV	爽口:Vi	
+這:DET	道:M	也:ADV	是:Vt	滿:ADV	不錯:Vi	的:T	選擇:N	
+小小:Vi	總結:N	：:COLONCATEGORY	有:Vt	肉品:N	的:T	餐點:N	表現:N	都:ADV	滿:ADV	好:Vi	的:T	
+東西:N	的:T	份量:N	都:ADV	有點:ADV	小:Vi	走:Vi	個:M	小:Vi	而:C	美:Vi	精緻:Vi	的:T	路線:N	哈哈:ADV	
+如果:C	是:Vt	想要:Vt	大吃:Vt	的:T	人:N	來:Vi	這邊:N	可能:ADV	不:ADV	太:ADV	適合:Vi	
+但:C	如果:C	是:Vt	想要:Vt	來:ADV	小酌:Vi	聊天:Vi	小:Vi	聚餐:Vi	那樣:ADV	這邊:N	還:ADV	滿:ADV	適合:Vi	的:T	
+以上:N	給:Vt	大家:N	做:Vt	參考:N	
+整體:N	評分:Nv	：:COLONCATEGORY	
+服務:Nv	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	
+環境:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	
+餐點:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	
+CP:FW	值:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	

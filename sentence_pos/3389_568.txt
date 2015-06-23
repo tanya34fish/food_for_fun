@@ -1,0 +1,70 @@
+twccc:FW	0927:DET	(:PARENTHESISCATEGORY	哲~:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	hot:FW	7:DET	新:Vi	鉄板:N	料理:N	(:PARENTHESISCATEGORY	家:N	樂福:N	桂林店:N	):PARENTHESISCATEGORY	
+Mon:FW	
+Aug:FW	
+4:DET	
+23:DET	::COLONCATEGORY	33:DET	::COLONCATEGORY	56:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	hot:FW	7:DET	新:Vi	鉄板:N	料理:N	(:PARENTHESISCATEGORY	家:N	樂福:N	桂林店:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	103年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	萬華區:N	桂林路:N	1:DET	號:M	4樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23831199:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	3017:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	NT:FW	290:DET	+:FW	10:DET	%:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	saihan2.pixnet.net/blog/post:FW	/:FW	106202837:DET	
+終於:ADV	千呼萬喚:Vi	的:T	吃到:Vt	hot:FW	7:DET	啦:T	
+從:P	年初:N	開始:Vt	講:Vt	
+位子:N	不:ADV	是:Vt	訂:Vt	不:ADV	到:Vt	不然:C	就是:C	時間:N	無法:ADV	配合:Vt	
+一:DET	個:M	月:N	以前:POST	開始:Vt	開放:Vt	訂位:Vi	唷:T	所以:C	我:N	6:DET	/:FW	16:DET	營業:Nv	時間:N	一:ADV	到:Vt	就:ADV	馬上:ADV	打電話:Vi	進去:Vi	了:ASP	
+選:Vt	了:ASP	一:DET	個:M	離:P	家:N	比較:ADV	近:Vi	的:T	店:N	就:ADV	是:Vt	位於:Vt	西門町:N	那兒:N	的:T	家:N	樂福:N	
+家:N	樂福:N	樓上:N	的:T	美食街:N	設計:N	得:T	很:ADV	漂亮:Vi	這邊:N	光王品:N	集團:N	的:T	店:N	就:ADV	有:Vt	3:DET	間:M	
+除了:P	hot:FW	7:DET	外:N	還:ADV	有:Vt	品田:N	牧場:N	與:C	石:N	二:DET	鍋:M	
+終於:ADV	到:Vt	店:N	門口:N	囉:T	
+店:N	內:N	的:T	裝潢:N	很:ADV	昏暗:Vi	跟:P	ikki:FW	的:T	感覺:N	還:ADV	有:Vt	色調:N	都:ADV	很:ADV	像:Vt	就:ADV	是:Vt	走:Vi	黑:Vi	與:C	紅:Vi	這:DET	兩:DET	色系:N	
+環顧:Vt	店:N	內:N	可以:ADV	發現:Vt	煎台:N	並:ADV	不:ADV	多:ADV	這:DET	就:ADV	表示:Vt	集中:Vt	在:P	某:DET	幾:DET	個:M	地方:N	料理:Vt	煎台:N	的:T	位置:N	不:ADV	多:Vi	
+很:ADV	幸運:Vi	我們:N	是:Vt	在:P	煎台:N	前面:N	的:T	位子:N	^:FW	^:FW	吃:Vt	鐵板燒:N	就:ADV	是:Vt	要:ADV	作:Vt	在:P	煎台:N	前面:N	才:ADV	有:Vt	FU:FW	阿:N	
+還:ADV	有:Vt	看:Vt	一下:N	師傅:N	的:T	手藝:N	在:P	hot:FW	7:DET	裡面:N	的:T	師傅:N	都:ADV	很:ADV	年輕:Vi	烹調:Vt	的:T	過程:N	中規中矩:Vi	
+就:ADV	跟:P	外面:N	的:T	130:DET	元:M	鐵板燒:N	差不多:Vi	囉:T	
+千:DET	元:M	的:T	夏慕尼:N	就:ADV	有:Vt	差:Vi	嚕:ADV	
+菜單:N	&:FW	amp:FW	
+餐具:N	價位:N	NT:FW	290:DET	+:FW	10:DET	%:M	
+由於:C	我們:N	是:Vt	訂:Vt	5:DET	點:M	半:POST	的:T	位子:N	所以:C	還:ADV	很:ADV	空:Vt	
+沙拉:N	-:DASHCATEGORY	蓮藕:N	鮮:Vi	蔬:b	沙拉:N	
+簡單:Vi	清脆:Vi	又:ADV	開胃:Vi	的:T	沙拉:N	和風:N	芥仔醬:N	的:T	醬汁:N	味道:N	剛剛好:ADV	
+飲料:N	-:DASHCATEGORY	仙草:N	冰鑽:N	&:FW	amp:FW	
+蕎麥:N	決明子茶:N	
+熱:Vt	
+沒有:ADV	提供:Vt	白開水:N	飲料:N	就:ADV	這:DET	一:DET	杯:M	了:ASP	喝完:Vt	如果:C	要:ADV	再:ADV	續:Vt	仙草:N	冰鑽:N	一:DET	杯:M	NT:FW	80:DET	
+至於:P	熱:Vt	的:T	不:ADV	曉得:Vt	多少:DET	畢竟:ADV	夏天:N	大家:N	都:ADV	點:Vt	冰:N	的:T	居多:Vi	
+而且:C	熱:Vt	的:T	天氣:N	喝:Vt	冰:N	的:T	喝:Vt	很:ADV	爽快:Vi	一:ADV	下:Vt	就:ADV	喝完:Vt	了:ASP	自然:N	也:ADV	會:ADV	聽到:Vt	客人:N	問:Vt	
+然後:ADV	聽到:Vt	一:DET	杯:M	NT:FW	80:DET	就:ADV	沒:Vt	人:N	續杯:Vi	了:ASP	XD:FW	
+自己:N	覺得:Vt	還:ADV	不錯:Vi	喝:Vt	起來:ASP	的:T	感覺:N	讓:Vt	我:N	想到:Vt	鮮芋仙:N	的:T	仙草:N	冰:N	
+湯品:N	-:DASHCATEGORY	和風:N	牛:N	筋:N	清湯:N	
+半:DET	筋:N	半:DET	肉:N	的:T	牛肉湯:N	很:ADV	清淡:Vi	不會:ADV	很:ADV	鹹:Vi	淡淡:Vi	的:T	但:C	不失:Vt	牛肉:N	清湯:N	的:T	味道:N	
+湯品:N	-:DASHCATEGORY	銀杏:N	牛蒡:N	雞湯:N	
+兩:DET	個:M	湯:N	相較:Vi	之下:POST	我:N	比較:ADV	愛:Vt	牛蒡:N	清湯:N	因為:C	本身:N	愛:Vt	清湯:N	又:ADV	很:ADV	愛:Vt	牛蒡:N	
+牛蒡:N	跟:P	雞湯:N	真的:ADV	是:Vt	好:Vi	夥伴:N	不:ADV	鹹:Vi	不:ADV	油:N	好:ADV	好喝:Vi	
+師傅:N	料理:Vt	主食:N	中:POST	
+我:N	的:T	鍋燒壽喜:N	牛:N	洋蔥:N	已經:ADV	料理:Vt	完畢:Vi	保溫:Vi	中:POST	
+看:Vt	著:ASP	師傅:N	料理:Vt	著:ASP	自己:N	的:T	餐食:N	不僅:C	吃起來:ADV	安心:Vi	也:ADV	讓:Vt	客人:N	與:C	師傅:N	能:ADV	有:Vt	互動:Vi	拉近:Vt	距離:N	
+網友:N	們:N	一致:Vi	推薦:Vt	鍋燒壽喜:N	牛:N	
+衛道:Vi	上:N	來:T	說:Vt	不會:ADV	像:P	外面:N	的:T	百:DET	元:M	鐵板燒:N	那樣:Vi	的:T	死鹹芶:Vi	了:ASP	一:DET	堆:M	醬:N	
+七:DET	分:M	熟:Vi	的:T	牛肉:N	搭:Vt	著:ASP	爽口:Vi	的:T	洋蔥:N	味道:N	還:ADV	OK:FW	囉:T	
+主食:N	-:DASHCATEGORY	香煎:N	櫻桃:N	鴨腿:N	
+個:M	人:N	覺得:Vt	味道:N	沒有:Vt	壽喜牛:N	來:Vi	的:T	好吃:Vi	外皮:N	煎:Vt	得:T	酥脆:Vi	但:C	有一點點:ADV	乾:Vi	
+當下:N	再:ADV	吃:Vt	主食:N	的:T	時後:N	心想:Vt	沒有:Vt	飯:N	直接:Vi	這樣:Vi	吃:Vt	好:Vi	怪:Vi	吃:Vt	了:ASP	幾:DET	口:M	之後:POST	飯:N	才:ADV	送上來:Vt	
+御食:N	-:DASHCATEGORY	蒲燒:N	鯛魚:N	蒸飯:N	+:FW	梅漬:N	大根:N	
+使用:Vt	台南:N	11:DET	號:M	在:P	地:N	好:Vi	米軟:N	Q:FW	好吃:Vi	不會:ADV	太:ADV	乾:Vi	蒲燒:N	鯛魚:N	就:ADV	...:ETCCATEGORY	本身:N	就:ADV	不:ADV	太:ADV	愛:Vt	吃:Vt	魚:N	@:FW	@:FW	
+梅漬:N	大根:N	脆脆:Vi	的:T	一點:DET	酸:Vi	一點:ADV	甜:Vi	還:ADV	OK:FW	
+很:ADV	妙:Vi	的:T	時間點:N	上來:Vi	時:POST	蔬:b	-:DASHCATEGORY	豆芽菜:N	炒:Vt	洋蔥:N	南瓜:N	絲:N	飯:N	都:ADV	快:ADV	吃完:Vt	了:ASP	才:ADV	出現:Vi	
+味道:N	也:ADV	就:ADV	還:ADV	OK:FW	囉:T	Eric:FW	不:ADV	吃:Vt	豆芽菜:N	兩:DET	盤:M	自己:N	吃完:Vt	
+想要:Vt	知道:Vt	今天:N	的:T	時:N	蔬:b	是:Vt	什麼:DET	可以:ADV	問:Vt	服務:Nv	人員:N	看:Vt	網友:N	分享:Vt	有:Vt	青江菜:N	跟:P	高麗菜:N	
+甜品:N	-:DASHCATEGORY	銅鑼:N	燒:Vt	
+餅皮:N	的:T	顏色:N	煎:Vt	得:T	很:ADV	漂亮:Vi	裡面:N	的:T	餡料:N	也:ADV	很:ADV	豐富:Vt	不:ADV	太:ADV	甜:Vi	的:T	大:Vi	顆:M	紅豆:N	餡:N	
+不過:C	吃起來:ADV	不會:ADV	很:ADV	驚艷:Vi	就是了:Vi	
+普普:N	
+整:DET	個:M	吃完:Vt	的:T	用餐:Nv	時間:N	約:ADV	1:DET	小時:M	左右:POST	整體:N	來:ADV	說:Vt	還:ADV	OK:FW	
+份量:N	上:N	來:T	說:Vt	還可以:ADV	有一點點:ADV	吃:Vt	不:ADV	飽:Vi	主要:ADV	還是:ADV	吃:Vt	氣氛:N	跟:C	服務:Nv	為主:Vi	
+比較:ADV	希望:Vt	能夠:ADV	提供:Vt	開水:N	來:ADV	喝:Vt	吃完:Vt	就:ADV	跑去:Vt	家:N	樂福:N	買:Vt	喝:Vt	得:T	去:Vt	了:ASP	

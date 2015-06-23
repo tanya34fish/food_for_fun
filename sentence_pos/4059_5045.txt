@@ -1,0 +1,101 @@
+waitingangel:FW	(:PARENTHESISCATEGORY	小仙:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	萬華:N	林:N	阿姨:N	紅豆餅:N	隱藏:Vt	版:N	巷弄:N	車輪餅:N	
+Tue:FW	
+Feb:FW	
+17:DET	
+00:DET	::COLONCATEGORY	05:DET	::COLONCATEGORY	15:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	林:N	阿姨:N	紅豆餅:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	1月:N	
+地址:N	：:COLONCATEGORY	台北市:N	萬華區:N	萬大路:N	486巷:N	11弄:N	18:DET	號:M	
+電話:N	：:COLONCATEGORY	0920:DET	-:DASHCATEGORY	515:DET	-:DASHCATEGORY	799:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	夏天:N	14:DET	：:COLONCATEGORY	30:DET	-:DASHCATEGORY	18:DET	：:COLONCATEGORY	30:DET	；:SEMICOLONCATEGORY	冬天:N	11:DET	：:COLONCATEGORY	30:DET	-:DASHCATEGORY	18:DET	：:COLONCATEGORY	30:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	紅:Vi	豆餅:N	.:PERIODCATEGORY	奶油餅:N	.:PERIODCATEGORY	起:Vt	司餅:N	
+圖文:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	waitingangel0514.pixnet.net/blog/post:FW	/:FW	264379933:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	以下:N	純:Vi	文字:N	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+要不是:C	朋友:N	推薦:Vt	
+我:N	根本:ADV	一輩子:N	也:ADV	不會:ADV	發現:Vt	這:DET	攤:M	車輪餅:N	
+朋友:N	說:Vt	這:DET	間:M	紅豆:N	餅:N	是:Vt	他:N	從小:ADV	吃到:Vt	大:Vi	的:T	
+等於:Vt	是:Vt	兒:N	時:POST	的:T	回憶:N	
+有:Vt	記憶:N	的:T	食物:N	最:ADV	讓:Vt	人:N	心動:Vi	了:T	
+除了:P	擔心:Vt	我:N	這:DET	個:M	路痴:N	會:ADV	找:Vt	不:ADV	到:Vt	巷弄:N	隱密:Vi	的:T	小攤:N	外:N	
+我:N	更:ADV	擔心:Vt	小:Vi	攤子:N	沒:ADV	賣:Vt	了:ASP	
+朋友:N	吃:Vt	好:Vi	到:P	相:N	報:N	提供:Vt	了:ASP	地址:N	
+還:ADV	貼心:Vi	的:T	給:Vt	了:ASP	我:N	小:Vi	攤子:N	的:T	電話:N	號碼:N	
+先:ADV	撥:Vt	了:ASP	電話:N	過去:N	
+響:Vi	到:P	天荒地老:Vi	也:ADV	沒有:Vt	人:N	接:Vt	
+做好:Vt	最:ADV	壞:Vt	的:T	打算:Nv	直接:Vi	衝去:Vi	萬大路:N	巷弄:N	
+經過:Vt	GOOGLE:FW	大:Vi	神:N	指引:Vt	找到:Vt	攤子:N	所在:N	位置:N	
+大老遠:ADV	就:ADV	看到:Vt	存在:Vi	感:Vt	很:ADV	低:Vi	的:T	招牌:N	
+湊近:Vi	發現:Vt	林:N	阿姨:N	紅豆餅:N	的:T	攤子:N	
+躲:Vt	在:P	價目表:N	後面:N	的:T	林:N	阿姨:N	熱情:Vi	的:T	招呼:Vt	我們:N	
+就:ADV	像:P	認識:Vt	很:ADV	久:Vi	的:T	鄰居:N	一樣:Vi	
+語:N	帶:Vt	抱怨:Vt	的:T	詢問:Vt	林:N	阿姨:N	怎麼:ADV	沒:ADV	接:Vt	手機:N	
+她:N	率性:Vi	的:T	敲:Vt	了:ASP	一下:N	手機:N	說:Vt	應該:ADV	是:Vt	秀斗:N	了:T	
+爽朗:Vi	的:T	個性:N	讓:Vt	我:N	快速:Vi	釋懷:Vi	
+反正:ADV	沒:ADV	撲空:Vi	一切:DET	都:ADV	好:Vi	說話:Vi	
+總共:ADV	八:DET	種:M	口味:N	兩:DET	種:M	價格:N	
+甜:Vi	的:T	鹹:Vi	的:T	都:ADV	有:Vt	
+林:N	阿姨:N	是:Vt	從:P	迪化街:N	老:Vi	師父:N	手:N	裡:N	學到:Vt	紅豆餅:N	的:T	製作:Nv	技巧:N	
+一:DET	開始:Vi	就是:C	在:P	萬華:N	巷弄:N	裡:N	賣:Vt	
+客人:N	也:ADV	曾:ADV	建議:Vt	她:N	轉到:Vt	大:Vi	馬路:N	或是:C	租:Nv	店面:N	
+但:C	林:N	阿姨:N	覺得:Vt	賺:Vt	多:DET	賺:Vt	少:Vi	不:ADV	重要:Vi	
+人生:N	開心:Vi	能夠:ADV	過:Vt	就:ADV	好:Vi	
+看到:Vt	烤爐:N	上:N	一個個:DET	金黃色:N	的:T	車輪餅:N	沒:ADV	
+比起:P	外表:N	
+陣陣:DET	傳來:Vt	的:T	香氣:N	更:ADV	迷人:Vi	
+暢銷:Vi	的:T	紅豆:N	與:C	奶油:N	都:ADV	自己:N	熬煮:Vt	
+這樣:Vi	甜度:N	才:ADV	可以:ADV	控制:Vt	
+林:N	阿姨:N	說:Vt	因為:C	需要:Vt	一:DET	個:M	一:DET	個:M	製作:Nv	無法:ADV	大量:DET	產出:Nv	
+而且:C	原:A	物料:N	都:ADV	在:P	漲:Vi	
+利潤:N	比:P	早期:N	高出:Vt	很多:DET	
+不過:C	品質:N	是:Vt	很:ADV	重要:Vi	的:T	
+所以:C	該:ADV	堅持:Vt	的:T	林:N	阿姨:N	還是:ADV	繼續:Vt	堅持:Vt	
+每:DET	個:M	人:N	都:ADV	是:Vt	一:DET	包:M	一:DET	包:M	的:T	買:Vt	
+內:N	餡:N	林:N	阿姨:N	一致性:N	的:T	放到:Vt	滿:DET	出來:Vi	
+林:N	阿姨:N	紅豆餅:N	的:T	營業:Nv	時間:N	也:ADV	是:Vt	個:M	謎:N	
+雖然:C	說:Vt	夏天:N	下午:N	兩:DET	點:N	半:DET	開始:Vi	、:PAUSECATEGORY	冬天:N	11:DET	點:M	半:POST	開始:POST	
+但:C	季節:N	的:T	界定:N	不明:Vi	實在:ADV	很:ADV	讓:Vt	人:N	困擾:N	
+認真:Vi	詢問:Vt	了:ASP	林:N	阿姨:N	夏天:N	是:Vt	什麼:DET	時候:N	
+林:N	阿姨:N	又:ADV	率性:Vi	的:T	回:Vt	我:N	：:COLONCATEGORY	等:P	妳:N	不:ADV	穿:Vt	外套:N	只:ADV	穿:Vt	短袖:N	的:T	時候:N	
+那:ADV	如果:C	我:N	真的:ADV	很:ADV	想:Vt	在:P	冬天:N	吃紅:Vt	豆餅:N	
+穿著:Vt	短袖:N	掛:Vt	著:ASP	鼻涕:N	前往:Vt	也:ADV	是:Vt	買:Vt	得到:Vt	的:T	嗎:T	
+而且:C	現在:N	天氣:N	變化:N	大:Vi	
+前:DET	幾:DET	天:M	還:ADV	要:Vt	穿:Vt	兩:DET	件:M	發熱衣:N	
+今天:N	我:N	就:ADV	穿:Vt	短袖:N	薄:Vi	外套:N	了:T	
+只:ADV	能:ADV	請:Vt	想:Vt	前往:Vt	購買:Vt	的:T	朋友:N	先:ADV	打:Vt	個:M	電話:N	確認:Vt	了:ASP	
+雖然:C	不能:ADV	保證:Vt	林:N	阿姨:N	會:ADV	接:Vt	
+我:N	的:T	一:DET	大:Vi	包:M	拿到:Vt	手嚕:N	
+馬上:ADV	站:Vi	路邊:N	品嚐:Vt	
+每:DET	顆:M	紅豆餅:N	都:ADV	有:Vt	5:DET	公分:M	寬:Vi	
+高:Vi	也:ADV	都:ADV	有:Vt	3:DET	公分:M	
+飽滿:Vi	到:P	餅皮:N	難以:ADV	夾穩:Vt	
+起:Vt	司:N	與:P	起:ASP	司:N	玉米:N	
+14:DET	元:M	
+是:Vt	唯:ADV	二:DET	最:ADV	貴:Vi	的:T	口味:N	
+起:Vt	司輕:N	壓:Vt	還:ADV	會:ADV	有:Vt	厚實:Vi	的:T	起:Vt	司:N	冒出:Vt	頭:N	
+牽絲:Vt	程度:N	沒有:ADV	讓:Vt	我:N	失望:Vi	
+鹹香:N	好吃:Vi	
+加:Vt	了:ASP	玉米:N	的:T	起:Vt	司:N	玉米:N	多:Vi	了:ASP	有:Vt	咬:Vt	感:N	玉米:N	的:T	甜:Vi	
+兩樣:Vi	我:N	喜歡:Vt	的:T	元素:N	加:Vt	在一起:Vi	好吃:Vi	爆表:N	
+芝麻:N	
+以下:N	口味:N	皆:ADV	是:Vt	7:DET	元:M	
+濃厚:Vi	的:T	芝麻:N	不會:ADV	太:ADV	乾:Vi	鎖喉:Vi	
+花生:N	裡面:N	混:Vt	了:ASP	黑:Vi	芝麻:N	粒:N	
+不:ADV	是:Vt	花生醬:N	而是:C	花生:N	粒:N	
+顆粒狀:N	的:T	內:N	餡:N	因為:C	餅皮:N	更:ADV	香:Vi	了:T	
+林:N	阿姨:N	在:P	餅皮:N	內:N	加:Vt	了:ASP	味噌:N	醬:N	
+豐潤:Vi	的:T	甜:Vi	讓:Vt	餅:N	皮:N	冷:Vi	掉:Vi	也:ADV	很:ADV	好吃:Vi	
+蘿蔔:N	絲:N	是:Vt	將:P	脫水:N	蘿蔔:N	加:Vt	糖:N	、:PAUSECATEGORY	鹽:N	、:PAUSECATEGORY	胡椒:N	拌炒:Vt	後:POST	燜煮:Vt	
+我:N	比較:ADV	喜歡:Vt	辣勁:N	十足:Vi	的:T	蘿蔔:N	絲:N	
+不過:C	這:DET	有:Vt	入:Vt	味:N	的:T	蘿蔔:N	絲:N	已經:ADV	很:ADV	涮:b	嘴:N	了:T	
+奶油:N	的:T	甜度:N	適中:Vi	
+醇香:Vi	沒有:Vt	粉粉:N	的:T	感覺:N	
+芋頭:N	還:ADV	吃:Vt	得到:Vt	塊狀:N	芋頭:N	
+綿密:Vi	微:ADV	甜:Vi	
+紅豆:N	一樣:Vi	吃:Vt	得到:Vt	完整:Vi	紅豆:N	
+大:Vi	顆:M	紅豆:N	一樣:Vi	用:P	舌頭:N	一:ADV	壓:Vt	就:ADV	碎:Vi	
+過半數:Vi	都:ADV	是:Vt	會:ADV	再:ADV	回購:Vt	的:T	口味:N	
+只:ADV	需要:Vt	搞清楚:Vt	營業:Nv	時間:N	即可:ADV	

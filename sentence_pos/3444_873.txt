@@ -1,0 +1,220 @@
+sisy:FW	1017:DET	(:PARENTHESISCATEGORY	西西:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	誠品:N	生活:N	松菸店:N	~:FW	thefirst:FW	餐廳:N	
+Wed:FW	
+Aug:FW	
+20:DET	
+22:DET	::COLONCATEGORY	04:DET	::COLONCATEGORY	40:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	thefirst:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	菸廠路:N	88:DET	號:M	3:DET	F:FW	（:PARENTHESISCATEGORY	誠品:N	生活:N	松菸店:N	）:PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	（:PARENTHESISCATEGORY	02:DET	）:PARENTHESISCATEGORY	6636:DET	-:DASHCATEGORY	5888:DET	#:FW	1515:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	am:FW	11:DET	：:COLONCATEGORY	00:DET	~:FW	pm:FW	10:DET	：:COLONCATEGORY	00:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+完整:Vi	圖文:N	無:Vt	音樂版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sisy1017.pixnet.net/blog/post:FW	/:FW	106390514:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+相信:Vt	大家:N	都:ADV	知道:Vt	誠品:N	生活:N	松菸店:N	B:FW	1:DET	美食街:N	有:Vt	許多:DET	美食:N	
+像:Vt	是:Vt	稻禾:N	烏龍麵:N	、:PAUSECATEGORY	義麵坊:N	小:Vi	酒館:N	、:PAUSECATEGORY	黑面蔡:N	滷味:N	及:C	吳寶春麥方店:N	
+殊不知:Vt	在:P	誠品:N	生活:N	松菸店:N	的:T	三樓:N	也:ADV	隱藏:Vt	一:DET	間:M	精緻:Vi	料理:Vt	餐廳:N	thefirst:FW	
+thefirst:FW	餐廳:N	屬於:Vt	誠品:N	生活:N	
+旗下:N	有:Vt	thefirst:FW	、:PAUSECATEGORY	EsliteCafe:FW	':FW	、:PAUSECATEGORY	Eslitetearoom:FW	和:C	thelibrary:FW	
+thefirst:FW	餐廳:N	提供:Vt	完整:Vi	的:T	餐酒:N	服務:Nv	
+以:P	新:Vi	法式:A	料理:N	結合:Vt	在:P	地:N	優質:A	食材:N	
+將:P	菜色:N	特性:N	發揮:Vt	到:P	淋漓盡致:Vi	
+不管:C	是:Vt	午餐:N	、:PAUSECATEGORY	下午茶:N	還是:C	晚餐:N	都:ADV	相當:ADV	精緻:Vi	
+甚至:ADV	還:ADV	有:Vt	專業:Vi	的:T	侍:Vt	酒:N	師:N	在:P	一:DET	旁:N	服務:Vt	哦:T	
+更:ADV	特別:Vi	的:T	是:Vt	
+除了:P	紅酒:N	之外:POST	
+竟然:ADV	還:ADV	提供:Vt	在:P	地:N	台灣茶:N	
+在:P	品酒:Vi	的:T	同時:N	還可以:ADV	品茗:Vi	
+更:ADV	不用說:ADV	跨年:A	時:POST	還可以:ADV	直接:Vi	欣賞:Vt	101:DET	煙火秀:N	
+真的:ADV	非常:ADV	適合:Vi	公司:N	團體:N	或是:C	情侶:N	、:PAUSECATEGORY	家人:N	團聚:Vi	哦:T	
+thefirst:FW	餐廳:N	就:ADV	隱身:Vi	在:P	3樓:N	誠品:N	書店:N	的:T	一角:N	
+如果:C	不:ADV	仔細:Vi	看:Vt	
+可能:ADV	還:ADV	不會:ADV	發現:Vt	呢:T	
+一:DET	進:M	門:N	就:ADV	可以:ADV	感受到:Vt	thefirst:FW	餐廳:N	所:ADV	呈現:Vt	的:T	沉穩:Vi	風格:N	
+彷彿:ADV	來到:Vt	這裡:N	所有人:N	都:ADV	變得:Vt	有:Vt	氣質:N	起來:Vi	了:ASP	呢:T	
+進到:Vt	餐廳:N	內部:N	
+明亮:Vi	的:T	光線:N	及:C	寬敞:Vi	的:T	空間:N	
+讓:Vt	人:N	感到:Vt	十分:ADV	的:T	舒服:Vi	
+由:P	木質:N	及:C	大理石:N	所:ADV	營造出:Vt	的:T	優雅:Vi	氛圍:N	
+搭配:Vt	沙發區:N	的:T	設計:N	
+瞬間:N	讓:Vt	人:N	變:Vi	的:T	十分:ADV	放鬆:Vt	
+尤其:ADV	是:Vt	進門:N	的:T	這:DET	區:N	
+牆:N	上:N	的:T	畫飾:N	及:C	電視:N	裡:N	播放:Vt	的:T	葡萄:N	種植:Vt	節目:N	
+讓:Vt	人:N	有:Vt	種:M	處於:Vt	南法:N	的:T	fu:FW	呢:T	
+窗:N	外:POST	除了:P	可以:ADV	鳥瞰:Vt	松山文:N	創:Vt	園區:N	之外:POST	
+還可以:ADV	欣賞:Vt	興建:Nv	中:POST	的:T	大:Vi	巨蛋:N	
+店:N	內:N	窖藏:Vt	來自:Vt	法國:N	、:PAUSECATEGORY	西班牙:N	、:PAUSECATEGORY	義大利:N	等:POST	各:DET	國:N	的:T	精選:Nv	葡萄酒:N	
+還:ADV	可:ADV	針對:P	不同:Vi	活動:N	需求:N	設計:Vt	餐點:N	及:C	酒:N	單:N	哦:T	
+hefirst:FW	還:ADV	設有:Vt	一:DET	間:M	VIPROOM:FW	
+一:DET	次:M	可:ADV	容納:Vt	十:DET	至:C	十二:DET	人:N	
+在:P	這裡:N	可以:ADV	享受:Vt	不:ADV	被:P	打擾:Vt	的:T	私人:N	時光:N	
+不但:C	有:Vt	華麗:Vi	的:T	水晶:N	吊燈:N	
+甚至:ADV	還:ADV	有:Vt	電視:N	
+更:ADV	讚:Vi	的:T	是:Vt	
+在:P	這裡:N	還可以:ADV	直接:Vi	看到:Vt	101:DET	大樓:N	
+跨年:A	的:T	時候:N	還:ADV	有:Vt	提供:Vt	包場:N	
+可以:ADV	和:P	親朋好友:N	一起:ADV	欣賞:Vt	101:DET	煙火秀:N	
+而且:C	還:ADV	不:ADV	用人:Vi	擠人:Vi	哦:T	
+不過:C	這:DET	間:M	VIPROOM:FW	有:Vt	最:ADV	低:Vi	消費:N	的:T	限制:N	
+中餐:N	為:Vt	一萬六千:DET	元:M	
+晚餐:N	則:ADV	是:Vt	三萬六千:DET	元:M	囉:T	
+在:P	看完:Vt	了:ASP	環境:N	之後:POST	趕緊:ADV	回:Vt	而:C	座位:N	上:N	坐好:Vi	
+除:P	餐具:N	早已:ADV	擺放:Vt	整齊:Vi	之外:POST	
+一:DET	旁:N	的:T	餐盤:N	也:ADV	相當:Vi	的:T	高雅:Vi	
+這裡:N	的:T	刀子:N	還可以:ADV	立:Vt	起來:ASP	耶:T	
+感覺:Vt	相當:ADV	特別:Vi	
+先:ADV	來:ADV	看看:Vt	這裡:N	的:T	菜單:N	
+午餐:N	和:C	晚餐:N	除了:P	單點:N	之外:POST	
+也:ADV	有:Vt	提供:Vt	套餐:N	
+不管:C	是:Vt	義大利麵:N	、:PAUSECATEGORY	燉飯:Vt	還是:C	海鮮:N	、:PAUSECATEGORY	牛排:N	
+應有盡有:Vi	哦:T	
+另外:C	也:ADV	有:Vt	提供:Vt	單:A	點:N	及:C	雙人:N	的:T	下午茶:N	
+假日:N	來到:Vt	誠品:N	生活:N	松菸店:N	逛街:Vi	逛累:Vi	了:T	
+在:P	這裡:N	享受:Vt	下午茶:N	也:ADV	是:Vt	滿:ADV	好:Vi	的:T	選擇:N	囉:T	
+這:DET	天:M	來到:Vt	這:DET	是:Vt	享用:Vt	晚間:N	套餐:N	
+套餐:N	均:ADV	含:Vt	麵包:N	、:PAUSECATEGORY	沙拉:N	、:PAUSECATEGORY	湯品:N	、:PAUSECATEGORY	前菜:N	、:PAUSECATEGORY	主菜:N	、:PAUSECATEGORY	甜點:N	和:C	飲品:N	
+水資:N	的:T	部分:DET	是:Vt	採:Vt	另外:C	付費:Vi	
+可以:ADV	選擇:Vt	氣泡:N	或是:C	TAU:FW	無:Vt	氣泡:N	礦泉水:N	
+一:ADV	開始:Vt	端上來:Vt	的:T	是:Vt	迎賓:N	飲品:N	
+迎賓:N	飲品:N	會:ADV	隨著:P	時間:N	不同:Vi	而:C	做:Vt	調整:Vt	
+這:DET	天:M	提供:Vt	的:T	是:Vt	":FW	梨山:N	紅香:N	冬茶:N	":FW	
+喝:Vt	起來:ASP	有:Vt	淡雅:Vi	清香:Vi	
+非常:ADV	好:Vi	入:Vt	喉:N	
+餐:N	前:N	麵包:N	
+吃起來:ADV	外表:N	帶:Vt	些:M	酥脆:Vi	
+裡面:N	鬆軟:Vi	又:ADV	帶有:Vt	嚼:Vt	勁:N	
+這裡:N	另外:ADV	提供:Vt	":FW	大:Vi	A:FW	特級:A	初榨:Vt	橄欖油:N	":FW	
+搭配:Vt	麵包:N	一起:ADV	享用:Vt	更:ADV	添:Vt	義式:A	風味:N	
+":FW	鴨珍鴨胸:N	沙拉:N	佐油蔥油醋:N	":FW	
+鴨胸:N	吃起來:ADV	意外:Vt	的:T	軟嫩:Vi	
+吃起來:ADV	不:ADV	柴:N	
+為數:N	眾多:Vi	的:T	鴨珍:N	除了:P	有:Vt	嚼:Vt	勁:N	之外:POST	
+不時:ADV	還可以:ADV	感受到:Vt	油醋:N	的:T	滋味:N	
+":FW	嫩:Nv	筍:N	沙拉:N	佐松露油醋:N	":FW	
+除了:P	綠:Vi	竹筍:N	吃起來:ADV	非常:ADV	鮮嫩:Vi	多汁:Vi	之外:POST	
+生菜:N	的:T	部分:DET	也:ADV	吃:Vt	得:T	出:Vt	新鮮:Vi	
+搭配:Vt	松露油醋醬:N	一起:ADV	享受:Vt	相當:Vi	的:T	開胃:Nv	
+":FW	蟹肉:N	玉黍:N	濃湯:N	":FW	
+玉黍:N	濃湯:N	喝:Vt	起來:ASP	非常:ADV	的:T	濃稠:Vi	夠味:Vi	
+而且:C	鹹度:N	適中:Vi	
+非常:ADV	的:T	好喝:Vi	
+":FW	澄清:Vt	雞湯:N	襯蝦餃:N	":FW	
+看:Vt	著:ASP	蝦餃:N	在:P	清湯:N	裡:N	載浮載沉:Vi	的:T	
+讓:Vt	人:N	很:ADV	想:Vt	立馬:N	一口:ADV	吃下去:Vi	
+雞湯:N	的:T	部分:DET	非常:ADV	清澈:Vi	
+喝:Vt	起來:ASP	甘甜:Vi	可口:Vi	
+感人:Vi	意想不到:Vt	的:T	潤喉:Vi	感:Vt	
+這:DET	也:ADV	難怪:ADV	服務:Vt	人員:N	會:ADV	極度:ADV	推薦:Vt	這:DET	道:M	
+至於:P	蝦餃:N	的:T	部份:DET	
+即使:C	泡:Vt	在:P	清湯:N	起:POST	
+外皮:N	仍:ADV	保有:Vt	相當:ADV	彈性:Vi	
+裡頭:N	的:T	鮮蝦:N	吃起來:ADV	相當:ADV	Q:FW	彈:Vt	
+像:P	這樣:Vi	好吃:Vi	的:T	蝦餃:N	
+再:ADV	多:ADV	來:Vi	幾:DET	個:M	也:ADV	吃:Vt	得:T	下:N	囉:T	
+":FW	嫩煎鴨肝襯:Vi	蘋果:N	桑葚:N	醬汁:N	":FW	
+套餐:N	需:Vt	另:DET	加收:Vt	380:DET	元:M	
+看看:Vt	這:DET	鴨肝:N	
+是:Vt	不:ADV	是:Vt	彷彿:Vt	一:DET	輪:M	新月:N	般:POST	美麗:Vi	耀眼:Vi	呢:T	
+鴨肝:N	不但:C	非常:ADV	肥厚:Vi	
+表面:N	更:ADV	是:Vt	煎:Vt	的:T	呈現:Vt	完美:Vi	的:T	金黃色:N	
+底下:N	的:T	蘋果:N	吃起來:ADV	則:ADV	是:Vt	甜:Vi	中:POST	帶:Vt	些微:A	酸:Vi	
+切開:Vt	後:POST	可以:ADV	看到:Vt	色澤:N	油潤:N	
+整:DET	個:M	非常:ADV	的:T	juicy:FW	
+吃進:Vt	嘴:N	裡:N	感覺:N	非常:ADV	細緻:Vi	滑嫩:Vi	
+這:DET	也:ADV	難怪:ADV	為何:ADV	會:ADV	被:P	稱為:Vt	高級:Vi	料理:N	
+吃:Vt	了:ASP	真的:ADV	會:ADV	讓:Vt	人:N	感受到:Vt	幸福感:N	
+":FW	野菇:N	火腿:N	溫泉蛋:N	":FW	
+採用:Vt	63:DET	℃:M	蒸:Vt	煮:Vt	四十:DET	分鐘:M	
+才:ADV	產生:Vt	如此:ADV	完美:Vi	的:T	溫泉:N	蛋:N	
+呈現:Vt	半熟:Vi	狀態:N	的:T	溫泉:N	蛋:N	最:ADV	是:Vt	誘人:Vi	
+雖然:C	很:ADV	想:Vt	一口:ADV	吃下:Vt	
+不過:C	這:DET	溫泉蛋:N	實在:ADV	太:ADV	大:Vi	了:T	
+還是:ADV	分:Vt	了:ASP	好幾:DET	口才:N	吃完:Vt	
+濃郁:Vi	滑嫩:Vi	的:T	蛋:N	汁:N	
+吃起來:ADV	真的:ADV	非常:ADV	香醇:Vi	
+一:DET	旁:N	的:T	野菇:N	也:ADV	非常:ADV	入:Vt	味:N	好吃:Vi	哦:T	
+在:P	上:N	主菜:N	之前:POST	
+會:ADV	先:ADV	來:Vi	一:DET	杯:M	":FW	玉山:N	烏龍:N	冷:Vi	泡茶:Vi	":FW	
+味道:N	不但:C	非常:ADV	的:T	清新:Vi	
+而且:C	相當:Vi	去:Vt	油解:N	膩:Vi	
+":FW	市場:N	鮮魚:N	佐:Vt	季節:N	時:POST	蔬:b	":FW	
+1780:DET	元:M	/:FW	套餐:N	
+這裡:N	的:T	市場:N	鮮魚:N	會:ADV	隨著:P	當:P	季:N	時令:N	而:C	選擇:Vt	不同:Vi	的:T	魚:N	
+像:P	這天:N	吃到:Vt	的:T	是:Vt	":FW	秋哥魚:N	":FW	
+可以:ADV	看到:Vt	魚:N	皮:N	煎:Vt	到:P	些微:A	酥脆:Vi	呈現:Vt	美麗:Vi	的:T	金黃色:N	
+由:P	此:DET	可:ADV	知:Vt	廚師:N	的:T	火候:N	控制:Vt	相當:ADV	完美:Vi	
+而:C	魚肉:N	仍:ADV	保持:Vt	濕潤:Vi	彈性:N	
+吃起來:ADV	相當:ADV	鮮嫩:Vi	美味:Vi	
+一:DET	旁:N	的:T	時:N	蔬:b	吃起來:ADV	也:ADV	相當:ADV	清脆:Vi	
+":FW	綜合:A	海鮮:N	佐:Vt	季節:N	時:POST	蔬:b	":FW	
+1880:DET	元:M	/:FW	套餐:N	
+這:DET	道:M	綜合:A	海鮮:N	一:DET	次:M	可:ADV	吃到:Vt	四:DET	種:M	海鮮:N	
+包含:Vt	了:ASP	鮮魚:N	、:PAUSECATEGORY	北海道:N	干貝:N	、:PAUSECATEGORY	透抽:N	和:C	鮮蝦:N	
+適合:Vi	海鮮:N	的:T	愛好:Nv	者:N	品嚐:Vt	囉:T	
+一:DET	旁:N	還:ADV	附上:Vt	香草:N	奶油醬:N	可:ADV	搭配:Vt	海鮮:N	使用:Vt	
+不過:C	個:M	人:N	還是:ADV	比較:ADV	喜歡:Vt	吃:Vt	海鮮:N	的:T	原味:N	囉:T	
+鮮蝦:N	的:T	部分:DET	除了:P	蝦肉:N	吃起來:ADV	非常:ADV	Q:FW	彈:Vt	甘甜:Vi	之外:POST	
+就:ADV	連:Vt	蝦頭:N	的:T	部分:DET	也:ADV	充滿:Vt	著:ASP	蝦膏:N	
+光:ADV	是:Vt	一:DET	隻:M	蝦:N	就:ADV	可以:ADV	享受到:Vt	二:DET	種:M	極:ADV	緻:b	美味:Vi	
+透抽:N	也:ADV	煎:Vt	的:T	恰到好處:Vi	
+可以:ADV	吃:Vt	得到:Vt	透抽:N	的:T	原味:N	
+感受到:Vt	原始:Vi	的:T	鮮甜:Vi	
+北海道:N	生食:N	等級:N	的:T	干貝:N	
+甘:Vi	甜度:N	自然:ADV	不在話下:Vi	
+煎:Vt	到:P	表面:N	呈現:Vt	金黃色:N	的:T	半熟:Vi	狀態:N	
+讓:Vt	人:N	一口:ADV	吃下:Vt	彷彿:ADV	達到:Vt	入口:N	即:ADV	化:Vi	的:T	境界:N	
+而:C	鮮魚:N	的:T	部分:DET	則:ADV	是:Vt	選用:Vt	大:Vi	目:N	鰱:b	
+肉質:N	相當:ADV	鮮:Vi	
+原本:ADV	就:ADV	已經:ADV	相當:ADV	高級:Vi	的:T	食材:N	
+thefirst:FW	特地:ADV	搭配:Vt	精緻:Vi	的:T	餐盤:N	
+讓:Vt	整:DET	道:M	菜色:N	顯得:Vt	更加:ADV	耀眼:Vi	
+呈現:Vt	色:N	、:PAUSECATEGORY	香:N	、:PAUSECATEGORY	味:N	俱全:Vi	的:T	完全:Vi	狀態:N	囉:T	
+吃完:Vt	主菜:N	當然:ADV	還:ADV	要:ADV	來:ADV	點:Vt	甜點:N	囉:T	
+這:DET	道:M	是:Vt	":FW	覆盆子:N	提拉米蘇佐:N	綜合:A	莓果:N	":FW	
+在:P	提拉米蘇:N	內:N	加入:Vt	覆盆子:N	
+呈現:Vt	略帶:Vt	些微:A	酸味:N	的:T	口感:N	
+上面:N	再:ADV	加上:Vt	一些:DET	莓果:N	
+除了:P	看起來:ADV	更:ADV	好看:Vi	之外:POST	
+還可以:ADV	刺激:Vt	味蕾:N	
+提拉米蘇:N	吃起來:ADV	口感:N	相當:ADV	綿密:Vi	
+一口:ADV	吃下:Vt	幾乎:ADV	入口:N	即:ADV	化:Vt	
+相當:Vi	的:T	美味:N	
+":FW	鐵觀音:N	烤布蕾:N	":FW	
+除了:P	表面:N	有:Vt	一:DET	層:M	酥脆:Vi	的:T	焦糖:N	之外:POST	
+加入:Vt	鐵觀音:N	的:T	烤:Vt	布蕾:N	除了:P	甜味:N	之外:POST	
+更多:Vi	了:ASP	深層:A	的:T	茶香:N	韻味:N	囉:T	
+最後:N	送上:Vt	的:T	是:Vt	飲料:N	":FW	冰:Vt	拿:Vt	鐵:N	":FW	
+即使:C	加入:Vt	了:ASP	鮮奶:N	
+仍然:ADV	喝:Vt	得:T	出:Vt	咖啡:N	的:T	味道:N	
+相當:ADV	好喝:Vi	
+":FW	梨山:N	冬茶:N	":FW	
+另外:C	附上:Vt	聞香杯:N	
+在:P	喝:Vt	之前:POST	先:ADV	感受:Vt	一下:N	清新:Vi	芬芳:Vi	的:T	茶:N	香味:N	
+梨山:N	冬茶:N	呈現:Vt	清新:Vi	的:T	口感:N	
+喝:Vt	起來:ASP	香氣:N	細膩:Vi	
+苦澀:Vi	感:Vt	較:ADV	低:Vi	
+在:P	吃完:Vt	大餐:N	之後:POST	很:ADV	適合:Vi	來上:Vt	一:DET	壺:M	囉:T	
+隨著:P	夜幕:N	低垂:Vi	
+thefirst:FW	餐廳:N	顯得:Vt	更加:ADV	有:Vt	氣氛:N	
+甚至:ADV	讓:Vt	人:N	有:Vt	種:M	來到:Vt	Loungebar:FW	的:T	fu:FW	呢:T	
+吃飽:Vi	了:ASP	之後:POST	還:ADV	可以:ADV	到:P	松山文:N	創:Vt	園區:N	散散步:Vi	
+夜晚:N	的:T	松山文:N	創:Vt	園區:N	少:Vi	了:ASP	幾:DET	分:M	喧鬧:Vi	
+卻:ADV	多:Vi	了:ASP	幾:DET	分:M	寧靜:Vi	及:C	美麗:Vi	的:T	夜景:N	
+這:DET	次:M	來到:Vt	誠品:N	生活:N	松菸店:N	發現到:Vt	的:T	thefirst:FW	餐廳:N	
+不但:C	在:P	環境:N	上:N	營造出:Vt	非常:ADV	舒適:Vi	的:T	氣氛:N	之外:POST	
+就:ADV	連:ADV	在:P	餐點:N	和:C	餐盤:N	也:ADV	相當:Vi	的:T	精緻:Vi	
+由:P	此:DET	可:ADV	看出:Vt	thefirst:FW	餐廳:N	相當:ADV	注重:Vt	細節:N	
+而且:C	在:P	這裡:N	除了:P	可以:ADV	喝到:Vt	高級:Vi	的:T	紅酒:N	之外:POST	
+還可以:ADV	品嚐到:Vt	少見:Vi	的:T	台灣茶:N	
+真的:ADV	相當:ADV	特別:Vi	
+除了:P	跨年:A	和:C	特殊:Vi	節日:N	陪同:Vt	另:DET	一半:DET	來:Vi	這:DET	慶祝:Nv	之外:POST	
+也:ADV	非常:ADV	適合:Vi	宴請:Vt	家人:N	及:C	國外:N	友人:N	哦:T	
+聽說:Vt	這裡:N	的:T	下午茶:N	也:ADV	相當:Vi	的:T	夢幻:N	
+下:DET	次:M	有:Vt	機會:N	還要:ADV	再:ADV	帶:Vt	爸媽:N	來:Vi	這裡:N	享受:Vt	美食:N	大餐:N	囉:T	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+完整:Vi	圖文:N	無:Vt	音樂版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sisy1017.pixnet.net/blog/post:FW	/:FW	106390514:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	

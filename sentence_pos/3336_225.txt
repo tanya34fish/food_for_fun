@@ -1,0 +1,40 @@
+keemeeree:FW	(:PARENTHESISCATEGORY	多:ADV	喝水:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北市:N	喝到:Vt	飽居酒屋:N	
+Mon:FW	
+Jul:FW	
+21:DET	
+00:DET	::COLONCATEGORY	05:DET	::COLONCATEGORY	33:DET	
+2014:DET	
+請益:Vi	
+台北市:N	喝到:Vt	飽居酒屋:N	
+MonJul:FW	2100:DET	::COLONCATEGORY	05:DET	::COLONCATEGORY	332014:DET	
+1:DET	.:PERIODCATEGORY	想:Vt	找:Vt	的:T	餐飲:N	類別:N	
+有:Vt	酒精:N	飲料:N	喝到:Vt	飽:Vi	的:T	日式:A	居酒:N	屋:N	
+或:C	其他:DET	種類:N	的:T	料理:N	也:ADV	可以:ADV	
+比較:ADV	不:ADV	想要:Vt	酒吧:N	
+Ps:FW	.:PERIODCATEGORY	之前:N	有:Vt	去:ADV	過:ADV	白:Vi	木屋:N	的:T	喝到:Vt	飽:Vi	方案:N	整體:N	而言:Vt	還:ADV	不錯:Vi	但:C	缺點:N	是:Vt	只:ADV	能:ADV	平日:N	
+所以:C	想:Vt	找:Vt	周五:N	也:ADV	能:ADV	提供:Vt	的:T	店:N	
+2:DET	.:PERIODCATEGORY	用餐:Vi	地區:N	
+台北市:N	市政府:N	
+忠孝:N	新生:N	捷運站:N	的:T	區間:N	為佳:Vi	
+離:P	捷運站:N	遠:Vi	也:ADV	沒關係:Vi	
+3:DET	.:PERIODCATEGORY	每:DET	人:N	預算:N	
+新台幣:N	$:FW	500:DET	
+1000:DET	元:M	
+4:DET	.:PERIODCATEGORY	用餐:Nv	時段:N	
+星期五:N	
+晚餐:N	
+宵夜:N	
+5:DET	.:PERIODCATEGORY	用餐:Nv	人數:N	
+3:DET	
+4:DET	人:N	
+6:DET	.:PERIODCATEGORY	查詢:Nv	精華區:N	及:C	板面:N	文章:N	後:POST	拿:Vt	不定:Vi	主意:N	的:T	候選:Nv	店家:N	
+搜尋:Vt	版:N	上:POST	跟:P	網路:N	上:POST	只:ADV	找到:Vt	白:Vi	木屋:N	
+@:FW	_:FW	@:FW	
+7:DET	.:PERIODCATEGORY	特殊:Vi	需求:N	
+無:Vt	
+朋友:N	太:ADV	會:ADV	喝:Vt	了:ASP	單:A	點:N	超貴:N	
+&:FW	gt:FW	
+_:FW	&:FW	lt:FW	
+感謝:Vt	大家:N	
+SentfrommyAndroid:FW	

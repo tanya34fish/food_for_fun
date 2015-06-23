@@ -1,0 +1,72 @@
+sorimachi:FW	18:DET	(:PARENTHESISCATEGORY	森:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	西門町:N	ucTable:FW	--:DASHCATEGORY	後:N	會:ADV	無期:N	也:ADV	是:Vt	緣份:N	
+Thu:FW	
+Jan:FW	
+8:DET	
+13:DET	::COLONCATEGORY	34:DET	::COLONCATEGORY	54:DET	
+2015:DET	
+2014年:N	12月:N	
+偶然:ADV	經過:Vt	，:COMMACATEGORY	意外:N	發現:Vt	昆明街:N	上:N	開:Vt	了:ASP	間:POST	新:Vi	的:T	店鋪:N	，:COMMACATEGORY	
+而且:C	還是:ADV	西門町:N	比較:ADV	少見:Vi	的:T	美式:A	休閒:Nv	風格:N	餐廳:N	，:COMMACATEGORY	
+翻:Vt	了:ASP	翻:Vt	菜單:N	，:COMMACATEGORY	
+早:Vi	午餐:N	、:PAUSECATEGORY	義大利麵:N	、:PAUSECATEGORY	漢堡:N	...:ETCCATEGORY	一:ADV	應:ADV	具:Vt	全:DET	
+終於:ADV	，:COMMACATEGORY	找:Vt	個:M	機會:N	來:ADV	嚐:Vt	鮮:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	ally701.pixnet.net/blog/post:FW	/:FW	400811644:DET	
+無:Vt	音樂:N	
+有:Vt	圖:N	真相:N	網誌:N	好讀:Vt	版:N	
+":FW	牛肉:N	生菜:N	沙拉佐:N	甜橙醬:N	":FW	
+口感:N	滿:ADV	清爽:Vi	的:T	
+甜橙醬:N	酸酸甜甜:Vi	也:ADV	很:ADV	開胃:Vi	
+不過:C	醬汁:N	比較:ADV	無法:ADV	沾附:Vt	在:P	菜葉:N	上:N	
+吃起來:ADV	真的:ADV	滿:ADV	清淡:Vi	的:T	
+吃:Vt	的:T	時候:N	需要:Vt	大力:ADV	沾:Vt	一:DET	沾:Vt	
+紫薯泥:N	綿綿:Vi	甜甜:Vi	
+香氣:N	淡雅:Vi	
+不過:C	牛肉片:N	吃起來:ADV	就:ADV	是:Vt	罐頭:N	肉味:N	
+就是:C	有:Vt	罐頭味:N	的:T	火腿:N	
+我:N	比較:ADV	吃:Vt	不:ADV	習慣:Vt	
+":FW	uc:FW	辣雞翅:N	":FW	
+烤:Vt	的:T	滿:DET	入:Vt	味:N	
+鹹香:N	夠味:Vi	的:T	醬汁:N	滲入:Vt	其中:DET	
+外表:N	有點:ADV	微:Vi	辣帶:N	甜:Vi	
+算是:Vt	今天:N	我:N	比較:ADV	喜歡:Vt	的:T	一:DET	道:M	
+":FW	焗:b	墨西哥:N	脆片佐:N	莎莎醬:N	":FW	
+簡單:Vi	的:T	說:Vt	就是:C	原味:N	多:Vi	利多:N	滋沾:Vt	莎莎醬:N	
+脆:Vi	片:N	上:N	的:T	焗烤:Vt	起:ASP	司:N	真:Vi	的:T	少:Vi	的:T	要:ADV	仔細:Vi	找:Vt	用心:Vi	吃:Vt	
+有:Vt	些:M	根本:ADV	完全:ADV	沒有:ADV	沾到:Vt	起:ASP	司:N	
+整體:N	香香:Vi	脆脆:Vi	
+沒有:Vt	甚麼:DET	特別:Vi	
+":FW	白松露:N	海鮮:N	燉飯:Vt	":FW	
+整體:N	清清淡淡:Vi	
+海:N	鮮味:N	不:ADV	濃郁:Vi	
+沒:Vt	甚麼:DET	記憶點:N	
+算是:Vt	十分:ADV	中規中矩:Vi	
+":FW	白酒:N	蛤蜊:N	義大利麵:N	":FW	
+蛤蜊:N	分量:N	普通:Vi	
+但:C	很:ADV	驚訝:Vt	的:T	是:Vt	品嘗:Vt	麵:N	的:T	時候:N	竟:ADV	完全:ADV	沒有:Vt	蛤蜊味:N	
+單獨:ADV	品嘗:Vt	蛤蜊:N	也:ADV	有:Vt	一:DET	種:M	水水:Vi	的:T	感覺:N	
+沒有:Vt	鮮味:N	的:T	白酒:N	蛤蜊:N	義大利麵:N	真的:ADV	有點:ADV	食不知味:Vi	
+":FW	辣味:N	番茄:N	雞:N	柳:N	義大利麵:N	":FW	
+是:Vt	用:P	炸:Vt	過:ASP	的:T	雞:N	柳條:N	當成:Vt	配料:N	
+用:P	香料:N	醃製:Vt	過:ASP	的:T	雞:N	柳:N	有:Vt	異國:N	香草:N	
+不:ADV	知:Vt	是:Vt	香茅:Vi	、:PAUSECATEGORY	茴香:N	....:ETCCATEGORY	
+的:T	氣味:N	
+喜不喜歡:Vt	就:ADV	見仁見智:Vi	
+醬汁:N	方面:N	就:ADV	是:Vt	極為:ADV	普通:Vi	的:T	淡淡:Vi	番茄醬汁:N	
+實在:ADV	沒:Vt	甚麼:DET	好:Vi	聊:Vt	
+不:ADV	知道:Vt	這:DET	間:M	店:N	的:T	主打:Nv	是:Vt	不:ADV	是:Vt	早:Vi	午餐:N	、:PAUSECATEGORY	漢堡:N	...:ETCCATEGORY	
+或許:ADV	是:Vt	我:N	點:Vt	的:T	不:ADV	是:Vt	他們:N	熱門:Vi	的:T	強項:N	
+也:ADV	或許:ADV	剛好:ADV	就是:C	不合:Vi	我:N	的:T	口味:N	
+再:ADV	加上:Vt	工作:N	人員:N	可能:ADV	真的:ADV	太:ADV	忙:Vi	+:FW	經驗:N	不足:Vi	
+一:ADV	開始:Vt	遞上:Vt	菜單:N	看:Vt	著:ASP	店員:N	試圖:Vt	講解:Vt	一下:N	
+但:C	好像:ADV	沒有:ADV	在意:Vt	我們:N	有沒有:ADV	聽到:Vt	和:C	聽懂:Vt	
+不過:C	就:ADV	在:P	我:N	還:ADV	措手不及:Vi	的:T	時候:N	
+店員:N	就:ADV	自:P	顧:Vt	自:P	的:T	轉身:Vi	離開:Vt	
+連:C	讓:Vt	我:N	":FW	蛤:N	
+":FW	的:T	時間:N	都:ADV	沒有:Vt	
+我:N	想:Vt	可能:ADV	真的:ADV	是:Vt	剛:ADV	開業:Vi	
+很多:DET	部分:DET	都:ADV	有:Vt	很:ADV	大:Vi	進步:Vi	空間:N	
+對:P	我:N	來:ADV	說:Vt	
+那:DET	就:ADV	只好:ADV	下:DET	次:M	再:ADV	繼續:Vt	去:Vt	其他:DET	店方:N	尋找:Vt	美食:N	囉:T	
+ucTABLE:FW	
+地址:N	::COLONCATEGORY	台北市:N	萬華區:N	昆明街:N	146:DET	號:M	

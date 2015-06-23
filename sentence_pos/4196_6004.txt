@@ -1,0 +1,83 @@
+pinklady:FW	123:DET	(:PARENTHESISCATEGORY	大摳呆:Vi	的:T	未婚妻:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	『:PARENTHESISCATEGORY	台北:N	-:DASHCATEGORY	中山區:N	』:PARENTHESISCATEGORY	318:DET	法鬥:N	餐廳:N	
+Wed:FW	
+Apr:FW	
+1:DET	
+00:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	45:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	318:DET	法鬥:N	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	12月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	錦州街:N	426巷:N	1:DET	-:DASHCATEGORY	2:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	25031810:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	~:FW	週五:N	11:DET	::COLONCATEGORY	30:DET	~:FW	15:DET	::COLONCATEGORY	0017:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	
+週六:N	~:FW	週日:N	11:DET	::COLONCATEGORY	30:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	最:ADV	候收客:N	皆:ADV	為:Vt	20:DET	::COLONCATEGORY	00:DET	):PARENTHESISCATEGORY	
+圖版:N	網誌:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sandwichandsalad.pixnet.net/blog/post:FW	/:FW	232200670:DET	
+最近:N	迷上:Vt	寵物:N	餐廳:N	
+特別:Vi	在:P	爆炸:Vi	頭:N	和:C	爆炸:Vi	頭:N	ㄤ:FW	休假:Vi	的:T	時候:N	
+來:ADV	趟:M	寵物:N	之:T	旅:N	
+前:DET	些:M	日子:N	在:P	四:DET	號:M	公園:N	遇見:Vt	一:DET	隻:M	法鬥:N	
+主人:N	告訴:Vt	我們:N	台北市:N	有:Vt	一:DET	間:M	餐廳:N	裡面:N	有:Vt	可愛:Vi	的:T	法鬥:N	坐鎮:Vt	唷:T	
+所以:C	我們:N	不:ADV	去:ADV	瞧瞧:Vt	怎麼說:Vi	的:T	過去:N	呢:T	
+318:DET	法鬥:N	餐廳:N	位於:Vt	":FW	中山:N	國中:N	站:Vi	":FW	距離:N	大約:ADV	8:DET	
+10:DET	分鐘:M	的:T	路程:N	
+第一眼:N	看到:Vt	318:DET	的:T	感覺:N	是:Vt	
+天:N	啊:T	
+這:DET	真的:ADV	是:Vt	一:DET	間:M	":FW	法鬥:N	":FW	餐廳:N	
+其實:ADV	爆炸:Vi	頭:N	去:Vt	過:ASP	幾:DET	次:M	號稱:Vt	法鬥:N	餐廳:N	的:T	店家:N	
+但:C	都:ADV	撲:Vt	了:ASP	個:M	空:Vt	
+所以:C	這:DET	次:M	格外:ADV	興奮:Vi	啊:T	
+318:DET	很:ADV	用心:Vi	的:T	打造:Vt	了:ASP	這樣:Vi	的:T	用餐:Nv	環境:N	
+每:DET	個:M	小:Vi	地方:N	都:ADV	能:ADV	看到:Vt	可愛法:N	鬥:Vt	的:T	蹤跡:N	唷:T	::COLONCATEGORY	P:FW	
+在:P	來:Vi	用餐:Vi	前:POST	
+爆炸:Vi	頭:N	已經:ADV	google:FW	過:Vt	店家:N	的:T	評價:N	和:C	價位:N	
+完全:ADV	是:Vt	走:Vi	親民:Vi	路線:N	
+Menu:FW	主要:ADV	提供:Vt	義大利麵:N	
+焗烤:Vt	
+早:Vi	午餐:N	
+也:ADV	可以:ADV	升級:Vi	套餐:N	唷:T	
+餐廳:N	採:Vt	半:DET	自助式:N	服務:Nv	
+點完:Vt	餐:N	後:POST	服務:Vt	人員:N	會:ADV	先:ADV	幫:P	你:N	結帳:Vi	
+檸檬水:N	和:C	其它:DET	醬料:N	依:P	個:M	人:N	喜好:Vt	添加:Vt	
+餐廳:N	空間:N	大約:ADV	可:ADV	容納:Vt	20:DET	幾:DET	個:M	人:N	
+因為:C	爆炸:Vi	頭:N	抵達:Vt	時間:N	已經:ADV	過:Vt	了:ASP	用餐:Nv	時段:N	
+客人:N	比較:ADV	沒:Vt	那麼多:DET	
+但:C	還是:ADV	建議:Vt	要:ADV	來:ADV	用餐:Vi	前:POST	可以:ADV	先:ADV	訂位:Vi	囉:T	
+番茄:N	多:ADV	利:Vi	魚:N	義大利麵:N	和:C	青醬:N	鮪魚:N	義大利麵:N	
+餐點:N	的:T	份量:N	算是:Vt	滿:ADV	大:Vi	份:M	的:T	
+這麼:ADV	親民:Vi	的:T	價格:N	真的:ADV	有點:ADV	闊氣:Vi	啊:T	
+爆炸:Vi	頭:N	ㄤ:FW	默默:Vi	地:T	說:Vt	::COLONCATEGORY	ㄟ:N	
+連:C	妳:N	這麼:ADV	會:ADV	吃:Vt	的:T	人:N	
+應該:ADV	也:ADV	吃:Vt	不:ADV	完:Vi	吧:T	.......:ETCCATEGORY	.:PERIODCATEGORY	果然:ADV	GG:FW	了:ASP	我:N	
+對:P	爆炸:Vi	頭:N	來:ADV	說:Vt	
+318:DET	的:T	義大利麵:N	不:ADV	是:Vt	好吃:Vi	到:P	讓:Vt	你:N	念念不忘:Vt	的:T	那:DET	種:M	
+但:C	以:P	價格:N	和:C	整體:N	來:ADV	說:Vt	
+也:ADV	算:Vt	不錯:Vi	了:T	
++:FW	50:DET	元:M	升級:Vi	A:FW	套餐:N	
+沙拉:N	和:C	蒜味:N	吐司:N	
+當:P	服務:Nv	人員:N	送上來:Vt	的:T	時候:N	
+爆炸:Vi	頭:N	整:DET	個:M	傻眼:Vi	了:T	
+青菜:N	抵:Vt	加:Vt	啦:T	
+真的:ADV	是:Vt	滿滿:Vi	一:DET	盤:M	生菜:N	絕不:ADV	馬虎:Vi	
+另外:C	也:ADV	單:ADV	點:Vt	了:ASP	洋蔥圈:N	+:FW	薯條:N	
+洋蔥圈:N	是:Vt	爆炸:Vi	頭:N	最:ADV	愛:Vt	的:T	":FW	真實:Vi	洋蔥:N	":FW	
+不然:C	還:ADV	有:Vt	謊話:N	洋蔥:N	嗎:T	
+中猴:N	喔:T	
+酥脆:Vi	的:T	外衣:N	裹上:Vt	洋蔥:N	
+這:DET	道:M	必:ADV	點:Vt	我:N	不:ADV	騙:Vt	你:N	
+主角:N	出現:Vi	::COLONCATEGORY	憨吉:N	
+有沒有:ADV	給:Vt	他:N	很:ADV	可愛:Vi	啦:T	
+看過:Vt	好多:DET	法:N	鬥:Vt	
+覺得:Vt	困惑:Vi	為什麼:ADV	憨吉:N	有點:ADV	瘦:Vi	
+原來:ADV	是:Vt	之前:N	憨吉:N	生病:Vi	了:T	
+服務:Nv	人員:N	也:ADV	說:Vt	他:N	以前:N	比較:ADV	壯碩:Vi	
+對了:Vi	對了:Vi	
+另:DET	一:DET	隻:M	法鬥:N	因為:C	高雄:N	開:Vt	了:ASP	2:DET	店:N	
+所以:C	就:ADV	南下:Vi	囉:T	
+好:ADV	可惜:Vi	沒:ADV	看到:Vt	啊:T	
+牆壁:N	上:N	掛滿:Vt	了:ASP	法:N	鬥:Vt	的:T	圖片:N	和:C	照片:N	
+右下:N	角:N	是:Vt	廁所:N	裡:N	的:T	法鬥:N	肥皂:N	
+連:C	廁所:N	都:ADV	能:ADV	佈置:Vt	得:T	無微不至:Vi	
+只:ADV	能:ADV	說:Vt	老闆:N	兒:N	實在:ADV	是:Vt	很:ADV	用心:Vi	在:P	經營:Vt	哦:T	
+勘吉:N	都:ADV	會:ADV	到處:ADV	走動:Vi	像:P	在:P	巡視:Vt	一樣:Vi	
+好:ADV	可愛:Vi	
+建議:Vt	喜歡:Vt	狗狗:N	的:T	朋友:N	們:N	可以:ADV	去:ADV	走走:Vi	唷:T	::COLONCATEGORY	

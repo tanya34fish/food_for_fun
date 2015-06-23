@@ -1,0 +1,48 @@
+chochoc:FW	(:PARENTHESISCATEGORY	::COLONCATEGORY	Bebe:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	找:Vt	餐:N	2:DET	店:N	，:COMMACATEGORY	北醫:N	超:Vt	多:ADV	厲害:Vi	早餐:N	之:T	一:DET	
+Thu:FW	
+Aug:FW	
+28:DET	
+20:DET	::COLONCATEGORY	33:DET	::COLONCATEGORY	03:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	找:Vt	餐:N	2:DET	店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	08:DET	/:FW	17:DET	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	吳興街:N	284巷:N	20弄:N	27:DET	號:M	
+捷運線:N	：:COLONCATEGORY	台北:N	101:DET	/:FW	世貿:N	站:Vi	(:PARENTHESISCATEGORY	步行:Vi	15:DET	~:FW	20:DET	分鐘:M	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2738:DET	-:DASHCATEGORY	0067:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	到:P	週日:N	08:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	
+當日:N	消費:N	：:COLONCATEGORY	NT:FW	$:FW	220:DET	/:FW	2:DET	人:N	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+推薦:Vt	菜色:N	：:COLONCATEGORY	法式:A	吐司:N	
+無:Vt	音樂:N	網誌:N	好讀版:N	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	chochoc.pixnet.net/blog/post:FW	/:FW	185546400:DET	
+對於:P	朝:P	八:DET	晚:M	六:DET	的:T	上班族:N	女孩:N	來:ADV	說:Vt	
+週末:N	能:ADV	有:Vt	個:M	悠閒:Vi	早餐:N	時光:N	真:ADV	是:Vt	莫大:A	的:T	幸福:Vi	啊:T	
+\:FW	
+/:FW	/:FW	/:FW	/:FW	
+\:FW	然後:ADV	又:ADV	在:P	家:N	附近:N	
+完全:ADV	可以:ADV	輕鬆:Vi	
+邋遢:Vi	
+的:T	出門:Vi	
+今天:N	大概:ADV	等:Vt	了:ASP	30:DET	分鐘:M	
+頗久:Vi	的:T	
+但:C	想:Vt	吃:Vt	的:T	心:N	很:ADV	堅決:Vi	啊:T	
+我:N	點:Vt	花生醬:N	牛奶:N	法式:A	吐司:N	+:FW	套餐:N	
+套餐:N	內容:N	有:Vt	薯泥:N	、:PAUSECATEGORY	沙拉:N	和:C	35:DET	元:M	的:T	飲料:N	
+看看:Vt	這:DET	花生醬:N	
+越:ADV	罪惡:Vi	越:ADV	喜歡:Vt	XDDD:FW	醬:N	我:N	覺得:Vt	不會:ADV	太:ADV	甜:Vi	上面:N	還:ADV	有:Vt	灑碎:Vt	花生:N	粒:N	增加:Vt	香氣:N	和:C	口感:N	
+吐司:N	是:Vt	2:DET	片:M	薄:Vi	吐司:N	塗:Vt	奶油:N	夾:Vt	在一起:Vi	沾:Vt	蛋:N	液:N	去:ADV	煎:Vt	
+搭配:Vt	清爽:Vi	的:T	生菜:N	和:C	薯泥:N	
+這:DET	一:DET	整:DET	盤:M	都:ADV	好好:Vi	吃好:Vt	好吃:Vi	
+不過:C	只:ADV	能:ADV	吃:Vt	巧:Vi	不能:ADV	吃飽:Vi	
+要:ADV	飽:Vi	還是:ADV	要:ADV	選擇:Vt	漢堡:N	或:C	香腸堡:N	喔:T	
+鮮奶:N	紅茶:N	
+蠻:ADV	大:Vi	杯:N	的:T	
+我:N	覺得:Vt	茶味:N	不:ADV	夠:ADV	濃:Vi	
+補:Vt	差價:N	+:FW	10:DET	元:M	
+朋友:N	的:T	焦糖:N	口味:N	
+吐司:N	上面:N	搭配:Vt	的:T	是:Vt	鹹蛋:N	耶:T	
+頗:ADV	奇妙:Vi	的:T	不會:ADV	不:ADV	好吃:Vi	
+參考:Vt	菜單:N	
+有:Vt	新:Vi	菜色:N	會:ADV	寫:Vt	在:P	店:N	內:N	的:T	黑板:N	上:N	
+SentfrommyiPhone:FW	

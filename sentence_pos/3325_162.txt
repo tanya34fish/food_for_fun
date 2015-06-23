@@ -1,0 +1,30 @@
+kathy:FW	0108:DET	(:PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	車站:N	dazzlingcafe:FW	蜜糖:N	吐司:N	
+Thu:FW	
+Jul:FW	
+17:DET	
+23:DET	::COLONCATEGORY	21:DET	::COLONCATEGORY	35:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	DazzlingCafe:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	北平西路:N	三:DET	號:M	二樓:N	（:PARENTHESISCATEGORY	微風:N	台北:N	車站:N	西:N	3:DET	門:M	2樓:N	）:PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2388:DET	-:DASHCATEGORY	1966:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	10:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	500多:DET	，:COMMACATEGORY	低消:N	一:DET	杯:M	飲料:N	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	香草:N	歐蕾:N	鮮奶茶:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.dazzlingdazzling.com/#home.php:FW	
+其它:DET	：:COLONCATEGORY	用餐:Nv	時間:N	限:Vt	1.5:DET	hrs:FW	
+這:DET	次:M	恰巧:ADV	有事:Vi	來:Vi	台北:N	
+在:P	北車:N	看到:Vt	dazzling:FW	覺得:Vt	有點:ADV	想:Vt	吃:Vt	蜜糖:N	吐司:N	就:ADV	來:Vi	了:ASP	
+話說:ADV	有:Vt	兩:DET	次:M	同:DET	
+學會:N	都:ADV	在:P	這:DET	啊:T	XD:FW	
+點:Vt	的:T	是:Vt	雙人:N	套餐:N	+:FW	蜜糖:N	吐司:N	
+雙人:N	套餐:N	內含:Vt	::COLONCATEGORY	湯品:N	*:FW	2:DET	+:FW	沙拉:N	/:FW	前:DET	菜:N	*:FW	1:DET	+:FW	義大利麵:N	*:FW	1:DET	
+我:N	是:Vt	覺得:Vt	雙人:N	套餐:N	只:ADV	有:Vt	一:DET	份:M	主食:N	蠻:ADV	妙:Vi	的:T	...:ETCCATEGORY	不過:ADV	再:ADV	點:Vt	一:DET	份:M	蜜糖:N	吐司:N	剛好:ADV	
+兩:DET	份:M	主食:N	加:Vt	蜜糖:N	
+吐司:N	會:ADV	太多:Vi	
+湯品:N	：:COLONCATEGORY	
+起士巧達:N	湯:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	i.imgur.com/pTfhLjv.jpg:FW	

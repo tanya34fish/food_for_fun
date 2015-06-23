@@ -1,0 +1,124 @@
+happybanana(happybanana:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	東區:N	-:DASHCATEGORY	川譜:N	麻辣:A	川菜:N	吃:Vt	到:P	飽:Vi	
+Sun:FW	
+Aug:FW	
+24:DET	
+00:DET	::COLONCATEGORY	13:DET	::COLONCATEGORY	11:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	川譜:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	仁愛路:N	四段:N	345巷:N	4弄:N	21:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2731:DET	-:DASHCATEGORY	9991:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	，:COMMACATEGORY	18:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+好吃:Vi	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	heymedicine.pixnet.net/blog/post:FW	/:FW	185723424:DET	
+----:DASHCATEGORY	-------:DASHCATEGORY	因為:C	我:N	不:ADV	算:Vt	非常:ADV	嗜:Vt	辣:Vi	的:T	人:N	
+所以:C	平常:N	很少:ADV	主動:Vi	來:ADV	吃:Vt	川菜:N	
+更何況:C	是:Vt	川菜:N	吃:Vt	到:P	飽:Vi	
+這:DET	次:M	剛好:ADV	有:Vt	機會:N	可以:ADV	來:ADV	試:Vt	吃:Vt	
+所以:C	目標:N	是:Vt	點:M	幾:DET	道:M	經典:N	的:T	料理:N	就:ADV	好:Vi	
+剩下:Vt	就:ADV	點:Vt	些:M	不:ADV	太:ADV	辣:Vi	的:T	料理:N	
+以免:C	最後:N	噴:Vt	著火:Vi	走出:Vt	店:N	門:N	哈哈:ADV	
+川譜:N	位於:Vt	延吉街:N	附近:N	的:T	巷弄:N	之間:POST	
+要:ADV	仔細:Vi	看好:Vt	地圖:N	再:ADV	來:ADV	唷:T	
+以免:C	迷失:Vt	在:P	巷弄:N	之中:POST	
+到:Vt	了:ASP	巷口:N	之後:POST	
+便:ADV	可以:ADV	看到:Vt	明顯:Vi	的:T	臉譜:N	招牌:N	啦:T	
+店:N	裡面:N	走:Vi	的:T	是:Vt	很:ADV	特別:Vi	的:T	loungebar:FW	風格:N	
+光:ADV	看:Vt	裝潢:N	很:ADV	難:Vi	讓:Vt	人:N	聯想到:Vt	川菜:N	餐廳:N	耶:T	
+店:N	裡頭:N	有:Vt	許多:DET	臉譜:N	圖案:N	
+連:C	MENU:FW	上:N	也:ADV	有:Vt	唷:T	
+這:DET	次:M	體驗:Vt	的:T	是:Vt	吃:Vt	到:P	飽:Vi	
+會:ADV	有:Vt	專屬:Vt	的:T	MENU:FW	
+所以:C	有:Vt	些:M	菜:N	是:Vt	不能:ADV	點:Vt	的:T	
+大家:N	要:ADV	注意:Vt	一下:N	歐:N	
+桂釀:N	烏梅:N	在:P	上菜:Vi	前:POST	先:ADV	招待:Vt	、:PAUSECATEGORY	非常:ADV	開胃:Vi	的:T	飲品:N	
+如果:C	可以:ADV	冰:Vt	一點:ADV	就:ADV	更:ADV	好了:T	
+白飯:N	用:Vt	很:ADV	有:Vt	泰國:N	餐廳:N	風味:N	的:T	容器:N	裝:Vt	著:ASP	
+等一下:ADV	大家:N	會:ADV	一直:ADV	瘋狂:Vi	添飯:Vi	..:ETCCATEGORY	剁椒:N	臭豆腐:N	剁椒:N	系列:N	的:T	菜:N	
+顧名思義:ADV	就:ADV	是:Vt	使用:Vt	剁掉:Vt	的:T	辣椒:N	製成:Vt	
+川:N	譜:N	的:T	辣椒:N	用:Vt	了:ASP	三:DET	種:M	：:COLONCATEGORY	美人:N	椒:b	、:PAUSECATEGORY	野山椒:N	以及:C	青:Vi	紅椒:N	
+和:C	特製:Nv	香料:N	拌炒:Vt	後:POST	
+還要:ADV	再:ADV	醃:Vt	兩:DET	天:M	才:ADV	能:ADV	完成:Vt	
+非常:ADV	費工:Vi	的:T	料理:N	
+整體:N	來:ADV	說:Vt	不會:ADV	太:ADV	辣:Vi	
+而且:C	很:ADV	下:Vt	飯:N	
+推薦:Vt	大家:N	點:Vt	唷:T	
+真:ADV	希望:Vt	裡面:N	有:Vt	鴨血:N	啊:T	
+水煮:Vt	嫩:Vi	牛:N	感覺:Vt	這:DET	道:M	是:Vt	比較:Vt	經典:N	的:T	料理:N	
+所以:C	就:ADV	點:Vt	來:ADV	試試看:Vt	啦:T	
+送上來:Vt	之後:POST	發現:Vt	好:Vi	大一:N	碗:N	啊:T	
+嚇死:Vt	我們:N	了:T	
+店家:N	表示:Vt	水:N	煮:Vt	嫩:Nv	牛:N	的:T	分量:N	是:Vt	固定:Vt	的:T	
+不過:C	裡面:N	的:T	冬粉:N	份量:N	可以:ADV	做:Vt	調整:Vt	
+但:C	還是:ADV	建議:Vt	多:Vi	一點:ADV	人:N	來:ADV	點:Vt	比較:ADV	合適:Vi	唷:T	
+上面:N	浮:Vi	了:ASP	一:DET	整:DET	片:M	的:T	辣椒:N	
+看起來:ADV	真是:ADV	嚇死:Vt	人:N	的:T	辣:Vi	
+除了:P	辣椒:N	之外:POST	
+裡面:N	也:ADV	放有:Vt	花椒:N	
+所以:C	口感:N	真:ADV	是:Vt	又:ADV	麻:Vi	又:ADV	辣:Vi	啊:T	
+鼓起:Vt	勇氣:N	撈出:Vt	一:DET	塊:M	肉:N	
+一:ADV	放入:Vt	口:N	中:POST	便:ADV	能:ADV	發現:Vt	肉質:N	的:T	軟嫩:Vi	
+正當:P	驚嘆:Vt	著:ASP	
+啊:T	
+果然:ADV	是:Vt	嫩:Vi	牛:N	
+時:N	
+一陣:N	辣:Vi	便:ADV	席捲:Vt	而:C	來:ADV	....:ETCCATEGORY	
+好:ADV	辣:Vi	啊:T	
+多:ADV	咬:Vt	幾:DET	口:M	之後:POST	
+便:ADV	嗶:ADV	嗶:ADV	啵:T	啵:T	的:T	吃下:Vt	一些:DET	花椒:N	
+口感:N	立刻:ADV	從:P	辣:Vi	變成:Vt	麻:N	
+馬上:ADV	多:ADV	吃:Vt	了:ASP	幾:DET	口:M	白飯:N	
+除了:P	肉片:N	之外:POST	
+裡面:N	也:ADV	有:Vt	冬粉:N	、:PAUSECATEGORY	筍片:N	、:PAUSECATEGORY	豆芽菜:N	
+不過:C	都:ADV	包:Vt	了:ASP	一:DET	層:M	薄薄:Vi	的:T	辣油:N	
+吃:Vt	多:Vi	了:ASP	嘴巴:N	真的:ADV	會:ADV	很:ADV	麻:Vi	耶:T	
+這:DET	道:M	嗜:Vt	辣:Vi	的:T	人:N	應該:ADV	會:ADV	超:Vt	愛:N	
+無奈:Vi	我們:N	都:ADV	是:Vt	小辣:Vi	、:PAUSECATEGORY	微:ADV	辣:Vi	階級:N	
+所以:C	吃:Vt	了:ASP	一兩:DET	片:M	肉:N	之後:POST	就:ADV	有點:ADV	吃不消:Vt	了:ASP	
+最後:N	還:ADV	剩下:Vt	很多:DET	
+真的:ADV	有點:ADV	可惜:Vi	啊:T	
+桂花:N	糖藕:N	在:P	辣菜:N	之中:POST	終於:ADV	來:Vi	了:ASP	一:DET	道:M	比較:ADV	溫和:Vi	的:T	料理:N	
+蓮藕:N	中間:N	包:Vt	了:ASP	糯米:N	
+所以:C	吃:Vt	太多:DET	會:ADV	覺得:Vt	有點:ADV	飽:Vi	
+但:C	甜甜:Vi	的:T	蠻:ADV	解:Vt	辣:Vi	的:T	唷:T	
+比較:ADV	可惜:Vi	的:T	地方:N	是:Vt	這:DET	道:M	是:Vt	常溫:N	的:T	
+但:C	我:N	覺得:Vt	冰:Vt	一點:ADV	應該:ADV	會:ADV	更:ADV	好吃:Vi	
+老:Vi	皮:N	嫩:Vi	肉:N	這:DET	道:M	好好:Vi	吃:Vt	
+第二:DET	輪:M	我:N	又:ADV	再:ADV	多:Vi	加:Vt	點:M	了:ASP	一:DET	份:M	
+十分:ADV	推薦:Vt	
+外酥內軟:Vi	的:T	口感:N	
+配上:Vt	醬汁:N	非常:ADV	下:Vt	飯:N	
+波:T	蘿:b	嫩:Nv	牛:N	柳:N	牛:N	柳:N	非常:ADV	嫩:Vi	
+口感:N	很:ADV	Q:FW	彈:Vt	
+配上:Vt	鳳梨:N	塊:N	可以:ADV	感受到:Vt	甜:Vi	和:C	鹹:Vi	交錯:Vi	的:T	奇妙:Vi	滋味:N	
+但:C	缺點:N	是:Vt	醬汁:N	有點:ADV	太:ADV	膩:Vi	口:N	了:T	
+應該:ADV	無法:ADV	吃:Vt	太多:DET	哈哈:ADV	
+上湯:N	娃娃菜:N	這:DET	道:M	聞起來:ADV	會:ADV	覺得:Vt	有點:ADV	奶味:N	
+但:C	在:P	所有:DET	菜:N	裡面:N	來:ADV	說:Vt	算是:Vt	偏:Vt	清淡:Vi	的:T	
+加上:C	青菜:N	也:ADV	有:Vt	一點:DET	解膩:Vi	的:T	效果:N	
+推薦:Vt	大家:N	可以:ADV	點:Vt	來:ADV	舒緩:Vt	一下:N	歐:N	
+鹹蛋:N	涼:Vi	瓜:N	因為:C	平常:N	很:ADV	愛:Vt	吃:Vt	苦瓜:N	鹹蛋:N	
+所以:C	就:ADV	點:Vt	啦:T	
+我:N	是:Vt	覺得:Vt	有點:ADV	微微:Vi	的:T	辣:Vi	
+但:C	和:P	其他:DET	菜:N	相比:Vi	也:ADV	比較:ADV	清爽:Vi	一點:ADV	
+個:M	人:N	很:ADV	推薦:Vt	歐:N	
+魚香烘:Vi	蛋:N	我:N	覺得:Vt	這:DET	道:M	醬汁:N	太多:Vi	了:ASP	一點:DET	
+整體:N	口味:N	非常:ADV	重:Vi	
+而且:C	有點:ADV	膩:Vi	
+所以:C	我:N	沒有:ADV	很:ADV	喜歡:Vt	
+但:C	喜歡:Vt	魚:N	香烘:Vi	蛋:N	的:T	話:N	還是:ADV	可以:ADV	來:ADV	試試看:Vt	
+豆酥:N	鱈魚:N	鱈魚:N	還:ADV	蠻:ADV	薄:Vi	一:DET	片:M	的:T	
+不過:C	厚:Vi	一點:ADV	的:T	話:N	我們:N	應該:ADV	也:ADV	吃:Vt	不:ADV	完:Vi	啦:T	......:ETCCATEGORY	可能:ADV	因為:C	太:ADV	薄:Vi	
+所以:C	吃:Vt	不:ADV	出:Vt	什麼:DET	口感:N	
+所以:C	建議:Vt	大家:N	還是:ADV	點:Vt	有名:Vi	一點:ADV	的:T	菜色:N	比較:ADV	好:Vi	
+蛤蜊:N	絲瓜:N	這:DET	道:M	也:ADV	是:Vt	讓:Vt	腸胃:N	休息:Vi	一下:N	的:T	好:Vi	料理:N	
+沒有:Vt	什麼:DET	太:ADV	多餘:A	的:T	調味:N	
+不過:C	很:ADV	奇怪:Vt	的:T	是:Vt	裡頭:N	的:T	蛤蜊:N	好:Vi	小:Vi	一:DET	顆:M	噢:T	
+平常:N	很少:ADV	看到:Vt	這麼:ADV	小:Vi	的:T	蛤蜊:N	..:ETCCATEGORY	吃到:Vt	這裡:N	我們:N	就:ADV	投降:Vi	了:ASP	
+實在:ADV	是:Vt	太:ADV	飽:Vi	啦:T	......:ETCCATEGORY	感覺:Vt	如果:C	是:Vt	一:DET	群:M	女生:N	來:ADV	吃:Vt	的:T	話:N	
+點:Vt	單點:N	應該:ADV	比較:ADV	划算:Vi	唷:T	
+本來:ADV	以為:Vt	今天:N	會:ADV	辣:Vi	到:P	噴:Vt	一:DET	堆:M	火:N	
+後來:N	發現:Vt	川:N	
+譜:N	其實:ADV	也:ADV	有:Vt	很多:DET	不:ADV	辣:Vi	的:T	料理:N	
+所以:C	不:ADV	嗜:Vt	辣:Vi	的:T	人:N	還是:ADV	可以:ADV	來:ADV	試試看:Vt	噢:T	
+像:P	老:Vi	皮:N	嫩:Vi	肉:N	、:PAUSECATEGORY	鹹蛋:N	涼:Vi	瓜:N	等等:POST	料理:N	都:ADV	不錯:Vi	
+推薦:Vt	大家:N	改天:ADV	可以:ADV	來:ADV	辣:Vi	一下:N	唷:T	

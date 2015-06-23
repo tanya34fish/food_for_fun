@@ -1,0 +1,186 @@
+savvik(Essay:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	松江:N	南京:N	站:Vi	新開幕:Vi	日本:N	定食:Vt	彌生:N	軒:N	
+Fri:FW	
+Jul:FW	
+25:DET	
+20:DET	::COLONCATEGORY	58:DET	::COLONCATEGORY	31:DET	
+2014:DET	
+圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	savvik123.pixnet.net/blog/post:FW	/:FW	184068342:DET	
+店名:N	：:COLONCATEGORY	や:FW	よ:FW	い:FW	軒:N	台灣:N	一:DET	號:M	店:N	彌生:N	軒:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2511:DET	-:DASHCATEGORY	8696:DET	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	南京東路:N	二段:N	97:DET	號:M	1樓:N	
+價格:N	：:COLONCATEGORY	220:DET	-:DASHCATEGORY	490:DET	/:FW	人:N	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	
+22:DET	::COLONCATEGORY	00:DET	
+拍攝:Vt	相機:N	：:COLONCATEGORY	OlympusXZ:FW	-:DASHCATEGORY	1:DET	
+個:M	人:N	評價:Vt	：:COLONCATEGORY	普通:Vi	
+這:DET	間:M	在:P	公司:N	附近:N	
+從:P	原先:A	的:T	前:DET	一:DET	間:M	店:N	拆除:Vt	
+到:P	它:N	敲敲打打:Vi	
+到:P	掛上:Vt	布條:N	準備:Vt	開幕:Vi	
+反正:ADV	每:DET	天:M	都:ADV	會:ADV	經過:Vt	
+就:ADV	看:Vt	一:DET	看:Vt	
+時間:N	過:Vt	的:T	很:ADV	快:Vi	
+就:ADV	到:P	開幕:Vi	這:DET	天:M	了:T	
+早上:N	十:DET	一點:DET	多:ADV	就:ADV	有:Vt	看:Vt	一下:N	
+已經:ADV	快:ADV	滿:ADV	
+然後:ADV	十二:DET	點:M	同事:N	和:C	我:N	說:Vt	大:Vi	爆滿:Vi	
+一點:DET	多:ADV	把:P	工作:N	做:Vt	到:P	
+一:DET	個:M	段落:N	
+走下去:Vi	時:POST	
+似乎:ADV	有:Vt	位置:N	
+就:ADV	鼓起:Vt	勇氣:N	進去:Vi	吃:Vt	看看:ASP	這:DET	間:M	『:PARENTHESISCATEGORY	鄰居:N	』:PARENTHESISCATEGORY	
+一:ADV	進去:Vi	
+剛:ADV	開幕:Vi	似乎:ADV	還:ADV	有點:ADV	不:ADV	太:ADV	順暢:Vi	
+大概:ADV	被:P	擺:Vt	在:P	那邊:N	2:DET	-:DASHCATEGORY	3:DET	分鐘:M	沒:ADV	人:N	理:Vt	
+索性:ADV	直接:Vi	等:POST	前:DET	一:DET	
+位:Vt	結帳:Vi	完:Vi	後:POST	去:ADV	問:Vt	櫃台:N	
+表示:Vt	想:Vt	吃飯:Vi	
+然後:ADV	就:ADV	被:P	領到:Vt	位置:N	上:N	
+這邊:N	的:T	桌子:N	設計:N	還:ADV	不錯:Vi	
+有:Vt	個:M	人:N	可以:ADV	吃飯:Vi	的:T	座位:N	
+也:ADV	有:Vt	四:DET	人:N	一起:ADV	吃:Vt	的:T	桌:N	
+很:ADV	快:Vi	就:ADV	得到:Vt	了:ASP	菜單:N	
+很:ADV	大:Vi	本:DET	
+作:Vt	的:T	很:ADV	漂亮:Vi	的:T	菜單:N	
+第一:DET	頁:M	就:ADV	是:Vt	米飯:N	
+想必:ADV	這:DET	間:M	店:N	對:P	自己:N	的:T	米飯:N	非常:ADV	有:Vt	信心:N	
+價錢:N	則:ADV	有點:ADV	不:ADV	太:ADV	親切:Vi	
+之前:N	作:Vt	去:Vt	日本:N	玩:Vt	的:T	功課:N	時:POST	也:ADV	有:Vt	查:Vt	過:ASP	彌生:N	軒:N	
+當時:N	的:T	印象:N	就:ADV	定食:Vt	多半:DET	
+最:ADV	貴:Vi	在:P	999:DET	Yen:FW	左右:POST	
+但:C	還:ADV	有:Vt	5:DET	xx-8xx:FW	之間:POST	的:T	便宜:Vi	定食:Vt	
+看:Vt	這:DET	定價:N	
+似乎:ADV	是:Vt	日本:N	定價:N	換算:Vt	
+成:Vt	台幣:N	後:POST	就:ADV	來:Vi	了:ASP	
+除了:P	菜單:N	外:POST	
+很:ADV	快:Vi	就:ADV	得到:Vt	『:PARENTHESISCATEGORY	分發:Vt	的:T	Ipad:FW	』:PARENTHESISCATEGORY	這:DET	是:Vt	讓:Vt	你:N	點菜:Vi	用:Vt	的:T	
+在:P	日本:N	是:Vt	餐:M	卷機:N	
+點好:Vt	後:POST	送出:Vt	
+就:ADV	會:ADV	顯示出:Vt	你:N	這天:N	吃:Vt	了:ASP	什麼:DET	
+多少:DET	錢:N	
+食物:N	的:T	進度:N	......:ETCCATEGORY	
+只是:ADV	覺得:Vt	這:DET	食物:N	的:T	進度:N	沒:Vt	啥:DET	意思:N	
+一般:ADV	就:ADV	是:Vt	分:Vt	『:PARENTHESISCATEGORY	作:Vt	菜中:N	』:PARENTHESISCATEGORY	『:PARENTHESISCATEGORY	作好:Vt	上菜:Vi	』:PARENTHESISCATEGORY	......:ETCCATEGORY	但:C	也:ADV	算是:Vt	一:DET	
+種:Vt	貼心:Vi	的:T	設計:N	
+○:DET	可樂:N	NTD:FW	40:DET	
+一:DET	杯:M	40:DET	
+以:P	這:DET	類:M	的:T	店:N	來:ADV	說:Vt	不:ADV	貴:Vi	
+同樣:Vi	的:T	東西:N	我:N	看過:Vt	60:DET	
+80:DET	也:ADV	有:Vt	賣:Vt	100:DET	的:T	
+在:P	飲料:N	上:N	算是:Vt	平價:N	
+並:C	沒有:Vt	選項:N	可以:ADV	選:Vt	要不要:ADV	冰:Vt	
+不過:C	這:DET	也:ADV	是:Vt	台灣:N	才:ADV	有的:DET	特別:Vi	問題:N	
+在:P	日本:N	吃飯:Vi	
+你:N	說:Vt	不:ADV	想要:Vt	
+冰塊:N	還:ADV	會:ADV	被:P	日本人:N	覺得:Vt	奇怪:Vt	
+○牛燒肉定食:Vt	
+NTD:FW	330:DET	
+看來:ADV	很:ADV	澎湃:Vi	
+不過:C	現場:N	等:POST	餐:N	稍:ADV	久:Vi	了:ASP	一些:DET	
+若是:C	中午:N	只有:ADV	一:DET	小時:M	吃飯:Vi	的:T	上班族:N	恐怕:ADV	在:P	時間:N	上:N	
+會:ADV	趕:Vt	一點:DET	
+沙拉:N	吃起來:ADV	很:ADV	爽口:Vi	
+搭配:Vt	的:T	醬:N	也:ADV	適合:Vi	
+不:ADV	是:Vt	那:DET	種:M	酸酸:Vi	的:T	日本:N	醬汁:N	
+但:C	對:P	我:N	這:DET	個:M	不:ADV	太:ADV	吃:Vt	草:N	的:T	肉食:A	主義:N	者:N	
+這:DET	碗:M	OK:FW	
+●:FW	醬菜:N	
+●:FW	蛤蜊:N	味增:N	湯:N	
+蛤蜊:N	並:ADV	不:ADV	是:Vt	標準:N	會:ADV	附:Vt	的:T	味增:N	湯:N	
+是:Vt	加:Vt	40:DET	元:M	才:ADV	會:ADV	有:Vt	的:T	
+身為:Vt	一:DET	個:M	味增湯:N	一定:ADV	要:ADV	有:Vt	魚:N	或:C	
+海鮮:N	煮:Vt	在:P	裡面:N	才:ADV	會:ADV	鮮美:Vi	的:T	信徒:N	
+多:ADV	花:Vt	個:M	40:DET	元:M	也:ADV	是:Vt	合理:Vi	
+同時:N	
+應該:ADV	是:Vt	搭配:Vt	台灣人:N	的:T	需求:N	
+它:N	準備:Vt	了:ASP	.......:ETCCATEGORY	湯匙:N	
+貝殼:N	很:ADV	大:Vi	顆:M	
+但:C	也:ADV	有:Vt	它:N	致命:Vi	的:T	缺點:N	......:ETCCATEGORY	吐:Vt	沙:N	的:T	動作:N	似乎:ADV	沒:ADV	作好:Vt	
+享受:Vt	它:N	的:T	肉:N	的:T	時候:N	就:ADV	會:ADV	
+順便:ADV	吃:Vt	到:P	砂:N	
+這:DET	整:DET	碗:M	幾乎:ADV	都:ADV	這樣:Vi	......:ETCCATEGORY	真:ADV	是:Vt	破壞:Vt	了:ASP	大好:Vi	用餐:Nv	心情:N	
+湯:N	則:ADV	是:Vt	如:P	所:ADV	預料:Vt	
+有:Vt	那麼多:DET	蛤蜊:N	
+非常:ADV	鮮美:Vi	
+●:FW	牛燒肉:N	
+很:ADV	喜歡:Vt	牛肉:N	所以:C	點:Vt	這:DET	個:M	而:C	不:ADV	點:Vt	薑燒:N	豬肉:N	
+肉:N	的:T	份量:N	還:ADV	ok:FW	
+吃起來:ADV	鹹鹹:Vi	甜甜:Vi	
+頗:ADV	具:Vt	日本風:N	的:T	作法:N	
+味道:N	夠:Vi	
+所以:C	也:ADV	很:ADV	下:Vt	飯:N	
+有:Vt	附:Vt	『:PARENTHESISCATEGORY	特製:Nv	沾醬:N	』:PARENTHESISCATEGORY	
+這:DET	『:PARENTHESISCATEGORY	特製:Nv	沾醬:N	』:PARENTHESISCATEGORY	之:T	名:N	是:Vt	看:Vt	窩客島:N	他們:N	的:T	體驗:Nv	報告:N	
+因為:C	我:N	問:Vt	了:ASP	服務:Nv	人員:N	
+服務:Nv	人員:N	慌忙:Vi	的:T	
+跑去:Vt	問:Vt	別人:N	
+一:DET	個:M	看來:ADV	像:Vt	是:Vt	他:N	主管:N	的:T	人:N	來:ADV	和:P	我:N	說:Vt	這:DET	吃起來:ADV	鹹鹹:Vi	甜甜:Vi	.....:ETCCATEGORY	
+我:N	的:T	問題:N	是:Vt	『:PARENTHESISCATEGORY	這:DET	是:Vt	什麼:DET	沾醬:N	』:PARENTHESISCATEGORY	......:ETCCATEGORY	
+味道:N	我:N	有:Vt	吃:Vt	了:ASP	我:N	當然:ADV	知道:Vt	啊:T	
+總之:ADV	這:DET	醬:N	吃起來:ADV	較:ADV	鹹:Vi	
+似乎:ADV	有點:ADV	大蒜味:N	
+以:P	這:DET	燒肉:N	來:ADV	說:Vt	
+可以:ADV	不必:ADV	加:Vt	
+因為:C	加:Vt	了:ASP	就:ADV	太:ADV	鹹:Vi	了:T	
+●:FW	薯條:N	
+餐盤:N	上:N	的:T	薯條:N	是:Vt	亮點:N	
+炸:Vt	的:T	不:ADV	油:N	
+爽口:Vi	
+是:Vt	那:DET	種:M	整:DET	個:M	馬鈴薯:N	切:Vt	塊:M	炸:Vt	的:T	
+喜歡:Vt	
+旁邊:N	放:Vt	的:T	蘆筍:N	也:ADV	不錯:Vi	
+●:FW	米飯:N	
+這邊:N	強調:Vt	的:T	米飯:N	
+用:Vt	的:T	是:Vt	日本:N	來:Vi	的:T	金芽米:N	
+可能:ADV	是:Vt	期待:Vt	太:ADV	深:Vi	
+所以:C	吃:Vt	的:T	時候:N	有點:ADV	小:Vi	失望:Vi	
+飯:N	的:T	水份:N	有點:ADV	太多:Vi	
+太:ADV	黏:Vi	了:T	
+之前:N	吃:Vt	幾:DET	間:M	以:P	米飯:N	為主:Vi	打:Vt	的:T	店:N	不會:ADV	這樣:Vi	
+也許:ADV	是:Vt	剛:ADV	開店:Vi	吧:T	
+還:ADV	掌握:Vt	的:T	不:ADV	太:ADV	好:Vi	
+結帳:Vi	時:POST	
+也:ADV	與:P	一般:A	流程:N	稍稍:ADV	不:ADV	一樣:Vi	
+首先:ADV	
+飯:N	上:N	來:T	以後:POST	你:N	會:ADV	得到:Vt	一:DET	張:M	小:Vi	紙條:N	
+照說:ADV	別人:N	都:ADV	有:Vt	一:DET	個:M	像:Vt	菜單:N	皮夾:N	的:T	東西:N	包住:Vt	它:N	
+我:N	只有:ADV	一:ADV	小:Vi	張:M	
+還好:ADV	沒:ADV	丟:Vt	了:ASP	它:N	
+因為:C	似乎:ADV	要:ADV	
+用:P	它:N	來:ADV	結帳:Vi	
+但:C	還:ADV	得:ADV	先:ADV	再:ADV	作:Vt	一:DET	個:M	動作:N	
+把:P	因為:C	很:ADV	大:Vi	顆:M	擺:Vt	在:P	旁邊:N	的:T	IPAD:FW	拿過來:Vi	
+我:N	有點:ADV	懷疑:Vt	
+當:P	人:N	很多:DET	時:POST	
+這:DET	IPAD:FW	要:ADV	怎樣:ADV	辦:Vt	
+四:DET	人:N	桌:N	是:Vt	架:M	在:P	桌:N	旁:N	
+單人:N	或:C	雙人:N	坐:Vi	一:DET	大:Vi	桌:M	時:POST	就:ADV	放:Vt	在:P	身旁:N	佔:Vt	位置:N	
+要:ADV	先:ADV	點選:Vt	餐點:N	內容:N	
+然後:ADV	選:Vt	『:PARENTHESISCATEGORY	結帳:Vi	』:PARENTHESISCATEGORY	
+可以:ADV	選:Vt	現金:N	或:C	刷卡:Nv	
+選完:Vt	後:POST	
+就:ADV	可以:ADV	了:T	......:ETCCATEGORY	
+IPAD:FW	擺:Vt	在:P	桌:N	上:N	
+大概:ADV	服務生:N	會:ADV	自己:N	收:Vt	吧:T	
+因為:C	我:N	沒:ADV	看到:Vt	有:Vt	人:N	拿:Vt	著:ASP	IPAD:FW	去:ADV	結帳:Vi	
+●:FW	總:ADV	評:Vt	
+這:DET	是:Vt	一:DET	間:M	以:P	平價:N	定食:Vt	為主:Vi	的:T	店:N	
+就:ADV	之前:POST	我:N	收到:Vt	的:T	一些:DET	資訊:N	以及:C	在:P	一些:DET	日本:N	網站:N	上:N	爬:Vi	文:N	的:T	
+結果:ADV	
+不過:C	來到:Vt	台灣:N	之後:POST	
+可能:ADV	是:Vt	因為:C	裝璜:N	與:C	一些:DET	原因:N	
+價錢:N	有點:ADV	小小:Vi	的:T	不:ADV	親切:Vi	
+剛:ADV	開幕:Vi	
+味道:N	與:C	服務:Nv	都:ADV	還:ADV	有點:ADV	混亂:Vi	的:T	地方:N	
+比如說:P	送:Vt	餐:N	似乎:ADV	慢:Vi	了:ASP	一點:DET	
+我:N	大概:ADV	等:Vt	了:ASP	半:DET	小時:N	才:ADV	拿到:Vt	我:N	那:DET	份:M	看來:ADV	很:ADV	容易:Vi	作好:Vt	餐:N	
+以及:C	米飯:N	或是:C	蛤蜊湯:N	
+這:DET	個:M	價格:N	
+我:N	也:ADV	會:ADV	期望:Vt	服務:Nv	人員:N	對於:P	料理:N	是:Vt	可以:ADV	解說:Vt	的:T	
+但:C	問:Vt	問題:N	的:T	結果:N	是:Vt	讓:Vt	我:N	失望:Vi	了:T	
+總之:ADV	
+它:N	就:ADV	在:P	我:N	公司:N	附近:N	
+以後:N	還:ADV	有:Vt	再:ADV	吃:Vt	的:T	機會:N	
+希望:Vt	它:N	以後:N	會:ADV	變更:Vt	好:Vi	

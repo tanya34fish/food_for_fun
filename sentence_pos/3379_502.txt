@@ -1,0 +1,57 @@
+TYsquid:FW	(:PARENTHESISCATEGORY	中卷:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	捷運:N	美食:N	忠孝:N	復興:Vt	CYCLO:FW	洛城:N	牛肉:N	河粉:N	
+Fri:FW	
+Aug:FW	
+1:DET	
+23:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	03:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	CYCLO:FW	洛城:N	牛肉:N	河粉:N	(:PARENTHESISCATEGORY	忠孝店:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	07:DET	/:FW	31:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	大安路:N	一段:N	75巷:N	9:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27789900:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	AM:FW	~:FW	14:DET	::COLONCATEGORY	30:DET	PM:FW	(:PARENTHESISCATEGORY	最後:N	點餐:N	時間:N	14:DET	::COLONCATEGORY	00:DET	):PARENTHESISCATEGORY	
+17:DET	::COLONCATEGORY	30:DET	AM:FW	~:FW	22:DET	::COLONCATEGORY	00:DET	PM:FW	(:PARENTHESISCATEGORY	最後:N	點餐:N	時間:N	21:DET	::COLONCATEGORY	20:DET	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	~:FW	400:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	牛肉:N	河粉:N	
+圖:N	多:ADV	好:Vi	讀:Vt	無:Vt	音樂版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	jd36552.pixnet.net/blog/post:FW	/:FW	43749592:DET	
+在:P	東區:N	常常:ADV	逛街:Vi	逛:Vt	到:P	不:ADV	知道:Vt	吃:Vt	什麼:DET	嗎:T	
+CYCLO:FW	洛城:N	牛肉:N	河粉:N	是:Vt	你:N	的:T	好:Vi	選擇:Vt	
+在:P	這邊:N	先:ADV	附上:Vt	菜單:N	給:Vt	大家:N	看看:Vt	
+註:N	::COLONCATEGORY	法式:A	黑:Vi	椒:b	牛排:N	忠孝店:N	現在:N	沒有:ADV	供應:Vt	了:ASP	
+牛肉:N	河粉:N	的:T	肉品:N	可以:ADV	自由:Vi	選:Vt	三:DET	種:M	搭配:Vt	
+飲料:N	跟:P	點心類:N	的:T	選擇:N	也:ADV	相當:Vi	的:T	多:Vi	
+麵類:N	可以:ADV	免費:Vi	加:Vt	麵:N	
+但是:C	需要:Vt	一:ADV	開始:Vt	就:ADV	告知:Vt	
+經典:N	自由:Vi	搭配:Vt	NT:FW	230:DET	
+牛:N	小:Vi	排:Vt	、:PAUSECATEGORY	板腱:N	菲力:N	、:PAUSECATEGORY	軟嫩牛:N	胸:N	
+湯頭:N	清澈:Vi	
+但是:C	味道:N	相當:ADV	濃郁:Vi	
+牛大骨:N	熬出來:Vi	的:T	湯頭:N	風味:N	十足:Vi	
+肉:N	的:T	份量:N	並:ADV	不少:Vi	
+搭配:Vt	河粉:N	與:C	辛:Vi	香料:N	吃起來:ADV	相當:ADV	過癮:Vi	
+擠進:Vt	所:N	附:Vt	的:T	萊姆汁:N	
+美味度:N	更加:ADV	提升:Vt	
+左邊:N	是:Vt	經典:N	自由:Vi	搭配:Vt	NT:FW	230:DET	右邊:N	則:ADV	是:Vt	樂活輕食:N	尺寸:N	NT:FW	190:DET	
+樂活輕食:N	尺寸:N	的:T	麵:N	是:Vt	經典:N	自由:Vi	搭配:Vt	的:T	一半:DET	
+肉:N	的:T	份量:N	並:ADV	沒有:Vt	減少:Vt	喔:T	
+免費:Vi	的:T	加:Vt	麵:N	與:C	醬料:N	
+醬料:N	紅色:N	的:T	是:Vt	公雞牌:N	辣椒醬:N	
+黑色:N	的:T	則:ADV	是:Vt	海鮮醬:N	
+河內:N	炸:Vt	春捲:N	NT:FW	45:DET	
+外酥內:N	濕潤:Vi	
+好吃:Vi	
+CYCLO:FW	雖然:C	價格:N	貴:Vi	了:ASP	點:M	
+但是:C	份量:N	十足:Vi	
+又:ADV	相當:ADV	美味:Vi	
+是:Vt	在:P	東區:N	用餐:Vi	的:T	好:Vi	選擇:Vt	
+CYCLO:FW	【:PARENTHESISCATEGORY	忠孝店:N	】:PARENTHESISCATEGORY	
+台北市:N	大安區:N	大安路:N	一段:N	75巷:N	9:DET	號:M	
+捷運:N	出口:Nv	::COLONCATEGORY	忠孝:N	復興:Vt	4:DET	號:M	出口:N	步行:Vi	約:ADV	3:DET	分鐘:M	
+東區:N	地下街:N	::COLONCATEGORY	14:DET	號:M	出口:N	步行:Vi	約:ADV	1:DET	分鐘:M	
+公車:N	資訊:N	::COLONCATEGORY	204:DET	、:PAUSECATEGORY	212:DET	、:PAUSECATEGORY	262:DET	、:PAUSECATEGORY	278:DET	、:PAUSECATEGORY	299:DET	、:PAUSECATEGORY	521:DET	、:PAUSECATEGORY	605:DET	、:PAUSECATEGORY	903:DET	
+頂:ADV	好:Vi	市場:N	站:Vi	步行:Vi	約:ADV	1:DET	分鐘:M	
+CYCLO:FW	【:PARENTHESISCATEGORY	仁愛店:N	】:PARENTHESISCATEGORY	
+台北市:N	大安區:N	仁愛路:N	四段:N	377:DET	號:M	
+捷運:N	出口:Nv	::COLONCATEGORY	國父:N	紀念館:N	2:DET	號:M	出口:N	步行:Vi	約:ADV	6:DET	分鐘:M	
+公車:N	資訊:N	::COLONCATEGORY	235:DET	、:PAUSECATEGORY	245:DET	、:PAUSECATEGORY	261:DET	、:PAUSECATEGORY	263:DET	、:PAUSECATEGORY	270:DET	、:PAUSECATEGORY	311:DET	、:PAUSECATEGORY	永福:N	、:PAUSECATEGORY	621:DET	、:PAUSECATEGORY	651:DET	、:PAUSECATEGORY	662:DET	、:PAUSECATEGORY	663:DET	、:PAUSECATEGORY	665:DET	
+仁愛:N	延吉:N	街口:N	站:Vi	步行:Vi	約:ADV	1:DET	分鐘:M	

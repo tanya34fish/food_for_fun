@@ -1,0 +1,9 @@
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	師大路:N	141:DET	號:M	
+Menu:FW	上:N	的:T	價格:N	看起來:ADV	還:ADV	滿:Vt	平價:N	的:T	
+印象:N	中:POST	陳記:N	的:T	位置:N	就:ADV	在:P	台電:N	大樓:N	站出來:Vi	的:T	巷子:N	
+味道:N	就:ADV	普通:Vi	
+這:DET	碗:M	乾:Vi	麵:N	還:ADV	不錯:Vi	吃:Vt	
+肉燥:N	滿:ADV	香:Vi	的:T	
+今天:N	吃到:Vt	的:T	餐:N	雖然:C	沒有:Vt	特別:Vi	好吃:Vi	
+但:C	也:ADV	不會:ADV	很:ADV	難吃:Vi	
+就:ADV	一般:ADV	普通:Vi	的:T	味道:N	嚕:ADV	
