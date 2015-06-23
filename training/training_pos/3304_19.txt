@@ -188,14 +188,20 @@ XD:FW	其實:ADV	一:ADV	開始:Vt	是:Vt	因為:C	Instagram:FW	上:N	韓國:N	�
 #:FW	台北:N	49:DET	LAB:FW	
 2014年:N	6月:N	發表:Vt	
 facebook49LAB:FW	是:Vt	由:P	Bakery:FW	49:DET	經營:Vt	的:T	系列:N	品牌:N	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/llwSlj:FW	地址:N	
+
 Bakery:FW	49:DET	台北:N	敦北店:N	
+
 信義:N	三越:N	A:FW	8:DET	館:N	
+
 板橋:N	環球:A	購物:Nv	中心:N	營業:Nv	時間:N	
+
 週一:N	
 週六:N	9:DET	：:COLONCATEGORY	00:DET	
 21:DET	：:COLONCATEGORY	00:DET	、:PAUSECATEGORY	週日:N	9:DET	：:COLONCATEGORY	00:DET	
 16:DET	：:COLONCATEGORY	00:DET	
+
 .:PERIODCATEGORY	
+
 依:P	各:DET	百貨:N	為準:Vi	
 #:FW	台北:N	CoolN:FW	2:DET	分子:N	虎:N	分子:N	雪糕:N	專賣:Vt	
 2014年:N	4月:N	開幕:Vi	

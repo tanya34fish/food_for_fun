@@ -9,6 +9,7 @@ MonJul:FW	1404:DET	::COLONCATEGORY	42:DET	::COLONCATEGORY	152014:DET	餐廳:N	�
 可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
 有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
 圖文:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	aa10312.pixnet.net/blog/post:FW	/:FW	155837040:DET	
+
 -------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
 朋友:N	介紹:Vt	了:ASP	一:DET	間:M	新:Vi	開:Vt	幾:DET	個:M	月:N	的:T	日式:A	居酒:N	屋:N	
 這:DET	個:M	周:N	末:POST	去:ADV	嘗:Vt	鮮:Vi	一下:N	

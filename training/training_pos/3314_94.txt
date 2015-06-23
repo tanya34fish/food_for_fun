@@ -12,6 +12,7 @@ MonJul:FW	1419:DET	::COLONCATEGORY	57:DET	::COLONCATEGORY	392014:DET	餐廳:N	�
 官網:N	：:COLONCATEGORY	
 附註:Vt	：:COLONCATEGORY	
 http:FW	::COLONCATEGORY	/:FW	/:FW	derekwen.pixnet.net/blog/post:FW	/:FW	155306967:DET	
+
 隱藏:Vt	在:P	石碇:N	老街:N	旁:N	的:T	驚喜:Nv	美食:N	
 大:Vi	熱天:N	的:T	午後:N	想:Vt	隨處:ADV	晃晃:Vi	就:ADV	來到:Vt	石碇:N	的:T	老街:N	
 無意:Vt	間:POST	發現:Vt	一:DET	個:M	”:FW	交通:N	標誌:N	”:FW	

@@ -10,6 +10,7 @@ MonJul:FW	1412:DET	::COLONCATEGORY	50:DET	::COLONCATEGORY	472014:DET	餐廳:N	�
 有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
 推薦:Vt	菜色:N	：:COLONCATEGORY	陽光:N	加州:N	
 網誌:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	moinca199.pixnet.net/blog/post:FW	/:FW	183284604:DET	
+
 以下:N	為:Vt	PTT:FW	純:Vi	文字版:N	
 七月:N	初:POST	與:C	友人:N	相約:Vi	至:P	中山:N	捷運站:N	附近:N	的:T	
 JumaneCafe:FW	':FW	佐曼:N	咖啡:N	

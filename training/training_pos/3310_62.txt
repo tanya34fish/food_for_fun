@@ -6,6 +6,7 @@ SunJul:FW	1307:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	482014:DET	餐廳:N	�
 每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	260:DET	-:DASHCATEGORY	300:DET	元:M	，:COMMACATEGORY	收:Vt	一成:DET	服務費:N	
 圖文:N	好讀:Vt	版:N	
 http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/YImRdc:FW	
+
 目前:N	我:N	已經:ADV	吃:Vt	過:ASP	而且:C	寫:Vt	過:ASP	文章:N	記錄:N	的:T	台北市:N	日式:A	拉麵店:N	一共:ADV	是:Vt	87:DET	家:M	
 這:DET	間:M	店:N	開幕:Vi	於:P	2014.0:DET	3.07:DET	
 將:ADV	原本:ADV	在:P	捷運:N	中山:N	站:N	旁邊:N	的:T	店家:N	搬遷:Vt	到:P	天津街:N	和:C	

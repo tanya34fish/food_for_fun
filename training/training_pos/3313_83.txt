@@ -6,6 +6,7 @@ MonJul:FW	1404:DET	::COLONCATEGORY	42:DET	::COLONCATEGORY	542014:DET	餐廳:N	�
 每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	120:DET	-:DASHCATEGORY	210:DET	元:M	，:COMMACATEGORY	不:ADV	收:Vt	服務費:N	
 圖文:N	好讀:Vt	版:N	
 http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/0K7Ize:FW	
+
 目前:N	我:N	已經:ADV	吃:Vt	過:ASP	而且:C	寫:Vt	過:ASP	文章:N	記錄:N	的:T	台北市:N	日式:A	拉麵店:N	一共:ADV	是:Vt	88:DET	家:M	
 這:DET	間:M	店:N	本來:ADV	叫做:Vt	
 麵屋翔:N	太:ADV	

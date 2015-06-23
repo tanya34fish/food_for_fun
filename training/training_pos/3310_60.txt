@@ -7,6 +7,7 @@ SunJul:FW	1302:DET	::COLONCATEGORY	41:DET	::COLONCATEGORY	142014:DET	．:PERIODC
 ．:PERIODCATEGORY	平均:Vi	消費:N	：:COLONCATEGORY	$:FW	100:DET	~:FW	$:FW	200:DET	/:FW	人:N	
 ．:PERIODCATEGORY	營業:Nv	時間:N	：:COLONCATEGORY	10:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	20:DET	::COLONCATEGORY	30:DET	
 ．:PERIODCATEGORY	網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	highca10said.pixnet.net/blog/post:FW	/:FW	183063387:DET	
+
 今天:N	來:ADV	跟:P	大家:N	介紹:Vt	
 全:DET	台北:N	最:ADV	好吃:Vi	的:T	雞肉飯:N	之:T	一:DET	【:PARENTHESISCATEGORY	梁記:N	嘉義:N	雞肉飯:N	】:PARENTHESISCATEGORY	
 High:FW	咖:b	很:ADV	誠實:Vi	地:T	跟:P	大家:N	說:Vt	
@@ -66,7 +67,7 @@ High:FW	咖:b	很:ADV	誠實:Vi	地:T	跟:P	大家:N	說:Vt
 沒:ADV	這麼:ADV	誇張:Vt	
 是:Vt	一口:ADV	接著:ADV	一口:ADV	^:FW	^:FW	":FW	
 【:PARENTHESISCATEGORY	總:ADV	評:Vt	】:PARENTHESISCATEGORY	
-3:DET	雖然:C	說:Vt	不:ADV	是:Vt	什麼:DET	令:Vt	人:N	驚豔:Vi	的:T	高級:Nv	料理:N	
+雖然:C	說:Vt	不:ADV	是:Vt	什麼:DET	令:Vt	人:N	驚豔:Vi	的:T	高級:Nv	料理:N	
 不過:C	這:DET	道:M	台灣:N	的:T	平民:N	美食:N	真的:ADV	是:Vt	很:ADV	讚:Vi	
 已經:ADV	想好:Vt	下:DET	次:M	要點:N	什麼:DET	了:T	
 一:DET	碗:M	雞肉:N	飯:N	、:PAUSECATEGORY	一:DET	碗:M	滷肉:N	飯:N	、:PAUSECATEGORY	一:DET	顆:M	半熟:Vi	蛋:N	&:FW	amp:FW	

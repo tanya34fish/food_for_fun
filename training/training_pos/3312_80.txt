@@ -7,6 +7,7 @@ MonJul:FW	1400:DET	::COLONCATEGORY	10:DET	::COLONCATEGORY	462014:DET	餐廳:N	�
 每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	400:DET	
 推薦:Vt	菜色:N	：:COLONCATEGORY	招牌:N	現烤:Vt	鮮味:N	雞塊:N	
 圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	cubnbt93.pixnet.net/blog/post:FW	/:FW	155635197:DET	
+
 如果:C	覺得:Vt	台北:N	太:ADV	膩:Vi	
 週末:N	不:ADV	知道:Vt	要:ADV	去:ADV	哪:ADV	玩:Vt	的:T	話:N	
 三峽:N	是:Vt	個:M	不錯:Vi	的:T	選擇:N	唷:T	

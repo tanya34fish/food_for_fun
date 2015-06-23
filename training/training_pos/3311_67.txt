@@ -8,6 +8,7 @@ SunJul:FW	1313:DET	::COLONCATEGORY	30:DET	::COLONCATEGORY	312014:DET	餐廳:N	�
 可否:ADV	刷卡:Vi	：:COLONCATEGORY	NO:FW	
 有無:Vt	包廂:N	：:COLONCATEGORY	NO:FW	
 推薦:Vt	延伸:Vi	閱讀:Vt	圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	shrimp2.pixnet.net/blog/post:FW	/:FW	105825479:DET	
+
 某天:N	收到:Vt	朋友:N	私房:A	名單:N	
 老友:N	記:Vt	粥:N	麵館:N	
 他:N	向:P	我:N	大力:ADV	推薦:Vt	排骨飯:N	

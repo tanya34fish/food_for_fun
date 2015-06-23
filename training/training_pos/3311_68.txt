@@ -10,6 +10,7 @@ SunJul:FW	1314:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	042014:DET	餐廳:N	�
 平均:Vi	價位:N	：:COLONCATEGORY	下午茶:N	540:DET	，:COMMACATEGORY	服務費:N	10:DET	%:M	另:DET	計:N	
 推薦:Vt	菜色:N	：:COLONCATEGORY	極:ADV	黑豬:N	、:PAUSECATEGORY	生魚片:N	、:PAUSECATEGORY	炸:Vt	蝦:N	、:PAUSECATEGORY	可:ADV	爾:N	必:ADV	思沙瓦:N	
 請:Vt	享用:Vt	圖:N	多:ADV	好:Vi	閱讀:Vt	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sputravel.pixnet.net/blog/post:FW	/:FW	155614632:DET	
+
 悠閒:Vi	的:T	假日:N	
 如果:C	沒:ADV	安排:Vt	活動:N	的:T	話:N	
 最:ADV	適合:Vi	的:T	就是:C	找:Vt	間:POST	下午茶:N	享受:Vt	一:DET	番:M	

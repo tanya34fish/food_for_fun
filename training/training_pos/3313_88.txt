@@ -8,6 +8,7 @@ MonJul:FW	1415:DET	::COLONCATEGORY	42:DET	::COLONCATEGORY	122014:DET	餐廳:N	�
 每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	$:FW	200:DET	左右:POST	
 推薦:Vt	菜色:N	：:COLONCATEGORY	芝麻:N	豆腐堡:N	
 網誌:N	好:Vi	讀:Vt	多:DET	圖:N	無:Vt	音樂版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tenjochou.pixnet.net/blog/post:FW	/:FW	155763714:DET	
+
 動物誌:N	不:ADV	是:Vt	一:DET	本:M	書:N	
 但:C	它:N	說:Vt	著:ASP	許多:DET	故事:N	
 Logo:FW	設計:N	倒黑:Vi	三角:N	、:PAUSECATEGORY	彩虹:N	

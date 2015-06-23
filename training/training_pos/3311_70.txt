@@ -10,6 +10,7 @@ SunJul:FW	1316:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	132014:DET	餐廳:N	�
 有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
 推薦:Vt	菜色:N	：:COLONCATEGORY	牛肉:N	起:POST	司:Vt	三明治:N	
 圖文:N	網誌:N	心得:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	jayrabbit.pixnet.net/blog/post:FW	/:FW	58031286:DET	
+
 以下:N	複製:Vt	網誌:N	內文:N	
 鄰近:Vt	松山:N	菸廠:N	的:T	DripCafe:FW	好滴:Vi	咖啡:N	已經:ADV	前往:Vt	光顧:Vt	過:ASP	好:Vi	一陣子:N	
 卻:ADV	遲遲:ADV	沒有:Vt	動力:N	為之:C	寫下:Vt	隻字:N	片語:N	

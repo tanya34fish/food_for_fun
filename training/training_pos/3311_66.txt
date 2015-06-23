@@ -6,6 +6,7 @@ SunJul:FW	1313:DET	::COLONCATEGORY	30:DET	::COLONCATEGORY	212014:DET	餐廳:N	�
 電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2364:DET	-:DASHCATEGORY	2698:DET	
 營業:Nv	時間:N	：:COLONCATEGORY	10:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	24:DET	::COLONCATEGORY	00:DET	
 圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	julialkpkpk.pixnet.net/blog/post:FW	/:FW	378334406:DET	
+
 這:DET	天:M	原本:ADV	要:ADV	帶:Vt	孩子:N	去:Vt	公館:N	的:T	自來水:N	博物館:N	玩水:Vi	涼快:Vi	一下:N	
 沒想到:ADV	假日:N	人:N	超多:Vi	
 除了:P	路邊:N	早已:ADV	沒有:Vt	停車位:N	連:C	停車場:N	都:ADV	一:DET	位:M	難:Vi	求:Vt	

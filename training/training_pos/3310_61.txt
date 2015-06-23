@@ -8,6 +8,7 @@ SunJul:FW	1303:DET	::COLONCATEGORY	55:DET	::COLONCATEGORY	212014:DET	餐廳:N	�
 平均:Vi	價位:N	：:COLONCATEGORY	100:DET	~:FW	200:DET	
 推薦:Vt	菜色:N	：:COLONCATEGORY	肉粥:N	、:PAUSECATEGORY	紅燒肉:N	、:PAUSECATEGORY	粉腸:N	
 請:Vt	享用:Vt	圖:N	多:ADV	好:Vi	閱讀:Vt	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sputravel.pixnet.net/blog/post:FW	/:FW	155491257:DET	
+
 假日:N	總是:ADV	會:ADV	睡:Vi	到:P	超過:Vt	中午:N	
 這:DET	時候:N	最:ADV	適合:Vi	來:ADV	造訪:Vt	這:DET	家:M	周:N	記:Vt	肉粥:N	了:T	
 是:Vt	我:N	最愛:N	也:ADV	最:ADV	推薦:Vt	的:T	中:N	

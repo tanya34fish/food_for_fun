@@ -5,6 +5,7 @@ MonJul:FW	1422:DET	::COLONCATEGORY	52:DET	::COLONCATEGORY	022014:DET	餐廳:N	�
 地址:N	：:COLONCATEGORY	新:Vi	北市:N	石門:N	區崁子:N	腳:N	58:DET	-:DASHCATEGORY	18:DET	號:M	
 電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2638:DET	-:DASHCATEGORY	0888:DET	
 詳細:Vi	圖文:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	alina28.pixnet.net/blog/post:FW	/:FW	41113273:DET	
+
 離開:Vt	水車:N	園區:N	觀賞:Vt	完:Vi	美麗:Vi	的:T	夕陽:N	後:POST	正好:ADV	也:ADV	是:Vt	用:P	晚餐:N	的:T	時間:N	了:T	
 以往:N	每:ADV	到:Vt	三芝:N	這:DET	一帶:N	家人:N	總:ADV	喜歡:Vt	到:Vt	石門:N	這:DET	家:M	肉粽店:N	
 除了:P	就近:ADV	方便:Vi	之外:POST	最:ADV	主要:A	的:T	原因:N	就是:C	好吃:Vi	啦:T	

@@ -17,6 +17,7 @@ MonJul:FW	1420:DET	::COLONCATEGORY	09:DET	::COLONCATEGORY	202014:DET	餐廳:N	�
 可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
 有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
 圖文:N	網址:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.ipeen.com.tw/comment:FW	/:FW	695730:DET	
+
 夏姿:N	旗下:N	-:DASHCATEGORY	采采食:Vt	茶:N	除了:P	名人:N	愛:Vt	用:Vt	的:T	喜餅:N	禮盒:N	之外:POST	
 采采:N	也:ADV	有:Vt	提供:Vt	餐點:N	及早:ADV	午餐:Vi	
 也:ADV	是:Vt	相當:ADV	有:Vt	創意:N	及:C	豐富:Vt	美味:Vi	
