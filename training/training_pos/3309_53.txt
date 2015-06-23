@@ -40,28 +40,28 @@ Pot:FW	不:ADV	知:Vt	與:P	以前:N	有:Vt	什麼:DET	差別:N
 每:DET	張:M	桌:N	上:POST	似乎:ADV	都:ADV	有:Vt	一兩:DET	個:M	發條:N	玩具:N	
 我們:N	這:DET	桌:M	便有:Vt	兩:DET	個:M	
 可惜:Vi	都:ADV	壞:Vt	了:ASP	
-9:DET	餐點:N	以:P	早:Vi	午餐:N	、:PAUSECATEGORY	義大利麵:N	與:C	燉飯:Vt	為主:Vi	
+餐點:N	以:P	早:Vi	午餐:N	、:PAUSECATEGORY	義大利麵:N	與:C	燉飯:Vt	為主:Vi	
 料理:N	還:ADV	算:Vt	特別:Vi	
 不:ADV	落於:Vt	俗套:N	
 加:Vt	100:DET	元:M	套餐:N	附上:Vt	的:T	麵包:N	與:C	湯:N	
 使用:Vt	圓木:N	餐盤:N	
 頗:ADV	有:Vt	野外:N	露營:Nv	風:N	
-9:DET	雜糧:N	麵包:N	柔軟:Vi	香甜:Vi	
+雜糧:N	麵包:N	柔軟:Vi	香甜:Vi	
 滋味:N	竟是:Vt	不錯:Vi	
-9:DET	今日湯:N	是:Vt	南瓜湯:N	
+今日湯:N	是:Vt	南瓜湯:N	
 煮:Vt	的:T	較:ADV	稀:Vi	不:ADV	濃稠:Vi	
 味道:N	也:ADV	沒:ADV	那麼:ADV	甜:Vi	膩:Vi	
 清爽:Vi	風格:N	
-9:DET	芝麻:N	葉青:N	醬:N	甜蝦:N	麵食:N	＄:FW	300:DET	與:C	我:N	想像:Vt	的:T	甜蝦:N	有點:ADV	落差:N	
-9:DET	竟是:Vt	五:DET	尾:M	沒:ADV	剝:Vt	殼:N	的:T	蝦:N	
-9:DET	上:N	綴:Vt	芝麻:N	葉:N	
-9:DET	底下:N	的:T	直:Vi	麵:N	拌:Vt	著:ASP	烤菇:N	、:PAUSECATEGORY	蒜片:N	與:C	青醬:N	
-9:DET	蝦子:N	沒:ADV	過多:Vi	調味:Vi	
+芝麻:N	葉青:N	醬:N	甜蝦:N	麵食:N	＄:FW	300:DET	與:C	我:N	想像:Vt	的:T	甜蝦:N	有點:ADV	落差:N	
+竟是:Vt	五:DET	尾:M	沒:ADV	剝:Vt	殼:N	的:T	蝦:N	
+上:N	綴:Vt	芝麻:N	葉:N	
+底下:N	的:T	直:Vi	麵:N	拌:Vt	著:ASP	烤菇:N	、:PAUSECATEGORY	蒜片:N	與:C	青醬:N	
+蝦子:N	沒:ADV	過多:Vi	調味:Vi	
 只是:ADV	煎:Vt	過:ASP	
 味道:N	簡單:Vi	
 麵條:N	與:C	芝麻:N	葉相拌:N	
-9:DET	這:DET	青醬:N	並:ADV	不如:Vt	一般:A	坊間:N	台式:A	義大利麵:N	那:DET	種:M	加:Vt	奶:N	的:T	濃重:Vi	青醬:N	
-9:DET	而是:C	簡單:Vi	的:T	橄欖油:N	青醬:N	
+這:DET	青醬:N	並:ADV	不如:Vt	一般:A	坊間:N	台式:A	義大利麵:N	那:DET	種:M	加:Vt	奶:N	的:T	濃重:Vi	青醬:N	
+而是:C	簡單:Vi	的:T	橄欖油:N	青醬:N	
 而且:C	下:N	的:T	量:N	不:ADV	多:Vi	
 因此:C	只有:ADV	淡淡:Vi	羅勒:N	油香:N	
 正:ADV	是:Vt	我:N	喜愛:Vt	的:T	簡單:Vi	風味:N	

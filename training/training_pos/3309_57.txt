@@ -63,7 +63,7 @@ SatJul:FW	1222:DET	::COLONCATEGORY	06:DET	::COLONCATEGORY	032014:DET	餐廳:N	�
 吃:Vt	一:DET	吃:Vt	把:P	剛剛:ADV	點:Vt	的:T	溫泉:N	蛋:N	加進去:Vt	拌:Vt	一下:N	
 這樣:Vi	多:Vi	了:ASP	滑:Vi	順:Vt	感:N	也:ADV	不錯:Vi	吃:Vt	
 ＜:FW	黑醬醪沙朗丼:N	NT:FW	$:FW	280:DET	＞:FW	
-9:DET	用:Vt	的:T	是:Vt	店家:N	打:Vt	很:ADV	兇:Vi	的:T	醬醪燒:N	肉醬:N	
+用:Vt	的:T	是:Vt	店家:N	打:Vt	很:ADV	兇:Vi	的:T	醬醪燒:N	肉醬:N	
 查:Vt	了:ASP	一下:N	才:ADV	知道:Vt	醬醪:N	是:Vt	一:DET	種:M	混合:Vt	的:T	發酵:Nv	物質:N	
 之後:N	就是:C	把:P	熟成:Vt	的:T	醬醪:N	拿來:Vt	壓榨:Vt	醬油:N	
 那:ADV	這:DET	份:M	牛排:N	用:Vt	的:T	就是:C	黑豆:N	醬醪:N	

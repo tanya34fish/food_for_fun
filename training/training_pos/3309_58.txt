@@ -51,7 +51,7 @@ SatJul:FW	1223:DET	::COLONCATEGORY	15:DET	::COLONCATEGORY	462014:DET	餐廳:N	�
 ４:DET	個:M	人:N	左右:POST	分食:Vt	一:DET	盤:M	這樣:Vi	
 那:ADV	我們:N	就:ADV	開始:Vi	囉:T	
 前菜:N	是:Vt	來自:Vt	沖繩:N	的:T	水:N	雲:N	
-9:DET	是:Vt	一:DET	種:M	類似:Vt	髮菜:N	的:T	綠褐色:N	海藻:N	
+是:Vt	一:DET	種:M	類似:Vt	髮菜:N	的:T	綠褐色:N	海藻:N	
 口感:N	黏滑:Vi	很:ADV	咕:ADV	溜:Vi	
 以:P	醋:N	調味:Vi	吃起來:ADV	很:ADV	酸:Vi	
 我:N	還:ADV	蠻:ADV	愛:Vt	的:T	
@@ -89,7 +89,7 @@ SatJul:FW	1223:DET	::COLONCATEGORY	15:DET	::COLONCATEGORY	462014:DET	餐廳:N	�
 細緻:Vi	的:T	油花:N	分布:Vi	鮮嫩:Vi	味:N	美:Vi	
 其實:ADV	這:DET	三:DET	種:M	生魚片:N	都:ADV	好吃:Vi	得:T	讓:Vt	人:N	豎起:Vt	拇指:N	
 但是:C	只:ADV	有:Vt	個:M	一:DET	片:M	真的:ADV	好不:ADV	過癮:Vi	啦:T	
-9:DET	黑:Vi	鮪魚:N	大腹:N	
+黑:Vi	鮪魚:N	大腹:N	
 這:DET	這:DET	這:DET	這:DET	這:DET	就是:C	傳說:N	中:POST	的:T	OTORO:FW	大腹:N	嗎:T	
 看到:Vt	這:DET	盤:M	上桌:Vi	我:N	都:ADV	開心:Vi	到:P	口吃:Vi	了:T	
 如上:Vi	

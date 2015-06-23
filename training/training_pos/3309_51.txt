@@ -42,16 +42,16 @@ KIRINBEER:FW	一:DET	番:M	搾:Vt	啤酒:N	$:FW	T:FW	120:DET
 只:ADV	是:Vt	我們:N	喝:Vt	得:T	速度:N	奇:ADV	快:Vi	無比:Vi	
 菜:N	還:ADV	沒:ADV	來:ADV	就:ADV	喝光:Vt	了:ASP	
 只好:ADV	後來:N	再:ADV	點:Vt	一:DET	杯:M	來:ADV	喝:Vt	就是了:Vi	
-9:DET	$:FW	NT:FW	150:DET	厚:Vi	切:Vt	倯阪:b	豬:N	
+$:FW	NT:FW	150:DET	厚:Vi	切:Vt	倯阪:b	豬:N	
 因為:C	厚:Vi	切:Vt	的:T	關係:N	
 咬:Vt	起來:ASP	相當:Vi	嚼:Vt	勁:N	
 不過:C	厚:Vi	切:Vt	的:T	咬:Vt	起來:ASP	像:P	薄片:N	一樣:Vi	
 那:DET	該:ADV	稱讚:Vt	店家:N	手藝:N	非同凡響:Vi	還是:C	這:DET	哥:N	們:N	的:T	舌頭:N	也:ADV	該:ADV	切:Vt	一切:DET	下酒:Vi	了:ASP	
-9:DET	$:FW	NT:FW	100:DET	和風:N	軟絲:N	
+$:FW	NT:FW	100:DET	和風:N	軟絲:N	
 清爽系:N	的:T	餐點:N	
-9:DET	和風:N	醬汁:N	搭配:Vt	洋蔥:N	絲:N	和:C	生菜:N	鋪底:N	
+和風:N	醬汁:N	搭配:Vt	洋蔥:N	絲:N	和:C	生菜:N	鋪底:N	
 為:P	接下來:ADV	陸陸續續:ADV	上菜:Vi	的:T	餐點:N	迅速:Vi	開胃:Vi	
-9:DET	$:FW	NT:FW	120:DET	烤肉醬:N	雞:N	串:Vt	
+$:FW	NT:FW	120:DET	烤肉醬:N	雞:N	串:Vt	
 正常:Vi	表現:N	的:T	串燒:N	
 但:C	一口:ADV	一:DET	個:M	再:ADV	來:ADV	一:DET	串:M	是:Vt	最:ADV	大:Vi	的:T	消費:N	
 哈哈:ADV	
@@ -59,7 +59,7 @@ $:FW	NT:FW	80:DET	就:ADV	是:Vt	下:DET	酒菜:N
 菜名:N	很:ADV	特別:Vi	
 吃起來:ADV	也:ADV	相當:ADV	不錯:Vi	
 阿:N	可是:C	這:DET	啥:DET	
-9:DET	是:Vt	炒:Vt	牛:N	舌頭:N	
+是:Vt	炒:Vt	牛:N	舌頭:N	
 不:ADV	知道:Vt	這:DET	裡面:N	有:Vt	幾:DET	條:M	牛:N	
 苦笑:Vi	
 是:Vt	說:Vt	照片:N	有點:ADV	晃到:Vt	
@@ -69,34 +69,34 @@ $:FW	NT:FW	80:DET	就:ADV	是:Vt	下:DET	酒菜:N
 立馬:N	崩潰:Vi	翻:Vt	桌明:N	太子:N	雞腿:N	
 非常:ADV	奇怪:Vt	為什麼:ADV	回家:Vi	找:Vt	菜單:N	完全:ADV	沒有:Vt	這:DET	道:M	菜:N	
 阿:N	我們:N	是:Vt	怎麼:ADV	點:Vt	的:T	阿:N	
-9:DET	想:Vt	不:ADV	起來:Vi	阿阿:Vi	阿阿阿阿:Vi	$:FW	NT:FW	100:DET	孜:b	然:C	帶:Vt	骨:N	羊:N	煎:Vt	排:Vt	會:ADV	讓:Vt	人:N	失去:Vt	理性:N	直接:Vi	野人:N	化:Vt	
+想:Vt	不:ADV	起來:Vi	阿阿:Vi	阿阿阿阿:Vi	$:FW	NT:FW	100:DET	孜:b	然:C	帶:Vt	骨:N	羊:N	煎:Vt	排:Vt	會:ADV	讓:Vt	人:N	失去:Vt	理性:N	直接:Vi	野人:N	化:Vt	
 用:P	手:N	拿起:Vt	骨頭:N	某:DET	啃:Vt	得:T	一:DET	道:M	菜:N	
-9:DET	照片:N	右邊:N	的:T	是:Vt	$:FW	NT:FW	120:DET	蔥花:N	泥:N	雞:N	串:Vt	
+照片:N	右邊:N	的:T	是:Vt	$:FW	NT:FW	120:DET	蔥花:N	泥:N	雞:N	串:Vt	
 不:ADV	喜歡:Vt	蔥:N	的:T	看到:Vt	這:DET	道:M	菜:N	應該:ADV	會:ADV	崩潰:Vi	
 挑:Vt	都:ADV	挑:Vt	不:ADV	完:Vi	
 阿:N	可是:C	不:ADV	喜歡:Vt	蔥:N	為什麼:ADV	要點:N	呢:T	XDD:FW	可是:C	雞肉:N	配上:Vt	蔥花:N	一口:ADV	咬下:Vt	
 根本:ADV	就:ADV	跟:P	香腸:N	配上:Vt	大蒜:N	一樣:Vi	的:T	的:T	合拍:Vt	
-9:DET	左邊:N	的:T	是:Vt	$:FW	NT:FW	120:DET	醬燒雞:N	屁股:N	
+左邊:N	的:T	是:Vt	$:FW	NT:FW	120:DET	醬燒雞:N	屁股:N	
 從:P	賣:Vt	向:P	上:N	左邊:N	的:T	醬燒雞:N	屁股:N	勝:Vi	
 但:C	吃起來:ADV	蔥花:N	泥:N	雞:N	串:Vt	大勝:Vi	
 不過:C	這:DET	是:Vt	我:N	個:M	人:N	觀感:N	
 老闆:N	特意:ADV	將:P	這:DET	兩:DET	份:M	放:Vt	一:DET	盤:M	
-9:DET	也許:ADV	也:ADV	有:Vt	讓:Vt	我們:N	自行:ADV	比較:Vt	的:T	念頭:N	$:FW	NT:FW	150:DET	金針:N	豬:N	串:Vt	
+也許:ADV	也:ADV	有:Vt	讓:Vt	我們:N	自行:ADV	比較:Vt	的:T	念頭:N	$:FW	NT:FW	150:DET	金針:N	豬:N	串:Vt	
 看到:Vt	旁邊:N	的:T	檸檬:N	了:T	嗎:T	
 絕對:ADV	要:ADV	淋:Vt	了:ASP	再:ADV	吃:Vt	
 反應:N	會:ADV	從:P	":FW	喔:T	":FW	變成:Vt	":FW	哦:T	
 ":FW	
 高:Vi	八:DET	度:M	
-9:DET	遠景:N	右邊:N	那:DET	個:M	是:Vt	嫩:Vi	炸:Vt	豆腐:N	$:FW	NT:FW	80:DET	
+遠景:N	右邊:N	那:DET	個:M	是:Vt	嫩:Vi	炸:Vt	豆腐:N	$:FW	NT:FW	80:DET	
 基本:N	上:N	嫩:Vi	炸:Vt	豆腐:N	這:DET	種:M	不管:C	到:P	哪裡:N	都:ADV	好吃:Vi	的:T	
 即便:C	是:Vt	你:N	家:N	巷口:N	的:T	路邊攤:N	百:DET	頁:M	豆腐:N	也:ADV	是:Vt	一樣:Vi	美味:Vi	可口:Vi	
-9:DET	近景:N	左邊:N	則:ADV	是:Vt	炸雞:N	軟骨:N	$:FW	NT:FW	100:DET	
+近景:N	左邊:N	則:ADV	是:Vt	炸雞:N	軟骨:N	$:FW	NT:FW	100:DET	
 為什麼:ADV	店家:N	會:ADV	把:P	這:DET	兩:DET	道:M	菜:N	放:Vt	在一起:Vi	呢:T	
 我:N	也:ADV	不:ADV	知道:Vt	
 這:DET	雞:N	軟骨:N	雖說:C	口感:N	不錯:Vi	
 但:C	毫無:Vt	反應:N	就:ADV	是:Vt	塊:M	雞:N	軟骨:N	
 下:DET	酒菜:N	
-9:DET	搭配:Vt	手:N	邊:N	的:T	啤酒:N	食用:Vt	風味:N	更:ADV	佳:Vi	$:FW	NT:FW	80:DET	奶油:N	玉米:N	筍:N	
+搭配:Vt	手:N	邊:N	的:T	啤酒:N	食用:Vt	風味:N	更:ADV	佳:Vi	$:FW	NT:FW	80:DET	奶油:N	玉米:N	筍:N	
 前面:N	吃:Vt	了:ASP	這麼多:DET	肉類:N	
 這時:N	候來:POST	點:Vt	蔬菜:N	解:Vt	個:M	油膩:Vi	
 吃起來:ADV	口感:N	相當:ADV	清爽:Vi	

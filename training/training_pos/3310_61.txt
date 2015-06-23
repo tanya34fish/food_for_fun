@@ -26,7 +26,7 @@ SunJul:FW	1303:DET	::COLONCATEGORY	55:DET	::COLONCATEGORY	212014:DET	餐廳:N	�
 以及:C	今天:N	點:Vt	了:ASP	哪些:DET	好:Vi	料:N	的:T	
 小菜:N	的:T	價格:N	從:P	30:DET	
 80:DET	不等:POST	
-9:DET	推薦:Vt	一定:A	要點:N	紅燒肉:N	啊:T	
+推薦:Vt	一定:A	要點:N	紅燒肉:N	啊:T	
 店:N	門口:N	的:T	老闆:N	工作區:N	
 一:DET	碗碗:DET	的:T	肉粥:N	
 好:ADV	誘人:Vi	阿:N	

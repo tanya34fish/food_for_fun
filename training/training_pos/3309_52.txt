@@ -26,15 +26,15 @@ http:FW	::COLONCATEGORY	/:FW	/:FW	shibasuki.pixnet.net/blog/post:FW	/:FW	3019410
 我:N	和:C	友人:N	都:ADV	點:Vt	了:ASP	入門:Nv	款:N	的:T	Rosso:FW	套餐:N	
 $:FW	1380:DET	+:FW	10:DET	%:M	
 套餐:N	內容:N	包含:Vt	開胃菜:N	、:PAUSECATEGORY	湯:N	、:PAUSECATEGORY	主菜:N	和:C	甜點:N	
-9:DET	友人:N	主菜:N	選:Vt	戰斧:N	豬排:N	
+友人:N	主菜:N	選:Vt	戰斧:N	豬排:N	
 我:N	則:ADV	選擇:Vt	再:ADV	加:Vt	$:FW	380:DET	將:P	主菜:N	換成:Vt	5:DET	oz:FW	.:PERIODCATEGORY	的:T	老饕:N	牛排:N	
 點完:Vt	菜:N	後:POST	服務生:N	很:ADV	快:Vi	的:T	就:ADV	把:P	麵包:N	和:C	開胃菜:N	送上:Vt	
-9:DET	麵包:N	有:Vt	迷迭:Vi	香:N	、:PAUSECATEGORY	黑:Vi	橄欖:N	和:C	奶油:N	三:DET	種:M	
+麵包:N	有:Vt	迷迭:Vi	香:N	、:PAUSECATEGORY	黑:Vi	橄欖:N	和:C	奶油:N	三:DET	種:M	
 都:ADV	熱:Vt	呼呼:ADV	的:T	很:ADV	好吃:Vi	
 但:C	又:ADV	以:P	奶油:N	和:C	黑:Vi	橄欖:N	的:T	最:ADV	合:Vt	我:N	的:T	胃口:N	
-9:DET	開胃:Vi	小:Vi	點:M	是:Vt	章魚:N	片佐:N	葡萄:N	和:C	芥末:N	
+開胃:Vi	小:Vi	點:M	是:Vt	章魚:N	片佐:N	葡萄:N	和:C	芥末:N	
 是:Vt	相當:ADV	清爽:Vi	的:T	一:DET	品:N	
-9:DET	開胃菜:N	是:Vt	":FW	炙燒黃鰭:N	鮪魚:N	搭配:Vt	酪梨慕:N	斯:DET	":FW	
+開胃菜:N	是:Vt	":FW	炙燒黃鰭:N	鮪魚:N	搭配:Vt	酪梨慕:N	斯:DET	":FW	
 鮪魚肉:N	本身:N	蠻:ADV	新鮮:Vi	的:T	
 微炙:Vi	後:POST	很:ADV	適合:Vi	我:N	這:DET	個:M	不:ADV	吃:Vt	生魚:N	的:T	人:N	
 但:C	酪梨慕:N	斯:ADV	有:Vt	著:ASP	難以言喻:Vi	的:T	怪異:Vi	味道:N	
@@ -46,9 +46,9 @@ $:FW	1380:DET	+:FW	10:DET	%:M
 在:P	主菜:N	上桌:Vi	前:POST	
 我們:N	想:Vt	喝:Vt	點:N	含:Vt	酒精:N	飲料:N	
 但:C	又:ADV	不:ADV	想:Vt	喝:Vt	紅:Vi	白酒:N	
-9:DET	於是:C	選:Vt	了:ASP	":FW	蜜:N	蘋果酒:N	":FW	
+於是:C	選:Vt	了:ASP	":FW	蜜:N	蘋果酒:N	":FW	
 這:DET	滋味:N	就:ADV	跟:P	侍者:N	說:Vt	的:T	一樣:Vi	
-9:DET	很:ADV	像:Vt	":FW	加:Vt	了:ASP	點:M	酒:N	的:T	蘋果:N	西:N	打:Vt	":FW	^:FW	_:FW	^:FW	友人:N	的:T	主菜:N	":FW	煎烤:Vt	戰斧:N	豬排:N	搭配:Vt	香甜:Vi	芒果醬:N	":FW	上桌:Vi	時:POST	
+很:ADV	像:Vt	":FW	加:Vt	了:ASP	點:M	酒:N	的:T	蘋果:N	西:N	打:Vt	":FW	^:FW	_:FW	^:FW	友人:N	的:T	主菜:N	":FW	煎烤:Vt	戰斧:N	豬排:N	搭配:Vt	香甜:Vi	芒果醬:N	":FW	上桌:Vi	時:POST	
 大家:N	都:ADV	嚇一跳:Vi	
 因為:C	它:N	的:T	體型:N	好:ADV	巨大:Vi	
 真的:ADV	可以:ADV	當:P	武器:N	了:T	
@@ -56,19 +56,19 @@ $:FW	1380:DET	+:FW	10:DET	%:M
 本:ADV	以為:Vt	會:ADV	是:Vt	加:Vt	醬汁:N	醃:Vt	烤:Vt	過:ASP	的:T	口味:N	或是:C	帶:Vt	點:M	迷:Vt	迭:Vi	香味:N	
 卻:ADV	出乎意料:Vi	的:T	清淡:Vi	
 即使:C	沾:Vt	了:ASP	芒果醬:N	也:ADV	還是:ADV	蠻:ADV	清淡:Vi	的:T	..:ETCCATEGORY	相較:Vi	於:P	豬排:N	
-9:DET	我:N	點:Vt	的:T	":FW	碳烤:N	五:DET	盎司:M	美國:N	特選:Vt	老饕:N	牛排:N	":FW	就:ADV	獲得:Vt	眾人:N	一致:Vi	好評:N	
+我:N	點:Vt	的:T	":FW	碳烤:N	五:DET	盎司:M	美國:N	特選:Vt	老饕:N	牛排:N	":FW	就:ADV	獲得:Vt	眾人:N	一致:Vi	好評:N	
 這:DET	牛排:N	沒有:Vt	菲力:N	軟嫩:Vi	、:PAUSECATEGORY	沒有:Vt	一般:A	肋眼:N	油膩:Vi	
 但:C	油花:N	分布:Vi	均勻:Vi	、:PAUSECATEGORY	真的:ADV	越:ADV	嚼:Vt	越:ADV	有:Vt	牛肉:N	香:Vi	
 配菜紫:N	甜薯:N	泥:N	是:Vt	我:N	之前:POST	在:P	西:N	餐桌:N	上:POST	比:P	較少:Vi	看到:Vt	的:T	角色:N	
 綿密:Vi	的:T	口感:N	和:C	甜味:N	都:ADV	與:P	牛排:N	十分:ADV	相配:Vi	
 吃完:Vt	主菜:N	後:POST	
-9:DET	侍者:N	先:ADV	送上:Vt	一:DET	小:Vi	口:N	":FW	小玉:N	西瓜:N	冰沙:N	":FW	
+侍者:N	先:ADV	送上:Vt	一:DET	小:Vi	口:N	":FW	小玉:N	西瓜:N	冰沙:N	":FW	
 讓:Vt	大家:N	清:N	舌頭:N	
-9:DET	然後:ADV	就是:C	真正:A	的:T	甜點:N	":FW	黑莓:N	冰淇淋:N	佐:Vt	檸檬:N	脆酥:N	與:C	香橙花:N	奶油:N	":FW	
+然後:ADV	就是:C	真正:A	的:T	甜點:N	":FW	黑莓:N	冰淇淋:N	佐:Vt	檸檬:N	脆酥:N	與:C	香橙花:N	奶油:N	":FW	
 這:DET	甜點:N	的:T	主色:N	本來:ADV	就:ADV	是:Vt	較:ADV	獲:Vt	女性:N	喜愛:Vt	的:T	粉紅色:N	
 再:ADV	搭上:Vt	那:DET	糖片:N	
 更:ADV	顯:Vt	夢幻:N	
-9:DET	內容物:N	有:Vt	冰淇淋:N	、:PAUSECATEGORY	水果:N	、:PAUSECATEGORY	奶油:N	、:PAUSECATEGORY	餅乾:N	碎片:N	和:C	糖片:N	
+內容物:N	有:Vt	冰淇淋:N	、:PAUSECATEGORY	水果:N	、:PAUSECATEGORY	奶油:N	、:PAUSECATEGORY	餅乾:N	碎片:N	和:C	糖片:N	
 口感:N	豐富:Vt	多:DET	層:M	
 味道:N	部分:DET	
 橙花:N	奶油:N	酸甜:Vi	爽口:Vi	
