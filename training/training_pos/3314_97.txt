@@ -1,0 +1,29 @@
+guessworld:FW	(:PARENTHESISCATEGORY	奶油:N	不:ADV	飛:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	咖啡:N	黑潮:N	
+MonJul:FW	1421:DET	::COLONCATEGORY	57:DET	::COLONCATEGORY	272014:DET	圖文:N	網誌版:N	請:Vt	點:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	guessworld.pixnet.net/blog/post:FW	/:FW	40895044:DET	
+店名:N	：:COLONCATEGORY	咖啡:N	黑潮:N	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2357:DET	-:DASHCATEGORY	0018:DET	地址:N	：:COLONCATEGORY	台北市:N	和平東路:N	一段:N	141巷:N	9:DET	-:DASHCATEGORY	1:DET	號:M	營業:Nv	時間:N	：:COLONCATEGORY	13:DET	::COLONCATEGORY	00:DET	
+0:DET	::COLONCATEGORY	00:DET	消費:N	日期:N	：:COLONCATEGORY	May:FW	242014:DET	偶爾:ADV	從:P	師大:N	往:P	永康街:N	去:ADV	
+也:ADV	經過:Vt	咖啡:N	黑潮:N	好幾:DET	次:M	
+某:DET	次:M	剛好:ADV	看到:Vt	有:Vt	人:N	推薦:Vt	
+看起來:ADV	蛋糕:N	好像:ADV	挺:ADV	不錯:Vi	
+就:ADV	約:Vt	了:ASP	朋友:N	來:ADV	
+位置:N	不:ADV	算:Vt	多:Vi	
+我們:N	剛好:ADV	去:ADV	有:Vt	兩:DET	個:M	位置:N	
+位置:N	略:ADV	有點:ADV	擠:Vi	
+黑潮:N	冰茶:N	
+$:FW	120:DET	
+我:N	點:Vt	了:ASP	黑潮:N	冰茶:N	
+記得:Vt	好像:ADV	是:Vt	雪碧:N	加:Vt	紅茶:N	
+普通:Vi	
+味道:N	有點:ADV	稀:Vi	
+貝禮詩奶酒熱:N	可可:N	
+藍莓:N	威士忌:N	派:Vt	
+$:FW	150:DET	
+藍莓:N	派:Vt	味道:N	不:ADV	壞:Vt	
+但:C	就是:C	沒有:Vt	wooloomooloo:FW	來得:ADV	清爽:Vi	可口:Vi	
+美式:A	胡蘿蔔:N	蛋糕:N	
+$:FW	135:DET	
+胡蘿蔔:N	有點:ADV	太:ADV	乾:Vi	與:C	甜:Vi	
+剛好:ADV	當天:N	都:ADV	沒有:ADV	看到:Vt	一:ADV	開始:Vt	查:Vt	食:Vt	記:N	時:POST	中意:Vt	的:T	口味:N	
+點:Vt	的:T	兩:DET	個:M	蛋糕:N	也:ADV	有點:ADV	不如:Vt	預期:N	
+因此:C	頗:ADV	失望:Vi	的:T	

@@ -1,0 +1,51 @@
+weiyu:FW	0331:DET	(:PARENTHESISCATEGORY	男孩:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	東區:N	忠孝:N	敦化:N	麵屋:N	武藏:N	虎嘯:N	拉麵:N	
+FriJul:FW	1120:DET	::COLONCATEGORY	02:DET	::COLONCATEGORY	062014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	虎嘯:N	
+消費:N	時間:N	：:COLONCATEGORY	103:DET	/:FW	7:DET	
+東區:N	美食:N	、:PAUSECATEGORY	忠孝:N	敦化:N	巷弄:N	人氣:N	拉麵:N	－:DET	不:ADV	排隊:Vi	吃:Vt	不:ADV	到:Vt	的:T	《:PARENTHESISCATEGORY	麵屋:N	武藏:N	》:PARENTHESISCATEGORY	忠孝:N	虎嘯店:N	
+&:FW	lt:FW	;:SEMICOLONCATEGORY	好讀:Vt	圖文:N	…:ETCCATEGORY	&:FW	gt:FW	;:SEMICOLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	weiyu0331.pixnet.net/blog/post:FW	/:FW	377572994:DET	
+今日:N	是:Vt	盛夏:N	拉麵:N	時光:N	
+不要:ADV	沒:ADV	看:Vt	字:N	亂念:Vt	就:ADV	會:ADV	變成:Vt	剩下:Vt	拉麵:N	
+今天:N	Ethan:FW	朋友:N	帶:Vt	我:N	來到:Vt	東區:N	巷弄:N	找找:Vt	美味:Vi	
+位於:Vt	東區:N	人氣:N	指標:N	216巷:N	中:N	的:T	
+麵屋:N	武藏:N	
+果然:ADV	是:Vt	值得:Vi	來:ADV	朝聖:Vi	一下:N	
+我:N	有時候:ADV	都:ADV	覺得:Vt	自己:N	很:ADV	幸運:Vi	
+每:DET	次:M	只要:C	一:ADV	進去:Vi	開始:POST	吃:Vt	
+外面:N	就:ADV	會:ADV	突然:ADV	大排長龍:Vi	
+偷偷:ADV	問:Vt	了:ASP	一下:N	門口:N	的:T	人:N	都:ADV	等:Vt	了:ASP	30:DET	分鐘:M	以上:POST	
+這:DET	個:M	故事:N	告訴:Vt	我們:N	吃飯:Vi	的:T	時辰:N	到底:ADV	是:Vt	一:DET	件:M	多:ADV	重要:Vi	的:T	事情:N	
+認真:Vi	
+麵屋:N	武藏:N	
+忠孝:N	虎嘯店:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	四段:N	216巷:N	11弄:N	4:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8771:DET	-:DASHCATEGORY	9222:DET	
+時間:N	：:COLONCATEGORY	1130:DET	-:DASHCATEGORY	2200:DET	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.m634.com.tw/index.aspx:FW	
+捷運:N	：:COLONCATEGORY	板南線:N	忠孝:N	敦化:N	3:DET	號:M	出口:Nv	
+店家:N	不:ADV	算:Vt	大:Vi	
+不過:C	因為:C	上菜:Vi	速度:N	超級:A	快:Vi	
+所以:C	其實:ADV	也:ADV	不用:ADV	擔心:Vt	會不會:ADV	在:P	門:N	外:N	等上:Vt	太:ADV	久:Vi	的:T	時間:N	
+想:Vt	吃:Vt	就:ADV	在:P	門口:N	等等:POST	吧:T	
+來:ADV	看看:Vt	餐廳:N	的:T	部分:DET	
+外面:N	是:Vt	偏:Vt	長型:N	的:T	吧台:N	
+裡面:N	則:ADV	是:Vt	有:Vt	方桌:N	的:T	用餐區:N	
+接著:ADV	到:Vt	了:ASP	菜單:N	的:T	部分:DET	
+選擇:Vt	不:ADV	算:Vt	多:Vi	
+但:C	都:ADV	是:Vt	重點:N	選項:N	
+如果:C	怕:Vt	吃:Vt	不:ADV	飽:Vi	的:T	朋友:N	也:ADV	有:Vt	提供:Vt	一些:DET	小:Vi	點心:N	的:T	單點:N	哦:T	
+另外:C	店員:N	也:ADV	會:ADV	推薦:Vt	特價:N	的:T	活動:N	料理:N	
+【:PARENTHESISCATEGORY	虎嘯:N	白虎:N	拉麵:N	】:PARENTHESISCATEGORY	$:FW	300:DET	
+店員:N	會:ADV	讓:Vt	你:N	選:Vt	湯:N	底:POST	要:ADV	濃郁:Vi	還是:ADV	清:Vi	一點:ADV	
+但是:C	選:Vt	了:ASP	清淡:Vi	怎麼:ADV	還是:ADV	有:Vt	種:M	很:ADV	鹹:Vi	的:T	感覺:N	
+當然:ADV	店家:N	說:Vt	就:ADV	是:Vt	比較:ADV	道地:Vi	
+配上:Vt	加:Vt	麵:N	不用:ADV	錢:N	的:T	大:Vi	優惠:Nv	
+真的:ADV	吃:Vt	超飽:Vi	
+順便:ADV	來:Vi	特寫:N	一下:N	從來:ADV	沒:ADV	吃:Vt	過:ASP	的:T	超級:A	大:Vi	塊:M	肉:N	
+每:DET	次:M	只要:C	想到:Vt	吃:Vt	拉麵:N	可以:ADV	吃到:Vt	這麼:ADV	大:Vi	塊:M	的:T	肉:N	
+就:ADV	覺得:Vt	一定:ADV	要:ADV	再:ADV	來:ADV	光顧:Vt	一:DET	次:M	才:ADV	行:Vi	
+【:PARENTHESISCATEGORY	虎嘯:N	黑虎:N	拉麵:N	】:PARENTHESISCATEGORY	$:FW	300:DET	
+黑虎:N	也:ADV	是:Vt	網路:N	上:N	大:Vi	推:Vt	的:T	選項:N	之:T	一:DET	
+有:Vt	一:DET	種:M	小:Vi	墨魚:N	的:T	感覺:N	
+整:DET	個:M	敲菊:N	好:ADV	粗:Vi	

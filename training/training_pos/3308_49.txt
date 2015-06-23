@@ -1,0 +1,88 @@
+attfunj(fuku:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	稻庭:N	養助:N	稻庭:N	餛:b	純:Vi	專賣店:N	秋田:N	烏龍麵:N	
+SatJul:FW	1215:DET	::COLONCATEGORY	40:DET	::COLONCATEGORY	362014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	稻庭:N	養助:N	稻庭:N	餛:b	純:Vi	專賣店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	
+地址:N	：:COLONCATEGORY	台北市:N	松江路:N	54:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2541:DET	-:DASHCATEGORY	5656:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	日:N	::COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	30:DET	，:COMMACATEGORY	夜:N	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	400:DET	-:DASHCATEGORY	600:DET	元:M	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	烏龍:N	冷:Vi	麵:N	，:COMMACATEGORY	沾:Vt	麵:N	，:COMMACATEGORY	毛豆:N	丸子:N	甜點:N	
+無:Vt	音樂:N	圖文:N	網誌:N	好讀:Vt	版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	yumekanau.pixnet.net/blog/post:FW	/:FW	155297331:DET	
+天皇:N	御用:A	干餛:N	純:Vi	
+在:P	日本:N	
+餛純:N	
+的:T	日文:N	發音:N	
+う:FW	ど:FW	ん:FW	
+udon:FW	
+也:ADV	就是:C	是:Vt	烏龍麵:N	的:T	意思:N	
+但:C	有別於:Vt	其他:DET	商品:N	
+佐藤:N	養:Vt	助:Vt	商店:N	以:P	
+稻庭干餛:N	純:Vi	
+命名:Vt	
+秋田縣:N	稻田:N	餛純:N	為:P	日本:N	三:DET	大:Vi	烏龍麵:N	之:T	一:DET	
+並:C	被:P	指定為:Vt	進貢宮:N	內廳:N	天皇:N	的:T	御用:A	之:T	麵:N	
+看:Vt	了:ASP	介紹:N	後:POST	
+才:ADV	知道:Vt	他:N	這麼:ADV	厲害:Vi	
+果真:ADV	味道:N	也:ADV	很:ADV	好:Vi	
+可:ADV	供:Vt	選擇:Vt	的:T	菜單:N	還:ADV	滿多:Vi	
+我:N	就:ADV	附上:Vt	幾:DET	張:M	
+我:N	有點:ADV	的:T	菜單:N	
+這:DET	道:M	菜:N	好:ADV	有趣:Vi	
+叫:Vt	
+随:b	便:ADV	
+還是:C	人氣:N	料理:N	
+有:Vt	天:M	婦羅:N	
+溫:N	冷:Vi	烏龍:N	麵:N	都:ADV	可以:ADV	吃:Vt	得到:Vt	
+店:N	內:N	的:T	環境:N	還:ADV	滿:ADV	寬敞:Vi	的:T	
+都:ADV	是:Vt	小:Vi	包廂:N	
+我們:N	二:DET	個人用餐:N	
+給:Vt	我們:N	好:Vi	大:Vi	一:DET	個:T	榻榻米:N	空間:N	
+上菜:Vi	囉:T	
+我:N	點:Vt	的:T	是:Vt	當:P	季鮮茹:N	沾:Vt	麵:N	
+430:DET	元:M	
+很:ADV	好吃:Vi	
+第一:DET	次:M	吃到:Vt	這:DET	種:M	口感:N	的:T	烏龍麵:N	
+想到:Vt	我:N	以前:N	到底:ADV	是:Vt	吃到:Vt	什麼:DET	烏龍麵:N	呢:T	
+好:Vi	Q:FW	彈:Vt	
+好:ADV	細緻:Vi	的:T	麵體:N	
+也:ADV	很:ADV	滑:Vi	口:N	
+是:Vt	很:ADV	高級:Vi	的:T	味道:N	
+沒想到:ADV	簡單:Vi	的:T	烏龍:N	麵:N	也:ADV	能:ADV	這麼:ADV	好吃:Vi	
+漬物:N	也:ADV	很:ADV	好吃:Vi	
+可以:ADV	中和:Vi	有點:ADV	偏:Vt	鹹:Vi	的:T	沾:Vt	麵湯:N	底:POST	
+朋友點:N	的:T	明:Vi	太子:N	溫玉:N	冷:Vi	烏龍麵:N	
+這:DET	是:Vt	夏季:N	的:T	新:Vi	菜色:N	
+他:N	也:ADV	直:ADV	說好:Vt	好吃:Vi	
+有:Vt	回到:Vt	日本:N	的:T	感覺:N	
+香蕉:N	蜂蜜:N	奶酪:N	
+80:DET	元:M	
+香蕉:N	上:N	配上:Vt	微微:A	的:T	焦糖:N	很:ADV	美味:Vi	
+奶酪:N	很:ADV	香:Vi	濃滑:Vi	嫩:Vi	
+毛豆:N	丸子:N	黑:Vi	糖蜜:N	佐:Vt	季節:N	果物:N	
+120:DET	元:M	
+我:N	一直:ADV	很:ADV	喜歡:Vt	吃:Vt	毛豆:N	丸子:N	
+ず:FW	ん:FW	だ:FW	も:FW	ち:FW	
+毛豆:N	丸子:N	是:Vt	仙台:N	有名:Vi	的:T	名物:N	
+之前:N	去:Vt	過:ASP	有:Vt	去:ADV	吃:Vt	
+我:N	很:ADV	喜歡:Vt	
+沒想到:ADV	毛豆:N	可以:ADV	做成:Vt	甜點:N	的:T	這麼:ADV	好吃:Vi	
+但是:C	第一:DET	次:M	是:Vt	在:P	長:Vi	野:Vi	一:DET	家:M	看起來:ADV	很:ADV	古樸:Vi	的:T	和:P	菓子店:N	吃:Vt	到:P	的:T	
+還好:ADV	有:Vt	日本:N	友人:N	介紹:Vt	
+不然:C	還:ADV	真:ADV	得:ADV	有:Vt	不:ADV	知道:Vt	有:Vt	美味:Vi	的:T	和:C	菓子:N	
+這裡:N	的:T	毛豆:N	丸子:N	也:ADV	好吃:Vi	哦:T	
+QQ:FW	的:T	丸子:N	配上:Vt	清爽:Vi	的:T	毛豆:N	好好:Vi	食:Vt	哦:T	
+看看:Vt	這:DET	芭藥:N	的:T	刀工:N	
+也:ADV	太:ADV	厲害:Vi	了:T	吧:T	
+整:DET	個:M	吃下來:Vi	的:T	感想:N	是:Vt	
+真:ADV	得:ADV	好吃:Vi	
+很:ADV	高雅:Vi	的:T	烏龍麵:N	
+雖然:C	價錢:N	有點:ADV	小:Vi	貴:Vi	
+但是:C	我:N	覺得:Vt	吃:Vt	了:ASP	後:POST	
+就:ADV	會:ADV	發現:Vt	他:N	稍微:ADV	偏:Vt	高價:N	的:T	原因:N	了:T	
+服務:Nv	也:ADV	很:ADV	好:Vi	
+用餐:Vi	完畢:Vi	才:ADV	發現:Vt	
+這:DET	入門:Vi	的:T	裝飾:Nv	地板:N	好:ADV	特別:Vi	
+秋田縣稻庭町:N	的:T	地圖:N	
+好:ADV	用心:Vi	

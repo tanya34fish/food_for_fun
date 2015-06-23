@@ -1,0 +1,99 @@
+spu70903(sPu:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	萬華:N	必:ADV	吃:Vt	極品:N	":FW	紅燒肉:N	":FW	-:DASHCATEGORY	周:N	記:Vt	肉粥:N	
+SunJul:FW	1303:DET	::COLONCATEGORY	55:DET	::COLONCATEGORY	212014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	周:N	記:Vt	肉粥:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	萬華區:N	廣州街:N	104:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23025588:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	06:DET	::COLONCATEGORY	00:DET	~:FW	16:DET	::COLONCATEGORY	50:DET	
+平均:Vi	價位:N	：:COLONCATEGORY	100:DET	~:FW	200:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	肉粥:N	、:PAUSECATEGORY	紅燒肉:N	、:PAUSECATEGORY	粉腸:N	
+請:Vt	享用:Vt	圖:N	多:ADV	好:Vi	閱讀:Vt	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sputravel.pixnet.net/blog/post:FW	/:FW	155491257:DET	
+假日:N	總是:ADV	會:ADV	睡:Vi	到:P	超過:Vt	中午:N	
+這:DET	時候:N	最:ADV	適合:Vi	來:ADV	造訪:Vt	這:DET	家:M	周:N	記:Vt	肉粥:N	了:T	
+是:Vt	我:N	最愛:N	也:ADV	最:ADV	推薦:Vt	的:T	中:N	
+式:N	早餐店:N	
+西式:A	的:T	話:N	我:N	推:Vt	LOCOFOOD:FW	樂:N	口福:N	
+周:N	記:Vt	肉粥:N	就:ADV	位於:Vt	廣州街:N	上:N	
+附近:N	有:Vt	龍山寺:N	
+對面:N	就:ADV	是:Vt	剝皮:Vi	寮:N	
+有:Vt	著:ASP	相當:ADV	濃郁:Vi	的:T	老街:N	氣息:N	
+看看:Vt	這:DET	大排長龍:Vi	的:T	人潮:N	↓:FW	↓:FW	↓:FW	
+不過:C	造訪:Vt	了:ASP	N:FW	次:M	的:T	經驗:N	
+店:N	內:N	內:N	用:Vt	的:T	位子:N	相當:ADV	足夠:Vi	
+到:P	很少:ADV	有:Vt	出現:Vi	需要:Vt	排隊:Vi	的:T	時候:N	
+店:N	內:N	的:T	用餐:Nv	環境:N	
+牆:N	上:N	的:T	菜單:N	
+以及:C	今天:N	點:Vt	了:ASP	哪些:DET	好:Vi	料:N	的:T	
+小菜:N	的:T	價格:N	從:P	30:DET	
+80:DET	不等:POST	
+9:DET	推薦:Vt	一定:A	要點:N	紅燒肉:N	啊:T	
+店:N	門口:N	的:T	老闆:N	工作區:N	
+一:DET	碗碗:DET	的:T	肉粥:N	
+好:ADV	誘人:Vi	阿:N	
+餐點:N	很:ADV	快:Vi	就:ADV	上:Vt	齊:Vi	啦:T	
+讓:Vt	我:N	來:ADV	好好:Vi	跟:P	大家:N	介紹:Vt	吧:T	
+好吃:Vi	的:T	美食:N	介紹:Vt	起來:ASP	總是:ADV	特別:Vi	來勁:Vi	XDDD:FW	
+首先:ADV	當然:ADV	是:Vt	這邊:N	的:T	招牌:N	─:FW	肉粥:N	
+這邊:N	的:T	肉:N	粥湯:N	相當:ADV	多:Vi	
+飯:N	也:ADV	不會:ADV	煮:Vt	得:T	像:Vt	一般:A	的:T	粥:N	這麼:ADV	爛:Vi	
+照片:N	可以:ADV	看:Vt	的:T	出來:Vi	還:ADV	粒粒:DET	分明:Vi	↓:FW	↓:FW	↓:FW	但:C	加上:Vt	肉湯:N	的:T	提味:N	加上:Vt	蝦咪:N	、:PAUSECATEGORY	豆皮:N	等:POST	配料:N	的:T	組合:Nv	
+簡:N	
+直:ADV	是:Vt	完美:Vi	阿:N	
+我:N	最愛:N	七:DET	分:M	湯:N	、:PAUSECATEGORY	三:DET	分:Vt	米:M	的:T	吃法:N	
+配上:Vt	這些:DET	經典:N	小菜:N	
+瞧:Vt	我:N	口:N	水流:N	的:T	
+再:ADV	來:ADV	這:DET	個:M	更:ADV	是:Vt	經典:N	一絕:N	了:T	
+這:DET	絕對:ADV	是:Vt	石布:N	要:ADV	極力:ADV	推薦:Vt	
+吃:Vt	過:ASP	最:ADV	厲害:Vi	的:T	":FW	紅燒肉:N	":FW	就:ADV	屬:Vt	這:DET	間:M	
+了:T	
+看:Vt	這:DET	金黃色:N	的:T	脆皮:N	
+炸:Vt	的:T	恰到好處:Vi	
+配上:Vt	肥瘦:Nv	均勻:Vi	的:T	紅燒肉:N	
+咬:Vt	一口:ADV	
+從:P	酥脆:Vi	的:T	表皮:N	
+咬到:Vt	肉:N	時:POST	才:ADV	覺得:Vt	配上:Vt	一:DET	塊:M	肥瘦:Nv	均勻:Vi	的:T	五花肉:N	有:Vt	多:ADV	重要:Vi	
+Q:FW	彈:Vt	的:T	肉:N	
+香:Vi	四散:Vi	
+比:P	一般:A	常:ADV	看到:Vt	的:T	乾乾:Vi	的:T	紅燒:Nv	後:POST	好吃:Vi	幾百:DET	倍:N	
+不:ADV	蓋:Vt	你:N	
+嚐嚐:Vt	看:ASP	你:N	就:ADV	知道:Vt	啦:T	
+再:ADV	來:ADV	是:Vt	很少:ADV	看見:Vt	的:T	粉腸:N	
+粉腸:N	有:Vt	兩三:DET	種:M	
+這:DET	種:M	粉色:N	是:Vt	比較:ADV	少見:Vi	的:T	
+但:C	也:ADV	是:Vt	我:N	這:DET	宜蘭:N	囝仔:N	特:ADV	
+別:ADV	愛:Vt	點:Vt	的:T	一味:ADV	
+這邊:N	的:T	粉腸:N	也:ADV	很:ADV	好吃:Vi	
+口感:N	很:ADV	類似:Vt	香腸:N	
+雖然:C	沒:Vt	香腸:N	彈:Vt	牙:N	卻:ADV	更:ADV	保留:Vt	豬肉:N	的:T	原味:N	
+下:Vt	飯:N	的:T	好:Vi	
+選擇:Vt	
+接下來:ADV	這:DET	比較:ADV	特別:Vi	
+是:Vt	竹筍:N	尖:Vi	
+以往:N	造訪:Vt	時:POST	總是:ADV	看:Vt	的:T	到:P	這:DET	道:M	菜:N	點:N	不:ADV	到:Vt	
+大概:ADV	賣:Vt	太:ADV	好:Vi	量:N	又:ADV	少:Vi	
+吧:T	
+這:DET	次:M	來:Vi	的:T	時候:N	運氣:N	還:ADV	不:ADV	賴:Vt	
+點:N	來:ADV	嚐:Vt	鮮:Vi	看看:Vt	
+跟:P	竹筍:N	、:PAUSECATEGORY	筊白筍:N	都:ADV	不:ADV	太:ADV	一樣:Vi	
+竹:N	筍尖:N	更:ADV	嫩:Vi	
+整:DET	根:M	拿起來:Vi	沾:Vt	著:ASP	沙拉:N	啃:Vt	還:ADV	真是:ADV	一:DET	大:Vi	享受:Vt	
+最後:N	是:Vt	這:DET	石:M	布:N	吃:Vt	黑白:A	切:Vt	常:ADV	點:Vt	的:T	鯊魚:N	煙:N	
+看:Vt	這:DET	紋路:N	就:ADV	知道:Vt	也:ADV	是:Vt	不錯:Vi	吃:Vt	的:T	美食:N	小菜:N	之:T	一:DET	
+這:DET	頓:M	早:Vi	午餐:N	可:ADV	說:Vt	相當:ADV	豐盛:Vi	
+每每:ADV	吃到:Vt	好吃:Vi	料理:N	就:ADV	會:ADV	大開:Vt	胃:N	的:T	石布:N	
+今天:N	一口氣:ADV	就:ADV	吃:Vt	了:ASP	三:DET	碗:M	
+肉粥:N	阿:N	
+大概:ADV	太:ADV	久:Vi	沒:ADV	嘗到:Vt	這:DET	心愛:A	的:T	愛:Nv	店:N	
+食慾:N	全開:Vi	了:T	吧:T	
+誰:N	叫:Vt	這:DET	肉:N	粥:N	+:FW	紅燒肉:N	+:FW	小菜:N	的:T	組合:Nv	這麼:ADV	銷:Vt	
+魂:N	呢:T	
+這邊:N	肉粥:N	一:DET	碗:M	是:Vt	15:DET	$:FW	
+而:C	小菜:N	則:ADV	是:Vt	每:DET	個:M	品:N	項:N	不:ADV	太:ADV	一樣:Vi	
+今天:N	點:Vt	這些:DET	總共:ADV	是:Vt	250:DET	$:FW	
+CP:FW	中等:A	
+但:C	美味:Vi	無敵:Vi	啦:T	
+來:ADV	N:FW	次:M	了:T	還是:ADV	會:ADV	一直:ADV	來:Vi	的:T	":FW	周:N	記:Vt	肉粥:N	":FW	
+推薦給:Vt	大家:N	唷:T	
+如果:C	覺得:Vt	文章:N	不錯:Vi	記得:Vt	點:Vt	石布:N	的:T	粉絲團:N	支持:Vt	一下:N	唷:T	
+^:FW	0:DET	^:FW	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/sputravel:FW	

@@ -1,0 +1,103 @@
+chuantina:FW	(:PARENTHESISCATEGORY	一:DET	朵:M	小:Vi	桃紅:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	鄰居:N	家:N	。:PERIODCATEGORY	招牌:N	手拍:N	漢堡:N	排:Vt	，:COMMACATEGORY	好:ADV	好吃:Vi	！:EXCLAMATIONCATEGORY	
+FriJul:FW	1109:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	492014:DET	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	376924211:DET	
+鄰居:N	家:N	NEXTDOOR:FW	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	6月:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23967001:DET	
+店址:N	：:COLONCATEGORY	台北市:N	大安區:N	永康街:N	2巷:N	9:DET	號:M	
+捷運:N	東門:N	站:Vi	5:DET	號:M	出口:Nv	
+營業:Nv	時間:N	：:COLONCATEGORY	平日:N	AM:FW	9:DET	：:COLONCATEGORY	00:DET	
+22:DET	：:COLONCATEGORY	00:DET	
+假日:N	AM:FW	8:DET	：:COLONCATEGORY	00:DET	
+22:DET	：:COLONCATEGORY	00:DET	
+以前:N	到:Vt	東門:N	站:Vi	享用:Vt	早:Vi	午餐:N	
+第一:DET	個:M	聯想到:Vt	的:T	通常:ADV	都:ADV	是:Vt	EatingTime:FW	居多:Vi	
+不過:C	現在:N	類似:Vt	的:T	店家:N	宛如:Vt	雨後春筍:N	般:POST	快速:Vi	地:T	蓬勃:Vi	發展:Vt	
+對:P	消費者:N	來:ADV	說:Vt	
+可以:ADV	選擇:Vt	的:T	店家:N	就:ADV	又:ADV	更:ADV	豐富:Vt	囉:T	
+鄰居:N	家:N	
+一:DET	間:M	名字:N	聽起來:ADV	親切:Vi	又:ADV	備感:Vt	溫馨:Vi	的:T	美式:A	餐廳:N	
+大門:N	豔:Vi	藍藍:Vi	的:T	蒂芬妮:N	色澤:N	
+顏色:N	看起來:ADV	相當:ADV	活潑:Vi	而:C	有:Vt	朝氣:N	
+環境:N	營造出:Vt	嬉:Vi	哈:ADV	的:T	美式:A	風格:N	
+牆:N	上:POST	也:ADV	可以:ADV	看到:Vt	不少:DET	的:T	彩色:A	塗鴨:N	呦:b	
+假日:N	時:POST	並:ADV	不:ADV	提供:Vt	訂位:Vi	的:T	服務:Nv	
+抵達:Vt	時:POST	
+餐廳:N	已:ADV	是:Vt	滿滿:Vi	的:T	用餐:Nv	人潮:N	了:T	
+我們:N	可是:C	等:Vt	了:ASP	好:Vi	一會兒:N	才:ADV	有:Vt	位置:N	坐:Vi	呢:T	
+還好:Vi	東門:N	附近:N	還:ADV	有:Vt	些:M	特色:N	小店:N	可以:ADV	閒逛:Vi	
+索性:ADV	先:ADV	到:Vt	附近:N	的:T	商家:N	轉轉:Vt	再:ADV	過來:Vi	吧:T	
+結果:ADV	走出:Vt	門口:N	不:ADV	到:Vt	10:DET	分鐘:M	
+電話:N	立馬:N	鈴鈴:ADV	作響:Vi	
+不:ADV	逛:Vt	小店:N	沒關係:Vi	
+當然:ADV	還是:ADV	吃:Vt	Brunch:FW	比較:ADV	重要:Vi	啦:T	
+所有:DET	的:T	位置:N	
+就:ADV	屬:Vt	倚:Vt	窗:N	的:T	沙發椅:N	最:ADV	得:Vt	我們:N	青睞:Vi	了:T	
+不過:C	一:DET	次:M	只:ADV	能:ADV	容納:Vt	兩:DET	組:M	人馬:N	
+想:Vt	坐:Vi	可:ADV	得:ADV	看:Vt	運氣:N	呀:T	
+初:ADV	來:Vi	鄰居:N	家:N	
+主要:ADV	是:Vt	為了:P	早:Vi	午餐:N	而:C	造訪:Vt	
+不過:C	它:N	提供:Vt	的:T	餐點:N	其實:ADV	還:ADV	挺:ADV	多元化:Vt	的:T	
+開胃菜:N	、:PAUSECATEGORY	沙拉:N	、:PAUSECATEGORY	漢堡:N	、:PAUSECATEGORY	PIZZA:FW	、:PAUSECATEGORY	義大利麵:N	
+還:ADV	有:Vt	重:Vt	口味:N	的:T	墨西哥:N	捲:Vt	餅:N	
+有:Vt	聽聞:Vt	它們:N	家:N	的:T	漢堡:N	排肉:N	口碑:N	不錯:Vi	
+吃:Vt	貨:N	如:P	我:N	當然:ADV	一:ADV	開始:Vt	就:ADV	鎖定:Vt	它:N	了:T	XD:FW	
+裡面:N	小型:N	的:T	包廂:N	有:Vt	好幾:DET	個:M	
+連:C	地下室:N	還:ADV	備有:Vt	一:DET	個:M	大型:N	的:T	活動:N	空間:N	
+像:Vt	是:Vt	大型:N	聚會:N	、:PAUSECATEGORY	朋友:N	間:POST	的:T	小:Vi	Party:FW	
+都:ADV	還:ADV	蠻:ADV	適合:Vi	在:P	這兒:N	舉辦:Vt	的:T	：:COLONCATEGORY	
+漢堡:N	排日:N	不:ADV	落:Vi	
+NT:FW	.:PERIODCATEGORY	270:DET	元:M	
+日:N	不:ADV	落:Vi	其實:ADV	就:ADV	是:Vt	班尼迪克:N	蛋:N	
+這:DET	名字:N	取得:Vt	還:ADV	真是:ADV	逗趣:Vi	又:ADV	有意思:Vi	
+多:DET	些:M	小:Vi	創意:N	
+生活:N	瞬間:N	增添:Vt	一:DET	抹:M	開心:Vi	色彩:N	
+小:Vi	地方:N	也:ADV	可以:ADV	有:Vt	大大:Vi	的:T	歡樂感:N	：:COLONCATEGORY	
+除了:P	兩:DET	顆:M	水波蛋:N	
+其它:DET	食材:N	有:Vt	薯條:N	、:PAUSECATEGORY	沙拉:N	及:C	英式:A	馬芬:N	
+特別:Vi	值得:Vi	一:ADV	提:Vt	的:T	是:Vt	
+馬芬:N	中:POST	夾:Vt	的:T	可是:C	很:ADV	少見:Vi	的:T	漢堡:N	排:Vt	呦:b	
+吃:Vt	過:ASP	這麼多:DET	家:M	Brunch:FW	
+有:Vt	夾:Vt	牛肉:N	的:T	、:PAUSECATEGORY	火腿:N	、:PAUSECATEGORY	鮮蝦:N	、:PAUSECATEGORY	鮭魚:N	
+但:C	這:DET	還是:ADV	我:N	是:Vt	第一:DET	次:M	吃到:Vt	佐:Vt	漢堡肉:N	的:T	
+新鮮感:N	滿分:N	
+但:C	盤子:N	實在:ADV	太:ADV	大:Vi	
+在:P	組合:Nv	上:POST	就:ADV	顯得:Vt	有:Vt	些:M	空洞:Vi	囉:T	
+使用:Vt	帶:Vt	皮:N	的:T	薯條:N	
+咀嚼:Vt	起來:ASP	更:ADV	富:Vt	口感:N	
+不:ADV	油膩:Vi	的:T	簡單:Vi	調味:Vi	還:ADV	頗:ADV	討人喜歡:Vi	的:T	
+不過:C	最:ADV	讓:Vt	人:N	驚豔:Vi	的:T	還是:ADV	這:DET	個:M	漢堡:N	排:Vt	
+鮮嫩:Vi	多汁:Vi	不:ADV	說:Vt	
+連:C	香味兒:N	也:ADV	很:ADV	馥郁:Vi	
+尤其:ADV	肉塊:N	給:Vt	得:T	厚實:Vi	
+咬:Vt	在:P	嘴:N	裡:N	可是:C	超:Vt	有:Vt	滿足感:N	的:T	
+佐以:Vt	鵝蛋:N	的:T	半熟:Vi	蛋:N	液:N	則:ADV	更加:ADV	美味:Vi	啦:T	
+大:Vi	推薦:Vt	
+沙拉:N	的:T	表現:N	算:Vt	一般:A	
+不過:C	酸酸甜甜:Vi	的:T	佐醬:N	倒是:ADV	挺:ADV	有:Vt	開胃:Vi	效果:N	
+原味:N	起:POST	士:N	蛋捲:N	
+NT:FW	.:PERIODCATEGORY	260:DET	元:M	
+淋:Vt	上:POST	黃澄:N	起:Vt	士:N	的:T	蛋捲:N	
+在:P	視覺:N	效果:N	上:POST	更:ADV	是:Vt	加倍:Vi	迷人:Vi	
+可口:Vi	的:T	程度:N	可是:C	完全:ADV	不會:ADV	輸:Vt	淋上:Vt	荷蘭:N	醬汁:N	的:T	水波:N	蛋:N	呢:T	
+這:DET	就是:C	為什麼:ADV	我:N	好:ADV	愛:Vt	早:Vi	午餐:N	的:T	原因:N	
+光:ADV	是:Vt	賣:Vt	相:ADV	就:ADV	整:DET	個:M	引爆:Vt	我:N	的:T	食慾:N	啦:T	
+蛋捲:N	加:Vt	了:ASP	起:ASP	士:N	、:PAUSECATEGORY	玉米:N	、:PAUSECATEGORY	洋蔥:N	及:C	蘑菇:N	
+滋味:N	還:ADV	不錯:Vi	
+但:C	內:N	餡:N	非常:ADV	稀:Vi	
+完全:ADV	沒有:Vt	起:ASP	士:N	該:DET	有的:DET	濃稠:Nv	口感:N	
+小牛:N	表示:Vt	：:COLONCATEGORY	逼逼:Vt	
+打槍:N	XD:FW	
+在:P	早:Vi	午餐:N	的:T	部份:DET	
+皆:ADV	會:ADV	附:Vt	一:DET	杯:M	紅茶:N	豆漿:N	及:C	可:ADV	續杯:Vi	的:T	汽泡:N	飲料:N	
+不過:C	只:ADV	限:Vt	非:A	瓶裝:A	的:T	呦:b	
+像:P	圖片:N	上:N	的:T	櫻桃:N	可樂:N	就:ADV	僅有:Vt	單瓶:N	而已:T	
+想:Vt	多:ADV	喝:Vt	就:ADV	得:ADV	再:ADV	加:Vt	錢:N	囉:T	
+整體:N	來:ADV	說:Vt	
+餐點:N	的:T	表現:N	會:ADV	覺得:Vt	還可以:ADV	再:ADV	進步:Vi	一些:DET	
+不過:C	漢堡:N	排肉:N	不愧:ADV	是:Vt	它們:N	家:N	的:T	招牌:N	食材:N	
+肉嫩入味:N	
+相當:ADV	好吃:Vi	
+沒想到:ADV	加:Vt	在:P	美式:A	早:Vi	午餐會:N	這麼:ADV	對味:Vi	
+也:ADV	算是:Vt	一:DET	道:M	讓:Vt	我:N	驚豔:Vi	、:PAUSECATEGORY	且:C	回味:Vt	不已:Vi	的:T	Brunch:FW	了:T	

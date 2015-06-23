@@ -1,0 +1,97 @@
+thudadai:FW	(:PARENTHESISCATEGORY	三:DET	高:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義:N	燒肉:N	株式會社:N	
+SatJul:FW	1222:DET	::COLONCATEGORY	06:DET	::COLONCATEGORY	032014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	燒肉:N	株式會社:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松壽路:N	20:DET	號:M	2樓:N	
+營業:Nv	時間:N	：:COLONCATEGORY	AM:FW	11:DET	::COLONCATEGORY	00:DET	~:FW	PM:FW	11:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	週五:N	、:PAUSECATEGORY	週六:N	AM:FW	10:DET	::COLONCATEGORY	00:DET	~:FW	AM:FW	01:DET	::COLONCATEGORY	00:DET	):PARENTHESISCATEGORY	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	thudadai.pixnet.net/blog/post:FW	/:FW	58024731:DET	
+6月:N	底:POST	為了:P	看:Vt	剛:ADV	上映:Vt	不久:N	的:T	變形:Nv	金剛:N	四:DET	
+訂:Vt	了:ASP	信義:N	威秀:N	的:T	票:N	
+看完:Vt	給:Vt	一:DET	個:M	普評:N	
+想:Vt	說:Vt	入場:Vi	前:POST	晚餐:N	就:ADV	乾脆:Vi	在:P	威秀:N	二樓:N	這邊:N	解決:Vt	
+前:DET	陣子:N	蠻:ADV	多:Vi	人:N	提到:Vt	的:T	這:DET	間:M	燒肉:N	株式會社:N	
+想:Vt	說:Vt	也:ADV	一段:N	時間:N	沒:ADV	吃:Vt	燒肉:N	
+就:ADV	來:Vi	這邊:N	填:Vt	一下:N	肚子:N	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+現場:N	是:Vt	可以:ADV	看到:Vt	專門:Vt	人員:N	火烤:Vt	肉片:N	的:T	情景:N	
+經過:Vt	還是:ADV	會:ADV	有:Vt	香氣:N	飄出:Vi	
+櫃檯:N	點餐:N	後:POST	會:ADV	給:Vt	一:DET	個:M	百貨:N	美食街:N	用:Vt	的:T	那:DET	種:M	震動:Vt	嗶:ADV	嗶:ADV	讓:Vt	你:N	來:ADV	自取:Vt	
+大概:ADV	要:ADV	等:Vt	10:DET	
+15:DET	分鐘:M	
+我:N	覺得:Vt	座位:N	沒有:Vt	很多:DET	
+除了:P	像:Vt	是:Vt	吧檯式:N	的:T	座位:N	7:DET	
+8:DET	個:M	
+旁邊:N	還:ADV	有:Vt	一:DET	小:Vi	塊:M	區域:N	
+有:Vt	幾:DET	張:M	圓桌:N	
+我:N	就:ADV	在:P	圓桌:N	這邊:N	吃:Vt	
+拿:Vt	桌:N	上:N	的:T	菜單:N	劃一:Vt	劃:Vt	就:ADV	可以:ADV	去:ADV	買單:Vi	了:ASP	
+＜:FW	梅子:N	泡菜:N	NT:FW	$:FW	35:DET	＞:FW	
+就是:C	多:Vi	了:ASP	梅子味:N	的:T	台式:A	泡菜:N	
+酸甜:Vi	酸甜:Vi	
+其實:ADV	也:ADV	沒:Vt	什麼:DET	特別:Vi	的:T	
+可以:ADV	點:Vt	來:ADV	解膩:Vi	
+轉換:Vt	一下:N	口:N	中:N	味道:N	
+＜:FW	大:Vi	野:Vi	郎牛丼:N	NT:FW	$:FW	280:DET	＞:FW	
+除了:P	":FW	牛野郎丼:N	":FW	還:ADV	有:Vt	大:Vi	份:M	升級版:N	的:T	大:Vi	野狼:N	
+可能:ADV	是:Vt	肉:N	有:Vt	比較:ADV	多:Vi	吧:T	
+所以:C	我:N	才:ADV	點:Vt	大:Vi	野狼:N	
+有:Vt	附:Vt	喝:Vt	起來:ASP	普普:N	的:T	味噌湯:N	
+另外:C	我:N	有點:ADV	一:DET	顆:M	溫泉:N	玉子:N	
+30:DET	元:M	
+等等:POST	再:ADV	拿來:Vt	拌:Vt	進去:Vi	
+菜單:N	上:N	有:Vt	標示:N	用:Vt	的:T	是:Vt	美國:N	杉河:N	農場:N	自然:N	牛:N	
+如果:C	去:ADV	比較:ADV	高級:Vi	的:T	牛排店:N	有的:DET	就:ADV	會:ADV	標示:Vt	
+使用:Vt	的:T	是:Vt	哪:DET	個:M	農場:N	的:T	牛隻:N	云云:T	
+總之:ADV	就:ADV	是:Vt	品牌:N	
+其:DET	飼養:Vt	方式:N	多少:DET	有:Vt	些:M	自我:Vi	特色:N	
+上頭:N	給:Vt	了:ASP	不少:DET	蔥花:N	
+如果:C	這:DET	蔥花:N	是:Vt	還:ADV	保有:Vt	充足:Vi	水份:N	的:T	那:DET	當然:ADV	就:ADV	更:ADV	好了:T	
+我:N	覺得:Vt	這:DET	燒:Vt	肉片:N	還:ADV	不錯:Vi	吃:Vt	喔:T	
+部位:N	不明:Vi	
+但:C	肉味:N	是:Vt	蠻:ADV	濃厚:Vi	的:T	
+帶:Vt	點:N	嚼:Vt	勁:N	和:C	些許:DET	脂肪:N	而:C	
+無:Vt	乾澀感:N	
+刷:Vt	過:ASP	微微:A	黑糖:N	甜:Vi	的:T	烤肉醬汁:N	
+再:ADV	加上:Vt	燒烤:Vt	過後:POST	的:T	香氣:N	
+一些:DET	黑:Vi	胡椒:N	
+這樣:Vi	就:ADV	簡單:Vi	下:Vt	飯:N	了:T	
+肉食派:N	的:T	點:Vt	這:DET	大:Vi	野狼:N	丼:b	應該:ADV	是:Vt	可以:ADV	滿足:Vt	了:ASP	
+肉片:N	真的:ADV	很多:DET	
+飯:N	吃起來:ADV	也:ADV	蠻:ADV	ok:FW	的:T	
+有:Vt	摻:Vt	一些:DET	醬汁:N	在:P	裡面:N	
+還:ADV	有:Vt	甜甜:Vi	洋蔥:N	
+吃:Vt	一:DET	吃:Vt	把:P	剛剛:ADV	點:Vt	的:T	溫泉:N	蛋:N	加進去:Vt	拌:Vt	一下:N	
+這樣:Vi	多:Vi	了:ASP	滑:Vi	順:Vt	感:N	也:ADV	不錯:Vi	吃:Vt	
+＜:FW	黑醬醪沙朗丼:N	NT:FW	$:FW	280:DET	＞:FW	
+9:DET	用:Vt	的:T	是:Vt	店家:N	打:Vt	很:ADV	兇:Vi	的:T	醬醪燒:N	肉醬:N	
+查:Vt	了:ASP	一下:N	才:ADV	知道:Vt	醬醪:N	是:Vt	一:DET	種:M	混合:Vt	的:T	發酵:Nv	物質:N	
+之後:N	就是:C	把:P	熟成:Vt	的:T	醬醪:N	拿來:Vt	壓榨:Vt	醬油:N	
+那:ADV	這:DET	份:M	牛排:N	用:Vt	的:T	就是:C	黑豆:N	醬醪:N	
+上面:N	灑:Vt	了:ASP	一些:DET	大蒜:N	酥:Vi	
+還:ADV	有:Vt	黃:N	芥末醬:N	
+用:Vt	的:T	紐西蘭草:N	飼:Vt	牛:N	是:Vt	比較:ADV	低:Vi	脂:N	健康:Vi	的:T	
+口感:N	柔嫩:Vi	
+可是:C	風味:N	的:T	濃郁度:N	就:ADV	覺得:Vt	不:ADV	太:ADV	夠:Vi	了:T	
+像:P	我:N	這:DET	種:M	吃:Vt	慣重味:N	的:T	人:N	會:ADV	覺得:Vt	比較:ADV	無:Vt	感:N	
+還好:ADV	可以:ADV	配:Vt	點:M	蒜酥:N	或:C	醬汁:N	來:ADV	吃:Vt	
+至於:P	剛剛:ADV	提到:Vt	的:T	黑醬:N	醪:b	
+說真的:ADV	感覺:N	不:ADV	太:ADV	出來:Vt	用:Vt	在:P	這:DET	牛排:N	是:Vt	有:Vt	差:Vi	在:P	哪:DET	
+哈:ADV	
+兩:DET	種:M	吃起來:ADV	我:N	覺得:Vt	野郎牛丼:N	比較:ADV	合:Vt	口味:N	
+應該:ADV	說:Vt	
+比:P	預期:N	的:T	還要:ADV	好吃:Vi	
+而且:C	份量:N	多:Vi	
+醬醪:N	系列:N	就:ADV	點到:Vt	不:ADV	對味:Vi	的:T	沙朗丼:N	了:T	
+之後:N	有機:A	會會:Vt	想:Vt	再:ADV	來:ADV	吃吃:Vt	看燒豬:N	或是:C	醬醪:N	雞腿:N	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+台北:N	-:DASHCATEGORY	1:DET	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/tkUwO:FW	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+台北:N	-:DASHCATEGORY	2:DET	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/OyLdd:FW	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+桃竹苗:N	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/tYphL:FW	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+中南部:N	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/NS4i:FW	5:DET	

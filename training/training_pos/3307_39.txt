@@ -1,0 +1,267 @@
+babycarp:FW	(:PARENTHESISCATEGORY	小魚:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	howine&cafe:FW	好:Vi	酒:N	好:Vi	咖啡:N	
+FriJul:FW	1122:DET	::COLONCATEGORY	50:DET	::COLONCATEGORY	002014:DET	店名:N	：:COLONCATEGORY	HOWINE&amp:FW	;:SEMICOLONCATEGORY	CAFE:FW	
+地址:N	：:COLONCATEGORY	台北市:N	忠孝東路:N	四段:N	216巷:N	32弄:N	13:DET	號:M	1樓:N	（:PARENTHESISCATEGORY	明躍:Vi	百貨:N	後:POST	第三:DET	條:M	巷口:N	，:COMMACATEGORY	康士美:N	左轉:Vi	）:PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8771:DET	-:DASHCATEGORY	3056:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	平日:N	11:DET	::COLONCATEGORY	00:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	
+消費:N	時間:N	：:COLONCATEGORY	2014.6:DET	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.acarpblog.com/2014/06/blogger-howine.html:FW	
+這:DET	間:M	HOWINE&amp:FW	
+CAFE:FW	已經:ADV	知道:Vt	很:ADV	久:Vi	了:T	
+但:C	一直:ADV	都:ADV	沒有:Vt	機會:N	來:ADV	瞧瞧:Vt	
+這:DET	次:M	很:ADV	榮幸:Vi	接到:Vt	邀約:Vt	
+帶:Vt	了:ASP	也:ADV	喜歡:Vt	品酒:Vi	好友:N	一起:ADV	來:ADV	享用:Vt	美酒:N	與:C	美食:N	
+度過:Vt	愉快:Vi	的:T	下午茶:N	
+店名:N	
+HOWINE&amp:FW	
+CAFE:FW	
+顧名思義:ADV	就:ADV	是:Vt	有:Vt	酒:N	和:C	咖啡:N	的:T	餐廳:N	囉:T	
+也:ADV	有:Vt	早:Vi	午餐:N	、:PAUSECATEGORY	輕食:Vt	、:PAUSECATEGORY	鹹:Vi	甜點:N	、:PAUSECATEGORY	咖啡:N	飲料:N	等等:POST	
+最:ADV	特:ADV	
+別的:DET	就:ADV	是:Vt	有:Vt	紅:Vi	白酒:N	單杯:N	機:N	
+這麼:ADV	酷:Vi	的:T	設備:N	
+一定:ADV	要:ADV	來:ADV	試試:Vt	的:T	
+HOWINE&amp:FW	
+CAFE:FW	在:P	東區:N	明曜:N	百貨:N	旁邊:N	第三:DET	條:M	巷子:N	
+康:N	是:Vt	美:N	左轉:Vi	
+白色:N	潔淨:Vi	的:T	店:N	門:N	
+屋:N	外:N	有:Vt	兩:DET	張:M	小:Vi	沙發:N	座位:N	
+很:ADV	漂亮:Vi	也:ADV	很:ADV	適合:Vi	拍照:Vi	
+但是:C	夏天:N	很:ADV	熱:Vt	啦:T	
+除非:C	是:Vt	要:ADV	出來:Vi	抽菸:Vi	的:T	
+人:N	
+或是:C	晚上:N	比較:ADV	涼快:Vi	才:ADV	會:ADV	坐:Vi	這邊:N	唷:T	
+店裡:N	空間:N	不:ADV	大:Vi	
+但:C	有:Vt	挑高:Vi	讓:Vt	人:N	感覺:N	舒適:Vi	不會:ADV	有:Vt	壓迫感:N	
+牆:N	上:N	貼滿:Vt	了:ASP	各:DET	種:M	酒:N	標的:N	裝飾:Vt	木牌:N	
+很:ADV	特別:Vi	
+中間:N	是:Vt	大:Vi	長桌:N	
+好像:ADV	喝:Vt	酒:N	就:ADV	要:ADV	坐:Vi	高:Vi	腳椅:N	才:ADV	有:Vt	fu:FW	齁:b	
+HOWINE&amp:FW	
+CAFE:FW	不:ADV	定期:ADV	有:Vt	舉辦:Vt	品酒:Vi	會:ADV	
+就:ADV	在:P	這:DET	張:M	長桌:N	
+所以:C	人數:N	有:Vt	限制:N	
+詳情:N	請見:Vt	他們:N	的:T	粉絲:N	專頁:N	
+目前:N	每:DET	週五:N	晚上:N	還:ADV	有:Vt	現場:N	演唱:Vt	
+白天:N	是:Vt	可以:ADV	吃:Vt	早:Vi	午餐:N	和:C	輕食:Vt	下午茶:N	的:T	餐廳:N	
+晚上:N	就:ADV	變身:Vi	成:Vt	很:ADV	有:Vt	氣氛:N	的:T	小:Vi	酒館:N	
+稍早:N	前:POST	這邊:N	有:Vt	一:DET	桌:M	客人:N	
+所以:C	等:P	他們:N	離開:Vt	了:ASP	剛好:ADV	可以:ADV	走過來:Vi	拍:Vt	個:M	照:P	
+蠻:ADV	適合:Vi	聚會:N	的:T	地方:N	
+公司:N	午:N	后:POST	的:T	小:Vi	會議:N	也:ADV	可以:ADV	耶:T	
+感覺:N	是:Vt	讓:Vt	人:N	輕鬆:Vi	自在:Vi	
+洽談:Vt	協商:Vt	都:ADV	很:ADV	容易:Vi	成功:Vi	的:T	場所:N	
+因為:C	是:Vt	挑高:Vi	的:T	
+樓中樓:N	還:ADV	有:Vt	一些:DET	座位:N	
+這兒:N	是:Vt	舒適:Vi	的:T	沙發區:N	
+不過:C	座位:N	都:ADV	蠻:ADV	近:Vi	的:T	
+比較:ADV	適合:Vi	一:DET	群:M	人:N	包場:N	
+不然:C	隔壁:N	講:Vt	甚麼:DET	都:ADV	聽:Vt	得:T	很:ADV	清楚:Vi	囉:T	
+從:P	二樓:N	往:P	下:N	看:Vt	
+我:N	喜歡:Vt	它們:N	的:T	燈:N	
+高高低低:Vi	掛:Vt	著:ASP	
+帶:Vt	點:M	禪風:N	形狀:N	還:ADV	都:ADV	不:ADV	太:ADV	一樣:Vi	
+很:ADV	別緻:Vi	
+窗:N	邊:N	有:Vt	個:M	明亮:Vi	的:T	座位:N	
+雖然:C	豆腐形:N	的:T	小:Vi	沙發:N	是:Vt	沒有:Vt	椅背:N	的:T	
+但:C	其中:DET	一:DET	面:N	是:Vt	靠:P	牆:N	的:T	
+就:ADV	決:Vt	
+定:ADV	坐:Vi	這兒:N	了:T	
+自然:ADV	光:ADV	拍:Vt	起來:ASP	才:ADV	漂亮:Vi	呢:T	
+以下:N	是:Vt	菜單:N	的:T	部分:DET	
+早:Vi	午餐:N	有:Vt	吐司:N	先生:N	和:C	吐司:N	女士:N	
+吐司:N	女士:N	就:ADV	是:Vt	比:P	吐司:N	先生:N	多:Vi	了:ASP	半熟:Vi	松露:N	蛋:N	
+蠻:ADV	有意思:Vi	的:T	
+並且:C	附:Vt	美式:A	咖啡:N	或:C	伯爵茶:N	
+可:ADV	折抵:Vt	100:DET	元:M	更換:Vt	其他:DET	非:A	酒精:N	飲品:N	
+HOWINE&amp:FW	
+CAFE:FW	低消:N	為:Vt	一:DET	人:N	一:DET	杯:M	飲品:N	
+內:N	用:Vt	收:Vt	10:DET	%:M	服務費:N	
+店裡:N	有:Vt	提供:Vt	免費:Vi	wifi:FW	無線:A	上網:Nv	
+除了:P	吐司:N	先生:N	吐司:N	女士:N	以外:POST	的:T	選擇:N	
+有:Vt	沙拉:N	、:PAUSECATEGORY	帕里尼:N	、:PAUSECATEGORY	鬆餅:N	等等:POST	
+甜點類:N	
+看到:Vt	第一:DET	個:M	令:Vt	人:N	心動:Vi	的:T	麻糬:N	鬆餅:N	就:ADV	想:Vt	點:Vt	了:ASP	
+可是:C	後來:N	被:P	櫥窗:N	裡:N	的:T	玫瑰:N	給:Vt	吸引:Vt	立刻:ADV	變心:Vi	
+哈:ADV	
+麻糬:N	鬆餅:N	我:N	下:DET	次:M	再:ADV	來:ADV	吃:Vt	你:N	齁:b	
+乖:Vi	
+咖啡:N	巧克力:N	奶茶:N	有:Vt	夠多:Vi	種:M	好:Vi	難:Vi	選擇:Vt	
+況且:C	它們:N	家:N	還是:ADV	用:P	illy:FW	的:T	豆子:N	呢:T	
+品質:N	掛:Vt	保證:N	的:T	
+再:ADV	來:ADV	
+還:ADV	有:Vt	各:DET	式:M	好:Vi	茶:N	和:C	摩卡壺:N	單品:N	咖啡:N	
+天:N	哪:DET	選項:N	那麼多:DET	是:Vt	要:ADV	叫:Vt	人家:N	怎麼辦:Vi	
+等:P	下:DET	還:ADV	想要:Vt	喝:Vt	紅酒:N	呢:T	
+翻到:Vt	後面:N	還:ADV	有:Vt	specialmenu:FW	
+嘿嘿:ADV	
+被:P	我:N	看到:Vt	之前:POST	在:P	某:DET	間:M	店:N	沒:ADV	吃到:Vt	的:T	松露:N	薯條:N	
+心心念念:Vi	的:T	
+所以:C	這:DET	次:M	一定:A	要點:N	來:ADV	吃:Vt	了:ASP	
+在:P	店裡:N	晃來晃去:Vi	拍照:Vi	的:T	時候:N	
+看到:Vt	櫥窗:N	裡面:N	這:DET	個:M	好:ADV	漂亮:Vi	的:T	蘋果塔:N	
+馬上:ADV	就:ADV	決定:Vt	是:Vt	它:N	了:T	
+隔壁:N	的:T	烤:Vt	布蕾:N	有:Vt	可愛:Vi	的:T	容器:N	
+也:ADV	吸引:Vt	了:ASP	我:N	的:T	目光:N	
+但是:C	只:ADV	限:Vt	內:N	用:Vt	所以:C	可愛:Vi	的:T	小烤杯:N	沒辦法:Vi	
+帶走:Vt	Q_Q:FW	
+甜點櫃:N	上:N	是:Vt	整:DET	排:Vt	各:DET	款:M	紅:Vi	白酒:N	
+前面:N	都:ADV	有:Vt	清楚:Vi	的:T	標價:N	
+紫色:N	格子:N	那:DET	瓶:M	好:ADV	華麗:Vi	我:N	喜歡:Vt	^:FW	^:FW	
+餐點:N	送上:Vt	了:ASP	
+是:Vt	煙燻:A	鮭魚:N	吐司:N	女士:N	與:C	沙拉:N	NT:FW	.:PERIODCATEGORY	278:DET	
+搭配:Vt	熱:Vt	美式:A	咖啡:N	
+飲料:N	品:Vt	項:M	看:Vt	了:ASP	很:ADV	久:Vi	
+結果:ADV	還是:ADV	選擇:Vt	基本:A	款:N	的:T	
+黑:Vi	咖啡:N	才:ADV	能:ADV	喝:Vt	出:Vt	咖啡:N	的:T	好壞:N	囉:T	
+吐司:N	女士:N	和:C	沙拉:N	
+我:N	都:ADV	會:ADV	一直:ADV	講成:Vt	吐司:N	小姐:N	
+因為:C	吐司:N	女士:N	好:ADV	拗口:Vi	阿:N	XDD:FW	
+這:DET	沙拉:N	快要:ADV	跟:P	吐司:N	一樣:Vi	大:Vi	了:T	
+特製:Vt	沙拉:N	醬汁:N	搭配:Vt	新鮮:Vi	蘿蔓:N	、:PAUSECATEGORY	杏仁:N	、:PAUSECATEGORY	果:N	乾等:Vt	豐富:Vt	食材:N	
+吃起來:ADV	清爽:Vi	又:C	營養:N	健康:Vi	
+吐司:N	女士:N	上:DET	層:M	是:Vt	半熟:Vi	松露:N	蛋:N	
+不過:C	烤:Vt	得:ADV	有:Vt	些:ADV	熟:Vi	
+蛋:N	汁:N	沒有:ADV	很:ADV	濃密:Vi	地:T	流出來:Vi	
+這樣:Vi	也好:T	
+不會:ADV	沾:Vt	得:T	到處:ADV	都:ADV	是:Vt	
+它:N	還是:ADV	很:ADV	濃郁:Vi	滑嫩:Vi	的:T	口感:N	
+而且:C	松露:N	香氣:N	十足:Vi	阿:N	
+好吃:Vi	得:T	不得了:Vi	
+路易十四:N	醬汁:N	搭配:Vt	瑞士:N	格魯:N	耶:T	爾:T	起:POST	司:Vt	加上:C	燻:Vt	鮭魚:N	吐司:N	
+吐司:N	上:N	有:Vt	漂亮:Vi	的:T	條紋:N	烤痕:N	好:ADV	漂亮:Vi	
+看起來:ADV	就:ADV	十分:ADV	可口:Vi	
+接著:ADV	要:ADV	介紹:Vt	這:DET	獨特:Vi	的:T	紅:Vi	白酒:N	單杯:N	機:N	
+可:ADV	提供:Vt	十幾:DET	種:M	紅:Vi	白酒:N	的:T	單杯試飲:N	
+還:ADV	可:ADV	選擇:Vt	小:Vi	中大杯:N	的:T	份量:N	
+是:Vt	相當:ADV	貼心:Vi	的:T	設計:N	
+因為:C	一:DET	瓶:M	紅酒:N	開瓶:Vi	後:POST	如果:C	沒有:ADV	立即:ADV	喝完:Vt	
+最佳:A	賞味期:N	大概:ADV	
+三:DET	天:M	後:POST	就:ADV	會:ADV	開始:Vt	劣化:Vt	了:ASP	
+現在:N	到:P	HOWINE&amp:FW	
+CAFE:FW	可以:ADV	隨時:ADV	點:Vt	用:P	一:DET	杯:M	的:T	紅酒:N	
+而且:C	不用:ADV	自己:N	
+開:Vt	很多:DET	瓶:M	就:ADV	能:ADV	品嘗到:Vt	不同:Vi	風味:N	的:T	酒:N	
+真:ADV	是:Vt	愛酒人:N	的:T	福音:N	
+貼心:Vi	小:Vi	警語:N	：:COLONCATEGORY	飲酒:Vi	請:Vt	勿:ADV	過量:Vi	
+有:Vt	十幾:DET	款:M	紅:Vi	白酒:N	可:ADV	選擇:Vt	
+其中:DET	還:ADV	有:Vt	全球:N	百:DET	大:Vi	酒:N	款:N	的:T	第三:DET	名:M	呢:T	
+他們:N	也:ADV	是:Vt	義大利:N	第一:DET	品牌:N	
+enomatic:FW	台灣:N	唯一:A	的:T	代理商:N	
+Enomatic:FW	鮮飲機:N	可:ADV	延長:Vt	葡萄酒:N	開瓶:Vi	後:POST	的:T	壽命:N	
+在:P	可以:ADV	保存:Vt	
+21:DET	天:M	的:T	情況:N	下:POST	
+高級:Vi	酒:N	款:N	讓:Vt	大眾:N	能:ADV	輕鬆:Vi	享受:Vt	
+貼心:Vi	小:Vi	警語:N	：:COLONCATEGORY	飲酒:Vi	請:Vt	勿:ADV	過量:Vi	
+首先:ADV	插入:Vt	HOWINE&amp:FW	
+CAFE:FW	的:T	卡片:N	
+選擇:Vt	想要:Vt	的:T	酒款:N	與:C	大小杯:N	
+就:ADV	像:Vt	飲料機:N	這樣:Vi	按:Vt	著:ASP	
+就:ADV	有:Vt	一:DET	杯:M	美酒:N	可以:ADV	享用:Vt	
+最後:N	再:ADV	帶:Vt	卡:N	
+片:N	一起:ADV	結帳:Vi	就:ADV	可以:ADV	
+剛好:ADV	這:DET	杯:M	按:P	完:Vi	就:ADV	沒:Vt	了:ASP	耶:T	
+這:DET	次:M	認識:Vt	了:ASP	黑皮:N	諾:FW	這:DET	種:M	品種:N	的:T	葡萄酒:N	
+很:ADV	湊巧:Vi	最近:N	跟:P	不同:Vi	的:T	友人:N	聊:Vt	起:ASP	紅酒:N	
+他們:N	都:ADV	不約而同:ADV	地:T	欣賞:Vt	這:DET	款:M	葡萄酒:N	
+以:P	我:N	對:P	紅酒:N	淺薄:Vi	的:T	味蕾:N	感觸:N	
+就是:C	清新:Vi	莓:b	果香:N	
+然後:ADV	入口:Vi	十分:ADV	滑:Vi	順:Vi	
+不會:ADV	有:Vt	過重:Vi	的:T	單:ADV	寧:Vt	味:N	
+我:N	個:M	人:N	非常:ADV	喜歡:Vt	
+貼心:Vi	小:Vi	警語:N	：:COLONCATEGORY	飲酒:Vi	請:Vt	勿:ADV	過量:Vi	
+紅酒:N	搭配:Vt	松露:N	薯條:N	很:ADV	不:ADV	賴:Vt	
+話:N	說:Vt	這:DET	支:M	黑皮:N	諾:FW	根本:ADV	就:ADV	百:DET	搭:M	
+真的:ADV	非常:ADV	好喝:Vi	
+特製:Vt	精選:Vt	法式:A	松露:N	薯條:N	NT:FW	.:PERIODCATEGORY	280:DET	
+是:Vt	綜合:A	的:T	薯條:N	和:C	馬鈴薯:N	切:Vt	塊:M	
+上面:N	很:ADV	霸氣:Vi	地:T	給:Vt	了:ASP	很多:DET	松露:N	醬:N	
+現炸:Vi	的:T	薯條:N	好:ADV	燙:Vi	吃起來:ADV	好:ADV	過癮:Vi	
+一:DET	邊:N	喝:Vt	著:ASP	紅酒:N	真:ADV	是:Vt	一:DET	大:Vi	享受:Vt	
+另:DET	一:DET	邊:N	是:Vt	收藏:Vt	高級:Vi	酒:N	的:T	酒窖:N	
+平常:N	是:Vt	沒有:Vt	開放:Vi	參觀:Vt	的:T	
+這:DET	次:M	特別:Vi	讓:Vt	我們:N	進去:Vi	瞧瞧:Vt	
+忘:Vt	了:ASP	裡面:N	應該:ADV	是:Vt	幾:DET	度:M	C:FW	保存:Vt	的:T	
+只:ADV	覺得:Vt	好:ADV	冷:Vi	阿:N	
+高級:Vi	的:T	酒窖:N	裡面:N	有:Vt	好多:DET	高級:Vi	的:T	酒:N	
+不:ADV	知道:Vt	
+是:Vt	不:ADV	是:Vt	我:N	眼花:Vi	還:ADV	看到:Vt	金色:N	的:T	酒瓶:N	
+我:N	都:ADV	要:ADV	被:P	閃瞎:Vt	了:ASP	啦:T	
+更:ADV	高級:Vi	的:T	藏:Nv	酒:N	甚至:ADV	還:ADV	有:Vt	上鎖:Vi	
+等待:Vt	有緣人:N	來:ADV	把:P	它們:N	帶走:Vt	^:FW	^:FW	
+接著:ADV	是:Vt	甜點:N	了:T	
+選:Vt	了:ASP	甜點櫃:N	裡:N	的:T	蘋果:N	花塔:N	NT:FW	.:PERIODCATEGORY	150:DET	
+整:DET	個:M	妝點:Vt	得:T	好:ADV	漂亮:Vi	
+忍不住:Vt	一直:ADV	拍:Vt	
+除了:P	盤子:N	很:ADV	漂亮:Vi	之外:POST	
+還:ADV	加上:Vt	奶油:N	和:C	楓:N	糖漿:N	、:PAUSECATEGORY	覆盆:N	莓:b	
+果醬:N	做:Vt	點綴:Vt	
+像:P	一:DET	幅:M	畫:N	似的:POST	真:ADV	美:Vi	
+這:DET	其實:ADV	是:Vt	蘋果塔:N	
+做成:Vt	多重:A	瓣:N	層層疊疊:Vi	的:T	玫瑰花:N	
+因為:C	保留:Vt	著:ASP	紅:Vi	蘋果:N	的:T	皮:N	
+所以:C	花瓣:N	的:T	
+顏色:N	才:ADV	會:ADV	這麼:ADV	美:Vi	
+上面:N	是:Vt	麥芽糖:N	做:Vt	的:T	葉子:N	
+它:N	原本:ADV	是:Vt	完整:Vi	的:T	
+但:C	被:P	我:N	粗魯:Vi	的:T	手:N	一:ADV	碰:Vt	就:ADV	斷:Vt	了:ASP	一:DET	截:M	
+變成:Vt	枯葉:N	了:T	啦:T	
+Twingings:FW	嚴選:N	英國:N	無:Vt	咖啡因:N	茶款:N	NT:FW	.:PERIODCATEGORY	220:DET	
+熱飲:N	可:ADV	回沖:N	
+有:Vt	三:DET	款:M	可:ADV	選擇:Vt	
+我:N	選:Vt	了:ASP	熱帶:N	風情:N	
+喝:Vt	起來:ASP	是:Vt	微:ADV	酸:Vi	的:T	莓:b	果香:N	
+可:ADV	另外:ADV	加:Vt	糖:N	調味:Vi	
+這:DET	雙層:A	茶杯:N	很:ADV	棒:Vi	
+裝:Vt	熱飲:N	不會:ADV	燙手:Vi	
+冰飲:Vt	也:ADV	不會:ADV	有:Vt	水珠:N	附著:Vi	在:P	杯緣:N	
+非常:ADV	神奇:Vi	但:C	也:ADV	價格:N	不:ADV	斐:N	的:T	杯子:N	XDD:FW	
+幸好:ADV	點:Vt	了:ASP	熱:Vt	茶:N	配:Vt	蘋果塔:N	
+雖然:C	有加:ADV	檸檬:N	
+但:C	整體:N	還是:ADV	稍微:ADV	偏:ADV	甜:Vi	了:ASP	些:ADV	
+搭配:Vt	無糖:N	的:T	茶飲:N	或:C	黑:Vi	
+咖啡:N	是:Vt	最:ADV	適合:Vi	不過:ADV	了:T	
+歐洲人:N	尤其:ADV	是:Vt	法國人:N	喝:Vt	酒:N	真的:ADV	是:Vt	當:P	水:N	在:P	喝:Vt	的:T	
+每:DET	餐:M	都:ADV	有:Vt	酒:N	
+所以:C	白天:N	喝:Vt	酒:N	一點:DET	都:ADV	不:ADV	奇怪:Vt	
+只要:C	記得:Vt	酒後:N	不要:ADV	駕車:Vi	以:P	確保:Vt	安全:Vi	就:ADV	好:Vi	
+這時:N	店裡:N	就:ADV	來:Vi	了:ASP	一:DET	個:M	北杯:N	
+說:Vt	經過:Vt	這:DET	間:M	店:N	好多:DET	次:M	
+終於:ADV	有:Vt	時間:N	進來:Vi	喝:Vt	一:DET	杯:M	
+點:Vt	了:ASP	鹹派:N	搭配:Vt	紅酒:N	
+直:ADV	誇:Vt	它們:N	家:N	的:T	鹹派:N	好好:Vi	吃:Vt	
+店員:N	推薦:Vt	的:T	
+酒:N	很:ADV	棒:Vi	
+很:ADV	適合:Vi	搭配:Vt	鹹:Vi	派:Vt	
+我:N	聽:Vt	了:ASP	也好:T	想:Vt	點:N	來:ADV	吃吃:Vt	看:Vt	
+可是:C	吃:Vt	不:ADV	下:Vt	了:T	啦:T	
+貼心:Vi	小:Vi	警語:N	：:COLONCATEGORY	飲酒:Vi	請:Vt	勿:ADV	過量:Vi	
+最後:N	又:ADV	意猶未盡:Vi	再:ADV	來:ADV	杯:M	粉紅:N	蜜思嘉:N	
+單杯:N	的:T	價格:N	不:ADV	貴:Vi	
+可以:ADV	品嘗:Vt	看看:ASP	
+怎麼:ADV	那麼:ADV	剛好:ADV	
+也:ADV	是:Vt	這:DET	杯:M	按:P	完:Vi	之後:POST	就:ADV	出現:Vi	”:FW	End:FW	”:FW	了:T	
+看來:ADV	我們:N	今天:N	喝:Vt	的:T	酒:N	都:ADV	很:ADV	受:Vt	歡迎:Vt	呢:T	
+話:N	說:Vt	我:N	跟:P	這:DET	杯:M	粉紅:N	蜜思嘉:N	還:ADV	真:ADV	有點:ADV	不解之緣:N	
+之前:N	在:P	PoloGelato:FW	吃:Vt	義大利:N	冰淇淋:N	
+就:ADV	說:Vt	了:ASP	很:ADV	想:Vt	喝:Vt	它們:N	那:DET	支:M	拿來:Vt	做:Vt	冰淇淋:N	的:T	粉紅:N	香檳:N	
+沒想到:ADV	竟然:ADV	在:P	這邊:N	喝到:Vt	了:ASP	
+也:ADV	太:ADV	巧:Vi	
+可惜:Vi	
+的:T	是:Vt	PoloGelato:FW	已經:ADV	沒:Vt	了:ASP	...:ETCCATEGORY	唉:T	...:ETCCATEGORY	
+粉紅:N	蜜思嘉光:N	聽:Vt	名字:N	就:ADV	覺得:Vt	很:ADV	夢幻:N	很:ADV	浪漫:Vi	
+底下:N	還:ADV	有:Vt	細緻:Vi	的:T	泡沫:N	
+喝:Vt	起來:ASP	有:Vt	香水:N	玫瑰:N	和:C	淡雅:Vi	的:T	甜味:N	
+就是:C	像:P	我:N	這:DET	種:M	可愛:Vi	的:T	女孩:N	會:ADV	喜歡:Vt	的:T	酒阿:N	
+--:DASHCATEGORY	哈:ADV	
+好:ADV	不要臉:Vi	::COLONCATEGORY	p:FW	
+淡淡:Vi	的:T	粉:N	橘色:N	很:ADV	漂亮:Vi	
+真:ADV	是:Vt	款:N	好看:Vi	又:ADV	好喝:Vi	的:T	酒:N	
+HOWINE&amp:FW	
+CAFE:FW	有時:ADV	還:ADV	有:Vt	多:POST	種:M	酒款:N	促銷:Nv	
+像:P	剛剛:ADV	喝:Vt	的:T	那:DET	支:M	粉紅:N	蜜思嘉:N	
+前:DET	陣子:N	就:ADV	有:Vt	優惠:Vt	活:Vi	
+動:Vt	呢:T	
+有空:Vi	可以:ADV	來:ADV	逛逛:Vt	喔:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.acarpblog.com:FW	/:FW	
+只:ADV	是:Vt	一:DET	隻:M	胖嘟嘟:Vi	吉祥物:N	

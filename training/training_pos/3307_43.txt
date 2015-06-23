@@ -1,0 +1,105 @@
+Faberge:FW	(:PARENTHESISCATEGORY	你:N	的:T	大:Vi	Ｆ:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	LDTG_SOLOPASTA:FW	台北:N	_:FW	大安區:N	
+SatJul:FW	1210:DET	::COLONCATEGORY	36:DET	::COLONCATEGORY	282014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	SOLOPASTA:FW	
+用餐:Nv	時間:N	：:COLONCATEGORY	Dec6th:FW	,:COMMACATEGORY	2013:DET	
+網誌板:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	?:QUESTIONCATEGORY	gid:FW	=:FW	444:DET	
+地址:N	：:COLONCATEGORY	台北市:N	安和路:N	一段:N	29:DET	-:DASHCATEGORY	1:DET	號:M	
+電話:N	::COLONCATEGORY	０２－２７７５３６４５:DET	
+價位:N	範圍:N	：:COLONCATEGORY	約:ADV	357:DET	元:M	
+美味度:N	參考:Vt	分數:N	為:Vt	5:DET	人:N	平均值:N	
+推薦:Vt	料理:N	：:COLONCATEGORY	巴薩醋燻鴨胸:N	奶油:N	義大利麵:N	::COLONCATEGORY	7.7:DET	分:M	栗子:N	蒙布朗:N	::COLONCATEGORY	9.0:DET	分:M	皮耶蒙:N	熱水澡:N	沙拉:N	::COLONCATEGORY	7.3:DET	分:M	
+這:DET	是:Vt	一:DET	個:M	以:P	每週:N	拜訪:Vt	不同:Vi	餐廳:N	為:Vt	目標:N	的:T	活動:N	
+承蒙:P	大家:N	支持:Vt	
+正:ADV	往:P	第六:DET	年度:N	邁進:Vt	中:N	
+抱:Vt	著:ASP	提供:Vt	資訊:N	的:T	想法:N	
+我們:N	試:Vt	著:ASP	把:P	用餐:Vi	完:Vt	大家:N	的:T	心得:N	與:C	建議:N	PO:FW	上:N	food:FW	版:N	
+期望:Vt	讓:Vt	版友:N	在:P	選擇:Vt	餐廳:N	時:POST	能夠:ADV	多:Vi	一:DET	個:M	參考:N	
+總:ADV	評:Vt	::COLONCATEGORY	總和:N	評價:N	7:DET	分:M	
+餐廳:N	介紹:Vt	::COLONCATEGORY	
+以下:N	文章:N	由:P	團長:N	：:COLONCATEGORY	柏蓉:N	提供:Vt	
+位於:Vt	仁愛:N	圓環:N	的:T	SOLOPASTA:FW	
+是:Vt	在:P	台中:N	經營:Vt	J-Ping:FW	和:C	小:Vi	蝸牛:N	等:POST	知名:Vi	義大利:N	餐廳:N	的:T	主廚:N	王嘉平:N	北上:Vi	開:Vt	的:T	餐廳:N	
+主廚:N	每:DET	半:DET	年:M	走訪:Vt	一:DET	次:M	義大利:N	
+堅持:Vt	把:P	最:ADV	根本:Vi	的:T	料理:N	做到:Vt	最好:ADV	
+餐廳:N	定位為:Vt	
+正統:A	義大利:N	南方:N	料理:Vt	
+所以:C	有:Vt	一些:DET	帶:Vt	辣味:N	的:T	菜色:N	
+而:C	店名:N	就:ADV	是:Vt	義大利麵:N	
+對:P	義大:N	麵:N	自然:ADV	是:Vt	馬虎:Vi	不得:ADV	
+義大利麵:N	一律:ADV	點:Vt	了:ASP	才:ADV	現:ADV	煮:Vt	
+不會:ADV	像:P	大部分:DET	餐廳:N	麵:N	先:ADV	煮好:Vt	了:ASP	接到:Vt	單拌炒:Vt	一下:N	就:ADV	好:Vi	
+才:ADV	會:ADV	在:P	招牌:N	上:N	標明:Vt	”:FW	麵:N	不等:POST	人:N	、:PAUSECATEGORY	人:N	等:POST	麵:N	”:FW	
+也:ADV	是:Vt	主廚:N	的:T	堅持:Nv	
+checkpoint:FW	::COLONCATEGORY	SOLOPASTA:FW	
+1:DET	.:PERIODCATEGORY	要:ADV	訂位:Vi	
+名氣:N	不:ADV	小:Vi	
+最好:ADV	先:ADV	訂位:Vi	
+2:DET	.:PERIODCATEGORY	義大利:N	南方:N	料理:N	要:ADV	吃:Vt	燉:Vt	飯:N	要:ADV	另:DET	謀:Vt	他處:N	喔:T	
+3:DET	.:PERIODCATEGORY	甜點:N	甜點:N	是:Vt	一:DET	大:Vi	亮點:N	
+推薦:Vt	料理:Vt	第一:DET	道:M	::COLONCATEGORY	巴薩醋燻鴨胸:N	奶油:N	義大利麵:N	
+推薦度:N	：:COLONCATEGORY	90.0:DET	%:M	美味度:N	：:COLONCATEGORY	76.7:DET	價格:N	：:COLONCATEGORY	260:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	?:QUESTIONCATEGORY	gid=444#d:FW	2484:DET	
+介紹:Vt	--:DASHCATEGORY	我:N	非常:ADV	喜歡:Vt	這:DET	道:M	麵:N	
+送上來:Vt	時:POST	每:DET	根:M	麵條:N	都:ADV	已:ADV	裹上:Vt	醬衣:N	
+無需:ADV	再:ADV	攪拌:Vt	
+它:N	有:Vt	一:DET	種:M	點綴:Vt	的:T	酸味:N	
+是:Vt	我:N	這:DET	種:M	不:ADV	喜歡:Vt	酸味:N	料理:N	的:T	人:N	都:ADV	會:ADV	愛上:Vt	的:T	口感:N	
+另外:C	搭配:Vt	的:T	煙燻:A	鴨:N	胸肉:N	也:ADV	是:Vt	軟嫩入味:N	
+這:DET	道:M	麵:N	受:P	歡迎:Vt	不:ADV	是:Vt	沒有:Vt	原因:N	的:T	
+我:N	對:P	它:N	最:ADV	大:Vi	的:T	不滿:Nv	就:ADV	是:Vt	份量:N	太少:Vi	啦:T	
+ｂｙ:FW	阿曼達:N	評價:N	--:DASHCATEGORY	雖:C	是:Vt	奶油:N	義大利麵:N	
+但:C	加:Vt	了:ASP	巴薩:N	醋:N	
+厚實:Vi	但:C	略:ADV	─:FW	柏蓉:N	帶:Vt	酸味:N	與:C	醋:N	本身:N	甜味:N	的:T	口感:N	令:Vt	人:N	滿意:Vt	
+巴:N	薩米:N	克醋:N	的:T	香味:N	有:Vt	完全:ADV	被:P	料理:N	出來:Vi	
+很:ADV	濃厚:Vi	─:FW	小婷:N	很:ADV	香:Vi	
+鴨:N	胸肉:N	搭配:Vt	恰到好處:Vi	
+麵條:N	口感:N	十足:Vi	
+醬汁:N	搭配:Vt	恰到好處:Vi	
+─:FW	蘇打粉:N	推薦:Vt	料理:Vt	第二:DET	道:M	::COLONCATEGORY	栗子:N	蒙布朗:N	推薦度:N	：:COLONCATEGORY	80.0:DET	%:M	美味度:N	：:COLONCATEGORY	9.0:DET	價格:N	：:COLONCATEGORY	180:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	?:QUESTIONCATEGORY	gid=444#d:FW	2488:DET	
+介紹:Vt	--:DASHCATEGORY	看到:Vt	外觀:N	只:ADV	看到:Vt	一:DET	座:M	小:Vi	白色:N	糖霜粒山:N	
+看到:Vt	斷面:N	濕潤:Vi	的:T	栗子:N	餡:N	就:ADV	開始:Vt	期待:Vt	
+入口:N	後:POST	濃濃:Vi	的:T	栗子:N	香味:N	加上:C	不:ADV	過份:ADV	甜:Vi	入口:N	即:ADV	化:Vi	的:T	糖霜粒:N	搭配:Vt	剛剛好:ADV	的:T	海綿:N	蛋糕:N	
+完美:Vi	的:T	一:DET	道:M	甜點:N	
+ｂｙ:FW	阿曼達:N	評價:N	--:DASHCATEGORY	團員:N	一致:Vi	大力:ADV	讚賞:Vt	
+現打鮮:N	奶油:N	的:T	新鮮:Vi	口感:N	跟:P	栗:b	─:FW	柏蓉子:N	餡:N	竟然:ADV	這麼:ADV	搭:Vt	
+想:Vt	外帶:Vt	可是:C	不行:Vi	...:ETCCATEGORY	
+這:DET	道:M	甜點:N	造型:N	相當:ADV	應景:Vi	
+微:ADV	甜:Vi	不:ADV	膩:Vi	口:N	
+─:FW	阿曼達:N	推薦:Vt	料理:Vt	第三:DET	道:M	::COLONCATEGORY	皮耶蒙:N	熱水澡:N	沙拉:N	推薦度:N	：:COLONCATEGORY	80.0:DET	%:M	美味度:N	：:COLONCATEGORY	7.3:DET	價格:N	：:COLONCATEGORY	250:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	?:QUESTIONCATEGORY	gid=444#d:FW	2483:DET	
+介紹:Vt	--:DASHCATEGORY	我:N	第一:DET	次:M	吃到:Vt	這:DET	種:M	沒有:Vt	酸味:N	的:T	沙拉:N	醬汁:N	
+真的:ADV	讓:Vt	我:N	驚喜:Vi	
+因為:C	台式:A	沙拉:N	醬偏:Vi	甜:Vi	
+歐式:A	、:PAUSECATEGORY	美式:A	偏酸:N	
+而:C	這:DET	一:DET	道:M	由:P	鯷魚:N	、:PAUSECATEGORY	大蒜:N	、:PAUSECATEGORY	橄欖油:N	混製:Vt	而:C	成:Vt	的:T	熱:Vt	醬汁:N	真是:ADV	太:ADV	美味:Vi	了:T	
+生菜:N	沾裹:Vt	醬汁:N	
+慢慢:Vi	細細:Vi	的:T	咀嚼:Nv	
+香味:N	在:P	嘴:N	裡:N	化開:Vt	來:T	
+真的:ADV	好:ADV	好吃:Vi	
+可惜:Vi	醬汁:N	不:ADV	是:Vt	純:Vi	素:Vi	的:T	
+不然:C	可以:ADV	推廣:Vt	給:Vt	更多:DET	吃素:Vi	的:T	朋友:N	了:T	
+ｂｙ:FW	ｆａｓｈｉｏｎ:FW	評價:N	--:DASHCATEGORY	
+油醋醬:N	用:P	小:Vi	蠟燭臺:N	加熱:Vi	的:T	噱頭:N	
+普普:N	
+價錢:N	偏:ADV	貴:Vi	
+─:FW	小婷:N	看似:Vt	簡單:Vi	但:C	奶油:N	沾醬:N	非常:ADV	好吃:Vi	
+─:FW	柏蓉:N	以下:POST	為:P	本:DET	次:M	用餐:Vi	的:T	詳細:Vi	評分:Nv	內容:N	::COLONCATEGORY	
+評價:N	僅:ADV	供:Vt	參考:Vt	::COLONCATEGORY	滿:DET	分為:Vt	五:DET	顆:M	
+適合:Vi	朋友:N	聚餐:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	適合:Vi	情侶:N	約會:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	適合:Vi	家庭:N	聚會:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	餐廳:N	氣氛:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	價格:N	划算:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	美味:Vi	滿意:Vt	程度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	
+就:ADV	該:DET	價位:N	而言:Vt	
+服務:Nv	品質:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	綜合:A	評價:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	再次:ADV	拜訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	推薦:Nv	朋友:N	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	
+本:DET	次:M	消費:N	金額:N	
+飲料:N	另:DET	計:N	
+每:DET	人:N	357:DET	元:M	
+5:DET	人:N	用餐:Vi	
+用餐:Vi	建議:Vt	事項:N	：:COLONCATEGORY	1:DET	.:PERIODCATEGORY	要:ADV	訂位:Vi	
+名氣:N	不:ADV	小:Vi	
+最好:ADV	先:ADV	訂位:Vi	
+2:DET	.:PERIODCATEGORY	義大利:N	南方:N	料理:N	要:ADV	吃:Vt	燉:Vt	飯:N	要:ADV	另:DET	謀:Vt	他處:N	喔:T	
+3:DET	.:PERIODCATEGORY	甜點:N	甜點:N	是:Vt	一:DET	大:Vi	亮點:N	
+更多:DET	詳細:Vi	評價:N	
+含:Vt	所有:DET	用餐:Nv	朋友:N	回響:N	
+與:C	料理:N	照片:N	可:ADV	跳轉:Vt	網誌:N	好:Vi	讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	?:QUESTIONCATEGORY	gid:FW	=:FW	444:DET	
+邀請:Vt	您:N	加入:Vt	一起:ADV	吃飯:Vi	的:T	朋友:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tinyurl.com/nrm3vfbonnecontinuation:FW	

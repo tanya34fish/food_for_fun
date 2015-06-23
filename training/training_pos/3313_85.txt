@@ -1,0 +1,72 @@
+qupal:FW	(:PARENTHESISCATEGORY	青仔:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	JumaneCafe:FW	':FW	佐曼:N	咖啡:N	
+MonJul:FW	1412:DET	::COLONCATEGORY	50:DET	::COLONCATEGORY	472014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	JumaneCafe:FW	':FW	佐曼:N	咖啡:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山北路:N	2:DET	段:M	16巷:N	23:DET	-:DASHCATEGORY	1:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	25110096:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	一:DET	-:DASHCATEGORY	五:DET	10:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	六:DET	-:DASHCATEGORY	日:N	9:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	250:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	無:Vt	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	陽光:N	加州:N	
+網誌:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	moinca199.pixnet.net/blog/post:FW	/:FW	183284604:DET	
+以下:N	為:Vt	PTT:FW	純:Vi	文字版:N	
+七月:N	初:POST	與:C	友人:N	相約:Vi	至:P	中山:N	捷運站:N	附近:N	的:T	
+JumaneCafe:FW	':FW	佐曼:N	咖啡:N	
+當天:N	實在:ADV	非常:ADV	酷熱:Vi	啊:T	
+在:P	幾:DET	天:M	前:POST	有:Vt	先:ADV	到:P	佐曼:N	咖啡:N	的:T	FB:FW	訂位:Nv	
+但:C	訂位:Nv	時間:N	到:Vt	了:ASP	後:POST	大約:ADV	等:Vt	了:ASP	十:DET	分鐘:M	左右:POST	
+工作:N	人員:N	才:ADV	開始:Vt	帶:Vt	位:M	
+進去:Vi	時:POST	桌椅:N	數量:N	尚未:ADV	安排好:Vt	
+就:ADV	帶:Vt	入座:Vi	實在:ADV	有點:ADV	可惜:Vi	
+佐曼:N	咖啡:N	位置:N	很:ADV	好:Vi	找:Vt	
+圖:N	
+店:N	內:N	空:ADV	見:Vt	滿:ADV	大:Vi	的:T	
+位置:N	也:ADV	很多:DET	
+還:ADV	有:Vt	看起來:ADV	很:ADV	厲害:Vi	的:T	冰滴:Vi	咖啡:N	
+圖:N	
+位置:N	安排好:Vt	後:POST	送上:Vt	茶水:N	
+圖:N	
+這樣:Vi	一:DET	桌:M	滿滿:Vi	的:T	看起來:ADV	很:ADV	美味:Vi	
+圖:N	
+狂歡:Vi	倫敦:N	
+鬆餅:N	、:PAUSECATEGORY	培根:N	、:PAUSECATEGORY	炒蛋:N	、:PAUSECATEGORY	起:Vt	司:N	、:PAUSECATEGORY	沙拉:N	
+鬆餅:N	搭配:Vt	雞蛋:N	美乃滋:N	很:ADV	好吃:Vi	
+喜歡:Vt	吃:Vt	甜:Vi	的:T	也:ADV	可以:ADV	搭配:Vt	蜂蜜:N	
+圖:N	
+經典:N	紐約:N	
+火腿:N	、:PAUSECATEGORY	培根:N	、:PAUSECATEGORY	德式:A	香腸:N	、:PAUSECATEGORY	奶油:N	吐司:N	、:PAUSECATEGORY	炒蛋:N	、:PAUSECATEGORY	沙拉:N	
+圖:N	
+附上:Vt	了:ASP	藍莓:N	果醬:N	及:C	奶油:N	
+圖:N	
+海洋:N	挪威:N	
+煙燻:A	鮭魚:N	、:PAUSECATEGORY	鮮奶:N	吐司:N	、:PAUSECATEGORY	炒蛋:N	、:PAUSECATEGORY	特製:Nv	酸奶:N	、:PAUSECATEGORY	炒鮮菇:N	、:PAUSECATEGORY	地瓜:N	泥:N	、:PAUSECATEGORY	沙拉:N	
+炒鮮菇:N	個:M	人:N	很:ADV	推薦:Vt	
+調味:Vi	的:T	很:ADV	剛好:ADV	
+地瓜:N	泥:N	非常:ADV	紮實:Vi	
+圖:N	
+陽光:N	加州:N	
+德式:A	香腸:N	、:PAUSECATEGORY	法式:A	吐司:N	、:PAUSECATEGORY	鮮奶:N	吐司:N	、:PAUSECATEGORY	炒鮮菇:N	、:PAUSECATEGORY	炒蛋:N	、:PAUSECATEGORY	優格:N	、:PAUSECATEGORY	沙拉:N	
+個:M	人:N	最:ADV	喜歡:Vt	這:DET	道:M	
+看起來:ADV	總:ADV	類:Vt	很多:DET	樣:M	
+除了:P	沙拉:N	以外:POST	還:ADV	有:Vt	水果:N	
+很:ADV	符合:Vt	陽光:N	加州:N	這:DET	名字:N	
+圖:N	
+早:Vi	午餐:N	都:ADV	有:Vt	附上:Vt	咖啡:N	、:PAUSECATEGORY	紅茶:N	、:PAUSECATEGORY	奶茶:N	三:DET	選:Vt	一:DET	
+紅茶:N	好喝:Vi	
+不會:ADV	太:ADV	甜:Vi	
+可惜:Vi	份量:N	有點:ADV	少:Vi	
+圖:N	
+奶茶:N	則:ADV	是:Vt	附贈:Vt	一:DET	顆:M	奶油球:N	
+喝:Vt	起來:ASP	像:Vt	是:Vt	早餐店:N	好喝:Vi	的:T	奶茶:N	
+主要:ADV	是:Vt	紅茶:N	好喝:Vi	
+圖:N	
+友人點:N	的:T	太:ADV	妃:N	焦糖:N	拿:Vt	鐵:N	咖啡:N	
+附:Vt	的:T	鮮:Nv	奶油:N	上:N	灑:Vt	有:Vt	海鹽:N	
+圖:N	
+當天:N	消費:N	金額:N	
+圖:N	
+早:Vi	午餐:N	的:T	份量:N	對於:P	女生:N	非常:ADV	足夠:Vi	
+出餐:N	速度:N	滿:ADV	快速:Vi	的:T	
+沒有:ADV	太:ADV	嚴厲:Vi	的:T	限制:N	用餐:Nv	時間:N	
+是:Vt	可以:ADV	好好:Vi	享受:Vt	美食:N	的:T	地方:N	

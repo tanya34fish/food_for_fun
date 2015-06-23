@@ -1,0 +1,64 @@
+zzt:FW	(:PARENTHESISCATEGORY	限量:Vi	版魔人:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	台北市:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	西門:N	站:Vi	]:PARENTHESISCATEGORY	千:DET	本:M	拉麵:N	
+ThuJul:FW	1006:DET	::COLONCATEGORY	47:DET	::COLONCATEGORY	132014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	千:DET	本:M	拉麵:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	萬華區:N	西寧南路:N	123:DET	號:M	4:DET	F:FW	-:DASHCATEGORY	1:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	-:DASHCATEGORY	320:DET	元:M	，:COMMACATEGORY	收:Vt	一成:DET	服務費:N	
+圖文:N	好讀:Vt	版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/BZHrvv:FW	
+目前:N	我:N	已經:ADV	吃:Vt	過:ASP	而且:C	寫:Vt	過:ASP	文章:N	記錄:N	的:T	台北市:N	日式:A	拉麵店:N	一共:ADV	是:Vt	86:DET	家:M	
+這:DET	間:M	店:N	開幕:Vi	於:P	2012.0:DET	8.03:DET	
+本來:ADV	開:Vt	在:P	仁愛路:N	四段:N	345巷:N	15弄:N	10:DET	號:M	
+但:C	於:P	2013年:N	2月:N	搬遷:Vt	至:P	西門:N	現在:N	的:T	位置:N	
+這:DET	間:M	店:N	是:Vt	由:P	女星:N	徐若瑄:N	的:T	弟弟:N	經營:Vt	的:T	日式:A	拉麵店:N	
+當初:N	徐若瑄:N	還:ADV	擔任:Vt	一:DET	日:M	店長:N	造成:Vt	話題:N	
+店家:N	門口:N	有:Vt	台:M	機器:N	
+乍看:Vt	還:ADV	以為:Vt	是:Vt	販:Vt	券機:N	
+實際:Vi	上:POST	是:Vt	台:N	求籤:Vi	的:T	機器:N	
+查:Vt	了:ASP	一下:N	其實:ADV	它:N	之前:POST	真的:ADV	是:Vt	台:N	販:Vt	券機:N	
+但是:C	後來:N	才:ADV	改成:Vt	這樣:Vi	
+可能:ADV	台灣人:N	還:ADV	不:ADV	習慣:Vt	使用:Vt	販:Vt	券:N	機:N	吧:T	
+這:DET	次:M	用餐:Vi	沒有:ADV	拍到:Vt	菜單:N	
+店家:N	的:T	拉麵:N	價位:N	介於:Vt	200:DET	元:M	至:P	320:DET	元:M	之間:POST	
+收:Vt	一成:DET	服務費:N	
+不過:C	你:N	如果:C	現在:N	去:ADV	看:Vt	店家:N	的:T	官方:N	網站:N	或是:C	看:Vt	之前:POST	別人:N	的:T	網誌:N	的:T	話:N	
+它:N	在:P	搬家:Vi	之前:POST	的:T	拉麵:N	最:ADV	低:Vi	售價:N	是:Vt	150:DET	元:M	不:ADV	收:Vt	服務費:N	
+漲:Vi	了:ASP	50:DET	元:M	以上:POST	
+店:N	內:N	座位:N	約:ADV	可:ADV	容納:Vt	52:DET	人:N	
+座位:N	舒適度:N	一般:POST	但:C	整體:N	用餐:Nv	環境:N	還:ADV	蠻:ADV	寬敞:Vi	的:T	
+店家:N	收:Vt	一成:DET	服務費:N	
+服務:Nv	人員:N	態度:N	普通:Vi	
+店:N	內:N	播放:Vt	著:ASP	日語:N	流行:Vi	音樂:N	
+用餐:Vi	尖峰:A	時刻:N	座位:N	約:ADV	六七成:DET	滿:DET	
+店家:N	在:P	搬家:Vi	之前:POST	其實:ADV	座位:N	的:T	設計:N	是:Vt	類似:Vt	像:Vt	一:DET	蘭:N	那樣:ADV	有:Vt	自己:N	的:T	小:Vi	隔間:N	的:T	
+但:C	搬家:Vi	後:POST	就:ADV	沒有:Vt	這:DET	種:M	設計:Vt	了:ASP	
+有點:ADV	可惜:Vi	
+現在:N	店:N	內:N	的:T	裝潢:N	特色:N	就:ADV	那:DET	一:DET	座:M	一:DET	座:M	的:T	鳥居:N	
+桌:N	上:N	的:T	調味料:N	有:Vt	醬油:N	、:PAUSECATEGORY	辣椒粉:N	、:PAUSECATEGORY	辣椒:N	、:PAUSECATEGORY	蒜酥:N	等:POST	調味料桌:N	上:N	的:T	廣告:N	立牌:N	還:ADV	有:Vt	甜點:N	可以:ADV	選擇:Vt	
+包含:Vt	起:ASP	司:N	可樂餅:N	、:PAUSECATEGORY	冰淇淋:N	吐司:N	和:C	飲料:N	
+一:DET	套:M	199:DET	元:M	服務:Nv	人員:N	會:ADV	告知:Vt	麵條:N	可以:ADV	選擇:Vt	軟硬:Vi	、:PAUSECATEGORY	粗細:N	
+湯頭:N	可以:ADV	選:Vt	鹹淡:N	
+店家:N	招待:Vt	的:T	牛:N	蒡:b	小菜:N	
+千:DET	本:M	豚骨:N	拉麵:N	
+200:DET	元:M	
+收:Vt	一成:DET	服務費:N	
+我:N	選:Vt	的:T	是:Vt	硬粗:N	麵:N	、:PAUSECATEGORY	鹹:Vi	湯頭:N	
+配料:N	有蔥:N	、:PAUSECATEGORY	木耳:N	、:PAUSECATEGORY	筍乾:N	以及:C	海苔:N	
+湯頭:N	喝:Vt	起來:ASP	其實:ADV	說:Vt	鹹:Vi	也:ADV	還:ADV	好:Vi	
+不過:C	以:P	豚骨:N	湯頭:N	來:ADV	說:Vt	湯:N	本身:N	並:ADV	不:ADV	濃厚:Vi	
+還:ADV	蠻:ADV	稀:Vi	的:T	溏心:N	蛋:N	水準:N	一般:A	叉燒:N	有:Vt	兩:DET	片:M	
+份量:N	一般:POST	
+比較:ADV	偏:Vt	瘦肉:N	的:T	口感:N	麵條:N	煮:Vt	得:T	軟:Vi	硬度:N	還:ADV	不錯:Vi	
+但是:C	麵條:N	本身:N	水準:N	一般:POST	
+份量:N	則:ADV	是:Vt	剛剛好:ADV	綜:ADV	論:Vt	之:T	
+以:P	吃:Vt	過:ASP	一:DET	次:M	的:T	經驗:N	來:ADV	說:Vt	
+這:DET	是:Vt	一:DET	間:M	中價位:N	至高:Vi	價位:N	
+收:Vt	一成:DET	服務費:N	
+用餐:Nv	環境:N	寬敞:Vi	的:T	日式:A	拉麵店:N	
+拉麵:N	本身:N	品質:N	一般:POST	
+但:C	兼營:Vt	甜:Vi	品:N	販售:Vt	
+期待:Vt	它:N	能:ADV	做出:Vt	特色:N	
+單:ADV	從:P	價位:N	來:ADV	說:Vt	
+這:DET	間:M	拉麵:N	店:N	如果:C	開:Vt	在:P	一樓:N	店面:N	人潮:N	往來:Vt	處:N	
+生意:N	應該:ADV	還:ADV	有:Vt	進步:Nv	空間:N	

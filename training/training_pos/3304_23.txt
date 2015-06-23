@@ -1,0 +1,116 @@
+qupal:FW	(:PARENTHESISCATEGORY	青仔:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	九州:N	杏子:N	日式:A	豬排:N	阪急:N	店:N	
+FriJul:FW	1110:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	172014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	九州:N	杏子:N	日式:A	豬排:N	阪急:N	店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	忠孝東路:N	五段:N	6:DET	號:M	
+電話:N	：:COLONCATEGORY	無:Vt	電話:N	
+營業:Nv	時間:N	：:COLONCATEGORY	AM:FW	11:DET	::COLONCATEGORY	00:DET	~:FW	PM:FW	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	250:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	腰:N	內:N	豬排:N	套餐:N	、:PAUSECATEGORY	里肌肉:N	豬排:N	套餐:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.anzu.com.tw/face.htm:FW	
+網誌:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	moinca199.pixnet.net/blog/post:FW	/:FW	183018531:DET	
+以下:N	為:Vt	PTT:FW	文字版:N	
+↓:FW	↓:FW	↓:FW	↓:FW	↓:FW	↓:FW	↓:FW	↓:FW	
+上:DET	週六:N	跟:P	友人:N	相約:Vi	去:ADV	看:Vt	文具展:N	&:FW	amp:FW	
+樂器展:N	
+看完:Vt	兩:DET	個展:N	後:POST	
+肚子:N	實在:ADV	有點:ADV	餓:Vi	
+於是:C	拜託:Vt	友人:N	陪:Vt	我:N	去:ADV	排:Vt	杏子:N	豬排:N	
+還好:ADV	避開:Vt	用餐:Nv	時間:N	
+沒有:ADV	等:Vt	很:ADV	久:Vi	
+每:DET	次:M	路過:Vt	都:ADV	好多:DET	人:N	
+要:ADV	先:ADV	排隊:Vi	登記:Vt	抽:Vt	號碼牌:N	
+過號:N	要:ADV	重新:ADV	抽:Vt	號碼牌:N	
+圖:N	
+MENU:FW	
+圖:N	
+第一:DET	次:M	吃:Vt	就:ADV	先:ADV	從:P	限定:Vt	
+杏子:N	特選:Nv	豬排:N	
+開始:Vt	吃:Vt	起:ASP	
+圖:N	
+杏子:N	的:T	茶:N	好:ADV	好喝:Vi	
+圖:N	
+喜歡:Vt	杏子:N	的:T	餐具:N	
+很:ADV	一致性:N	
+圖:N	
+桌:N	上:N	有:Vt	調味品:N	、:PAUSECATEGORY	紙巾:N	、:PAUSECATEGORY	意見表:N	
+圖:N	
+上桌:Vi	時:POST	桌:N	上:POST	就:ADV	有的:DET	蘿蔔:N	絲:N	
+圖:N	
+把:P	芝麻:N	磨碎:Vt	
+很:ADV	喜歡:Vt	芝麻:N	磨碎:Vt	後:POST	散發出:Vt	來:Vi	的:T	香味:N	
+圖:N	
+接著:ADV	加上:Vt	豬排醬:N	
+圖:N	
+豪邁:Vi	地:T	送上:Vt	一:DET	大:Vi	碗:M	的:T	生菜:N	
+圖:N	
+友人點:N	的:T	腰:N	內:N	豬排:N	套餐:N	
+中:N	
+當天:N	的:T	醃製:Vt	物:N	是:Vt	白:Vi	蘿蔔:N	&:FW	amp:FW	
+酸菜:N	
+圖:N	
+豬排:N	炸:Vt	的:T	外酥內嫩:Vi	
+友人:N	說:Vt	她:N	喜歡:Vt	腰:N	內:N	肉:N	因為:C	好:ADV	軟:Vi	
+圖:N	
+我:N	點:Vt	的:T	黑豚里肌:N	豬排:N	套餐:N	
+送:Vt	上桌:Vi	真:ADV	是:Vt	口水:N	直流:Vi	
+油脂:N	較:ADV	多:Vi	
+還好:ADV	不:ADV	膩:Vi	口:N	
+只:ADV	是:Vt	當天:N	吃:Vt	的:T	時候:N	有:Vt	幾:DET	塊:M	
+不:ADV	知道:Vt	是:Vt	筋:N	還是:C	什麼:DET	有點:ADV	難:Vi	咬:Vt	
+圖:N	
+選:Vt	了:ASP	五穀飯:N	
+圖:N	
+蔬菜:N	味噌湯:N	
+圖:N	
+最後:N	五穀:N	飯:N	吃完:Vt	了:ASP	還:ADV	剩下:Vt	幾:DET	塊:M	豬排:N	
+再:ADV	加:Vt	一:DET	碗:M	白飯:N	跟:P	友人:N	一:DET	人:N	一半:DET	
+圖:N	
+隔:P	天:N	是:Vt	去:Vt	澳洲:N	一:DET	年:M	回來:Vi	的:T	友人:N	說:Vt	要:ADV	吃:Vt	杏子:N	
+於是:C	一:DET	夥:M	人:N	吃完:Vt	早:Vi	午餐:N	後:POST	
+下午:N	又:ADV	奔去:Vi	阪急:N	吃:Vt	杏子:N	
+一樣:Vi	的:T	剛好:ADV	避開:Vt	用餐:Nv	時間:N	
+沒有:ADV	等:Vt	很:ADV	久:Vi	
+圖:N	
+這:DET	天:M	是:Vt	五:DET	個人用餐:N	
+是:Vt	在:P	四:DET	人:N	桌加:N	一:DET	張:M	椅子:N	
+圖:N	
+蘿蔔:N	絲:N	個:M	人:N	覺得:Vt	很:ADV	好吃:Vi	
+圖:N	
+豬排醬:N	
+圖:N	
+生菜:N	可:ADV	再:ADV	續:ADV	
+但:C	只:ADV	有:Vt	高麗菜:N	絲:N	
+圖:N	
+這:DET	天:M	的:T	小菜:N	是:Vt	白:Vi	蘿蔔:N	&:FW	amp:FW	
+黑豆:N	
+圖:N	
+友人點:N	的:T	香脆:Vi	雞:N	排:Vt	套餐:N	
+雞:N	排好:Vt	嫩:Vi	
+很:ADV	想:Vt	立刻:ADV	來:Vi	碗:N	雞:N	排丼:N	之類:POST	的:T	
+圖:N	
+雞:N	排附:Vt	的:T	是:Vt	芥末:N	籽:N	
+看起來:ADV	不:ADV	是:Vt	很:ADV	美味:Vi	XDD:FW	
+吃起來:ADV	鹹鹹:Vi	的:T	不:ADV	嗆辣:Vi	
+圖:N	
+友人點:N	的:T	腰:N	內:N	豬排:N	套餐:N	
+友人:N	第一:DET	次:M	吃:Vt	表示:Vt	::COLONCATEGORY	好:ADV	軟:Vi	
+圖:N	
+我:N	點:Vt	的:T	里肌肉:N	豬排:N	套餐:N	
+圖:N	
+配:Vt	了:ASP	五穀飯:N	
+圖:N	
+海帶:N	芽:N	味噌湯:N	
+圖:N	
+最後:N	來:Vi	個:M	比較圖:N	
+里肌:N	跟:P	雞:N	排:Vt	的:T	剖面:N	
+里肌:N	雖然:C	有:Vt	小:Vi	部分:DET	的:T	油脂:N	
+但:C	吃起來:ADV	完全:ADV	不:ADV	膩:Vi	口:N	唷:T	
+圖:N	
+四:DET	月份:N	的:T	時候:N	有:Vt	去:ADV	吃:Vt	原是:Vt	杏子:N	豬排:N	改成:Vt	的:T	赤神:N	日式:A	豬排:N	
+這樣:Vi	比較:Vt	起來:ASP	
+杏子:N	豬排:N	真的:ADV	是:Vt	勝出:Vi	很多:DET	
+難怪:ADV	每:DET	次:M	經過:Vt	生意:N	都:ADV	很:ADV	好:Vi	

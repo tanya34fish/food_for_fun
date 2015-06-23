@@ -1,0 +1,77 @@
+violetphoeni:FW	(:PARENTHESISCATEGORY	紫鳳:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	SeasonCuisineP:FW	â:FW	tissiartism:FW	
+SunJul:FW	1317:DET	::COLONCATEGORY	40:DET	::COLONCATEGORY	022014:DET	無:Vt	音樂:N	圖文:N	網誌:N	(:PARENTHESISCATEGORY	2014:DET	/:FW	07:DET	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/viophex/article:FW	/:FW	76322848:DET	
+門口:N	展示:Vt	的:T	甜點:N	
+誤打誤撞:Vi	進:Vt	了:ASP	這:DET	家:M	店:N	門:N	
+猛:Vi	地:T	想起:Vt	曾經:ADV	看過:Vt	此:DET	店:N	的:T	介紹:N	
+便:ADV	鎖定:Vt	其:DET	燉飯:Vt	一:DET	記:M	
+順便:ADV	也:ADV	讓:Vt	新:Vi	手機:N	測試:N	看看:Vt	功能:N	
+拍:Vt	起來:ASP	結果:N	還:ADV	不錯:Vi	
+風格:N	簡約:Vi	低調:Vi	
+以:P	甜點:N	著稱:Vi	的:T	Season:FW	
+女性:N	顧客:N	自然:ADV	佔:Vt	了:ASP	多數:DET	
+但:C	既然:C	不:ADV	為:P	此:DET	端:N	
+便:ADV	不:ADV	需要:Vt	感到:Vt	彆扭:Vi	
+很:ADV	直接:Vi	便:ADV	點:Vt	了:ASP	他們:N	的:T	燉飯:Vt	
+一向:ADV	具有:Vt	口碑:N	的:T	千:DET	層:M	派:N	也:ADV	已經:ADV	預訂:Vt	好:Vi	
+套餐:N	+:FW	240:DET	
+附:Vt	麵包:N	、:PAUSECATEGORY	沙拉:N	、:PAUSECATEGORY	湯:N	
+玉米湯:N	讓:Vt	人:N	印象:N	深刻:Vi	
+口感:N	類似:Vt	沙茶:N	的:T	醬料:N	莫名:A	的:T	契合:Vi	
+另:DET	兩:DET	者:N	倒是:ADV	很:ADV	普通:Vi	
+似乎:ADV	貴:Vi	了:ASP	些:ADV	
+9:DET	微炙:Vi	北海道:N	干貝:N	燉飯:Vt	
+780:DET	
+干貝:N	品質:N	相當:ADV	好:Vi	
+搭配:Vt	中層:N	的:T	蔬菜:N	相當:ADV	對味:Vi	
+其:DET	鮮甜:Vi	滋味:N	不亞於:Vt	頂級:A	壽司店:N	
+用料:N	相當:ADV	紮實:Vi	
+絕佳:Vi	的:T	傳統:N	義式:A	燉飯:Vt	
+Risotto:FW	
+以:P	高湯:N	慢:Vi	燉:Vt	、:PAUSECATEGORY	拌煮生米:Vt	
+達到:Vt	米心:N	似:ADV	有若:Vt	無:Vt	、:PAUSECATEGORY	軟硬:Vi	勻稱:Vi	的:T	口感:N	
+吸飽:Vt	湯汁:N	且:C	外:N	鬆膨:Vi	、:PAUSECATEGORY	內:N	彈:Vt	韌:Vi	
+當真:Vi	得來:Vi	不易:Vi	
+而:C	這:DET	次:M	嚐到:Vt	的:T	燉飯:Vt	得:T	其:DET	骨:N	但:C	不得:ADV	其:DET	肉:N	
+米心:N	的:T	口感:N	掌握:Vt	得:T	不錯:Vi	
+不過:C	搭配:Vt	的:T	白醬:N	完全:ADV	壓過:Vt	高湯:N	
+只:ADV	嚐:Vt	米飯:N	無法:ADV	吃:Vt	出:Vt	其:DET	香:N	
+是:Vt	唯一:A	瑕疵:N	之:T	處:N	
+以:P	價格論:N	似乎:ADV	是:Vt	貴:Vi	了:ASP	些:ADV	
+干貝:N	、:PAUSECATEGORY	菜葉:N	、:PAUSECATEGORY	米飯:N	、:PAUSECATEGORY	橄欖油:N	的:T	美好:Vi	層次:N	
+姐妹:N	分享:Vt	餐:N	
+1280:DET	
+溫熱:Vt	鯷魚:N	橄欖油:N	沙拉:N	看:Vt	得:T	出:Vt	用料:N	大方:Vi	
+味道:N	也:ADV	頗:ADV	突出:Vi	
+由於:C	是:Vt	同行:Vi	一:DET	對:M	好:Vi	姐妹:N	共食:Vt	
+此:DET	套餐:N	僅:ADV	試試:Vt	味道:N	
+溫泉:N	蛋:N	奶油:N	厚:Vi	培根麵:N	印象:N	不:ADV	深:Vi	
+最:ADV	重要:Vi	的:T	醬汁:N	居然:ADV	沒有:Vt	什麼:DET	記憶點:N	
+起:Vt	司味:N	過重:Vi	
+另:DET	套餐:N	皆:ADV	附:Vt	麵包:N	、:PAUSECATEGORY	湯:N	
+現烤:Vt	千:DET	層:M	派:Vt	
+須:ADV	預定:Vt	
+380:DET	
+完全:ADV	一:ADV	掃:Vt	前:POST	面對:Vt	價錢:N	的:T	小小:Vi	怨氣:N	
+派:Vt	皮:N	酥鬆:Vi	且:C	易:Vi	切:Vt	
+糖:N	片:N	細緻:Vi	、:PAUSECATEGORY	水果:N	搭配:Vt	得宜:Vi	
+蛋黃醬:N	更:ADV	是:Vt	既:C	罪惡:N	又:ADV	愛不釋手:Vi	
+徹底:Vi	收服:Vt	當場:ADV	女生:N	的:T	心:N	
+姐妹:N	套餐:N	附上:Vt	的:T	甜點:N	
+櫃檯:N	自:P	選:Vt	
+沒:ADV	吃:Vt	
+但:C	平價:N	皆:ADV	佳:Vi	
+結帳:Vi	時:POST	那:DET	一:DET	股:M	
+有點:ADV	貴:Vi	
+的:T	感覺:N	又:ADV	回來:Vi	了:ASP	
+看來:ADV	這:DET	間:M	更:ADV	適合:Vi	定位:N	在:P	高檔:N	下午茶:N	
+甜點:N	實在:ADV	是:Vt	箇中:A	強項:N	
+燉飯:Vt	好吃:Vi	歸:Vt	好吃:Vi	但:C	實在:ADV	不符:Vt	身價:N	
+離開:Vt	時:POST	瞥見:Vt	菜單:N	上:N	有:Vt	現:ADV	烤:Vt	舒芙:N	蕾:N	
+若:C	有:Vt	機會:N	再:ADV	試試:Vt	
+--:DASHCATEGORY	SeasonCuisineP:FW	â:FW	tissiartism:FW	
+敦南店:N	
+台北市:N	敦化南路:N	一段:N	295巷:N	16:DET	號:M	02:DET	-:DASHCATEGORY	2708:DET	-:DASHCATEGORY	5299:DET	周:M	二:DET	
+周日:N	
+11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	----:DASHCATEGORY	╱:FW	╲:FW	

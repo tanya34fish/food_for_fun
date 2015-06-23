@@ -1,0 +1,67 @@
+pancher7(pancher:FW	7:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	SEASONArtisanP:FW	â:FW	tissier:FW	敦南店:N	
+FriJul:FW	1111:DET	::COLONCATEGORY	00:DET	::COLONCATEGORY	342014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	SEASONArtisanP:FW	â:FW	tissier:FW	敦南店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	295巷:N	16:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2708:DET	-:DASHCATEGORY	5299:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	每:DET	周:M	一:DET	公休:Vi	
+圖文版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	deliciouslife.pixnet.net/blog/post:FW	/:FW	377226359:DET	
+純:Vi	文字:N	心得:N	↓:FW	
+炎熱:Vi	的:T	午後:N	
+和:C	熱愛:Nv	甜食:N	的:T	友人:N	到:P	仁愛:N	圓環:N	附近:N	來:Vi	個:M	下午茶:N	約會:Vi	
+選定:Vt	了:ASP	SEASONArtisanP:FW	â:FW	tissier:FW	
+然後:ADV	計畫:Vt	順便:ADV	到:Vt	對面:N	的:T	apoet:FW	吃:Vt	晚餐:N	
+....:ETCCATEGORY	這:DET	行程:N	根本:ADV	是:Vt	餵:Vt	豬:N	嘛:T	
+內部:N	裝潢:Vt	質感:N	很:ADV	好:Vi	
+環境:N	很:ADV	舒服:Vi	
+友人:N	喜歡:Vt	陽光:N	灑:Vt	進來:Vi	的:T	慵懶:Vi	氛圍:N	所以:C	選擇:Vt	了:ASP	靠:Vt	窗:N	的:T	位置:N	
+▼:FW	鴨油松露:N	薯條:N	380:DET	元:M	
+特殊:Vi	的:T	鴨油:N	香氣:N	配合:Vt	適中:Vi	的:T	松露:N	味:N	
+可惜:Vi	薯條:N	上桌:Vi	就:ADV	偏:ADV	溫:Vt	而:C	非:ADV	燙熱:Vt	
+加上:C	中間:N	綿密:Vi	的:T	口感:N	
+整體:N	吃起來:ADV	軟軟:Vi	的:T	
+令:Vt	人:N	有:Vt	些:M	失望:Vi	
+▼:FW	現:N	烤:Vt	千:DET	層:M	派:Vt	380:DET	元:M	
+千:DET	層:M	派:N	是:Vt	SEASONArtisanP:FW	â:FW	tissier:FW	的:T	招牌:N	甜點:N	
+電話:N	訂位:Vi	時:POST	服務:Vt	人員:N	便:ADV	事先:ADV	詢問:Vt	是否:ADV	需要:Vt	預訂:Vt	
+事:N	前:POST	沒有:ADV	做:Vt	太多:DET	功課:N	
+但:C	聽到:Vt	預訂:Vt	就:ADV	感覺:Vt	是:Vt	非常:ADV	厲害:Vi	
+能:ADV	拒絕:Vt	嘛:T	
+綜合:A	莓果:N	、:PAUSECATEGORY	軟糖:N	、:PAUSECATEGORY	脆糖片:N	和:C	芒果:N	雪酪擺:Vt	在:P	千:DET	層:M	派旁:N	好:ADV	繽紛:Vi	熱鬧:Vi	
+配料:N	和:C	水果:N	都:ADV	很:ADV	新鮮:Vi	
+滋味:N	豐富:Vt	
+千:DET	層:M	派:Vt	皮:N	酥度:N	表現:N	不錯:Vi	
+層層:DET	結構:N	十分:ADV	紮實:Vi	香:Vi	脆:Vi	
+但:C	卡士達醬:N	讓:Vt	我們:N	吃:Vt	得:T	不:ADV	是:Vt	很:ADV	習慣:Vt	
+奶味淡:N	、:PAUSECATEGORY	甜度:N	低:Vi	、:PAUSECATEGORY	質地:N	也:ADV	不:ADV	濃稠:Vi	
+我:N	覺得:Vt	吃起來:ADV	有點:ADV	像:Vt	很:ADV	不:ADV	甜:Vi	的:T	蜜:N	豆奶:N	xD:FW	
+▼:FW	冰:Vt	美式:A	160:DET	元:M	&:FW	amp:FW	
+熱:Vt	美式:A	Single:FW	140:DET	元:M	
+我:N	的:T	冰:N	美式:A	聞起來:ADV	微:ADV	苦:Vi	帶:Vt	酸氣:N	
+但:C	入口:N	卻:ADV	不:ADV	覺得:Vt	酸澀:Vi	
+還:ADV	不錯:Vi	
+▼:FW	餐畢:Vt	後:POST	的:T	聊天:Nv	時間:N	店員:N	拿:Vt	了:ASP	一:DET	份:M	焦糖:N	卡士達貝涅:N	
+Beignet:FW	
+表示:Vt	招待:Vt	
+環顧:Vt	店裡:N	的:T	顧客:N	們:N	分別:ADV	都:ADV	有:Vt	拿到:Vt	一:DET	份:M	
+感覺:Vt	很:ADV	驚喜:Vi	呢:T	
+酥脆:Vi	的:T	麵皮:N	和:C	內:N	餡:N	中間:N	夾:Vt	著:ASP	一:DET	層:M	薄薄:Vi	的:T	肉桂:N	
+幸好:ADV	不:ADV	太過:ADV	濃郁:Vi	
+所以:C	我:N	可以:ADV	接受:Vt	
+外皮:N	吃起來:ADV	很:ADV	像:Vt	路邊攤車:N	的:T	炸:Nv	雙胞胎:N	
+卡士達醬:N	味道:N	就:ADV	和:P	千:DET	層:M	派:N	的:T	一樣:Vi	
+但:C	我:N	個:M	人:N	覺得:Vt	放:Vt	在:P	貝涅:N	裡:POST	比:P	放:Vt	千:DET	層:M	派上:Vt	來得:ADV	搭:Vt	
+其實:ADV	就:ADV	在:P	招待:Vt	貝涅:N	後:N	不久:N	
+店員:N	又:ADV	端來:Vt	了:ASP	剛:ADV	製作好:Vt	的:T	迷你:Vi	檸檬:N	瑪德蓮:N	
+但是:C	一口:ADV	就:ADV	吃掉:Vt	了:ASP	沒:ADV	來得及:ADV	拍照片:Vi	
+酸酸:Vi	的:T	滋味:N	很:ADV	清爽:Vi	
+差點:ADV	手滑:Vi	外帶:Vt	一:DET	盒:M	XD:FW	
+SEASONArtisanP:FW	â:FW	tissier:FW	消費:N	金額:N	須:ADV	加收:Vt	10:DET	%:M	服務:Nv	費用:N	
+大直店:N	新:Vi	推出:Vt	的:T	蜂蜜:N	厚:Vi	鬆餅:N	有:Vt	一點:DET	吸引:Vt	我:N	
+但:C	實在:ADV	太:ADV	遠:Vi	了:T	...:ETCCATEGORY	放棄:Vt	
+且:C	和:P	友人:N	都:ADV	覺得:Vt	價位:N	太:ADV	高:Vi	
+c/p:FW	值:N	真的:ADV	偏低:Vi	
+甜點:N	也:ADV	不:ADV	夠:ADV	讓:Vt	人:N	驚艷:Vi	呢:T	
+『:PARENTHESISCATEGORY	食:N	、:PAUSECATEGORY	遊:Vt	』:PARENTHESISCATEGORY	→:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	deliciouslife.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	一同:ADV	討論:Vt	美食:N	→:FW	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/deliciouslife:FW	2013:DET	

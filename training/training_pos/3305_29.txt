@@ -1,0 +1,85 @@
+ROROROR:FW	(:PARENTHESISCATEGORY	小:Vi	瓶子:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	川湯:N	溫泉:N	養生:Nv	料理:N	
+FriJul:FW	1115:DET	::COLONCATEGORY	54:DET	::COLONCATEGORY	452014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	川湯:N	溫泉:N	養生:Nv	料理:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	01月:N	
+地址:N	：:COLONCATEGORY	台北市:N	北投區:N	行義路:N	300巷:N	10:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2874:DET	-:DASHCATEGORY	7979:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	早上:N	十:DET	一點:DET	至:P	翌日:N	凌晨:N	五點三十:DET	分:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	400:DET	以上:N	
+圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sunyaping.pixnet.net/blog/post:FW	/:FW	41327231:DET	
+川湯:N	在:P	北投:N	溫泉區:N	算是:Vt	老字號:N	
+從:P	1998年:N	就:ADV	開始:Vt	營業:Vi	
+每:DET	人:N	消費:N	400:DET	元:M	就:ADV	可以:ADV	免費:Vi	泡湯:Vi	一:DET	次:M	
+說穿:Vt	了:ASP	吃飯:Vi	加:Vt	泡湯:Vi	只:ADV	要:Vt	400:DET	元:M	
+很:ADV	划算:Vi	啊:T	
+我:N	當然:ADV	要:ADV	來:ADV	
+當天:N	泡完湯:N	已:ADV	近:ADV	九:DET	點:M	
+我們:N	餓:Vi	到:P	肚子:N	都:ADV	平:Vt	了:ASP	
+平常:N	小腹:N	可是:C	很:ADV	大:Vi	的:T	
+所以:C	趕緊:ADV	到:Vt	餐廳區:N	點菜:Vi	打牙祭:Vi	
+安排:Vt	我們:N	坐定:Vi	後:POST	送上:Vt	菜單:N	
+齁:b	
+裡頭:N	洋洋灑灑:Vi	地:T	列:Vt	了:ASP	眾多:Vi	菜色:N	
+看:Vt	得:T	我們:N	是:Vt	眼花撩亂:Vi	
+越來越:ADV	餓:Vi	
+裡頭:N	詳細:Vi	說明:Vt	消費:N	方式:N	外:POST	
+最:ADV	重要:Vi	的:T	當然:ADV	是:Vt	有:Vt	哪些:DET	菜色:N	囉:T	
+首先:ADV	有:Vt	走:Vi	較:P	高檔:N	上千:DET	塊:M	的:T	
+主廚:N	推薦:Vt	
+、:PAUSECATEGORY	另外:C	多:DET	種:M	生魚片:N	、:PAUSECATEGORY	沙拉:N	、:PAUSECATEGORY	手卷:N	、:PAUSECATEGORY	壽司:N	等:POST	日式:A	料理:N	
+下酒菜:N	的:T	酥:Vi	炸:Vt	類:N	、:PAUSECATEGORY	燒烤:Vt	、:PAUSECATEGORY	鐵板:N	、:PAUSECATEGORY	台式:A	熱:N	炒:Vt	、:PAUSECATEGORY	湯:N	、:PAUSECATEGORY	火鍋:N	、:PAUSECATEGORY	三:DET	杯:M	系列:N	、:PAUSECATEGORY	清蒸類:N	、:PAUSECATEGORY	麵飯類:N	、:PAUSECATEGORY	青菜:N	等:POST	應有盡有:Vi	
+另外:C	還:ADV	有:Vt	精緻:Vi	單人:A	套餐:N	
+想:Vt	跟:P	三五:DET	好友:N	來:Vi	一:DET	杯:M	也:ADV	沒:Vt	問題:N	
+洋酒:N	、:PAUSECATEGORY	啤酒:N	、:PAUSECATEGORY	國產:A	酒:N	統統:ADV	有:Vt	
+想來:ADV	點:Vt	健康:Vi	的:T	果汁:N	、:PAUSECATEGORY	或是:C	想:Vt	清涼:Vi	一:DET	下:M	的:T	聖代:N	、:PAUSECATEGORY	冰沙:N	、:PAUSECATEGORY	冰飲:Vt	、:PAUSECATEGORY	咖啡:N	都:ADV	傳好:Vt	等:P	你:N	
+看:Vt	
+是:Vt	不:ADV	是:Vt	光點餐:N	就:ADV	讓:Vt	人:N	很:ADV	煩惱:Vi	啊:T	
+呵呵:ADV	
+我們:N	兩:DET	個:M	人:N	有:Vt	800:DET	的:T	扣搭:Vt	可以:ADV	用:P	
+最後:N	點:Vt	了:ASP	炒川:N	七:DET	
+180:DET	
+肉絲:N	炒飯:N	
+120:DET	
+蔥爆:Vi	牛肉:N	
+320:DET	
+鮮蚵:Vi	豆腐湯:N	
+280:DET	
+共:ADV	900:DET	元:M	
+最後:N	出示:Vt	票:N	
+還:ADV	發票:N	
+我:N	忘:Vt	了:ASP	
+再:ADV	補:Vt	差額:N	就:ADV	行:Vi	囉:T	
+你:N	一定:ADV	會:ADV	覺得:Vt	兩:DET	個:M	人:N	吃:Vt	了:ASP	九百:DET	不:ADV	便宜:Vi	對:Vi	吧:T	
+不過:C	接下來:ADV	看:Vt	這:DET	份量:N	就:ADV	知道:Vt	這:DET	足夠:Vi	三:DET	個:M	人:N	分食:Vt	啦:T	
+第一:DET	道:M	來:Vi	的:T	是:Vt	炒川:N	七:DET	
+川七:N	營養:N	價值:N	高:Vi	
+以:P	麻油:N	枸杞:N	薑絲:N	等:Vt	下去:ASP	拌炒:Vt	過後:POST	香氣:N	四溢:Vi	
+略帶:Vt	甘苦:N	的:T	味道:N	我:N	頗:ADV	愛:Vt	
+好吃:Vi	
+一:ADV	看:Vt	就:ADV	知道:Vt	這:DET	鍋:M	鮮蚵:Vi	豆腐湯:N	絕不:ADV	是:Vt	給:P	兩:DET	個:M	人:N	喝:Vt	的:T	份量:N	
+裡面:N	除了:P	豆腐:N	以及:C	鮮美:Vi	的:T	蚵仔:N	外:POST	
+還:ADV	有:Vt	紅蘿蔔:N	、:PAUSECATEGORY	薑絲:N	、:PAUSECATEGORY	豆莢:N	等:POST	蔬菜:N	
+湯頭:N	清甜:Vi	極了:ADV	
+蔥爆:Vi	牛肉:N	肉質:N	鮮嫩:Vi	且:C	味道:N	香:Vi	
+一:ADV	上桌:Vi	就:ADV	令:Vt	人:N	食指:N	大動:Vt	
+雖然:C	油:Vi	了:ASP	點:M	
+但:C	有:Vt	鮮蚵:Vi	湯:N	
+怕:Vt	什麼:DET	
+最後:N	上來:Vi	的:T	竟然:ADV	是:Vt	炒飯:N	
+這:DET	不:ADV	是:Vt	該:ADV	最早:ADV	送上:Vt	的:T	嗎:T	
+炒飯:N	相當:Vi	入味:N	且:C	米飯:N	是:Vt	粒粒:DET	分明:Vi	
+肉絲:N	、:PAUSECATEGORY	蛋:N	、:PAUSECATEGORY	蔥:N	等:POST	簡單:Vi	食材:N	就:ADV	能:ADV	成為:Vt	一:DET	道:M	佳餚:N	
+師傅:N	功力:N	果真:ADV	了得:Vi	
+我:N	扒:Vt	了:ASP	好幾:DET	碗:M	直到:P	吃:Vt	不:ADV	下:Vt	才:ADV	停:Vt	手:N	
+左上角:N	的:T	小:Vi	碟子:N	是:Vt	傳統:Vi	辦桌:Vi	用:Vt	的:T	那:DET	種:M	小盤:N	
+由:P	它:N	當:P	比例尺:N	就:ADV	知道:Vt	這:DET	桌:M	的:T	份量:N	有:Vt	多:ADV	澎湃:Vi	
+當下:N	很:ADV	餓:Vi	加上:Vt	食物:N	十分:ADV	美味:Vi	
+即使:C	最後:N	已經:ADV	飽:Vt	了:ASP	但:C	還是:ADV	拼:Vt	了:ASP	老命:N	把:P	它們:N	全部:DET	掃光:N	
+三:DET	個:M	人:N	來:ADV	吃:Vt	應該:ADV	最:ADV	剛好:Vi	
+只:ADV	不過:ADV	三:DET	個:M	人:N	又:ADV	可:ADV	吃到:Vt	1200:DET	
+又:ADV	能:ADV	再:ADV	多點:DET	一:DET	道:M	美食:N	啦:T	
+哈哈:ADV	
+第一:DET	次:M	來:POST	川湯:N	就:ADV	讓:Vt	我:N	精神:N	舒爽:Vi	又:ADV	吃:Vt	巧:Vi	吃飽:Vi	
+太:ADV	滿足:Vt	囉:T	
+今年:N	冬天:N	我:N	還要:ADV	再:ADV	去:Vt	一:DET	次:M	啦:T	

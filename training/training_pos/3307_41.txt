@@ -1,0 +1,74 @@
+flower:FW	3:DET	(:PARENTHESISCATEGORY	周:N	花花:Vi	，:COMMACATEGORY	甲:DET	飽:Vi	沒:T	？:QUESTIONCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	延:Vt	三:DET	夜市:N	鐵板:N	炒飯:N	近期:N	吃:Vt	過:ASP	最:ADV	棒:Vi	炒飯:N	
+SatJul:FW	1200:DET	::COLONCATEGORY	05:DET	::COLONCATEGORY	472014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	鐵板:N	炒飯:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大同區:N	延平北路:N	三段:N	45:DET	號:M	
+電話:N	：:COLONCATEGORY	0225317960:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	下午:N	開始:Vt	至:P	凌晨:N	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	$:FW	60:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	肉絲:N	蛋炒飯:N	
+網誌:N	好:Vi	讀:Vt	多:DET	圖:N	無:Vt	音樂版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tenjochou.pixnet.net/blog/post:FW	/:FW	155060226:DET	
+炒飯:N	
+是:Vt	東方人:N	最:ADV	平民:N	的:T	美食:N	
+若:C	這樣:Vi	定義:N	炒飯:N	
+應該:ADV	一點:DET	也:ADV	不為過:Vi	
+小時候:N	的:T	我:N	
+很:ADV	討厭:Vt	吃:Vt	炒飯:N	
+記憶:N	中:POST	
+炒飯:N	總是:Vt	油:N	膩膩:Vi	
+又:ADV	有:Vt	很多:DET	三:DET	色:M	蔬菜:N	
+但:C	陸續:ADV	探訪:Vt	北:N	中:N	南名:N	店:N	後:POST	
+開始:Vt	有:Vt	了:ASP	不:ADV	一樣:Vi	的:T	認識:Nv	
+老實說:ADV	
+民生:N	炒飯:N	、:PAUSECATEGORY	小:Vi	茅屋:N	雖然:C	好吃:Vi	
+但:C	對:P	我:N	而言:Vt	稱不上:Vt	驚艷:Vi	
+價格:N	也:ADV	不:ADV	算:Vt	便宜:Vi	
+這:DET	次:M	閒:Vi	晃到:Vt	延:Vt	三:DET	夜市:N	
+反而:C	意外:Vt	發現:Vt	間:POST	好:Vi	店:N	
+真正:A	地:T	平民:N	美食:N	
+其實:ADV	迺:b	夜市:N	本來:ADV	就:ADV	是:Vt	個:M	隨興:Vi	的:T	行程:N	
+沒有:ADV	一定:ADV	要:ADV	吃:Vt	什麼:DET	
+經過:Vt	鐵板:N	炒飯:N	時:POST	
+被:P	圍:Vt	在:P	攤位:N	前:POST	的:T	人群:N	吸引:Vt	
+究竟:ADV	大家:N	在:P	等:Vt	什麼:DET	
+除了:P	攤位:N	前:N	價目表:N	外:POST	
+也:ADV	可:ADV	參考:Vt	貼:Vt	在:P	桌:N	上:N	的:T	菜單:N	
+飯類:N	、:PAUSECATEGORY	麵類:N	、:PAUSECATEGORY	炒:Vt	菜類:N	、:PAUSECATEGORY	湯類:N	
+居然:ADV	連:Vt	蛋:N	包飯:Vi	和:C	蚵仔煎:N	都:ADV	有:Vt	賣:Vt	
+笑:Vi	
+經驗:N	法則:N	來:ADV	說:Vt	
+販售品:N	項:N	越:ADV	多元:Vi	的:T	餐廳:N	地雷:N	越:ADV	多:Vi	
+所以:C	還是:ADV	乖乖:Vi	跟:P	著:ASP	人群點:N	才:ADV	不會:ADV	錯:Vi	
+無誤:Vi	
+大夥:N	清一色:ADV	都:ADV	點:Vt	炒飯:N	
+於是乎:C	
+老闆:N	：:COLONCATEGORY	來:ADV	盤:Vt	肉絲:N	蛋炒飯:N	
+這:DET	炒飯:N	很:ADV	不:ADV	一樣:Vi	
+不用:ADV	黑色:N	大鍋:N	、:PAUSECATEGORY	他:N	用:P	鐵板:N	炒:Vt	
+老闆娘:N	手腳:N	可:ADV	俐落:Vi	
+咻咻:ADV	休:Vt	一盤盤:DET	炒飯:N	上桌:Vi	囉:T	
+肉絲:N	蛋炒飯:N	---:DASHCATEGORY	$:FW	60:DET	
+黃綠:Vi	紅:Vi	三:DET	色:M	
+視覺:N	效果:N	先:ADV	加:Vt	了:ASP	一:ADV	分:Vt	
+粒粒:DET	分明:Vi	的:T	飯粒:N	
+淺淺:Vi	透著:Vt	油光:N	
+肉絲:N	、:PAUSECATEGORY	蛋:N	、:PAUSECATEGORY	小白菜:N	各:ADV	司:Vt	其:DET	職:N	地:T	表現:Vt	著:ASP	
+不:ADV	加:Vt	味精:N	
+只:ADV	用:P	醬油:N	調味:Vi	
+若要:C	加:Vt	辣:Vi	、:PAUSECATEGORY	胡椒:N	
+記得:Vt	事先:ADV	告知:Vt	店家:N	
+用:P	生:Vt	辣椒:N	下去:Vi	炒:Vt	辣:Vi	度超:N	夠:Vi	
+小辣:Vi	已:ADV	微微:ADV	飆:Vt	汗:N	
+這:DET	炒飯:N	真:ADV	得:ADV	好吃:Vi	
+味道:N	夠:Vi	、:PAUSECATEGORY	不:ADV	油膩:Vi	
+香氣:N	十足:Vi	
+份量:N	不:ADV	大:Vi	
+女生:N	應該:ADV	都:ADV	可:ADV	輕易:ADV	吃完:Vt	
+但:C	用料:N	很:ADV	實在:Vi	
+周:N	花花:N	覺得:Vt	
+延三:N	夜市:N	這:DET	盤:M	鐵板:N	炒飯:N	好吃:Vi	到:P	心坎:N	裡:N	
+人人:N	都:ADV	負擔得起:Vt	的:T	美食:N	
+更:ADV	顯:Vt	珍貴:Vi	
+歡迎:Vt	加入:Vt	":FW	周花:N	花甲:N	飽:Vi	沒:Vt	":FW	粉絲團:N	
+最:ADV	新:Vi	美食:N	資訊:N	報:Vt	你:N	知:Vt	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/tenjochou:FW	

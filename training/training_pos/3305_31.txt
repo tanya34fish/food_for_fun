@@ -1,0 +1,72 @@
+shinstory:FW	(:PARENTHESISCATEGORY	綠油油:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	LACREMA:FW	克立瑪:N	咖啡館:N	
+FriJul:FW	1116:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	422014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	LACREMA:FW	克立瑪:N	咖啡館:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	
+地址:N	：:COLONCATEGORY	光復南路:N	280巷:N	45:DET	號:M	
+電話:N	：:COLONCATEGORY	0227313264:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週四:N	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	00:DET	
+週五:N	-:DASHCATEGORY	週六:N	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	30:DET	
+週日:N	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	左右:POST	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	athenalife0104.pixnet.net/blog/post:FW	/:FW	183101184:DET	
+趁:P	休假日:N	到:Vt	九份:N	逛逛:Vt	
+但:C	回到:Vt	臺北:N	的:T	午後:N	大雨:N	讓:Vt	人:N	心煩意亂:Vi	
+冒雨:Vi	走到:Vt	國父:N	紀念館:N	附近:N	的:T	生活:N	工場:N	拿:Vt	我:N	的:T	水氧機:N	後:POST	
+Eric:FW	想:Vt	找:Vt	個:M	地方:N	躲雨:Vi	休息:Vi	一下:N	
+想到:Vt	之前:POST	去:ADV	過:Vt	的:T	LACREMA:FW	裡面:N	有:Vt	個:M	
+咖啡:N	加:Vt	冰淇淋:N	
+很:ADV	好吃:Vi	
+便:ADV	帶:Vt	我:N	到:Vt	裡面:N	坐坐:Vi	
+店:N	內:N	都:ADV	是:Vt	沉穩:Vi	的:T	原木色:N	
+讓:Vt	人:N	有:Vt	穩重:Vi	而:C	低調:Vi	的:T	感覺:N	
+櫃檯:N	就:ADV	在:P	一:DET	入門:Vi	的:T	地方:N	
+所有:DET	的:T	咖啡:N	就:ADV	在:P	裡面:N	製作:Vt	
+店:N	內:N	當然:ADV	也:ADV	有:Vt	濃濃:Vi	的:T	咖啡:N	香氣:N	
+廁所:N	裏面:N	擺有:Vt	吹風機:N	
+身體:N	被:P	雨:N	淋溼:Vt	的:T	我們:N	可以:ADV	整理:Vt	一下:N	
+真的:ADV	好:ADV	貼心:Vi	
+加分加分:Vi	
+我們:N	稍微:ADV	吹乾:Vt	衣服:N	後:POST	坐:Vi	回:Vt	位置:N	上:DET	點:M	餐:N	
+平日:N	的:T	下午茶:N	時段:N	$:FW	200:DET	元:M	有:Vt	一:DET	杯:M	咖啡:N	加:Vt	一:DET	個:M	點心:N	
+感覺:N	也:ADV	太:ADV	超值:Vi	了:T	
+等於:Vt	是:Vt	喝:Vt	咖啡:N	送:Vt	點心:N	
+我:N	點:Vt	了:ASP	Eric:FW	大推:Vt	的:T	
+咖啡:N	加:Vt	冰淇淋:N	
+咖啡:N	加:Vt	冰淇淋:N	
+有:Vt	三:DET	種:M	選擇:N	
+克立瑪:N	$:FW	180:DET	
+二:DET	球:N	香草:N	冰淇淋:N	
+香杏克立瑪:N	$:FW	200:DET	
+一:DET	球:N	香草:N	、:PAUSECATEGORY	一:DET	球:N	杏仁:N	
+杏仁:N	克立瑪:N	$:FW	220:DET	
+二:DET	球:N	杏仁:N	
+menu:FW	的:T	咖啡:N	都:ADV	可以:ADV	搭配:Vt	下午茶:N	
+超過:Vt	200:DET	的:T	部份:DET	補:Vt	差額:N	即可:ADV	
+我:N	的:T	香杏克立:N	瑪:b	
+冰淇淋:N	味道:N	加:Vt	在:P	偏:Vt	酸:Vi	的:T	咖啡:N	裡:N	
+中和:N	的:T	剛剛好:ADV	
+不會:ADV	太:ADV	甜:Vi	膩:Vi	
+杏仁:N	與:C	咖啡:N	的:T	組合:Nv	也:ADV	不:ADV	突兀:Vi	
+我:N	很:ADV	怕:Vt	大:Vi	賣場:N	出門:Vi	的:T	杏仁味:N	
+但:C	克立瑪:N	的:T	杏仁:N	味道:N	不:ADV	那麼:ADV	驚人:Vi	
+香草:N	的:T	味道:N	並:ADV	不:ADV	明顯:Vi	
+沒有:ADV	那麼:ADV	甜:Vi	
+加:Vt	在:P	咖啡:N	裡:N	算是:Vt	規規矩矩:Vi	
+但:C	咖啡:N	實在:ADV	太:ADV	酸:Vi	了:T	
+冰淇淋:N	吃完:Vt	後:POST	咖啡:N	一起:ADV	沒:ADV	喝完:Vt	
+餅乾:N	的:T	口味:N	可以:ADV	四:DET	選:Vt	三:DET	
+我們:N	選:Vt	了:ASP	--:DASHCATEGORY	
+是:Vt	偏:ADV	鬆厚:Vi	的:T	口感:N	
+藍莓:N	起:POST	司:Vt	蛋糕:N	是:Vt	偏:ADV	清爽:Vi	的:T	味道:N	
+但:C	蛋糕:N	很:ADV	扎實:Vi	
+喜歡:Vt	輕:Vi	乳酪:N	的:T	人:N	應該:ADV	會:ADV	喜歡:Vt	
+不過:C	不:ADV	吸引:Vt	我:N	這:DET	個:M	喜歡:Vt	很:ADV	濃郁:Vi	起司味:N	的:T	人兒:N	
+藍莓:N	味道:N	更:ADV	濃:Vi	點:ADV	會:ADV	更:ADV	好:Vi	
+雖然:C	這:DET	次:M	試:N	的:T	克立瑪:N	及:C	甜點:N	對:P	我:N	來:ADV	說:Vt	都:ADV	普普通通:Vi	
+不過:C	我:N	想:Vt	這:DET	是:Vt	個:M	人:N	口味:N	的:T	問題:N	
+我:N	不:ADV	愛:Vt	酸味:N	咖啡:N	
+偏愛:Vt	重:Vi	乳酪:N	
+朋友:N	倒是:ADV	喜歡:Vt	的:T	很:ADV	::COLONCATEGORY	

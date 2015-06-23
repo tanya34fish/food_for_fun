@@ -1,0 +1,85 @@
+uwxuwx(P:FW	幣:N	能:ADV	買:Vt	美食:N	嗎:T	?:QUESTIONCATEGORY	!:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	-:DASHCATEGORY	杏桃:N	鬆餅屋:N	熱門:Vi	排隊:Vi	下午茶:N	
+SunJul:FW	1309:DET	::COLONCATEGORY	24:DET	::COLONCATEGORY	272014:DET	圖文:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	75825904:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	UZNAOMOM:FW	杏桃:N	鬆餅屋:N	地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	四段:N	216巷:N	19弄:N	16:DET	號:M	
+近:DET	捷運:N	忠孝:N	敦化:N	站:Vi	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27712977:DET	營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	
+22:DET	::COLONCATEGORY	00:DET	備註:Vt	：:COLONCATEGORY	限時:ADV	用餐:Vi	2:DET	小時:M	
+10:DET	%:M	服務費:N	另:DET	計:N	消費:N	時間:N	：:COLONCATEGORY	2014.06:DET	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	來自:Vt	日本:N	表:N	參道:Vi	
+裡:N	原宿:N	貓街:N	
+結合:Vt	時尚:N	與:C	藝術:N	的:T	鬆餅店:N	
+杏桃:N	鬆餅屋:N	
+是:Vt	台北:N	東區:N	巷弄:N	內:N	的:T	熱門:Vi	排隊:Vi	下午:N	茶店:N	
+我:N	提前:Vi	半:DET	個:M	月:N	訂:Vt	假日:N	時段:N	
+只:ADV	訂到:Vt	傍晚:N	五:DET	點:M	的:T	座位:N	
+還:ADV	有:Vt	限時:A	2:DET	小時:N	的:T	用餐:Nv	限制:N	
+杏桃:N	自稱:Vt	裝潢:N	結合:Vt	藝術:N	與:C	時尚:N	
+我:N	感受:Vt	不:ADV	到:Vt	
+倒是:ADV	滿滿:Vi	的:T	用餐:Nv	人潮:N	以及:C	排隊:Nv	人潮:N	
+把:P	裡外:N	空間:N	擠:Vt	得:T	水洩不通:Vi	
+很:ADV	不:ADV	舒適:Vi	
+杏桃:N	的:T	餐點:N	以:P	各:DET	式:M	鬆餅:N	、:PAUSECATEGORY	冷:Vi	熱:Vt	茶飲:N	為主:Vi	
+鹹食:N	選擇:Vt	很少:Vi	
+香煎鹽麴:N	豬排:N	套餐:N	
+NT:FW	.:PERIODCATEGORY	380:DET	
+附湯:N	、:PAUSECATEGORY	沙拉:N	、:PAUSECATEGORY	日式:A	醃:Vt	漬:N	小菜:N	、:PAUSECATEGORY	160:DET	元:M	飲品:N	
+印象:N	中:POST	
+這:DET	是:Vt	店:N	內:N	唯一:A	
+較:ADV	正式:Vi	的:T	主餐:N	
+油醋:N	生菜:N	沙拉:N	有:Vt	新鮮:Vi	
+旁邊:N	還:ADV	附:Vt	二:DET	片:M	麵包:N	
+湯:N	喝:Vt	起來:ASP	像:P	羅宋湯:N	
+酸酸:Vi	香香:Vi	的:T	
+主食:N	五穀飯:N	
+擺:Vt	在:P	最:ADV	上面:N	的:T	偏乾:N	硬:Vi	
+感覺:N	像:Vt	是:Vt	微波:N	加熱:Vi	不:ADV	均勻:Vi	
+主角:N	豬排:N	是:Vt	用:P	煎:Vt	的:T	
+算是:Vt	有:Vt	入:Vt	味:N	
+但:C	口感:N	扎實:Vi	偏:ADV	硬:Vi	
+我:N	不怎麼:ADV	喜愛:Vt	
+附:Vt	的:T	飲料:N	選:Vt	覆盆子:N	汽泡:N	飲:Vt	
+無:Vt	酒精:N	
+看到:Vt	汽泡:N	一顆顆:DET	往:P	上:N	衝:Vi	就:ADV	覺得:Vt	有:Vt	清涼:Vi	
+實際:Vi	上:POST	酸酸甜甜:Vi	是:Vt	挺:ADV	不錯:Vi	喝:Vt	
+海鮮:N	白醬:N	歐姆:M	蛋:N	
+NT:FW	.:PERIODCATEGORY	190:DET	
+就是:C	歐姆:M	蛋:N	附:Vt	一:DET	小:Vi	盆:N	白:Vi	醬:N	在:P	旁邊:N	
+用:P	小:Vi	鐵鍋:N	裝:Vt	
+看起來:ADV	是:Vt	很:ADV	可愛:Vi	
+不過:C	吃起來:ADV	實在:ADV	沒:Vt	什麼:DET	驚豔感:N	
+最:ADV	奇怪:Vt	是:Vt	鐵:N	鍋:N	上:POST	還:ADV	裝:Vt	四:DET	、:PAUSECATEGORY	五:DET	片:M	煎:Vt	過:ASP	的:T	三:DET	層:M	肉:N	
+感覺:N	像:Vt	在:P	吃:Vt	原住民:N	的:T	石板:N	烤肉:N	
+蘇芙蕾厚:N	鬆餅:N	
+NT.250/W:FW	
+附:Vt	160:DET	元:M	飲料:N	一:DET	杯:M	
+這:DET	道:M	是:Vt	店裡:N	鎮店:N	之:T	寶:N	
+250:DET	元:M	雙層價:N	
+還:ADV	附:Vt	飲料:N	一:DET	杯:M	
+感覺:Vt	好:ADV	超值:Vi	
+我:N	先前:N	看過:Vt	不少:DET	網友:N	對:P	厚:Vi	鬆餅:N	的:T	普遍:Vi	看法:N	
+什麼:DET	日本:N	來:Vi	的:T	
+根本:ADV	就:ADV	是:Vt	台灣:N	雞蛋糕:N	
+做:Vt	圓:Vi	做:Vt	大:Vi	嘛:T	
+我:N	吃:Vt	過後:POST	覺得:Vt	
+台灣:N	雞蛋糕:N	還:ADV	比較:ADV	香:Vi	比較:ADV	有:Vt	味:N	
+就算:C	厚:Vi	鬆餅:N	高雅:Vi	細緻:Vi	
+不:ADV	加:Vt	糖漿:N	我:N	無法:ADV	入口:Vi	
+飲料:N	點:Vt	杏桃:N	汽泡:N	飲:Vt	
+無:Vt	酒精:N	
+前:DET	幾:DET	口:M	嚇到:Vt	我:N	
+怎麼:ADV	如此:ADV	無味:Vi	
+直至:P	把:P	杏桃:N	戳破:Vt	才:ADV	好喝:Vi	一點:ADV	以:P	舒芙蕾:N	且:C	皆:ADV	在:P	東區:N	來:ADV	說:Vt	
+我:N	比較:ADV	愛:Vt	咖朵:N	咖啡館:N	做:Vt	的:T	
+口味:N	選擇:Vt	多:DET	
+還:ADV	有:Vt	我:N	愛:Vt	的:T	抹:Vt	茶:N	
+杏桃:N	鬆餅屋:N	的:T	餐點:N	
+低於:Vt	我:N	的:T	期望:N	
+看到:Vt	店裡:N	店:N	外:N	人山人海:Vi	
+我:N	有:Vt	種:M	跟:P	世界:N	格格不入:Vi	的:T	感覺:N	-:DASHCATEGORY	不:ADV	了解:Vt	眾人:N	的:T	想法:N	
+好:ADV	孤獨:Vi	啊:T	
+抓頭:N	
+延伸:Vi	閱讀:Vt	：:COLONCATEGORY	◎:FW	咖朵:N	咖啡館:N	
+現:ADV	做:Vt	舒芙蕾:N	與:C	蘋果派:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	69225486:DET	◎:FW	莫拉:N	諾:FW	咖啡:N	
+英式:A	三:DET	層:M	下午茶:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	74585097:DET	◎:FW	MachikakaWacafe:FW	抹茶:N	甜點:N	下午茶:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx/article:FW	/:FW	73966384:DET	--:DASHCATEGORY	人生:N	以:P	吃喝玩樂:Vi	為:P	目的:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/uwxuwx:FW	--:DASHCATEGORY	

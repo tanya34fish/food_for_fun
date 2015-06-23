@@ -1,0 +1,147 @@
+wlsherica:FW	(:PARENTHESISCATEGORY	文字:N	工作:N	者:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	老友:N	記:Vt	粥:N	麵館:N	
+SunJul:FW	1313:DET	::COLONCATEGORY	30:DET	::COLONCATEGORY	312014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	老友:N	記:Vt	粥:N	麵館:N	
+消費:N	時間:N	：:COLONCATEGORY	201407:DET	
+地址:N	：:COLONCATEGORY	台北市:N	敦化南路:N	一段:N	232巷:N	16:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2731:DET	-:DASHCATEGORY	2269:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	NO:FW	
+有無:Vt	包廂:N	：:COLONCATEGORY	NO:FW	
+推薦:Vt	延伸:Vi	閱讀:Vt	圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	shrimp2.pixnet.net/blog/post:FW	/:FW	105825479:DET	
+某天:N	收到:Vt	朋友:N	私房:A	名單:N	
+老友:N	記:Vt	粥:N	麵館:N	
+他:N	向:P	我:N	大力:ADV	推薦:Vt	排骨飯:N	
+身為:Vt	排骨:N	控:Vt	
+哪裡:N	有:Vt	好:Vi	排骨:N	哪裡:N	去:ADV	
+無庸置疑:Vi	
+地點:N	位在:Vt	東區:N	頂:ADV	好:Vi	名店城:N	對面:N	巷子:N	內:N	
+附近:N	停:Vt	機車:N	還:ADV	算:Vt	方便:Vi	
+忠孝東路:N	彎:N	進來:Vi	第一:DET	個:M	巷子:N	口:N	就:ADV	可以:ADV	看到:Vt	黃:Vi	底:POST	紅字:N	的:T	老友:N	記:Vt	
+已經:ADV	來:Vi	台:N	19:DET	年:M	的:T	老友:N	記:Vt	
+秉持:Vt	著:ASP	對:P	傳統:N	港式:A	料理:N	的:T	堅持:Nv	
+連:C	日本:N	媒體:N	都:ADV	慕名而來:Vi	
+大門:N	口:N	的:T	落地窗:N	貼滿:Vt	各:DET	大:Vi	媒體:N	採訪:Nv	報導:N	
+用餐:Nv	環境:N	寬敞:Vi	
+座位:N	不少:Vi	
+不論:C	是:Vt	大:Vi	圓桌:N	、:PAUSECATEGORY	四:DET	人:N	桌:N	或是:C	兩:DET	人:N	桌:N	都:ADV	有:Vt	
+容納:Vt	一百:DET	人:N	應該:ADV	跑:Vi	不:ADV	掉:Vt	
+翻:Vt	桌率:N	高:Vi	
+除非:C	例假日:N	或是:C	周五:N	晚上:N	這:DET	種:M	慶祝:Nv	時段:N	
+但:C	通常:ADV	晚:Vi	來:ADV	有:Vt	個:M	壞處:N	
+燒臘:N	可能:ADV	已經:ADV	售罄:Vi	
+服務員:N	說:Vt	燒臘:N	一:DET	天:M	出爐:Vi	兩:DET	個:M	時段:N	
+賣完:Vt	就:ADV	沒:Vt	了:ASP	
+如果:C	非:ADV	晚:Vi	到:P	不可:ADV	又:ADV	非:ADV	吃:Vt	燒臘:N	不可:ADV	
+建議:Vt	先:ADV	電話:N	訂餐:N	=:FW	&:FW	gt:FW	
+0227312269:DET	
+港式:A	的:T	招牌:N	粥麵:N	種類:N	齊全:Vi	
+油雞:N	、:PAUSECATEGORY	燒肉:N	、:PAUSECATEGORY	咖哩:N	牛腩:N	、:PAUSECATEGORY	三寶:N	、:PAUSECATEGORY	撈麵:N	等:POST	
+價格:N	落在:Vt	100:DET	-:DASHCATEGORY	150:DET	之間:POST	不等:POST	
+還:ADV	有:Vt	香港:N	最:ADV	知名:Vi	的:T	白粥:N	料理:N	
+在:P	香港:N	吃到:Vt	的:T	魚片:N	粥:N	入口:N	即:ADV	化:Vt	超:Vt	美味:Vi	..:ETCCATEGORY	懷念:Vt	
+另外:C	還:ADV	有:Vt	提供:Vt	多:DET	種:M	小食:N	：:COLONCATEGORY	芥藍:N	、:PAUSECATEGORY	西:N	生菜:N	、:PAUSECATEGORY	豬肝:N	、:PAUSECATEGORY	鳳爪:N	等:POST	
+飲料:N	就:ADV	單純:Vi	是:Vt	汽水:N	
+餐桌:N	上:N	有:Vt	茶水:N	供應:Vt	
+應該:ADV	是:Vt	給:P	喝:Vt	的:T	吼:Vi	
+今天:N	先:ADV	試試看:Vt	他們:N	家:N	的:T	豉汁:N	排骨:N	與:C	貴妃:N	雞:N	
+雞:N	能:ADV	被:P	稱作:Vt	貴妃:N	
+不:ADV	覺得:Vt	要:ADV	試試:Vt	嗎:T	
+老友:N	記:Vt	還:ADV	有:Vt	一點:DET	讓:Vt	我:N	印象:N	深刻:Vi	
+服務:Nv	阿姨:N	們:N	態度:N	都:ADV	超:Vt	好:Vi	.....:ETCCATEGORY	
+這:DET	跟:P	我:N	在:P	香港:N	當地:N	館子:N	吃飯:Vi	遇到:Vt	的:T	直白:N	服務:Nv	態度:N	差:Vi	好多:DET	
+所以:C	讓:Vt	我:N	有點:ADV	震驚:Vt	
+不過:C	老友:N	記:Vt	的:T	服務:Nv	態度:N	真的:ADV	好:Vi	
+阿姨:N	們:N	都:ADV	很:ADV	熱心:Vt	而且:C	認真:Vi	服務:Nv	
+讚:Vt	
+還:ADV	不:ADV	收:Vt	服務費:N	
+喔:T	真是:ADV	太:ADV	佛心:N	....:ETCCATEGORY	
+【:PARENTHESISCATEGORY	原盅豉汁:N	排骨飯:N	-:DASHCATEGORY	NT:FW	115:DET	】:PARENTHESISCATEGORY	
+排骨:N	飯:N	現:ADV	點:Vt	現:N	做:Vt	需要:N	15:DET	分鐘:M	上:DET	餐:M	
+因為:C	排骨:N	與:C	盅飯:N	需要:Vt	分開:Vt	處理:Vt	
+從:P	生米炊:Vt	成熟:Vi	飯:N	就:ADV	需要:Vt	45:DET	分鐘:M	
+真是:ADV	費工:Vi	
+所以:C	來:ADV	吃:Vt	盅:N	飯:N	真的:ADV	很:ADV	值得:Vi	
+而且:C	在:P	家:N	應該:ADV	很:ADV	難:Vi	處理:Vt	這:DET	種:M	盅飯:N	
+整:DET	個:M	陶盅:N	裡面:N	的:T	米粒:N	軟:Vi	硬:ADV	要:ADV	恰到好處:Vi	
+不能:ADV	過:ADV	硬:Vi	或是:C	太:ADV	軟:Vi	黏:Vi	
+都:ADV	會:ADV	失去:Vt	它:N	的:T	原味:N	
+滿滿:Vi	排:Vt	骨肉:N	鋪:Vt	在:P	飯:N	上:N	
+另外:C	有:Vt	少許:DET	芥藍菜:N	
+意外:N	的:T	不:ADV	苦:Vi	
+再度:ADV	驚嚇:Vt	
+芥藍:N	配上:Vt	一點:DET	醬油汁:N	
+質地:N	已經:ADV	軟:Vi	了:T	但:C	保有:Vt	芥藍:N	的:T	清脆:Vi	
+重頭戲:N	排骨:N	來:Vi	了:ASP	
+雖然:C	排骨:N	大小:N	不等:POST	但:C	至少:ADV	有:Vt	10:DET	塊:M	左右:POST	的:T	排骨:N	
+最:ADV	讓:Vt	我:N	意外:Vt	的:T	不只:ADV	是:Vt	它:N	的:T	肉質:N	
+還:ADV	有:Vt	他:N	的:T	肉:N	真的:ADV	算:Vt	多:Vi	
+雖然:C	我:N	吃:Vt	軟骨:N	
+但:C	如果:C	整:DET	盅:M	飯:N	都:ADV	給:Vt	我:N	軟骨:N	
+別人:N	會:ADV	以為:Vt	我:N	在:P	吃:Vt	誰:N	家:N	小孩:N	手指頭:N	...:ETCCATEGORY	
+或許:ADV	是:Vt	真的:ADV	很:ADV	幸運:Vi	
+遇到:Vt	的:T	軟骨:N	大概:ADV	一:DET	塊:M	左右:POST	
+其他:DET	都:ADV	是:Vt	細碎:Vi	小:Vi	骨頭:N	
+不能:ADV	吞:Vt	的:T	
+我:N	只:ADV	能:ADV	說:Vt	他:N	排骨:N	真的:ADV	處理:Vt	的:T	
+太:ADV	
+好:Vi	
+吃:Vt	
+了:T	
+吧:T	
+排骨:N	質地:N	柔軟:Vi	外:POST	保有:Vt	新鮮:Vi	的:T	彈性:N	
+每:DET	咀嚼:Vt	一:DET	次:M	都:ADV	像:Vt	排骨:N	在:P	口:N	中:N	跳舞:Vi	
+無疑:ADV	他:N	已經:ADV	榮登:Vt	我:N	心:N	中:N	台北:N	第一:DET	名:M	原盅豉汁:N	排骨飯:N	
+除了:P	排骨:N	讓:Vt	人:N	大呼:Vt	過癮:Vi	以外:POST	
+底下:N	的:T	米飯:N	也:ADV	不:ADV	是:Vt	省:N	油:N	的:T	燈:N	
+帶:Vt	著:ASP	少許:DET	醬汁:N	的:T	米飯:N	
+快速:Vi	攪拌:Vt	一下:N	後:POST	
+即使:C	吃到:Vt	最後:N	一口:ADV	仍:ADV	不:ADV	油:N	不:ADV	膩:Vi	
+對於:P	已經:ADV	不:ADV	習慣:Vt	油膩:Vi	的:T	我:N	非常:ADV	適合:Vi	
+你:N	吃到:Vt	他:N	最:ADV	棒:Vi	的:T	吃法:N	是:Vt	什:DET	嗎:T	
+先:ADV	吃:Vt	一口:ADV	米飯:N	原味:N	
+吸飽:Vt	湯汁:N	後:POST	的:T	渾圓:Nv	米粒:N	
+彈性:N	十足:Vi	
+接著:ADV	挖:Vt	一些:DET	店家:N	特製:Nv	辣椒油:N	
+攪拌:Vt	著:ASP	吃:Vt	
+讓:Vt	辣椒:N	香味:N	在:P	鼻腔:N	整:DET	個:M	散開:Vi	
+不:ADV	小心:Vt	加:Vt	太多:DET	
+吃飯:Vi	後:POST	兩:DET	小時:N	還是:C	香腸:N	嘴:N	
+謹慎:Vi	使用:Vt	
+【:PARENTHESISCATEGORY	金牌:N	貴妃:N	雞:N	撈麵:N	-:DASHCATEGORY	NT:FW	125:DET	】:PARENTHESISCATEGORY	
+除了:P	排骨:N	招牌:N	
+貴妃:N	雞:N	也:ADV	是:Vt	常見:Vi	菜色:N	座上賓:N	
+雞腿:N	部位:N	的:T	油雞:N	
+肉質:N	細嫩:Vi	
+入口:N	即:ADV	化:Vt	
+配:Vt	點:M	蔥:N	油:N	的:T	香氣:N	
+是:Vt	我:N	吃:Vt	過:ASP	最:ADV	柔軟:Vi	的:T	油雞:N	
+雞皮:N	不:ADV	油:N	不:ADV	膩:Vi	
+底下:N	的:T	撈麵:N	雖然:C	有點:ADV	糊:Vi	在一塊:Vi	
+但:C	細:Vi	麵:N	吃起來:ADV	很:ADV	有:Vt	嚼:Vt	勁:N	
+喜歡:Vt	吃:Vt	嫩:Vi	雞腿:N	的:T	朋友:N	不能:ADV	錯過:Vt	貴妃:N	雞:N	
+不愧:ADV	是:Vt	金牌:N	啊:T	XD:FW	
+而:C	麵飯:N	的:T	附湯:N	
+意外:Vt	清爽:Vi	的:T	湯頭:N	溢:Vi	著:ASP	濃郁:Vi	蝦味:N	
+對:P	蝦子:N	過敏:Vi	的:T	朋友:N	可:ADV	切記:Vt	別:ADV	喝:Vt	這:DET	碗:M	湯:N	...:ETCCATEGORY	
+【:PARENTHESISCATEGORY	鮮蝦:N	腸粉:N	-:DASHCATEGORY	NT:FW	85:DET	】:PARENTHESISCATEGORY	
+腸粉:N	三:DET	份:M	各:DET	兩:DET	支:M	蝦仁:N	
+下面:N	的:T	沾醬:N	稍微:ADV	少:Vi	了:ASP	一些:DET	
+很:ADV	可惜:Vi	他:N	的:T	腸粉:N	弄得:Vt	稍微:ADV	有點:ADV	軟:Vi	爛:Vi	
+夾起來:Vi	容易:Vi	破:Vt	
+相較:Vi	起來:ASP	我:N	期待:Vt	吃到:Vt	的:T	是:Vt	柔軟:Vi	中:POST	帶:Vt	點:M	韌度:N	的:T	腸粉:N	
+可惜:Vi	
+到:P	現在:N	我:N	仍:ADV	懷念:Vt	銅鑼灣:N	鳳城:N	酒家:N	的:T	港式:A	早:Vi	茶:N	
+蝦子:N	的:T	部分:DET	
+或許:ADV	醬汁:N	中:POST	帶:Vt	點:M	醋:N	
+而:C	我:N	比較:ADV	愛:Vt	甜:Vi	一點:ADV	的:T	鮮蝦:N	腸粉:N	...:ETCCATEGORY	
+啊:T	
+比較:ADV	不:ADV	對:P	我:N	的:T	口味:N	
+不:ADV	到:Vt	用餐:Nv	時間:N	就:ADV	已經:ADV	八成:ADV	滿:ADV	
+可以:ADV	想見:Vt	巔峰:N	時刻:N	的:T	滿座:Vi	盛況:N	
+即使:C	客人:N	絡繹:Vi	不:ADV	決:Vt	
+服務:Nv	阿姨:N	仍:ADV	笑臉:N	迎人:N	
+收銀檯:N	老闆娘:N	也:ADV	不:ADV	例外:Vi	
+說:Vt	真格:Vi	
+被:P	收服:Vt	也:ADV	不:ADV	意外:Vt	啊:T	
+排骨:N	真的:ADV	好:ADV	好吃:Vi	歐:N	....:ETCCATEGORY	天:M	啊:T	
+-----:DASHCATEGORY	

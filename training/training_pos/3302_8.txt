@@ -1,0 +1,229 @@
+yenyen365(yenyen:FW	365:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	SoloPasta:FW	心目中:N	的:T	義大利:N	滋味:N	是:Vt	?:QUESTIONCATEGORY	
+ThuJul:FW	1015:DET	::COLONCATEGORY	29:DET	::COLONCATEGORY	252014:DET	=:FW	=:FW	=:FW	=:FW	SoloPasta:FW	-:DASHCATEGORY	你:N	心目中:N	的:T	義大利:N	滋味:N	是:Vt	什麼:DET	呢:T	？:QUESTIONCATEGORY	=:FW	=:FW	=:FW	=:FW	
+餐廳:N	名稱:N	：:COLONCATEGORY	SoloPasta:FW	-:DASHCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	安和路:N	一段:N	29:DET	-:DASHCATEGORY	1:DET	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2775:DET	-:DASHCATEGORY	3645:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	4:DET	-:DASHCATEGORY	500:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週五:N	::COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	15:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	17:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+週六:N	-:DASHCATEGORY	週日:N	::COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	皮耶蒙:N	熱水澡:N	沙拉:N	、:PAUSECATEGORY	炭燒:Vt	原味:N	自然:N	豬:N	、:PAUSECATEGORY	栗子:N	蒙布朗:N	蛋糕:N	
+有:Vt	照片:N	好:Vi	閱讀:Vt	網誌版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	yenyen365.blogspot.tw/2014/07/solo-pasta.html#more:FW	
+=:FW	=:FW	=:FW	=:FW	=:FW	BBS:FW	也好:T	閱讀:Vt	版:N	=:FW	=:FW	=:FW	=:FW	::COLONCATEGORY	::COLONCATEGORY	食:Vt	::COLONCATEGORY	::COLONCATEGORY	SoloPasta:FW	-:DASHCATEGORY	你:N	心目中:N	的:T	義大利:N	滋味:N	是:Vt	什麼:DET	呢:T	
+發:Vt	了願:Vi	就:ADV	要:ADV	實現:Vt	
+這:DET	是:Vt	跟:P	神明:N	的:T	約定:Nv	
+夯:b	不:T	啷:b	噹:ADV	
+吃素:Vi	生活:Vi	2:DET	ndRound:FW	正式:Vi	開始:Vt	
+但:C	我:N	吃素:Vi	吃:Vt	得:T	很:ADV	隨興:Vi	
+只要:C	肉食:A	不:ADV	入口:Vi	都:ADV	可以:ADV	盡情:ADV	享用:Vt	
+吃素:Vi	也:ADV	吃:Vt	得:T	很:ADV	享樂:Vi	
+誰:N	說:Vt	吃素:Vi	只:ADV	能:ADV	屈就:Vt	於:P	乏:Vt	然:Vi	無味:Vi	的:T	青菜:N	蘿蔔:N	
+但:C	我:N	是:Vt	很:ADV	愛:Vt	吃:Vt	青菜:N	蘿蔔:N	沒:ADV	錯:Vi	啦:T	
+好友:N	周末:N	即將:ADV	再:ADV	飛:Vi	出國:Vi	處理:Vt	公司:N	瑣事:N	
+趁:P	他:N	回去:Vi	之前:POST	找:Vt	高中:N	四人幫:N	再:ADV	聚會:Vi	
+順便:ADV	聊聊:Vt	新手:N	人妻:N	的:T	希臘:N	蜜月行:N	、:PAUSECATEGORY	順便:ADV	再:ADV	拐:Vt	我們:N	去:Vt	酒商:N	私人:N	招待所:N	見見:Vt	世面:N	
+仁愛:N	圓環:N	旁:N	美食:N	餐廳:N	不:ADV	嫌:Vt	少:Vi	
+但:C	要:ADV	找到:Vt	好吃:Vi	、:PAUSECATEGORY	價格:N	可:ADV	接受:Vt	的:T	餐廳:N	著實:ADV	需要:Vt	花:Vt	一點點:DET	心思:N	
+本來:ADV	候選:Vi	名單:N	是:Vt	都:ADV	吃:Vt	過:ASP	的:T	Fabrica:FW	椅子:N	&:FW	amp:FW	
+WhinosBar&amp:FW	
+Kitchen:FW	但:C	上:DET	次:M	吃:Vt	Fabrica:FW	椅子:N	是:Vt	第一:DET	個:M	月:N	吃素:Vi	的:T	時候:N	
+坦白:Vi	說:Vt	印象:N	沒有:ADV	很:ADV	好:Vi	
+上菜:Vi	速度:N	過:ADV	慢:Vi	、:PAUSECATEGORY	菜色:N	普通:Vi	
+服務:Nv	細節:N	卻:ADV	沒有:Vt	真實:Vi	反映:Vt	在:P	價位:N	上:N	
+但:C	可能:ADV	有:Vt	反映:Vt	在:P	椅子:N	上:N	
+雖然:C	有:Vt	特色:N	但:C	其實:ADV	整:DET	個:M	動線:N	規劃:N	很:ADV	不:ADV	友善:Vi	
+WhinosBar&amp:FW	
+Kitchen:FW	雖然:C	是:Vt	我:N	的:T	心頭:N	好:Vi	
+缺點:N	是:Vt	價位:N	偏:ADV	貴:Vi	
+餐點:N	主要:ADV	是:Vt	要:ADV	讓:Vt	你:N	配:Vt	酒:N	吃:Vt	
+而且:C	加上:Vt	酒:N	之後:POST	所費不貲:Vi	
+既然:C	聚餐:Vi	後:POST	的:T	重點:N	是:Vt	要:ADV	去:Vt	酒商:N	那裏:N	見見:Vt	世面:N	
+喝:Vt	酒:N	這:DET	檔:M	事:N	就:ADV	別:ADV	在:P	晚餐:N	時:POST	先:ADV	破梗:N	吧:T	
+最後:N	選定:Vt	的:T	是:Vt	網路:N	上:N	一致:Vi	推說:Vt	是:Vt	最:ADV	道地:Vi	義式:A	料理:N	的:T	SoloPasta:FW	
+SoloPasta:FW	位在:Vt	台北:N	敦南:N	誠品:N	旁:N	安和路:N	的:T	巷子:N	裡:N	
+其實:ADV	不:ADV	難找:Vt	
+但:C	台北市:N	的:T	巷子:N	
+尤其:ADV	是:Vt	東區:N	的:T	路:N	就:ADV	是:Vt	蜿蜒:Vi	的:T	很:ADV	討厭:Vt	
+這:DET	一:DET	條:M	還是:C	忠孝:N	東:N	
+拐:Vt	個:M	彎:N	怎麼:ADV	又:ADV	變成:Vt	安和路:N	大抵:ADV	是:Vt	在:P	東區:N	用餐:Vi	的:T	大:Vi	困擾:N	之:T	一:DET	
+走到:Vt	安和路:N	一段:N	29:DET	號:M	
+還:ADV	遍:DET	尋:Vt	不:ADV	著:Vt	餐廳:N	
+因為:C	29:DET	-:DASHCATEGORY	1:DET	需要:Vt	你:N	再:ADV	往:P	前:N	走:Vi	一點:ADV	
+然後:ADV	往:P	巷子:N	一:ADV	看:Vt	
+SoloPasta:FW	就:ADV	在:P	29:DET	號:M	這:DET	個:M	大:Vi	建築物:N	的:T	後面:N	
+聚會:N	輕鬆:Vi	
+真的:ADV	會:ADV	在意:Vt	要:ADV	吃:Vt	啥:DET	的:T	人:N	大概:ADV	也:ADV	就:ADV	只有:ADV	我:N	
+沒有:ADV	事先:ADV	查:Vt	要:ADV	吃:Vt	什麼:DET	
+先:ADV	到:Vt	的:T	侯董:N	跟:P	我:N	就:ADV	開始:Vt	點:DET	餐:M	
+四:DET	個:M	人:N	食量:N	都:ADV	沒有:Vt	特別:Vi	大:Vi	
+決定:Vt	就:ADV	點:Vt	三:DET	道:M	主菜:N	再:ADV	加:Vt	幾:DET	個:M	前:POST	菜:N	搭配:Vt	
+我:N	還:ADV	蠻:ADV	喜歡:Vt	這:DET	種:M	”:FW	像:Vt	一:DET	本:M	書:N	”:FW	的:T	菜單:N	
+用餐:Vi	是:Vt	一:DET	個:M	小:Vi	旅行:Vi	
+餐廳:N	如果:C	認真:Vi	看待:Vt	每:DET	個:M	細節:N	
+食客:N	當然:ADV	也:ADV	會:ADV	認真:Vi	對待:Vt	每:DET	一口:ADV	食物:N	
+感謝:Vt	其他:DET	朋友:N	為了:P	配合:Vt	我:N	的:T	食素:N	
+同時:N	考量:Vt	大家:N	都:ADV	過:Vt	了:ASP	青春:N	可以:ADV	猛吃:Vt	肉:N	的:T	少年:N	時:POST	
+點:Vt	餐:N	還是:C	蔬菜:N	多於:Vt	肉類:N	
+再:ADV	點:Vt	個:M	肉類:N	主餐:N	滿足:Vt	大家:N	為:P	原則:N	
+前菜:N	：:COLONCATEGORY	【:PARENTHESISCATEGORY	皮耶蒙:N	熱水澡:N	沙拉:N	NT:FW	$:FW	250:DET	】:PARENTHESISCATEGORY	溫:N	沙拉:N	似乎:ADV	成為:Vt	最近:N	熱門:Vi	的:T	沙拉:N	選擇:Vt	之:T	一:DET	
+抑或:C	是:Vt	我:N	孤陋寡聞:Vi	最近:N	才:ADV	有:Vt	類似:Vt	感觸:N	
+但:C	對於:P	吃素:Vi	的:T	人:N	來:ADV	說:Vt	
+純素:N	或:C	純:Vi	蔬食:N	其實:ADV	容易:Vi	胃:N	冷:Vi	
+上:DET	一:DET	次:M	吃素:Vi	是:Vt	冬天:N	
+就:ADV	覺得:Vt	吃:Vt	太多:DET	身體:N	有點:ADV	生冷:Vi	謂:Vt	寒:Vi	
+溫沙拉:N	除了:P	可以:ADV	搭配:Vt	高溫:N	烹調:Vt	的:T	肉類:N	與:C	蔬菜:N	搭配:Vt	外:POST	
+另:DET	一:DET	種:M	則:ADV	是:Vt	把:P	沙拉:N	醬汁:N	直接:Vi	煮熟:Vi	
+用:P	淋:Vt	的:T	或:C	用:P	沾:Vt	的:T	搭配:Nv	食用:Vt	
+前:DET	種:M	其實:ADV	到:P	最後:N	肉類:N	的:T	高溫:N	很:ADV	容易:Vi	被:P	常溫:N	或是:C	冷藏:Nv	蔬菜:N	的:T	溫度:N	降溫:Vi	
+以:P	我:N	目前:N	在:P	台北:N	吃:Vt	過:ASP	的:T	其實:ADV	吃:Vt	不:ADV	太:ADV	到:P	
+溫:N	
+沙拉:N	的:T	感覺:N	
+後者:N	我:N	則:ADV	偏愛:Vt	自己:N	沾醬:N	食用:Vt	
+因為:C	淋上:Vt	醬汁:N	美:Vi	雖:C	美:N	奐:b	
+但是:C	難以:ADV	掌握:Vt	每:DET	個:M	人:N	沾醬:N	的:T	多寡:N	
+皮耶蒙:N	熱水澡:N	沙拉:N	用:P	蠟燭台:N	保持:Vt	醬汁:N	溫度:N	
+吃:Vt	的:T	到:P	大蒜:N	跟:P	橄欖油:N	的:T	純粹:A	味道:N	跟:P	一點點:DET	鯷魚:N	的:T	鹹味:N	
+因為:C	是:Vt	純:Vi	沙拉:N	
+青菜:N	的:T	新:Vi	鮮度:N	相對:Vi	重要:Vi	
+紅蘿蔔:N	、:PAUSECATEGORY	西芹:N	、:PAUSECATEGORY	小:Vi	番茄:N	、:PAUSECATEGORY	羅曼:N	跟:P	黑:Vi	橄欖:N	上桌:Vi	時:POST	
+不由得:ADV	升起:Vi	一:DET	種:M	
+啊:T	
+是:Vt	蔬菜:N	
+的:T	感覺:N	
+但:C	切成:Vt	長條狀:N	方便:Vi	拿取:Vt	、:PAUSECATEGORY	沾:Vt	溫熱:Vt	的:T	醬汁:N	很:ADV	適合:Vi	做為:Vt	開胃:Vi	第一:DET	道:M	菜:N	
+但:C	最:ADV	貼心:Vi	的:T	莫過於:Vt	服務生:N	會:ADV	看:Vt	醬汁:N	使用:Nv	與:C	用餐:Vi	的:T	速度:N	
+貼心:Vi	上:N	來:T	幫:P	我們:N	把:P	蠟燭:N	移走:Vt	
+避免:Vt	醬汁:N	乾:Vi	燒壞:Vt	了:ASP	味道:N	
+【:PARENTHESISCATEGORY	普利亞:N	茄子:N	千:DET	層:M	塔:N	NT:FW	160:DET	元:M	】:PARENTHESISCATEGORY	
+菜單:N	：:COLONCATEGORY	南義:N	常見:Vi	的:T	焗烤:Vt	茄子:N	料理:N	
+SoloPasta:FW	除了:P	Mozzarella:FW	還:ADV	加:Vt	了:ASP	帶有:Vt	煙燻味:N	的:T	Provolone:FW	
+讓:Vt	整:DET	道:M	菜:N	的:T	味道:N	變得:Vt	更:ADV	有:Vt	媽媽味:N	
+接續:Vt	著:ASP	沙拉:N	上桌:Vi	後:POST	不久:N	
+茄子:N	千:DET	層:M	塔:N	也:ADV	就:ADV	熱:Vt	騰:Vt	出現:Vi	
+把:P	肉醬:N	換成:Vt	番茄醬汁:N	
+層層:DET	堆疊:Vt	上:POST	茄子:N	、:PAUSECATEGORY	番茄:N	、:PAUSECATEGORY	洋蔥:N	與:C	羅勒:N	
+加上:Vt	起:ASP	司:N	成就:Vt	這:DET	道:M	味道:N	稍微:ADV	濃郁:Vi	
+但:C	相較:Vi	於:P	肉醬:N	千:DET	層:M	麵:N	的:T	油膩:Nv	
+這:DET	道:M	菜:N	濃郁:Vi	卻:ADV	拿掉:Vt	了:ASP	油膩:Vi	
+當然:ADV	重點:N	是:Vt	沒有:Vt	肉:N	啦:T	
+茄子:N	還是:ADV	煮:Vt	到:P	熟透:Vi	
+但:C	不至於:ADV	軟:Vi	爛:Vi	
+四:DET	個:M	人:N	分食:Vt	也:ADV	是:Vt	快速:Vi	完食:N	
+【:PARENTHESISCATEGORY	炸:Vt	綜合:A	海鮮:N	NT:FW	240:DET	】:PARENTHESISCATEGORY	
+菜單:N	：:COLONCATEGORY	裹上:Vt	杜蘭:N	麥粉:N	油炸:Vt	的:T	蝦:N	、:PAUSECATEGORY	透抽:N	和:C	丁香魚:N	
+以及:C	口感:N	軟:Vi	黏:Vi	的:T	鯷魚:N	花椰菜球:N	
+沒有:ADV	複雜:Vi	的:T	麵衣:N	
+因為:C	新鮮:Vi	就:ADV	是:Vt	最好:Vi	的:T	調味料:N	
+有:Vt	炸:Vt	花枝:N	、:PAUSECATEGORY	炸:Vt	小:Vi	魚:N	、:PAUSECATEGORY	炸:Vt	蝦子:N	還:ADV	有:Vt	三:DET	球:N	炸:Vt	圓滾滾:Vi	的:T	東西:N	
+本人:N	茹素:Vi	期間:N	
+當然:ADV	是:Vt	不會:ADV	輕易:ADV	被:P	迷惑:Vi	的:T	
+這:DET	道:M	菜:N	是:Vt	避免:Vt	前:DET	菜:N	都:ADV	是:Vt	蔬食:N	會:ADV	引起:Vt	男性:N	朋友:N	不滿:Vt	而:C	點:Vt	
+無法:ADV	發表:Vt	評論:N	
+但:C	從:P	另外:DET	三:DET	人:N	快速:Vi	完食:N	的:T	程度:N	來:ADV	看:Vt	
+應該:ADV	新鮮度:N	以及:C	美味度:N	都:ADV	不錯:Vi	才:ADV	是:Vt	
+而且:C	都:ADV	快:ADV	吃完:Vt	了:ASP	才:ADV	記得:Vt	拍照:Vi	...:ETCCATEGORY	主餐:N	則:ADV	是:Vt	點:Vt	了:ASP	服務:Nv	人員:N	推薦:Vt	的:T	豬腸:N	耳朵麵:N	跟:P	炭燒:Vt	原味:N	自然:N	豬:N	
+最後:N	再:ADV	來:ADV	個:M	羅勒青醬:N	細:Vi	麵:N	先:ADV	上:Vt	的:T	是:Vt	【:PARENTHESISCATEGORY	羅勒青醬:N	細:Vi	麵:N	NT:FW	240:DET	】:PARENTHESISCATEGORY	
+菜單:N	：:COLONCATEGORY	SoloPasta:FW	的:T	青醬:N	所:ADV	使用:Vt	的:T	蘿勒:N	
+一律:ADV	來自:Vt	埔里:N	有機:A	裁:Vt	種:M	的:T	甜蘿:N	勒:Vt	
+SweetBasil:FW	
+價格:N	為:Vt	九:DET	層:M	塔:N	的:T	16:DET	倍:N	
+iguria:FW	省:N	的:T	Pesto:FW	風味:N	配合:Vt	兩:DET	種:M	硬:Vi	質:N	起:POST	司:Vt	
+真實:Vi	地:T	傳遞:Nv	
+可能:ADV	看到:Vt	我:N	先:ADV	點:Vt	了:ASP	豬排:N	跟:P	豬腸:N	耳朵麵:N	
+侯董:N	想要:Vt	來:Vi	個:M	清淡:Vi	的:T	主食:N	
+所以:C	點:Vt	了:ASP	羅勒青醬:N	
+如果:C	是:Vt	去:ADV	吃:Vt	一般:A	平價:N	義大利麵:N	
+青醬:N	通常:ADV	是:Vt	我:N	的:T	最愛:N	
+相較:Vi	於:P	紅:Vi	、:PAUSECATEGORY	白:Vi	與:C	粉紅醬:N	
+青醬:N	會:ADV	踩到:Vt	雷:N	的:T	機率:N	較:ADV	低:Vi	
+而且:C	我:N	也:ADV	喜歡:Vt	青醬:N	的:T	香氣:N	
+羅勒:N	或:C	九:DET	層:M	塔:N	與:C	其他:DET	食材:N	搭配:Vt	吃起來:ADV	都:ADV	是:Vt	清爽系:N	
+再:ADV	配上:Vt	炒:Vt	過:ASP	的:T	松子:N	
+味道:N	迷人:Vi	
+大部分:DET	青醬:N	料理:Vt	醬汁:N	也:ADV	會:ADV	收:Vt	得:T	比較:ADV	乾:Vi	
+但:C	SoloPasta:FW	是:Vt	連:C	青醬:N	的:T	配置:Nv	也:ADV	剛好:ADV	
+足以:Vt	讓:Vt	每:DET	個:M	麵條:N	沾染上:Vt	的:T	醬汁:N	
+選用:Vt	一般:A	細:Vi	麵:N	配上:Vt	滿滿:Vi	的:T	松子:N	跟:P	旁邊:N	煎烤:Vt	的:T	馬鈴薯:N	
+相對:Vi	是:Vt	清淡:Vi	口味:N	
+醬汁:N	是:Vt	收到:Vt	恰到好處:Vi	還是:ADV	偏:ADV	乾:Vi	要:ADV	看:Vt	每:DET	個:M	人:N	喜歡:Vt	吃:Vt	的:T	口味:N	濃重度:N	
+麵條:N	的:T	彈:Vt	牙:N	度:Vt	對:P	我:N	來:ADV	說:Vt	是:Vt	中:N	偏:ADV	硬:Vi	
+但:C	同行:Vi	的:T	友人:N	不:ADV	是:Vt	很:ADV	喜歡:Vt	這:DET	個:M	麵條:N	口感:N	
+喜歡:Vt	整體:N	味道:N	的:T	呈現:Nv	
+但:C	在:P	軟:Vi	硬度:N	上:POST	除了:P	我:N	以外:POST	都:ADV	覺得:Vt	可以:ADV	在:P	軟:Vi	一點:ADV	
+【:PARENTHESISCATEGORY	自製:Vt	香腸:N	肉:N	末炒普利亞貓:N	耳朵麵:N	NT:FW	280:DET	】:PARENTHESISCATEGORY	
+菜單:N	：:COLONCATEGORY	義大利:N	傳統:N	豬肉:N	料理:Vt	手法:N	
+J-Ping:FW	主廚:N	遵照:Vt	老師傅:N	的:T	祕方:N	香料:N	配方:N	再:ADV	加入:Vt	
+白酒:N	
+前:DET	肩肉:N	
+下巴肉:N	及:C	煙燻:A	培根:N	
+親手:ADV	灌製:Vt	
+烹煮:Vt	時:POST	則:ADV	將:ADV	熟成:Vt	的:T	腸衣:N	剝除:Vt	
+再:ADV	拌入:Vt	大量:DET	的:T	青花菜:N	
+香味:N	撲鼻:Vi	
+滿:DET	口:M	爽快:Vi	
+這:DET	是:Vt	服務生:N	推薦:Vt	的:T	餐點:N	
+裡面:N	有:Vt	著:ASP	碎絞肉:N	、:PAUSECATEGORY	培根:N	、:PAUSECATEGORY	花椰菜:N	
+我:N	喜歡:Vt	這:DET	個:M	貓:N	耳朵麵:N	的:T	咬:Vt	勁:N	
+對:P	我:N	來:ADV	說:Vt	這:DET	種:M	麵:N	就:ADV	應該:ADV	是:Vt	略:ADV	硬:Vi	口感:N	
+咬:Vt	起來:ASP	很:ADV	過癮:Vi	
+但:C	我:N	不:ADV	太:ADV	喜歡:Vt	整:DET	個:M	風味:N	
+而且:C	我:N	挑:Vt	肉挑:N	的:T	有點:ADV	辛苦:Vt	
+【:PARENTHESISCATEGORY	炭燒:Vt	原味:N	自然:N	豬:N	NT:FW	580:DET	】:PARENTHESISCATEGORY	
+菜單:N	：:COLONCATEGORY	義大利人:N	說:Vt	
+過多:Vi	的:T	醬汁:N	會:ADV	毀:Vt	了:ASP	一:DET	道:M	菜:N	
+肉味:N	十足:Vi	
+只:ADV	用:P	鹽:N	和:C	胡椒:N	調味:Vi	的:T	燒烤:Vt	自然:N	豬:N	
+不:ADV	需要:Vt	任何:DET	醬汁:N	
+搭配:Vt	芥末:N	水果:N	便:ADV	是:Vt	最佳:A	美味:N	
+碳烤:N	豬:N	附:Vt	的:T	青菜盤:N	
+記錯:Vt	友人:N	不:ADV	吃:Vt	牛:N	點:N	的:T	
+但:C	就:ADV	大家:N	吃:Vt	一:DET	輪:M	的:T	感受:N	
+三:DET	道:M	主餐:N	中:POST	這:DET	道:M	最:ADV	受:Vt	好評:N	
+具:Vt	他們:N	的:T	說法:N	是:Vt	軟嫩:Vi	煎:Vt	到:P	恰到好處:Vi	
+最後:N	忍不住:Vt	多:DET	加:Vt	點:M	一:DET	道:M	【:PARENTHESISCATEGORY	栗子:N	蒙布朗:N	蛋糕:N	NT:FW	180:DET	】:PARENTHESISCATEGORY	
+菜單:N	：:COLONCATEGORY	來自:Vt	阿爾卑斯山:N	另:DET	一:DET	邊:N	的:T	甜點:N	
+在:P	皮耶蒙:N	一樣:Vi	也:ADV	是:Vt	經典:N	美味:Vi	
+都:ADV	是:Vt	去:Vt	日本:N	吃:Vt	了:ASP	超:Vt	好吃:Vi	冠軍:N	蒙布朗:N	的:T	錯:Vi	
+害:Vt	我:N	從:P	四月:N	開始:POST	就:ADV	忍不住:Vt	尋覓:Vt	好吃:Vi	的:T	栗子:N	蒙布朗:N	
+但:C	SoloPasta:FW	的:T	蒙布朗:N	一:ADV	上桌:Vi	有點:ADV	被:P	嚇一跳:Vi	
+乍看:Vt	之下:POST	很:ADV	像:Vt	是:Vt	被:P	保麗龍:N	覆蓋住:Vt	的:T	提拉米蘇:N	
+外面:N	白白:Vi	的:T	像:Vt	小:Vi	保麗龍球:N	的:T	是:Vt	糖塊:N	
+雖然:C	是:Vt	甜食:N	但:C	不:ADV	是:Vt	死:Vi	甜:Vi	
+往:P	下:N	挖:Vt	下去:ASP	就:ADV	會:ADV	挖:Vt	到:P	蒙布朗:N	跟:P	栗子:N	泥:N	
+對:P	男生:N	來:ADV	說:Vt	是:Vt	甜:Vi	膩系:N	
+但:C	我:N	到:P	覺得:Vt	甜度:N	洽:Vt	當:P	
+整體:N	來:ADV	說:Vt	
+我:N	認為:Vt	以:P	這樣:Vi	的:T	用餐:Nv	環境:N	與:C	價位:N	相當:Vi	的:T	合理:Vi	
+而且:C	不:ADV	知道:Vt	是:Vt	刻意:ADV	的:T	還是:ADV	剛好:ADV	
+整:DET	個:M	上菜:Vi	是:Vt	有:Vt	考慮到:Vt	
+先後:N	順序:N	的:T	
+如果:C	先:ADV	吃:Vt	了:ASP	炸:Vt	海鮮:N	再:ADV	回去:Vi	吃:Vt	溫沙拉:N	
+大概:ADV	會:ADV	覺得:Vt	醬汁:N	不:ADV	夠味:Vi	
+先:ADV	吃:Vt	了:ASP	炭燒:Vt	豬排:N	在:P	吃:Vt	青醬:N	義大利麵:N	興許:N	會:ADV	覺得:Vt	青醬:N	過於:ADV	清淡:Vi	
+麵條:N	的:T	軟:Vi	硬度:N	就:ADV	看:Vt	個:M	人:N	
+看:Vt	了:ASP	一下:N	網路:N	上:N	的:T	評價:N	
+多數:DET	的:T	人:N	都:ADV	是:Vt	對於:P	麵條:N	口感:N	有:Vt	較:ADV	多:Vi	的:T	評論:N	
+但:C	道地:Vi	的確:ADV	有時候:ADV	就:ADV	是:Vt	不:ADV	符合:Vt	台灣人:N	口味:N	
+能否:ADV	在:P	點餐:N	時:POST	特別:Vi	請:Vt	主廚:N	調整:Vt	就:ADV	要:ADV	再:ADV	問問看:Vt	了:ASP	
+吃完:Vt	了:ASP	飯:N	才:ADV	刻意:ADV	回來:Vi	找:Vt	店家:N	資訊:N	跟:P	網路:N	上:N	的:T	食記:N	
+偶爾:ADV	看到:Vt	有:Vt	網友:N	吃到:Vt	甜菜:N	根:N	麵:N	疙瘩:N	
+食:Vt	記:Vt	在:P	此:DET	
+整:DET	個:M	眼睛:N	都:ADV	亮:Vt	了:ASP	
+但是:C	當天:N	不:ADV	記得:Vt	有:Vt	看到:Vt	出現:Vi	在:P	菜單:N	上:N	
+不:ADV	知道:Vt	是:Vt	限定:Vt	料理:N	還是:C	黑板:N	上:N	的:T	菜單:N	我:N	忽略:Vt	了:ASP	
+後來:N	找到:Vt	餐廳:N	老闆:N	J-Ping:FW	的:T	網站:N	
+發現:Vt	最近:N	又:ADV	在:P	台北:N	開:Vt	了:ASP	新:Vi	的:T	義式:A	餐廳:N	SoloTrattoria:FW	
+有:Vt	一些:DET	美食:N	記者:N	先:ADV	試:Vt	吃:Vt	的:T	新聞:N	
+但:C	還:ADV	沒有:Vt	太:ADV	詳細:Vi	的:T	食:N	記:Vt	可以:ADV	參考:Vt	
+先:ADV	別:ADV	論:Vt	到底:ADV	到底:Vi	的:T	義大利:N	風味:N	我們:N	的:T	接受度:N	如何:ADV	
+撇開:Vt	新鮮度:N	這些:DET	一:ADV	翻:Vt	兩:DET	瞪眼:Vi	的:T	事情:N	
+好吃:Vi	與否:T	是:Vt	很:ADV	主觀:Vi	的:T	評論:N	
+但:C	老闆:N	的:T	用心:Vi	跟:P	對:P	食物:N	的:T	態度:N	是:Vt	可以:ADV	被:P	感受:N	跟:P	體會:Vt	的:T	
+抱持:Vt	的:T	感謝:Vt	的:T	心:N	
+謝謝:Vt	持續:Vt	有:Vt	很:ADV	堅持:Vt	的:T	老闆:N	把:P	美食:N	帶回:Vt	台灣:N	
+SoloTrattoria:FW	當然:ADV	值得:Vi	特地:ADV	安排:Vt	去:ADV	一:ADV	嘗:Vt	風味:N	
+或許:ADV	下:DET	次:M	四人幫:N	聚餐:Vi	就:ADV	可以:ADV	考慮:Vt	再:ADV	試試看:Vt	

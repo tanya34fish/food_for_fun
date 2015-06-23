@@ -1,0 +1,103 @@
+pancher7(pancher:FW	7:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	Apoet:FW	時尚:N	歐式:A	餐廳:N	美味:N	PRIME:FW	牛:N	小:Vi	排:Vt	
+SunJul:FW	1315:DET	::COLONCATEGORY	27:DET	::COLONCATEGORY	212014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	Apoet:FW	時尚:N	歐式:A	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	295巷:N	9:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2709:DET	-:DASHCATEGORY	0068:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週五:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	15:DET	::COLONCATEGORY	00:DET	&:FW	amp:FW	;:SEMICOLONCATEGORY	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	30:DET	
+週六:N	-:DASHCATEGORY	週日:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	30:DET	(:PARENTHESISCATEGORY	14:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	17:DET	::COLONCATEGORY	30:DET	為:Vt	下午茶:N	時段:N	):PARENTHESISCATEGORY	
+圖文版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	deliciouslife.pixnet.net/blog/post:FW	/:FW	377757803:DET	
+純:Vi	文字:N	心得:N	↓:FW	
+有:Vt	著:ASP	高:Vi	質感:N	卻:ADV	又:ADV	低調:Vi	簡約:Vi	門面:N	的:T	apoet:FW	
+深深:Vi	吸引:Vt	了:ASP	我:N	
+走入:Vt	那:DET	樸實:Vi	的:T	木質:N	大門:N	裡:N	
+別有洞天:Vi	
+apoet:FW	-:DASHCATEGORY	1:DET	
+各:DET	式:M	不同:Vi	風格:N	的:T	桌椅:N	
+擺放:Vt	得:T	看起來:ADV	亂:Vi	中:POST	有序:Vi	
+剛好:ADV	坐:Vi	在:P	入口處:N	可:ADV	享受:Vt	陽光:N	的:T	座位:N	
+一:DET	旁:N	有:Vt	許多:DET	花草:N	盆栽:N	
+彷彿:ADV	在:P	大自然:N	裡:N	野餐:Vi	
+整:DET	個:M	人:N	都:ADV	放鬆:Vt	了:ASP	下來:Vi	
+當:P	我們:N	還:ADV	沉溺:Vt	且:C	讚嘆:Vt	著:ASP	這:DET	浪漫:Vi	裝潢:N	的:T	同時:N	
+店員:N	已經:ADV	送上:Vt	開水:N	和:C	MENU:FW	囉:T	
+餐點:N	選項:N	非常:ADV	多:Vi	
+花:Vt	了:ASP	我們:N	一些:DET	時間:N	猶豫:Nv	和:C	討論:Nv	
+詳細:Vi	MENU:FW	可:ADV	參考:Vt	文:N	末:N	連結:Vt	
+店員:N	也:ADV	會:ADV	親切:Vi	的:T	主動:Vi	介紹:N	和:C	推薦:Vt	噢:T	
+▼:FW	歐洲:N	天然:A	酵母:N	麵包:N	
+附油:N	、:PAUSECATEGORY	醋:N	及:C	鯷魚:N	起:POST	司醬:N	
+小:Vi	份:M	80:DET	元:M	
+店家:N	表示:Vt	為:P	手工:N	製作:Vt	
+且:C	無:Vt	添加:Vt	香精:N	
+黑色:N	的:T	墨魚:N	麵包:N	外:N	脆內:N	Q:FW	
+另外:ADV	兩:DET	款:M	法國:N	麵包:N	亦:ADV	Q:FW	彈:Vt	紮實:Vi	
+我:N	吃:Vt	麵包:N	不:ADV	喜歡:Vt	沾:Vt	油醋:N	
+但:C	鯷魚:N	起:POST	司醬:N	好好:Vi	吃:Vt	噢:T	
+和:C	麵包:N	十分:ADV	契合:Vi	
+鹹酸:N	香甜:Vi	的:T	綜合:A	滋味:N	
+吃:Vt	一口:ADV	我:N	就:ADV	愛上:Vt	了:ASP	
+也:ADV	因為:C	這:DET	款:M	特別:Vi	的:T	醬:N	害:Vt	我:N	把:P	麵包:N	全部:DET	吃完:Vt	了:ASP	
+嗝:N	
+▼:FW	歐洲:N	風格:N	綜合:Vt	起:ASP	司盤:N	小:Vi	份:M	300:DET	元:M	
+義大利:N	帕瑪:N	火腿:N	佐以:Vt	水果:N	及:C	三:DET	種:M	不同:Vi	口味:N	、:PAUSECATEGORY	口感:N	的:T	起:Vt	司:N	
+義大利:N	帕瑪森:N	硬質:N	起:POST	司:N	、:PAUSECATEGORY	法國:N	奶香:N	半:DET	軟質:N	起:POST	司:Vt	和:C	西班牙:N	煙燻:A	硬質:N	起:POST	司:Vt	
+其中:DET	我:N	最:ADV	喜歡:Vt	就是:C	煙燻:Vt	硬質:N	起:POST	司:Vt	
+脆硬香濃:Vi	
+反倒:C	是:Vt	那:DET	法國:N	奶香:N	起:POST	司:Vt	吃:Vt	一口:ADV	我:N	就:ADV	大:Vi	反胃:Vi	
+有:Vt	股:M	如:P	塑膠:N	般:POST	可怕:Vi	的:T	腥味:N	
+詢問:Vt	店員:N	後:POST	確認為:Vt	羊:N	奶:N	起:POST	司:Vt	
+難怪:ADV	啊:T	....:ETCCATEGORY	
+▼:FW	H/Wine-ElcotoTempranillo/SpainCrianzaRioja:FW	2010:DET	
+由於:C	和:P	好友:N	只:ADV	想:Vt	小酌:Vi	搭配:Vt	起:ASP	司:N	和:C	牛排:N	
+所以:C	一:DET	人:N	點:Vt	了:ASP	一:DET	杯:M	
+點餐:N	時:POST	店員:N	告知:Vt	單杯:N	售價:N	為:Vt	220:DET	元:M	
+但:C	買單:Vi	回到:Vt	家:N	才:ADV	赫然:ADV	發現:Vt	收據:N	上:N	紅酒:N	費用:N	為:Vt	0:DET	元:M	
+HouseWine:FW	的:T	部份:DET	店家:N	完全:ADV	沒有:ADV	收取:Vt	費用:N	
+也:ADV	太:ADV	佛心:N	了:T	
+竟:ADV	在:P	無:Vt	告知:Vt	情況:N	下:POST	招待:Vt	
+這:DET	支:M	紅酒:N	很:ADV	順口:Vi	
+酒味:N	明顯:Vi	卻:ADV	不:ADV	澀:Vi	
+帶:Vt	著:ASP	淡雅:Vi	的:T	花:N	果香:N	
+▼:FW	皮埃蒙特:N	牛:N	肝:N	菌菇:N	起:POST	司燉:N	飯:N	淋:Vt	松露油:N	420:DET	元:M	
+上桌:Vi	時:POST	盤:N	中:N	飄來:Vi	的:T	濃郁:Vi	菌菇:N	酸氣:N	著實:ADV	有:Vt	讓:Vt	我:N	緊張:Vi	了:ASP	一下:N	
+擔心:Vt	口味:N	會:ADV	是:Vt	重度:A	鹹酸:N	且:C	帶有:Vt	濃厚:Vi	刺激:Vt	菌味:N	的:T	燉飯:Vt	
+忘:Vt	了:ASP	在:P	哪:DET	吃到:Vt	過:ASP	菌菇:N	味重:N	得:ADV	跟:P	霉味:N	一樣:Vi	的:T	燉:Vt	飯:N	後:POST	就:ADV	讓:Vt	我:N	很:ADV	恐懼:Vt	
+幸好:ADV	品嚐:Vt	起來:ASP	不會:ADV	
+讓:Vt	我:N	如釋重負:Vi	
+大量:DET	牛:N	肝:N	菌菇:N	、:PAUSECATEGORY	起:Vt	司片:N	、:PAUSECATEGORY	松露油:N	和:C	十分:ADV	特別:Vi	的:T	油炸:Nv	白木耳:N	
+炸:Vt	過:ASP	的:T	木耳:N	脆脆:Vi	硬硬:Vi	的:T	
+有點:ADV	像:Vt	豬:N	耳朵:N	
+燉飯:Vt	色澤:N	看似:Vt	調味:N	很:ADV	重:Vi	
+吃起來:ADV	則:ADV	不然:C	
+偏淡:Vi	且:C	不:ADV	鹹:Vi	
+使用:Vt	義大利:N	圓米:N	燉煮:Nv	
+但:C	米心:N	的:T	表現:N	讓:Vt	我:N	失望:Vi	了:T	
+維持:Vt	著:ASP	粒粒:DET	分明:Vi	的:T	Q:FW	脆:Vi	口感:N	
+而:C	非:Vt	中間:N	留有:Vt	米心:N	的:T	外:N	彈:Vt	內:POST	硬:ADV	
+▼:FW	巴黎:N	風:N	玫瑰:N	酒:N	炙燒:Vi	美國:N	頂級:A	牛:N	小:Vi	排:Vt	佐:Vt	紅酒:N	鹽:N	5:DET	oz:FW	680:DET	元:M	
+配:Vt	菜:N	有:Vt	小黃瓜:N	、:PAUSECATEGORY	柳丁:N	、:PAUSECATEGORY	番茄:N	和:C	四季豆:N	等等:POST	
+使用:Vt	美國:N	Prime:FW	等級:N	的:T	牛:N	小:Vi	排:Vt	部位:N	
+先:ADV	煎:Vt	再:ADV	烤:Vt	
+可:ADV	搭配:Vt	紅酒:N	海鹽:N	或:C	藍:Vi	紋:N	起:POST	司:Vt	
+牛排:N	紋理:N	和:C	色澤:N	都:ADV	好:ADV	美:Vi	
+外皮:N	烤:Vt	的:T	焦香:N	脆:Vi	口:N	
+中間:N	的:T	肉質:N	則:ADV	Q:FW	嫩:Vi	有勁:Vi	
+剛:ADV	咬下:Vt	時:POST	只:ADV	感受到:Vt	肉汁:N	和:C	油脂:N	的:T	擴散:Nv	
+咀嚼:Vt	後:POST	肉:N	香味:N	才:ADV	緩緩:Vi	釋放:Vt	
+和:C	好友:N	都:ADV	覺得:Vt	這:DET	塊:M	牛:N	小:Vi	排:Vt	實在:ADV	太:ADV	好吃:Vi	了:T	
+▼:FW	巴黎:N	巧克力:N	蛋糕:N	水果:N	盅:N	360:DET	元:M	
+賣:Vt	相:ADV	有點:ADV	雜亂:Vi	
+像:P	大雜燴:N	一樣:Vi	看:Vt	不:ADV	到:Vt	重點:N	
+內:N	有:Vt	杏仁片:N	、:PAUSECATEGORY	綜合:A	水果:N	、:PAUSECATEGORY	香草:N	冰淇淋:N	、:PAUSECATEGORY	Milano:FW	牛奶:N	巧克力:N	餅乾:N	等等:POST	
+巧克力:N	蛋糕:N	在:P	最:ADV	底層:N	
+口感:N	接近:Vt	布朗尼:N	
+整體:N	吃起來:ADV	普普通通:Vi	
+apoet:FW	的:T	晚餐:N	時段:N	和:C	假日:N	及:C	假日:N	午餐:N	時段:N	皆:ADV	有:Vt	每:DET	人:N	低:Vi	消:Vt	450:DET	元:M	的:T	限制:N	
+酌收:Vt	10:DET	%:M	服務:Nv	費用:N	
+服務:Nv	態度:N	方面:N	十分:ADV	良好:Vi	
+親切:Vi	積極:Vi	
+真的:ADV	好:ADV	喜歡:Vt	這裡:N	的:T	環境:N	和:C	氣氛:N	
+一定:ADV	還要:ADV	再:ADV	來:ADV	吃:Vt	其他:DET	類型:N	的:T	餐點:N	
+『:PARENTHESISCATEGORY	食:N	、:PAUSECATEGORY	遊:Vt	』:PARENTHESISCATEGORY	→:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	deliciouslife.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	一同:ADV	討論:Vt	美食:N	→:FW	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/deliciouslife:FW	2013:DET	

@@ -1,0 +1,37 @@
+Leika:FW	(:PARENTHESISCATEGORY	裁作:N	短歌行:N	):PARENTHESISCATEGORY	
+Re:FW	::COLONCATEGORY	[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	士林:N	茉莉:N	小吃店:N	
+SunJul:FW	1323:DET	::COLONCATEGORY	55:DET	::COLONCATEGORY	582014:DET	※:FW	引述:Vt	《:PARENTHESISCATEGORY	skyan07(rita:FW	):PARENTHESISCATEGORY	》:PARENTHESISCATEGORY	之:T	銘言:N	：:COLONCATEGORY	
+::COLONCATEGORY	餐廳:N	名稱:N	：:COLONCATEGORY	茉莉:N	小吃店:N	
+::COLONCATEGORY	消費:N	時間:N	：:COLONCATEGORY	2013年:N	/:FW	7月:N	
+::COLONCATEGORY	地址:N	：:COLONCATEGORY	台北市:N	中山北路:N	六段:N	752:DET	號:M	
+::COLONCATEGORY	圖文:N	好讀版:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/skyan:FW	07:DET	
+::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	skyan1107.pixnet.net/blog/post:FW	/:FW	183244008:DET	
+文長恕刪:Vt	....:ETCCATEGORY	
+舊:Vi	茉莉:N	確實:ADV	令:Vt	人:N	懷念:Vt	呀:T	...:ETCCATEGORY	他:N	的:T	漢堡:N	不:ADV	怎樣:ADV	
+飯:N	倒是:ADV	很:ADV	好吃:Vi	XD:FW	現在:N	googlemap:FW	上:N	原址:N	都:ADV	
+還是:ADV	舊:Vi	茉莉:N	在:P	那裏:N	的:T	時光:N	...:ETCCATEGORY	
+然而:C	
+大大:Vi	你:N	這:DET	篇:M	去年:N	消費:N	的:T	文章:N	
+今年:N	才:ADV	PO:FW	...:ETCCATEGORY	早:ADV	在:P	幾月:N	前:POST	
+原店址:N	已經:ADV	改成:Vt	一:DET	家:M	
+從:P	師大:N	過來:Vi	的:T	美墨式:A	炸雞店:N	了:T	...:ETCCATEGORY	該:DET	店:N	風評:N	如何:ADV	
+請:Vt	自己:N	爬文:N	
+我:N	是:Vt	中立:Vi	的:T	...:ETCCATEGORY	
+現在:N	的:T	茉莉:N	小吃店:N	
+股東:N	與:C	老:Vi	夥計:N	
+是:Vt	在:P	原:A	路段:N	的:T	470:DET	號:M	
+原址:N	往:P	南側:N	些:M	
+而:C	其實:ADV	仍:ADV	有:Vt	以:P	茉莉:N	漢堡:N	為:Vt	名:A	的:T	店:N	喔:T	
+少:Vi	東家:N	
+在:P	內湖:N	瑞光路:N	588:DET	號:M	
+較:ADV	寬敞:Vi	明亮:Vi	新潮:Vi	
+是:Vt	之前:N	忠孝東路:N	4:DET	段:M	東區店:N	的:T	人馬:N	
+當初:N	東區店:N	沒:ADV	賣:Vt	飯:N	
+我:N	就:ADV	沒:ADV	捧場:Vi	了:ASP	
+內湖店:N	有:Vt	賣:Vt	飯:N	
+哪:DET	家:M	的:T	餐飲:N	好吃:Vi	呢:T	
+見仁見智:Vi	...:ETCCATEGORY	但:C	若:C	以:P	懷舊:Vi	為:Vt	餐飲:N	的:T	醍醐味:N	
+我:N	仍:ADV	往:P	士林:N	天母:N	去:ADV	
+四散:Vi	於:P	各:DET	方:M	的:T	舊雨新知:N	...:ETCCATEGORY	建議:Vt	哪兒:N	離:P	自家:N	近:ADV	就:ADV	往:P	哪:DET	邊:N	去:T	吧:T	
+高譚市:N	沒有:Vt	一:DET	個:M	人:N	是:Vt	無辜:Vi	的:T	
+─:FW	─:FW	塔莉亞:N	

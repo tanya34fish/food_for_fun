@@ -1,0 +1,90 @@
+QQminiai:FW	(:PARENTHESISCATEGORY	大貓:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	車站:N	京站:N	NYBagels:FW	聚餐:Vi	集散地:N	!:EXCLAMATIONCATEGORY	
+MonJul:FW	1412:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	162014:DET	彩色:A	圖文:N	好讀版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog/post:FW	/:FW	41114488:DET	
+同步:Vi	發表:Vt	於:P	http:FW	::COLONCATEGORY	/:FW	/:FW	0:DET	rz.tw/6OPh:FW	7:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	NYBagels:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	位於:Vt	京站:N	購物:Nv	中心:N	及:C	台北:N	轉運站:N	內:N	鄰近:Vt	台北:N	車站:N	
+捷運:N	台北:N	車站:N	台北:N	地下街:N	Y:FW	3:DET	出口:N	旁:N	
+電話:N	：:COLONCATEGORY	2552:DET	-:DASHCATEGORY	6880:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週日:N	AM:FW	08:DET	::COLONCATEGORY	00:DET	
+AM:FW	01:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	低消:N	250:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	都:ADV	推:Vt	啊:T	
+這:DET	天:M	行程:N	基本:N	上:N	是:Vt	在:P	京站:N	底下:N	當:ADV	永:ADV	不見天日:Vi	的:T	
+忍者龜:N	
+吃完:Vt	了:ASP	大匠:N	平價:N	日本:N	料理:N	
+京站:N	店:N	
+平價:N	普通:Vi	中規中矩:Vi	的:T	日料:N	以後:POST	
+我們:N	一:DET	行:N	三:DET	人:N	移駕到:Vt	NY.BAGLES:FW	
+於:P	於:P	服務生人:N	很:ADV	好:Vi	
+所以:C	我們:N	決定:Vt	點:M	正餐:N	XD:FW	飽:Vi	死:Vi	也:ADV	甘願:Vt	了:ASP	
+因為:C	我們:N	在:P	前:DET	一:DET	家:M	吃:Vt	得:T	沒:ADV	很:ADV	好:Vi	可是:C	也:ADV	算:Vt	因為:C	吃:Vt	過:ASP	所以:C	沒有:Vt	很:ADV	餓:Vi	...:ETCCATEGORY	
+大貓:N	本人:N	很:ADV	愛:Vt	奶油:N	起:POST	司:Vt	
+所以:C	點餐:N	一定:A	要點:N	一下:N	奶油:N	起:POST	司:Vt	
+最:ADV	喜歡:Vt	的:T	是:Vt	原味:N	的:T	奶油:N	起:POST	司:Vt	
+抹:Vt	在:P	麵包:N	上面:N	胖:Vi	死:Vi	都:ADV	很:ADV	甘願:Vt	
+這:DET	次:M	正:Vi	餐點:N	的:T	是:Vt	&:FW	lt:FW	
+炒蛋:N	早:Vi	午餐:N	&:FW	gt:FW	
+但是:C	印象:N	中點:N	哪:DET	個:M	名字:N	已經:ADV	忘:Vt	了:T	....:ETCCATEGORY	
+還:ADV	有:Vt	&:FW	lt:FW	
+早:Vi	午餐:N	-:DASHCATEGORY	第五:DET	大道:N	炙烤:Vt	手:N	切:Vt	火腿:N	早:Vi	午餐:N	&:FW	gt:FW	
+蛋:N	是:Vt	太陽蛋:N	
+麵包:N	是:Vt	拖鞋:N	麵包:N	
+朋友:N	M:FW	因為:C	真的:ADV	吃:Vt	不:ADV	下:Vt	太多:Vi	
+所以:C	點:Vt	了:ASP	熱:Vt	拿:Vt	鐵:N	
+我們:N	兩:DET	個:M	女生:N	一起:ADV	分享:Vt	&:FW	lt:FW	
+早:Vi	午餐:N	-:DASHCATEGORY	第五:DET	大道:N	炙烤:Vt	手:N	切:Vt	火腿:N	早:Vi	午餐:N	&:FW	gt:FW	
+這:DET	是:Vt	我們:N	家:N	阿囧點:N	的:T	&:FW	lt:FW	
+炒蛋:N	早:Vi	午餐:N	&:FW	gt:FW	
+搭:Vt	的:T	是:Vt	風車:N	麵包:N	
+今天:N	有:Vt	一:DET	顆:M	黃金:N	奇異果:N	
+另外:C	一定:ADV	要:ADV	有的:DET	炒:Vt	馬鈴薯:N	塊:N	、:PAUSECATEGORY	炒蛋:N	
+滑:Vi	嫩嫩:Vi	的:T	黃金:N	炒蛋:N	非常:ADV	誘人:Vi	
+害:Vt	我:N	常常:ADV	在:P	太陽蛋:N	和:C	炒蛋:N	之間:POST	徘徊:Vi	
+EMBORG:FW	的:T	有:Vt	鹽:N	奶油:N	
+其實:ADV	也:ADV	不比:Vt	安佳:N	奶油:N	差:Vi	啦:T	
+我們:N	是:Vt	一:DET	杯:M	冰:N	拿:Vt	鐵:N	+:FW	2:DET	杯:M	熱:Vt	拿:Vt	鐵:N	
+冰拿:N	鐵口:b	很:ADV	好:Vi	很:ADV	順:Vi	
+奶:N	泡:Vt	也:ADV	很:ADV	漂亮:Vi	
+有:Vt	些:M	其他:DET	店家:N	的:T	冰:N	拿:Vt	鐵:N	上面:N	是:Vt	沒有:ADV	蓋:Vt	奶:N	泡:Vt	的:T	
+不過:C	NY.BAGLE:FW	的:T	冰:N	拿:Vt	鐵:N	是:Vt	有的:DET	
+喜歡:Vt	奶泡:N	可是:C	又:ADV	不:ADV	喜歡:Vt	太多:Vi	的:T	人:N	可以:ADV	點:Vt	NY.BAGLE:FW	的:T	冰:N	拿:Vt	鐵:N	
+可以:ADV	滿足:Vt	你:N	想要:Vt	有:Vt	又:ADV	不:ADV	想要:Vt	太多:Vi	的:T	口感:N	
+熱:Vt	拿:Vt	鐵:N	的:T	奶:N	泡:Vt	打:Vt	得:T	很:ADV	綿密:Vi	
+其實:ADV	喝:Vt	起來:ASP	是:Vt	正常:Vi	的:T	版本:N	拿:Vt	鐵:N	
+大致上:ADV	也:ADV	都:ADV	很:ADV	順口:Vi	
+喝:Vt	到底:ADV	也:ADV	不會:ADV	發酸:Vi	
+品質:N	個:M	人:N	很:ADV	喜歡:Vt	
+&:FW	lt:FW	
+早:Vi	午餐:N	-:DASHCATEGORY	第五:DET	大道:N	炙烤:Vt	手:N	切:Vt	火腿:N	&:FW	gt:FW	
+搭:Vt	的:T	是:Vt	拖鞋:N	麵包:N	和:C	黃澄澄:Vi	的:T	太陽:N	蛋:N	
+我:N	沒有:ADV	有:Vt	鹽:N	奶油:N	
+所以:C	我:N	的:T	是:Vt	加:Vt	點:M	的:T	奶油:N	乳酪醬:N	
+一:DET	個:M	很:ADV	熟悉:Vt	的:T	2:DET	oz:FW	醬料杯:N	XDDDD:FW	
+以前:N	工作:N	的:T	地方:N	很:ADV	常:ADV	用:Vt	
+趁熱:ADV	塗抹:Vt	超:Vt	好吃:Vi	的:T	
+不:ADV	懂:Vt	奶油:N	起:POST	司:Vt	的:T	風味:N	的:T	人:N	一定:ADV	要:ADV	嘗試:Vt	
+手切:N	火腿:N	有:Vt	一定:A	的:T	厚度:N	
+有:Vt	炙燒:Vi	過:ASP	的:T	痕跡:N	
+煙燻:A	的:T	風味:N	
+肉質:N	甜甜:Vi	的:T	
+帶:Vt	點:N	旁邊:N	的:T	一:DET	小:Vi	片:M	油花:N	
+吃起來:ADV	多汁:Vi	意猶未盡:Vi	
+這裡:N	的:T	用餐:Nv	時間:N	約:ADV	兩:DET	小時:M	
+由於:C	京站:N	一直:ADV	都:ADV	是:Vt	個:M	很多:DET	人:N	的:T	熱點:N	
+所以:C	兩:DET	小時:N	如果:C	還是:ADV	客滿:Vi	的:T	狀況:N	下:POST	就:ADV	會:ADV	有:Vt	服務生:N	告知:Vt	要:ADV	讓讓:Vi	啦:T	
+我:N	很:ADV	愛:Vt	跟住:Vt	得:T	比較:ADV	遠:Vi	的:T	朋友:N	約京:N	站:Vi	
+住:Vt	淡水:N	的:T	啦:T	
+三重:N	蘆洲:N	的:T	啦:T	
+因為:C	我:N	家:N	住:Vt	板橋:N	
+這樣:Vi	約:ADV	比較:ADV	好:Vi	約:ADV	@:FW	_:FW	_:FW	@:FW	
+這:DET	半:DET	年:M	光:ADV	是:Vt	MY.BAGLE:FW	已經:ADV	不:ADV	知道:Vt	吃:Vt	幾:DET	遍:M	啦:T	
+文章:N	同步:Vi	發表:Vt	於:P	&:FW	lt:FW	
+GET:FW	窩:N	&:FW	gt:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	0:DET	rz.tw/42GYu:FW	
+大貓宅:N	生活:N	http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog:FW	
+愛力:N	獅:N	粉絲:N	圖:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/AlicesVoice:FW	
+GET:FW	窩:N	http:FW	::COLONCATEGORY	/:FW	/:FW	www.getwo.com.tw/forum.php:FW	

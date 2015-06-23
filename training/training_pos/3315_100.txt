@@ -1,0 +1,359 @@
+babycarp:FW	(:PARENTHESISCATEGORY	小魚:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	文華:N	東方:N	酒店:N	‧:PERIODCATEGORY	青隅:N	貴婦:N	下午茶:N	
+MonJul:FW	1423:DET	::COLONCATEGORY	34:DET	::COLONCATEGORY	532014:DET	餐廳:N	：:COLONCATEGORY	文華:N	東方:N	酒店:N	-:DASHCATEGORY	青隅:N	
+地址:N	：:COLONCATEGORY	台北市:N	敦化北路:N	158:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2715:DET	-:DASHCATEGORY	6886:DET	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	.:PERIODCATEGORY	6.30:DET	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.acarpblog.com/2014/07/blogger-jade.html:FW	
+高級:Vi	的:T	文華:N	東方:N	下午茶:N	我:N	終於:ADV	吃:Vt	到:P	了:ASP	
+這:DET	間:M	大家:N	老是:ADV	說成:Vt	
+東方:N	文華:N	
+其實:ADV	它:N	叫:Vt	
+文華:N	
+東方:N	酒店:N	
+不要:ADV	再:ADV	唸錯:Vt	囉:T	
+雖然:C	我:N	自己:N	也:ADV	覺得:Vt	東方:N	文華:N	聽起來:ADV	比較:ADV	順:Vi	..:ETCCATEGORY	
+但是:C	文華:N	東方:N	
+比較:ADV	有:Vt	意境:N	嘛:T	是:Vt	不:ADV	是:Vt	
+某人:N	說:Vt	的:T	
+文華:N	東方:N	酒店:N	在:P	台北:N	於:P	今年:N	五月:N	中:POST	開幕:Vi	
+就:ADV	引起:Vt	廣大:Vi	的:T	關注:Nv	
+裡面:N	有:Vt	義式:A	、:PAUSECATEGORY	法式:A	、:PAUSECATEGORY	粵式:N	等:POST	
+餐廳:N	
+尤其:ADV	是:Vt	很:ADV	熱門:Vi	青隅:N	
+下午茶:N	聽說:Vt	都:ADV	要:ADV	三:DET	個:M	月:N	前:N	訂位:Vi	
+現在:N	已經:ADV	訂:Vt	滿:DET	到:P	10月:N	
+真的:ADV	有:Vt	
+夠:ADV	誇張:Vt	
+所以:C	能夠:ADV	吃到:Vt	真的:ADV	要:ADV	感謝:Vt	萬能:Vi	的:T	大人物:N	
+靠:P	著:ASP	很:ADV	厲害:Vi	的:T	關係:N	訂到:Vt	了:ASP	
+因為:C	他:N	有:Vt	祕:N	
+書:N	
+默:Vi	
+終於:ADV	等到:P	這天:N	下午:N	
+興高采烈:Vi	坐車:Vi	來到:Vt	敦化北路:N	
+從:P	對面:N	的:T	長庚:N	醫院:N	
+可以:ADV	拍到:Vt	文華:N	東方:N	
+的:T	整:DET	棟:M	全:DET	景:N	
+但:C	還是:ADV	有:Vt	部分:DET	會:ADV	被:P	行道樹:N	給:Vt	遮住:Vt	
+看起來:ADV	就:ADV	像:Vt	森林:N	裡:N	的:T	豪華:Vi	城堡:N	一般:POST	
+直接:Vi	走到:Vt	文華:N	東方:N	的:T	話:N	
+我:N	的:T	相機:N	又:ADV	因為:C	沒有:ADV	超:Vt	廣角:N	
+也:ADV	裝:Vt	不:ADV	下:Vt	整:DET	間:M	酒店:N	啦:T	&:FW	gt:FW	
+”:FW	&:FW	lt:FW	
+門口:N	前面:N	有:Vt	個:M	巨大:Vi	的:T	噴水池:N	
+好像:ADV	每:DET	一:DET	邊:N	的:T	門口:N	都:ADV	有:Vt	一:DET	座:M	
+然後:ADV	我:N	後來:N	才:ADV	知道:Vt	原來:A	敦化:N	北:N	
+路:N	這裡:N	不:ADV	是:Vt	正門:N	耶:T	@:FW	.:PERIODCATEGORY	@:FW	”:FW	
+難怪:ADV	走進來:Vi	就:ADV	直接:Vi	是:Vt	中庭:N	了:T	
+空蕩蕩:Vi	的:T	感覺:N	很:ADV	神秘:Vi	
+第一:DET	間:M	看到:Vt	的:T	是:Vt	文華:N	餅房:N	
+有:Vt	西點:N	麵包:N	等等:POST	
+戶外:N	座位:N	很:ADV	漂亮:Vi	
+但:C	夏天:N	的:T	午:N	后:POST	實在:ADV	不:ADV	太:ADV	
+適合:Vi	坐:Vi	這兒:N	
+還是:ADV	在:P	裡面:N	吹:Vt	冷氣:N	比較:ADV	舒服:Vi	
+接下來:ADV	就:ADV	開始:Vt	尋找:Vt	我:N	的:T	下午茶:N	餐廳:N	
+青隅:N	
+喔:T	拜託:Vt	新:Vi	注音:N	不要:ADV	再:ADV	出現:Vi	鯖魚:N	了:T	好:Vi	嗎:T	
+我:N	現在:N	
+要:ADV	寫:Vt	的:T	是:Vt	貴婦:N	下午茶:N	不:ADV	是:Vt	日本:N	料理:N	耶:T	
+翻:Vt	桌:N	
+在:P	迂迴:Vi	曲折:Vi	的:T	長廊:N	繞:Vi	了:ASP	一:DET	圈:M	半:POST	
+還是:ADV	沒:ADV	找到:Vt	
+問:Vt	了:ASP	警衛:N	
+他:N	差點:ADV	都:ADV	要:ADV	帶:Vt	著:ASP	我:N	去:Vt	了:ASP	
+欸:T	
+後:DET	
+來:ADV	真的:ADV	有:Vt	帶:Vt	我:N	走到:Vt	正門:N	口:N	
+是:Vt	的:T	是:Vt	的:T	
+看到:Vt	這:DET	個:M	耗資:Vt	千萬:DET	的:T	水晶:N	大:Vi	吊燈:N	就:ADV	沒:ADV	錯:Vi	了:T	
+很:ADV	華麗:Vi	的:T	長:Vi	椅背:N	沙發:N	擺:Vt	在:P	那邊:N	根本:ADV	就是:C	藝術品:N	
+服務:Nv	人員:N	看:Vt	我:N	在:P	等:Vt	人:N	還:ADV	問:Vt	我:N	要不要:ADV	坐:Vi	這:DET	
+邊:N	等:POST	
+但:C	實在:ADV	不:ADV	太:ADV	敢:Vt	
+會:ADV	被:P	來來往往:Vi	的:T	房客:N	行:Vi	注目禮:N	多:ADV	尷尬:Vi	
+牆:N	上:N	一:DET	個:M	小小:Vi	的:T	標示牌:N	寫:Vt	著:ASP	
+青隅:N	
+是:Vt	有沒有:ADV	這麼:ADV	低調:Vi	啦:T	
+害:Vt	人家:N	找:Vt	得:T	超:Vt	辛苦:Vt	Q_Q:FW	
+前往:Vt	青隅:N	的:T	入口:N	會:ADV	先:ADV	經過:Vt	寬大:Vi	的:T	走廊:N	
+這裡:N	的:T	擺設:N	看起來:ADV	就:ADV	是:Vt	又:ADV	大:Vi	又:ADV	廣:Vi	又:ADV	深:Vi	
+難怪:ADV	一:DET	個:M	人:N	
+兒:N	站:Vi	在:P	櫃台:N	後面:N	都:ADV	顯得:Vt	好:ADV	迷你:Vi	了:T	
+另:DET	一:DET	邊:N	的:T	走廊:N	是:Vt	通往:Vt	客房:N	
+但:C	這裡:N	就:ADV	無法:ADV	參觀:Vt	
+等:P	我:N	發達:Vi	了:ASP	來:ADV	住:Vt	過:ASP	再:ADV	來:ADV	寫:Vt	心得:N	蛤:N	
+兩:DET	點:N	半:DET	下午茶:N	時間:N	開始:POST	就:ADV	進入:Vt	用餐:Vi	
+有:Vt	分成:Vt	兩:DET	區:N	
+所以:C	座位:N	還:ADV	不:ADV	算:Vt	少:Vi	
+剛:ADV	進來:Vi	的:T	時候:N	真的:ADV	
+是:Vt	安靜:Vi	得:T	要命:Vi	
+講話:Vi	都:ADV	要:ADV	輕聲:ADV	細語:Vi	
+其實:ADV	我們:N	一:ADV	開始:Vt	都:ADV	誤解:Vt	了:ASP	
+大家:N	看到:Vt	照片:N	不要:ADV	以為:Vt	裡面:N	很:ADV	亮:Vi	
+還:ADV	想:Vt	說:Vt	這裡:N	會:ADV	像:P	礁溪:N	老爺:N	
+有:Vt	完美:Vi	的:T	自然光:N	非常:ADV	好:Vi	拍:Vt	這樣:Vi	
+結果:N	裡面:N	頗:ADV	昏暗:Vi	
+並:C	不:ADV	是:Vt	像:P	食:N	記:Vt	照片:N	裡:POST	看起來:ADV	那麼:ADV	亮:Vi	
+這:DET	
+一切:DET	都:ADV	是:Vt	個:M	騙局:N	
+誤:ADV	
+原本:ADV	是:Vt	安排:Vt	在:P	這:DET	個:M	座位:N	的:T	
+但:C	覺得:Vt	光線:N	不佳:Vi	
+服務:Nv	人員:N	查看:Vt	過:ASP	訂位:Vi	
+名單:N	
+確認:Vt	沒有:Vt	人:N	指定:Nv	窗:N	邊:N	座位:N	之後:POST	
+就:ADV	幫:P	我們:N	換:Vt	位子:N	了:T	
+真的:ADV	很:ADV	開心:Vi	^:FW	^:FW	
+然後:ADV	大人物:N	看到:Vt	這:DET	個:M	很:ADV	像:Vt	王位:N	的:T	座位:N	就:ADV	喃喃:ADV	說:Vt	
+不:ADV	知道:Vt	坐:Vi	這邊:N	要:ADV	多少:DET	錢:N	齁:b	....:ETCCATEGORY	欸:T	
+想:Vt	太多:DET	
+阿:N	不:ADV	就是:C	椅背:N	比較:ADV	高:Vi	而已:T	嗎:T	XDDD:FW	
+我:N	倒是:ADV	覺得:Vt	中間:N	的:T	大:Vi	沙發區:N	比較:ADV	厲害:Vi	
+感覺:N	要:ADV	找:Vt	好幾:DET	個:M	貴婦級:N	的:T	一:DET	起來:Vi	
+但:C	後來:N	想想:Vt	
+這:DET	
+桌子:N	很:ADV	矮:Vi	
+吃:Vt	東西:N	很:ADV	不:ADV	方便:Vi	
+這:DET	場地:N	也:ADV	不:ADV	適合:Vi	大聲:Vi	談笑:Vi	
+所以:C	頂多:ADV	就:ADV	是:Vt	坐:Vi	在:P	這邊:N	拍:Vt	拍照:Vi	比:P	
+較:ADV	漂亮:Vi	的:T	優勢:N	吧:T	
+青隅:N	經典:N	下午茶:N	
+一:DET	人:N	1250:DET	+:FW	10:DET	%:M	
+這:DET	是:Vt	最:ADV	基本:A	的:T	三:DET	層:M	下午茶:N	套餐價:N	
+如果:C	想:Vt	喝:Vt	香檳:N	的:T	話:N	
+是:Vt	1900:DET	元:M	
+頂級:A	下午茶:N	3750:DET	元:M	....:ETCCATEGORY	這:DET	個:M	就:ADV	敬謝不敏:Vi	了:ASP	
+不過:C	頂級:A	那:DET	個:M	也:ADV	是:Vt	要:ADV	三:DET	天:M	前:POST	預約:Vt	
+沒有:Vt	辦法:N	當場:ADV	現:ADV	點:Vt	的:T	
+下午茶:N	套餐:N	有:Vt	鹹:Vi	點:ADV	
+之後:N	是:Vt	英式:A	三:DET	層:M	架:N	點心:N	
+最後:N	再:ADV	一:DET	盤:M	甜點:N	
+附:Vt	一:DET	款:M	茶飲:N	或:C	咖啡:N	
+沒:ADV	
+有:Vt	另:DET	附:Vt	開水:N	
+如果:C	需要:Vt	的:T	話:N	有:Vt	額外:A	加購:Vt	的:T	礦泉水:N	或:C	氣泡水:N	
+餐廳:N	有:Vt	提供:Vt	wifi:FW	
+請:Vt	跟:P	服務人:N	
+員:N	詢問:Vt	密碼:N	
+入座:Vi	之後:POST	就:ADV	讓:Vt	服務:Vt	人員:N	幫:P	你:N	在:P	腿:N	上:N	鋪好:Vt	口布:N	
+之後:N	會:ADV	送上:Vt	夏天:N	特別:Vi	準備:Vt	的:T	冰:N	毛巾:N	
+很:ADV	舒:Vt	
+服:Vt	呢:T	
+所以:C	我:N	猜:Vt	冬天:N	可能:ADV	會:ADV	變成:Vt	熱:Vt	毛巾:N	吧:T	
+茶飲:N	的:T	部分:DET	有:Vt	中式:A	紅茶:N	、:PAUSECATEGORY	綠茶:N	
+西式:A	紅茶:N	、:PAUSECATEGORY	風味:N	綠茶:N	
+咖啡:N	、:PAUSECATEGORY	巧克力:N	等等:POST	
+真的:ADV	很:ADV	難:Vi	選:Vt	
+擇:Vt	的:T	話:N	就:ADV	請:Vt	服務:Vt	人員:N	介紹:Vt	吧:T	
+這裡:N	有:Vt	幾:DET	位:M	非常:ADV	優雅:Vi	有:Vt	氣質:N	
+實在:ADV	太:ADV	迷人:Vi	
+聲音:N	也:ADV	很:ADV	動聽:Vi	
+於是:C	也:ADV	不管:C	性質:N	很:ADV	像:Vt	就:ADV	聽:Vt	了:ASP	她:N	的:T	介紹:N	點:Vt	了:ASP	兩:DET	款:M	風味:N	綠茶:N	XDD:FW	
+周邊:N	有:Vt	甜點櫃:N	和:C	蓋:Vt	在:P	玻璃:N	盅:N	裡:N	派:Vt	與:P	蛋糕:N	
+有的:DET	是:Vt	稍後:ADV	可以:ADV	吃到:Vt	的:T	
+有的:DET	則:ADV	是:Vt	要:ADV	另外:C	加購點:N	
+第一:DET	個:M	上:POST	的:T	是:Vt	鹹點:N	
+都:ADV	是:Vt	一:DET	次:M	放:Vt	兩:DET	人:N	份:N	
+一:DET	人:N	一:DET	個:M	不用:ADV	搶:Vt	
+36:DET	個:M	月:N	醃製:Vt	LeJumbonCru:FW	法:N	
+式:N	火腿:N	
+堅果:N	麵包:N	
+糖漬:A	番茄:N	
+像:Vt	艘:M	船:N	似的:POST	造型:N	
+雖然:C	有:Vt	附:Vt	刀叉:N	
+但:C	下面:N	是:Vt	法國:N	麵包:N	硬:ADV	得:ADV	跟:P	甚麼:DET	一樣:Vi	
+還是:ADV	直接:Vi	拿起來:Vi	
+啃:Vt	比較:ADV	實際:Vi	
+老實說:ADV	我:N	沒有:ADV	很:ADV	喜歡:Vt	這:DET	個:M	麵包:N	底:POST	的:T	口感:N	
+很:ADV	硬:Vi	卻:ADV	不:ADV	脆:Vi	
+堅韌:Vi	得:T	難:Vi	咬:Vt	
+但:C	上面:N	的:T	醃:Vt	火腿:N	倒:ADV	
+是:Vt	很:ADV	好吃:Vi	
+茶飲:N	
+選:Vt	了:ASP	一:DET	款:M	檸檬:N	生薑:N	綠茶:N	
+香料:N	與:C	柑橘:N	香:Vi	
+淺黃:A	色澤:N	
+以:P	生薑:N	與:C	檸檬:N	調配:Vt	
+另:DET	一:DET	款:M	
+是:Vt	尊爵:N	綠茶:N	
+濃郁:Vi	的:T	香料:N	香:Vi	
+淡綠:Vi	色澤:N	
+以:P	肉桂:N	、:PAUSECATEGORY	甘草:N	根:N	與:C	沙棘:N	漿果:N	調配:Vt	
+兩:DET	種:M	是:Vt	截然:ADV	不:ADV	
+同:DET	的:T	風味:N	
+這裡:N	的:T	杯:N	碗盤:N	全部:DET	都:ADV	是:Vt	同:DET	一:DET	套:M	的:T	
+看起來:ADV	很:ADV	有:Vt	整體感:N	
+茶壺:N	像:Vt	是:Vt	橢圓:N	的:T	花苞:N	
+茶壺:N	蓋頂:DET	
+端:N	還:ADV	是:Vt	兩:DET	個:M	張開:Vt	的:T	小:Vi	芽:N	
+很:ADV	別緻:Vi	
+裡面:N	其實:ADV	只有:ADV	一點:DET	細碎:Vi	的:T	茶葉:N	
+所以:C	還是:ADV	會:ADV	附上:Vt	濾茶:N	杓:N	
+這樣:Vi	喝:Vt	起:ASP	茶:N	來:ADV	感覺:Vt	更:ADV	優雅:Vi	了:T	呢:T	
+雖然:C	沒有:ADV	附:Vt	開水:N	
+但:C	茶飲:N	是:Vt	可以:ADV	續壺:N	的:T	
+所以:C	不用:ADV	擔心:Vt	
+吃:Vt	到:P	後來:N	會:ADV	口渴:Vi	
+不過:C	..:ETCCATEGORY	點:M	咖啡:N	的:T	話:N	可能:ADV	就:ADV	沒辦法:Vi	續杯:Vi	了:ASP	吧:T	
+糖罐:N	當然:ADV	也:ADV	是:Vt	套:M	組:N	的:T	
+但是:C	這:DET	次:M	喝:Vt	風味:N	綠茶:N	就:ADV	不:ADV	需要:Vt	加:Vt	糖:N	了:T	
+來到:Vt	據說:ADV	是:Vt	”:FW	超六星級:N	":FW	的:T	文華:N	東方:N	吃:Vt	貴婦:N	下午茶:N	
+當然:ADV	要:ADV	好好:Vi	欣賞:Vt	這裡:N	的:T	奢華:Nv	裝潢:N	
+光:ADV	
+是:Vt	餐廳:N	正:ADV	上方:N	的:T	水晶:N	大:Vi	吊燈:N	就:ADV	炫目:Vi	得:T	讓:Vt	人:N	離不開:Vt	視線:N	了:T	
+青隅:N	這:DET	兩:DET	片:M	縷空:Vi	黑網:N	
+是:Vt	董事長:N	林命:N	群:N	私人:N	收藏:Vt	的:T	珊瑚:N	化石:N	
+這:DET	應該:ADV	也:ADV	是:Vt	名貴:Vi	的:T	收藏品:N	
+牆:N	上:N	和:C	桌子:N	玻璃:N	隔板:N	下:POST	都:ADV	是:Vt	皮雕:N	花卉:N	
+孔雀尾:N	、:PAUSECATEGORY	珍珠:N	綴:Vt	、:PAUSECATEGORY	絨布椅:N	、:PAUSECATEGORY	皮雕花:N	、:PAUSECATEGORY	水晶燈:N	、:PAUSECATEGORY	流:Vt	
+蘇串:N	
+還:ADV	有:Vt	Tiffany:FW	和:C	土耳其:N	藍:N	等等:POST	讓:Vt	女人:N	覺得:Vt	高貴:Vi	的:T	元素:N	
+全部:DET	集合:Vt	在:P	青隅:N	了:T	
+令:Vt	人:N	滿心:ADV	期待:Vt	的:T	三:DET	層:M	下午茶:N	終於:ADV	出現:Vi	了:T	
+服務:Nv	人員:N	仔細:Vi	清楚:Vi	介紹:Vt	了:ASP	每:DET	一樣:Vi	甜點:N	
+很:ADV	厲害:Vi	
+背:Vt	得:T	好:ADV	熟:Vi	
+但是:C	我:N	記:Vt	不:ADV	起來:Vi	完整:Vi	的:T	說:Vt	.....:ETCCATEGORY	
+如果:C	會:ADV	背:Vt	的:T	話:N	我:N	就:ADV	可以:ADV	來:Vi	這邊:N	上班:Vi	了:ASP	阿:N	=:FW	.:PERIODCATEGORY	=:FW	+:FW	
+還:ADV	開玩笑:Vi	跟:P	她:N	說:Vt	":FW	能不能:ADV	重:Vi	講:Vt	一:DET	次:M	讓:Vt	我:N	錄音:Vi	":FW	她:N	竟然:ADV	說:Vt	好:Vi	耶:T	
+但:C	只是:ADV	開玩笑:Vi	啦:T	
+這樣:Vi	真的:ADV	
+頗:ADV	奇怪:Vt	的:T	
+是:Vt	說:Vt	他們:N	真的:ADV	很:ADV	用心:Vi	在:P	達成:Vt	顧客:N	的:T	無理取鬧:Nv	需求:N	耶:T	
+呵呵:ADV	
+最:ADV	上:DET	層:M	是:Vt	蛋糕:N	、:PAUSECATEGORY	水果塔:N	、:PAUSECATEGORY	泡芙:N	
+第二:DET	層:M	
+特製:Vt	三明治:N	
+鵝肝:N	布丁:N	
+蟹肉:N	塔佐:N	檸檬:N	魚子醬:N	
+蛋蓉:N	沙拉:N	
+第三:DET	層:M	
+原味:N	和:C	蔓:b	越:ADV	莓:b	scone:FW	
+莓果:N	三明治:N	
+scone:FW	附:Vt	了:ASP	三:DET	種:M	醬:N	
+有:Vt	鮮:Vi	奶油:N	、:PAUSECATEGORY	橙橘:N	鮮:Vi	果醬:N	和:C	檸檬:N	奶油醬:N	
+看到:Vt	有:Vt	些:M	人:N	的:T	食記:N	寫:Vt	說:Vt	它們:N	家:N	的:T	scone:FW	吃起來:ADV	粉粉:N	的:T	
+我:N	倒是:ADV	覺得:Vt	還:ADV	好:Vi	
+不過:C	就:ADV	沒有:Vt	特別:Vi	
+好吃:Vi	
+smith&amp:FW	
+hsu:FW	整:DET	個:M	大勝:Vi	
+三:DET	種:M	搭配:Vt	的:T	醬:N	都:ADV	很:ADV	好吃:Vi	
+感覺:Vt	我:N	都:ADV	是:Vt	在:P	吃:Vt	醬:N	
+scone:FW	反而:C	不:ADV	是:Vt	重點:N	了:T	
+哈哈:ADV	
+蟹肉:N	塔佐:N	檸檬:N	魚子醬:N	
+這:DET	個:M	很:ADV	好吃:Vi	
+也:ADV	特別:Vi	受到:Vt	大人物:N	的:T	讚賞:Nv	
+所以:C	給:Vt	它:N	來:Vi	個:M	特寫:N	
+莓果:N	三明治:N	
+雖然:C	現在:N	不:ADV	是:Vt	草莓:N	的:T	季節:N	了:T	
+不過:C	裡面:N	的:T	夾:Vt	餡:N	草莓:N	吃起來:ADV	仍然:ADV	跟:P	現:N	採:Vt	的:T	一:DET	
+樣:N	新鮮:Vi	可口:Vi	
+只是:ADV	沒有:ADV	挑選:Vt	到:P	每:DET	顆:M	都:ADV	艷紅:Vi	的:T	
+看起來:ADV	賣:Vt	相:ADV	就:ADV	差:Vi	了:ASP	一點:DET	
+酒:N	漬:Vt	櫻桃:N	不但:C	去:Vt	了:ASP	籽:N	
+裡面:N	還:ADV	插:Vt	了:ASP	根:N	小綠:N	葉:N	
+非常:ADV	費工:Vi	的:T	一:DET	道:M	
+鵝肝:N	布丁:N	
+這:DET	個:M	真的:ADV	蠻:ADV	酷:Vi	的:T	
+焦糖:N	和:C	鵝肝:N	慕:Vt	斯:DET	結合:Vt	的:T	味道:N	好像:ADV	巧克力:N	
+又:ADV	有:Vt	種:M	獨特:Vi	的:T	口:N	
+感:Vt	
+很:ADV	迷你:Vi	一:DET	個:M	吃下去:Vi	還:ADV	會:ADV	覺得:Vt	回味:Vt	無窮:Vi	
+這:DET	個:M	應該:ADV	就是:C	menu:FW	上面:N	的:T	季節:N	法式:A	鹹派:N	
+鹹酥點:N	了:T	吧:T	
+沒有:ADV	照:Vt	順序:N	吃:Vt	
+看到:Vt	哪:DET	個:M	順眼:Vi	就:ADV	
+拿:Vt	
+這樣:Vi	鹹鹹:Vi	甜甜:Vi	混:Vt	著:ASP	吃:Vt	才:ADV	不會:ADV	容易:Vi	膩:Vi	
+覆盆子:N	水果塔:N	
+這:DET	果實:N	就:ADV	比:P	草莓:N	來得:ADV	讓:Vt	人:N	滿意:Vt	
+每:DET	顆:M	都:ADV	是:Vt	飽滿:Vi	又:ADV	鮮紅:Vi	
+多汁:Vi	的:T	覆盆子:N	加:Vt	
+上:N	細碎:Vi	開心果:N	顆粒:N	
+酸酸甜甜:Vi	綜合:A	的:T	滋味:N	真:ADV	好吃:Vi	
+芒果:N	香草塔:N	
+很:ADV	讓:Vt	人:N	驚豔:Vi	的:T	一:DET	款:M	
+上面:N	的:T	蝴蝶:N	是:Vt	用:P	糯米:N	做:Vt	的:T	
+但:C	吃起來:ADV	沒:Vt	甚麼:DET	味道:N	
+還:ADV	
+是:Vt	乖乖:Vi	讓:Vt	它:N	當:P	點綴:Vt	用:Vt	的:T	裝飾:N	就:ADV	好:Vi	
+把:P	外層:N	那:DET	片:M	芒果:N	巧克力:N	吃掉:Vt	後:POST	
+就:ADV	會:ADV	看到:Vt	像:P	蛋黃:N	一樣:Vi	的:T	
+芒果:N	慕:Vt	斯:DET	蛋糕:N	
+還:ADV	閃閃:Vi	發亮:Vi	的:T	讓:Vt	人:N	愛不釋手:Vi	
+底下:N	的:T	薄餅:N	有點:ADV	濕:Vi	軟:Vi	了:T	
+不:ADV	知道:Vt	它:N	原本:ADV	是:Vt	不:ADV	
+是:Vt	就:ADV	這樣:Vi	的:T	口感:N	
+泡芙:N	造型:N	很:ADV	可愛:Vi	
+上面:N	還:ADV	有:Vt	一:DET	層:M	莓果:N	巧克力:N	看起來:ADV	好像:ADV	仕女帽:N	
+感覺:N	就:ADV	不:ADV	知道:Vt	該:ADV	怎麼:ADV	吃:Vt	它:N	
+後來:N	也:ADV	是:Vt	先:ADV	把:P	上面:N	那:DET	層:M	巧克力:N	吃掉:Vt	再:ADV	吃:Vt	下面:N	的:T	泡芙:N	
+很:ADV	無聊:Vi	把:P	泡芙:N	跟:P	蛋蓉:N	沙拉:N	排:Vt	了:ASP	笑臉:N	::COLONCATEGORY	p:FW	
+裡面:N	是:Vt	榛果:N	奶油:N	餡:N	相當:ADV	好吃:Vi	
+雖然:C	很:ADV	甜:Vi	但:C	配:Vt	著:ASP	綠茶:N	剛好:ADV	
+服務:Nv	人員:N	巡:Vt	得:T	很:ADV	勤:Vi	
+只要:C	看到:Vt	茶杯:N	空:Vt	了:ASP	就:ADV	會:ADV	幫:P	人:N	斟滿:Vt	
+但是:C	把:P	茶:N	加:Vt	到:P	九:DET	分:M	滿:ADV	這樣:Vi	是:Vt	不:ADV	對:P	
+的:T	呀:T	
+三:DET	層:M	架:N	的:T	點心:N	吃完:Vt	了:ASP	之後:POST	
+就:ADV	會:ADV	送上:Vt	最後:N	的:T	一:DET	份:M	甜點:N	
+有:Vt	蛋糕:N	、:PAUSECATEGORY	馬卡龍:N	、:PAUSECATEGORY	費南雪:N	和:C	巧克力:N	
+menu:FW	上:N	的:T	可:ADV	麗露:N	沒有:ADV	出現:Vi	
+應該:ADV	是:Vt	用:P	其他:DET	款:M	點心:N	替換:Vt	了:ASP	吧:T	
+開心果:N	蛋糕:N	
+裡面:N	有:Vt	櫻桃:N	顆粒:N	
+也:ADV	是:Vt	蠻:ADV	甜:Vi	的:T	這:DET	個:M	
+費南雪:N	
+甜點:N	都:ADV	好:ADV	迷你:Vi	精緻:Vi	
+但:C	也:ADV	是:Vt	越:ADV	小:Vi	的:T	東西:N	越:ADV	費工:Vi	
+所以:C	才:ADV	這麼:ADV	貴:Vi	吧:T	
+這:DET	是:Vt	來自:Vt	世界:N	巧克力:N	大師:N	FrankHaasnoot:FW	的:T	手工:N	巧克力:N	
+杏仁:N	口味:N	
+裡面:N	有:Vt	巧克力:N	酥餅:N	
+覺得:Vt	這:DET	個:M	搭黑:Vi	咖啡:N	比較:ADV	適合:Vi	
+榛果:N	巧克力:N	馬卡龍:N	
+上面:N	有:Vt	椰子:N	顆粒:N	
+內:N	餡:N	是:Vt	焦糖:N	肉桂:N	風味:N	
+有點:ADV	空洞:Vi	
+吃起來:ADV	硬硬:Vi	鬆:Vt	
+鬆:Vt	的:T	
+沒有:ADV	扎實:Vi	飽滿:Vi	的:T	感覺:N	
+聊:Vt	著:ASP	吃:Vt	著:ASP	竟然:ADV	已經:ADV	五:DET	點:M	半:POST	了:T	
+原來:ADV	這裡:N	用餐:Vi	沒有:Vt	限制:N	時間:N	
+就算:C	待到:P	晚上:N	也:ADV	不會:ADV	有:Vt	人:N	趕:Vt	
+你:N	
+另外:ADV	一:DET	區:N	的:T	空間:N	跟:P	主廳:N	差不多:Vi	
+但是:C	就:ADV	沒有:ADV	那麼:ADV	華麗:Vi	的:T	水晶:N	大:Vi	吊燈:N	了:T	
+而且:C	聊到:Vt	這麼:ADV	
+晚:Vi	的:T	人:N	還:ADV	不少:Vi	呢:T	
+他們:N	的:T	服務:Nv	真的:ADV	很:ADV	好:Vi	
+我:N	正:ADV	要:ADV	往:P	廁所:N	移動:Vt	的:T	時候:N	
+就:ADV	提醒:Vt	我:N	說:Vt	裡面:N	有:Vt	人:N	
+免得:C	我:N	站:Vi	在:P	那邊:N	
+苦等:Vt	
+廁所:N	很:ADV	漂亮:Vi	
+還:ADV	有:Vt	堆疊:Vt	起來:ASP	的:T	擦手:N	毛巾:N	捲:Vt	
+上完:Vt	廁所:N	之後:POST	一直:ADV	想:Vt	說:Vt	要:ADV	去:ADV	拍:Vt	一下:N	
+結:Vt	
+果:C	後來:N	還是:ADV	忘記:Vt	了:ASP	
+從:P	藍色:N	大:Vi	長椅:N	的:T	另外:ADV	一:DET	邊:N	出來:Vi	
+這兒:N	才:ADV	是:Vt	所謂:Vt	的:T	大門:N	
+整:DET	個:M	也:ADV	太:ADV	低調:Vi	
+完全:ADV	讓:Vt	人:N	找不著:Vt	
+阿:N	..:ETCCATEGORY	
+門口:N	也:ADV	有:Vt	一:DET	個:M	很:ADV	大:Vi	的:T	噴水池:N	
+離開:Vt	的:T	時候:N	還:ADV	下:Vt	著:ASP	雨:N	
+服務:Nv	人員:N	貼心:Vi	幫:P	我們:N	叫:Vt	了:ASP	計程車:N	
+上:N	
+車:N	後:POST	那:DET	位:M	計程車:N	司機:N	不斷:ADV	嘀咕:Vt	著:ASP	這裡:N	很:ADV	難找:Vt	阿:N	
+第一:DET	次:M	來:Vi	這邊:N	排班:Vi	阿:N	
+很:ADV	麻煩:Vt	還:ADV	要:ADV	繞路:Vi	之:T	
+類:N	的:T	
+哈哈:ADV	
+有:Vt	經驗:N	之後:POST	下:DET	次:M	就:ADV	不會:ADV	迷路:Vi	了:T	嘛:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.acarpblog.com:FW	/:FW	
+只:ADV	是:Vt	一:DET	隻:M	胖嘟嘟:Vi	吉祥物:N	

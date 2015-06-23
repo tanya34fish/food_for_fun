@@ -1,0 +1,84 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	Wood&Pot:FW	
+SatJul:FW	1219:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	182014:DET	圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40926025:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	6:DET	不:ADV	常:ADV	來:Vi	天母:N	覓食:Vi	
+儘管:C	曾:ADV	在:P	此:DET	工作:N	過:Vt	一段:N	時間:N	
+但:C	畢竟:ADV	離:P	家:N	太:ADV	遠:Vi	
+偶爾:ADV	來:Vi	之:T	
+天母:N	的:T	巷弄:N	中:POST	有:Vt	不少:DET	小店:N	
+其:DET	氛圍:N	與:C	民生:N	社區:N	相似:Vi	
+但:C	又:ADV	有:Vt	些:M	不同:Vi	
+或許:ADV	是:Vt	天母:N	這:DET	一帶:N	有:Vt	不少:DET	外國人:N	定居:Vi	的:T	關係:N	吧:T	
+美國:N	學校:N	與:C	日橋:N	學校:N	都:ADV	在:P	這裡:N	
+路:N	上:POST	不:ADV	難:Vi	見到:Vt	外國:N	人士:N	
+Wood&amp:FW	
+Pot:FW	是:Vt	我:N	一直:ADV	想:Vt	來:ADV	的:T	店:N	
+據說:ADV	前:DET	些:M	時候:N	重新:ADV	整修:Vt	
+還好:ADV	這:DET	次:M	來:Vi	的:T	時候:N	早已:ADV	整修:Vt	完畢:Vi	
+免去:Vt	白:Vi	跑:Vi	一:DET	趟:M	
+店:N	內外:N	擺放:Vt	了:ASP	好幾:DET	籃:M	水果:N	
+尤其:ADV	是:Vt	店:N	外:N	的:T	那:DET	幾:DET	籃:M	柳丁:N	
+柳丁:N	都:ADV	滾到:Vt	地上:N	了:T	
+這:DET	是:Vt	刻意:ADV	裝飾:Vt	嗎:T	
+看:Vt	了:ASP	讓:Vt	人:N	好:Vi	想:Vt	幫:P	他:N	撿起來:Vi	放回:Vt	籃子:N	
+重新:ADV	整修:Vt	後:POST	的:T	Wood&amp:FW	
+Pot:FW	不:ADV	知:Vt	與:P	以前:N	有:Vt	什麼:DET	差別:N	
+因為:C	是:Vt	第一:DET	次:M	來:POST	
+也:ADV	無從:ADV	比較:ADV	
+整:DET	家:N	店:N	的:T	風格:N	有:Vt	工業:N	風:N	又:ADV	有點:ADV	鄉村:N	風:N	
+我:N	想:Vt	這:DET	是:Vt	一:DET	種:M	混:Vi	搭:Vt	
+但:C	感覺:Vt	不錯:Vi	
+除了:P	工業:N	風:N	之外:POST	
+還:ADV	夾帶:Vt	著:ASP	一點:DET	軍事:N	元素:N	
+有:Vt	不少:DET	阿兵哥:N	公仔:N	
+其中:DET	一:DET	面:N	牆:N	是:Vt	由:P	老舊:Vi	的:T	木頭:N	玻璃:N	窗框:N	拼湊:Vt	而:C	成:Vt	
+現在:N	已經:ADV	不:ADV	少見:Vi	利用:Vt	木頭:N	窗框:N	為:Vt	元素:N	的:T	裝潢:N	
+真:ADV	不:ADV	知道:Vt	這:DET	股:M	風潮:N	是:Vt	從:P	哪:DET	家:M	店:N	開始:Vi	的:T	
+我:N	個:M	人:N	第一:DET	次:M	見到:Vt	是:Vt	在:P	圓山:N	的:T	樹:N	樂集:N	咖啡:N	
+我:N	的:T	座位:N	旁邊:N	垂掛:Vt	著:ASP	三:DET	隻:M	麥克風:N	
+真:ADV	不:ADV	知:Vt	是:Vt	何:DET	用意:N	
+每:DET	張:M	桌:N	上:POST	似乎:ADV	都:ADV	有:Vt	一兩:DET	個:M	發條:N	玩具:N	
+我們:N	這:DET	桌:M	便有:Vt	兩:DET	個:M	
+可惜:Vi	都:ADV	壞:Vt	了:ASP	
+9:DET	餐點:N	以:P	早:Vi	午餐:N	、:PAUSECATEGORY	義大利麵:N	與:C	燉飯:Vt	為主:Vi	
+料理:N	還:ADV	算:Vt	特別:Vi	
+不:ADV	落於:Vt	俗套:N	
+加:Vt	100:DET	元:M	套餐:N	附上:Vt	的:T	麵包:N	與:C	湯:N	
+使用:Vt	圓木:N	餐盤:N	
+頗:ADV	有:Vt	野外:N	露營:Nv	風:N	
+9:DET	雜糧:N	麵包:N	柔軟:Vi	香甜:Vi	
+滋味:N	竟是:Vt	不錯:Vi	
+9:DET	今日湯:N	是:Vt	南瓜湯:N	
+煮:Vt	的:T	較:ADV	稀:Vi	不:ADV	濃稠:Vi	
+味道:N	也:ADV	沒:ADV	那麼:ADV	甜:Vi	膩:Vi	
+清爽:Vi	風格:N	
+9:DET	芝麻:N	葉青:N	醬:N	甜蝦:N	麵食:N	＄:FW	300:DET	與:C	我:N	想像:Vt	的:T	甜蝦:N	有點:ADV	落差:N	
+9:DET	竟是:Vt	五:DET	尾:M	沒:ADV	剝:Vt	殼:N	的:T	蝦:N	
+9:DET	上:N	綴:Vt	芝麻:N	葉:N	
+9:DET	底下:N	的:T	直:Vi	麵:N	拌:Vt	著:ASP	烤菇:N	、:PAUSECATEGORY	蒜片:N	與:C	青醬:N	
+9:DET	蝦子:N	沒:ADV	過多:Vi	調味:Vi	
+只是:ADV	煎:Vt	過:ASP	
+味道:N	簡單:Vi	
+麵條:N	與:C	芝麻:N	葉相拌:N	
+9:DET	這:DET	青醬:N	並:ADV	不如:Vt	一般:A	坊間:N	台式:A	義大利麵:N	那:DET	種:M	加:Vt	奶:N	的:T	濃重:Vi	青醬:N	
+9:DET	而是:C	簡單:Vi	的:T	橄欖油:N	青醬:N	
+而且:C	下:N	的:T	量:N	不:ADV	多:Vi	
+因此:C	只有:ADV	淡淡:Vi	羅勒:N	油香:N	
+正:ADV	是:Vt	我:N	喜愛:Vt	的:T	簡單:Vi	風味:N	
+直:Vi	麵:N	煮:Vt	的:T	還:ADV	行:Vi	
+有:Vt	些:M	彈性:N	
+但:C	再:ADV	硬:Vi	一點:ADV	會:ADV	更:ADV	好:Vi	
+比較:ADV	用心:Vi	的:T	是:Vt	菇片:N	
+吃:Vt	的:T	出:Vt	並:ADV	不:ADV	是:Vt	與:P	麵:N	同:ADV	炒:Vt	而已:T	
+而是:C	燒烤:Vt	過:ASP	的:T	菇片:N	
+有:Vt	著:ASP	濃郁:Vi	燒烤:Vt	香氣:N	
+為:P	這:DET	道:M	麵食:N	增添:Vt	一:DET	絲:M	風味:N	
+以:P	咖啡店:N	的:T	義大利麵:N	來:ADV	說:Vt	
+表現:N	不:ADV	俗:Vi	
+Wood&amp:FW	
+Pot:FW	的:T	環境:N	頗為:ADV	舒適:Vi	
+只:ADV	可惜:Vi	假日:N	用餐:Vi	限時:ADV	兩:DET	小時:M	
+不能:ADV	久:Vi	坐:Vi	
+不:ADV	是:Vt	個:M	可以:ADV	窩:Vi	一:DET	下午:N	的:T	地方:N	
+Wood&amp:FW	
+Pot:FW	地址:N	：:COLONCATEGORY	台北市:N	天玉街:N	38巷:N	13弄:N	2:DET	號:M	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	28753982:DET	--:DASHCATEGORY	一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	--:DASHCATEGORY	

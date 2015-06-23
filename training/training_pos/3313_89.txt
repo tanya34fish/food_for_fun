@@ -1,0 +1,92 @@
+fssmiling:FW	(:PARENTHESISCATEGORY	│:FW	Open:FW	免:ADV	│:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	BANAGREEN:FW	香蕉:N	綠:Vi	吃:Vt	超飽:Vi	的:T	輕食:Vt	料理:N	
+MonJul:FW	1416:DET	::COLONCATEGORY	06:DET	::COLONCATEGORY	272014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	Banagreen:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	瑞光路:N	513巷:N	33:DET	號:M	
+電話:N	：:COLONCATEGORY	0227972795:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週日:N	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	250:DET	
+網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	minnn22.pixnet.net/blog/post:FW	/:FW	183175020:DET	
+前:DET	陣子:N	內湖:N	科技:N	園區:N	裡面:N	一口氣:ADV	開:Vt	了:ASP	好多:DET	家:M	新:Vi	的:T	店:N	
+像:P	這:DET	間:M	主打:Vt	每:DET	天:M	都:ADV	要:ADV	來:ADV	點:M	蔬食:N	的:T	Banagreen:FW	就是:C	其中:DET	一:DET	家:M	
+剛:ADV	開店:Vi	的:T	前:DET	幾:DET	次:M	經過:Vt	還:ADV	以為:Vt	這:DET	是:Vt	素食:N	的:T	店:N	
+殊不知:Vt	我:N	大錯特錯:Vi	
+只是:ADV	主打:Vt	輕食:Vt	而已:T	啦:T	XDD:FW	自從:P	許久:N	以前:N	覺旅:N	咖啡:N	在:P	辦公:Nv	大樓:N	一樓:N	開:Vt	了:ASP	樓中樓:N	型態:N	的:T	店面:N	之後:POST	
+似乎:ADV	帶:Vt	起:ASP	了:ASP	附近:N	店家:N	也:ADV	都:ADV	採用:Vt	樓中樓:N	的:T	裝潢:N	形式:N	
+Banagreen:FW	是:Vt	如此:Vi	
+之前:N	去:ADV	吃:Vt	過:ASP	的:T	Urbancafe:FW	和:C	費尼:N	漢堡:N	也:ADV	都:ADV	是:Vt	這樣:Vi	的:T	感覺:N	
+Banagreen:FW	位在:Vt	八:DET	大:Vi	電視台:N	正:ADV	後方:N	
+大概:ADV	是:Vt	在:P	捷運:N	西湖:N	站:Vi	和:C	港墘:N	站:Vi	的:T	正:N	中間:N	
+從:P	兩:DET	個:M	捷運站:N	走路:Vi	大概:ADV	至少:ADV	都:ADV	要:ADV	走:Vi	個:M	十:DET	分鐘:M	
+幸好:ADV	現在:N	Ubike:FW	很:ADV	流行:Vi	
+騎:Vt	腳踏車:N	過來:Vi	就:ADV	快:ADV	多:Vi	了:T	
+招牌:N	是:Vt	搶眼:Vi	的:T	大:Vi	香蕉:N	搭配:Vt	亮亮:Vi	的:T	草綠色:N	
+識別度:N	還:ADV	滿:ADV	高:Vi	的:T	
+這裡:N	主打:Vt	少油:N	、:PAUSECATEGORY	少鹽:N	、:PAUSECATEGORY	少糖:N	、:PAUSECATEGORY	無味:Vi	精:Vi	的:T	健康:Nv	飲食:N	
+加上:C	寬敞:Vi	的:T	座位:N	空間:N	、:PAUSECATEGORY	免費:Vi	的:T	wifi:FW	、:PAUSECATEGORY	到處:ADV	都:ADV	找:Vt	得到:Vt	的:T	插座:N	
+所以:C	即使:C	是非:N	用餐:Nv	時間:N	店裡:N	還是:ADV	坐滿:Vt	了:ASP	一半:DET	以上:POST	的:T	位子:N	
+這邊:N	的:T	點餐:N	方式:N	是:Vt	進到:Vt	店裡:N	之後:POST	拿:Vt	著:ASP	菜單:N	先:ADV	幫:P	自己:N	找:Vt	個:M	好:Vi	位子:N	
+接著:ADV	再:ADV	帶:Vt	著:ASP	菜單:N	到:P	櫃檯:N	點:Vt	餐:N	
+算是:Vt	近乎:Vt	全:DET	自助:Vi	的:T	方式:N	
+店家:N	只:ADV	會:ADV	幫忙:Vt	送:Vt	餐:N	
+需要:Vt	碗盤:N	刀叉:N	就:ADV	到:Vt	自助區:N	自己:N	拿:Vt	
+想要:Vt	喝:Vt	杯:M	水:N	一樣:Vi	可以:ADV	在:P	自助區:N	找到:Vt	水瓶:N	和:C	水杯:N	
+點餐:N	的:T	方式:N	也:ADV	滿:ADV	特別:Vi	的:T	
+這裡:N	是:Vt	採用:Vt	主餐:N	搭配:Vt	沙拉:N	的:T	方式:N	
+選好:Vt	主餐:N	之後:POST	就:ADV	可以:ADV	挑選:Vt	搭配:Nv	主餐:N	的:T	一:DET	大盤:N	沙拉:N	和:C	三:DET	種:M	配:Vt	菜:N	
+因為:C	沙拉:N	算是:Vt	主打:Nv	項目:N	
+因此:C	搭配:Vt	的:T	醬料:N	種類:N	選擇:N	也:ADV	超多:Vi	
+如果:C	是:Vt	愛:Vt	吃:Vt	沙拉:N	的:T	人:N	來到:Vt	這裡:N	感覺:N	應該:ADV	像:P	來到:Vt	天堂:N	一樣:Vi	XD:FW	因為:C	主菜:N	需要:Vt	一段:N	烹調:Nv	時間:N	
+所以:C	點完:Vt	餐:N	後:POST	可以:ADV	立馬:N	享用:Vt	的:T	就是:C	自己:N	精挑細選:Vi	的:T	沙拉:N	和:C	配菜:N	囉:T	
+我:N	選:Vt	的:T	三:DET	樣:M	配:Vt	菜:N	分別:ADV	是:Vt	西班牙:N	烘:Vt	蛋:N	、:PAUSECATEGORY	辣味:N	火腿:N	橄欖花:N	椰:N	、:PAUSECATEGORY	藍莓:N	香蕉:N	奶酪:N	
+搭配:Vt	沙拉:N	的:T	醬汁:N	是:Vt	和風:N	絹羽:N	醬:N	
+烘:Vt	蛋:N	就:ADV	是:Vt	烘:Vt	蛋:N	這:DET	沒:Vt	什麼:DET	特別:Vi	好:Vi	介紹:Vt	的:T	
+花椰菜:N	應該:ADV	是:Vt	燙:Vt	過:ASP	之後:POST	加上:Vt	酸甜:Vi	的:T	醬汁:N	再:ADV	撒上:Vt	七:DET	味:M	粉拌:N	一:ADV	拌:Vt	而:C	成:Vt	
+滿:ADV	開胃:Vi	的:T	味道:N	
+奶酪:N	的:T	話:N	奶味:N	不:ADV	是:Vt	很:ADV	重:Vi	
+也:ADV	不:ADV	像:Vt	正統:A	奶酪:N	般:POST	的:T	軟軟:Vi	口感:N	
+比較:ADV	偏向:Vt	布丁:N	的:T	感覺:N	
+名字:N	取:Vt	的:T	很:ADV	好聽:Vi	的:T	沙拉醬:N	其實:ADV	就:ADV	是:Vt	日式:A	和風醬:N	啦:T	
+味道:N	吃起來:ADV	就是:C	胡:N	麻醬:N	的:T	感覺:N	
+很:ADV	適合:Vi	夏天:N	的:T	一:DET	個:M	口味:N	
+大廚:N	挑:Vt	的:T	配:Vt	菜:N	有:Vt	魚子醬:N	田鼠:N	甜薯:N	沙拉:N	、:PAUSECATEGORY	鮮蔬醬燒野菇:N	、:PAUSECATEGORY	德式:A	香腸:N	番茄:N	義大利麵:N	
+另外:C	還:ADV	搭配:Vt	一:DET	碗:M	洋蔥湯:N	
+老實說:ADV	我:N	比較:ADV	喜歡:Vt	大廚:N	挑:Vt	的:T	配菜:N	
+好吃:Vi	的:T	都:ADV	被:P	他:N	選走:Vt	了:ASP	XDD:FW	甜薯:N	沙拉:N	相對:Vi	其他:DET	兩:DET	個:M	配:Vt	菜:N	的:T	美味:N	比較:ADV	普通:Vi	一點:ADV	就:ADV	不:ADV	多:ADV	做:Vt	介紹:Vt	了:ASP	
+醬燒野菇超:N	好吃:Vi	的:T	啦:T	
+我:N	本來:ADV	就:ADV	很:ADV	喜歡:Vt	吃:Vt	香菇:N	以外:POST	的:T	菇類:N	
+這:DET	個:M	菇:N	搭配:Vt	了:ASP	照燒醬炒出:Vt	甘甜:Vi	味:N	整:DET	個:M	就:ADV	很:ADV	下:Vt	飯:N	
+番茄:N	義大利麵:N	也:ADV	煮:Vt	得:T	很:ADV	不錯:Vi	
+麵:N	不會:ADV	過:ADV	硬:Vi	或:C	過:ADV	軟:Vi	
+因為:C	滿:ADV	好吃:Vi	的:T	有:Vt	種:M	意猶未盡:Vi	的:T	感覺:N	
+洋蔥湯:N	則:ADV	是:Vt	有:Vt	很多:DET	洋蔥:N	
+廢話:N	XD:FW	
+不過:C	可能:ADV	因為:C	是:Vt	湯:N	底:N	了:T	
+所以:C	稍微:ADV	有點:ADV	偏:Vt	鹹:Vi	
+比起:P	我:N	覺得:Vt	真的:ADV	做:Vt	得:T	頗:ADV	有:Vt	特色:N	的:T	沙拉:N	和:C	配菜:N	
+主菜:N	就:ADV	相對:Vi	弱:Vi	了:T	
+我:N	點:Vt	的:T	主菜:N	是:Vt	和風:N	照:P	燒香:Vi	草雞:N	
+口味:N	上:POST	稍微:ADV	清淡:Vi	了:ASP	一點:DET	
+雖然:C	外皮:N	滿:ADV	脆:Vi	的:T	
+不過:C	沒:Vt	什麼:DET	香味:N	也:ADV	沒:Vt	什麼:DET	肉汁:N	
+雖然:C	是:Vt	雞腿肉:N	不過:C	吃起來:ADV	像:Vt	雞胸:N	一樣:Vi	
+不:ADV	是:Vt	我:N	喜歡:Vt	的:T	味道:N	
+大廚點:N	的:T	割下:Vt	燒:Vt	雪花:N	牛:N	也:ADV	是:Vt	普普通通:Vi	
+割下:Vt	燒:Vt	就:ADV	是:Vt	壽:N	喜:Vt	燒:Vt	的:T	另:DET	一:DET	種:M	說法:N	
+所以:C	我們:N	本來:ADV	期望:Vt	他:N	是:Vt	偏:ADV	甜:Vi	口感:N	的:T	牛肉:N	
+不過:C	吃起來:ADV	比較:ADV	像:Vt	普通:Vi	的:T	醬油:N	牛肉:N	的:T	感覺:N	
+雖然:C	比:P	我:N	的:T	香:N	草雞:N	好:Vi	一點:ADV	
+不過:C	還是:ADV	沒有:Vt	沙拉:N	來得:ADV	令:Vt	人:N	喜歡:Vt	
+另外:C	我們:N	還:ADV	點:Vt	了:ASP	一:DET	杯:M	香蕉:N	堅果:N	牛奶:N	
+超:Vt	好喝:Vi	的:T	啦:T	
+台灣:N	果然:ADV	是:Vt	香蕉:N	王國:N	
+同樣:Vi	是:Vt	香蕉:N	牛奶:N	就:ADV	比:P	韓國:N	的:T	來得:ADV	好喝:Vi	哈:ADV	哈哈:ADV	
+加上:C	除了:P	香噴噴:Vi	的:T	香蕉味:N	以外:POST	
+還:ADV	有:Vt	堅果:N	的:T	香氣:N	
+於是:C	大廚:N	隔:Vt	天:N	立刻:ADV	在:P	家:N	仿作:N	一:DET	杯:M	香蕉:N	堅果:N	牛奶:N	
+這樣:Vi	的:T	搭配:Nv	真的:ADV	是:Vt	很:ADV	美味:Vi	呀:T	
+雖然:C	主菜:N	普通:Vi	
+不過:C	這:DET	還是:ADV	一:DET	家:M	非常:ADV	值得:Vi	推薦:Vt	的:T	店:N	
+因為:C	我們:N	兩:DET	人:N	這樣:Vi	吃下來:Vi	是:Vt	436:DET	元:M	
+不:ADV	點:Vt	飲料:N	的:T	話:N	還:ADV	只要:C	$:FW	366:DET	呢:T	
+但是:C	肚子:N	簡直:ADV	飽:Vi	到:P	要:ADV	炸:Vt	了:ASP	XDD:FW	算是:Vt	吃:Vt	的:T	很:ADV	划算:Vi	的:T	感覺:N	

@@ -1,0 +1,55 @@
+pttderek(pttderek:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	隱藏:Vt	在:P	石碇:N	老街:N	的:T	驚喜:Nv	美食:N	
+MonJul:FW	1419:DET	::COLONCATEGORY	57:DET	::COLONCATEGORY	392014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	婆:N	依:P	Cafe'Stella:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	新:Vi	北市:N	石碇:N	區潭:N	邊:N	里湳窟:N	8:DET	-:DASHCATEGORY	2:DET	號:M	(:PARENTHESISCATEGORY	農會:N	正:ADV	後方:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	0963:DET	-:DASHCATEGORY	613:DET	-:DASHCATEGORY	360:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	AM:FW	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	PM:FW	18:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	150:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	芋頭:N	冰沙:N	
+官網:N	：:COLONCATEGORY	
+附註:Vt	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	derekwen.pixnet.net/blog/post:FW	/:FW	155306967:DET	
+隱藏:Vt	在:P	石碇:N	老街:N	旁:N	的:T	驚喜:Nv	美食:N	
+大:Vi	熱天:N	的:T	午後:N	想:Vt	隨處:ADV	晃晃:Vi	就:ADV	來到:Vt	石碇:N	的:T	老街:N	
+無意:Vt	間:POST	發現:Vt	一:DET	個:M	”:FW	交通:N	標誌:N	”:FW	
+真的:ADV	是:Vt	無意:Vt	間:POST	
+因為:C	通常:ADV	對:P	我:N	來:ADV	說:Vt	
+交通:N	標誌:N	一律:ADV	是:Vt	視而不見:Vi	
+我:N	想:Vt	大部分:DET	的:T	人:N	應該:ADV	也:ADV	都:ADV	是:Vt	吧:T	
+除非:C	是:Vt	收到:Vt	罰單:N	才:ADV	會:ADV	去:ADV	確認:Vt	有沒有:ADV	罰:Vt	錯:N	@:FW	@:FW	@:FW	
+這:DET	應該:ADV	是:Vt	老闆:N	的:T	創意:N	
+但:C	如果:C	不:ADV	是:Vt	剛好:ADV	在:P	便利商店:N	前:N	發呆:Vi	也:ADV	不會:ADV	發現:Vt	
+走:Vi	了:ASP	進去:Vi	之後:POST	
+點:Vt	了:ASP	杯:M	芋頭:N	冰沙:N	來:ADV	消暑:Vi	
+哇:FW	x:FW	
+怎麼:ADV	那麼:ADV	濃:Vi	啊:T	
+那:ADV	留在:Vt	口:N	中:N	的:T	芋頭:N	味道:N	是:Vt	那:DET	種:M	傳統:N	小時候:N	才:ADV	吃:Vt	的:T	到:Vt	的:T	味道:N	
+本人:N	3:DET	x:FW	歲:M	
+感覺:N	用料:N	就:ADV	一:DET	整:DET	個:M	很:ADV	實在:Vi	
+不然:C	不可能:ADV	會:ADV	這麼:ADV	濃:Vi	
+我:N	在:P	寫:Vt	的:T	同時:N	
+腦:N	中:POST	還:ADV	在:P	回憶:Vt	著:ASP	當時:N	的:T	味道:N	
+真的:ADV	是:Vt	隱藏:Vt	在:P	石碇:N	老街:N	旁:N	的:T	意外:N	驚喜:Vi	
+我:N	想:Vt	下:DET	次:M	一定:ADV	還:ADV	會:ADV	再:ADV	來:ADV	
+再:ADV	點點:DET	別的:DET	試:Vt	看看:Vt	老闆:N	其他:DET	的:T	功力:N	如何:ADV	
+看:Vt	了:ASP	一下:N	環境:N	
+乾淨:Vi	整潔:Vi	
+絕不:ADV	會:ADV	有:Vt	不:ADV	該:ADV	留在:Vt	桌面:N	上:N	的:T	東西:N	
+這:DET	是:Vt	一:DET	個:M	由:P	粉紅:N	和:C	紫色:N	為主:Vi	組成:Vt	的:T	小店:N	
+安靜:Vi	的:T	坐:Vi	在:P	這裡:N	
+聽聽:Vt	溪水聲:N	
+好:ADV	悠閒:Vi	啊:T	
+這:DET	才:ADV	注意到:Vt	這:DET	個:M	奇怪:Vt	的:T	店名:N	--:DASHCATEGORY	婆:N	依:P	
+很:ADV	難:Vi	聯想:Vt	這:DET	店名:N	跟:P	賣:Vt	的:T	東西:N	有:Vt	啥:DET	關係:N	
+好奇心:N	驅使:Vt	下問:b	了:T	一下:N	店員:N	
+原來:ADV	是:Vt	有:Vt	故事:N	的:T	啊:T	
+但:C	比較:ADV	讓:Vt	我:N	覺得:Vt	奇怪:Vt	的:T	是:Vt	
+這:DET	店員:N	怎麼:ADV	會:ADV	這麼:ADV	清楚:Vi	店名:N	的:T	由來:N	
+原來:ADV	她:N	就:ADV	是:Vt	店長:N	^:FW	^:FW	
+至於:P	是:Vt	什麼:DET	故事:N	要:ADV	你們:N	自己:N	去:ADV	問問:Vt	店長:N	
+比較:ADV	不:ADV	忙:Vi	的:T	話:N	應該:ADV	會:ADV	告訴:Vt	你們:N	的:T	
+婆:N	依:P	等:Vt	我:N	
+這:DET	個:M	暑假:N	我:N	一定:ADV	還:ADV	會:ADV	再:ADV	來:Vi	的:T	

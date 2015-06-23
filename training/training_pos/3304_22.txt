@@ -1,0 +1,112 @@
+vivagozo(wei:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	士林:N	｜:FW	芝山:N	捷運:N	旁:N	日式:A	小吃:N	*:FW	QQ:FW	食堂:N	*:FW	
+FriJul:FW	1109:DET	::COLONCATEGORY	42:DET	::COLONCATEGORY	462014:DET	
+[:PARENTHESISCATEGORY	瑋瑋:N	*:FW	美食:N	萬歲:Vi	]:PARENTHESISCATEGORY	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	vivawei.pixnet.net/blog/post:FW	/:FW	4785492:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	ＱＱ:FW	食堂:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	07月:N	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	福華路:N	145:DET	號:M	
+芝山:N	捷運站:N	一:DET	號:M	出口:N	步行:Vi	約:ADV	2:DET	-:DASHCATEGORY	3:DET	分鐘:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	28383129:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	
+17:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	20:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	100:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	咖哩:N	雞肉:N	烏龍麵:N	
+雞肉:N	咖哩飯:N	
+甜不辣:N	這:DET	一:DET	家:M	靠近:Vt	芝山:N	捷運站:N	的:T	小吃店:N	
+個:M	人:N	覺得:Vt	不:ADV	太:ADV	起眼:Vi	
+網路:N	上:POST	也:ADV	沒有:Vt	相關:Vi	文章:N	介紹:Vt	
+不過:C	這:DET	天:M	還是:ADV	鼓起:Vt	勇氣:N	想要:Vt	進去:Vi	吃吃:ADV	看:Vt	
+也:ADV	看看:Vt	這:DET	裡面:N	賣:Vt	的:T	究竟:ADV	是:Vt	什麼:DET	
+門口處:N	其實:ADV	就:ADV	可以:ADV	看到:Vt	店家:N	的:T	價目表:N	
+參考:Vt	一下:N	覺得:Vt	價格:N	還:ADV	算:Vt	可以:ADV	接受:Vt	
+就:ADV	可以:ADV	進去:Vi	用餐:Vi	了:ASP	
+進門處:N	可以:ADV	感受到:Vt	滿滿:Vi	的:T	熱氣:N	
+看到:Vt	老闆:N	一:DET	人:N	在:P	這邊:N	料理:Vt	
+偶爾:ADV	也:ADV	會:ADV	出現:Vi	老闆娘:N	的:T	身影:N	
+內:N	用:Vt	的:T	座位:N	還:ADV	蠻:ADV	涼:Vi	的:T	
+有:Vt	冷氣:N	
+還:ADV	有:Vt	一:DET	區:N	是:Vt	比較:ADV	日式:A	的:T	和:P	室:N	用餐:Nv	空間:N	
+以上:N	是:Vt	店家:N	的:T	menu:FW	
+有:Vt	咖哩:N	、:PAUSECATEGORY	烏龍麵:N	、:PAUSECATEGORY	甜不辣:N	、:PAUSECATEGORY	雞絲麵:N	
+還:ADV	有:Vt	單:ADV	點:Vt	區:N	
+＃:FW	雞肉:N	咖哩飯:N	：:COLONCATEGORY	１１０:DET	元:M	
+附湯:N	
+點:Vt	他們:N	的:T	
+ＱＱ:FW	元氣餐:N	
+和:C	
+ＱＱ:FW	烏龍麵:N	
+就:ADV	有:Vt	額外:A	附贈:Vt	一:DET	碗:M	蘿蔔湯:N	
+他們:N	的:T	份量:N	十分:ADV	足夠:Vi	
+除了:P	咖哩飯:N	以外:POST	
+還:ADV	有:Vt	很:ADV	爽脆:Vi	的:T	高麗菜:N	
+很:ADV	甜:Vi	很:ADV	新鮮:Vi	
+咖哩醬:N	蠻:ADV	濃郁:Vi	的:T	
+裡面:N	還:ADV	有:Vt	馬鈴薯:N	和:C	紅蘿蔔:N	
+煮:Vt	到:P	也:ADV	蠻:ADV	入:Vt	味:N	的:T	
+咖哩:N	雞肉:N	的:T	雞肉:N	有:Vt	特別:Vi	先:ADV	煎:Vt	過:ASP	
+吃起來:ADV	有點:ADV	微:Vi	焦:Vi	
+加:Vt	到:P	咖哩:N	裡面:N	非常:ADV	合適:Vi	
+這:DET	是:Vt	附贈:Vt	的:T	蘿蔔湯:N	
+喝:Vt	起來:ASP	有:Vt	淡淡:Vi	的:T	蘿蔔:N	香:Vi	
+不過:C	我:N	覺得:Vt	外帶:Vt	的:T	湯量:N	比:P	內:N	用:Vt	的:T	還要:ADV	多:Vi	一些:DET	
+＃:FW	咖哩:N	雞肉:N	烏龍麵:N	：:COLONCATEGORY	１２０:DET	元:M	
+附湯:N	
+烏龍:N	麵:N	也:ADV	是:Vt	很:ADV	大一盆:N	
+份量:N	非常:ADV	大:Vi	
+另外:C	也:ADV	有:Vt	附贈:Vt	一:DET	碗:M	蘿蔔湯:N	
+因為:C	上:DET	一:DET	次:M	來:ADV	吃:Vt	他們:N	的:T	咖哩:N	雞肉飯:N	覺得:Vt	很:ADV	好吃:Vi	
+所以:C	今天:N	想要:Vt	換:Vt	個:M	烏龍:N	麵:N	來:ADV	吃吃:Vt	
+也:ADV	一樣:Vi	
+裡面:N	加入:Vt	了:ASP	已經:ADV	煮:Vt	到:P	入味:N	的:T	紅蘿蔔:N	及:C	馬鈴薯:N	
+高麗菜:N	
+最:ADV	棒:Vi	的:T	是:Vt	
+他們:N	還:ADV	加入:Vt	了:ASP	份量:N	十足:Vi	的:T	蔥:N	蛋:N	
+我:N	超:Vt	愛:N	
+而且:C	他們:N	的:T	烏龍:N	麵:N	也:ADV	非常:ADV	軟:Vi	Ｑ:FW	
+吃起來:ADV	很:ADV	彈:Vt	牙:N	
+而且:C	也:ADV	吸附:Vt	了:ASP	咖哩:N	的:T	醬汁:N	
+就是:C	因為:C	特別:Vi	喜歡:Vt	他們:N	的:T	咖哩:N	雞肉:N	
+所以:C	二:DET	訪:Vt	也:ADV	決定:Vt	選:Vt	同:DET	一:DET	種:M	口味:N	
+＃:FW	甜不辣:N	雞絲:N	湯麵:N	：:COLONCATEGORY	６５:DET	元:M	
+我:N	本來:ADV	是:Vt	跟:P	老闆:N	點:Vt	一:DET	份:M	甜不辣:N	
+一:DET	份:M	雞絲麵:N	
+但是:C	老闆:N	沒有:ADV	聽清楚:Vt	
+就:ADV	變成:Vt	這:DET	一:DET	份:M	
+甜不辣:N	雞絲:N	湯麵:N	
+因為:C	他們:N	的:T	雞絲:N	麵:N	還:ADV	有:Vt	
+鮮蔬:N	雞絲:N	湯麵:N	
+和:C	
+綜合:A	雞絲:N	湯麵:N	
+這:DET	三:DET	種:M	
+所以:C	老闆:N	就:ADV	誤以為:Vt	我:N	要:ADV	這:DET	一:DET	種:M	裡面:N	的:T	配料:N	
+其實:ADV	就:ADV	是:Vt	會:ADV	在:P	一般:A	的:T	甜不辣:N	中:POST	會:ADV	出現:Vi	的:T	固定:Nv	班底:N	
+雞絲麵:N	的:T	份量:N	還:ADV	蠻:ADV	多:Vi	的:T	
+而且:C	湯頭:N	蠻:ADV	特別:Vi	的:T	
+感覺:Vt	有:Vt	加入:Vt	一些:DET	沙茶醬:N	
+不過:C	還是:ADV	覺得:Vt	喝:Vt	起來:ASP	蠻:ADV	清淡:Vi	的:T	
+但是:C	這:DET	一:DET	碗:M	雞絲麵:N	的:T	飽足感:N	一定:ADV	很:ADV	足夠:Vi	
+＃:FW	甜不辣:N	：:COLONCATEGORY	４５:DET	元:M	
+其實:ADV	我:N	平常:N	最:ADV	常:ADV	買:Vt	的:T	甜不辣:N	是:Vt	這:DET	一:DET	家:M	
+位於:Vt	士林:N	華榮:N	市場:N	
+只:ADV	賣:Vt	晚上:N	的:T	士林:N	甜不辣:N	
+不過:C	那:DET	家:M	甜不辣:N	只有:ADV	賣:Vt	晚上:N	
+所以:C	當:P	我:N	每:DET	次:M	在:P	中午:N	想:Vt	吃:Vt	甜不辣:N	的:T	時候:N	
+至少:ADV	還:ADV	多:Vi	了:ASP	這:DET	個:M	選擇:N	
+這:DET	是:Vt	比較:ADV	大:Vi	塊:M	的:T	那:DET	種:M	甜不辣:N	
+咬:Vt	起來:ASP	也:ADV	還:ADV	蠻:ADV	有:Vt	口感:N	的:T	
+除了:P	剛剛:ADV	片狀:N	的:T	甜不辣:N	以外:POST	
+還:ADV	有:Vt	這:DET	種:M	條狀:N	的:T	甜不辣:N	
+吃起來:ADV	都:ADV	差不多:Vi	
+米血:N	已經:ADV	煮:Vt	的:T	蠻:ADV	軟:Vi	爛:Vi	的:T	
+不然:C	我:N	很:ADV	害怕:Vt	吃到:Vt	那:DET	種:M	硬硬:Vi	會:N	卡牙:N	的:T	米血:N	
+哭:Vi	
+油豆腐:N	已經:ADV	吸附:Vt	了:ASP	甜不辣:N	的:T	醬汁:N	
+很:ADV	入:Vt	味:N	
+白:Vi	蘿蔔:N	在:P	甜不辣:N	中:POST	會:ADV	出現:Vi	的:T	基本:A	款:N	
+除了:P	剛剛:ADV	介紹:Vt	的:T	配料:N	以外:POST	
+另外:C	還:ADV	有:Vt	兩:DET	顆:M	貢丸:N	
+整體:N	而言:Vt	
+裡面:N	的:T	配料:N	該:DET	有:Vt	的:T	都:ADV	有:Vt	了:ASP	
+如果:C	單:ADV	吃:Vt	這:DET	一:DET	碗:M	不至於:ADV	吃:Vt	得:T	太:ADV	飽:Vi	
+但是:C	蠻:ADV	適合:Vi	暫時:ADV	填飽:Vt	肚子:N	或是:C	解饞:Vi	

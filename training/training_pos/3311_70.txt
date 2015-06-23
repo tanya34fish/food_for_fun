@@ -1,0 +1,68 @@
+poporabbit:FW	(:PARENTHESISCATEGORY	屁屁兔:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	松山:N	菸廠:N	DripCafe:FW	好滴:Vi	咖啡:N	
+SunJul:FW	1316:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	132014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	DripCafe:FW	好滴:Vi	咖啡:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	5月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	忠孝東路:N	四段:N	553巷:N	26:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2764:DET	-:DASHCATEGORY	8181:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週日:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	無:Vt	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	牛肉:N	起:POST	司:Vt	三明治:N	
+圖文:N	網誌:N	心得:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	jayrabbit.pixnet.net/blog/post:FW	/:FW	58031286:DET	
+以下:N	複製:Vt	網誌:N	內文:N	
+鄰近:Vt	松山:N	菸廠:N	的:T	DripCafe:FW	好滴:Vi	咖啡:N	已經:ADV	前往:Vt	光顧:Vt	過:ASP	好:Vi	一陣子:N	
+卻:ADV	遲遲:ADV	沒有:Vt	動力:N	為之:C	寫下:Vt	隻字:N	片語:N	
+我:N	想:Vt	是:Vt	因為:C	當天:N	瑟縮:Vi	在:P	屋簷:N	下:N	現場:N	候位:N	雨:N	和:C	雷:N	輪番:ADV	填充:Vt	感官:N	的:T	印象:N	太過:ADV	鮮明:Vi	
+導致:Vt	事:N	後:POST	必須:ADV	以:P	比:P	平常:N	多:POST	一:DET	倍:N	的:T	力氣:N	才:ADV	回想:Vt	得:Vt	起:ASP	那:DET	天:M	的:T	味覺:N	
+排隊:Vi	三:DET	個:M	小時:N	只:ADV	為了:P	吃:Vt	頓:M	飯:N	的:T	理由:N	很:ADV	簡單:Vi	
+在:P	雨:N	和:C	雷:N	中:POST	的:T	好:Vi	滴:Vt	咖啡:N	是:Vt	一:DET	座:M	小:Vi	島:N	可以:ADV	避免:Vt	被:P	淹沒:Vt	以及:C	指引:Nv	走不動:Vi	的:T	茫然:Vi	
+好不容易:ADV	終於:ADV	進到:Vt	了:ASP	餐廳:N	裡面:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jayrabbit.pixnet.net/album/photo:FW	/:FW	284396799:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jayrabbit.pixnet.net/album/photo:FW	/:FW	284396745:DET	
+從:P	透明:Vi	的:T	天花板:N	可以:ADV	看見:Vt	雨:N	的:T	姿態:N	及:C	台灣:N	特有:A	的:T	舊:Vi	公寓:N	景觀:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jayrabbit.pixnet.net/album/photo:FW	/:FW	284396772:DET	
+店:N	內:N	空間:N	不:ADV	大:Vi	但:C	不:ADV	乏:Vt	提供:Vt	全:DET	家:M	大:Vi	小:Vi	一起:ADV	用餐:Vi	的:T	位置:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jayrabbit.pixnet.net/album/photo:FW	/:FW	284396784:DET	
+標明:Vt	不:ADV	收:Vt	服務費:N	故:C	餐具:N	和:C	水:N	都:ADV	是:Vt	自取:Vt	的:T	也:ADV	因此:C	陸續:ADV	可以:ADV	聽到:Vt	刀盤:N	碰撞:Vi	的:T	聲響:N	
+餐點:N	上桌:Vi	
+還:ADV	有:Vt	一:DET	份:M	根據:P	網友:N	分享:Vt	所:ADV	點:Vt	當天:N	視為:Vt	重頭戲:N	的:T	甜品:N	在:P	服務生:N	的:T	建議:N	下:POST	稍後:ADV	再:ADV	上:Vt	
+不過:C	這:DET	一:DET	候:N	就:ADV	差點:ADV	不:ADV	見:Vt	蹤影:N	這:DET	事:N	等等:POST	再:ADV	說:Vt	先:ADV	看:Vt	其他:DET	餐點:N	吧:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jayrabbit.pixnet.net/album/photo:FW	/:FW	284396733:DET	
+9:DET	這:DET	是:Vt	牛肉:N	起:POST	司:Vt	三明治:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jayrabbit.pixnet.net/album/photo:FW	/:FW	284396754:DET	
+從:P	外面:N	看:Vt	餡料:N	似乎:ADV	滿:ADV	豐富:Vt	的:T	起:Vt	司醬:N	都:ADV	溢出來:Vi	了:ASP	
+一口:ADV	咬下:Vt	調味:N	很:ADV	夠:Vi	接近:Vt	台式:A	熱:N	炒:Vt	的:T	風味:N	
+再:ADV	咬:Vt	一口:ADV	咦:T	沒有:ADV	餡:N	了:T	
+沒:ADV	錯:Vi	餡料:N	的:T	份量:N	就:ADV	只有:ADV	外觀:N	看到:Vt	的:T	那樣:Vi	
+麵包:N	裡面:N	是:Vt	空:Vt	的:T	
+或許:ADV	是:Vt	為了:P	中和:N	三明治:N	餡料:N	的:T	重:Vi	口味:N	旁邊:N	的:T	沙拉:N	拌:Vt	的:T	是:Vt	清爽:Vi	的:T	油醋:N	醬:N	
+但:C	卻:ADV	掩蓋:Vt	不:ADV	了:ASP	生菜:N	的:T	苦澀:Nv	
+再:ADV	來:ADV	是:Vt	奶油:N	雞肉麵:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jayrabbit.pixnet.net/album/photo:FW	/:FW	284396739:DET	
+麵:N	的:T	軟硬:Vi	適中:Vi	香料:N	氣味:N	很:ADV	足:Vi	稀少:Vi	的:T	雞肉:N	肉質:N	乾硬:Vi	且:C	沒有:Vt	入味:N	
+上頭:N	擺設:Vt	的:T	吃起來:ADV	是:Vt	甜菜:N	絲:N	黏:Vt	在:P	盤:N	底:POST	的:T	塊狀:N	是:Vt	起:Vt	司:N	
+整:DET	起:POST	而言:Vt	算是:Vt	不:ADV	難吃:Vi	的:T	一:DET	道:M	菜:N	
+其實:ADV	份量:N	並:ADV	沒有:Vt	特別:Vi	大:Vi	但:C	我們:N	兩:DET	個:M	女生光:N	這:DET	盤:M	就:ADV	吃:Vt	了:ASP	很:ADV	久:Vi	
+最後:N	是:Vt	遲遲:ADV	不:ADV	見:Vt	身影:N	的:T	提拉米蘇:N	可:ADV	拿:Vt	滋:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jayrabbit.pixnet.net/album/photo:FW	/:FW	284396736:DET	
+再三:ADV	詢問:Vt	了:ASP	店員:N	後:POST	似乎:ADV	才:ADV	開始:Vt	製作:Vt	
+於是:C	它:N	熱騰騰:Vi	上桌:Vi	的:T	同時:N	
+店員:N	也:ADV	微笑:Vi	地:T	向:P	我們:N	宣告:Vt	用餐:Nv	時間:N	只:ADV	剩:Vt	一:DET	分鐘:M	
+為了:P	不:ADV	浪費:Vt	期待:Nv	已:ADV	久:Vi	的:T	心情:N	即使:C	燙口:Vt	還是:ADV	用力:Vi	吞食:Vt	
+經過:Vt	油炸:Vt	的:T	甜甜圈:N	外皮:N	十分:ADV	酥脆:Vi	
+在:P	嘴:N	裡:POST	卡滋卡茲:N	無限:Vi	翻騰:Vi	的:T	同時:N	甜味:N	亦:ADV	盡情:ADV	地:T	釋放:Nv	
+不過:C	哪裡:N	有:Vt	提:Vt	拉米:N	蘇:N	的:T	味道:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jayrabbit.pixnet.net/album/photo:FW	/:FW	284396793:DET	
+原來:ADV	是:Vt	要:ADV	淋:Vt	上:POST	帶:Vt	點:N	炭焙:Vt	香:Vi	的:T	咖啡:N	焦糖:N	才:ADV	會:ADV	有:Vt	提:Vt	拉米:N	蘇:N	的:T	味道:N	出來:Vi	
+不得不:ADV	說:Vt	這:DET	咖啡:N	糖漿:N	及時:ADV	救援:Vt	了:ASP	我:N	瀕臨:Vt	溺斃:Vi	的:T	味蕾:N	
+雖然:C	吃到:Vt	後來:N	油膩感:N	還是:ADV	佔:Vt	了:ASP	上風:N	
+但:C	我們:N	兩:DET	個:M	女生:N	還是:ADV	勤勤懇懇:Vi	地:T	把:P	它:N	分食:Vt	完:Vt	了:ASP	
+並:C	從中:ADV	領悟到:Vt	店員:N	的:T	苦心:N	
+好險:Vi	有:Vt	趁熱:ADV	吃:Vt	不然:C	冷掉:Vt	後:POST	可能:ADV	會:ADV	更:ADV	不:ADV	好:Vi	入口:N	
+淋:Vt	到:P	糖漿:N	的:T	地方:N	都:ADV	變得:Vt	很:ADV	難:Vi	切開:Vt	
+當然:ADV	這:DET	有:Vt	一:DET	部分:DET	要:ADV	歸功於:Vi	它:N	不:ADV	算:Vt	便宜:Vi	的:T	價格:N	XD:FW	
+花:Vt	三:DET	個:M	小時:N	排隊:Vi	為了:P	吃:Vt	一:DET	頓:M	飯:N	到底:ADV	值不值得:Vi	呢:T	
+這:DET	問題:N	見仁見智:Vi	不過:C	我:N	想:Vt	我:N	是:Vt	不會:ADV	再:ADV	去:Vt	這:DET	家:M	了:T	XD:FW	
+晚上:N	的:T	松山:N	菸廠:N	別有:Vt	一:DET	番:M	情調:N	如果:C	沒有:ADV	下雨:Vi	應該:ADV	會:ADV	更:ADV	美:Vi	
+還是:ADV	推薦:Vt	松山:N	菸廠:N	比較:ADV	實際:Vi	XD:FW	

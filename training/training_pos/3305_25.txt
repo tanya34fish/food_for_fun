@@ -1,0 +1,106 @@
+puddingann:FW	(:PARENTHESISCATEGORY	軟軟:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	窩:N	台北:N	Wootp:FW	來:ADV	窩:Vi	一:DET	晚:M	喝:Vt	一:DET	杯:M	!:EXCLAMATIONCATEGORY	
+FriJul:FW	1111:DET	::COLONCATEGORY	58:DET	::COLONCATEGORY	252014:DET	
+圖文並茂:Vi	無:Vt	人物:N	好吃:Vi	部落格版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	puddingann.pixnet.net/blog/post:FW	/:FW	154723803:DET	
+店名:N	：:COLONCATEGORY	Wootp:FW	窩:N	台北:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	87719813:DET	
+地址:N	：:COLONCATEGORY	106:DET	台北市:N	大安區:N	忠孝東路:N	四段:N	205巷:N	39:DET	-:DASHCATEGORY	1:DET	號:M	
+交通:N	：:COLONCATEGORY	捷運:N	忠孝:N	敦化:N	站:Vi	2:DET	號:M	出口:Nv	
+Zara:FW	旁邊:N	的:T	巷子:N	走到:Vt	底:N	
+靠近:Vt	市民:N	大道:N	那邊:N	
+營業:Nv	時間:N	：:COLONCATEGORY	
+周一:N	
+周:N	四:DET	：:COLONCATEGORY	下午:N	兩:DET	點:N	
+凌晨:N	兩:DET	點:N	
+周五:N	
+周六:N	：:COLONCATEGORY	下午:N	兩:DET	點:N	
+凌晨:N	三:DET	點:N	
+周日:N	：:COLONCATEGORY	下午:N	兩:DET	點:N	
+凌晨:N	兩:DET	點:N	
+低消:N	：:COLONCATEGORY	
+平日:N	週日:N	晚間:N	來:Vi	店:N	消費:N	每:DET	人:N	低:Vi	消:Vt	300:DET	元:M	
+週五:N	-:DASHCATEGORY	週六:N	晚間:N	來:Vi	店:N	消費:N	每:DET	人:N	低:Vi	消:Vt	500:DET	元:M	
+推薦:Vt	菜色:N	：:COLONCATEGORY	調:Vt	酒:N	
+臉書:N	網站:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/wootp/timeline:FW	
+台北:N	東區:N	很多:DET	Loungebar:FW	或是:C	美食:N	餐廳:N	
+這:DET	次:M	因為:C	姐妹:N	們:N	需要:Vt	喝:Vt	酒:N	好好:Vi	聊:Vt	一:ADV	聊:Vt	
+笑:Vi	
+今天:N	相約:Vi	在:P	東區:N	小:Vi	巷子:N	裡面:N	的:T	Wootp:FW	窩:N	台北:N	
+才:ADV	七:DET	點:M	多:Vi	但是:C	一:ADV	進去:Vi	裡面:N	已經:ADV	坐滿:Vt	了:ASP	人:N	
+我們:N	在:P	一:DET	個:M	小:Vi	角落:N	的:T	桌子:N	坐下:Vi	
+環境:N	幽幽暗暗:Vi	
+很:ADV	有:Vt	氣氛:N	
+而且:C	空間:N	滿:ADV	大:Vi	可以:ADV	容納:Vt	很多:DET	人:N	
+也:ADV	有:Vt	吧檯區:N	可以:ADV	欣賞:Vt	調酒師:N	
+誤:ADV	
+哈:ADV	哈哈:ADV	
+很:ADV	適合:Vi	三五:DET	姐妹:N	來:ADV	喝:Vt	酒:N	談心:Vi	
+也:ADV	滿:ADV	適合:Vi	情侶:N	來:ADV	吃:Vt	美食:N	小酌:Vi	
+不過:C	人:N	有點:ADV	多:Vi	就:ADV	是:Vt	XD:FW	
+餐點:N	一:ADV	開始:Vt	原本:A	要點:N	大:Vi	分量:N	綜合:Vt	酥:Vi	炸:Vt	盤:N	
+但是:C	我們:N	還:ADV	想:Vt	點:Vt	別的:DET	
+所以:C	服務生:N	建議:Vt	點:M	酥:Vi	炸:Vt	海:N	
+鮮:Vi	綜合盤:N	再:ADV	加上:Vt	薯條:N	就:ADV	好:Vi	
+不然:C	以:P	三:DET	個:M	女生:N	的:T	食量:N	會:ADV	吃:Vt	不:ADV	完:Vi	
+ㄜ:FW	
+雖然:C	很:ADV	想:Vt	跟:P	服務生:N	說:Vt	我:N	的:T	食量:N	可以:ADV	算:Vt	一:DET	個:M	男生:N	
+但:C	怕:Vt	嚇到:Vt	他:N	
+還是:ADV	算了:Vi	好了:T	
+啊哈:T	
+哈:ADV	
+於是:C	我們:N	就:ADV	點:Vt	了:ASP	
+酥:Vi	炸:Vt	海鮮:N	綜合盤:N	
+NT:FW	300:DET	
+薯條:N	
+NT:FW	200:DET	
+跟:P	松露:N	菌菇:N	奶油:N	燉:Vt	飯:N	配:Vt	香:Vi	煎松板豬:N	
+NT:FW	400:DET	
+海鮮盤:N	裡面:N	有:Vt	蝦子:N	、:PAUSECATEGORY	花枝圈:N	、:PAUSECATEGORY	魚:N	跟:P	淡菜:N	
+花枝圈:N	滿:ADV	軟:Vi	很:ADV	好吃:Vi	
+可是:C	蝦子:N	有:Vt	一:DET	種:M	粉粉:N	的:T	感覺:N	
+粉蝦:N	XDDDDDD:FW	
+淡菜:N	來:ADV	炸:Vt	也:ADV	滿:ADV	有趣:Vi	的:T	
+不過:C	外面:N	的:T	粉:N	滿:ADV	厚:Vi	
+有種粉:N	跟:P	裡面:N	內容物:N	一樣:Vi	大:Vi	的:T	感覺:N	哈哈:ADV	
+薯條:N	則:ADV	是:Vt	很:ADV	有:Vt	誠意:N	的:T	裝滿:Vt	整:DET	個:M	盆栽杯:N	
+剛:ADV	開始:Vt	送上來:Vt	的:T	時候:N	還:ADV	以為:Vt	像:P	某:DET	知名:Vi	漢堡店:N	一樣:Vi	只:ADV	
+有:Vt	上面:N	薄薄:Vi	一:DET	層:M	
+下面:N	都:ADV	是:Vt	空:Vt	的:T	
+是:Vt	哪:DET	家:M	就:ADV	讓:Vt	大家:N	自己:N	去:ADV	發現:Vt	了:ASP	XD:FW	
+不過:C	窩:N	台北:N	很:ADV	有:Vt	誠意:N	
+整:DET	個:M	杯子:N	都:ADV	裝滿:Vt	了:ASP	薯條:N	
+松露:N	菌菇:N	奶油:N	燉:Vt	飯:N	配:Vt	香:Vi	煎松板:N	豬:N	則:ADV	是:Vt	不會:ADV	很:ADV	膩:Vi	
+分量:N	也:ADV	剛剛好:ADV	
+尚:ADV	面松板豬:N	口感:N	滑嫩:Vi	
+而且:C	一共:ADV	有:Vt	四:DET	片:M	
+一:DET	個:M	人:N	吃:Vt	份量:N	也:ADV	足夠:Vi	
+服務生:N	還:ADV	會:ADV	問:Vt	你:N	要不要:ADV	加:Vt	起:ASP	司:N	
+加上去:Vi	整:DET	個:M	味道:N	都:ADV	跑出來:Vi	很:ADV	濃郁:Vi	好吃:Vi	呀:T	
+因為:C	今天:N	是:Vt	要:ADV	來:ADV	喝:Vt	一:DET	杯:M	的:T	
+所以:C	在:P	服務生:N	的:T	推薦:Nv	下:POST	
+我們:N	喝:Vt	了:ASP	kyohoMojito:FW	
+NT:FW	350:DET	
+BlossomSangria:FW	
+NT:FW	400:DET	
+DarkRose:FW	
+NT:FW	350:DET	
+kyohoMojito:FW	是:Vt	經典:N	Mojito:FW	中:N	加入:Vt	了:ASP	葡萄:N	
+還:ADV	有:Vt	一:DET	大:Vi	片:M	薄荷葉:N	XD:FW	
+連:C	根莖:N	都:ADV	看:Vt	得:T	清清楚楚:Vi	
+超:Vt	清涼:Vi	的:T	
+BlossomSangria:FW	是:Vt	琴酒:N	加上:Vt	白酒:N	、:PAUSECATEGORY	玫瑰:N	利口酒:N	跟:P	葡萄:N	、:PAUSECATEGORY	覆盆子:N	
+上面:N	灑上:Vt	玫瑰花:N	辦:Vt	
+喝:Vt	起來:ASP	玫瑰:N	香:N	跟:P	水果:N	味道:N	很:ADV	搭:Vt	
+琴酒:N	味道:N	不會:ADV	很:ADV	重:Vi	
+很:ADV	適合:Vi	不:ADV	喝:Vt	重:Vi	口味:N	酒:N	的:T	女生:N	們:N	喝:Vt	
+DarkRose:FW	是:Vt	覆盆子:N	香甜:Vi	酒:N	加上:Vt	新鮮:Vi	檸檬汁:N	跟:P	雪莉酒:N	
+不過:C	這:DET	杯:M	被:P	卡在:Vt	食物:N	之中:POST	沒有:ADV	拍到:Vt	
+.....:ETCCATEGORY	只好:ADV	下去:Vi	再:ADV	去:ADV	喝:Vt	一:DET	杯:M	了:T	
+喂:T	
+這:DET	間:M	算是:Vt	可以:ADV	久:Vi	坐:Vi	的:T	
+而且:C	服務生:N	也:ADV	不會:ADV	來:ADV	趕:Vt	你:N	
+很:ADV	適合:Vi	姐妹:N	們:N	好好:Vi	聊天:Vi	或是:C	吃飯:Vi	的:T	地方:N	
+從:P	七:DET	點:M	多:POST	一直:ADV	坐到:Vt	十:DET	一點:DET	多:Vi	
+結帳:Vi	完:Vt	一:DET	個:M	人:N	加上:C	服務費:N	大概:ADV	是:Vt	NT:FW	750:DET	左右:POST	
+很:ADV	喜歡:Vt	這:DET	種:M	氣氛:N	好店:N	
+價位:N	算:Vt	中上:A	但是:C	算:Vt	美食:N	美酒:N	美:Nv	燈光:N	好:Vi	店:N	推薦:Vt	囉:T	

@@ -1,0 +1,75 @@
+vul3nn:FW	(:PARENTHESISCATEGORY	盛:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	台北:N	東區:N	]:PARENTHESISCATEGORY	不:ADV	知:Vt	紅:Vi	啥:DET	-:DASHCATEGORY	韓國:N	蜂巢:N	冰淇淋:N	
+FriJul:FW	1118:DET	::COLONCATEGORY	54:DET	::COLONCATEGORY	052014:DET	
+餐廳:N	名稱:N	::COLONCATEGORY	Honeycreme:FW	蜂巢:N	冰淇淋:N	
+地址:N	::COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	169巷:N	8:DET	號:M	1樓:N	
+電話:N	::COLONCATEGORY	0227407070:DET	
+營業:Nv	時間:N	::COLONCATEGORY	平日:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	,:COMMACATEGORY	週末:N	、:PAUSECATEGORY	假日:N	前夕:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	30:DET	
+價位:N	::COLONCATEGORY	0:DET	-:DASHCATEGORY	150:DET	
+此:DET	次:M	食用:Vt	::COLONCATEGORY	杯:N	裝:Vt	蜂巢:N	冰淇淋:N	
+網誌:N	好讀版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	leopen.pixnet.net/blog/post:FW	/:FW	183058317:DET	
+來到:Vt	東區:N	
+沒想到:ADV	逛:Vt	到:P	蜂巢:N	冰淇淋:N	
+這:DET	家:M	就是:C	那:DET	三月:N	多:POST	才:ADV	開幕:Vi	
+開幕:Vi	沒:Vt	多久:N	就:ADV	爆紅:N	
+然後:ADV	一:DET	個:M	月:N	可以:ADV	賣:Vt	三十萬:DET	隻:M	的:T	
+蜂巢:N	冰淇淋:N	
+可能:ADV	是:Vt	鋒頭:N	過去:Vi	了:ASP	
+現在:N	排隊:Vi	人潮:N	沒有:Vt	之前:POST	的:T	多:Vi	
+而且:C	你:N	看:Vt	一:DET	個:M	月:N	賣:Vt	三十萬:DET	隻:M	
+一:DET	堆:M	人:N	都:ADV	只是:ADV	來:ADV	嘗:Vt	鮮:Vi	而已:T	
+吃完:Vt	就:ADV	也:ADV	不:ADV	太:ADV	會:ADV	在:P	吃:Vt	吧:T	....:ETCCATEGORY	
+所以:C	Honeycreme:FW	也:ADV	轉到:Vt	高雄:N	三多:N	去:ADV	開店:Vi	
+騙騙:Vt	...:ETCCATEGORY	
+不:ADV	是:Vt	我:N	是:Vt	說:Vt	賣給:Vt	高雄人:N	吃:Vt	
+店:N	內:N	很:ADV	小:Vi	很:ADV	小:Vi	
+不過:C	反正:ADV	只是:ADV	拿來:Vt	點:M	餐:N	用:Vt	的:T	
+Honeycreme:FW	採用點:N	單:ADV	叫號:Vt	方式:N	
+現點現:N	做:Vt	
+應該:ADV	是:Vt	因為:C	人:N	沒有:Vt	很多:DET	
+所以:C	沒有:Vt	等:POST	很:ADV	久:Vi	
+在:P	出現:Vi	不耐煩:Vi	之前:POST	就:ADV	拿到:Vt	冰淇淋:N	了:T	
+要不:C	我:N	看店:Vi	內:POST	機台:N	也:ADV	不:ADV	多:Vi	
+人手:N	也:ADV	不:ADV	算:Vt	多:Vi	
+ＭＥＮＵ:FW	
+價格:N	來到:Vt	一百多:DET	元:M	
+杯裝:N	跟:P	甜筒裝:N	相去:Vt	不:ADV	遠:Vi	
+還:ADV	有:Vt	賣:Vt	麵包:N	、:PAUSECATEGORY	蛋糕:N	耶:T	
+會:ADV	有:Vt	人:N	點:N	嗎:T	
+他們:N	家:N	的:T	賣:Vt	點:N	應該:ADV	就:ADV	是:Vt	這:DET	個:M	
+蜂巢:N	跟:P	甜筒:N	
+蜂巢:N	看起來:ADV	很:ADV	酷:Vi	
+不過:C	要是:C	有:Vt	一:DET	個:M	人:N	在:P	旁邊:N	噴:Vt	煙:N	採:Vt	蜜:N	會:ADV	更:ADV	酷:Vi	
+來:Vi	來:Vi	來:ADV	我:N	跟:P	你:N	說:Vt	我:N	這:DET	個:M	絕對:ADV	純:Vi	
+不:ADV	純:Vi	砍頭:Vi	
+甜筒:N	的:T	話:N	倒是:ADV	非常:ADV	鮮豔:Vi	看起來:ADV	不錯:Vi	吃:Vt	
+可惜:Vi	就:ADV	是:Vt	他:N	上:Vt	過:ASP	新聞:N	
+之前:N	被:P	驗出:Vt	有:Vt	含:Vt	糖精:N	
+讓:Vt	我:N	完全:ADV	打消:Vt	對於:P	甜筒:N	的:T	念頭:N	
+應該:ADV	沒:Vt	啥:DET	人氣:N	的:T	螺旋:N	麵包:N	
+蜂巢:N	冰淇淋:N	本人:N	
+其實:ADV	就:ADV	是:Vt	很:ADV	簡單:Vi	的:T	牛奶:N	冰淇淋:N	加上:Vt	一:DET	團:M	蜂巢:N	
+這邊:N	有:Vt	吃法:N	
+先:ADV	吃:Vt	原味:N	再:ADV	把:P	蜂巢:N	ＣＵＴ:FW	來:ADV	吃:Vt	
+蜂巢:N	看起來:ADV	很:ADV	漂亮:Vi	動人:Vi	
+倒是:ADV	旁邊:N	的:T	冰淇淋:N	顯得:Vt	就是:C	非常:ADV	配角:N	
+牛奶:N	冰淇淋:N	化:Vi	的:T	還:ADV	滿:ADV	快:Vi	的:T	
+味:N	倒是:ADV	還:ADV	好:Vi	
+不:ADV	到:Vt	很:ADV	濃稠:Vi	濃郁:Vi	
+倒是:ADV	我:N	對於:P	這:DET	蜂巢:N	沒有:ADV	很:ADV	愛:Vt	
+甜甜:Vi	的:T	不錯:Vi	吃:Vt	
+可是:C	口感:N	嚼阿嚼:Vt	的:T	會:ADV	有:Vt	渣渣:N	
+可能:ADV	這:DET	次:M	純:Vi	天然:A	的:T	表現:N	
+但:C	寫:Vt	說:Vt	像:Vt	在:P	嚼:Vt	口香糖:N	
+我:N	覺得:Vt	根本:ADV	就是:C	用:P	嘴巴:N	吧:T	筷子:N	的:T	塑膠袋:N	咬:Vt	破:Vt	之後:POST	
+那:DET	碎片:N	留在:Vt	嘴巴:N	
+那:DET	種:M	嚼:Vt	塑膠袋:N	的:T	感覺:N	啊:T	
+害:Vt	我:N	都:ADV	不:ADV	知道:Vt	到底:ADV	要不要:ADV	把:P	她:N	吐出來:Vi	
+還是:ADV	要:ADV	先:ADV	觀察:Vt	你:N	的:T	同伴:N	
+有:Vt	人:N	先:ADV	吐:Vt	就:ADV	先:ADV	抓:Vt	他:N	說:Vt	你:N	暴殄天物:Vi	
+然後:ADV	在:P	自己:N	默默:ADV	的:T	把:P	他:N	吐出來:Vi	丟:Vt	一:DET	邊:N	
+沒有:ADV	拉:Vt	我:N	是:Vt	真的:ADV	都:ADV	吃下去:Vi	
+總結:N	：:COLONCATEGORY	
+台北:N	總是:ADV	會:ADV	紅:Vi	一:DET	堆:M	奇奇怪怪:Vi	的:T	東西:N	
+韓國:N	來:Vi	的:T	東西:N	我:N	自己:N	沒有:ADV	很:ADV	愛:Vt	
+帶:Vt	妹妹:N	排隊:Vi	打卡:Vi	倒是:ADV	ＯＫ:FW	

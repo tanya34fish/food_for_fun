@@ -1,0 +1,53 @@
+dennis:FW	870927:DET	(:PARENTHESISCATEGORY	松山:N	正氣:N	哥:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北:N	，:COMMACATEGORY	美式:A	漢堡店:N	選擇:Vt	
+SunJul:FW	1316:DET	::COLONCATEGORY	55:DET	::COLONCATEGORY	492014:DET	
+請益:Vi	
+台北:N	
+美式:A	漢堡店:N	選擇:Vt	
+SunJul:FW	1316:DET	::COLONCATEGORY	55:DET	::COLONCATEGORY	492014:DET	
+1:DET	.:PERIODCATEGORY	想:Vt	找:Vt	的:T	餐飲:N	類別:N	
+漢堡店:N	
+不:ADV	限:Vt	美式:A	、:PAUSECATEGORY	中東:N	......:ETCCATEGORY	等:POST	
+2:DET	.:PERIODCATEGORY	用餐:Vi	地區:N	
+復興:N	商圈:N	、:PAUSECATEGORY	師大:N	公館:N	商圈:N	、:PAUSECATEGORY	西門:N	萬華:N	商圈:N	為主:Vi	
+想:Vt	說:Vt	中午:N	聚餐:Vi	聊天:Vi	完:Vi	後:POST	
+還可以:ADV	續:ADV	戰:Vi	
+3:DET	.:PERIODCATEGORY	每:DET	人:N	預算:N	
+抓:Vt	一:DET	人:N	300:DET	元:M	左右:POST	
+至少:ADV	含:Vt	飲料:N	漢堡:N	服務費:N	
+4:DET	.:PERIODCATEGORY	用餐:Nv	時段:N	
+預計:Vt	07:DET	/:FW	20:DET	
+日:N	
+中午:N	
+預計:Vt	用餐:Vi	2:DET	hr:FW	
+因為:C	是:Vt	久違:Vi	的:T	同學會:N	
+5:DET	.:PERIODCATEGORY	用餐:Nv	人數:N	
+10:DET	
+15:DET	人:N	內:N	
+6:DET	.:PERIODCATEGORY	查詢:Nv	精華區:N	及:C	板面:N	文章:N	後:POST	拿:Vt	不定:Vi	主意:N	的:T	候選:Nv	店家:N	
+發福:Vi	、:PAUSECATEGORY	Evens:FW	、:PAUSECATEGORY	1885:DET	
+這:DET	三:DET	家:M	是:Vt	我:N	比較:ADV	耳熟能詳:Vi	的:T	
+其中:DET	好像:ADV	1885:DET	比較:ADV	好:Vi	
+另外:C	一:ADV	提:Vt	
+EnjoyKitchen:FW	不:ADV	做:Vt	了:ASP	
+崩潰:Vi	阿:N	
+不過:C	仍:ADV	希望:Vt	美食家:N	們:N	可以:ADV	提供給:Vt	我:N	更多:DET	選擇:N	
+＝:FW	皿:b	＝:FW	
+b:FW	
+7:DET	.:PERIODCATEGORY	特殊:Vi	需求:N	
+1:DET	.:PERIODCATEGORY	可以:ADV	暢談:Vt	聊天:Vi	
+但:C	我們:N	應該:ADV	不至於:ADV	到:P	吵鬧:Vi	把:P	店家:N	翻:Vt	了:ASP	
+2:DET	.:PERIODCATEGORY	可以:ADV	坐到:Vt	最多:ADV	2:DET	hr:FW	
+3:DET	.:PERIODCATEGORY	希望:Vt	10:DET	
+15:DET	可以:ADV	同:DET	桌:M	
+最多:ADV	分成:Vt	2:DET	邊:N	
+麻煩:Vt	各:DET	位:M	高手:N	推薦:Vt	了:ASP	
+感謝:Vt	
+作者:N	Mysex:FW	
+超強:Vi	猛騎:Vt	
+看板:N	Gossiping:FW	
+標題:N	
+問:Vt	卦:N	
+有沒有:ADV	世紀:N	帝國:N	2:DET	不:ADV	死:Vi	的:T	八卦:N	
+時間:N	TueOct:FW	2321:DET	::COLONCATEGORY	57:DET	::COLONCATEGORY	242012:DET	
+推:Vt	AFROGUNSO:FW	::COLONCATEGORY	我:N	的:T	村民:N	都:ADV	在:P	領:Vt	22:DET	k:FW	看來:ADV	我:N	該:ADV	去:ADV	跑步:Vi	了:ASP	10:DET	/:FW	2322:DET	::COLONCATEGORY	08:DET	

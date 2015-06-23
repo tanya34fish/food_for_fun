@@ -1,0 +1,68 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	山雞王:N	好吃:Vi	雞肉:N	
+MonJul:FW	1420:DET	::COLONCATEGORY	51:DET	::COLONCATEGORY	052014:DET	圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40926079:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	6:DET	
+雖然:C	台北:N	沒有:Vt	嘉義:N	那般:ADV	好吃:Vi	的:T	火:N	雞肉飯:N	
+不過:C	台北:N	也:ADV	有:Vt	自己:N	特色:N	的:T	雞肉:N	與:C	飯:N	
+那:ADV	就是:C	白斬:N	雞:N	配雞:N	油飯:N	
+算是:Vt	台北:N	街頭:N	常見:Vi	的:T	吃法:N	
+好比:Vt	環:N	河南路:N	的:T	施福:N	
+建:Vt	、:PAUSECATEGORY	大稻埕:N	的:T	黑點:N	、:PAUSECATEGORY	南:N	機場:N	的:T	山:N	內:N	
+今晚:N	則:ADV	跑來:Vi	吉林:N	路:N	上:N	的:T	山雞王:N	
+雖然:C	他:N	有:Vt	個:M	大:Vi	店面:N	
+比:P	前:DET	文:N	所:ADV	述:Vt	的:T	那:DET	幾:DET	家:M	店:N	
+的:T	環境:N	好:Vi	上:POST	許多:DET	
+但:C	價錢:N	卻:ADV	是:Vt	最:ADV	便宜:Vi	的:T	
+也:ADV	算是:Vt	種:M	佛心:N	
+雞:N	油飯:N	＄:FW	10:DET	
+台灣:N	古早味:N	中:POST	的:T	雞:N	油飯:N	、:PAUSECATEGORY	豬油:N	飯:N	都:ADV	是:Vt	類似:Vt	的:T	作法:N	
+一點:DET	雞:N	油:N	或:C	豬油:N	加上:Vt	甜甜:Vi	
+的:T	醬油:N	
+在:P	我:N	個:M	人:N	的:T	認知:Nv	裡:POST	
+這:DET	是:Vt	以前:N	農村:N	物資:N	比較:ADV	缺乏:Vt	時:POST	的:T	吃法:N	
+我:N	小時:N	
+候住:Vt	彰化:N	外婆家:N	時:POST	
+也:ADV	常常:ADV	這樣:Vi	吃:Vt	
+只:ADV	是:Vt	當時:N	不:ADV	用:Vt	豬油:N	
+而是:C	花生油:N	加:Vt	醬油:N	
+膏:N	
+說:Vt	也:ADV	奇怪:Vt	
+油香:N	鹹:Vi	甜:Vi	的:T	滋味:N	到:P	現在:N	還是:ADV	令:Vt	人:N	難忘:Vt	
+山雞王:N	的:T	雞:N	油飯:N	滋味:N	
+也:ADV	是:Vt	甜:Vi	大於:Vt	鹹:Vi	
+雞油:N	不:ADV	多:Vi	
+所以:C	不:ADV	顯:Vt	膩:Vi	
+只是:ADV	添:Vt	了:ASP	順口:Vi	滑潤:Vt	
+雞肉:N	＄:FW	45:DET	
+本來:ADV	是:Vt	想:Vt	點:M	雞腿:N	吃:Vt	
+可惜:Vi	賣完:Vt	了:ASP	
+只好:ADV	點:Vt	一:DET	盤:M	普通:Vi	雞肉:N	
+淋:Vt	上:POST	甜甜:Vi	醬油膏:N	
+就是:C	很:ADV	傳統:Vi	的:T	古早味白斬雞:N	
+可惜:Vi	雞胸:N	部位:N	口感:N	老:Vi	硬:Vi	了:ASP	點:M	
+另:DET	一半:DET	接近:Vt	下肢:N	
+的:T	部位:N	倒是:ADV	比較:ADV	談:Vt	嫩:Vi	
+可:ADV	終究:ADV	比不上:Vt	雞腿:N	的:T	滑嫩:Vi	好吃:Vi	
+不過:C	雞肉:N	倒是:ADV	甜:Vi	
+苦瓜湯:N	＄:FW	35:DET	
+本來:ADV	以為:Vt	是:Vt	單純:Vi	苦瓜湯:N	
+沒:ADV	想到:Vt	是:Vt	苦瓜:N	鳳梨:N	雞湯:N	
+內:N	有:Vt	兩:DET	大:Vi	塊:M	雞肉:N	
+還是:ADV	大:Vi	
+腿:N	部位:N	
+肉質:N	彈勁:N	
+反倒:C	比:P	雞肉盤:N	的:T	肉:N	好吃:Vi	
+湯頭:N	清甜:Vi	
+毫無:Vt	苦味:N	
+苦瓜:N	煮:Vt	
+的:T	軟:Vi	爛:Vi	
+一樣:Vi	不:ADV	苦:Vi	
+這麼:ADV	一:DET	大:Vi	碗:M	料:N	又:ADV	豐富:Vt	
+只:ADV	賣:Vt	35:DET	元:M	還:ADV	真是:ADV	便宜:Vi	
+台北:N	少見:Vi	
+的:T	價格:N	
+山雞王:N	好吃:Vi	雞肉:N	
+地址:N	：:COLONCATEGORY	台北市:N	吉林路:N	103:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	25238646:DET	
+一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	

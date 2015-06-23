@@ -1,0 +1,153 @@
+spu70903(sPu:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山:N	下午茶:N	Buffet:FW	首選:N	─:FW	欣葉:N	中山店:N	
+SunJul:FW	1314:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	042014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	欣葉:N	日本:N	料理:N	(:PARENTHESISCATEGORY	中山店:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	中山北路:N	二段:N	52:DET	號:M	
+電話:N	：:COLONCATEGORY	0225425858:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	午餐:N	11:DET	::COLONCATEGORY	30:DET	–:FW	14:DET	::COLONCATEGORY	00:DET	
+下午茶:N	14:DET	::COLONCATEGORY	30:DET	–:FW	16:DET	::COLONCATEGORY	30:DET	
+晚餐:N	17:DET	::COLONCATEGORY	30:DET	–:FW	22:DET	::COLONCATEGORY	00:DET	
+平均:Vi	價位:N	：:COLONCATEGORY	下午茶:N	540:DET	，:COMMACATEGORY	服務費:N	10:DET	%:M	另:DET	計:N	
+推薦:Vt	菜色:N	：:COLONCATEGORY	極:ADV	黑豬:N	、:PAUSECATEGORY	生魚片:N	、:PAUSECATEGORY	炸:Vt	蝦:N	、:PAUSECATEGORY	可:ADV	爾:N	必:ADV	思沙瓦:N	
+請:Vt	享用:Vt	圖:N	多:ADV	好:Vi	閱讀:Vt	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sputravel.pixnet.net/blog/post:FW	/:FW	155614632:DET	
+悠閒:Vi	的:T	假日:N	
+如果:C	沒:ADV	安排:Vt	活動:N	的:T	話:N	
+最:ADV	適合:Vi	的:T	就是:C	找:Vt	間:POST	下午茶:N	享受:Vt	一:DET	番:M	
+想:Vt	說:Vt	離:P	上:DET	次:M	吃吃:Vt	到:P	飽:Vi	也:ADV	一陣子:N	了:T	
+就:ADV	兩:DET	周:M	前:POST	先:ADV	訂:Vt	了:ASP	頗:ADV	受:Vt	飽板:N	推薦:Vt	的:T	":FW	欣葉:N	日本:N	料理:N	":FW	來:ADV	嘗:Vt	鮮:Vi	
+體驗:Vt	
+這:DET	家:M	店:N	的:T	位子:N	很:ADV	好:Vi	找:Vt	
+就:ADV	在:P	中山北路:N	上:N	
+但:C	離:P	捷運:N	有:Vt	一:DET	小:Vi	段:M	距離:N	
+快:ADV	到:Vt	兩:DET	點:N	半:POST	的:T	時候:N	就:ADV	開放:Vt	入席:Vi	了:ASP	
+這:DET	家:M	店:N	相當:Vi	的:T	搶手:Vi	
+兩:DET	周:M	前:POST	預訂:Vt	也:ADV	才:ADV	訂到:Vt	樓下:N	的:T	位子:N	而:C	
+已:ADV	
+端菜:Vi	都:ADV	要:ADV	到:Vt	2:DET	F:FW	拿:Vt	
+相當:Vi	的:T	不:ADV	方便:Vi	
+好在:ADV	後來:N	2樓:N	還:ADV	有:Vt	多:POST	的:T	位子:N	
+服務:Nv	人員:N	也:ADV	主動:Vi	的:T	幫:P	我們:N	更換到:Vt	樓上:N	
+這:DET	點:M	真:ADV	是:Vt	大加:ADV	分阿:Vi	
+2樓:N	的:T	用餐:Nv	環境:N	↓:FW	↓:FW	↓:FW	
+另外:C	這邊:N	也:ADV	有:Vt	靠:Vt	窗:N	的:T	選擇:N	
+如果:C	想:Vt	一:DET	邊:N	悠閒:Vi	的:T	用餐:Nv	一:DET	邊:N	放空:Vi	看:Vt	著:ASP	窗:N	外:POST	
+記得:Vt	訂位:Vi	的:T	時候:N	詢:Vt	
+問:Vt	看看:Vt	唷:T	
+可:ADV	別:ADV	誤會:Vt	這邊:N	都:ADV	沒:Vt	人:N	
+這:DET	張:M	是:Vt	要:ADV	離開:Vt	前:DET	4:DET	::COLONCATEGORY	30:DET	拍:Vt	的:T	
+才:ADV	能:ADV	拍到:Vt	這麼:ADV	空曠:Vi	的:T	現場:N	XDD:FW	
+接著:ADV	就:ADV	開始:Vt	大:Vi	掃:Vt	四方:N	啦:T	
+壽司區:N	
+冷盤:N	
+石布:N	習慣:N	第一:DET	輪:M	只:ADV	拿:Vt	一些:DET	小食:N	
+減少:Vt	排隊:Vi	的:T	時間:N	
+所以:C	光:Vt	這:DET	第一:DET	輪:M	的:T	壽司:N	+:FW	冷盤:N	就:ADV	讓:Vt	我:N	大:Vi	
+開食:Vt	欲:Vt	了:ASP	
+海鮮類:N	不愧:ADV	是:Vt	欣葉:N	的:T	強項:N	
+果然:ADV	好吃:Vi	
+蝦子:N	也:ADV	是:Vt	飽滿:Vi	又:ADV	新鮮:Vi	
+這邊:N	是:Vt	生魚片:N	現切:N	區:N	
+有:Vt	鯊魚:N	煙:N	、:PAUSECATEGORY	黃金魚:N	、:PAUSECATEGORY	透抽:N	、:PAUSECATEGORY	鮭魚:N	、:PAUSECATEGORY	鮪魚:N	等等:POST	
+我:N	大概:ADV	吃:Vt	了:ASP	三:DET	輪:M	有:Vt	吧:T	
+XDDD:FW	
+聽說:Vt	以前:N	CP:FW	更:ADV	高:Vi	的:T	時候:N	還:ADV	有:Vt	甜蝦:N	
+真是:ADV	可惜:Vi	了:T	...:ETCCATEGORY	如果:C	有:Vt	甜蝦:N	也:ADV	太:ADV	划算:Vi	了:T	吧:T	
+接著:ADV	開始:Vt	進攻:Vt	主食:N	
+這:DET	是:Vt	極:ADV	黑豬:N	
+比起:P	一般:A	Buffet:FW	常:ADV	提供:Vt	的:T	現:N	切:Vt	牛肉:N	
+我:N	更:ADV	喜歡:Vt	這:DET	極:ADV	黑豬:N	
+的:T	口感:N	呢:T	
+看:Vt	廚師:N	現:ADV	切:Vt	就:ADV	快:ADV	流:Vt	口水:N	了:T	
+那:DET	油花:N	均勻:Vi	的:T	橫切面:N	加上:C	烤:Vt	的:T	酥脆:Vi	的:T	表皮:N	
+接著:ADV	等到:P	炸:Vt	蝦:N	人:N	開始:POST	比較:ADV	少:Vi	了:T	
+師傅:N	也:ADV	補上:Vt	第二:DET	輪:M	的:T	食材:N	
+就:ADV	開始:Vt	瘋狂:Vi	進攻:Vt	炸:Vt	蝦:N	啦:T	XDDD:FW	
+我:N	真的:ADV	是:Vt	超:Vt	愛:Vt	炸:Vt	蝦:N	的:T	
+那天:N	吃:Vt	了:ASP	6:DET	
+8:DET	隻:M	吧:T	XDD:FW	
+因為:C	極:ADV	黑豬:N	太:ADV	好吃:Vi	了:T	
+還:ADV	多:ADV	拿:Vt	了:ASP	兩三:DET	次:M	
+再:ADV	來:ADV	介紹:Vt	其他:DET	的:T	餐點:N	
+像:Vt	是:Vt	這邊:N	也:ADV	有:Vt	Pizza:FW	
+味道:N	還:ADV	不:ADV	賴:Vt	
+但:C	不能:ADV	吃:Vt	太多:DET	
+很:ADV	容易:Vi	飽:Vt	XDD:FW	
+另外:C	是:Vt	在:P	角落區:N	的:T	台菜:N	以及:C	湯品區:N	
+燈光:N	打下來:Vi	甚麼:DET	菜:N	拍:Vt	起來:ASP	都:ADV	好:ADV	可口:Vi	阿:N	
+因為:C	嘴饞:Vi	
+添:Vt	了:ASP	碗:N	壽:N	喜:Vt	燒:Vt	嚐嚐:Vt	
+味道:N	算:Vt	清淡:Vi	但:C	又:ADV	有:Vt	入:Vt	味:N	
+一點:DET	也:ADV	不會:ADV	死:Vi	鹹:Vi	
+好吃:Vi	
+台菜區:N	旁邊:N	還:ADV	有:Vt	茶碗:N	蒸:Vt	跟:P	土:N	瓶:N	蒸:Vt	可以:ADV	拿:Vt	
+我:N	最愛土:N	瓶:N	蒸:Vt	啦:T	
+又:ADV	補:Vt	了:ASP	一:DET	輪:M	炸:Vt	物:N	
+炸:Vt	蝦:N	無敵:Vi	
+另外:C	也:ADV	拿:Vt	了:ASP	烤魚:N	下巴:N	來:ADV	舒緩:Vt	一下:N	用餐:Nv	速度:N	
+中間:N	則:ADV	是:Vt	拿:Vt	了:ASP	兩三:DET	次:M	的:T	金錢:N	蝦餅:N	
+雖然:C	有點:ADV	油:Vi	
+但:C	口感:N	是:Vt	我:N	的:T	菜:N	
+還:ADV	有:Vt	不得不:ADV	提:Vt	這邊:N	的:T	飲料區:N	
+相當:ADV	特別:Vi	
+是:Vt	現點現:N	做:Vt	製:Vt	
+包含:Vt	冰淇淋:N	也:ADV	是:Vt	在:P	這裡:N	取:Vt	的:T	喔:T	
+專人:N	替:P	你:N	服務:Vt	
+不:ADV	賴:Vt	吧:T	
+冰淇淋:N	&:FW	amp:FW	
+飲料:N	的:T	Menu:FW	
+大推:Vt	可:ADV	爾:N	必:ADV	思沙瓦:N	
+當天:N	我:N	只有:ADV	點:Vt	一:DET	種:M	飲料:N	
+就是:C	沙瓦:N	
+一:DET	杯:M	又:ADV	一:DET	杯:M	喝:Vt	了:ASP	四五:DET	杯:M	XDDD:FW	
+也:ADV	有:Vt	品嚐:Vt	女友點:N	的:T	果汁:N	系列:N	
+但:C	還是:ADV	比較:ADV	愛:Vt	沙瓦:N	
+雪碧:N	+:FW	可:ADV	爾:N	必:ADV	思:Vt	的:T	組合:Nv	真:ADV	好喝:Vi	
+但:C	為:P	什:DET	
+麼:T	是:Vt	歸類:Vt	在:P	酒類:N	呢:T	
+大概:ADV	有:Vt	些:M	酒精:N	成分:N	吧:T	
+最後:N	要:ADV	介紹:Vt	這邊:N	的:T	甜點:N	了:T	
+每:DET	次:M	都:ADV	覺得:Vt	Buffet:FW	的:T	兩:DET	個:M	小時:N	用餐:Vi	怎麼:ADV	那麼:ADV	快:Vi	
+轉眼間:N	已:ADV	經過:Vt	
+了:Vt	一:DET	個:M	半:DET	小時:N	啦:T	
+這邊:N	的:T	甜點:N	總類:N	也:ADV	不少:Vi	
+但:C	先前:N	已:ADV	吃:Vt	過:ASP	以:P	甜點:N	出名:Vi	的:T	晶華:N	酒店:N	的:T	下午茶:N	
+甜點:N	就:ADV	比較:ADV	難:Vi	吸:Vt	
+引:Vt	我:N	的:T	注意:Nv	
+不過:C	我:N	還是:ADV	很:ADV	滿意:Vt	這:DET	次:M	的:T	用餐:Nv	經驗:N	啦:T	
+水果區:N	&:FW	amp:FW	
+優格區:N	
+是:Vt	不:ADV	是:Vt	看起來:ADV	超:Vt	可口:Vi	阿:N	
+各式各樣:A	的:T	甜點:N	
+石布:N	大概:ADV	拿:Vt	了:ASP	四五:DET	樣:M	來:ADV	嚐嚐:Vt	看:Vt	
+其中:DET	要:ADV	大力:ADV	推薦:Vt	的:T	是:Vt	巧克力:N	布朗尼:N	
+這邊:N	布朗尼:N	走:Vi	的:T	是:Vt	酥脆:Vi	路線:N	
+超:Vt	對:P	我:N	的:T	味:N	
+當然:ADV	甜度:N	相當:ADV	適中:Vi	
+吃:Vt	的:T	出:Vt	巧克力:N	的:T	微苦:N	
+又:ADV	在:P	嘴巴:N	融化:Vt	只:ADV	剩下:Vt	甜味:N	
+另外:C	也:ADV	拿:Vt	了:ASP	幾:DET	個:M	小:Vi	蛋糕:N	
+這:DET	次:M	選擇:Vt	了:ASP	芒果:N	口味:N	的:T	奶:N	酪:b	
+也:ADV	還:ADV	算:Vt	可口:Vi	
+最後:N	就是:C	有:Vt	專人:N	幫:P	你:N	服務:Vt	的:T	冰淇淋:N	啦:T	
+只:ADV	能:ADV	說:Vt	真:ADV	是:Vt	運氣:N	不:ADV	好:Vi	
+最愛:N	吃:Vt	的:T	瑞士:N	巧克力:N	竟然:ADV	
+沒:Vt	了:ASP	
+為什麼:ADV	不能:ADV	再:ADV	開:Vt	一:DET	桶:M	呢:T	
+":FW	太:ADV	可惡:Vi	了:T	
+這:DET	是:Vt	抹茶:N	口味:N	
+味道:N	不:ADV	賴:Vt	
+很:ADV	特別:Vi	的:T	芒果:N	口味:N	
+不:ADV	是:Vt	我:N	的:T	菜:N	
+倒是:ADV	這:DET	紅豆:N	牛奶:N	
+出乎意料:Vi	的:T	順口:Vi	
+好吃:Vi	
+小小:Vi	彌補:Vt	了:ASP	沒:ADV	吃到:Vt	瑞士:N	巧克力:N	的:T	遺憾:Nv	
+假日:N	能:ADV	悠閒:Vi	的:T	飽餐一頓:Vi	
+真:ADV	是:Vt	人生:N	一:DET	大:Vi	樂事:N	阿:N	
+算是:Vt	慰勞慰勞:Vt	一:DET	週:M	工作:N	的:T	辛苦:Nv	
+下:DET	周:M	才:ADV	能:ADV	繼續:Vt	奮鬥:Vi	阿:N	
+最後:N	附張:N	很:ADV	久:Vi	沒:ADV	放:Vt	的:T	閃:Vt	照:P	
+下:DET	回:M	見:Vt	啦:T	
+如果:C	覺得:Vt	文章:N	不錯:Vi	記得:Vt	點:Vt	石布:N	的:T	粉絲團:N	支持:Vt	一下:N	唷:T	
+^:FW	0:DET	^:FW	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/sputravel:FW	

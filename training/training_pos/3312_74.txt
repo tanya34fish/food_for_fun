@@ -1,0 +1,71 @@
+yvonne226(yvonne:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	喜來登:N	kitchen:FW	12:DET	十二:DET	廚:N	
+SunJul:FW	1321:DET	::COLONCATEGORY	20:DET	::COLONCATEGORY	362014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	喜:Vt	來:ADV	登:Vt	大:Vi	飯店:N	kitchen:FW	12:DET	十二:DET	廚:N	
+消費:N	時間:N	：:COLONCATEGORY	14:DET	年:M	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	忠孝東路:N	一段:N	12:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2321:DET	-:DASHCATEGORY	1818:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1300:DET	/:FW	人:N	
+推薦:Vt	菜色:N	：:COLONCATEGORY	可:ADV	麗餅:N	、:PAUSECATEGORY	蝦蟹:N	、:PAUSECATEGORY	牛腱:N	、:PAUSECATEGORY	烤:Vt	蔬菜:N	
+網誌:N	版本:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/eI4x:FW	
+因為:C	慶生:Vi	而:C	來訪:Vi	12:DET	廚:N	
+這:DET	次:M	剛好:ADV	沒有:ADV	碰上:Vt	12:DET	廚:N	有:Vt	什麼:DET	特定:A	的:T	主題:N	
+不過:C	明顯:Vi	覺得:Vt	有:Vt	幾:DET	區:N	的:T	負責人:N	疲憊:Vi	了:T	
+話:N	雖:C	如此:Vi	涼拌:Vt	的:T	區域:N	我:N	還:ADV	蠻:ADV	喜歡:Vt	的:T	
+尤其:ADV	是:Vt	那:DET	台:M	切:Vt	肉腸:N	的:T	機器:N	
+感覺:Vt	很:ADV	有趣:Vi	
+而且:C	用色:Vi	有:Vt	種:M	義大利:N	廚具:N	品牌:N	的:T	感覺:N	
+冷食區:N	裡面:N	我:N	覺得:Vt	蝦:N	很:ADV	有:Vt	彈性:N	也:ADV	蠻:ADV	新鮮:Vi	的:T	
+裡面:N	還:ADV	有:Vt	好幾:DET	種:M	蟹:N	
+很多:DET	饕客:N	們:N	拿:Vt	得:T	不亦樂乎:Vi	
+也:ADV	可以:ADV	看到:Vt	師傅:N	在:P	後台:N	賣力:Vi	地:T	處理:Nv	蟹腳:N	
+生魚片:N	的:T	餐檯:N	依然:ADV	是:Vt	個:M	熱門:Vi	
+熱食:N	的:T	部分:DET	感覺:N	有:Vt	比較:ADV	新奇:Vi	
+不過:C	這:DET	次:M	的:T	牛排:N	筋:N	有點:ADV	多:Vi	
+口感:N	有點:ADV	可惜:Vi	
+墨西哥:N	菜區:N	的:T	部分:DET	
+綠色:N	外殼:N	的:T	牛肉:N	墨西哥:N	烤餅餅皮:N	很:ADV	Q:FW	
+白色:N	外殼:N	的:T	是:Vt	雞肉:N	
+每:DET	次:M	到:Vt	12:DET	廚:N	都:ADV	覺得:Vt	熱食:N	處理:Vt	得:T	很:ADV	用心:Vi	
+尤其:ADV	是:Vt	蔬菜類:N	
+烤馬鈴薯:N	很:ADV	棒:Vi	
+外型:N	維持:Vt	方方正正:Vi	
+咬下去:Vt	卻:ADV	有:Vt	泥狀:N	的:T	鬆軟:Vi	口感:N	
+加上:C	牛排:N	附:Vt	的:T	紅酒:N	醬汁:N	超:Vt	美味:Vi	
+裡面:N	的:T	南瓜:N	也:ADV	一樣:Vi	好吃:Vi	
+肉捲:N	很:ADV	可愛:Vi	
+旁:N	面:N	的:T	裝飾:N	好:Vi	夏天:N	
+還:ADV	吃到:Vt	了:ASP	多汁:Vi	的:T	烤:Nv	生蠔:N	
+在:P	熱食區:N	還:ADV	發現:Vt	了:ASP	超可愛:Vi	的:T	小:Vi	蒸籠:N	
+一:DET	籠:N	就是:C	一:DET	份:M	
+很:ADV	好:Vi	拿取:Vt	跟:P	分辨:Vt	
+麻辣:A	燙:Vt	雖然:C	稀鬆:Vi	平常:Vi	
+但是:C	我:N	還:ADV	蠻:ADV	愛:Vt	的:T	
+湯:N	底:POST	有:Vt	老:Vi	四川:N	的:T	等級:N	
+內容:N	大概:ADV	是:Vt	豆皮:N	、:PAUSECATEGORY	豆腐:N	、:PAUSECATEGORY	蝦餃:N	、:PAUSECATEGORY	香菇:N	、:PAUSECATEGORY	雞肉:N	等:POST	
+之前:N	都:ADV	沒有:ADV	到:Vt	過:ASP	燒臘區取:Vt	餐:N	
+今天:N	吃:Vt	了:ASP	滷:Vt	牛腱:N	
+還:ADV	蠻:ADV	不錯:Vi	的:T	
+對:P	我:N	來:ADV	說:Vt	
+12:DET	廚:N	吸引:Vt	我:N	的:T	地:N	方式:N	點心區:N	
+但是:C	今天:N	大概:ADV	是:Vt	造訪:Vt	以來:POST	對:P	甜點區:N	比較:ADV	失望:Vi	的:T	一:DET	次:M	
+蛋糕:N	的:T	部分:DET	我:N	比較:Vt	推歐華:N	飯店:N	的:T	供應品:N	
+來:Vi	之前:POST	本來:ADV	很:ADV	期待:Vt	可:ADV	麗露:N	
+因為:C	以前:N	每:DET	次:M	來:ADV	都:ADV	有:Vt	
+我:N	知道:Vt	主廚:N	也:ADV	會:ADV	想:Vt	換:Vt	菜單:N	
+但是:C	很:ADV	期待:Vt	的:T	說:Vt	
+不過:C	今天:N	沒:ADV	吃:Vt	到:P	
+倒是:ADV	可:ADV	麗餅:N	還是:ADV	一如:P	往常:N	的:T	好吃:Vi	
+而且:C	各:DET	種:M	搭配品:N	都:ADV	不錯:Vi	
+一:DET	次:M	可以:ADV	吃到:Vt	很多:DET	種:M	口味:N	
+可能:ADV	是:Vt	天氣:N	太:ADV	熱:Vt	了:ASP	
+有:Vt	一:DET	區:N	是:Vt	刨冰:N	
+不過:C	既然:C	來:Vi	了:ASP	
+就:ADV	還是:ADV	想:Vt	吃:Vt	乳脂:N	含量:N	超高:Vi	的:T	冰:N	
+今天:N	口味:N	有:Vt	六:DET	種:M	
+12:DET	廚:N	還:ADV	有:Vt	個:M	不錯:Vi	的:T	地方:N	是:Vt	頂:M	上:POST	直接:Vi	有:Vt	陽光:N	灑落:Vt	
+白天:N	在:P	這:DET	個:M	空間:N	吃飯:Vi	心情:N	會:ADV	很:ADV	好:Vi	
+不:ADV	知道:Vt	晚上:N	能不能:ADV	看:Vt	星星:N	
+大:Vi	誤:Vt	
+XD:FW	※:FW	編輯:Nv	::COLONCATEGORY	yvonne:FW	226:DET	
+112.105:DET	.:PERIODCATEGORY	92.29:DET	
+07:DET	/:FW	13:DET	/:FW	201422:DET	::COLONCATEGORY	36:DET	::COLONCATEGORY	11:DET	推:Vt	rockbanana:FW	::COLONCATEGORY	下:DET	禮拜:N	要:ADV	去:ADV	試試:Vt	XD:FW	07:DET	/:FW	1400:DET	::COLONCATEGORY	01:DET	

@@ -1,0 +1,91 @@
+energy:FW	83100:DET	(:PARENTHESISCATEGORY	^^:b	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	鐵人:N	九:DET	番:M	料理:N	亭:N	
+WedJul:FW	923:DET	::COLONCATEGORY	45:DET	::COLONCATEGORY	532014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	鐵人:N	九:DET	番:M	料理:N	亭:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	忠孝東路:N	四段:N	223巷:N	10弄:N	9:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2776:DET	-:DASHCATEGORY	1108:DET	
+圖文:N	美麗:Vi	版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	energy83100.pixnet.net/blog/post:FW	/:FW	154032609:DET	
+之前:N	就:ADV	一直:ADV	在:P	網路:N	上:N	看:Vt	這:DET	一:DET	家:M	的:T	食記:N	
+每:DET	次:M	都:ADV	看到:Vt	口水:N	差:Vi	那:DET	摩:Vt	一滴滴:DET	就:ADV	給:Vt	他:N	流下來:Vi	
+終於:ADV	
+我:N	的:T	大:Vi	帥哥:N	朋友:N	
+不:ADV	這樣:Vi	叫:Vt	他:N	的:T	話:N	很:ADV	難:Vi	揪:Vt	得:T	動:Vt	他:N	耶:T	
+":FW	煙仔:N	":FW	有空:Vi	陪:Vt	我:N	去:ADV	吃:Vt	拉:Vt	
+開心:Vi	
+首先:ADV	上來:Vi	的:T	是:Vt	
+登登登:N	
+招牌菜:N	鐵人:N	炸:Vt	子雞:N	$:FW	150:DET	這:DET	一:DET	盤:M	炸:Vt	G:FW	哼:T	不:ADV	啷:b	噹:ADV	大概:ADV	有:Vt	10來:DET	塊:M	
+有:Vt	附:Vt	檸檬:N	
+沒:ADV	拍到:Vt	
+和:C	沾醬:N	
+美乃滋:N	
+我們:N	用:Vt	了:ASP	三:DET	種:M	吃法:N	
+原味:N	、:PAUSECATEGORY	沾醬:N	、:PAUSECATEGORY	擠:Vt	檸檬汁:N	
+粗完煙仔素:N	說:Vt	：:COLONCATEGORY	下:DET	次:M	自已:N	帶:Vt	胡椒:N	鹽:N	來:ADV	比較:ADV	對味:Vi	整體:N	來:ADV	說:Vt	可能:ADV	是:Vt	我們:N	對:P	招牌菜:N	期待:Vt	太:ADV	高:Vi	吧:T	
+迷:Vt	有:Vt	想像:N	中:POST	的:T	讓:Vt	人:N	驚豔:Vi	
+生魚片:N	蓋飯:N	
+冷:Vi	醋:N	飯:N	
+$:FW	160:DET	煙仔點:N	的:T	主食:N	
+點餐:N	的:T	時候:N	服務生:N	說:Vt	今天:N	只:ADV	剩下:Vt	鮭魚:N	生魚片:N	哦:T	
+煙仔:N	一:ADV	聽:Vt	馬上:ADV	用力:Vi	的:T	說:Vt	：:COLONCATEGORY	好:ADV	好好:Vi	阿:N	
+他:N	素:Vi	鮭魚:N	控:Vt	
+正合:N	他:N	的:T	意:N	
+只:ADV	是:Vt	我們:N	忘:Vt	了:ASP	問:Vt	如果:C	不:ADV	是:Vt	只:ADV	剩下:Vt	鮭魚:N	的:T	話:N	可不可以:ADV	指定:Vt	全部:DET	要:Vt	鮭魚:N	
+我:N	千:ADV	求:Vt	萬:DET	求:Vt	終於:ADV	有:Vt	被:P	分到:Vt	一:DET	塊:M	說真的:ADV	我:N	是:Vt	吃:Vt	不:ADV	出:Vt	生魚片:N	的:T	好壞:N	啦:T	
+只要:C	不會:ADV	拉肚子:Vi	就:ADV	好:Vi	囉:T	
+但:C	素:ADV	
+我:N	還是:ADV	覺得:Vt	爭:Vt	鮮:Vi	的:T	比較:ADV	好吃:Vi	耶:T	
+草菇:N	牛排飯:N	$:FW	160:DET	嘿嘿嘿:ADV	
+輪到:Vt	我:N	的:T	拉:Vt	
+是:Vt	不:ADV	是:Vt	看起來:ADV	粉:N	好吃:Vi	阿:N	
+這:DET	是:Vt	之前:N	來:ADV	吃:Vt	過:ASP	的:T	姐妹:N	推薦:Vt	的:T	啦:T	
+草菇:N	吃起來:ADV	水嫩:Vi	水嫩:Vi	的:T	粉:N	JUICY:FW	哦:T	牛排:N	熟度:N	也:ADV	剛好:ADV	
+不會:ADV	咬:Vt	不:ADV	爛:Vi	
+味道:N	也:ADV	很:ADV	下:Vt	飯:N	
+感覺:N	可以:ADV	再:ADV	多點:DET	一:DET	碗:M	白飯:N	來:ADV	配:Vt	也:ADV	OK:FW	哦:T	
+我:N	有:Vt	強迫:Vt	煙仔:N	吃:Vt	了:ASP	一口:ADV	
+可惜:Vi	他:N	不:ADV	愛:Vt	
+因為:C	他:N	說:Vt	草菇:N	的:T	味道:N	有點:ADV	重:Vi	
+他:N	是:Vt	不:ADV	吃:Vt	菜:N	的:T	人:N	
+真:ADV	懷疑:Vt	他:N	會不會:ADV	便秘:Vi	阿:N	
+綜合:A	串燒:N	$:FW	260:DET	
+從:P	下:Vt	到:P	上:N	依序:ADV	是:Vt	豬麻糬:N	、:PAUSECATEGORY	牛肉:N	、:PAUSECATEGORY	雞翅:N	
+都:ADV	兩:DET	串:M	哦:T	
+豬:N	麻糬:N	是:Vt	培根:N	裡面:N	包:Vt	著:ASP	麻糬:N	下去:Vi	烤:Vt	的:T	
+我:N	跟:P	煙仔:N	都:ADV	覺得:Vt	蠻:ADV	好吃:Vi	的:T	
+外面:N	鹹鹹:Vi	的:T	裡面:N	甜甜:Vi	的:T	
+烤:Vt	的:T	醬汁:N	很:ADV	好吃:Vi	
+應該:ADV	也:ADV	是:Vt	可以:ADV	拿來:Vt	配飯:N	哦:T	
+不過:C	覺得:Vt	吃:Vt	第二:DET	串:M	應該:ADV	會:ADV	膩:Vi	吧:T	
+牛肉:N	串燒:N	大:Vi	推薦:Vt	牛肉:N	很:ADV	嫩:Vi	
+熟度:N	很:ADV	適中:Vi	
+而且:C	":FW	好像:ADV	":FW	有一點點:ADV	牛:N	舌:N	
+因為:C	有:Vt	吃到:Vt	脆脆:Vi	的:T	部份:DET	
+叉子:N	上:N	的:T	排列:Nv	應該:ADV	是:Vt	像:P	這樣:Vi	：:COLONCATEGORY	肉:N	+:FW	牛舌:N	+:FW	肉:N	+:FW	牛舌:N	+:FW	肉:N	+:FW	牛舌:N	因為:C	那:DET	時候:N	沒有:ADV	特別:Vi	注意:Vt	去:ADV	看:Vt	
+所以:C	上面:N	是:Vt	我:N	用:P	猜:Vt	的:T	哦:T	
+最後:N	雞翅:N	呢:T	
+有點:ADV	乾:Vi	而且:C	沒:Vt	什麼:DET	肉:N	也:ADV	沒:Vt	什麼:DET	味道:N	
+這:DET	算是:Vt	這:DET	一:DET	盤:M	唯一:A	美中不足:Vi	的:T	地方:N	吧:T	
+日式:A	炸:Vt	麻糬:N	$:FW	60:DET	
+最後:N	的:T	甜點:N	囉:T	
+沒有:ADV	特別:Vi	出色:Vi	但:C	也:ADV	不:ADV	難吃:Vi	
+只:ADV	是:Vt	
+吃:Vt	的:T	時候:N	有:Vt	一:DET	個:M	重點:N	
+千萬:DET	不要:ADV	咬:Vt	太:ADV	大:Vi	口:N	阿:Vi	
+因為:C	真的:ADV	真的:ADV	真的:ADV	很:ADV	燙:Vi	
+煙仔:N	就:ADV	被:P	燙到:Vt	馬上:ADV	灌:Vt	了:ASP	一:DET	大:Vi	口:N	麥茶:N	
+還是:ADV	熱:Vt	的:T	
+但是:C	也:ADV	要:ADV	趁熱:ADV	吃:Vt	哦:T	
+那:DET	時候:N	跟:P	煙仔:N	聊天:Vi	聊:Vt	得:T	有點:ADV	久:Vi	
+後來:N	吃:Vt	第2:DET	個:M	的:T	時候:N	已經:ADV	冷:Vi	掉:Vt	了:ASP	
+口感:N	就:ADV	變:Vi	怪怪:Vi	的:T	
+要:ADV	趁熱:ADV	吃:Vt	但:C	也:ADV	要:ADV	小心:Vt	燙到:Vt	哦:T	
+唉:T	
+好:ADV	糾結:Vi	阿:N	
+本:DET	次:M	消費:N	2:DET	人:N	共:ADV	$:FW	790:DET	
+免:Vt	服務費:N	
+這:DET	次:M	吃下來:Vi	一:DET	個:M	大男人:N	
+煙仔:N	
+加:Vt	我:N	一:DET	個:M	小:Vi	女生:N	吃:Vt	的:T	很:ADV	飽:Vi	而且:C	價位:N	在:P	可:ADV	接受:Vt	範圍:N	內:N	
+下:DET	次:M	應該:ADV	還:ADV	會:ADV	再:ADV	和:P	姐妹:N	們:N	來:Vi	一:DET	次:M	主攻:Vt	串燒:N	和:C	喝:Vt	點:M	小:Vi	酒:N	囉:T	

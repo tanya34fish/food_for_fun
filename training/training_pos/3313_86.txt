@@ -1,0 +1,54 @@
+poltroon:FW	(:PARENTHESISCATEGORY	20:DET	公分:M	的:T	距離:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	1:DET	Bite2go:FW	士林店:N	
+MonJul:FW	1414:DET	::COLONCATEGORY	05:DET	::COLONCATEGORY	4920142014:DET	/:FW	6:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	vikingbear.pixnet.net/blog/post:FW	/:FW	30197670:DET	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2882:DET	-:DASHCATEGORY	5676:DET	
+地址:N	：:COLONCATEGORY	台北市:N	中正路:N	115:DET	號:M	
+網址:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.1bite2go.com/tc:FW	/:FW	
+這:DET	家:M	餐廳:N	一直:ADV	在:P	口袋:N	名單:N	中:POST	
+想到:Vt	的:T	時候:N	都:ADV	訂位:Vi	已:ADV	滿:ADV	
+只好:ADV	趁:P	這:DET	天:M	有:Vt	空檔:N	
+來:ADV	碰碰運氣:Vi	看:Vt	有沒有:ADV	空位:N	
+幸好:ADV	還:ADV	有:Vt	位子:N	可以:ADV	入座:Vi	
+點:Vt	了:ASP	一:DET	杯:M	芒果:N	奶昔:N	
+是:Vt	用:P	芒果:N	現:ADV	打:Vt	的:T	
+喝:Vt	起來:ASP	味道:N	很:ADV	不錯:Vi	
+有:Vt	芒果:N	新鮮:Vi	的:T	味道:N	
+牛奶:N	比例:N	也:ADV	不會:ADV	太:ADV	重:Vi	
+點:Vt	的:T	是:Vt	大:Vi	杯:M	
+裝:Vt	不:ADV	下:Vt	杯:N	裡:N	的:T	部分:DET	
+店家:N	有:Vt	另外:ADV	給:Vt	一:DET	個:M	大:Vi	鋼:N	杯:N	保溫:Vi	
+立意:N	還:ADV	不錯:Vi	
+不過:C	倒:Vt	的:T	時候:N	要:ADV	小心:Vt	就:ADV	是:Vt	
+不然:C	就:ADV	會:ADV	像:P	我:N	一樣:Vi	
+請:Vt	桌子:N	喝:Vt	了:ASP	不少:DET	XD:FW	
+本來:ADV	是:Vt	沒有:ADV	想:Vt	要點:N	開味:N	拼盤:N	的:T	
+只是:ADV	點完:Vt	餐:N	後:POST	覺得:Vt	不:ADV	太:ADV	豐富:Vt	
+當然:ADV	多餘:A	的:T	部分:DET	還是:ADV	打包:Vi	就是了:Vi	
+裡面:N	有:Vt	酸辣雞翅:N	
+烤馬鈴薯:N	塊:M	
+泰式:A	烤雞:N	肉餅:N	是:Vt	裡面:N	覺得:Vt	最:ADV	好吃:Vi	的:T	
+內:N	餡:N	不:ADV	算:Vt	少:Vi	
+有點:ADV	辣辣:Vi	的:T	味道:N	
+加上:C	外皮:N	有:Vt	香氣:N	
+算是:Vt	討喜:Vi	的:T	品:N	樣:POST	
+我:N	點:Vt	的:T	是:Vt	鐵:N	鍋:N	早:Vi	午餐:N	
+配上:Vt	炒蛋:N	
+另外:C	有:Vt	兩:DET	片:M	土司:N	
+土司:N	吃起來:ADV	甜甜:Vi	的:T	
+鐵鍋:N	早餐:N	是:Vt	香料:N	牛肉:N	拌:Vt	炒:Vt	洋芋:N	
+份量:N	可以:ADV	說:Vt	是:Vt	不少:DET	
+一:ADV	開始:Vt	還:ADV	不錯:Vi	
+但:C	覺得:Vt	吃:Vt	到:P	最後:N	會:ADV	有:Vt	一點:DET	太:ADV	鹹:Vi	
+貝爾點:N	的:T	世:N	啪啪:ADV	牛肉:N	三明治:N	
+滿:ADV	厚:Vi	一:DET	層:M	的:T	
+裡面:N	有:Vt	牛肉:N	
+起士:N	
+加上:C	洋蔥:N	跟:P	芥末:N	
+吃起來:ADV	很:ADV	爽快:Vi	
+當然:ADV	味道:N	也:ADV	滿:ADV	不錯:Vi	的:T	
+整體:N	而言:Vt	
+對於:P	這:DET	家:M	覺得:Vt	還:ADV	不:ADV	賴:Vt	
+下:DET	次:M	有:Vt	機會:N	再:ADV	試試:Vt	其他:DET	餐點:N	囉:T	

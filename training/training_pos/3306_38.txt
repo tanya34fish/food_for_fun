@@ -1,0 +1,118 @@
+pswo:FW	210525:DET	(:PARENTHESISCATEGORY	(:PARENTHESISCATEGORY	阿:N	mon:FW	):PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	暴走:Vt	食鋪:N	~:FW	串燒:N	一:DET	串:M	只要:C	$:FW	39:DET	
+FriJul:FW	1122:DET	::COLONCATEGORY	35:DET	::COLONCATEGORY	272014:DET	店名:N	::COLONCATEGORY	暴走:Vt	食鋪:N	
+電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	25019136:DET	
+地址:N	::COLONCATEGORY	台北市:N	中山區:N	興安街:N	126:DET	號:M	1樓:N	
+價格:N	::COLONCATEGORY	$:FW	39:DET	up:FW	
+用餐:Nv	日期:N	::COLONCATEGORY	2014年:N	6月:N	
+無:Vt	音樂:N	圖文:N	網誌版:N	
+痞客邦:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	monkey2010.pixnet.net/blog/post:FW	/:FW	57957615:DET	
+純:Vi	文字版:N	許久:N	未:ADV	在:P	台北:N	吃:Vt	燒肉:N	嚕:ADV	
+這:DET	次:M	和:C	朋友:N	見面:Vi	
+朋友:N	提義:N	到:P	此:DET	間:M	店敘:Vt	敘舊:Vi	
+人生地不熟:Vi	想不出:Vt	別的:DET	店家:N	來:ADV	做:Vt	選擇:Vt	
+最後:N	就:ADV	任由:Vt	朋友:N	決定:Vt	吃:Vt	這:DET	間:M	了:T	
+朋友:N	還:ADV	特別:Vi	強調:Vt	這:DET	間:M	在:P	台北:N	算:Vt	很:ADV	便宜:Vi	
+一:DET	串:M	只要:C	要:ADV	$:FW	39:DET	
+讓:Vt	我:N	都:ADV	感到:Vt	好奇:Vi	了:T	
+不:ADV	知道:Vt	好不好吃:Vi	呢:T	
+店面:N	小小:Vi	的:T	很:ADV	不:ADV	顯眼:Vi	
+門口:N	擺放:Vt	了:ASP	幾:DET	當:Vt	小:Vi	凳子:N	
+應該:ADV	是:Vt	給:P	排隊:Vi	客人:N	坐:Vi	的:T	
+來:Vi	的:T	時間:N	算:Vt	很:ADV	早:Vi	
+店:N	內:N	味制:N	幾乎:ADV	都:ADV	是:Vt	空:Vt	的:T	呢:T	
+門口:N	有:Vt	許多:DET	菜單:N	的:T	圖片:N	和:C	價格:N	可以:ADV	參考:Vt	
+恩:N	......:ETCCATEGORY	突然:ADV	有:Vt	種:M	看到:Vt	日本:N	黑道:N	大哥:N	的:T	感覺:N	
+感覺:N	會:ADV	是:Vt	漫畫:N	中:POST	才:ADV	看:Vt	的:T	到:Vt	的:T	人物:N	
+手:N	上:N	拿:Vt	著:ASP	一:DET	根:M	棒子:N	
+噢:T	不:ADV	是:Vt	
+是:Vt	一串串:DET	燒:Vt	
+但:C	還是:ADV	讓:Vt	人:N	感覺:N	有點:ADV	壓力:N	阿:N	XDDD:FW	
+從:P	中午:N	就:ADV	開始:Vt	營業:Vi	
+有:Vt	提供:Vt	商葉:N	午餐:N	
+營業:Vi	到:P	晚上:N	10:DET	點:M	
+當日:N	壽星:N	有:Vt	9:DET	折:M	欸:T	
+可惜:Vi	我:N	是:Vt	7月:N	生日:N	
+殘念:N	
+店:N	內:N	位置:N	分成:Vt	2:DET	大區:N	
+有:Vt	靠:Vt	窗:N	也:ADV	有:Vt	不:ADV	是:Vt	靠:P	窗:N	得:T	
+但:C	靠:P	窗:N	的:T	位置:N	較:ADV	窄:Vi	喔:T	
+桌面:N	的:T	餐紙:N	也好:T	有:Vt	魄力:N	
+有:Vt	種:M	鬥魂:N	的:T	感覺:N	
+大:Vi	口:N	吃:Vt	肉:N	
+大力:ADV	暴:ADV	走:Vi	
+店:N	內:N	的:T	精神:N	阿:N	
+這:DET	次:M	忘:Vt	了:ASP	拍:Vt	菜單:N	
+只:ADV	拍到:Vt	店:N	內:N	的:T	菜單:N	扛棒:N	
+串燒:N	一律:ADV	$:FW	39:DET	
+中午:N	還:ADV	有:Vt	燒肉定食:Vt	$:FW	149:DET	
+另外:C	還:ADV	有:Vt	四川:N	麻辣水:N	煮:Vt	烤魚:N	
+詳細:Vi	菜單:N	請:Vt	看:Vt	這:DET	
+飲料:N	吃:Vt	串燒:N	配:Vt	啤酒:N	幾乎:ADV	是:Vt	不變:Vi	的:T	選擇:N	
+冰櫃:N	內:N	滿滿:Vi	的:T	啤酒:N	
+當然:ADV	也:ADV	有:Vt	汽水:N	、:PAUSECATEGORY	果汁:N	、:PAUSECATEGORY	茶:N	等:POST	
+雪碧:N	$:FW	39:DET	吃到:Vt	最後:N	有點:ADV	太:ADV	渴:Vi	
+所以:C	跑到:Vt	冰櫃:N	拿:Vt	了:ASP	一:DET	罐:M	來:ADV	喝:Vt	
+四川:N	麻辣水:N	煮:Vt	烤魚:N	$:FW	149:DET	聽:Vt	很多:DET	部落客:N	說:Vt	這:DET	是:Vt	該:DET	店:N	的:T	招牌:N	
+所以:C	也:ADV	不管:C	朋友:N	的:T	反對:Nv	
+硬是:ADV	點:Vt	了:ASP	一:DET	份:M	XD:FW	
+一:ADV	送:Vt	上桌:Vi	
+就是:C	紅通通:Vi	的:T	一:DET	鍋:M	
+感覺:N	跟:P	麻辣:A	鍋:N	差不多:Vi	
+正中央:N	是:Vt	魚片:N	
+還:ADV	蠻:ADV	大:Vi	塊:M	的:T	
+大約:ADV	有:Vt	半:DET	隻:M	魚:N	吧:T	
+另外:C	還:ADV	有用:Vi	香菜:N	、:PAUSECATEGORY	花椰菜:N	等:POST	當作:Vt	陪襯:Nv	
+入口:N	後:POST	又:ADV	麻:Vi	又:ADV	香:Vi	
+這:DET	味道:N	好棒:Vi	
+魚肉:N	也:ADV	算:Vt	鮮嫩:Vi	
+超:Vt	下:Vt	飯:N	的:T	拉:Vt	
+不愧:ADV	是:Vt	招牌菜:N	
+連:C	剛剛:ADV	反對:Vt	點:N	的:T	朋友:N	都:ADV	吃:Vt	的:T	津津有味:Vi	
+醬烤帆立貝串:N	$:FW	49:DET	一:DET	串:M	有:Vt	三:DET	顆:M	
+以:P	這:DET	價格:N	來:ADV	說:Vt	挺:ADV	划算:Vi	的:T	
+還:ADV	灑上:Vt	白:Vi	芝麻:N	增添:Vt	些許:DET	香味:N	
+吃起來:ADV	軟嫩:Vi	帶:Vt	點:M	甜味:N	
+好吃:Vi	
+深海:N	大:Vi	魷魚:N	$:FW	149:DET	店:N	內:N	招牌菜:N	之:T	一:DET	
+超大:A	隻:M	的:T	魷魚:N	直接:Vi	烤:Vt	後:POST	切:Vt	塊:M	
+這:DET	個:M	還:ADV	蠻:ADV	適合:Vi	拿來:Vt	當下:N	酒菜:N	的:T	唷:T	
+口感:N	彈:Vt	牙:N	有:Vt	嚼:Vt	勁:N	
+份量:N	也:ADV	不少:Vi	
+讚:Vt	
+泰式:A	烤:Vt	生蠔:N	$:FW	49:DET	欸:T	..:ETCCATEGORY	老實說:ADV	這:DET	生蠔:N	讓:Vt	我:N	有點:ADV	失望:Vi	
+在:P	烤:Vt	過後:POST	縮水:Vi	挺:ADV	嚴重:Vi	的:T	
+應該:ADV	只:ADV	能:ADV	算:Vt	大一號:N	的:T	蚵仔:N	
+加上:C	泰式醬:N	後:POST	
+味道:N	酸酸甜甜:Vi	的:T	還:ADV	算:Vt	OK:FW	
+如果:C	生:Vt	蠔:N	能:ADV	大:Vi	一點:ADV	就:ADV	好了:T	
+丼飯鰻汁:N	牛肉:N	$:FW	49:DET	比:P	普通:Vi	飯碗:N	在:P	大:Vi	一些:DET	的:T	碗:N	
+上面:N	鋪:Vt	了:ASP	2:DET	、:PAUSECATEGORY	3:DET	片:M	的:T	燒肉:N	
+接著:ADV	再:ADV	淋上鰻汁:N	
+一:DET	碗:M	香噴噴:Vi	的:T	丼:b	飯:N	就:ADV	上桌:Vi	嚕:ADV	
+牛肉片:N	挺:ADV	大:Vi	片:N	和:C	入:Vt	味:N	的:T	
+搭配:Vt	底下:N	的:T	醬汁:N	和:C	白飯:N	吃:Vt	剛剛好:ADV	
+價格:N	上:POST	也:ADV	還可以:ADV	接受:Vt	
+雞腿:N	肉串鰻汁:N	$:FW	39:DET	份量:N	上:POST	有點:ADV	小:Vi	
+不過:C	這邊:N	是:Vt	台北:N	
+所以:C	39:DET	元:M	也:ADV	沒辦法:Vi	要求:Vt	什麼:DET	
+嫩度:N	上:POST	還:ADV	OK:FW	
+表現:Vt	中規中矩:Vi	
+烤雞:N	腿肉串:N	松露:N	$:FW	39:DET	看到:Vt	松露:N	就:ADV	想:Vt	點:N	來:ADV	吃:Vt	看看:ASP	
+在:P	原本:A	的:T	雞腿肉:N	串:Vt	灑上:Vt	松露:N	顆粒:N	就:ADV	大功告成:Vi	了:T	
+不過:C	吃起來:ADV	好像:ADV	沒:Vt	差別:N	欸:T	
+可能:ADV	我:N	味覺:N	比較:ADV	不:ADV	靈敏:Vi	吧:T	
+米腸:N	朋友點:N	的:T	
+塞滿:Vt	了:ASP	蔥花:N	和:C	醬汁:N	感覺:N	還:ADV	蠻:ADV	好吃:Vi	的:T	
+不過:C	我:N	這:DET	時候:N	已經:ADV	吃:Vt	不:ADV	下:Vt	
+所以:C	就:ADV	不:ADV	知道:Vt	這:DET	個:M	味道:N	如何:Vi	了:T	
+整體:N	來:ADV	說:Vt	我:N	覺得:Vt	算:Vt	中規中矩:Vi	
+四川:N	麻辣水:N	煮:Vt	魚:N	和:C	魷魚:N	應該:ADV	是:Vt	必:ADV	吃:Vt	的:T	餐點:N	
+另外:C	還:ADV	有:Vt	一些:DET	特色菜:N	沒:ADV	吃:Vt	到:P	
+下:DET	次:M	再:ADV	找:Vt	機會:N	來:ADV	吃:Vt	看看:ASP	
+以:P	這:DET	價格:N	來:ADV	說:Vt	
+在:P	台北:N	真的:ADV	算:Vt	很:ADV	便宜:Vi	阿:N	
+服務:Nv	態度:N	也:ADV	很:ADV	好:Vi	喔:T	
+推薦:Vt	這:DET	間:M	給:Vt	大家:N	
+以上:N	是:Vt	個:M	人:N	淺見:N	
+僅:ADV	供:Vt	參考:Vt	

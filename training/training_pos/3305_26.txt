@@ -1,0 +1,23 @@
+a:FW	765112223:DET	(:PARENTHESISCATEGORY	芹菜:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北:N	星期日:N	可:ADV	外:N	送:Vt	的:T	便當店:N	
+FriJul:FW	1112:DET	::COLONCATEGORY	18:DET	::COLONCATEGORY	012014:DET	
+請益:Vi	
+台北:N	星期日:N	可:ADV	外:N	送:Vt	的:T	便當店:N	
+FriJul:FW	1112:DET	::COLONCATEGORY	18:DET	::COLONCATEGORY	012014:DET	
+1:DET	.:PERIODCATEGORY	想:Vt	找:Vt	的:T	餐飲:N	類別:N	星期日:N	中午:N	可:ADV	外:N	送:Vt	的:T	便當店:N	
+2:DET	.:PERIODCATEGORY	用餐:Vi	地區:N	台北:N	金融:N	研訓:N	院:N	
+3:DET	.:PERIODCATEGORY	每:DET	人:N	預算:N	新台幣:N	$:FW	100:DET	元:M	
+4:DET	.:PERIODCATEGORY	用餐:Nv	時段:N	星期日:N	中午:N	
+5:DET	.:PERIODCATEGORY	用餐:Nv	人數:N	30:DET	左右:POST	
+視:P	請假:Vi	的:T	人數:N	而:C	定:Vt	
+6:DET	.:PERIODCATEGORY	查詢:Nv	精華區:N	及:C	板面:N	文章:N	後:POST	拿:Vt	不定:Vi	主意:N	的:T	候選:Nv	店家:N	
+爬過:Vt	精華區:N	
+但是:C	多數:DET	便當店:N	都:ADV	是:Vt	星期日:N	":FW	公休:Vi	":FW	...:ETCCATEGORY	
+目前:N	有:Vt	問到:Vt	一:DET	間:M	是:Vt	":FW	一:DET	日:M	均衡:Vt	手抓飯:N	便當店:N	":FW	
+但是:C	便當店:N	太:ADV	忙碌:Vi	
+至今:ADV	無:Vt	下文:N	...:ETCCATEGORY	
+另外:C	
+往後:N	還:ADV	有:Vt	幾:DET	次:M	是:Vt	必須:ADV	在:P	星期日:N	中午:N	訂:Vt	便當:N	
+所以:C	希望:Vt	能夠:ADV	有:Vt	多:Vi	一點:DET	的:T	選擇:N	
+懇請:Vt	各:DET	位:M	專業:Vi	的:T	大大:Vi	們:N	多:ADV	提供:Vt	一些:DET	資訊:N	給:Vt	小妹:N	
+感激:Vt	不盡:ADV	

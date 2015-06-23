@@ -1,0 +1,57 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	敲敲:Vt	咖啡:N	KNOCKKAFE:FW	
+ThuJul:FW	1019:DET	::COLONCATEGORY	49:DET	::COLONCATEGORY	052014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40923388:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	6:DET	
+不只:ADV	一:DET	次:M	聽說:Vt	敲敲:Vt	咖啡:N	的:T	甜點:N	很:ADV	好吃:Vi	了:T	
+決定:Vt	尋:DET	個:M	下午:N	來:ADV	嘗嘗:Vt	
+本來:ADV	中午:N	打算:Vt	去:ADV	吃:Vt	松山:N	的:T	布爾喬亞:N	
+可惜:Vi	沒:ADV	位:Vt	了:ASP	
+後來:N	又:ADV	跑:Vi	了:ASP	另:DET	一:DET	家:M	店:N	想:Vt	吃:Vt	午餐:N	
+結果:ADV	又:ADV	沒:ADV	開:Vt	
+最後:N	只好:ADV	來:ADV	敲敲:Vt	吃飯:Vi	兼:Vt	甜點:N	
+本來:ADV	是:Vt	不:ADV	打算:Vt	來:ADV	敲敲:Vt	吃飯:Vi	
+因為:C	他:N	的:T	甜點:N	名氣:N	勝於:Vt	正餐:N	
+但:C	也:ADV	懶得:Vt	再:ADV	去:ADV	找:Vt	店:N	
+就:ADV	在:P	此:DET	將:ADV	就:P	將:ADV	就:P	
+餐點:N	的:T	部份:DET	以:P	義大利麵:N	和:C	燉飯:Vt	為主:Vi	
+不:ADV	知道:Vt	燉飯:Vt	用:Vt	的:T	是:Vt	什麼:DET	米:M	
+還是:ADV	先:ADV	點:Vt	義大利麵:N	吃吃:Vt	
+甜點:N	的:T	部份:DET	是:Vt	重點:N	
+種類:N	不少:Vi	
+不過:C	以:P	冰櫃:N	裡:N	現有:A	的:T	為主:Vi	
+不少:DET	樣:M	甜點:N	都:ADV	是:Vt	現點現:N	作:Vt	
+好比:Vt	檸檬塔:N	
+煎:Vt	烤雞:N	肉野菇麵:N	＄:FW	280:DET	
+上桌:Vi	後:POST	便:ADV	傳來:Vt	濃郁:Vi	起司:N	香:N	
+雞肉:N	為:Vt	帶:Vt	皮:N	的:T	去:Vt	骨:N	腿:N	排:Vt	
+量:N	不:ADV	多:Vi	
+小小:Vi	一:DET	塊:M	
+以:P	香草:N	調:Vt	料:N	調味:Nv	香煎:N	
+不過:C	味道:N	沒有:ADV	吃:Vt	得:T	很:ADV	深:Vi	
+略:ADV	嫌:Vt	清淡:Vi	
+麵條:N	搭配:Vt	著:ASP	奶油:N	野菇:N	醬:N	
+醬沉盤:N	底:POST	
+最好:ADV	再:ADV	稍微:ADV	拌勻:Vi	一下:N	
+不然:C	麵條:N	沒:ADV	沾染:Vt	到:P	太多:DET	味道:N	
+麵條:N	口感:N	還可以:ADV	再:ADV	硬:Vi	一點:ADV	會:ADV	更:ADV	好:Vi	
+算是:Vt	中規中矩:Vi	的:T	義大利麵:N	
+法式:A	橙花:N	鮮果:N	千:DET	層:M	佐:Vt	香草:N	冰淇淋:N	＄:FW	180:DET	
+色彩:N	艷麗:Vi	的:T	千:DET	層:M	
+薄薄:Vi	軟嫩:Vi	的:T	餅:N	皮:N	一:DET	層:M	一:DET	層:M	夾:Vt	著:ASP	芒果:N	、:PAUSECATEGORY	火龍果:N	、:PAUSECATEGORY	奇異果:N	
+這:DET	道:M	甜點:N	的:T	口味:N	非常:ADV	清爽:Vi	
+並:C	不:ADV	甜:Vi	膩:Vi	
+主要:A	的:T	味道:N	都:ADV	來自:Vt	水果:N	本身:N	的:T	酸甜:Vi	
+而:C	這:DET	三:DET	樣:M	水果:N	除:P	芒果:N	之外:POST	都:ADV	不:ADV	那麼:ADV	重:Vi	甜:Vi	
+而是:C	有點:ADV	微:Vi	酸:Vi	
+但:C	這:DET	恰好:ADV	符合:Vt	了:ASP	我:N	愛:Vt	吃:Vt	的:T	口味:N	
+不:ADV	甜:Vi	而:C	酸:Vi	
+清爽:Vi	宜人:Vi	
+若:C	覺得:Vt	不:ADV	夠:ADV	甜:Vi	的:T	話:N	
+那:DET	便:ADV	搭配:Vt	著:ASP	香草:N	冰淇淋:N	一起:ADV	吃:Vt	吧:T	
+可以:ADV	增加:Vt	甜度:N	
+敲敲:Vt	咖啡:N	KNOCKKAFE:FW	
+地址:N	：:COLONCATEGORY	台北市:N	延吉街:N	126巷:N	10:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	87717672:DET	
+一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	

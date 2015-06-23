@@ -1,0 +1,180 @@
+lovedach:FW	(:PARENTHESISCATEGORY	毛毛:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	8:DET	%:M	ice:FW	甜:Vi	・:FW	鹹:Vi	點心屋:N	閃電:N	泡芙:N	
+MonJul:FW	1422:DET	::COLONCATEGORY	41:DET	::COLONCATEGORY	252014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	8:DET	%:M	ice:FW	甜:Vi	・:FW	鹹:Vi	點心屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014.7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	大安區:N	金華街:N	251:DET	-:DASHCATEGORY	2:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2356:DET	-:DASHCATEGORY	3265:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	平日:N	12:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	周:M	末:POST	10:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1:DET	份:M	甜點:N	100:DET	元:M	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	檸檬塔:N	
+圖文:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	lovedach.pixnet.net/blog/post:FW	/:FW	376925663:DET	
+PTT:FW	文字版:N	::COLONCATEGORY	
+8:DET	%:M	不再:ADV	只:ADV	有:Vt	賣:Vt	冰淇淋:N	和:C	霜淇淋:N	囉:T	
+現在:N	還:ADV	推出:Vt	了:ASP	甜點:N	和:C	鹹點:N	
+味道:N	表現:N	如何:Vi	呢:T	
+一起:ADV	來:ADV	
+看看:Vt	吧:T	::COLONCATEGORY	D:FW	
+朋友:N	很:ADV	喜歡:Vt	8:DET	%:M	的:T	冰:N	
+早上:N	外:POST	拍:Vt	結束:Vt	後:POST	
+就:ADV	和:P	朋友:N	一起:ADV	來:ADV	光顧:Vt	8:DET	%:M	最近:N	才:ADV	開幕:Vi	不久:N	的:T	甜鹹:Vi	點心:N	
+屋:N	
+甜鹹:Vi	點心屋:N	的:T	位置:N	離:P	捷運站:N	較:ADV	遠:Vi	
+從:P	捷運:N	東門:N	站:Vi	5:DET	號:M	出口:N	出來:Vi	後:POST	
+從:P	鼎泰豐:N	的:T	那:DET	條:M	路:N	走進:Vt	
+去:ADV	
+一直:ADV	走到:Vt	金華:N	國中:N	、:PAUSECATEGORY	新生:N	國小:N	、:PAUSECATEGORY	金華:N	公園:N	三者:N	的:T	交叉口:N	
+就:ADV	差不多:ADV	到:Vt	囉:T	
+門面:N	設計:N	很:ADV	日式:A	
+還:ADV	有:Vt	種:M	與世隔絕:Vi	的:T	高雅感:N	
+DSC00730.JPG:FW	
+DSC00731.JPG:FW	
+有:Vt	戶外:N	的:T	座位:N	
+但:C	現在:N	這:DET	種:M	熱:Vt	天氣:N	...:ETCCATEGORY	還:ADV	是:Vt	進去:Vi	裡面:N	坐:Vi	吧:T	
+DSC00732.JPG:FW	
+門口:N	
+看似:Vt	是:Vt	推:Vt	門:N	的:T	日式:A	窗格門:N	
+其實:ADV	是:Vt	自動門:N	
+DSC00758.JPG:FW	
+DSC00735.JPG:FW	
+由:P	右:N	往:P	左:N	分別:ADV	是:Vt	櫃台:N	、:PAUSECATEGORY	冰淇淋櫃:N	、:PAUSECATEGORY	甜鹹:Vi	點:M	櫃:N	
+DSC00748.JPG:FW	
+全:DET	系列:N	商品:N	特價:N	100:DET	元:M	的:T	活動:N	延長:Vt	到:P	7:DET	/:FW	30:DET	
+原本:ADV	只:ADV	到:P	6:DET	/:FW	30:DET	
+DSC00751.JPG:FW	
+DSC00753.JPG:FW	
+座位:N	並:ADV	不:ADV	多:Vi	
+只:ADV	有:Vt	6:DET	
+7:DET	組:M	位子:N	
+所以:C	很:ADV	容易:Vi	就:ADV	客滿:Vi	
+當天:N	剛好:ADV	還:ADV	遇到:Vt	雜誌:N	來:ADV	拍攝:Vt	
+所以:C	等待:Vt	了:ASP	一下:N	才:ADV	有:Vt	位子:N	
+DSC00754.JPG:FW	
+廚房:N	就:ADV	在:P	正:N	後方:N	
+設置:Vt	透明:Vi	玻璃:N	
+隱約:ADV	可:ADV	看到:Vt	裡面:N	正在:ADV	不停:Vi	地:T	製作:Nv	
+等待:Vt	時間:N	就:ADV	來:ADV	參觀:Vt	所有:DET	的:T	甜鹹:Vi	點心:N	啦:T	
+DSC00733.JPG:FW	
+玄米抹茶:N	閃電:N	泡芙:N	
+你們:N	懂得:Vt	
+抹茶控:Vt	毛毛:N	就:ADV	是:Vt	為了:P	它:N	而:C	來:Vi	的:T	啊:T	
+DSC00737.JPG:FW	
+DSC00738.JPG:FW	
+DSC00739.JPG:FW	
+DSC00740.JPG:FW	
+DSC00741.JPG:FW	
+DSC00742.JPG:FW	
+DSC00743.JPG:FW	
+DSC00745.JPG:FW	
+DSC00746.JPG:FW	
+等待:Vt	時間:N	店員:N	給:Vt	我們:N	是:Vt	吃:Vt	了:ASP	抹茶戚風:N	蛋糕:N	
+毛毛:N	自己:N	有:Vt	在:P	玩:Vt	烘焙:Vt	
+可能:ADV	是:Vt	毛毛:N	自己:N	砸:Vt	重:Vi	本:ADV	用:P	日清:N	紫羅蘭:N	低粉:N	做:Vt	過:ASP	
+所以:C	嘴巴:N	整:DET	個:M	被:P	自:P	
+己:N	養:Vt	挑:Vt	XD:FW	
+個:M	人:N	覺得:Vt	他們:N	家:N	的:T	戚風:N	蛋糕:N	很:ADV	乾:Vi	
+然後:ADV	...:ETCCATEGORY	抹:Vt	茶味:N	大概:ADV	是:Vt	逃家:Vi	了:ASP	吧:T	
+DSC00747.JPG:FW	
+毛毛:N	怕:Vt	奶油:N	
+所以:C	與:P	波士頓:N	派:Vt	無緣:Vi	
+DSC00749.JPG:FW	
+選擇:Vt	其實:ADV	不:ADV	算:Vt	多:Vi	
+樣式:N	也:ADV	有限:Vi	
+另外:C	
+所有:DET	的:T	甜點:N	都:ADV	比:P	想像:N	中:POST	的:T	小:Vi	非常:ADV	多:Vi	
+閃電:N	泡芙:N	是:Vt	超級:A	迷你版:N	
+很:ADV	以往:N	看到:Vt	的:T	基本:A	size:FW	差:Vi	很多:DET	
+一:DET	份:M	甜點:N	100:DET	元:M	雖然:C	對:P	大眾:N	來:ADV	說:Vt	比較:ADV	可以:ADV	負擔:Vt	
+但:C	相對:Vi	的:T	size:FW	真的:ADV	迷你:Vi	很多:DET	
+DSC00759.JPG:FW	
+在:P	甜點櫃:N	前:POST	選完:Vt	甜點:N	後:POST	
+就:ADV	先:ADV	直接:Vi	結帳:Vi	
+店員:N	會:ADV	幫:P	你:N	把:P	餐點:N	送上:Vt	桌:N	
+DSC00782.JPG:FW	
+送上:Vt	餐點:N	後:POST	
+一起:ADV	附上:Vt	可愛:Vi	的:T	小:Vi	叉子:N	
+DSC00761.JPG:FW	
+珍珠:N	玫瑰:N	黑醋栗:N	閃電:N	泡芙:N	&:FW	amp:FW	
+玄米抹茶:N	閃電:N	泡芙:N	
+size:FW	真的:ADV	非常:ADV	迷你:Vi	
+粗度:N	大概:ADV	是:Vt	比:P	2:DET	隻:M	手指頭:N	合併:Vt	細:Vi	
+比:P	一:DET	隻:M	手指頭:N	粗:Vi	
+DSC00766.JPG:FW	
+在:P	裝飾:N	上:POST	很:ADV	簡單:Vi	又:ADV	可愛:Vi	
+DSC00787_2.jpg:FW	
+DSC00765.JPG:FW	
+珍珠:N	可以:ADV	吃:Vt	喔:T	
+吃起來:ADV	是:Vt	硬硬:Vi	脆脆:Vi	的:T	糖:N	
+DSC00768.JPG:FW	
+抹:Vt	茶:N	的:T	裝飾:N	很:ADV	像:Vt	小小:Vi	的:T	草皮:N	
+滿:ADV	有意思:Vi	的:T	
+DSC00771.JPG:FW	
+白色:N	上面:N	一:DET	粒:M	一:DET	粒:M	的:T	就是:C	玄米:N	
+DSC00797.JPG:FW	
+裡面:N	的:T	抹:Vt	茶:N	奶油:N	填:Vt	得:T	很:ADV	實心:A	
+抹:Vt	茶味:N	很:ADV	濃:Vi	
+不過:C	因為:C	size:FW	真的:ADV	很:ADV	小:Vi	
+抹:Vt	茶:N	的:T	苦澀味:N	在:P	味蕾:N	上:POST	如:P	曇花一現:Vi	
+奶油:N	吃起來:ADV	有點:ADV	硬度:N	
+感覺:N	是:Vt	卡士達:N	的:T	口感:N	
+不:ADV	太:ADV	像:Vt	奶油:N	
+吃起來:ADV	比較:ADV	不:ADV	膩:Vi	口:N	
+毛毛:N	喜歡:Vt	
+DSC00803.JPG:FW	
+裡面:N	填滿:Vt	的:T	黑醋栗:N	奶油:N	口味:N	偏:ADV	酸:Vi	
+毛毛:N	很:ADV	喜歡:Vt	
+對於:P	愛酸:N	少女:N	來:ADV	說:Vt	
+這樣:Vi	的:T	口味:N	真的:ADV	很:ADV	棒:Vi	
+所以:C	不用:ADV	擔心:Vt	因為:C	泡芙:N	上面:N	的:T	巧克力:N	而:C	變得:Vt	很:ADV	甜:Vi	
+DSC00806.JPG:FW	
+倒是:ADV	上面:N	的:T	珍珠:N	糖粒:N	比較:ADV	甜:Vi	
+DSC00777.JPG:FW	
+山茶花:N	檸檬塔:N	
+愛酸:N	少女:N	當然:ADV	要點:N	個:T	檸檬塔:N	
+DSC00780.JPG:FW	
+山茶花:N	奶油:N	擠:Vt	得:T	滿:ADV	美:Vi	的:T	
+DSC00783_2.jpg:FW	
+DSC00820.JPG:FW	
+黃色:N	的:T	檸檬:N	餡:N	酸度:N	非常:ADV	夠:Vi	毛毛:N	和:C	朋友:N	都:ADV	超:Vt	愛:N	
+底下:N	的:T	塔皮:N	很:ADV	薄:Vi	
+口感:N	上:POST	不:ADV	強烈:Vi	
+上面:N	的:T	山茶花:N	造型:N	奶油:N	口感:N	還:ADV	頗:ADV	輕盈:Vi	的:T	
+因為:C	分量:N	也:ADV	不:ADV	多:Vi	
+所以:C	不:ADV	喜歡:Vt	奶油:N	的:T	毛毛:N	覺得:Vt	還:ADV	
+是:Vt	可以:ADV	接受:Vt	::COLONCATEGORY	D:FW	
+DSC00808.JPG:FW	
+季節:N	蔬菜:N	鹹:Vi	派:Vt	
+份量:N	也:ADV	是:Vt	小小:Vi	的:T	
+DSC00813.JPG:FW	
+雖然:C	小:Vi	
+但:C	裡面:N	的:T	餡料:N	很:ADV	飽滿:Vi	
+有:Vt	一:DET	種:M	奇特:Vi	的:T	黃色:N	甜椒:N	、:PAUSECATEGORY	杏:N	鮑:N	菇:N	
+DSC00817.JPG:FW	
+底下:N	的:T	塔皮:N	也:ADV	是:Vt	頗:ADV	薄:Vi	的:T	
+是:Vt	酥:Vi	皮:N	的:T	口感:N	
+DSC00819.JPG:FW	
+味道:N	剛好:ADV	
+但:C	整體:N	來:ADV	說:Vt	表現:N	並:ADV	無:Vt	太:ADV	大:Vi	驚豔:Vi	
+DSC00826.JPG:FW	
+水:N	是:Vt	向:P	店員:N	要:Vt	了:ASP	才:ADV	有:Vt	
+覺得:Vt	應該:ADV	是:Vt	隨:P	餐:N	附上:Vt	啦:T	
+不然:C	提供:Vt	自取:Vt	也:ADV	是:Vt	OK:FW	
+這樣:Vi	也:ADV	比較:ADV	方便:Vi	
+不用:ADV	麻煩:Vt	店員:N	::COLONCATEGORY	D:FW	
+而且:C	竟然:ADV	還是:ADV	冰水:N	
+想:Vt	說:Vt	都:ADV	是:Vt	在:P	賣:Vt	冰品:N	的:T	店家:N	了:T	
+覺得:Vt	應該:ADV	提供:Vt	個:M	溫水:N	或:C	常:ADV	溫水:N	阿:N	...:ETCCATEGORY	又:C	
+不:ADV	是:Vt	吃:Vt	拉麵:N	....:ETCCATEGORY	
+*:FW	*:FW	整體:N	小小:Vi	評價:N	*:FW	*:FW	
+毛毛:N	也:ADV	滿:ADV	喜歡:Vt	他們:N	家:N	的:T	霜淇淋:N	
+雖然:C	100:DET	元:M	不:ADV	是:Vt	個:M	可愛:Vi	的:T	價錢:N	
+但是:C	8:DET	%:M	的:T	冰:N	都:ADV	是:Vt	有:Vt	一定水:N	
+準:Vi	的:T	
+特別:Vi	是:Vt	抹茶:N	口味:N	的:T	冰品:N	真的:ADV	很:ADV	讚:Vi	
+因此:C	對:P	他們:N	的:T	甜鹹點:N	也:ADV	有:Vt	一定:A	的:T	期待:Nv	
+雖然:C	餐點:N	的:T	口味:N	是:Vt	都:ADV	還:ADV	不錯:Vi	
+但:C	還是:ADV	覺得:Vt	有點:ADV	小小:Vi	
+失望:Vi	
+吃完:Vt	的:T	感覺:N	和:C	之前:N	去:ADV	吃:Vt	agnesb:FW	的:T	感覺:N	很:ADV	像:Vt	
+以上:N	個:M	人:N	感覺:Vt	
+僅:ADV	供:Vt	參考:Vt	囉:T	

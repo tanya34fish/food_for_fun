@@ -1,0 +1,43 @@
+BABUSUE:FW	(:PARENTHESISCATEGORY	12341234:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	-:DASHCATEGORY	咖朵:N	咖啡:N	‧:PERIODCATEGORY	城市:N	中:POST	的:T	小:Vi	女孩:N	
+MonJul:FW	1402:DET	::COLONCATEGORY	18:DET	::COLONCATEGORY	282014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	咖朵:N	咖啡:N	‧:PERIODCATEGORY	城市:N	中:POST	的:T	小:Vi	女孩:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	７月:N	
+餐廳:N	地址:N	：:COLONCATEGORY	台北市:N	大安區:N	復興南路:N	一段:N	107巷:N	5弄:N	2:DET	號:M	
+餐廳:N	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27310823:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	假日:N	11:DET	::COLONCATEGORY	00:DET	開店:Vi	):PARENTHESISCATEGORY	
+平均:Vi	價位:N	：:COLONCATEGORY	$:FW	150:DET	~:FW	180:DET	/:FW	人:N	
+推薦:Vt	菜色:N	：:COLONCATEGORY	舒芙:N	蕾:N	
+鄰近:Vt	捷運:N	：:COLONCATEGORY	忠孝:N	復興:Vt	站:Vi	4:DET	號:M	出口:Nv	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+本:DET	篇:M	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	twogirltw.blogspot.tw/2014/07/blog-post_8.html:FW	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	下班:Vi	後:POST	...:ETCCATEGORY	能:ADV	跟:P	幾:DET	位:M	姐妹:N	淘:Vt	約會:N	是:Vt	最:ADV	幸福:Vi	的:T	事:N	了:T	這樣:Vi	的:T	咖朵:N	咖啡:N	地點:N	其實:ADV	十分:ADV	不:ADV	顯眼:Vi	呀:T	仿佛:ADV	是:Vt	故意:Vt	躲:Vt	在:P	城市:N	的:T	角落:N	
+等待:Vt	心靈:N	相通:Vi	的:T	人:N	發覺:Vt	它:N	的:T	存在:Nv	
+門面:N	外觀:N	從:P	招牌:N	的:T	字體:N	、:PAUSECATEGORY	菜單:N	上:N	的:T	手繪:Nv	風格:N	就:ADV	有:Vt	種:M	小:Vi	女孩:N	天真:Vi	浪漫:Vi	的:T	氣息:N	...:ETCCATEGORY	在:P	這:DET	小小:Vi	的:T	空間:N	裡:N	
+伯爵:N	茶:N	舒芙蕾:N	/:FW	$:FW	190:DET	舒芙蕾:N	可是:C	這裡:N	的:T	賣:Vt	點:N	呀:T	
+外型:N	可愛:Vi	不:ADV	說:Vt	
+周:N	一:ADV	到:P	周六:N	賣:Vt	的:T	口味:N	都:ADV	不:ADV	一樣:Vi	好像:ADV	在:P	玩:Vt	抽獎:Vi	一樣:Vi	
+果然:ADV	很:ADV	有:Vt	小:Vi	女孩:N	淘氣:Vi	的:T	感覺:N	
+笑:Vi	
+星期五:N	的:T	限定:Nv	是:Vt	...:ETCCATEGORY	伯爵茶:N	口味:N	搭配:Vt	焦糖:N	海鹽醬:N	說真的:ADV	
+茶香:N	非常:ADV	濃郁:Vi	
+好吃:Vi	在:P	旁:N	的:T	草莓:N	雪酪:N	也:ADV	不:ADV	是:Vt	泛泛之輩:N	微:ADV	酸:Vi	微:ADV	甜:Vi	的:T	口感:N	除:P	了解:Vt	膩:Vi	外:POST	還:ADV	真是:ADV	讓:Vt	人:N	愛不釋手:Vi	呀:T	
+可愛:Vi	的:T	是:Vt	...:ETCCATEGORY	小:Vi	女孩:N	的:T	咖朵:N	咖啡:N	...:ETCCATEGORY	還:ADV	貼心:Vi	的:T	解說:N	如何:ADV	享用:Vt	舒芙蕾:N	依然:ADV	可愛:Vi	清新:Vi	
+讓:Vt	人:N	看:Vt	了:ASP	心:N	裡:POST	也:ADV	跟:P	著:ASP	笑:Vi	了:ASP	
+蕃茄:N	起:POST	司:Vt	三明治:N	/:FW	$:FW	150:DET	噢:T	
+原諒:Vt	我:N	這:DET	角度:N	拍:Vt	的:T	不:ADV	是:Vt	很:ADV	好:Vi	
+哭:Vi	
+雖然:C	三明治:N	是:Vt	主軸:N	...:ETCCATEGORY	但:C	其實:ADV	後方:N	的:T	蛋:N	沙拉:N	更:ADV	是:Vt	美味:Vi	
+真:ADV	沒想到:ADV	這樣:Vi	的:T	搭配:Nv	超級:A	絕配:N	每:DET	次:M	吃完:Vt	一口:ADV	蛋:N	沙拉:N	
+不:ADV	知:Vt	怎麼:Vi	地:T	...:ETCCATEGORY	就:ADV	是:Vt	會:ADV	想:Vt	再:ADV	咬:Vt	口:N	三明治:N	
+蛋:N	沙拉:N	
+真的:ADV	不:ADV	是:Vt	蓋:Vt	的:T	
+加分:Nv	維也納:N	咖啡:N	/:FW	$:FW	130:DET	光:N	看:Vt	那:DET	奶油:N	花:Vt	口水:N	就:ADV	要:ADV	流下來:Vi	了:ASP	
+受不了:Vt	
+即使:C	不:ADV	是:Vt	這麼:ADV	愛:Vt	喝:Vt	咖啡:N	的:T	我:N	還是:ADV	被:P	那:DET	名字:N	給:Vt	吸引:Vt	而:C	點:Vt	了:ASP	杯:M	咖啡:N	嚐嚐:Vt	味道:N	
+某:DET	種:M	層面:N	而言:Vt	...:ETCCATEGORY	咖啡:N	是:Vt	種:M	裝飾:N	而:C	非:ADV	單純:Vi	的:T	飲品:N	畢竟:ADV	現在:N	的:T	人:N	...:ETCCATEGORY	許多:DET	時候:N	真的:ADV	好:ADV	需要:Vt	被:P	安慰:Vt	
+唉:T	...:ETCCATEGORY	好:ADV	感傷:Vt	
+冰釀:N	蘋果茶:N	/:FW	$:FW	160:DET	可:ADV	別:ADV	以為:Vt	它:N	只:ADV	能:ADV	是:Vt	冰:N	的:T	喲:T	
+熱飲:N	也:ADV	是:Vt	可以:Vi	的:T	...:ETCCATEGORY	這樣:Vi	的:T	色澤:N	以:P	簡單:Vi	大方:Vi	的:T	玻璃杯:N	裝飾:Vt	著:ASP	不:ADV	難:Vi	想像:Vt	其:DET	味道:N	是:Vt	清新:Vi	又:ADV	帶:Vt	點:M	花草:N	香:Vi	感覺:N	頗:ADV	養生:Vi	的:T	
+後記:N	咖朵:N	可以:ADV	是:Vt	一:DET	人:N	的:T	咖啡館:N	也:ADV	可以:ADV	是:Vt	姊妹:N	的:T	聊天:Vi	小天地:N	
+下午:N	的:T	咖朵:N	或:C	晚上:N	的:T	咖朵:N	...:ETCCATEGORY	都:ADV	各自:N	有:Vt	不同:Vi	的:T	味道:N	私心:N	推薦:Vt	
+--:DASHCATEGORY	姐妹:N	淘:Vt	甜美:Vi	時光:N	http:FW	::COLONCATEGORY	/:FW	/:FW	twogirltw.blogspot.tw:FW	--:DASHCATEGORY	

@@ -1,0 +1,135 @@
+QQminiai:FW	(:PARENTHESISCATEGORY	大貓:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	敦化:N	香港:N	茶水:N	攤嘜:Vt	記:Vt	飯堂:N	
+MonJul:FW	1417:DET	::COLONCATEGORY	37:DET	::COLONCATEGORY	282014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	香港:N	茶水攤:N	-:DASHCATEGORY	嘜記:N	飯堂:N	
+消費:N	時間:N	：:COLONCATEGORY	2014.0:DET	7.11:DET	
+地址:N	：:COLONCATEGORY	台北市:N	敦化南路:N	一段:N	190巷:N	19:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27786466:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	23:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	100:DET	元:M	以上:POST	(:PARENTHESISCATEGORY	另:DET	收:Vt	服務費:N	):PARENTHESISCATEGORY	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	咖哩:N	系列:N	、:PAUSECATEGORY	炒:Vt	公仔麵:N	、:PAUSECATEGORY	河粉:N	、:PAUSECATEGORY	鮮蝦:N	炸:Vt	春捲:N	、:PAUSECATEGORY	凍:Vt	鴛鴦:N	
+好:Vi	讀:Vt	彩色:A	BLOG:FW	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog/post:FW	/:FW	41115862:DET	
+同步:Vi	發表:Vt	至:P	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	0:DET	rz.tw/dZZ6U:FW	
+這:DET	家:M	很:ADV	好吃:Vi	的:T	茶水攤:N	是:Vt	好友:N	凍:Vt	的:T	同事:N	帶:Vt	我:N	去:Vt	的:T	
+說:Vt	中午:N	要:ADV	去:ADV	吃:Vt	很:ADV	好吃:Vi	的:T	港式:A	飲茶:Nv	
+面對:Vt	正在:ADV	減肥:Vi	的:T	我:N	來:ADV	真:ADV	是:Vt	有夠:ADV	殘忍:Vi	的:T	...:ETCCATEGORY	
+三:DET	個:M	人:N	在:P	我:N	面前:N	都:ADV	點:Vt	了:ASP	超:Vt	好吃:Vi	的:T	午餐:N	
+而:C	我:N	因為:C	找:Vt	不:ADV	到:Vt	燙:Vt	青菜:N	跟:P	白:Vi	豆腐:N	....:ETCCATEGORY	
+所以:C	只好:ADV	點:Vt	小:Vi	點心:N	
+而且:C	只:ADV	能:ADV	吃:Vt	蔬菜:N	棒:Vi	
+其他:DET	則:ADV	是:Vt	打包:Vi	帶回:Vt	家:N	孝敬:Vt	我們:N	家:N	阿囧:N	...:ETCCATEGORY	
+殘念:N	
+這:DET	間:M	很:ADV	好吃:Vi	的:T	香港:N	茶水:N	攤:Vt	
+老闆:N	是:Vt	很:ADV	道地:Vi	的:T	香港人:N	
+在:P	台北:N	共有:Vt	3:DET	家:M	分店:N	
+都:ADV	坐落:Vi	在:P	附近:N	巷子:N	內:N	
+一二:DET	店:N	都:ADV	是:Vt	香港:N	茶水:N	攤:Vt	
+一:DET	店:N	在:P	延吉街:N	
+二:DET	店:N	在:P	南京東路:N	三段:N	
+而:C	我們:N	來:Vi	的:T	是:Vt	三:DET	店:N	
+叫:Vt	
+嘜記:N	食堂:N	
+這:DET	是:Vt	我:N	心:N	中:POST	目前:N	為止:POST	超:Vt	好吃:Vi	而且:C	還:ADV	會:ADV	一直:ADV	想:Vt	回鍋:A	的:T	店:N	
+雖然:C	店裡:N	很:ADV	擠:Vi	很:ADV	小:Vi	裝潢:N	也:ADV	不:ADV	怎樣:ADV	
+老闆:N	都:ADV	沒有:Vt	甚麼:DET	表情:N	
+不過:C	
+態度:N	都:ADV	還:ADV	滿:ADV	好:Vi	的:T	
+我們:N	要:ADV	打包:Vi	還是:ADV	要:ADV	幹嘛:Vi	的:T	老闆:N	都:ADV	是:Vt	撲克臉:N	
+可是:C	老闆:N	其實:ADV	感覺:Vt	得:T	出來:Vi	是:Vt	好人:N	啦:T	
+菜單:N	在:P	桌子:N	下:POST	
+非常:ADV	多樣化:Vt	
+我:N	要:ADV	回籠:Vi	吃:Vt	好幾:DET	次:M	也:ADV	吃:Vt	不:ADV	完:Vi	...:ETCCATEGORY	
+有:Vt	附上:Vt	很:ADV	美味:Vi	的:T	圖:N	
+看:Vt	圖:N	大概:ADV	就:ADV	可以:ADV	知道:Vt	長:Vt	甚麼:DET	樣子:N	
+但:C	每:DET	張:M	圖:N	看起來:ADV	都:ADV	好好:Vi	...:ETCCATEGORY	讓:Vt	人家:N	好:ADV	難:Vi	抉擇:N	.....:ETCCATEGORY	
+但是:C	自己:N	還是:ADV	不能:ADV	忘記:Vt	這:DET	天:M	的:T	減肥餐:N	是:Vt	不可以:ADV	吃:Vt	別的:DET	東西:N	的:T	
+但是:C	沒有:Vt	豆腐:N	也:ADV	沒有:ADV	燙:Vt	青菜:N	的:T	情況:N	下:POST	
+我:N	只好:ADV	吃:Vt	比較:ADV	像:Vt	蔬菜:N	的:T	&:FW	lt:FW	
+鮮蝦:N	炸:Vt	春捲:N	&:FW	gt:FW	
+......:ETCCATEGORY	.......:ETCCATEGORY	裡面:N	的:T	蔬菜:N	棒:Vi	...:ETCCATEGORY	
+心:N	裡:N	發誓:Vt	下:DET	次:M	我:N	解禁:Vi	了:ASP	一定:ADV	要:ADV	飛:Vi	奔過來:Vi	吃:Vt	咖哩飯:N	才:ADV	罷休:Vi	
+&:FW	lt:FW	
+凍:Vt	鴛鴦:N	&:FW	gt:FW	
+是:Vt	好友:N	凍點:N	的:T	
+奶茶:N	的:T	香味:N	又:ADV	香:Vi	又:ADV	濃:Vi	
+我:N	坐:Vi	在:P	旁邊:N	一直:ADV	吞:Vt	口水:N	....:ETCCATEGORY	
+茶香味:N	很:ADV	濃:Vi	
+而且:C	大大:Vi	一:DET	杯:M	
+可以:ADV	讓:Vt	我:N	喝:Vt	很:ADV	久:Vi	.....:ETCCATEGORY	
+好友:N	凍點:N	的:T	是:Vt	忘記:Vt	甚麼:DET	東西:N	的:T	米粉:N	了:T	
+XDDDD:FW	
+看起來:ADV	好:ADV	清淡:Vi	很:ADV	好吃:Vi	的:T	樣子:N	
+而:C	我:N	這:DET	餐:M	因為:C	有:Vt	
+燙:Vt	青菜:N	
+要:ADV	吃:Vt	
+可是:C	找:Vt	不:ADV	到:Vt	青菜:N	..:ETCCATEGORY	.......:ETCCATEGORY	
+所以:C	我:N	就:ADV	直接:Vi	幹走:Vt	好友:N	凍:Vt	的:T	青江菜:N	吞:Vt	了:ASP	
+看起來:ADV	湯:N	很:ADV	清澈:Vi	所以:C	青菜:N	應該:ADV	可以:ADV	吞:Vt	吧:T	XD:FW	
+二:DET	位:M	是:Vt	人:N	很:ADV	好:Vi	相處:Vi	的:T	新:Vi	朋友:N	XD:FW	
+阿:N	對了:Vi	
+桌:N	上:N	有:Vt	麥茶:N	
+一:ADV	上桌:Vi	服務生:N	就:ADV	會:ADV	倒:Vt	茶:N	的:T	麥茶:N	
+很:ADV	好喝:Vi	的:T	港:N	J:FW	
+我:N	很:ADV	想:Vt	喝:Vt	...:ETCCATEGORY	可是:C	減肥:Vi	中:POST	所以:C	連:C	這:DET	個:M	都:ADV	沒:ADV	得:ADV	喝:Vt	...:ETCCATEGORY	只:ADV	能:ADV	用:P	聞:Vt	的:T	....:ETCCATEGORY	orz:FW	....:ETCCATEGORY	
+坐:Vi	我:N	對面:N	的:T	朋友點:N	的:T	是:Vt	咖哩飯:N	.....:ETCCATEGORY	
+一:ADV	上桌:Vi	讓:Vt	我:N	吞:Vt	了:ASP	很:ADV	大:Vi	很:ADV	大:Vi	的:T	口水:N	....:ETCCATEGORY	
+這:DET	是:Vt	本:DET	日:M	餐點:N	裡面:N	最:ADV	讓:Vt	我:N	魂牽夢縈:Vi	的:T	了:T	...:ETCCATEGORY	
+雖然:C	我:N	沒有:ADV	吃:Vt	...:ETCCATEGORY	可是:C	看:Vt	得:T	也:ADV	讓:Vt	我:N	很:ADV	想:Vt	吃:Vt	Q&lt:FW	
+&:FW	gt:FW	
+Q:FW	
+根據:P	表示:Vt	是:Vt	很:ADV	好吃:Vi	
+後來:N	她:N	食量:N	小吃:N	不:ADV	完:Vi	..:ETCCATEGORY	所以:C	打包:Vi	...:ETCCATEGORY	
+害:Vt	我:N	心:N	中:POST	熊熊:Vi	升起:Vi	想:Vt	把:P	那:DET	盤:M	剩下:Vt	的:T	幹走吞掉:Vt	的:T	衝動:Nv	...:ETCCATEGORY	
+這:DET	種:M	咖哩飯:N	是:Vt	我:N	很:ADV	愛:Vt	的:T	那:DET	種:M	啊:T	啊:T	啊:T	啊:T	啊:T	啊:T	
+尖叫:Vt	
+&:FW	lt:FW	
+鮮蝦:N	炸:Vt	春捲:N	&:FW	gt:FW	
+有:Vt	約:ADV	四:DET	條:M	的:T	鮮蝦:N	春捲:N	棒:Vi	
+細細長長:Vi	的:T	
+另外:C	有:Vt	蔬菜:N	條:M	棒:Vi	
+芹菜:N	、:PAUSECATEGORY	黃瓜:N	、:PAUSECATEGORY	紅蘿蔔:N	......:ETCCATEGORY	.......:ETCCATEGORY	
+我:N	把:P	鮮蝦:N	棒:Vi	打包:Vi	帶回:Vt	家:N	
+這:DET	餐:M	我:N	只:ADV	能:ADV	吃:Vt	蔬菜:N	條:M	..:ETCCATEGORY	.......:ETCCATEGORY	
+好:ADV	崩潰:Vi	...:ETCCATEGORY	
+當:P	我:N	把:P	鮮蝦:N	棒:Vi	折半:Vi	的:T	時候:N	研究:Vt	了:ASP	一下:N	
+春捲皮:N	很:ADV	酥脆:Vi	
+炸:Vt	得:T	很:ADV	透:Vi	而且:C	不會:ADV	帶:Vt	油:N	
+感覺:Vt	起:ASP	鍋:N	前:POST	搶:Vt	酥:Vi	的:T	過程:N	很:ADV	俐落:Vi	
+而:C	中間:N	蝦:N	肉餡:N	兒:N	的:T	部分:DET	肉:N	是:Vt	很:ADV	彈:Vt	的:T	
+呈現:Vt	粉紅:Vi	色澤:N	
+看:Vt	就:ADV	覺得:Vt	好吃:Vi	
+下:DET	次:M	絕對:ADV	還要:ADV	再:ADV	點:Vt	
+旁邊:N	附上:Vt	的:T	美乃滋:N	我:N	沒有:ADV	沾:Vt	
+實在:ADV	是:Vt	對不起:Vt	店家:N	XDDDD:FW	只:ADV	能:ADV	下:DET	次:M	沾:Vt	來:ADV	吃:Vt	了:ASP	
+芹菜:N	條:M	的:T	粗:Vi	纖維:N	有:Vt	去:ADV	乾淨:Vi	
+所以:C	吃起來:ADV	不:ADV	刮口:N	
+黃瓜:N	也:ADV	是:Vt	新鮮:Vi	
+我:N	討厭:Vt	紅蘿蔔:N	
+不過:C	紅蘿蔔:N	我:N	有:Vt	咬:Vt	一兩:DET	口:M	
+竟然:ADV	發現:Vt	紅蘿蔔:N	的:T	那:DET	種:M	味道:N	沒有:ADV	很:ADV	重:Vi	
+大加:ADV	
+分:Vt	
+這:DET	是:Vt	好:Vi	東西:N	
+炒:Vt	公仔:N	麵:N	看起來:ADV	非常:ADV	美味:Vi	
+味道:N	整:DET	個:M	飄過來:Vi	...:ETCCATEGORY	
+鮮蝦:N	的:T	肉:N	看:Vt	朋友:N	咬:Vt	的:T	感覺:N	很:ADV	彈:Vt	
+吃:Vt	這:DET	盤:M	的:T	朋友:N	是:Vt	給:P	推:Vt	的:T	
+我:N	喜歡:Vt	細:Vi	麵:N	口感:N	啊:T	
+這:DET	餐:M	讓:Vt	我:N	吃:Vt	得:T	很:ADV	坐立難安:Vi	...:ETCCATEGORY	XDDDD:FW	
+麵條:N	大約:ADV	是:Vt	8:DET	分:M	熟:Vi	
+裡面:N	有:Vt	蔥:N	段:N	、:PAUSECATEGORY	洋蔥:N	、:PAUSECATEGORY	鮮蝦:N	
+桌:N	上:N	的:T	旁邊:N	有:Vt	調味料:N	
+根據:P	朋友:N	表示:Vt	這裡:N	的:T	辣椒:N	超:Vt	好吃:Vi	
+我:N	打算:Vt	本:DET	月底:N	解禁:Vi	後:POST	我:N	要:ADV	來:ADV	吃:Vt	
+這裡:N	的:T	熱:Vt	炒類:N	的:T	很:ADV	好吃:Vi	整體:N	而言:Vt	是:Vt	心:N	中:POST	很:ADV	滿意:Vt	的:T	店家:N	
+聽說:Vt	很:ADV	早期:N	的:T	時候:N	更:ADV	好吃:Vi	
+現在:N	是:Vt	還:ADV	好:Vi	...:ETCCATEGORY	那:ADV	倒底:ADV	很:ADV	早:Vi	很:ADV	早:Vi	以前:POST	是:Vt	怎樣:Vi	好吃法:N	啊:T	
+只是:C	這:DET	次:M	來:POST	剛好:ADV	本人:N	在:P	控制:Vt	飲食:N	...:ETCCATEGORY	.......:ETCCATEGORY	整:NeqaI	個:M	吃:Vt	得:T	很:ADV	天人交戰:Vi	....:ETCCATEGORY	
+月底:N	解禁:Vi	後:POST	會:ADV	再:ADV	來:ADV	
+到時候:ADV	一定:ADV	要:ADV	多點:DET	一點:DET	大吃:Vt	特:ADV	吃:Vt	
+下:DET	次:M	還:ADV	會:ADV	再:ADV	來:ADV	喔:T	&:FW	gt:FW	
+/:FW	/:FW	/:FW	/:FW	/:FW	/:FW	/:FW	&:FW	lt:FW	
+文章:N	同步:Vi	發表:Vt	GET:FW	窩:N	http:FW	::COLONCATEGORY	/:FW	/:FW	0:DET	rz.tw/fHMUm:FW	
+大貓宅:N	生活:N	http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog:FW	
+愛力:N	獅:N	粉絲:N	圖:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/AlicesVoice:FW	
+GET:FW	窩:N	http:FW	::COLONCATEGORY	/:FW	/:FW	www.getwo.com.tw/forum.php:FW	

@@ -1,0 +1,62 @@
+skyan07(rita:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	士林:N	茉莉:N	小吃店:N	
+SunJul:FW	1321:DET	::COLONCATEGORY	35:DET	::COLONCATEGORY	302014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	茉莉:N	小吃店:N	
+消費:N	時間:N	：:COLONCATEGORY	2013年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山北路:N	六段:N	752:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	28714997:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	60:DET	~:FW	100:DET	元:M	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+圖文:N	好讀版:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/skyan:FW	07:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	skyan1107.pixnet.net/blog/post:FW	/:FW	183244008:DET	國中:N	時:POST	在:P	士林:N	一帶:N	求學:Vi	
+印象:N	中:POST	茉莉:N	漢堡:N	是:Vt	天母:N	相當:ADV	知名:Vi	的:T	美式:A	餐飲店:N	
+不過:C	當時:N	卻:ADV	沒有:Vt	機會:N	吃:Vt	過:ASP	
+過:Vt	了:ASP	好幾:DET	年:M	經過:Vt	附近:N	
+發現:Vt	記憶:N	中:POST	的:T	茉莉:N	漢堡:N	已經:ADV	改名為:Vt	茉莉:N	小吃店:N	了:T	
+似乎:ADV	連:Vt	地址:N	都:ADV	稍微:ADV	移位:Vi	了:ASP	呀:T	
+上網:Vi	查:Vt	了:ASP	才:ADV	發現:Vt	
+因為:C	共同:A	經營:Vt	的:T	股東:N	們:N	意見:N	不合:Vi	
+所以:C	老闆:N	忍痛:Vi	註銷:Vt	營利:Nv	事業:N	登記:Vt	
+茉莉:N	漢堡:N	的:T	發跡店:N	的確:ADV	是:Vt	走入:Vt	歷史:N	了:T	
+店:N	外:N	擺:Vt	著:ASP	幾:DET	個:M	高:Vi	腳椅:N	
+感覺:N	也:ADV	是:Vt	挺:ADV	愜意:Vi	的:T	
+不過:C	最近:N	天氣:N	實在:ADV	是:Vt	熱:Vt	得:T	讓:Vt	人:N	喘:Vi	不:ADV	過:ASP	氣:N	來:T	
+內用:N	還是:ADV	到:Vt	店:N	裡頭:N	比較:ADV	涼快:Vi	舒適:Vi	
+店:N	內:N	的:T	燈光:N	稍微:ADV	昏暗:Vi	
+約:ADV	有:Vt	六七:DET	個:M	桌子:N	
+不過:C	大部分:DET	的:T	人:N	都:ADV	是:Vt	外帶:Vt	
+所以:C	店:N	內:N	用餐:Vi	也:ADV	不會:ADV	嫌:Vt	擁擠:Vi	
+另外:C	
+忘記:Vt	拍:Vt	了:ASP	價目表:N	呀:T	
+茉莉:N	小吃:N	沒有:Vt	菜單:N	
+價目表:N	就:ADV	在:P	點餐檯:N	的:T	正:N	上方:N	
+有:Vt	漢堡:N	、:PAUSECATEGORY	三明治:N	、:PAUSECATEGORY	飯:N	、:PAUSECATEGORY	麵:N	炸雞:N	、:PAUSECATEGORY	沙拉:N	和:C	奶昔:N	等等:POST	
+漢堡:N	有:Vt	分:M	大小:N	
+可:ADV	另:DET	加:Vt	起士:N	、:PAUSECATEGORY	火腿:N	和:C	培根:N	
+價格:N	大約:ADV	是:Vt	60:DET	元:M	至:P	110:DET	元:M	
+小:Vi	起:ASP	士:N	漢堡:N	
+65:DET	元:M	
+配菜:N	只有:ADV	簡單:Vi	的:T	洋蔥:N	和:C	生菜:N	
+總:ADV	覺得:Vt	有點:ADV	沒有:Vt	活力:N	
+或許:ADV	再:ADV	加:Vt	片:M	番茄:N	會:ADV	比較:ADV	好:Vi	吧:T	
+肉排:N	看起來:ADV	薄薄:Vi	黑黑:Vi	
+雖然:C	吃起來:ADV	沒有:Vt	很:ADV	多汁:Vi	
+但是:C	加上:Vt	了:ASP	起:ASP	士:N	口感:N	比較:ADV	豐富:Vt	
+肉排:N	也:ADV	還是:ADV	有:Vt	著手:Vt	打:Vt	牛肉:N	的:T	鮮美:Vi	口感:N	
+薯條:N	
+單:ADV	點:Vt	一:DET	份:M	40:DET	元:M	
+吃起來:ADV	口味:N	一般:POST	般:POST	
+和:P	我:N	想像:Vt	中:POST	美式:A	餐廳:N	根根:DET	飽滿:Vi	的:T	金黃:Vi	薯條:N	有:Vt	些:M	出入:N	
+可能:ADV	茉莉:N	小吃店:N	走:Vi	的:T	路線:N	是:Vt	台式:A	的:T	風格:N	
+巧克力:N	奶昔:N	
+喝:Vt	起來:ASP	香濃:Vi	不會:ADV	太:ADV	甜:Vi	膩:Vi	
+不過:C	有點:ADV	小:Vi	杯:N	呀:T	
+喝:Vt	的:T	不:ADV	過癮:Vi	
+哈哈:ADV	
+說:Vt	實在:Vi	的:T	
+記憶:N	中聽:Vi	別人:N	說起:Vt	茉莉:N	漢堡:N	
+都:ADV	會:ADV	覺得:Vt	是:Vt	家:N	有點:ADV	神奇:Vi	或是:C	值得:Vi	造訪:Vt	的:T	店家:N	呀:T	
+雖然:C	茉莉:N	漢堡:N	已經:ADV	變成:Vt	茉莉:N	小吃店:N	
+食材:N	或是:C	餐點:N	也:ADV	或許:ADV	改變:Vt	了:ASP	
+總和:N	我:N	的:T	想像:N	不:ADV	大:Vi	一樣:Vi	
+不過:C	這:DET	次:M	能夠:ADV	來:Vi	這裡:N	用餐:Vi	
+也:ADV	算是:Vt	回應:Vt	好幾:DET	年:M	前:POST	的:T	小小:Vi	心願:N	了:T	吧:T	

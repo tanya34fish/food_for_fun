@@ -1,0 +1,56 @@
+pancher7(pancher:FW	7:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	Smith&Hsu:FW	現代:N	茶館:N	天母:N	中山店:N	
+MonJul:FW	1414:DET	::COLONCATEGORY	22:DET	::COLONCATEGORY	292014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	Smith&amp:FW	;:SEMICOLONCATEGORY	Hsu:FW	現代:N	茶館:N	天母:N	中山店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	中山北路:N	六段:N	177:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2838:DET	-:DASHCATEGORY	1828:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週日:N	10:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+圖文版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	deliciouslife.pixnet.net/blog/post:FW	/:FW	378253478:DET	
+純:Vi	文字:N	心得:N	↓:FW	
+熱:Vt	著:ASP	
+卻:ADV	又:ADV	不時:ADV	落下:Vt	小毛:N	雨:N	的:T	濕黏:Vi	下午:N	
+經過:Vt	Smith&amp:FW	
+Hsu:FW	天母:N	分店:N	
+明明:ADV	有:Vt	些:M	趕時間:Vi	
+仍:ADV	是:Vt	忍不住:Vt	硬:ADV	擠出:Vt	半:DET	個:M	小時:N	衝進去:Vi	點:Vt	了:ASP	已:ADV	想:Vt	很:ADV	久:Vi	的:T	司康:N	
+共:ADV	兩:DET	層:M	樓:N	
+牆面:N	置物格:N	陳列:Vt	著:ASP	許多:DET	茶具:N	、:PAUSECATEGORY	商品:N	
+平日:N	下午:N	竟:ADV	也:ADV	呈現:Vt	九成:DET	滿座:Vi	的:T	狀況:N	
+生意:N	真的:ADV	很:ADV	好:Vi	
+急急忙忙:Vi	就座:Vi	後:POST	店員:N	送上:Vt	很:ADV	大一盤:N	各:DET	種:M	茶葉:N	讓:Vt	我:N	挑選:Vt	
+但:C	我:N	只:ADV	想:Vt	快點:ADV	吃到:Vt	朝思暮想:Vi	的:T	Scone:FW	
+因此:C	超:Vt	迅速:Vi	的:T	結束:Nv	點餐:N	程序:N	
+▼:FW	Smith&amp:FW	
+Hsu:FW	英式:A	酥餅:N	午:N	茶組:N	295:DET	元:M	
+含:Vt	兩:DET	個:M	Scone:FW	
+英國:N	德文:N	郡:N	奶油:N	、:PAUSECATEGORY	英國:N	經典:N	果醬:N	
+另:C	可:ADV	選擇:Vt	一:DET	杯:M	145:DET	元:M	的:T	飲品:N	
+超過:Vt	可:ADV	補:Vt	差額:N	
+scone:FW	有:Vt	三:DET	個:M	口味:N	
+我:N	選擇:Vt	原味:N	和:C	葡萄乾:N	口味:N	
+果醬:N	為:Vt	檸檬:N	蛋黃醬:N	
+現烤熱:N	呼呼:ADV	的:T	scone:FW	十分:ADV	酥:Vi	香:Vi	
+外皮:N	很:ADV	脆:Vi	
+中間:N	則:ADV	溫熱:Vt	又:ADV	紮實:Vi	綿密:Vi	
+原味:N	和:C	葡萄乾:N	其實:ADV	沒:Vt	什麼:DET	差別:N	
+多:Vi	了:ASP	烤:Vt	過:ASP	的:T	葡萄乾:N	只:ADV	是:Vt	更:ADV	增:Vt	口感:N	上:N	的:T	脆度:N	
+先:ADV	用:P	柔軟:Vi	細緻:Vi	的:T	德文:N	郡:N	奶油:N	打底:Vi	
+再:ADV	抹上:Vt	滑:Vi	順:Vt	香甜:Vi	的:T	檸檬:N	蛋黃醬:N	
+酸酸甜甜:Vi	
+不:ADV	膩:Vi	且:C	清爽:Vi	的:T	滋味:N	實在:ADV	太:ADV	棒:Vi	了:T	
+好:ADV	喜愛:Vt	這:DET	款:M	果醬:N	
+▼:FW	焦糖:N	紅茶:N	200:DET	元:M	
+須:ADV	補:Vt	差額:N	
+喜歡:Vt	帶:Vt	香氣:N	類型:N	的:T	茶:N	
+喝:Vt	無糖:N	還:ADV	有:Vt	特殊:Vi	香味:N	的:T	加分:Nv	
+這:DET	點:M	深得:Vt	我:N	心:N	
+時間:N	不足:Vi	的:T	情況:N	下:POST	
+吃完:Vt	scone:FW	便:ADV	請:Vt	店員:N	幫:P	我:N	把:P	熱:Vt	茶:N	裝到:Vt	外帶:Vt	杯:N	閃:Vt	人:N	
+全程:ADV	大概:ADV	30:DET	分鐘:M	
+店員:N	應該:ADV	覺得:Vt	這:DET	傢伙:N	如果:C	不:ADV	是:Vt	太:ADV	餓:Vi	就:ADV	是:Vt	有:Vt	病:N	XD:FW	
+但是:C	吃到:Vt	肖:Vt	想:Vt	很:ADV	久:Vi	的:T	食物:N	真的:ADV	覺得:Vt	很:ADV	滿足:Vt	啊:T	
+Smith&amp:FW	
+Hsu:FW	的:T	店員:N	都:ADV	很:ADV	有:Vt	禮貌:N	又:ADV	笑容可掬:Vi	
+而且:C	不:ADV	收:Vt	服務:Nv	費用:N	噢:T	
+『:PARENTHESISCATEGORY	食:N	、:PAUSECATEGORY	遊:Vt	』:PARENTHESISCATEGORY	→:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	deliciouslife.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	一同:ADV	討論:Vt	美食:N	→:FW	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/deliciouslife:FW	2013:DET	
