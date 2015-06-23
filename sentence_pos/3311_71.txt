@@ -1,2 +1,0 @@
-復興:N	商圈:N	、:PAUSECATEGORY	師大:N	公館:N	商圈:N	、:PAUSECATEGORY	西門:N	萬華:N	商圈:N	為主:Vi	
-抓:Vt	一:DET	人:N	300:DET	元:M	左右:POST	

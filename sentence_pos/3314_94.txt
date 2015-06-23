@@ -1,8 +1,0 @@
-地址:N	：:COLONCATEGORY	新:Vi	北市:N	石碇:N	區潭:N	邊:N	里湳窟:N	8:DET	-:DASHCATEGORY	2:DET	號:M	(:PARENTHESISCATEGORY	農會:N	正:ADV	後方:N	):PARENTHESISCATEGORY	
-每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	150:DET	
-隱藏:Vt	在:P	石碇:N	老街:N	旁:N	的:T	驚喜:Nv	美食:N	
-大:Vi	熱天:N	的:T	午後:N	想:Vt	隨處:ADV	晃晃:Vi	就:ADV	來到:Vt	石碇:N	的:T	老街:N	
-看:Vt	了:ASP	一下:N	環境:N	
-乾淨:Vi	整潔:Vi	
-絕不:ADV	會:ADV	有:Vt	不:ADV	該:ADV	留在:Vt	桌面:N	上:N	的:T	東西:N	
-聽聽:Vt	溪水聲:N	
