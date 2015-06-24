@@ -1,0 +1,62 @@
+h294799(Katy:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	_:FW	波:M	記:Vt	茶:N	餐廳:N	
+WedJul:FW	1622:DET	::COLONCATEGORY	57:DET	::COLONCATEGORY	582014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	波:N	記:Vt	茶:N	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	07月:N	
+地址:N	：:COLONCATEGORY	台北市:N	延吉街:N	70巷:N	8:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8773:DET	-:DASHCATEGORY	1913:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	（:PARENTHESISCATEGORY	Mon-Sun:FW	）:PARENTHESISCATEGORY	11:DET	::COLONCATEGORY	30:DET	–:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	150:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	
+有無:Vt	包廂:N	：:COLONCATEGORY	
+推薦:Vt	菜色:N	：:COLONCATEGORY	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	---:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+（:PARENTHESISCATEGORY	圖:N	多無:Vt	音樂:N	好:Vi	讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	h294799.pixnet.net/blog/post:FW	/:FW	379406561:DET	）:PARENTHESISCATEGORY	
+
+以下:N	為:Vt	網誌:N	純:Vi	文字版:N	
+這:DET	是:Vt	第二:DET	次:M	吃:Vt	波:N	記:Vt	了:ASP	
+第一:DET	次:M	假日:N	晚上:N	去:ADV	排:Vt	了:ASP	15:DET	分鐘:M	左右:POST	
+這:DET	次:M	平日:N	晚上:N	去:ADV	完全:ADV	不用:ADV	等:Vt	
+不過:C	店:N	內:N	還是:ADV	幾乎:ADV	客滿:Vi	的:T	狀態:N	
+因為:C	桌面:N	會:ADV	一直:ADV	有:Vt	燈:N	的:T	反光:Nv	
+所以:C	只:ADV	隨便:Vi	拍:Vt	了:ASP	一:DET	部份:DET	的:T	菜單:N	
+凍檸:Vt	樂:N	
+＄:FW	60:DET	
+就是:C	檸檬:N	可樂:N	
+加:Vt	了:ASP	檸檬:N	後:POST	
+可樂:N	的:T	氣:N	比較:ADV	沒:Vt	這麼:ADV	嗆:Vi	
+絲襪:N	凍:Vt	奶茶:N	
+＄:FW	75:DET	
+這:DET	是:Vt	店員:N	送:Vt	錯:Vi	的:T	..:ETCCATEGORY	
+我:N	喝:Vt	了:ASP	一口:ADV	沒有:Vt	很:ADV	滑:Vi	的:T	感覺:N	
+有點:ADV	甜:Vi	
+鴛鴦:N	凍:Vt	奶茶:N	
+＄:FW	75:DET	
+波記:N	的:T	鴛鴦:N	咖啡味:N	比較:ADV	重:Vi	
+但:C	我:N	還是:ADV	最:ADV	喜歡:Vt	英記:N	的:T	鴛鴦:N	
+英記:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	h294799.pixnet.net/blog/post:FW	/:FW	323067926:DET	
+午餐肉:N	豬仔:N	包:Vt	加:Vt	蛋:N	
+＄:FW	95:DET	
+可能:ADV	是:Vt	最近:N	太:ADV	熱:Vt	了:ASP	
+最近:N	胃口:N	超:Vt	差:Vi	
+怕:Vt	吃:Vt	不:ADV	下:Vt	
+所以:C	只:ADV	點:Vt	了:ASP	豬仔:N	包:Vt	
+裡面:N	有:Vt	荷包蛋:N	、:PAUSECATEGORY	午餐肉:N	、:PAUSECATEGORY	豬:N	扒:Vt	
+豬:N	扒:Vt	還:ADV	蠻:ADV	厚:Vi	的:T	
+完全:ADV	把:P	午餐肉:N	的:T	味道:N	跟:P	口感:N	蓋掉:Vt	
+麵包:N	非常:ADV	脆:Vi	
+但:C	整體:N	吃起來:ADV	普普:N	
+比起來:ADV	當然:ADV	還是:ADV	翠華:N	的:T	好吃:Vi	
+翠華:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	h294799.pixnet.net/blog/post:FW	/:FW	371677115:DET	
+招牌:N	原汁:N	牛楠撈麵:N	
+＄:FW	130:DET	
+看起來:ADV	超:Vt	好吃:Vi	的:T	
+但:C	我:N	吃完:Vt	豬仔:N	包:Vt	就:ADV	好:ADV	飽:Vi	
+完全:ADV	吃:Vt	不:ADV	下:Vt	T_T:FW	
+Ｒ:FW	先生:N	說:Vt	還:ADV	不錯:Vi	
+我:N	不:ADV	是:Vt	很:ADV	喜歡:Vt	波記:N	的:T	環境:N	
+很:ADV	吵:Vi	
+連:C	點餐:N	時:POST	都:ADV	要:ADV	很:ADV	大聲:Vi	
+最後:N	還是:ADV	覺得:Vt	茶水攤:N	最:ADV	好吃:Vi	啦:T	
+怎麼:ADV	吃:Vt	都:ADV	不:ADV	膩:Vi	而且:C	也:ADV	很少:ADV	點到:Vt	地雷:N	
+茶水攤:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	h294799.pixnet.net/blog/post:FW	/:FW	349528382:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	h294799.pixnet.net/blog/post:FW	/:FW	363645893:DET	

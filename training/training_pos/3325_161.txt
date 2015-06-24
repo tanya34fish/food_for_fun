@@ -1,0 +1,86 @@
+lotuslin:FW	(:PARENTHESISCATEGORY	佑:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	TuttiCafe:FW	圖:N	比:P	咖啡:N	(:PARENTHESISCATEGORY	敦北店:N	):PARENTHESISCATEGORY	
+ThuJul:FW	1723:DET	::COLONCATEGORY	12:DET	::COLONCATEGORY	402014:DET	TuttiCafe:FW	圖:N	比:P	咖啡:N	(:PARENTHESISCATEGORY	敦北店:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	民權東路:N	三段:N	160巷:N	19弄:N	32:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2712:DET	-:DASHCATEGORY	0892:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週六:N	，:COMMACATEGORY	10:DET	::COLONCATEGORY	30:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	；:SEMICOLONCATEGORY	週日:N	，:COMMACATEGORY	10:DET	::COLONCATEGORY	00:DET	~:FW	18:DET	::COLONCATEGORY	30:DET	
+消費:N	日期:N	：:COLONCATEGORY	2014:DET	/:FW	07:DET	
+網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	lotuslin.pixnet.net/blog/post:FW	/:FW	43693324:DET	
+
+暑假:N	趁著:P	參加:Vt	大學:N	友人:N	的:T	婚禮:N	去:Vt	台北:N	玩:Vt	了:ASP	一:DET	趟:M	
+順手:Vi	換:Vt	了:ASP	張愛評網:N	的:T	試:Vt	吃:Vt	券:N	-:DASHCATEGORY	
+相聚:Vi	食刻:N	：:COLONCATEGORY	幸福:Vi	早:Vi	午餐:N	【:PARENTHESISCATEGORY	圖:N	比:P	咖啡:N	
+敦北店:N	
+】:PARENTHESISCATEGORY	雙人:N	免費:Vi	體驗:Vt	
+TuttiCafe:FW	圖:N	比:P	咖啡:N	
+敦北店:N	
+離:P	捷運:N	中山:N	國中:N	步行:Vi	約:ADV	六七:DET	分鐘:M	
+稍微:ADV	散步:Vi	一下:N	就:ADV	到:Vt	了:ASP	
+周遭:N	比較:ADV	像:Vt	是:Vt	住宅區:N	
+相對:Vi	較:ADV	寧靜:Vi	
+用餐區:N	大致上:ADV	分成:Vt	前:DET	半:DET	區:N	和:C	後:DET	半:DET	區:N	
+但是:C	前:DET	半:DET	區:N	因為:C	屋頂:N	是:Vt	玻璃:N	採光:N	雖:C	佳:Vi	但:C	正:ADV	中午:N	簡直:ADV	熱:Vt	到:P	爆炸:Vi	
+我們:N	臨時:N	多:ADV	加:Vt	了:ASP	一:DET	個:M	人:N	未:ADV	先:ADV	告知:Vt	
+導致:Vt	原本:ADV	安排好:Vt	的:T	位置:N	不:ADV	夠:Vi	坐:Vi	
+先:ADV	被:P	安排:Vt	在:P	前:DET	半:DET	區:N	
+店家:N	有:Vt	貼心:Vi	的:T	特別:Vi	提供:Vt	我們:N	冰水:N	
+好在:ADV	吃到:Vt	一半:DET	終於:ADV	可以:ADV	換到:Vt	涼爽:Vi	的:T	後:DET	半:DET	區:N	
+店家:N	的:T	服務:Nv	態度:N	很:ADV	不錯:Vi	
+可惜:Vi	在:P	座位:N	安排:Nv	上:POST	好像:ADV	有點:ADV	問題:N	
+剛好:ADV	看到:Vt	其他:DET	桌:N	的:T	客人:N	對:P	此:DET	很:ADV	不滿:Vt	而:C	有所:Vt	抗議:Nv	
+這:DET	區:N	看似:Vt	舒服:Vi	實際:Vi	上:POST	白天:N	熱:Vt	到:P	不行:Vi	呀:T	
+EnioyYourLifeinTutticafe:FW	.:PERIODCATEGORY	
+圖:N	比:P	咖啡:N	的:T	Menu:FW	餐點:N	意外:N	得:T	多樣化:Nv	
+早:Vi	午餐:N	、:PAUSECATEGORY	義大利麵:N	、:PAUSECATEGORY	輕食:Vt	、:PAUSECATEGORY	甜點:N	、:PAUSECATEGORY	飲品:N	甚至:ADV	是:Vt	火鍋:N	都:ADV	有:Vt	
+還:ADV	結合:Vt	了:ASP	中西:A	日港式:A	做成:Vt	創意:N	料理:N	
+非常:ADV	有趣:Vi	
+日式:A	唐揚雞:N	奶油:N	咖哩:N	義大利麵:N	$:FW	280:DET	
+因為:C	有:Vt	三:DET	個:M	人:N	所以:C	多點:DET	了:ASP	一些:DET	餐點:N	
+聽說:Vt	很:ADV	濃郁:Vi	還:ADV	不錯:Vi	
+我:N	沒:ADV	吃:Vt	到:P	
+單:ADV	點:Vt	主餐:N	有有:Vi	附餐:N	飲品:N	選:Vt	了:ASP	紅茶:N	
+個:M	人:N	覺得:Vt	餐點:N	的:T	價位:N	都:ADV	稍:ADV	偏:ADV	高:Vi	了:T	
+蒜香:N	義式:A	香料:N	嫩煎:N	香腸:N	義大利麵:N	$:FW	290:DET	
+本來:ADV	以為:Vt	這裡:N	所謂:Vt	的:T	香腸:N	指:Vt	得:T	是:Vt	德國:N	香腸:N	
+想不到:ADV	竟然:ADV	是:Vt	台灣:N	傳統:N	香腸:N	真的:ADV	是:Vt	非常:ADV	有趣:Vi	
+義式:A	香料:N	醬汁:N	也:ADV	是:Vt	濃郁:Vi	特別:Vi	
+麵條:N	煮:Vt	得:T	還:ADV	不錯:Vi	
+豬肉:N	香腸:N	結合:Vt	義式:A	料理:N	竟:ADV	意外:Vt	地:N	不:ADV	違和:Vi	呀:T	XD:FW	
+雞同鴨:N	講:Vt	軟式:A	貝果:N	$:FW	300:DET	
+將:P	鴨:N	腿:N	和:C	雞腿肉:N	同時:N	香料:N	拌:Vt	炒:Vt	料理:N	
+與:C	蔬菜:N	水果:N	層層:DET	入住:Vt	
+點子:N	很:ADV	妙:Vi	
+軟式:A	貝果軟香:N	口感:N	佳:Vi	
+表現:Vt	突出:Vi	
+不:ADV	虧:ADV	是:Vt	強調:Vt	主打:Nv	自製:Nv	手:N	做:Vt	麵包:N	為:Vt	特色:N	的:T	圖:N	比:P	咖啡:N	
+不過:C	一:DET	旁:N	的:T	沙拉:N	、:PAUSECATEGORY	薯條:N	相較:Vi	起來:ASP	就:ADV	稍:ADV	嫌:Vt	普通:Vi	了:T	
+鮮百香:N	芒果:N	冰沙:N	$:FW	160:DET	
+荔枝:N	蜜桃冰茶:N	$:FW	120:DET	
+主廚:N	甜點:N	-:DASHCATEGORY	紅豆:N	起:POST	士:N	
+TuttiCafe:FW	圖:N	比:P	咖啡:N	真的:ADV	是:Vt	從頭:ADV	徹底:Vi	創意:N	料理:N	到:P	尾:N	
+連:C	甜點:N	都:ADV	結合:Vt	了:ASP	中:POST	西式:A	
+外層:N	QQ:FW	的:T	是:Vt	覆盆子:N	
+上:DET	層:M	白色:N	的:T	可:ADV	不:ADV	是:Vt	奶油:N	而是:C	起:Vt	士:N	
+莓果:N	點綴:Vt	
+夾層:N	則:ADV	是:Vt	紅豆:N	泥:N	餡料:N	
+本:ADV	以為:Vt	會:ADV	很:ADV	甜:Vi	但:C	想不到:ADV	塔:N	皮:N	酥香:N	卻:ADV	不:ADV	甜:Vi	膩:Vi	
+而且:C	份量:N	超大:A	一:DET	個:M	人:N	真的:ADV	吃:Vt	不:ADV	完:Vi	呢:T	
+看到:Vt	甜點櫃:N	裡:N	滿滿:Vi	的:T	可愛:Vi	畫盤:N	簡直:ADV	少女心:N	都:ADV	要:ADV	化:Vt	了:ASP	
+特別:Vi	讓:Vt	我:N	挑:Vt	了:ASP	可愛:Vi	的:T	柯基犬:N	Tutti:FW	盤:N	裝:Vt	甜點:N	
+實在:ADV	太:ADV	可愛:Vi	了:T	呀:T	
+後來:N	店狗:N	Tutti:FW	也:ADV	被:P	抱:Vt	著:ASP	出來:Vi	見客:Vi	
+Tutti:FW	因為:C	前:DET	一:DET	天剛:N	打:Vt	了:ASP	預防針:N	所以:C	活力:N	不佳:Vi	但:C	依舊:ADV	可愛:Vi	吸睛:Vi	
+店裡:N	瞬間:N	變得:Vt	很:ADV	歡樂:Vi	
+圖:N	比:P	裡頭:N	的:T	座位區:N	真的:ADV	非常:ADV	舒適:Vi	很:ADV	適合:Vi	聚會:N	聊天:Vi	喔:T	
+色調:N	溫暖:Vt	
+光線:N	柔和:Vi	
+空調:N	涼爽:Vi	
+Tutti:FW	炸:Vt	物:N	拼盤:N	$:FW	360:DET	
+圖:N	比:P	咖啡:N	的:T	環境:N	
+後:DET	半:DET	區:N	
+非常:ADV	涼爽:Vi	舒適:Vi	
+一:DET	個:M	不:ADV	小心:Vt	聊天:Vi	就:ADV	待:Vt	了:ASP	一:DET	下午:N	
+店家:N	都:ADV	沒有:ADV	趕:Vt	客人:N	離開:Vt	揪:Vt	甘心:Vt	
+聊:Vt	著:ASP	聊:Vt	著:ASP	肚子:N	餓:Vi	了:ASP	又:ADV	加:Vt	點:M	了:ASP	一:DET	盤:M	綜合:A	炸:Vt	物:N	
+有:Vt	香濃:Vi	的:T	起士條:N	、:PAUSECATEGORY	雞塊:N	、:PAUSECATEGORY	水牛城:N	雞翅:N	、:PAUSECATEGORY	薯:b	格格:Vi	、:PAUSECATEGORY	洋蔥圈:N	
+非常:ADV	豐富:Vt	

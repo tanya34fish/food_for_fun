@@ -1,0 +1,68 @@
+lundic:FW	(:PARENTHESISCATEGORY	我:N	的:T	天空:N	依舊:ADV	藍澄澄:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	咖哩:N	娘:N	（:PARENTHESISCATEGORY	蔬菜:N	&:FW	雞肉:N	）:PARENTHESISCATEGORY	
+FriJul:FW	1810:DET	::COLONCATEGORY	44:DET	::COLONCATEGORY	412014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	咖哩:N	娘:N	
+消費:N	時間:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	敦化北路:N	165巷:N	14:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2712:DET	-:DASHCATEGORY	5606:DET	
+完整:Vi	原文:N	連結:Nv	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.yesterday.tw:FW	/:FW	?:QUESTIONCATEGORY	p:FW	=:FW	2317:DET	
+第一:DET	次:M	拜訪:Vt	咖哩:N	娘:N	時:POST	的:T	牛:N	咖哩:N	讓:Vt	我:N	覺得:Vt	這:DET	咖哩:N	不:ADV	算:Vt	貴:Vi	而:C	值得:Vi	多:ADV	嘗試:Vt	
+於是:C	便:ADV	約:Vt	了:ASP	朋友:N	一同:ADV	前去:Vt	
+試試看:Vt	雞肉:N	咖哩:N	、:PAUSECATEGORY	蔬菜湯:N	咖哩:N	的:T	表現:N	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.flickr.com/photos/sunnature/14672188714/https:FW	::COLONCATEGORY	/:FW	/:FW	www.flickr.com/photos/sunnature:FW	/:FW	14488067437:DET	/:FW	蔬菜湯:N	咖哩:N	看:Vt	照片:N	說:Vt	故事:N	：:COLONCATEGORY	青椒:N	一:DET	片:M	、:PAUSECATEGORY	半:DET	月:N	南瓜片:N	一:DET	片:M	、:PAUSECATEGORY	花椰菜:N	一:DET	片:M	、:PAUSECATEGORY	胡蘿蔔:N	兩:DET	小:Vi	根:N	、:PAUSECATEGORY	筊白筍:N	一:DET	長片:N	、:PAUSECATEGORY	某:DET	豆類:N	一:DET	根:M	、:PAUSECATEGORY	馬鈴薯球:N	一:DET	顆:M	、:PAUSECATEGORY	高麗菜:N	一:DET	堆:M	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.flickr.com/photos/sunnature/14672187964/https:FW	::COLONCATEGORY	/:FW	/:FW	www.flickr.com/photos/sunnature:FW	/:FW	14672187494:DET	/:FW	蔬菜湯:N	咖哩:N	會:ADV	附上:Vt	一:DET	壺:M	咖哩:N	讓:Vt	客人:N	自行:ADV	澆淋:Vt	
+第二:DET	張:M	照片:N	就:ADV	是:Vt	湯:N	咖哩:N	全部:DET	淋:Vt	下去:ASP	後:POST	的:T	份量:N	
+坦白:Vi	說:Vt	
+這:DET	次:M	拜訪:Vt	的:T	重點:N	就:ADV	是:Vt	蔬菜湯:N	咖哩:N	
+但:C	
+這:DET	蔬菜湯:N	咖哩:N	出乎:Vt	我:N	意料:Vt	的:T	表現:N	糟糕:Vi	
+蔬菜:N	蔬菜:N	...:ETCCATEGORY	整:NeqaI	份:M	餐點:N	澱粉類:N	比例:N	高:Vi	了:ASP	點:M	
+湯:N	咖哩:N	醬汁:N	比較:ADV	清淡:Vi	可以:ADV	預期:Vt	
+不:ADV	意外:Vt	
+只:ADV	是:Vt	在:P	加入:Vt	蔬菜盤:N	後:POST	
+變得:Vt	沒:Vt	啥:DET	酸:Vi	甜味:N	
+苦味:N	倒是:ADV	被:P	大大:Vi	的:T	凸顯:Vt	
+那:DET	令:Vt	人:N	不:ADV	舒服:Vi	
+湯:N	咖哩:N	味道:N	上:POST	本來:ADV	就:ADV	是:Vt	比較:ADV	清淡:Vi	的:T	表現:N	
+又:ADV	在:P	混:Vt	了:ASP	蔬菜:N	跟:P	飯:N	後:POST	
+從:P	清淡:Vi	變成:Vt	稀薄:Vi	
+味道:N	稀薄:Vi	又:ADV	顯得:Vt	深苦:Vi	
+令:Vt	我:N	很:ADV	難:Vi	不:ADV	搖頭:Vi	
+跟:P	其他:DET	品:Vt	項:M	同樣:Vi	的:T	售價:N	卻:ADV	是:Vt	這樣:Vi	的:T	結果:N	
+我:N	個:M	人:N	覺得:Vt	實在:ADV	不:ADV	是:Vt	那麼:ADV	值得:Vi	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.flickr.com/photos/sunnature:FW	/:FW	14487840450:DET	/:FW	雞肉:N	
+不:ADV	覺得:Vt	很:ADV	像:Vt	臺:N	彎:Vi	嗎:T	
+XD:FW	
+用:P	煎:Vt	的:T	
+那:DET	金黃色:N	的:T	雞皮:N	實在:ADV	太:ADV	誘人:Vi	了:T	
+不過:C	這時:N	我:N	犯:Vt	了:ASP	個:M	小:Vi	錯誤:N	
+糟蹋:Vt	了:ASP	那:DET	雞皮:N	
+雞肉:N	本身:N	就:ADV	帶:Vt	有點:ADV	鹹味:N	
+軟嫩:Vi	多汁:Vi	
+好吃:Vi	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.flickr.com/photos/sunnature:FW	/:FW	14674203612:DET	/:FW	歐姆:M	蛋:N	
+80:DET	
+本:ADV	以為:Vt	會:ADV	是:Vt	滑嫩:Vi	的:T	口感:N	
+結果:ADV	稍微:ADV	硬實:Vi	了:ASP	點:M	
+而:C	在:P	這裡:N	我:N	犯:Vt	了:ASP	一:DET	個:M	錯誤:N	就:ADV	是:Vt	讓:Vt	歐姆:M	蛋:N	放:Vt	在:P	雞肉:N	上:N	
+導致:Vt	雞肉:N	那:DET	美麗:Vi	的:T	雞皮:N	就:ADV	這樣:Vi	濕:Vi	了:ASP	潮:Vi	了:ASP	軟:Vi	了:T	
+Orz...https:FW	::COLONCATEGORY	/:FW	/:FW	www.flickr.com/photos/sunnature:FW	/:FW	14694398263:DET	/:FW	雞肉:N	搭配:Vt	的:T	咖哩醬:N	似乎:ADV	沒:Vt	牛:N	咖哩:N	那麼:ADV	甜:Vi	
+酸味:N	較為:ADV	明顯:Vi	
+即便:C	如此:Vi	
+還是:ADV	比:P	淡薄:Vi	又:ADV	有:Vt	著:ASP	揮:Vt	不:ADV	去:Vt	苦味:N	的:T	湯:N	咖哩:N	好多:DET	了:T	
+咖哩:N	娘:N	的:T	牛:N	咖哩:N	的確:ADV	表現:Vt	不錯:Vi	
+物:N	有所:Vt	值:N	
+亦:ADV	因:C	如此:Vi	
+讓:Vt	蔬菜湯:N	咖哩:N	更:ADV	顯得:Vt	遜色:Vi	不少:Vi	
+這:DET	種:M	落差:N	
+我:N	個:M	人:N	真心:Vi	覺得:Vt	咖哩:N	娘:N	莫名其妙:Vi	
+第二:DET	次:M	拜訪:Vt	咖哩:N	娘:N	
+認真:Vi	看:Vt	了:ASP	一下:N	菜單:N	
+原來:A	豬肉:N	有:Vt	兩:DET	種:M	－:DET	":FW	豬:N	":FW	跟:P	":FW	煨:Vt	":FW	
+前炸:Vi	後:POST	燉:Vt	
+只:ADV	是:Vt	
+經過:Vt	蔬菜湯:N	咖哩:N	這麼:ADV	清苦:Vi	了:ASP	一下:N	
+我:N	想:Vt	...:ETCCATEGORY	大概:ADV	要:Vt	過:ASP	些:M	日子:N	才:ADV	會:ADV	再:ADV	去:ADV	嘗試:Vt	了:ASP	
+不過:C	
+牛:N	、:PAUSECATEGORY	雞:N	咖哩:N	的:T	表現:N	還是:ADV	值得:Vi	一:ADV	吃:Vt	的:T	
+☆:FW	請:Vt	注意:Vt	個:M	人:N	口味:N	上:N	的:T	偏好:Nv	差異:N	
+☆:FW	超過:Vt	三:DET	個:M	月:N	的:T	食:N	記:Vt	都:ADV	沒有:ADV	參考:Vt	價值:N	

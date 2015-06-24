@@ -1,0 +1,66 @@
+KUNI:FW	0202:DET	(:PARENTHESISCATEGORY	藐視:Vt	王法:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	屋頂:N	上:N	的:T	貓私廚:N	(:PARENTHESISCATEGORY	貓:N	食堂:N	):PARENTHESISCATEGORY	
+ThuJul:FW	1700:DET	::COLONCATEGORY	16:DET	::COLONCATEGORY	072014:DET	圖文:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	2014年:N	六月:N	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	379569179:DET	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	屋頂:N	上:N	的:T	貓私:N	廚:N	
+屋頂:N	上:N	的:T	貓:N	食堂:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	逸仙路:N	32巷:N	9:DET	號:M	一樓:N	電話:N	：:COLONCATEGORY	0961:DET	-:DASHCATEGORY	173:DET	-:DASHCATEGORY	451:DET	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+屋頂:N	上:N	的:T	貓私廚:N	網路:N	上:N	聲名:N	遠播:Vi	
+老早:ADV	就:ADV	心癢:Vi	難耐:Vt	了:ASP	
+某天:N	晚上:N	總算:ADV	有:Vt	機會:N	進去:Vi	一睹:Vt	廬山真面目:N	
+走:Vi	在:P	黑暗:Vi	的:T	逸仙路:N	巷弄:N	間:POST	
+門口:N	低調:N	只:ADV	打上:Vt	R:FW	與:C	P:FW	兩:DET	個:M	大寫:N	字母:N	
+代表:N	的:T	是:Vt	Roy:FW	與:C	胖胖:Vi	兩:DET	位:M	主人:N	
+打:Vt	著:ASP	私廚:N	名義:N	賣:Vt	的:T	是:Vt	主人:N	居家:N	的:T	私房:A	料理:N	
+走進:Vt	些微:A	凌亂:Vi	的:T	客廳:N	就:ADV	是:Vt	感到:Vt	不:ADV	習慣:Vt	
+不過:C	仔細:Vi	一:ADV	瞧:Vt	
+看似:Vt	雜物:N	的:T	東西:N	雖:C	多:ADV	卻:ADV	擺:Vt	得:T	井然有序:Vi	
+起碼:ADV	是:Vt	非常:ADV	乾淨:Vi	且:C	舒服:Vi	的:T	用餐:Nv	環境:N	
+這:DET	倒是:ADV	很:ADV	有意思:Vi	
+今日:N	用餐:Nv	價格:N	為:Vt	一:DET	人:N	NT:FW	.:PERIODCATEGORY	1800:DET	
+由於:C	並非:ADV	什麼:DET	高級:Vi	餐廳:N	所以:C	價位:N	不:ADV	低:Vi	
+滿心:ADV	期待:Vt	那些:DET	省下來:Vi	的:T	人事:N	及:C	裝潢:N	成本:N	能:ADV	盡情:ADV	發揮:Vt	在:P	食物:N	上面:N	
+不過:C	隨著:P	料理:N	持續:Vt	上桌:Vi	
+失落感:N	變得:Vt	明顯:Vi	
+暫:ADV	先:ADV	把:P	今晚:N	的:T	餐點:N	內容:N	列出來:Vi	吧:T	：:COLONCATEGORY	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	---:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+開胃:Vi	小:Vi	點:M	豬肝:N	蘿蔔:N	絲:N	沙拉:N	蔥燒:Vi	豬:N	肋排佐:N	三星:N	蔥醬:N	麻油:N	雞:N	麵線:N	佐:Vt	佛手瓜:N	甜菜:N	根:N	果汁:N	奶油:N	乾煎舫魚佐烤:Vt	番茄:N	南杏:N	西瓜皮:N	排骨湯:N	香蕉:N	派佐:N	太:ADV	妃糖:N	奶油:N	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	---:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+餐:N	前:N	酒:N	是:Vt	SutterHome:FW	的:T	Moscato:FW	
+開胃:Vi	小:Vi	點:M	嚴格:Vi	來:ADV	論:Vt	並未:ADV	有:Vt	何:DET	亮眼:Vi	表現:N	
+下:DET	一:DET	道:M	豬肝:N	沙拉:N	在:P	溫度:N	上:POST	似乎:ADV	過:ADV	高:Vi	了:T	
+扼殺:Vt	了:ASP	清爽:Vi	
+另外:C	少:Vi	了:ASP	裝:Vt	盤:N	上:N	的:T	細心:Nv	與:C	食材:N	上:N	的:T	搭配:Nv	就:ADV	是:Vt	讓:Vt	人:N	感到:Vt	不滿:Vt	
+沒辦法:Vi	
+這:DET	價位:N	很:ADV	難:Vi	不:ADV	挑剔:Vt	一下:N	
+主餐:N	登場:Vi	時令:N	人:N	失望:Vi	
+怎麼:ADV	會:ADV	是:Vt	豬肋排:N	與:C	麻油:N	雞:N	麵線:N	呢:T	
+由於:C	Roy:FW	主廚:N	有:Vt	親自:ADV	出來:Vi	說明:Vt	
+今天:N	確定:Vt	由:P	他:N	來:ADV	掌廚:Vi	
+不愧:ADV	經驗:N	老到:Vi	
+肋排熟度:N	拿捏:Vt	相當:ADV	優質:A	
+口感:N	上:N	沒:Vt	什麼:DET	好:Vi	挑剔:Vt	
+麻油:N	雞:N	的:T	醬汁:N	屬:Vt	爽口:Vi	清淡型:N	
+使用:Vt	佛手瓜:N	搭配:Vt	則:ADV	讓:Vt	人:N	疑惑:Vi	
+此:DET	時:POST	一:DET	旁:N	強烈:Vi	的:T	果汁機:N	聲響:N	過於:ADV	吵雜:Vi	
+沒:Vt	多久:N	甜菜:N	根:N	果汁:N	上桌:Vi	
+清爽:Vi	甜美:Vi	
+最後:N	一:DET	道:M	主餐:N	煎舫魚熟度:N	不錯:Vi	
+但:C	若:C	嚴格:Vi	檢視:Vt	的:T	話:N	嫩:Nv	度:N	與:C	細緻度:N	則:ADV	略:ADV	乏:Vt	
+然後:ADV	當:P	湯品:N	上桌:Vi	時:POST	忽然間:ADV	我:N	真的:ADV	沒辦法:Vi	了:T	
+裡頭:N	放:Vt	的:T	竟然:ADV	是:Vt	西瓜皮:N	
+以前:N	在:P	家:N	老媽:N	常:ADV	做:Vt	這:DET	個:M	
+每:DET	一:DET	次:M	吃:Vt	西瓜:N	時:POST	總會:ADV	把:P	皮:N	留下來:Vi	
+第二天:N	中午:N	就:ADV	有:Vt	西瓜皮湯:N	可以:ADV	喝:Vt	了:ASP	
+今晚:N	的:T	甜品:N	總算:ADV	讓:Vt	人:N	有:Vt	愉悅:Vi	的:T	心情:N	
+太:ADV	妃糖:N	與:C	輕盈:Vi	的:T	鮮:Nv	奶油:N	漂亮:Vi	地:T	結合:Nv	一起:ADV	
+大量:DET	擺:Vt	在:P	甜:Vi	膩:Vi	適中:Vi	的:T	香蕉派:N	上頭:N	
+不論:C	溫度:N	甜度:N	及:C	口感:N	都:ADV	恰到好處:Vi	
+這:DET	味道:N	連:C	男人:N	都:ADV	愛:Vt	吃:Vt	
+我:N	一口氣:ADV	馬上:ADV	吃光光:Vi	
+但:C	今晚:N	的:T	一千八:DET	配上:Vt	如此:Vi	的:T	居家型:N	主餐:N	
+錢:N	畢竟:ADV	花:Vt	得:ADV	有:Vt	些:ADV	心疼:Vt	呀:T	
+長:Vi	嘆:Vt	
+相關:Vi	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+請:Vt	用:P	滑鼠:N	點選:Vt	
+

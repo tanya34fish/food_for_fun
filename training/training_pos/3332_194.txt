@@ -1,0 +1,123 @@
+rainieis:FW	(:PARENTHESISCATEGORY	芮妮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	天吉屋新:N	菜單:N	比:P	想像:N	中:POST	好吃:Vi	很多:Vi	!:EXCLAMATIONCATEGORY	!:EXCLAMATIONCATEGORY	
+SunJul:FW	2002:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	512014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	天吉:N	屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	106:DET	台北市:N	忠孝東路:N	4:DET	段:M	216巷:N	27弄:N	10:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2721:DET	-:DASHCATEGORY	3328:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	rainieis.tw/blog/post:FW	/:FW	30212745:DET	
+
+這:DET	間:M	天吉屋:N	一直:ADV	沒有:ADV	在:P	我:N	的:T	口袋:N	名單:N	裡面:N	
+雖說:C	日本:N	來:Vi	的:T	好像:ADV	很:ADV	厲害:Vi	
+但是:C	每:DET	次:M	想想:Vt	吃:Vt	炸:Vt	
+物丼飯:N	的:T	回憶:N	總是:ADV	不:ADV	好:Vi	的:T	
+每每:ADV	因為:C	炸:Vt	粉:N	太:ADV	厚:Vi	太:ADV	油:Vi	
+不:ADV	是:Vt	吃:Vt	之前:POST	先:ADV	把:P	炸:Vt	粉:N	撥掉:Vt	
+就是:C	吃:Vt	到:P	
+後來:N	覺得:Vt	很:ADV	膩:Vi	不:ADV	吃:Vt	....:ETCCATEGORY	
+不過:C	天吉屋:N	是:Vt	芮妮:N	老闆:N	吃:Vt	了:ASP	之後:POST	一直:ADV	念念不忘:Vt	的:T	念:N	
+今天:N	就:ADV	給:Vt	它:N	個:T	機會:N	吧:T	
+天吉屋:N	的:T	外觀:N	非常:ADV	日式:A	和風:N	
+讓:Vt	我:N	默默:ADV	想起:Vt	了:ASP	穗科:N	手:N	打:Vt	烏龍麵:N	hoshinaudon:FW	
+真的:ADV	還:ADV	滿:ADV	
+類似:Vt	
+用餐:Nv	環境:N	就:ADV	走:Vi	非常:ADV	乾淨:Vi	、:PAUSECATEGORY	簡潔:Vi	的:T	木造:A	日式:A	風格:N	
+這:DET	條:M	路:N	上:N	的:T	好幾:DET	間:M	店家:N	裝潢:N	都:ADV	滿:ADV	像:Vt	的:T	
+茶:N	
+好像:ADV	忘記:Vt	照:Vt	了:ASP	
+但:C	他們:N	提供:Vt	的:T	茶水:N	是:Vt	冷:Vi	泡牛蒡茶:N	
+在:P	這:DET	種:M	酷熱:Vi	的:T	天氣:N	喝:Vt	實在:ADV	健康:Vi	又:ADV	消:Vi	
+暑:N	
+超:Vt	喜歡:Vt	
+沙拉:N	
+滿:ADV	喜歡:Vt	天:N	吉屋:N	的:T	沙拉:N	
+一:ADV	來:Vi	就:ADV	被:P	我:N	吃光:Vt	了:ASP	
+一方面:C	最近:N	天氣:N	真的:ADV	很:ADV	熱:Vt	
+一方面:C	天吉:N	
+屋:N	的:T	沙拉:N	簡單:Vi	好吃:Vi	
+醬料:N	十分:ADV	充足:Vi	之外:POST	
+高麗菜:N	絲切:N	的:T	有夠:ADV	細:Vi	
+細:Vi	到:P	夠:ADV	合:Vt	我:N	的:T	嘴:N	
+菜:N	
+絲:N	完全:ADV	可以:ADV	輕鬆:Vi	滑入:Vt	食道:N	
+怎麼:ADV	感覺:Vt	聽起來:ADV	有點:ADV	噁:Vi	XD:FW	
+總之:ADV	我:N	喜歡:Vt	這:DET	個:M	刀:N	工:N	的:T	小:Vi	細節:N	
+天吉屋龍定食:N	NT:FW	350:DET	
+烏龍:N	麵:N	可:ADV	選:Vt	冷:Vi	麵:N	
+天氣:N	熱:Vt	到:P	全:DET	身:N	發汗:Vi	當然:ADV	要:ADV	來:ADV	碗:M	冰冰涼涼:Vi	的:T	冷:Vi	麵:N	
+冷:Vi	麵:N	有:Vt	柴魚:N	的:T	味道:N	
+湯:N	
+汁:N	不覺:Vt	得多:ADV	厲害:Vi	
+尚可:Vi	而已:T	
+同事:N	的:T	感覺:N	是:Vt	比:P	燦坤:N	的:T	五食:Vt	五:DET	心:N	烏龍麵:N	55:DET	udon:FW	再:ADV	好:Vi	一:DET	
+點:Vt	而已:T	
+可能:ADV	不會:ADV	特別:Vi	驚艷:Vi	
+但:C	配餐:N	炸:Vt	物:N	我們:N	一致:Vi	認為:Vt	好吃:Vi	
+雖然:C	我:N	拍:Vt	起來:ASP	可能:ADV	不:ADV	太:ADV	上相:Vi	
+@:FW	@:FW	
+天吉丼:N	NT:FW	320:DET	
+招牌:N	炸:Vt	物丼:N	飯:N	
+有:Vt	三:DET	隻:M	大蝦:N	蝦:N	、:PAUSECATEGORY	魚肉:N	、:PAUSECATEGORY	透抽:N	、:PAUSECATEGORY	地瓜:N	、:PAUSECATEGORY	茄子:N	、:PAUSECATEGORY	青椒:N	、:PAUSECATEGORY	溫泉蛋:N	
+當然:ADV	蝦子:N	比:P	烏:N	
+龍:N	麵:N	附:Vt	配餐:N	小:Vi	蝦:N	還:ADV	要:ADV	大:Vi	隻:M	
+我:N	只:ADV	能:ADV	說:Vt	招牌:N	不愧:ADV	是:Vt	招牌:N	
+它們:N	的:T	蝦子:N	就是:C	非常:ADV	飽滿:Vi	、:PAUSECATEGORY	扎實:Vi	的:T	
+大蝦:N	
+完全:ADV	不會:ADV	像:Vt	有:Vt	些:M	烏龍:N	麵店:N	、:PAUSECATEGORY	炸:Vt	物丼:N	飯店:N	賣:Vt	的:T	蝦子:N	
+扒:Vt	掉皮:Vi	之後:POST	瘦:Vi	不:ADV	拉雞:N	的:T	
+咬下去:Vt	
+那:DET	口感:N	
+真是:ADV	太:ADV	棒:Vi	了:T	
+炸:Vt	粉:N	不:ADV	厚重:Vi	
+所以:C	扒皮:N	
+免:ADV	
+附贈:Vt	味增:N	湯:N	
+覺得:Vt	就是:C	一般:A	味增:N	湯:N	
+料:N	不:ADV	多:Vi	
+比較:ADV	多:Vi	豆腐:N	
+味道:N	沒:Vt	什麼:DET	好:Vi	挑剔:Vt	也:ADV	沒:Vt	什麼:DET	好:Vi	表揚:Vt	的:T	
+特選:Vt	雞肉:N	鮮:Vi	蔬雙品:N	NT:FW	300:DET	
+雙品:N	就:ADV	是:Vt	雙拼:A	的:T	意思:N	
+有:Vt	炸:Vt	物丼:N	飯:N	也:ADV	有:Vt	烏龍麵:N	
+不過:C	感覺:Vt	兩:DET	者:N	粉量:N	都:ADV	滿足:Vt	的:T	
+很:ADV	適合:Vi	男生:N	
+特選:Vt	雞肉:N	鮮:Vi	蔬丼:N	NT:FW	270:DET	
+另外:C	吃:Vt	的:T	雞肉:N	炸:Vt	物丼:N	飯:N	也:ADV	非常:ADV	推薦:Vt	
+內含:Vt	雞腿肉:N	、:PAUSECATEGORY	雞胸肉:N	、:PAUSECATEGORY	四季豆:N	、:PAUSECATEGORY	地瓜:N	、:PAUSECATEGORY	茄子:N	、:PAUSECATEGORY	蘆筍:N	、:PAUSECATEGORY	
+鴻喜菇:N	、:PAUSECATEGORY	溫泉蛋:N	
+不得不:ADV	說:Vt	他們:N	的:T	炸:Nv	真的:ADV	好吃:Vi	的:T	沒:ADV	話說:ADV	
+前面:N	有:Vt	提:Vt	過:ASP	
+我:N	非常:ADV	討厭:Vt	粉漿:N	厚重:Vi	、:PAUSECATEGORY	油膩:Vi	到:P	不行:Vi	的:T	
+炸:Vt	物:N	
+但是:C	天吉屋:N	的:T	炸物皮:N	極:ADV	薄:Vi	
+連:C	鴻喜菇菇:N	那:DET	百:DET	顆:M	頭:N	都:ADV	不會:ADV	因為:C	炸:Vt	粉:N	而:C	黏:Vt	在一起:Vi	
+而是:C	
+一一:ADV	包覆:Vt	它:N	每:DET	顆:M	菇菇:N	頭:N	
+這樣:Vi	就:ADV	之:N	到:P	皮:N	有:Vt	多:ADV	薄:Vi	了:T	
+這:DET	完全:ADV	收服:Vt	我:N	這:DET	個:M	討厭:Vt	炸:Vt	物:N	的:T	孩子:N	
+雞肉:N	吃起來:ADV	也:ADV	相當:ADV	鮮嫩:Vi	多汁:Vi	
+就算:C	吃到:Vt	很:ADV	撐:Vi	還是:ADV	硬:ADV	把:P	肉:N	都:ADV	吃完:Vt	了:ASP	
+而且:C	我:N	居然:ADV	把:P	所有:DET	蔬菜:N	
+給:P	吃光光:Vi	
+太:ADV	不可思議:Vi	
+更:ADV	扯:Vt	的:T	是:Vt	我:N	連:C	茄子:N	都:ADV	吃:Vt	了:ASP	
+就是:C	想:Vt	說:Vt	他們:N	東西:N	都:ADV	好吃:Vi	的:T	話:N	茄子:N	應:ADV	
+該:ADV	也:ADV	不:ADV	差:Vi	的:T	心態:N	
+至於:P	溫泉蛋:N	我:N	就:ADV	沒:ADV	特別:Vi	喜好:N	
+就是:C	外面:N	有:Vt	炸:Vt	過:ASP	
+裡面:N	蛋黃:N	半熟:Vi	還:ADV	會:ADV	流:Vt	湯:N	出來:Vi	那:DET	種:M	
+拌:Vt	到:P	飯:N	
+裡:N	增加:Vt	點味:N	而已:T	
+還:ADV	OK:FW	
+整體:N	吃下來:Vi	
+是:Vt	覺得:Vt	烏龍麵:N	算:Vt	普普:N	
+但:C	炸:Vt	物:N	的:T	表現:N	真:ADV	得:ADV	相當:ADV	優秀:Vi	
+因為:C	換:Vt	菜單:N	之前:POST	沒:ADV	吃:Vt	過:ASP	
+無從:ADV	比較:ADV	
+但:C	覺得:Vt	這:DET	次:M	的:T	用餐:Nv	經驗:N	滿:ADV	不錯:Vi	的:T	
+BTW:FW	
+忠孝店:N	平日:N	的:T	服務:Nv	超級:A	好:Vi	
+我:N	只是:ADV	拖:Vt	個:M	一秒:N	打:Vt	不:ADV	開:Vt	味增湯:N	的:T	碗:N	蓋:Vt	
+就:ADV	有:Vt	一:DET	個:M	服務生:N	
+衝過來:Vi	幫:P	我:N	
+也:ADV	會:ADV	隨時:ADV	幫:P	我們:N	好喝:Vi	的:T	牛蒡茶:N	、:PAUSECATEGORY	問:Vt	我們:N	口味:N	合不合:Vt	
+非常:ADV	親切:Vi	

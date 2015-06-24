@@ -1,0 +1,64 @@
+aih:FW	920:DET	(:PARENTHESISCATEGORY	我:N	是:Vt	米開朗基羅:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	忠孝:N	敦化:N	．:PERIODCATEGORY	杏桃:N	鬆餅屋:N	特別:Vi	的:T	抹:Vt	茶:N	漂浮:Vi	
+TueJul:FW	1514:DET	::COLONCATEGORY	49:DET	::COLONCATEGORY	412014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	杏桃:N	鬆餅屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	2月:N	
+地址:N	::COLONCATEGORY	台北市:N	忠孝東路:N	四段:N	216巷:N	19弄:N	16:DET	號:M	近:Vi	忠孝:N	敦化:N	站:Vi	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27712977:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	平日:N	和:C	星期日:N	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	星期五:N	和:C	六:DET	延長至:Vt	23:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	約:ADV	300:DET	，:COMMACATEGORY	可:ADV	刷卡:Vi	，:COMMACATEGORY	接受:Vt	預約:Nv	
+推薦:Vt	菜色:N	：:COLONCATEGORY	各:DET	式:M	鬆餅:N	
+官網:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.uznaomom.com:FW	/:FW	
+
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	alison920.pixnet.net/blog/post:FW	/:FW	371967197:DET	
+之前:N	就:ADV	有:Vt	聽:Vt	朋友:N	說:Vt	杏桃:N	鬆餅屋:N	的:T	蘇芙蕾:N	鬆餅:N	有:Vt	多:DET	入口:N	即:ADV	化:Vt	
+多:ADV	好吃:Vi	
+有:Vt	次:M	經過:Vt	想:Vt	看看:Vt	到底:ADV	有:Vt	多:ADV	厲害:Vi	
+結果:ADV	沒:ADV	預約:Vt	被:P	說:Vt	要:ADV	等:Vt	３:DET	個:M	小時:N	﹒:PERIODCATEGORY	﹒:PERIODCATEGORY	﹒:PERIODCATEGORY	
+只好:ADV	再:ADV	挑:Vt	個:M	日子:N	並且:C	是:Vt	先:ADV	預約:Vt	後:POST	再:ADV	去:ADV	嚐:Vt	鮮:Vi	
+打開:Vt	菜單:N	發現:Vt	好多:DET	東西:N	都:ADV	看起來:ADV	不錯:Vi	
+而且:C	光:ADV	是:Vt	鬆餅:N	就:ADV	有:Vt	好多:DET	種:M	選擇:N	
+不過:C	第一:DET	次:M	來:ADV	當然:ADV	還是:ADV	吃:Vt	招牌:N	的:T	蘇芙蕾:N	鬆餅:N	囉:T	
+走進:Vt	杏桃:N	鬆餅屋:N	
+感覺:Vt	很:ADV	舒適:Vi	
+我:N	喜歡:Vt	他們:N	的:T	裝潢:N	風格:N	
+白:Vi	牆:N	搭配:Vt	木質:N	桌椅:N	
+服務生:N	的:T	制服:N	是:Vt	鴨舌帽:N	加:Vt	格子:N	襯衫:N	
+挺:ADV	可愛:Vi	的:T	
+說:Vt	了:ASP	廢話:N	這麼多:DET	
+終於:ADV	進入:Vt	重點:N	的:T	餐點:N	部分:DET	啦:T	
+我:N	點:Vt	了:ASP	蘇芙蕾:N	鬆餅:N	
+是:Vt	說:Vt	Ｓ:FW	
+單層:A	
+跟:P	Ｗ:FW	
+雙層:A	
+只:ADV	價差:N	３０:DET	元:M	
+當然:ADV	是:Vt	點:M	Ｗ:FW	囉:T	
+看起來:ADV	就:ADV	鬆鬆軟軟:Vi	
+入口:N	即:ADV	化:Vi	的:T	感覺:N	
+直接:Vi	吃:Vt	我:N	其實:ADV	就:ADV	覺得:Vt	不錯:Vi	吃:Vt	了:ASP	
+搭配:Vt	蜂蜜:N	和:C	鮮:Vi	奶油:N	也:ADV	是:Vt	別有:Vt	一:DET	番:M	風味:N	囉:T	
+飲料:N	部份:DET	我:N	點:Vt	的:T	是:Vt	
+抹:Vt	茶:N	漂浮:Vi	
+冰:N	
+沒想到:ADV	居然:ADV	是:Vt	分開:Vt	給:Vt	的:T	
+第一:DET	次:M	看到:Vt	這:DET	種:M	漂浮:Vi	的:T	說:Vt	
+然後:ADV	就:ADV	依照:P	自己:N	的:T	濃度:N	喜好:Nv	
+把:P	抹茶:N	緩緩:Vi	加入:Vt	冰淇淋:N	碗:N	中:POST	
+冰淇淋:N	大概:ADV	就:ADV	是:Vt	一般:A	的:T	香草:N	冰淇淋:N	吧:T	
+抹茶:N	倒是:ADV	蠻:ADV	道地:Vi	的:T	
+不會:ADV	太:ADV	苦:Vi	
+友人:N	則:ADV	是:Vt	點:Vt	了:ASP	燻:Vt	鮭魚:N	卡門:N	貝爾:N	起司:N	鬆餅:N	和:C	抹茶:N	拿:Vt	鐵:N	
+熱:Vt	
+味道:N	應該:ADV	還:ADV	不錯:Vi	囉:T	
+友人:N	是:Vt	第二:DET	次:M	點:Vt	了:ASP	
+熱抹茶:N	拿:Vt	鐵:N	的:T	喝:Vt	法:N	就:ADV	完全:ADV	是:Vt	ＤＩＹ:FW	啦:T	
+友人:N	是:Vt	抹茶:N	控:Vt	
+看:Vt	他:N	高興:Vt	的:T	呢:T	
+下:DET	次:M	來:POST	的:T	話:N	想:Vt	點:Vt	其他:DET	的:T	鬆餅:N	系列:N	
+說:Vt	實在:Vi	的:T	
+雙層:A	的:T	蘇芙蕾:N	我:N	吃:Vt	不:ADV	完:Vi	啊:T	
+還是:ADV	要:ADV	跟:P	朋友:N	一起:ADV	分享:Vt	會:ADV	比較:ADV	好:Vi	囉:T	
+題外話:N	
+友人:N	說:Vt	他:N	第一:DET	次:M	點:N	的:T	燻:Nv	鮭魚:N	份量:N	比較:ADV	多:Vi	
+這:DET	次:M	有點:ADV	縮水:Vi	了:T	．．．:ETCCATEGORY	
+大家:N	覺得:Vt	咧:T	

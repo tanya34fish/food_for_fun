@@ -1,0 +1,55 @@
+poltroon:FW	(:PARENTHESISCATEGORY	20:DET	公分:M	的:T	距離:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	欣葉台菜:N	@:FW	信義:N	a:FW	9:DET	
+FriJul:FW	1814:DET	::COLONCATEGORY	08:DET	::COLONCATEGORY	0020142014:DET	/:FW	7:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	vikingbear.pixnet.net/blog/post:FW	/:FW	30209463:DET	
+
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8786:DET	-:DASHCATEGORY	1234:DET	.:PERIODCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	松壽路:N	9:DET	號:M	8樓:N	
+新光三越:N	信義:N	新天地:N	A:FW	9:DET	館:N	8樓:N	
+欣葉台菜:N	個:M	人:N	都:ADV	一直:ADV	很:ADV	喜歡:Vt	
+因為:C	不管:C	到:P	哪:DET	家:M	分店:N	
+都:ADV	是:Vt	很:ADV	媽媽:N	的:T	台味:N	
+每:DET	道:M	菜:N	的:T	滋味:N	吃起來:ADV	也:ADV	都:ADV	很:ADV	細緻:Vi	
+價格:N	當然:ADV	是:Vt	有:Vt	些:M	會:ADV	略:ADV	貴:Vi	點:ADV	
+但是:C	如果:C	點:Vt	的:T	室:N	台式:A	的:T	熱:N	炒:Vt	
+價格:N	還:ADV	算是:Vt	可以:ADV	接受:Vt	啦:T	
+炒:Vt	青菜:N	
+就:ADV	簡單:Vi	跟:P	大蒜:N	拌炒:Vt	
+很:ADV	家常:A	的:T	滋味:N	
+蔭豉蚵:N	也:ADV	算是:Vt	台菜:N	的:T	代表:N	
+這裡:N	用:Vt	的:T	不會:ADV	太:ADV	死:Vi	鹹:Vi	
+給:Vt	的:T	蚵仔:N	也:ADV	都:ADV	很:ADV	新鮮:Vi	
+很:ADV	大一:N	個:T	
+有:Vt	著:ASP	醬汁:N	的:T	映襯:N	之下:POST	
+是:Vt	一:DET	道:M	下:Vt	飯:N	的:T	好:Vi	幫手:N	
+菜圃蛋:N	可以:ADV	說:Vt	是:Vt	店家:N	的:T	招牌:N	
+把:P	菜圃:N	放:Vt	在:P	裡面:N	
+上下:N	兩:DET	菜:N	的:T	厚:Vi	煎:Vt	蛋:N	把:P	它:N	包:Vt	在:P	裡面:N	
+當然:ADV	很:ADV	鹹:Vi	香:Vi	下:Vt	飯:N	
+而且:C	蛋:N	的:T	部分:DET	也:ADV	不:ADV	油膩:Vi	
+潤餅:N	一:DET	份:M	是:Vt	兩:DET	捲:M	
+也:ADV	是:Vt	在:P	上桌:Vi	前:POST	就:ADV	對:P	切好:Vt	
+裡面:N	包:Vt	的:T	餡料:N	也:ADV	真不少:Vi	
+花生粉:N	下:POST	的:T	滿:ADV	重:Vi	的:T	
+算是:Vt	南部:N	那:DET	種:M	偏:ADV	甜:Vi	的:T	口味:N	
+掛包:N	上桌:Vi	的:T	時候:N	會:ADV	幫:P	你:N	切開:Vt	
+算是:Vt	個頭:N	比較:ADV	小:Vi	的:T	那:DET	種:M	
+裡面:N	包:Vt	的:T	滷肉:N	肥瘦:Nv	適中:Vi	
+酸菜:N	跟:P	花生:N	粉包:N	的:T	滿滿:Vi	的:T	
+咬:Vt	在:P	口:N	中:N	滋味:N	挺:ADV	豐富:Vt	
+滷肉:N	可以:ADV	說:Vt	是:Vt	欣葉:N	的:T	招牌:N	
+很:ADV	鹹:Vi	香入味:N	的:T	好吃:Vi	
+肥:Vt	的:T	部分:DET	已經:ADV	沒有:Vt	甚麼:DET	油:N	
+很:ADV	是:Vt	軟:Vi	Q:FW	好吃:Vi	
+瘦:Vi	的:T	部分:DET	也:ADV	不會:ADV	太過:ADV	乾:Vi	柴:N	
+醬汁:N	淋:Vt	在:P	飯:N	上:N	
+更:ADV	是:Vt	配飯:N	的:T	好:Vi	幫手:N	
+鵝肉:N	來:Vi	的:T	是:Vt	小:Vi	份:M	的:T	
+是:Vt	鹽水:N	鵝肉:N	
+吃起來:ADV	還:ADV	挺:ADV	軟:Vi	嫩:Vi	的:T	
+不過:C	還是:ADV	在:P	一般:A	的:T	麵攤:N	吃:Vt	就:ADV	好:Vi	
+在:P	這:DET	吃:Vt	的:T	c/p:FW	值:N	實在:ADV	太:ADV	低:Vi	
+飯:N	後:POST	招待:Vt	的:T	麻糬:N	
+吃起來:ADV	還:ADV	熱:Vt	呼呼:ADV	的:T	
+Q:FW	軟:Vi	配上:Vt	甜滋滋:Vi	的:T	花生粉:N	
+真是:ADV	一:DET	個:M	幸福:Vi	的:T	ending:FW	

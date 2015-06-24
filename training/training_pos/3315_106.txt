@@ -1,0 +1,71 @@
+lotuslin:FW	(:PARENTHESISCATEGORY	佑:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	KayaKayaCafe:FW	忠孝:N	敦化:N	早:Vi	午餐:N	
+TueJul:FW	1500:DET	::COLONCATEGORY	57:DET	::COLONCATEGORY	082014:DET	KayaKayaCafe:FW	
+地址:N	：:COLONCATEGORY	台北市:N	忠孝東路:N	四段:N	216巷:N	19弄:N	6:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8773:DET	-:DASHCATEGORY	7395:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	10:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	
+消費:N	日期:N	：:COLONCATEGORY	2014:DET	/:FW	07:DET	
+網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	lotuslin.pixnet.net/blog/post:FW	/:FW	43681951:DET	
+
+週日:N	早晨:N	起:Vt	了:ASP	個:M	早:Vi	
+與:C	姊妹:N	的:T	約會:N	之前:POST	
+一:DET	個:M	人:N	來到:Vt	稻禾:N	集團:N	新開幕:Vi	的:T	KayaKayaCafe:FW	來:ADV	頓:Vi	最:ADV	愛:Vt	的:T	早:Vi	午餐:N	
+這:DET	間:M	可是:C	這:DET	趟:M	台北行:N	讓:Vt	我:N	最:ADV	喜歡:Vt	的:T	一:DET	餐:M	
+稻禾:N	集團:N	的:T	穗科:N	烏龍:N	麵:N	也:ADV	是:Vt	我:N	的:T	最愛:N	呀:T	
+KayaKayaCafe:FW	店裡:N	人員:N	走:Vi	親切:Vi	服務:Nv	路線:N	
+可能:ADV	因為:C	才:ADV	開幕:Vi	不久:N	
+才:ADV	彎進巷:N	內:N	就:ADV	遇上:Vt	店家:N	在:P	路:N	上:N	宣傳:Vt	拉客:Vi	XD:FW	
+木質系:N	溫暖:Vt	的:T	色調:N	一向:ADV	是:Vt	我:N	的:T	最愛:N	
+半:DET	開放式:A	的:T	廚房:N	
+整潔:Vi	及:C	鮮度:N	一目了然:Vi	
+KayaKayaCafe:FW	主打:Vt	OpenSandwich:FW	日光浴:N	三明治:N	
+以:P	歐式:A	麵包:N	作為:Vt	基底:N	
+再:ADV	搭配上:Vt	新鮮:Vi	蔬果:N	和:C	起:Vt	司:N	
+由:P	同樣:Vi	是:Vt	稻禾:N	集團:N	旗下:N	的:T	一:DET	禾堂:N	提供:Vt	麵包:N	
+KayaKayaCafe:FW	主要:ADV	提供:Vt	早:Vi	午餐:N	輕:Vi	食:N	、:PAUSECATEGORY	咖啡:N	
+三明治:N	、:PAUSECATEGORY	烘:Vt	蛋:N	、:PAUSECATEGORY	捲:Vt	餅:N	、:PAUSECATEGORY	沙拉:N	等等:POST	
+.:PERIODCATEGORY	
+店:N	內:N	提供有:Vt	三:DET	種:M	麵包:N	
+酸:Vi	麵包:N	/:FW	裸麥:N	麵包:N	/:FW	法國:N	長棍:N	
+都:ADV	是:Vt	自家:N	烘培:Vt	由:P	一:DET	禾堂:N	供應:Vt	
+單點:N	均:ADV	附:Vt	一:DET	份:M	奶油:N	
+餐點:N	部分:DET	很:ADV	有:Vt	特色:N	
+但:C	都:ADV	是:Vt	單:A	點:N	價格:N	且:C	單價:N	頗:ADV	高:Vi	
+僅:ADV	平日:N	12:DET	點:M	前:POST	有:Vt	推:Vt	+:FW	$:FW	50:DET	享:Vt	黑:Vi	咖啡:N	/:FW	卡布:N	奇:ADV	諾:FW	/:FW	拿:Vt	鐵:N	/:FW	果汁:N	1:DET	杯:M	的:T	套餐:N	組合:Nv	
+假日:N	的:T	話:N	當天:N	去:ADV	只:ADV	有:Vt	粉絲團:N	按:P	讚:Vt	打卡:Nv	飲品:N	九:DET	折:M	的:T	活動:N	
+當天:N	碰巧:ADV	遇到:Vt	聽見:Vt	幸福:Vi	cafe:FW	的:T	負責人:N	
+好心:Vi	的:T	提供:Vt	了:ASP	我:N	這:DET	道:M	拍照:Nv	-:DASHCATEGORY	百里香:N	滑:Vi	蛋:N	$:FW	200:DET	
+實在:ADV	是:Vt	有夠:ADV	特別:Vi	的:T	巧遇:Vt	
+聽見:Vt	幸福:Vi	cafe:FW	也:ADV	是:Vt	我:N	的:T	下午茶:N	愛店:N	
+延伸:Vi	閱讀:Nv	-:DASHCATEGORY	台北:N	松菸:Vi	誠品:N	聽見:Vt	幸福:Vi	musiKaffee:FW	在:P	音符:N	旋律:N	中:POST	品嚐:Vt	幸福:Vi	午茶:N	
+熱帶:N	水果:N	優格冰沙:N	$:FW	170:DET	
+綜合:A	水果:N	口味:N	的:T	優格冰飲:Vt	
+水果:N	與:C	優格:N	比例:N	抓:Vt	得:T	很:ADV	好:Vi	
+冰沙:N	的:T	質感:N	很:ADV	細緻:Vi	
+有一點點:ADV	果渣:N	
+濃郁:Vi	卻:ADV	依舊:ADV	順口:Vi	
+早晨:N	來:POST	杯:N	優格:N	實在:ADV	是:Vt	很:ADV	健康:Vi	加清:N	腸胃:N	
+可惜:Vi	並:C	沒有:ADV	像:Vt	menu:FW	圖片:N	上:N	有:Vt	著:ASP	高:Vi	質感:N	的:T	木:N	杯墊:N	和:C	莓果:N	裝飾:N	
+總:ADV	覺得:Vt	少:Vi	了:ASP	點:ADV	甚麼:DET	
+煙燻:A	鮭魚:N	滑:Vi	蛋:N	酸:Vi	麵包:N	$:FW	250:DET	
+本來:ADV	一直:ADV	在:P	起:ASP	司烤:Vt	蛋:N	和:C	酪梨:N	水波:N	蛋:N	三明治:N	兩:DET	者:N	抉擇:N	不定:Vi	
+腦筋:N	一:ADV	偏:ADV	就:ADV	點:Vt	了:ASP	這:DET	道:M	煙燻:A	鮭魚:N	滑:Vi	蛋:N	三明治:N	
+第一:DET	次:M	遇到:Vt	圖文:N	不符:Vt	但:C	卻:ADV	是:Vt	實:ADV	品:Vt	比:P	圖:N	更:ADV	厲害:Vi	的:T	狀況:N	
+開放式:A	的:T	三明治:N	底下:N	用:Vt	的:T	是:Vt	四:DET	片:M	切片:N	的:T	酸:Vi	麵包:N	
+自製:Vt	裸麥:N	酸:Vi	麵團:N	製作:Vt	
+吃起來:ADV	口感:N	非常:ADV	非常:ADV	的:T	扎實:Vi	
+外:N	圈:N	酥脆:Vi	香:Vi	
+中間:N	微微:A	的:T	滲透:Vi	進:Vt	沙拉:N	的:T	油醋:N	醬汁:N	卻:ADV	絲毫:DET	不:ADV	影響:Vt	口感:N	
+上:N	鋪滿:Vt	橄欖:N	、:PAUSECATEGORY	小:Vi	番茄:N	等:POST	各:DET	式:M	鮮蔬:N	
+油醋:N	醬汁:N	微:ADV	酸:Vi	開胃:Vi	
+搭配:Vt	軟嫩滑:Vi	蛋:N	及:C	小巧:Vi	的:T	煙燻:A	鮭魚:N	卷:N	
+入口:N	層次:N	很:ADV	豐富:Vt	
+完全:ADV	征服:Vt	我:N	這:DET	個:M	不:ADV	愛:Vt	生菜:N	的:T	人:N	
+清爽:Vi	令:Vt	人:N	驚艷:Vi	
+還:ADV	有:Vt	我:N	一定:ADV	要:ADV	說:Vt	KayaKayaCafe:FW	的:T	滑:Vi	蛋:N	是:Vt	我:N	目前:N	吃:Vt	過:ASP	最:ADV	優秀:Vi	的:T	滑:Vi	蛋:N	啊:T	
+超:Vt	好吃:Vi	不:ADV	解釋:Vt	XD:FW	
+難怪:ADV	隔壁桌:N	一直:ADV	加:Vt	點:M	滑:Vi	蛋:N	
+雖然:C	KayaKayaCafe:FW	的:T	價位:N	真的:ADV	不:ADV	可愛:Vi	
+但:C	默默:ADV	地:T	讓:Vt	我:N	放進:Vt	下:DET	次:M	會:ADV	再:ADV	訪:Vt	的:T	口袋:N	名單:N	裡:N	
+就:ADV	知道:Vt	我:N	有:Vt	多:ADV	喜歡:Vt	這:DET	間:M	的:T	早:Vi	午餐:N	了:T	
+不:ADV	藏私:Vi	推薦:Vt	

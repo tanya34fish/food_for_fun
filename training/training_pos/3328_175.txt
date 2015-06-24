@@ -1,0 +1,44 @@
+cutewen:FW	517:DET	(:PARENTHESISCATEGORY	天天:ADV	要:ADV	開心:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	-:DASHCATEGORY	小:Vi	茅屋:N	-:DASHCATEGORY	台北市:N	十:DET	大:Vi	炒飯:N	第三:DET	
+FriJul:FW	1821:DET	::COLONCATEGORY	37:DET	::COLONCATEGORY	192014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	小:Vi	茅屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	麗水街:N	5:DET	-:DASHCATEGORY	6:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23219435:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	：:COLONCATEGORY	00:DET	～:FW	22:DET	：:COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	周:N	一:DET	公休:Vi	):PARENTHESISCATEGORY	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+網誌:N	圖文版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	cutewen517.pixnet.net/blog/post:FW	/:FW	373765196:DET	
+
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+2013:DET	十:DET	大:Vi	好吃:Vi	炒飯:N	選拔:Vt	第三:DET	
+在:P	口袋:N	名單:N	很:ADV	久:Vi	了:T	
+這:DET	個:M	店:N	非常:ADV	的:T	不起眼:Vi	
+很:ADV	有:Vt	破舊:Vi	歷史:N	感:Vt	呢:T	
+得獎:Vi	前:POST	常:ADV	經過:Vt	
+得獎:Vi	後:POST	天天:ADV	餐餐:DET	都:ADV	超:Vt	多:DET	人:N	的:T	
+店:N	內:N	的:T	價位表:N	
+在:P	永康街:N	這:DET	個:M	地段:N	來:ADV	說:Vt	還:ADV	算:Vt	蠻:ADV	平價:N	的:T	
+其實:ADV	原本:ADV	他:N	有名:Vi	的:T	好像:ADV	是:Vt	這:DET	個:M	
+arrow:FW	_:FW	194:DET	紅:Vi	油:N	炒:Vt	手:N	
+醬料:N	酸辣:N	酸辣:N	的:T	
+真的:ADV	挺:ADV	不錯:Vi	吃:Vt	
+榨菜:N	肉絲麵:N	
+很:ADV	家常:A	
+沒:ADV	特別:Vi	fu:FW	
+肉絲:N	蛋炒飯:N	
+因為:C	是:Vt	現:ADV	炒:Vt	的:T	
+加上:C	現場:N	人:N	很多:DET	
+我們:N	等:Vt	了:ASP	大概:ADV	約:ADV	10:DET	分鐘:M	
+端上來:Vt	的:T	炒飯:N	走:Vi	清淡:Vi	風格:N	
+所以:C	肉絲:N	算是:Vt	炒飯:N	內:N	比較:ADV	重:Vi	口味:N	的:T	
+蛋花:N	散落:Vi	在:P	炒飯:N	上:N	
+是:Vt	我:N	喜歡:Vt	的:T	蛋花:N	樣式:N	
+飯粒:N	偏:ADV	硬:Vi	
+所以:C	十分:ADV	粒粒:DET	分明:Vi	
+且:C	它:N	的:T	餐盤:N	
+是:Vt	小時候:N	家:N	裡:N	曾經:ADV	也:ADV	有用:Vi	的:T	花紋:N	餐盤:N	
+頓時:ADV	增添:Vt	了:ASP	幾:DET	分:M	家常味:N	啦:T	
+但:C	此:DET	商品:N	並:ADV	沒有:ADV	想像:Vt	的:T	驚艷:Nv	
+喜歡:Vt	美食:N	/:FW	/:FW	喜歡:Vt	烘培:Vt	/:FW	/:FW	喜歡:Vt	旅遊:Vi	/:FW	/:FW	喜歡:Vt	與:P	你們:N	分享:Vt	...:ETCCATEGORY	
+歡迎:Vt	按:P	讚:Vi	分享:Vt	生活:N	點滴:N	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/wen:FW	517:DET	

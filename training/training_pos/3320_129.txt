@@ -1,0 +1,51 @@
+Angello:FW	(:PARENTHESISCATEGORY	＊:FW	草莓:N	＊:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	‧:PERIODCATEGORY	N.Y.BagelsCafe:FW	紐約:N	貝果:N	
+WedJul:FW	1616:DET	::COLONCATEGORY	20:DET	::COLONCATEGORY	062014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	N.Y.BagelsCafe:FW	紐約:N	貝果:N	(:PARENTHESISCATEGORY	內湖店:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	4月:N	
+地址:N	：:COLONCATEGORY	台北市:N	內湖路:N	一段:N	306:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2627:DET	-:DASHCATEGORY	2886:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週五:N	09:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+週六:N	至:P	週日:N	08:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ssag.pixnet.net/blog/post:FW	/:FW	41124754:DET	
+
+繼:P	上:DET	次:M	初:POST	訪:Vt	N.Y.Bagels:FW	京站店:N	印象:N	大好:Vi	
+這:DET	次:M	到:Vt	台北:N	又:ADV	想:Vt	再:ADV	吃:Vt	一:DET	次:M	
+京站店:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ssag.pixnet.net/blog/post:FW	/:FW	41124502:DET	
+第二:DET	次:M	造訪:Vt	N.Y.Bagels:FW	來到:Vt	了:ASP	內湖店:N	
+朋友:N	說:Vt	內湖店:N	要:ADV	假日:N	來:ADV	
+人:N	會:ADV	比較:ADV	少:Vi	
+不用:ADV	等:Vt	
+咦:T	
+結果:ADV	我:N	是:Vt	平日:N	去:ADV	
+果然:ADV	一:ADV	到:P	中午:N	人滿為患:Vi	
+還是:ADV	需要:Vt	候位:N	
+這:DET	次:M	看到:Vt	班尼迪克:N	蛋:N	好:ADV	心動:Vi	
+可是:C	他:N	是:Vt	搭配:Vt	比:P	司吉:N	
+我:N	比較:ADV	想要:Vt	吃:Vt	Bagel:FW	
+掙扎:N	猶豫:Vt	了:ASP	一下:N	
+好:Vi	吧:T	
+還是:ADV	放棄:Vt	班尼迪克:N	蛋:N	
+投向:Vt	Bagel:FW	懷抱:N	
+這:DET	次:M	餐點:N	選擇:Vt	了:ASP	一:DET	套:M	現:ADV	炒:Vt	馬鈴薯:N	醃:Vt	牛肉:N	早:Vi	午餐:N	
+CornedBeefBreakfastSet:FW	
+一:DET	份:M	N.Y:FW	.:PERIODCATEGORY	主廚:N	沙拉:N	
+OurNewYorkMixSalad:FW	
+和:C	單:A	點:Vt	一:DET	個:M	肉桂:N	葡萄:N	貝果:N	
+現:ADV	炒:Vt	馬鈴薯:N	醃:Vt	牛肉:N	味道:N	比較:ADV	重:Vi	口味:N	
+個:M	人:N	吃:Vt	不:ADV	太:ADV	習慣:Vt	
+可能:ADV	要:ADV	搭配:Vt	麵包:N	吃:Vt	會:ADV	比較:ADV	好:Vi	
+N.Y:FW	.:PERIODCATEGORY	主廚:N	沙拉:N	由:P	很多:DET	種:M	蔬菜:N	搭配:Vt	葡萄柚:N	橄欖油:N	醋醬:N	
+吃到:Vt	後來:N	覺得:Vt	油醋醬:N	太少:Vi	
+又:ADV	跟:P	服務生:N	討:Vt	了:ASP	一些:DET	
+不過:C	覺得:Vt	這:DET	道:M	的:T	C/P:FW	值:N	較:ADV	低:Vi	
+還是:ADV	上:DET	次:M	的:T	義式:A	生:Vt	火腿:N	水波蛋:N	
+佐藍起司:N	沙拉:N	比較:ADV	好:Vi	
+除非:C	單純:Vi	要:ADV	吃:Vt	大量:DET	蔬菜:N	
+不然:C	不:ADV	推薦:Vt	這:DET	道:M	
+這:DET	次:M	讓:Vt	我:N	最:ADV	滿意:Vt	的:T	還是:C	肉桂:N	葡萄:N	貝果:N	
+因為:C	我:N	超:Vt	愛:N	肉桂:N	味兒:N	
+加熱:Vi	後:POST	的:T	Bagel:FW	味道:N	散發:Vt	一陣陣:DET	的:T	肉桂:N	香氣:N	
+抹上:Vt	EMBORG:FW	奶油:N	
+美味:Vi	程度:N	更:ADV	上:Vt	一:DET	層:M	
+現在:N	想想:Vt	
+當初:N	應該:ADV	點:Vt	班尼迪克:N	蛋:N	然後:ADV	Bagel:FW	外帶:Vt	才:ADV	對:P	

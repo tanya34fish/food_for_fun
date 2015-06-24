@@ -1,0 +1,149 @@
+chuantina:FW	(:PARENTHESISCATEGORY	一:DET	朵:M	小:Vi	桃紅:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	波思:N	若:C	創意:N	料理:N	。:PERIODCATEGORY	高:Vi	CP:FW	值大:N	份量:N	早:ADV	午:N	
+SunJul:FW	2008:DET	::COLONCATEGORY	37:DET	::COLONCATEGORY	322014:DET	圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	379892264:DET	
+
+Pasro:FW	波思:N	若:C	創意:N	料理:N	
+消費:N	日期:N	::COLONCATEGORY	2014年:N	7月:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	22311111:DET	
+店址:N	：:COLONCATEGORY	新:Vi	北市:N	中和區:N	中:N	安街:N	122:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	平日:N	10:DET	：:COLONCATEGORY	00:DET	
+22:DET	：:COLONCATEGORY	00:DET	、:PAUSECATEGORY	假日:N	9:DET	：:COLONCATEGORY	00:DET	
+22:DET	：:COLONCATEGORY	00:DET	
+一:DET	日:M	之:T	計:N	在於:Vt	晨:N	
+大:Vi	份量:N	的:T	精緻:Vi	早:Vi	午餐:N	
+光:ADV	是:Vt	視覺:N	效果:N	就:ADV	給:Vt	人:N	元氣:N	滿滿:Vi	的:T	感覺:N	
+高:Vi	CP:FW	值:N	又:ADV	不:ADV	收:Vt	服務費:N	
+連:C	附贈:Vt	的:T	飲料:N	也:ADV	不:ADV	馬虎:Vi	地:T	擁有:Vt	絕佳:Vi	滋味:N	呦:b	
+其實:ADV	中和:Vi	並:ADV	不:ADV	是:Vt	我:N	常:ADV	出沒:Vi	的:T	地點:N	
+雖然:C	現在:N	捷運:N	非常:ADV	方便:Vi	
+可是:C	我:N	居住:Vi	的:T	地點:N	要:ADV	到:Vt	中和:Vi	可是:C	得:ADV	繞:Vi	上好:A	大一:N	圈:N	
+所以:C	平常:N	幾乎:ADV	很少:ADV	在:P	這兒:N	走:Vi	跳:Vi	
+不過:C	今天:N	為了:P	這:DET	間:M	收納:Nv	在:P	口袋:N	名單:N	已:ADV	久:Vi	的:T	早:Vi	午餐:N	
+我們:N	還是:ADV	起:Vt	了:ASP	個:M	大早:N	
+準備:Vt	前往:Vt	一:DET	嚐:Vt	期待:Nv	中:POST	的:T	悠閒:Vi	假日:N	Brunch:FW	：:COLONCATEGORY	
+這:DET	間:M	位於:Vt	永安:N	市場:N	捷運站:N	附近:N	的:T	波思:N	若:C	
+粉紅色:N	的:T	扛棒:N	既:C	搶眼:Vi	又:ADV	鮮豔:Vi	
+外觀:N	設計:N	若:C	說:Vt	它:N	是:Vt	間:M	早:Vi	午餐店:N	
+還不如:C	說:Vt	是:Vt	間:N	專賣:Vt	輕:Vi	食:N	、:PAUSECATEGORY	義大利麵:N	的:T	餐廳:N	比較:ADV	貼切:Vi	呢:T	
+還好:ADV	我們:N	早早:ADV	就:ADV	已經:ADV	先:ADV	訂位:Vi	
+因為:C	它:N	的:T	人氣:N	可是:C	比:P	我們:N	想像:Vt	中:POST	的:T	還要:ADV	高:Vi	呦:b	
+別:ADV	看:Vt	好像:ADV	沒:ADV	坐滿:Vt	
+其實:ADV	空桌:N	都:ADV	是:Vt	被:P	客人:N	預定:Vt	啦:T	
+寬闊:Vi	空間:N	投:Vt	以:P	鵝:N	黃色:N	燈光:N	
+明亮:Vi	而:C	帶有:Vt	溫馨感:N	
+牆:N	上:N	巧思:N	地:T	利用:Nv	掛畫:N	裝飾:N	
+簡單:Vi	乾淨:Vi	
+為:P	整體:N	空間:N	注入:Vt	一:DET	股:M	含蓄:Vi	的:T	點綴:Nv	
+我:N	喜歡:Vt	倚:P	窗:N	的:T	座位:N	
+感受:Vt	它:N	潔亮:N	的:T	採光:N	就:ADV	能:ADV	讓:Vt	人:N	擁有:Vt	好:Vi	心情:N	&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+菜單:N	
+點:Vt	圖:N	可:ADV	放大:Vt	
+每:DET	人:N	低:Vi	消:Vt	80:DET	元:M	
+餐點:N	提供:Vt	早:Vi	午餐:N	、:PAUSECATEGORY	pizza:FW	、:PAUSECATEGORY	義大利麵:N	、:PAUSECATEGORY	排餐:N	、:PAUSECATEGORY	燉:Vt	飯:N	、:PAUSECATEGORY	焗烤:Vt	、:PAUSECATEGORY	鬆餅:N	及:C	飲品:N	
+在:P	種類:N	的:T	選擇:N	中:POST	可以:ADV	稱得上:Vt	相當:ADV	豐富:Vt	
+而且:C	它們:N	家:N	的:T	菜單:N	做:Vt	得:T	好:ADV	精緻:Vi	呦:b	
+設計成:Vt	報紙:N	版面:N	
+文圖:N	並:ADV	茂:Vi	的:T	模樣:N	
+光:ADV	看:Vt	圖:N	就:ADV	讓:Vt	人:N	每:DET	種:M	都:ADV	想:Vt	嚐嚐:Vt	看:Vt	：:COLONCATEGORY	
+桌:N	上:N	備有:Vt	辣椒粉:N	、:PAUSECATEGORY	芥末醬:N	、:PAUSECATEGORY	胡椒粉:N	及:C	鹽巴:N	供:Vt	客人:N	們:N	佐料:N	調味:Vi	
+因為:C	並:ADV	不:ADV	是:Vt	每:DET	桌:M	都:ADV	有:Vt	蕃茄醬:N	
+需要:Vt	的:T	朋友:N	再:ADV	跟:P	服務:Nv	人員:N	索取:Vt	就:ADV	可以:ADV	了:T	
+早:Vi	午餐:N	每:DET	套:M	皆:ADV	附:Vt	一:DET	杯:M	飲料:N	
+不要:ADV	以為:Vt	是:Vt	隨:P	餐:N	附送:Vt	就:ADV	小看:Vt	它:N	
+其實:ADV	它:N	的:T	滋味:N	可是:C	相當:ADV	不錯:Vi	的:T	呢:T	
+像:P	我:N	點:Vt	的:T	蘋果汁:N	
+雖:C	非:ADV	現:ADV	打:Vt	
+但:C	恰到好處:Vi	的:T	甜度:N	喝:Vt	來:ADV	十分:ADV	順口:Vi	
+而且:C	也:ADV	不會:ADV	讓:Vt	人:N	覺得:Vt	有:Vt	人工:N	的:T	不:ADV	自然:ADV	感:Vt	
+小牛:N	才:ADV	喝:Vt	它:N	的:T	奶茶:N	一口:ADV	
+就:ADV	說:Vt	
+這:DET	是:Vt	好喝:Vi	的:T	飲料:N	XD:FW	
+法式:A	吐司:N	早:Vi	午餐:N	
+NT:FW	.:PERIODCATEGORY	239:DET	
+這:DET	道:M	可以:ADV	說:Vt	是:Vt	波:M	思:Vt	若:Vt	的:T	人氣:N	招牌:N	
+放眼:Vt	放:Vt	過去:N	
+幾乎:ADV	每:DET	桌:M	都:ADV	可以:ADV	看到:Vt	它:N	的:T	身影:N	
+其實:ADV	我:N	一:DET	度:M	在:P	猶豫:Vt	到底:ADV	要不要:ADV	點:Vt	它:N	
+因為:C	大:Vi	份:M	到:P	感覺:N	有點:ADV	吃:Vt	不:ADV	完:Vi	
+結果:ADV	鄰桌:N	客人:N	大概:ADV	聽到:Vt	我:N	在:P	碎碎:Vi	念:Vt	
+整:DET	個:M	大嬸:N	魂:N	現形:Vi	XD:FW	
+突然:ADV	補:Vt	一:DET	句:M	說:Vt	：:COLONCATEGORY	它們:N	家:N	的:T	法式:A	吐司:N	很:ADV	好吃:Vi	呦:b	
+好:Vi	吧:T	
+只:ADV	能:ADV	說:Vt	我:N	的:T	耳朵:N	非常:ADV	軟:Vi	
+立馬:N	就:ADV	跟:P	服務:Nv	人員:N	說:Vt	
+就:ADV	它:N	啦:T	
+遮臉:Vi	
+餐點:N	一:ADV	端上:Vt	桌:N	
+完全:ADV	被:P	這:DET	四:DET	大:Vi	塊:M	吐司:N	給:Vt	驚嚇:Vt	到:P	
+我:N	跟:P	小牛:N	說:Vt	
+真的:ADV	會:ADV	吃:Vt	不:ADV	完:Vt	了:ASP	啦:T	
+不過:C	淋上:Vt	蜂蜜:N	及:C	細白:Vi	砂糖:N	的:T	模樣:N	
+依稀:ADV	發亮:Vi	的:T	模樣:N	還是:ADV	讓:Vt	人心:N	癢癢:Vi	：:COLONCATEGORY	
+吐司:N	沾上:Vt	滿滿:Vi	蛋:N	液:N	
+吃:Vt	來:ADV	濕潤:Vi	且:C	有:Vt	蜂蜜:N	的:T	甜美:Vi	滋味:N	
+口感:N	富含:Vt	咀嚼:Vt	
+愈:ADV	咬:Vt	愈:ADV	能:ADV	感受:Vt	麵香:N	在:P	嘴:N	裡:N	綻放:Vt	
+照:P	一般:A	女生:N	的:T	食量:N	其實:ADV	是:Vt	吃:Vt	不:ADV	太:ADV	完:Vi	的:T	
+我:N	想:Vt	大食:Vt	怪:Vi	應該:ADV	也:ADV	可以:ADV	很:ADV	有:Vt	飽足:Vi	感:Vt	：:COLONCATEGORY	
+淋:Vt	上千:DET	島:N	醬:N	的:T	沙拉:N	表現:N	還:ADV	OK:FW	
+食材:N	是:Vt	比較:ADV	常見:Vi	的:T	生菜:N	沙拉:N	種類:N	
+炒蛋:N	軟嫩:Vi	而:C	帶有:Vt	淡淡:Vi	奶油:N	香:Vi	
+那:DET	種:M	要:ADV	熟:Vi	不:ADV	熟:Vi	的:T	蛋白:N	吃起來:ADV	最:ADV	過癮:Vi	囉:T	
+其它:DET	的:T	食材:N	還:ADV	包括:Vt	花椰菜:N	炒:Vt	嫩雞:N	、:PAUSECATEGORY	熱狗:N	、:PAUSECATEGORY	薯條:N	
+滿滿:Vi	一:DET	份:M	整:DET	個:M	可以:ADV	吃:Vt	得:T	超:Vt	滿足:Vt	
+熱狗:N	如果:C	可以:ADV	換成:Vt	德國:N	香腸:N	不:ADV	知道:Vt	該:DET	有:Vt	多:ADV	好:Vi	
+是:Vt	說:Vt	我:N	這:DET	個:M	人:N	真的:ADV	要求:Vt	很多:DET	XD:FW	
+輕:Vi	食披蕯早:N	午餐:N	
+NT:FW	.:PERIODCATEGORY	239:DET	元:M	
+DM:FW	上:N	的:T	PIZZA:FW	照片:N	本來:ADV	是:Vt	方型:N	的:T	
+可是:C	送來:Vt	卻:ADV	變成:Vt	圓型:N	
+其它:DET	食材:N	種類:N	都:ADV	一樣:Vi	
+薯條:N	、:PAUSECATEGORY	水果:N	、:PAUSECATEGORY	沙拉:N	及:C	炒:Vt	花椰菜:N	
+可能:ADV	因為:C	那:DET	塊:M	PIZZA:FW	實在:ADV	太:ADV	碩大:Vi	
+滿滿:Vi	一:DET	份:M	看起來:ADV	比:P	法式:A	吐司:N	還:ADV	豐盛:Vi	呀:T	
+食材:N	加入:Vt	鳳梨:N	及:C	火腿:N	
+滋味:N	跟:P	夏威宜:N	PIZZA:FW	十分:ADV	雷同:Vi	
+表現:Vt	中規中矩:Vi	
+其實:ADV	我:N	覺得:Vt	它:N	還:ADV	蠻:ADV	像:Vt	拿:Vt	坡里:N	PIZZA:FW	表現出:Vt	來:Vi	的:T	味道:N	說:Vt	
+餅皮:N	外圍:N	烤:Vt	得:T	微焦:N	而:C	帶有:Vt	酥脆感:N	
+因為:C	厚度:N	還:ADV	挺:ADV	紮實:Vi	的:T	
+吃完:Vt	真的:ADV	超級:A	飽:Vi	的:T	
+在:P	臉:N	書:N	打卡:Vi	時:POST	完全:ADV	沒有:Vt	其它:DET	形容詞:N	
+腦海:N	中:N	只有:ADV	好:ADV	飽:Vi	兩:DET	個:M	字:N	XD:FW	
+以:P	份量:N	來:ADV	說:Vt	
+早:ADV	午餐:Vi	239:DET	大洋:N	又:ADV	不:ADV	收:Vt	服務費:N	
+CP:FW	值:N	高:Vi	得:T	讓:Vt	人:N	很:ADV	滿意:Vt	
+尤其:ADV	飲料:N	部份:DET	也:ADV	可以:ADV	稱得上:Vt	好喝:Vi	呦:b	
+也許:ADV	是:Vt	因為:C	生意:N	太:ADV	好:Vi	
+缺點:N	就是:C	出餐:N	速度:N	還:ADV	挺:ADV	慢:Vi	的:T	
+還好:ADV	服務:Vt	人員:N	態度:N	不錯:Vi	
+反應:N	時:POST	也:ADV	有:Vt	認真:Vi	幫:P	我們:N	問:Vt	廚房:N	
+整體:N	來:ADV	說:Vt	
+算是:Vt	間:N	值得:Vi	推薦:Vt	的:T	餐廳:N	：:COLONCATEGORY	
+延伸:Vi	閱讀:Vt	
+N.Y.BAGELSCAFE:FW	
+賣:Vt	相比:Vi	滋味:N	更:ADV	出色:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	80381416:DET	
+精靈:N	咖啡館:N	
+盡情:ADV	享用:Vt	擁有:Vt	濃濃:Vi	南非:N	風味:N	的:T	早:Vi	午餐:N	吧:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	80382286:DET	
+ChieeCafe:FW	趣:N	咖啡:N	
+充滿:Vt	藝文:A	氣息:N	的:T	音樂:N	餐廳:N	
+藏:Vt	著:ASP	豐富:Vt	精緻:Vi	的:T	Brunch:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	104176210:DET	
+TuttiCafe:FW	圖:N	比:P	咖啡:N	
+大:Vi	份量:N	兼具:Vt	飽足感:N	的:T	澎派:N	早:Vi	午餐:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	251653640:DET	
+豐滿:Vi	咖啡:N	總匯:N	三明治:N	
+超:Vt	有:Vt	飽足感:N	的:T	澎派:N	早:Vi	午餐:N	
+新店:N	開張:Vi	又:C	一:DET	發:M	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	266398910:DET	
+ToastChat:FW	
+幸福感:N	滿滿:Vi	的:T	夢幻:N	法式:A	吐司:N	
+跟:P	貓咪:N	共餐:N	的:T	美好:Vi	時光:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	359461070:DET	
+C:FW	25:DET	度:M	咖啡廳:N	
+巷弄:N	內:N	的:T	人氣:N	早:Vi	午餐:N	
+連:C	藝人:N	也:ADV	瘋狂:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	365034722:DET	

@@ -1,0 +1,226 @@
+babycarp:FW	(:PARENTHESISCATEGORY	小魚:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	SUKIYA:FW	す:FW	き:FW	家:N	日本:N	超人:N	氣牛:N	丼:b	
+TueJul:FW	1523:DET	::COLONCATEGORY	18:DET	::COLONCATEGORY	112014:DET	店名:N	：:COLONCATEGORY	す:FW	き:FW	家:M	SUKIYA:FW	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	二段:N	50:DET	號:M	(:PARENTHESISCATEGORY	捷運:N	古亭站:N	旁:N	7:DET	號:M	出口:Nv	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2358:DET	-:DASHCATEGORY	4169:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	07:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	00:DET	
+（:PARENTHESISCATEGORY	預計:Vt	10月:N	中:N	後:POST	開始:Vt	24:DET	小時:M	營業:Nv	）:PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	.:PERIODCATEGORY	7.11:DET	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.acarpblog.com/2014/07/blogger-sukiya.html:FW	
+
+日本:N	三:DET	大:Vi	連鎖:A	品牌:N	之:T	一:DET	的:T	す:FW	き:FW	家:N	來:Vi	台:N	展店:N	
+引起:Vt	一:DET	股:M	新:Vi	的:T	排隊:Nv	風潮:N	
+某天:N	中午:N	也:ADV	拉:Vt	著:ASP	不:ADV	怕:Vt	
+辛苦:Vt	不:ADV	怕:Vt	累:Vt	的:T	某:DET	友人:N	陪:Vt	我:N	去:ADV	朝聖:Vi	
+奉勸:Vt	大家:N	要:ADV	來:ADV	吃:Vt	的:T	話:N	還是:ADV	避開:Vt	用餐:Nv	尖峰:A	時間:N	吧:T	
+不然:C	這:DET	
+種:Vt	天氣:N	排隊:Vi	真的:ADV	很:ADV	要命:Vi	...:ETCCATEGORY	
+す:FW	き:FW	家:M	SUKIYA:FW	就:ADV	在:P	捷運:N	古亭:N	站:Vi	7:DET	號:M	出口:N	前面:N	
+又:ADV	是:Vt	一:DET	家:M	新:Vi	的:T	捷運站:N	美食:N	
+和平東路:N	和:C	羅斯:N	
+福路:N	交叉口:N	
+紅色:N	的:T	招牌:N	很:ADV	明顯:Vi	
+還:ADV	沒:Vt	過:ASP	馬路:N	就:ADV	看到:Vt	長長:Vi	的:T	排隊:Nv	人龍:N	很:ADV	著急:Vi	阿:N	
+就:ADV	先:ADV	下車:Vi	
+去:ADV	排隊:Vi	了:ASP	
+等:POST	友人:N	停好:Vt	車:N	再:ADV	來:ADV	找:Vt	我:N	
+看到:Vt	這:DET	排隊:Nv	人潮:N	真的:ADV	覺得:Vt	很:ADV	不妙:Vi	
+分成:Vt	兩:DET	排:M	
+還:ADV	不:ADV	乏:Vt	頭髮:N	斑白:Vi	的:T	爺爺:N	奶奶:N	XDD:FW	
+很:ADV	有:Vt	精神:N	
+阿:N	大家:N	....:ETCCATEGORY	
+問:Vt	了:ASP	隊伍:N	最:ADV	後面:N	的:T	人:N	說:Vt	":FW	這:DET	排:M	是:Vt	外帶:Vt	還:ADV	內:N	用:Vt	的:T	
+”:FW	他:N	竟然:ADV	說不清:Vt	楚:N	@:FW	.:PERIODCATEGORY	@:FW	”:FW	
+我:N	
+心:N	裡:N	os:FW	”:FW	挖:Vt	靠:P	
+不:ADV	知道:Vt	還:ADV	排:Vt	那麼:ADV	開心:Vi	”:FW	
+還好:Vi	和:C	友人:N	一起:ADV	排隊:Vi	
+這樣:Vi	可以:ADV	一:DET	個:M	人:N	先:ADV	排:Vt	著:ASP	
+另:DET	一:DET	個:M	人:N	去:Vt	前面:N	看看:Vt	狀況:N	
+好:Vi	的:T	
+搞清楚:Vt	之後:POST	確定:Vt	左邊:N	那:DET	排:M	是:Vt	外帶:Vt	
+右邊:N	那:DET	排:M	是:Vt	內用:N	
+前面:N	排隊:Vi	的:T	人:N	真的:ADV	很:ADV	不:ADV	可靠:Vi	
+耶:T	
+攤手:N	
+這天:N	中午:N	很:ADV	詭異:Vi	
+大:Vi	熱天:N	的:T	竟然:ADV	外帶:Vt	的:T	隊伍:N	比:P	內:N	用:Vt	的:T	還要:ADV	多:Vi	
+而且:C	儘管:C	外帶:Vt	
+有:Vt	限制:N	一:DET	人:N	只:ADV	能:ADV	點:Vt	五:DET	碗:M	
+而且:C	不能:ADV	點:Vt	套餐:N	
+但:C	前進:Vi	的:T	速度:N	似乎:ADV	蠻:ADV	慢:Vi	的:T	
+走到:Vt	前面:N	的:T	時候:N	覺得:Vt	大:Vi	熱天:N	的:T	大家:N	都:ADV	排:Vt	得:T	有點:ADV	火氣:N	而且:C	面:N	露:Vt	凶:Vi	光:N	..:ETCCATEGORY	
+然後:ADV	這:DET	棟:M	大樓:N	冷氣:N	會:ADV	滴:Vt	水:N	
+而且:C	是:Vt	滴:Vt	得:T	蠻:ADV	誇張:Vt	的:T	那:DET	種:M	
+好幾:DET	個:M	人:N	走過去:Vi	都:ADV	說:Vt	下雨:Vi	了:ASP	嗎:T	下雨:Vi	
+了:T	嗎:T	
+搞:Vt	到:P	一:DET	整:DET	列:M	在:P	排隊:Vi	的:T	人:N	也:ADV	跟:P	著:ASP	張望:Vi	是:Vt	不:ADV	是:Vt	下雨:Vi	了:ASP	
+那:DET	畫面:N	還:ADV	挺:ADV	好笑:Vi	的:T	XDD:FW	
+門口:N	的:T	展示櫃:N	裡面:N	就:ADV	像:P	一些:DET	日式:A	食堂:N	會:ADV	擺:Vt	的:T	模型:N	
+做:Vt	得:T	跟:P	真的:ADV	一樣:Vi	
+展示:Vt	櫃:N	上面:N	有:Vt	放:Vt	著:ASP	兩:DET	壺:M	茶水:N	
+微溫微:N	涼:Vi	的:T	
+可能:ADV	來不及:ADV	冰:Vt	吧:T	
+天氣:N	熱:Vt	容易:Vi	口渴:Vi	
+所以:C	換:Vt	
+了:Vt	一:DET	壺:M	又:ADV	一:DET	壺:M	
+這:DET	是:Vt	可以:ADV	自己:N	倒:ADV	來:ADV	喝:Vt	的:T	
+我:N	想:Vt	店員:N	應該:ADV	也:ADV	沒空:Vi	一:DET	個:M	一:DET	個:M	倒:ADV	給:Vt	你:N	喝:Vt	
+還:ADV	有:Vt	每:DET	種:M	份量:N	的:T	碗:N	也:ADV	都:ADV	很:ADV	清楚:Vi	擺:Vt	在:P	上面:N	
+這:DET	碗:M	真的:ADV	很:ADV	漂亮:Vi	耶:T	
+充滿:Vt	了:ASP	童話:N	風:N	
+過:Vt	了:ASP	將近:ADV	半:DET	小時:N	
+終於:ADV	前進:Vi	到:Vt	門口:N	了:T	
+感動:Vt	ing:FW	
+這:DET	時候:N	就:ADV	先:ADV	來:ADV	翻翻:Vt	菜單:N	
+進去:Vi	後:POST	就:ADV	可以:ADV	直接:Vi	點:ADV	了:T	
+比較:ADV	省時:Vi	
+可能:ADV	是:Vt	新開幕:Vi	的:T	緣故:N	
+很多:DET	樣:M	餐點:N	還:ADV	都:ADV	沒有:ADV	供應:Vt	
+少:Vi	了:ASP	很多:DET	選項:N	
+想:Vt	吃:Vt	雞肉:N	丼:b	的:T	朋友:N	要:ADV	
+失望:Vi	了:T	
+若是:C	不:ADV	吃:Vt	牛:N	的:T	話:N	
+也:ADV	只有:ADV	特製:Vt	咖哩:N	和:C	可樂餅:N	咖哩:N	可以:ADV	選擇:Vt	
+這:DET	又:ADV	讓:Vt	我:N	想到:Vt	最近:N	某:DET	
+個:M	親子:N	丼:b	是:Vt	豬肉:N	+:FW	海鮮:N	的:T	事件:N	XDDD:FW	
+每:DET	種:M	size:FW	的:T	分量:N	都:ADV	寫:Vt	得:T	很:ADV	清楚:Vi	
+像:P	超值:Vi	碗:N	就:ADV	是:Vt	牛肉:N	1.3:DET	倍:N	..:ETCCATEGORY	嗯:T	
+這樣:Vi	的:T	意思:N	是:Vt	只有:C	牛肉:N	變:Vi	多:Vi	
+飯:N	沒有:ADV	變:Vi	多:Vi	吧:T	是:Vt	這樣:Vi	齁:b	
+咖哩:N	也:ADV	有:Vt	分:M	喔:T	
+不過:C	我們:N	這:DET	次:M	都:ADV	沒有:Vt	點:DET	咖哩:N	
+只好:ADV	之:T	後:N	有:Vt	機會:N	再:ADV	吃:Vt	的:T	話:N	才:ADV	知道:Vt	了:ASP	
+如果:C	覺得:Vt	不:ADV	夠:ADV	飽:Vi	
+有:Vt	單品:N	的:T	部分:DET	可以:ADV	加:Vt	點:M	
+外帶:Vt	的:T	價格:N	和:C	內:N	用:Vt	是:Vt	一樣:Vi	的:T	
+終於:ADV	看到:Vt	門口:N	了:T	
+可是:C	都:ADV	已經:ADV	站:Vi	在:P	門口:N	等:Vt	了:ASP	
+卻:ADV	還是:ADV	吹:Vt	不:ADV	到:Vt	冷氣:N	
+站:Vi	在:P	外面:N	真:ADV	有夠:ADV	熱:Vt	的:T	
+排:Vt	我們:N	前面:N	的:T	是:Vt	三:DET	個:M	男生:N	
+店員:N	問:Vt	說:Vt	你們:N	介意:Vt	分開:Vt	坐:Vi	嗎:T	
+他們:N	居然:ADV	說:Vt	不:ADV	介意:Vt	
+然後:ADV	就:ADV	
+分成:Vt	2:DET	個:M	和:C	1:DET	個:M	進去:Vi	了:ASP	
+為了:P	能:ADV	快點:ADV	吃到:Vt	牛:N	丼:b	
+感情:N	變:Vi	這麼:ADV	不:ADV	好:Vi	啊:T	XDDD:FW	
+重點:N	是:Vt	接下來:ADV	要:ADV	輪:Vt	
+到:P	我們:N	兩:DET	個:M	人:N	的:T	時候:N	又:ADV	等:Vt	了:ASP	快:Vi	五:DET	分鐘:M	Q_Q:FW	
+深深:Vi	覺得:Vt	都:ADV	是:Vt	他們:N	害:Vt	的:T	....:ETCCATEGORY	怨念:N	ing:FW	
+櫃台:N	前面:N	的:T	兩:DET	邊:N	吧台:N	座位:N	
+比較:ADV	適合:Vi	單人:N	用餐:Vi	
+我們:N	就:ADV	被:P	安排:Vt	到:P	裡面:N	的:T	四:DET	人:N	桌:N	
+因為:C	排隊:Vi	人潮:N	沒有:ADV	減少:Vt	過:ASP	
+所以:C	一直:ADV	都:ADV	是:Vt	與:P	人併桌:N	的:T	狀況:N	
+桌:N	上:N	有:Vt	服務:Nv	鈴:N	
+我們:N	是:Vt	沒有:ADV	試:Vt	著:ASP	按:Vt	看看:ASP	
+因為:C	已經:ADV	決定好:Vt	要:ADV	吃:Vt	甚麼:DET	
+所以:C	服務生:N	一帶:N	我:N	
+們:N	入座:Vi	之後:POST	就:ADV	直接:Vi	點:M	餐:N	了:T	
+到:P	SUKIYA:FW	當然:ADV	要點:N	牛丼:N	囉:T	
+是:Vt	說:Vt	除了:P	咖哩:N	之外:POST	好像:ADV	也:ADV	只有:C	牛丼:N	可以:ADV	點:Vt	XDD:FW	
+看起來:ADV	是:Vt	用:P	手機:N	
+點餐:N	耶:T	
+好:ADV	酷:Vi	
+店裡:N	提供:Vt	的:T	是:Vt	冰茶:N	
+為什麼:ADV	在:P	外面:N	排隊:Vi	的:T	時候:N	沒有:Vt	阿:N	Q_Q:FW	
+我:N	知道:Vt	了:ASP	
+一定:ADV	是:Vt	怕:Vt	大家:N	在:P	
+外面:N	熱:Vt	呼呼:ADV	的:T	又:ADV	喝:Vt	冰水:N	會:ADV	中暑:Vi	
+所以:C	才:ADV	貼心:Vi	準備:Vt	了:ASP	溫涼:N	的:T	茶水:N	XDD:FW	
+紅薑:N	和:C	七:DET	味:M	粉:N	
+七:DET	味:M	粉:N	是:Vt	用:P	醬油:N	罐裝:A	耶:T	
+好:ADV	特別:Vi	
+但是:C	.....:ETCCATEGORY	不:ADV	太:ADV	好:Vi	倒:ADV	
+”:FW	
+之前:N	就:ADV	聽說:Vt	SUKIYA:FW	送:Vt	餐:N	很:ADV	迅速:Vi	
+果然:ADV	
+點完:Vt	餐:N	不:ADV	到:Vt	五:DET	分鐘:M	套餐:N	就:ADV	上桌:Vi	了:ASP	
+還:ADV	以:P	為:P	人:N	這麼多:DET	
+他們:N	會:ADV	應付不來:Vt	呢:T	
+這:DET	點:M	要:ADV	給:Vt	他們:N	拍拍手:Vi	
+這:DET	是:Vt	泡菜:N	牛丼:N	
+中碗:N	
+NT:FW	.:PERIODCATEGORY	99:DET	
+加:Vt	30:DET	元:M	有:Vt	空心菜:N	和:C	味噌湯:N	
+空心菜:N	加:Vt	了:ASP	很多:DET	蒜末:N	
+很:ADV	香:Vi	
+別:DET	桌:M	點:N	的:T	燙:Vt	青菜:N	看起來:ADV	比較:ADV	鮮:Vi	綠:Vi	好吃:Vi	
+很:ADV	想:Vt	問:Vt	能不能:ADV	借來:Vt	
+拍照:Vi	
+可惜:Vi	俗辣:N	遲遲:ADV	不:ADV	敢:Vt	開口:Vi	&:FW	gt:FW	
+/:FW	/:FW	/:FW	/:FW	/:FW	&:FW	lt:FW	
+牛肉:N	、:PAUSECATEGORY	洋蔥:N	、:PAUSECATEGORY	泡菜:N	的:T	組合:Nv	
+看起來:ADV	就:ADV	相當:ADV	誘人:Vi	
+泡菜:N	給:Vt	得:T	蠻:ADV	多:Vi	的:T	
+口味:N	不錯:Vi	
+有點兒:ADV	辣:Vi	且:C	不會:ADV	太:ADV	鹹:Vi	
+喜歡:Vt	它們:N	家:N	的:T	碗兒:N	
+蔥溫玉牛:N	丼:b	
+中碗:N	
+NT:FW	.:PERIODCATEGORY	99:DET	
+加:Vt	50:DET	元:M	有:Vt	可樂餅:N	+:FW	味噌湯:N	
+可樂餅:N	有:Vt	兩:DET	個:M	真:ADV	不錯:Vi	
+但是:C	炸:Vt	得:T	有點:ADV	過:ASP	頭:N	了:T	
+麵衣偏:Vi	黑:Vi	偏:ADV	硬:Vi	了:T	
+內:N	餡:N	是:Vt	綿密:Vi	的:T	馬鈴薯:N	泥:N	
+很:ADV	香:Vi	很:ADV	可口:Vi	
+但:C	仍然:ADV	比不上:Vt	我:N	心目中:N	第一:DET	好吃:Vi	的:T	楓:N	食堂:N	可樂餅:N	
+蔥溫玉牛:N	丼:b	
+嗯:T	....:ETCCATEGORY	蛋:N	呢:T	
+原來:ADV	是:Vt	另外:C	擺:Vt	的:T	
+看到:Vt	一:DET	顆:M	白:Vi	呼呼:ADV	的:T	蛋:N	
+還:ADV	真:ADV	不:ADV	知道:Vt	該:ADV	如何:ADV	打下去:Vi	...:ETCCATEGORY	欸:T	
+阿:N	不:ADV	就:ADV	打:Vt	蛋:N	咩:ADV	
+有:Vt	那麼:ADV	困難:Vi	嗎:T	
+只:ADV	是:Vt	我:N	沒想到:ADV	是:Vt	要:ADV	自己:N	破:Vt	殼:N	的:T	阿:N	
+還:ADV	一直:ADV	很:ADV	疑惑:Vi	地:T	問:Vt	店員:N	說:Vt	
+這:DET	裡面:N	是:Vt	熟:Vi	的:T	齁:b	
+店員:N	說:Vt	
+是:Vt	半熟:Vi	的:T	阿:N	
+反正:ADV	就:ADV	敲開:Vt	勇敢:Vi	打下去:Vi	吧:T	
+店員:N	還:ADV	看:Vt	著:ASP	我:N	打:Vt	完蛋:Vi	才:ADV	離開:Vt	
+早:ADV	知道:Vt	就:ADV	讓:Vt	專業:Vi	的:T	來:ADV	
+我:N	還:ADV	可:ADV	
+以:P	拍:Vt	她:N	美麗:Vi	的:T	手:N	XDD:FW	
+果然:ADV	是:Vt	半熟:Vi	蛋:N	呢:T	
+最:ADV	喜歡:Vt	看:Vt	這:DET	種:M	金黃色:N	的:T	汁液:N	爆漿:N	的:T	畫面:N	了:T	
+呵呵:ADV	
+打:Vt	蛋:N	之前:POST	注意到:Vt	蛋殼:N	上:N	有:Vt	CAS:FW	之類:POST	的:T	認證:Nv	標章:N	
+所以:C	安全:Vi	無虞:Vi	啦:T	
+醬汁:N	濃:Vi	滑:Vi	
+蛋:N	液:N	傾瀉:Vi	
+拌:Vt	在一起:Vi	吃:Vt	真:ADV	有:Vt	一:DET	種:M	幸福感:N	
+嘿嘿:ADV	
+我:N	抄:Vt	了:ASP	某人:N	的:T	形容詞:N	哩:T	::COLONCATEGORY	p:FW	
+牛肉:N	薄:Vi	卻:ADV	不:ADV	柴:N	
+沾:Vt	了:ASP	蛋:N	汁:N	之後:POST	和:C	蔥花:N	一起:ADV	入口:Vi	真:ADV	是:Vt	好吃:Vi	
+加:Vt	一點:DET	紅薑絲:N	試試看:Vt	
+我:N	個:M	人:N	是:Vt	覺得:Vt	沒有:Vt	很:ADV	搭:Vt	啦:T	
+還是:ADV	七:DET	味:M	粉:N	比較:ADV	ok:FW	
+味噌湯:N	是:Vt	大:Vi	片:M	海帶:N	芽:N	和:C	蔥花:N	
+但是:C	喝:Vt	起來:ASP	超:Vt	鹹:Vi	的:T	
+詢問:Vt	店員:N	之後:POST	她:N	回答:Vt	說:Vt	日本:N	的:T	口味:N	就:ADV	是:Vt	
+這樣:Vi	
+沒有:ADV	變更:Vt	過:ASP	喔:T	
+但是:C	我:N	怎麼:ADV	覺得:Vt	喝:Vt	起來:ASP	就是:C	很:ADV	死:Vi	鹹:Vi	的:T	味道:N	阿:N	
+":FW	
+所以:C	除了:P	湯:N	之外:POST	其他:DET	都:ADV	吃光光:Vi	了:ASP	
+有:Vt	種:M	又:ADV	學:Vt	了:ASP	韓劇:N	
+一起:ADV	吃飯:Vi	吧:T	
+的:T	感覺:N	
+結帳:Vi	的:T	店員:N	是:Vt	個:M	帥帥:Vi	的:T	日本人:N	唷:T	
+SUKIYA:FW	是:Vt	不:ADV	加:Vt	服務費:N	的:T	
+而且:C	有:Vt	開發:Nv	票:N	唷:T	
+排隊:Vi	排:Vt	了:ASP	半:DET	個:M	多:POST	小時:N	
+但是:C	吃:Vt	整:DET	個:M	套餐:N	才:ADV	20:DET	分鐘:M	
+突然:ADV	有:Vt	種:M	很:ADV	像:Vt	神經病:N	的:T	感覺:N	XDDD:FW	
+吃:Vt	
+完:Vi	之後:POST	外面:N	的:T	排隊:Nv	人潮:N	還是:ADV	一樣:Vi	多:Vi	
+隔:Vt	一:DET	條:M	街:N	的:T	吳記:N	南京:N	板鴨:N	生意:N	也:ADV	很:ADV	好:Vi	
+但是:C	只:ADV	提供:Vt	外:POST	
+帶:Vt	
+下:DET	次:M	來:ADV	帶:Vt	個:M	便當:N	回去:Vi	吃:Vt	好了:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.acarpblog.com:FW	/:FW	
+只:ADV	是:Vt	一:DET	隻:M	胖嘟嘟:Vi	吉祥物:N	

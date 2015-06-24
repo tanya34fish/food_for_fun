@@ -1,0 +1,74 @@
+danielpowter(daniel:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	松山:N	巷子:N	內:N	詹:N	媽媽:N	餅攤:N	~:FW	古:N	早:Vi	味:N	大勝:Vt	
+TueJul:FW	1521:DET	::COLONCATEGORY	57:DET	::COLONCATEGORY	242014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	台北:N	松山:N	巷子:N	內:N	詹:N	媽媽:N	餅攤:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	南京東路:N	五段:N	123巷:N	6弄:N	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2767:DET	-:DASHCATEGORY	3780:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	06:DET	：:COLONCATEGORY	00:DET	-:DASHCATEGORY	13:DET	：:COLONCATEGORY	00:DET	；:SEMICOLONCATEGORY	15:DET	：:COLONCATEGORY	00:DET	-:DASHCATEGORY	18:DET	：:COLONCATEGORY	30:DET	(:PARENTHESISCATEGORY	假日:N	會:ADV	提早:Vt	17:DET	：:COLONCATEGORY	30:DET	休息:Vi	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	NT:FW	.:PERIODCATEGORY	100:DET	
+好吃:Vi	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	waitingangel0514.pixnet.net/blog/post:FW	/:FW	153573378:DET	
+
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+巷弄:N	間:POST	的:T	小:Vi	攤子:N	總是:ADV	那麼:ADV	不起眼:Vi	
+卻:ADV	總是:ADV	那麼:Vi	的:T	美味:N	
+除了:P	像:Vt	隔壁:N	阿姨:N	一樣:Vi	的:T	熱情:N	
+還:ADV	有:Vt	傳統:Vi	又:ADV	純樸:Vi	的:T	食物:N	滋味:N	
+中華:N	開發:Vt	旁:N	的:T	巷子:N	不管:C	什麼:DET	時候:N	都:ADV	人聲:N	鼎沸:Vi	
+59巷:N	的:T	武昌:N	市場:N	內:N	有:Vt	多:DET	家:M	我:N	每:DET	個:M	禮拜:N	都:ADV	會:ADV	報到:Vi	的:T	超:Vt	好吃:Vi	店家:N	
+離開:Vt	前:POST	總會:ADV	到:Vt	6弄:N	裡:N	
+找:Vt	詹:N	媽媽:N	買:Vt	個:M	餅:N	
+走近:Vt	巷子:N	裡:N	的:T	餅:N	攤:Vt	
+可以:ADV	看到:Vt	詹:N	媽媽:N	忙:Vi	裡:POST	忙:Vi	外:POST	
+仍:ADV	不忘:Vt	對:P	你:N	投:Vt	以:P	微笑:N	
+離:P	巷弄:N	口:N	較:P	近處:N	有:Vt	字體:N	大:Vi	點兒:ADV	的:T	品:N	項:M	立牌:N	
+熟門:N	熟路:N	的:T	人客:N	都:ADV	直接:Vi	忽略:Vt	走過:Vt	
+以前:N	這:DET	小攤:N	是:Vt	一:DET	個:M	阿伯:N	的:T	
+還:ADV	沒:Vt	那麼多:DET	東西:N	可以:ADV	買:Vt	
+是:Vt	詹:N	媽媽:N	接手:Vt	後:POST	才:ADV	多出:Vt	那麼多:DET	選項:N	
+價錢:N	在:P	我:N	看來:ADV	很:ADV	划算:Vi	呢:T	
+尾數:N	硬生生:ADV	比:P	別:DET	家:N	的:T	整數:N	再:ADV	便宜:Vi	個:M	幾:DET	塊:M	
+難怪:ADV	小攤:N	前:N	總是:ADV	一:DET	堆:M	人:N	
+詹:N	媽媽:N	說:Vt	
+下午:N	她:N	都:ADV	會:ADV	休息:Vi	
+以前:N	好像:ADV	都:ADV	沒有:Vt	
+也許:ADV	是:Vt	年紀:N	大:Vi	了:ASP	需要:Vt	中場:N	休息:Vi	養精蓄銳:Vi	
+若:C	附近:N	的:T	公司:N	行號:N	訂:Vt	下午茶:N	
+通常:ADV	都:ADV	會:ADV	提前:Vi	或:C	前一天:N	訂:Vt	
+這樣:Vi	她:N	下午:N	就:ADV	不會:ADV	休息:Vi	了:ASP	
+我:N	通常:ADV	就:ADV	看:Vt	小:Vi	櫃子:N	裡:N	有:Vt	什麼:DET	點:M	什麼:DET	
+不然:C	等待:Vt	時間:N	會:ADV	更:ADV	久:Vi	
+詹:N	媽媽:N	會:ADV	現:N	煎:Vt	讓:Vt	外皮:N	更:ADV	酥:Vi	
+幸運:Vi	的:T	是:Vt	剛好:ADV	我:N	喜歡:Vt	的:T	都:ADV	還:ADV	有:Vt	
+韭菜盒:N	
+19:DET	元:M	
+是:Vt	我:N	就算:C	超級:A	飽:Vi	都:ADV	還:ADV	吃:Vt	得:T	下:N	的:T	
+外皮:N	不會:ADV	厚重:Vi	
+微微:A	的:T	麵粉:N	香:Vi	
+煎:Vt	的:T	酥香:N	不:ADV	油膩:Vi	
+韭菜:N	跟:P	冬粉:N	、:PAUSECATEGORY	蛋:N	酥:Vi	爆炸:Vi	滿:DET	出來:Vi	了:ASP	
+越:ADV	嚼:Vt	越:ADV	鹹香:N	脆:Vi	
+好:Vi	輕易:ADV	的:T	就:ADV	吃完:Vt	了:ASP	
+蔥油餅:N	
+55:DET	元:M	
+半:DET	張:M	8:DET	片:M	
+有緣:Vi	還可以:ADV	看到:Vt	詹:N	媽媽:N	手工:N	現:ADV	擀:b	呦:b	
+還:ADV	滿:ADV	容易:Vi	的:T	
+只要:C	小:Vi	櫃子:N	空:Vt	了:ASP	的:T	話:N	
+芝麻:N	遍佈:Vi	
+增加:Vt	天然:A	的:T	香氣:N	
+對於:P	蔥油餅:N	
+我:N	是:Vt	重鹹:Vi	主義:N	
+希望:Vt	蔥:N	的:T	口感:N	可以:ADV	完全:ADV	呈現:Vt	
+詹:N	媽媽:N	的:T	對:P	我:N	而言:Vt	偏:ADV	淡:Vi	
+但:C	家人:N	認為:Vt	每:DET	一口:ADV	都:ADV	能:ADV	吃到:Vt	蔥:N	已經:ADV	很:ADV	夠味:Vi	
+不:ADV	油:N	沒有:Vt	鍋氣:N	
+放:Vt	冷:Vi	也:ADV	不會:ADV	變:Vi	硬:Vi	
+同:ADV	屬:Vt	越:ADV	嚼:Vt	越:ADV	香:Vi	款:N	
+呷:ADV	飽:Vi	資訊:N	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	南京東路:N	五段:N	123巷:N	6弄:N	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2767:DET	-:DASHCATEGORY	3780:DET	
+時間:N	：:COLONCATEGORY	06:DET	：:COLONCATEGORY	00:DET	-:DASHCATEGORY	13:DET	：:COLONCATEGORY	00:DET	
+15:DET	：:COLONCATEGORY	00:DET	-:DASHCATEGORY	18:DET	：:COLONCATEGORY	30:DET	
+假日:N	會:ADV	提早:Vt	17:DET	：:COLONCATEGORY	30:DET	休息:Vi	

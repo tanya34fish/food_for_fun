@@ -1,0 +1,77 @@
+sherry1115(nana:FW	媽:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中正區:N	-:DASHCATEGORY	す:FW	き:FW	家:M	SukiYa:FW	平價:N	牛丼:N	
+WedJul:FW	1623:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	132014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	SukiYa:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	二段:N	50:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23584169:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	07:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	何時:N	24小時:N	開始:Vt	營業:Vi	.:PERIODCATEGORY	請:Vt	以:P	す:FW	き:FW	家:M	SukiYa:FW	公告:N	為準:Vi	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	92:DET	$:FW	起:POST	
+推薦:Vt	菜色:N	：:COLONCATEGORY	蔥溫玉牛:N	丼:b	
+nana:FW	媽:N	四處:ADV	趴:Vi	趴:Vi	走:Vi	日記:N	原:A	圖文:N	網誌版:N	::COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nana960701.pixnet.net/blog/post:FW	/:FW	379518893:DET	
+
+日本:N	牛丼:N	知名:Vi	連鎖店:N	-:DASHCATEGORY	す:FW	き:FW	家:M	SukiYa:FW	在:P	台灣:N	開幕:Vi	囉:T	
+據說:ADV	SukiYa:FW	的:T	牛丼:N	比:P	吉野家:N	來:Vi	的:T	便宜:Vi	
+對於:P	精打細算:Vi	的:T	nana:FW	媽:N	
+也:ADV	想:Vt	跟:P	大家:N	排隊:Vi	嚐鮮:Vt	一下:N	.:PERIODCATEGORY	
+排隊:Vi	內:POST	用:P	外帶:Vt	有:Vt	兩:DET	條:M	路線:N	
+靠:P	窗:N	的:T	隊伍:N	是:Vt	外帶:Vt	
+靠:P	馬路:N	旁:N	的:T	隊伍:N	則:ADV	是:Vt	內用:N	
+想:Vt	說:Vt	隊伍:N	排:Vt	蠻:ADV	長:Vi	的:T	.:PERIODCATEGORY	可能:ADV	會:ADV	等上:Vt	30:DET	分鐘:M	.:PERIODCATEGORY	
+這:DET	天:M	運氣:N	還:ADV	不錯:Vi	.:PERIODCATEGORY	裡面:N	用餐:Vi	的:T	人:N	速度:N	還:ADV	蠻:ADV	快:Vi	.:PERIODCATEGORY	
+我:N	只:ADV	等:Vt	了:ASP	10:DET	分鐘:M	就:ADV	入場:Vi	.:PERIODCATEGORY	
+邊:N	排隊:Vi	.:PERIODCATEGORY	邊:N	看:Vt	著:ASP	櫥窗:N	內:N	栩栩如生:Vi	模型:N	.:PERIODCATEGORY	肚子:N	餓:Vi	翻:Vt	了:ASP	
+店:N	內:N	一:DET	景:N	
+す:FW	き:FW	家:M	SukiYamenu:FW	拍:Vt	起來:ASP	給:Vt	大家:N	參考:Vt	一下:N	
+份量:N	有:Vt	分:M	::COLONCATEGORY	
+迷你:Vi	碗:N	
+中碗:N	
+超值:Vi	碗:N	
+以及:C	超大:A	碗:N	
+翻:Vt	一下:N	す:FW	き:FW	家:M	SukiYmenu:FW	背面:N	.:PERIODCATEGORY	好幾:DET	款:M	定食:Vt	都:ADV	暫時:ADV	停止:Vt	供應:Vt	..:ETCCATEGORY	gg:FW	
+服務:Nv	人員:N	會:ADV	用:P	電子:N	PDA:FW	幫:P	客人:N	點單:N	
+吧檯:N	前:POST	還:ADV	有:Vt	提供:Vt	切絲:N	的:T	醃:Vt	薑:N	及:C	七:DET	味:M	粉:N	可:ADV	提:Vt	味:N	
+小旻:N	跟:P	nana:FW	愛:Vt	吃:Vt	咖哩:N	就:ADV	幫:P	他們:N	點:Vt	
+咖哩:N	兒童餐:N	79:DET	$:FW	
+有:Vt	小:Vi	碗:N	咖哩飯:N	.:PERIODCATEGORY	義美寶吉:N	果汁:N	.:PERIODCATEGORY	可樂餅:N	.:PERIODCATEGORY	1:DET	支:M	巧克力:N	餅乾:N	
+殘:Vi	念:Vt	的:T	事:N	.:PERIODCATEGORY	
+店家:N	告知:Vt	可樂餅:N	賣完:Vt	了:ASP	.:PERIODCATEGORY	冏:b	
+希望:Vt	把:P	兒童餐:N	裡:N	附:Vt	的:T	可樂餅:N	換成:Vt	巧克力:N	餅乾:N	
+但:C	我:N	不:ADV	希望:Vt	孩子:N	吃:Vt	太多:DET	零食:N	
+請:Vt	店員:N	能:ADV	換成:Vt	溫泉蛋:N	會:ADV	比較:ADV	營養:Vi	
+nana:FW	是:Vt	嫌:Vt	咖哩飯:N	有點:ADV	偏:Vt	小:Vi	辣:Vi	.:PERIODCATEGORY	
+但:C	小旻:N	沒:ADV	感覺:Vt	.:PERIODCATEGORY	
+問問:Vt	孩子:N	裡:N	咖哩:N	有:Vt	哪些:DET	料:N	.:PERIODCATEGORY	
+nana:FW	說:Vt	有:Vt	吃到:Vt	肉:N	.:PERIODCATEGORY	紅蘿蔔:N	丁:N	跟:P	馬鈴薯:N	丁:N	.:PERIODCATEGORY	
+小旻:N	說:Vt	只:ADV	吃到:Vt	紅蘿蔔:N	丁:N	跟:P	馬鈴薯:N	丁:N	.:PERIODCATEGORY	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	小旻:N	吃:Vt	太:ADV	快:Vi	的:T	關係:N	
+沒有:ADV	感覺到:Vt	肉:N	的:T	存在:Nv	
+蔥溫玉牛丼:N	中:POST	碗:N	99:DET	$:FW	
+這:DET	碗:M	料:N	多:ADV	到:P	看:Vt	不:ADV	到:Vt	白飯:N	
+滿滿:Vi	青蔥:Vi	
+底下:N	牛:N	五:DET	花:N	給:Vt	的:T	很:ADV	豪邁:Vi	..:ETCCATEGORY	
+戳破:Vt	溫泉:N	蛋:N	.:PERIODCATEGORY	
+蛋黃:N	瞬間:N	緩緩:Vi	流下:Vt	..:ETCCATEGORY	
+稍微:ADV	把:P	飯:N	拌:Vt	了:ASP	一下:N	
+蛋黃:N	滋潤:Vt	了:ASP	白飯:N	與:C	牛:N	五:DET	花:N	.:PERIODCATEGORY	
+柔軟:Vi	順滑:Vi	口感:N	
+吃完:Vt	這:DET	一:DET	碗:M	很:ADV	有:Vt	飽足感:N	
+味噌湯:N	20:DET	$:FW	
+味噌湯:N	味道:N	soso:FW	
+可以:ADV	不用:ADV	特別:Vi	點:ADV	
+很:ADV	希望:Vt	新竹:N	能:ADV	趕緊:ADV	開:Vt	一:DET	家:M	す:FW	き:FW	家:M	SukiYa:FW	
+這樣:Vi	我:N	每:DET	個:M	月:N	就:ADV	能:ADV	吃到:Vt	它:N	
+想要:Vt	了解:Vt	北市:N	相關:Vi	文章:N	.:PERIODCATEGORY	歡迎:Vt	點閱:Vt	::COLONCATEGORY	
+【:PARENTHESISCATEGORY	台北:N	捷運:N	美食:N	】:PARENTHESISCATEGORY	千頌:N	伊:N	的:T	最愛:N	福氣:N	韓國:N	炸雞:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nana960701.pixnet.net/blog/post:FW	/:FW	368366324:DET	
+【:PARENTHESISCATEGORY	台北:N	捷運:N	美食:N	】:PARENTHESISCATEGORY	蒙古:N	紅:Vi	蒙古:N	火鍋:N	吃到:Vt	飽:Vi	一:ADV	吃:Vt	會:ADV	上癮:Vi	的:T	好店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nana960701.pixnet.net/blog/post:FW	/:FW	372083153:DET	
+【:PARENTHESISCATEGORY	台北:N	】:PARENTHESISCATEGORY	百:DET	年:M	老店:N	
+四:DET	代目橫井製:Vt	麵:N	所:ADV	
+日本:N	烏龍麵:N	專賣店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nana960701.pixnet.net/blog/post:FW	/:FW	363585065:DET	
+【:PARENTHESISCATEGORY	台北:N	美食:N	】:PARENTHESISCATEGORY	開飯:Vi	川:N	食堂:N	.:PERIODCATEGORY	創新:Vt	又:ADV	不失:Vt	鮮香:N	麻辣:A	的:T	川菜:N	料理:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nana960701.pixnet.net/blog/post:FW	/:FW	372642653:DET	
+----:DASHCATEGORY	
+歡迎:Vt	大家:N	加入:Vt	NANA:FW	媽:N	四處:ADV	趴:Vi	趴:Vi	走:Vi	日記:N	粉絲團:N	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/nana:FW	9671:DET	

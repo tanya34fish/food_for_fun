@@ -1,0 +1,88 @@
+energy:FW	83100:DET	(:PARENTHESISCATEGORY	^^:b	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北市:N	政府:N	船屋:N	平價:N	生魚片:N	丼飯:N	
+SunJul:FW	2002:DET	::COLONCATEGORY	14:DET	::COLONCATEGORY	302014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	船屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	基隆路:N	一段:N	147巷:N	15:DET	號:M	(:PARENTHESISCATEGORY	近:DET	捷運:N	市政府:N	站:Vi	1:DET	號:M	出口:Nv	，:COMMACATEGORY	走:Vi	3:DET	分鐘:M	就:ADV	到:Vt	囉:T	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2776:DET	-:DASHCATEGORY	1108:DET	
+圖文:N	美麗:Vi	版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	energy83100.pixnet.net/blog/post:FW	/:FW	158960805:DET	
+
+ClaireP:FW	又:ADV	來:ADV	報:Vt	好康:Vi	給:Vt	大家:N	拉:Vt	
+這:DET	次:M	陪:Vt	我:N	去:Vt	的:T	一樣:Vi	是:Vt	上:DET	次:M	跟:P	我:N	去:ADV	吃:Vt	鐵人:N	九:DET	番:M	料理:N	亭:N	的:T	煙仔:N	哦:T	
+哈哈:ADV	
+我:N	真的:ADV	好:ADV	愛:Vt	日本:N	料理:N	耶:T	
+廢話:N	不:ADV	多:ADV	說:Vt	
+以下:N	正文:N	開始:Vi	囉:T	
+登:Vt	
+登:Vt	
+登:Vt	
+首先:ADV	呢:T	
+這:DET	一:DET	次:M	我們:N	點:Vt	了:ASP	鮭魚:N	魚片:N	丼:b	和:C	烤牛:N	小:Vi	排:Vt	丼:b	
+這:DET	兩樣:Vi	都:ADV	有:Vt	附:Vt	生菜:N	沙拉:N	和:C	味噌湯:N	":FW	各:DET	一:DET	":FW	哦:T	
+所以:C	總共:ADV	是:Vt	兩:DET	盤:M	沙拉:N	和:C	兩:DET	碗:M	味噌湯:N	
+好:ADV	飽:Vi	好:Vi	飽:Vi	
+生菜:N	沙拉:N	
+附餐:N	
+生菜:N	沙拉:N	的:T	部份:DET	其實:ADV	沒:Vt	什麼:DET	好說:Vi	的:T	
+就是:C	份量:N	夠多:Vi	
+多:ADV	吃:Vt	菜:N	有益:Vt	健康:Vi	哦:T	
+ClaireP:FW	關心:Vt	您:N	
+味噌湯:N	
+附餐:N	
+這:DET	個:M	湯阿:N	
+嗯:T	
+嘿嘿:ADV	
+超讚:N	的:T	啦:T	
+是:Vt	用:P	家:N	裡:N	媽媽:N	會:ADV	希望:Vt	你:N	多:ADV	吃:Vt	點:M	
+媽媽:N	我:N	愛:Vt	妳:N	
+時:ADV	用來:Vt	盛飯:Vi	用:Vt	的:T	那:DET	種:M	":FW	碗公:N	":FW	裝:Vt	的:T	哦:T	
+裡面:N	料超:N	多:ADV	
+紫菜:N	、:PAUSECATEGORY	豆腐:N	當然:ADV	素:Vi	基本:A	的:T	
+重點:N	是:Vt	有:Vt	超多:Vi	":FW	大:Vi	塊:M	":FW	魚肉:N	
+不:ADV	是:Vt	一般:A	零碎:Vi	的:T	屑屑:N	哦:T	
+覺得:Vt	這:DET	碗:M	湯:N	其實:ADV	可以:ADV	單獨:ADV	拿出來:Vi	賣:Vt	
+然後:ADV	收:Vt	個:M	幾十:DET	塊:M	不:ADV	過份:Vi	耶:T	
+烤牛:N	小:Vi	排:Vt	丼:b	$:FW	180:DET	
+熟食類:N	的:T	丼飯:N	用:Vt	的:T	都:ADV	是:Vt	熱:Vt	白飯:N	
+份量:N	跟:P	附食:Vt	一樣:Vi	都:ADV	很多:DET	
+肉多:N	飯:N	多:ADV	配:Vt	菜:N	多:Vi	
+配:Vt	菜:N	有:Vt	一樣:Vi	好像:ADV	是:Vt	泡菜:N	
+感覺:Vt	有加:ADV	黃:Vi	芥末:N	
+單獨:ADV	吃:Vt	的:T	話:N	是:Vt	好吃:Vi	啦:T	
+不過:C	跟:P	牛:N	小:Vi	排:Vt	好像:ADV	不:ADV	太:ADV	搭:Vt	
+牛:N	小:Vi	排:Vt	有:Vt	很多:DET	塊:M	
+可:ADV	素:ADV	吃起來:ADV	沒有:Vt	很:ADV	嫩:Vi	很:ADV	juicy:FW	耶:T	
+但:C	素:ADV	但:C	素:ADV	
+不:ADV	難吃:Vi	啦:T	
+鮭魚:N	魚片:N	丼:b	$:FW	200:DET	
+重點:N	來:Vi	囉:T	
+為什麼:ADV	只有:ADV	鮭魚:N	魚片:N	丼:b	有:Vt	三:DET	張:M	圖:N	呢:T	
+因為:C	煙仔:N	對:P	鮭魚:N	有:Vt	愛阿:N	
+寫到:Vt	這裡:N	才:ADV	發現:Vt	都:ADV	沒:Vt	什麼:DET	提到:Vt	他:N	
+只好:ADV	讓:Vt	他:N	露:Vt	露臉:Vi	囉:T	
+這:DET	個:M	鮭魚:N	魚片:N	丼:b	呢:T	
+我:N	只:ADV	能:ADV	說:Vt	
+很:ADV	兇:Vi	
+真的:ADV	很:ADV	兇:Vi	
+大量:DET	的:T	生魚片:N	舖滿:Vt	整:DET	碗:M	飯:N	
+飯:N	可以:ADV	選:Vt	冷:Vi	醋:N	飯:N	和:C	熱:Vt	白飯:N	哦:T	
+而且:C	是:Vt	切:Vt	得:T	厚厚:Vi	的:T	那:DET	種:M	
+這:DET	個:M	賣:Vt	200:DET	塊:M	我們:N	兩:DET	個:M	都:ADV	覺得:Vt	一點:DET	都:ADV	不:ADV	貴:Vi	
+煙仔:N	說:Vt	：:COLONCATEGORY	厚:Vi	呷:Vt	
+厚:Vi	呷:Vt	
+不過:C	我:N	覺得:Vt	有點:ADV	切:Vi	得:T	太:ADV	厚:Vi	了:T	
+我:N	比較:ADV	喜歡:Vt	吃:Vt	切:Vt	得:T	稍微:ADV	薄:Vi	一點:ADV	的:T	那:DET	種:M	
+這:DET	是:Vt	個:M	人:N	偏好:Vt	口感:N	的:T	問題:N	
+總之:ADV	呢:T	
+是:Vt	料:N	多:ADV	實在:ADV	值得:Vi	點:ADV	的:T	哦:T	
+本:DET	次:M	消費:N	
+2:DET	人:N	共:ADV	$:FW	400:DET	
+鮭魚:N	魚片:N	丼:b	$:FW	200:DET	+:FW	烤牛:N	小:Vi	排:Vt	丼:b	$:FW	180:DET	+:FW	1:DET	瓶:M	罐裝:A	蘋果:N	西:N	打:Vt	$:FW	20:DET	免:Vt	服務費:N	
+我們:N	這:DET	次:M	去:Vt	的:T	時候:N	是:Vt	星期六:N	下午:N	2點鐘:N	
+店裡:N	完全:ADV	沒有:Vt	客人:N	
+不過:C	是:Vt	有:Vt	開放:Vi	營業:Vi	的:T	哦:T	
+誰:N	說:Vt	一定:ADV	要:ADV	排隊:Vi	的:T	店:N	才:ADV	是:Vt	好吃:Vi	的:T	阿:N	
+O:FW	亨:N	
+這:DET	家:M	就是:C	":FW	假日:N	":FW	
+平日:N	我:N	不:ADV	知道:Vt	哦:T	
+免:ADV	排隊:Vi	又:ADV	好吃:Vi	的:T	店:N	阿阿阿阿:Vi	阿阿阿阿:Vi	
+厚:Vi	呷:Vt	厚:Vi	呷:Vt	小:Vi	日記:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	energy83100.pixnet.net/blog:FW	

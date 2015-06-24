@@ -1,0 +1,87 @@
+guessworld:FW	(:PARENTHESISCATEGORY	奶油:N	不:ADV	飛:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北市:N	政府:N	赤門居酒:N	屋:N	
+WedJul:FW	1622:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	032014:DET	圖文:N	網誌版:N	請:Vt	點:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	guessworld.pixnet.net/blog/post:FW	/:FW	40926424:DET	
+店名:N	：:COLONCATEGORY	赤門居酒屋:N	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2767:DET	-:DASHCATEGORY	6817:DET	地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松隆路:N	8:DET	號:M	營業:Nv	時間:N	：:COLONCATEGORY	17:DET	::COLONCATEGORY	00:DET	
+01:DET	::COLONCATEGORY	00:DET	消費:N	日期:N	：:COLONCATEGORY	Apr:FW	
+May:FW	2014:DET	說到:Vt	居酒:N	屋:N	
+我:N	還:ADV	是:Vt	最愛:N	赤門:N	
+雖然:C	每:DET	次:M	吃下來:Vi	都:ADV	有點:ADV	驚人:Vi	
+但:C	偶爾:ADV	發:Vt	薪水:N	時:POST	還是:ADV	會:ADV	想:Vt	來:Vi	一下:N	
+下班:Vi	小酌:Vi	一下:N	
+鹽燒肥腸:N	串:Vt	
+$:FW	120:DET	
+味增:N	豬肉:N	串:Vt	
+$:FW	130:DET	
+以下:N	兩:DET	種:M	是:Vt	每:DET	次:M	來:ADV	必:ADV	點:Vt	的:T	
+肥腸烤:Vt	得:T	表皮:N	酥脆:Vi	帶:Vt	點:N	嚼:Vt	勁:N	
+松阪:N	豬:N	則:ADV	是:Vt	有:Vt	種:M	Q:FW	勁:N	
+赤:N	炸雞:N	軟骨:N	
+$:FW	150:DET	
+雞:N	軟骨:N	炸:Vt	得:T	很:ADV	好:Vi	
+脆:Vi	
+醬燒:N	雞肉:N	串:Vt	
+$:FW	120:DET	
+一:DET	份:M	2:DET	串:M	
+雞肉:N	串:Vt	很:ADV	飽滿:Vi	多汁:Vi	
+明:N	太子:N	雞肉:N	串:Vt	
+$:FW	150:DET	
+原燒:N	玉米:N	筍:N	
+$:FW	150:DET	
+玉米:N	筍:N	真的:ADV	很:ADV	甜:Vi	
+裡面:N	的:T	絲單:N	吃:Vt	都:ADV	好:ADV	美味:Vi	
+培根:N	蕃茄:N	串:Vt	
+$:FW	120:DET	
+蕃茄:N	真的:ADV	是:Vt	入口:N	就:ADV	爆漿:N	
+花魚:N	一:DET	夜:N	干:Vt	
+$:FW	280:DET	
+花魚:N	好吃:Vi	
+很:ADV	大一片:N	
+菠菜:N	炒蛋:Vi	
+$:FW	150:DET	
+明:N	太子:N	馬鈴薯:N	
+$:FW	150:DET	
+干貝:N	培根:N	串:Vt	
+$:FW	130:DET	
+一:DET	份:M	為:Vt	1:DET	串:M	
+這:DET	個:M	也:ADV	不錯:Vi	
+但:C	總:ADV	覺得:Vt	培根:N	太:ADV	多餘:A	跟:C	搶味:N	了:T	
+赤燒松阪:N	豬:N	串:Vt	
+$:FW	120:DET	
+帶:Vt	點:M	辣味:N	的:T	感覺:N	更:ADV	顯:Vt	美味:Vi	
+鹽烤茭白:N	筍:N	
+$:FW	120:DET	
+跟:P	玉米:N	筍:N	一樣:Vi	
+吃:Vt	得到:Vt	鮮甜:Vi	
+鹽烤杏:N	鮑:N	菇:N	
+$:FW	120:DET	
+鹽燒:N	雞心:N	串:Vt	
+$:FW	110:DET	
+培根:N	大蝦:N	串:Vt	
+$:FW	160:DET	
+一:DET	份:M	為:Vt	1:DET	串:M	
+揚出:Vt	豆腐:N	
+$:FW	120:DET	
+月:N	見:Vt	雞:N	肉丸:N	
+$:FW	90:DET	
+明:N	太子:N	、:PAUSECATEGORY	嗆辣:Vi	雙拼:A	PIZZA:FW	
+$:FW	300:DET	
+赤門:N	骰子:N	牛:N	
+$:FW	450:DET	
+想:Vt	吃:Vt	了:ASP	好幾:DET	次:M	
+某:DET	次:M	終於:ADV	點:Vt	了:ASP	
+但:C	有點:ADV	失望:Vi	
+太:ADV	老:Vi	
+鹽燒:N	雞皮:N	串:Vt	
+$:FW	130:DET	
+炸雞皮:N	很:ADV	脆:Vi	
+連:C	不:ADV	太:ADV	愛:Vt	雞皮:N	的:T	我:N	都:ADV	吃:Vt	了:ASP	
+赤:N	炸:Vt	牛:N	蒡絲:N	
+$:FW	150:DET	
+牛蒡絲:N	每:DET	次:M	都:ADV	不能:ADV	放過:Vt	
+切成:Vt	條狀:N	味道:N	跟:P	口感:N	都:ADV	棒:Vi	
+烤麻:N	薯:b	
+$:FW	120:DET	
+飯:N	後:POST	甜點:N	是:Vt	甜蜜:Vi	結尾:Vi	
+以上:N	是:Vt	大概:ADV	2:DET	
+3:DET	次:M	用餐:Vi	集結:Vt	而:C	成:Vt	了:ASP	
+每:DET	次:M	消費:N	大概:ADV	在:P	700:DET	上下:N	

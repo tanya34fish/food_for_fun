@@ -1,0 +1,136 @@
+rufu:FW	90229:DET	(:PARENTHESISCATEGORY	御宅族阿廣:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	台北:N	-:DASHCATEGORY	大安區:N	]:PARENTHESISCATEGORY	紅磡:N	婚宴:N	．:PERIODCATEGORY	港式:A	飲茶:Nv	
+FriJul:FW	1822:DET	::COLONCATEGORY	06:DET	::COLONCATEGORY	032014:DET	圖文:N	版本:N	食記:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/Exjc:FW	
+
+用餐:Nv	時間:N	：:COLONCATEGORY	2014.0:DET	7.12:DET	
+從:P	去年:N	年尾:N	到:P	今年:N	都:ADV	還:ADV	不滿:Vt	一:DET	年:M	的:T	時間:N	裡:N	
+就:ADV	收:Vt	
+到:Vt	了:ASP	四:DET	顆:M	紅色:N	炸彈:N	了:T	
+每:DET	位:M	新郎:N	都:ADV	是:Vt	在:P	生命:N	中:POST	某:DET	個:M	時:POST	
+段:M	重要:Vi	的:T	人:N	
+當然:ADV	現在:N	也:ADV	很:ADV	重要:Vi	XD:FW	
+所以:C	被:P	炸:Vt	的:T	算:Vt	
+是:Vt	很:ADV	開心:Vi	啦:T	
+哈:ADV	哈哈:ADV	
+前:DET	幾:DET	場:M	東西:N	雖然:C	好吃:Vi	
+但:C	會場:N	
+燈光:N	走:Vi	氣氛:N	美:Vi	的:T	昏暗:Vi	路線:N	
+想到:Vt	美食:N	拍:Vt	了:ASP	照:Vt	後:POST	
+回家:Vi	
+要:ADV	一直:ADV	後:POST	製:Vt	
+覺得:Vt	很:ADV	麻煩:Vt	就:ADV	索性:ADV	不:ADV	想:Vt	分享:Vt	了:ASP	
+這:DET	次:M	會:ADV	
+場:N	燈光:N	算是:Vt	明亮:Vi	的:T	
+加上:C	東西:N	大部份:DET	真的:ADV	好吃:Vi	
+當然:ADV	
+要:ADV	分享:Vt	嘍:T	
+這:DET	一:DET	家:M	很:ADV	特別:Vi	
+走:Vi	的:T	是:Vt	港式:A	飲茶:Nv	路線:N	
+有別於:Vt	常:ADV	
+見:Vt	的:T	台菜:N	
+相較:Vi	之下:POST	就:ADV	很:ADV	有:Vt	新穎性:N	
+接下來:ADV	分享:Vt	的:T	是:Vt	
+當天:N	覺得:Vt	好吃:Vi	的:T	菜色:N	
+至於:P	其它:DET	沒:ADV	講到:Vt	的:T	不:ADV	是:Vt	不:ADV	好吃:Vi	
+只:ADV	是:Vt	自己:N	不:ADV	喜歡:Vt	而已:T	
+本身:N	就:ADV	不:ADV	太:ADV	喜歡:Vt	雞胸肉:N	和:C	大:Vi	
+部份:DET	的:T	甜點:N	......:ETCCATEGORY	還:ADV	有:Vt	雞:N	胸肉:N	
+燒臘:N	與:C	小菜:N	的:T	拼盤:N	
+不管:C	燒:Vt	肉:N	還是:C	烤鴨:N	等等:POST	
+基:N	
+本:DET	上:N	每:DET	一:DET	種:M	都:ADV	好吃:Vi	又:ADV	到位:Vi	
+不會:ADV	像:P	某些:DET	燒臘店:N	
+有的:DET	
+只:ADV	有:Vt	鴨:N	好吃:Vi	
+有的:DET	只有:ADV	雞:N	好吃:Vi	這樣:Vi	
+合菜:N	常見:Vi	的:T	炸:Vt	小:Vi	湯圓:N	
+雖然:C	是:Vt	常見:Vi	前菜:N	
+但:C	他們:N	
+在:P	沾:Vt	粉:N	顆粒:N	較:ADV	大:Vi	
+吃起來:ADV	喀:ADV	吱吱喳喳:Vi	的:T	
+口感:N	很:ADV	好:Vi	
+吃:Vt	了:ASP	十來:DET	顆:M	都:ADV	不:ADV	覺得:Vt	膩:Vi	
+涼拌:Vt	海鮮:N	
+配:Vt	些:M	偏:ADV	酸甜:Vi	的:T	醬料:N	
+海鮮:N	的:T	東西:N	新鮮:Vi	
+就:ADV	好吃:Vi	
+有:Vt	過敏:Nv	體質:N	的:T	自己:N	吃:Vt	了:ASP	沒:ADV	紅腫:Vi	
+所以:C	當然:ADV	要:ADV	
+推:Vt	一下:N	
+燒魚:N	
+細:Vi	綿:N	的:T	魚肉:N	
+用:P	大:Vi	湯匙:N	就:ADV	可以:ADV	挖:Vt	下:POST	
+搭配:Vt	
+蒜苗:N	和:C	洋蔥:N	等:POST	氣味:N	較:ADV	香:Vi	的:T	配料:N	
+沾:Vt	些許:DET	甜:Vi	中:POST	帶:Vt	鮮:Vi	的:T	醬:N	
+汁:N	
+真是:ADV	好吃:Vi	
+炒:Vt	三鮮:N	
+料理:N	都:ADV	帶有:Vt	些:ADV	香香:Vi	的:T	鍋氣:N	
+最:ADV	喜歡:Vt	炒類:N	
+的:T	料理:N	有:Vt	這:DET	一味:ADV	了:T	
+然後:ADV	海鮮:N	加:Vt	很:ADV	大:Vi	
+隨便:Vi	撈:Vt	都:ADV	是:Vt	滿:ADV	
+滿:DET	的:T	海鮮:N	
+愛:Vt	吃:Vt	海鮮:N	的:T	小弟:N	我:N	吃:Vt	的:T	很:ADV	開心:Vi	哩:T	
+燴菜:N	
+裡面:N	的:T	豬筋:N	煮:Vt	的:T	夠:ADV	軟:Vi	
+愛:Vt	
+鮑魚:N	不會:ADV	過:ADV	硬:Vi	
+像:Vt	在:P	吃:Vt	口香糖:N	
+愛:Vt	
+紅紅:Vi	一顆顆:DET	看似:Vt	蕃茄:N	的:T	東西:N	
+其:DET	
+實是:Vt	用:P	胡蘿蔔:N	去:ADV	做:Vt	的:T	
+吃起來:ADV	甘甜:Vi	
+愛:Vt	
+螃蟹:N	油飯:N	
+油:N	飯香:N	
+飯粒:N	沒有:ADV	做:Vt	的:T	過:ADV	爛:Vi	
+黏:Vt	又:ADV	可:ADV	
+以:P	吃到:Vt	粒粒:DET	分明:Vi	的:T	感覺:N	
+螃蟹:N	部份:DET	很:ADV	貼心:Vi	
+都:ADV	有:Vt	幫:P	你:N	
+敲殼:N	
+只要:C	輕輕:Vi	的:T	就:ADV	可以:ADV	剝去:Vt	已:ADV	處理:Vt	過:ASP	的:T	殼:N	
+享用:Vt	蟹:N	
+肉:N	
+燒賣:N	
+用:P	可愛:Vi	的:T	黃綠:Vi	紅:Vi	三:DET	色:M	的:T	食材:N	來:ADV	配色:Vi	
+包:Vt	著:ASP	
+蒸肉:N	
+沒有:Vt	油:N	臭味:N	
+喜歡:Vt	
+在:P	下:DET	偶爾:ADV	去:ADV	吃:Vt	平價:N	的:T	吃:Vt	到:P	
+飽:Vi	餐廳:N	
+很:ADV	容易:Vi	碰到:Vt	有:Vt	臭油味:N	的:T	燒賣:N	
+這裡:N	的:T	就:ADV	沒有:Vt	
+了:T	
+等級:N	果然:ADV	有:Vt	差:Vi	
+甜:Vi	甜蜜語:N	養顏:Vi	露:Vt	
+這:DET	道:M	作法:N	很:ADV	像:Vt	是:Vt	西米露:N	
+是:Vt	我:N	
+愛:Vt	吃:Vt	的:T	甜湯:N	種類:N	
+實際:Vi	吃起來:ADV	跟:P	一般:A	的:T	西米露:N	又:ADV	不:ADV	太:ADV	
+一樣:Vi	
+多:Vi	了:ASP	一:DET	份:M	
+豆味:N	
+吃起來:ADV	也:ADV	多:Vi	了:ASP	一:DET	份:M	
+沙感:N	
+感覺:N	就:ADV	像:Vt	是:Vt	把:P	白:Vi	豆沙:N	加:Vt	到:P	裡面:N	的:T	感覺:N	
+但是:C	不:ADV	是:Vt	
+真的:ADV	是:Vt	這樣:Vi	就:ADV	不:ADV	清楚:Vi	了:T	
+總之:ADV	好喝:Vi	
+喝:Vt	了:ASP	三:DET	碗:M	
+由於:C	這:DET	桌:M	有:Vt	兩:DET	個:M	人:N	沒:ADV	到:Vt	
+然後:ADV	同:DET	桌:M	有:Vt	兩:DET	個:M	女生:N	食:Vt	
+量:N	不:ADV	大:Vi	
+所以:C	小弟:N	一:DET	個:M	人:N	等於:Vt	每:DET	道:M	都:ADV	吃:Vt	了:ASP	大概:ADV	2.5:DET	份:M	吧:T	
+挺:ADV	爽:Vi	的:T	XD:FW	
+紅磡:N	婚宴:N	．:PERIODCATEGORY	港式:A	飲茶:Nv	
+仁愛館:N	
+02:DET	
+2731:DET	-:DASHCATEGORY	7222:DET	
+台北市:N	大安區:N	仁愛路:N	三段:N	145:DET	號:M	
+空軍:N	活動:N	中心:N	
+AM:FW	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	PM:FW	21:DET	::COLONCATEGORY	30:DET	

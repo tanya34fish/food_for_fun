@@ -1,0 +1,223 @@
+HENRY:FW	1:DET	(:PARENTHESISCATEGORY	黃:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	*:FW	東區:N	。:PERIODCATEGORY	泰集:N	*:FW	夜店風:N	~:FW	時:POST	創意:N	泰式:A	料理:N	
+WedJul:FW	1622:DET	::COLONCATEGORY	27:DET	::COLONCATEGORY	352014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	台北:N	*:FW	東區:N	。:PERIODCATEGORY	泰集:N	ThaiBazaar:FW	*:FW	夜店風:N	~:FW	時尚:N	創意:N	泰式:A	料理:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	07月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	大安路:N	一段:N	８０:DET	號:M	
+電話:N	：:COLONCATEGORY	０２－８７７２４６１８:DET	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32544306:DET	
+＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	
+＊:FW	純:Vi	文字:N	
+其實:ADV	忠孝:N	復興:N	一帶:N	的:T	泰式:A	餐廳:N	還:ADV	蠻:ADV	不少:Vi	的:T	
+但:C	要不:C	沒有:Vt	很:ADV	泰式:A	不然:C	就是:C	吃到:Vt	飽類:N	的:T	比較:ADV	吃:Vt	
+粗飽:Vi	
+這:DET	次選:A	了:T	同樣:Vi	位在:Vt	忠孝:N	復興:Vt	３:DET	號:M	出口:Nv	的:T	泰集:N	
+是:Vt	因為:C	上:DET	次:M	Sheena:FW	曾經:ADV	說:Vt	她:N	覺得:Vt	這裡:N	比:P	某:DET	泰:N	式:N	連鎖:A	餐廳:N	還:ADV	要:ADV	好吃:Vi	很多:DET	
+而且:C	看看:Vt	菜單:N	還:ADV	有心:Vt	媽:N	喜歡:Vt	的:T	螃蟹:N	
+要是:C	我:N	哪:DET	天:M	可以:ADV	整理:Vt	螃蟹:N	餐廳文:N	一定:ADV	要:ADV	歸功於:Vi	心媽:N	
+XD:FW	
+這:DET	天氣:N	根本:ADV	超:Vt	適合:Vi	吃:Vt	泰式:A	料理:N	阿:N	
+此:DET	時:POST	不:ADV	吃:Vt	更:ADV	待:P	何時:N	勒:Vt	
+『:PARENTHESISCATEGORY	泰集:N	ThaiBazaar:FW	』:PARENTHESISCATEGORY	是:Vt	波斯語:N	
+是:Vt	泰國:N	市集:N	的:T	意思:N	
+也:ADV	有:Vt	『:PARENTHESISCATEGORY	太極:N	』:PARENTHESISCATEGORY	的:T	諧音:N	
+這裡:N	的:T	料理:N	除了:P	泰國:N	傳統:N	料理:N	外:POST	還:ADV	加入:Vt	了:ASP	雲南:N	跟:P	新疆:N	風味:N	
+且:C	所有:DET	料理:N	皆:ADV	不:ADV	添加:Vt	味精:N	
+店面:N	雖:C	位在:Vt	一樓:N	但:C	所有:DET	的:T	座位:N	都:ADV	在:P	地下室:N	
+以:P	紫色:N	與:C	黑色:N	為主:Vi	的:T	裝潢:N	給:Vt	人:N	奢華:Nv	、:PAUSECATEGORY	高雅:Vi	的:T	時尚:N	感:Vt	
+而:C	地下室:N	的:T	吧台:N	也:ADV	讓:Vt	我:N	覺得:Vt	有點:ADV	夜店:N	風:N	
+座位:N	分成:Vt	兩:DET	個:M	區域:N	
+一:DET	區:N	以:P	圓桌:N	為主:Vi	
+適合:Vi	與:C	長輩:N	或者:C	是:Vt	用餐:Nv	人數:N	多:DET	時:M	使用:Vt	
+另:DET	一:DET	桌:M	則:ADV	是:Vt	以:P	方桌:N	為主:Vi	
+用餐:Nv	人數:N	少:Vi	或者:C	情侶:N	來:ADV	就:ADV	很:ADV	有:Vt	氣氛:N	
+請:Vt	找出:Vt	這:DET	張:M	照片:N	的:T	亮點:N	
+順便:ADV	猜猜:Vt	發生:Vt	了:ASP	什麼:DET	事:N	
+就是:C	在:P	我:N	拍完:Vt	照:P	回到:Vt	座位:N	的:T	同時:N	
+後面:N	傳來:Vt	Sheena:FW	的:T	聲音:N	：:COLONCATEGORY	這:DET	不:ADV	是:Vt	心心:N	嗎:T	
+哈哈:ADV	哈哈:ADV	有沒有:ADV	這麼:ADV	巧:Vi	啦:T	
+剛好:ADV	遇到:Vt	正在:ADV	幫:P	媽咪:N	慶生:Vi	的:T	Sheena:FW	
+簡直:ADV	是:Vt	心靈:N	相通:Vi	有沒有:ADV	XDDD:FW	
+來:ADV	看看:Vt	菜單:N	吧:T	
+他們:N	粉絲團:N	裡:POST	也:ADV	有:Vt	噢:T	→:FW	泰集:N	MENU:FW	
+素食:N	菜單:N	
+套餐:N	蠻:ADV	優惠:Vt	的:T	
+但:C	剛好:ADV	很多:DET	想:Vt	吃:Vt	的:T	都:ADV	不:ADV	在:P	套餐:N	裡:N	
+且:C	我們:N	去:Vt	的:T	時候:N	使用:Vt	花旗:N	卡單點:N	有:Vt	９:DET	折:M	
+週五:N	
+日:N	
+平日:N	
+週一:N	
+四:DET	
+還:ADV	有:Vt	８５:DET	折:M	
+就:ADV	乾脆:Vi	單點:N	啦:T	
+不:ADV	知道:Vt	怎麼:ADV	選:Vt	還:ADV	有:Vt	前:DET	２０:DET	名:M	的:T	熱門:Vi	餐點:N	立牌:N	
+是:Vt	說:Vt	他們:N	點:Vt	餐:N	居然:ADV	是:Vt	用:P	平板:Vi	點:M	餐:N	好:ADV	先進:Vi	噢:T	
+點完:Vt	餐:N	可以:ADV	馬上:ADV	確定:Vt	也:ADV	比較:ADV	不會:ADV	出錯:Vi	
+香茅:Vi	檸檬茶:N	＄:FW	１２０:DET	
+左:N	
+泰式:A	奶茶:N	＄:FW	１００:DET	
+中:N	
+香椰凍飲:Vt	＄:FW	１２０:DET	
+右:N	
+我:N	很:ADV	喜歡:Vt	泰式:A	紅茶:N	的:T	茶香:N	與:C	煉乳:N	搭配:Vt	出:Vt	的:T	香:N	濃:Vi	滋味:N	
+如果:C	怕:Vt	搭配:Vt	口味:N	太:ADV	重:Vi	的:T	泰式:A	料理:N	也:ADV	可以:ADV	選:Vt	酸甜:Vi	的:T	檸檬茶:N	
+香椰凍飲:Vt	裡:POST	還:ADV	有:Vt	很:ADV	大:Vi	塊:M	的:T	椰子:N	果肉:N	耶:T	
+魚露:N	辣椒:N	
+據說:ADV	泰國人:N	就算:C	吃:Vt	白飯:N	也:ADV	要:Vt	淋上魚露:N	辣椒:N	
+不過:C	這:DET	個:M	沾醬:N	的:T	魚:N	露:Vt	味道:N	真的:ADV	頗重:Vi	
+加上:C	當天:N	的:T	料理:N	調味:Vi	也:ADV	都:ADV	很:ADV	夠:Vi	所以:C	當天:N	倒是:ADV	沒:ADV	沾到:Vt	它:N	
+泰國:N	香米:N	每:DET	碗:M	２０:DET	元:M	
+如果:C	需要:Vt	吃到:Vt	飽:Vi	則:ADV	是:Vt	每:DET	人:N	＄:FW	３０:DET	元:M	
+我們:N	這:DET	桌:M	有:Vt	個:M	大:Vi	飯桶:N	ＴＪ:FW	當然:ADV	是:Vt	選擇:Vt	吃到:Vt	飽:Vi	的:T	方案:N	無誤:Vi	XD:FW	
+嗯:T	
+不過:C	有點:ADV	令:Vt	人:N	意外:N	的:T	是:Vt	居然:ADV	不:ADV	是:Vt	用:P	銀器:N	盛裝:Vi	
+反而:C	是:Vt	比較:ADV	偏:Vt	中國風:N	的:T	瓷器:N	
+泰集:N	是:Vt	完全:ADV	用:P	泰國:N	香米:N	
+沒有:ADV	混:Vt	台灣米:N	
+不過:C	因為:C	煮法:N	的:T	關係:N	吃起來:ADV	比較:ADV	濕潤:Vi	偏軟:Vi	所以:C	還:ADV	蠻:ADV	習慣:Vt	的:T	
+至少:ADV	我:N	覺得:Vt	比:Vt	在:P	泰國:N	吃:Vt	的:T	粒粒:DET	分明:Vi	又:ADV	偏:ADV	乾:Vi	的:T	長米:N	喜歡:Vt	多:Vi	了:ASP	XD:FW	
+蝦醬:N	四季豆:N	＄:FW	２００:DET	
+四季豆:N	稍微:ADV	炸:Vt	過:ASP	咬:Vt	起來:ASP	脆口:N	
+他們:N	的:T	蝦醬:N	是:Vt	自製:Vt	的:T	
+吃起來:ADV	沒有:ADV	那麼:ADV	鹹:Vi	
+蒜味:N	也:ADV	不會:ADV	過重:Vi	
+直接:Vi	吃:Vt	不配:ADV	飯:N	我:N	也:ADV	覺得:Vt	很:ADV	好吃:Vi	
+金錢:N	蝦餅:N	＄:FW	３５０:DET	
+據說:ADV	蝦餅:N	根本:ADV	就是:C	台灣人:N	研發:Nv	
+後來:N	才:ADV	紅回:N	泰國:N	變成:Vt	泰國菜:N	XD:FW	
+有:Vt	些:M	泰式:A	餐廳:N	裡:N	賣:Vt	的:T	是:Vt	月亮:N	蝦餅:N	
+有:Vt	些:M	則:ADV	是:Vt	金錢:N	蝦餅:N	
+而:C	泰集:N	兩:DET	者:N	都:ADV	有:Vt	
+而且:C	有沒有:ADV	發現:Vt	他們:N	的:T	蝦餅:N	還是:C	愛心:N	形狀:N	的:T	也:ADV	太:ADV	可愛:Vi	了:T	吧:T	
+金錢:N	蝦餅:N	比起:P	月亮版:N	的:T	來:Vi	的:T	更:ADV	厚實:Vi	
+更:ADV	能:ADV	吃到:Vt	蝦肉:N	泥:N	有:Vt	彈性:N	的:T	口感:N	
+酥炸:Vi	過後:POST	也:ADV	不:ADV	油膩:Vi	
+搭配:Vt	酸甜:Vi	鹹:Vi	的:T	梅子醬:N	更:ADV	提:Vt	味:N	
+泰式打拋蝦鬆:Vi	＄:FW	３１０:DET	
+第一:DET	次:M	看到:Vt	蝦鬆:N	這樣:Vi	裝:Vt	的:T	
+好像:ADV	冰淇淋:N	甜筒:N	XD:FW	
+打拋葉:N	是:Vt	一:DET	種:M	類似:Vt	九:DET	層:M	塔:N	的:T	香料:N	
+這:DET	道:M	蝦鬆:N	裡:POST	除了:P	蝦仁:N	肉:N	外:POST	還:ADV	有:Vt	黃:N	木瓜:N	荸薺:N	等:POST	蔬果:N	
+咬:Vt	起來:ASP	脆脆:Vi	的:T	
+不過:C	跟:P	以往:N	吃起來:ADV	清爽:Vi	的:T	蝦:N	鬆:Vt	比起來:ADV	還:ADV	蠻:ADV	辣:Vi	且:C	是:Vt	今天:N	吃起來:ADV	口味:N	偏重:Vt	的:T	
+詢問:Vt	之下:POST	才:ADV	知道:Vt	這:DET	是:Vt	偏:ADV	大:Vi	辣:Vi	的:T	一:DET	道:M	菜:N	
+搭配:Vt	白飯:N	會:ADV	比:P	生菜:N	更:ADV	適合:Vi	
+而:C	因為:C	容器:N	的:T	關係:N	
+醬汁:N	較:ADV	容易:Vi	沉:Vi	在:P	容器:N	底部:N	
+需要:Vt	拌:Vt	一:DET	拌:Vt	再:ADV	吃:Vt	
+泰式辣:Vi	炒:Vt	螃蟹:N	＄:FW	６６０:DET	
+這:DET	是:Vt	今天:N	的:T	目的:N	之:T	一:DET	啊:T	
+心媽:N	的:T	心上人:N	螃蟹:N	先生:N	
+其實:ADV	因為:C	現在:N	非:Vt	螃蟹:N	季節:N	
+通常:ADV	我:N	對:P	泰式:A	餐廳:N	的:T	螃蟹:N	料理:Vt	期待性:N	比較:ADV	不:ADV	高:Vi	
+不過:C	這:DET	一:DET	上桌:Vi	有:Vt	令:Vt	我:N	大開眼界:Vi	的:T	感覺:N	
+因為:C	這:DET	隻:M	蟹:N	的:T	體型:N	算是:Vt	有:Vt	中上:A	的:T	水準:N	了:T	
+服務生:N	還:ADV	貼心:Vi	送上:Vt	蟹:N	鉗:Vt	等:POST	工具:N	
+你:N	看看:Vt	這:DET	大:Vi	蟹螯:N	十分:ADV	肥美:Vi	
+問:Vt	了:ASP	之後:POST	才:ADV	知道:Vt	這:DET	是:Vt	『:PARENTHESISCATEGORY	菜蟳:N	』:PARENTHESISCATEGORY	
+非三:N	點:Vt	蟹:N	或:C	普通:Vi	的:T	冷凍:Nv	小:Vi	螃蟹:N	
+不過:C	這:DET	道:M	真的:ADV	很:ADV	辣:Vi	噢:T	
+看看:Vt	這些:DET	辣椒:N	XDDD:FW	現在:N	看到:Vt	還是:ADV	有:Vt	很:ADV	熱:Vt	的:T	感覺:N	哈哈:ADV	
+我:N	咬:Vt	了:ASP	一口:ADV	蟹肉:N	就:ADV	受不了:Vt	了:ASP	
+倒是:ADV	心:N	媽:N	吃:Vt	得:T	邊:N	冒:Vt	汗:N	卻:ADV	非常:ADV	津津有味:Vi	不亦樂乎:Vi	的:T	樣子:N	
+直:ADV	說:Vt	好:Vi	好吃:Vi	還:ADV	要:ADV	為了:P	它:N	再:ADV	來:ADV	
+最後:N	還:ADV	打包:Vi	回家:Vi	繼續:Vt	啃:Vt	XDDD:FW	
+阿木:N	
+我:N	沒有:ADV	要:ADV	傷害:Vt	妳:N	形像:N	的:T	意思:N	噢:T	哈:T	哈哈:ADV	
+南瓜:N	咖哩:N	雞:N	＄:FW	４８０:DET	
+怎麼:ADV	可以:ADV	有:Vt	這麼:ADV	可愛:Vi	的:T	餐點:N	啊:T	
+整:DET	顆:M	南瓜:N	端上:Vt	桌:N	耶:T	
+連:C	南瓜:N	的:T	蓋子:N	也:ADV	切成:Vt	了:ASP	花朵:N	邊:N	
+想必:ADV	這:DET	個:M	一定:ADV	很:ADV	費工:Vi	
+而且:C	還要:ADV	儲存:Vt	夠多:Vi	南瓜:N	才:ADV	行:Vt	XD:FW	
+看完:Vt	Sheena:FW	文章:N	我:N	就是:C	想:Vt	來:ADV	吃:Vt	它:N	加:Vt	拍:Vt	它:N	阿:N	
+裡面:N	放進:Vt	的:T	就是:C	咖哩:N	雞:N	了:T	
+可以:ADV	看出:Vt	南瓜:N	邊:N	邊:N	還:ADV	保留:Vt	了:ASP	一點:DET	厚度:N	
+吃:Vt	的:T	時候:N	可以:ADV	連:Vt	南瓜肉:N	一起:ADV	挖:Vt	著:ASP	吃:Vt	
+而且:C	雞肉:N	很:ADV	嫩:Vi	
+因為:C	加:Vt	了:ASP	南瓜:N	一起:ADV	熬:Vt	煮:Vt	
+咖哩:N	的:T	味道:N	偏:Vt	甜不辣:N	
+跟:P	想像:Vt	的:T	很:ADV	下:Vt	飯:N	咖哩:N	不同:Vi	
+看過:Vt	可愛:Vi	的:T	南瓜:N	後下:N	次會:N	想要:Vt	試試看:Vt	綠:Vi	咖哩:N	
+將:P	裡頭:N	的:T	咖哩:N	雞:N	吃完:Vt	後:POST	
+南瓜:N	本人:N	還:ADV	有:Vt	兩:DET	種:M	下場:N	
+一:DET	種:M	是:Vt	拿:Vt	進去:Vi	廚房:N	切片:N	沾:Vt	糖:N	當:Vt	甜點:N	
+不然:C	也:ADV	可以:ADV	把:P	這:DET	顆:M	南瓜:N	打包:Vi	回家:Vi	耶:T	
+酸辣:N	炸:Vt	牡蠣:N	＄:FW	４８０:DET	
+連:C	炸:Vt	牡蠣:N	都:ADV	有:Vt	花朵:N	裝飾:N	
+泰集:N	的:T	擺盤:N	真的:ADV	有:Vt	touch:FW	到:P	我:N	
+有時候:ADV	真的:ADV	不得不:ADV	承認:Vt	視覺:N	是:Vt	會:ADV	影響:Vt	味覺:N	的:T	
+牡蠣:N	裹:Vt	了:ASP	番薯粉:N	油炸:Nv	後:POST	還是:ADV	非常:ADV	碩大:Vi	
+底下:N	是:Vt	的:T	湯汁:N	以:P	檸檬汁:N	為主:Vi	
+味道:N	很:ADV	酸:Vi	很:ADV	夠味:Vi	
+一口:ADV	咬下:Vt	肥美:Vi	的:T	牡蠣:N	與:C	檸檬:N	的:T	酸:Vi	在:P	口:N	中:N	鮮味:N	噴發:Vt	
+嗯:T	
+這:DET	是:Vt	我:N	今天:N	最:ADV	最:ADV	喜歡:Vt	的:T	一:DET	道:M	一口氣:ADV	吃掉:Vt	三:DET	顆:M	
+沒:Vt	人:N	跟:P	我:N	搶:Vt	的:T	話:N	全部:DET	吃掉:Vt	也:ADV	沒:Vt	問題:N	XD:FW	
+愛:Vt	吃:Vt	牡蠣:N	的:T	必:ADV	點:Vt	
+非常:ADV	推薦:Vt	
+酸辣:N	海鮮湯:N	
+清湯:N	／:FW	重味:N	
+＄:FW	３６０:DET	
+從:P	泰國:N	畢業:Vi	旅行:Vi	回來:Vi	後:POST	就:ADV	一直:ADV	很:ADV	懷念:Vt	泰國:N	的:T	酸辣湯:N	
+在:P	台灣:N	比較:ADV	少:Vi	嚐到:Vt	那:DET	種:M	酸:Vi	得:T	徹底:Vi	
+辣:Vi	到:Vt	邊:N	喝:Vt	邊:N	流汗:Vi	
+卻:ADV	又:ADV	令:Vt	人:N	念念不忘:Vt	的:T	感覺:N	
+泰集:N	的:T	酸辣湯:N	分為:Vt	清湯:N	與:C	重湯:N	
+清湯:N	偏:ADV	酸:Vi	而:C	重:Vt	湯偏:N	辣:Vi	
+我們:N	則:ADV	是:Vt	選:Vt	了:ASP	清湯:N	
+裡面:N	的:T	海鮮:N	料超:N	多:ADV	
+有:Vt	一:DET	隻:M	大:Vi	蝦子:N	
+貼心:Vi	開背:N	去:Vt	了:ASP	腸泥:N	
+另外:C	還:ADV	有:Vt	透抽:N	蟹腳:N	魚片:N	蛤蠣:N	
+最:ADV	重要:Vi	的:T	是:Vt	他們:N	的:T	湯頭:N	是:Vt	夠:ADV	酸:Vi	的:T	
+清湯:N	的:T	檸檬:N	的:T	酸度:N	有:Vt	出來:Vi	再:ADV	加上:Vt	些許:DET	辣度:N	
+像:Vt	是:Vt	平淡:Vi	中:POST	激起:Vt	漣漪:N	的:T	快感:N	
+不但:C	好喝:Vi	也:ADV	沒有:Vt	很:ADV	大:Vi	的:T	負擔:N	感:Vt	
+是:Vt	目前:N	在:P	台灣:N	喝到:Vt	最:ADV	喜歡:Vt	的:T	泰式:A	酸辣湯:N	
+南瓜:N	布丁:N	＄:FW	１８０:DET	
+看到:Vt	菜單:N	上:N	有:Vt	『:PARENTHESISCATEGORY	芒果:N	糯米:N	』:PARENTHESISCATEGORY	本來:ADV	超:Vt	想:Vt	點:N	的:T	
+曾經:ADV	在:P	泰國:N	到處:ADV	都:ADV	吃:Vt	得到:Vt	的:T	超:Vt	好吃:Vi	芒果:N	糯米:N	
+回來:Vi	台灣:N	居然:ADV	完全:ADV	沒有:ADV	看到:Vt	過:ASP	
+結果:ADV	服務生:N	說:Vt	大概:ADV	還要:ADV	再:ADV	過:Vt	一:DET	個:M	禮拜:N	才:ADV	會:ADV	進:Vt	
+嗚:T	
+我:N	一定:ADV	要:ADV	再:ADV	去:ADV	吃:Vt	
+回到:Vt	南瓜:N	布丁:N	
+搭配:Vt	椰子:N	冰淇淋:N	
+布丁:N	的:T	口感:N	是:Vt	綿密:Vi	的:T	
+跟:P	底下:N	蒸熟:Vi	的:T	南瓜:N	一樣:Vi	
+其實:ADV	我:N	一直:ADV	覺得:Vt	布丁:N	有:Vt	木瓜味:N	XD:FW	
+口感:N	不會:ADV	很:ADV	甜:Vi	膩:Vi	
+加上:C	冰淇淋:N	一起:ADV	吃:Vt	更:ADV	順口:Vi	
+很:ADV	特別:Vi	的:T	一:DET	道:M	甜品:N	
+最後:N	還:ADV	招待:Vt	三:DET	支:M	試管:N	無:Vt	酒精:N	飲品:N	
+藍色:N	的:T	是:Vt	檸檬:N	
+紅色:N	的:T	是:Vt	草莓:N	
+我:N	覺得:Vt	喝:Vt	起來:ASP	跟:P	香茅:Vi	檸檬茶:N	一樣:Vi	耶:T	
+餐點:N	都:ADV	上完:Vt	後:POST	服務生:N	會:ADV	送上:Vt	酸子糖:N	與:C	意見表:N	
+不:ADV	知道:Vt	大家:N	有沒有:ADV	過:ADV	相同:Vi	的:T	感覺:N	
+一般:ADV	會:ADV	提供:Vt	意見表:N	的:T	餐廳:N	不:ADV	多:Vi	
+但是:C	會:ADV	有:Vt	意見表:N	的:T	餐廳:N	通常:ADV	都:ADV	很:ADV	滿意:Vt	比較:ADV	沒有:Vt	意見:N	XDDD:FW	
+泰集:N	即:ADV	是:Vt	屬於:Vt	這樣:Vi	的:T	餐廳:N	
+餐點:N	水準:N	與:C	服務:Nv	皆:ADV	令:Vt	人:N	感到:Vt	滿意:Vt	
+結論:N	：:COLONCATEGORY	
+這:DET	一帶:N	的:T	泰式:A	料理:N	餐廳:N	算是:Vt	競爭:N	激烈:Vi	
+泰集:N	有:Vt	走出:Vt	自己:N	的:T	風格:N	
+時尚:N	精緻:Vi	且:C	餐點:N	有:Vt	創意:N	
+例如:P	愛心型:N	的:T	泰式蝦餅:N	、:PAUSECATEGORY	整:DET	顆:M	南瓜:N	的:T	咖哩:N	雞:N	
+我:N	很:ADV	愛:Vt	這:DET	種:M	『:PARENTHESISCATEGORY	視覺:N	上:N	的:T	美味:N	』:PARENTHESISCATEGORY	
+第一:DET	次:M	來:ADV	可以:ADV	先:ADV	依照:P	廚房:N	安排:Vt	的:T	口味:N	
+之後:N	味道:N	若:C	需要:Vt	加重:Vt	加:Vt	辣:Vi	都:ADV	可以:ADV	告知:Vt	
+雖然:C	非:Vt	套餐:N	的:T	價位:N	稍微:ADV	偏:ADV	高:Vi	
+不過:C	花旗卡:N	有:Vt	打折:Vi	啦:T	
+但是:C	這裡:N	的:T	服務:Nv	非常:ADV	棒:Vi	
+裝潢:Vt	時尚:N	優雅:Vi	
+服務生:N	對:P	餐點:N	的:T	了解度:N	也:ADV	高:Vi	
+是:Vt	一:DET	間:M	會:ADV	想:Vt	再:ADV	帶:Vt	長輩:N	朋友:N	來:ADV	吃:Vt	的:T	餐廳:N	
+亦:ADV	是:Vt	我:N	心:N	中:POST	前:DET	幾:DET	名:M	的:T	泰式:A	料理:N	
+食物:N	美味:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	☆:FW	
+ＣＰ:FW	值:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	☆:FW	
+服務:Nv	態度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	★:FW	
+再:ADV	訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	★:FW	
+本:DET	篇:M	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32544306:DET	

@@ -1,0 +1,96 @@
+KUNI:FW	0202:DET	(:PARENTHESISCATEGORY	藐視:Vt	王法:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	再:ADV	訪千壽:N	日本:N	料理:N	
+SunJul:FW	2000:DET	::COLONCATEGORY	27:DET	::COLONCATEGORY	312014:DET	圖文:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	2014年:N	七月:N	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	380026253:DET	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	千壽:N	日本:N	料理:Vt	地址:N	：:COLONCATEGORY	台北市:N	忠孝東路:N	四段:N	216巷:N	27弄:N	17:DET	號:M	時間:N	：:COLONCATEGORY	18:DET	::COLONCATEGORY	00:DET	
+24:DET	::COLONCATEGORY	00:DET	Tue:FW	
+Sun:FW	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	去年:N	千壽首訪:Vt	的:T	印象:N	很:ADV	微妙:Vi	
+當晚:N	的:T	足立:N	san:FW	
+個性:N	比:P	魚道生濟安:N	師傅:N	還:ADV	要:Vt	嚴謹:Vi	
+甚至:ADV	可:ADV	稱:Vt	之:N	為:Vt	嚴肅:Vi	
+高強:Vi	的:T	技術:N	倒是:ADV	獲得:Vt	確認:Nv	
+但:C	不:ADV	知:Vt	為何:ADV	他:N	的:T	壽司:N	並未:ADV	打動:Vt	我:N	
+不過:C	由於:C	當天:N	身體:N	不:ADV	舒服:Vi	
+間接:ADV	影響到:Vt	味覺:N	上:N	的:T	精準:Vi	
+所以:C	一直:ADV	想:Vt	找:Vt	天:M	回來:Vi	重新:ADV	確認:Vt	一:DET	次:M	
+幾:DET	個:M	月:N	後:POST	與:C	嘴:N	刁:Vi	的:T	朋友:N	一同:ADV	前來:Vt	
+順便:ADV	帶:Vt	支:M	沒:ADV	喝:Vt	過:ASP	的:T	鳳麟純米大吟釀:Vt	來:ADV	試試:Vt	
+許久:N	不:ADV	見:Vt	
+板:N	前:POST	的:T	足立:N	似乎:ADV	多:Vi	了:ASP	點:M	福態:N	
+Hana:FW	小姐:N	則:ADV	依舊:ADV	溫柔:Vi	可人:Vi	
+晚間:N	的:T	Omakase:FW	就此:ADV	展開:Vt	
+內容:N	如下:Vt	：:COLONCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	北海道:N	紫:Vi	海膽:N	佐:Vt	海苔醬:N	與:C	醃:Vt	漬水茄:N	野生:A	本:DET	鮪:N	三連:A	發:Vt	
+赤身:Vi	
+中腹:N	與:C	前腹:N	
+甜:Vi	蝦:N	與:C	干貝:N	醃:Vt	漬:N	小:Vi	碟:N	本:DET	象拔:N	蚌:N	鯖魚:N	海苔:N	平貝:N	日本:N	海螺:N	真:Vi	子鰈佐橙醋白鰻:N	蘿蔔:N	捲:Vt	青龍:N	鑲:Vt	蝦仁:N	天婦羅:N	拼盤:N	：:COLONCATEGORY	酒:N	泊漬軟絲:Vt	
+稻草:N	煙燻:Vt	吉拉多:N	1:DET	號:M	生蠔佐:N	酒:N	泊:Vi	奶油:N	起:POST	司:Vt	
+清酒:N	鮑魚:N	煮:Vt	
+牡丹:N	蝦:N	牛:N	蕃茄:N	盅:N	
+蘆筍:N	
+子:N	持:Vt	昆布佐:N	蛋黃:N	醋:N	
+松葉:N	蟹肉:N	烤金目鯛:N	醃:Vt	漬:N	小黃瓜:N	握:Vt	壽司:N	：:COLONCATEGORY	鮪魚:N	中:POST	腹:N	牡丹:N	蝦漬:N	本:DET	鮪:N	赤身:Vi	竹夾:N	本:DET	鮪:N	大:Vi	腹:N	真:Vi	子鰈:N	昆布:N	漬甘:N	鯛:N	
+馬頭魚:N	
+沙丁魚:N	昆布:N	漬:Vt	甜:Vi	蝦:N	昆布:N	漬滷:N	鮑魚:N	章魚:N	煮紫:Vi	海膽:N	利尻:N	馬糞:N	海膽:N	
+本:DET	鮪:N	手卷水:N	雲:N	味噌玉子燒:N	白玉:N	丸子:N	佐黑:N	糖蜜:N	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-:DASHCATEGORY	首先:ADV	紫:Vi	海膽:N	佐:Vt	海苔醬:N	與:C	醃:Vt	漬水茄:N	負責:Vt	打頭陣:Vi	
+在:P	溫潤:Nv	與:C	滑溜:Vi	上:POST	作:Vt	文章:N	
+緊接:Vt	而:C	來:ADV	野生:A	本:DET	鮪:N	三連:A	發令:Vi	人:N	著迷:Vi	
+不論:C	赤身:Vi	
+中腹:N	或是:C	前腹熟成:Vt	均:ADV	已:ADV	達:Vt	最佳:A	狀態:N	
+有:Vt	著:ASP	均衡:Vt	與:C	尾:N	韻:N	的:T	酸:Nv	以及:C	難以:ADV	形容:Vt	的:T	淡雅:Vi	香氣:N	
+調性:N	一:ADV	轉:Vt	接下來:ADV	是:Vt	甜:Vi	蝦:N	與:C	干貝:N	的:T	鹽麴:N	醃:Vt	漬:N	
+然後:ADV	本:DET	象拔:N	蚌:N	清爽:Vi	脆:Vi	甜:Vi	
+鯖魚:N	肉質:N	細嫩:Vi	肥美:Vi	
+微炙:Vi	過:ASP	的:T	平貝:N	被:P	優質:A	的:T	海苔:N	香氣:N	襯托出:Vt	來:ADV	
+今天:N	的:T	海螺:N	口感:N	較:ADV	乏:Vt	
+但:C	鰈肉香綿:N	硬是:ADV	扳回一城:Vi	
+白鰻:N	蘿蔔:N	捲:Vt	與:C	天婦羅熱:N	呼呼:ADV	的:T	
+把:P	暖和:Vi	帶回:Vt	胃:N	裡:N	
+接下來:ADV	拼盤:N	料理:N	夠:ADV	精彩:Vi	：:COLONCATEGORY	充滿:Vt	稻草:N	煙燻:Vt	香氣:N	的:T	法國:N	吉拉多:N	一:DET	號:M	生蠔:N	完美:Vi	與:P	起:ASP	司融:N	在一起:Vi	
+有時:ADV	如:P	微:ADV	鹹:Vi	的:T	煉乳:N	
+帶:Vt	著:ASP	類似:Vt	生:Vt	巧克力:N	的:T	軟綿:N	
+底下:N	檸檬片:N	適時:ADV	將:ADV	過多:Vi	的:T	海洋:N	濃郁:Vi	解膩:Vi	
+鮑魚:N	煮:Vt	味道:N	單一:A	卻:ADV	不:ADV	單調:Vi	
+難以置信:Vi	的:T	口感:N	
+絕佳:Vi	的:T	嫩度:N	透露出:Vt	背後:N	高超:Vi	的:T	料理:N	功夫:N	
+今天:N	的:T	牡丹:N	蝦:N	味道:N	尚可:Vi	
+稀有:Vi	的:T	子:N	持:Vt	昆布佐:N	蘆筍:N	清爽:Vi	
+細心:Vi	挑出來:Vi	的:T	松葉:N	蟹肉:N	繼續:Vt	維持:Vt	高:Vi	標的:N	美味:Vi	節奏:N	
+持平:Vi	的:T	金目鯛烤物:N	與:C	負責:Vt	潤口:N	的:T	小黃瓜:N	後:POST	
+握:Vt	壽司:N	登場:Vi	
+今晚:N	舍利:N	狀況:N	極:ADV	佳:Vi	
+足立:N	san:FW	手勁:N	恰到好處:Vi	
+尤其:ADV	是:Vt	醋飯:N	
+仔細:Vi	瞧:Vt	還:ADV	能:ADV	看到:Vt	如:P	膠質:N	般:POST	的:T	澱粉:N	厚厚:Vi	包覆:Vt	在:P	米粒:N	表面:N	
+唯一:A	不:ADV	滿意:Vt	的:T	是:Vt	溫度:N	及:C	過多:Vi	的:T	紅醋:N	使用:Vt	比例:N	吧:T	
+中腹握:Vi	負責:Vt	起頭:Vi	
+本:DET	鮪魚:N	生:Vt	的:T	精彩:Vi	不用說:ADV	
+開頭:N	確認:Vt	過:ASP	
+濃郁:Vi	的:T	紅醋:N	與:C	首訪:Vt	時:ADV	有:Vt	了:ASP	差距:N	
+變得:Vt	較為:ADV	溫和:Vi	
+但:C	整體:N	而言:Vt	今晚:N	的:T	壽司:N	溫度:N	偏:ADV	高:Vi	
+仔細:Vi	觀察:Vt	足立捏製握:Vi	壽司:N	的:T	節奏:N	及:C	速度:N	是:Vt	較為:ADV	緩慢:Vi	的:T	
+不過:C	是否:ADV	與:P	此:DET	有:Vt	直接:Vi	關聯:Nv	則:ADV	未:ADV	可:ADV	知:Vt	
+至於:P	紅醋:N	飯:N	部分:DET	在:P	開頭:N	幾:DET	貫:M	表現:N	其實:ADV	還:ADV	不錯:Vi	
+尤其:ADV	是:Vt	本:DET	鮪:N	那:DET	三:DET	貫:M	
+熟成:Vt	出來:Vi	的:T	風味:N	更為:ADV	被:P	彰顯:Vt	出來:Vi	
+但:C	吃到:Vt	後來:N	套:Vt	句:M	刁嘴:N	朋友:N	講:Vt	的:T	
+有:Vt	愈:ADV	吃:Vt	愈:ADV	膩:Vi	的:T	困擾:N	
+尤其:ADV	是:Vt	最後:N	的:T	兩:DET	貫:M	海膽:N	
+濃郁:Vi	的:T	紅醋:N	飯:N	真的:ADV	有:Vt	些:M	可惜:Vi	
+悲情:N	覆蓋:Vt	掉紫:Vi	海膽:N	一:ADV	小:Vi	部分:DET	的:T	細緻:Vi	色彩:N	
+好在:ADV	還:ADV	有利:Vt	尻:N	的:T	馬糞:N	海膽:N	繼續:Vt	保有:Vt	繽紛:Vi	亮麗:Vi	的:T	甜味:N	
+最後:N	
+今晚:N	昆布:N	漬:Vt	的:T	手法:N	與:C	首訪:Vt	比起來:ADV	顯得:Vt	熟練:Vi	許多:DET	
+濃稠:Vi	的:T	膠質:N	與:C	黏液:N	為:Vt	魚生:N	增添:Vt	了:ASP	層次:N	與:C	風味:N	
+已:ADV	成為:Vt	足立:N	辨識度:N	十足:Vi	的:T	看家本領:N	
+可惜:Vi	似乎:ADV	有:Vt	大量:DET	使用:Vt	的:T	傾向:N	
+導致:Vt	後頭:N	變得:Vt	有:Vt	些:M	無趣:Vi	
+另外:C	依舊:ADV	要:ADV	特別:Vi	提:Vt	一下:N	裡頭:N	的:T	外:N	場:N	Hana:FW	
+如:P	首訪:Vt	時:POST	一樣:Vi	貼心:Vi	與:C	善解人意:Vi	
+絕對:ADV	是:Vt	千壽:N	的:T	亮點:N	
+若:C	沒有:Vt	她:N	適時:ADV	化解:Vt	內:N	場:N	的:T	嚴肅:Vi	氣氛:N	
+很:ADV	難:Vi	想像:Vt	在:P	不苟言笑:Vi	的:T	足立:N	前面:N	我:N	還:ADV	能:ADV	再:ADV	訪:Vt	幾:DET	次:M	呀:T	
+微笑:Vi	
+相關:Vi	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+請:Vt	用:P	滑鼠:N	點選:Vt	
+

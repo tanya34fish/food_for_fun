@@ -1,0 +1,108 @@
+smallta:FW	(:PARENTHESISCATEGORY	冷笑:Vi	生:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	西雅圖:N	極品:N	咖啡:N	bristapremium:FW	
+ThuJul:FW	1723:DET	::COLONCATEGORY	35:DET	::COLONCATEGORY	462014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	西雅圖:N	極品:N	咖啡:N	bristapremium:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	4:DET	段:M	250:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27116950:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	
+有無:Vt	包廂:N	：:COLONCATEGORY	Y:FW	
+推薦:Vt	菜色:N	：:COLONCATEGORY	咖啡:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	likebestfood.pixnet.net/blog/post:FW	/:FW	183536727:DET	
+
+有:Vt	圖:N	無:Vt	音樂板:N	
+日前:N	一:DET	張:M	澎:N	澎:N	蛋:N	飯:N	的:T	照片:N	引起:Vt	友人:N	的:T	興趣:N	
+放下:Vt	烤肉:N	名單:N	
+直:ADV	奔:Vi	這:DET	家:M	位於:Vt	東區:N	的:T	西雅圖:N	極:ADV	
+品:N	咖啡店:N	
+就是:C	想:Vt	一:ADV	嘗:Vt	那:DET	特別:Vi	的:T	澎:N	澎:N	蛋:N	飯:N	
+加上:C	斥資:Vt	千萬:DET	裝潢:N	也:ADV	是:Vt	頗:ADV	令:Vt	人:N	好奇:Vi	裝潢:N	如何:ADV	
+位於:Vt	延吉街:N	與:C	忠孝東路:N	的:T	交接處:N	
+算是:Vt	很:ADV	好:Vi	找:Vt	
+外觀:N	閃:Vt	亮亮:Vi	的:T	招牌:N	也:ADV	可以:ADV	清楚:Vi	看到:Vt	
+內部:N	
+有:Vt	著:ASP	類似:Vt	英式:A	沙龍:N	的:T	感覺:N	
+一樓:N	還:ADV	有:Vt	兩:DET	間:M	包廂:N	
+華麗:Vi	的:T	吊燈:N	與:C	沙發:N	座椅:N	
+就:P	氣氛:N	來:ADV	說:Vt	的確:ADV	
+很:ADV	不錯:Vi	
+窗戶:N	的:T	採光:N	也:ADV	很:ADV	適合:Vi	拍照:Vi	
+菜單:N	一覽:N	
+咖啡:N	有:Vt	分:M	單品:N	跟:P	義式:A	
+主餐:N	選擇:N	不:ADV	多:Vi	
+還:ADV	有:Vt	些:M	甜點:N	
+義式:A	咖啡:N	約:ADV	落在:Vt	200:DET	上下:N	
+單品:N	則:ADV	視:P	豆子:N	有:Vt	不同:Vi	價格:N	區間:N	
+主餐:N	約:ADV	280:DET	
+鬆餅:N	180:DET	
+加:Vt	100:DET	可:ADV	任選:Vt	250:DET	以下:N	的:T	飲料:N	
+不:ADV	
+收:Vt	服務費:N	但是:C	澎:N	澎:N	蛋:N	今天:N	沒有:ADV	供應:Vt	
+晴天霹靂:Vi	
+點:Vt	了:ASP	窯烤:Vt	起:ASP	司:N	咖哩:N	牛肉:N	飯:N	、:PAUSECATEGORY	窯烤:Vt	籃:N	帶:Vt	豬排:N	咖哩飯:N	、:PAUSECATEGORY	跟:P	一:DET	個:M	草莓:N	舒芙:N	蕾:N	
+飲料:N	點:Vt	了:ASP	幽浮:N	冰咖:N	
+啡:b	、:PAUSECATEGORY	摩卡:N	咖啡:N	跟:P	冰:N	拿:Vt	鐵:N	
+飲料:N	先:ADV	上:Vt	
+幽浮:N	冰:N	咖啡:N	就:ADV	是:Vt	黑:Vi	咖啡:N	加上:Vt	鮮:Vi	奶油:N	跟:P	冰淇淋:N	
+雖然:C	很:ADV	簡單:Vi	
+視覺:N	效果:N	還是:ADV	挺:ADV	不:ADV	
+錯:Vi	
+黑:Vi	咖啡:N	的:T	苦:Nv	
+冰淇淋:N	的:T	甜:Vi	加:Vt	點:M	鮮:Vi	奶油:N	的:T	點綴:Nv	
+還:ADV	不錯:Vi	
+搭鮮:N	奶油:N	也:ADV	沒:ADV	想像:Vt	中:POST	突兀:Vi	
+讓:Vt	
+今日:N	配件:N	來:Vi	個:M	合拍:Vt	感受:N	夏威夷:N	般:POST	的:T	熱情:N	
+摩卡:N	與:C	冰:N	拿:Vt	鐵:N	
+用:P	特別:Vi	的:T	杯子:N	裝:Vt	著:ASP	上來:Vi	
+賣:Vt	相:ADV	好看:Vi	
+但是:C	友人:N	對:P	這:DET	兩:DET	杯:M	評價:N	不:ADV	是:Vt	那麼:ADV	高:Vi	
+因為:C	沒:ADV	喝完:Vt	
+主餐:N	附:Vt	的:T	湯:N	
+應該:ADV	還可以:ADV	
+起:Vt	司:N	牛肉:N	咖哩:N	
+色澤:N	鮮艷:Vi	
+那:DET	一:DET	顆:M	垂涎:Vt	欲:Vt	滴:Vt	的:T	太陽:N	蛋:N	雖:C	不:ADV	大:Vi	
+卻:ADV	很:ADV	吸睛:Vi	
+底下:N	融化:Vt	的:T	起:Vt	司:N	
+打底:Vi	
+戳破:Vt	蛋黃:N	那:DET	一:DET	刻:M	
+結合:Vt	咖哩:N	、:PAUSECATEGORY	起:Vt	司:N	和:C	白飯:N	還:ADV	不錯:Vi	
+牛肉:N	塊:N	也:ADV	算:Vt	蠻:ADV	多:Vi	
+但是:C	記憶點:N	就:ADV	
+有點:ADV	薄弱:Vi	
+愛:Vt	吃:Vt	咖哩:N	的:T	某:DET	位:M	友人:N	落筆:Vi	：:COLONCATEGORY	比:P	丹提:N	咖啡:N	的:T	好:Vi	一些:DET	
+不幸:Vi	的:T	是:Vt	這:DET	份:M	並:ADV	沒有:ADV	吃完:Vt	
+.:PERIODCATEGORY	
+藍:N	帶:Vt	豬排:N	咖哩:N	
+主菜:N	從:P	牛肉:N	變:Vt	一:DET	大:Vi	塊:M	炸豬排:N	
+裡面:N	挾:Vt	著:ASP	起司:N	
+不:ADV	油:N	
+麵衣:N	酥脆:Vi	
+加上:C	裡面:N	
+的:T	起:Vt	司:N	調和:Vt	
+吃:Vt	來:ADV	不:ADV	乾:Vi	
+配上:Vt	咖哩飯:N	還:ADV	蠻:ADV	下:Vt	飯:N	
+忘記:Vt	友人:N	評價:N	如何:ADV	
+草莓:N	舒服:Vi	蕾:N	鬆餅:N	
+草莓:N	、:PAUSECATEGORY	鮮:Vi	奶油:N	、:PAUSECATEGORY	冰淇淋:N	跟:P	單層:A	的:T	舒芙蕾:N	鬆餅:N	
+賣:Vt	相:ADV	還:ADV	ok:FW	
+口感:N	上:POST	比較:ADV	紮:Vt	
+實:ADV	
+綿密:Vi	細緻:Vi	
+單:ADV	吃:Vt	的:T	話:N	也:ADV	不會:ADV	感到:Vt	很:ADV	乾:Vi	
+能:ADV	感受到:Vt	蛋:N	與:C	麵粉:N	香:Vi	
+但:C	建議:Vt	配:Vt	著:ASP	上面:N	的:T	佐料:N	
+會:ADV	比較:ADV	好:Vi	
+最後:N	氣氛:N	好:Vi	
+餐點:N	還可以:ADV	
+服務:Vt	不錯:Vi	
+今日:N	觀察:Vt	比較:ADV	多:Vi	家庭:N	聚餐:Vi	
+人:N	多:ADV	有:Vt	兩:DET	小時:M	用餐:Nv	限制:N	
+想:Vt	享受:Vt	不:ADV	一樣:Vi	的:T	氣氛:N	可以:ADV	來:ADV	點:Vt	杯:M	咖啡:N	當:Vt	個:M	貴族:N	
+聚餐:Vi	聊聊天:Vi	
+也:ADV	還:ADV	蠻:ADV	不:ADV	賴:Vt	的:T	是:Vt	吧:T	
+└:FW	┐:FW	┌:FW	┴:FW	┐:FW	
+為:P	女人:N	身:N	敗:Vi	‧:PERIODCATEGORY	名裂:Vi	├:FW	─:FW	┤:FW	
+└:FW	┐:FW	├:FW	─:FW	┘:FW	
+這:DET	才:ADV	符合:Vt	│:FW	囧:Vi	┬:FW	┐:FW	
+我:N	的:T	┌:FW	┘:FW	└:FW	─:FW	┘:FW	└:FW	子:N	個性:N	

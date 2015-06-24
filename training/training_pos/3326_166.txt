@@ -1,0 +1,107 @@
+ilovelarry(Frannie:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	開丼:N	!:EXCLAMATIONCATEGORY	燒肉:N	vs:FW	丼:b	飯:N	大:Vi	口:N	吃:Vt	肉:N	爆紅:N	有理:Vi	
+FriJul:FW	1808:DET	::COLONCATEGORY	00:DET	::COLONCATEGORY	242014:DET	餐廳:N	名稱:N	：:COLONCATEGORY	開丼:N	-:DASHCATEGORY	燒肉:N	vs:FW	丼飯:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	江南街:N	87:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	87523368:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	~:FW	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	20:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	$:FW	170:DET	~:FW	$:FW	200:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	日出:Vi	燒肉:N	丼:b	
+建議:Vt	閱讀:Vt	版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/YEbMZe:FW	
+
+近期:N	最:ADV	夯:b	火紅:A	的:T	美食:N	絕對:ADV	是:Vt	這:DET	間:M	”:FW	開丼:N	”:FW	
+已經:ADV	看過:Vt	不:ADV	知道:Vt	多少:DET	網友:N	大力:ADV	推薦:Vt	的:T	食記:N	
+望肉:N	興嘆:Vi	了:ASP	許久:N	
+終於:ADV	趁著:P	這:DET	趟:M	去:Vt	costco:FW	採買:Vt	之餘:POST	吃:Vt	到:P	啦:T	
+開丼:N	目前:N	有:Vt	兩:DET	間:M	店:N	
+木柵:N	政大:N	創始:Vt	店:N	外:N	
+另:DET	一:DET	店:N	就是:C	這:DET	次:M	來:Vi	的:T	內湖店:N	
+搭:Vt	捷運:N	至:C	港墘:N	站:Vi	
+步行:Vi	約:ADV	5:DET	分鐘:M	可:ADV	抵達:Vt	
+或是:C	開車:Vi	/:FW	騎車:Vi	前往:Vt	也:ADV	行:Vi	
+附近:N	停車位:N	還:ADV	算好:Vt	找:Vt	
+各:DET	位:M	看倌:N	
+來:ADV	開丼:N	用餐:Vi	請:Vt	務必:ADV	做好:Vt	排隊:Vi	的:T	心理:N	準備:Vt	
+尤其:ADV	周末:N	來訪:Vi	
+等上:Vt	半:DET	小時:N	是:Vt	家常便飯:N	啊:T	Q_Q:FW	
+請:Vt	先:ADV	跟:P	店員:N	登記:Vt	
+然後:ADV	不要:ADV	走遠:Vi	在:P	旁邊:N	等候:Vt	
+待:P	輪到:Vt	你:N	時:POST	
+店員:N	會:ADV	開始:Vt	叫號:Vt	找:Vt	人:N	
+沒有:Vt	名店:N	的:T	高:Vi	架子:N	
+態度:N	還:ADV	蠻:ADV	好:Vi	的:T	給:Vt	個:M	推:Vt	
+店:N	內:N	裝潢:Vt	走:Vi	簡約:Vi	路線:N	
+雖然:C	沒有:Vt	太:ADV	華麗:Vi	裝飾:N	
+但:C	很多:DET	細節:N	都:ADV	好:ADV	可愛:Vi	
+“:FW	哈:N	哈哈:ADV	哈哈:ADV	
+你:N	今天:N	開丼:N	了:T	嗎:T	
+”:FW	
+開丼:N	以:P	燒肉:N	聞名:Vi	
+基本:A	款燒肉丼:N	可:ADV	選擇:Vt	牛肉:N	/:FW	豬肉:N	、:PAUSECATEGORY	大:Vi	碗:N	/:FW	小腕:N	
+價格:N	區間:N	在:P	$:FW	170:DET	-:DASHCATEGORY	$:FW	200:DET	
+大:Vi	碗:N	的:T	肉量:N	會:ADV	加:Vt	50:DET	%:M	
+店家:N	強調:Vt	吃飽:Vi	很:ADV	重要:Vi	
+所以:C	米飯:N	、:PAUSECATEGORY	湯品:N	吃:Vt	不:ADV	夠:Vi	都:ADV	可以:ADV	續:ADV	唷:T	
+超級:A	適合:Vi	大胃王:N	的:T	一:DET	間:M	店:N	
+最多:Vi	只要:C	$:FW	200:DET	就:ADV	能:ADV	吃:Vt	超飽:Vi	
+因為:C	這:DET	不:ADV	收:Vt	服務費:N	
+屬於:Vt	半:DET	自助式:N	用餐:Nv	方式:N	
+想要:Vt	什麼:DET	就:ADV	自己:N	來:Vi	吧:T	
+推薦:Vt	指數:N	no:FW	.:PERIODCATEGORY	1:DET	
+日出:Vi	燒肉:N	丼:b	
+大:Vi	
+---:DASHCATEGORY	$:FW	200:DET	
+因為:C	等:Vt	了:ASP	很:ADV	久:Vi	以致:C	飢腸轆轆:Vi	到:P	極限:N	夭:b	
+所以:C	一:DET	個:M	失手:Vi	就:ADV	點:Vt	了:ASP	大:Vi	份:M	的:T	^:FW	_:FW	&:FW	lt:FW	
+但:C	一般人:N	應該:ADV	吃:Vt	小:Vi	碗:N	就:ADV	ok:FW	了:T	啦:T	
+丼飯:N	除了:P	主餐:N	外:POST	
+皆:ADV	附:Vt	蘿:b	蔓生:Vi	菜葉:N	、:PAUSECATEGORY	紅豆:N	紫:Vi	米湯:N	
+加上:C	自助區:N	的:T	味噌湯:N	
+十足:Vi	是:Vt	個:M	定食:Vt	套餐:N	了:T	
+這:DET	碗:M	”:FW	日出:Vi	燒肉丼:Vt	”:FW	賣:Vt	相:ADV	可:ADV	不得了:Vi	
+烤豬:N	肉片:N	、:PAUSECATEGORY	蔥花:N	層層:DET	堆疊:Vt	
+上頭:N	再:ADV	擺上:Vt	顆:M	生:Vt	蛋黃:N	
+彷彿:ADV	日出:Vi	般:POST	充滿:Vt	活力:N	
+大聲:Vi	喊:Vt	著:ASP	：:COLONCATEGORY	吃:Vt	我:N	吃:Vt	我:N	吃:Vt	我:N	
+開丼嚴選:Vt	雞蛋界:N	的:T	資優生:N	
+葉黃素:N	加倍:Vi	
+安心:Vi	又:C	營養:N	生:Vt	吃:Vt	免:ADV	擔心:Vt	
+黃澄澄:Vi	的:T	蛋黃:N	和:C	白米飯:N	根本:N	絕配:N	
+逼逼:Vt	逼:Vt	
+緩緩:Vi	流下:Vt	的:T	蛋:N	汁超:N	犯規:Vi	啊:T	
+開丼:N	自:P	慢:Vi	獨家:A	秘方:N	燒肉:N	肉醬:N	
+選用:Vt	日本:N	龜甲:N	萬:DET	醬油:N	、:PAUSECATEGORY	天然味:N	淋:Vt	、:PAUSECATEGORY	純釀白味:N	噌:b	
+再:ADV	加入:Vt	蘋果:N	泥:N	、:PAUSECATEGORY	麥芽糖:N	、:PAUSECATEGORY	海鹽:N	等:POST	天然:A	食材熬煮:Vt	
+味道:N	甜:Vi	中:POST	帶:Vt	鹹:Vi	
+風味:N	厚實:Vi	又:ADV	不失:Vt	細膩:Vi	
+確實:ADV	令:Vt	我:N	回味:Vt	無窮:Vi	
+燒:Vt	肉:N	在:P	這般:Vi	醬汁:N	加持:Vt	之下:POST	
+美味:Vi	程度:N	自然:ADV	不在話下:Vi	
+烤:Vt	得:T	恰到好處:Vi	
+豬肉:N	片:N	帶有:Vt	4成:DET	油脂:N	
+吃到:Vt	最後:N	卻:ADV	不會:ADV	覺得:Vt	油膩:Vi	
+果然:ADV	在:P	醬汁:N	上:N	下工夫:Vi	
+再:ADV	搭配:Vt	純熟:Vi	的:T	燒肉:N	功力:N	
+好吃:Vi	沒:ADV	話說:ADV	
+店家:N	強調:Vt	白米飯:N	為:P	西螺:N	稻農:N	直:ADV	送:Vt	
+嚴選清健:N	好:Vi	米:N	
+香:N	Ｑ:FW	美味:N	充滿:Vt	人情味:N	
+可是:C	我:N	覺得:Vt	這裡:N	的:T	米:N	並:ADV	不:ADV	算:Vt	非常:ADV	優秀:Vi	
+雖然:C	配:Vt	著:ASP	燒肉:N	、:PAUSECATEGORY	蔥花:N	吃:Vt	還:ADV	不:ADV	賴:Vt	
+但:C	仍:ADV	有:Vt	進步:Vi	空間:N	啦:T	
+喜歡:Vt	求新:Vi	求變:Vi	的:T	人:N	
+不妨:ADV	參考:Vt	店家:N	牆:N	上:POST	介紹:Vt	的:T	吃法:N	
+蘿蔓葉:N	夾:Vt	著:ASP	燒肉:N	、:PAUSECATEGORY	蔥花:N	
+再:ADV	灑:Vt	點:M	七:DET	味:M	粉:N	
+吃:Vt	得:T	美味:Vi	營養:N	更:ADV	均衡:Vt	
+包飯:Vi	也:ADV	不錯:Vi	啦:T	XD:FW	
+味噌湯:N	和:C	甜點:N	紅豆:N	紫米:N	表現:N	就:ADV	中規中矩:Vi	
+不會:ADV	讓:Vt	人:N	驚艷:Vi	
+但:C	確實:ADV	有:Vt	達到:Vt	附餐:N	的:T	水準:N	
+這:DET	餐:M	在:P	開丼:N	吃:Vt	得:T	有夠:ADV	滿足:Vt	
+大:Vi	口:N	吃:Vt	肉:N	、:PAUSECATEGORY	大:Vi	口:N	扒飯:Vi	
+享受:Vt	人生:N	好:ADV	快活:Vi	
+吃:Vt	過:ASP	一:DET	次:M	開:Vt	丼飯:N	
+就:ADV	會:ADV	明白:Vt	為什麼:ADV	眾人:N	都:ADV	推薦:Vt	
+平價:N	消費:N	、:PAUSECATEGORY	料:N	多:ADV	實在:ADV	
+cp:FW	值特:N	高:Vi	美食:N	快:ADV	來:ADV	排隊:Vi	吧:T	
