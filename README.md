@@ -9,4 +9,4 @@
   + train/1-7total.txt : 1-7.txt合起來的所有ngram
   + train/1-8total.txt : 1-8.txt合起來的所有ngram
 4. word_importance/ : 取每個類別中count前10名的字去算比例，然後這10個做排序
-  ex "服務"在類別1的count / "服務"在全部corpus裡(1-8total.txt)的count
+  + ex "服務"在類別1的count / "服務"在全部corpus裡(1-8total.txt)的count
