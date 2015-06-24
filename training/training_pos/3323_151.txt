@@ -1,0 +1,44 @@
+QQminiai:FW	(:PARENTHESISCATEGORY	大貓:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	西門門:N	卡迪:N	炭燒:Vt	咖啡:N	下午:N	很:ADV	悠哉:Vi	~:FW	
+ThuJul:FW	1717:DET	::COLONCATEGORY	59:DET	::COLONCATEGORY	092014:DET	餐廳:N	名稱:N	::COLONCATEGORY	門:N	卡迪:N	炭燒:Vt	咖啡:N	
+消費:N	時間:N	::COLONCATEGORY	2014.0:DET	4.13:DET	
+店家:N	地址:N	::COLONCATEGORY	台北市:N	萬華區:N	成都路:N	14:DET	號:M	1.2:DET	.:PERIODCATEGORY	3樓:N	都:ADV	是:Vt	。:PERIODCATEGORY	
+店家:N	電話:N	::COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2314:DET	-:DASHCATEGORY	8964:DET	
+彩色:A	好:Vi	讀:Vt	BLOG:FW	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog/post:FW	/:FW	41128153:DET	
+同步:Vi	發表:Vt	於:P	GET:FW	窩:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	0:DET	rz.tw/yss7q:FW	
+今天:N	是:Vt	來:ADV	喝:Vt	咖啡:N	的:T	
+門卡迪:N	的:T	炭燒:Vt	餐廳:N	差不多:ADV	有:Vt	30:DET	年:M	的:T	歲月:N	了:T	
+附近:N	也:ADV	有:Vt	明星:N	西餐廳:N	之類:POST	的:T	
+類似:Vt	這:DET	種:M	的:T	老舊:Vi	西餐廳:N	不少:DET	
+可是:C	他們:N	都:ADV	維持:Vt	著:ASP	很:ADV	有:Vt	懷舊:Vi	風:N	的:T	復古:Nv	裝潢:N	
+鄉村式:A	的:T	廚房:N	和:C	環境:N	
+後門:N	打開:Vt	還可以:Vi	通道:N	紅樓:N	裡:N	
+這:DET	天:M	因為:C	只是:ADV	想來:ADV	坐坐:Vi	畫畫:Vi	
+所以:C	點:Vt	咖啡:N	...:ETCCATEGORY	
+我:N	點:Vt	的:T	是:Vt	一般:A	的:T	熱:N	拿:Vt	鐵:N	
+奶泡:N	非常:ADV	細緻:Vi	
+其實:ADV	有:Vt	呈現:Vt	很:ADV	漂亮:Vi	的:T	表:N	力張:N	面:N	
+咖啡味:N	中:POST	淡:Vi	
+跟:P	牛奶:N	有:Vt	融合:Vt	在一起:Vi	
+可能:ADV	我:N	點:Vt	的:T	是:Vt	熱:Vt	拿:Vt	鐵:N	
+所以:C	真:ADV	要:ADV	說:Vt	炭燒味:N	其實:ADV	是:Vt	喝:Vt	不:ADV	太:ADV	到:Vt	的:T	
+我:N	喜歡:Vt	旁邊:N	那:DET	罐:M	糖:N	
+至少:ADV	這:DET	家:M	不:ADV	是:Vt	給:Vt	我:N	白糖:N	XDDD:FW	
+我:N	喝:Vt	咖啡:N	不:ADV	太:ADV	加:Vt	糖:N	
+但是:C	這:DET	種:M	的:T	糖:N	我:N	會:ADV	加:Vt	
+不會:ADV	太:ADV	破壞:Vt	咖啡:N	的:T	口感:N	
+但:C	整體:N	上:N	咖啡:N	對:P	我:N	來:ADV	說:Vt	還是:ADV	稍微:ADV	普通:Vi	了:ASP	些:ADV	
+其實:ADV	來:Vi	門:N	卡迪:N	炭燒:Vt	咖啡:N	應該:ADV	是:Vt	要:ADV	吃:Vt	東西:N	的:T	
+雖然:C	他:N	招牌:N	寫炭燒:Vt	咖啡:N	
+不過:C	我:N	把:P	這裡:N	當:P	下午茶:N	在:P	用:Vt	
+看:Vt	旁邊:N	吃:Vt	的:T	主餐:N	其實:ADV	很:ADV	流:Vt	口水:N	說:Vt	...:ETCCATEGORY	
+這裡:N	晚上:N	人:N	會:ADV	很多:DET	
+下午:N	則:ADV	是:Vt	還:ADV	好:Vi	
+所以:C	晚上:N	用餐:Nv	時間:N	一:ADV	到:P	我:N	就:ADV	很:ADV	識相:Vi	地:T	離開:Vt	了:ASP	
+畢竟:ADV	作畫:Vi	的:T	時間:N	旁邊:N	如果:C	有:Vt	很:ADV	吵:Vi	的:T	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	_:FW	那:ADV	可是:C	很:ADV	打擾:Vt	心情:N	的:T	....:ETCCATEGORY	
+晚上:N	服務生:N	也:ADV	不會:ADV	主動:Vi	趕人:N	
+所以:C	我:N	覺得:Vt	在:P	這裡:N	用餐:Vi	的:T	感覺:N	很:ADV	自在:Vi	
+文章:N	同步:Vi	發表:Vt	於:P	踹:Vt	論壇:N	http:FW	::COLONCATEGORY	/:FW	/:FW	0:DET	rz.tw/3kQjC:FW	
+大貓宅:N	生活:N	http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog:FW	
+愛力:N	獅:N	粉絲:N	圖:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/AlicesVoice:FW	
+GET:FW	窩:N	http:FW	::COLONCATEGORY	/:FW	/:FW	www.getwo.com.tw/forum.php:FW	
