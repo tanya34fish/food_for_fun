@@ -34,7 +34,7 @@ def ngram_count(inputdir,outputdir,train=True):
                 test_file_count += 1
                 continue
         with open(file, 'r') as f:
-            print file
+            #print file
             for line in f:
                 line_arr = line.strip().split(" ")
                 id_list = line_arr[0].split(',')
@@ -52,11 +52,13 @@ def ngram_count(inputdir,outputdir,train=True):
     print 'read %d training files done.' %train_file_count
     print 'exclude %d testing files done.' %test_file_count
 
-    for i in range(1, 8):
+    for i in range(1, 9):
         nGramSorted = sorted(vocab_list[i].items(), key=operator.itemgetter(1), reverse=True)
         #print "Dict in " + str(i)
         output = open(os.path.join(outputdir, str(i) +'.txt'), 'w')
         for key, val in nGramSorted:
+            if key == '':
+                continue
             output.write(key)
             output.write('\t'+str(val)+'\n')
         output.write('\n')
@@ -64,10 +66,17 @@ def ngram_count(inputdir,outputdir,train=True):
 
     total_vocab = vocab_list[1].copy()
     for i in xrange(2,8):
-        total_vocab.update(vocab_list[i])
-    output = open(os.path.join(outputdir, 'total.txt'), 'w')
+        for key,value in vocab_list[i].items():
+            if key in total_vocab:
+                total_vocab[key] += value
+            else:
+                total_vocab[key] = value
+
+    output = open(os.path.join(outputdir, '1-7total.txt'), 'w')
     nGramSorted = sorted(total_vocab.items(), key=operator.itemgetter(1), reverse=True)
     for key, val in nGramSorted:
+        if key == '':
+            continue
         output.write(key)
         output.write('\t'+str(val)+'\n')
     output.write('\n')
@@ -75,8 +84,41 @@ def ngram_count(inputdir,outputdir,train=True):
     
     return vocab_list
 
+def word_importance():
+    total_ngram = {}
+    with open('ngram/train/1-8total.txt', 'r')  as f:
+        for line in f:
+            if not line.strip():
+                continue
+            tmp = line.strip().split('\t')
+            total_ngram[tmp[0]] = int(tmp[1])
+
+    category_ngram_list = [[] for i in range(7)]
+    for i in xrange(7):
+        with open('ngram/train/%d.txt' %(i+1), 'r')  as f:
+            for line in f:
+                if not line.strip():
+                    continue
+                tmp = line.strip().split('\t')
+                category_ngram_list[i].append((tmp[0], int(tmp[1])))
+    
+    topn = 10
+    for c in xrange(7):
+        g = open('word_importance/%d.txt' %(c+1), 'w')
+        im = {}
+        for top_idx in xrange(topn):
+            word, count = category_ngram_list[c][top_idx]
+            total_count = total_ngram[word]
+            im[word] = float(count)/float(total_count)
+        im_sorted = sorted(im.items(), key=operator.itemgetter(1), reverse=True)
+        for word,value in im_sorted:
+            g.write(word)
+            g.write('\t%.3f\n' %value)
+        g.close()
+    return
 
 if __name__ == '__main__':
-    inputdir = 'training/training_merge'
-    outputdir = 'ngram/train'
-    vocab_list = ngram_count(inputdir,outputdir,train=True)
+    #inputdir = 'training/training_merge'
+    #outputdir = 'ngram/train'
+    #vocab_list = ngram_count(inputdir,outputdir,train=True)
+    word_importance()
