@@ -94,6 +94,7 @@ def word_importance():
             total_ngram[tmp[0]] = int(tmp[1])
 
     category_ngram_list = [[] for i in range(7)]
+    category_total_count_list = [0] * 7
     for i in xrange(7):
         with open('ngram/train/%d.txt' %(i+1), 'r')  as f:
             for line in f:
@@ -101,15 +102,16 @@ def word_importance():
                     continue
                 tmp = line.strip().split('\t')
                 category_ngram_list[i].append((tmp[0], int(tmp[1])))
+                category_total_count_list[i] += int(tmp[1])
     
     topn = 10
     for c in xrange(7):
         g = open('word_importance/%d.txt' %(c+1), 'w')
         im = {}
-        for top_idx in xrange(topn):
+        for top_idx in xrange(len(category_ngram_list[c])):
             word, count = category_ngram_list[c][top_idx]
             total_count = total_ngram[word]
-            im[word] = float(count)/float(total_count)
+            im[word] = (float(count)/float(total_count)) * (float(count)/float(category_total_count_list[c]))
         im_sorted = sorted(im.items(), key=operator.itemgetter(1), reverse=True)
         for word,value in im_sorted:
             g.write(word)
