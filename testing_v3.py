@@ -101,7 +101,7 @@ if __name__ == '__main__':
     total_ngram,category_ngram_list,category_total_count_list = get_count_statistics()
     word_importance(total_ngram,category_ngram_list,category_total_count_list)
     cross_entropy(total_ngram,category_ngram_list,category_total_count_list)
-    for c in [2,6,7]:
+    for c in xrange(1, 8):
         for m in ['word_importance', 'cross_entropy']:
             print m
             if not os.path.exists(m):

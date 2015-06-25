@@ -3,96 +3,78 @@ from ai import segment
 import sys
 import glob
 label = 7
-freq = 5
 
 nGram = {}
-file1 = open('ngram/train_'+str(label)+'.txt','r')
+file1 = open('ngram/train/'+str(label)+'.txt','r')
+ng_num = 1
 for line in file1:
     token = line.split()
     #print(token)
-    word = token[0]
-    nGram[word] = int(token[1])
+    if len(token) > 0:
+        nGram[token[0]] = ng_num
+        ng_num += 1
 
-vocab_list = []
-print(nGram)
-lineNum = 0
-label1 = 0
-find1 = 0
-is1 = 0
+
+f1_bound = 0
+freq_best = 1
+prec_best = 0
+recall_best = 0
+
+for freq in xrange(3, 30):
+    vocab_list = []
+    lineNum = 0
+    label1 = 0
+    find1 = 0
+    is1 = 0
 #label = 'test'
-for i in range(10):
-    vocab_list.append({})
-for i in xrange(10):
-    for file in glob.glob('training/training_merge/*'+str((i+1)*10)+'.txt'):
-    #for file in glob.glob('*.txt'):
-        with open(file, 'r') as f:
-            print file
-            lineNum = 0
-            for line in f:
-                #print(line)
-                token = line.split()
-                lineNum+=1
+    for i in range(20):
+        vocab_list.append({})
+    for i in xrange(20):
+        for file in glob.glob('training/training_merge/*'+str((i+1)*10)+'.txt'):
+        #for file in glob.glob('*.txt'):
+            with open(file, 'r') as f:
+                lineNum = 0
+                for line in f:
+                    #print(line)
+                    token = line.split()
+                    lineNum+=1
 
-                if int(token[0]) == label:
-                    label1+=1
-                for i in xrange(len(token)):
-                    if token[i] in nGram and nGram[token[i]]>=freq:
-                        #print(token[i])
-                        find1 +=1
-                        if int(token[0]) == label:
-                            is1+=1
-                        print(lineNum)
-                        break
+                    if str(label) in token[0]:
+                        label1+=1
+                    for i in xrange(len(token)):
+                        if token[i] in nGram and nGram[token[i]] < freq:
+                            #print(token[i])
+                            find1 +=1
+                            if str(label) in token[0]:
+                                is1+=1
+                            #print(lineNum)
+                            break
+
+    recall = float(is1)/label1
+    pre = float(is1)/find1
+    print 'Test: category %d, Freq: %d' % (label, freq)
+    print 'precision: %.5f' %pre
+    print 'recall: %.5f' %recall
+    print 'F1: %.5f' % (2*float(recall*pre)/(recall+pre))
+    print '================'
+    if (2*float(recall*pre)/(recall+pre)) > f1_bound:
+        f1_bound = (2*float(recall*pre)/(recall+pre))
+        freq_best = freq
+        prec_best = pre
+        recall_best = recall
 
 
-print(label1)
-print(find1)
-print(is1)
-print(float(is1)/label1)
-print(float(is1)/find1)
-recall = float(is1)/label1
-pre = float(is1)/find1
-print(2*float(recall*pre)/(recall+pre))
+ 
+print '\nTest %d' % label
+print 'best freq: %d' % freq_best
+print 'best precision: %f' % prec_best
+print 'best recall: %f' % recall_best
+print 'best F1: %f\n' % f1_bound
 
-"""
-
-            break
-            ans = segment(line.strip())
-            #print(ans)
-            for name, tp in ans:
-                #print(name)
-                #name
-                if name in nGram and nGram[name]>3:
-                    print(name)
-                    print(line)
-
-            #line_arr = line.strip().split(" ")
-            #print(line_arr)
-
-            #break
-
-            if line_arr[0] >= '1' and line_arr[0] <= '7' and (line[1] == ',' or line[1] == ' '):
-                id_list = line_arr[0].split(',')
-
-            for i in range(1, len(line_arr)):
-                #print(line_arr[i])
-                ans = segment(line_arr[i].strip())
-                #print(ans)
-                for name, tp in ans:
-                    print(name)
-                    #break
-"""
-                            #else:
-                                #vocab_list[int(j)][name] = 1
-
-"""
-for i in range(1, 8):
-    print "Dict in " + str(i)
-    output = open(label+'_'+str(i)+'.txt', 'w')
-
-    for key, val in vocab_list[i].items():
-        print key.encode("UTF-8"), val
-        output.write(key.encode("UTF-8")+'\t'+str(val)+'\n')
-    print "\n"
-    #output.write('\n')
-"""
+'''
+label              1           2           3           4           5           6           7
+freq               7           4          12          13           9           7           9
+precision   0.758621    0.869565    0.548387    0.911281    0.448276    1.000000    0.131980
+recall      0.550000    0.444444    0.571749    0.832000    0.339130    0.724138    0.553191
+F1          0.637681    0.588235    0.559824    0.870293    0.386139    0.840000    0.213115
+'''

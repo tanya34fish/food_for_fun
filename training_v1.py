@@ -34,10 +34,10 @@ def test(category,method,ans):
         for file in glob.glob(dir + '*_' + str(file_idx + 1) +'.txt'):
             path, input = os.path.split(file)
             idx = int(input.split('_')[1].split('.')[0])
-            if idx %10 != 0:
+            if idx %10 == 0:
                 continue
             with open(file, 'r') as f:
-                #print file
+                print file
                 lineNum = 0
                 for line in f:
                     lineNum += 1
@@ -85,9 +85,9 @@ def test(category,method,ans):
     #g.write('F1: %.5f\n' %f1)
     #print '================'
 
-def printAns(ans, method):
+def printAns(ans, method, statfile):
     name = ['category', 'threshold', 'precision', 'recall', 'F1']
-    print method
+    statfile.write(method + '\n')
     for i in xrange(5):
         pstr = '{0: <8}'.format(name[i])
         for j in xrange(7):
@@ -95,7 +95,7 @@ def printAns(ans, method):
                 pstr += '\t%8d' % ans[method][i][j]
             else:
                 pstr += '\t%8f' % ans[method][i][j]
-        print pstr
+        statfile.write(pstr + '\n')
 
     
 if __name__ == '__main__':
@@ -116,5 +116,7 @@ if __name__ == '__main__':
             if not os.path.exists(m):
                 os.mkdir(m)    
             test(c,m,ans)
+
+    statfile = open('training_result.txt', 'w')
     for m in ['word_importance', 'cross_entropy']:
-        printAns(ans, m)
+        printAns(ans, m, statfile)
