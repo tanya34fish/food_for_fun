@@ -6,10 +6,6 @@ program error prediction: 1
 8 發現 這 個 貼心 的 紙盒 甚至 把 熱騰騰 的 漢堡 和 冰冰涼涼 的 飲料 分開 了
 program error prediction: 1
 
-3301_5.txt: Line 77
-1 很 飽 耶
-program did not classify it as category 1
-
 3302_6.txt: Line 34
 8 可惜 問 了 服務生
 program error prediction: 1
@@ -406,6 +402,10 @@ program did not classify it as category 1
 8 就 有 一 個 服務生
 program error prediction: 1
 
+3332_197.txt: Line 13
+1 大 份量 的 精緻 早 午餐
+program did not classify it as category 1
+
 3332_197.txt: Line 51
 8 需要 的 朋友 再 跟 服務 人員 索取 就 可以 了
 program error prediction: 1
@@ -414,11 +414,15 @@ program error prediction: 1
 8 立馬 就 跟 服務 人員 說
 program error prediction: 1
 
+3332_197.txt: Line 104
+1 滿滿 一 份 看起來 比 法式 吐司 還 豐盛 呀
+program did not classify it as category 1
+
 3333_199.txt: Line 129
 8 有 跟 服務生 說
 program error prediction: 1
 
 Test: category 1
 precision: 0.72112
-recall: 0.83796
-F1: 0.77516
+recall: 0.83410
+F1: 0.77350

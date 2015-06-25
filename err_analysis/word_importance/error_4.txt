@@ -1,104 +1,1712 @@
-3318_120.txt: Line 69
-4 除下 來 的 單價 就 不 算 太 貴
-program did not classify it as category 4
-
-3320_130.txt: Line 38
-3,4 對 我 來 說 感覺 是 比 平價 又 好吃 的 牛肉 麵店
-program did not classify it as category 4
-
-3307_40.txt: Line 38
-2 加 110 元 就 多 了 飲料 、 白飯 和 一 道 配 菜
+3301_3.txt: Line 8
+8 每 人 平均 價位 ： 100 元
 program error prediction: 4
 
-3308_50.txt: Line 26
-4 這邊 共鍋 相當 划算 呢
+3301_3.txt: Line 67
+4 他們 有 一 個 團購 方案
 program did not classify it as category 4
 
-3308_50.txt: Line 28
-4 比起 一般 要 加價 50 - 100 低消 的 店家 真是 划算 多 了
+3301_3.txt: Line 68
+4 只要 訂購 10 份 餐點
 program did not classify it as category 4
 
-3323_150.txt: Line 18
-4 好滴 咖啡 不 收取 服務 費用
+3301_3.txt: Line 69
+4 就 會 多 送 一 個 漢堡
 program did not classify it as category 4
 
-3325_160.txt: Line 58
-4 沒有 特別 貴
+3301_3.txt: Line 93
+8 還可以 折抵 5 元
+program error prediction: 4
+
+3301_3.txt: Line 120
+2,4 我 覺得 擠霸摳 可以 吃到 一 個 健康 又 好吃 的 手工 漢堡
 program did not classify it as category 4
 
-3325_160.txt: Line 82
-4 其實 也 不 算 便宜
+3301_3.txt: Line 122
+4 相當 經濟 實惠
 program did not classify it as category 4
 
-3325_160.txt: Line 170
+3301_4.txt: Line 56
+8 這 是 一 間 中價位 至高 價位
+program error prediction: 4
+
+3301_4.txt: Line 62
+8 單 從 價位 來 說
+program error prediction: 4
+
+3301_5.txt: Line 89
+3 我 覺得 和 一般 價位 的 日本 料理店 並 沒有 多 大 的 差異
+program error prediction: 4
+
+3302_6.txt: Line 10
+8 價位 範圍
+program error prediction: 4
+
+3302_7.txt: Line 50
+4 不過 價錢 稍微 有點 貴
+program did not classify it as category 4
+
+3302_7.txt: Line 51
+4 鮮蝦 雲 吞 湯 一 碗 要 110
+program did not classify it as category 4
+
+3302_8.txt: Line 8
+8 每 人 平均 價位 ： 4 - 500
+program error prediction: 4
+
+3302_8.txt: Line 30
+8 但 要 找到 好吃 、 價格 可 接受 的 餐廳 著實 需要 花 一點點 心思
+program error prediction: 4
+
+3302_8.txt: Line 43
+4 而且 加上 酒 之後 所費不貲
+program did not classify it as category 4
+
+3302_9.txt: Line 32
+4 不過 售價 超過 200 . -
+program did not classify it as category 4
+
+3302_9.txt: Line 34
+4 160 . - / 8 只
+program did not classify it as category 4
+
+3302_9.txt: Line 41
+4 依稀 記得 小時候 一 碗 是 50 . - 左右
+program did not classify it as category 4
+
+3302_9.txt: Line 42
+4 現在 一 碗 85 . -
+program did not classify it as category 4
+
+3302_9.txt: Line 58
+4 55 . -
+program did not classify it as category 4
+
+3302_9.txt: Line 73
+4 80 . -
+program did not classify it as category 4
+
+3303_11.txt: Line 10
+8 平均 價位  380
+program error prediction: 4
+
+3303_11.txt: Line 43
+8 蔥花 蘿蔔 泥 腰 内 豬排 - $ 320
+program error prediction: 4
+
+3303_11.txt: Line 46
+8 夏季 套餐 - 對味 雙 捲 套餐 A $ 458
+program error prediction: 4
+
+3303_11.txt: Line 51
+8 手工 漢堡肉 B 套餐 $ 340
+program error prediction: 4
+
+3303_12.txt: Line 26
+4 料理 價錢 公道
+program did not classify it as category 4
+
+3303_12.txt: Line 27
+4 手藝 沒 話說
+program did not classify it as category 4
+
+3303_12.txt: Line 33
+8 推薦 料理 第一 道  烤牛 小 排 串 推薦度 ： 90.0 % 美味度 ： 6.9 價格 ： 90
+program error prediction: 4
+
+3303_12.txt: Line 40
+4 價錢 野蠻 合理 的
+program did not classify it as category 4
+
+3303_12.txt: Line 50
+8 小 南 推薦 料理 第二 道  綜合 炙燒 壽司 推薦度 ： 76.7 % 美味度 ： 7.3 價格 ： 280
+program error prediction: 4
+
+3303_12.txt: Line 61
+8 ｂｙ 大眼 推薦 料理 第三 道  手捲 推薦度 ： 76.7 % 美味度 ： 8.9 價格 ： 60
+program error prediction: 4
+
+3303_12.txt: Line 76
+8 適合 朋友 聚餐 ： ★ ★ ★ ★ 適合 情侶 約會 ： ★ ★ ★ 適合 家庭 聚會 ： ★ ★ ☆ 餐廳 氣氛 ： ★ ★ ★ ★ 價格 划算 ： ★ ★ ★ 美味 滿意 程度 ： ★ ★ ★ ☆
+program error prediction: 4
+
+3303_12.txt: Line 77
+8 就 該 價位 而言
+program error prediction: 4
+
+3303_13.txt: Line 176
+4 雖然 價錢 不 是 很 親民
+program did not classify it as category 4
+
+3303_13.txt: Line 178
+4 這 個 價錢 很 公道
+program did not classify it as category 4
+
+3303_13.txt: Line 187
+8 網站 ： http  / / www.wendels-bakery.com 菜單 網址 ： http  / / www.wendels-bakery.com/Bistro.asp 價位 ： ★ ★ ★ 美味度 ： ★ ★ ★ ★ ★ 舒適度 ： ★ ★ ★ ★ ★ 服務 ： ★ ★ ★ ★ ★ 各 分店 資訊 提供 如下
+program error prediction: 4
+
+3303_14.txt: Line 30
+8 套餐 點 飲料 折抵 30 $
+program error prediction: 4
+
+3304_18.txt: Line 51
+8 $ 145 內
+program error prediction: 4
+
+3304_19.txt: Line 73
+8 - 花神 NT . 200 -
+program error prediction: 4
+
+3304_19.txt: Line 74
+8 現烤 低溫 熟成 蘋果派 佐 橄欖油 冰沙 NT . 380 -
+program error prediction: 4
+
+3304_19.txt: Line 75
+8 童趣 棉花糖 NT . 150
+program error prediction: 4
+
+3304_19.txt: Line 77
+8 - 法式 早餐茶 、 五點鐘茶 各 NT . 200
+program error prediction: 4
+
+3304_22.txt: Line 33
+8 ＃ 雞肉 咖哩飯 ： １１０ 元
+program error prediction: 4
+
+3304_22.txt: Line 53
+8 ＃ 咖哩 雞肉 烏龍麵 ： １２０ 元
+program error prediction: 4
+
+3304_22.txt: Line 71
+8 ＃ 甜不辣 雞絲 湯麵 ： ６５ 元
+program error prediction: 4
+
+3304_22.txt: Line 89
+8 ＃ 甜不辣 ： ４５ 元
+program error prediction: 4
+
+3304_24.txt: Line 19
+8 ▼ 鴨油松露 薯條 380 元
+program error prediction: 4
+
+3304_24.txt: Line 25
+8 ▼ 現 烤 千 層 派 380 元
+program error prediction: 4
+
+3304_24.txt: Line 39
+8 ▼ 冰 美式 160 元 & amp
+program error prediction: 4
+
+3304_24.txt: Line 40
+8 熱 美式 Single 140 元
+program error prediction: 4
+
+3304_24.txt: Line 60
+4 SEASONArtisanP â tissier 消費 金額 須 加收 10 % 服務 費用
+program did not classify it as category 4
+
+3305_27.txt: Line 22
+8 南瓜 時 蔬燉飯 NT . 260
+program error prediction: 4
+
+3305_27.txt: Line 31
+8 青醬 蟹肉 蛤蜊 義大利麵 NT . 280
+program error prediction: 4
+
+3305_27.txt: Line 36
+8 法式 洋蔥湯 NT . 70
+program error prediction: 4
+
+3305_27.txt: Line 38
+8 法芙娜 原味 巧克力 NT . 120
+program error prediction: 4
+
+3305_27.txt: Line 41
+8 焦糖 蘋果 奶茶 NT . 120
+program error prediction: 4
+
+3305_27.txt: Line 45
+8 提拉米蘇 NT . 160
+program error prediction: 4
+
+3305_29.txt: Line 15
+4 很 划算 啊
+program did not classify it as category 4
+
+3305_29.txt: Line 41
+4 180
+program did not classify it as category 4
+
+3305_29.txt: Line 45
+4 320
+program did not classify it as category 4
+
+3305_29.txt: Line 47
+4 280
+program did not classify it as category 4
+
+3305_31.txt: Line 34
+4 感覺 也 太 超值 了
+program did not classify it as category 4
+
+3306_33.txt: Line 12
+4 95 / 一 人
+program did not classify it as category 4
+
+3306_34.txt: Line 39
+8 【 虎嘯 白虎 拉麵 】 $ 300
+program error prediction: 4
+
+3306_34.txt: Line 48
+8 【 虎嘯 黑虎 拉麵 】 $ 300
+program error prediction: 4
+
+3306_35.txt: Line 58
+2,4 墨西哥 捲 餅 裡面 配料 滿滿 普通 SIZE120or 大 分量 160 的 選擇
+program did not classify it as category 4
+
+3306_35.txt: Line 59
+4 主餐 都 可以 + 50 有 飲料 或是 + 70 有 附餐 以及 飲料 還 滿 便宜 的 加購法
+program did not classify it as category 4
+
+3306_35.txt: Line 60
+4 不 捲起來 也 可以 以 墨西哥米 當 主角 變成 墨西哥 蓋 飯 160
+program did not classify it as category 4
+
+3306_35.txt: Line 61
+4 或是 包 在 捲 餅 裡 但是 拿去 稍微 煎烤 一下 的 墨西哥 起 司 薄餅 160
+program did not classify it as category 4
+
+3306_35.txt: Line 63
+4 可以 一 次 享受 三 種 主食 默西哥 玉米餅 拼盤 170 也 可以 單 點 喔
+program did not classify it as category 4
+
+3306_35.txt: Line 88
+4 墨西哥 捲 餅 豬肉 口味 170
+program did not classify it as category 4
+
+3306_35.txt: Line 100
+4 墨西哥 起 司 薄餅 雞肉 口味 160
+program did not classify it as category 4
+
+3306_37.txt: Line 70
+4 整體 看起來 是 中價位 的 餐廳
+program did not classify it as category 4
+
+3306_38.txt: Line 2
+8 [ 食記 ] 台北 暴走 食鋪 ~ 串燒 一 串 只要 $ 39
+program error prediction: 4
+
+3306_38.txt: Line 6
+8 價格  $ 39 up
+program error prediction: 4
+
+3306_38.txt: Line 15
+4 朋友 還 特別 強調 這 間 在 台北 算 很 便宜
+program did not classify it as category 4
+
+3306_38.txt: Line 24
+8 門口 有 許多 菜單 的 圖片 和 價格 可以 參考
+program error prediction: 4
+
+3306_38.txt: Line 72
+8 醬烤帆立貝串 $ 49 一 串 有 三 顆
+program error prediction: 4
+
+3306_38.txt: Line 95
+8 價格 上 也 還可以 接受
+program error prediction: 4
+
+3306_38.txt: Line 98
+8 所以 39 元 也 沒辦法 要求 什麼
+program error prediction: 4
+
+3306_38.txt: Line 113
+8 以 這 價格 來 說
+program error prediction: 4
+
+3306_38.txt: Line 114
+4 在 台北 真的 算 很 便宜 阿
+program did not classify it as category 4
+
+3307_39.txt: Line 76
+8 可 折抵 100 元 更換 其他 非 酒精 飲品
+program error prediction: 4
+
+3307_39.txt: Line 218
+8 非常 神奇 但 也 價格 不 斐 的 杯子 XDD
+program error prediction: 4
+
+3307_43.txt: Line 41
+8 推薦度 ： 90.0 % 美味度 ： 76.7 價格 ： 260
+program error prediction: 4
+
+3307_43.txt: Line 59
+8 ─ 蘇打粉 推薦 料理 第二 道  栗子 蒙布朗 推薦度 ： 80.0 % 美味度 ： 9.0 價格 ： 180
+program error prediction: 4
+
+3307_43.txt: Line 70
+8 ─ 阿曼達 推薦 料理 第三 道  皮耶蒙 熱水澡 沙拉 推薦度 ： 80.0 % 美味度 ： 7.3 價格 ： 250
+program error prediction: 4
+
+3307_43.txt: Line 86
+4 價錢 偏 貴
+program did not classify it as category 4
+
+3307_43.txt: Line 90
+8 適合 朋友 聚餐 ： ★ ★ ★ ☆ 適合 情侶 約會 ： ★ ★ ★ ☆ 適合 家庭 聚會 ： ★ ★ ★ ☆ 餐廳 氣氛 ： ★ ★ ★ ☆ 價格 划算 ： ★ ★ ★ ☆ 美味 滿意 程度 ： ★ ★ ★ ☆
+program error prediction: 4
+
+3307_43.txt: Line 91
+8 就 該 價位 而言
+program error prediction: 4
+
+3308_45.txt: Line 44
+8 價格 一樣
+program error prediction: 4
+
+3308_45.txt: Line 56
+4 非常 划算
+program did not classify it as category 4
+
+3308_45.txt: Line 58
+4 超 划算 的 啦
+program did not classify it as category 4
+
+3308_46.txt: Line 71
+4 麻犇堂囍糖 本 舖 不 收取 服務 費用
+program did not classify it as category 4
+
+3308_48.txt: Line 57
+4 就 會 想要 花 個 10 元大 續杯
+program did not classify it as category 4
+
+3308_48.txt: Line 80
+8 【 牛 豬 雙拼 鍋 】 $ 218
+program error prediction: 4
+
+3308_49.txt: Line 81
+4 雖然 價錢 有點 小 貴
+program did not classify it as category 4
+
+3309_51.txt: Line 40
+8 KIRINBEER 一 番 搾 啤酒 $ T 120
+program error prediction: 4
+
+3309_51.txt: Line 45
+8 $ NT 150 厚 切 倯阪 豬
+program error prediction: 4
+
+3309_51.txt: Line 50
+8 $ NT 100 和風 軟絲
+program error prediction: 4
+
+3309_51.txt: Line 54
+8 $ NT 120 烤肉醬 雞 串
+program error prediction: 4
+
+3309_51.txt: Line 58
+8 $ NT 80 就 是 下 酒菜
+program error prediction: 4
+
+3309_51.txt: Line 72
+8 想 不 起來 阿阿 阿阿阿阿 $ NT 100 孜 然 帶 骨 羊 煎 排 會 讓 人 失去 理性 直接 野人 化
+program error prediction: 4
+
+3309_51.txt: Line 74
+8 照片 右邊 的 是 $ NT 120 蔥花 泥 雞 串
+program error prediction: 4
+
+3309_51.txt: Line 79
+8 左邊 的 是 $ NT 120 醬燒雞 屁股
+program error prediction: 4
+
+3309_51.txt: Line 84
+8 也許 也 有 讓 我們 自行 比較 的 念頭 $ NT 150 金針 豬 串
+program error prediction: 4
+
+3309_51.txt: Line 90
+8 遠景 右邊 那 個 是 嫩 炸 豆腐 $ NT 80
+program error prediction: 4
+
+3309_51.txt: Line 93
+8 近景 左邊 則 是 炸雞 軟骨 $ NT 100
+program error prediction: 4
+
+3309_51.txt: Line 99
+8 搭配 手 邊 的 啤酒 食用 風味 更 佳 $ NT 80 奶油 玉米 筍
+program error prediction: 4
+
+3309_51.txt: Line 115
+4 基本 上 黑竹 居酒屋 是 一 個 cp 值 蠻 高 的 居酒屋
+program did not classify it as category 4
+
+3309_51.txt: Line 116
 4 東西 不 貴
 program did not classify it as category 4
 
-3311_70.txt: Line 28
-8 標明 不 收 服務費 故 餐具 和 水 都 是 自取 的 也 因此 陸續 可以 聽到 刀盤 碰撞 的 聲響
+3309_51.txt: Line 117
+4 學生 跟 上班族 都 蠻 適合 吃 的
+program did not classify it as category 4
+
+3309_52.txt: Line 20
+4 行 前 參考 餐廳 官網 和 其他 食記 發現 午餐 挺 超值 的
+program did not classify it as category 4
+
+3309_52.txt: Line 86
+4 雖然 以 一 客 要價 近 2千 的 餐點 來 看
+program did not classify it as category 4
+
+3309_52.txt: Line 88
+4 卻 也 算是物 有所 值
+program did not classify it as category 4
+
+3309_53.txt: Line 46
+8 加 100 元 套餐 附上 的 麵包 與 湯
 program error prediction: 4
 
-3326_170.txt: Line 27
-4 他 的 低消 為 每 人 100 大洋
-program did not classify it as category 4
-
-3326_170.txt: Line 33
-4 170 大洋
-program did not classify it as category 4
-
-3326_170.txt: Line 36
-4 130 大洋
-program did not classify it as category 4
-
-3312_80.txt: Line 73
-8 焗烤 南瓜 蕈菇 嫩 雞麵 $ 208
+3309_53.txt: Line 55
+8 芝麻 葉青 醬 甜蝦 麵食 ＄ 300 與 我 想像 的 甜蝦 有點 落差
 program error prediction: 4
 
-3315_100.txt: Line 124
-4 一 人 1250 + 10 %
+3309_54.txt: Line 58
+8 冰 紅茶 25 元
+program error prediction: 4
+
+3309_54.txt: Line 59
+8 鳳梨 冰 45 元
+program error prediction: 4
+
+3309_55.txt: Line 111
+8 單點 $ 350 元
+program error prediction: 4
+
+3309_55.txt: Line 112
+8 定食 $ 420 元
+program error prediction: 4
+
+3309_55.txt: Line 129
+8 單點 $ 220 元
+program error prediction: 4
+
+3309_55.txt: Line 130
+8 定食 $ 290 元
+program error prediction: 4
+
+3309_55.txt: Line 154
+8 $ 200 元
+program error prediction: 4
+
+3309_55.txt: Line 166
+8 單點 $ 280 元
+program error prediction: 4
+
+3309_55.txt: Line 167
+8 定食 $ 350 元
+program error prediction: 4
+
+3309_55.txt: Line 187
+8 $ 320 元
+program error prediction: 4
+
+3309_56.txt: Line 13
+4 看到 餐點 的 第一 印象 就是 CP 值 也 太 高 了 吧
 program did not classify it as category 4
 
-3315_100.txt: Line 314
-4 所以 才 這麼 貴 吧
+3309_56.txt: Line 14
+2,4 份量 超 多 的 而且 也 不 貴
 program did not classify it as category 4
 
-3318_120.txt: Line 69
-4 除下 來 的 單價 就 不 算 太 貴
+3309_56.txt: Line 25
+8 店 內 低消 100 不 收 服務費 如果 需要 水 就 在 店 門 右手 邊 的 桌 上 喔
+program error prediction: 4
+
+3309_56.txt: Line 27
+8 若要 換 其他 的 飲品 有 折 40 元
+program error prediction: 4
+
+3309_57.txt: Line 29
+8 ＜ 梅子 泡菜 NT $ 35 ＞
+program error prediction: 4
+
+3309_57.txt: Line 35
+8 ＜ 大 野 郎牛丼 NT $ 280 ＞
+program error prediction: 4
+
+3309_57.txt: Line 41
+8 30 元
+program error prediction: 4
+
+3309_57.txt: Line 66
+8 ＜ 黑醬醪沙朗丼 NT $ 280 ＞
+program error prediction: 4
+
+3309_58.txt: Line 36
+8 漁六 居 食 的 無 菜單 料理 沿用 小 六 的 價位
+program error prediction: 4
+
+3309_58.txt: Line 102
+8 還 記得 超級 無敵 又 薄 又 小 一 片 就 要 一百 元
+program error prediction: 4
+
+3309_58.txt: Line 136
+8 其實 感覺 以 今天 ８００ 元 就 能 吃到 OTORO 大腹 真的 很 超值
+program error prediction: 4
+
+3309_58.txt: Line 156
+4 ＣＰ 值 ： ★ ★ ★ ★ ☆
 program did not classify it as category 4
 
-3320_130.txt: Line 38
-3,4 對 我 來 說 感覺 是 比 平價 又 好吃 的 牛肉 麵店
+3310_59.txt: Line 28
+8 附 $ 15 的 飲品
+program error prediction: 4
+
+3310_59.txt: Line 29
+8 $ 80
+program error prediction: 4
+
+3310_59.txt: Line 44
+8 + 10 元
+program error prediction: 4
+
+3310_61.txt: Line 28
+8 小菜 的 價格 從 30
+program error prediction: 4
+
+3310_61.txt: Line 91
+8 這邊 肉粥 一 碗 是 15 $
+program error prediction: 4
+
+3310_61.txt: Line 93
+8 今天 點 這些 總共 是 250 $
+program error prediction: 4
+
+3310_61.txt: Line 94
+4 CP 中等
 program did not classify it as category 4
 
-3323_150.txt: Line 18
-4 好滴 咖啡 不 收取 服務 費用
+3310_62.txt: Line 27
+8 店家 收 一成 服務費
+program error prediction: 4
+
+3310_62.txt: Line 37
+8 比如說 中餐 的 特價 拉麵 150 元
+program error prediction: 4
+
+3310_62.txt: Line 40
+8 拉麵 價位 介於 260 元 至 300 元
+program error prediction: 4
+
+3310_62.txt: Line 43
+8 也 提供 加價 50 / 70 / 100 元 的 套餐
+program error prediction: 4
+
+3310_62.txt: Line 45
+8 300 元
+program error prediction: 4
+
+3310_62.txt: Line 46
+8 收 一成 服務費
+program error prediction: 4
+
+3310_62.txt: Line 113
+8 這 是 一 間 中高 價位 至高 價位
+program error prediction: 4
+
+3310_62.txt: Line 120
+8 但 單 就 價位 來 說
+program error prediction: 4
+
+3310_62.txt: Line 121
+4 它 的 高 單價 也 會 讓 人 用 比較 嚴苛 的
 program did not classify it as category 4
 
-3325_160.txt: Line 58
-4 沒有 特別 貴
+3310_63.txt: Line 8
+8 10 % 服務費 另 計 消費 時間 ： 2014.06 = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 來自 日本 表 參道
+program error prediction: 4
+
+3310_63.txt: Line 24
+8 NT . 380
+program error prediction: 4
+
+3310_63.txt: Line 25
+8 附湯 、 沙拉 、 日式 醃 漬 小菜 、 160 元 飲品
+program error prediction: 4
+
+3310_63.txt: Line 45
+8 NT . 190
+program error prediction: 4
+
+3310_63.txt: Line 54
+8 附 160 元 飲料 一 杯
+program error prediction: 4
+
+3310_63.txt: Line 56
+8 250 元 雙層價
+program error prediction: 4
+
+3310_63.txt: Line 58
+4 感覺 好 超值
 program did not classify it as category 4
 
-3325_160.txt: Line 82
-4 其實 也 不 算 便宜
+3310_64.txt: Line 55
+4 所以 超 划算 的
 program did not classify it as category 4
 
-3325_160.txt: Line 170
-4 東西 不 貴
+3310_64.txt: Line 82
+4 其實 我 覺得 這 家 比 我 想像 中 的 便宜 好多
 program did not classify it as category 4
 
-3326_170.txt: Line 27
-4 他 的 低消 為 每 人 100 大洋
+3310_64.txt: Line 83
+4 我們 兩 個 這樣 吃 才 八百 出頭
 program did not classify it as category 4
 
-3326_170.txt: Line 33
-4 170 大洋
+3310_65.txt: Line 83
+8 59 元
+program error prediction: 4
+
+3310_65.txt: Line 85
+8 69 元
+program error prediction: 4
+
+3310_65.txt: Line 87
+8 89 元
+program error prediction: 4
+
+3310_65.txt: Line 89
+8 109 元
+program error prediction: 4
+
+3310_65.txt: Line 103
+8 另外 有 加價 25 / 30 / 40 / 50 元 的 小菜 套餐價 飲料 的 部份 不 像 日本 販售 酒精類 飲料
+program error prediction: 4
+
+3310_65.txt: Line 106
+8 119 元
+program error prediction: 4
+
+3310_65.txt: Line 109
+8 99 元
+program error prediction: 4
+
+3310_65.txt: Line 110
+8 不 收 服務費
+program error prediction: 4
+
+3310_65.txt: Line 126
+4 整體 來 說 CP 值 不錯
 program did not classify it as category 4
 
-3326_170.txt: Line 36
-4 130 大洋
+3311_66.txt: Line 27
+8 嘴 邊 肉 40 元
+program error prediction: 4
+
+3311_66.txt: Line 30
+8 乾 麵 45 元
+program error prediction: 4
+
+3311_66.txt: Line 36
+8 雞肉 飯小 35 元
+program error prediction: 4
+
+3311_66.txt: Line 40
+8 排骨飯 85 元
+program error prediction: 4
+
+3311_67.txt: Line 59
+8 【 原盅豉汁 排骨飯 - NT 115 】
+program error prediction: 4
+
+3311_67.txt: Line 111
+8 【 金牌 貴妃 雞 撈麵 - NT 125 】
+program error prediction: 4
+
+3311_67.txt: Line 127
+8 【 鮮蝦 腸粉 - NT 85 】
+program error prediction: 4
+
+3311_68.txt: Line 54
+4 聽說 以前 CP 更 高 的 時候 還 有 甜蝦
+program did not classify it as category 4
+
+3311_69.txt: Line 31
+8 小 份 80 元
+program error prediction: 4
+
+3311_69.txt: Line 43
+8 ▼ 歐洲 風格 綜合 起 司盤 小 份 300 元
+program error prediction: 4
+
+3311_69.txt: Line 55
+8 點餐 時 店員 告知 單杯 售價 為 220 元
+program error prediction: 4
+
+3311_69.txt: Line 56
+8 但 買單 回到 家 才 赫然 發現 收據 上 紅酒 費用 為 0 元
+program error prediction: 4
+
+3311_69.txt: Line 63
+8 ▼ 皮埃蒙特 牛 肝 菌菇 起 司燉 飯 淋 松露油 420 元
+program error prediction: 4
+
+3311_69.txt: Line 79
+8 ▼ 巴黎 風 玫瑰 酒 炙燒 美國 頂級 牛 小 排 佐 紅酒 鹽 5 oz 680 元
+program error prediction: 4
+
+3311_69.txt: Line 90
+8 ▼ 巴黎 巧克力 蛋糕 水果 盅 360 元
+program error prediction: 4
+
+3311_69.txt: Line 97
+8 apoet 的 晚餐 時段 和 假日 及 假日 午餐 時段 皆 有 每 人 低 消 450 元 的 限制
+program error prediction: 4
+
+3311_71.txt: Line 17
+8 至少 含 飲料 漢堡 服務費
+program error prediction: 4
+
+3311_72.txt: Line 24
+4 似乎 貴 了 些
+program did not classify it as category 4
+
+3311_72.txt: Line 42
+4 以 價格論 似乎 是 貴 了 些
+program did not classify it as category 4
+
+3311_72.txt: Line 67
+4 有點 貴
+program did not classify it as category 4
+
+3311_72.txt: Line 71
+3,4 燉飯 好吃 歸 好吃 但 實在 不符 身價
+program did not classify it as category 4
+
+3311_73.txt: Line 8
+8 每 人 平均 價位 ： 518 + 10 %
+program error prediction: 4
+
+3311_73.txt: Line 11
+4 常常 聽說 西堤 牛排 CP 值 比 王品 牛排 高
+program did not classify it as category 4
+
+3312_75.txt: Line 37
+8 65 元
+program error prediction: 4
+
+3312_75.txt: Line 46
+8 單 點 一 份 40 元
+program error prediction: 4
+
+3312_76.txt: Line 21
+4 價錢 也 比較 親民 一點
+program did not classify it as category 4
+
+3312_76.txt: Line 24
+8 ＄ 80
+program error prediction: 4
+
+3312_77.txt: Line 86
+8 日式 洋蔥 $ 40日式 洋蔥
+program error prediction: 4
+
+3312_77.txt: Line 89
+3 柴魚 豆腐 $ 40 濕潤 的 柴魚 和 其 醬汁 讓 這 豆腐 吃起來 帶 點 甜甜
+program error prediction: 4
+
+3312_77.txt: Line 91
+8 鹽味 蔥油豚骨 拉麵 $ 170 武吉屋台 的 拉麵 有 溫泉 蛋 、 木耳 、 蔥花 、 海苔 及 叉燒肉
+program error prediction: 4
+
+3312_77.txt: Line 134
+8 豚 三 層 明 太子 $ 120 豚 三 層 應該 就 是 豬 五花肉 的 意思
+program error prediction: 4
+
+3312_77.txt: Line 140
+8 牛蒡天婦羅 $ 60 因為 新開幕 打卡 有 送 牛蒡天婦羅
+program error prediction: 4
+
+3312_77.txt: Line 147
+8 雞皮 $ 80 武吉屋台 的 烤雞 皮串
+program error prediction: 4
+
+3312_77.txt: Line 166
+8 這 天 我們 三 個 人 吃下來 總共 吃 了 $ 900
+program error prediction: 4
+
+3312_78.txt: Line 17
+8 $ 150
+program error prediction: 4
+
+3312_78.txt: Line 24
+8 $ 170
+program error prediction: 4
+
+3312_78.txt: Line 34
+8 $ 180
+program error prediction: 4
+
+3312_78.txt: Line 36
+8 $ 180
+program error prediction: 4
+
+3312_78.txt: Line 38
+8 $ 180
+program error prediction: 4
+
+3312_78.txt: Line 40
+8 $ 150
+program error prediction: 4
+
+3312_78.txt: Line 43
+8 $ 150
+program error prediction: 4
+
+3312_78.txt: Line 45
+8 $ 160
+program error prediction: 4
+
+3313_81.txt: Line 16
+8 伯爵 茶 舒芙蕾 / $ 190 舒芙蕾 可是 這裡 的 賣 點 呀
+program error prediction: 4
+
+3313_81.txt: Line 34
+3 加分 維也納 咖啡 / $ 130 光 看 那 奶油 花 口水 就 要 流下來 了
+program error prediction: 4
+
+3313_81.txt: Line 39
+8 冰釀 蘋果茶 / $ 160 可 別 以為 它 只 能 是 冰 的 喲
+program error prediction: 4
+
+3313_82.txt: Line 25
+8 $ 140 / 瓶
+program error prediction: 4
+
+3313_82.txt: Line 27
+8 $ 150
+program error prediction: 4
+
+3313_82.txt: Line 31
+8 $ 150
+program error prediction: 4
+
+3313_82.txt: Line 34
+8 $ 100
+program error prediction: 4
+
+3313_82.txt: Line 40
+8 $ 160
+program error prediction: 4
+
+3313_82.txt: Line 47
+8 $ 160
+program error prediction: 4
+
+3313_82.txt: Line 51
+8 $ 100 / % 140
+program error prediction: 4
+
+3313_82.txt: Line 55
+8 $ 90 / $ 100 / $ 100
+program error prediction: 4
+
+3313_82.txt: Line 57
+8 $ 90
+program error prediction: 4
+
+3313_82.txt: Line 59
+8 $ 150
+program error prediction: 4
+
+3313_82.txt: Line 63
+8 $ 180
+program error prediction: 4
+
+3313_82.txt: Line 65
+8 $ 140
+program error prediction: 4
+
+3313_82.txt: Line 67
+8 $ 80
+program error prediction: 4
+
+3313_83.txt: Line 5
+6 地址 ： 台北市 文山區 木柵路 一段 120 號
+program error prediction: 4
+
+3313_83.txt: Line 6
+8 每 人 平均 價位 ： 120 - 210 元 ， 不 收 服務費
+program error prediction: 4
+
+3313_83.txt: Line 18
+8 平均 可 賣 1300 碗 的 成績
+program error prediction: 4
+
+3313_83.txt: Line 30
+8 不 收 服務費
+program error prediction: 4
+
+3313_83.txt: Line 39
+8 140 元
+program error prediction: 4
+
+3313_83.txt: Line 40
+8 不 收 服務費
+program error prediction: 4
+
+3313_83.txt: Line 48
+3 味道 以 這 個 價格 來 說 也 還 不錯
+program error prediction: 4
+
+3313_83.txt: Line 50
+4 以 這 個 價 來 說 處理 得 不錯
+program did not classify it as category 4
+
+3313_83.txt: Line 59
+4 這 是 一 間 中低價位 至 中價位
+program did not classify it as category 4
+
+3313_87.txt: Line 28
+8 另 可 選擇 一 杯 145 元 的 飲品
+program error prediction: 4
+
+3313_87.txt: Line 43
+8 ▼ 焦糖 紅茶 200 元
+program error prediction: 4
+
+3313_88.txt: Line 48
+8 芝麻 豆腐堡 --- $ 180
+program error prediction: 4
+
+3313_88.txt: Line 63
+8 薯餅 花生醬 烤 麵包 --- $ 150
+program error prediction: 4
+
+3313_88.txt: Line 75
+8 --- $ 100 * 搭配 主餐 加 購價 $ 40
+program error prediction: 4
+
+3313_89.txt: Line 92
+4 但是 肚子 簡直 飽 到 要 炸 了 XDD 算是 吃 的 很 划算 的 感覺
+program did not classify it as category 4
+
+3314_91.txt: Line 45
+8 美國 頂級 肋 眼 菲力 牛排 950 元 這 道 主菜 幾乎 是 店 內 主打星
+program error prediction: 4
+
+3314_91.txt: Line 57
+8 現烤 鮭魚 1200 元 其實 我 不 懂 為什麼 現烤 鮭魚 硬生生 就 是 比 菲力 牛排 貴上 250 元
+program error prediction: 4
+
+3314_91.txt: Line 64
+4 這 道 菜 的 價值 跟 價錢 還是 不 對等
+program did not classify it as category 4
+
+3314_92.txt: Line 19
+4 套餐 一 人 1580 + 10 %
+program did not classify it as category 4
+
+3314_92.txt: Line 21
+4 但是 要 水 資 280 / 瓶
+program did not classify it as category 4
+
+3314_92.txt: Line 42
+8 雖說 價位 問題 沒法子 用 鵝肝
+program error prediction: 4
+
+3314_92.txt: Line 85
+8 但是 今天 的 菜色 以 同樣 兩 人 近 4000 元 消費
+program error prediction: 4
+
+3314_93.txt: Line 64
+8 但 我們 得到 的 資訊 一直 是 " 冠軍賽 每 人 低 消 五百 元 " ，
+program error prediction: 4
+
+3314_95.txt: Line 34
+8 / $ 580
+program error prediction: 4
+
+3314_96.txt: Line 15
+4 但 價錢 卻 是 最 便宜 的
+program did not classify it as category 4
+
+3314_96.txt: Line 16
+4 也 算是 種 佛心
+program did not classify it as category 4
+
+3314_96.txt: Line 17
+8 雞 油飯 ＄ 10
+program error prediction: 4
+
+3314_96.txt: Line 36
+8 雞肉 ＄ 45
+program error prediction: 4
+
+3314_96.txt: Line 47
+8 苦瓜湯 ＄ 35
+program error prediction: 4
+
+3314_96.txt: Line 63
+8 的 價格
+program error prediction: 4
+
+3314_97.txt: Line 14
+8 $ 120
+program error prediction: 4
+
+3314_97.txt: Line 21
+8 $ 150
+program error prediction: 4
+
+3314_97.txt: Line 25
+8 $ 135
+program error prediction: 4
+
+3315_98.txt: Line 43
+8 全 系列 商品 特價 100 元 的 活動 延長 到 7 / 30
+program error prediction: 4
+
+3315_98.txt: Line 88
+8 一 份 甜點 100 元 雖然 對 大眾 來 說 比較 可以 負擔
+program error prediction: 4
+
+3315_99.txt: Line 26
+8 記憶 中小 肉粽 只要 NT . 10 元 的 價位 早已 不復 在
+program error prediction: 4
+
+3315_99.txt: Line 55
+8 少 兩樣 配料 價錢 少 NT . 10 元
+program error prediction: 4
+
+3315_99.txt: Line 56
+4 仔細 想想 還 真是 有 些微 貴 呢
+program did not classify it as category 4
+
+3315_101.txt: Line 65
+4 不只 平價
+program did not classify it as category 4
+
+3315_102.txt: Line 7
+8 每 人 平均 價位 ： 200
+program error prediction: 4
+
+3315_102.txt: Line 27
+4 600 不等
+program did not classify it as category 4
+
+3315_102.txt: Line 28
+4 牛排 則 是 200 起
+program did not classify it as category 4
+
+3315_103.txt: Line 8
+8 每 人 平均 價位 ： 1250
+program error prediction: 4
+
+3315_104.txt: Line 8
+8 平均 價位 ： 200 ~ 300
+program error prediction: 4
+
+3315_104.txt: Line 16
+8 算 的 上 是 百 元 快 炒 的 進階版
+program error prediction: 4
+
+3315_104.txt: Line 18
+8 是 不 是 跟 百 元 快 炒 很 接近 阿
+program error prediction: 4
+
+3315_104.txt: Line 65
+4 結帳 的 時候 似乎 是 付 了 13 xx
+program did not classify it as category 4
+
+3315_105.txt: Line 8
+8 每 人 平均 價位 ： 380 +
+program error prediction: 4
+
+3315_106.txt: Line 68
+8 雖然 KayaKayaCafe 的 價位 真的 不 可愛
+program error prediction: 4
+
+3316_107.txt: Line 8
+8 每 人 平均 價位 ： 約 300 ， 可 刷卡 ， 接受 預約
+program error prediction: 4
+
+3316_107.txt: Line 34
+8 只 價差 ３０ 元
+program error prediction: 4
+
+3317_108.txt: Line 8
+8 每 人 平均 價位 ： 50
+program error prediction: 4
+
+3317_108.txt: Line 62
+8 又 花費 比 一般 近 一 倍 的 價格
+program error prediction: 4
+
+3317_111.txt: Line 8
+8 每 人 平均 價位 ： 午 440 . - 晚 490 . -
+program error prediction: 4
+
+3317_111.txt: Line 18
+4 知味房 的 消費 金額 是 午餐 440 . - 晚餐 490 . -
+program did not classify it as category 4
+
+3317_111.txt: Line 19
+4 記得 剛 知道 這 間 店 的 時候 好像 才 300多
+program did not classify it as category 4
+
+3317_111.txt: Line 20
+4 一轉眼 也 接近 500 大關 了
+program did not classify it as category 4
+
+3317_113.txt: Line 24
+4 一 個 人 好似 300 初 左右
+program did not classify it as category 4
+
+3318_114.txt: Line 8
+8 每 人 平均 價位 ： NT . 100
+program error prediction: 4
+
+3318_116.txt: Line 8
+8 每 人 平均 價位 ： 600
+program error prediction: 4
+
+3318_116.txt: Line 25
+8 聽說 很 棒 話 說 之前 看到 網路 上 的 文章 介紹 都 說 有 兩 種 價格 的 套餐
+program error prediction: 4
+
+3318_116.txt: Line 28
+8 不得不 說 這樣 下來 價格 差 了 很多 啊 說道 法式 薄餅 怎麼 能 沒有 甜點 呢
+program error prediction: 4
+
+3318_118.txt: Line 8
+8 每 人 平均 價位 ： $ 125
+program error prediction: 4
+
+3318_118.txt: Line 43
+8 不用 加 一成 服務費
+program error prediction: 4
+
+3318_119.txt: Line 214
+8 SUKIYA 是 不 加 服務費 的
+program error prediction: 4
+
+3319_121.txt: Line 8
+8 每 人 平均 價位 ： 200 ~ 300 元
+program error prediction: 4
+
+3319_122.txt: Line 36
+8 MiaCucina 是 採 自助式 沒有 另外 收 服務費
+program error prediction: 4
+
+3319_122.txt: Line 64
+8 我 真心 覺得 自助式 省 服務費 的 美意 非常 棒
+program error prediction: 4
+
+3319_122.txt: Line 99
+8 雖然 光 看 價格 不 便宜
+program error prediction: 4
+
+3319_123.txt: Line 6
+8 每 人 平均 價位 ： 130 - 190 元 ， 不 收 服務費
+program error prediction: 4
+
+3319_123.txt: Line 16
+8 店家 不 收 服務費
+program error prediction: 4
+
+3319_123.txt: Line 27
+8 不 收 服務費
+program error prediction: 4
+
+3319_123.txt: Line 53
+4 這 是 一 間 中低價位 至 中價位
+program did not classify it as category 4
+
+3319_124.txt: Line 8
+8 每 人 平均 價位 ： 1000
+program error prediction: 4
+
+3319_124.txt: Line 51
+8 就是 知道 午間 的 價位 較 低
+program error prediction: 4
+
+3319_124.txt: Line 207
+8 雖然 價位 不 低
+program error prediction: 4
+
+3319_124.txt: Line 208
+4 一 人 吃下來 約 1000 出頭
+program did not classify it as category 4
+
+3319_124.txt: Line 209
+8 但 這樣 的 價位
+program error prediction: 4
+
+3320_126.txt: Line 10
+8 每 人 平均 價位 ： 30 ~ 180
+program error prediction: 4
+
+3320_131.txt: Line 10
+8 價位  0 - 200
+program error prediction: 4
+
+3320_132.txt: Line 9
+8 每 人 平均 價位 ： 2000 元
+program error prediction: 4
+
+3321_133.txt: Line 119
+4 有 699 的 主廚 套餐
+program did not classify it as category 4
+
+3321_133.txt: Line 161
+8 這 是 很 歐洲 的 價格 XD 不過 喝 一口 就 能 明白 用料 非常 實在
+program error prediction: 4
+
+3321_133.txt: Line 304
+8 個 人 覺得 價格 稍 高 了 些
+program error prediction: 4
+
+3321_133.txt: Line 329
+8 價格 實惠
+program error prediction: 4
+
+3321_134.txt: Line 8
+8 每 人 平均 價位 ： 200
+program error prediction: 4
+
+3321_134.txt: Line 43
+8 價格 比 吉野家 稍 貴 不過 單點附 的 味增湯 、 小菜 還 有 飯 可以 無限 續加
+program error prediction: 4
+
+3321_134.txt: Line 46
+4 可以 + 80 升級 套餐
+program did not classify it as category 4
+
+3321_134.txt: Line 90
+8 CP 值  8 / 10 這 價格 在 台北 還 算 OK
+program error prediction: 4
+
+3321_136.txt: Line 36
+4 100 快 炒 起跳
+program did not classify it as category 4
+
+3321_136.txt: Line 37
+4 炒 菜 幾乎 都 是 100 - 140 左右
+program did not classify it as category 4
+
+3321_136.txt: Line 39
+4 魚 幾乎 要 200
+program did not classify it as category 4
+
+3321_136.txt: Line 49
+8 【 泰式 咖哩 蝦 - NT 179 】
+program error prediction: 4
+
+3321_137.txt: Line 8
+8 每 人 平均 價位 ： 餐點 400 元 / 下午茶 300 元
+program error prediction: 4
+
+3321_137.txt: Line 46
+4 + 10 %
+program did not classify it as category 4
+
+3321_137.txt: Line 64
+8 主餐 碳烤 雞肉 波本 義大利 扁 麵 280 元 + 10 %
+program error prediction: 4
+
+3321_137.txt: Line 71
+4 + 10 %
+program did not classify it as category 4
+
+3321_137.txt: Line 85
+4 今天 這 餐 花 了 近 600 大洋
+program did not classify it as category 4
+
+3321_138.txt: Line 7
+8 每 人 平均 價位 ： 400 元 左右
+program error prediction: 4
+
+3321_138.txt: Line 59
+8 老實說 這樣 的 串燒 價位 比起 過往 在 東區 吃 過 的 幾 間 串燒店 親民 許多
+program error prediction: 4
+
+3321_139.txt: Line 8
+8 每 人 平均 價位 ： 300 - 400
+program error prediction: 4
+
+3321_141.txt: Line 87
+4 每 次 消費 大概 在 700 上下
+program did not classify it as category 4
+
+3321_142.txt: Line 45
+4 且 我們 去 的 時候 使用 花旗 卡單點 有 ９ 折
+program did not classify it as category 4
+
+3321_142.txt: Line 51
+4 還 有 ８５ 折
+program did not classify it as category 4
+
+3321_142.txt: Line 211
+8 雖然 非 套餐 的 價位 稍微 偏 高
+program error prediction: 4
+
+3321_142.txt: Line 219
+4 ＣＰ 值 ： ★ ★ ★ ★ ☆
+program did not classify it as category 4
+
+3321_143.txt: Line 7
+8 每 人 平均 價位 ： $ 60
+program error prediction: 4
+
+3321_143.txt: Line 12
+8 除了 價位 便宜 外
+program error prediction: 4
+
+3321_143.txt: Line 33
+4 實在 夠 平價
+program did not classify it as category 4
+
+3322_144.txt: Line 9
+8 每 人 平均 價位 ： 180 ~ 300
+program error prediction: 4
+
+3322_144.txt: Line 62
+4 任一 鬆餅 + 任一 飲料 = 280
+program did not classify it as category 4
+
+3322_144.txt: Line 64
+4 午茶 主餐 + 任一 飲料 = 200
+program did not classify it as category 4
+
+3322_145.txt: Line 10
+8 價位 範圍 ( 每人 ) ： 1000 元 左右
+program error prediction: 4
+
+3322_145.txt: Line 22
+8 水費 是 130 元
+program error prediction: 4
+
+3322_146.txt: Line 8
+8 每 人 平均 價位 ： 150
+program error prediction: 4
+
+3322_147.txt: Line 8
+8 每 人 平均 價位 ： 92 $ 起
+program error prediction: 4
+
+3322_148.txt: Line 35
+8 這 價位 很 難 不 挑剔 一下
+program error prediction: 4
+
+3322_148.txt: Line 61
+4 但 今晚 的 一千八 配上 如此 的 居家型 主餐
+program did not classify it as category 4
+
+3323_152.txt: Line 19
+4 CP 值 超高 的 平價 日式 料理
+program did not classify it as category 4
+
+3323_152.txt: Line 71
+8 這裡 要 加收 一成 服務費
+program error prediction: 4
+
+3323_153.txt: Line 62
+8 這樣 100 元 著實 划算
+program error prediction: 4
+
+3324_155.txt: Line 27
+6 最 高消費 400 元 可 抵 停 兩 小時
+program error prediction: 4
+
+3324_158.txt: Line 70
+8 要 注意 點 商業 午餐 的 話 是 要 加價 $ 899 唷
+program error prediction: 4
+
+3324_158.txt: Line 92
+8 小小 一 盤 加上 兩 杯 調 酒 就 要 $ 899
+program error prediction: 4
+
+3324_158.txt: Line 95
+8 百萬 元 打造 的 餐車 就 來 啦
+program error prediction: 4
+
+3324_158.txt: Line 146
+4 一 個 人 大概 一千八
+program did not classify it as category 4
+
+3324_159.txt: Line 48
+8 2014 . 7.31 前 優惠價 100 元
+program error prediction: 4
+
+3325_163.txt: Line 33
+4 checkpoint  鬍子 餐酒 1 . 開瓶 費 一 瓶 500 這 家 店 自行 帶 酒 的 話
+program did not classify it as category 4
+
+3325_163.txt: Line 34
+4 開瓶 費用 一 瓶 500
+program did not classify it as category 4
+
+3325_163.txt: Line 35
+3 推薦 料理 第一 道  松露 什錦 菇 起 司燉 飯 推薦度 ： 90.0 % 美味度 ： 7.0 價格 ： 480 http  / / www.fbglife.com/food/1/Food_transition.php
+program error prediction: 4
+
+3325_163.txt: Line 51
+3 ─ Lisa 推薦 料理 第二 道  威尼斯 海鮮 鍋 推薦度 ： 83.3 % 美味度 ： 7.3 價格 ： 580 http  / / www.fbglife.com/food/1/Food_transition.php
+program error prediction: 4
+
+3325_163.txt: Line 67
+3 ─ Lisa 推薦 料理 第三 道  莫札瑞拉烘 蛋 推薦度 ： 76.7 % 美味度 ： 6.7 價格 ： 260 http  / / www.fbglife.com/food/1/Food_transition.php
+program error prediction: 4
+
+3325_163.txt: Line 81
+8 適合 朋友 聚餐 ： ★ ★ ★ ★ 適合 情侶 約會 ： ★ ★ ★ ☆ 適合 家庭 聚會 ： ★ ★ ★ ☆ 餐廳 氣氛 ： ★ ★ ★ ☆ 價格 划算 ： ★ ★ ★ ☆ 美味 滿意 程度 ： ★ ★ ★ ☆
+program error prediction: 4
+
+3325_163.txt: Line 82
+8 就 該 價位 而言
+program error prediction: 4
+
+3325_164.txt: Line 33
+4 義式 咖啡 約 落在 200 上下
+program did not classify it as category 4
+
+3325_164.txt: Line 35
+4 主餐 約 280
+program did not classify it as category 4
+
+3325_164.txt: Line 36
+4 鬆餅 180
+program did not classify it as category 4
+
+3325_164.txt: Line 37
+4 加 100 可 任選 250 以下 的 飲料
+program did not classify it as category 4
+
+3325_164.txt: Line 39
+8 收 服務費 但是 澎 澎 蛋 今天 沒有 供應
+program error prediction: 4
+
+3326_166.txt: Line 47
+8 因為 這 不 收 服務費
+program error prediction: 4
+
+3326_166.txt: Line 106
+2,4 平價 消費 、 料 多 實在
+program did not classify it as category 4
+
+3326_167.txt: Line 28
+8 外觀 都 很 平均 且 完整
+program error prediction: 4
+
+3326_167.txt: Line 72
+4 收取 10 % 服務 費用
+program did not classify it as category 4
+
+3326_169.txt: Line 51
+4 在 這 吃 的 c/p 值 實在 太 低
+program did not classify it as category 4
+
+3327_172.txt: Line 15
+8 晚餐 時間 的 價格
+program error prediction: 4
+
+3327_172.txt: Line 17
+8 但是 這 附近 的 日本 料理 出 的 商業 午餐 價格 卻 平易近人
+program error prediction: 4
+
+3327_172.txt: Line 24
+4 晚餐 時段 套餐 在 1500 以上 吧
+program did not classify it as category 4
+
+3327_173.txt: Line 33
+8 NT $ 2
+program error prediction: 4
+
+3327_173.txt: Line 36
+8 NT $ 2
+program error prediction: 4
+
+3327_173.txt: Line 77
+8 畢竟 食材擺 在 那裏 再 怎麼說 也 不可能 比 百 元 牛排 差
+program error prediction: 4
+
+3327_173.txt: Line 112
+8 所以 回 過 頭 來 看 一下 價格 ... 內牛 滿 面 ... 也許 來 這 要 嘛 就 得 " 點 對 "
+program error prediction: 4
+
+3327_173.txt: Line 127
+1 服務 的 部分 感覺 沒有 到 其 價位 的 水準
+program error prediction: 4
+
+3328_174.txt: Line 23
+8 總共 $ 1580
+program error prediction: 4
+
+3328_174.txt: Line 24
+8 等一下 我 寫 的 價錢 都 是 單 點 價格 唷
+program error prediction: 4
+
+3328_174.txt: Line 26
+8 $ 399
+program error prediction: 4
+
+3328_175.txt: Line 20
+4 在 永康街 這 個 地段 來 說 還 算 蠻 平價 的
+program did not classify it as category 4
+
+3328_177.txt: Line 59
+8 咖啡廳 的 價位
+program error prediction: 4
+
+3328_178.txt: Line 36
+8 不 收 服務費
+program error prediction: 4
+
+3329_181.txt: Line 34
+8 店 內 不 收 服務費
+program error prediction: 4
+
+3329_182.txt: Line 16
+8 店家 不 收 服務費
+program error prediction: 4
+
+3329_182.txt: Line 48
+4 這 是 一 間 中低價位 至 中價位
+program did not classify it as category 4
+
+3329_182.txt: Line 49
+4 不 收 服務
+program did not classify it as category 4
+
+3329_183.txt: Line 24
+4 真的 挺 平價 的 喔
+program did not classify it as category 4
+
+3329_183.txt: Line 84
+4 石 二 鍋 的 CP 值 算是 一般
+program did not classify it as category 4
+
+3329_184.txt: Line 22
+8 點餐 加 咖啡 / 茶 可 現 折 100 元
+program error prediction: 4
+
+3329_184.txt: Line 32
+3 撇開 空虛 的 配菜 和 價位
+program error prediction: 4
+
+3329_184.txt: Line 69
+8 咖啡 小 自由 提供 WiFi 、 每 人 低 消 為 飲料 一 杯 、 不 加收 服務費 用
+program error prediction: 4
+
+3330_186.txt: Line 24
+8 不 收 服務費
+program error prediction: 4
+
+3330_186.txt: Line 48
+4 這 是 一 間 中價位
+program did not classify it as category 4
+
+3330_186.txt: Line 49
+8 不 收 服務費
+program error prediction: 4
+
+3330_186.txt: Line 56
+8 不然 在 競爭 激烈 的 西湖 市場 美食街 光 是 價格
+program error prediction: 4
+
+3330_187.txt: Line 58
+8 不過 上頭 是 寫 自行 購買 要價 80 元
+program error prediction: 4
+
+3330_187.txt: Line 63
+8 320 元
+program error prediction: 4
+
+3331_189.txt: Line 35
+8 免費 的 範圍 大約 是 一百多 的 飲品 可樂 ＄ ６０
+program error prediction: 4
+
+3331_189.txt: Line 37
+8 巨峰 葡萄 可 爾 必 思沙瓦 ＄ １３０
+program error prediction: 4
+
+3331_189.txt: Line 108
+2 他 也 建議 我們 點 一 份 生菜 ＄ ６５ 如果說 我 推薦 神仙 牛 的 第一 原因 是 冒 白 煙 的 噱頭 好了 第二 個 就是 因為 份量 了
+program error prediction: 4
+
+3331_189.txt: Line 138
+3,4 但 對 我 來 說 肉 好 調味 又 棒 豈不是 更 加分 大阪 燒肉 雙子 的 單價 雖然 偏 高
+program did not classify it as category 4
+
+3332_191.txt: Line 35
+8 但是 價位 太 高 令 人 害怕
+program error prediction: 4
+
+3332_193.txt: Line 26
+8 100 元 / 次
+program error prediction: 4
+
+3332_193.txt: Line 47
+3 老實說 吃起來 真的 超級 普通 以 這 個 價位 就是 不 難吃 但 只 能 想像 是 買 氣氛 才 不會 太 在意 價
+program error prediction: 4
+
+3332_193.txt: Line 66
+3 但 餐點 只 會 選 甜食 和 飲品 鹹 食 的 價格 和 水準 實在 是 太 不成 比例
+program error prediction: 4
+
+3332_195.txt: Line 30
+8 不過 要 注意 感應卡 弄丟 是 要 賠償 1500 元 喔
+program error prediction: 4
+
+3332_195.txt: Line 87
+8 價錢 上 比提拉米蘇 便宜 了 30 元
+program error prediction: 4
+
+3332_195.txt: Line 95
+8 算 下來 一 個 布朗尼 才 50 元
+program error prediction: 4
+
+3332_196.txt: Line 69
+4 這 個 賣 200 塊 我們 兩 個 都 覺得 一點 都 不 貴
+program did not classify it as category 4
+
+3332_197.txt: Line 115
+8 早 午餐 239 大洋 又 不 收 服務費
+program error prediction: 4
+
+3332_197.txt: Line 116
+4 CP 值 高 得 讓 人 很 滿意
+program did not classify it as category 4
+
+3332_198.txt: Line 6
+8 每 人 平均 價位 ： 139 - 169 元 ， 不 收 服務費
+program error prediction: 4
+
+3332_198.txt: Line 31
+8 店家 不 收 服務費
+program error prediction: 4
+
+3332_198.txt: Line 39
+8 不 收 服務費
+program error prediction: 4
+
+3332_198.txt: Line 52
+4 這 是 一 間 中低價位 至 中價位
+program did not classify it as category 4
+
+3332_198.txt: Line 53
+8 不 收 服務費
+program error prediction: 4
+
+3332_198.txt: Line 55
+8 以 這樣 的 價格 和 表現 作為 大 賣場 美食街 的 拉麵店 是 沒有 問題
+program error prediction: 4
+
+3333_199.txt: Line 39
+4 五百多 左右
 program did not classify it as category 4
 
 Test: category 4
-precision: 0.97222
-recall: 0.82677
-F1: 0.89362
+precision: 0.62608
+recall: 0.80538
+F1: 0.70450
