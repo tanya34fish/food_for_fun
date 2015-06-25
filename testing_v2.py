@@ -54,7 +54,7 @@ def test(category,method):
                             else:
                                 g.write('%s: Line %d\n' %(input,lineNum))
                                 g.write(line)
-                                g.write('our error prediction: %d\n' %category)
+                                g.write('program error prediction: %d\n' %category)
                                 g.write('\n')
                                 #print 'error'
                             is_retrieve = True
@@ -62,7 +62,7 @@ def test(category,method):
                     if not is_retrieve and is_ans:
                         g.write('%s: Line %d\n' %(input,lineNum))
                         g.write(line)
-                        g.write('this method did not classify it as category %d\n' %category)
+                        g.write('program did not classify it as category %d\n' %category)
                         g.write('\n')
          
     precision = float(right_predict)/float(retrieve)

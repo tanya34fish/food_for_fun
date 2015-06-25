@@ -1,128 +1,112 @@
 3303_10.txt: Line 28
 2 量 不 多
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3303_10.txt: Line 29
 2 小小 一 塊
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3304_20.txt: Line 33
 2 其實 非常 飽
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3304_20.txt: Line 52
 2 而 香草 口味 奶昔 相當 大 杯
-this method did not classify it as category 2
+program did not classify it as category 2
+
+3318_120.txt: Line 13
+2 親身 體驗 了 一 場 啤酒 及 義式 料理 精心 搭配 的 豐盛 饗宴
+program did not classify it as category 2
 
 3318_120.txt: Line 32
 2 菜餚 精緻 美味 也 能 吃 得 飽
-this method did not classify it as category 2
-
-3318_120.txt: Line 89
-8 因為 不 是 一 次 做 大 份量 再 來 分裝
-our error prediction: 2
+program did not classify it as category 2
 
 3305_30.txt: Line 69
 2 一 份 兩 個 人 吃 有點 不 夠 欸
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3320_130.txt: Line 57
 2 小 碗 大 碗 是 同樣 價錢
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3320_130.txt: Line 58
 2 還可以 加 湯加麵 喔
-this method did not classify it as category 2
+program did not classify it as category 2
+
+3307_40.txt: Line 38
+2 加 110 元 就 多 了 飲料 、 白飯 和 一 道 配 菜
+program did not classify it as category 2
 
 3307_40.txt: Line 88
 2 只 是 這 麵量 也 不 算 多
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3307_40.txt: Line 103
 2 不過 這樣 吃下來 很 有 飽足 感 啦
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3308_50.txt: Line 31
 2 好 豐盛 的 菜盤
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3308_50.txt: Line 33
 2 很少 看見 用料 這麼 豐富
-this method did not classify it as category 2
-
-3325_160.txt: Line 81
-2 裡頭 大概 5 顆 小 番茄 吧
-this method did not classify it as category 2
-
-3311_70.txt: Line 38
-8 沒 錯 餡料 的 份量 就 只有 外觀 看到 的 那樣
-our error prediction: 2
+program did not classify it as category 2
 
 3312_80.txt: Line 21
 5 一 進 門 就 看到 好 大一 隻 熊
-our error prediction: 2
+program error prediction: 2
 
 3312_80.txt: Line 65
 2 花枝 和 蛤蠣 用料 很 大方
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3314_90.txt: Line 57
 2 而且 大大 一 杯
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3314_90.txt: Line 58
 2 可以 讓 我 喝 很 久 .....
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3314_90.txt: Line 81
 2 後來 她 食量 小吃 不 完 .. 所以 打包 ...
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3331_190.txt: Line 82
 2 料 也 很 豐富
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3315_100.txt: Line 84
 8 兒 站 在 櫃台 後面 都 顯得 好 迷你 了
-our error prediction: 2
+program error prediction: 2
 
-3315_100.txt: Line 266
-3 很 迷你 一 個 吃下去 還 會 覺得 回味 無窮
-our error prediction: 2
-
-3315_100.txt: Line 312
-8 甜點 都 好 迷你 精緻
-our error prediction: 2
+3318_120.txt: Line 13
+2 親身 體驗 了 一 場 啤酒 及 義式 料理 精心 搭配 的 豐盛 饗宴
+program did not classify it as category 2
 
 3318_120.txt: Line 32
 2 菜餚 精緻 美味 也 能 吃 得 飽
-this method did not classify it as category 2
-
-3318_120.txt: Line 89
-8 因為 不 是 一 次 做 大 份量 再 來 分裝
-our error prediction: 2
+program did not classify it as category 2
 
 3320_130.txt: Line 57
 2 小 碗 大 碗 是 同樣 價錢
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3320_130.txt: Line 58
 2 還可以 加 湯加麵 喔
-this method did not classify it as category 2
-
-3325_160.txt: Line 81
-2 裡頭 大概 5 顆 小 番茄 吧
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3331_190.txt: Line 82
 2 料 也 很 豐富
-this method did not classify it as category 2
+program did not classify it as category 2
 
 3333_200.txt: Line 23
 8 不過 迷你 的 好 可愛
-our error prediction: 2
+program error prediction: 2
 
 Test: category 2
-precision: 0.63636
-recall: 0.37838
-F1: 0.47458
+precision: 0.86364
+recall: 0.44186
+F1: 0.58462

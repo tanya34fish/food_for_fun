@@ -1,224 +1,148 @@
-3303_10.txt: Line 25
-8 煎 烤雞 肉野菇麵 ＄ 280
-our error prediction: 4
-
-3303_10.txt: Line 39
-8 法式 橙花 鮮果 千 層 佐 香草 冰淇淋 ＄ 180
-our error prediction: 4
-
 3318_120.txt: Line 69
 4 除下 來 的 單價 就 不 算 太 貴
-this method did not classify it as category 4
-
-3305_30.txt: Line 42
-8 好 可愛 的 香蕉 鮮奶茶 先 送上來 啦 140 元
-our error prediction: 4
-
-3320_130.txt: Line 40
-8 但是 以 這樣 平價 的 價位 來 說
-our error prediction: 4
+program did not classify it as category 4
 
 3307_40.txt: Line 32
 4 不過 有加 一成 服務費
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3307_40.txt: Line 38
-8 加 110 元 就 多 了 飲料 、 白飯 和 一 道 配 菜
-our error prediction: 4
-
-3307_40.txt: Line 47
-8 然後 加 110 元 搭配 一下 白飯 和 炸 牡蠣
-our error prediction: 4
-
-3321_140.txt: Line 8
-8 每 人 平均 價位 ： 200
-our error prediction: 4
+2 加 110 元 就 多 了 飲料 、 白飯 和 一 道 配 菜
+program error prediction: 4
 
 3308_50.txt: Line 21
 4 以 台北 的 價格 來 說 算是 相當 平價
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3308_50.txt: Line 26
 4 這邊 共鍋 相當 划算 呢
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3308_50.txt: Line 28
 4 比起 一般 要 加價 50 - 100 低消 的 店家 真是 划算 多 了
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3308_50.txt: Line 38
 4 這邊 白飯 跟 滷肉飯 價格 都 是 單 點 20
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3323_150.txt: Line 18
 4 好滴 咖啡 不 收取 服務 費用
-this method did not classify it as category 4
-
-3310_60.txt: Line 40
-8 【 雞肉飯 】 $ 40
-our error prediction: 4
-
-3310_60.txt: Line 58
-8 【 魯肉飯 】 $ 35
-our error prediction: 4
+program did not classify it as category 4
 
 3325_160.txt: Line 57
 4 而且 餐點 價格 還 蠻 平價 的
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3325_160.txt: Line 58
 4 沒有 特別 貴
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3325_160.txt: Line 59
 4 不用 加 服務費
-this method did not classify it as category 4
-
-3325_160.txt: Line 64
-8 柚子 茶 與 可 爾 必 思 一 杯 $ 50
-our error prediction: 4
+program did not classify it as category 4
 
 3325_160.txt: Line 82
 4 其實 也 不 算 便宜
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3325_160.txt: Line 170
 4 東西 不 貴
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3311_70.txt: Line 65
 4 當然 這 有 一 部分 要 歸功於 它 不 算 便宜 的 價格 XD
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3326_170.txt: Line 27
 4 他 的 低消 為 每 人 100 大洋
-this method did not classify it as category 4
+program did not classify it as category 4
+
+3326_170.txt: Line 30
+4 價格 都 還 算 OK
+program did not classify it as category 4
 
 3326_170.txt: Line 33
 4 170 大洋
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3326_170.txt: Line 36
 4 130 大洋
-this method did not classify it as category 4
-
-3312_80.txt: Line 5
-6 地址 ： 新 北市 三峽區 大學路 200 號
-our error prediction: 4
-
-3312_80.txt: Line 57
-8 香煎牛 小 排 燉飯 $ 289
-our error prediction: 4
-
-3312_80.txt: Line 60
-8 培根 松子 青醬燉飯 $ 208
-our error prediction: 4
-
-3312_80.txt: Line 61
-8 蕃茄 鮮蝦 蛤蠣 義大利麵 $ 219
-our error prediction: 4
-
-3312_80.txt: Line 62
-8 南洋 咖哩 牛肉 斜管麵 $ 229
-our error prediction: 4
-
-3312_80.txt: Line 63
-8 焗烤 奶油 海鮮飯 $ 218
-our error prediction: 4
+program did not classify it as category 4
 
 3312_80.txt: Line 73
 8 焗烤 南瓜 蕈菇 嫩 雞麵 $ 208
-our error prediction: 4
-
-3329_180.txt: Line 13
-8 新台幣 $ 2000 元
-our error prediction: 4
+program error prediction: 4
 
 3331_190.txt: Line 116
 4 雖然 以 商業 午餐 的 價格 來 說 還是 稍 貴 了 一點
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3315_100.txt: Line 124
 4 一 人 1250 + 10 %
-this method did not classify it as category 4
-
-3315_100.txt: Line 127
-8 是 1900 元
-our error prediction: 4
-
-3315_100.txt: Line 128
-8 頂級 下午茶 3750 元 .... 這 個 就 敬謝不敏 了
-our error prediction: 4
+program did not classify it as category 4
 
 3315_100.txt: Line 314
 4 所以 才 這麼 貴 吧
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3318_120.txt: Line 69
 4 除下 來 的 單價 就 不 算 太 貴
-this method did not classify it as category 4
-
-3320_130.txt: Line 40
-8 但是 以 這樣 平價 的 價位 來 說
-our error prediction: 4
-
-3321_140.txt: Line 8
-8 每 人 平均 價位 ： 200
-our error prediction: 4
+program did not classify it as category 4
 
 3323_150.txt: Line 18
 4 好滴 咖啡 不 收取 服務 費用
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3325_160.txt: Line 57
 4 而且 餐點 價格 還 蠻 平價 的
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3325_160.txt: Line 58
 4 沒有 特別 貴
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3325_160.txt: Line 59
 4 不用 加 服務費
-this method did not classify it as category 4
-
-3325_160.txt: Line 64
-8 柚子 茶 與 可 爾 必 思 一 杯 $ 50
-our error prediction: 4
+program did not classify it as category 4
 
 3325_160.txt: Line 82
 4 其實 也 不 算 便宜
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3325_160.txt: Line 170
 4 東西 不 貴
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3326_170.txt: Line 27
 4 他 的 低消 為 每 人 100 大洋
-this method did not classify it as category 4
+program did not classify it as category 4
+
+3326_170.txt: Line 30
+4 價格 都 還 算 OK
+program did not classify it as category 4
 
 3326_170.txt: Line 33
 4 170 大洋
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3326_170.txt: Line 36
 4 130 大洋
-this method did not classify it as category 4
-
-3329_180.txt: Line 13
-8 新台幣 $ 2000 元
-our error prediction: 4
+program did not classify it as category 4
 
 3331_190.txt: Line 116
 4 雖然 以 商業 午餐 的 價格 來 說 還是 稍 貴 了 一點
-this method did not classify it as category 4
+program did not classify it as category 4
 
 3333_200.txt: Line 31
 4 沒有 一成 服務費
-this method did not classify it as category 4
+program did not classify it as category 4
+
+3333_200.txt: Line 101
+4 擁有 親民 的 價格 和 美味 的 料理
+program did not classify it as category 4
 
 Test: category 4
-precision: 0.74468
-recall: 0.69307
-F1: 0.71795
+precision: 0.97849
+recall: 0.72800
+F1: 0.83486

@@ -1,184 +1,188 @@
 3304_20.txt: Line 37
 7 喜歡 麻辣 的 人 應該 很 過癮
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3304_20.txt: Line 40
 7 朋友 吃 了 讚不絕口
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3318_120.txt: Line 133
 8 雙 響 鍋
-our error prediction: 7
+program error prediction: 7
 
 3318_120.txt: Line 140
 8 基本 上 雙 響 鍋 可 挑選 義大利 北方 白酒 青醬 或 南方 蕃茄 紅醬 兩 種 口味
-our error prediction: 7
+program error prediction: 7
 
 3318_120.txt: Line 162
 7 還 挺 不錯 的
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3305_30.txt: Line 70
 7 意猶未盡
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3323_150.txt: Line 71
 7 我 不 太 喜歡 這 種 口感
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3323_150.txt: Line 84
 7 非常 非常 好喝
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3310_60.txt: Line 45
 7 整體 來 說 還 不錯
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3310_60.txt: Line 57
 7 激推
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3310_60.txt: Line 81
 7 沒 什麼 特別
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 98
 7 但 沒有 特別 出眾
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 100
 7 另外 蠻 值得 一點 的 還 有 蘋果 煮 、 毛豆丸 、 溏心 蛋
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 103
 7 很 特別
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 106
 7 不過 這 個 蘋果 煮 還 不錯 喔
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 111
 7 溏心蛋 也 很 推
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 125
 7 湯 的 部分 也 很 令 人 滿意
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 136
 7 不過 蔥 都 焦掉 了 有點 可惜
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 144
 7 非常 特別
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 158
 7 但 我 覺得 還是 相當 不錯 拉
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 167
 7 我 個 人 蠻 喜歡 的
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 175
 7 但 我 覺得 很 值得 一 吃 喔
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3314_90.txt: Line 22
 7 這 間 很 好吃 的 香港 茶水 攤
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3314_90.txt: Line 112
 7 這 是 好 東西
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3315_100.txt: Line 109
 7 真的 很 開心 ^ ^
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3315_100.txt: Line 217
 7 很 厲害
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3315_100.txt: Line 239
 7 我 倒是 覺得 還 好
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3315_100.txt: Line 240
 7 不過 就 沒有 特別
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3318_120.txt: Line 133
 8 雙 響 鍋
-our error prediction: 7
+program error prediction: 7
 
 3318_120.txt: Line 140
 8 基本 上 雙 響 鍋 可 挑選 義大利 北方 白酒 青醬 或 南方 蕃茄 紅醬 兩 種 口味
-our error prediction: 7
+program error prediction: 7
 
 3318_120.txt: Line 162
 7 還 挺 不錯 的
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3323_150.txt: Line 71
 7 我 不 太 喜歡 這 種 口感
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3323_150.txt: Line 84
 7 非常 非常 好喝
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 98
 7 但 沒有 特別 出眾
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 100
 7 另外 蠻 值得 一點 的 還 有 蘋果 煮 、 毛豆丸 、 溏心 蛋
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 103
 7 很 特別
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 106
 7 不過 這 個 蘋果 煮 還 不錯 喔
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 111
 7 溏心蛋 也 很 推
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 125
 7 湯 的 部分 也 很 令 人 滿意
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 136
 7 不過 蔥 都 焦掉 了 有點 可惜
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 144
 7 非常 特別
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 158
 7 但 我 覺得 還是 相當 不錯 拉
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 167
 7 我 個 人 蠻 喜歡 的
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3325_160.txt: Line 175
 7 但 我 覺得 很 值得 一 吃 喔
-this method did not classify it as category 7
+program did not classify it as category 7
 
 3333_200.txt: Line 55
 7 相當 推薦
-this method did not classify it as category 7
+program did not classify it as category 7
+
+3333_200.txt: Line 97
+7 相當 推薦 沒有 嘗試 過 俄羅斯 料 裡 的 人 可以 來 嚐嚐 看
+program did not classify it as category 7
 
 Test: category 7
 precision: 0.42857
-recall: 0.06818
-F1: 0.11765
+recall: 0.06667
+F1: 0.11538

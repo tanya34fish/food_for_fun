@@ -1,124 +1,88 @@
 3304_20.txt: Line 23
 1 老闆 與 老闆娘 和 我們 寒暄 聊天
-this method did not classify it as category 1
+program did not classify it as category 1
 
 3304_20.txt: Line 24
 1 非常 熱情
-this method did not classify it as category 1
+program did not classify it as category 1
 
-3318_120.txt: Line 28
-8 以及 歐洲 家庭 親切 溫馨 的 氣氛
-our error prediction: 1
-
-3318_120.txt: Line 116
-8 看到 服務 人員 送來 質感 高雅 的 香檳 冰桶
-our error prediction: 1
-
-3318_120.txt: Line 119
-8 就 由 年輕 帥氣 的 黃 副理 來 為 大家 服務 倒 酒
-our error prediction: 1
+3318_120.txt: Line 108
+1 奶油 蝦 已 貼心 去殼
+program did not classify it as category 1
 
 3320_130.txt: Line 76
 8 再 告知 服務 人員 這樣
-our error prediction: 1
+program error prediction: 1
 
 3323_150.txt: Line 18
 4 好滴 咖啡 不 收取 服務 費用
-our error prediction: 1
+program error prediction: 1
 
 3323_150.txt: Line 31
 1 如果 覺得 沙拉醬 太少 的 話 可以 向 店員 詢問 要求
-this method did not classify it as category 1
+program did not classify it as category 1
 
 3323_150.txt: Line 32
 1 或者 他們 也 會 主動 問 是否 還 需要
-this method did not classify it as category 1
+program did not classify it as category 1
 
 3311_70.txt: Line 30
 8 還 有 一 份 根據 網友 分享 所 點 當天 視為 重頭戲 的 甜品 在 服務生 的 建議 下 稍後 再 上
-our error prediction: 1
+program error prediction: 1
 
 3311_70.txt: Line 62
 1 並 從中 領悟到 店員 的 苦心
-this method did not classify it as category 1
-
-3312_80.txt: Line 88
-8 bravo 的 上菜 速度 很 快
-our error prediction: 1
+program did not classify it as category 1
 
 3314_90.txt: Line 37
 1 我們 要 打包 還是 要 幹嘛 的 老闆 都 是 撲克臉
-this method did not classify it as category 1
+program did not classify it as category 1
 
 3314_90.txt: Line 38
 1 可是 老闆 其實 感覺 得 出來 是 好人 啦
-this method did not classify it as category 1
+program did not classify it as category 1
 
 3331_190.txt: Line 32
 8 不過 服務生 人數 也 少 每 個
-our error prediction: 1
-
-3331_190.txt: Line 35
-8 幸好 料理 的 速度 很 快
-our error prediction: 1
-
-3331_190.txt: Line 37
-8 鐘 就 上菜 了
-our error prediction: 1
+program error prediction: 1
 
 3315_100.txt: Line 108
 1 就 幫 我們 換 位子 了
-this method did not classify it as category 1
+program did not classify it as category 1
 
 3315_100.txt: Line 225
 1 是 說 他們 真的 很 用心 在 達成 顧客 的 無理取鬧 需求 耶
-this method did not classify it as category 1
+program did not classify it as category 1
 
 3315_100.txt: Line 300
 1 只要 看到 茶杯 空 了 就 會 幫 人 斟滿
-this method did not classify it as category 1
+program did not classify it as category 1
 
-3318_120.txt: Line 28
-8 以及 歐洲 家庭 親切 溫馨 的 氣氛
-our error prediction: 1
-
-3318_120.txt: Line 116
-8 看到 服務 人員 送來 質感 高雅 的 香檳 冰桶
-our error prediction: 1
-
-3318_120.txt: Line 119
-8 就 由 年輕 帥氣 的 黃 副理 來 為 大家 服務 倒 酒
-our error prediction: 1
+3318_120.txt: Line 108
+1 奶油 蝦 已 貼心 去殼
+program did not classify it as category 1
 
 3320_130.txt: Line 76
 8 再 告知 服務 人員 這樣
-our error prediction: 1
+program error prediction: 1
 
 3323_150.txt: Line 18
 4 好滴 咖啡 不 收取 服務 費用
-our error prediction: 1
+program error prediction: 1
 
 3323_150.txt: Line 31
 1 如果 覺得 沙拉醬 太少 的 話 可以 向 店員 詢問 要求
-this method did not classify it as category 1
+program did not classify it as category 1
 
 3323_150.txt: Line 32
 1 或者 他們 也 會 主動 問 是否 還 需要
-this method did not classify it as category 1
+program did not classify it as category 1
 
 3331_190.txt: Line 32
 8 不過 服務生 人數 也 少 每 個
-our error prediction: 1
-
-3331_190.txt: Line 35
-8 幸好 料理 的 速度 很 快
-our error prediction: 1
-
-3331_190.txt: Line 37
-8 鐘 就 上菜 了
-our error prediction: 1
+program error prediction: 1
 
 Test: category 1
-precision: 0.48571
-recall: 0.58621
-F1: 0.53125
+precision: 0.80000
+recall: 0.66667
+F1: 0.72727
