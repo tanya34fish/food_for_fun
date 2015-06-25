@@ -1,96 +1,424 @@
-3304_20.txt: Line 23
-1 老闆 與 老闆娘 和 我們 寒暄 聊天
-program did not classify it as category 1
-
-3304_20.txt: Line 24
-1 非常 熱情
-program did not classify it as category 1
-
-3318_120.txt: Line 28
-5 以及 歐洲 家庭 親切 溫馨 的 氣氛
+3301_1.txt: Line 30
+8 點餐 的 時候 服務生 說 今天 只 剩下 鮭魚 生魚片 哦
 program error prediction: 1
 
-3318_120.txt: Line 108
-1 奶油 蝦 已 貼心 去殼
-program did not classify it as category 1
-
-3320_130.txt: Line 76
-8 再 告知 服務 人員 這樣
+3301_3.txt: Line 80
+8 發現 這 個 貼心 的 紙盒 甚至 把 熱騰騰 的 漢堡 和 冰冰涼涼 的 飲料 分開 了
 program error prediction: 1
 
-3323_150.txt: Line 18
-4 好滴 咖啡 不 收取 服務 費用
+3301_5.txt: Line 77
+1 很 飽 耶
+program did not classify it as category 1
+
+3302_6.txt: Line 34
+8 可惜 問 了 服務生
 program error prediction: 1
 
-3323_150.txt: Line 31
-1 如果 覺得 沙拉醬 太少 的 話 可以 向 店員 詢問 要求
-program did not classify it as category 1
-
-3323_150.txt: Line 32
-1 或者 他們 也 會 主動 問 是否 還 需要
-program did not classify it as category 1
-
-3311_70.txt: Line 30
-8 還 有 一 份 根據 網友 分享 所 點 當天 視為 重頭戲 的 甜品 在 服務生 的 建議 下 稍後 再 上
+3303_13.txt: Line 78
+8 吃 了 之後 Jamie 馬上 就 問 服務生 這 是 什麼 麵包
 program error prediction: 1
 
-3311_70.txt: Line 62
-1 並 從中 領悟到 店員 的 苦心
-program did not classify it as category 1
-
-3314_90.txt: Line 37
-1 我們 要 打包 還是 要 幹嘛 的 老闆 都 是 撲克臉
-program did not classify it as category 1
-
-3314_90.txt: Line 38
-1 可是 老闆 其實 感覺 得 出來 是 好人 啦
-program did not classify it as category 1
-
-3331_190.txt: Line 32
-8 不過 服務生 人數 也 少 每 個
+3303_13.txt: Line 177
+8 但是 我們 覺得 以 氣氛 、 料理 的 味道 及 服務 來 說
 program error prediction: 1
 
-3315_100.txt: Line 108
-1 就 幫 我們 換 位子 了
-program did not classify it as category 1
-
-3315_100.txt: Line 225
-1 是 說 他們 真的 很 用心 在 達成 顧客 的 無理取鬧 需求 耶
-program did not classify it as category 1
-
-3315_100.txt: Line 300
-1 只要 看到 茶杯 空 了 就 會 幫 人 斟滿
-program did not classify it as category 1
-
-3318_120.txt: Line 28
-5 以及 歐洲 家庭 親切 溫馨 的 氣氛
+3303_13.txt: Line 187
+8 網站 ： http  / / www.wendels-bakery.com 菜單 網址 ： http  / / www.wendels-bakery.com/Bistro.asp 價位 ： ★ ★ ★ 美味度 ： ★ ★ ★ ★ ★ 舒適度 ： ★ ★ ★ ★ ★ 服務 ： ★ ★ ★ ★ ★ 各 分店 資訊 提供 如下
 program error prediction: 1
 
-3318_120.txt: Line 108
-1 奶油 蝦 已 貼心 去殼
-program did not classify it as category 1
-
-3320_130.txt: Line 76
-8 再 告知 服務 人員 這樣
+3303_15.txt: Line 28
+8 SitDownPlease 開胃菜 都 是 料理 完 以 加熱 過 的 鑄鐵 鍋盛鍋 上菜
 program error prediction: 1
 
-3323_150.txt: Line 18
-4 好滴 咖啡 不 收取 服務 費用
+3304_21.txt: Line 20
+8 一 間 名字 聽起來 親切 又 備感 溫馨 的 美式 餐廳
 program error prediction: 1
 
-3323_150.txt: Line 31
-1 如果 覺得 沙拉醬 太少 的 話 可以 向 店員 詢問 要求
+3304_24.txt: Line 60
+4 SEASONArtisanP â tissier 消費 金額 須 加收 10 % 服務 費用
+program error prediction: 1
+
+3305_25.txt: Line 46
+8 雖然 很 想 跟 服務生 說 我 的 食量 可以 算 一 個 男生
+program error prediction: 1
+
+3306_33.txt: Line 77
+4 這 是 一 家 以 便當 店 來 看 價格 不 是 很 親切
+program error prediction: 1
+
+3306_35.txt: Line 39
+8 租用 場地 就 提供 簡單 輕食 的 服務
+program error prediction: 1
+
+3307_39.txt: Line 146
+8 貼心 小 警語 ： 飲酒 請 勿 過量
+program error prediction: 1
+
+3307_39.txt: Line 155
+8 貼心 小 警語 ： 飲酒 請 勿 過量
+program error prediction: 1
+
+3307_39.txt: Line 172
+8 貼心 小 警語 ： 飲酒 請 勿 過量
+program error prediction: 1
+
+3307_39.txt: Line 238
+8 貼心 小 警語 ： 飲酒 請 勿 過量
+program error prediction: 1
+
+3307_43.txt: Line 92
+8 服務 品質 ： ★ ★ ★ ★ 綜合 評價 ： ★ ★ ★ ☆ 再次 拜訪 意願 ： ★ ★ ★ ☆ 推薦 朋友 意願 ： ★ ★ ★ ☆
+program error prediction: 1
+
+3308_46.txt: Line 71
+4 麻犇堂囍糖 本 舖 不 收取 服務 費用
+program error prediction: 1
+
+3308_49.txt: Line 42
+8 上菜 囉
+program error prediction: 1
+
+3309_51.txt: Line 42
+8 只 是 我們 喝 得 速度 奇 快 無比
+program error prediction: 1
+
+3309_51.txt: Line 53
+8 為 接下來 陸陸續續 上菜 的 餐點 迅速 開胃
+program error prediction: 1
+
+3309_55.txt: Line 91
+8 上菜 前來 了 個 和風 生菜 沙拉
+program error prediction: 1
+
+3310_62.txt: Line 114
+8 收 一成 服務
+program error prediction: 1
+
+3310_65.txt: Line 67
+8 而是 要 按 桌 上 的 服務 鈴
+program error prediction: 1
+
+3310_65.txt: Line 70
+8 這 個 服務 鈴 上 只有 寫 日文
+program error prediction: 1
+
+3310_65.txt: Line 72
+8 如果 服務 人員 又 疏忽 沒有 解說
+program error prediction: 1
+
+3310_65.txt: Line 73
+8 客人 怎麼 會 知道 它 是 服務 鈴 呢
+program error prediction: 1
+
+3311_68.txt: Line 87
+8 另外 也 拿 了 烤魚 下巴 來 舒緩 一下 用餐 速度
+program error prediction: 1
+
+3311_69.txt: Line 24
+1 店員 已經 送上 開水 和 MENU 囉
 program did not classify it as category 1
 
-3323_150.txt: Line 32
-1 或者 他們 也 會 主動 問 是否 還 需要
+3311_69.txt: Line 98
+8 酌收 10 % 服務 費用
+program error prediction: 1
+
+3311_73.txt: Line 2
+8 [ 食記 ] 台北 中正 西堤 牛排 服務 滿分
+program error prediction: 1
+
+3312_74.txt: Line 20
+1 也 可以 看到 師傅 在 後台 賣力 地 處理 蟹腳
 program did not classify it as category 1
 
-3331_190.txt: Line 32
-8 不過 服務生 人數 也 少 每 個
+3312_76.txt: Line 28
+8 在 嘴巴 融化 的 速度 剛剛好
+program error prediction: 1
+
+3313_83.txt: Line 60
+8 不 收 服務
+program error prediction: 1
+
+3313_84.txt: Line 22
+1 於 於 服務生人 很 好
+program did not classify it as category 1
+
+3313_85.txt: Line 20
+8 工作 人員 才 開始 帶 位
+program error prediction: 1
+
+3313_87.txt: Line 54
+1 Hsu 的 店員 都 很 有 禮貌 又 笑容可掬
+program did not classify it as category 1
+
+3313_89.txt: Line 31
+1 店家 只 會 幫忙 送 餐
+program did not classify it as category 1
+
+3314_92.txt: Line 87
+1 不過 這 間 餐廳 最 大 問題 還是 管理
+program did not classify it as category 1
+
+3314_92.txt: Line 88
+1 餐 前 點 了 冷飲 之後 還 會 上錯 成 熱飲
+program did not classify it as category 1
+
+3314_92.txt: Line 94
+1 這 大概 是 我 看過 最 不 專業 的 主管 了
+program did not classify it as category 1
+
+3314_93.txt: Line 47
+8 兩 位 工作 人員 一 個 說 我們 在 最後 方 座位 、 一 位 說 我們 在 中央區
+program error prediction: 1
+
+3314_93.txt: Line 49
+1 好不容易 要 坐 定位 ， 發現 我們 的 椅子 根本 不 夠 ，
+program did not classify it as category 1
+
+3314_93.txt: Line 56
+1 3 . 未 說明 詳細 消費 方式
+program did not classify it as category 1
+
+3315_102.txt: Line 39
+1 但 飲料 是 由 店員 幫忙 拿
+program did not classify it as category 1
+
+3315_103.txt: Line 55
+8 那 就 上 吧 XD 上菜 囉
+program error prediction: 1
+
+3316_107.txt: Line 25
+8 服務生 的 制服 是 鴨舌帽 加 格子 襯衫
+program error prediction: 1
+
+3317_111.txt: Line 61
+1 加 湯 的 時候 也 可以 無限 續 唷
+program did not classify it as category 1
+
+3318_116.txt: Line 98
+1 前菜 上 了 之後 油封 鴨 真的 是 等 了 很 久 之後 才 上
+program did not classify it as category 1
+
+3318_118.txt: Line 26
+8 可以 加快 速度 唷
+program error prediction: 1
+
+3318_119.txt: Line 51
+8 但 前進 的 速度 似乎 蠻 慢 的
+program error prediction: 1
+
+3318_119.txt: Line 137
+1 之前 就 聽說 SUKIYA 送 餐 很 迅速
+program did not classify it as category 1
+
+3318_119.txt: Line 139
+1 點完 餐 不 到 五 分鐘 套餐 就 上桌 了
+program did not classify it as category 1
+
+3319_122.txt: Line 37
+1 要 先 自行 到 櫃檯 點 餐 完成 結帳
+program did not classify it as category 1
+
+3319_122.txt: Line 38
+1 當然 碗盤 和 檸檬水 也 都 是 自己 動手 取用
+program did not classify it as category 1
+
+3319_122.txt: Line 44
+8 也 標註 可 將 蛋 奶素 或 素食 的 需求 告知 服務 人員
+program error prediction: 1
+
+3319_122.txt: Line 59
+8 即使 上菜 時 桌子 已 滿 需要 把 用完 的 餐盤 收走 才 擺 得 下 時
+program error prediction: 1
+
+3319_122.txt: Line 149
+1 餐廳 會 提供 紙盒 和 紙袋
+program did not classify it as category 1
+
+3319_122.txt: Line 150
+8 有 需要 直接 向 櫃台 的 工作 人員 詢問 即可
+program error prediction: 1
+
+3319_123.txt: Line 19
+1 店家 提供 免費 的 味噌湯 、 蜂蜜 水 以及 一些 氣泡 飲料 讓 客人 自行 取用
+program did not classify it as category 1
+
+3319_124.txt: Line 64
+8 也 在 許多 米 其 林 餐廳 服務 過 的 SilvestroZanella 擔任 laFESTA 主廚
+program error prediction: 1
+
+3319_124.txt: Line 95
+8 詢問 服務生
+program error prediction: 1
+
+3319_124.txt: Line 201
+1 邊 從 我們 聊天 的 內容 裡 了解 我們 的 喜好
+program did not classify it as category 1
+
+3320_128.txt: Line 13
+8 先 與 服務生 預約 了 座位
+program error prediction: 1
+
+3320_129.txt: Line 39
+8 又 跟 服務生 討 了 一些
+program error prediction: 1
+
+3320_132.txt: Line 91
+8 可以 再 點 餐 事先 告知 服務 人員 是 幾 位 要 分食
+program error prediction: 1
+
+3320_132.txt: Line 100
+1 在 分配 餐盤 時 即 會 幫 我們 在 旁邊 灑上 可 供 沾取
+program did not classify it as category 1
+
+3321_133.txt: Line 78
+8 廚房 的 工作 人員 不少
+program error prediction: 1
+
+3321_133.txt: Line 143
+1 總是 笑容 滿 面
+program did not classify it as category 1
+
+3321_133.txt: Line 148
+1 永遠 是 爽朗 的 笑容 與 極 大 的 耐心
+program did not classify it as category 1
+
+3321_133.txt: Line 311
+8 我 一直 很 認真 的 觀察 店 內 工作 人員
+program error prediction: 1
+
+3321_133.txt: Line 312
+8 樓上 開放式 廚房 的 工作 人員 有 五 位
+program error prediction: 1
+
+3321_133.txt: Line 313
+8 而 地下室 的 服務 人員 多達 六 位
+program error prediction: 1
+
+3321_134.txt: Line 95
+1 不過 收 餐具 似乎 太 積極 了 一些
+program did not classify it as category 1
+
+3321_137.txt: Line 89
+1 店 內 也 提供 WIFI 使用
+program did not classify it as category 1
+
+3321_142.txt: Line 182
+8 結果 服務生 說 大概 還要 再 過 一 個 禮拜 才 會 進
+program error prediction: 1
+
+3322_144.txt: Line 50
+1 餐廳 有 準備 小朋友 餐具
+program did not classify it as category 1
+
+3322_145.txt: Line 19
+1 當天 被 安排 在 房間 內 的 位子
+program did not classify it as category 1
+
+3322_147.txt: Line 21
+8 這 天 運氣 還 不錯 . 裡面 用餐 的 人 速度 還 蠻 快 .
+program error prediction: 1
+
+3323_152.txt: Line 37
+8 後來 詢問 服務生 才 知道 這 是 散 壽司 定食附 的
+program error prediction: 1
+
+3323_153.txt: Line 65
+1 的 多禮 語氣
+program did not classify it as category 1
+
+3324_158.txt: Line 30
+5 連 服務 人員 都 穿著 英式 家僕 的 服裝
+program error prediction: 1
+
+3324_158.txt: Line 60
+1 非常 的 用心
+program did not classify it as category 1
+
+3324_158.txt: Line 150
+1 而且 會 適時 的 照顧到 客人 的 需求
+program did not classify it as category 1
+
+3325_163.txt: Line 83
+8 服務 品質 ： ★ ★ ★ ☆ 綜合 評價 ： ★ ★ ★ ☆ 再次 拜訪 意願 ： ★ ★ ★ ☆ 推薦 朋友 意願 ： ★ ★ ★ ☆ 本 次 消費 金額
+program error prediction: 1
+
+3326_167.txt: Line 72
+4 收取 10 % 服務 費用
+program error prediction: 1
+
+3327_172.txt: Line 45
+8 服務生 也 說 不 出 所以然
+program error prediction: 1
+
+3327_173.txt: Line 27
+1 至少 禮節 還 在 吧
+program did not classify it as category 1
+
+3327_173.txt: Line 41
+1 服務員 加 水 加 很 勤
+program did not classify it as category 1
+
+3329_181.txt: Line 64
+1 對於 正在 做 飲食 控制 的 人 來 說 真是 非常 窩心 啊 ....
+program did not classify it as category 1
+
+3329_181.txt: Line 89
+5 店家 提供 的 freewi-fi 速度 不 快
+program error prediction: 1
+
+3329_181.txt: Line 92
+8 我 用 HTCDesireHD 操作 Line 發送 接收 訊息 速度 有 些 遲緩
+program error prediction: 1
+
+3329_181.txt: Line 93
+8 與 鄰近 的 2 FLite 貳 拂 咖啡 的 wi-fi 速度 完全 不能 比
+program error prediction: 1
+
+3329_182.txt: Line 49
+4 不 收 服務
+program error prediction: 1
+
+3331_189.txt: Line 41
+8 服務生 來 問 我們 要不要 先 點 杯 飲料 乾杯 一下 就 在 我們 舉杯 的 同時
+program error prediction: 1
+
+3331_189.txt: Line 79
+8 推薦 它 的 服務生 性命 保住 XD
+program error prediction: 1
+
+3331_189.txt: Line 91
+8 結果 全 店 的 服務 人員 也 一起 用 日文 複 述 了 一 遍 ： 太 好吃 了
+program error prediction: 1
+
+3331_189.txt: Line 141
+8 食物 美味 ： ★ ★ ★ ★ ★ ＣＰ 值 ： ★ ★ ★ ★ ☆ 服務 態度 ： ★ ★ ★ ★ ★ 再 訪 意願 ： ★ ★ ★ ★ ☆ 本 篇 心心 * 圖文 完整 版  http  / / hsing16.pixnet.net/blog/post / 32422680 --
+program error prediction: 1
+
+3332_192.txt: Line 71
+8 仔細 觀察 足立捏製握 壽司 的 節奏 及 速度 是 較為 緩慢 的
+program error prediction: 1
+
+3332_193.txt: Line 60
+1 女廁 裡 還 有 附 衛生棉 和 化妝 棉 這 個 大 加分
+program did not classify it as category 1
+
+3332_194.txt: Line 120
+8 就 有 一 個 服務生
+program error prediction: 1
+
+3332_197.txt: Line 51
+8 需要 的 朋友 再 跟 服務 人員 索取 就 可以 了
+program error prediction: 1
+
+3332_197.txt: Line 74
+8 立馬 就 跟 服務 人員 說
+program error prediction: 1
+
+3333_199.txt: Line 129
+8 有 跟 服務生 說
 program error prediction: 1
 
 Test: category 1
-precision: 0.74286
-recall: 0.65000
-F1: 0.69333
+precision: 0.72112
+recall: 0.83796
+F1: 0.77516
