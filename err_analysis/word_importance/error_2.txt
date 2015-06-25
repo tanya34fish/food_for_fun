@@ -10,10 +10,6 @@ program did not classify it as category 2
 2,3 是 很 厚重 的 烏龍 麵條 超 有 飽足感
 program did not classify it as category 2
 
-3301_3.txt: Line 120
-2,4 我 覺得 擠霸摳 可以 吃到 一 個 健康 又 好吃 的 手工 漢堡
-program did not classify it as category 2
-
 3301_5.txt: Line 62
 2 十 貫
 program did not classify it as category 2
@@ -580,5 +576,5 @@ program did not classify it as category 2
 
 Test: category 2
 precision: 0.83710
-recall: 0.62925
-F1: 0.71845
+recall: 0.63140
+F1: 0.71984

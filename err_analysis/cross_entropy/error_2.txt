@@ -10,10 +10,6 @@ program did not classify it as category 2
 2,3 是 很 厚重 的 烏龍 麵條 超 有 飽足感
 program did not classify it as category 2
 
-3301_3.txt: Line 120
-2,4 我 覺得 擠霸摳 可以 吃到 一 個 健康 又 好吃 的 手工 漢堡
-program did not classify it as category 2
-
 3301_5.txt: Line 62
 2 十 貫
 program did not classify it as category 2
@@ -534,3 +530,51 @@ program did not classify it as category 2
 2 因為 比起 前面 的 肉類 來 說 這 塊 肉 的確 明顯 大 份 許多
 program did not classify it as category 2
 
+3332_193.txt: Line 55
+2 以 女生 的 食量 而言 我 覺得 2 人 一起 share 比較 剛好
+program did not classify it as category 2
+
+3332_194.txt: Line 37
+2 醬料 十分 充足 之外
+program did not classify it as category 2
+
+3332_194.txt: Line 81
+2 不過 感覺 兩 者 粉量 都 滿足 的
+program did not classify it as category 2
+
+3332_195.txt: Line 66
+2 漢堡 的 大小 其實 沒有 很 大
+program did not classify it as category 2
+
+3332_195.txt: Line 67
+2 比起 一般 美式 漢堡店 要 來 的 小 一點
+program did not classify it as category 2
+
+3332_196.txt: Line 47
+2 肉多 飯 多 配 菜 多
+program did not classify it as category 2
+
+3332_197.txt: Line 2
+8 [ 食記 ] 台北 波思 若 創意 料理 。 高 CP 值大 份量 早 午
+program error prediction: 2
+
+3332_197.txt: Line 13
+1 大 份量 的 精緻 早 午餐
+program error prediction: 2
+
+3332_197.txt: Line 78
+2 完全 被 這 四 大 塊 吐司 給 驚嚇 到
+program did not classify it as category 2
+
+3332_197.txt: Line 104
+1 滿滿 一 份 看起來 比 法式 吐司 還 豐盛 呀
+program error prediction: 2
+
+3332_197.txt: Line 113
+2 腦海 中 只有 好 飽 兩 個 字 XD
+program did not classify it as category 2
+
+Test: category 2
+precision: 0.83710
+recall: 0.63140
+F1: 0.71984

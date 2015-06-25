@@ -383,7 +383,7 @@ program error prediction: 1
 program error prediction: 1
 
 3331_189.txt: Line 91
-8 結果 全 店 的 服務 人員 也 一起 用 日文 複 述 了 一 遍 ： 太 好吃 了
+3 結果 全 店 的 服務 人員 也 一起 用 日文 複 述 了 一 遍 ： 太 好吃 了
 program error prediction: 1
 
 3331_189.txt: Line 141

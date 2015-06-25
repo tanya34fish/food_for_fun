@@ -23,7 +23,7 @@ program did not classify it as category 4
 program error prediction: 4
 
 3301_3.txt: Line 120
-2,4 我 覺得 擠霸摳 可以 吃到 一 個 健康 又 好吃 的 手工 漢堡
+3,4 我 覺得 擠霸摳 可以 吃到 一 個 健康 又 好吃 的 手工 漢堡
 program did not classify it as category 4
 
 3301_3.txt: Line 122
@@ -1246,6 +1246,10 @@ program did not classify it as category 4
 8 這 是 很 歐洲 的 價格 XD 不過 喝 一口 就 能 明白 用料 非常 實在
 program error prediction: 4
 
+3321_133.txt: Line 163
+4 的確 是 物 有所 值
+program did not classify it as category 4
+
 3321_133.txt: Line 304
 8 個 人 覺得 價格 稍 高 了 些
 program error prediction: 4
@@ -1418,6 +1422,10 @@ program error prediction: 4
 8 要 注意 點 商業 午餐 的 話 是 要 加價 $ 899 唷
 program error prediction: 4
 
+3324_158.txt: Line 91
+4 我 覺得 這 個 套餐 加 得 蠻 不 值得 的
+program did not classify it as category 4
+
 3324_158.txt: Line 92
 8 小小 一 盤 加上 兩 杯 調 酒 就 要 $ 899
 program error prediction: 4
@@ -1484,6 +1492,10 @@ program error prediction: 4
 
 3326_167.txt: Line 72
 4 收取 10 % 服務 費用
+program did not classify it as category 4
+
+3326_168.txt: Line 8
+4 第一 次 拜訪 咖哩 娘 時 的 牛 咖哩 讓 我 覺得 這 咖哩 不 算 貴 而 值得 多 嘗試
 program did not classify it as category 4
 
 3326_169.txt: Line 51
@@ -1664,5 +1676,5 @@ program did not classify it as category 4
 
 Test: category 4
 precision: 0.64026
-recall: 0.78006
-F1: 0.70328
+recall: 0.77638
+F1: 0.70178

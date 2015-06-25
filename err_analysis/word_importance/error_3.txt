@@ -6,10 +6,6 @@ program did not classify it as category 3
 3 粗完煙仔素 說 ： 下 次 自已 帶 胡椒 鹽 來 比較 對味 整體 來 說 可能 是 我們 對 招牌菜 期待 太 高 吧
 program did not classify it as category 3
 
-3301_1.txt: Line 38
-8 我 還是 覺得 爭 鮮 的 比較 好吃 耶
-program error prediction: 3
-
 3301_1.txt: Line 44
 3 不會 咬 不 爛
 program did not classify it as category 3
@@ -82,10 +78,6 @@ program did not classify it as category 3
 3 我 本人 沒有 甚麼 特殊 評價
 program did not classify it as category 3
 
-3301_3.txt: Line 120
-2,4 我 覺得 擠霸摳 可以 吃到 一 個 健康 又 好吃 的 手工 漢堡
-program error prediction: 3
-
 3301_4.txt: Line 46
 8 我 選 的 是 硬粗 麵 、 鹹 湯頭
 program error prediction: 3
@@ -134,10 +126,6 @@ program did not classify it as category 3
 3 很 美味
 program did not classify it as category 3
 
-3302_6.txt: Line 63
-8 這 間 餐廳 除了 餐點 、 飲料 好吃 外
-program error prediction: 3
-
 3302_7.txt: Line 2
 8 [ 食記 ] 台北 信義 雲 吞饌 味道 不錯 但 有點 小 貴
 program error prediction: 3
@@ -160,10 +148,6 @@ program did not classify it as category 3
 
 3302_7.txt: Line 44
 8 吃起來 相當 開胃
-program error prediction: 3
-
-3302_7.txt: Line 74
-8 永豐 得 記港式 麻辣 咖哩 - 好吃 入味 的 麻辣 鴨血
 program error prediction: 3
 
 3302_8.txt: Line 30
@@ -290,6 +274,10 @@ program did not classify it as category 3
 8 看起來 質感 不錯
 program error prediction: 3
 
+3302_9.txt: Line 78
+3 湯包 跟 蒸餃 相當 合 我 意
+program did not classify it as category 3
+
 3303_11.txt: Line 39
 3 不 肥 且 嫩滑
 program did not classify it as category 3
@@ -366,9 +354,9 @@ program did not classify it as category 3
 3 跟 醋 飯 很 搭
 program did not classify it as category 3
 
-3303_12.txt: Line 71
-8 ｂｙ 小 南 評價 -- 蝦子 鮮 甜
-program error prediction: 3
+3303_12.txt: Line 69
+3 我 個 人 是 比較 喜歡 脆脆 的 海苔
+program did not classify it as category 3
 
 3303_12.txt: Line 73
 7 不錯
@@ -3282,10 +3270,6 @@ program error prediction: 3
 3 搭配 奶 泡 滑 順 好 入口 .
 program did not classify it as category 3
 
-3319_124.txt: Line 215
-8 就 開始 期待 會 在 哪 個 角落 遇見 好吃 的 東西
-program error prediction: 3
-
 3319_125.txt: Line 26
 7 都 還 蠻 好吃 的
 program error prediction: 3
@@ -3402,6 +3386,14 @@ program error prediction: 3
 8 湯頭 香 濃 、 用料 實在
 program error prediction: 3
 
+3320_132.txt: Line 47
+3 如果 喜歡 濃湯 的 朋友 可以 試試看
+program did not classify it as category 3
+
+3320_132.txt: Line 51
+3 如果 不 喜歡 濃湯 的
+program did not classify it as category 3
+
 3320_132.txt: Line 60
 8 這樣 白 麵包 就 不會 單調 沒 味道
 program error prediction: 3
@@ -3432,6 +3424,10 @@ program did not classify it as category 3
 
 3320_132.txt: Line 107
 3 搭配 海鹽 真 是 鮮嫩 又 多汁
+program did not classify it as category 3
+
+3320_132.txt: Line 109
+3 KC 覺得 美 福 的 甜點 真的 很 讓 人 驚豔
 program did not classify it as category 3
 
 3320_132.txt: Line 120
@@ -3522,13 +3518,13 @@ program did not classify it as category 3
 3 內裡 綿密 細緻
 program did not classify it as category 3
 
+3321_133.txt: Line 216
+3 本 日 最 驚豔 - 白醬 海鮮 燉飯
+program did not classify it as category 3
+
 3321_133.txt: Line 221
 3 一 上桌 就 散發出 濃郁 的 奶油 香味
 program did not classify it as category 3
-
-3321_133.txt: Line 225
-8 能 在 美式 餐廳 吃到 這麼 好吃 的 燉飯
-program error prediction: 3
 
 3321_133.txt: Line 235
 8 上桌 太 香 一 下 就 被 分食 了
@@ -3541,10 +3537,6 @@ program did not classify it as category 3
 3321_133.txt: Line 241
 3 而 麵條 醬汁 不 夠多
 program did not classify it as category 3
-
-3321_133.txt: Line 245
-8 牛排 用 炸 的 其實 很 好吃
-program error prediction: 3
 
 3321_133.txt: Line 250
 3 不會 過 乾
@@ -3562,9 +3554,17 @@ program error prediction: 3
 3 蕃茄 醬汁 帶 著 微酸
 program did not classify it as category 3
 
+3321_133.txt: Line 261
+3 以前 喜歡 吃 厚皮披蕯
+program did not classify it as category 3
+
 3321_133.txt: Line 262
 8 覺得 厚厚 的 吃起來 才 有 滿足感
 program error prediction: 3
+
+3321_133.txt: Line 264
+3 現在 吃 披蕯 都 喜歡 吃 薄 皮 的 啦
+program did not classify it as category 3
 
 3321_133.txt: Line 266
 3 灑上 時 蘿 香草 碎屑 後 香氣 撲鼻
@@ -3572,10 +3572,6 @@ program did not classify it as category 3
 
 3321_133.txt: Line 267
 8 香 脆 的 微焦餅皮 讓 口感 更 有 層次
-program error prediction: 3
-
-3321_133.txt: Line 268
-8 我 跟 友人 們 都 覺得 很 好吃
 program error prediction: 3
 
 3321_133.txt: Line 270
@@ -3610,20 +3606,12 @@ program did not classify it as category 3
 3 滑順
 program did not classify it as category 3
 
-3321_134.txt: Line 74
-8 配上 淋上 醬汁 與 洋蔥 熱騰騰 的 白飯 真的 是 相當 好吃 阿
-program error prediction: 3
-
 3321_134.txt: Line 76
 8 飯 吃起來 是 台式 風格
 program error prediction: 3
 
 3321_134.txt: Line 89
 8 我 是 覺得 還 不錯
-program error prediction: 3
-
-3321_134.txt: Line 92
-8 雖然 不 好吃 啦
 program error prediction: 3
 
 3321_134.txt: Line 96
@@ -3666,14 +3654,6 @@ program error prediction: 3
 3 油瀝 得 很 乾淨
 program did not classify it as category 3
 
-3321_135.txt: Line 106
-7 吃起來 挺 不錯
-program error prediction: 3
-
-3321_135.txt: Line 110
-7 炸雞 滿 好吃 的
-program error prediction: 3
-
 3321_135.txt: Line 112
 3 雞肉 紮實
 program did not classify it as category 3
@@ -3706,6 +3686,10 @@ program did not classify it as category 3
 8 粗粒 的 肉餡 彈 牙 又 充滿 口感
 program error prediction: 3
 
+3321_135.txt: Line 195
+3 老公 特別 喜歡 烤 得 看 香脆 的 漢堡 麵包
+program did not classify it as category 3
+
 3321_135.txt: Line 204
 8 但 老公 吃起來 是 炸 豬肉 排
 program error prediction: 3
@@ -3716,14 +3700,6 @@ program error prediction: 3
 
 3321_135.txt: Line 214
 8 甜筒 沒有 味道
-program error prediction: 3
-
-3321_135.txt: Line 215
-8 巧克力 麵包 偏 乾 不 好吃
-program error prediction: 3
-
-3321_135.txt: Line 216
-8 最 好吃 的 是 中間 的 棉花糖
 program error prediction: 3
 
 3321_135.txt: Line 218
@@ -3737,6 +3713,10 @@ program did not classify it as category 3
 3321_135.txt: Line 227
 7 比 想像 中 的 更 好吃
 program error prediction: 3
+
+3321_135.txt: Line 234
+3 值得 一 嚐
+program did not classify it as category 3
 
 3321_136.txt: Line 54
 3 自然 相對 油膩 一些
@@ -3782,12 +3762,12 @@ program error prediction: 3
 8 食材 感覺 也 不錯
 program error prediction: 3
 
+3321_137.txt: Line 76
+3 合適 喜歡 鮮奶 和 茶 組合
+program did not classify it as category 3
+
 3321_137.txt: Line 77
 8 又 不 愛 味道 太 重 的 人
-program error prediction: 3
-
-3321_137.txt: Line 80
-8 算是 今天 吃起來 最 好吃 的
 program error prediction: 3
 
 3321_137.txt: Line 82
@@ -3796,14 +3776,6 @@ program error prediction: 3
 
 3321_137.txt: Line 83
 8 帶 著 杏桃 香
-program error prediction: 3
-
-3321_137.txt: Line 84
-8 超級 好吃
-program error prediction: 3
-
-3321_138.txt: Line 9
-8 下班 愛 吃 串燒 的 我 聽說 天母 這 附近 有 間 好吃 的 串燒店
 program error prediction: 3
 
 3321_138.txt: Line 40
@@ -3858,6 +3830,10 @@ program error prediction: 3
 8 鹹 花生 蘋果 培根
 program error prediction: 3
 
+3321_139.txt: Line 111
+3 相較 之下 我 比較 喜歡 這 個 口味
+program did not classify it as category 3
+
 3321_139.txt: Line 112
 8 鹹 花生 搭配 培根 真的 速配 啊
 program error prediction: 3
@@ -3897,14 +3873,6 @@ program did not classify it as category 3
 3321_139.txt: Line 152
 3 多汁 涼爽
 program did not classify it as category 3
-
-3321_139.txt: Line 163
-8 好吃 耶
-program error prediction: 3
-
-3321_139.txt: Line 164
-8 真的 很 好吃
-program error prediction: 3
 
 3321_139.txt: Line 167
 3 奶油 細緻
@@ -3962,10 +3930,6 @@ program did not classify it as category 3
 3 裡面 的 絲單 吃 都 好 美味
 program did not classify it as category 3
 
-3321_141.txt: Line 37
-8 花魚 好吃
-program error prediction: 3
-
 3321_141.txt: Line 46
 8 這 個 也 不錯
 program error prediction: 3
@@ -3982,21 +3946,21 @@ program did not classify it as category 3
 3 炸雞皮 很 脆
 program did not classify it as category 3
 
-3321_142.txt: Line 14
-8 是 因為 上 次 Sheena 曾經 說 她 覺得 這裡 比 某 泰 式 連鎖 餐廳 還 要 好吃 很多
-program error prediction: 3
+3321_142.txt: Line 15
+3 而且 看看 菜單 還 有心 媽 喜歡 的 螃蟹
+program did not classify it as category 3
 
 3321_142.txt: Line 77
 8 不過 因為 煮法 的 關係 吃起來 比較 濕潤 偏軟 所以 還 蠻 習慣 的
 program error prediction: 3
 
+3321_142.txt: Line 78
+3 至少 我 覺得 比 在 泰國 吃 的 粒粒 分明 又 偏 乾 的 長米 喜歡 多 了 XD
+program did not classify it as category 3
+
 3321_142.txt: Line 80
 3 四季豆 稍微 炸 過 咬 起來 脆口
 program did not classify it as category 3
-
-3321_142.txt: Line 84
-8 直接 吃 不配 飯 我 也 覺得 很 好吃
-program error prediction: 3
 
 3321_142.txt: Line 92
 3 金錢 蝦餅 比起 月亮版 的 來 的 更 厚實
@@ -4030,6 +3994,10 @@ program did not classify it as category 3
 3 一口 咬下 肥美 的 牡蠣 與 檸檬 的 酸 在 口 中 鮮味 噴發
 program did not classify it as category 3
 
+3321_142.txt: Line 155
+3 這 是 我 今天 最 最 喜歡 的 一 道 一口氣 吃掉 三 顆
+program did not classify it as category 3
+
 3321_142.txt: Line 160
 3 清湯 ／ 重味
 program did not classify it as category 3
@@ -4058,9 +4026,9 @@ program did not classify it as category 3
 3 清湯 的 檸檬 的 酸度 有 出來 再 加上 些許 辣度
 program did not classify it as category 3
 
-3321_142.txt: Line 180
-8 曾經 在 泰國 到處 都 吃 得到 的 超 好吃 芒果 糯米
-program error prediction: 3
+3321_142.txt: Line 177
+3 是 目前 在 台灣 喝到 最 喜歡 的 泰式 酸辣湯
+program did not classify it as category 3
 
 3321_142.txt: Line 187
 8 布丁 的 口感 是 綿密 的
@@ -4077,10 +4045,6 @@ program error prediction: 3
 3321_142.txt: Line 218
 3 食物 美味 ： ★ ★ ★ ★ ☆
 program did not classify it as category 3
-
-3321_143.txt: Line 15
-8 這 次要 跟 大家 介紹 間 超 好吃 的 汕頭 炒麵
-program error prediction: 3
 
 3321_143.txt: Line 27
 7 真 得 好 好吃
@@ -4124,6 +4088,10 @@ program did not classify it as category 3
 
 3322_144.txt: Line 81
 3 也 十分 容易 入口
+program did not classify it as category 3
+
+3322_144.txt: Line 82
+3 佐料 我 都 蠻 喜歡 的
 program did not classify it as category 3
 
 3322_144.txt: Line 85
@@ -4214,20 +4182,8 @@ program did not classify it as category 3
 8 但 整體 吃起來 普普
 program error prediction: 3
 
-3322_146.txt: Line 48
-8 比起來 當然 還是 翠華 的 好吃
-program error prediction: 3
-
-3322_146.txt: Line 52
-8 看起來 超 好吃 的
-program error prediction: 3
-
 3322_146.txt: Line 55
 8 Ｒ 先生 說 還 不錯
-program error prediction: 3
-
-3322_146.txt: Line 59
-8 最後 還是 覺得 茶水攤 最 好吃 啦
 program error prediction: 3
 
 3322_146.txt: Line 60
@@ -4414,10 +4370,6 @@ program did not classify it as category 3
 3 義式 香蒜奶酥 麵包
 program did not classify it as category 3
 
-3324_154.txt: Line 35
-3 也 很 喜歡
-program did not classify it as category 3
-
 3324_154.txt: Line 36
 3 肉質 不 老
 program did not classify it as category 3
@@ -4594,24 +4546,12 @@ program did not classify it as category 3
 3 算是 這 杯 調 酒 的 小 敗筆 吧
 program did not classify it as category 3
 
-3324_158.txt: Line 89
-8 想 試試 好吃 的 Tapas 還是 去 西班牙 餐廳 吧
-program error prediction: 3
-
-3324_158.txt: Line 91
-3 我 覺得 這 個 套餐 加 得 蠻 不 值得 的
-program did not classify it as category 3
-
 3324_158.txt: Line 102
 3 牛 肋 排 可以 沾 辣 根 醬 一起 食用
 program did not classify it as category 3
 
 3324_158.txt: Line 103
 3 一般 的 辣 根 醬 一 入口 就 可以 感受到 如 芥末 般 的 嗆鼻
-program did not classify it as category 3
-
-3324_158.txt: Line 104
-3 我 個 人 沒有 很 喜歡
 program did not classify it as category 3
 
 3324_158.txt: Line 108
@@ -4672,10 +4612,6 @@ program did not classify it as category 3
 
 3324_158.txt: Line 138
 3 不 算 特別 驚豔 的 蛋糕
-program did not classify it as category 3
-
-3324_158.txt: Line 153
-3 老實說 我 沒有 特別 驚豔 的 感覺
 program did not classify it as category 3
 
 3324_159.txt: Line 39
@@ -4776,6 +4712,10 @@ program did not classify it as category 3
 
 3324_159.txt: Line 134
 3 還 有 幾 片 多力多滋 的 餅 乾脆片
+program did not classify it as category 3
+
+3324_159.txt: Line 151
+3 如果 不 喜歡 吃 花俏 有加 配料 的 鬆餅
 program did not classify it as category 3
 
 3325_161.txt: Line 28
@@ -4958,10 +4898,6 @@ program did not classify it as category 3
 3 雞蛋 鮮嫩 滑順
 program did not classify it as category 3
 
-3325_163.txt: Line 78
-3 值得 推薦
-program did not classify it as category 3
-
 3325_164.txt: Line 9
 3 推薦 菜色 ： 咖啡
 program did not classify it as category 3
@@ -5082,16 +5018,16 @@ program did not classify it as category 3
 3 因為 美味度 上 完全 吃 不 出來
 program did not classify it as category 3
 
-3325_165.txt: Line 39
-8 附近 的 越南店 做 的 都 還 比 這 好吃
-program error prediction: 3
-
 3325_165.txt: Line 40
 3 有點 像 是 濫竽充數
 program did not classify it as category 3
 
 3325_165.txt: Line 41
 3 端出 的 菜色 有 創意 但是 沒 實力
+program did not classify it as category 3
+
+3325_165.txt: Line 42
+3 我 不 喜歡 吃 生食 所以 沒 吃
 program did not classify it as category 3
 
 3325_165.txt: Line 46
@@ -5238,13 +5174,13 @@ program did not classify it as category 3
 3 外脆內 濕潤 柔軟
 program did not classify it as category 3
 
+3326_167.txt: Line 31
+3 朋友 說 香草 餡 他 不 喜歡
+program did not classify it as category 3
+
 3326_167.txt: Line 33
 3 我 很 喜歡 黑醋 栗
 program did not classify it as category 3
-
-3326_167.txt: Line 34
-8 但 其實 不 喜歡 花香 結合 甜點 的 味道
-program error prediction: 3
 
 3326_167.txt: Line 36
 3 但 對 我 來 說 還是 太 重
@@ -5358,10 +5294,6 @@ program did not classify it as category 3
 3 令 我 很 難 不 搖頭
 program did not classify it as category 3
 
-3326_168.txt: Line 31
-3 我 個 人 覺得 實在 不 是 那麼 值得
-program did not classify it as category 3
-
 3326_168.txt: Line 36
 3 那 金黃色 的 雞皮 實在 太 誘人 了
 program did not classify it as category 3
@@ -5404,6 +5336,10 @@ program did not classify it as category 3
 
 3326_168.txt: Line 66
 3 牛 、 雞 咖哩 的 表現 還是 值得 一 吃 的
+program did not classify it as category 3
+
+3326_169.txt: Line 9
+3 欣葉台菜 個 人 都 一直 很 喜歡
 program did not classify it as category 3
 
 3326_169.txt: Line 17
@@ -5534,10 +5470,6 @@ program error prediction: 3
 3 推薦 菜色 ： 丼丼 定食 ， 牛肉 柳川風 定食
 program did not classify it as category 3
 
-3327_172.txt: Line 26
-8 商業 午餐 好吃 的 話
-program error prediction: 3
-
 3327_172.txt: Line 35
 3 海鮮 很 新鮮
 program did not classify it as category 3
@@ -5582,21 +5514,13 @@ program did not classify it as category 3
 3 有 著 蠻 濃 的 菌菇味
 program did not classify it as category 3
 
-3327_173.txt: Line 61
-3 沒 特別 喜歡 也 不 討厭
+3327_173.txt: Line 62
+3 可能 有的 人 就 喜歡 這 類 帶 點 特色 的 湯品
 program did not classify it as category 3
 
 3327_173.txt: Line 64
 3 先 送上 芥末 子醬 和 海鹽
 program did not classify it as category 3
-
-3327_173.txt: Line 72
-8 那 當然 毫不 猶豫 就 是 " 好吃 "
-program error prediction: 3
-
-3327_173.txt: Line 75
-8 那 也 可以 說 它 是 " 好吃 " 或者 是 " 不錯 吃 "
-program error prediction: 3
 
 3327_173.txt: Line 81
 3 只 不過 別 把 期望值 設定 太 高就 好
@@ -5628,6 +5552,10 @@ program did not classify it as category 3
 
 3327_173.txt: Line 97
 3 另外 一 份 是 乾式 熟成 的 紐約客
+program did not classify it as category 3
+
+3327_173.txt: Line 98
+3 我 向來 喜歡 紐約客 的 嚼 感 和 軟筋
 program did not classify it as category 3
 
 3327_173.txt: Line 99
@@ -5847,7 +5775,7 @@ program did not classify it as category 3
 program did not classify it as category 3
 
 3328_175.txt: Line 13
-8 2013 十 大 好吃 炒飯 選拔 第三
+7 2013 十 大 好吃 炒飯 選拔 第三
 program error prediction: 3
 
 3328_175.txt: Line 23
@@ -5878,33 +5806,13 @@ program did not classify it as category 3
 3 所以 十分 粒粒 分明
 program did not classify it as category 3
 
-3328_176.txt: Line 15
-8 前 幾 場 東西 雖然 好吃
-program error prediction: 3
-
 3328_176.txt: Line 28
 3 走 的 是 港式 飲茶 路線
 program did not classify it as category 3
 
-3328_176.txt: Line 33
-8 當天 覺得 好吃 的 菜色
-program error prediction: 3
-
-3328_176.txt: Line 34
-8 至於 其它 沒 講到 的 不 是 不 好吃
-program error prediction: 3
-
-3328_176.txt: Line 41
-8 本 上 每 一 種 都 好吃 又 到位
-program error prediction: 3
-
-3328_176.txt: Line 44
-8 只 有 鴨 好吃
-program error prediction: 3
-
-3328_176.txt: Line 45
-8 有的 只有 雞 好吃 這樣
-program error prediction: 3
+3328_176.txt: Line 36
+3 本身 就 不 太 喜歡 雞胸肉 和 大
+program did not classify it as category 3
 
 3328_176.txt: Line 50
 8 吃起來 喀 吱吱喳喳 的
@@ -5988,10 +5896,6 @@ program did not classify it as category 3
 
 3328_176.txt: Line 102
 3 沒有 油 臭味
-program did not classify it as category 3
-
-3328_176.txt: Line 103
-3 喜歡
 program did not classify it as category 3
 
 3328_176.txt: Line 110
@@ -6082,10 +5986,6 @@ program did not classify it as category 3
 3 不及 麥當勞 的 品質
 program did not classify it as category 3
 
-3328_178.txt: Line 38
-8 有 些 看起來 蠻 好吃 的 料理
-program error prediction: 3
-
 3328_178.txt: Line 47
 3 就 是 種 古 早 的 風味
 program did not classify it as category 3
@@ -6105,10 +6005,6 @@ program error prediction: 3
 3328_178.txt: Line 59
 3 搭配 香菜 的 淡淡 香氣 與 醬油膏
 program did not classify it as category 3
-
-3328_178.txt: Line 63
-8 但 吃 過 的 朋友 們 都 說 好吃
-program error prediction: 3
 
 3328_178.txt: Line 66
 3 也 沒 任何 配料
@@ -6156,6 +6052,10 @@ program did not classify it as category 3
 
 3328_178.txt: Line 88
 3 不過 炸 衣 有點 厚
+program did not classify it as category 3
+
+3328_178.txt: Line 89
+3 我 個 人 是 比較 喜歡 雞 軟骨 那 道
 program did not classify it as category 3
 
 3328_178.txt: Line 90
@@ -6210,10 +6110,6 @@ program error prediction: 3
 3 香酥 炸雞肉 很 嫩 的 雞肉
 program did not classify it as category 3
 
-3328_179.txt: Line 41
-3 大推
-program did not classify it as category 3
-
 3328_179.txt: Line 42
 3 水 煮 檳榔 根 這 實在 是 太 特別
 program did not classify it as category 3
@@ -6249,10 +6145,6 @@ program did not classify it as category 3
 3328_179.txt: Line 65
 3 這 道 鍋物 就 是 老饕 同事 能 喝到 傳統 的 古早 美味
 program did not classify it as category 3
-
-3328_179.txt: Line 66
-8 赤綠 完全 喚醒 她 記憶 中 的 好吃 的 肥 五 花 豬肉 鍋
-program error prediction: 3
 
 3328_179.txt: Line 70
 3 厚 切 黑豬肉 很 難 煮 得 剛剛好
@@ -6690,14 +6582,6 @@ program did not classify it as category 3
 3 但 完全 不 違和
 program did not classify it as category 3
 
-3330_187.txt: Line 145
-3 我 超 喜歡
-program did not classify it as category 3
-
-3330_187.txt: Line 149
-8 好吃 、 好玩 、 又 健康 的 地方
-program error prediction: 3
-
 3330_188.txt: Line 17
 8 去 嚐嚐 隱身 台北 市場 內 的 法式 好 味道
 program error prediction: 3
@@ -6777,10 +6661,6 @@ program did not classify it as category 3
 3331_189.txt: Line 89
 3 五 分 的 熟度 還 呈現 淡淡 的 粉紅色 這 厚度 、 這 有 嚼 勁 的 Ｑ 彈 與 脆口
 program did not classify it as category 3
-
-3331_189.txt: Line 91
-8 結果 全 店 的 服務 人員 也 一起 用 日文 複 述 了 一 遍 ： 太 好吃 了
-program error prediction: 3
 
 3331_189.txt: Line 101
 8 很 厲害 的 刀工軟嫩 中 帶 點 咬 勁 的 口感
@@ -6873,10 +6753,6 @@ program did not classify it as category 3
 3332_191.txt: Line 54
 3 真的 很 新鮮
 program did not classify it as category 3
-
-3332_191.txt: Line 69
-8 但 真的 很 好吃 啊
-program error prediction: 3
 
 3332_191.txt: Line 71
 3 風味 特殊 食材 新鮮
@@ -7014,20 +6890,12 @@ program error prediction: 3
 8 後來 覺得 很 膩 不 吃 ....
 program error prediction: 3
 
-3332_194.txt: Line 30
-3 超 喜歡
-program did not classify it as category 3
-
 3332_194.txt: Line 32
 3 滿 喜歡 天 吉屋 的 沙拉
 program did not classify it as category 3
 
 3332_194.txt: Line 41
 3 絲 完全 可以 輕鬆 滑入 食道
-program did not classify it as category 3
-
-3332_194.txt: Line 43
-3 總之 我 喜歡 這 個 刀 工 的 小 細節
 program did not classify it as category 3
 
 3332_194.txt: Line 45
@@ -7272,14 +7140,6 @@ program did not classify it as category 3
 
 3332_196.txt: Line 74
 8 這 是 個 人 偏好 口感 的 問題
-program error prediction: 3
-
-3332_196.txt: Line 83
-8 誰 說 一定 要 排隊 的 店 才 是 好吃 的 阿
-program error prediction: 3
-
-3332_196.txt: Line 87
-8 免 排隊 又 好吃 的 店 阿阿阿阿 阿阿阿阿
 program error prediction: 3
 
 3332_197.txt: Line 16
@@ -7551,6 +7411,6 @@ program did not classify it as category 3
 program error prediction: 3
 
 Test: category 3
-precision: 0.60045
-recall: 0.37030
-F1: 0.45809
+precision: 0.63657
+recall: 0.38177
+F1: 0.47729
