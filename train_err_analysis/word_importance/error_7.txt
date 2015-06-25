@@ -14,242 +14,6 @@ program error prediction: 7
 3 烤 的 醬汁 很 好吃
 program error prediction: 7
 
-3303_11.txt: Line 41
-3 顯得 入味 好吃
-program error prediction: 7
-
-3303_11.txt: Line 50
-3 不 沾醬 就 好吃
-program error prediction: 7
-
-3303_11.txt: Line 54
-3 讓 人 一口 接 一口 ... 好吃
-program error prediction: 7
-
-3303_11.txt: Line 59
-3 餐點 好吃 會 再 訪 及 推薦
-program error prediction: 7
-
-3304_21.txt: Line 2
-8 [ 食記 ] 台北 鄰居 家 。 招牌 手拍 漢堡 排 ， 好 好吃 ！
-program error prediction: 7
-
-3304_21.txt: Line 55
-8 生活 瞬間 增添 一 抹 開心 色彩
-program error prediction: 7
-
-3304_21.txt: Line 59
-8 特別 值得 一 提 的 是
-program error prediction: 7
-
-3304_21.txt: Line 74
-7 咬 在 嘴 裡 可是 超 有 滿足感 的
-program did not classify it as category 7
-
-3304_21.txt: Line 76
-7 大 推薦
-program did not classify it as category 7
-
-3304_21.txt: Line 101
-3 相當 好吃
-program error prediction: 7
-
-3304_21.txt: Line 102
-7 沒想到 加 在 美式 早 午餐會 這麼 對味
-program did not classify it as category 7
-
-3323_151.txt: Line 25
-8 我 喜歡 旁邊 那 罐 糖
-program error prediction: 7
-
-3305_31.txt: Line 21
-3 很 好吃
-program error prediction: 7
-
-3305_31.txt: Line 30
-7 真的 好 貼心
-program did not classify it as category 7
-
-3305_31.txt: Line 65
-8 喜歡 輕 乳酪 的 人 應該 會 喜歡
-program error prediction: 7
-
-3305_31.txt: Line 66
-8 不過 不 吸引 我 這 個 喜歡 很 濃郁 起司味 的 人兒
-program error prediction: 7
-
-3305_31.txt: Line 72
-8 朋友 倒是 喜歡 的 很
-program error prediction: 7
-
-3307_41.txt: Line 23
-3 民生 炒飯 、 小 茅屋 雖然 好吃
-program error prediction: 7
-
-3307_41.txt: Line 24
-7 但 對 我 而言 稱不上 驚艷
-program did not classify it as category 7
-
-3307_41.txt: Line 62
-3 這 炒飯 真 得 好吃
-program error prediction: 7
-
-3307_41.txt: Line 69
-3 延三 夜市 這 盤 鐵板 炒飯 好吃 到 心坎 裡
-program error prediction: 7
-
-3309_51.txt: Line 18
-7 就是 一 個 輕鬆 愉快 的 周末 行程 啦
-program did not classify it as category 7
-
-3309_51.txt: Line 41
-7 讚
-program did not classify it as category 7
-
-3309_51.txt: Line 75
-8 不 喜歡 蔥 的 看到 這 道 菜 應該 會 崩潰
-program error prediction: 7
-
-3309_51.txt: Line 77
-8 阿 可是 不 喜歡 蔥 為什麼 要點 呢 XDD 可是 雞肉 配上 蔥花 一口 咬下
-program error prediction: 7
-
-3309_51.txt: Line 91
-3 基本 上 嫩 炸 豆腐 這 種 不管 到 哪裡 都 好吃 的
-program error prediction: 7
-
-3310_61.txt: Line 14
-7 是 我 最愛 也 最 推薦 的 中
-program did not classify it as category 7
-
-3310_61.txt: Line 33
-7 好 誘人 阿
-program did not classify it as category 7
-
-3310_61.txt: Line 36
-8 好吃 的 美食 介紹 起來 總是 特別 來勁 XDDD
-program error prediction: 7
-
-3310_61.txt: Line 42
-7 直 是 完美 阿
-program did not classify it as category 7
-
-3310_61.txt: Line 58
-3 比 一般 常 看到 的 乾乾 的 紅燒 後 好吃 幾百 倍
-program error prediction: 7
-
-3310_61.txt: Line 66
-3 這邊 的 粉腸 也 很 好吃
-program error prediction: 7
-
-3310_61.txt: Line 84
-8 每每 吃到 好吃 料理 就 會 大開 胃 的 石布
-program error prediction: 7
-
-3313_81.txt: Line 23
-3 好吃 在 旁 的 草莓 雪酪 也 不 是 泛泛之輩 微 酸 微 甜 的 口感 除 了解 膩 外 還 真是 讓 人 愛不釋手 呀
-program error prediction: 7
-
-3313_81.txt: Line 33
-7 真的 不 是 蓋 的
-program did not classify it as category 7
-
-3314_91.txt: Line 51
-3 混 著 海鹽 或 獨門 醬汁 一起 入口 更 好吃
-program error prediction: 7
-
-3314_91.txt: Line 61
-3 DWG 的 現 烤 鮭魚 相當 好吃
-program error prediction: 7
-
-3314_91.txt: Line 70
-3 DWG 的 甜點 幾乎 都 很 好吃
-program error prediction: 7
-
-3314_91.txt: Line 72
-3 蛋糕類 意外 的 好吃
-program error prediction: 7
-
-3314_91.txt: Line 86
-5 後記 ： 1 . 喜歡 寧靜 的 用餐 環境
-program error prediction: 7
-
-3317_111.txt: Line 13
-7 知味房 在 東區 可是 有 多 年 的 歷史 了
-program did not classify it as category 7
-
-3317_111.txt: Line 63
-8 不過 可能 是 我 本來 就 比較 喜歡 吃 麻辣 鴨血 勝過 麻辣 豆腐 吧 XDDDD 除了 麻辣 鴨血 跟 豆腐 是 隨著 湯 底 一起 來 的
-program error prediction: 7
-
-3317_111.txt: Line 68
-8 雖然 沒有 大 得 驚豔
-program error prediction: 7
-
-3317_111.txt: Line 114
-8 小朋友 都 會 喜歡 擠上 一 捲
-program error prediction: 7
-
-3317_111.txt: Line 115
-8 值得 一 提 的 是 甜筒 是 尖 的 脆 皮 甜筒
-program error prediction: 7
-
-3317_111.txt: Line 118
-8 我 很 喜歡
-program error prediction: 7
-
-3317_111.txt: Line 121
-8 雖然 知 味房 沒有 特別 驚豔 的 食材
-program error prediction: 7
-
-3317_111.txt: Line 123
-7 會 想 來 消費
-program did not classify it as category 7
-
-3319_121.txt: Line 82
-3 薯條 炸 得 很 好吃
-program error prediction: 7
-
-3319_121.txt: Line 93
-8 我 本身 都 比較 喜歡 吃 原味
-program error prediction: 7
-
-3319_121.txt: Line 108
-4 10 % 服務費 我 是 覺得 付 得 蠻 值得 的 啦
-program error prediction: 7
-
-3321_141.txt: Line 37
-8 花魚 好吃
-program error prediction: 7
-
-3315_101.txt: Line 66
-3 它們 家 義大利麵 真的 蠻 好吃 的
-program error prediction: 7
-
-3315_101.txt: Line 67
-7 很 推薦 住 在 附近 或是 路過 的 人 一定 要 來 嘗嘗
-program did not classify it as category 7
-
-3332_191.txt: Line 60
-8 看 了 就 很 開心
-program error prediction: 7
-
-3332_191.txt: Line 67
-8 我們 每 次 吃 鍋 都 喜歡 吃 泡麵
-program error prediction: 7
-
-3332_191.txt: Line 69
-8 但 真的 很 好吃 啊
-program error prediction: 7
-
-3332_191.txt: Line 72
-8 喜歡 嚐鮮 的 朋友 可以 揪 人 去 試試
-program error prediction: 7
-
-3327_171.txt: Line 29
-8 排隊 吃 美食 不 是 我 喜歡 的 模式
-program error prediction: 7
-
 3301_2.txt: Line 20
 7 那 時候 覺得 真的 是 驚為天人
 program did not classify it as category 7
@@ -258,825 +22,13 @@ program did not classify it as category 7
 3 蛋 汁 打散 後 有 稀釋 一 點 但 咖哩 實在 是 太 濃 了 所以 吃 不 出來 蛋 汁 的 味道 可樂餅 很 好吃
 program error prediction: 7
 
-3303_12.txt: Line 39
-7 真的 是 一 種 享受
-program did not classify it as category 7
-
-3303_12.txt: Line 41
-7 這 絕對 是 一 到 佳餚
-program did not classify it as category 7
-
-3303_12.txt: Line 42
-7 不過 可能 還 不 到 令 人 驚艷 的 程度
-program did not classify it as category 7
-
-3303_12.txt: Line 46
-3 不 加 任何 調味料 便 相當 好吃
-program error prediction: 7
-
-3303_12.txt: Line 49
-7 大 推薦
-program did not classify it as category 7
-
-3303_12.txt: Line 69
-8 我 個 人 是 比較 喜歡 脆脆 的 海苔
-program error prediction: 7
-
-3303_12.txt: Line 70
-7 所以 有點 殘 念
-program did not classify it as category 7
-
-3303_12.txt: Line 73
-7 不錯
-program did not classify it as category 7
-
-3304_22.txt: Line 58
-3 因為 上 一 次 來 吃 他們 的 咖哩 雞肉飯 覺得 很 好吃
-program error prediction: 7
-
-3304_22.txt: Line 65
-7 我 超 愛
-program did not classify it as category 7
-
-3304_22.txt: Line 69
-8 就是 因為 特別 喜歡 他們 的 咖哩 雞肉
-program error prediction: 7
-
-3305_32.txt: Line 74
-7 韓國 來 的 東西 我 自己 沒有 很 愛
-program did not classify it as category 7
-
-3307_42.txt: Line 82
-8 如果 你 也 同樣 喜歡 動物
-program error prediction: 7
-
-3309_52.txt: Line 33
-3 都 熱 呼呼 的 很 好吃
-program error prediction: 7
-
-3309_52.txt: Line 42
-3 讓 這 道 開胃菜 成 了 當晚 我 最 不 喜歡 的 一 品
-program error prediction: 7
-
-3309_52.txt: Line 45
-3 好喝 也 好吃
-program error prediction: 7
-
-3309_52.txt: Line 81
-3 四 款 都 很 好吃
-program error prediction: 7
-
-3309_52.txt: Line 85
-7 無怪 它 在 短 時間 內 大 獲 好評
-program did not classify it as category 7
-
-3309_52.txt: Line 87
-7 它 還 沒有 讓 我 驚艷
-program did not classify it as category 7
-
-3310_62.txt: Line 29
-7 普通
-program did not classify it as category 7
-
-3310_62.txt: Line 89
-3 很 稀有 又 很 好吃 的 部位
-program error prediction: 7
-
-3310_62.txt: Line 100
-7 也 還 不錯
-program did not classify it as category 7
-
-3311_72.txt: Line 61
-7 徹底 收服 當場 女生 的 心
-program did not classify it as category 7
-
-3311_72.txt: Line 71
-3,4 燉飯 好吃 歸 好吃 但 實在 不符 身價
-program error prediction: 7
-
-3313_82.txt: Line 37
-8 個 人 喜歡 咖哩
-program error prediction: 7
-
-3313_82.txt: Line 41
-8 大推 這 道 雖然 看起來 很 普通
-program error prediction: 7
-
-3314_92.txt: Line 26
-3 印象 中 沒 遇 過 比 這 次 更 好吃 的 歐胖
-program error prediction: 7
-
-3314_92.txt: Line 102
-7 還是 不會 吸引人 想 特地 去 吃
-program did not classify it as category 7
-
-3319_122.txt: Line 79
-8 也 蠻 好吃 的
-program error prediction: 7
-
-3319_122.txt: Line 97
-8 其中 特別 喜歡 酪梨 、 鷹嘴豆 、 胡蘿蔔 和 裹糖 的 核桃
-program error prediction: 7
-
-3319_122.txt: Line 100
-2 但 就 份量 和 口味 我 覺得 相當 值得
-program error prediction: 7
-
-3319_122.txt: Line 112
-8 確實 是 不會 出錯 的 好吃 組合
-program error prediction: 7
-
-3319_122.txt: Line 133
-8 我 喜歡 配 著 其他 菜色 一起 享用
-program error prediction: 7
-
-3319_122.txt: Line 151
-8 以 食物 來 說 是 好吃 的 店
-program error prediction: 7
-
-3319_122.txt: Line 153
-8 有 吃到 豐富 的 蔬果 食材 這 點 很 開心
-program error prediction: 7
-
-3320_132.txt: Line 47
-8 如果 喜歡 濃湯 的 朋友 可以 試試看
-program error prediction: 7
-
-3320_132.txt: Line 51
-8 如果 不 喜歡 濃湯 的
-program error prediction: 7
-
-3320_132.txt: Line 66
-8 喜歡 起 司 的 人 這邊 也 有 提供 很多 種 不同 口味 的 起 司
-program error prediction: 7
-
-3320_132.txt: Line 69
-7 實在 是 沒有 特別 的 感覺
-program did not classify it as category 7
-
-3320_132.txt: Line 85
-8 如果 你 真的 很 喜歡 酸溜溜 的 感覺 再 選 這 個 吧
-program error prediction: 7
-
-3320_132.txt: Line 102
-8 連 KC 這 種 不 喜歡 牛肉 的 人
-program error prediction: 7
-
-3320_132.txt: Line 104
-3 好鮮 美好 好吃 啊
-program error prediction: 7
-
-3320_132.txt: Line 109
-8 KC 覺得 美 福 的 甜點 真的 很 讓 人 驚豔
-program error prediction: 7
-
-3321_142.txt: Line 14
-8 是 因為 上 次 Sheena 曾經 說 她 覺得 這裡 比 某 泰 式 連鎖 餐廳 還 要 好吃 很多
-program error prediction: 7
-
-3321_142.txt: Line 15
-8 而且 看看 菜單 還 有心 媽 喜歡 的 螃蟹
-program error prediction: 7
-
-3321_142.txt: Line 62
-3 我 很 喜歡 泰式 紅茶 的 茶香 與 煉乳 搭配 出 的 香 濃 滋味
-program error prediction: 7
-
-3321_142.txt: Line 78
-8 至少 我 覺得 比 在 泰國 吃 的 粒粒 分明 又 偏 乾 的 長米 喜歡 多 了 XD
-program error prediction: 7
-
-3321_142.txt: Line 84
-8 直接 吃 不配 飯 我 也 覺得 很 好吃
-program error prediction: 7
-
-3321_142.txt: Line 155
-8 這 是 我 今天 最 最 喜歡 的 一 道 一口氣 吃掉 三 顆
-program error prediction: 7
-
-3321_142.txt: Line 177
-8 是 目前 在 台灣 喝到 最 喜歡 的 泰式 酸辣湯
-program error prediction: 7
-
-3321_142.txt: Line 180
-8 曾經 在 泰國 到處 都 吃 得到 的 超 好吃 芒果 糯米
-program error prediction: 7
-
-3315_102.txt: Line 81
-7 整體 算 不錯
-program did not classify it as category 7
-
-3315_102.txt: Line 82
-8 最後 能 在 景美 看到 不 一樣 的 餐廳 總是 讓 人 開心
-program error prediction: 7
-
-3329_182.txt: Line 37
-8 現場 很多 人 都 是 去 拿 胡椒 和 七 味 粉 自行 調配 自己 喜歡 的 味道
-program error prediction: 7
-
-3327_172.txt: Line 19
-8 我們 很 喜歡 到 這 附近 吃吃
-program error prediction: 7
-
-3327_172.txt: Line 26
-8 商業 午餐 好吃 的 話
-program error prediction: 7
-
-3327_172.txt: Line 34
-3 朋友 說 好吃
-program error prediction: 7
-
-3327_172.txt: Line 36
-3 天丼 的 醬料 也 好吃
-program error prediction: 7
-
 3301_3.txt: Line 120
 2,4 我 覺得 擠霸摳 可以 吃到 一 個 健康 又 好吃 的 手工 漢堡
-program error prediction: 7
-
-3303_13.txt: Line 14
-6,7 溫德 德式 烘焙 餐館 ． 一 級 棒 的 德式 餐點 在 大安區 捷運 國父 紀念館 站 的 巷子 裡
-program did not classify it as category 7
-
-3303_13.txt: Line 36
-3 還 蠻 好吃 的 喔
-program error prediction: 7
-
-3303_13.txt: Line 76
-3 直接 吃 就 很 好吃 了
-program error prediction: 7
-
-3303_13.txt: Line 91
-7 就 讓 人 覺得 物超所質
-program did not classify it as category 7
-
-3303_13.txt: Line 125
-3 吃起來 除了 好吃 之外
-program error prediction: 7
-
-3303_13.txt: Line 127
-7 真的 是 很 不錯 的 一 道 餐點
-program did not classify it as category 7
-
-3303_13.txt: Line 146
-7 搭配 起來 真的 讓 人 欲罷不能
-program did not classify it as category 7
-
-3303_13.txt: Line 148
-3 不 需要 任何 沾醬 就 很 好吃 了
-program error prediction: 7
-
-3303_13.txt: Line 174
-3 溫德德式 烘焙 餐館 的 餐點 除了 好吃 之外
-program error prediction: 7
-
-3304_23.txt: Line 36
-8 喜歡 杏子 的 餐具
-program error prediction: 7
-
-3304_23.txt: Line 44
-8 很 喜歡 芝麻 磨碎 後 散發出 來 的 香味
-program error prediction: 7
-
-3304_23.txt: Line 56
-3 友人 說 她 喜歡 腰 內 肉 因為 好 軟
-program error prediction: 7
-
-3304_23.txt: Line 81
-3 蘿蔔 絲 個 人 覺得 很 好吃
-program error prediction: 7
-
-3306_33.txt: Line 45
-3 個 人 覺得 兩 種 沾醬 都 很 好吃
-program error prediction: 7
-
-3306_33.txt: Line 61
-3 粒粒 分明 的 口感 我 還 蠻 喜歡 的
-program error prediction: 7
-
-3307_43.txt: Line 47
-8 是 我 這 種 不 喜歡 酸味 料理 的 人 都 會 愛上 的 口感
-program error prediction: 7
-
-3307_43.txt: Line 73
-7 真的 讓 我 驚喜
-program did not classify it as category 7
-
-3307_43.txt: Line 80
-3 真的 好 好吃
-program error prediction: 7
-
-3307_43.txt: Line 87
-3 ─ 小婷 看似 簡單 但 奶油 沾醬 非常 好吃
-program error prediction: 7
-
-3309_53.txt: Line 30
-7 但 感覺 不錯
-program did not classify it as category 7
-
-3309_53.txt: Line 44
-7 料理 還 算 特別
-program did not classify it as category 7
-
-3309_53.txt: Line 77
-7 表現 不 俗
-program did not classify it as category 7
-
-3310_63.txt: Line 39
-7 我 不怎麼 喜愛
-program did not classify it as category 7
-
-3310_63.txt: Line 76
-7 低於 我 的 期望
-program did not classify it as category 7
-
-3311_73.txt: Line 28
-3 搭配 著 熱熱 的 麵包 很 好吃
-program error prediction: 7
-
-3311_73.txt: Line 41
-3 軟嫩 的 牛肉 搭配 著 偏 硬 的 餅 皮 個 人 其實 還 蠻 喜歡 的
-program error prediction: 7
-
-3311_73.txt: Line 57
-7 真的 推薦
-program did not classify it as category 7
-
-3311_73.txt: Line 78
-3 雖然 不 好 切 不過 配上 蕈菇 的 口感 吃起來 很 好吃
-program error prediction: 7
-
-3311_73.txt: Line 86
-3 個 人 還 蠻 喜歡 濃郁 的 焦糖 口感
-program error prediction: 7
-
-3313_83.txt: Line 68
-8 它 是 間 值得 回訪 的 店家
-program error prediction: 7
-
-3314_93.txt: Line 71
-7 這 點 比起 前面 幾 點 是 最 讓 人 生氣 的 ，
-program did not classify it as category 7
-
-3314_93.txt: Line 75
-7 這 句 話 徹底 把 我 惹火
-program did not classify it as category 7
-
-3314_93.txt: Line 87
-7 外加 因為 太 氣 了 ， 現場 都 要 氣飽 了 也 不 想 再 多 吃 什麼 東西
-program did not classify it as category 7
-
-3317_113.txt: Line 15
-8 茄子 好吃
-program error prediction: 7
-
-3321_133.txt: Line 163
-7 的確 是 物 有所 值
-program did not classify it as category 7
-
-3321_133.txt: Line 175
-8 連 不 喜歡 南瓜 的 老公 都 搶過去 喝 了 二 口 呢
-program error prediction: 7
-
-3321_133.txt: Line 193
-8 老公 很 喜歡 搭配 的 香料飯
-program error prediction: 7
-
-3321_133.txt: Line 212
-3 薯條 非常 好吃
-program error prediction: 7
-
-3321_133.txt: Line 215
-8 是 我 最 喜歡 的 作法
-program error prediction: 7
-
-3321_133.txt: Line 216
-8 本 日 最 驚豔 - 白醬 海鮮 燉飯
-program error prediction: 7
-
-3321_133.txt: Line 225
-8 能 在 美式 餐廳 吃到 這麼 好吃 的 燉飯
-program error prediction: 7
-
-3321_133.txt: Line 245
-8 牛排 用 炸 的 其實 很 好吃
-program error prediction: 7
-
-3321_133.txt: Line 261
-8 以前 喜歡 吃 厚皮披蕯
-program error prediction: 7
-
-3321_133.txt: Line 264
-8 現在 吃 披蕯 都 喜歡 吃 薄 皮 的 啦
-program error prediction: 7
-
-3321_133.txt: Line 268
-8 我 跟 友人 們 都 覺得 很 好吃
-program error prediction: 7
-
-3321_133.txt: Line 271
-8 喜歡 重 口味 的 朋友 千萬 不要 錯過
-program error prediction: 7
-
-3321_133.txt: Line 282
-8 肯恩 可以 考慮 製作 蛋捲 前 詢問 客人 喜歡 的 熟度 做 調整
-program error prediction: 7
-
-3321_143.txt: Line 15
-8 這 次要 跟 大家 介紹 間 超 好吃 的 汕頭 炒麵
-program error prediction: 7
-
-3321_143.txt: Line 54
-7 幾乎 沒 得 挑剔
-program did not classify it as category 7
-
-3315_103.txt: Line 38
-8 我們 都 很 喜歡
-program error prediction: 7
-
-3315_103.txt: Line 58
-8 第二 道 是 我 很 喜歡 的 玉米 漿
-program error prediction: 7
-
-3315_103.txt: Line 71
-7 很 放鬆
-program did not classify it as category 7
-
-3329_183.txt: Line 43
-8 我 本身 很 喜歡 檸檬 冬瓜 的 味道
-program error prediction: 7
-
-3327_173.txt: Line 61
-3 沒 特別 喜歡 也 不 討厭
-program error prediction: 7
-
-3327_173.txt: Line 62
-8 可能 有的 人 就 喜歡 這 類 帶 點 特色 的 湯品
-program error prediction: 7
-
-3327_173.txt: Line 72
-8 那 當然 毫不 猶豫 就 是 " 好吃 "
-program error prediction: 7
-
-3327_173.txt: Line 75
-8 那 也 可以 說 它 是 " 好吃 " 或者 是 " 不錯 吃 "
-program error prediction: 7
-
-3327_173.txt: Line 76
-3 所以 我 會 覺得 這邊 牛排 吃起來 就是 屬於 相對 好吃 、 相對 不錯 吃 這樣子
-program error prediction: 7
-
-3327_173.txt: Line 80
-3 牛排 當然 是 好吃 的
-program error prediction: 7
-
-3327_173.txt: Line 98
-8 我 向來 喜歡 紐約客 的 嚼 感 和 軟筋
-program error prediction: 7
-
-3327_173.txt: Line 137
-8 從頭到尾 都 很 開心 的 和 他 女友 享用 餐點
-program error prediction: 7
-
-3332_193.txt: Line 34
-5 配合 渡假 風情 的 藤編椅 我 也 很 喜歡
-program error prediction: 7
-
-3332_193.txt: Line 54
-3 一 球 香草 一 球 巧克力 的 冰淇淋 都 很 好吃
-program error prediction: 7
-
-3332_193.txt: Line 62
-5 唯一 我 和 老公 非常 不 喜歡 的 一點 是 店 內 冷氣 冷 到 好 可怕 並 不 是 很 舒服 的 氣溫
-program error prediction: 7
-
-3325_163.txt: Line 32
-8 整體 而言 這 是 一 家 值得 一 試 的 餐廳
-program error prediction: 7
-
-3325_163.txt: Line 59
-3 會 喜歡 這 道 料理
-program error prediction: 7
-
-3325_163.txt: Line 78
-3 值得 推薦
 program error prediction: 7
 
 3301_4.txt: Line 36
 7 有點 可惜
 program did not classify it as category 7
-
-3303_14.txt: Line 48
-3 比 泥巴 派 還 更 好吃 呢
-program error prediction: 7
-
-3303_14.txt: Line 49
-3 雖然 說 上面 的 蛋糕 比較 好吃
-program error prediction: 7
-
-3304_24.txt: Line 18
-8 友人 喜歡 陽光 灑 進來 的 慵懶 氛圍 所以 選擇 了 靠 窗 的 位置
-program error prediction: 7
-
-3304_24.txt: Line 29
-7 但 聽到 預訂 就 感覺 是 非常 厲害
-program did not classify it as category 7
-
-3304_24.txt: Line 48
-7 感覺 很 驚喜 呢
-program did not classify it as category 7
-
-3315_104.txt: Line 37
-3 看 這 濃稠度 就 知道 這 道 菜 很 好吃
-program error prediction: 7
-
-3315_104.txt: Line 50
-8 大推
-program error prediction: 7
-
-3315_104.txt: Line 59
-8 好吃
-program error prediction: 7
-
-3306_34.txt: Line 13
-8 果然 是 值得 來 朝聖 一下
-program error prediction: 7
-
-3306_34.txt: Line 49
-7 黑虎 也 是 網路 上 大 推 的 選項 之 一
-program did not classify it as category 7
-
-3307_44.txt: Line 18
-3 看起來 真 好吃
-program error prediction: 7
-
-3307_44.txt: Line 20
-8 感覺 一定 很 好吃
-program error prediction: 7
-
-3307_44.txt: Line 28
-7 大 推 他們 粉肝
-program did not classify it as category 7
-
-3307_44.txt: Line 41
-3 裡面 這 塊 帶 皮 豬肉 看起來 超級 好吃 耶
-program error prediction: 7
-
-3307_44.txt: Line 51
-8 我們 都 很 喜歡
-program error prediction: 7
-
-3307_44.txt: Line 65
-7 讓 我 好 傷心
-program did not classify it as category 7
-
-3307_44.txt: Line 68
-3 但 也 不會 不 好吃
-program error prediction: 7
-
-3307_44.txt: Line 72
-3 玉米 看起來 很 好吃
-program error prediction: 7
-
-3307_44.txt: Line 78
-3 看起來 每 一 天 都 很 好吃
-program error prediction: 7
-
-3307_44.txt: Line 82
-8 我 沒 特別 喜歡
-program error prediction: 7
-
-3307_44.txt: Line 93
-8 讓 我 超 好奇 它 有 多 好吃
-program error prediction: 7
-
-3307_44.txt: Line 96
-8 米糕 的 醬汁 我 很 喜歡
-program error prediction: 7
-
-3307_44.txt: Line 108
-8 這 是 我們 今天 超 喜歡 的 一 家 喔
-program error prediction: 7
-
-3307_44.txt: Line 109
-8 我 覺得 很多 人 都 喜歡 吃 這 家 耶
-program error prediction: 7
-
-3307_44.txt: Line 122
-8 配菜 看起來 弄得 挺 好吃
-program error prediction: 7
-
-3309_54.txt: Line 14
-8 只 能 開心 的 大笑
-program error prediction: 7
-
-3310_64.txt: Line 21
-8 很 喜歡 這 種 風格
-program error prediction: 7
-
-3310_64.txt: Line 50
-7 所以 算是 合格
-program did not classify it as category 7
-
-3310_64.txt: Line 51
-3 ＝ BBQ 烤雞翅 ＝ 烤雞翅 真的 很 好吃
-program error prediction: 7
-
-3310_64.txt: Line 62
-8 素菱 本來 就 喜歡 青醬 口味 的 義大利麵
-program error prediction: 7
-
-3310_64.txt: Line 63
-8 她 也 一定 喜歡
-program error prediction: 7
-
-3310_64.txt: Line 80
-3 不 是 特別 好吃
-program error prediction: 7
-
-3312_74.txt: Line 13
-3 話 雖 如此 涼拌 的 區域 我 還 蠻 喜歡 的
-program error prediction: 7
-
-3312_74.txt: Line 19
-7 很多 饕客 們 拿 得 不亦樂乎
-program did not classify it as category 7
-
-3312_74.txt: Line 34
-3 裡面 的 南瓜 也 一樣 好吃
-program error prediction: 7
-
-3312_74.txt: Line 47
-7 還 蠻 不錯 的
-program did not classify it as category 7
-
-3312_74.txt: Line 57
-3 倒是 可 麗餅 還是 一如 往常 的 好吃
-program error prediction: 7
-
-3312_74.txt: Line 66
-7 白天 在 這 個 空間 吃飯 心情 會 很 好
-program did not classify it as category 7
-
-3313_84.txt: Line 27
-3 最 喜歡 的 是 原味 的 奶油 起 司
-program error prediction: 7
-
-3313_84.txt: Line 54
-8 喜歡 奶泡 可是 又 不 喜歡 太多 的 人 可以 點 NY.BAGLE 的 冰 拿 鐵
-program error prediction: 7
-
-3313_84.txt: Line 68
-3 趁熱 塗抹 超 好吃 的
-program error prediction: 7
-
-3318_114.txt: Line 9
-8 好吃 圖文版  http  / / waitingangel0514.pixnet.net/blog/post / 153573378
-program error prediction: 7
-
-3318_114.txt: Line 17
-6 59巷 的 武昌 市場 內 有 多 家 我 每 個 禮拜 都 會 報到 的 超 好吃 店家
-program error prediction: 7
-
-3318_114.txt: Line 41
-8 幸運 的 是 剛好 我 喜歡 的 都 還 有
-program error prediction: 7
-
-3319_124.txt: Line 34
-8 請 侍 酒 師 推薦 絕對 不會 失望 .
-program error prediction: 7
-
-3319_124.txt: Line 82
-8 但 這 天 讓 我 最 驚豔 的 昰 這 款 墨魚 麵包
-program error prediction: 7
-
-3319_124.txt: Line 131
-8 男友 說 相比 之下 他 比較 喜歡 這 款 濃湯
-program error prediction: 7
-
-3319_124.txt: Line 143
-8 我 真的 好 喜歡 laFESTA 的 義大利 餃
-program error prediction: 7
-
-3319_124.txt: Line 195
-8 這天 吃完 我 和 男友 兩 人 直接 將 這 間 列入 我們 在 台灣 最 喜歡 的 義大利 餐廳 XD
-program error prediction: 7
-
-3319_124.txt: Line 197
-1 真的 要 大推 維多 力亞 酒店 的 服務 人員 及 侍 酒 師 .
-program error prediction: 7
-
-3319_124.txt: Line 215
-8 就 開始 期待 會 在 哪 個 角落 遇見 好吃 的 東西
-program error prediction: 7
-
-3321_134.txt: Line 74
-8 配上 淋上 醬汁 與 洋蔥 熱騰騰 的 白飯 真的 是 相當 好吃 阿
-program error prediction: 7
-
-3321_134.txt: Line 75
-8 不過 值得 注意 的 是 這邊 的 丼
-program error prediction: 7
-
-3321_134.txt: Line 92
-8 雖然 不 好吃 啦
-program error prediction: 7
-
-3322_144.txt: Line 33
-8 我 比較 喜歡 室 外 可以 看到 湖景 的 座位
-program error prediction: 7
-
-3322_144.txt: Line 82
-8 佐料 我 都 蠻 喜歡 的
-program error prediction: 7
-
-3322_144.txt: Line 108
-7 哭
-program did not classify it as category 7
-
-3322_144.txt: Line 112
-7 還可以 啦
-program did not classify it as category 7
-
-3332_194.txt: Line 2
-8 [ 食記 ] 台北 天吉屋新 菜單 比 想像 中 好吃 很多 ! !
-program error prediction: 7
-
-3332_194.txt: Line 30
-3 超 喜歡
-program error prediction: 7
-
-3332_194.txt: Line 32
-3 滿 喜歡 天 吉屋 的 沙拉
-program error prediction: 7
-
-3332_194.txt: Line 36
-3 屋 的 沙拉 簡單 好吃
-program error prediction: 7
-
-3332_194.txt: Line 43
-3 總之 我 喜歡 這 個 刀 工 的 小 細節
-program error prediction: 7
-
-3332_194.txt: Line 54
-3 但 配餐 炸 物 我們 一致 認為 好吃
-program error prediction: 7
-
-3332_194.txt: Line 87
-3 不得不 說 他們 的 炸 真的 好吃 的 沒 話說
-program error prediction: 7
-
-3332_194.txt: Line 103
-3 就是 想 說 他們 東西 都 好吃 的 話 茄子 應
-program error prediction: 7
-
-3329_184.txt: Line 12
-8 很 喜歡 在 同 一 個 地帶 週邊 收集 、 發掘 多 間 小店
-program error prediction: 7
-
-3329_184.txt: Line 26
-8 讓 我 好生 失望
-program error prediction: 7
-
-3329_184.txt: Line 44
-3 簡餐 好吃 歸 好吃
-program error prediction: 7
-
-3329_184.txt: Line 61
-3 黑糖 燕麥 也 很 好吃
-program error prediction: 7
-
-3328_174.txt: Line 7
-8 好吃 網誌版 ： http  / / heymedicine.pixnet.net/blog/post / 182541813
-program error prediction: 7
-
-3328_174.txt: Line 9
-8 這 次 很 開心 的 接到 廣 山居 的 邀請
-program error prediction: 7
-
-3328_174.txt: Line 53
-3 我 個 人 沒有 很 喜歡 他 的 肉質
-program error prediction: 7
-
-3328_174.txt: Line 95
-3 但 我 覺得 這 份 非常 好吃
-program error prediction: 7
-
-3328_174.txt: Line 136
-3 香檸 銀耳 露 最 喜歡 這 道
-program error prediction: 7
-
-3324_154.txt: Line 29
-3 麵包 好吃
-program error prediction: 7
-
-3324_154.txt: Line 35
-3 也 很 喜歡
-program error prediction: 7
-
-3324_154.txt: Line 47
-3 義大利麵 算 好吃
-program error prediction: 7
 
 3301_5.txt: Line 29
 7 嗑 起來 一定 很 滿足
@@ -1096,230 +48,6 @@ program did not classify it as category 7
 
 3301_5.txt: Line 67
 3 炙燒 比目魚 鰭 邊 的 油花 真的 很 好吃
-program error prediction: 7
-
-3303_15.txt: Line 62
-3 喜歡 SitDownPlease 偏 硬 有 嚼 勁 的 麵條 口感
-program error prediction: 7
-
-3303_15.txt: Line 78
-3 喜歡 奶味 較 重 調味 的 可以 選擇 這 一 道 當 主食
-program error prediction: 7
-
-3305_25.txt: Line 4
-8 圖文並茂 無 人物 好吃 部落格版 ： http  / / puddingann.pixnet.net/blog/post / 154723803
-program error prediction: 7
-
-3305_25.txt: Line 59
-3 花枝圈 滿 軟 很 好吃
-program error prediction: 7
-
-3305_25.txt: Line 78
-3 加上去 整 個 味道 都 跑出來 很 濃郁 好吃 呀
-program error prediction: 7
-
-3305_25.txt: Line 105
-5 很 喜歡 這 種 氣氛 好店
-program error prediction: 7
-
-3306_35.txt: Line 86
-3 單 吃 也 不會 覺得 乾澀 比 多 x 多 x 好吃 很多
-program error prediction: 7
-
-3306_35.txt: Line 94
-8 裡面 有 大 顆 花豆 平常 不 是 很 喜歡 甜滋滋 的 花豆
-program error prediction: 7
-
-3308_45.txt: Line 16
-3 肉 真的 超 好吃 的
-program error prediction: 7
-
-3308_45.txt: Line 69
-3 超 好吃 的 啦
-program error prediction: 7
-
-3308_45.txt: Line 96
-3 真的 超 好吃 的 阿
-program error prediction: 7
-
-3308_45.txt: Line 115
-8 如果 大家 想 吃 好吃 燒肉 的 話 非常 推薦 唷
-program error prediction: 7
-
-3309_55.txt: Line 57
-8 布雷克 還 滿 喜歡 店 內 木質 的 桌椅
-program error prediction: 7
-
-3309_55.txt: Line 94
-3 但 也 不能 說 不 好吃
-program error prediction: 7
-
-3309_55.txt: Line 104
-8 布雷克 還 滿 喜歡 杏 鮑 菇 的 調味
-program error prediction: 7
-
-3309_55.txt: Line 156
-8 布雷克 還 滿 喜歡 這 一 道 的
-program error prediction: 7
-
-3309_55.txt: Line 225
-8 喜歡 的 人 還 能 買 整 罐 回去
-program error prediction: 7
-
-3309_55.txt: Line 276
-8 跟 柯 老闆 聊天 是 很 開心
-program error prediction: 7
-
-3313_85.txt: Line 35
-8 鬆餅 搭配 雞蛋 美乃滋 很 好吃
-program error prediction: 7
-
-3313_85.txt: Line 36
-8 喜歡 吃 甜 的 也 可以 搭配 蜂蜜
-program error prediction: 7
-
-3313_85.txt: Line 51
-3 個 人 最 喜歡 這 道
-program error prediction: 7
-
-3314_95.txt: Line 24
-8 值得 一 提 的 是 位於 大安 旗艦店 在 下午茶 的 熱門 時段
-program error prediction: 7
-
-3312_75.txt: Line 53
-7 喝 的 不 過癮
-program did not classify it as category 7
-
-3312_75.txt: Line 57
-8 都 會 覺得 是 家 有點 神奇 或是 值得 造訪 的 店家 呀
-program error prediction: 7
-
-3318_115.txt: Line 54
-8 值得 一 提 的 是 這 個 素雞 還 真 柔軟 ...
-program error prediction: 7
-
-3315_105.txt: Line 38
-8 個 人 喜歡 這 道
-program error prediction: 7
-
-3315_105.txt: Line 56
-8 味道 就 是 想像 的 到 的 那樣 不會 不 好吃 就是 少 了 點 甚麼
-program error prediction: 7
-
-3315_105.txt: Line 64
-3 裡面 有 跟 紅酒 醬汁 一起 共 煮 的 小 洋蔥 十分 好吃
-program error prediction: 7
-
-3315_105.txt: Line 71
-8 主菜 最 好吃 的 是 最 不起眼 的 雞
-program error prediction: 7
-
-3315_105.txt: Line 98
-7 美味
-program did not classify it as category 7
-
-3315_105.txt: Line 102
-7 很 有趣
-program did not classify it as category 7
-
-3315_105.txt: Line 133
-7 甜點 全部 都 不 讓 人 高興
-program did not classify it as category 7
-
-3315_105.txt: Line 137
-8 不過 建議 要 在 外國 吃 過 喜歡 的 在 點 不然 這
-program error prediction: 7
-
-3319_125.txt: Line 15
-8 我 還 蠻 喜歡 人 少 的 咖啡廳
-program error prediction: 7
-
-3319_125.txt: Line 28
-3 甜甜 的 很 好吃
-program error prediction: 7
-
-3321_135.txt: Line 60
-8 不過 倒是 看到 其他 桌 的 大人 帶 著 小朋友 玩 的 很 開心
-program error prediction: 7
-
-3321_135.txt: Line 77
-8 當天 最 喜歡 的 是 啤酒
-program error prediction: 7
-
-3321_135.txt: Line 103
-7 我 個 人 不 是 很 愛
-program did not classify it as category 7
-
-3321_135.txt: Line 106
-7 吃起來 挺 不錯
-program did not classify it as category 7
-
-3321_135.txt: Line 113
-3 是 我 喜歡 炸 得 很 透 的 偏乾 口感
-program error prediction: 7
-
-3321_135.txt: Line 126
-8 我 是 很 喜歡 翅 小腿 的 人
-program error prediction: 7
-
-3321_135.txt: Line 137
-8 不過 值得 注意 的 是 炸雞 跟 薯條 別 吃 過量
-program error prediction: 7
-
-3321_135.txt: Line 195
-8 老公 特別 喜歡 烤 得 看 香脆 的 漢堡 麵包
-program error prediction: 7
-
-3321_135.txt: Line 215
-8 巧克力 麵包 偏 乾 不 好吃
-program error prediction: 7
-
-3321_135.txt: Line 216
-8 最 好吃 的 是 中間 的 棉花糖
-program error prediction: 7
-
-3321_135.txt: Line 234
-8 值得 一 嚐
-program error prediction: 7
-
-3322_145.txt: Line 112
-7 整體 搭配 起來 還 不錯
-program did not classify it as category 7
-
-3322_145.txt: Line 122
-7 對於 餐點 的 部分 我們 都 很 滿意
-program did not classify it as category 7
-
-3332_195.txt: Line 53
-3 鬆餅 剛 做好 的 時候 熱熱 的 滿 好吃
-program error prediction: 7
-
-3328_175.txt: Line 1
-8 cutewen 517 ( 天天 要 開心 )
-program error prediction: 7
-
-3328_175.txt: Line 13
-8 2013 十 大 好吃 炒飯 選拔 第三
-program error prediction: 7
-
-3328_175.txt: Line 35
-8 是 我 喜歡 的 蛋花 樣式
-program error prediction: 7
-
-3328_175.txt: Line 42
-8 喜歡 美食 / / 喜歡 烘培 / / 喜歡 旅遊 / / 喜歡 與 你們 分享 ...
-program error prediction: 7
-
-3325_165.txt: Line 39
-8 附近 的 越南店 做 的 都 還 比 這 好吃
-program error prediction: 7
-
-3325_165.txt: Line 42
-8 我 不 喜歡 吃 生食 所以 沒 吃
-program error prediction: 7
-
-3324_155.txt: Line 52
-8 說不定 有的 人 就 喜歡 這 種 氛圍
 program error prediction: 7
 
 3302_6.txt: Line 33
@@ -1342,488 +70,12 @@ program error prediction: 7
 8 這 間 餐廳 除了 餐點 、 飲料 好吃 外
 program error prediction: 7
 
-3303_16.txt: Line 16
-7 本來 是 衝 著 東方 文華 這 塊 響 亮亮 的 招牌 去 的 .... 沒想到 讓 我 大失所望 = = "
-program did not classify it as category 7
-
-3308_46.txt: Line 11
-8 一直 以來 都 很 喜歡 茶 餐廳
-program error prediction: 7
-
-3308_46.txt: Line 37
-8 亦 沒有 達到 個 人心 中 好吃 的 標準
-program error prediction: 7
-
-3309_56.txt: Line 17
-8 發現 好像 很多 店家 都 喜歡 這樣 的 設計
-program error prediction: 7
-
-3309_56.txt: Line 20
-5 我 個 人 最 喜歡 的 是 有 一 大 片 的 落地窗
-program error prediction: 7
-
-3309_56.txt: Line 33
-3 最 喜歡 蛋 滑滑 嫩嫩 的 搭配 吐司 好 幸福
-program error prediction: 7
-
-3309_56.txt: Line 36
-3 份量 也 很多 雞肉 多汁 鮮美 超 好吃 的
-program error prediction: 7
-
-3311_66.txt: Line 39
-8 個 人 比較 喜歡 嘉義 的 火 雞肉飯
-program error prediction: 7
-
-3311_66.txt: Line 44
-3 今天 吃到 的 餐 雖然 沒有 特別 好吃
-program error prediction: 7
-
-3312_76.txt: Line 17
-8 也 是 我 最 喜歡 的 雪花 冰
-program error prediction: 7
-
-3312_76.txt: Line 19
-3 每 次 還是 都 覺得 好 好吃
-program error prediction: 7
-
-3312_76.txt: Line 40
-3 因為 真的 是 太 好吃 了 呀 & gt
-program error prediction: 7
-
-3312_76.txt: Line 44
-3 一樣 好吃
-program error prediction: 7
-
-3313_86.txt: Line 33
-3 泰式 烤雞 肉餅 是 裡面 覺得 最 好吃 的
-program error prediction: 7
-
-3313_86.txt: Line 54
-7 對於 這 家 覺得 還 不 賴
-program did not classify it as category 7
-
-3314_96.txt: Line 2
-8 [ 食記 ] 台北 山雞王 好吃 雞肉
-program error prediction: 7
-
-3314_96.txt: Line 5
-8 雖然 台北 沒有 嘉義 那般 好吃 的 火 雞肉飯
-program error prediction: 7
-
-3314_96.txt: Line 45
-3 可 終究 比不上 雞腿 的 滑嫩 好吃
-program error prediction: 7
-
-3314_96.txt: Line 54
-3 反倒 比 雞肉盤 的 肉 好吃
-program error prediction: 7
-
-3314_96.txt: Line 64
-8 山雞王 好吃 雞肉
-program error prediction: 7
-
-3322_146.txt: Line 35
-8 但 我 還是 最 喜歡 英記 的 鴛鴦
-program error prediction: 7
-
-3322_146.txt: Line 48
-8 比起來 當然 還是 翠華 的 好吃
-program error prediction: 7
-
-3322_146.txt: Line 52
-8 看起來 超 好吃 的
-program error prediction: 7
-
-3322_146.txt: Line 56
-8 我 不 是 很 喜歡 波記 的 環境
-program error prediction: 7
-
-3322_146.txt: Line 59
-8 最後 還是 覺得 茶水攤 最 好吃 啦
-program error prediction: 7
-
-3318_116.txt: Line 13
-7 而且 店家 位置 離 仁愛路 比較 近 感覺 似乎 沒有 開 很 久
-program did not classify it as category 7
-
-3318_116.txt: Line 79
-7 我 個 人 覺得 還 不錯
-program did not classify it as category 7
-
-3318_116.txt: Line 95
-8 實際 上 沒有 看起來 那般 好吃 話 說 這邊 小小 抱怨 一下
-program error prediction: 7
-
-3318_116.txt: Line 137
-8 個 人 不 是 很 喜歡 CP 值  6 / 10 之前 看 網路 上 有 套餐 就 很 划算
-program error prediction: 7
-
-3315_106.txt: Line 13
-8 這 間 可是 這 趟 台北行 讓 我 最 喜歡 的 一 餐
-program error prediction: 7
-
-3315_106.txt: Line 70
-8 就 知道 我 有 多 喜歡 這 間 的 早 午餐 了
-program error prediction: 7
-
-3320_126.txt: Line 22
-8 弟弟 的 同學 強力 大推 ＂ 大盛 豬排 ＂
-program error prediction: 7
-
-3320_126.txt: Line 60
-7 挺 不錯 的
-program did not classify it as category 7
-
-3326_166.txt: Line 85
-3 好吃 沒 話說
-program error prediction: 7
-
-3326_166.txt: Line 92
-8 喜歡 求新 求變 的 人
-program error prediction: 7
-
-3332_196.txt: Line 50
-3 單獨 吃 的 話 是 好吃 啦
-program error prediction: 7
-
-3332_196.txt: Line 73
-8 我 比較 喜歡 吃 切 得 稍微 薄 一點 的 那 種
-program error prediction: 7
-
-3332_196.txt: Line 76
-2 是 料 多 實在 值得 點 的 哦
-program error prediction: 7
-
-3332_196.txt: Line 83
-8 誰 說 一定 要 排隊 的 店 才 是 好吃 的 阿
-program error prediction: 7
-
-3332_196.txt: Line 87
-8 免 排隊 又 好吃 的 店 阿阿阿阿 阿阿阿阿
-program error prediction: 7
-
-3328_176.txt: Line 13
-8 是 很 開心 啦
-program error prediction: 7
-
-3328_176.txt: Line 15
-8 前 幾 場 東西 雖然 好吃
-program error prediction: 7
-
-3328_176.txt: Line 24
-3 加上 東西 大部份 真的 好吃
-program error prediction: 7
-
-3328_176.txt: Line 33
-8 當天 覺得 好吃 的 菜色
-program error prediction: 7
-
-3328_176.txt: Line 34
-8 至於 其它 沒 講到 的 不 是 不 好吃
-program error prediction: 7
-
-3328_176.txt: Line 35
-8 只 是 自己 不 喜歡 而已
-program error prediction: 7
-
-3328_176.txt: Line 36
-8 本身 就 不 太 喜歡 雞胸肉 和 大
-program error prediction: 7
-
-3328_176.txt: Line 41
-8 本 上 每 一 種 都 好吃 又 到位
-program error prediction: 7
-
-3328_176.txt: Line 44
-8 只 有 鴨 好吃
-program error prediction: 7
-
-3328_176.txt: Line 45
-8 有的 只有 雞 好吃 這樣
-program error prediction: 7
-
-3328_176.txt: Line 56
-3 就 好吃
-program error prediction: 7
-
-3328_176.txt: Line 67
-3 真是 好吃
-program error prediction: 7
-
-3328_176.txt: Line 70
-3 最 喜歡 炒類
-program error prediction: 7
-
-3328_176.txt: Line 75
-3 愛 吃 海鮮 的 小弟 我 吃 的 很 開心 哩
-program error prediction: 7
-
-3328_176.txt: Line 103
-3 喜歡
-program error prediction: 7
-
-3324_156.txt: Line 31
-5 特別 喜歡 木桌 和 藤椅 的 搭配
-program error prediction: 7
-
 3302_7.txt: Line 41
 3 這 道 還 滿 好吃 的
 program error prediction: 7
 
 3302_7.txt: Line 74
 8 永豐 得 記港式 麻辣 咖哩 - 好吃 入味 的 麻辣 鴨血
-program error prediction: 7
-
-3303_17.txt: Line 3
-8 ThuJul 1022  52  522014 餐廳 名稱 ： 午食 年代 蹦啾 好吃
-program error prediction: 7
-
-3303_17.txt: Line 9
-6 台北市 中山 捷運站 附近 的 午食 年代 ． 蹦 啾 好吃
-program error prediction: 7
-
-3303_17.txt: Line 15
-8 位在 巷弄 間 的 午食 年代 ． 蹦 啾 好吃
-program error prediction: 7
-
-3303_17.txt: Line 63
-7 老闆 強力 推薦
-program did not classify it as category 7
-
-3303_17.txt: Line 78
-3 不過 無錫 排骨 好吃 倒是 真的
-program error prediction: 7
-
-3305_27.txt: Line 14
-7 但 這 次 用餐 實在 有 嚴重 受騙 的 感覺
-program did not classify it as category 7
-
-3305_27.txt: Line 39
-7 這 算是 我 那天 點到 最 滿意 的
-program did not classify it as category 7
-
-3305_27.txt: Line 52
-3 提拉米蘇 本身 也 是 好吃 的 喔 .
-program error prediction: 7
-
-3305_27.txt: Line 60
-3 座味餐酒 整體 也 不 是 不 好吃 喔
-program error prediction: 7
-
-3306_37.txt: Line 41
-8 說 實在 毛毛 和好 姐妹 沒有 很 喜歡 沙發 的 位子
-program error prediction: 7
-
-3306_37.txt: Line 45
-8 這樣 有點 不 好吃 東西
-program error prediction: 7
-
-3306_37.txt: Line 87
-3 好吃 耶
-program error prediction: 7
-
-3306_37.txt: Line 123
-8 喜歡 吃 炸 物 的 格友 一定 要點 這 道
-program error prediction: 7
-
-3306_37.txt: Line 129
-8 最 喜歡 的 就是 雞塊 了
-program error prediction: 7
-
-3306_37.txt: Line 131
-8 比 麥 Ｘ 勞 的 還 好吃
-program error prediction: 7
-
-3306_37.txt: Line 132
-8 因為 毛毛 很 喜歡 麥 Ｘ 勞 的 雞塊
-program error prediction: 7
-
-3306_37.txt: Line 137
-3 可愛 又 好吃
-program error prediction: 7
-
-3306_37.txt: Line 139
-3 好 姐妹 也 大 讚 雞塊 好吃
-program error prediction: 7
-
-3306_37.txt: Line 144
-3 總之 很 好吃
-program error prediction: 7
-
-3306_37.txt: Line 147
-8 不 喜歡 吃 炸 物 的 毛毛 還是 偷吃 了 好幾 塊 ： Ｐ
-program error prediction: 7
-
-3306_37.txt: Line 158
-3 好吃
-program error prediction: 7
-
-3306_37.txt: Line 160
-8 不過 可能 是 因為 毛毛 比較 喜歡 柔軟 的 吐司 的 關係
-program error prediction: 7
-
-3306_37.txt: Line 178
-8 四周 還 有 毛毛 喜歡 的 德式 香腸 相佐
-program error prediction: 7
-
-3306_37.txt: Line 196
-8 值得 你 留 一 整 個 甜點 胃 給 它
-program error prediction: 7
-
-3306_37.txt: Line 207
-3 最 邪惡 好吃 了
-program error prediction: 7
-
-3306_37.txt: Line 213
-3 非常 好吃
-program error prediction: 7
-
-3308_47.txt: Line 58
-7 吃完 也 是 滿意度 十足
-program did not classify it as category 7
-
-3308_47.txt: Line 61
-7 不過 這樣 的 好店 還是 要 推薦給 大家 才 行
-program did not classify it as category 7
-
-3308_47.txt: Line 64
-8 這 兩 家 都 是 我 很 喜歡 的 店
-program error prediction: 7
-
-3309_57.txt: Line 83
-3 比 預期 的 還要 好吃
-program error prediction: 7
-
-3311_67.txt: Line 64
-8 所以 來 吃 盅 飯 真的 很 值得
-program error prediction: 7
-
-3311_67.txt: Line 94
-7 無疑 他 已經 榮登 我 心 中 台北 第一 名 原盅豉汁 排骨飯
-program did not classify it as category 7
-
-3311_67.txt: Line 122
-8 喜歡 吃 嫩 雞腿 的 朋友 不能 錯過 貴妃 雞
-program error prediction: 7
-
-3311_67.txt: Line 147
-8 排骨 真的 好 好吃 歐 .... 天 啊
-program error prediction: 7
-
-3312_77.txt: Line 110
-8 是 我 很 喜歡 的 溫泉 蛋
-program error prediction: 7
-
-3312_77.txt: Line 133
-8 忙 狗 先生 說 他 很 喜歡 這 麵條 的 味道
-program error prediction: 7
-
-3312_77.txt: Line 142
-3 但是 沒想到 ... 這 整 個 就是 出乎 我 意料 的 好吃 耶
-program error prediction: 7
-
-3312_77.txt: Line 169
-3 Daisy 覺得 拉麵 的 配料 部分 都 很 好吃
-program error prediction: 7
-
-3313_87.txt: Line 45
-8 喜歡 帶 香氣 類型 的 茶
-program error prediction: 7
-
-3313_87.txt: Line 52
-7 但是 吃到 肖 想 很 久 的 食物 真的 覺得 很 滿足 啊
-program did not classify it as category 7
-
-3321_137.txt: Line 76
-8 合適 喜歡 鮮奶 和 茶 組合
-program error prediction: 7
-
-3321_137.txt: Line 80
-8 算是 今天 吃起來 最 好吃 的
-program error prediction: 7
-
-3321_137.txt: Line 84
-8 超級 好吃
-program error prediction: 7
-
-3318_117.txt: Line 54
-8 這 家 很 好吃 啊
-program error prediction: 7
-
-3318_117.txt: Line 56
-8 不過 還 真的 是 很 好吃 沒 錯
-program error prediction: 7
-
-3318_117.txt: Line 58
-8 厚餅 的 話 建議 牙齒 好 又 喜歡 吃 硬 的 食物 再 嚐試 噢 xD
-program error prediction: 7
-
-3316_107.txt: Line 14
-8 多 好吃
-program error prediction: 7
-
-3316_107.txt: Line 23
-8 我 喜歡 他們 的 裝潢 風格
-program error prediction: 7
-
-3326_167.txt: Line 31
-8 朋友 說 香草 餡 他 不 喜歡
-program error prediction: 7
-
-3326_167.txt: Line 33
-3 我 很 喜歡 黑醋 栗
-program error prediction: 7
-
-3326_167.txt: Line 34
-8 但 其實 不 喜歡 花香 結合 甜點 的 味道
-program error prediction: 7
-
-3326_167.txt: Line 37
-3 不 喜歡 就 容易 放大 味道
-program error prediction: 7
-
-3326_167.txt: Line 41
-3 很 好吃
-program error prediction: 7
-
-3326_167.txt: Line 77
-3 非常 好吃 噢
-program error prediction: 7
-
-3330_187.txt: Line 134
-8 如果 是 喜歡 奶酪類 的 人
-program error prediction: 7
-
-3330_187.txt: Line 145
-3 我 超 喜歡
-program error prediction: 7
-
-3330_187.txt: Line 149
-8 好吃 、 好玩 、 又 健康 的 地方
-program error prediction: 7
-
-3328_177.txt: Line 40
-3 沒有 好吃 的 奶油
-program error prediction: 7
-
-3328_177.txt: Line 51
-8 值得 感恩
-program error prediction: 7
-
-3324_157.txt: Line 33
-3 是 好吃 的 布朗尼
-program error prediction: 7
-
-3332_197.txt: Line 37
-8 我 喜歡 倚 窗 的 座位
-program error prediction: 7
-
-3332_197.txt: Line 71
-3 突然 補 一 句 說 ： 它們 家 的 法式 吐司 很 好吃 呦
-program error prediction: 7
-
-3332_197.txt: Line 123
-8 算是 間 值得 推薦 的 餐廳 ：
 program error prediction: 7
 
 3302_8.txt: Line 30
@@ -1862,314 +114,6 @@ program error prediction: 7
 8 SoloTrattoria 當然 值得 特地 安排 去 一 嘗 風味
 program error prediction: 7
 
-3304_18.txt: Line 30
-8 我 很 喜歡 這 層 書 牆
-program error prediction: 7
-
-3304_18.txt: Line 69
-8 周 花花 最 喜歡 原味 的
-program error prediction: 7
-
-3304_18.txt: Line 81
-3 不 油 不 膩 非常 好吃
-program error prediction: 7
-
-3305_28.txt: Line 11
-8 好吃 也 很 重要
-program error prediction: 7
-
-3305_28.txt: Line 14
-8 也 會 特意 早起 去 買 我 喜歡 吃 的 早餐
-program error prediction: 7
-
-3305_28.txt: Line 16
-8 吃到 不 好吃 的 早餐 心情 也 是 會 小小 的 受到 影響 的
-program error prediction: 7
-
-3305_28.txt: Line 17
-8 所以 好吃 是 個 重點
-program error prediction: 7
-
-3305_28.txt: Line 18
-8 西式 的 我 喜歡 三明治 漢堡類
-program error prediction: 7
-
-3305_28.txt: Line 30
-7 兩 種 我 都 愛
-program did not classify it as category 7
-
-3305_28.txt: Line 36
-3 可以 算是 目前 吃 過 數一數二 好吃 的
-program error prediction: 7
-
-3305_28.txt: Line 39
-3 又 酥 又 軟 的 口感 真的 超 好吃 的
-program error prediction: 7
-
-3305_28.txt: Line 52
-3 但 這麼 好吃 的 還 第一 次 吃 到
-program error prediction: 7
-
-3305_28.txt: Line 59
-8 而且 冷掉 了 吃 也 好吃
-program error prediction: 7
-
-3305_28.txt: Line 62
-8 我 還 蠻 喜歡 這樣 加 點 醬油 和 辣椒 的 簡單 味道
-program error prediction: 7
-
-3305_28.txt: Line 63
-3 蛋 餅 也 好吃
-program error prediction: 7
-
-3305_28.txt: Line 66
-3 但 也 算是 好吃
-program error prediction: 7
-
-3305_28.txt: Line 67
-8 我 總 覺得 簡單 的 東西 加 點 醬油 就 好 好吃
-program error prediction: 7
-
-3305_28.txt: Line 68
-8 還是 我 喜歡 的 其實 是 醬油 XD
-program error prediction: 7
-
-3305_28.txt: Line 85
-3 沒有 特別 好吃
-program error prediction: 7
-
-3305_28.txt: Line 88
-8 早餐 有時候 喜歡 的 我 就 會 一連 吃 好幾 天
-program error prediction: 7
-
-3306_38.txt: Line 76
-3 好吃
-program error prediction: 7
-
-3306_38.txt: Line 83
-4 泰式 烤 生蠔 $ 49 欸 .. 老實說 這 生蠔 讓 我 有點 失望
-program error prediction: 7
-
-3306_38.txt: Line 106
-3 塞滿 了 蔥花 和 醬汁 感覺 還 蠻 好吃 的
-program error prediction: 7
-
-3308_48.txt: Line 79
-8 也 讓 喜歡 吃 牛肉 的 人 吃 過癮
-program error prediction: 7
-
-3308_48.txt: Line 90
-8 讓 人 不管 要 排隊 多久 都 覺得 值得
-program error prediction: 7
-
-3309_58.txt: Line 57
-7 我 還 蠻 愛 的
-program did not classify it as category 7
-
-3309_58.txt: Line 90
-8 其實 這 三 種 生魚片 都 好吃 得 讓 人 豎起 拇指
-program error prediction: 7
-
-3309_58.txt: Line 107
-8 據說 這 是 日本 的 小 農村 喜歡 的 簡單 料理
-program error prediction: 7
-
-3309_58.txt: Line 110
-8 倒是 一 旁 的 燉 蘿蔔 蠻 喜歡 的
-program error prediction: 7
-
-3309_58.txt: Line 127
-3 好吃
-program error prediction: 7
-
-3309_58.txt: Line 147
-8 建議 想來 的 大家 可以 多 看看 餐點 走向 是 不 是 喜歡 的
-program error prediction: 7
-
-3311_68.txt: Line 48
-3 果然 好吃
-program error prediction: 7
-
-3311_68.txt: Line 59
-3 我 更 喜歡 這 極 黑豬
-program error prediction: 7
-
-3311_68.txt: Line 69
-3 因為 極 黑豬 太 好吃 了
-program error prediction: 7
-
-3311_68.txt: Line 82
-3 好吃
-program error prediction: 7
-
-3311_68.txt: Line 96
-7 不 賴 吧
-program did not classify it as category 7
-
-3311_68.txt: Line 99
-3 大推 可 爾 必 思沙瓦
-program error prediction: 7
-
-3311_68.txt: Line 117
-7 不過 我 還是 很 滿意 這 次 的 用餐 經驗 啦
-program did not classify it as category 7
-
-3311_68.txt: Line 144
-3 好吃
-program error prediction: 7
-
-3312_78.txt: Line 46
-8 spago 算是 我們 挺 喜歡 的 店家
-program error prediction: 7
-
-3313_88.txt: Line 2
-8 [ 食記 ] 台北 文山區 - 動物誌 好吃 蔬食 芝麻 豆腐堡
-program error prediction: 7
-
-3313_88.txt: Line 83
-7 推薦
-program did not classify it as category 7
-
-3315_98.txt: Line 19
-8 朋友 很 喜歡 8 % 的 冰
-program error prediction: 7
-
-3315_98.txt: Line 139
-7 黃色 的 檸檬 餡 酸度 非常 夠 毛毛 和 朋友 都 超 愛
-program did not classify it as category 7
-
-3315_98.txt: Line 144
-8 所以 不 喜歡 奶油 的 毛毛 覺得 還
-program error prediction: 7
-
-3315_98.txt: Line 170
-3 毛毛 也 滿 喜歡 他們 家 的 霜淇淋
-program error prediction: 7
-
-3320_128.txt: Line 69
-7 我 的 愛
-program did not classify it as category 7
-
-3321_138.txt: Line 9
-8 下班 愛 吃 串燒 的 我 聽說 天母 這 附近 有 間 好吃 的 串燒店
-program error prediction: 7
-
-3322_148.txt: Line 24
-7 失落感 變得 明顯
-program did not classify it as category 7
-
-3322_148.txt: Line 55
-7 今晚 的 甜品 總算 讓 人 有 愉悅 的 心情
-program did not classify it as category 7
-
-3318_118.txt: Line 14
-8 每 次 問 ： 景美 夜市 有 什麼 好吃 的
-program error prediction: 7
-
-3318_118.txt: Line 54
-3 濃郁 口感 真的 很 好吃 又 不會 膩
-program error prediction: 7
-
-3317_108.txt: Line 63
-8 似乎 又 有點 不 太 值得 捏
-program error prediction: 7
-
-3317_108.txt: Line 79
-8 請 給 我 一 個 讚 更多 好吃 好玩 訊息 搶先 報
-program error prediction: 7
-
-3326_168.txt: Line 8
-8 第一 次 拜訪 咖哩 娘 時 的 牛 咖哩 讓 我 覺得 這 咖哩 不 算 貴 而 值得 多 嘗試
-program error prediction: 7
-
-3326_168.txt: Line 31
-3 我 個 人 覺得 實在 不 是 那麼 值得
-program error prediction: 7
-
-3326_168.txt: Line 41
-3 好吃
-program error prediction: 7
-
-3326_168.txt: Line 66
-3 牛 、 雞 咖哩 的 表現 還是 值得 一 吃 的
-program error prediction: 7
-
-3330_188.txt: Line 25
-3 剛 入口 有點 失望
-program error prediction: 7
-
-3330_188.txt: Line 26
-3 味道 並 不 令 人 驚豔
-program error prediction: 7
-
-3330_188.txt: Line 28
-3 吃到 後來 喜歡 底層 扎實 的 派皮
-program error prediction: 7
-
-3330_188.txt: Line 31
-3 非常 推薦給 不 喜歡 吃 太 甜 的 女孩兒
-program error prediction: 7
-
-3330_188.txt: Line 54
-8 最 喜歡 MAISONGOURMANDE 吃吃 喝喝 講求 天然 食材
-program error prediction: 7
-
-3328_178.txt: Line 22
-8 還 蠻 喜歡 這 種 感覺 的
-program error prediction: 7
-
-3328_178.txt: Line 38
-8 有 些 看起來 蠻 好吃 的 料理
-program error prediction: 7
-
-3328_178.txt: Line 60
-3 簡單 好吃 也 很 有 創意
-program error prediction: 7
-
-3328_178.txt: Line 63
-8 但 吃 過 的 朋友 們 都 說 好吃
-program error prediction: 7
-
-3328_178.txt: Line 74
-8 我 本來 就 蠻 喜歡 吃 軟骨
-program error prediction: 7
-
-3328_178.txt: Line 79
-3 淋上 檸檬 會 更 好吃
-program error prediction: 7
-
-3328_178.txt: Line 89
-8 我 個 人 是 比較 喜歡 雞 軟骨 那 道
-program error prediction: 7
-
-3324_158.txt: Line 11
-8 好吃 網誌版 ： http  / / heymedicine.pixnet.net/blog/post / 183275475 ---- ------- 這 天 來到 信義區 找 朋友 吃 商業 午餐
-program error prediction: 7
-
-3324_158.txt: Line 89
-8 想 試試 好吃 的 Tapas 還是 去 西班牙 餐廳 吧
-program error prediction: 7
-
-3324_158.txt: Line 91
-3 我 覺得 這 個 套餐 加 得 蠻 不 值得 的
-program error prediction: 7
-
-3324_158.txt: Line 104
-3 我 個 人 沒有 很 喜歡
-program error prediction: 7
-
-3324_158.txt: Line 138
-3 不 算 特別 驚豔 的 蛋糕
-program error prediction: 7
-
-3324_158.txt: Line 151
-8 這 點 我 很 喜歡
-program error prediction: 7
-
-3324_158.txt: Line 153
-3 老實說 我 沒有 特別 驚豔 的 感覺
-program error prediction: 7
-
 3302_9.txt: Line 55
 8 我 這 幾 年 比較 喜歡 吃 炸 的
 program error prediction: 7
@@ -2181,338 +125,6 @@ program error prediction: 7
 3302_9.txt: Line 78
 7 湯包 跟 蒸餃 相當 合 我 意
 program did not classify it as category 7
-
-3304_19.txt: Line 111
-3 真 好吃
-program error prediction: 7
-
-3305_29.txt: Line 59
-3 好吃
-program error prediction: 7
-
-3305_29.txt: Line 84
-7 太 滿足 囉
-program did not classify it as category 7
-
-3307_39.txt: Line 13
-8 帶 了 也 喜歡 品酒 好友 一起 來 享用 美酒 與 美食
-program error prediction: 7
-
-3307_39.txt: Line 61
-8 我 喜歡 它們 的 燈
-program error prediction: 7
-
-3307_39.txt: Line 110
-8 紫色 格子 那 瓶 好 華麗 我 喜歡 ^ ^
-program error prediction: 7
-
-3307_39.txt: Line 130
-3 好吃 得 不得了
-program error prediction: 7
-
-3307_39.txt: Line 171
-8 我 個 人 非常 喜歡
-program error prediction: 7
-
-3307_39.txt: Line 255
-8 就是 像 我 這 種 可愛 的 女孩 會 喜歡 的 酒阿
-program error prediction: 7
-
-3308_49.txt: Line 45
-8 很 好吃
-program error prediction: 7
-
-3308_49.txt: Line 52
-3 沒想到 簡單 的 烏龍 麵 也 能 這麼 好吃
-program error prediction: 7
-
-3308_49.txt: Line 53
-3 漬物 也 很 好吃
-program error prediction: 7
-
-3308_49.txt: Line 57
-3 他 也 直 說好 好吃
-program error prediction: 7
-
-3308_49.txt: Line 65
-8 我 一直 很 喜歡 吃 毛豆 丸子
-program error prediction: 7
-
-3308_49.txt: Line 69
-8 我 很 喜歡
-program error prediction: 7
-
-3308_49.txt: Line 70
-3 沒想到 毛豆 可以 做成 甜點 的 這麼 好吃
-program error prediction: 7
-
-3308_49.txt: Line 74
-3 這裡 的 毛豆 丸子 也 好吃 哦
-program error prediction: 7
-
-3308_49.txt: Line 79
-3 真 得 好吃
-program error prediction: 7
-
-3310_59.txt: Line 48
-3 超級 好吃
-program error prediction: 7
-
-3310_59.txt: Line 51
-7 激推
-program did not classify it as category 7
-
-3311_69.txt: Line 13
-7 深深 吸引 了 我
-program did not classify it as category 7
-
-3311_69.txt: Line 22
-7 整 個 人 都 放鬆 了 下來
-program did not classify it as category 7
-
-3311_69.txt: Line 36
-8 我 吃 麵包 不 喜歡 沾 油醋
-program error prediction: 7
-
-3311_69.txt: Line 46
-3 其中 我 最 喜歡 就是 煙燻 硬質 起 司
-program error prediction: 7
-
-3311_69.txt: Line 58
-7 也 太 佛心 了
-program did not classify it as category 7
-
-3311_69.txt: Line 68
-7 讓 我 如釋重負
-program did not classify it as category 7
-
-3311_69.txt: Line 76
-3 但 米心 的 表現 讓 我 失望 了
-program error prediction: 7
-
-3311_69.txt: Line 89
-3 和 好友 都 覺得 這 塊 牛 小 排 實在 太 好吃 了
-program error prediction: 7
-
-3311_69.txt: Line 101
-5 真的 好 喜歡 這裡 的 環境 和 氣氛
-program error prediction: 7
-
-3312_79.txt: Line 11
-8 飯 倒是 很 好吃 XD 現在 googlemap 上 原址 都
-program error prediction: 7
-
-3312_79.txt: Line 32
-8 哪 家 的 餐飲 好吃 呢
-program error prediction: 7
-
-3313_89.txt: Line 54
-3 老實說 我 比較 喜歡 大廚 挑 的 配菜
-program error prediction: 7
-
-3313_89.txt: Line 55
-3 好吃 的 都 被 他 選走 了 XDD 甜薯 沙拉 相對 其他 兩 個 配 菜 的 美味 比較 普通 一點 就 不 多 做 介紹 了
-program error prediction: 7
-
-3313_89.txt: Line 56
-3 醬燒野菇超 好吃 的 啦
-program error prediction: 7
-
-3313_89.txt: Line 57
-8 我 本來 就 很 喜歡 吃 香菇 以外 的 菇類
-program error prediction: 7
-
-3313_89.txt: Line 61
-3 因為 滿 好吃 的 有 種 意猶未盡 的 感覺
-program error prediction: 7
-
-3313_89.txt: Line 73
-3 不 是 我 喜歡 的 味道
-program error prediction: 7
-
-3313_89.txt: Line 79
-3 不過 還是 沒有 沙拉 來得 令 人 喜歡
-program error prediction: 7
-
-3315_99.txt: Line 10
-8 以往 每 到 三芝 這 一帶 家人 總 喜歡 到 石門 這 家 肉粽店
-program error prediction: 7
-
-3315_99.txt: Line 11
-3 除了 就近 方便 之外 最 主要 的 原因 就是 好吃 啦
-program error prediction: 7
-
-3315_99.txt: Line 28
-4 好吃 的 蛋黃 粽 也 變成 一 個 NT . 40 元
-program error prediction: 7
-
-3315_99.txt: Line 32
-8 娜兒 也 很 喜歡 吃 小 肉粽
-program error prediction: 7
-
-3315_99.txt: Line 67
-3 粽子 還 是 包肉 的 比較 好吃 呀
-program error prediction: 7
-
-3320_129.txt: Line 35
-7 個 人 吃 不 太 習慣
-program did not classify it as category 7
-
-3321_139.txt: Line 14
-8 但 也 一直 沒有 感覺 很 喜歡 的 店
-program error prediction: 7
-
-3321_139.txt: Line 111
-8 相較 之下 我 比較 喜歡 這 個 口味
-program error prediction: 7
-
-3321_139.txt: Line 163
-8 好吃 耶
-program error prediction: 7
-
-3321_139.txt: Line 164
-8 真的 很 好吃
-program error prediction: 7
-
-3321_139.txt: Line 171
-7 非常 推薦
-program did not classify it as category 7
-
-3321_139.txt: Line 200
-8 很 喜歡 的 一 間 小店
-program error prediction: 7
-
-3318_119.txt: Line 36
-8 不 知道 還 排 那麼 開心 ”
-program error prediction: 7
-
-3318_119.txt: Line 82
-8 失望 了
-program error prediction: 7
-
-3318_119.txt: Line 149
-8 別 桌 點 的 燙 青菜 看起來 比較 鮮 綠 好吃
-program error prediction: 7
-
-3318_119.txt: Line 159
-8 喜歡 它們 家 的 碗兒
-program error prediction: 7
-
-3318_119.txt: Line 169
-8 但 仍然 比不上 我 心目中 第一 好吃 的 楓 食堂 可樂餅
-program error prediction: 7
-
-3318_119.txt: Line 188
-8 最 喜歡 看 這 種 金黃色 的 汁液 爆漿 的 畫面 了
-program error prediction: 7
-
-3318_119.txt: Line 198
-3 沾 了 蛋 汁 之後 和 蔥花 一起 入口 真 是 好吃
-program error prediction: 7
-
-3326_169.txt: Line 9
-8 欣葉台菜 個 人 都 一直 很 喜歡
-program error prediction: 7
-
-3326_169.txt: Line 41
-3 很 鹹 香入味 的 好吃
-program error prediction: 7
-
-3326_169.txt: Line 43
-3 很 是 軟 Q 好吃
-program error prediction: 7
-
-3333_199.txt: Line 78
-3 入味 即使 不 沾醬 也 很 好吃
-program error prediction: 7
-
-3333_199.txt: Line 88
-8 不 是 我 喜歡 的
-program error prediction: 7
-
-3333_199.txt: Line 120
-3 好吃
-program error prediction: 7
-
-3331_189.txt: Line 68
-2 我 很 喜歡 生 蛋 拌生 牛肉 ＄ ３５０ 我 鼓起 了 非常 大 的 勇氣 點 了 這 個
-program error prediction: 7
-
-3331_189.txt: Line 71
-8 完全 生 的 牛肉 對 我 來 說 仍然 是 非常 大 的 挑戰 阿阿 阿 一 旁 的 服務生 再三 用 生命 保證 真的 很 好吃 之後 才 點 XD 將 澳洲 和 牛 切成 細條狀
-program error prediction: 7
-
-3331_189.txt: Line 83
-3 還 真的 有 這麼 一點 像 在 吃 鮭魚 生魚片 我 喜歡 耶
-program error prediction: 7
-
-3331_189.txt: Line 85
-2 不會 讓 你 失望 的 厚 切 上 等 鹽味 牛 舌 ＄ ４３５ 這裡 的 牛 舌 有 分成 幾 種 不同 的 等級 與 價位
-program error prediction: 7
-
-3331_189.txt: Line 90
-3 第一 次 讓 我 有 紮紮實實 真的 在 吃 牛 舌 的 快感 我 立馬 講出 ： 太 好吃 了
-program error prediction: 7
-
-3331_189.txt: Line 91
-8 結果 全 店 的 服務 人員 也 一起 用 日文 複 述 了 一 遍 ： 太 好吃 了
-program error prediction: 7
-
-3331_189.txt: Line 128
-3,4 搭配 現 磨 芥末 烤 過後 Ｑ 彈 微 脆 相當 好吃 當天 主持人 看到 我 在 拍照 所以 有 跑來 問 我 幾 句 話 深怕 被 剪掉 所以 放 一 張 心媽 的 側 拍照 以 此 紀念 XDDD 好 奇妙 的 經驗 噢 哈 哈哈 FUTAGO 特製 甜點 ＄ ７０ 最後 的 甜點 是 香草 冰淇淋 淋 上 優格
-program error prediction: 7
-
-3331_189.txt: Line 139
-8 但是 不管 是 店 內 或是 桌 邊 服務 都 超讚 很 值得 來 朝聖 插 旗子 的 一 間 店
-program error prediction: 7
-
-3328_179.txt: Line 23
-5 保持 讓 空間 寬敞 這 點 值得 讚許
-program error prediction: 7
-
-3328_179.txt: Line 39
-3 好吃 不過 略 顯 平淡
-program error prediction: 7
-
-3328_179.txt: Line 41
-3 大推
-program error prediction: 7
-
-3328_179.txt: Line 44
-3 清爽 又 好吃
-program error prediction: 7
-
-3328_179.txt: Line 47
-3 熟度 約 八 、 九 分 才 Q 彈 好吃
-program error prediction: 7
-
-3328_179.txt: Line 48
-3 玉子 燒 也 是 大推 的 一 道 菜
-program error prediction: 7
-
-3328_179.txt: Line 66
-8 赤綠 完全 喚醒 她 記憶 中 的 好吃 的 肥 五 花 豬肉 鍋
-program error prediction: 7
-
-3328_179.txt: Line 78
-8 這 家 餐廳 我 會 推薦給 喜歡 道地 日本味 以及 有 自信 能 控制 厚 切 黑 豬肉 的 饕客 們
-program error prediction: 7
-
-3324_159.txt: Line 77
-3 整體 非常 的 特別 又 好吃
-program error prediction: 7
-
-3324_159.txt: Line 79
-3 奶 蛋 的 味道 很 自然 好吃
-program error prediction: 7
-
-3324_159.txt: Line 135
-3 實在 是 好吃 又 很 到位
-program error prediction: 7
-
-3324_159.txt: Line 151
-8 如果 不 喜歡 吃 花俏 有加 配料 的 鬆餅
-program error prediction: 7
 
 3303_11.txt: Line 41
 3 顯得 入味 好吃
@@ -2529,38 +141,6 @@ program error prediction: 7
 3303_11.txt: Line 59
 3 餐點 好吃 會 再 訪 及 推薦
 program error prediction: 7
-
-3317_111.txt: Line 13
-7 知味房 在 東區 可是 有 多 年 的 歷史 了
-program did not classify it as category 7
-
-3317_111.txt: Line 63
-8 不過 可能 是 我 本來 就 比較 喜歡 吃 麻辣 鴨血 勝過 麻辣 豆腐 吧 XDDDD 除了 麻辣 鴨血 跟 豆腐 是 隨著 湯 底 一起 來 的
-program error prediction: 7
-
-3317_111.txt: Line 68
-8 雖然 沒有 大 得 驚豔
-program error prediction: 7
-
-3317_111.txt: Line 114
-8 小朋友 都 會 喜歡 擠上 一 捲
-program error prediction: 7
-
-3317_111.txt: Line 115
-8 值得 一 提 的 是 甜筒 是 尖 的 脆 皮 甜筒
-program error prediction: 7
-
-3317_111.txt: Line 118
-8 我 很 喜歡
-program error prediction: 7
-
-3317_111.txt: Line 121
-8 雖然 知 味房 沒有 特別 驚豔 的 食材
-program error prediction: 7
-
-3317_111.txt: Line 123
-7 會 想 來 消費
-program did not classify it as category 7
 
 3303_12.txt: Line 39
 7 真的 是 一 種 享受
@@ -2630,28 +210,12 @@ program error prediction: 7
 3 溫德德式 烘焙 餐館 的 餐點 除了 好吃 之外
 program error prediction: 7
 
-3317_113.txt: Line 15
-8 茄子 好吃
-program error prediction: 7
-
 3303_14.txt: Line 48
 3 比 泥巴 派 還 更 好吃 呢
 program error prediction: 7
 
 3303_14.txt: Line 49
 3 雖然 說 上面 的 蛋糕 比較 好吃
-program error prediction: 7
-
-3318_114.txt: Line 9
-8 好吃 圖文版  http  / / waitingangel0514.pixnet.net/blog/post / 153573378
-program error prediction: 7
-
-3318_114.txt: Line 17
-6 59巷 的 武昌 市場 內 有 多 家 我 每 個 禮拜 都 會 報到 的 超 好吃 店家
-program error prediction: 7
-
-3318_114.txt: Line 41
-8 幸運 的 是 剛好 我 喜歡 的 都 還 有
 program error prediction: 7
 
 3303_15.txt: Line 62
@@ -2662,29 +226,9 @@ program error prediction: 7
 3 喜歡 奶味 較 重 調味 的 可以 選擇 這 一 道 當 主食
 program error prediction: 7
 
-3318_115.txt: Line 54
-8 值得 一 提 的 是 這 個 素雞 還 真 柔軟 ...
-program error prediction: 7
-
 3303_16.txt: Line 16
 7 本來 是 衝 著 東方 文華 這 塊 響 亮亮 的 招牌 去 的 .... 沒想到 讓 我 大失所望 = = "
 program did not classify it as category 7
-
-3318_116.txt: Line 13
-7 而且 店家 位置 離 仁愛路 比較 近 感覺 似乎 沒有 開 很 久
-program did not classify it as category 7
-
-3318_116.txt: Line 79
-7 我 個 人 覺得 還 不錯
-program did not classify it as category 7
-
-3318_116.txt: Line 95
-8 實際 上 沒有 看起來 那般 好吃 話 說 這邊 小小 抱怨 一下
-program error prediction: 7
-
-3318_116.txt: Line 137
-8 個 人 不 是 很 喜歡 CP 值  6 / 10 之前 看 網路 上 有 套餐 就 很 划算
-program error prediction: 7
 
 3303_17.txt: Line 3
 8 ThuJul 1022  52  522014 餐廳 名稱 ： 午食 年代 蹦啾 好吃
@@ -2706,18 +250,6 @@ program did not classify it as category 7
 3 不過 無錫 排骨 好吃 倒是 真的
 program error prediction: 7
 
-3318_117.txt: Line 54
-8 這 家 很 好吃 啊
-program error prediction: 7
-
-3318_117.txt: Line 56
-8 不過 還 真的 是 很 好吃 沒 錯
-program error prediction: 7
-
-3318_117.txt: Line 58
-8 厚餅 的 話 建議 牙齒 好 又 喜歡 吃 硬 的 食物 再 嚐試 噢 xD
-program error prediction: 7
-
 3304_18.txt: Line 30
 8 我 很 喜歡 這 層 書 牆
 program error prediction: 7
@@ -2730,44 +262,8 @@ program error prediction: 7
 3 不 油 不 膩 非常 好吃
 program error prediction: 7
 
-3318_118.txt: Line 14
-8 每 次 問 ： 景美 夜市 有 什麼 好吃 的
-program error prediction: 7
-
-3318_118.txt: Line 54
-3 濃郁 口感 真的 很 好吃 又 不會 膩
-program error prediction: 7
-
 3304_19.txt: Line 111
 3 真 好吃
-program error prediction: 7
-
-3318_119.txt: Line 36
-8 不 知道 還 排 那麼 開心 ”
-program error prediction: 7
-
-3318_119.txt: Line 82
-8 失望 了
-program error prediction: 7
-
-3318_119.txt: Line 149
-8 別 桌 點 的 燙 青菜 看起來 比較 鮮 綠 好吃
-program error prediction: 7
-
-3318_119.txt: Line 159
-8 喜歡 它們 家 的 碗兒
-program error prediction: 7
-
-3318_119.txt: Line 169
-8 但 仍然 比不上 我 心目中 第一 好吃 的 楓 食堂 可樂餅
-program error prediction: 7
-
-3318_119.txt: Line 188
-8 最 喜歡 看 這 種 金黃色 的 汁液 爆漿 的 畫面 了
-program error prediction: 7
-
-3318_119.txt: Line 198
-3 沾 了 蛋 汁 之後 和 蔥花 一起 入口 真 是 好吃
 program error prediction: 7
 
 3304_21.txt: Line 2
@@ -2798,18 +294,6 @@ program error prediction: 7
 7 沒想到 加 在 美式 早 午餐會 這麼 對味
 program did not classify it as category 7
 
-3319_121.txt: Line 82
-3 薯條 炸 得 很 好吃
-program error prediction: 7
-
-3319_121.txt: Line 93
-8 我 本身 都 比較 喜歡 吃 原味
-program error prediction: 7
-
-3319_121.txt: Line 108
-4 10 % 服務費 我 是 覺得 付 得 蠻 值得 的 啦
-program error prediction: 7
-
 3304_22.txt: Line 58
 3 因為 上 一 次 來 吃 他們 的 咖哩 雞肉飯 覺得 很 好吃
 program error prediction: 7
@@ -2820,34 +304,6 @@ program did not classify it as category 7
 
 3304_22.txt: Line 69
 8 就是 因為 特別 喜歡 他們 的 咖哩 雞肉
-program error prediction: 7
-
-3319_122.txt: Line 79
-8 也 蠻 好吃 的
-program error prediction: 7
-
-3319_122.txt: Line 97
-8 其中 特別 喜歡 酪梨 、 鷹嘴豆 、 胡蘿蔔 和 裹糖 的 核桃
-program error prediction: 7
-
-3319_122.txt: Line 100
-2 但 就 份量 和 口味 我 覺得 相當 值得
-program error prediction: 7
-
-3319_122.txt: Line 112
-8 確實 是 不會 出錯 的 好吃 組合
-program error prediction: 7
-
-3319_122.txt: Line 133
-8 我 喜歡 配 著 其他 菜色 一起 享用
-program error prediction: 7
-
-3319_122.txt: Line 151
-8 以 食物 來 說 是 好吃 的 店
-program error prediction: 7
-
-3319_122.txt: Line 153
-8 有 吃到 豐富 的 蔬果 食材 這 點 很 開心
 program error prediction: 7
 
 3304_23.txt: Line 36
@@ -2878,34 +334,6 @@ program did not classify it as category 7
 7 感覺 很 驚喜 呢
 program did not classify it as category 7
 
-3319_124.txt: Line 34
-8 請 侍 酒 師 推薦 絕對 不會 失望 .
-program error prediction: 7
-
-3319_124.txt: Line 82
-8 但 這 天 讓 我 最 驚豔 的 昰 這 款 墨魚 麵包
-program error prediction: 7
-
-3319_124.txt: Line 131
-8 男友 說 相比 之下 他 比較 喜歡 這 款 濃湯
-program error prediction: 7
-
-3319_124.txt: Line 143
-8 我 真的 好 喜歡 laFESTA 的 義大利 餃
-program error prediction: 7
-
-3319_124.txt: Line 195
-8 這天 吃完 我 和 男友 兩 人 直接 將 這 間 列入 我們 在 台灣 最 喜歡 的 義大利 餐廳 XD
-program error prediction: 7
-
-3319_124.txt: Line 197
-1 真的 要 大推 維多 力亞 酒店 的 服務 人員 及 侍 酒 師 .
-program error prediction: 7
-
-3319_124.txt: Line 215
-8 就 開始 期待 會 在 哪 個 角落 遇見 好吃 的 東西
-program error prediction: 7
-
 3305_25.txt: Line 4
 8 圖文並茂 無 人物 好吃 部落格版 ： http  / / puddingann.pixnet.net/blog/post / 154723803
 program error prediction: 7
@@ -2921,22 +349,6 @@ program error prediction: 7
 3305_25.txt: Line 105
 5 很 喜歡 這 種 氣氛 好店
 program error prediction: 7
-
-3319_125.txt: Line 15
-8 我 還 蠻 喜歡 人 少 的 咖啡廳
-program error prediction: 7
-
-3319_125.txt: Line 28
-3 甜甜 的 很 好吃
-program error prediction: 7
-
-3320_126.txt: Line 22
-8 弟弟 的 同學 強力 大推 ＂ 大盛 豬排 ＂
-program error prediction: 7
-
-3320_126.txt: Line 60
-7 挺 不錯 的
-program did not classify it as category 7
 
 3305_27.txt: Line 14
 7 但 這 次 用餐 實在 有 嚴重 受騙 的 感覺
@@ -3022,20 +434,12 @@ program error prediction: 7
 8 早餐 有時候 喜歡 的 我 就 會 一連 吃 好幾 天
 program error prediction: 7
 
-3320_128.txt: Line 69
-7 我 的 愛
-program did not classify it as category 7
-
 3305_29.txt: Line 59
 3 好吃
 program error prediction: 7
 
 3305_29.txt: Line 84
 7 太 滿足 囉
-program did not classify it as category 7
-
-3320_129.txt: Line 35
-7 個 人 吃 不 太 習慣
 program did not classify it as category 7
 
 3305_31.txt: Line 21
@@ -3062,96 +466,12 @@ program error prediction: 7
 7 韓國 來 的 東西 我 自己 沒有 很 愛
 program did not classify it as category 7
 
-3320_132.txt: Line 47
-8 如果 喜歡 濃湯 的 朋友 可以 試試看
-program error prediction: 7
-
-3320_132.txt: Line 51
-8 如果 不 喜歡 濃湯 的
-program error prediction: 7
-
-3320_132.txt: Line 66
-8 喜歡 起 司 的 人 這邊 也 有 提供 很多 種 不同 口味 的 起 司
-program error prediction: 7
-
-3320_132.txt: Line 69
-7 實在 是 沒有 特別 的 感覺
-program did not classify it as category 7
-
-3320_132.txt: Line 85
-8 如果 你 真的 很 喜歡 酸溜溜 的 感覺 再 選 這 個 吧
-program error prediction: 7
-
-3320_132.txt: Line 102
-8 連 KC 這 種 不 喜歡 牛肉 的 人
-program error prediction: 7
-
-3320_132.txt: Line 104
-3 好鮮 美好 好吃 啊
-program error prediction: 7
-
-3320_132.txt: Line 109
-8 KC 覺得 美 福 的 甜點 真的 很 讓 人 驚豔
-program error prediction: 7
-
 3306_33.txt: Line 45
 3 個 人 覺得 兩 種 沾醬 都 很 好吃
 program error prediction: 7
 
 3306_33.txt: Line 61
 3 粒粒 分明 的 口感 我 還 蠻 喜歡 的
-program error prediction: 7
-
-3321_133.txt: Line 163
-7 的確 是 物 有所 值
-program did not classify it as category 7
-
-3321_133.txt: Line 175
-8 連 不 喜歡 南瓜 的 老公 都 搶過去 喝 了 二 口 呢
-program error prediction: 7
-
-3321_133.txt: Line 193
-8 老公 很 喜歡 搭配 的 香料飯
-program error prediction: 7
-
-3321_133.txt: Line 212
-3 薯條 非常 好吃
-program error prediction: 7
-
-3321_133.txt: Line 215
-8 是 我 最 喜歡 的 作法
-program error prediction: 7
-
-3321_133.txt: Line 216
-8 本 日 最 驚豔 - 白醬 海鮮 燉飯
-program error prediction: 7
-
-3321_133.txt: Line 225
-8 能 在 美式 餐廳 吃到 這麼 好吃 的 燉飯
-program error prediction: 7
-
-3321_133.txt: Line 245
-8 牛排 用 炸 的 其實 很 好吃
-program error prediction: 7
-
-3321_133.txt: Line 261
-8 以前 喜歡 吃 厚皮披蕯
-program error prediction: 7
-
-3321_133.txt: Line 264
-8 現在 吃 披蕯 都 喜歡 吃 薄 皮 的 啦
-program error prediction: 7
-
-3321_133.txt: Line 268
-8 我 跟 友人 們 都 覺得 很 好吃
-program error prediction: 7
-
-3321_133.txt: Line 271
-8 喜歡 重 口味 的 朋友 千萬 不要 錯過
-program error prediction: 7
-
-3321_133.txt: Line 282
-8 肯恩 可以 考慮 製作 蛋捲 前 詢問 客人 喜歡 的 熟度 做 調整
 program error prediction: 7
 
 3306_34.txt: Line 13
@@ -3162,68 +482,12 @@ program error prediction: 7
 7 黑虎 也 是 網路 上 大 推 的 選項 之 一
 program did not classify it as category 7
 
-3321_134.txt: Line 74
-8 配上 淋上 醬汁 與 洋蔥 熱騰騰 的 白飯 真的 是 相當 好吃 阿
-program error prediction: 7
-
-3321_134.txt: Line 75
-8 不過 值得 注意 的 是 這邊 的 丼
-program error prediction: 7
-
-3321_134.txt: Line 92
-8 雖然 不 好吃 啦
-program error prediction: 7
-
 3306_35.txt: Line 86
 3 單 吃 也 不會 覺得 乾澀 比 多 x 多 x 好吃 很多
 program error prediction: 7
 
 3306_35.txt: Line 94
 8 裡面 有 大 顆 花豆 平常 不 是 很 喜歡 甜滋滋 的 花豆
-program error prediction: 7
-
-3321_135.txt: Line 60
-8 不過 倒是 看到 其他 桌 的 大人 帶 著 小朋友 玩 的 很 開心
-program error prediction: 7
-
-3321_135.txt: Line 77
-8 當天 最 喜歡 的 是 啤酒
-program error prediction: 7
-
-3321_135.txt: Line 103
-7 我 個 人 不 是 很 愛
-program did not classify it as category 7
-
-3321_135.txt: Line 106
-7 吃起來 挺 不錯
-program did not classify it as category 7
-
-3321_135.txt: Line 113
-3 是 我 喜歡 炸 得 很 透 的 偏乾 口感
-program error prediction: 7
-
-3321_135.txt: Line 126
-8 我 是 很 喜歡 翅 小腿 的 人
-program error prediction: 7
-
-3321_135.txt: Line 137
-8 不過 值得 注意 的 是 炸雞 跟 薯條 別 吃 過量
-program error prediction: 7
-
-3321_135.txt: Line 195
-8 老公 特別 喜歡 烤 得 看 香脆 的 漢堡 麵包
-program error prediction: 7
-
-3321_135.txt: Line 215
-8 巧克力 麵包 偏 乾 不 好吃
-program error prediction: 7
-
-3321_135.txt: Line 216
-8 最 好吃 的 是 中間 的 棉花糖
-program error prediction: 7
-
-3321_135.txt: Line 234
-8 值得 一 嚐
 program error prediction: 7
 
 3306_37.txt: Line 41
@@ -3294,18 +558,6 @@ program error prediction: 7
 3 非常 好吃
 program error prediction: 7
 
-3321_137.txt: Line 76
-8 合適 喜歡 鮮奶 和 茶 組合
-program error prediction: 7
-
-3321_137.txt: Line 80
-8 算是 今天 吃起來 最 好吃 的
-program error prediction: 7
-
-3321_137.txt: Line 84
-8 超級 好吃
-program error prediction: 7
-
 3306_38.txt: Line 76
 3 好吃
 program error prediction: 7
@@ -3316,10 +568,6 @@ program error prediction: 7
 
 3306_38.txt: Line 106
 3 塞滿 了 蔥花 和 醬汁 感覺 還 蠻 好吃 的
-program error prediction: 7
-
-3321_138.txt: Line 9
-8 下班 愛 吃 串燒 的 我 聽說 天母 這 附近 有 間 好吃 的 串燒店
 program error prediction: 7
 
 3307_39.txt: Line 13
@@ -3346,30 +594,6 @@ program error prediction: 7
 8 就是 像 我 這 種 可愛 的 女孩 會 喜歡 的 酒阿
 program error prediction: 7
 
-3321_139.txt: Line 14
-8 但 也 一直 沒有 感覺 很 喜歡 的 店
-program error prediction: 7
-
-3321_139.txt: Line 111
-8 相較 之下 我 比較 喜歡 這 個 口味
-program error prediction: 7
-
-3321_139.txt: Line 163
-8 好吃 耶
-program error prediction: 7
-
-3321_139.txt: Line 164
-8 真的 很 好吃
-program error prediction: 7
-
-3321_139.txt: Line 171
-7 非常 推薦
-program did not classify it as category 7
-
-3321_139.txt: Line 200
-8 很 喜歡 的 一 間 小店
-program error prediction: 7
-
 3307_41.txt: Line 23
 3 民生 炒飯 、 小 茅屋 雖然 好吃
 program error prediction: 7
@@ -3386,44 +610,8 @@ program error prediction: 7
 3 延三 夜市 這 盤 鐵板 炒飯 好吃 到 心坎 裡
 program error prediction: 7
 
-3321_141.txt: Line 37
-8 花魚 好吃
-program error prediction: 7
-
 3307_42.txt: Line 82
 8 如果 你 也 同樣 喜歡 動物
-program error prediction: 7
-
-3321_142.txt: Line 14
-8 是 因為 上 次 Sheena 曾經 說 她 覺得 這裡 比 某 泰 式 連鎖 餐廳 還 要 好吃 很多
-program error prediction: 7
-
-3321_142.txt: Line 15
-8 而且 看看 菜單 還 有心 媽 喜歡 的 螃蟹
-program error prediction: 7
-
-3321_142.txt: Line 62
-3 我 很 喜歡 泰式 紅茶 的 茶香 與 煉乳 搭配 出 的 香 濃 滋味
-program error prediction: 7
-
-3321_142.txt: Line 78
-8 至少 我 覺得 比 在 泰國 吃 的 粒粒 分明 又 偏 乾 的 長米 喜歡 多 了 XD
-program error prediction: 7
-
-3321_142.txt: Line 84
-8 直接 吃 不配 飯 我 也 覺得 很 好吃
-program error prediction: 7
-
-3321_142.txt: Line 155
-8 這 是 我 今天 最 最 喜歡 的 一 道 一口氣 吃掉 三 顆
-program error prediction: 7
-
-3321_142.txt: Line 177
-8 是 目前 在 台灣 喝到 最 喜歡 的 泰式 酸辣湯
-program error prediction: 7
-
-3321_142.txt: Line 180
-8 曾經 在 泰國 到處 都 吃 得到 的 超 好吃 芒果 糯米
 program error prediction: 7
 
 3307_43.txt: Line 47
@@ -3441,14 +629,6 @@ program error prediction: 7
 3307_43.txt: Line 87
 3 ─ 小婷 看似 簡單 但 奶油 沾醬 非常 好吃
 program error prediction: 7
-
-3321_143.txt: Line 15
-8 這 次要 跟 大家 介紹 間 超 好吃 的 汕頭 炒麵
-program error prediction: 7
-
-3321_143.txt: Line 54
-7 幾乎 沒 得 挑剔
-program did not classify it as category 7
 
 3307_44.txt: Line 18
 3 看起來 真 好吃
@@ -3510,22 +690,6 @@ program error prediction: 7
 8 配菜 看起來 弄得 挺 好吃
 program error prediction: 7
 
-3322_144.txt: Line 33
-8 我 比較 喜歡 室 外 可以 看到 湖景 的 座位
-program error prediction: 7
-
-3322_144.txt: Line 82
-8 佐料 我 都 蠻 喜歡 的
-program error prediction: 7
-
-3322_144.txt: Line 108
-7 哭
-program did not classify it as category 7
-
-3322_144.txt: Line 112
-7 還可以 啦
-program did not classify it as category 7
-
 3308_45.txt: Line 16
 3 肉 真的 超 好吃 的
 program error prediction: 7
@@ -3542,40 +706,12 @@ program error prediction: 7
 8 如果 大家 想 吃 好吃 燒肉 的 話 非常 推薦 唷
 program error prediction: 7
 
-3322_145.txt: Line 112
-7 整體 搭配 起來 還 不錯
-program did not classify it as category 7
-
-3322_145.txt: Line 122
-7 對於 餐點 的 部分 我們 都 很 滿意
-program did not classify it as category 7
-
 3308_46.txt: Line 11
 8 一直 以來 都 很 喜歡 茶 餐廳
 program error prediction: 7
 
 3308_46.txt: Line 37
 8 亦 沒有 達到 個 人心 中 好吃 的 標準
-program error prediction: 7
-
-3322_146.txt: Line 35
-8 但 我 還是 最 喜歡 英記 的 鴛鴦
-program error prediction: 7
-
-3322_146.txt: Line 48
-8 比起來 當然 還是 翠華 的 好吃
-program error prediction: 7
-
-3322_146.txt: Line 52
-8 看起來 超 好吃 的
-program error prediction: 7
-
-3322_146.txt: Line 56
-8 我 不 是 很 喜歡 波記 的 環境
-program error prediction: 7
-
-3322_146.txt: Line 59
-8 最後 還是 覺得 茶水攤 最 好吃 啦
 program error prediction: 7
 
 3308_47.txt: Line 58
@@ -3597,14 +733,6 @@ program error prediction: 7
 3308_48.txt: Line 90
 8 讓 人 不管 要 排隊 多久 都 覺得 值得
 program error prediction: 7
-
-3322_148.txt: Line 24
-7 失落感 變得 明顯
-program did not classify it as category 7
-
-3322_148.txt: Line 55
-7 今晚 的 甜品 總算 讓 人 有 愉悅 的 心情
-program did not classify it as category 7
 
 3308_49.txt: Line 45
 8 很 好吃
@@ -3640,10 +768,6 @@ program error prediction: 7
 
 3308_49.txt: Line 79
 3 真 得 好吃
-program error prediction: 7
-
-3323_151.txt: Line 25
-8 我 喜歡 旁邊 那 罐 糖
 program error prediction: 7
 
 3309_51.txt: Line 18
@@ -3706,18 +830,6 @@ program did not classify it as category 7
 8 只 能 開心 的 大笑
 program error prediction: 7
 
-3324_154.txt: Line 29
-3 麵包 好吃
-program error prediction: 7
-
-3324_154.txt: Line 35
-3 也 很 喜歡
-program error prediction: 7
-
-3324_154.txt: Line 47
-3 義大利麵 算 好吃
-program error prediction: 7
-
 3309_55.txt: Line 57
 8 布雷克 還 滿 喜歡 店 內 木質 的 桌椅
 program error prediction: 7
@@ -3742,10 +854,6 @@ program error prediction: 7
 8 跟 柯 老闆 聊天 是 很 開心
 program error prediction: 7
 
-3324_155.txt: Line 52
-8 說不定 有的 人 就 喜歡 這 種 氛圍
-program error prediction: 7
-
 3309_56.txt: Line 17
 8 發現 好像 很多 店家 都 喜歡 這樣 的 設計
 program error prediction: 7
@@ -3762,16 +870,8 @@ program error prediction: 7
 3 份量 也 很多 雞肉 多汁 鮮美 超 好吃 的
 program error prediction: 7
 
-3324_156.txt: Line 31
-5 特別 喜歡 木桌 和 藤椅 的 搭配
-program error prediction: 7
-
 3309_57.txt: Line 83
 3 比 預期 的 還要 好吃
-program error prediction: 7
-
-3324_157.txt: Line 33
-3 是 好吃 的 布朗尼
 program error prediction: 7
 
 3309_58.txt: Line 57
@@ -3798,34 +898,6 @@ program error prediction: 7
 8 建議 想來 的 大家 可以 多 看看 餐點 走向 是 不 是 喜歡 的
 program error prediction: 7
 
-3324_158.txt: Line 11
-8 好吃 網誌版 ： http  / / heymedicine.pixnet.net/blog/post / 183275475 ---- ------- 這 天 來到 信義區 找 朋友 吃 商業 午餐
-program error prediction: 7
-
-3324_158.txt: Line 89
-8 想 試試 好吃 的 Tapas 還是 去 西班牙 餐廳 吧
-program error prediction: 7
-
-3324_158.txt: Line 91
-3 我 覺得 這 個 套餐 加 得 蠻 不 值得 的
-program error prediction: 7
-
-3324_158.txt: Line 104
-3 我 個 人 沒有 很 喜歡
-program error prediction: 7
-
-3324_158.txt: Line 138
-3 不 算 特別 驚豔 的 蛋糕
-program error prediction: 7
-
-3324_158.txt: Line 151
-8 這 點 我 很 喜歡
-program error prediction: 7
-
-3324_158.txt: Line 153
-3 老實說 我 沒有 特別 驚豔 的 感覺
-program error prediction: 7
-
 3310_59.txt: Line 48
 3 超級 好吃
 program error prediction: 7
@@ -3833,22 +905,6 @@ program error prediction: 7
 3310_59.txt: Line 51
 7 激推
 program did not classify it as category 7
-
-3324_159.txt: Line 77
-3 整體 非常 的 特別 又 好吃
-program error prediction: 7
-
-3324_159.txt: Line 79
-3 奶 蛋 的 味道 很 自然 好吃
-program error prediction: 7
-
-3324_159.txt: Line 135
-3 實在 是 好吃 又 很 到位
-program error prediction: 7
-
-3324_159.txt: Line 151
-8 如果 不 喜歡 吃 花俏 有加 配料 的 鬆餅
-program error prediction: 7
 
 3310_61.txt: Line 14
 7 是 我 最愛 也 最 推薦 的 中
@@ -3898,18 +954,6 @@ program did not classify it as category 7
 7 低於 我 的 期望
 program did not classify it as category 7
 
-3325_163.txt: Line 32
-8 整體 而言 這 是 一 家 值得 一 試 的 餐廳
-program error prediction: 7
-
-3325_163.txt: Line 59
-3 會 喜歡 這 道 料理
-program error prediction: 7
-
-3325_163.txt: Line 78
-3 值得 推薦
-program error prediction: 7
-
 3310_64.txt: Line 21
 8 很 喜歡 這 種 風格
 program error prediction: 7
@@ -3934,28 +978,12 @@ program error prediction: 7
 3 不 是 特別 好吃
 program error prediction: 7
 
-3325_165.txt: Line 39
-8 附近 的 越南店 做 的 都 還 比 這 好吃
-program error prediction: 7
-
-3325_165.txt: Line 42
-8 我 不 喜歡 吃 生食 所以 沒 吃
-program error prediction: 7
-
 3311_66.txt: Line 39
 8 個 人 比較 喜歡 嘉義 的 火 雞肉飯
 program error prediction: 7
 
 3311_66.txt: Line 44
 3 今天 吃到 的 餐 雖然 沒有 特別 好吃
-program error prediction: 7
-
-3326_166.txt: Line 85
-3 好吃 沒 話說
-program error prediction: 7
-
-3326_166.txt: Line 92
-8 喜歡 求新 求變 的 人
 program error prediction: 7
 
 3311_67.txt: Line 64
@@ -3972,30 +1000,6 @@ program error prediction: 7
 
 3311_67.txt: Line 147
 8 排骨 真的 好 好吃 歐 .... 天 啊
-program error prediction: 7
-
-3326_167.txt: Line 31
-8 朋友 說 香草 餡 他 不 喜歡
-program error prediction: 7
-
-3326_167.txt: Line 33
-3 我 很 喜歡 黑醋 栗
-program error prediction: 7
-
-3326_167.txt: Line 34
-8 但 其實 不 喜歡 花香 結合 甜點 的 味道
-program error prediction: 7
-
-3326_167.txt: Line 37
-3 不 喜歡 就 容易 放大 味道
-program error prediction: 7
-
-3326_167.txt: Line 41
-3 很 好吃
-program error prediction: 7
-
-3326_167.txt: Line 77
-3 非常 好吃 噢
 program error prediction: 7
 
 3311_68.txt: Line 48
@@ -4028,22 +1032,6 @@ program did not classify it as category 7
 
 3311_68.txt: Line 144
 3 好吃
-program error prediction: 7
-
-3326_168.txt: Line 8
-8 第一 次 拜訪 咖哩 娘 時 的 牛 咖哩 讓 我 覺得 這 咖哩 不 算 貴 而 值得 多 嘗試
-program error prediction: 7
-
-3326_168.txt: Line 31
-3 我 個 人 覺得 實在 不 是 那麼 值得
-program error prediction: 7
-
-3326_168.txt: Line 41
-3 好吃
-program error prediction: 7
-
-3326_168.txt: Line 66
-3 牛 、 雞 咖哩 的 表現 還是 值得 一 吃 的
 program error prediction: 7
 
 3311_69.txt: Line 13
@@ -4082,44 +1070,12 @@ program error prediction: 7
 5 真的 好 喜歡 這裡 的 環境 和 氣氛
 program error prediction: 7
 
-3326_169.txt: Line 9
-8 欣葉台菜 個 人 都 一直 很 喜歡
-program error prediction: 7
-
-3326_169.txt: Line 41
-3 很 鹹 香入味 的 好吃
-program error prediction: 7
-
-3326_169.txt: Line 43
-3 很 是 軟 Q 好吃
-program error prediction: 7
-
-3327_171.txt: Line 29
-8 排隊 吃 美食 不 是 我 喜歡 的 模式
-program error prediction: 7
-
 3311_72.txt: Line 61
 7 徹底 收服 當場 女生 的 心
 program did not classify it as category 7
 
 3311_72.txt: Line 71
 3,4 燉飯 好吃 歸 好吃 但 實在 不符 身價
-program error prediction: 7
-
-3327_172.txt: Line 19
-8 我們 很 喜歡 到 這 附近 吃吃
-program error prediction: 7
-
-3327_172.txt: Line 26
-8 商業 午餐 好吃 的 話
-program error prediction: 7
-
-3327_172.txt: Line 34
-3 朋友 說 好吃
-program error prediction: 7
-
-3327_172.txt: Line 36
-3 天丼 的 醬料 也 好吃
 program error prediction: 7
 
 3311_73.txt: Line 28
@@ -4140,38 +1096,6 @@ program error prediction: 7
 
 3311_73.txt: Line 86
 3 個 人 還 蠻 喜歡 濃郁 的 焦糖 口感
-program error prediction: 7
-
-3327_173.txt: Line 61
-3 沒 特別 喜歡 也 不 討厭
-program error prediction: 7
-
-3327_173.txt: Line 62
-8 可能 有的 人 就 喜歡 這 類 帶 點 特色 的 湯品
-program error prediction: 7
-
-3327_173.txt: Line 72
-8 那 當然 毫不 猶豫 就 是 " 好吃 "
-program error prediction: 7
-
-3327_173.txt: Line 75
-8 那 也 可以 說 它 是 " 好吃 " 或者 是 " 不錯 吃 "
-program error prediction: 7
-
-3327_173.txt: Line 76
-3 所以 我 會 覺得 這邊 牛排 吃起來 就是 屬於 相對 好吃 、 相對 不錯 吃 這樣子
-program error prediction: 7
-
-3327_173.txt: Line 80
-3 牛排 當然 是 好吃 的
-program error prediction: 7
-
-3327_173.txt: Line 98
-8 我 向來 喜歡 紐約客 的 嚼 感 和 軟筋
-program error prediction: 7
-
-3327_173.txt: Line 137
-8 從頭到尾 都 很 開心 的 和 他 女友 享用 餐點
 program error prediction: 7
 
 3312_74.txt: Line 13
@@ -4198,48 +1122,12 @@ program error prediction: 7
 7 白天 在 這 個 空間 吃飯 心情 會 很 好
 program did not classify it as category 7
 
-3328_174.txt: Line 7
-8 好吃 網誌版 ： http  / / heymedicine.pixnet.net/blog/post / 182541813
-program error prediction: 7
-
-3328_174.txt: Line 9
-8 這 次 很 開心 的 接到 廣 山居 的 邀請
-program error prediction: 7
-
-3328_174.txt: Line 53
-3 我 個 人 沒有 很 喜歡 他 的 肉質
-program error prediction: 7
-
-3328_174.txt: Line 95
-3 但 我 覺得 這 份 非常 好吃
-program error prediction: 7
-
-3328_174.txt: Line 136
-3 香檸 銀耳 露 最 喜歡 這 道
-program error prediction: 7
-
 3312_75.txt: Line 53
 7 喝 的 不 過癮
 program did not classify it as category 7
 
 3312_75.txt: Line 57
 8 都 會 覺得 是 家 有點 神奇 或是 值得 造訪 的 店家 呀
-program error prediction: 7
-
-3328_175.txt: Line 1
-8 cutewen 517 ( 天天 要 開心 )
-program error prediction: 7
-
-3328_175.txt: Line 13
-8 2013 十 大 好吃 炒飯 選拔 第三
-program error prediction: 7
-
-3328_175.txt: Line 35
-8 是 我 喜歡 的 蛋花 樣式
-program error prediction: 7
-
-3328_175.txt: Line 42
-8 喜歡 美食 / / 喜歡 烘培 / / 喜歡 旅遊 / / 喜歡 與 你們 分享 ...
 program error prediction: 7
 
 3312_76.txt: Line 17
@@ -4258,66 +1146,6 @@ program error prediction: 7
 3 一樣 好吃
 program error prediction: 7
 
-3328_176.txt: Line 13
-8 是 很 開心 啦
-program error prediction: 7
-
-3328_176.txt: Line 15
-8 前 幾 場 東西 雖然 好吃
-program error prediction: 7
-
-3328_176.txt: Line 24
-3 加上 東西 大部份 真的 好吃
-program error prediction: 7
-
-3328_176.txt: Line 33
-8 當天 覺得 好吃 的 菜色
-program error prediction: 7
-
-3328_176.txt: Line 34
-8 至於 其它 沒 講到 的 不 是 不 好吃
-program error prediction: 7
-
-3328_176.txt: Line 35
-8 只 是 自己 不 喜歡 而已
-program error prediction: 7
-
-3328_176.txt: Line 36
-8 本身 就 不 太 喜歡 雞胸肉 和 大
-program error prediction: 7
-
-3328_176.txt: Line 41
-8 本 上 每 一 種 都 好吃 又 到位
-program error prediction: 7
-
-3328_176.txt: Line 44
-8 只 有 鴨 好吃
-program error prediction: 7
-
-3328_176.txt: Line 45
-8 有的 只有 雞 好吃 這樣
-program error prediction: 7
-
-3328_176.txt: Line 56
-3 就 好吃
-program error prediction: 7
-
-3328_176.txt: Line 67
-3 真是 好吃
-program error prediction: 7
-
-3328_176.txt: Line 70
-3 最 喜歡 炒類
-program error prediction: 7
-
-3328_176.txt: Line 75
-3 愛 吃 海鮮 的 小弟 我 吃 的 很 開心 哩
-program error prediction: 7
-
-3328_176.txt: Line 103
-3 喜歡
-program error prediction: 7
-
 3312_77.txt: Line 110
 8 是 我 很 喜歡 的 溫泉 蛋
 program error prediction: 7
@@ -4334,44 +1162,8 @@ program error prediction: 7
 3 Daisy 覺得 拉麵 的 配料 部分 都 很 好吃
 program error prediction: 7
 
-3328_177.txt: Line 40
-3 沒有 好吃 的 奶油
-program error prediction: 7
-
-3328_177.txt: Line 51
-8 值得 感恩
-program error prediction: 7
-
 3312_78.txt: Line 46
 8 spago 算是 我們 挺 喜歡 的 店家
-program error prediction: 7
-
-3328_178.txt: Line 22
-8 還 蠻 喜歡 這 種 感覺 的
-program error prediction: 7
-
-3328_178.txt: Line 38
-8 有 些 看起來 蠻 好吃 的 料理
-program error prediction: 7
-
-3328_178.txt: Line 60
-3 簡單 好吃 也 很 有 創意
-program error prediction: 7
-
-3328_178.txt: Line 63
-8 但 吃 過 的 朋友 們 都 說 好吃
-program error prediction: 7
-
-3328_178.txt: Line 74
-8 我 本來 就 蠻 喜歡 吃 軟骨
-program error prediction: 7
-
-3328_178.txt: Line 79
-3 淋上 檸檬 會 更 好吃
-program error prediction: 7
-
-3328_178.txt: Line 89
-8 我 個 人 是 比較 喜歡 雞 軟骨 那 道
 program error prediction: 7
 
 3312_79.txt: Line 11
@@ -4380,38 +1172,6 @@ program error prediction: 7
 
 3312_79.txt: Line 32
 8 哪 家 的 餐飲 好吃 呢
-program error prediction: 7
-
-3328_179.txt: Line 23
-5 保持 讓 空間 寬敞 這 點 值得 讚許
-program error prediction: 7
-
-3328_179.txt: Line 39
-3 好吃 不過 略 顯 平淡
-program error prediction: 7
-
-3328_179.txt: Line 41
-3 大推
-program error prediction: 7
-
-3328_179.txt: Line 44
-3 清爽 又 好吃
-program error prediction: 7
-
-3328_179.txt: Line 47
-3 熟度 約 八 、 九 分 才 Q 彈 好吃
-program error prediction: 7
-
-3328_179.txt: Line 48
-3 玉子 燒 也 是 大推 的 一 道 菜
-program error prediction: 7
-
-3328_179.txt: Line 66
-8 赤綠 完全 喚醒 她 記憶 中 的 好吃 的 肥 五 花 豬肉 鍋
-program error prediction: 7
-
-3328_179.txt: Line 78
-8 這 家 餐廳 我 會 推薦給 喜歡 道地 日本味 以及 有 自信 能 控制 厚 切 黑 豬肉 的 饕客 們
 program error prediction: 7
 
 3313_81.txt: Line 23
@@ -4430,16 +1190,8 @@ program error prediction: 7
 8 大推 這 道 雖然 看起來 很 普通
 program error prediction: 7
 
-3329_182.txt: Line 37
-8 現場 很多 人 都 是 去 拿 胡椒 和 七 味 粉 自行 調配 自己 喜歡 的 味道
-program error prediction: 7
-
 3313_83.txt: Line 68
 8 它 是 間 值得 回訪 的 店家
-program error prediction: 7
-
-3329_183.txt: Line 43
-8 我 本身 很 喜歡 檸檬 冬瓜 的 味道
 program error prediction: 7
 
 3313_84.txt: Line 27
@@ -4452,22 +1204,6 @@ program error prediction: 7
 
 3313_84.txt: Line 68
 3 趁熱 塗抹 超 好吃 的
-program error prediction: 7
-
-3329_184.txt: Line 12
-8 很 喜歡 在 同 一 個 地帶 週邊 收集 、 發掘 多 間 小店
-program error prediction: 7
-
-3329_184.txt: Line 26
-8 讓 我 好生 失望
-program error prediction: 7
-
-3329_184.txt: Line 44
-3 簡餐 好吃 歸 好吃
-program error prediction: 7
-
-3329_184.txt: Line 61
-3 黑糖 燕麥 也 很 好吃
 program error prediction: 7
 
 3313_85.txt: Line 35
@@ -4498,18 +1234,6 @@ program error prediction: 7
 7 但是 吃到 肖 想 很 久 的 食物 真的 覺得 很 滿足 啊
 program did not classify it as category 7
 
-3330_187.txt: Line 134
-8 如果 是 喜歡 奶酪類 的 人
-program error prediction: 7
-
-3330_187.txt: Line 145
-3 我 超 喜歡
-program error prediction: 7
-
-3330_187.txt: Line 149
-8 好吃 、 好玩 、 又 健康 的 地方
-program error prediction: 7
-
 3313_88.txt: Line 2
 8 [ 食記 ] 台北 文山區 - 動物誌 好吃 蔬食 芝麻 豆腐堡
 program error prediction: 7
@@ -4517,26 +1241,6 @@ program error prediction: 7
 3313_88.txt: Line 83
 7 推薦
 program did not classify it as category 7
-
-3330_188.txt: Line 25
-3 剛 入口 有點 失望
-program error prediction: 7
-
-3330_188.txt: Line 26
-3 味道 並 不 令 人 驚豔
-program error prediction: 7
-
-3330_188.txt: Line 28
-3 吃到 後來 喜歡 底層 扎實 的 派皮
-program error prediction: 7
-
-3330_188.txt: Line 31
-3 非常 推薦給 不 喜歡 吃 太 甜 的 女孩兒
-program error prediction: 7
-
-3330_188.txt: Line 54
-8 最 喜歡 MAISONGOURMANDE 吃吃 喝喝 講求 天然 食材
-program error prediction: 7
 
 3313_89.txt: Line 54
 3 老實說 我 比較 喜歡 大廚 挑 的 配菜
@@ -4566,38 +1270,6 @@ program error prediction: 7
 3 不過 還是 沒有 沙拉 來得 令 人 喜歡
 program error prediction: 7
 
-3331_189.txt: Line 68
-2 我 很 喜歡 生 蛋 拌生 牛肉 ＄ ３５０ 我 鼓起 了 非常 大 的 勇氣 點 了 這 個
-program error prediction: 7
-
-3331_189.txt: Line 71
-8 完全 生 的 牛肉 對 我 來 說 仍然 是 非常 大 的 挑戰 阿阿 阿 一 旁 的 服務生 再三 用 生命 保證 真的 很 好吃 之後 才 點 XD 將 澳洲 和 牛 切成 細條狀
-program error prediction: 7
-
-3331_189.txt: Line 83
-3 還 真的 有 這麼 一點 像 在 吃 鮭魚 生魚片 我 喜歡 耶
-program error prediction: 7
-
-3331_189.txt: Line 85
-2 不會 讓 你 失望 的 厚 切 上 等 鹽味 牛 舌 ＄ ４３５ 這裡 的 牛 舌 有 分成 幾 種 不同 的 等級 與 價位
-program error prediction: 7
-
-3331_189.txt: Line 90
-3 第一 次 讓 我 有 紮紮實實 真的 在 吃 牛 舌 的 快感 我 立馬 講出 ： 太 好吃 了
-program error prediction: 7
-
-3331_189.txt: Line 91
-8 結果 全 店 的 服務 人員 也 一起 用 日文 複 述 了 一 遍 ： 太 好吃 了
-program error prediction: 7
-
-3331_189.txt: Line 128
-3,4 搭配 現 磨 芥末 烤 過後 Ｑ 彈 微 脆 相當 好吃 當天 主持人 看到 我 在 拍照 所以 有 跑來 問 我 幾 句 話 深怕 被 剪掉 所以 放 一 張 心媽 的 側 拍照 以 此 紀念 XDDD 好 奇妙 的 經驗 噢 哈 哈哈 FUTAGO 特製 甜點 ＄ ７０ 最後 的 甜點 是 香草 冰淇淋 淋 上 優格
-program error prediction: 7
-
-3331_189.txt: Line 139
-8 但是 不管 是 店 內 或是 桌 邊 服務 都 超讚 很 值得 來 朝聖 插 旗子 的 一 間 店
-program error prediction: 7
-
 3314_91.txt: Line 51
 3 混 著 海鹽 或 獨門 醬汁 一起 入口 更 好吃
 program error prediction: 7
@@ -4616,22 +1288,6 @@ program error prediction: 7
 
 3314_91.txt: Line 86
 5 後記 ： 1 . 喜歡 寧靜 的 用餐 環境
-program error prediction: 7
-
-3332_191.txt: Line 60
-8 看 了 就 很 開心
-program error prediction: 7
-
-3332_191.txt: Line 67
-8 我們 每 次 吃 鍋 都 喜歡 吃 泡麵
-program error prediction: 7
-
-3332_191.txt: Line 69
-8 但 真的 很 好吃 啊
-program error prediction: 7
-
-3332_191.txt: Line 72
-8 喜歡 嚐鮮 的 朋友 可以 揪 人 去 試試
 program error prediction: 7
 
 3314_92.txt: Line 26
@@ -4654,56 +1310,8 @@ program did not classify it as category 7
 7 外加 因為 太 氣 了 ， 現場 都 要 氣飽 了 也 不 想 再 多 吃 什麼 東西
 program did not classify it as category 7
 
-3332_193.txt: Line 34
-5 配合 渡假 風情 的 藤編椅 我 也 很 喜歡
-program error prediction: 7
-
-3332_193.txt: Line 54
-3 一 球 香草 一 球 巧克力 的 冰淇淋 都 很 好吃
-program error prediction: 7
-
-3332_193.txt: Line 62
-5 唯一 我 和 老公 非常 不 喜歡 的 一點 是 店 內 冷氣 冷 到 好 可怕 並 不 是 很 舒服 的 氣溫
-program error prediction: 7
-
-3332_194.txt: Line 2
-8 [ 食記 ] 台北 天吉屋新 菜單 比 想像 中 好吃 很多 ! !
-program error prediction: 7
-
-3332_194.txt: Line 30
-3 超 喜歡
-program error prediction: 7
-
-3332_194.txt: Line 32
-3 滿 喜歡 天 吉屋 的 沙拉
-program error prediction: 7
-
-3332_194.txt: Line 36
-3 屋 的 沙拉 簡單 好吃
-program error prediction: 7
-
-3332_194.txt: Line 43
-3 總之 我 喜歡 這 個 刀 工 的 小 細節
-program error prediction: 7
-
-3332_194.txt: Line 54
-3 但 配餐 炸 物 我們 一致 認為 好吃
-program error prediction: 7
-
-3332_194.txt: Line 87
-3 不得不 說 他們 的 炸 真的 好吃 的 沒 話說
-program error prediction: 7
-
-3332_194.txt: Line 103
-3 就是 想 說 他們 東西 都 好吃 的 話 茄子 應
-program error prediction: 7
-
 3314_95.txt: Line 24
 8 值得 一 提 的 是 位於 大安 旗艦店 在 下午茶 的 熱門 時段
-program error prediction: 7
-
-3332_195.txt: Line 53
-3 鬆餅 剛 做好 的 時候 熱熱 的 滿 好吃
 program error prediction: 7
 
 3314_96.txt: Line 2
@@ -4724,38 +1332,6 @@ program error prediction: 7
 
 3314_96.txt: Line 64
 8 山雞王 好吃 雞肉
-program error prediction: 7
-
-3332_196.txt: Line 50
-3 單獨 吃 的 話 是 好吃 啦
-program error prediction: 7
-
-3332_196.txt: Line 73
-8 我 比較 喜歡 吃 切 得 稍微 薄 一點 的 那 種
-program error prediction: 7
-
-3332_196.txt: Line 76
-2 是 料 多 實在 值得 點 的 哦
-program error prediction: 7
-
-3332_196.txt: Line 83
-8 誰 說 一定 要 排隊 的 店 才 是 好吃 的 阿
-program error prediction: 7
-
-3332_196.txt: Line 87
-8 免 排隊 又 好吃 的 店 阿阿阿阿 阿阿阿阿
-program error prediction: 7
-
-3332_197.txt: Line 37
-8 我 喜歡 倚 窗 的 座位
-program error prediction: 7
-
-3332_197.txt: Line 71
-3 突然 補 一 句 說 ： 它們 家 的 法式 吐司 很 好吃 呦
-program error prediction: 7
-
-3332_197.txt: Line 123
-8 算是 間 值得 推薦 的 餐廳 ：
 program error prediction: 7
 
 3315_98.txt: Line 19
@@ -4792,18 +1368,6 @@ program error prediction: 7
 
 3315_99.txt: Line 67
 3 粽子 還 是 包肉 的 比較 好吃 呀
-program error prediction: 7
-
-3333_199.txt: Line 78
-3 入味 即使 不 沾醬 也 很 好吃
-program error prediction: 7
-
-3333_199.txt: Line 88
-8 不 是 我 喜歡 的
-program error prediction: 7
-
-3333_199.txt: Line 120
-3 好吃
 program error prediction: 7
 
 3315_101.txt: Line 66
@@ -5951,6 +2515,6 @@ program error prediction: 7
 program error prediction: 7
 
 Test: category 7
-precision: 0.11064
-recall: 0.42021
-F1: 0.17517
+precision: 0.11913
+recall: 0.40571
+F1: 0.18418
