@@ -26,10 +26,6 @@ program did not classify it as category 6
 6 政大 書城 旁 的 巷子 裡 或是 瑪亞 婚紗 遠傳 旁 巷子 & gt
 program did not classify it as category 6
 
-3321_140.txt: Line 94
-6 關渡 捷運站 有 接駁 公車 進北 藝
-program did not classify it as category 6
-
 3325_160.txt: Line 16
 6 太 鼓 判 位於 內湖線 的 葫洲站 附近
 program did not classify it as category 6
@@ -44,5 +40,5 @@ program did not classify it as category 6
 
 Test: category 6
 precision: 1.00000
-recall: 0.71795
-F1: 0.83582
+recall: 0.74359
+F1: 0.85294

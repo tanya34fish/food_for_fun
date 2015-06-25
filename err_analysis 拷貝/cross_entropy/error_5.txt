@@ -146,10 +146,6 @@ program did not classify it as category 5
 8 內 餡 是 焦糖 肉桂 風味
 program error prediction: 5
 
-3315_100.txt: Line 330
-5 另外 一 區 的 空間 跟 主廳 差不多
-program did not classify it as category 5
-
 3315_100.txt: Line 331
 5 但是 就 沒有 那麼 華麗 的 水晶 大 吊燈 了
 program did not classify it as category 5
@@ -176,10 +172,6 @@ program did not classify it as category 5
 
 3318_120.txt: Line 26
 5 特地 在 桌面 鋪上 紅白 格紋 的 桌巾
-program did not classify it as category 5
-
-3318_120.txt: Line 28
-5 以及 歐洲 家庭 親切 溫馨 的 氣氛
 program did not classify it as category 5
 
 3318_120.txt: Line 33
@@ -246,16 +238,16 @@ program did not classify it as category 5
 5 當然 一定 會 有的 小 吧台 邊 邊 可以 座
 program did not classify it as category 5
 
+3321_140.txt: Line 84
+8 luguocaf é 爐鍋 咖啡 @ 台南 絕對 空間
+program error prediction: 5
+
 3325_160.txt: Line 32
 8 我們 大概 17  50 分 就 到 店 門口 了
 program error prediction: 5
 
 3325_160.txt: Line 40
 5 桌椅 多 為 木頭 樣式 的
-program did not classify it as category 5
-
-3325_160.txt: Line 41
-5 頗 有 懷舊 的 氣氛
 program did not classify it as category 5
 
 3325_160.txt: Line 42
@@ -269,10 +261,6 @@ program error prediction: 5
 3325_160.txt: Line 139
 8 其他 直接 跟 餐廳 內 的 店員點 就 可以 了
 program error prediction: 5
-
-3325_160.txt: Line 171
-5 地方 也 頗 有 氣氛
-program did not classify it as category 5
 
 3325_160.txt: Line 174
 8 雖然 是 要 排隊 的 店
@@ -331,6 +319,6 @@ program error prediction: 5
 program did not classify it as category 5
 
 Test: category 5
-precision: 0.43478
-recall: 0.25974
-F1: 0.32520
+precision: 0.47059
+recall: 0.31169
+F1: 0.37500

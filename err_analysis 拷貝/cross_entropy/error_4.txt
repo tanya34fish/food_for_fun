@@ -14,10 +14,6 @@ program did not classify it as category 4
 4 比起 一般 要 加價 50 - 100 低消 的 店家 真是 划算 多 了
 program did not classify it as category 4
 
-3312_80.txt: Line 36
-4 算起來 每 人 加 150 就 可以 享受到 湯
-program did not classify it as category 4
-
 3312_80.txt: Line 73
 8 焗烤 南瓜 蕈菇 嫩 雞麵 $ 208
 program error prediction: 4
@@ -75,6 +71,6 @@ program did not classify it as category 4
 program did not classify it as category 4
 
 Test: category 4
-precision: 0.97015
-recall: 0.79268
-F1: 0.87248
+precision: 0.97059
+recall: 0.80488
+F1: 0.88000

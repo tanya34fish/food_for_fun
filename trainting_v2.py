@@ -17,7 +17,7 @@ def get_category_im(c,method):
 
 def test(category,method):
     im_word,im_weight = get_category_im(category, method)
-    threshold = 8#17
+    threshold = 10
     dir = 'training/training_merge/'
     err_dir = 'err_analysis/%s' %method
     real_ans = 0
@@ -32,7 +32,7 @@ def test(category,method):
         for file in glob.glob(dir + '*_' + str(file_idx + 1) +'.txt'):
             path, input = os.path.split(file)
             idx = int(input.split('_')[1].split('.')[0])
-            if idx %10 != 0:
+            if idx %10 == 0:
                 continue
             with open(file, 'r') as f:
                 #print file

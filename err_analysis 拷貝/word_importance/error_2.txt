@@ -62,13 +62,9 @@ program did not classify it as category 2
 2 後來 她 食量 小吃 不 完 .. 所以 打包 ...
 program did not classify it as category 2
 
-3315_100.txt: Line 266
-2,3 很 迷你 一 個 吃下去 還 會 覺得 回味 無窮
-program did not classify it as category 2
-
-3315_100.txt: Line 312
-2 甜點 都 好 迷你 精緻
-program did not classify it as category 2
+3315_100.txt: Line 84
+8 兒 站 在 櫃台 後面 都 顯得 好 迷你 了
+program error prediction: 2
 
 3318_120.txt: Line 32
 2 菜餚 精緻 美味 也 能 吃 得 飽
@@ -86,11 +82,15 @@ program did not classify it as category 2
 2 雖然 醬料 不 是 很多
 program did not classify it as category 2
 
+3333_200.txt: Line 23
+8 不過 迷你 的 好 可愛
+program error prediction: 2
+
 3333_200.txt: Line 97
 7 相當 推薦 沒有 嘗試 過 俄羅斯 料 裡 的 人 可以 來 嚐嚐 看
 program error prediction: 2
 
 Test: category 2
-precision: 0.76471
-recall: 0.40625
-F1: 0.53061
+precision: 0.71429
+recall: 0.46875
+F1: 0.56604

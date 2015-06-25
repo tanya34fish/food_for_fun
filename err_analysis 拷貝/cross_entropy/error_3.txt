@@ -1,7 +1,3 @@
-3303_10.txt: Line 26
-3 上桌 後 便 傳來 濃郁 起司 香
-program did not classify it as category 3
-
 3303_10.txt: Line 46
 3 而是 有點 微 酸
 program did not classify it as category 3
@@ -101,6 +97,10 @@ program did not classify it as category 3
 3310_60.txt: Line 37
 3 小菜 部分 一點 都 不 馬虎
 program did not classify it as category 3
+
+3310_60.txt: Line 64
+8 滷 汁 是 偏 咖啡色 帶 橘色 的
+program error prediction: 3
 
 3310_60.txt: Line 71
 3 不過 這 道 台灣 的 平民 美食 真的 是 很 讚
@@ -218,6 +218,10 @@ program did not classify it as category 3
 3 香料 與 柑橘 香
 program did not classify it as category 3
 
+3315_100.txt: Line 182
+8 濃郁 的 香料 香
+program error prediction: 3
+
 3315_100.txt: Line 195
 3 這樣 喝 起 茶 來 感覺 更 優雅 了 呢
 program did not classify it as category 3
@@ -252,10 +256,6 @@ program did not classify it as category 3
 
 3318_120.txt: Line 99
 3 泡沫 細微 滑 順 挺 不 賴
-program did not classify it as category 3
-
-3318_120.txt: Line 102
-3 看似 混濁 的 酒體 含 著 濃郁 香氣
 program did not classify it as category 3
 
 3318_120.txt: Line 106
@@ -354,10 +354,6 @@ program did not classify it as category 3
 3 有 彈性 又 不會 過 硬
 program did not classify it as category 3
 
-3323_150.txt: Line 48
-3 因此 肉質 較 瘦 且 偏 乾
-program did not classify it as category 3
-
 3323_150.txt: Line 53
 3 咖哩 味偏 淡
 program did not classify it as category 3
@@ -388,10 +384,6 @@ program did not classify it as category 3
 
 3323_150.txt: Line 66
 3 酸香 而 不 澀
-program did not classify it as category 3
-
-3323_150.txt: Line 68
-3 香草 冰淇淋 奶香 濃郁
 program did not classify it as category 3
 
 3323_150.txt: Line 69
@@ -626,10 +618,6 @@ program did not classify it as category 3
 3 將 伴 著 洋蔥 與 香菇 的 牛肉 覆蓋 在 厚實 的 薯泥 上
 program did not classify it as category 3
 
-3333_200.txt: Line 59
-3 再 淋 上 加入 酸奶 調理 過 的 濃郁 醬汁
-program did not classify it as category 3
-
 3333_200.txt: Line 60
 3 牛肉 燉 的 軟嫩
 program did not classify it as category 3
@@ -699,6 +687,6 @@ program did not classify it as category 3
 program did not classify it as category 3
 
 Test: category 3
-precision: 0.91250
-recall: 0.47557
-F1: 0.62527
+precision: 0.90419
+recall: 0.49186
+F1: 0.63713
