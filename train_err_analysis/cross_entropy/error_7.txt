@@ -1,0 +1,1424 @@
+3301_1.txt: Line 15
+7 開心
+program did not classify it as category 7
+
+3301_1.txt: Line 26
+7 迷 有 想像 中 的 讓 人 驚豔
+program did not classify it as category 7
+
+3304_21.txt: Line 70
+7 不過 最 讓 人 驚豔 的 還是 這 個 漢堡 排
+program did not classify it as category 7
+
+3304_21.txt: Line 74
+7 咬 在 嘴 裡 可是 超 有 滿足感 的
+program did not classify it as category 7
+
+3304_21.txt: Line 76
+7 大 推薦
+program did not classify it as category 7
+
+3304_21.txt: Line 103
+7 也 算是 一 道 讓 我 驚豔 、 且 回味 不已 的 Brunch 了
+program did not classify it as category 7
+
+3305_31.txt: Line 30
+7 真的 好 貼心
+program did not classify it as category 7
+
+3307_41.txt: Line 24
+7 但 對 我 而言 稱不上 驚艷
+program did not classify it as category 7
+
+3309_51.txt: Line 18
+7 就是 一 個 輕鬆 愉快 的 周末 行程 啦
+program did not classify it as category 7
+
+3309_51.txt: Line 41
+7 讚
+program did not classify it as category 7
+
+3310_61.txt: Line 14
+7 是 我 最愛 也 最 推薦 的 中
+program did not classify it as category 7
+
+3310_61.txt: Line 33
+7 好 誘人 阿
+program did not classify it as category 7
+
+3310_61.txt: Line 42
+7 直 是 完美 阿
+program did not classify it as category 7
+
+3313_81.txt: Line 33
+7 真的 不 是 蓋 的
+program did not classify it as category 7
+
+3317_111.txt: Line 13
+7 知味房 在 東區 可是 有 多 年 的 歷史 了
+program did not classify it as category 7
+
+3317_111.txt: Line 123
+7 會 想 來 消費
+program did not classify it as category 7
+
+3319_121.txt: Line 70
+7 我 蠻 喜歡 這 個 鬆餅塔 整體 的 口感
+program did not classify it as category 7
+
+3319_121.txt: Line 90
+7 好 吃好吃好 好吃
+program did not classify it as category 7
+
+3315_101.txt: Line 64
+7 吃完 後路 芭 和 溫蒂 都 蠻 喜歡 這 家 店 的
+program did not classify it as category 7
+
+3315_101.txt: Line 67
+7 很 推薦 住 在 附近 或是 路過 的 人 一定 要 來 嘗嘗
+program did not classify it as category 7
+
+3301_2.txt: Line 20
+7 那 時候 覺得 真的 是 驚為天人
+program did not classify it as category 7
+
+3301_2.txt: Line 33
+7 Ｒ 先生 一 看到 就 一直 抨擊 這 份 成本 一定 超 少
+program did not classify it as category 7
+
+3303_12.txt: Line 39
+7 真的 是 一 種 享受
+program did not classify it as category 7
+
+3303_12.txt: Line 41
+7 這 絕對 是 一 到 佳餚
+program did not classify it as category 7
+
+3303_12.txt: Line 42
+7 不過 可能 還 不 到 令 人 驚艷 的 程度
+program did not classify it as category 7
+
+3303_12.txt: Line 49
+7 大 推薦
+program did not classify it as category 7
+
+3303_12.txt: Line 70
+7 所以 有點 殘 念
+program did not classify it as category 7
+
+3303_12.txt: Line 73
+7 不錯
+program did not classify it as category 7
+
+3304_22.txt: Line 65
+7 我 超 愛
+program did not classify it as category 7
+
+3305_32.txt: Line 74
+7 韓國 來 的 東西 我 自己 沒有 很 愛
+program did not classify it as category 7
+
+3309_52.txt: Line 87
+7 它 還 沒有 讓 我 驚艷
+program did not classify it as category 7
+
+3310_62.txt: Line 29
+7 普通
+program did not classify it as category 7
+
+3310_62.txt: Line 100
+7 也 還 不錯
+program did not classify it as category 7
+
+3311_72.txt: Line 61
+7 徹底 收服 當場 女生 的 心
+program did not classify it as category 7
+
+3313_82.txt: Line 41
+8 大推 這 道 雖然 看起來 很 普通
+program error prediction: 7
+
+3314_92.txt: Line 102
+7 還是 不會 吸引人 想 特地 去 吃
+program did not classify it as category 7
+
+3320_132.txt: Line 69
+7 實在 是 沒有 特別 的 感覺
+program did not classify it as category 7
+
+3321_142.txt: Line 123
+7 直 說 好 好吃 還 要 為了 它 再 來
+program did not classify it as category 7
+
+3315_102.txt: Line 55
+7 但 還是 好吃
+program did not classify it as category 7
+
+3315_102.txt: Line 81
+7 整體 算 不錯
+program did not classify it as category 7
+
+3303_13.txt: Line 14
+6,7 溫德 德式 烘焙 餐館 ． 一 級 棒 的 德式 餐點 在 大安區 捷運 國父 紀念館 站 的 巷子 裡
+program did not classify it as category 7
+
+3303_13.txt: Line 91
+7 就 讓 人 覺得 物超所質
+program did not classify it as category 7
+
+3303_13.txt: Line 127
+7 真的 是 很 不錯 的 一 道 餐點
+program did not classify it as category 7
+
+3303_13.txt: Line 146
+7 搭配 起來 真的 讓 人 欲罷不能
+program did not classify it as category 7
+
+3307_43.txt: Line 43
+7 介紹 -- 我 非常 喜歡 這 道 麵
+program did not classify it as category 7
+
+3307_43.txt: Line 73
+7 真的 讓 我 驚喜
+program did not classify it as category 7
+
+3309_53.txt: Line 30
+7 但 感覺 不錯
+program did not classify it as category 7
+
+3309_53.txt: Line 44
+7 料理 還 算 特別
+program did not classify it as category 7
+
+3309_53.txt: Line 77
+7 表現 不 俗
+program did not classify it as category 7
+
+3310_63.txt: Line 39
+7 我 不怎麼 喜愛
+program did not classify it as category 7
+
+3310_63.txt: Line 76
+7 低於 我 的 期望
+program did not classify it as category 7
+
+3311_73.txt: Line 57
+7 真的 推薦
+program did not classify it as category 7
+
+3314_93.txt: Line 71
+7 這 點 比起 前面 幾 點 是 最 讓 人 生氣 的 ，
+program did not classify it as category 7
+
+3314_93.txt: Line 75
+7 這 句 話 徹底 把 我 惹火
+program did not classify it as category 7
+
+3321_133.txt: Line 163
+7 的確 是 物 有所 值
+program did not classify it as category 7
+
+3321_133.txt: Line 195
+7 特別 又 好吃
+program did not classify it as category 7
+
+3321_143.txt: Line 27
+7 真 得 好 好吃
+program did not classify it as category 7
+
+3321_143.txt: Line 50
+7 超 好吃 推薦
+program did not classify it as category 7
+
+3321_143.txt: Line 53
+7 東西 又 好吃
+program did not classify it as category 7
+
+3321_143.txt: Line 54
+7 幾乎 沒 得 挑剔
+program did not classify it as category 7
+
+3315_103.txt: Line 62
+7 確實 好吃
+program did not classify it as category 7
+
+3315_103.txt: Line 71
+7 很 放鬆
+program did not classify it as category 7
+
+3301_4.txt: Line 36
+7 有點 可惜
+program did not classify it as category 7
+
+3303_14.txt: Line 45
+7 這 家 店 的 甜點 倒是 真的 滿 值得 推薦 的 呢
+program did not classify it as category 7
+
+3304_24.txt: Line 29
+7 但 聽到 預訂 就 感覺 是 非常 厲害
+program did not classify it as category 7
+
+3304_24.txt: Line 48
+7 感覺 很 驚喜 呢
+program did not classify it as category 7
+
+3315_104.txt: Line 50
+8 大推
+program error prediction: 7
+
+3315_104.txt: Line 67
+7 好吃 又 實惠
+program did not classify it as category 7
+
+3306_34.txt: Line 49
+7 黑虎 也 是 網路 上 大 推 的 選項 之 一
+program did not classify it as category 7
+
+3307_44.txt: Line 28
+7 大 推 他們 粉肝
+program did not classify it as category 7
+
+3307_44.txt: Line 65
+7 讓 我 好 傷心
+program did not classify it as category 7
+
+3310_64.txt: Line 41
+7 我們 都 很 喜歡
+program did not classify it as category 7
+
+3312_74.txt: Line 19
+7 很多 饕客 們 拿 得 不亦樂乎
+program did not classify it as category 7
+
+3312_74.txt: Line 47
+7 還 蠻 不錯 的
+program did not classify it as category 7
+
+3312_74.txt: Line 66
+7 白天 在 這 個 空間 吃飯 心情 會 很 好
+program did not classify it as category 7
+
+3313_84.txt: Line 60
+7 品質 個 人 很 喜歡
+program did not classify it as category 7
+
+3319_124.txt: Line 34
+8 請 侍 酒 師 推薦 絕對 不會 失望 .
+program error prediction: 7
+
+3319_124.txt: Line 81
+7 法國 麵包 好吃
+program did not classify it as category 7
+
+3319_124.txt: Line 197
+1 真的 要 大推 維多 力亞 酒店 的 服務 人員 及 侍 酒 師 .
+program error prediction: 7
+
+3322_144.txt: Line 87
+7 很 好吃
+program did not classify it as category 7
+
+3322_144.txt: Line 108
+7 哭
+program did not classify it as category 7
+
+3322_144.txt: Line 112
+7 還可以 啦
+program did not classify it as category 7
+
+3329_184.txt: Line 26
+8 讓 我 好生 失望
+program error prediction: 7
+
+3301_5.txt: Line 29
+7 嗑 起來 一定 很 滿足
+program did not classify it as category 7
+
+3301_5.txt: Line 31
+7 買 下去 一定 很 吐 血
+program did not classify it as category 7
+
+3301_5.txt: Line 54
+7 讓 我 幾乎 不 想 動 筷
+program did not classify it as category 7
+
+3301_5.txt: Line 60
+7 破天荒 第一 次 不 想 喝 它
+program did not classify it as category 7
+
+3309_55.txt: Line 47
+7 這 也 是 一 種 開心
+program did not classify it as category 7
+
+3314_95.txt: Line 99
+7 值得 品嘗 試試
+program did not classify it as category 7
+
+3314_95.txt: Line 104
+7 不論 下午茶 或是 使用 正餐 都 很 值得 推薦
+program did not classify it as category 7
+
+3312_75.txt: Line 53
+7 喝 的 不 過癮
+program did not classify it as category 7
+
+3315_105.txt: Line 98
+7 美味
+program did not classify it as category 7
+
+3315_105.txt: Line 102
+7 很 有趣
+program did not classify it as category 7
+
+3315_105.txt: Line 133
+7 甜點 全部 都 不 讓 人 高興
+program did not classify it as category 7
+
+3319_125.txt: Line 26
+7 都 還 蠻 好吃 的
+program did not classify it as category 7
+
+3321_135.txt: Line 103
+7 我 個 人 不 是 很 愛
+program did not classify it as category 7
+
+3321_135.txt: Line 106
+7 吃起來 挺 不錯
+program did not classify it as category 7
+
+3321_135.txt: Line 110
+7 炸雞 滿 好吃 的
+program did not classify it as category 7
+
+3321_135.txt: Line 227
+7 比 想像 中 的 更 好吃
+program did not classify it as category 7
+
+3322_145.txt: Line 112
+7 整體 搭配 起來 還 不錯
+program did not classify it as category 7
+
+3322_145.txt: Line 122
+7 對於 餐點 的 部分 我們 都 很 滿意
+program did not classify it as category 7
+
+3302_6.txt: Line 33
+7 朋友 Ｃ 覺得 喝 不 過癮
+program did not classify it as category 7
+
+3313_86.txt: Line 54
+7 對於 這 家 覺得 還 不 賴
+program did not classify it as category 7
+
+3318_116.txt: Line 13
+7 而且 店家 位置 離 仁愛路 比較 近 感覺 似乎 沒有 開 很 久
+program did not classify it as category 7
+
+3318_116.txt: Line 52
+7 還 蠻 好吃 的
+program did not classify it as category 7
+
+3318_116.txt: Line 79
+7 我 個 人 覺得 還 不錯
+program did not classify it as category 7
+
+3318_116.txt: Line 80
+7 我 爸 倒是 覺得 很 不 好吃
+program did not classify it as category 7
+
+3315_106.txt: Line 66
+7 超 好吃 不 解釋 XD
+program did not classify it as category 7
+
+3320_126.txt: Line 22
+8 弟弟 的 同學 強力 大推 ＂ 大盛 豬排 ＂
+program error prediction: 7
+
+3320_126.txt: Line 60
+7 挺 不錯 的
+program did not classify it as category 7
+
+3303_17.txt: Line 63
+7 老闆 強力 推薦
+program did not classify it as category 7
+
+3305_27.txt: Line 14
+7 但 這 次 用餐 實在 有 嚴重 受騙 的 感覺
+program did not classify it as category 7
+
+3305_27.txt: Line 19
+7 我們 還 滿 喜歡 的
+program did not classify it as category 7
+
+3305_27.txt: Line 39
+7 這 算是 我 那天 點到 最 滿意 的
+program did not classify it as category 7
+
+3306_37.txt: Line 212
+7 超 喜歡
+program did not classify it as category 7
+
+3308_47.txt: Line 61
+7 不過 這樣 的 好店 還是 要 推薦給 大家 才 行
+program did not classify it as category 7
+
+3311_67.txt: Line 94
+7 無疑 他 已經 榮登 我 心 中 台北 第一 名 原盅豉汁 排骨飯
+program did not classify it as category 7
+
+3313_87.txt: Line 52
+7 但是 吃到 肖 想 很 久 的 食物 真的 覺得 很 滿足 啊
+program did not classify it as category 7
+
+3318_117.txt: Line 51
+7 我 覺得 超級 好吃 耶
+program did not classify it as category 7
+
+3302_8.txt: Line 154
+7 但 同行 的 友人 不 是 很 喜歡 這 個 麵條 口感
+program did not classify it as category 7
+
+3302_8.txt: Line 155
+7 喜歡 整體 味道 的 呈現
+program did not classify it as category 7
+
+3302_8.txt: Line 156
+7 但 在 軟 硬度 上 除了 我 以外 都 覺得 可以 在 軟 一點
+program did not classify it as category 7
+
+3302_8.txt: Line 170
+7 我 喜歡 這 個 貓 耳朵麵 的 咬 勁
+program did not classify it as category 7
+
+3302_8.txt: Line 173
+7 但 我 不 太 喜歡 整 個 風味
+program did not classify it as category 7
+
+3305_28.txt: Line 30
+7 兩 種 我 都 愛
+program did not classify it as category 7
+
+3305_28.txt: Line 91
+7 找到 喜歡 的 早餐店 是 件 很 開心 的 事
+program did not classify it as category 7
+
+3305_28.txt: Line 93
+7 就 可以 吃到 好吃 的 早餐 有 多 開心 啊
+program did not classify it as category 7
+
+3306_38.txt: Line 83
+4 泰式 烤 生蠔 $ 49 欸 .. 老實說 這 生蠔 讓 我 有點 失望
+program error prediction: 7
+
+3309_58.txt: Line 57
+7 我 還 蠻 愛 的
+program did not classify it as category 7
+
+3309_58.txt: Line 94
+7 看到 這 盤 上桌 我 都 開心 到 口吃 了
+program did not classify it as category 7
+
+3311_68.txt: Line 96
+7 不 賴 吧
+program did not classify it as category 7
+
+3311_68.txt: Line 99
+3 大推 可 爾 必 思沙瓦
+program error prediction: 7
+
+3311_68.txt: Line 117
+7 不過 我 還是 很 滿意 這 次 的 用餐 經驗 啦
+program did not classify it as category 7
+
+3313_88.txt: Line 83
+7 推薦
+program did not classify it as category 7
+
+3315_98.txt: Line 123
+7 毛毛 喜歡
+program did not classify it as category 7
+
+3315_98.txt: Line 126
+7 毛毛 很 喜歡
+program did not classify it as category 7
+
+3315_98.txt: Line 139
+7 黃色 的 檸檬 餡 酸度 非常 夠 毛毛 和 朋友 都 超 愛
+program did not classify it as category 7
+
+3315_98.txt: Line 158
+7 但 整體 來 說 表現 並 無 太 大 驚豔
+program did not classify it as category 7
+
+3320_128.txt: Line 69
+7 我 的 愛
+program did not classify it as category 7
+
+3321_138.txt: Line 62
+7 我 個 人 覺得 鹽燒 的 口味 比 醬燒 好吃
+program did not classify it as category 7
+
+3322_148.txt: Line 24
+7 失落感 變得 明顯
+program did not classify it as category 7
+
+3322_148.txt: Line 55
+7 今晚 的 甜品 總算 讓 人 有 愉悅 的 心情
+program did not classify it as category 7
+
+3330_188.txt: Line 25
+3 剛 入口 有點 失望
+program error prediction: 7
+
+3302_9.txt: Line 78
+7 湯包 跟 蒸餃 相當 合 我 意
+program did not classify it as category 7
+
+3305_29.txt: Line 84
+7 太 滿足 囉
+program did not classify it as category 7
+
+3310_59.txt: Line 50
+7 值得
+program did not classify it as category 7
+
+3310_59.txt: Line 51
+7 激推
+program did not classify it as category 7
+
+3311_69.txt: Line 13
+7 深深 吸引 了 我
+program did not classify it as category 7
+
+3311_69.txt: Line 22
+7 整 個 人 都 放鬆 了 下來
+program did not classify it as category 7
+
+3311_69.txt: Line 58
+7 也 太 佛心 了
+program did not classify it as category 7
+
+3311_69.txt: Line 68
+7 讓 我 如釋重負
+program did not classify it as category 7
+
+3311_69.txt: Line 76
+3 但 米心 的 表現 讓 我 失望 了
+program error prediction: 7
+
+3313_89.txt: Line 89
+7 不過 這 還是 一 家 非常 值得 推薦 的 店
+program did not classify it as category 7
+
+3320_129.txt: Line 35
+7 個 人 吃 不 太 習慣
+program did not classify it as category 7
+
+3321_139.txt: Line 44
+7 我 很 喜歡
+program did not classify it as category 7
+
+3321_139.txt: Line 64
+7 我 好 喜歡 阿
+program did not classify it as category 7
+
+3321_139.txt: Line 139
+7 也 很 好吃
+program did not classify it as category 7
+
+3321_139.txt: Line 171
+7 非常 推薦
+program did not classify it as category 7
+
+3318_119.txt: Line 82
+8 失望 了
+program error prediction: 7
+
+3331_189.txt: Line 85
+2 不會 讓 你 失望 的 厚 切 上 等 鹽味 牛 舌 ＄ ４３５ 這裡 的 牛 舌 有 分成 幾 種 不同 的 等級 與 價位
+program error prediction: 7
+
+3328_179.txt: Line 41
+3 大推
+program error prediction: 7
+
+3328_179.txt: Line 48
+3 玉子 燒 也 是 大推 的 一 道 菜
+program error prediction: 7
+
+3317_111.txt: Line 13
+7 知味房 在 東區 可是 有 多 年 的 歷史 了
+program did not classify it as category 7
+
+3317_111.txt: Line 123
+7 會 想 來 消費
+program did not classify it as category 7
+
+3303_12.txt: Line 39
+7 真的 是 一 種 享受
+program did not classify it as category 7
+
+3303_12.txt: Line 41
+7 這 絕對 是 一 到 佳餚
+program did not classify it as category 7
+
+3303_12.txt: Line 42
+7 不過 可能 還 不 到 令 人 驚艷 的 程度
+program did not classify it as category 7
+
+3303_12.txt: Line 49
+7 大 推薦
+program did not classify it as category 7
+
+3303_12.txt: Line 70
+7 所以 有點 殘 念
+program did not classify it as category 7
+
+3303_12.txt: Line 73
+7 不錯
+program did not classify it as category 7
+
+3303_13.txt: Line 14
+6,7 溫德 德式 烘焙 餐館 ． 一 級 棒 的 德式 餐點 在 大安區 捷運 國父 紀念館 站 的 巷子 裡
+program did not classify it as category 7
+
+3303_13.txt: Line 91
+7 就 讓 人 覺得 物超所質
+program did not classify it as category 7
+
+3303_13.txt: Line 127
+7 真的 是 很 不錯 的 一 道 餐點
+program did not classify it as category 7
+
+3303_13.txt: Line 146
+7 搭配 起來 真的 讓 人 欲罷不能
+program did not classify it as category 7
+
+3303_14.txt: Line 45
+7 這 家 店 的 甜點 倒是 真的 滿 值得 推薦 的 呢
+program did not classify it as category 7
+
+3318_116.txt: Line 13
+7 而且 店家 位置 離 仁愛路 比較 近 感覺 似乎 沒有 開 很 久
+program did not classify it as category 7
+
+3318_116.txt: Line 52
+7 還 蠻 好吃 的
+program did not classify it as category 7
+
+3318_116.txt: Line 79
+7 我 個 人 覺得 還 不錯
+program did not classify it as category 7
+
+3318_116.txt: Line 80
+7 我 爸 倒是 覺得 很 不 好吃
+program did not classify it as category 7
+
+3303_17.txt: Line 63
+7 老闆 強力 推薦
+program did not classify it as category 7
+
+3318_117.txt: Line 51
+7 我 覺得 超級 好吃 耶
+program did not classify it as category 7
+
+3318_119.txt: Line 82
+8 失望 了
+program error prediction: 7
+
+3304_21.txt: Line 70
+7 不過 最 讓 人 驚豔 的 還是 這 個 漢堡 排
+program did not classify it as category 7
+
+3304_21.txt: Line 74
+7 咬 在 嘴 裡 可是 超 有 滿足感 的
+program did not classify it as category 7
+
+3304_21.txt: Line 76
+7 大 推薦
+program did not classify it as category 7
+
+3304_21.txt: Line 103
+7 也 算是 一 道 讓 我 驚豔 、 且 回味 不已 的 Brunch 了
+program did not classify it as category 7
+
+3319_121.txt: Line 70
+7 我 蠻 喜歡 這 個 鬆餅塔 整體 的 口感
+program did not classify it as category 7
+
+3319_121.txt: Line 90
+7 好 吃好吃好 好吃
+program did not classify it as category 7
+
+3304_22.txt: Line 65
+7 我 超 愛
+program did not classify it as category 7
+
+3304_24.txt: Line 29
+7 但 聽到 預訂 就 感覺 是 非常 厲害
+program did not classify it as category 7
+
+3304_24.txt: Line 48
+7 感覺 很 驚喜 呢
+program did not classify it as category 7
+
+3319_124.txt: Line 34
+8 請 侍 酒 師 推薦 絕對 不會 失望 .
+program error prediction: 7
+
+3319_124.txt: Line 81
+7 法國 麵包 好吃
+program did not classify it as category 7
+
+3319_124.txt: Line 197
+1 真的 要 大推 維多 力亞 酒店 的 服務 人員 及 侍 酒 師 .
+program error prediction: 7
+
+3319_125.txt: Line 26
+7 都 還 蠻 好吃 的
+program did not classify it as category 7
+
+3320_126.txt: Line 22
+8 弟弟 的 同學 強力 大推 ＂ 大盛 豬排 ＂
+program error prediction: 7
+
+3320_126.txt: Line 60
+7 挺 不錯 的
+program did not classify it as category 7
+
+3305_27.txt: Line 14
+7 但 這 次 用餐 實在 有 嚴重 受騙 的 感覺
+program did not classify it as category 7
+
+3305_27.txt: Line 19
+7 我們 還 滿 喜歡 的
+program did not classify it as category 7
+
+3305_27.txt: Line 39
+7 這 算是 我 那天 點到 最 滿意 的
+program did not classify it as category 7
+
+3305_28.txt: Line 30
+7 兩 種 我 都 愛
+program did not classify it as category 7
+
+3305_28.txt: Line 91
+7 找到 喜歡 的 早餐店 是 件 很 開心 的 事
+program did not classify it as category 7
+
+3305_28.txt: Line 93
+7 就 可以 吃到 好吃 的 早餐 有 多 開心 啊
+program did not classify it as category 7
+
+3320_128.txt: Line 69
+7 我 的 愛
+program did not classify it as category 7
+
+3305_29.txt: Line 84
+7 太 滿足 囉
+program did not classify it as category 7
+
+3320_129.txt: Line 35
+7 個 人 吃 不 太 習慣
+program did not classify it as category 7
+
+3305_31.txt: Line 30
+7 真的 好 貼心
+program did not classify it as category 7
+
+3305_32.txt: Line 74
+7 韓國 來 的 東西 我 自己 沒有 很 愛
+program did not classify it as category 7
+
+3320_132.txt: Line 69
+7 實在 是 沒有 特別 的 感覺
+program did not classify it as category 7
+
+3321_133.txt: Line 163
+7 的確 是 物 有所 值
+program did not classify it as category 7
+
+3321_133.txt: Line 195
+7 特別 又 好吃
+program did not classify it as category 7
+
+3306_34.txt: Line 49
+7 黑虎 也 是 網路 上 大 推 的 選項 之 一
+program did not classify it as category 7
+
+3321_135.txt: Line 103
+7 我 個 人 不 是 很 愛
+program did not classify it as category 7
+
+3321_135.txt: Line 106
+7 吃起來 挺 不錯
+program did not classify it as category 7
+
+3321_135.txt: Line 110
+7 炸雞 滿 好吃 的
+program did not classify it as category 7
+
+3321_135.txt: Line 227
+7 比 想像 中 的 更 好吃
+program did not classify it as category 7
+
+3306_37.txt: Line 212
+7 超 喜歡
+program did not classify it as category 7
+
+3306_38.txt: Line 83
+4 泰式 烤 生蠔 $ 49 欸 .. 老實說 這 生蠔 讓 我 有點 失望
+program error prediction: 7
+
+3321_138.txt: Line 62
+7 我 個 人 覺得 鹽燒 的 口味 比 醬燒 好吃
+program did not classify it as category 7
+
+3321_139.txt: Line 44
+7 我 很 喜歡
+program did not classify it as category 7
+
+3321_139.txt: Line 64
+7 我 好 喜歡 阿
+program did not classify it as category 7
+
+3321_139.txt: Line 139
+7 也 很 好吃
+program did not classify it as category 7
+
+3321_139.txt: Line 171
+7 非常 推薦
+program did not classify it as category 7
+
+3307_41.txt: Line 24
+7 但 對 我 而言 稱不上 驚艷
+program did not classify it as category 7
+
+3321_142.txt: Line 123
+7 直 說 好 好吃 還 要 為了 它 再 來
+program did not classify it as category 7
+
+3307_43.txt: Line 43
+7 介紹 -- 我 非常 喜歡 這 道 麵
+program did not classify it as category 7
+
+3307_43.txt: Line 73
+7 真的 讓 我 驚喜
+program did not classify it as category 7
+
+3321_143.txt: Line 27
+7 真 得 好 好吃
+program did not classify it as category 7
+
+3321_143.txt: Line 50
+7 超 好吃 推薦
+program did not classify it as category 7
+
+3321_143.txt: Line 53
+7 東西 又 好吃
+program did not classify it as category 7
+
+3321_143.txt: Line 54
+7 幾乎 沒 得 挑剔
+program did not classify it as category 7
+
+3307_44.txt: Line 28
+7 大 推 他們 粉肝
+program did not classify it as category 7
+
+3307_44.txt: Line 65
+7 讓 我 好 傷心
+program did not classify it as category 7
+
+3322_144.txt: Line 87
+7 很 好吃
+program did not classify it as category 7
+
+3322_144.txt: Line 108
+7 哭
+program did not classify it as category 7
+
+3322_144.txt: Line 112
+7 還可以 啦
+program did not classify it as category 7
+
+3322_145.txt: Line 112
+7 整體 搭配 起來 還 不錯
+program did not classify it as category 7
+
+3322_145.txt: Line 122
+7 對於 餐點 的 部分 我們 都 很 滿意
+program did not classify it as category 7
+
+3308_47.txt: Line 61
+7 不過 這樣 的 好店 還是 要 推薦給 大家 才 行
+program did not classify it as category 7
+
+3322_148.txt: Line 24
+7 失落感 變得 明顯
+program did not classify it as category 7
+
+3322_148.txt: Line 55
+7 今晚 的 甜品 總算 讓 人 有 愉悅 的 心情
+program did not classify it as category 7
+
+3309_51.txt: Line 18
+7 就是 一 個 輕鬆 愉快 的 周末 行程 啦
+program did not classify it as category 7
+
+3309_51.txt: Line 41
+7 讚
+program did not classify it as category 7
+
+3309_52.txt: Line 87
+7 它 還 沒有 讓 我 驚艷
+program did not classify it as category 7
+
+3309_53.txt: Line 30
+7 但 感覺 不錯
+program did not classify it as category 7
+
+3309_53.txt: Line 44
+7 料理 還 算 特別
+program did not classify it as category 7
+
+3309_53.txt: Line 77
+7 表現 不 俗
+program did not classify it as category 7
+
+3309_55.txt: Line 47
+7 這 也 是 一 種 開心
+program did not classify it as category 7
+
+3309_58.txt: Line 57
+7 我 還 蠻 愛 的
+program did not classify it as category 7
+
+3309_58.txt: Line 94
+7 看到 這 盤 上桌 我 都 開心 到 口吃 了
+program did not classify it as category 7
+
+3310_59.txt: Line 50
+7 值得
+program did not classify it as category 7
+
+3310_59.txt: Line 51
+7 激推
+program did not classify it as category 7
+
+3310_61.txt: Line 14
+7 是 我 最愛 也 最 推薦 的 中
+program did not classify it as category 7
+
+3310_61.txt: Line 33
+7 好 誘人 阿
+program did not classify it as category 7
+
+3310_61.txt: Line 42
+7 直 是 完美 阿
+program did not classify it as category 7
+
+3310_62.txt: Line 29
+7 普通
+program did not classify it as category 7
+
+3310_62.txt: Line 100
+7 也 還 不錯
+program did not classify it as category 7
+
+3310_63.txt: Line 39
+7 我 不怎麼 喜愛
+program did not classify it as category 7
+
+3310_63.txt: Line 76
+7 低於 我 的 期望
+program did not classify it as category 7
+
+3310_64.txt: Line 41
+7 我們 都 很 喜歡
+program did not classify it as category 7
+
+3311_67.txt: Line 94
+7 無疑 他 已經 榮登 我 心 中 台北 第一 名 原盅豉汁 排骨飯
+program did not classify it as category 7
+
+3311_68.txt: Line 96
+7 不 賴 吧
+program did not classify it as category 7
+
+3311_68.txt: Line 99
+3 大推 可 爾 必 思沙瓦
+program error prediction: 7
+
+3311_68.txt: Line 117
+7 不過 我 還是 很 滿意 這 次 的 用餐 經驗 啦
+program did not classify it as category 7
+
+3311_69.txt: Line 13
+7 深深 吸引 了 我
+program did not classify it as category 7
+
+3311_69.txt: Line 22
+7 整 個 人 都 放鬆 了 下來
+program did not classify it as category 7
+
+3311_69.txt: Line 58
+7 也 太 佛心 了
+program did not classify it as category 7
+
+3311_69.txt: Line 68
+7 讓 我 如釋重負
+program did not classify it as category 7
+
+3311_69.txt: Line 76
+3 但 米心 的 表現 讓 我 失望 了
+program error prediction: 7
+
+3311_72.txt: Line 61
+7 徹底 收服 當場 女生 的 心
+program did not classify it as category 7
+
+3311_73.txt: Line 57
+7 真的 推薦
+program did not classify it as category 7
+
+3312_74.txt: Line 19
+7 很多 饕客 們 拿 得 不亦樂乎
+program did not classify it as category 7
+
+3312_74.txt: Line 47
+7 還 蠻 不錯 的
+program did not classify it as category 7
+
+3312_74.txt: Line 66
+7 白天 在 這 個 空間 吃飯 心情 會 很 好
+program did not classify it as category 7
+
+3312_75.txt: Line 53
+7 喝 的 不 過癮
+program did not classify it as category 7
+
+3328_179.txt: Line 41
+3 大推
+program error prediction: 7
+
+3328_179.txt: Line 48
+3 玉子 燒 也 是 大推 的 一 道 菜
+program error prediction: 7
+
+3313_81.txt: Line 33
+7 真的 不 是 蓋 的
+program did not classify it as category 7
+
+3313_82.txt: Line 41
+8 大推 這 道 雖然 看起來 很 普通
+program error prediction: 7
+
+3313_84.txt: Line 60
+7 品質 個 人 很 喜歡
+program did not classify it as category 7
+
+3329_184.txt: Line 26
+8 讓 我 好生 失望
+program error prediction: 7
+
+3313_86.txt: Line 54
+7 對於 這 家 覺得 還 不 賴
+program did not classify it as category 7
+
+3313_87.txt: Line 52
+7 但是 吃到 肖 想 很 久 的 食物 真的 覺得 很 滿足 啊
+program did not classify it as category 7
+
+3313_88.txt: Line 83
+7 推薦
+program did not classify it as category 7
+
+3330_188.txt: Line 25
+3 剛 入口 有點 失望
+program error prediction: 7
+
+3313_89.txt: Line 89
+7 不過 這 還是 一 家 非常 值得 推薦 的 店
+program did not classify it as category 7
+
+3331_189.txt: Line 85
+2 不會 讓 你 失望 的 厚 切 上 等 鹽味 牛 舌 ＄ ４３５ 這裡 的 牛 舌 有 分成 幾 種 不同 的 等級 與 價位
+program error prediction: 7
+
+3314_92.txt: Line 102
+7 還是 不會 吸引人 想 特地 去 吃
+program did not classify it as category 7
+
+3314_93.txt: Line 71
+7 這 點 比起 前面 幾 點 是 最 讓 人 生氣 的 ，
+program did not classify it as category 7
+
+3314_93.txt: Line 75
+7 這 句 話 徹底 把 我 惹火
+program did not classify it as category 7
+
+3314_95.txt: Line 99
+7 值得 品嘗 試試
+program did not classify it as category 7
+
+3314_95.txt: Line 104
+7 不論 下午茶 或是 使用 正餐 都 很 值得 推薦
+program did not classify it as category 7
+
+3315_98.txt: Line 123
+7 毛毛 喜歡
+program did not classify it as category 7
+
+3315_98.txt: Line 126
+7 毛毛 很 喜歡
+program did not classify it as category 7
+
+3315_98.txt: Line 139
+7 黃色 的 檸檬 餡 酸度 非常 夠 毛毛 和 朋友 都 超 愛
+program did not classify it as category 7
+
+3315_98.txt: Line 158
+7 但 整體 來 說 表現 並 無 太 大 驚豔
+program did not classify it as category 7
+
+3315_101.txt: Line 64
+7 吃完 後路 芭 和 溫蒂 都 蠻 喜歡 這 家 店 的
+program did not classify it as category 7
+
+3315_101.txt: Line 67
+7 很 推薦 住 在 附近 或是 路過 的 人 一定 要 來 嘗嘗
+program did not classify it as category 7
+
+3315_102.txt: Line 55
+7 但 還是 好吃
+program did not classify it as category 7
+
+3315_102.txt: Line 81
+7 整體 算 不錯
+program did not classify it as category 7
+
+3315_103.txt: Line 62
+7 確實 好吃
+program did not classify it as category 7
+
+3315_103.txt: Line 71
+7 很 放鬆
+program did not classify it as category 7
+
+3315_104.txt: Line 50
+8 大推
+program error prediction: 7
+
+3315_104.txt: Line 67
+7 好吃 又 實惠
+program did not classify it as category 7
+
+3315_105.txt: Line 98
+7 美味
+program did not classify it as category 7
+
+3315_105.txt: Line 102
+7 很 有趣
+program did not classify it as category 7
+
+3315_105.txt: Line 133
+7 甜點 全部 都 不 讓 人 高興
+program did not classify it as category 7
+
+3315_106.txt: Line 66
+7 超 好吃 不 解釋 XD
+program did not classify it as category 7
+
+3317_111.txt: Line 13
+7 知味房 在 東區 可是 有 多 年 的 歷史 了
+program did not classify it as category 7
+
+3317_111.txt: Line 123
+7 會 想 來 消費
+program did not classify it as category 7
+
+3318_116.txt: Line 13
+7 而且 店家 位置 離 仁愛路 比較 近 感覺 似乎 沒有 開 很 久
+program did not classify it as category 7
+
+3318_116.txt: Line 52
+7 還 蠻 好吃 的
+program did not classify it as category 7
+
+3318_116.txt: Line 79
+7 我 個 人 覺得 還 不錯
+program did not classify it as category 7
+
+3318_116.txt: Line 80
+7 我 爸 倒是 覺得 很 不 好吃
+program did not classify it as category 7
+
+3318_117.txt: Line 51
+7 我 覺得 超級 好吃 耶
+program did not classify it as category 7
+
+3318_119.txt: Line 82
+8 失望 了
+program error prediction: 7
+
+3319_121.txt: Line 70
+7 我 蠻 喜歡 這 個 鬆餅塔 整體 的 口感
+program did not classify it as category 7
+
+3319_121.txt: Line 90
+7 好 吃好吃好 好吃
+program did not classify it as category 7
+
+3319_124.txt: Line 34
+8 請 侍 酒 師 推薦 絕對 不會 失望 .
+program error prediction: 7
+
+3319_124.txt: Line 81
+7 法國 麵包 好吃
+program did not classify it as category 7
+
+3319_124.txt: Line 197
+1 真的 要 大推 維多 力亞 酒店 的 服務 人員 及 侍 酒 師 .
+program error prediction: 7
+
+3319_125.txt: Line 26
+7 都 還 蠻 好吃 的
+program did not classify it as category 7
+
+3320_126.txt: Line 22
+8 弟弟 的 同學 強力 大推 ＂ 大盛 豬排 ＂
+program error prediction: 7
+
+3320_126.txt: Line 60
+7 挺 不錯 的
+program did not classify it as category 7
+
+3320_128.txt: Line 69
+7 我 的 愛
+program did not classify it as category 7
+
+3320_129.txt: Line 35
+7 個 人 吃 不 太 習慣
+program did not classify it as category 7
+
+3320_132.txt: Line 69
+7 實在 是 沒有 特別 的 感覺
+program did not classify it as category 7
+
+3321_133.txt: Line 163
+7 的確 是 物 有所 值
+program did not classify it as category 7
+
+3321_133.txt: Line 195
+7 特別 又 好吃
+program did not classify it as category 7
+
+3321_135.txt: Line 103
+7 我 個 人 不 是 很 愛
+program did not classify it as category 7
+
+3321_135.txt: Line 106
+7 吃起來 挺 不錯
+program did not classify it as category 7
+
+3321_135.txt: Line 110
+7 炸雞 滿 好吃 的
+program did not classify it as category 7
+
+3321_135.txt: Line 227
+7 比 想像 中 的 更 好吃
+program did not classify it as category 7
+
+3321_138.txt: Line 62
+7 我 個 人 覺得 鹽燒 的 口味 比 醬燒 好吃
+program did not classify it as category 7
+
+3321_139.txt: Line 44
+7 我 很 喜歡
+program did not classify it as category 7
+
+3321_139.txt: Line 64
+7 我 好 喜歡 阿
+program did not classify it as category 7
+
+3321_139.txt: Line 139
+7 也 很 好吃
+program did not classify it as category 7
+
+3321_139.txt: Line 171
+7 非常 推薦
+program did not classify it as category 7
+
+3321_142.txt: Line 123
+7 直 說 好 好吃 還 要 為了 它 再 來
+program did not classify it as category 7
+
+3321_143.txt: Line 27
+7 真 得 好 好吃
+program did not classify it as category 7
+
+3321_143.txt: Line 50
+7 超 好吃 推薦
+program did not classify it as category 7
+
+3321_143.txt: Line 53
+7 東西 又 好吃
+program did not classify it as category 7
+
+3321_143.txt: Line 54
+7 幾乎 沒 得 挑剔
+program did not classify it as category 7
+
+3322_144.txt: Line 87
+7 很 好吃
+program did not classify it as category 7
+
+3322_144.txt: Line 108
+7 哭
+program did not classify it as category 7
+
+3322_144.txt: Line 112
+7 還可以 啦
+program did not classify it as category 7
+
+3322_145.txt: Line 112
+7 整體 搭配 起來 還 不錯
+program did not classify it as category 7
+
+3322_145.txt: Line 122
+7 對於 餐點 的 部分 我們 都 很 滿意
+program did not classify it as category 7
+
+3322_148.txt: Line 24
+7 失落感 變得 明顯
+program did not classify it as category 7
+
+3322_148.txt: Line 55
+7 今晚 的 甜品 總算 讓 人 有 愉悅 的 心情
+program did not classify it as category 7
+
+3328_179.txt: Line 41
+3 大推
+program error prediction: 7
+
+3328_179.txt: Line 48
+3 玉子 燒 也 是 大推 的 一 道 菜
+program error prediction: 7
+
+3329_184.txt: Line 26
+8 讓 我 好生 失望
+program error prediction: 7
+
+3330_188.txt: Line 25
+3 剛 入口 有點 失望
+program error prediction: 7
+
+3331_189.txt: Line 85
+2 不會 讓 你 失望 的 厚 切 上 等 鹽味 牛 舌 ＄ ４３５ 這裡 的 牛 舌 有 分成 幾 種 不同 的 等級 與 價位
+program error prediction: 7
+
+Test: category 7
+precision: 0.61053
+recall: 0.15426
+F1: 0.24628
