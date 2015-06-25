@@ -3,6 +3,7 @@ import sys
 import glob
 import os 
 import operator 
+import math
 
 def get_stopword():
     stop = open('stopword.txt','r')
@@ -87,9 +88,7 @@ def ngram_count(inputdir,outputdir,train=True):
     count_total(outputdir, 1, 7, vocab_list)
     count_total(outputdir, 1, 8, vocab_list)
 
-    return vocab_list
-
-def word_importance():
+def get_count_statistics():
     total_ngram = {}
     with open('ngram/train/1-8total.txt', 'r')  as f:
         for line in f:
@@ -98,7 +97,7 @@ def word_importance():
             tmp = line.strip().split('\t')
             total_ngram[tmp[0]] = int(tmp[1])
 
-    category_ngram_list = [[] for i in range(7)]
+    category_ngram_list = [{} for i in range(7)]
     category_total_count_list = [0] * 7
     for i in xrange(7):
         with open('ngram/train/%d.txt' %(i+1), 'r')  as f:
@@ -106,15 +105,17 @@ def word_importance():
                 if not line.strip():
                     continue
                 tmp = line.strip().split('\t')
-                category_ngram_list[i].append((tmp[0], int(tmp[1])))
+                category_ngram_list[i][tmp[0]] = int(tmp[1])
+                #category_ngram_list[i].append((tmp[0], int(tmp[1])))
                 category_total_count_list[i] += int(tmp[1])
-    
+    return total_ngram,category_ngram_list,category_total_count_list
+
+def word_importance(total_ngram,category_ngram_list,category_total_count_list):
     topn = 10
     for c in xrange(7):
         g = open('word_importance/%d.txt' %(c+1), 'w')
         im = {}
-        for top_idx in xrange(len(category_ngram_list[c])):
-            word, count = category_ngram_list[c][top_idx]
+        for word,count in category_ngram_list[c].iteritems():
             total_count = total_ngram[word]
             im[word] = (float(count)/float(total_count)) * (float(count)/float(category_total_count_list[c]))
         im_sorted = sorted(im.items(), key=operator.itemgetter(1), reverse=True)
@@ -124,8 +125,44 @@ def word_importance():
         g.close()
     return
 
+def cross_entropy(total_ngram,category_ngram_list,category_total_count_list):
+    dir = 'cross_entropy/'
+    ece = {}
+    total_count = 0
+    for c in category_total_count_list:
+        total_count += c
+    for key,value in total_ngram.iteritems():
+        for c in xrange(7):
+            try:
+                p_w_given_c = float(category_ngram_list[c][key])/ float(category_total_count_list[c])
+            except KeyError:
+                ece.setdefault(key,[]).append(0.0)
+                continue
+            try:
+                p_c_given_w = float(category_ngram_list[c][key])/ float(total_ngram[key])
+            except KeyError:
+                ece.setdefault(key,[]).append(0.0)
+                continue
+            p_c = float(category_total_count_list[c]) / float(total_count)
+            weight = p_w_given_c * p_c_given_w * math.log(p_c_given_w/float(p_c))
+            ece.setdefault(key,[]).append(weight)
+    
+    for c in xrange(7):
+        category_im = {}
+        for key,w_list in ece.iteritems():
+            final = ece[key][c] - sum([w_list[a] for a in range(len(w_list)) if a != c]) 
+            category_im[key] = final
+        sorted_category_im = sorted(category_im.items(), key=operator.itemgetter(1), reverse=True)
+        with open(dir + '%d.txt' %(c+1), 'w') as g:
+            for key,value in sorted_category_im:
+                g.write(key)
+                g.write('\t%.5f\n' %value)
+    return
+
 if __name__ == '__main__':
     inputdir = 'training/training_merge'
     outputdir = 'ngram/train'
-    vocab_list = ngram_count(inputdir,outputdir,train=True)
-    word_importance()
+    ngram_count(inputdir,outputdir,train=True)
+    total_ngram,category_ngram_list,category_total_count_list = get_count_statistics()
+    word_importance(total_ngram,category_ngram_list,category_total_count_list)
+    cross_entropy(total_ngram,category_ngram_list,category_total_count_list)
