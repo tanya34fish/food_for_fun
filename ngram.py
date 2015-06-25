@@ -15,6 +15,26 @@ def get_stopword():
     stop.close()
     return stopword
 
+def count_total(outputdir, start, end, vocab_list):
+    total_vocab = vocab_list[start].copy()
+    for i in xrange(start+1,end+1):
+        for key,value in vocab_list[i].items():
+            if key in total_vocab:
+                total_vocab[key] += value
+            else:
+                total_vocab[key] = value
+
+    output = open(os.path.join(outputdir, '%d-%dtotal.txt' %(start,end)), 'w')
+    nGramSorted = sorted(total_vocab.items(), key=operator.itemgetter(1), reverse=True)
+    for key, val in nGramSorted:
+        if key == '':
+            continue
+        output.write(key)
+        output.write('\t'+str(val)+'\n')
+    output.write('\n')
+    output.close()
+    return
+
 def ngram_count(inputdir,outputdir,train=True):
 
     stopword = get_stopword()
@@ -64,24 +84,9 @@ def ngram_count(inputdir,outputdir,train=True):
         output.write('\n')
         output.close()
 
-    total_vocab = vocab_list[1].copy()
-    for i in xrange(2,8):
-        for key,value in vocab_list[i].items():
-            if key in total_vocab:
-                total_vocab[key] += value
-            else:
-                total_vocab[key] = value
+    count_total(outputdir, 1, 7, vocab_list)
+    count_total(outputdir, 1, 8, vocab_list)
 
-    output = open(os.path.join(outputdir, '1-7total.txt'), 'w')
-    nGramSorted = sorted(total_vocab.items(), key=operator.itemgetter(1), reverse=True)
-    for key, val in nGramSorted:
-        if key == '':
-            continue
-        output.write(key)
-        output.write('\t'+str(val)+'\n')
-    output.write('\n')
-    output.close()
-    
     return vocab_list
 
 def word_importance():
@@ -120,7 +125,7 @@ def word_importance():
     return
 
 if __name__ == '__main__':
-    #inputdir = 'training/training_merge'
-    #outputdir = 'ngram/train'
-    #vocab_list = ngram_count(inputdir,outputdir,train=True)
+    inputdir = 'training/training_merge'
+    outputdir = 'ngram/train'
+    vocab_list = ngram_count(inputdir,outputdir,train=True)
     word_importance()
