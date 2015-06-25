@@ -1,7 +1,3 @@
-3307_40.txt: Line 32
-4 不過 有加 一成 服務費
-program did not classify it as category 4
-
 3307_40.txt: Line 38
 2 加 110 元 就 多 了 飲料 、 白飯 和 一 道 配 菜
 program error prediction: 4
@@ -14,9 +10,9 @@ program did not classify it as category 4
 4 比起 一般 要 加價 50 - 100 低消 的 店家 真是 划算 多 了
 program did not classify it as category 4
 
-3312_80.txt: Line 36
-4 算起來 每 人 加 150 就 可以 享受到 湯
-program did not classify it as category 4
+3311_70.txt: Line 28
+8 標明 不 收 服務費 故 餐具 和 水 都 是 自取 的 也 因此 陸續 可以 聽到 刀盤 碰撞 的 聲響
+program error prediction: 4
 
 3312_80.txt: Line 73
 8 焗烤 南瓜 蕈菇 嫩 雞麵 $ 208
@@ -46,10 +42,6 @@ program did not classify it as category 4
 4 沒有 特別 貴
 program did not classify it as category 4
 
-3325_160.txt: Line 59
-4 不用 加 服務費
-program did not classify it as category 4
-
 3325_160.txt: Line 82
 4 其實 也 不 算 便宜
 program did not classify it as category 4
@@ -70,11 +62,7 @@ program did not classify it as category 4
 4 130 大洋
 program did not classify it as category 4
 
-3333_200.txt: Line 31
-4 沒有 一成 服務費
-program did not classify it as category 4
-
 Test: category 4
-precision: 0.97015
-recall: 0.79268
-F1: 0.87248
+precision: 0.95833
+recall: 0.84146
+F1: 0.89610
