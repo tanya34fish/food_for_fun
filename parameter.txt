@@ -1,0 +1,90 @@
+Usage: python testing_v4.py
+This program will use ngram.py to count ngram again
+also run word_importance and cross_entropy
+run ngram...
+read 174 training files done.
+exclude 19 testing files done.
+word_importance
+Test: category 1, threshold: 17
+precision: 0.82759
+recall: 0.77419
+F1: 0.80000
+================
+cross_entropy
+Test: category 1, threshold: 17
+precision: 0.82759
+recall: 0.77419
+F1: 0.80000
+================
+word_importance
+Test: category 2, threshold: 10
+precision: 0.71429
+recall: 0.46875
+F1: 0.56604
+================
+cross_entropy
+Test: category 2, threshold: 10
+precision: 0.71429
+recall: 0.46875
+F1: 0.56604
+================
+word_importance
+Test: category 3, threshold: 22
+precision: 0.64821
+recall: 0.64821
+F1: 0.64821
+================
+cross_entropy
+Test: category 3, threshold: 24
+precision: 0.83178
+recall: 0.57980
+F1: 0.68330
+================
+word_importance
+Test: category 4, threshold: 21
+precision: 0.89535
+recall: 0.93902
+F1: 0.91667
+================
+cross_entropy
+Test: category 4, threshold: 29
+precision: 0.95122
+recall: 0.95122
+F1: 0.95122
+================
+word_importance
+Test: category 5, threshold: 36
+precision: 0.43333
+recall: 0.50649
+F1: 0.46707
+================
+cross_entropy
+Test: category 5, threshold: 22
+precision: 0.44776
+recall: 0.38961
+F1: 0.41667
+================
+word_importance
+Test: category 6, threshold: 11
+precision: 0.97059
+recall: 0.84615
+F1: 0.90411
+================
+cross_entropy
+Test: category 6, threshold: 13
+precision: 0.97059
+recall: 0.84615
+F1: 0.90411
+================
+word_importance
+Test: category 7, threshold: 6
+precision: 0.45833
+recall: 0.34375
+F1: 0.39286
+================
+cross_entropy
+Test: category 7, threshold: 7
+precision: 0.45833
+recall: 0.34375
+F1: 0.39286
+================
