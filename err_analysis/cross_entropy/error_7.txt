@@ -2,10 +2,6 @@
 7 喜歡 麻辣 的 人 應該 很 過癮
 program did not classify it as category 7
 
-3304_20.txt: Line 40
-7 朋友 吃 了 讚不絕口
-program did not classify it as category 7
-
 3318_120.txt: Line 133
 8 雙 響 鍋
 program error prediction: 7
@@ -22,6 +18,14 @@ program did not classify it as category 7
 7 意猶未盡
 program did not classify it as category 7
 
+3307_40.txt: Line 51
+7 我 喜歡
+program did not classify it as category 7
+
+3307_40.txt: Line 74
+7 另外 一 碗 醬油 拉麵 我們 一致 覺得 比較 喜歡
+program did not classify it as category 7
+
 3323_150.txt: Line 71
 7 我 不 太 喜歡 這 種 口感
 program did not classify it as category 7
@@ -36,6 +40,14 @@ program did not classify it as category 7
 
 3310_60.txt: Line 57
 7 激推
+program did not classify it as category 7
+
+3310_60.txt: Line 70
+7 雖然 說 不 是 什麼 令 人 驚豔 的 高級 料理
+program did not classify it as category 7
+
+3310_60.txt: Line 80
+7 High 咖 覺得 頗 普通
 program did not classify it as category 7
 
 3310_60.txt: Line 81
@@ -84,10 +96,6 @@ program did not classify it as category 7
 
 3325_160.txt: Line 175
 7 但 我 覺得 很 值得 一 吃 喔
-program did not classify it as category 7
-
-3314_90.txt: Line 22
-7 這 間 很 好吃 的 香港 茶水 攤
 program did not classify it as category 7
 
 3314_90.txt: Line 112
@@ -184,5 +192,5 @@ program did not classify it as category 7
 
 Test: category 7
 precision: 0.42857
-recall: 0.06667
-F1: 0.11538
+recall: 0.06383
+F1: 0.11111

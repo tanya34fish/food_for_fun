@@ -2,18 +2,6 @@
 3 不只 一 次 聽說 敲敲 咖啡 的 甜點 很 好吃 了
 program did not classify it as category 3
 
-3303_10.txt: Line 26
-8 上桌 後 便 傳來 濃郁 起司 香
-program error prediction: 3
-
-3303_10.txt: Line 36
-8 不然 麵條 沒 沾染 到 太多 味道
-program error prediction: 3
-
-3303_10.txt: Line 37
-8 麵條 口感 還可以 再 硬 一點 會 更 好
-program error prediction: 3
-
 3303_10.txt: Line 46
 3 而是 有點 微 酸
 program did not classify it as category 3
@@ -21,10 +9,6 @@ program did not classify it as category 3
 3303_10.txt: Line 47
 3 但 這 恰好 符合 了 我 愛 吃 的 口味
 program did not classify it as category 3
-
-3303_10.txt: Line 50
-8 若 覺得 不 夠 甜 的 話
-program error prediction: 3
 
 3304_20.txt: Line 31
 3 非常 好吃
@@ -36,6 +20,10 @@ program did not classify it as category 3
 
 3304_20.txt: Line 36
 3 是 真的 非常 辣
+program did not classify it as category 3
+
+3304_20.txt: Line 40
+3 朋友 吃 了 讚不絕口
 program did not classify it as category 3
 
 3304_20.txt: Line 44
@@ -50,9 +38,9 @@ program did not classify it as category 3
 3 口味 特殊
 program did not classify it as category 3
 
-3304_20.txt: Line 67
-8 多 了 份 新 口感 與 老人 情
-program error prediction: 3
+3318_120.txt: Line 96
+3 即使 不 常 喝 啤酒 的 朋友 也 會 喜歡
+program did not classify it as category 3
 
 3318_120.txt: Line 98
 3 入 喉 有 股 淡淡 的 甜味 及 穀香
@@ -60,6 +48,14 @@ program did not classify it as category 3
 
 3318_120.txt: Line 99
 3 泡沫 細微 滑 順 挺 不 賴
+program did not classify it as category 3
+
+3318_120.txt: Line 106
+3 開胃 拼盤 整體 來 說 還 挺 不錯 吃 的
+program did not classify it as category 3
+
+3318_120.txt: Line 112
+3 香蒜 麵包 佐以 適量 蘑菇 小 點 非常 好吃
 program did not classify it as category 3
 
 3318_120.txt: Line 130
@@ -70,12 +66,12 @@ program did not classify it as category 3
 3 以免 回 溫 產生 強烈 苦澀味
 program did not classify it as category 3
 
-3318_120.txt: Line 141
-8 而 我們 這 鍋 是 選擇 清爽 鹹香 的 白酒 青醬 口味
-program error prediction: 3
-
 3318_120.txt: Line 144
 3 品質 好 又 特別 新鮮
+program did not classify it as category 3
+
+3318_120.txt: Line 150
+3 真是 太 好吃 了 啦
 program did not classify it as category 3
 
 3318_120.txt: Line 161
@@ -98,6 +94,10 @@ program did not classify it as category 3
 3 用 未 發芽 的 麥 烘培 出具 有 咖啡 、 巧克力 和 麥 香味
 program did not classify it as category 3
 
+3318_120.txt: Line 203
+3 伴隨 著 腰果 與 巧克力 、 咖啡 香 的 滑 順酒 體
+program did not classify it as category 3
+
 3318_120.txt: Line 208
 8 啤酒 要 好喝
 program error prediction: 3
@@ -106,8 +106,36 @@ program error prediction: 3
 8 散發 一 股 咖啡 香氣 也 挺 好喝 的
 program error prediction: 3
 
+3305_30.txt: Line 55
+3 佑佑 較 不 喜歡 吃 這 種 生菜
+program did not classify it as category 3
+
 3305_30.txt: Line 63
 3 如果 熱熱 送來 後 趕快 吃 的 話 外層 還 會 有點 脆
+program did not classify it as category 3
+
+3320_130.txt: Line 6
+3 附近 有 很 好吃 的 & lt ; 上乘 三 家 火鍋店 & gt ; ( 雖然 我 只 吃 過 萬華店 的 上乘 三 家 )
+program did not classify it as category 3
+
+3320_130.txt: Line 16
+3 有 很多 好吃 的 可是 當時 都 很 忙 沒有 PO 上 來 跟 大家 分享
+program did not classify it as category 3
+
+3320_130.txt: Line 20
+3 他們 說 附近 有 一 家 很 好吃 的 牛肉麵
+program did not classify it as category 3
+
+3320_130.txt: Line 30
+3 但是 不管 怎樣 都 還是 很 好吃 喔
+program did not classify it as category 3
+
+3320_130.txt: Line 38
+3,4 對 我 來 說 感覺 是 比 平價 又 好吃 的 牛肉 麵店
+program did not classify it as category 3
+
+3320_130.txt: Line 42
+3 已經 是 非常 好吃 囉
 program did not classify it as category 3
 
 3320_130.txt: Line 52
@@ -118,10 +146,6 @@ program did not classify it as category 3
 3 筋肉 也 都 很 嫩
 program did not classify it as category 3
 
-3320_130.txt: Line 67
-8 吃 牛肉 的 時候 就 可以 猜 得到 湯頭 的 味道 一定 很 棒
-program error prediction: 3
-
 3320_130.txt: Line 69
 3 雖然 是 瘦肉 但是 彈嫩 不 柴
 program did not classify it as category 3
@@ -130,29 +154,21 @@ program did not classify it as category 3
 3 肉 都 有 湯頭 入味 香
 program did not classify it as category 3
 
+3320_130.txt: Line 72
+3 就 超 好吃 的
+program did not classify it as category 3
+
+3320_130.txt: Line 77
+3 魯 的 小菜 看起來 都 好 好吃 啊
+program did not classify it as category 3
+
 3307_40.txt: Line 43
 8 選好 拉麵 再 來 就 可以 選 麵條 軟硬 、 味道 濃淡 、 油脂 多寡
-program error prediction: 3
-
-3307_40.txt: Line 44
-8 味道 濃 油脂 多 可能 會 比較 偏向 日本 口味
-program error prediction: 3
-
-3307_40.txt: Line 45
-8 反正 味道 和 油脂 都 選 了 普通 的
-program error prediction: 3
-
-3307_40.txt: Line 60
-8 吃起來 也 感覺 只 是 加減 吃 的 項目
 program error prediction: 3
 
 3307_40.txt: Line 63
 3 較 無 香氣
 program did not classify it as category 3
-
-3307_40.txt: Line 66
-8 吃 多 當然 就 會 膩 了
-program error prediction: 3
 
 3307_40.txt: Line 67
 8 選 了 味道 普通 濃 的 湯頭 對 我 來 說 是 剛好 的 濃
@@ -166,9 +182,9 @@ program error prediction: 3
 3 因為 多 了 醬油 所以 滋味 比較 豐富 一點
 program did not classify it as category 3
 
-3307_40.txt: Line 78
-8 這 碗 對 我 來 說 就 比較 吃 不 膩
-program error prediction: 3
+3307_40.txt: Line 77
+3 不只 是 單單 的 濃 鹹 而已
+program did not classify it as category 3
 
 3307_40.txt: Line 83
 3 香濃 香濃 的 骨頭 滷 汁 感
@@ -198,8 +214,16 @@ program did not classify it as category 3
 3 所以 就 如 大家 想像 的 非常 的 .. 酸
 program did not classify it as category 3
 
+3308_50.txt: Line 44
+3 不 太 喜歡 有 些 火鍋店 送來 的 肉 軟趴趴 的
+program did not classify it as category 3
+
 3308_50.txt: Line 70
 3 太 好吃 啦
+program did not classify it as category 3
+
+3323_150.txt: Line 17
+3 但 聽說 鹹食 也 很 好吃 所以 便 帶 著 悲喜 交錯 的 心情 入座
 program did not classify it as category 3
 
 3323_150.txt: Line 23
@@ -237,10 +261,6 @@ program did not classify it as category 3
 3323_150.txt: Line 48
 3 因此 肉質 較 瘦 且 偏 乾
 program did not classify it as category 3
-
-3323_150.txt: Line 49
-8 我 覺得 吃起來 有點 像 麥當勞 的 起 司 漢堡
-program error prediction: 3
 
 3323_150.txt: Line 53
 3 咖哩 味偏 淡
@@ -310,24 +330,12 @@ program did not classify it as category 3
 3 小菜 部分 一點 都 不 馬虎
 program did not classify it as category 3
 
-3310_60.txt: Line 54
-8 吃起來 更 黏稠
-program error prediction: 3
-
 3310_60.txt: Line 60
 3 雞肉飯 好吃 就 算了
 program did not classify it as category 3
 
-3310_60.txt: Line 63
-8 以及 一點 都 不 死 鹹 的 偏 甜 滷 汁
-program error prediction: 3
-
 3310_60.txt: Line 71
 3 不過 這 道 台灣 的 平民 美食 真的 是 很 讚
-program did not classify it as category 3
-
-3310_60.txt: Line 80
-3 High 咖 覺得 頗 普通
 program did not classify it as category 3
 
 3325_160.txt: Line 65
@@ -458,10 +466,6 @@ program did not classify it as category 3
 3 不會 爛爛 的
 program did not classify it as category 3
 
-3311_70.txt: Line 40
-8 或許 是 為了 中和 三明治 餡料 的 重 口味 旁邊 的 沙拉 拌 的 是 清爽 的 油醋 醬
-program error prediction: 3
-
 3311_70.txt: Line 41
 3 但 卻 掩蓋 不 了 生菜 的 苦澀
 program did not classify it as category 3
@@ -470,10 +474,6 @@ program did not classify it as category 3
 3 麵 的 軟硬 適中 香料 氣味 很 足 稀少 的 雞肉 肉質 乾硬 且 沒有 入味
 program did not classify it as category 3
 
-3311_70.txt: Line 45
-8 上頭 擺設 的 吃起來 是 甜菜 絲 黏 在 盤 底 的 塊狀 是 起 司
-program error prediction: 3
-
 3311_70.txt: Line 46
 3 整 起 而言 算是 不 難吃 的 一 道 菜
 program did not classify it as category 3
@@ -481,14 +481,6 @@ program did not classify it as category 3
 3311_70.txt: Line 55
 3 在 嘴 裡 卡滋卡茲 無限 翻騰 的 同時 甜味 亦 盡情 地 釋放
 program did not classify it as category 3
-
-3311_70.txt: Line 56
-8 不過 哪裡 有 提 拉米 蘇 的 味道
-program error prediction: 3
-
-3311_70.txt: Line 58
-8 原來 是 要 淋 上 帶 點 炭焙 香 的 咖啡 焦糖 才 會 有 提 拉米 蘇 的 味道 出來
-program error prediction: 3
 
 3326_170.txt: Line 42
 3 即使 加 了 牛奶
@@ -510,12 +502,12 @@ program did not classify it as category 3
 3 他 的 包種茶 霜淇淋 、 鐵觀音 霜淇淋 、 鐵觀音 茶凍 都 是 用 貓空 茶 屋 的 天然 茶葉 自製 而 成
 program did not classify it as category 3
 
-3326_170.txt: Line 57
-8 吃起來 讓 人 感覺 很 放心 呢
-program error prediction: 3
+3326_170.txt: Line 60
+3 這 種 好吃 的 霜淇淋
+program did not classify it as category 3
 
 3312_80.txt: Line 11
-6 如果 覺得 台北 太 膩
+8 如果 覺得 台北 太 膩
 program error prediction: 3
 
 3312_80.txt: Line 20
@@ -546,12 +538,12 @@ program did not classify it as category 3
 3 不 入味
 program did not classify it as category 3
 
-3312_80.txt: Line 70
-8 前面 友人 的 餐點 我 吃 一口 就 覺得 不 是 味道 太 淡 就 是 太 稀
-program error prediction: 3
-
 3312_80.txt: Line 72
 3 覺得 不 是 那麼 對味
+program did not classify it as category 3
+
+3312_80.txt: Line 77
+3 他 卻 是 我 心目中 最 好吃 的 一 道 XD
 program did not classify it as category 3
 
 3312_80.txt: Line 78
@@ -566,20 +558,24 @@ program did not classify it as category 3
 3 很 好吃
 program did not classify it as category 3
 
-3329_180.txt: Line 25
-8 餅乾 等等 添增 口感
-program error prediction: 3
-
-3329_180.txt: Line 28
-8 吃起來 相對 輕盈 而且 富有 口感
-program error prediction: 3
-
 3314_90.txt: Line 13
 3 這 家 很 好吃 的 茶水攤 是 好友 凍 的 同事 帶 我 去 的
 program did not classify it as category 3
 
 3314_90.txt: Line 14
 3 說 中午 要 去 吃 很 好吃 的 港式 飲茶
+program did not classify it as category 3
+
+3314_90.txt: Line 16
+3 三 個 人 在 我 面前 都 點 了 超 好吃 的 午餐
+program did not classify it as category 3
+
+3314_90.txt: Line 22
+3 這 間 很 好吃 的 香港 茶水 攤
+program did not classify it as category 3
+
+3314_90.txt: Line 32
+3 這 是 我 心 中 目前 為止 超 好吃 而且 還 會 一直 想 回鍋 的 店
 program did not classify it as category 3
 
 3314_90.txt: Line 54
@@ -622,10 +618,6 @@ program did not classify it as category 3
 3 看 就 覺得 好吃
 program did not classify it as category 3
 
-3314_90.txt: Line 105
-8 所以 吃起來 不 刮口
-program error prediction: 3
-
 3314_90.txt: Line 109
 8 竟然 發現 紅蘿蔔 的 那 種 味道 沒有 很 重
 program error prediction: 3
@@ -633,10 +625,6 @@ program error prediction: 3
 3314_90.txt: Line 113
 3 炒 公仔 麵 看起來 非常 美味
 program did not classify it as category 3
-
-3314_90.txt: Line 114
-8 味道 整 個 飄過來 ...
-program error prediction: 3
 
 3314_90.txt: Line 115
 3 鮮蝦 的 肉 看 朋友 咬 的 感覺 很 彈
@@ -654,16 +642,16 @@ program did not classify it as category 3
 3 聽說 很 早期 的 時候 更 好吃
 program did not classify it as category 3
 
+3331_190.txt: Line 22
+3 想不到 真的 好吃 耶
+program did not classify it as category 3
+
 3331_190.txt: Line 74
 3 貝殼 麵 真 是 好吃
 program did not classify it as category 3
 
 3331_190.txt: Line 75
 3 不 是 口味 很 重 的 那 種 類型
-program did not classify it as category 3
-
-3331_190.txt: Line 78
-3 雖然 醬料 不 是 很多
 program did not classify it as category 3
 
 3331_190.txt: Line 79
@@ -686,10 +674,6 @@ program did not classify it as category 3
 8 雖然 沾 醬料 之後 芹菜 的 味道 變
 program error prediction: 3
 
-3331_190.txt: Line 111
-3 而且 纖維 滿 粗 的
-program did not classify it as category 3
-
 3331_190.txt: Line 115
 3 雷蒙 叔叔 還 算 滿 好吃 的
 program did not classify it as category 3
@@ -706,6 +690,10 @@ program did not classify it as category 3
 3 是 很 好吃
 program did not classify it as category 3
 
+3315_100.txt: Line 177
+3 香料 與 柑橘 香
+program did not classify it as category 3
+
 3315_100.txt: Line 182
 8 濃郁 的 香料 香
 program error prediction: 3
@@ -714,9 +702,9 @@ program error prediction: 3
 3 這樣 喝 起 茶 來 感覺 更 優雅 了 呢
 program did not classify it as category 3
 
-3315_100.txt: Line 238
-8 看到 有 些 人 的 食記 寫 說 它們 家 的 scone 吃起來 粉粉 的
-program error prediction: 3
+3315_100.txt: Line 241
+3 好吃
+program did not classify it as category 3
 
 3315_100.txt: Line 244
 3 三 種 搭配 的 醬 都 很 好吃
@@ -726,10 +714,6 @@ program did not classify it as category 3
 3 這 個 很 好吃
 program did not classify it as category 3
 
-3315_100.txt: Line 254
-8 不過 裡面 的 夾 餡 草莓 吃起來 仍然 跟 現 採 的 一
-program error prediction: 3
-
 3315_100.txt: Line 263
 8 焦糖 和 鵝肝 慕 斯 結合 的 味道 好像 巧克力
 program error prediction: 3
@@ -737,10 +721,6 @@ program error prediction: 3
 3315_100.txt: Line 266
 2,3 很 迷你 一 個 吃下去 還 會 覺得 回味 無窮
 program did not classify it as category 3
-
-3315_100.txt: Line 272
-8 這樣 鹹鹹 甜甜 混 著 吃 才 不會 容易 膩
-program error prediction: 3
 
 3315_100.txt: Line 276
 8 多汁 的 覆盆子 加
@@ -754,10 +734,6 @@ program did not classify it as category 3
 3 很 讓 人 驚豔 的 一 款
 program did not classify it as category 3
 
-3315_100.txt: Line 291
-8 是 就 這樣 的 口感
-program error prediction: 3
-
 3315_100.txt: Line 297
 3 裡面 是 榛果 奶油 餡 相當 好吃
 program did not classify it as category 3
@@ -770,12 +746,24 @@ program did not classify it as category 3
 3 沒有 扎實 飽滿 的 感覺
 program did not classify it as category 3
 
+3318_120.txt: Line 96
+3 即使 不 常 喝 啤酒 的 朋友 也 會 喜歡
+program did not classify it as category 3
+
 3318_120.txt: Line 98
 3 入 喉 有 股 淡淡 的 甜味 及 穀香
 program did not classify it as category 3
 
 3318_120.txt: Line 99
 3 泡沫 細微 滑 順 挺 不 賴
+program did not classify it as category 3
+
+3318_120.txt: Line 106
+3 開胃 拼盤 整體 來 說 還 挺 不錯 吃 的
+program did not classify it as category 3
+
+3318_120.txt: Line 112
+3 香蒜 麵包 佐以 適量 蘑菇 小 點 非常 好吃
 program did not classify it as category 3
 
 3318_120.txt: Line 130
@@ -786,12 +774,12 @@ program did not classify it as category 3
 3 以免 回 溫 產生 強烈 苦澀味
 program did not classify it as category 3
 
-3318_120.txt: Line 141
-8 而 我們 這 鍋 是 選擇 清爽 鹹香 的 白酒 青醬 口味
-program error prediction: 3
-
 3318_120.txt: Line 144
 3 品質 好 又 特別 新鮮
+program did not classify it as category 3
+
+3318_120.txt: Line 150
+3 真是 太 好吃 了 啦
 program did not classify it as category 3
 
 3318_120.txt: Line 161
@@ -814,6 +802,10 @@ program did not classify it as category 3
 3 用 未 發芽 的 麥 烘培 出具 有 咖啡 、 巧克力 和 麥 香味
 program did not classify it as category 3
 
+3318_120.txt: Line 203
+3 伴隨 著 腰果 與 巧克力 、 咖啡 香 的 滑 順酒 體
+program did not classify it as category 3
+
 3318_120.txt: Line 208
 8 啤酒 要 好喝
 program error prediction: 3
@@ -821,6 +813,30 @@ program error prediction: 3
 3318_120.txt: Line 212
 8 散發 一 股 咖啡 香氣 也 挺 好喝 的
 program error prediction: 3
+
+3320_130.txt: Line 6
+3 附近 有 很 好吃 的 & lt ; 上乘 三 家 火鍋店 & gt ; ( 雖然 我 只 吃 過 萬華店 的 上乘 三 家 )
+program did not classify it as category 3
+
+3320_130.txt: Line 16
+3 有 很多 好吃 的 可是 當時 都 很 忙 沒有 PO 上 來 跟 大家 分享
+program did not classify it as category 3
+
+3320_130.txt: Line 20
+3 他們 說 附近 有 一 家 很 好吃 的 牛肉麵
+program did not classify it as category 3
+
+3320_130.txt: Line 30
+3 但是 不管 怎樣 都 還是 很 好吃 喔
+program did not classify it as category 3
+
+3320_130.txt: Line 38
+3,4 對 我 來 說 感覺 是 比 平價 又 好吃 的 牛肉 麵店
+program did not classify it as category 3
+
+3320_130.txt: Line 42
+3 已經 是 非常 好吃 囉
+program did not classify it as category 3
 
 3320_130.txt: Line 52
 3 肉質 都 很 入 味
@@ -830,10 +846,6 @@ program did not classify it as category 3
 3 筋肉 也 都 很 嫩
 program did not classify it as category 3
 
-3320_130.txt: Line 67
-8 吃 牛肉 的 時候 就 可以 猜 得到 湯頭 的 味道 一定 很 棒
-program error prediction: 3
-
 3320_130.txt: Line 69
 3 雖然 是 瘦肉 但是 彈嫩 不 柴
 program did not classify it as category 3
@@ -842,8 +854,20 @@ program did not classify it as category 3
 3 肉 都 有 湯頭 入味 香
 program did not classify it as category 3
 
+3320_130.txt: Line 72
+3 就 超 好吃 的
+program did not classify it as category 3
+
+3320_130.txt: Line 77
+3 魯 的 小菜 看起來 都 好 好吃 啊
+program did not classify it as category 3
+
 3321_140.txt: Line 67
 3 所以 就 如 大家 想像 的 非常 的 .. 酸
+program did not classify it as category 3
+
+3323_150.txt: Line 17
+3 但 聽說 鹹食 也 很 好吃 所以 便 帶 著 悲喜 交錯 的 心情 入座
 program did not classify it as category 3
 
 3323_150.txt: Line 23
@@ -881,10 +905,6 @@ program did not classify it as category 3
 3323_150.txt: Line 48
 3 因此 肉質 較 瘦 且 偏 乾
 program did not classify it as category 3
-
-3323_150.txt: Line 49
-8 我 覺得 吃起來 有點 像 麥當勞 的 起 司 漢堡
-program error prediction: 3
 
 3323_150.txt: Line 53
 3 咖哩 味偏 淡
@@ -1090,17 +1110,13 @@ program did not classify it as category 3
 3 他 的 包種茶 霜淇淋 、 鐵觀音 霜淇淋 、 鐵觀音 茶凍 都 是 用 貓空 茶 屋 的 天然 茶葉 自製 而 成
 program did not classify it as category 3
 
-3326_170.txt: Line 57
-8 吃起來 讓 人 感覺 很 放心 呢
-program error prediction: 3
+3326_170.txt: Line 60
+3 這 種 好吃 的 霜淇淋
+program did not classify it as category 3
 
-3329_180.txt: Line 25
-8 餅乾 等等 添增 口感
-program error prediction: 3
-
-3329_180.txt: Line 28
-8 吃起來 相對 輕盈 而且 富有 口感
-program error prediction: 3
+3331_190.txt: Line 22
+3 想不到 真的 好吃 耶
+program did not classify it as category 3
 
 3331_190.txt: Line 74
 3 貝殼 麵 真 是 好吃
@@ -1108,10 +1124,6 @@ program did not classify it as category 3
 
 3331_190.txt: Line 75
 3 不 是 口味 很 重 的 那 種 類型
-program did not classify it as category 3
-
-3331_190.txt: Line 78
-3 雖然 醬料 不 是 很多
 program did not classify it as category 3
 
 3331_190.txt: Line 79
@@ -1134,16 +1146,8 @@ program did not classify it as category 3
 8 雖然 沾 醬料 之後 芹菜 的 味道 變
 program error prediction: 3
 
-3331_190.txt: Line 111
-3 而且 纖維 滿 粗 的
-program did not classify it as category 3
-
 3331_190.txt: Line 115
 3 雷蒙 叔叔 還 算 滿 好吃 的
-program did not classify it as category 3
-
-3333_200.txt: Line 9
-3 推薦 菜色 ： 沙皇 烤肉 、 布林餅
 program did not classify it as category 3
 
 3333_200.txt: Line 41
@@ -1222,18 +1226,6 @@ program did not classify it as category 3
 3 真 是 色 香味 俱全 呀
 program did not classify it as category 3
 
-3333_200.txt: Line 67
-3 同樣 加入 酸奶 調理 醬汁
-program did not classify it as category 3
-
-3333_200.txt: Line 68
-3 再 連同 大量 醃 醬 入 爐 烘烤
-program did not classify it as category 3
-
-3333_200.txt: Line 69
-3 有點 類似 燉菜
-program did not classify it as category 3
-
 3333_200.txt: Line 70
 3 充滿 嚼 勁 的 的 豬 肉塊 淋 上 滿滿 醬汁
 program did not classify it as category 3
@@ -1250,14 +1242,6 @@ program did not classify it as category 3
 3 口味 很 特別
 program did not classify it as category 3
 
-3333_200.txt: Line 74
-3 馬鈴薯 泥 同樣 沒有 過多 調味
-program did not classify it as category 3
-
-3333_200.txt: Line 75
-3 沾 點 醬汁 入口
-program did not classify it as category 3
-
 3333_200.txt: Line 77
 3 擺盤 還 佐上 茴香草
 program did not classify it as category 3
@@ -1270,32 +1254,8 @@ program did not classify it as category 3
 3 提升 整 道 料理 的 質感
 program did not classify it as category 3
 
-3333_200.txt: Line 80
-3 布林餅 是 俄羅斯 的 傳統 美食
-program did not classify it as category 3
-
-3333_200.txt: Line 81
-3 用 麵粉 、 鮮奶 與 酸奶 調製 而 成 的 布林餅
-program did not classify it as category 3
-
-3333_200.txt: Line 82
-3 餅皮 類似 可 麗餅
-program did not classify it as category 3
-
 3333_200.txt: Line 83
 3 但 更 蓬鬆 有 嚼 勁
-program did not classify it as category 3
-
-3333_200.txt: Line 84
-3 加入 雞肉 、 蘑菇 、 或 水果 都 很 適合
-program did not classify it as category 3
-
-3333_200.txt: Line 85
-3 甜點 選擇 了 蘋果 冰淇淋 布林餅
-program did not classify it as category 3
-
-3333_200.txt: Line 86
-3 將 蘋果 果粒 與 冰 起 淋 包裹 在 餅 裡
 program did not classify it as category 3
 
 3333_200.txt: Line 89
@@ -1306,10 +1266,6 @@ program did not classify it as category 3
 3 熱 呼呼 的 酸甜 蘋果 粒 和 香草 冰淇淋 搭配 在一起
 program did not classify it as category 3
 
-3333_200.txt: Line 91
-3 冷 熱 交融 在 餅 裡
-program did not classify it as category 3
-
 3333_200.txt: Line 92
 3 相當 好吃
 program did not classify it as category 3
@@ -1318,11 +1274,7 @@ program did not classify it as category 3
 3 餅 皮帶 點 淡淡 的 奶 香味
 program did not classify it as category 3
 
-3333_200.txt: Line 95
-3 交疊 的 布林餅 裡頭 有 著 滿滿 巧克力醬 與 香蕉片
-program did not classify it as category 3
-
 Test: category 3
-precision: 0.66851
-recall: 0.30867
-F1: 0.42234
+precision: 0.86188
+recall: 0.34667
+F1: 0.49445

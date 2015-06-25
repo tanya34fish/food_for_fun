@@ -6,6 +6,10 @@ program did not classify it as category 1
 1 非常 熱情
 program did not classify it as category 1
 
+3318_120.txt: Line 28
+5 以及 歐洲 家庭 親切 溫馨 的 氣氛
+program error prediction: 1
+
 3318_120.txt: Line 108
 1 奶油 蝦 已 貼心 去殼
 program did not classify it as category 1
@@ -58,6 +62,10 @@ program did not classify it as category 1
 1 只要 看到 茶杯 空 了 就 會 幫 人 斟滿
 program did not classify it as category 1
 
+3318_120.txt: Line 28
+5 以及 歐洲 家庭 親切 溫馨 的 氣氛
+program error prediction: 1
+
 3318_120.txt: Line 108
 1 奶油 蝦 已 貼心 去殼
 program did not classify it as category 1
@@ -83,6 +91,6 @@ program did not classify it as category 1
 program error prediction: 1
 
 Test: category 1
-precision: 0.80000
-recall: 0.66667
-F1: 0.72727
+precision: 0.74286
+recall: 0.65000
+F1: 0.69333

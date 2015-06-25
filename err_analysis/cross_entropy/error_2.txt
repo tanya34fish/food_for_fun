@@ -74,6 +74,10 @@ program did not classify it as category 2
 2 後來 她 食量 小吃 不 完 .. 所以 打包 ...
 program did not classify it as category 2
 
+3331_190.txt: Line 78
+2 雖然 醬料 不 是 很多
+program did not classify it as category 2
+
 3331_190.txt: Line 82
 2 料 也 很 豐富
 program did not classify it as category 2
@@ -98,6 +102,10 @@ program did not classify it as category 2
 2 還可以 加 湯加麵 喔
 program did not classify it as category 2
 
+3331_190.txt: Line 78
+2 雖然 醬料 不 是 很多
+program did not classify it as category 2
+
 3331_190.txt: Line 82
 2 料 也 很 豐富
 program did not classify it as category 2
@@ -108,5 +116,5 @@ program error prediction: 2
 
 Test: category 2
 precision: 0.86364
-recall: 0.44186
-F1: 0.58462
+recall: 0.42222
+F1: 0.56716

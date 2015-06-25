@@ -30,10 +30,6 @@ program did not classify it as category 5
 5 特地 在 桌面 鋪上 紅白 格紋 的 桌巾
 program did not classify it as category 5
 
-3318_120.txt: Line 28
-1 以及 歐洲 家庭 親切 溫馨 的 氣氛
-program error prediction: 5
-
 3318_120.txt: Line 33
 5 超 壯觀 的 酒 吧檯
 program did not classify it as category 5
@@ -114,10 +110,6 @@ program did not classify it as category 5
 8 luguocaf é 爐鍋 咖啡 @ 台南 絕對 空間
 program error prediction: 5
 
-3308_50.txt: Line 29
-8 店 內 用餐 環境 ↓ ↓ ↓
-program error prediction: 5
-
 3310_60.txt: Line 27
 6 店家 位於 靠近 吉林 路 上 的 松江路 巷 內
 program error prediction: 5
@@ -128,10 +120,6 @@ program error prediction: 5
 
 3325_160.txt: Line 32
 8 我們 大概 17  50 分 就 到 店 門口 了
-program error prediction: 5
-
-3325_160.txt: Line 39
-8 店 內 以 黑 色調 為主
 program error prediction: 5
 
 3325_160.txt: Line 40
@@ -219,7 +207,7 @@ program error prediction: 5
 program error prediction: 5
 
 3314_90.txt: Line 32
-8 這 是 我 心 中 目前 為止 超 好吃 而且 還 會 一直 想 回鍋 的 店
+3 這 是 我 心 中 目前 為止 超 好吃 而且 還 會 一直 想 回鍋 的 店
 program error prediction: 5
 
 3331_190.txt: Line 39
@@ -266,10 +254,6 @@ program did not classify it as category 5
 5 這裡 的 擺設 看起來 就 是 又 大 又 廣 又 深
 program did not classify it as category 5
 
-3315_100.txt: Line 90
-8 所以 座位 還 不 算 少
-program error prediction: 5
-
 3315_100.txt: Line 103
 8 原本 是 安排 在 這 個 座位 的
 program error prediction: 5
@@ -280,10 +264,6 @@ program did not classify it as category 5
 
 3315_100.txt: Line 107
 8 確認 沒有 人 指定 窗 邊 座位 之後
-program error prediction: 5
-
-3315_100.txt: Line 110
-8 然後 大人物 看到 這 個 很 像 王位 的 座位 就 喃喃 說
 program error prediction: 5
 
 3315_100.txt: Line 118
@@ -302,14 +282,6 @@ program did not classify it as category 5
 5 餐廳 有 提供 wifi
 program did not classify it as category 5
 
-3315_100.txt: Line 204
-8 當然 要 好好 欣賞 這裡 的 奢華 裝潢
-program error prediction: 5
-
-3315_100.txt: Line 209
-5 這 應該 也 是 名貴 的 收藏品
-program did not classify it as category 5
-
 3315_100.txt: Line 210
 5 牆 上 和 桌子 玻璃 隔板 下 都 是 皮雕 花卉
 program did not classify it as category 5
@@ -322,9 +294,9 @@ program did not classify it as category 5
 8 內 餡 是 焦糖 肉桂 風味
 program error prediction: 5
 
-3315_100.txt: Line 330
-8 另外 一 區 的 空間 跟 主廳 差不多
-program error prediction: 5
+3315_100.txt: Line 331
+5 但是 就 沒有 那麼 華麗 的 水晶 大 吊燈 了
+program did not classify it as category 5
 
 3315_100.txt: Line 339
 5 廁所 很 漂亮
@@ -349,10 +321,6 @@ program did not classify it as category 5
 3318_120.txt: Line 26
 5 特地 在 桌面 鋪上 紅白 格紋 的 桌巾
 program did not classify it as category 5
-
-3318_120.txt: Line 28
-1 以及 歐洲 家庭 親切 溫馨 的 氣氛
-program error prediction: 5
 
 3318_120.txt: Line 33
 5 超 壯觀 的 酒 吧檯
@@ -424,10 +392,6 @@ program error prediction: 5
 
 3325_160.txt: Line 32
 8 我們 大概 17  50 分 就 到 店 門口 了
-program error prediction: 5
-
-3325_160.txt: Line 39
-8 店 內 以 黑 色調 為主
 program error prediction: 5
 
 3325_160.txt: Line 40
@@ -503,6 +467,6 @@ program error prediction: 5
 program did not classify it as category 5
 
 Test: category 5
-precision: 0.36111
-recall: 0.24528
-F1: 0.29213
+precision: 0.48611
+recall: 0.30435
+F1: 0.37433

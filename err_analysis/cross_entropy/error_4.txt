@@ -2,6 +2,10 @@
 4 除下 來 的 單價 就 不 算 太 貴
 program did not classify it as category 4
 
+3320_130.txt: Line 38
+3,4 對 我 來 說 感覺 是 比 平價 又 好吃 的 牛肉 麵店
+program did not classify it as category 4
+
 3307_40.txt: Line 32
 4 不過 有加 一成 服務費
 program did not classify it as category 4
@@ -90,6 +94,10 @@ program did not classify it as category 4
 4 除下 來 的 單價 就 不 算 太 貴
 program did not classify it as category 4
 
+3320_130.txt: Line 38
+3,4 對 我 來 說 感覺 是 比 平價 又 好吃 的 牛肉 麵店
+program did not classify it as category 4
+
 3323_150.txt: Line 18
 4 好滴 咖啡 不 收取 服務 費用
 program did not classify it as category 4
@@ -144,5 +152,5 @@ program did not classify it as category 4
 
 Test: category 4
 precision: 0.97849
-recall: 0.72800
-F1: 0.83486
+recall: 0.71654
+F1: 0.82727

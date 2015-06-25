@@ -6,20 +6,16 @@ program error prediction: 7
 3 非常 好吃
 program error prediction: 7
 
-3304_20.txt: Line 40
-7 朋友 吃 了 讚不絕口
-program did not classify it as category 7
-
 3318_120.txt: Line 96
-8 即使 不 常 喝 啤酒 的 朋友 也 會 喜歡
+3 即使 不 常 喝 啤酒 的 朋友 也 會 喜歡
 program error prediction: 7
 
 3318_120.txt: Line 112
-8 香蒜 麵包 佐以 適量 蘑菇 小 點 非常 好吃
+3 香蒜 麵包 佐以 適量 蘑菇 小 點 非常 好吃
 program error prediction: 7
 
 3318_120.txt: Line 150
-8 真是 太 好吃 了 啦
+3 真是 太 好吃 了 啦
 program error prediction: 7
 
 3318_120.txt: Line 162
@@ -35,7 +31,7 @@ program error prediction: 7
 program error prediction: 7
 
 3305_30.txt: Line 55
-8 佑佑 較 不 喜歡 吃 這 種 生菜
+3 佑佑 較 不 喜歡 吃 這 種 生菜
 program error prediction: 7
 
 3305_30.txt: Line 70
@@ -47,43 +43,35 @@ program did not classify it as category 7
 program error prediction: 7
 
 3320_130.txt: Line 6
-8 附近 有 很 好吃 的 & lt ; 上乘 三 家 火鍋店 & gt ; ( 雖然 我 只 吃 過 萬華店 的 上乘 三 家 )
+3 附近 有 很 好吃 的 & lt ; 上乘 三 家 火鍋店 & gt ; ( 雖然 我 只 吃 過 萬華店 的 上乘 三 家 )
 program error prediction: 7
 
 3320_130.txt: Line 16
-8 有 很多 好吃 的 可是 當時 都 很 忙 沒有 PO 上 來 跟 大家 分享
+3 有 很多 好吃 的 可是 當時 都 很 忙 沒有 PO 上 來 跟 大家 分享
 program error prediction: 7
 
 3320_130.txt: Line 20
-8 他們 說 附近 有 一 家 很 好吃 的 牛肉麵
+3 他們 說 附近 有 一 家 很 好吃 的 牛肉麵
 program error prediction: 7
 
 3320_130.txt: Line 30
-8 但是 不管 怎樣 都 還是 很 好吃 喔
+3 但是 不管 怎樣 都 還是 很 好吃 喔
 program error prediction: 7
 
 3320_130.txt: Line 38
-8 對 我 來 說 感覺 是 比 平價 又 好吃 的 牛肉 麵店
+3,4 對 我 來 說 感覺 是 比 平價 又 好吃 的 牛肉 麵店
 program error prediction: 7
 
 3320_130.txt: Line 42
-8 已經 是 非常 好吃 囉
+3 已經 是 非常 好吃 囉
 program error prediction: 7
 
 3320_130.txt: Line 72
-8 就 超 好吃 的
+3 就 超 好吃 的
 program error prediction: 7
 
 3320_130.txt: Line 77
-8 魯 的 小菜 看起來 都 好 好吃 啊
-program error prediction: 7
-
-3307_40.txt: Line 51
-8 我 喜歡
-program error prediction: 7
-
-3307_40.txt: Line 74
-8 另外 一 碗 醬油 拉麵 我們 一致 覺得 比較 喜歡
+3 魯 的 小菜 看起來 都 好 好吃 啊
 program error prediction: 7
 
 3307_40.txt: Line 85
@@ -99,7 +87,7 @@ program error prediction: 7
 program error prediction: 7
 
 3308_50.txt: Line 44
-8 不 太 喜歡 有 些 火鍋店 送來 的 肉 軟趴趴 的
+3 不 太 喜歡 有 些 火鍋店 送來 的 肉 軟趴趴 的
 program error prediction: 7
 
 3308_50.txt: Line 51
@@ -111,7 +99,7 @@ program error prediction: 7
 program error prediction: 7
 
 3323_150.txt: Line 17
-8 但 聽說 鹹食 也 很 好吃 所以 便 帶 著 悲喜 交錯 的 心情 入座
+3 但 聽說 鹹食 也 很 好吃 所以 便 帶 著 悲喜 交錯 的 心情 入座
 program error prediction: 7
 
 3323_150.txt: Line 60
@@ -142,9 +130,9 @@ program did not classify it as category 7
 3 雞肉飯 好吃 就 算了
 program error prediction: 7
 
-3310_60.txt: Line 70
-8 雖然 說 不 是 什麼 令 人 驚豔 的 高級 料理
-program error prediction: 7
+3310_60.txt: Line 80
+7 High 咖 覺得 頗 普通
+program did not classify it as category 7
 
 3310_60.txt: Line 81
 7 沒 什麼 特別
@@ -211,7 +199,7 @@ program error prediction: 7
 program error prediction: 7
 
 3326_170.txt: Line 60
-8 這 種 好吃 的 霜淇淋
+3 這 種 好吃 的 霜淇淋
 program error prediction: 7
 
 3312_80.txt: Line 56
@@ -219,7 +207,7 @@ program error prediction: 7
 program error prediction: 7
 
 3312_80.txt: Line 77
-8 他 卻 是 我 心目中 最 好吃 的 一 道 XD
+3 他 卻 是 我 心目中 最 好吃 的 一 道 XD
 program error prediction: 7
 
 3312_80.txt: Line 83
@@ -235,11 +223,15 @@ program error prediction: 7
 program error prediction: 7
 
 3314_90.txt: Line 16
-8 三 個 人 在 我 面前 都 點 了 超 好吃 的 午餐
+3 三 個 人 在 我 面前 都 點 了 超 好吃 的 午餐
+program error prediction: 7
+
+3314_90.txt: Line 22
+3 這 間 很 好吃 的 香港 茶水 攤
 program error prediction: 7
 
 3314_90.txt: Line 32
-8 這 是 我 心 中 目前 為止 超 好吃 而且 還 會 一直 想 回鍋 的 店
+3 這 是 我 心 中 目前 為止 超 好吃 而且 還 會 一直 想 回鍋 的 店
 program error prediction: 7
 
 3314_90.txt: Line 61
@@ -275,7 +267,7 @@ program error prediction: 7
 program error prediction: 7
 
 3331_190.txt: Line 22
-8 想不到 真的 好吃 耶
+3 想不到 真的 好吃 耶
 program error prediction: 7
 
 3331_190.txt: Line 71
@@ -315,7 +307,7 @@ program did not classify it as category 7
 program did not classify it as category 7
 
 3315_100.txt: Line 241
-8 好吃
+3 好吃
 program error prediction: 7
 
 3315_100.txt: Line 244
@@ -339,15 +331,15 @@ program error prediction: 7
 program error prediction: 7
 
 3318_120.txt: Line 96
-8 即使 不 常 喝 啤酒 的 朋友 也 會 喜歡
+3 即使 不 常 喝 啤酒 的 朋友 也 會 喜歡
 program error prediction: 7
 
 3318_120.txt: Line 112
-8 香蒜 麵包 佐以 適量 蘑菇 小 點 非常 好吃
+3 香蒜 麵包 佐以 適量 蘑菇 小 點 非常 好吃
 program error prediction: 7
 
 3318_120.txt: Line 150
-8 真是 太 好吃 了 啦
+3 真是 太 好吃 了 啦
 program error prediction: 7
 
 3318_120.txt: Line 162
@@ -359,35 +351,35 @@ program did not classify it as category 7
 program error prediction: 7
 
 3320_130.txt: Line 6
-8 附近 有 很 好吃 的 & lt ; 上乘 三 家 火鍋店 & gt ; ( 雖然 我 只 吃 過 萬華店 的 上乘 三 家 )
+3 附近 有 很 好吃 的 & lt ; 上乘 三 家 火鍋店 & gt ; ( 雖然 我 只 吃 過 萬華店 的 上乘 三 家 )
 program error prediction: 7
 
 3320_130.txt: Line 16
-8 有 很多 好吃 的 可是 當時 都 很 忙 沒有 PO 上 來 跟 大家 分享
+3 有 很多 好吃 的 可是 當時 都 很 忙 沒有 PO 上 來 跟 大家 分享
 program error prediction: 7
 
 3320_130.txt: Line 20
-8 他們 說 附近 有 一 家 很 好吃 的 牛肉麵
+3 他們 說 附近 有 一 家 很 好吃 的 牛肉麵
 program error prediction: 7
 
 3320_130.txt: Line 30
-8 但是 不管 怎樣 都 還是 很 好吃 喔
+3 但是 不管 怎樣 都 還是 很 好吃 喔
 program error prediction: 7
 
 3320_130.txt: Line 38
-8 對 我 來 說 感覺 是 比 平價 又 好吃 的 牛肉 麵店
+3,4 對 我 來 說 感覺 是 比 平價 又 好吃 的 牛肉 麵店
 program error prediction: 7
 
 3320_130.txt: Line 42
-8 已經 是 非常 好吃 囉
+3 已經 是 非常 好吃 囉
 program error prediction: 7
 
 3320_130.txt: Line 72
-8 就 超 好吃 的
+3 就 超 好吃 的
 program error prediction: 7
 
 3320_130.txt: Line 77
-8 魯 的 小菜 看起來 都 好 好吃 啊
+3 魯 的 小菜 看起來 都 好 好吃 啊
 program error prediction: 7
 
 3321_140.txt: Line 68
@@ -399,7 +391,7 @@ program error prediction: 7
 program error prediction: 7
 
 3323_150.txt: Line 17
-8 但 聽說 鹹食 也 很 好吃 所以 便 帶 著 悲喜 交錯 的 心情 入座
+3 但 聽說 鹹食 也 很 好吃 所以 便 帶 著 悲喜 交錯 的 心情 入座
 program error prediction: 7
 
 3323_150.txt: Line 60
@@ -471,11 +463,11 @@ program error prediction: 7
 program error prediction: 7
 
 3326_170.txt: Line 60
-8 這 種 好吃 的 霜淇淋
+3 這 種 好吃 的 霜淇淋
 program error prediction: 7
 
 3331_190.txt: Line 22
-8 想不到 真的 好吃 耶
+3 想不到 真的 好吃 耶
 program error prediction: 7
 
 3331_190.txt: Line 71
@@ -507,6 +499,6 @@ program error prediction: 7
 program did not classify it as category 7
 
 Test: category 7
-precision: 0.12727
-recall: 0.31111
-F1: 0.18065
+precision: 0.14545
+recall: 0.34043
+F1: 0.20382
