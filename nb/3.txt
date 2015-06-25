@@ -1,0 +1,4 @@
+category: 3
+precision: 0.84541
+recall: 0.57003
+f1: 0.68093
