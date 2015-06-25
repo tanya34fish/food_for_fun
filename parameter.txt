@@ -1,90 +1,25 @@
-Usage: python testing_v4.py
-This program will use ngram.py to count ngram again
-also run word_importance and cross_entropy
-run ngram...
-read 174 training files done.
-exclude 19 testing files done.
-word_importance
-Test: category 1, threshold: 17
-precision: 0.82759
-recall: 0.77419
-F1: 0.80000
-================
-cross_entropy
-Test: category 1, threshold: 17
-precision: 0.82759
-recall: 0.77419
-F1: 0.80000
-================
-word_importance
-Test: category 2, threshold: 10
-precision: 0.71429
-recall: 0.46875
-F1: 0.56604
-================
-cross_entropy
-Test: category 2, threshold: 10
-precision: 0.71429
-recall: 0.46875
-F1: 0.56604
-================
-word_importance
-Test: category 3, threshold: 22
-precision: 0.64821
-recall: 0.64821
-F1: 0.64821
-================
-cross_entropy
-Test: category 3, threshold: 24
-precision: 0.83178
-recall: 0.57980
-F1: 0.68330
-================
-word_importance
-Test: category 4, threshold: 21
-precision: 0.89535
-recall: 0.93902
-F1: 0.91667
-================
-cross_entropy
-Test: category 4, threshold: 29
-precision: 0.95122
-recall: 0.95122
-F1: 0.95122
-================
-word_importance
-Test: category 5, threshold: 36
-precision: 0.43333
-recall: 0.50649
-F1: 0.46707
-================
-cross_entropy
-Test: category 5, threshold: 22
-precision: 0.44776
-recall: 0.38961
-F1: 0.41667
-================
-word_importance
-Test: category 6, threshold: 11
-precision: 0.97059
-recall: 0.84615
-F1: 0.90411
-================
-cross_entropy
-Test: category 6, threshold: 13
-precision: 0.97059
-recall: 0.84615
-F1: 0.90411
-================
-word_importance
-Test: category 7, threshold: 6
-precision: 0.45833
-recall: 0.34375
-F1: 0.39286
-================
-cross_entropy
-Test: category 7, threshold: 7
-precision: 0.45833
-recall: 0.34375
-F1: 0.39286
-================
+Method 1: ngram
+
+category           1           2           3           4           5           6           7
+freq               7           4          12          13           9           7           9
+precision   0.758621    0.869565    0.548387    0.911281    0.448276    1.000000    0.131980
+recall      0.550000    0.444444    0.571749    0.832000    0.339130    0.724138    0.553191
+F1          0.637681    0.588235    0.559824    0.870293    0.386139    0.840000    0.213115
+
+
+Method 2: word_importance
+
+category	       1	       2	       3	       4	       5	       6	       7
+threshold	      17	      10	      22	      21	      36	      11	       6
+precision	0.827586	0.714286	0.648208	0.895349	0.433333	0.970588	0.458333
+recall  	0.774194	0.468750	0.648208	0.939024	0.506494	0.846154	0.343750
+F1      	0.800000	0.566038	0.648208	0.916667	0.467066	0.904110	0.392857
+
+
+Method 3: cross_entropy
+
+category	       1	       2	       3	       4	       5	       6	       7
+threshold	      17	      10	      24	      29	      22	      13	       7
+precision	0.827586	0.714286	0.831776	0.951220	0.447761	0.970588	0.458333
+recall  	0.774194	0.468750	0.579805	0.951220	0.389610	0.846154	0.343750
+F1      	0.800000	0.566038	0.683301	0.951220	0.416667	0.904110	0.392857
