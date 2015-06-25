@@ -29,7 +29,7 @@ def test(category,method):
 
     g = open(os.path.join(err_dir,'error_%d.txt' %category), 'w')
     for file_idx in xrange(200):
-        for file in glob.glob(os.path.join(dir, '*' + str(file_idx + 1) +'.txt')):
+        for file in glob.glob(dir + '*_' + str(file_idx + 1) +'.txt'):
             path, input = os.path.split(file)
             idx = int(input.split('_')[1].split('.')[0])
             if idx %10 == 0:
