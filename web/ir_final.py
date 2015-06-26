@@ -1,5 +1,6 @@
 # coding = UTF-8
 from flask import Flask, request
+from training import trainRealTime
 import os
 
 c_lst = [[] for i in range(8)]
@@ -86,6 +87,7 @@ def execute (q):
     with open("temp.txt", "w") as f:
         f.write(q)
 
+    trainRealTime()
     # TODO
 
     with open("result.txt", "r") as f:
