@@ -1,0 +1,130 @@
+vn:FW	513868:DET	(:PARENTHESISCATEGORY	我:N	的:T	老天:N	啊:T	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	初:POST	訪:Vt	教父:N	牛排:N	Danny'sSteakhouse:FW	
+Wed:FW	
+May:FW	
+13:DET	
+19:DET	::COLONCATEGORY	24:DET	::COLONCATEGORY	18:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	教父:N	牛排:N	Danny'sSteakhouse:FW	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	5月:N	
+地址:N	：:COLONCATEGORY	台北市:N	樂群:Vi	三路:N	58:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	8501:DET	-:DASHCATEGORY	1838:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	~:FW	15:DET	::COLONCATEGORY	0018:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1500:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+推薦:Vt	菜色:N	：:COLONCATEGORY	乾式:N	熟成:Vt	牛排:N	
+網誌:N	好讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/yBhjvmorFacebook:FW	專頁:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/S7fyrO:FW	
+如果:C	做為:Vt	一:DET	個:M	汽車:N	維修員:N	
+身:N	上:N	帶:Vt	著:ASP	扳手:N	很:ADV	正常:Vi	
+那麼:ADV	身為:Vt	一:DET	個:M	牛肉:N	愛好:Vt	者:N	
+衝:Vi	著:ASP	
+教父:N	
+的:T	名聲:N	慕名而來:Vi	
+想必:ADV	也:ADV	很:ADV	合:Vt	邏輯:N	
+對:P	教父:N	牛排:N	慕名:Vi	已:ADV	久:Vi	
+除了:P	老闆:N	是:Vt	牛排界:N	的:T	名廚:N	之外:POST	
+便是:C	想:Vt	一:ADV	嚐:Vt	乾式:N	熟成:Vt	牛排:N	的:T	滋味:N	
+教父:N	牛排:N	的:T	菜單:N	午晚餐:N	不同:Vi	
+除了:P	前菜:N	的:T	選擇:N	內容:N	不同:Vi	之外:POST	
+牛排:N	的:T	種類:N	也:ADV	不:ADV	一樣:Vi	
+價位:N	自然:ADV	也:ADV	有所:Vt	差異:N	
+做為:Vt	教父:N	牛排:N	的:T	初心:N	者:N	
+選擇:Vt	價位:N	稍微:ADV	平易近人:Vi	一點:ADV	的:T	午餐:N	時段:N	
+套餐:N	內容:N	包含:Vt	麵包:N	、:PAUSECATEGORY	前菜:N	、:PAUSECATEGORY	湯:N	、:PAUSECATEGORY	主餐:N	、:PAUSECATEGORY	甜點:N	和:C	飲料:N	
+熱騰騰:Vi	的:T	手工:N	麵包:N	
+烤:Vt	得:T	鬆軟:Vi	但:C	很:ADV	有:Vt	嚼:Vt	勁:N	
+香氣:N	十足:Vi	
+單:ADV	吃:Vt	也:ADV	很:ADV	好吃:Vi	
+抹上:Vt	牛油:N	後:POST	可以:ADV	直接:Vi	吃:Vt	
+或是:C	再:ADV	蘸上:Vt	一點:DET	鹽:N	
+味道:N	會:ADV	更:ADV	豐富:Vt	一點:ADV	
+前菜:N	之:T	一:DET	：:COLONCATEGORY	香煎:N	干貝:N	
+表面:N	煎:Vt	至:P	微焦:N	
+底下:N	鋪:Vt	著:ASP	用:Vt	蔥:N	和:C	高湯:N	打成:Vt	的:T	泥:N	
+灑上:Vt	培根:N	末:N	
+盤側:N	用油:N	醋醬:N	點綴:Vt	著:ASP	
+雖然:C	表面:N	微焦:N	
+但:C	入口:N	依然:ADV	多汁:Vi	而:C	不:ADV	柴:N	
+好吃:Vi	
+前菜:N	之:T	二:DET	：:COLONCATEGORY	香煎:N	鮪魚:N	
+是:Vt	道:M	涼菜:N	
+鮪魚:N	表面:N	稍微:ADV	煎:Vt	過:ASP	
+灑上:Vt	蝦夷:N	蔥:N	
+一樣:Vi	是:Vt	搭配:Vt	油醋:N	醬:N	
+味道:N	清爽:Vi	
+但:C	邊:ADV	吃:Vt	卻:ADV	一直:ADV	邊:ADV	想:Vt	著:ASP	稻燻:N	鰹魚:N	
+湯:N	是:Vt	招牌:N	的:T	牛:N	肝:N	菌卡布:N	奇:ADV	諾:FW	
+把:P	菇類:N	和:C	高湯:N	一起:ADV	打成:Vt	濃稠:Vi	的:T	湯汁:N	
+上:N	層:N	覆上:Vt	奶:N	泡:Vt	
+灑上:Vt	煎:Vt	過:ASP	的:T	菇類:N	
+是:Vt	不:ADV	是:Vt	牛:N	肝:N	菌:N	我:N	不:ADV	知道:Vt	
+味道:N	非常:ADV	濃郁:Vi	
+像:Vt	是:Vt	濃縮版:N	的:T	巴西:N	蘑菇:N	雞湯:N	
+美味:Vi	和:C	創意:N	兼具:Vt	
+湯品:N	結束:Vt	後:POST	
+準備:Vt	上:DET	主菜:N	前:POST	
+會:ADV	先:ADV	送上:Vt	牛排:N	的:T	佐料:N	
+有:Vt	芥末:N	子醬:N	和:C	鹽:N	之:T	花:N	
+主菜:N	之:T	一:DET	：:COLONCATEGORY	美國:N	頂級:A	肋:N	眼:N	菲力:N	
+表面:N	烤:Vt	得:T	香酥:N	
+切開:Vt	後:POST	是:Vt	漂亮:Vi	的:T	粉紅色:N	且:C	不:ADV	帶:Vt	血水:N	
+入口:N	後:POST	馬上:ADV	可以:ADV	嚐到:Vt	明顯:Vi	的:T	肉香:N	
+而:C	表皮:N	的:T	酥脆:Vi	焦:Vi	香:N	和:C	內裡:N	的:T	柔嫩:Vi	多汁:Vi	
+味道:N	結合:Vt	得:T	很:ADV	棒:Vi	
+蘸上:Vt	些許:DET	的:T	鹽:N	
+更:ADV	提:Vt	得:T	出:Vt	牛肉:N	的:T	鮮甜:Vi	滋味:N	
+主菜:N	之:T	二:DET	：:COLONCATEGORY	美國:N	頂級:A	乾式:N	熟成:Vt	紐約客:N	
+滿懷:Vt	期待:Vt	的:T	切肉:Vi	入口:N	
+口感:N	一樣:Vi	柔韌:Vi	多汁:Vi	
+第一:DET	口:M	並:ADV	不:ADV	覺得:Vt	太:ADV	特別:Vi	
+但:C	接著:ADV	吃下去:Vi	
+會:ADV	慢慢:Vi	吃到:Vt	一:DET	股:M	特別:Vi	醇厚:Vi	的:T	肉:N	香味:N	
+並:C	帶:Vt	著:ASP	一點:DET	微:ADV	酸:Vi	
+和:C	焦:Vi	脆:Vi	的:T	外層:N	一起:ADV	多:ADV	嚼:Vt	幾:DET	下:M	
+味道:N	真的:ADV	不錯:Vi	
+不過:C	烤:Vt	蒜頭:N	的:T	部分:DET	
+倒是:ADV	有點:ADV	令:Vt	人:N	訝異:Vt	
+因為:C	蒜香:N	不:ADV	明顯:Vi	
+反倒:C	有:Vt	一點:DET	苦澀:Nv	
+服務生:N	說:Vt	吃完:Vt	可以:ADV	再:ADV	要:ADV	
+但:C	我:N	連:ADV	本來:ADV	的:T	都:ADV	沒:ADV	吃完:Vt	
+比較:ADV	喜歡:Vt	鐵板燒:N	那樣:Vi	的:T	乾煎蒜片:N	
+這樣:Vi	形容:Vt	好了:T	：:COLONCATEGORY	如果:C	肋:N	眼:N	菲力:N	是:Vt	林:N	東芳:N	
+那:DET	乾式:N	熟成:Vt	紐約客:N	就:ADV	是:Vt	加:Vt	了:ASP	一點:DET	骨髓:N	辣:Vi	油:N	的:T	林:N	東芳:N	
+這:DET	股:M	醇厚:Vi	香氣:N	是:Vt	不:ADV	是:Vt	因為:C	經過:P	熟成:Vt	
+我:N	大概:ADV	還:ADV	沒有:Vt	那:DET	個:M	味蕾:N	分辨:Vt	
+但:C	乾式:N	熟成:Vt	紐約客:N	確實:ADV	好吃:Vi	一點:ADV	
+兩:DET	道:M	都:ADV	是:Vt	好:Vi	牛排:N	
+且:C	都:ADV	是:Vt	軟嫩:Vi	而:C	有:Vt	咬:Vt	勁:N	的:T	口感:N	
+比起:P	肋眼:N	的:T	超:Vt	柔軟:Vi	口感:N	
+菲力:N	或:C	紐約客:N	是:Vt	我:N	比較:ADV	偏愛:Vt	的:T	類型:N	
+也:ADV	比較:ADV	像:Vt	
+吃:Vt	肉:N	
+這:DET	件:M	事:N	該:DET	有的:DET	感覺:N	
+平心而論:Vi	
+乾式:N	熟成:Vt	固然:C	好吃:Vi	
+但:C	以:P	美味:Vi	程度:N	而言:Vt	
+我:N	認為:Vt	跟:P	自己:N	到:P	Costco:FW	買:Vt	Prime:FW	等級:N	的:T	肉:N	回家:Vi	煎:Vt	
+沒有:Vt	失誤:N	的:T	前提:N	下:POST	
+大概:ADV	是:Vt	90:DET	分:M	跟:P	85:DET	分:M	的:T	差別:N	
+其實:ADV	差距:N	並:ADV	沒有:ADV	那麼:ADV	大:Vi	
+若:C	想要:Vt	嘗試:Vt	乾式:N	熟成:Vt	
+個:M	人:N	覺得:Vt	可以:ADV	體驗:Vt	看看:ASP	
+但:C	若是:C	慶祝:Nv	或:C	聚餐:Vi	
+個:M	人:N	認為:Vt	像:P	沾美:N	那樣:Vi	的:T	餐廳:N	
+氣氛:N	和:C	美味:Vi	程度:N	都:ADV	不會:ADV	遜色:Vi	
+但:C	價位:N	會:ADV	讓:Vt	人:N	更:ADV	和顏悅色:Vi	
+差點:ADV	忘:Vt	了:ASP	它:N	
+配菜:N	的:T	部分:DET	是:Vt	焗:b	烤馬鈴薯:N	
+搭配:Vt	酸奶:N	和:C	乾:Vi	培根:N	末:N	
+味道:N	還:ADV	不:ADV	賴:Vt	
+甜點:N	和:C	飲料:N	的:T	部分:DET	
+跟:P	前面:N	的:T	菜餚:N	比起來:ADV	
+個:M	人:N	認為:Vt	實在:ADV	是:Vt	有點:ADV	普通:Vi	
+沒有:Vt	什麼:DET	特別:Vi	之:T	處:N	
+就:ADV	不:ADV	特別:Vi	寫:Vt	了:ASP	
+教父:N	牛排:N	Danny'sSteakhouse:FW	台北市:N	中山區:N	樂群:Vi	三路:N	58:DET	號:M	
+02:DET	
+8501:DET	-:DASHCATEGORY	183812:DET	::COLONCATEGORY	00:DET	
+15:DET	::COLONCATEGORY	0018:DET	::COLONCATEGORY	00:DET	
+22:DET	::COLONCATEGORY	30:DET	--:DASHCATEGORY	FB:FW	粉絲團:N	開張:Vi	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/letsbechoosy:FW	跪:Vi	求:Vt	按:P	讚:Vt	XD:FW	--:DASHCATEGORY	

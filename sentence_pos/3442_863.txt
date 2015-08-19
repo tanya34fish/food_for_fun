@@ -1,0 +1,113 @@
+assayu:FW	(:PARENTHESISCATEGORY	泡:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北市:N	信義區:N	平價:N	《:PARENTHESISCATEGORY	Gimme:FW	自家:N	烘焙:Vt	咖啡:N	》:PARENTHESISCATEGORY	
+Wed:FW	
+Aug:FW	
+20:DET	
+13:DET	::COLONCATEGORY	52:DET	::COLONCATEGORY	07:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Gimme:FW	自家:N	烘焙:Vt	咖啡:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	忠孝東路:N	四段:N	559巷:N	14:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2763:DET	-:DASHCATEGORY	6553:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	周:N	一:ADV	至:P	周六:N	7:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	19:DET	::COLONCATEGORY	30:DET	，:COMMACATEGORY	周日:N	休息:Vi	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ahwoo.pixnet.net/blog/post:FW	/:FW	177868648:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	以下:N	純:Vi	文字版:N	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	工作:Vi	之餘:POST	
+來到:Vt	松山文:N	創:Vt	中心:N	的:T	小:Vi	巷子:N	中:POST	
+在:P	琳瑯滿目:Vi	的:T	咖啡店:N	海:N	裡:N	
+我們:N	走進:Vt	了:ASP	這:DET	家:M	Gimme:FW	自家:N	烘焙:Vt	咖啡:N	
+店:N	內:N	不:ADV	大:Vi	
+桌子數:N	大概:ADV	5:DET	、:PAUSECATEGORY	6:DET	張:M	
+可:ADV	容納:Vt	的:T	人:N	也:ADV	不:ADV	多:Vi	
+就:ADV	大概:ADV	10:DET	幾:DET	人:N	吧:T	
+在:P	這:DET	個:M	兵家:N	必:ADV	爭:Vt	之:T	地:N	
+其實:ADV	生存:Vi	不易:Vi	呀:T	
+也:ADV	就:ADV	僅:ADV	能:ADV	用:P	小小:Vi	的:T	坪數:N	完成:Vt	大大:Vi	的:T	夢想:N	
+但:C	最:ADV	擔心:Vt	的:T	還是:C	房東:N	漲價:Vi	了:T	
+辛苦:Vt	了:ASP	
+店:N	外:N	也:ADV	擺上:Vt	了:ASP	一:DET	張:M	桌子:N	
+兩:DET	張:M	椅子:N	
+天氣:N	不:ADV	熱:Vt	的:T	午後:N	
+坐:Vi	在:P	這裡:N	聊:Vt	上:DET	兩:DET	句:M	
+也:ADV	是:Vt	挺:ADV	好:Vi	的:T	
+光亮:Vi	透明:Vi	的:T	店面:N	
+希望:Vt	降低:Vt	距離:N	感:Vt	
+增添:Vt	目光:N	度:Vt	
+下:DET	次:M	經過:Vt	時:POST	也:ADV	別:ADV	忘:Vt	了:ASP	停下:Vt	腳步:N	
+這:DET	是:Vt	門:N	外:N	立牌:N	的:T	推薦:Nv	
+夏季:N	首選:N	的:T	冰荔香:N	拿:Vt	鐵:N	
+荔枝:N	這:DET	個:M	水果:N	
+感覺:N	就是:C	為了:P	夏日:N	而:C	生:Vt	
+GimmeCoffee:FW	
+給:Vt	我:N	來:Vi	杯:M	咖啡:N	吧:T	
+進去:Vi	前:POST	的:T	玻璃門:N	
+也:ADV	很:ADV	有:Vt	個性:N	的:T	寫上:Vt	店家:N	的:T	喜好:Nv	
+畢竟:ADV	空間:N	也:ADV	不:ADV	大:Vi	
+來:ADV	這裡:N	嚐:Vt	杯:M	咖啡:N	
+我們:N	就:ADV	再:ADV	出門:Vi	努力:Vi	奮鬥:Vi	吧:T	
+這裡:N	就:ADV	像:Vt	個:M	驛站:N	一樣:Vi	
+讓:Vt	旅人:N	來:ADV	稍:ADV	作:Vt	歇息:Vi	
+進入:Vt	店:N	內:N	後:POST	的:T	空間:N	
+當天:N	去:Vt	的:T	時間:N	約莫:ADV	下午:N	3:DET	點:M	多:POST	
+平日:N	人潮:N	還:ADV	好:Vi	
+但:C	再:ADV	過:Vt	一下:N	
+店:N	內:N	就:ADV	客滿:Vi	囉:T	
+不過:C	Gimme:FW	主打:Nv	得:ADV	還是:ADV	外帶:Vt	客群:N	啦:T	
+工作:N	區域:N	
+老闆:N	夫婦:N	正:ADV	忙著:Vt	準備:Vt	餐點:N	
+店:N	內:N	很多:DET	烘焙:Nv	咖啡:N	、:PAUSECATEGORY	泡:Vt	咖啡:N	的:T	傢伙:N	
+雖然:C	我:N	也:ADV	不:ADV	太:ADV	懂:Vt	
+但:C	感覺:Vt	很:ADV	專業:Vi	就:ADV	是:Vt	
+這裡:N	也:ADV	有:Vt	買:Vt	濾掛:Vt	咖啡:N	
+想:Vt	自己:N	動手:Vi	的:T	
+也:ADV	可以:ADV	來:ADV	試試:Vt	
+包裝:N	上:N	的:T	女孩:N	還:ADV	真的:ADV	很:ADV	美麗:Vi	
+有:Vt	種:M	美國:N	大兵:N	會:ADV	愛:Vt	的:T	女孩:N	那:DET	種:M	fu:FW	
+誤:Vt	這:DET	個:M	是:Vt	咖啡:N	與:C	茶類:N	的:T	菜單:N	
+最:ADV	讓:Vt	人:N	驚艷:Vi	的:T	就是:C	價格:N	啦:T	
+每:DET	次:M	去:ADV	喝:Vt	下午茶:N	隨便:Vi	一:DET	杯:M	都:ADV	要:Vt	個:M	100多:DET	元:M	
+但:C	這裡:N	只:ADV	要:Vt	65:DET	元:M	就:ADV	有:Vt	了:ASP	
+真的:ADV	很:ADV	便宜:Vi	耶:T	
+非常:ADV	適合:Vi	做:Vt	上班族:N	一:DET	天:M	活力:N	的:T	開端:N	
+或是:C	下午:N	的:T	慰勞:Vt	自己:N	
+黑板:N	上:N	的:T	是:Vt	食物類:N	的:T	菜單:N	
+不管:C	是:Vt	早:Vi	午餐:N	呀:T	還是:C	沙拉:N	、:PAUSECATEGORY	三明治:N	都:ADV	有:Vt	
+不過:C	別:ADV	忘:Vt	了:ASP	
+早:Vi	午餐:N	限時:ADV	下午:N	兩:DET	點:N	以前:N	供應:Vt	
+這:DET	是:Vt	我:N	點:Vt	的:T	玫瑰:N	拿:Vt	鐵:N	--:DASHCATEGORY	65:DET	元:M	
+雖然:C	是:Vt	中杯:N	
+但:C	它:N	的:T	中杯:N	真的:ADV	也:ADV	不:ADV	小:Vi	
+喝:Vt	起來:ASP	的:T	感覺:N	
+上:DET	層:M	是:Vt	濃濃:Vi	的:T	奶泡:N	
+帶:Vt	著:ASP	玫瑰味:N	
+喝:Vt	久:Vi	也:ADV	不會:ADV	膩:Vi	
+快:ADV	喝完:Vt	前:POST	
+味道:N	會:ADV	不如:Vt	一:DET	開始:Vi	的:T	甜:Vi	
+但:C	一點點:DET	咖啡:N	苦:Vi	
+更:ADV	是:Vt	畫下:Vt	了:ASP	一:DET	份:M	餐點:N	的:T	美好:Vi	句點:N	
+可能:ADV	是:Vt	因為:C	我:N	還:ADV	有:Vt	吃:Vt	草莓:N	香蕉:N	花生:N	三明治:N	
+所以:C	配上:Vt	這樣:Vi	的:T	咖啡:N	正:ADV	是:Vt	剛好:ADV	
+這:DET	是:Vt	友人點:N	的:T	冰荔香:N	拿:Vt	鐵:N	--:DASHCATEGORY	65:DET	元:M	
+他:N	說:Vt	喝:Vt	起來:ASP	荔枝:N	跟:P	咖啡:N	真的:ADV	很:ADV	契合:Vi	
+光:ADV	用:P	想像:Vt	的:T	
+我:N	也:ADV	覺得:Vt	應該:ADV	很:ADV	好喝:Vi	呢:T	
+這:DET	個:M	就是:C	草莓:N	花生:N	香蕉:N	三明治:N	--:DASHCATEGORY	50:DET	元:M	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	花生:N	對:P	我:N	特別:Vi	有:Vt	魔力:N	還:ADV	啥:DET	
+像:Vt	是:Vt	摩:Vt	斯:DET	的:T	漢堡:N	
+如果:C	有加:ADV	花生醬:N	得:T	我:N	也:ADV	是:Vt	超:Vt	愛:N	
+這:DET	個:M	三明治:N	這:DET	三:DET	種:M	東西:N	加:Vt	起來:ASP	我:N	也:ADV	覺得:Vt	好:ADV	好吃:Vi	
+也:ADV	很:ADV	適合:Vi	當:P	小朋友:N	的:T	點心:N	
+一定:ADV	在:P	幼稚園:N	中:POST	會:ADV	熱賣:Vi	哈哈:ADV	
+但:C	記得:Vt	要:ADV	刷牙:Vi	唷:T	小朋友:N	
+Gimme:FW	自家:N	烘焙:Vt	咖啡:N	
+鄰近:Vt	市政府:N	捷運站:N	、:PAUSECATEGORY	國父:N	紀念館:N	捷運站:N	
+鄰近:Vt	松山文:N	創:Vt	園區:N	
+鄰近:Vt	許多:DET	辦公:Nv	大樓:N	
+真心:Vi	覺得:Vt	價格:N	真的:ADV	很:ADV	便宜:Vi	
+不過:C	當:P	人:N	你:N	不能:ADV	拿:Vt	它:N	跟:P	7:DET	-:DASHCATEGORY	11:DET	或是:C	全:DET	家:N	比:P	
+畢竟:ADV	那:DET	是:Vt	不:ADV	一樣:Vi	的:T	東西:N	
+雖然:C	說:Vt	我:N	都:ADV	花:Vt	4:DET	、:PAUSECATEGORY	50:DET	元:M	就:ADV	解決:Vt	早餐:N	
+但:C	如果:C	它:N	開:Vt	在:P	我:N	公司:N	旁邊:N	
+有時:ADV	想:Vt	給:Vt	自己:N	一:DET	個:M	獎賞:N	時:POST	
+真的:ADV	就:ADV	很:ADV	想到:Vt	這:DET	來:ADV	一:DET	杯:M	
+Gimme:FW	咖啡:N	
+Gimme:FW	自家:N	烘焙:Vt	咖啡:N	地址:N	：:COLONCATEGORY	台北市:N	信義區:N	忠孝東路:N	四段:N	559巷:N	14:DET	號:M	1樓:N	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2763:DET	-:DASHCATEGORY	6553:DET	--:DASHCATEGORY	

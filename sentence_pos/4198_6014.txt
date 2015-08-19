@@ -1,0 +1,32 @@
+chakphet:FW	(:PARENTHESISCATEGORY	貓咪布:N	娃娃:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	‧:PERIODCATEGORY	微:A	客棧:N	搬家:Vi	了:T	！:EXCLAMATIONCATEGORY	
+Wed:FW	
+Apr:FW	
+1:DET	
+18:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	02:DET	
+2015:DET	
+廣宣:Vt	
+台北:N	‧:PERIODCATEGORY	微:A	客棧:N	搬家:Vi	了:ASP	
+WedApr:FW	118:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	022015:DET	
+店名:N	：:COLONCATEGORY	微:A	客棧:N	咖啡館:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	信義路:N	二段:N	44巷:N	10弄:N	6:DET	號:M	1樓:N	
+捷運:N	東門:N	站:Vi	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	33221202:DET	
+無:Vt	異動:Vi	
+原本:ADV	在:P	台北市:N	寧波:N	東街:N	3:DET	-:DASHCATEGORY	2:DET	號:M	、:PAUSECATEGORY	擁有:Vt	一:DET	棵:M	大樹:N	及:C	一:DET	棟:M	老:Vi	房子:N	的:T	微:A	客棧:N	咖啡館:N	
+以及:C	微客:N	公益:N	行動:N	協會:N	搬家:Vi	了:ASP	
+3:DET	/:FW	25:DET	中午:N	開標:Vi	後:POST	
+得知:Vt	無法:ADV	繼續:Vt	承租:Vt	
+並:C	通知:Vt	必須:ADV	在:P	3:DET	/:FW	31:DET	早上:N	9:DET	點:M	交屋:Vi	
+在:P	短短:Vi	五:DET	天:M	打包:Vi	及:C	整理:Vt	的:T	過程:N	雖然:C	辛苦:Vt	
+但:C	真的:ADV	很:ADV	感謝:Vt	許多:DET	微:A	客棧:N	的:T	老朋友:N	
+以及:C	街坊:N	鄰居:N	紛紛:ADV	前來:Vt	給予:Vt	協助:Nv	與:C	支持:Nv	
+院子:N	裡:N	的:T	花草:N	樹木:N	、:PAUSECATEGORY	暖陽:N	照進來:Vi	的:T	木頭:N	窗子:N	、:PAUSECATEGORY	
+色彩:N	繽紛:Vi	的:T	牆壁:N	及:C	鐵窗:N	、:PAUSECATEGORY	舒適:Vi	的:T	沙發:N	及:C	空間:N	
+都:ADV	會:ADV	讓:Vt	支持:Vt	微:A	客棧:N	的:T	朋友:N	們:N	感到:Vt	懷念:Vt	及:C	不捨:Vt	
+雖然:C	時間:N	如此:ADV	緊迫:Vi	
+但:C	微:A	客棧:N	咖啡館:N	在:P	3:DET	/:FW	28:DET	中午:N	已經:ADV	找到:Vt	新:Vi	家:N	了:T	
+預計:Vt	5月:N	初:POST	可以:ADV	重新:ADV	開幕:Vi	
+屆時:ADV	餐點:N	及:C	營業:Nv	時間:N	也:ADV	會:ADV	重新:ADV	調整:Vt	
+歡迎:Vt	舊雨新知:N	再度:ADV	光臨:Vt	
+並:C	繼續:Vt	支持:Vt	微客:N	在:P	遠方:N	服務:Vt	的:T	孩子:N	及:C	婦女:N	

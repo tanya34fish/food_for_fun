@@ -1,0 +1,131 @@
+paulyear:FW	(:PARENTHESISCATEGORY	阿一:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	寧夏:N	夜市:N	帝:N	一:DET	火鍋:N	石頭:N	火鍋:N	吃:Vt	到:P	飽:Vi	
+Mon:FW	
+Feb:FW	
+16:DET	
+22:DET	::COLONCATEGORY	59:DET	::COLONCATEGORY	05:DET	
+2015:DET	
+─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	
+餐廳:N	名稱:N	：:COLONCATEGORY	帝:N	一:DET	火鍋:N	
+消費:N	日期:N	：:COLONCATEGORY	2015年:N	01月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大同區:N	寧夏路:N	23:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2556:DET	-:DASHCATEGORY	4176:DET	
+單人:A	限制:N	：:COLONCATEGORY	一樓:N	可:ADV	單人:A	二樓:N	需:Vt	兩:DET	人:N	以上:POST	
+
+價位:N	：:COLONCATEGORY	平日:N	午餐:N	228:DET	元:M	，:COMMACATEGORY	晚餐:N	248:DET	元:M	，:COMMACATEGORY	週末:N	假日:N	午晚餐:N	273:DET	元:M	，:COMMACATEGORY	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	–:FW	22:DET	::COLONCATEGORY	00:DET	
+優惠:Vt	資訊:N	：:COLONCATEGORY	學生:N	或:C	65:DET	歲:M	以上:POST	長者:N	優惠:Nv	
+─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	─:FW	
+完整:Vi	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.paulyear.com/blog/post:FW	/:FW	406870669:DET	
+最近:N	台北:N	壟:M	罩:Vt	在:P	一:DET	片:M	寒流:N	之中:POST	
+待在:Vt	更:ADV	靠:P	北:N	的:T	三芝:N	感覺:N	更:ADV	明顯:Vi	
+冷:Vi	風:N	呼呼:ADV	吹:Vt	好像:ADV	都:ADV	沒有:Vt	回溫:N	過:Vt	
+這時:N	最:ADV	適合:Vi	的:T	食物:N	就:ADV	是:Vt	火鍋:N	了:T	
+如果:C	是:Vt	吃到:Vt	飽:Vi	的:T	更:ADV	能:ADV	維持:Vt	熱量:N	
+回到:Vt	台北:N	立刻:ADV	跟:P	網友:N	互:ADV	揪:Vt	直衝:N	
+寧夏:N	夜市:N	的:T	50:DET	年:M	老店:N	
+帝:N	一:DET	火鍋:N	創立:Vt	於:P	民國:N	51年:N	
+能:ADV	賣到:Vt	現在:N	真的:ADV	很:ADV	不:ADV	簡單:Vi	
+也:ADV	吸引:Vt	壹:DET	週刊:N	、:PAUSECATEGORY	食尚:N	玩家:N	等:POST	報章:N	媒體:N	的:T	介紹:N	
+它:N	一共:ADV	有:Vt	兩:DET	層:M	樓:N	
+一樓:N	為:Vt	一:DET	人:N	獨享:Vt	的:T	迴轉:Nv	涮涮:b	鍋:M	
+二樓:N	則:ADV	是:Vt	傳統:Vi	共食:Vt	大:Vi	石頭:N	火鍋:N	
+限:Vt	兩:DET	人:N	以上:POST	才:ADV	能:ADV	享用:Vt	
+上:N	下樓:Vi	價格:N	皆:ADV	相同:Vi	非常:ADV	親切:Vi	
+平日:N	午餐:N	228:DET	元:M	
+晚餐:N	248:DET	元:M	
+週末:N	假日:N	午晚餐:N	也:ADV	只:ADV	要:Vt	273:DET	元:M	
+加上:C	一成:DET	服務費:N	最:ADV	貴:Vi	才:ADV	300:DET	元:M	
+這麼:ADV	便宜:Vi	的:T	定價:N	在:P	台北:N	已:ADV	很:ADV	難:Vi	見到:Vt	
+學生:N	或:C	65:DET	歲:M	以上:POST	還:ADV	有:Vt	優惠:Nv	
+是:Vt	不:ADV	是:Vt	太:ADV	貼心:Vi	了:T	呢:T	
+讓:Vt	人:N	很:ADV	懷念:Vt	的:T	旋轉:Nv	涮涮:b	鍋:M	
+當:P	學生:N	時:POST	很:ADV	愛:Vt	來:Vi	一:DET	次:M	給:Vt	它:N	吃:Vt	個:M	夠本:Vi	
+有:Vt	沙茶:N	、:PAUSECATEGORY	麻辣:A	、:PAUSECATEGORY	石頭:N	、:PAUSECATEGORY	味噌:N	、:PAUSECATEGORY	素食:N	五:DET	種:M	湯頭:N	
+湯頭:N	都:ADV	是:Vt	直接:Vi	一:DET	鍋:M	上桌:Vi	
+如果:C	想:Vt	品嚐:Vt	正統:A	的:T	石頭:N	火鍋:N	要:ADV	上:Vt	二樓:N	
+很:ADV	有:Vt	老式:A	餐廳:N	氣氛:N	的:T	二樓:N	
+服務生:N	看起來:ADV	也:ADV	都:ADV	有:Vt	一定:A	年紀:N	
+衛生:N	當然:ADV	較:ADV	新穎:Vi	餐館:N	差:Vi	了:ASP	些:ADV	
+但:C	服務生:N	都:ADV	像:Vt	媽媽:N	般:POST	親切:Vi	
+雖然:C	很:ADV	忙:Vi	還是:ADV	會:ADV	跟:P	你:N	閒聊:Vt	一下:N	
+讓:Vt	人:N	感受到:Vt	老店:N	的:T	人情味:N	
+整:DET	面:M	牆:N	介紹:Vt	帝:N	一:DET	火鍋:N	的:T	歷史:N	
+邊:ADV	吃:Vt	還:ADV	能:ADV	見到:Vt	雍容華貴:Vi	的:T	老闆娘:N	
+石鍋:N	火鍋:N	重點:N	的:T	醬料區:N	
+雖然:C	平常:N	阿:N	一一:ADV	吃:Vt	火鍋:N	的:T	不:ADV	沾醬:N	
+但:C	來:ADV	帝:N	一絕:N	不能:ADV	錯過:Vt	它:N	的:T	沙茶醬:N	
+是:Vt	自製:Vt	的:T	獨門:A	消魂:Vi	醬料:N	
+就是:C	它:N	才:ADV	有:Vt	美味:Vi	的:T	石頭:N	火鍋:N	
+300:DET	元:M	沒辦法:Vi	要求:Vt	太多:Vi	
+但:C	基本:A	配料:N	也:ADV	沒有:Vt	少:Vi	
+多:DET	種:M	青菜:N	、:PAUSECATEGORY	火鍋:N	配料:N	
+牛:N	、:PAUSECATEGORY	豬:N	、:PAUSECATEGORY	雞:N	、:PAUSECATEGORY	魚片:N	及:C	多:DET	道:M	海鮮:N	
+當然:ADV	新鮮度:N	就:ADV	沒辦法:Vi	太過:ADV	要求:Vt	
+至少:ADV	客人:N	多:ADV	補貨:Vi	的:T	速度:N	也:ADV	很:ADV	快:Vi	
+不用:ADV	擔心:Vt	沒有:Vt	料:N	可以:ADV	夾:Vt	來:ADV	煮:Vt	
+除了:P	肉品:N	蔬菜:N	配料:N	等:POST	基本盤:N	
+還:ADV	有:Vt	生菜:N	沙拉:N	、:PAUSECATEGORY	王子麵:N	也:ADV	隨:P	你:N	拿:Vt	
+各式各樣:A	的:T	涼拌:Nv	小菜:N	
+連:C	壽司:N	都:ADV	有:Vt	
+涼拌:Vt	小菜:N	不夠看:Vi	
+五香:N	豬肉:N	、:PAUSECATEGORY	滷蛋:N	、:PAUSECATEGORY	三杯雞:N	都:ADV	準備好:Vt	了:ASP	
+即使:C	不:ADV	吃:Vt	火鍋:N	也:ADV	能:ADV	吃:Vt	得:T	很:ADV	飽:Vi	
+甜點:N	有:Vt	簡單:Vi	的:T	小:Vi	蛋糕:N	和:C	地瓜:N	湯飯:N	後:POST	均衡:Vt	一:DET	下:M	的:T	水果盤:N	
+柳丁:N	、:PAUSECATEGORY	西瓜:N	、:PAUSECATEGORY	番茄:N	等:POST	相當:ADV	有:Vt	誠意:N	
+飲料:N	有:Vt	紅茶:N	、:PAUSECATEGORY	果汁:N	和:C	汽泡:N	飲料:N	
+想:Vt	喝:Vt	瓶裝:A	飲料:N	或:C	吼:Vi	搭:Vt	啦:T	就:ADV	要:ADV	另外:ADV	付費:Vi	
+喝:Vt	酒:N	不:ADV	開車:Vi	
+開車:Vi	不:ADV	喝:Vt	酒:N	
+冰淇淋:N	想:Vt	挖:Vt	幾:DET	球:N	都:ADV	沒:Vt	問題:N	環顧:Vt	豐富:Vt	的:T	自助:Nv	吧:T	一:DET	圈:M	
+老派:A	的:T	餐廳:N	還是:ADV	要:ADV	來:ADV	杯:M	茶:N	才:ADV	有:Vt	fu:FW	
+尤其:ADV	用:P	鐵壺:N	裝:Vt	著:ASP	更:ADV	有:Vt	感覺:N	
+吃:Vt	火鍋:N	前:POST	先:ADV	來:Vi	個:M	滷蛋:N	和:C	三杯雞:N	
+這:DET	部分:DET	不能:ADV	要求:Vt	有:Vt	多:ADV	美味:Vi	
+300:DET	元:M	的:T	價格:N	只:ADV	能:ADV	吃:Vt	粗飽:Vi	
+滷蛋:N	當然:ADV	不可能:ADV	滷:Vt	的:T	很:ADV	入:Vt	味:N	
+至少:ADV	肉:N	夠多:Vi	能:ADV	補充:Vt	蛋白質:N	就:ADV	好:Vi	
+石頭:N	火鍋:N	的:T	配料:N	和:C	肉:N	已:ADV	準備好:Vt	
+第一:DET	鍋:M	要:ADV	炒:Vt	的:T	肉:N	由:P	服務生:N	送上來:Vt	
+看起來:ADV	好像:ADV	比:P	冷藏櫃:N	油花:N	多:Vi	了:ASP	些:ADV	
+這樣:Vi	炒:Vt	起來:ASP	才:ADV	會:ADV	比較:ADV	香:Vi	
+石頭:N	火鍋:N	現場秀:N	即將:ADV	展開:Vt	
+先:ADV	將:P	洋蔥:N	、:PAUSECATEGORY	辣椒:N	快速:Vi	爆香:Vi	
+再:ADV	把:P	肉:N	整:DET	盤:M	豪爽:Vi	倒入:Vt	繼續:Vt	拌炒:Vt	
+邊:ADV	炒:Vt	香氣:N	就:ADV	不斷:ADV	誘惑:Vt	著:ASP	我們:N	
+之後:N	把:P	大略:ADV	炒好:Vt	的:T	肉:N	先:ADV	夾:Vt	出來:Vi	
+換:Vt	放入:Vt	高麗菜:N	繼續:Vt	給:Vt	它:N	炒炒:Vt	炒:Vt	
+把:P	肉:N	放回去:Vi	後:POST	
+準備:Vt	倒入:Vt	帝一:N	的:T	銷魂:Vi	沙茶醬:N	
+最後:N	倒入:Vt	滿滿:Vi	高湯:N	就:ADV	完成:Vt	了:ASP	
+阿姨:N	們:N	果然:ADV	有:Vt	練:Vt	過:ASP	
+動作:N	超:Vt	快:Vi	
+迅速:Vi	確實:Vi	
+先:ADV	來:ADV	嚐嚐:Vt	看:Vt	湯頭:N	的:T	味道:N	
+沒有:ADV	太:ADV	重:Vi	的:T	味道:N	
+帶:Vt	點:M	沙茶:N	香:Vi	
+帶:Vt	點:M	香氣:N	
+喝:Vt	起來:ASP	溫暖:Vt	舒服:Vi	
+接下來:ADV	就:ADV	要:ADV	大:Vi	口:N	吃:Vt	肉:N	
+煙霧:N	瀰漫:Vi	更:ADV	是:Vt	吸引人:Vi	阿:N	
+沾:Vt	點:N	自製:Vt	的:T	沙茶醬:N	
+味道:N	真的:ADV	很:ADV	不:ADV	一樣:Vi	
+恰當:Vi	好處:N	的:T	鹹:Vi	
+沙茶:N	的:T	鮮:Nv	和:C	香氣:N	更:ADV	凸顯:Vt	牛肉:N	的:T	甜:Vi	
+混合:Vt	著:ASP	油花:N	的:T	滑嫩:Vi	
+一口:ADV	下肚:Vi	真:ADV	是:Vt	滿足:Vt	啊:T	
+再:ADV	來:ADV	試試:Vt	豬肉:N	
+豬肉:N	相比:Vi	就:ADV	比較:ADV	乾:Vi	硬:Vi	
+凍:Vt	豆腐:N	吸飽:Vt	熱熱:Vi	湯汁:N	咬下去:Vt	不錯:Vi	吃:Vt	
+豬肉:N	吃完:Vt	換:Vt	雞肉:N	
+看:Vt	得:T	出:Vt	是:Vt	完整:Vi	雞腿肉:N	
+也:ADV	吃:Vt	得到:Vt	肉:N	的:T	彈性:N	
+算:Vt	相當:ADV	有:Vt	誠意:N	
+三:DET	種:M	肉:N	PK:FW	之下:POST	阿:N	一一:ADV	還是:ADV	最愛:N	牛肉:N	
+多:ADV	吃:Vt	個:M	幾:DET	盤:M	應該:ADV	就:ADV	回:Vt	本:DET	了:T	
+最後:N	再:ADV	來:ADV	盤:M	甜點:N	水果:N	
+起士:N	蛋糕:N	配:Vt	應景:Vi	的:T	大:Vi	顆:M	棗子:N	
+花:Vt	少少:Vi	錢:N	就:ADV	能:ADV	大:Vi	口:N	吃:Vt	肉:N	
+加上:C	獨門:A	的:T	美味:Vi	沙茶醬:N	
+難怪:ADV	帝:N	一:DET	火鍋:N	才:ADV	能:ADV	繼續:Vt	屹立不搖:Vi	
+--:DASHCATEGORY	歡迎:Vt	光臨:Vt	我:N	的:T	部落格:N	阿:N	一一:ADV	之:T	食意:N	與:C	旅遊:Nv	的:T	閒適:Nv	http:FW	::COLONCATEGORY	/:FW	/:FW	paulyearkimo.pixnet.net/blog:FW	--:DASHCATEGORY	

@@ -1,0 +1,107 @@
+type:FW	1:DET	(:PARENTHESISCATEGORY	教練:N	!:EXCLAMATIONCATEGORY	我:N	想:Vt	拍照:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	【:PARENTHESISCATEGORY	台北:N	】:PARENTHESISCATEGORY	寒舍:N	艾麗:N	酒店:N	《:PARENTHESISCATEGORY	LaFarfalla:FW	》:PARENTHESISCATEGORY	
+Sat:FW	
+Aug:FW	
+23:DET	
+00:DET	::COLONCATEGORY	30:DET	::COLONCATEGORY	25:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	LaFarfalla:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松高路:N	18:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	6631:DET	-:DASHCATEGORY	8060:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1500:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	
+【:PARENTHESISCATEGORY	圖文:N	部落格:N	】:PARENTHESISCATEGORY	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	melodysfunplay.pixnet.net/blog/post:FW	/:FW	179554444:DET	
+【:PARENTHESISCATEGORY	吃:Vt	台北:N	】:PARENTHESISCATEGORY	寒舍:N	艾麗:N	酒店:N	HumbleHouse:FW	
+LaFarfalla:FW	
+義式:A	餐廳:N	
+寒舍:N	集團:N	於:P	2013年:N	11月:N	底:POST	又:ADV	另:DET	開:Vt	了:ASP	一:DET	棟:M	融合:Nv	藝術:N	、:PAUSECATEGORY	文化:N	、:PAUSECATEGORY	新:Vi	生活:N	品味:N	為:Vt	概念:N	的:T	
+寒舍:N	艾麗:N	
+酒店:N	Humblehouse:FW	
+Mel:FW	除了:P	愛:Vt	美食:N	外:POST	
+還:ADV	非常:ADV	愛:Vt	逛:Vt	+:FW	愛:N	住:Vt	飯店:N	
+一直:ADV	就:ADV	很:ADV	喜歡:Vt	蔡家:N	經營:Vt	
+的:T	喜來登:N	飯店:N	的:T	餐廳:N	&:FW	amp:FW	
+寒舍:N	艾美:N	
+終於:ADV	排出:Vt	時間:N	和:C	朋友:N	來:ADV	吃吃:Vt	最近:N	強打:N	的:T	LAFARFALLA:FW	
+HumbleHouse:FW	的:T	一樓:N	大廳:N	不:ADV	大:Vi	
+天:N	上:N	掛:Vt	的:T	像:Vt	雪花:N	般:POST	的:T	藝術:N	燈飾:N	非常:ADV	抽象:Vi	
+LAFARFALLA:FW	義式:A	餐廳:N	位於:Vt	飯店:N	的:T	6樓:N	
+從:P	一樓:N	可:ADV	直達:Vt	電梯:N	到:Vt	餐廳:N	
+感覺:N	
+寒舍:N	艾麗:N	酒店:N	
+的:T	設計:N	以:P	商務:N	旅客:N	為主:Vi	
+如果:C	與:P	其他:DET	的:T	大型:N	飯店:N	相比:Vi	
+半:DET	自助式:N	的:T	
+LAFARFALLA:FW	義式:A	餐廳:N	空間:N	面積:N	並:ADV	不:ADV	大:Vi	
+整:DET	個:M	餐廳:N	的:T	風格:N	走:Vi	簡單:Vi	時尚:N	風:N	
+入口處:N	的:T	燈:N	球:N	倒:ADV	很:ADV	有:Vt	意大利:N	設計師:N	的:T	風格:N	
+夜晚:N	的:T	信義區:N	
+外面:N	的:T	霓虹燈:N	夜景:N	使:Vt	餐廳:N	看起來:ADV	格外:ADV	的:T	低調:N	奢華:Vi	
+今晚:N	很:ADV	幸運:Vi	被:P	安排:Vt	在:P	靠:Vt	窗:N	的:T	位子:N	用餐:Vi	
+晚上:N	的:T	信義區:N	真的:ADV	蠻:ADV	美:Vi	的:T	
+很:ADV	有:Vt	情調:N	
+這邊:N	的:T	用餐:Nv	方式:N	和:C	一般:A	的:T	傳統:N	buffet:FW	不:ADV	太:ADV	一樣:Vi	
+採:Vt	半:DET	自主式:N	
+除了:P	海鮮:N	、:PAUSECATEGORY	冷盤:N	、:PAUSECATEGORY	沙拉盤:N	、:PAUSECATEGORY	
+甜點:N	水果:N	糕點:N	
+是:Vt	無:Vt	限量:Vi	任取:Vt	
+主菜:N	&:FW	amp:FW	
+湯品:N	&:FW	amp:FW	
+餐:N	後:POST	飲料:N	是:Vt	要:ADV	特別:Vi	看:Vt	菜單:N	做:Vt	選擇:Vt	
+我:N	覺得:Vt	每:DET	一:DET	道:M	看起來:ADV	都:ADV	好:ADV	好吃:Vi	..:ETCCATEGORY	呵呵:ADV	
+先:ADV	送來:Vt	一:DET	人:N	一:DET	盤:M	的:T	義大利:N	烤:Vt	麵包:N	佐:Vt	橄欖油:N	+:FW	番茄:N	丁:N	醬料:N	
+我:N	覺得:Vt	他們:N	的:T	麵包:N	很:ADV	好吃:Vi	
+主菜:N	上:N	來:T	前:POST	就:ADV	先:ADV	到:P	自助:Vi	區拿:N	些:M	自己:N	愛:Vt	吃:Vt	的:T	食物:N	
+海鮮區:N	
+有:Vt	甜:Vi	蝦:N	、:PAUSECATEGORY	帝王:N	蟹:N	、:PAUSECATEGORY	淡菜:N	、:PAUSECATEGORY	貝類:N	、:PAUSECATEGORY	小:Vi	章魚:N	等:POST	
+光:ADV	看到:Vt	帝王:N	蟹:N	可以:ADV	吃到:Vt	飽:Vi	
+就:ADV	已經:ADV	覺得:Vt	物超:N	所:ADV	
+值:Vt	了:ASP	
+前菜:N	冷盤區:N	
+火腿:N	沙拉區:N	
+水果:N	甜點區:N	
+整:DET	個:M	buffet:FW	區域:N	很:ADV	像:Vt	寒舍:N	艾美:N	酒店:N	
+探索:Vt	廚房:N	
+的:T	縮小版:N	
+其實:ADV	菜色:N	有點:ADV	雷同:Vi	
+今日:N	的:T	湯品:N	有:Vt	蔬菜:N	濃湯:N	和:C	海鮮:N	清湯:N	
+我:N	選擇:Vt	的:T	是:Vt	蔬菜:N	濃湯:N	蠻:ADV	好喝:Vi	的:T	有:Vt	洋蔥:N	蘿蔔:N	等:POST	濃濃:Vi	的:T	青菜味:N	
+我:N	拿:Vt	的:T	第一:DET	道:M	前:POST	菜:N	冷盤:N	
+從:P	六點鐘:N	方向:N	順時鐘:A	介紹:Vt	：:COLONCATEGORY	凱薩沙拉:N	、:PAUSECATEGORY	鵝肝:N	醬抹:Vt	牛肉片:N	、:PAUSECATEGORY	烤:Vt	義式:A	蔬菜:N	甜椒:N	、:PAUSECATEGORY	帕瑪士:N	火腿:N	生:Vt	
+菜:N	、:PAUSECATEGORY	中間:N	的:T	是:Vt	番茄蛋:N	
+我:N	的:T	第二:DET	盤:M	海鮮盤:N	
+乾煎:N	北海道:N	干貝:N	佐:Vt	海膽:N	燉飯:Vt	1680:DET	元:M	
+超級:A	大大:Vi	推:Vt	
+半熟:Vi	的:T	干貝:N	好:ADV	大:Vi	顆:M	好:Vi	Q:FW	好好:Vi	吃:Vt	
+海膽味:N	的:T	燉飯:Vt	超級:A	濃:Vi	
+燉:Vt	飯:N	做:Vt	得:T	剛剛好:ADV	
+軟硬:Vi	適中:Vi	
+真的:ADV	
+太:ADV	好吃:Vi	太:ADV	讚:Vi	了:T	
+Mel:FW	敢:Vt	說:Vt	這:DET	道:M	是:Vt	許多:DET	作:Vt	燉飯:Vt	的:T	餐廳:N	裡:N	的:T	佼佼者:N	
+烘烤:Vt	紐西蘭:N	羊:N	排佐:N	薄荷:N	醬襯櫛瓜:N	甜椒:N	酸醬:N	1880:DET	元:M	
+七:DET	分:M	熟:Vi	的:T	羊:N	排外:Vi	Q:FW	內軟:Vi	非常:ADV	好吃:Vi	搭配:Vt	微:ADV	甜:Vi	的:T	薄荷:N	香味:N	絕配:N	啊:T	
+旁邊:N	的:T	甜椒:N	酸醬:N	跟:P	羊:N	排:Vt	
+也:ADV	很:ADV	搭櫛瓜絲:N	條:M	保有:Vt	它:N	的:T	原汁:N	清脆度:N	好吃:Vi	
+櫛瓜絲:N	條:M	保有:Vt	它:N	的:T	原汁:N	清脆度:N	好吃:Vi	
+吃到:Vt	這裡:N	其實:ADV	已經:ADV	很:ADV	飽:Vi	了:T	
+甜點:N	有:Vt	很多:DET	選擇:N	
+Mel:FW	拿:Vt	了:ASP	芒果:N	派:Vt	和:P	莓果慕:Vt	斯:DET	
+這裡:N	的:T	冰淇淋:N	
+選用:Vt	Hagen-Dazs:FW	
+餐:N	後:POST	奶茶:N	
+對於:P	第一:DET	次:M	來:POST	這:DET	用餐:Vi	的:T	感想:N	
+除了:P	Buffet:FW	的:T	選擇性:N	少:Vi	了:ASP	一點點:DET	
+但是:C	絕對:ADV	夠:Vi	我們:N	吃:Vt	
+尤其:ADV	
+那:DET	個:M	海鮮:N	吃:Vt	到:P	飽:Vi	
+真的:ADV	超:Vt	划算:Vi	
+偷偷:ADV	說:Vt	..:ETCCATEGORY	Mel:FW	當晚光:N	帝王:N	蟹:N	腳:N	就:ADV	吃:Vt	了:ASP	8:DET	隻:M	左右:POST	..:ETCCATEGORY	哈哈:ADV	
+這:DET	
+裡:N	的:T	主菜:N	也:ADV	都:ADV	作:Vt	得:T	很:ADV	不錯:Vi	
+尤其:ADV	那:DET	道:M	海膽:N	燉:Vt	飯:N	真:ADV	讓:Vt	我:N	念念不忘:Vt	
+印象:N	深刻:Vi	到:P	不行:Vi	

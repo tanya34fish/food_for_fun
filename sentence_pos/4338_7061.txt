@@ -1,0 +1,147 @@
+dtmsimon:FW	(:PARENTHESISCATEGORY	賓士級:N	電冰箱:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	台北:N	熱炒:Vt	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	士林:N	]:PARENTHESISCATEGORY	寶飽煲:N	小:Vi	館:N	
+Tue:FW	
+May:FW	
+12:DET	
+21:DET	::COLONCATEGORY	28:DET	::COLONCATEGORY	28:DET	
+2015:DET	
+圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.dtmsimon.com/2015/05/0228313481.html:FW	
+消費:N	日期:N	::COLONCATEGORY	20015:DET	/:FW	04:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/Ctgf7e:FW	
+日前:N	到:Vt	台北:N	有幸:Vi	跟:P	著:ASP	小:Vi	虎哥:N	去:Vt	虎:N	頭:N	幫:Vt	的:T	聚餐:Nv	
+這:DET	天:M	來到:Vt	這:DET	家:M	位於:Vt	士林:N	捷運站:N	旁邊:N	的:T	寶飽煲:N	用餐:Vi	
+終於:ADV	讓:Vt	我:N	見識到:Vt	虎:N	頭:N	幫:P	眾們掃盤:N	的:T	能力:N	
+讓:Vt	我:N	":FW	第一:DET	次:M	聚餐:Vi	就:ADV	飽:Vi	到:P	天靈蓋:N	":FW	
+驚魂:N	未定狀:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/Xzn8RL:FW	
+因為:C	是:Vt	拿:Vt	香:N	跟:P	拜:Vt	
+接下來:ADV	冰箱:N	就:ADV	莫名其妙:Vi	來到:Vt	士林:N	捷運站:N	旁:N	的:T	這:DET	條:M	小:Vi	巷子:N	裡面:N	
+還:ADV	真的:ADV	有:Vt	店:N	內:N	
+驚:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/vI2dqD:FW	
+一:DET	進:M	門:N	就:ADV	可以:ADV	看到:Vt	天花板:N	上:N	掛:Vt	著:ASP	一:DET	塊:M	不:ADV	小:Vi	的:T	價目表:N	
+應該:ADV	餐廳:N	所有:DET	餐點:N	都:ADV	有:Vt	寫:Vt	在:P	上面:N	
+心想:Vt	應該:ADV	是:Vt	為了:P	方便:Vi	外帶:Vt	的:T	顧客:N	參考:N	而:C	設置:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/ckX2cb:FW	
+因為:C	餐廳:N	像:Vt	是:Vt	由:P	好幾:DET	間:M	透天:Vi	厝:N	打通:Vt	而:C	成:Vt	
+二樓:N	以上:POST	彼此:N	不:ADV	互聯:Vt	
+所以:C	走:Vi	在:P	裡頭:N	常常:ADV	會:ADV	有:Vt	搞:Vt	不:ADV	清楚:Vi	東西:N	南北:N	的:T	錯覺:N	
+說真的:ADV	台北:N	的:T	餐廳:N	裏頭:N	空間:N	都:ADV	不:ADV	大:Vi	
+突然:ADV	能夠:ADV	體會:Vt	為:Vt	何:DET	台北:N	的:T	朋友:N	
+都:ADV	很:ADV	喜歡:Vt	我們:N	台中:N	的:T	餐廳:N	
+XD:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/6WJkNf:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/gEzWCF:FW	
+餐點:N	就:ADV	是:Vt	以:P	一些:DET	中式:A	現炒:Vt	為主:Vi	
+採:Vt	單點:N	制:N	
+越:ADV	多:Vi	人:N	越:ADV	好:Vi	點:M	餐:N	
+以下:N	的:T	餐點:N	其實:ADV	只是:ADV	冰山:N	的:T	一角:N	
+除了:P	冰箱:N	沒有:Vt	每:DET	樣:M	菜:N	都:ADV	拍到:Vt	之外:POST	
+基本:A	上當:Vi	天才:N	13:DET	人:N	左右:POST	幾乎:ADV	每:DET	一樣:Vi	都:ADV	點:Vt	兩:DET	份:M	
+戰力:N	真的:ADV	有夠:ADV	強:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/AQDcbh:FW	
+麻辣:A	大腸:N	煲:Vt	240:DET	元:M	第一:DET	道:M	上桌:Vi	的:T	麻辣:A	大腸:N	煲:Vt	
+一:ADV	看:Vt	就是:C	為了:P	殺:Vt	白飯:N	而:C	生:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/yMMtyd:FW	
+豬血:N	滑口:N	
+大腸:N	使用:Vt	的:T	是:Vt	大腸:N	頭:N	的:T	部位:N	
+肉厚:N	有:Vt	口感:N	
+搭配:Vt	麻辣:A	醬汁:N	
+不:ADV	吃:Vt	白飯:N	真的:ADV	很:ADV	煎熬:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/xhX2gA:FW	
+蔥油:N	雞:N	300:DET	元:M	整:DET	隻:M	仿:Vt	土雞:N	的:T	大:Vi	雞腿:N	下去:Vi	製作:Vt	
+皮:N	脆肉:N	嫩:Vi	
+一:DET	大:Vi	隻:M	雞腿:N	大概:ADV	就:ADV	已經:ADV	是:Vt	小:Vi	一點:ADV	土雞:N	半:DET	隻:M	的:T	份量:N	了:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/m80S5e:FW	
+雞肉:N	的:T	口感:N	還:ADV	不錯:Vi	
+蔥油:N	也:ADV	有:Vt	入:Vt	味:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/l77VWD:FW	
+紅燒:Vt	牛腩:N	煲:Vt	260:DET	元:M	看起來:ADV	就:ADV	相當:ADV	下:Vt	飯:N	的:T	一:DET	道:M	菜:N	
+白飯:N	看到:Vt	他:N	應該:ADV	會:ADV	很:ADV	大聲:Vi	的:T	乎:Vt	SOS:FW	
+真是:ADV	殺:Vt	白飯:N	好:Vi	物:N	啊:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/qmQwu:FW	2:DET	
+牛腩肉:N	已經:ADV	燉:Vt	透:ADV	
+吃起來:ADV	滑口:N	不:ADV	柴:N	
+醬汁:N	拿來:Vt	拌:Vt	飯:N	很:ADV	棒:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/afJfh:FW	3:DET	
+咖哩:N	牛肉:N	煲:Vt	240:DET	元:M	咖哩:N	牛肉:N	煲:Vt	採用:Vt	的:T	是:Vt	牛肉片:N	
+濃濃:Vi	咖哩:N	風味:N	
+白飯:N	再:ADV	一:DET	碗:M	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/3GsL9t:FW	
+炒:Vt	鹹豬肉:N	270:DET	元:M	吃到:Vt	這:DET	一:DET	道:M	除了:P	配:Vt	飯:N	之外:POST	
+下酒:Vi	也:ADV	很:ADV	適合:Vi	
+只:ADV	是:Vt	當晚:N	都:ADV	沒:Vt	人:N	喝:Vt	
+不然:C	來:Vi	杯:M	冰涼:Vi	的:T	啤酒:N	應該:ADV	相當:ADV	過癮:Vi	
+禁止:Vt	酒:N	駕:Vt	
+即日:N	起:POST	台中:N	封城:N	取締:Vt	酒:N	駕:Vt	3:DET	天:M	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/YzJKAX:FW	
+蜜汁:N	排骨:N	240:DET	元:M	排骨:N	裹:Vt	粉:N	炸:Vt	得:T	香酥:N	
+再:ADV	混入:Vt	蜜汁醬:N	一起:ADV	翻:Vt	朝:P	
+甜甜:Vi	鹹鹹:Vi	真:ADV	開胃:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/uXaWw:FW	5:DET	
+魚香茄子:N	煲:Vt	240:DET	元:M	因為:C	我:N	個:M	人:N	不:ADV	太:ADV	愛:Vt	吃:Vt	茄子:N	
+所以:C	這:DET	一:DET	道:M	的:T	味道:N	如何:ADV	並:ADV	不:ADV	清楚:Vi	
+不過:C	看:Vt	大家:N	瞬間:N	掃盤:N	的:T	狀態:N	
+想必:ADV	應該:ADV	是:Vt	還:ADV	不錯:Vi	吧:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/IdpN3S:FW	
+三:DET	杯:M	花枝:N	煲:Vt	300:DET	元:M	花枝:N	本身:N	新鮮:Vi	彈:Vt	牙:N	
+不過:C	三:DET	杯:M	的:T	味道:N	我:N	個:M	人:N	覺得:Vt	稍:ADV	嫌:Vt	薄弱:Vi	了:ASP	一點:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/SCqhcM:FW	
+金莎:N	蝦:N	370:DET	元:M	炸酥:N	的:T	帶:Vt	殼:N	蝦子:N	再:ADV	混入:Vt	鹹:Vi	蛋黃:N	一起:ADV	翻炒:Vt	
+這:DET	是:Vt	金莎:N	蝦:N	的:T	基本:A	作法:N	
+不過:C	這:DET	道:M	菜:N	因為:C	油炸:Vt	
+加上:C	蛋黃:N	本身:N	也:ADV	帶:Vt	油:N	
+所以:C	趁熱:ADV	吃:Vt	以免:C	冷掉:Vt	出現:Vi	油耗味:N	就:ADV	比較:ADV	不:ADV	可口:Vi	了:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/ECs4Wu:FW	
+泰式:A	咖哩:N	蝦球:N	340:DET	元:M	基本:N	上:N	這:DET	道:M	菜單:N	吃:Vt	有:Vt	稍微:ADV	比較:ADV	油:Vi	一點:ADV	
+建議:Vt	配飯:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/dNGnyV:FW	
+鐵板:N	豆腐:N	280:DET	元:M	說:Vt	是:Vt	鐵板:N	豆腐:N	其實:ADV	我:N	個:M	人:N	覺得:Vt	比較:ADV	像:Vt	鐵板:N	什錦:A	
+因為:C	料:Vt	超級:A	多樣:Vi	的:T	啦:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/8j1Rva:FW	
+鹹蛋:N	炒:Vt	苦瓜:N	240:DET	元:M	也:ADV	是:Vt	常見:Vi	的:T	台式:A	快:Vi	炒:Vt	菜色:N	
+鹹蛋:N	採用:Vt	的:T	是:Vt	熟:Vi	的:T	
+如果:C	是:Vt	利用:Vt	生:Vi	的:T	鹹蛋:N	來:ADV	下鍋:Vi	口感:N	跟:P	味道:N	會:ADV	更:ADV	好:Vi	
+苦瓜:N	部分:DET	我:N	個:M	人:N	覺得:Vt	有點:ADV	過:ADV	爛:Vi	
+帶:Vt	點:M	脆度:N	其實:ADV	口感:N	會:ADV	比較:ADV	好:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/7F:FW	8336:DET	
+辣椒:N	干絲:N	240:DET	元:M	當天:N	對:P	這:DET	道:M	菜:N	的:T	味道:N	印象:N	不:ADV	是:Vt	很:ADV	清楚:Vi	
+只:ADV	感覺:Vt	這樣:ADV	簡單:Vi	用料:N	價位:N	真的:ADV	有點:ADV	搶:Vt	人:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/UIV:FW	291:DET	
+莧菜:N	小:Vi	魚:N	150:DET	元:M	這:DET	也:ADV	是:Vt	一般:A	媽媽:N	在:P	家:N	煮:Vt	現菜:N	常常:ADV	會:ADV	用:Vt	的:T	烹調:Nv	方法:N	
+不論:C	是:Vt	直接:Vi	吃:Vt	或是:C	拌:Vt	飯:N	吃:Vt	都:ADV	很:ADV	不錯:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/6HtKlK:FW	
+開陽:N	白菜:N	140:DET	元:M	白菜:N	本身:N	風味:N	就:ADV	相當:ADV	鮮:Vi	甜:Vi	
+再:ADV	加上:Vt	開陽加:N	持:Vt	海味:N	
+雖然:C	看似:Vt	清淡:Vi	
+確:ADV	實在:ADV	是:Vt	下:Vt	飯:N	好:Vi	物:N	喔:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/wYhVcq:FW	
+肉絲:N	蛋炒飯:N	85:DET	元:M	炒飯:N	的:T	分量:N	不:ADV	小:Vi	
+一:DET	份:M	我:N	個:M	人:N	覺得:Vt	配菜:N	吃:Vt	應該:ADV	兩:DET	個:M	人:N	來:ADV	用:Vt	剛剛好:ADV	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/RRNqKU:FW	
+鹹魚:N	雞粒:N	豆腐:N	煲:Vt	260:DET	元:M	這:DET	一:DET	道:M	菜:N	的:T	味道:N	我:N	之前:POST	沒有:ADV	吃:Vt	過:ASP	
+聽說:Vt	是:Vt	港式:A	作法:N	
+鹹魚:N	的:T	味道:N	頗重:Vi	
+跟:P	豆腐:N	及:C	雞肉:N	這:DET	類:M	無味:Vi	的:T	食材:N	放:Vt	在一起:Vi	相當:ADV	突出:Vi	
+至於:P	口味:N	能不能:ADV	接受:Vt	
+我:N	想:Vt	都:ADV	是:Vt	見仁見智:Vi	的:T	問題:N	
+我:N	個:M	人:N	是:Vt	覺得:Vt	普普:N	不會:ADV	想:Vt	再:ADV	點:Vt	來:ADV	吃:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/VRdeH:FW	8:DET	
+這:DET	一:DET	頓:M	吃到:Vt	後來:N	真的:ADV	飽:Vi	飽飽:Vi	
+也:ADV	多虧:ADV	了:ASP	虎:N	頭:N	幫:Vt	的:T	兄弟:N	姐妹:N	們:N	戰將:N	如雲:Vi	
+才:ADV	能:ADV	讓:Vt	冰箱:N	第一:DET	次:M	聚餐:Vi	就:ADV	能:ADV	嚐到:Vt	餐廳:N	裡:N	超:Vt	多樣:Vi	不同:Vi	的:T	菜色:N	料理:N	
+希望:Vt	很:ADV	快:Vi	還:ADV	有:Vt	機會:N	再:ADV	跟:P	大家:N	一起:ADV	聚餐:Vi	喔:T	
+喜歡:Vt	這:DET	篇:M	文章:N	別:ADV	忘:Vt	了:ASP	在:P	FB:FW	幫:P	我們:N	按:Vt	個:M	讚:Vi	喔:T	
+感謝:Vt	您:N	
+本文:N	照片:N	由:P	SONYA:FW	6000:DET	拍攝:Vt	作者:N	::COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/PO9KJL:FW	
+以上:N	食記:N	純屬:Vt	個:M	人:N	口味:N	觀點:N	分享:Vt	
+請:Vt	各:DET	位:M	朋友:N	自行:ADV	參考:Vt	
+店家:N	資訊:N	::COLONCATEGORY	寶飽煲:N	小:Vi	館:N	111:DET	台北市:N	士林區:N	福壽街:N	3:DET	號:M	+:FW	886:DET	-:DASHCATEGORY	2:DET	-:DASHCATEGORY	28313481:DET	營業:Nv	時間:N	::COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	
+14:DET	::COLONCATEGORY	00:DET	/:FW	17:DET	::COLONCATEGORY	30:DET	
+20:DET	::COLONCATEGORY	30:DET	
+週一:N	公休:Vi	付款:Nv	方式:N	::COLONCATEGORY	現金:N	交通:N	方式:N	::COLONCATEGORY	士林:N	捷運站:N	1:DET	號:M	出口:Nv	
+過:Vt	中正路:N	之後:POST	於:P	愛:Vt	齒:N	牙科:N	旁:N	的:T	巷子:N	進入:Vt	掌握:Vt	最:ADV	新:Vi	吃喝玩樂:Vi	資訊:N	
+趕快:ADV	加入:Vt	廚藝:N	交流:Nv	和:C	吃喝玩樂:Vi	粉絲團:N	吧:T	
+https:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/SBxmtl:FW	
+--:DASHCATEGORY	南北貨:N	俱樂部:N	::COLONCATEGORY	FB:FW	粉絲團:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/dtmsimoncook:FW	電冰箱:N	的:T	吃喝玩樂:Vi	誌:Vt	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.dtmsimon.com:FW	線:N	上:N	廚藝:N	教室:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	cook.dtmsimon.com:FW	--:DASHCATEGORY	

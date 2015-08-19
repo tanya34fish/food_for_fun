@@ -1,0 +1,171 @@
+traveler:FW	0:DET	(:PARENTHESISCATEGORY	我愛:N	旅行:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	大安:N	TAJSONOMA:FW	焱:b	(:PARENTHESISCATEGORY	文末:N	有:Vt	抽獎:Nv	活動:N	):PARENTHESISCATEGORY	
+Tue:FW	
+Aug:FW	
+5:DET	
+10:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	02:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	TAJSONOMA:FW	焱:b	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	二段:N	9:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2784:DET	-:DASHCATEGORY	4811:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	~:FW	15:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	17:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+有:Vt	圖:N	無:Vt	音樂:N	無:Vt	閃光:N	好:Vi	讀:Vt	網誌版:N	::COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog/post:FW	/:FW	378538628:DET	
+文末:N	有:Vt	抽獎:Nv	&:FW	amp:FW	
+&:FW	amp:FW	
+優惠:Vt	活動:N	
+Sonoma:FW	焱:b	位在:Vt	熱鬧:Vi	的:T	敦化南路:N	上:N	
+自:P	1995年:N	營業:Vi	至:P	今:N	
+在:P	台北:N	是:Vt	相當:ADV	知名:Vi	的:T	餐廳:N	
+而:C	其:DET	最:ADV	負盛名:Vi	的:T	當:P	屬:Vt	乾式:N	熟成:Vt	的:T	老饕:N	牛排:N	
+除了:P	美味:N	之外:POST	連:C	數量:N	也:ADV	相當:ADV	稀少:Vi	
+堪稱:Vt	牛排:N	中:POST	的:T	極品:N	
+這:DET	次:M	訂購:Vt	餐券:N	跟:C	訂位:Nv	都:ADV	是:Vt	透過:P	EZ:FW	
+在:P	這裡:N	想:Vt	跟:P	大家:N	推薦:Vt	一下:N	
+有:Vt	些:M	時候:N	想要:Vt	省:N	點:Vt	荷包:N	上網:Vi	購買:Vt	餐券:N	
+不過:C	網路:N	上:N	的:T	賣家:N	很多:DET	實在:ADV	令:Vt	人:N	眼花撩亂:Vi	
+除了:P	要:ADV	轉帳:Vi	、:PAUSECATEGORY	手續費:N	之外:POST	
+等到:P	收到:Vt	餐券:N	也:ADV	要:ADV	經過:Vt	數:DET	天:M	
+有時:ADV	還:ADV	可能:ADV	遇到:Vt	有心:Vt	欺騙:Vt	的:T	假:Vi	賣家:N	
+而:C	使用:Vt	EZTABLE:FW	訂:Vt	餐券:N	
+只要:C	線:N	上:N	刷卡:Vi	就:ADV	可以:ADV	取得:Vt	電子:N	餐券:N	序號:N	
+接著:ADV	再:ADV	利用:Vt	EZTABLE:FW	網站:N	上:N	的:T	24:DET	H:FW	訂位:Nv	服務:Nv	
+就:ADV	可以:ADV	開心:Vi	前往:Vt	用餐:Vi	囉:T	
+有時候:ADV	覺得:Vt	吃:Vt	大餐:N	很:ADV	開心:Vi	
+但:C	訂位:Vi	有時:ADV	餐廳:N	忙碌:Vi	沒:Vt	人:N	接:Vt	、:PAUSECATEGORY	有時:ADV	休息:Vi	中:POST	
+24:DET	H:FW	線:N	上:N	訂位:Vi	實在:ADV	太:ADV	貼心:Vi	啦:T	
+而且:C	EZTABLE:FW	訂購:Vt	的:T	餐券:N	都:ADV	是:Vt	可以:ADV	退款:Vi	的:T	
+也:ADV	不用:ADV	加收:Vt	任何:DET	手續費:N	
+讓:Vt	使用:Vt	者:N	可以:ADV	很:ADV	放心:Vt	的:T	購買:Nv	
+餐廳:N	內:N	裝潢:Vt	走:Vi	的:T	是:Vt	木質:N	深:Vi	色系:N	的:T	裝潢:N	
+除了:P	開放:Vi	的:T	用餐區:N	之外:POST	
+也:ADV	有:Vt	包廂:N	的:T	房間:N	
+可以:ADV	跟:P	三五:DET	好友:N	或是:C	家人:N	在:P	這裡:N	聚會:Vi	
+這裡:N	雖然:C	許多:DET	餐點:N	是:Vt	透過:P	鐵板:N	料理:N	
+可是:C	座位:N	並:ADV	不:ADV	在:P	鐵板:N	旁邊:N	
+但:C	廚房:N	也:ADV	是:Vt	開放式:A	的:T	
+看:Vt	廚師:N	們:N	專心:Vi	的:T	料理:N	餐點:N	
+真:ADV	讓:Vt	人:N	期待:Vt	
+我們:N	坐:Vi	在:P	靠:Vt	窗:N	邊:N	的:T	方桌:N	
+桌:N	上:POST	都:ADV	有:Vt	新鮮:Vi	的:T	鮮花:N	
+坐下:Vi	後:POST	服務生:N	會:ADV	來:ADV	詢問:Vt	
+今天:N	想:Vt	喝:Vt	礦泉水:N	還是:C	氣泡水:N	
+礦泉水:N	是:Vt	FIJI:FW	斐濟:N	礦泉水:N	
+我們:N	點:Vt	了:ASP	是:Vt	義大利:N	的:T	S.PELLEGRINO:FW	氣泡水:N	
+裡面:N	加上:Vt	檸檬:N	片:N	清涼:Vi	舒暢:Vi	真:ADV	是:Vt	一:DET	大:Vi	享受:Vt	
+尤其:ADV	搭配:Vt	肉類:N	主食:N	更:ADV	有解:Vi	膩:Vi	的:T	效果:N	
+今天:N	吃:Vt	的:T	是:Vt	午間:N	套餐:N	
+有:Vt	印度:N	烤餅:N	、:PAUSECATEGORY	開胃菜:N	、:PAUSECATEGORY	湯:N	、:PAUSECATEGORY	主菜:N	、:PAUSECATEGORY	甜點:N	、:PAUSECATEGORY	咖啡:N	或:C	茶:N	
+我們:N	點:Vt	了:ASP	":FW	焱烤:Vt	原創:A	美國:N	老饕:N	牛排:N	":FW	跟:P	":FW	焱烤:Vt	美國:N	肋:N	眼:N	牛排:N	":FW	
+首先:ADV	送上:Vt	的:T	是:Vt	印度:N	烤餅:N	
+跟:P	一般:A	西餐廳:N	大多:DET	附贈:Vt	的:T	麵包:N	比較:ADV	不:ADV	一樣:Vi	
+直接:Vi	吃起來:ADV	口感:N	香酥:N	、:PAUSECATEGORY	抹上:Vt	奶油:N	也:ADV	很:ADV	不錯:Vi	
+前菜:N	的:T	部分:DET	則:ADV	是:Vt	一:DET	道:M	選擇:Vt	了:ASP	燻:Vt	鮭魚:N	沙拉:N	
+醬汁:N	有點:ADV	類似:Vt	油醋醬:N	的:T	風味:N	
+還:ADV	有:Vt	些許:DET	的:T	胡椒味:N	
+另:DET	一:DET	道:M	則:ADV	是:Vt	法式:A	烤:Vt	田螺:N	
+上面:N	的:T	起司:N	很多:DET	吃起來:ADV	整:DET	個:M	很:ADV	香:Vi	還:ADV	會:ADV	牽:Vt	絲:N	
+田螺:N	的:T	口感:N	也:ADV	很:ADV	Q:FW	彈:Vt	
+湯:N	的:T	話:N	相對:Vi	比較:ADV	弱:Vi	一點:ADV	
+是:Vt	蔬菜:N	巧達:N	湯:N	
+接著:ADV	就:ADV	準備:Vt	要:ADV	上:Vt	主菜:N	囉:T	
+這時:N	服務生:N	送上:Vt	專用:Vi	的:T	牛排刀:N	
+上面:N	還:ADV	有:Vt	印上:Vt	":FW	焱:b	SONOMA:FW	":FW	的:T	字樣:N	
+過:Vt	一會兒:N	上:POST	主菜:N	囉:T	
+這:DET	就是:C	乾式:N	熟成:Vt	的:T	老饕:N	牛排:N	
+乾式:N	熟:Vi	成就:N	是:Vt	將:ADV	新鮮:Vi	牛肉:N	
+靜置:Vt	在:P	溫度:N	與:C	濕度:N	都:ADV	有:Vt	控制:Vt	的:T	熟成:Vt	室:N	
+約:ADV	0:DET	度:M	C:FW	的:T	環境:N	下:POST	經過:Vt	21:DET	天:M	以上:POST	而:C	成:Vt	
+不管:C	嫩度:N	、:PAUSECATEGORY	多汁:Vi	、:PAUSECATEGORY	香氣:N	都:ADV	勝過:Vt	濕式:N	熟成:Vt	的:T	牛排:N	
+這時:N	服務生:N	端上:Vt	了:ASP	鹽:N	
+由:P	左:N	自:P	右:N	分別:ADV	是:Vt	海鹽:N	、:PAUSECATEGORY	西班牙:N	燻:Vt	辣:Vi	鹽:N	、:PAUSECATEGORY	玫瑰:N	鹽:N	、:PAUSECATEGORY	芥末:N	籽醬:N	
+這:DET	塊:M	老饕:N	牛排:N	經過:Vt	2400:DET	度:M	高溫:N	爐烤:Vt	
+五:DET	分:M	熟:Vi	的:T	熟度:N	讓:Vt	肉質:N	呈現:Vt	粉紅色:N	
+放入:Vt	口:N	中:POST	香氣:N	四溢:Vi	口感:N	也:ADV	相當:ADV	軟:Vi	嫩:Vi	
+老實說:ADV	光:N	原味:N	就:ADV	很:ADV	美味:Vi	了:T	
+沾:Vt	點:M	玫瑰:N	鹽提味:N	更:ADV	是:Vt	將:P	牛排:N	的:T	甜味:N	發揮:Vt	得:T	淋漓盡致:Vi	
+芥末:N	籽醬微:N	辣:Vi	的:T	味道:N	、:PAUSECATEGORY	濃烈:Vi	的:T	香氣:N	
+跟:P	牛排:N	也:ADV	相當:Vi	地:T	搭:Vt	
+吃:Vt	過:ASP	以後:N	就:ADV	回:Vt	不:ADV	去:Vt	啦:T	
+另:DET	一:DET	塊:M	":FW	焱烤:Vt	美國:N	肋:N	眼:N	牛排:N	":FW	
+相較:Vi	於:P	老饕:N	牛排:N	份量:N	大上:Vt	許多:DET	
+不過:C	吃起來:ADV	比較:Vt	油:N	
+口感:N	雖:C	不如:Vt	老饕:N	牛排:N	般:POST	軟嫩:Vi	
+但是:C	口感:N	跟:P	味道:N	還是:ADV	很:ADV	棒:Vi	
+不過:C	吃到:Vt	後來:N	稍微:ADV	有點:ADV	膩:Vi	了:T	就:ADV	是:Vt	
+因為:C	太:ADV	大:Vi	塊:M	啦:T	
+除了:P	牛排:N	外:POST	還:ADV	有:Vt	一些:DET	蔬菜:N	
+花椰菜:N	、:PAUSECATEGORY	番茄:N	、:PAUSECATEGORY	茄子:N	、:PAUSECATEGORY	馬鈴薯:N	等等:POST	
+吃完:Vt	主餐:N	後:POST	就:ADV	送上:Vt	咖啡:N	
+左邊:N	是:Vt	冰:N	拿:Vt	鐵:N	、:PAUSECATEGORY	右邊:N	是:Vt	冰卡布:N	奇:ADV	諾:FW	
+":FW	焦糖:N	布丁:N	":FW	
+味道:N	還:ADV	算:Vt	不錯:Vi	
+上面:N	還:ADV	有:Vt	些:M	水果:N	可以:ADV	搭:Vt	著:ASP	吃:Vt	
+":FW	濃:Vi	漿:N	蛋糕:N	佐:Vt	冰淇淋:N	":FW	
+左邊:N	的:T	濃:Vi	漿:N	蛋糕:N	是:Vt	玫瑰花:N	的:T	造型:N	
+吃起來:ADV	還:ADV	不錯:Vi	
+冰淇淋:N	的:T	話:N	味道:N	稍微:ADV	比較:ADV	淡:Vi	一點:ADV	
+如果:C	濃:Vi	一:DET	點:N	會:ADV	更:ADV	好吃:Vi	
+總結:N	::COLONCATEGORY	
+這:DET	次:M	抱:Vt	著:ASP	對:P	美味:Vi	牛排:N	的:T	渴望:N	
+造訪:Vt	SONOMA:FW	焱:b	牛排館:N	
+果然:ADV	沒:ADV	讓:Vt	我們:N	失望:Vi	
+而:C	除了:P	牛排:N	好吃:Vi	之外:POST	
+SONOMA:FW	焱:b	的:T	用餐:Nv	環境:N	舒適:Vi	
+服務:Nv	態度:N	很:ADV	親切:Vi	
+不管:C	是:Vt	情侶:N	或是:C	家人:N	用餐:Vi	都:ADV	很:ADV	適合:Vi	喔:T	
+另外:C	這:DET	次:M	是:Vt	用:P	EZTABLE:FW	訂:Vt	餐券:N	
+真的:ADV	是:Vt	省事:Vi	又:C	省:N	荷包:N	耶:T	
+訂購:Vt	餐券:N	比:P	現場:N	消費:N	便宜:Vi	之外:POST	
+訂位:Vi	也:ADV	能:ADV	一起:ADV	搞定:Vt	
+真是:ADV	太:ADV	方便:Vi	啦:T	
+以後:N	只要:C	跟:P	三五:DET	好友:N	準備:Vt	開心:Vi	聚餐:Vi	
+買:Vt	餐券:N	跟:C	訂位:Nv	就:ADV	交給:Vt	EZTABLE:FW	囉:T	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+這:DET	次:M	替:P	大家:N	特別:Vi	跟:P	EZTABLE:FW	爭取到:Vt	優惠:Nv	
+首先:ADV	就:ADV	是:Vt	要:ADV	送:Vt	大家:N	去:ADV	吃:Vt	牛排:N	
+活動:N	時間:N	是:Vt	2014:DET	/:FW	8:DET	/:FW	5:DET	
+2014:DET	/:FW	8:DET	/:FW	22:DET	
+首先:ADV	在:P	粉絲團:N	按:P	讚:Vt	跟:P	分享:Vt	文章:N	
+之後:N	在:P	這:DET	篇:M	文章:N	底下:N	留言:Vi	
+":FW	餐廳:N	訂位:Vi	就:ADV	想到:Vt	EZTABLE:FW	":FW	
+並:C	留下:Vt	連絡:Vt	的:T	EMAIL:FW	信箱:N	
+就:ADV	可以:ADV	參加:Vt	抽獎:Vi	囉:T	
+在:P	活動:N	結束:Vt	後:POST	會:ADV	以:P	電腦:N	亂數:N	抽出:Vt	1:DET	位:M	得獎:Vi	者:N	
+得獎:Vi	者:N	可以:ADV	獲得:Vt	":FW	SONOMA:FW	焱:b	":FW	的:T	電子:N	餐券:N	
+價值:N	1300:DET	元:M	
+獲獎:Vi	名單:N	會:ADV	公布:Vt	在:P	這裡:N	還:ADV	有:Vt	粉絲團:N	
+另外:C	除了:P	抽獎:Vi	之外:POST	
+即日:N	起:POST	至:P	9:DET	/:FW	30:DET	止:POST	
+除了:P	原本:A	的:T	餐券:N	優惠:Nv	外:POST	
+EZTABLE:FW	還:ADV	另外:ADV	加碼:Vi	送:Vt	
+點:N	以下:N	產品:N	連結:Vt	EZ&lt:FW	
+=:FW	點:ADV	我:N	訂購:Vt	
+結賬:Vi	時:POST	在:P	優惠:Nv	代碼處:N	輸入:Vt	":FW	EZ_nickhow:FW	":FW	
+購買:Vt	SONOMA:FW	焱:b	餐券:N	滿:Vt	2000:DET	元:M	可以:ADV	再:ADV	立即:ADV	折抵:Vt	現金:N	200:DET	元:M	
+想:Vt	吃:Vt	鮮嫩:Vi	美味:Vi	的:T	老饕:N	牛排:N	嗎:T	
+快點:ADV	幫:P	我:N	按:P	讚:Vt	留言:N	上:N	EZTABLE:FW	訂購:Vt	餐券:N	吧:T	
+謝謝:Vt	大家:N	的:T	支持:Nv	
+祝:Vt	大家:N	能:ADV	中獎:Vi	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+店家:N	資訊:N	::COLONCATEGORY	
+店家:N	名稱:N	::COLONCATEGORY	TAJSONOMA:FW	焱:b	牛排館:N	
+店家:N	地址:N	::COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	二段:N	9:DET	號:M	
+店家:N	電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	2784:DET	-:DASHCATEGORY	4811:DET	
+營業:Nv	時間:N	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	–:FW	15:DET	::COLONCATEGORY	00:DET	
+17:DET	::COLONCATEGORY	30:DET	–:FW	22:DET	::COLONCATEGORY	00:DET	
+延伸:Vi	閱讀:Vt	::COLONCATEGORY	
+台北:N	天母:N	
+旬:M	壽司:N	割烹:Vt	日本:N	空運:Nv	食材大:N	集合:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog/post:FW	/:FW	375981443:DET	
+高雄:N	前:N	金:N	
+食材:N	新鮮:Vi	美味:Vi	的:T	漢:N	來:ADV	大:Vi	飯店:N	45:DET	F:FW	鐵板燒:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog/post:FW	/:FW	372713471:DET	
+日本:N	東京:N	
+L'ATELIERdeJoelRobuchon:FW	六:DET	本:M	木:N	Hills:FW	的:T	米其林:N	二:DET	星:N	饗宴:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog/post:FW	/:FW	366854645:DET	
+新:Vi	北:N	烏來:N	
+名:A	流水岸:N	慢:Vi	食:Vt	藝術館:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog/post:FW	/:FW	364801058:DET	
+尼豪:N	的:T	溫泉:N	美食:N	旅行:Nv	手札:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nickhow.pixnet.net/blog:FW	

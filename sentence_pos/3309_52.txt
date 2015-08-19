@@ -1,0 +1,39 @@
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	民生東路:N	四段:N	131巷:N	21:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	晚餐:N	$:FW	1380:DET	+:FW	10:DET	%:M	
+餐廳:N	位在:Vt	民生東路:N	四段:N	的:T	巷子:N	裡:N	
+離:P	大:Vi	馬路:N	不:ADV	遠:Vi	加上:C	漆:Vt	著:ASP	暗紅色:N	的:T	外牆:N	
+甚:ADV	是:Vt	搶眼:Vi	
+餐廳:N	內:N	則:ADV	以:P	米白:N	色系:N	為主:Vi	
+優雅:Vi	外:POST	又:ADV	帶:Vt	點:M	溫馨:Vi	
+行:Vi	前:POST	參考:Vt	餐廳:N	官網:N	和:C	其他:DET	食記:N	發現:Vt	午餐:N	挺:ADV	超值:Vi	的:T	
+可惜:Vi	我:N	家:N	和:C	公司:N	離:P	這:DET	都:ADV	有:Vt	段:M	距離:N	
+晚上:N	套餐:N	價位:N	從:P	$:FW	1380:DET	到:P	$:FW	2180:DET	不等:POST	
+以:P	台北:N	的:T	法式:A	料理:N	來:ADV	說:Vt	算:Vt	中間:N	價位:N	
+$:FW	1380:DET	+:FW	10:DET	%:M	
+我:N	則:ADV	選擇:Vt	再:ADV	加:Vt	$:FW	380:DET	將:P	主菜:N	換成:Vt	5:DET	oz:FW	.:PERIODCATEGORY	的:T	老饕:N	牛排:N	
+點完:Vt	菜:N	後:POST	服務生:N	很:ADV	快:Vi	的:T	就:ADV	把:P	麵包:N	和:C	開胃菜:N	送上:Vt	
+都:ADV	熱:Vt	呼呼:ADV	的:T	很:ADV	好吃:Vi	
+但:C	又:ADV	以:P	奶油:N	和:C	黑:Vi	橄欖:N	的:T	最:ADV	合:Vt	我:N	的:T	胃口:N	
+是:Vt	相當:ADV	清爽:Vi	的:T	一:DET	品:N	
+鮪魚肉:N	本身:N	蠻:ADV	新鮮:Vi	的:T	
+但:C	酪梨慕:N	斯:ADV	有:Vt	著:ASP	難以言喻:Vi	的:T	怪異:Vi	味道:N	
+讓:Vt	這:DET	道:M	開胃菜:N	成:Vt	了:ASP	當晚:N	我:N	最:ADV	不:ADV	喜歡:Vt	的:T	一:DET	品:N	
+":FW	牛肉:N	清湯:N	搭配:Vt	牛尾:N	乳酪:N	餃:b	":FW	的:T	湯頭:N	頗:ADV	甘甜:Vi	
+牛尾:N	乳酪:N	餃:b	蠻:ADV	大一:N	顆:M	的:T	
+好喝:Vi	也:ADV	好吃:Vi	
+因為:C	它:N	的:T	體型:N	好:ADV	巨大:Vi	
+卻:ADV	出乎意料:Vi	的:T	清淡:Vi	
+即使:C	沾:Vt	了:ASP	芒果醬:N	也:ADV	還是:ADV	蠻:ADV	清淡:Vi	的:T	..:ETCCATEGORY	相較:Vi	於:P	豬排:N	
+這:DET	牛排:N	沒有:Vt	菲力:N	軟嫩:Vi	、:PAUSECATEGORY	沒有:Vt	一般:A	肋眼:N	油膩:Vi	
+但:C	油花:N	分布:Vi	均勻:Vi	、:PAUSECATEGORY	真的:ADV	越:ADV	嚼:Vt	越:ADV	有:Vt	牛肉:N	香:Vi	
+綿密:Vi	的:T	口感:N	和:C	甜味:N	都:ADV	與:P	牛排:N	十分:ADV	相配:Vi	
+口感:N	豐富:Vt	多:DET	層:M	
+橙花:N	奶油:N	酸甜:Vi	爽口:Vi	
+比:P	主角:N	冰淇淋:N	還:ADV	叫:Vt	人:N	驚艷:Vi	
+滋味:N	中規中矩:Vi	
+四:DET	款:M	都:ADV	很:ADV	好吃:Vi	
+MonsieurL:FW	的:T	餐點:N	品質:N	和:C	用餐:Nv	環境:N	都:ADV	很:ADV	不錯:Vi	
+無怪:ADV	它:N	在:P	短:Vi	時間:N	內:N	大:Vi	獲:Vt	好評:N	
+雖然:C	以:P	一:DET	客:M	要價:Vt	近:DET	2千:DET	的:T	餐點:N	來:ADV	看:Vt	
+它:N	還:ADV	沒有:ADV	讓:Vt	我:N	驚艷:Vi	
+卻:ADV	也:ADV	算是物:N	有所:Vt	值:N	

@@ -1,0 +1,56 @@
+petsdoc:FW	(:PARENTHESISCATEGORY	小心:Vt	旻:b	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	-:DASHCATEGORY	離線:Nv	咖啡:N	(:PARENTHESISCATEGORY	紅茶:N	拿:Vt	鐵超:N	好喝:Vi	):PARENTHESISCATEGORY	
+Thu:FW	
+Aug:FW	
+21:DET	
+02:DET	::COLONCATEGORY	48:DET	::COLONCATEGORY	11:DET	
+2014:DET	
+離線:Nv	咖啡:N	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	01:DET	::COLONCATEGORY	00:DET	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	八德路:N	一段:N	1:DET	號:M	（:PARENTHESISCATEGORY	華山:N	藝文:A	特區:N	）:PARENTHESISCATEGORY	
+位置:N	較:ADV	接近:Vi	杭州:N	北路:N	北平:N	東路:N	交叉口:N	
+開車:Vi	可:ADV	直接:Vi	停:Vt	華山:N	停車場:N	，:COMMACATEGORY	開:Vt	底:POST	停車面:N	草原:N	左邊:N	倉庫:N	第一:DET	間:M	
+不:ADV	收:Vt	服務費:N	，:COMMACATEGORY	低消:N	一:DET	杯:M	飲料:N	
+（:PARENTHESISCATEGORY	店:N	內:N	只:ADV	有:Vt	賣:Vt	飲料:N	、:PAUSECATEGORY	可:ADV	自行:ADV	攜帶:Vt	外食:Vi	入:Vt	內:N	食用:Vt	）:PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2114年:N	/:FW	8月:N	(:PARENTHESISCATEGORY	最近:N	一:DET	次:M	）:PARENTHESISCATEGORY	
+圖文:N	網誌版:N	（:PARENTHESISCATEGORY	內:N	有:Vt	萌犬:N	）:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	minihea.pixnet.net/blog/post:FW	/:FW	58352484:DET	
+網路:N	上:POST	好像:ADV	常:ADV	以:P	『:PARENTHESISCATEGORY	瑪莎:N	開:Vt	的:T	咖啡廳:N	』:PARENTHESISCATEGORY	來:ADV	介紹:Vt	離線:Nv	
+偶爾:ADV	還可以:ADV	看到:Vt	老闆:N	瑪莎:N	坐:Vi	在:P	吧台:N	座位:N	敲:Vt	筆:M	電:N	
+很:ADV	低調:Vi	、:PAUSECATEGORY	很:ADV	親民:Vi	
+這:DET	篇:M	主要:A	介紹:N	『:PARENTHESISCATEGORY	咖啡廳:N	』:PARENTHESISCATEGORY	本身:N	
+原本:ADV	是:Vt	倉庫:N	的:T	斜:Vi	屋頂:N	建築:N	
+整:DET	棟:M	紅磚:N	砌成:Vt	
+內:N	牆面:N	保留:Vt	紅磚:N	
+以:P	工業:N	風:N	元素:N	進行:Vt	裝潢:N	
+門口:N	擺放:Vt	各:DET	式:M	ＣＤ:FW	
+進門:N	先:ADV	是:Vt	張大:Vt	桌:N	
+後方:N	也:ADV	木鐵:N	件:N	擺放:Vt	各式各樣:A	的:T	裝飾:Nv	書籍:N	舊:Vi	玩意:N	
+門:N	左邊:N	是:Vt	吧檯區:N	
+進:Vt	門:N	後:POST	店員:N	會:ADV	遞上:Vt	MENU:FW	
+低消:N	是:Vt	每:DET	人:N	一:DET	杯:M	飲料:N	
+選好:Vt	自己:N	想:Vt	喝:Vt	的:T	東西:N	
+直接:Vi	到:P	吧台:N	旋轉:Vt	梯:N	旁:N	點:Vt	餐:N	結賬:Vi	即可:ADV	
+一直:ADV	以來:POST	我:N	都:ADV	是:Vt	點:M	咖啡:N	冰:N	美式:A	、:PAUSECATEGORY	冰摩卡:N	、:PAUSECATEGORY	熱:Vt	焦糖:N	拿:Vt	鐵:N	他們:N	的:T	咖啡:N	不:ADV	雷:N	
+不錯:Vi	喝:Vt	
+冰:N	美式:A	不會:ADV	幫忙:Vt	加入:Vt	果糖:N	
+甜度:N	可:ADV	依:P	個:M	人:N	喜好:Vt	
+或:C	喝:Vt	原味:N	
+熱:Vt	拿:Vt	鐵:N	的:T	拉:Vt	花:N	很:ADV	厲害:Vi	
+不過:C	
+可:ADV	爾:N	必:ADV	思:Vt	咖啡:N	
+就:ADV	見仁見智:Vi	了:T	.....:ETCCATEGORY	
+味道:N	有點:ADV	像:Vt	惡作劇:N	飲料:N	的:T	基底:N	ＸＤ:FW	
+不:ADV	是:Vt	難:Vi	喝:Vt	就:ADV	是:Vt	有點:ADV	奇妙:Vi	
+我:N	個:M	人:N	不:ADV	喝:Vt	奶茶:N	、:PAUSECATEGORY	
+不過:C	很少:ADV	看見:Vt	閃光:N	有:Vt	那麼:ADV	喜歡:Vt	的:T	紅茶:N	拿:Vt	鐵:N	
+閃光:N	點評:N	：:COLONCATEGORY	茶味:N	夠:ADV	重:Vi	、:PAUSECATEGORY	不:ADV	死:Vi	甜:Vi	不過:C	膩:Vi	
+可以:ADV	享受到:Vt	奶味:N	又:ADV	可以:ADV	喝:Vt	倒:Vt	茶:N	的:T	清香:N	
+喜歡:Vt	紅茶:N	拿:Vt	鐵:N	的:T	朋友:N	不能:ADV	錯過:Vt	、:PAUSECATEGORY	推薦:Vt	
+除了:P	咖啡:N	
+他們:N	還:ADV	有:Vt	茶類:N	、:PAUSECATEGORY	酒類:N	
+營業:Vi	到:P	深夜:N	不:ADV	賣:Vt	酒:N	水:N	說不過去:Vi	啊:T	
+以:P	氣氛:N	來:ADV	說:Vt	
+不會:ADV	因為:C	晚上:N	而:C	改變:Vt	
+一樣:Vi	輕鬆:Vi	舒服:Vi	
+音樂會:N	隨著:P	晚上:N	店員:N	喜好:Vt	比較:Vt	深夜:N	一點:DET	

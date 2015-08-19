@@ -1,0 +1,113 @@
+Roa(Roa:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	美味:Vi	現烤:Vt	甜點:N	，:COMMACATEGORY	咖朵:N	咖啡:N	敦南:N	2:DET	店:N	
+Wed:FW	
+Aug:FW	
+13:DET	
+20:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	43:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	CaldoCafe:FW	咖朵:N	咖啡:N	敦南:N	2:DET	店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	/:FW	27:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	190巷:N	16:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2721:DET	-:DASHCATEGORY	8895:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	450:DET	
+圖文:N	好讀:Vt	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/narW:FW	
+前:DET	陣子:N	
+6月:N	中:POST	左右:POST	
+在:P	網路:N	上:POST	看到:Vt	咖朵:N	咖啡:N	在:P	東區:N	開:Vt	了:ASP	二:DET	店:N	
+剛好:ADV	那:DET	天:M	又:ADV	想:Vt	說:Vt	要:ADV	去:ADV	吃:Vt	咖朵:N	
+在:P	本:DET	店:N	要:ADV	等待:Vt	半:DET	個:M	小時:N	以上:POST	的:T	情況:N	下:POST	
+就:ADV	順道:ADV	走去:Vi	2:DET	店:N	看看:Vt	了:ASP	咖朵:N	咖啡:N	算是:Vt	東區:N	頗:ADV	負盛名:Vi	的:T	下午:N	茶店:N	之:T	一:DET	
+以:P	少見:Vi	的:T	舒芙蕾:N	還:ADV	有:Vt	好吃:Vi	的:T	現:N	烤:Vt	甜點:N	著稱:Vi	
+除此之外:ADV	也:ADV	有:Vt	賣:Vt	三明治:N	等:POST	鹹:Vi	食:Vt	
+飲料:N	方面:N	也:ADV	頗:ADV	具:Vt	特色:N	
+雖然:C	整體:N	來:ADV	說:Vt	價位:N	偏:ADV	高:Vi	
+不過:C	週末:N	還:ADV	是:Vt	一:DET	位:M	難:Vi	求:Vt	
+每:DET	次:M	去:ADV	都:ADV	要:ADV	等:Vt	半:DET	小時:N	以上:POST	其實:ADV	咖朵:N	咖啡:N	之前:POST	已經:ADV	寫:Vt	過:ASP	一:DET	次:M	了:T	
+通常:ADV	二:DET	訪:Vt	的:T	店家:N	都:ADV	不會:ADV	特別:Vi	寫:Vt	
+不過:C	這:DET	次:M	是:Vt	新:Vi	分店:N	外加:Vt	我們:N	點:Vt	的:T	東西:N	和:C	第一:DET	次:M	完全:ADV	不同:Vi	
+索性:ADV	就:ADV	再:ADV	獨立:Vi	寫:Vt	一:DET	篇:M	食記:N	
+想要:Vt	了解:Vt	一下:N	咖朵:N	招牌:N	舒芙蕾:N	的:T	話:N	可以:ADV	參考:Vt	一下:N	之前:POST	寫:Vt	的:T	::COLONCATEGORY	咖朵:N	咖啡:N	CaldoCafehttp:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/jQsQ:FW	二:DET	店:N	其實:ADV	距離:P	一:DET	店:N	沒有:ADV	很:ADV	遠:Vi	
+大概:ADV	走路:Vi	10:DET	分鐘:M	以內:POST	的:T	路程:N	
+看到:Vt	照片:N	就:ADV	知道:Vt	新店:N	位於:Vt	東區:N	嘜記:N	飯堂:N	的:T	正對面:N	
+是:Vt	說:Vt	如果:C	1:DET	店:N	沒有:Vt	位子:N	還可以:ADV	走去:Vi	2:DET	店:N	問問看:Vt	
+是:Vt	還:ADV	蠻:ADV	方便:Vi	的:T	
+依:P	我:N	這:DET	次:M	去:Vt	的:T	情況:N	來:ADV	說:Vt	
+二:DET	店:N	的:T	人潮:N	似乎:ADV	少:Vt	一些:DET	
+有:Vt	位子:N	的:T	機會:N	比較:ADV	大:Vi	
+可能:ADV	因為:C	才:ADV	開:Vt	沒:Vt	幾:DET	個:M	月:N	大部分:DET	的:T	人:N	都:ADV	不:ADV	知道:Vt	的:T	關係:N	吧:T	
+值得:Vi	一:ADV	提:Vt	的:T	是:Vt	
+咖朵:N	二:DET	店:N	有:Vt	新:Vi	的:T	招牌:N	商品:N	
+有別於:Vt	一:DET	店:N	的:T	招牌:N	商品:N	舒芙:N	蕾:N	
+二:DET	店:N	的:T	招牌:N	商品:N	是:Vt	看起來:ADV	很:ADV	像:Vt	鬆餅:N	的:T	熱:Vt	蛋糕:N	
+當然:ADV	二:DET	店:N	也:ADV	有:Vt	提供:Vt	舒芙:N	蕾:N	
+不過:C	只有:ADV	賣:Vt	原味:N	的:T	熱:Vt	蛋糕:N	
+現烤:Vt	現:N	煎:Vt	並:ADV	加入:Vt	RicottaCheese:FW	
+一:DET	種:M	白色:N	像:Vt	奶油:N	的:T	奶製品:N	
+並:C	搭配:Vt	自製:Vt	的:T	蜂蜜:N	奶油:N	與:C	台灣:N	香蕉:N	
+最後:N	再:ADV	淋上楓糖:N	
+雖然:C	看起來:ADV	很:ADV	精緻:Vi	但是:C	實際:Vi	感覺:N	就:ADV	像:Vt	是:Vt	高級版:N	的:T	麥當勞:N	鬆餅:N	配:Vt	香蕉:N	阿:N	
+另外:ADV	一:DET	個:M	新:Vi	甜點:N	經典:N	法式:A	吐司:N	
+一:DET	店:N	似乎:ADV	也:ADV	沒有:ADV	賣:Vt	這:DET	道:M	甜點:N	
+取而代之:Vi	的:T	是:Vt	鬆餅:N	系列:N	飲料:N	的:T	部分:DET	一二:DET	店:N	應該:ADV	是:Vt	差不多:Vi	的:T	
+這:DET	杯:M	是:Vt	咖:b	朵:M	的:T	招牌:N	飲料:N	之:T	一:DET	的:T	米香:N	烏龍:N	奶茶:N	
+150:DET	元:M	
+烏龍茶味:N	很:ADV	重:Vi	很:ADV	香:Vi	
+奶泡:N	上面:N	還:ADV	有:Vt	淋:Vt	上:DET	一:DET	圈:M	糖漿:N	
+雖然:C	好喝:Vi	不過:C	甜:Vi	了:ASP	點:M	
+也:ADV	貴:Vi	了:ASP	點:M	似乎:ADV	是:Vt	蘋果茶:N	
+160:DET	元:M	
+不得不:ADV	說真的:ADV	有點:ADV	小:Vi	杯:M	
+甜點店:N	真的:ADV	是:Vt	靠:P	飲料:N	再:ADV	賺錢:Vi	
+也許:ADV	甜點:N	價位:N	還:ADV	算:Vt	合理:Vi	
+不過:C	飲料:N	不管:C	大:Vi	杯:M	小:Vi	杯:N	不:ADV	賣:Vt	個:M	150:DET	不行:Vi	
+又:ADV	沒有:Vt	套餐:N	組合:Nv	
+這樣:Vi	吃起來:ADV	加上:Vt	一成:DET	服務費:N	隨便:Vi	都:ADV	要:ADV	400:DET	元:M	左右:POST	了:T	
+非常:ADV	天龍:N	價格:N	阿:N	經典:N	法式:A	吐司:N	
+220:DET	元:M	
+三:DET	片:M	大:Vi	塊:M	法式:A	吐司:N	配上:Vt	卡士達醬:N	、:PAUSECATEGORY	楓糖:N	以及:C	綜合:A	莓:b	果醬:N	
+法式:A	吐司:N	的:T	部份:DET	吃起來:ADV	與:P	想像:N	中:POST	有:Vt	些:M	不同:Vi	
+有:Vt	兩:DET	層:M	口感:N	一:DET	層:M	為:Vt	法式:A	吐司:N	烤:Vt	過:ASP	的:T	表面:N	
+另:DET	一:DET	層:M	為:P	像:Vt	是:Vt	蛋糕:N	一般:A	的:T	鬆軟:Vi	口感:N	
+吃:Vt	起:ASP	與:P	其:DET	說:Vt	是:Vt	法式:A	吐司:N	不如:C	說:Vt	是:Vt	像:P	法式:A	吐司:N	的:T	蛋糕:N	
+雖然:C	有:Vt	種:M	名不符實:Vi	的:T	感覺:N	
+不過:C	不可:ADV	否認:Vt	這:DET	真的:ADV	蠻:ADV	好吃:Vi	的:T	
+配上:Vt	香甜:Vi	的:T	卡士達醬:N	和:C	楓糖:N	以及:C	略帶:Vt	酒味:N	且:C	酸甜:Vi	的:T	莓:b	果醬:N	
+這:DET	一:DET	盤:M	很:ADV	快:Vi	地:T	就:ADV	吃完:Vt	了:ASP	咖朵熱:N	蛋糕:N	
+240:DET	元:M	
+因為:C	這:DET	蛋糕:N	現烤:Vt	所以:C	等待:Vt	的:T	時間:N	會:ADV	比較:ADV	久:Vi	一點:ADV	
+說真的:ADV	這:DET	道:M	甜點:N	與:P	其:DET	說:Vt	是:Vt	熱:Vt	蛋糕:N	不如:C	說:Vt	是:Vt	厚:Vi	美式:A	鬆餅:N	
+還是:ADV	說:Vt	熱:Vt	蛋糕:N	=:FW	厚:Vi	鬆餅:N	呢:T	
+除此之外:ADV	我:N	還:ADV	想到:Vt	杏桃:N	鬆餅屋:N	的:T	招牌:N	厚:Vi	鬆餅:N	明明:ADV	吃起來:ADV	像:Vt	是:Vt	雞蛋糕:N	還:ADV	把:P	舒芙蕾:N	扯:Vt	了:ASP	進來:Vi	稱為:Vt	舒芙蕾:N	厚:Vi	鬆餅:N	
+真的:ADV	是:Vt	搞:Vt	不:ADV	懂:Vt	這:DET	類:M	甜點:N	的:T	分類:N	阿:N	剛剛:ADV	以上:POST	都:ADV	是:Vt	題外話:N	了:T	
+說說:Vt	這:DET	熱:Vt	蛋糕:N	吃起來:ADV	如何:Vi	吧:T	
+這:DET	厚實:Vi	的:T	熱:Vt	蛋糕:N	裡面:N	融:Vi	有:Vt	RicottaCheese:FW	
+像:Vt	是:Vt	白:Vi	奶油:N	般:POST	的:T	起:Vt	司:N	
+帶有:Vt	甜味:N	
+在:P	裡面:N	
+所以:C	吃起來:ADV	相當:ADV	鬆軟:Vi	滑順:N	且:C	帶有:Vt	奶油:N	的:T	香味:N	
+口感:N	雖:C	不至於:ADV	像:P	舒芙蕾:N	那般:ADV	入口:Vi	即:ADV	化:Vt	
+不過:C	也:ADV	快:ADV	接近:Vt	了:ASP	
+可惜:Vi	的:T	是:Vt	這:DET	蛋糕:N	因為:C	加入:Vt	太多:DET	RicottaCheese:FW	反而:C	吃起來:ADV	變得:Vt	容易:Vi	膩:Vi	
+建議:N	還:ADV	是:Vt	兩:DET	人:N	分食:Vt	為佳:Vi	
+一:DET	塊:M	鬆餅:N	大概:ADV	吃:Vt	個:M	2:DET	/:FW	3:DET	左右:POST	就:ADV	開始:Vt	覺得:Vt	有點:ADV	膩:Vi	了:T	而:C	特製:Vt	蜂蜜:N	奶油:N	的:T	部分:DET	
+雖然:C	味道:N	不錯:Vi	但是:C	其實:ADV	並:ADV	沒有:ADV	想像:Vt	中:POST	會:ADV	有:Vt	濃郁:Vi	的:T	蜂蜜味:N	
+吃起來:ADV	和:P	一般:A	的:T	奶油:N	沒有:ADV	差:Vi	太多:Vi	
+香蕉:N	的:T	話:N	就:ADV	是:Vt	台灣:N	香蕉:N	
+這:DET	次:M	的:T	香蕉:N	有點:ADV	硬:Vi	
+我:N	覺得:Vt	可能:ADV	加熱:Vi	一下:N	弄軟:Vt	一:DET	點:N	會:ADV	比較:ADV	好:Vi	
+而且:C	說:Vt	實在:ADV	我:N	覺得:Vt	香蕉:N	和:C	這:DET	熱:Vt	蛋糕:N	的:T	口味:N	不:ADV	是:Vt	很:ADV	搭:Vt	
+味道:N	不:ADV	太:ADV	能夠:ADV	MATCH:FW	在一起:Vi	
+我:N	覺得:Vt	也:ADV	是:Vt	小:Vi	敗筆:N	之:T	一:DET	
+總之:ADV	我:N	個:M	人:N	覺得:Vt	以:P	這:DET	次:M	來:ADV	說:Vt	
+經典:N	法式:A	吐司:N	勝過:Vt	於:P	熱:Vt	蛋糕:N	個:M	人:N	評分:Nv	食物:N	::COLONCATEGORY	8.5:DET	/:FW	10:DET	雖然:C	我:N	對:P	熱:Vt	蛋糕:N	稍:ADV	有:Vt	挑剔:Vt	不過:C	這:DET	間:M	的:T	甜點:N	Overall:FW	來:ADV	說:Vt	算是:Vt	頗:ADV	有:Vt	水準:N	的:T	CP:FW	值:N	::COLONCATEGORY	6.5:DET	/:FW	10:DET	沒有:Vt	套餐:N	
+低消:N	飲料:N	一:DET	杯:M	外加:Vt	服務費:N	
+只有:ADV	貴:Vi	
+不過:C	至少:ADV	份量:N	還:ADV	蠻:ADV	多:Vi	的:T	環境:N	::COLONCATEGORY	8:DET	/:FW	10:DET	裝潢:N	氣氛:N	不錯:Vi	
+不過:C	店:N	內:N	由於:C	女性:N	朋友:N	們:N	居多:Vi	所以:C	特別:Vi	的:T	吵:Nv	服務:Nv	::COLONCATEGORY	8:DET	/:FW	10:DET	服務生:N	會:ADV	熱情:Vi	介紹:Vt	努力:Vi	倒:Vt	水:N	價格:N	稍:ADV	高:Vi	的:T	下午茶:N	店家:N	
+適合:Vi	三五:DET	好友:N	聚會:N	好好:Vi	享受:Vt	一下:N	現:N	烤:Vt	甜點:N	與:C	精美:Vi	飲料:N	的:T	下午:N	時光:N	
+甜點:N	最好:ADV	都:ADV	點:Vt	不:ADV	一樣:Vi	的:T	然後:ADV	大家:N	分:Vt	著:ASP	吃:Vt	
+因為:C	一:DET	個:M	人:N	吃:Vt	一:DET	份:M	真的:ADV	會:ADV	很:ADV	膩:Vi	
+然後:ADV	我:N	覺得:Vt	比起:P	二:DET	店:N	的:T	熱:Vt	蛋糕:N	還是:C	一:DET	店:N	的:T	各:DET	種:M	口味:N	舒芙蕾:N	經典:N	啦:T	--:DASHCATEGORY	Roa:FW	的:T	生活:N	心得:N	紀錄:N	-:DASHCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/xQHN:FW	紀錄:N	逝去:Vi	的:T	青春:N	時光:N	
+或:C	老年:N	時光:N	&:FW	amp:FW	
+各:DET	種:M	台北:N	美食:N	--:DASHCATEGORY	

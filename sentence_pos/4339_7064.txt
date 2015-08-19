@@ -1,0 +1,14 @@
+abow:FW	1003:DET	(:PARENTHESISCATEGORY	阿寶:N	):PARENTHESISCATEGORY	
+［:FW	問題:N	］:FW	請問:Vt	台北:N	有:Vt	24:DET	H:FW	的:T	拉麵店:N	嗎:T	？:QUESTIONCATEGORY	
+Tue:FW	
+May:FW	
+12:DET	
+22:DET	::COLONCATEGORY	04:DET	::COLONCATEGORY	40:DET	
+2015:DET	
+問題:N	
+請問:Vt	台北:N	有:Vt	24:DET	H:FW	的:T	拉麵店:N	嗎:T	
+TueMay:FW	1222:DET	::COLONCATEGORY	04:DET	::COLONCATEGORY	402015:DET	
+如:P	題:N	
+上網:Vi	找到:Vt	一:DET	家:M	在:P	林森北路:N	的:T	熱烈:Vi	ㄧ番:N	但是:C	已經:ADV	歇業:Vi	...:ETCCATEGORY	請問:Vt	各:DET	位:M	知道:Vt	台北:N	哪裡:N	有:Vt	24:DET	
+小時:N	的:T	拉麵店:N	嗎:T	
+感謝:Vt	

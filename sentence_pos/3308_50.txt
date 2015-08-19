@@ -1,0 +1,9 @@
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	承德路:N	四段:N	75號之1:N	
+平均:Vi	價位:N	：:COLONCATEGORY	200:DET	-:DASHCATEGORY	400:DET	
+以:P	台北:N	的:T	價格:N	來:ADV	說:Vt	算是:Vt	相當:Vi	平價:N	
+很少:ADV	看見:Vt	用料:N	這麼:ADV	豐富:Vt	
+這邊:N	白飯:N	跟:P	滷肉飯:N	價格:N	都:ADV	是:Vt	單:ADV	點:Vt	20:DET	
+份量:N	還:ADV	真是:ADV	出乎意料:Vi	地:T	多:Vi	呢:T	
+實際:Vi	吃起來:ADV	肉:N	也:ADV	相當:ADV	美味:Vi	
+但:C	吃起來:ADV	比較:ADV	扎實:Vi	
+太:ADV	好吃:Vi	啦:T	

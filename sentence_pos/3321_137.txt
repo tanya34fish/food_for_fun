@@ -1,0 +1,96 @@
+AmyEAT:FW	(:PARENTHESISCATEGORY	我:N	愛:Vt	素素:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北市:N	TRATTORIAREGGIANO(TR:FW	義式:A	餐廳:N	):PARENTHESISCATEGORY	
+Wed:FW	
+Jul:FW	
+16:DET	
+21:DET	::COLONCATEGORY	17:DET	::COLONCATEGORY	54:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	TRATTORIAREGGIANO(TR:FW	義式:A	餐廳:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	安和路:N	一段:N	53:DET	號:M	(:PARENTHESISCATEGORY	捷運:N	忠孝:N	敦化:N	站:Vi	走路:Vi	約:ADV	5:DET	~:FW	10:DET	分鐘:M	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	27751582:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	~:FW	15:DET	::COLONCATEGORY	00:DET	/:FW	17:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	平日:N	):PARENTHESISCATEGORY	；:SEMICOLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	假日:N	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	餐點:N	400:DET	元:M	/:FW	下午茶:N	300:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	起:Vt	司:N	蛋糕:N	、:PAUSECATEGORY	波本:N	義大利麵:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.reggiano.com.tw/cetacean/front/bin/home.phtml:FW	
+請:Vt	參閱:Vt	好讀:Vt	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	amyeat.pixnet.net/blog/post:FW	/:FW	379536206:DET	
+在:P	台北:N	要:ADV	找:Vt	間:POST	假日:N	不:ADV	限:Vt	時間:N	的:T	下午茶店:N	不:ADV	是:Vt	很:ADV	容易:Vi	
+這:DET	間:M	是:Vt	基本:N	上:POST	不:ADV	限時:ADV	
+除非:C	客滿:Vi	
+還好:ADV	是:Vt	挺:ADV	多:Vi	空位:N	的:T	
+白色:N	的:T	外牆:N	在:P	安和路:N	上:N	還:ADV	挺:ADV	明顯:Vi	
+店面:N	也:ADV	算:Vt	大:Vi	間:POST	
+門口:N	有:Vt	擺:Vt	MENU:FW	
+另外:C	有:Vt	營業:Nv	時間:N	說明:Vt	
+店:N	內:N	不能:ADV	帶:Vt	外食:Nv	、:PAUSECATEGORY	寵物:N	或:C	吸煙:Vi	
+店:N	內:N	擺飾:N	以:P	白色:N	桌巾:N	搭配:Vt	木頭色:N	桌子:N	為主:Vi	
+坐:Vi	在:P	窗:N	邊:N	看:Vt	人來人往:Vi	挺:ADV	有意思:Vi	
+椅子:N	也:ADV	是:Vt	舒服:Vi	的:T	膚色:N	皮椅:N	
+櫃檯:N	旁:N	擺:Vt	著:ASP	進口:Vt	礦泉水:N	
+不管:C	是:Vt	礦泉水:N	或:C	氣泡:N	水:N	都:ADV	是:Vt	要:ADV	加:Vt	錢:N	才:ADV	有得:ADV	喝:Vt	
+裡面:N	的:T	位置:N	則:ADV	是:Vt	吧:T	台和:N	出菜:N	區:N	
+這裡:N	的:T	刀:N	具:Vt	很:ADV	有趣:Vi	
+可以:ADV	站立:Vi	喔:T	
+菜單:N	封面:N	很:ADV	簡單:Vi	
+只:ADV	有:Vt	餐廳:N	名稱:N	與:C	
+MENU:FW	
+幾:DET	個:M	字:N	其餘:DET	留白:Vi	
+主頁:N	有:Vt	餐廳:N	的:T	介紹:N	
+其餘:DET	就:ADV	沒:ADV	放:Vt	
+因為:C	網站:N	上:N	有:Vt	很:ADV	清楚:Vi	的:T	菜單:N	
+附餐:N	麵包:N	
+是:Vt	橄欖油式:N	的:T	歐風:N	麵包:N	
+搭配:Vt	蕃茄:N	醬汁:N	
+應該:ADV	是:Vt	
+麵包:N	鬆軟:Vi	
+不過:C	有:Vt	一點:DET	吃:Vt	不:ADV	慣:Vt	
+主餐:N	加:Vt	200:DET	元:M	
++:FW	10:DET	%:M	
+附湯:N	或:C	沙拉:N	、:PAUSECATEGORY	飲料:N	與:C	甜點:N	
+其中:DET	今天:N	的:T	湯品:N	是:Vt	南瓜:N	濃湯:N	
+味道:N	較:ADV	鹹:Vi	
+但:C	鹹:Vi	中:POST	帶:Vt	著:ASP	南瓜:N	淡淡:Vi	的:T	甜味:N	
+主餐:N	附:Vt	的:T	沙拉:N	
+剛好:ADV	點:Vt	兩:DET	份:M	主餐:N	各:ADV	選:Vt	1:DET	樣:M	
+是:Vt	油醋:N	醬:N	
+生菜:N	很多:DET	
+挺:ADV	養生:Vi	就:ADV	是:Vt	
+假日:N	14:DET	::COLONCATEGORY	00:DET	
+17:DET	::COLONCATEGORY	00:DET	限定:Vt	的:T	午茶:N	組合:Vt	250:DET	元:M	+:FW	10:DET	%:M	
+畫:Vt	著:ASP	可愛:Vi	的:T	棒棒糖:N	搭配:Vt	三:DET	種:M	甜點:N	
+有:Vt	蛋糕:N	和:C	派:Vt	類:N	
+精緻:Vi	漂亮:Vi	
+不過:C	沒:ADV	吃到:Vt	味道:N	如何:ADV	不:ADV	清楚:Vi	
+下午茶:N	搭配:Vt	的:T	飲品:N	
+畫:Vt	著:ASP	漂亮:Vi	的:T	愛心:N	圖案:N	
+主餐:N	碳烤:N	雞肉:N	波本:N	義大利:N	扁:Vi	麵:N	280:DET	元:M	+:FW	10:DET	%:M	
+波本醬:N	還是:ADV	以:P	蕃茄味:N	為主:Vi	
+另:DET	雞肉:N	本身:N	只:ADV	有:Vt	碳烤:N	的:T	味道:N	
+需:ADV	搭配:Vt	醬料:N	食用:Vt	
+吃起來:ADV	清爽:Vi	還:ADV	算:Vt	順口:Vi	
+食材:N	感覺:N	也:ADV	不錯:Vi	
+附餐:N	加:Vt	60:DET	元:M	
++:FW	10:DET	%:M	
+可:ADV	任選:Vt	飲品:N	
+我:N	的:T	熱:Vt	義式:A	鮮奶茶:N	
+味道:N	很:ADV	清淡:Vi	
+茶香:N	中:POST	有:Vt	淡淡:Vi	鮮奶:N	味道:N	
+合適:Vi	喜歡:Vt	鮮奶:N	和:C	茶:N	組合:Nv	
+又:ADV	不:ADV	愛:Vt	味道:N	太:ADV	重:Vi	的:T	人:N	
+甜點:N	杏桃:N	起:POST	司:Vt	蛋糕:N	
+好像:ADV	是:Vt	
+算是:Vt	今天:N	吃起來:ADV	最:ADV	好吃:Vi	的:T	
+兩:DET	盤:M	畫:Vt	著:ASP	不同:Vi	圖案:N	
+起:Vt	司:N	吃起來:ADV	完全:ADV	不:ADV	膩:Vi	
+帶:Vt	著:ASP	杏桃:N	香:Vi	
+超級:A	好吃:Vi	
+今天:N	這:DET	餐:M	花:Vt	了:ASP	近:DET	600:DET	大洋:N	
+我:N	個:M	人:N	是:Vt	覺得:Vt	有點:ADV	貴:Vi	
+但:C	在:P	台北:N	物價:N	來:ADV	說:Vt	尚可:Vi	
+環境:N	舒適:Vi	挺:ADV	合適:Vi	聊天:Vi	
+店:N	內:N	也:ADV	提供:Vt	WIFI:FW	使用:Vt	
+美中不足:Vi	是:Vt	沒有:ADV	提供:Vt	水:N	
+需:ADV	花:Vt	水:N	資:N	50:DET	元:M	+:FW	10:DET	%:M	才:ADV	有:Vt	義大利:N	進口:Vt	巴娜:N	天然:A	礦泉水:N	可:ADV	喝到:Vt	飽:Vi	
+聊天:Vi	起來:ASP	挺:ADV	口渴:Vi	的:T	啊:T	

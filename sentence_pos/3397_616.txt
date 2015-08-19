@@ -1,0 +1,74 @@
+Joycebe:FW	(:PARENTHESISCATEGORY	我:N	和:P	我:N	的:T	倔強:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	寅樂屋:N	~:FW	日式:A	迷你:Vi	食堂:N	吃:Vt	咖哩:N	
+Thu:FW	
+Aug:FW	
+7:DET	
+00:DET	::COLONCATEGORY	47:DET	::COLONCATEGORY	27:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	寅樂屋:N	Torarakuya:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	延吉街:N	294:DET	號:M	(:PARENTHESISCATEGORY	口福:N	水煎包旁:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23257874:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	日:N	):PARENTHESISCATEGORY	~:FW	(:PARENTHESISCATEGORY	三:DET	):PARENTHESISCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	(:PARENTHESISCATEGORY	五:DET	):PARENTHESISCATEGORY	~:FW	(:PARENTHESISCATEGORY	六:DET	):PARENTHESISCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	23:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	牛肉:N	咖哩:N	
+網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	joycebe.pixnet.net/blog/post:FW	/:FW	41216914:DET	
+知道:Vt	寅樂屋:N	已經:ADV	是:Vt	好幾:DET	個:M	月:N	前:POST	的:T	事:N	
+但是:C	它:N	實在:ADV	太過:ADV	熱門:Vi	
+所以:C	一直:ADV	沒:Vt	勇氣:N	
+去:ADV	嚐試:Vt	
+上:N	星期:N	剛好:ADV	要:ADV	去:Vt	附近:N	另:DET	一:DET	家:M	咖啡店:N	
+在:P	朋友:N	推薦:Vt	又:ADV	不:ADV	知:Vt	拿:Vt	什麼:DET	當:Vt	晚餐:N	之下:POST	
+終於:ADV	來到:Vt	寅樂:N	屋:N	
+我們:N	約莫:ADV	晚上:N	快:Vi	6:DET	點到:Vt	
+已經:ADV	好多:DET	人:N	在:P	排隊:Vi	了:ASP	
+寅樂屋:N	的:T	外觀:N	像:Vt	極了:ADV	在:P	日本:N	京都:N	街頭:N	的:T	小店:N	
+讓:Vt	人:N	好:ADV	好奇:Vi	裡面:N	賣:Vt	的:T	是:Vt	什麼:DET	藥:N	
+老闆:N	很:ADV	親切:Vi	的:T	忙進忙出:Vi	
+看到:Vt	我們:N	在:P	拍照:Vi	還:ADV	很:ADV	熱心:Vt	的:T	要:ADV	幫:P	我們:N	合拍:Vt	
+排隊:Vi	等:Vt	了:ASP	約:ADV	20:DET	分鐘:M	
+終於:ADV	輪到:Vt	我們:N	了:T	
+本來:ADV	還:ADV	以為:Vt	自己:N	來得:ADV	很:ADV	早:Vi	呢:T	
+一:ADV	進:Vt	店:N	內:N	
+發現:Vt	超級:A	迷你:Vi	
+總共:ADV	只有:ADV	10:DET	人:N	左右:POST	的:T	座位:N	再:ADV	加上:Vt	吧台:N	
+難怪:ADV	要:ADV	排隊:Vi	啦:T	
+店:N	內:N	擺設:Vt	也:ADV	很:ADV	像:Vt	日本:N	的:T	居酒:N	屋:N	
+復古:Vt	、:PAUSECATEGORY	溫馨:Vi	
+起身:Vi	拍:Vt	個:M	照:N	好像:ADV	都:ADV	會:ADV	打擾:Vt	到:P	其他:DET	人:N	
+所以:C	我們:N	拍:Vt	得:T	很:ADV	害羞:Vi	
+老闆:N	建議:Vt	下午:N	來:ADV	拍照:Vi	比較:ADV	適合:Vi	喔:T	
+菜單:N	很:ADV	簡單:Vi	
+主食:N	就:ADV	是:Vt	咖哩:N	
+酒類:N	反而:C	居多:Vi	
+但:C	我:N	和:C	朋友:N	都:ADV	喜歡:Vt	這:DET	種:M	單純:Vi	的:T	感覺:N	
+專精:Vt	於:P	一:DET	項:M	料理:N	
+我:N	的:T	牛肉:N	咖哩飯:N	
+微微:ADV	辣:Vi	的:T	咖哩醬:N	
+搭配:Vt	還:ADV	滿:ADV	軟:Vi	嫩:Vi	的:T	牛肉:N	
+牛:N	筋:N	佔:Vt	多數:DET	
+因為:C	我:N	很:ADV	喜歡:Vt	牛:N	筋:N	
+所以:C	感到:Vt	滿:ADV	開心:Vi	的:T	
+除了:P	不:ADV	算:Vt	少:Vi	的:T	牛肉:N	外:POST	
+更:ADV	令:Vt	我:N	喜歡:Vt	的:T	是:Vt	燉:Vt	到:P	鬆軟:Vi	的:T	馬鈴薯:N	
+加:Vt	點:M	一:DET	顆:M	半熟:Vi	荷包蛋:N	
+把:P	蛋黃:N	和:C	咖哩醬:N	和:P	著:ASP	吃:Vt	真是:ADV	太:ADV	幸福:Vi	了:T	
+朋友:N	因為:C	吃:Vt	過:ASP	牛肉:N	咖哩飯:N	
+所以:C	挑戰:Vt	豬雞:N	通心粉:N	
+事:N	前:POST	我們:N	還:ADV	在:P	討論:Vt	咖哩:N	和:C	通心粉:N	有:Vt	多麼:ADV	不:ADV	搭:Vt	
+但是:C	這:DET	碗:M	上桌:Vi	有:Vt	顛覆:Vt	我們:N	想法:N	耶:T	
+豬雞:N	咖哩:N	偏:ADV	甜:Vi	不會:ADV	辣:Vi	
+通心粉:N	是:Vt	選用:Vt	QQ:FW	的:T	貝殼形:N	
+口感:N	很:ADV	不錯:Vi	
+一定:ADV	要:ADV	搭配上:Vt	起:ASP	司粉:N	
+和:C	洋:A	綜合:A	口味:N	才:ADV	棒:Vi	
+不過:C	豬:N	雞:N	口味:N	雖然:C	很:ADV	家庭味:N	
+像:P	媽媽:N	煮:Vt	的:T	佛蒙特:N	咖哩:N	
+卻:ADV	有點:ADV	太:ADV	小孩:N	了:T	
+吃:Vt	過:ASP	牛肉:N	咖哩:N	再:ADV	嚐:Vt	豬雞:N	咖哩:N	就:ADV	會:ADV	覺得:Vt	沒:Vt	味道:N	
+寅樂屋:N	的:T	價位:N	滿:ADV	平實:Vi	的:T	
+牛肉:N	咖哩:N	也:ADV	很:ADV	得:Vt	我:N	心:N	
+老闆:N	是:Vt	一:DET	個:M	服務:Nv	超:Vt	好:Vi	超:Vt	親切:Vi	的:T	先生:N	
+用餐:Vi	當天:N	看到:Vt	有:Vt	許多:DET	人:N	要:ADV	外帶:Vt	
+外帶:Vt	只要:C	$:FW	105:DET	超:Vt	划算:Vi	
+如果:C	不:ADV	想:Vt	排隊:Vi	就:ADV	選擇:Vt	外帶:Vt	吧:T	

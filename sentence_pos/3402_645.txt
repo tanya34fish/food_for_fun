@@ -1,0 +1,129 @@
+redpoppy(redpoppy:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	士林:N	澠井川:N	日式:A	串燒:N	居酒屋:N	貳:DET	場:M	
+Fri:FW	
+Aug:FW	
+8:DET	
+18:DET	::COLONCATEGORY	24:DET	::COLONCATEGORY	38:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	澠井川:N	日式:A	串燒:N	居酒屋:N	貳:DET	場:M	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	德行:N	西路:N	62巷:N	2:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2836:DET	-:DASHCATEGORY	6996:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	PM:FW	17:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	AM:FW	01:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	595:DET	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	鹽燒:N	/:FW	醬燒:N	嫩:Vi	雞:N	串:Vt	、:PAUSECATEGORY	鹽:N	燒松阪:Vt	豬:N	串:Vt	
+(:PARENTHESISCATEGORY	多圖好讀:Vt	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	yuuka0414.pixnet.net/blog/post:FW	/:FW	184877460:DET	):PARENTHESISCATEGORY	
+原本:ADV	想:Vt	在:P	好:Vi	姐妹:N	生日:N	前:POST	先:ADV	幫:P	她:N	慶生:Vi	
+但:C	剛好:ADV	遇到:Vt	颱風:N	天:N	
+所以:C	就:ADV	延:Vt	了:ASP	一:DET	個:M	星期:N	補:Vt	慶生:Vi	
+地點:N	則:ADV	是:Vt	在:P	澠井川:N	日式:A	串燒:N	居酒:N	屋:N	
+後來:N	上網:Vi	查:Vt	才:ADV	發現:Vt	原來:A	澠井川:N	有:Vt	兩:DET	間:M	店:N	
+我們:N	去:Vt	的:T	是:Vt	位於:Vt	捷運:N	芝山:N	站:N	附近:N	的:T	貳:DET	場:M	
+一:ADV	轉進:Vt	巷子:N	就:ADV	看到:Vt	這:DET	澠井川:N	日式:A	串燒:N	居酒:N	屋:N	
+明明:ADV	就:ADV	離:P	捷運:N	芝山:N	站:Vi	超:Vt	近:DET	
+但:C	兩:DET	個:M	人:N	顧:Vt	著:ASP	講話:Vi	就:ADV	這樣:Vi	錯過:Vt	了:ASP	62巷:N	的:T	路牌:N	
+迷路:Vi	了:ASP	好:Vi	一會兒:N	
+最後:N	找到:Vt	路:N	時:POST	忍不住:Vt	都:ADV	笑:Vi	了:ASP	
+因為:C	明明:N	路牌:N	就:ADV	超:Vt	明顯:Vi	的:T	
+這:DET	件:M	事:N	告訴:Vt	我們:N	：:COLONCATEGORY	走路:Vi	要:ADV	認真:Vi	XD:FW	
+門口:N	還:ADV	有:Vt	一:DET	個:M	小:Vi	木牌:N	上面:N	註明:Vt	
+這裡:N	的:T	串燒:N	是:Vt	使用:Vt	碳:N	火:N	喔:T	
+碳:N	火:N	比較:ADV	不:ADV	好:Vi	控制:Vt	
+但:C	烤:Vt	出來:Vi	的:T	串燒:N	會:ADV	多:Vi	一點:ADV	香氣:N	
+也:ADV	考驗:Vt	師傅:N	的:T	手藝:N	
+門口:N	的:T	大:Vi	看板:N	介紹:Vt	著:ASP	招牌菜:N	
+每:DET	樣:M	都:ADV	看起來:ADV	好:ADV	好吃:Vi	喔:T	
+門口:N	有:Vt	戶外:N	座位區:N	
+如果:C	有:Vt	抽菸:Vi	習慣:N	的:T	人:N	可以:ADV	選:Vt	這邊:N	的:T	位子:N	
+澠井川:N	日式:A	串燒:N	居酒屋:N	從:P	外面:N	的:T	裝潢:N	到:Vt	內部:N	的:T	擺設:N	都:ADV	很:ADV	充滿:Vt	濃濃:Vi	日式:A	風格:N	
+令:Vt	人:N	有:Vt	置身:Vt	日本:N	的:T	錯覺:N	
+從:P	這裡:N	可以:ADV	看到:Vt	師傅:N	們:N	正在:ADV	料理:Vt	食材:N	
+雖然:C	是:Vt	在:P	店:N	內:N	燒烤:Vt	
+但:C	沒有:Vt	任何:DET	令:Vt	人:N	不適:Vi	的:T	油:N	煙味:N	
+店家:N	排:Vt	煙:N	的:T	設備:N	做:Vt	的:T	很:ADV	好:Vi	呢:T	
+不用:ADV	擔心:Vt	吃完:Vt	衣服:N	會:ADV	沾到:Vt	臭臭:Vi	的:T	油:N	煙味:N	
+這裡:N	有:Vt	吧台:N	的:T	位子:N	可以:ADV	選擇:Vt	
+店:N	是:Vt	偏向:Vt	長條狀:N	
+沒有:ADV	拍到:Vt	的:T	那:DET	一:DET	側:N	則:ADV	是:Vt	一:DET	整:DET	排:M	的:T	坐位:N	
+不過:C	幾乎:ADV	每:DET	桌:M	客人:N	都:ADV	有:Vt	喝:Vt	酒:N	
+所以:C	就:ADV	沒有:ADV	往:P	那邊:N	拍照片:Vi	
+每:DET	次:M	到:Vt	可以:ADV	喝:Vt	酒:N	的:T	場合:N	都:ADV	不:ADV	太:ADV	敢:Vt	亂拍:Vt	
+怕:Vt	其他:DET	桌:N	的:T	客人:N	發酒瘋:Vi	啊:T	XD:FW	
+我們:N	被:P	安排:Vt	坐:Vi	在:P	這:DET	個:M	擺設:N	旁:N	的:T	位子:N	
+旁邊:N	放:Vt	了:ASP	好多:DET	日本:N	的:T	酒瓶:N	呀:T	
+澠井川:N	日式:A	串燒:N	居酒屋:N	賣:Vt	的:T	東西:N	真的:ADV	很多:DET	
+你:N	看看:Vt	那麼:ADV	一:DET	大:Vi	Menu:FW	是:Vt	要:ADV	從:P	何:DET	點起:Vt	
+每:DET	一樣:Vi	都:ADV	好:Vi	想:Vt	點:ADV	啊:T	
+但:C	居:Vt	酒屋:N	最:ADV	可怕:Vi	的:T	就是:C	
+每:DET	一樣:Vi	看起來:ADV	很:ADV	很:ADV	好吃:Vi	、:PAUSECATEGORY	價錢:N	也:ADV	不:ADV	高:Vi	
+但:C	東點:N	西點:N	也:ADV	是:Vt	很:ADV	驚人:Vi	的:T	
+串燒:N	分有:Vt	鹽:N	燒:Vt	&:FW	amp:FW	
+醬燒:N	兩:DET	種:M	口味:N	
+有:Vt	一些:DET	有:Vt	打:Vt	X:FW	的:T	
+就是:C	店家:N	覺得:Vt	那:DET	比較:ADV	不:ADV	適合:Vi	其中:DET	一:DET	個:M	口味:N	
+所以:C	就:ADV	先:ADV	在:P	Menu:FW	上:N	標記:N	
+大概:ADV	就是:C	發現:Vt	大家:N	常:ADV	盯:Vt	著:ASP	那:DET	Menu:FW	不:ADV	知:Vt	該:ADV	從:P	何:DET	點起:Vt	
+所以:C	這兒:N	很:ADV	貼心:Vi	的:T	提供:Vt	兩:DET	種:M	不同:Vi	套餐:N	
+可以:ADV	依:P	經費:N	和:C	食量:N	選擇:Vt	適合:Vi	的:T	餐點:N	
+我們:N	就:ADV	決定:Vt	直接點:N	$:FW	880:DET	的:T	二:DET	人:N	無敵:Vi	料:N	
+套餐:N	有:Vt	附:Vt	兩:DET	杯:M	飲料:N	
+兩:DET	人:N	都:ADV	選:Vt	了無:Vt	糖:N	綠茶:N	
+Orion:FW	生啤酒:N	
+TWD:FW	$:FW	120:DET	
+炎熱:Vi	的:T	夏天:N	一定:ADV	要:ADV	來:ADV	杯:M	冰:N	涼涼:Vi	的:T	生啤酒:N	才:ADV	爽快:Vi	啊:T	
+鹽燒:N	、:PAUSECATEGORY	醬:N	燒:Vt	嫩:Vi	雞:N	串:Vt	我們:N	點:Vt	的:T	套餐:N	串燒類:N	幾乎:ADV	都:ADV	是:Vt	兩:DET	串:M	
+店家:N	則:ADV	是:Vt	直接:Vi	幫:P	我們:N	各:ADV	用:P	不同:Vi	的:T	口味:N	
+這樣:Vi	就:ADV	能:ADV	兩:DET	種:M	口味:N	都:ADV	吃:Vt	得到:Vt	
+嫩:Vi	雞:N	串:Vt	是:Vt	我們:N	兩:DET	人:N	公認:Vt	最:ADV	好吃:Vi	的:T	一:DET	道:M	
+外面:N	烤:Vt	到:P	微焦:N	的:T	雞皮:N	讓:Vt	雞肉:N	吃起來:ADV	更:ADV	香:Vi	
+而且:C	雞肉:N	也:ADV	很:ADV	嫩:Vi	不會:ADV	柴柴:N	的:T	
+口味:N	上:N	
+我們:N	覺得:Vt	醬燒:N	的:T	比較:ADV	好吃:Vi	
+鹽燒:N	、:PAUSECATEGORY	醬:N	燒安格:N	牛:N	肋:N	
+牛:N	舌串:N	
+TWD:FW	$:FW	70:DET	
+左邊:N	兩:DET	串:M	是:Vt	安格:N	牛:N	肋:N	、:PAUSECATEGORY	右:N	串:Vt	則:ADV	是:Vt	單:A	的:T	牛:N	舌串:N	
+同樣:Vi	的:T	醬料:N	但:C	我們:N	覺得:Vt	牛:N	肋:N	配:Vt	鹽燒:N	比較:ADV	更:ADV	對味:Vi	
+牛:N	肋:N	不會:ADV	烤:Vt	的:T	太:ADV	硬:Vi	很:ADV	好:Vi	入口:N	
+但:C	牛:N	舌串:N	就:ADV	有點:ADV	熟:Vi	嫩度:N	不一:Vi	
+有的:DET	吃起來:ADV	太:ADV	硬:Vi	、:PAUSECATEGORY	有的:DET	較:ADV	軟:Vi	
+大概:ADV	因為:C	是:Vt	切成:Vt	塊狀:N	火候:N	不:ADV	好:Vi	控制:Vt	吧:T	
+鹽燒:N	松阪:N	豬:N	串:Vt	松阪:N	豬:N	好吃:Vi	的:T	口感:N	應該:ADV	不用:ADV	多:ADV	闡述:Vt	了:ASP	XD:FW	
+這裡:N	的:T	松阪:N	豬:N	只:ADV	有:Vt	提供:Vt	鹽燒:N	的:T	口味:N	
+也:ADV	是:Vt	啦:T	
+這麼:ADV	好吃:Vi	的:T	肉品:N	沾:Vt	點:M	鹽:N	吃:Vt	原味:N	最:ADV	棒:Vi	了:T	
+這:DET	道:M	也:ADV	是:Vt	超:Vt	推薦:Vt	的:T	
+好吃:Vi	
+香蒜燒:N	五:DET	花:N	丼:b	可:ADV	選擇:Vt	牛:N	or:FW	豬:N	
+我們:N	選:Vt	的:T	是:Vt	牛:N	五:DET	花:N	
+雖說:C	是:Vt	蒜味:N	但:C	並:ADV	不:ADV	是:Vt	用:P	生鮮:A	的:T	蒜頭:N	
+而是:C	已經:ADV	處理:Vt	過:ASP	的:T	蒜片:N	
+挾:Vt	著:ASP	配:Vt	著:ASP	牛:N	五:DET	花:N	吃:Vt	很:ADV	香:Vi	喔:T	
+除了:P	牛:N	五:DET	花:N	
+丼:b	還:ADV	有:Vt	泡菜:N	、:PAUSECATEGORY	美:N	生菜:N	
+下面:N	則:ADV	再:ADV	舖:Vt	了:ASP	洋蔥:N	
+個:M	人:N	覺得:Vt	洋蔥:N	很:ADV	好吃:Vi	呢:T	
+牛:N	五:DET	花:N	吃起來:ADV	也:ADV	很:ADV	嫩:Vi	
+唯一:A	的:T	缺點:N	是:Vt	
+醬汁:N	太少:Vi	了:T	
+無法:ADV	每:DET	口:M	飯:N	都:ADV	沾到:Vt	醬汁:N	
+挪威:N	鯖魚:N	本身:N	就:ADV	充滿:Vt	油脂:N	的:T	鯖魚:N	烤:Vt	過後:POST	就:ADV	更:ADV	香:Vi	了:T	
+吃起來:ADV	也:ADV	不會:ADV	太:ADV	腥:Vi	
+鹽燒:N	、:PAUSECATEGORY	醬:N	燒:Vt	大蔥:N	培根:N	友人:N	覺得:Vt	蔥:N	有點:ADV	太:ADV	老:Vi	了:T	
+但:C	我:N	吃:Vt	的:T	還:ADV	好:Vi	
+感覺:N	蔥:N	的:T	品質:N	沒有:ADV	很:ADV	一致:Vi	
+鹽燒:N	、:PAUSECATEGORY	醬:N	燒杏包菇串:N	雖然:C	是:Vt	烤:Vt	過:ASP	但:C	裡面:N	的:T	水份:N	都:ADV	沒有:ADV	跑掉:Vi	
+吃起來:ADV	還是:ADV	很:ADV	juicy:FW	
+來:ADV	用餐:Vi	前:POST	看到:Vt	有:Vt	部落客:N	說:Vt	這裡:N	的:T	上菜:Nv	速度:N	很:ADV	慢:Vi	
+原本:ADV	還:ADV	有點:ADV	擔心:Vt	
+但:C	其實:ADV	每:DET	道:M	菜:N	我們:N	都:ADV	沒有:Vt	等:POST	太:ADV	久:Vi	
+幾乎:ADV	是:Vt	吃完:Vt	一:DET	道:M	就:ADV	又:ADV	來:Vi	一:DET	道:M	
+服務生:N	也:ADV	來:ADV	有:Vt	來:ADV	巡:Vt	我們:N	用餐:Vi	的:T	進度:N	
+整體:N	下來:POST	都:ADV	還:ADV	蠻:ADV	滿意:Vt	的:T	
+當天:N	店:N	內:N	也:ADV	有:Vt	不少:DET	來:ADV	慶生:Vi	的:T	客人:N	
+發現:Vt	他們:N	都:ADV	是:Vt	自己:N	買:Vt	了:ASP	蛋糕:N	請:Vt	店家:N	幫忙:Vt	冰:N	
+待:P	用餐:Vi	差不多:Vi	後:POST	再:ADV	請:Vt	店家:N	將:P	蛋糕:N	拿上來:Vi	
+下:DET	回:M	如果:C	下班:Vi	後:POST	想:Vt	跟:P	同事:N	、:PAUSECATEGORY	朋友:N	聚會:N	喝:Vt	點:M	小:Vi	酒:N	
+這裡:N	是:Vt	個:M	不錯:Vi	的:T	選擇:N	喔:T	
+--:DASHCATEGORY	：:COLONCATEGORY	：:COLONCATEGORY	Yoona's27seconds:FW	：:COLONCATEGORY	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	yuuka0414.pixnet.net/blog:FW	--:DASHCATEGORY	

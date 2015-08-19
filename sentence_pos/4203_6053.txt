@@ -1,0 +1,70 @@
+vintia(vintia:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大:Vi	碗:N	滿意:Vt	好食:Vt	多涮涮屋:N	(:PARENTHESISCATEGORY	雙城店:N	):PARENTHESISCATEGORY	
+Fri:FW	
+Apr:FW	
+3:DET	
+09:DET	::COLONCATEGORY	12:DET	::COLONCATEGORY	02:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	好食:Vt	多涮涮屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	3月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	雙城街:N	19巷:N	5:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2585:DET	-:DASHCATEGORY	7222:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	15:DET	::COLONCATEGORY	00:DET	;:SEMICOLONCATEGORY	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	500:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	極:ADV	黑:Vi	和:C	牛:N	
+完整:Vi	圖文:N	無:Vt	音樂版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	vintia.pixnet.net/blog/post/109892162x:FW	
+第二:DET	次:M	踏進:Vt	好食:Vt	多涮涮屋:N	終於:ADV	記得:Vt	要:ADV	拍照:Vi	了:ASP	
+去年:N	的:T	用餐:Nv	經驗:N	很:ADV	愉快:Vi	
+所以:C	今年:N	回:Vt	台:N	又:ADV	跟:P	朋友:N	約:ADV	來:ADV	這裡:N	一起:ADV	用餐:Vi	
+好食:Vt	多:DET	就:ADV	在:P	晴光:N	商圈:N	附近:N	的:T	巷弄:N	內:N	
+走過:Vt	路過:Vt	很:ADV	容易:Vi	就:ADV	錯過:Vt	
+第一:DET	次:M	來:Vi	的:T	時候:N	我:N	也:ADV	傻傻:Vi	從:P	門口:N	晃過:Vt	去:ADV	而:C	完全:ADV	沒:ADV	發現:Vt	走過:Vt	頭:N	
+湯頭:N	直接:Vi	加價:Vi	選:Vt	了:ASP	北海道:N	羅臼:N	昆布:N	干貝:N	鍋:N	
+兩:DET	大:Vi	個:M	肥:Vt	嫩嫩:Vi	的:T	干貝:N	看起來:ADV	十分:ADV	美味:Vi	
+吃起來:ADV	也:ADV	頗:ADV	鮮:Vi	甜:Vi	
+店:N	內:N	比較:ADV	昏暗:Vi	
+座位:N	也:ADV	不:ADV	算:Vt	多:Vi	
+平日:N	中午:N	用餐:Nv	時間:N	
+沒:Vt	多久:N	就:ADV	全:DET	客滿:Vi	了:T	
+冬瓜:N	冰沙:N	
+朋友:N	不:ADV	愛:Vt	但:C	我:N	卻:ADV	喝:Vt	得:T	挺:ADV	愉快:Vi	
+濃度:N	足:Vt	香味:N	夠:Vi	
+菜盤:N	挺:ADV	豐富:Vt	的:T	
+難得:Vi	地:T	沒有:Vt	太多:DET	我:N	不:ADV	吃:Vt	的:T	蔬菜類:N	
+還給:Vt	了:ASP	一:DET	人:N	一:DET	顆:M	雞蛋:N	
+雖然:C	最後:N	我:N	跟:P	友人:N	都:ADV	沒用:Vi	
+烏龍麵:N	
+小:Vi	胃:N	人:N	吃:Vt	火鍋:N	通常:ADV	少:ADV	選:Vt	白飯:N	
+大多:DET	選:Vt	麵條:N	
+贈送:Vt	的:T	肉盤:N	
+好食:Vt	多:DET	最:ADV	大:Vi	的:T	特點:N	就:ADV	是:Vt	會:ADV	送:Vt	肉盤:N	
+非常:ADV	適合:Vi	滿足:Vt	食肉:N	欲:Vt	
+去年:N	我們:N	是:Vt	一:DET	行:N	三:DET	個:M	人:N	直接:Vi	到:Vt	店:N	內:N	用餐:Vi	
+由於:C	沒:ADV	訂位:Vi	只好:ADV	三:DET	人:N	共:ADV	兩:DET	鍋:M	吃:Vt	
+結果:ADV	店方:N	就:ADV	為了:P	補償:Vt	我們:N	
+抬出:Vt	三:DET	盤:M	肉片:N	來:ADV	給:Vt	我們:N	
+最後:N	我們:N	用完:Vt	餐:N	走出:Vt	門:N	
+默默:ADV	地:T	對看:Vi	了:ASP	一眼:N	說:Vt	......:ETCCATEGORY	接下來:ADV	一:DET	週:M	要:ADV	改:Vt	吃素:Vi	
+這:DET	回:M	是:Vt	兩:DET	人:N	用餐:Vi	
+就:ADV	送:Vt	了:ASP	一:DET	盤:M	肉片:N	
+雖說:C	是:Vt	送:Vt	的:T	肉片:N	
+但:C	吃起來:ADV	口感:N	也:ADV	不至於:ADV	會:ADV	太:ADV	差:Vi	
+11:DET	盎司:M	頂級:A	安格:N	斯:DET	雪花:N	牛:N	
+友人:N	第一:DET	次:M	來:ADV	吃:Vt	
+看到:Vt	她:N	點:Vt	的:T	這:DET	盤:M	肉:N	端上來:Vt	
+拉:Vt	了:ASP	拉:Vt	我:N	的:T	袖子:N	說:Vt	這:DET	...:ETCCATEGORY	也:ADV	太多:Vi	了:T	吧:T	
+吃:Vt	了:ASP	之後:POST	對:P	肉片:N	的:T	品質:N	是:Vt	讚不絕口:Vi	
+直:ADV	說:Vt	下:DET	次:M	也:ADV	要:ADV	帶:Vt	她:N	老公:N	來:Vi	這裡:N	用餐:Vi	
+極:ADV	黑:Vi	和:C	牛:N	
+我:N	知道:Vt	自己:N	是:Vt	小:Vi	胃:N	人:N	
+就:ADV	保守:Vi	點:ADV	個:M	7:DET	盎司:M	的:T	來:ADV	吃:Vt	
+肉片:N	頗:ADV	大:Vi	
+油花:N	均勻:Vi	
+入口:N	即:ADV	化:Vt	
+肉汁:N	甜美:Vi	而:C	不:ADV	膩:Vi	口:N	
+滿意:Vt	程度:N	自然:ADV	不在話下:Vi	
+好食:Vt	多涮涮屋:N	的:T	份量:N	十足:Vi	
+價格:N	上:POST	也:ADV	算是:Vt	中等:A	價位:N	
+吃完:Vt	了:ASP	還可以:ADV	晃晃:Vi	旁邊:N	的:T	晴光:N	商圈:N	
+再:ADV	來:ADV	一:DET	碗:M	我:N	最愛:N	的:T	丁香:N	豆花:N	
+想:Vt	吃:Vt	涮涮鍋:N	嗎:T	好食:Vt	多:DET	是:Vt	食肉狂:N	的:T	好:Vi	選擇:Vt	喔:T	

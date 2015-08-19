@@ -1,0 +1,106 @@
+Faberge:FW	(:PARENTHESISCATEGORY	你:N	的:T	大:Vi	Ｆ:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	LDTG:FW	_:FW	女巫店:N	台北:N	_:FW	大安區:N	
+Thu:FW	
+Aug:FW	
+7:DET	
+22:DET	::COLONCATEGORY	25:DET	::COLONCATEGORY	08:DET	
+2014:DET	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014.0:DET	8.02:DET	.:PERIODCATEGORY	午餐:N	友:N	：:COLONCATEGORY	5:DET	人:N	
+餐廳:N	名稱:N	：:COLONCATEGORY	女巫店:N	
+餐廳:N	地址:N	：:COLONCATEGORY	台北市:N	新生南路:N	三段:N	56巷:N	7:DET	號:M	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23625494:DET	
+綜合:A	評價:N	：:COLONCATEGORY	6.0:DET	分:M	價位:N	：:COLONCATEGORY	約:ADV	315:DET	元:M	
+推薦:Vt	料理:N	：:COLONCATEGORY	德國:N	烤:Vt	香腸:N	::COLONCATEGORY	6.0:DET	分:M	
+辣妹:N	雞翅:N	(:PARENTHESISCATEGORY	小辣:Vi	):PARENTHESISCATEGORY	::COLONCATEGORY	6.3:DET	分:M	
+阿不拉:N	客薩斯烤:Vt	蘋果:N	::COLONCATEGORY	6.0:DET	分:M	
+完整:Vi	食記:N	請:Vt	點:N	這裡:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/9gqE:FW	
+六:DET	年:M	以來:POST	
+一直:ADV	每:DET	週:M	出團:Vi	的:T	簡單:Vi	美食團:N	
+一直:ADV	相信:Vt	非:A	營利:Nv	才:ADV	能:ADV	不忘:Vt	味:N	初:POST	
+希望:Vt	也:ADV	能:ADV	與:P	你:N	相遇:Vi	在:P	某:DET	次:M	滿足:Vt	的:T	美味:Vi	餐桌:N	
+成為:Vt	一起:ADV	吃飯:Vi	的:T	朋友:N	
+如果:C	可以:ADV	
+如果:C	可以:ADV	
+但願:Vt	和:P	你:N	一起:ADV	嚐:Vt	遍:DET	幸福:Vi	
+－:FW	一起:ADV	吃飯:Vi	的:T	朋友:N	餐廳:N	介紹:Vt	::COLONCATEGORY	文章:N	提供:Vt	：:COLONCATEGORY	團長:N	兔子:N	是:Vt	一:DET	間:M	存在:Vi	很:ADV	久:Vi	的:T	
+外表:N	文青:N	內心:N	超:Vt	放蕩:Vi	
+涵括:Vt	各:DET	種:M	議題:N	
+曾經:ADV	接觸:Vt	文青:N	、:PAUSECATEGORY	後:N	搖:Vt	、:PAUSECATEGORY	地:N	下:N	音樂:N	、:PAUSECATEGORY	女性:N	主義:N	、:PAUSECATEGORY	同性戀:N	、:PAUSECATEGORY	雙性戀:N	等等:POST	議題:N	應該:ADV	都:ADV	聽說:Vt	過:ASP	的:T	超級:A	鼎鼎大名:Vi	的:T	店:N	
+晚上:N	有時:ADV	會:ADV	有:Vt	Live:FW	表演:N	
+順:P	帶:Vt	一:DET	提:Vt	曾經:ADV	演出:Vt	者:N	有:Vt	張:M	懸:Vt	、:PAUSECATEGORY	陳珊妮:N	、:PAUSECATEGORY	蘇打:N	綠:Vi	、:PAUSECATEGORY	盧廣仲:N	、:PAUSECATEGORY	陳綺貞:N	...:ETCCATEGORY	等:POST	
+checkpoint:FW	::COLONCATEGORY	女巫店:N	1:DET	.:PERIODCATEGORY	請:Vt	放開:Vt	心胸:N	點餐:N	訣竅:N	是:Vt	若無其事:Vi	的:T	唸出:Vt	菜名:N	
+2:DET	.:PERIODCATEGORY	低消:N	有限:Vi	時:POST	一:DET	人:N	150:DET	
+以:P	下午:N	時段:N	為:Vt	例:N	是:Vt	2:DET	-:DASHCATEGORY	5:DET	點:M	
+超過:Vt	就:ADV	必須:ADV	再:ADV	點:Vt	一:DET	次:M	
+3:DET	.:PERIODCATEGORY	晚上:N	有:Vt	小:Vi	Live:FW	9:DET	點:M	後:POST	有時:ADV	會:ADV	有:Vt	Live:FW	表演:N	
+現場:N	買:Vt	票:N	
+推薦:Vt	料理:Vt	第一:DET	道:M	::COLONCATEGORY	德國:N	烤:Vt	香腸:N	推薦度:N	：:COLONCATEGORY	63.3:DET	%:M	美味度:N	：:COLONCATEGORY	6.0:DET	價格:N	：:COLONCATEGORY	120:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=486#d:FW	2681:DET	介紹:N	--:DASHCATEGORY	女巫店:N	下午:N	的:T	經營:Nv	方式:N	是:Vt	桌:N	遊:Vt	的:T	型態:N	
+與:P	其:DET	點:M	餐:N	
+一些:DET	方便:Vi	進食:Nv	點心:N	更:ADV	適合桌:N	遊:Nv	、:PAUSECATEGORY	德國:N	烤:Vt	香腸:N	斜:Vi	切:Vt	後:POST	煎炸:Vt	
+配上:Vt	蜂蜜:N	芥末醬:N	及:C	一:DET	旁:N	附上:Vt	的:T	酸:Vi	黃瓜:N	
+讓:Vt	我們:N	一口:ADV	一口:ADV	
+點:Vt	了:ASP	兩:DET	盤:M	
+ｂｙ:FW	Ｓａｔｉｎｅ:FW	評價:N	--:DASHCATEGORY	用料:N	充足:Vi	阿:N	
+滿滿:Vi	的:T	菇類:N	
+─:FW	Andrew:FW	附醬:N	根:N	香腸:N	都:ADV	不錯:Vi	吃:Vt	
+─:FW	兔子:N	鰻:N	好吃:Vi	的:T	─:FW	家麟:N	推薦:Vt	料理:Vt	第二:DET	道:M	::COLONCATEGORY	辣妹:N	雞翅:N	
+小辣:Vi	
+推薦度:N	：:COLONCATEGORY	56.7:DET	%:M	美味度:N	：:COLONCATEGORY	6.3:DET	價格:N	：:COLONCATEGORY	250:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=486#d:FW	2682:DET	介紹:N	--:DASHCATEGORY	這:DET	道:M	菜:N	是:Vt	有:Vt	烤:Vt	過:ASP	
+外皮:N	有:Vt	一點:DET	焦黑:Vi	
+但:C	最後:N	有:Vt	油炸:Vt	過:ASP	才:ADV	上桌:Vi	
+雞肉:N	吃起來:ADV	軟嫩:Vi	
+但:C	卻:ADV	過於:ADV	油膩:Vi	
+調味:Vi	還:ADV	不錯:Vi	
+一點:DET	甜:Vi	後:POST	才:ADV	吃:Vt	出:Vt	辣味:N	
+整體:N	而言:Vt	並:ADV	不:ADV	是:Vt	很:ADV	出色:Vi	的:T	一:DET	道:M	菜:N	
+ｂｙＡｎｄｒｅｗ:FW	評價:N	--:DASHCATEGORY	雞翅:N	的:T	表皮:N	烤:Vt	的:T	微微:ADV	酥脆:Vi	
+肉質:N	軟嫩:Vi	多汁:Vi	
+蜜汁:N	─:FW	Michelle:FW	的:T	調味:N	
+讓:Vt	人:N	一:DET	隻:M	接:Vt	一:DET	隻:M	
+許是:ADV	我:N	餓:Vi	了:T	
+照:P	消失:Vi	的:T	速度:N	來:ADV	看:Vt	
+好像:ADV	應該:ADV	要點:N	個:M	大辣:Vi	大:Vi	份:M	的:T	─:FW	兔子:N	這樣:Vi	
+就是:C	一般:A	口味:N	─:FW	Satine:FW	推薦:Vt	料理:Vt	第三:DET	道:M	::COLONCATEGORY	阿不拉:N	客薩斯烤:Vt	蘋果:N	推薦度:N	：:COLONCATEGORY	50.0:DET	%:M	美味度:N	：:COLONCATEGORY	6.0:DET	價格:N	：:COLONCATEGORY	70:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=486#d:FW	2465:DET	介紹:N	--:DASHCATEGORY	整:DET	顆:M	新鮮:Vi	的:T	蘋果:N	削皮:N	後:POST	
+烤:Vt	的:T	軟嫩:Vi	帶:Vt	汁:N	
+卻:ADV	尚:ADV	能:ADV	保有:Vt	完整:Vi	的:T	蘋果:N	樣子:N	
+很:ADV	清新:Vi	的:T	口感:N	
+不過:C	這:DET	道:M	熱:Vt	的:T	水果:N	甜點:N	
+應該:ADV	是:Vt	要:ADV	有:Vt	大量:DET	的:T	香甜:Vi	肉桂粉:N	去:ADV	襯托出:Vt	蘋果:N	的:T	清甜:Vi	的:T	
+應該:ADV	是:Vt	怕:Vt	台灣:N	很多:DET	人:N	不:ADV	喜歡:Vt	肉桂味:N	
+但:C	也:ADV	就:ADV	稱不上:Vt	道地:Vi	風味:N	
+也:ADV	滿足:Vt	不:ADV	了:ASP	我:N	的:T	味蕾:N	了:T	
+ｂｙ:FW	Ｍｉｃｈｅｌｌｅ:FW	評價:N	--:DASHCATEGORY	蘋果:N	烤:Vt	過:ASP	香氣:N	馥郁:Vi	
+輕微:Vi	肉桂:N	香:N	對:P	肉桂:N	敏感:Vi	者:N	─:FW	Satine:FW	而言:Vt	
+尚可:Vi	接受:Vt	本:DET	次:M	飯友:N	給分:Vi	的:T	詳細:Vi	內容:N	::COLONCATEGORY	
+口味:N	各:DET	有:Vt	喜好:N	
+僅:ADV	能:ADV	當作:Vt	參考:N	::COLONCATEGORY	滿:DET	分為:Vt	五:DET	顆:M	
+適合:Vi	朋友:N	聚餐:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	適合:Vi	情侶:N	約會:Vi	：:COLONCATEGORY	★:FW	☆:FW	適合:Vi	家庭:N	聚會:N	：:COLONCATEGORY	★:FW	★:FW	餐廳:N	氣氛:N	：:COLONCATEGORY	★:FW	★:FW	☆:FW	價格:N	划算:Vi	：:COLONCATEGORY	★:FW	★:FW	☆:FW	美味:Vi	滿意:Vt	程度:N	：:COLONCATEGORY	★:FW	★:FW	
+就:ADV	該:DET	價位:N	而言:Vt	
+服務:Nv	品質:N	：:COLONCATEGORY	★:FW	★:FW	☆:FW	綜合:A	評價:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	再次:ADV	拜訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	☆:FW	推薦:Nv	朋友:N	意願:N	：:COLONCATEGORY	★:FW	★:FW	☆:FW	本:DET	次:M	消費:N	金額:N	
+飲料:N	另:DET	計:N	
+：:COLONCATEGORY	每:DET	人:N	315:DET	元:M	
+5:DET	人:N	用餐:Vi	
+用餐:Vi	建議:Vt	事項:N	：:COLONCATEGORY	1:DET	.:PERIODCATEGORY	請:Vt	放開:Vt	心胸:N	點:Vt	餐:N	：:COLONCATEGORY	訣竅:N	是:Vt	若無其事:Vi	的:T	唸出:Vt	菜名:N	
+2:DET	.:PERIODCATEGORY	低消:N	有限:Vi	時:POST	：:COLONCATEGORY	一:DET	人:N	150:DET	
+以:P	下午:N	時段:N	為:Vt	例:N	是:Vt	2:DET	-:DASHCATEGORY	5:DET	點:M	
+超過:Vt	就:ADV	必須:ADV	再:ADV	點:Vt	一:DET	次:M	
+3:DET	.:PERIODCATEGORY	晚上:N	有:Vt	小:Vi	Live:FW	：:COLONCATEGORY	9:DET	點:M	後:POST	有時:ADV	會:ADV	有:Vt	Live:FW	表演:N	
+現場:N	買:Vt	票:N	
+近期:N	餐友:N	分享:Vt	：:COLONCATEGORY	
+粉雪:N	北海道:N	Cafe:FW	
+INDULGE:FW	
+FafaVoila:FW	法法:N	小:Vi	館:N	
+1789:DET	Caf:FW	é:FW	...:ETCCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/2/Food_index.php:FW	
+t=&amp:FW	
+uid:FW	=:FW	八:DET	月份:N	美食團:N	行事曆:N	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/InfoNew.php:FW	
+t=&amp:FW	
+uid:FW	=:FW	如果:C	可以:ADV	
+希望:Vt	成為:Vt	與:P	你:N	一起:ADV	吃飯:Vi	的:T	朋友:N	bonnecontinuation:FW	
+F:FW	--:DASHCATEGORY	和:P	寂寞:Vi	
+忙碌:Vi	
+渺小:Vi	無關:Vi	美好:Vi	的:T	事物:N	是:Vt	擁抱:Vt	生活:N	的:T	大事:N	
+不:ADV	解釋:Vt	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/f.life.plus:FW	--:DASHCATEGORY	

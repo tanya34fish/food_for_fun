@@ -1,0 +1,149 @@
+saliha(saliha:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	忠孝:N	敦化:N	站:Vi	*:FW	手羽:N	壹:DET	TEBARICHI:FW	居:Vt	酒屋:N	
+Tue:FW	
+Aug:FW	
+26:DET	
+22:DET	::COLONCATEGORY	21:DET	::COLONCATEGORY	07:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	手羽:N	壹:DET	
+消費:N	時間:N	：:COLONCATEGORY	103年:N	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	忠孝東路:N	四段:N	223巷:N	75:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2711:DET	-:DASHCATEGORY	5250:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週六:N	18:DET	::COLONCATEGORY	00:DET	~:FW	01:DET	::COLONCATEGORY	00:DET	
+週日:N	18:DET	::COLONCATEGORY	00:DET	~:FW	00:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	~:FW	400:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	明:N	太子:N	雞柳:N	炸雞:N	翅:N	
+網誌:N	圖文:N	無:Vt	音樂版:N	內:N	有:Vt	菜單:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	saliha.pixnet.net/blog/post:FW	/:FW	387472556:DET	
+忠孝東路:N	這:DET	條:M	路:N	上:POST	還:ADV	真是:ADV	充滿:Vt	居酒屋:N	啊:T	
+相較:Vi	於:P	附近:N	的:T	串場:Nv	、:PAUSECATEGORY	鳥家:N	等:POST	人氣:N	很:ADV	旺:Vi	的:T	居酒:N	屋:N	
+手羽:N	壹:DET	就:ADV	顯得:Vt	安靜:Vi	了:ASP	些:ADV	
+不過:C	既然:C	是:Vt	日本:N	來:Vi	台:N	的:T	連鎖:A	居酒:N	屋:N	
+所以:C	還是:ADV	想:Vt	吃:Vt	看看:ASP	是否:ADV	有:Vt	特別:Vi	之:T	處:N	
+行:Vi	前:POST	有:Vt	先:ADV	在:P	網路:N	上:N	找:Vt	了:ASP	些:M	資料:N	
+不過:C	手羽:N	壹:DET	在:P	8:DET	/:FW	1:DET	才:ADV	重新:ADV	規劃:Vt	完畢:Vi	
+所以:C	到:P	現場:N	後:POST	發現:Vt	裝潢:Vt	陳設:N	及:C	菜單:N	都:ADV	不:ADV	太:ADV	一樣:Vi	
+菜色:N	有:Vt	變:Vi	比較:ADV	便宜:Vi	
+比起:P	那些:DET	很:ADV	擠:Vi	的:T	居酒:N	屋:N	
+我:N	還:ADV	蠻:ADV	喜歡:Vt	這:DET	種:M	空間:N	配置:Nv	
+不會:ADV	太:ADV	擠:Vi	
+椅子:N	也:ADV	很:ADV	舒服:Vi	
+旁邊:N	還:ADV	有:Vt	一:DET	大:Vi	片:M	落地窗:N	
+可以:ADV	好好:Vi	享受:Vt	屬於:Vt	自己:N	與:C	朋友:N	的:T	用餐:Nv	時光:N	
+目前:N	的:T	菜單:N	
+看起來:ADV	有:Vt	比:Vt	之前:POST	便宜:Vi	一點:ADV	
+而且:C	部分:DET	餐點:N	有:Vt	圖片:N	可以:ADV	參考:Vt	
+還:ADV	挺:ADV	不錯:Vi	的:T	
+但:C	有:Vt	個:M	缺點:N	
+我:N	不:ADV	確定:Vt	是:Vt	我:N	漏:Vi	看:Vt	還是:ADV	沒:ADV	寫:Vt	
+好像:ADV	沒:ADV	提到:Vt	要:ADV	再:ADV	加:Vt	一成:DET	服務費:N	
+但:C	事實:N	上:N	是:Vt	需要:Vt	加:Vt	一成:DET	服務費:N	的:T	
+生菜:N	沙拉:N	免費:Vi	招待:Vt	
+店家:N	會:ADV	贈送:Vt	用餐:Vi	的:T	客人:N	生菜:N	沙拉:N	
+我:N	在:P	網路:N	上:N	看:Vt	大家:N	好像:ADV	都:ADV	對:P	這:DET	盆:M	菜:N	評價:N	不:ADV	高:Vi	
+隨便:Vi	夾:Vt	了:ASP	幾:DET	口:M	吃吃:Vt	
+唉:T	喲:T	
+就是:C	我:N	喜歡:Vt	的:T	耶:T	
+其實:ADV	他:N	就是:C	生菜:N	佐:Vt	和風:N	醬油:N	拌:Vt	一:DET	拌:Vt	而已:T	
+可是:C	我:N	本來:ADV	就:ADV	是:Vt	個:M	很:ADV	愛:Vt	這:DET	類:M	酸酸:Vi	醬油:N	的:T	人:N	
+每:DET	次:M	吃到:Vt	這:DET	種:M	味道:N	的:T	生菜:N	沙拉:N	都:ADV	非常:ADV	喜歡:Vt	
+所以:C	自然:ADV	也:ADV	是:Vt	一口:ADV	接:Vt	一:DET	口吃:Vi	不停:Vi	
+還:ADV	蠻:ADV	多汁:Vi	開胃:Vi	的:T	
+免費:Vi	的:T	這:DET	盆:M	生菜:N	的:T	份量:N	還:ADV	不:ADV	小:Vi	耶:T	
+大小:N	直:ADV	逼:Vt	正餐:N	的:T	沙拉:N	
+因為:C	忘:Vt	了:ASP	會:ADV	送:Vt	沙拉:N	
+所以:C	我們:N	也:ADV	點:Vt	了:ASP	一:DET	份:M	沙拉:N	
+結果:ADV	看到:Vt	兩:DET	大:Vi	盆:M	沙拉:N	有點:ADV	哭笑不得:Vi	
+不過:C	兩:DET	盆:M	沙拉:N	都:ADV	很:ADV	好吃:Vi	啦:T	
+而且:C	會:ADV	有:Vt	飽足感:N	
+多:ADV	吃:Vt	菜:N	倒:ADV	也:ADV	不錯:Vi	
+溫泉:N	蛋凱薩:N	沙拉:N	$:FW	180:DET	
+凱薩沙拉:N	味道:N	很:ADV	濃郁:Vi	
+香:Vi	而:C	不:ADV	膩:Vi	
+裡頭:N	有:Vt	番茄:N	、:PAUSECATEGORY	生菜:N	、:PAUSECATEGORY	土司:N	丁:N	、:PAUSECATEGORY	燻肉:N	等:POST	佐料:N	
+上頭:N	還:ADV	有:Vt	顆:M	溫泉蛋:N	
+很:ADV	紮實:Vi	好吃:Vi	
+雙糖碎:N	花生:N	手:N	羽:N	先:ADV	唐揚:N	$:FW	160:DET	
+來:ADV	這裡:N	當然:ADV	要:ADV	點點:DET	看:Vt	炸雞:N	翅:N	
+畢竟:ADV	人家:N	就:ADV	是:Vt	以:P	這:DET	個:M	命名:Vt	的:T	嘛:T	
+炸雞:N	翅:N	有:Vt	好幾:DET	種:M	口味:N	的:T	
+每:DET	份:M	有:Vt	五:DET	隻:M	雞:N	翅:N	
+每:DET	種:M	我:N	都:ADV	很:ADV	想:Vt	吃吃:ADV	看:Vt	
+明:N	太子:N	美乃滋:N	、:PAUSECATEGORY	咖哩:N	、:PAUSECATEGORY	蒜味:N	之類:POST	的:T	
+但:C	後來:N	還是:ADV	點:Vt	了:ASP	很:ADV	特別:Vi	的:T	雙糖碎:N	花生:N	
+雞翅:N	上:N	佈滿:Vt	糖:N	
+但:C	味道:N	卻:ADV	毫不:ADV	違和:Vi	
+糖:N	提升:Vt	了:ASP	鹹味:N	的:T	層次感:N	
+也:ADV	突顯:Vt	了:ASP	肉質:N	的:T	鮮嫩:Vi	
+花生:N	則:ADV	是:Vt	讓:Vt	雞翅:N	在:P	咬:Vt	感:N	上:N	多:Vi	了:ASP	些:M	變化:N	
+不過:C	還:ADV	挺:ADV	重:Vi	口味:N	的:T	
+偏鹹:Vi	
+可是:C	我:N	還是:ADV	很:ADV	喜歡:Vt	這:DET	雞翅:N	
+下:DET	次:M	有:Vt	機會:N	想來:ADV	吃吃:Vt	蒜味:N	的:T	
+串燒:N	-:DASHCATEGORY	燒鳥盛合:Vt	$:FW	250:DET	
+這裡:N	有:Vt	分:M	串:Vt	揚:Vt	
+炸:Vt	
+跟:P	串燒:N	
+烤:Vt	
+可:ADV	別:DET	點:M	錯:Vi	
+菜單:N	的:T	價格:N	都:ADV	是:Vt	列單:N	串:Vt	的:T	
+我們:N	選:Vt	了:ASP	燒:Vt	鳥:N	盛合:N	
+這:DET	組合:Nv	會:ADV	比:P	一般:A	單點:N	便宜:Vi	約:ADV	20:DET	元:M	
+但是:C	內容:N	是:Vt	固定:Vt	的:T	
+兩:DET	串:M	肉串:N	跟:P	三:DET	串:M	內臟:N	
+不能:ADV	挑:Vt	種類:N	
+看:Vt	師傅:N	安排:Vt	
+今天:N	吃到:Vt	的:T	是:Vt	雞胗:N	、:PAUSECATEGORY	雞心:N	、:PAUSECATEGORY	雞肝:N	、:PAUSECATEGORY	雞腿:N	蔥串:N	、:PAUSECATEGORY	醬:N	燒:Vt	雞腿:N	
+烤工:N	還:ADV	不錯:Vi	
+肉質:N	不:ADV	顯:Vt	老:Vi	
+嫩嫩:Vi	的:T	很:ADV	入:Vt	味:N	
+也:ADV	不過:C	焦:Vi	
+醬燒:N	跟:P	鹽燒:N	各:DET	有:Vt	美味:Vi	之:T	處:N	
+但:C	雞腿:N	蔥:N	串:Vt	的:T	蔥:N	很:ADV	乾癟:Vi	
+大推雞胗:N	
+超:Vt	有:Vt	咬:Vt	勁:N	
+會:ADV	彈:Vt	牙:N	
+淡淡:Vi	的:T	鹽味:N	很:ADV	顯:Vt	鮮:Vi	
+我:N	超:Vt	愛:Vt	這:DET	個:M	
+不過:C	雞:N	肝:N	的:T	部分:DET	
+腥味:N	還是:ADV	偏重:Vt	了:ASP	一點:DET	
+後來:N	我:N	發現:Vt	一:DET	個:M	吃:Vt	雞肝:N	的:T	好:Vi	方法:N	
+把:P	雞肝:N	搭配:Vt	剛剛:ADV	的:T	和風:N	生菜:N	
+變:Vi	
+好:Vi	
+吃:Vt	
+了:T	
+腥味:N	都:ADV	消除:Vt	了:ASP	
+還:ADV	增加:Vt	嚼:Vt	勁:N	與:C	清爽:Vi	
+日式:A	炒麵:N	$:FW	180:DET	
+原本:ADV	心:N	裡:N	有:Vt	些:M	小:Vi	嘀咕:Vt	
+炒麵:N	價格:N	好像:ADV	有:Vt	些:M	偏:ADV	高:Vi	
+可是:C	有點:ADV	怕:Vt	肚子:N	餓:Vi	
+想:Vt	說:Vt	還:ADV	是:Vt	點份:N	來:ADV	吃:Vt	
+沒想到:ADV	XDDD:FW	這:DET	真的:ADV	很:ADV	大:Vi	份:M	耶:T	
+以:P	這:DET	價格:N	來:ADV	說:Vt	也:ADV	不:ADV	算:Vt	貴:Vi	
+除了:P	高麗菜:N	、:PAUSECATEGORY	肉絲:N	、:PAUSECATEGORY	紅薑:N	等:POST	
+上頭:N	灑滿:Vt	了:ASP	飄來飄去:Vi	厚厚:Vi	的:T	柴魚:N	
+麵量:N	也:ADV	很多:DET	
+結果:ADV	我們:N	兩:DET	個:M	一:ADV	吃:Vt	之下:POST	又:ADV	太:ADV	飽:Vi	了:ASP	XDDD:FW	
+本來:ADV	想:Vt	說:Vt	點到:Vt	為止:POST	
+不過:C	相較:Vi	偏:ADV	鹹:Vi	的:T	串燒:N	
+炒麵:N	反而:C	是:Vt	偏:ADV	淡:Vi	的:T	
+鹹味:N	不:ADV	重:Vi	
+如果:C	鹹味:N	可以:ADV	再:ADV	提高:Vt	一點:DET	好像:ADV	會:ADV	比較:ADV	好吃:Vi	
+明:N	太子:N	雞柳:N	$:FW	60:DET	
+這:DET	是:Vt	大家:N	都:ADV	推:Vt	的:T	一:DET	道:M	
+來:ADV	這裡:N	必:ADV	點:Vt	
+嫩:Vi	的:T	雞:N	柳:N	舖上:Vt	滿滿:Vi	的:T	明:Vi	太子:N	美乃滋:N	
+明:N	太子:N	略帶:Vt	的:T	腥味:N	很:ADV	適合:Vi	肉味:N	不:ADV	濃:Vi	的:T	雞:N	柳:N	
+綜合:Vt	後:POST	味道:N	相當:ADV	濃郁:Vi	好吃:Vi	
+總結:Vt	
+整體:N	來:ADV	說:Vt	
+味道:N	還:ADV	蠻:ADV	不錯:Vi	的:T	
+就是:C	炒麵:N	味道:N	淡:Vi	了:ASP	點:M	
+服務:Nv	品質:N	也:ADV	蠻:ADV	好:Vi	的:T	
+服務:Nv	人員:N	在:P	跟:P	客人:N	點:Vt	餐:N	時:POST	是:Vt	用:P	跪:Vi	的:T	
+無論:C	是:Vt	講話:Vi	或是:C	加:Vt	水:N	什麼:DET	的:T	對:P	客人:N	都:ADV	有:Vt	種:M	恭敬:Vi	的:T	態度:N	
+很:ADV	可以:ADV	感受到:Vt	是:Vt	來自:Vt	日本:N	的:T	餐廳:N	
+不過:C	兩:DET	個:M	人:N	點:M	這樣:Vi	還是:ADV	吃:Vt	太:ADV	飽:Vi	了:ASP	XDD:FW	
+真的:ADV	沒想到:ADV	炒麵:N	那麼多:DET	

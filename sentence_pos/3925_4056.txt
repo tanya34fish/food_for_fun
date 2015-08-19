@@ -1,0 +1,88 @@
+sorimachi:FW	18:DET	(:PARENTHESISCATEGORY	森:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	GOGOPasta:FW	義大利麵:N	
+Thu:FW	
+Jan:FW	
+8:DET	
+13:DET	::COLONCATEGORY	47:DET	::COLONCATEGORY	03:DET	
+2015:DET	
+2014年:N	12月:N	
+是:Vt	說:Vt	，:COMMACATEGORY	現在:N	大家:N	都:ADV	在:P	比:P	誰:N	比較:Vt	巷弄:N	的:T	
+越:ADV	隱密:Vi	拐:Vt	越:ADV	多:ADV	彎:Vi	人:N	越:ADV	多:Vi	
+可能:ADV	比較:ADV	難:Vi	得到:Vt	所以:C	比較:ADV	珍貴:Vi	(:PARENTHESISCATEGORY	?:QUESTIONCATEGORY	):PARENTHESISCATEGORY	
+還是:ADV	因為:C	走:Vi	太:ADV	遠:Vi	所以:C	肚子:N	越:ADV	餓:Vi	越:ADV	好吃:Vi	(:PARENTHESISCATEGORY	?:QUESTIONCATEGORY	):PARENTHESISCATEGORY	
+總之:ADV	，:COMMACATEGORY	
+這:DET	間:M	店:N	從:P	他:N	開業:Vi	沒:Vt	多久:N	我:N	就:ADV	在:P	偶然:ADV	經過:Vt	的:T	情況:N	下:POST	吃:Vt	過:ASP	他:N	
+而且:C	還:ADV	一個個:DET	禮拜:N	吃:Vt	了:ASP	3:DET	次:M	&:FW	gt:FW	;:SEMICOLONCATEGORY	/:FW	/:FW	/:FW	&:FW	lt:FW	;:SEMICOLONCATEGORY	
+(:PARENTHESISCATEGORY	沒:ADV	錯:Vi	，:COMMACATEGORY	不但:C	一:ADV	試:Vt	成:Vt	了:ASP	老主顧:N	，:COMMACATEGORY	還:ADV	介紹:Vt	朋友:N	的:T	朋友:N	的:T	朋友:N	一起:ADV	變成:Vt	VIP:FW	):PARENTHESISCATEGORY	
+不過:C	，:COMMACATEGORY	為什麼:ADV	等到:P	今天:N	才:ADV	介紹:Vt	他:N	?:QUESTIONCATEGORY	
+關於:P	這:DET	個:M	問題:N	，:COMMACATEGORY	我:N	也:ADV	很:ADV	疑惑:Vi	
+可能:ADV	就:ADV	是:Vt	一:DET	種:M	每:DET	次:M	進去:Vi	肚子:N	很:ADV	餓:Vi	+:FW	迫不及待:ADV	+:FW	顧:Vt	著:ASP	聊天:Vi	
+所以:C	想起:Vt	來:Vi	的:T	時候:N	都:ADV	是:Vt	已經:ADV	吃完:Vt	的:T	狀態:N	.....:ETCCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	ally701.pixnet.net/blog/post:FW	/:FW	401538904:DET	
+無:Vt	音樂:N	
+有:Vt	圖:N	真相:N	網誌:N	好讀:Vt	版:N	
+店:N	內:N	風格:N	寬敞:Vi	乾淨:Vi	明亮:Vi	
+營業:Vi	好幾:DET	年:M	
+一直:ADV	維持:Vt	的:T	不錯:Vi	
+木質:N	調:Vt	的:T	氣息:N	滿:ADV	溫馨:Vi	舒適:Vi	
+連:C	地下室:N	也:ADV	沒有:Vt	擠迫:Vi	窒息感:N	
+其實:ADV	
+這:DET	家:M	店:N	的:T	義大利麵:N	口味:N	不:ADV	是:Vt	很:ADV	奇特:Vi	+:FW	有:Vt	創意:N	那:DET	種:M	
+簡單:Vi	的:T	紅:Vi	白:Vi	青醬:N	和:C	橄欖油:N	風味:N	
+不:ADV	多:ADV	不少:Vi	該:DET	有:Vt	的:T	都:ADV	有:Vt	
+但:C	看似:Vt	很:ADV	一般:A	的:T	口味:N	要:ADV	炒:Vt	的:T	好吃:Vi	、:PAUSECATEGORY	炒:Vt	的:T	美味:N	、:PAUSECATEGORY	炒:Vt	的:T	驚人:Vi	
+那:DET	就:ADV	真的:ADV	各:ADV	憑:P	本事:N	
+價格:N	方面:N	還:ADV	算:Vt	平價:N	
+加:Vt	個:M	80:DET	元:M	還可以:ADV	升格為:Vt	套餐:N	
+算是:Vt	非常:ADV	優惠:Vt	
+隨:P	餐:N	附上:Vt	麵包:N	
+只要:C	單:ADV	點:Vt	主餐:N	就:ADV	會:ADV	附:Vt	喔:T	
+麵包:N	屬於:Vt	有:Vt	嚼:Vt	勁:N	的:T	口感:N	
+外層:N	烤:Vt	的:T	香香:Vi	酥酥:Vi	
+每:DET	次:M	搭配:Vt	的:T	醬料:N	都:ADV	不同:Vi	
+之前:N	有:Vt	鮪魚醬:N	
+這:DET	次:M	是:Vt	特製:Vt	橄欖醬:N	
+特殊:Vi	的:T	香氣:N	跟:P	麵包:N	很:ADV	搭:Vt	
+加入:Vt	奶油:N	香氣:N	更:ADV	盛:Vi	
+開胃菜:N	的:T	選擇:N	滿多:Vi	的:T	
+很多:DET	都:ADV	很:ADV	好吃:Vi	
+泰式:A	炸雞:N	塊:M	佐椒:N	麻醬:N	也:ADV	很:ADV	棒:Vi	
+炒:Vt	蒜味杏:N	鮑:N	菇:N	小卷:N	也:ADV	非常:ADV	優秀:Vi	
+炸:Vt	過:ASP	的:T	杏:N	鮑:N	菇:N	外皮:N	香酥:N	
+咬:Vt	開:Vt	來:ADV	非常:ADV	鮮嫩:Vi	多汁:Vi	
+小卷:N	也:ADV	很:ADV	新鮮:Vi	彈:Vt	牙:N	
+陣陣:DET	香氣:N	撲鼻:Vi	
+香蒜:N	雞肉:N	辣椒:N	義大利麵:N	是:Vt	我:N	的:T	愛:N	
+辣度:N	可以:ADV	自行:ADV	調整:Vt	
+非常:ADV	非常:ADV	濃郁:Vi	香:Vi	辣:Vi	的:T	醬汁:N	
+包裹:N	在:P	Q:FW	彈:Vt	有:Vt	嚼:Vt	勁:N	的:T	麵條:N	上:N	
+沾:Vt	著:ASP	薄:Vi	粉炸:Vi	過:ASP	的:T	雞:N	柳酥香:N	不:ADV	柴:N	
+好:Vi	吃到:Vt	停:Vt	不:ADV	下來:Vi	
+雞柳:N	要:ADV	外層:N	香酥:N	內裡:N	鮮嫩:Vi	
+火侯:N	的:T	拿捏:Nv	十分:ADV	重要:Vi	
+整體:N	融合:Vt	不:ADV	破壞:Vt	美感:N	才:ADV	是:Vt	傑出:Vi	的:T	作品:N	
+喜愛:Vt	重:Vi	口味:N	的:T	朋友:N	一定:ADV	會:ADV	喜歡:Vt	
+人氣:N	肉醬:N	義大利麵:N	不:ADV	虧:Vt	為:P	人氣王:N	
+酸酸:Vi	濃濃:Vi	的:T	醬汁:N	調配:Vt	的:T	恰到好處:Vi	
+若:C	有:Vt	似:ADV	無:Vt	的:T	肉:N	末:N	和:C	茄汁:N	的:T	精華:N	沾附:Vt	在:P	麵條:N	上:N	
+濃稠:Vi	卻:ADV	清新:Vi	不:ADV	膩:Vi	口:N	
+頗:ADV	受:Vt	大人:N	小孩:N	歡迎:Vt	
+店:N	內:N	無論:C	是:Vt	開胃菜:N	或:C	主餐:N	
+義大利麵:N	、:PAUSECATEGORY	燉:Vt	飯:N	、:PAUSECATEGORY	披薩:N	
+都:ADV	表現:Vt	的:T	可圈可點:Vi	
+現在:N	似乎:ADV	已經:ADV	成為:Vt	心:N	中:POST	的:T	指標:N	店家:N	
+去:ADV	其他:DET	家:N	都:ADV	要:ADV	默默:ADV	分:Vt	個:M	高下:Nv	
+看到:Vt	我:N	這麼:ADV	熱愛:Vt	的:T	表現:N	下:POST	不:ADV	難:Vi	查覺:Vt	吧:T	
+GOGOPasta:FW	
+敦南店:N	
+電話:N	::COLONCATEGORY	
+02:DET	
+2740:DET	-:DASHCATEGORY	1680:DET	
+地址:N	::COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	233巷:N	15:DET	號:M	
+GOGOPasta:FW	
+公館店:N	
+電話:N	::COLONCATEGORY	
+02:DET	
+2369:DET	-:DASHCATEGORY	1680:DET	
+地址:N	::COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	三段:N	316巷:N	14:DET	號:M	
+網址:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	gogopasta.com.tw:FW	/:FW	

@@ -1,0 +1,39 @@
+poltroon:FW	(:PARENTHESISCATEGORY	20:DET	公分:M	的:T	距離:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	豚:N	一:DET	族:N	
+Fri:FW	
+Aug:FW	
+1:DET	
+15:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	12:DET	
+2014:DET	
+2014:DET	/:FW	6:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	vikingbear.pixnet.net/blog/post:FW	/:FW	30245144:DET	
+分享:Vt	::COLONCATEGORY	
+每:DET	次:M	在:P	阪急:N	
+都:ADV	看到:Vt	這:DET	間:M	拉麵:N	店:N	大排長龍:Vi	
+想:Vt	說:Vt	應該:ADV	東西:N	也:ADV	不錯:Vi	吃:Vt	吧:T	
+桌:N	上:N	放有:Vt	大蒜:N	跟:P	一些:DET	漬物:N	
+大蒜:N	可以:ADV	加:Vt	在:P	湯:N	裡:N	增加:Vt	風味:N	
+漬物:N	也:ADV	可以:ADV	搭配:Vt	著:ASP	拉麵:N	
+算是:Vt	提供:Vt	的:T	不:ADV	小氣:Vi	
+加:Vt	點:M	套餐:N	
+是:Vt	烏龍茶:N	
+另外:C	加上:Vt	炸雞:N	
+這:DET	炸雞:N	上桌:Vi	外皮:N	都:ADV	是:Vt	油:N	
+皮:N	也:ADV	太:ADV	厚:Vi	
+肉:N	反而:C	吃:Vt	不:ADV	到:Vt	多少:DET	
+我:N	點:Vt	的:T	是:Vt	豚骨:N	拉麵:N	
+有:Vt	ㄧ:N	顆:M	溏心:N	蛋:N	
+一:DET	片:M	有:Vt	瘦:Vi	有:Vt	肥:Vt	的:T	叉燒:N	
+木耳:N	跟:P	蔥花:N	
+湯頭:N	的:T	味道:N	個:M	人:N	覺得:Vt	還:ADV	好:Vi	
+可能:ADV	我:N	個:M	人:N	比較:ADV	喜歡:Vt	三田:N	吧:T	
+貝爾點:N	的:T	是:Vt	辣:Vi	口味:N	的:T	
+味道:N	比較:ADV	鹹:Vi	一點:ADV	
+也:ADV	有:Vt	辣:Vi	的:T	味道:N	
+兩:DET	碗:M	都:ADV	是:Vt	使用:Vt	細:Vi	麵:N	
+感覺:Vt	比較:ADV	容易:Vi	吸收:Vt	湯:N	的:T	味道:N	
+如果:C	嫌:Vt	店家:N	湯頭:N	不:ADV	夠:ADV	濃郁:Vi	
+還:ADV	另外:ADV	給:Vt	尚:ADV	有點:ADV	像:Vt	是:Vt	濃縮:Vi	的:T	肉:N	末:POST	可以:ADV	加:Vt	
+這樣:Vi	才:ADV	比較:Vt	有點:ADV	鹹味:N	
+不過:C	說起來:ADV	
+個:M	人:N	覺得:Vt	豚:N	一:DET	族:N	個:M	人:N	沒:Vt	很:ADV	喜歡:Vt	就是:C	

@@ -1,0 +1,19 @@
+地址:N	：:COLONCATEGORY	台北市:N	北投區:N	行義路:N	300巷:N	10:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	400:DET	以上:N	
+每:DET	人:N	消費:N	400:DET	元:M	就:ADV	可以:ADV	免費:Vi	泡湯:Vi	一:DET	次:M	
+說穿:Vt	了:ASP	吃飯:Vi	加:Vt	泡湯:Vi	只:ADV	要:Vt	400:DET	元:M	
+很:ADV	划算:Vi	啊:T	
+180:DET	
+120:DET	
+320:DET	
+280:DET	
+共:ADV	900:DET	元:M	
+略帶:Vt	甘苦:N	的:T	味道:N	我:N	頗:ADV	愛:Vt	
+好吃:Vi	
+湯頭:N	清甜:Vi	極了:ADV	
+蔥爆:Vi	牛肉:N	肉質:N	鮮嫩:Vi	且:C	味道:N	香:Vi	
+雖然:C	油:Vi	了:ASP	點:M	
+炒飯:N	相當:Vi	入味:N	且:C	米飯:N	是:Vt	粒粒:DET	分明:Vi	
+由:P	它:N	當:P	比例尺:N	就:ADV	知道:Vt	這:DET	桌:M	的:T	份量:N	有:Vt	多:ADV	澎湃:Vi	
+當下:N	很:ADV	餓:Vi	加上:Vt	食物:N	十分:ADV	美味:Vi	
+太:ADV	滿足:Vt	囉:T	

@@ -1,0 +1,30 @@
+guessworld:FW	(:PARENTHESISCATEGORY	奶油:N	不:ADV	飛:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	復興南路:N	小李:N	子清粥:N	小菜:N	
+Tue:FW	
+Jul:FW	
+15:DET	
+21:DET	::COLONCATEGORY	47:DET	::COLONCATEGORY	01:DET	
+2014:DET	
+圖文:N	網誌版:N	請:Vt	點:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	guessworld.pixnet.net/blog/post:FW	/:FW	40829149:DET	
+店名:N	：:COLONCATEGORY	小:Vi	李子:N	清粥:N	小菜:N	電話:N	：:COLONCATEGORY	0227092849:DET	地址:N	：:COLONCATEGORY	台北市:N	復興南路:N	二段:N	142之1號:N	營業:Nv	時間:N	：:COLONCATEGORY	17:DET	::COLONCATEGORY	00:DET	
+06:DET	::COLONCATEGORY	00:DET	消費:N	日期:N	：:COLONCATEGORY	Apr:FW	292014:DET	偶爾:ADV	晚上:N	肚子:N	餓:Vi	
+就:ADV	會:ADV	很:ADV	想:Vt	吃:Vt	粥:N	
+熱熱:Vi	的:T	粥:N	跟:P	小菜:N	
+好療癒:Vi	呀:T	
+常:ADV	吃:Vt	無名:A	子:N	
+偶爾:ADV	換換:Vt	口味:N	吃:Vt	小:Vi	李子:N	
+小李:N	子:N	的:T	菜:N	選擇:N	也:ADV	不少:Vi	
+不過:C	大多:DET	還是:ADV	以:P	冷:Vi	菜:N	居多:Vi	
+三:DET	個:M	人:N	點:ADV	了:ASP	這些:DET	
+有:Vt	另外:ADV	加:Vt	點:M	蛋:N	跟:P	炒:Vt	青菜:N	
+茄子:N	好吃:Vi	
+爽口:Vi	軟綿:N	
+五:DET	更:M	腸旺:N	有點:ADV	過:ADV	鹹:Vi	
+四季豆:N	炒:Vt	豆干:N	也:ADV	頗:ADV	鹹:Vi	
+整:DET	個:M	是:Vt	下:DET	飯菜:N	
+吃:Vt	粥:N	不能:ADV	忘記:Vt	豆棗:N	
+炒:Vt	個:M	綠色:N	青菜:N	平衡:Vt	一下:N	
+這裡:N	的:T	蕃薯:N	感覺:N	給:Vt	得:T	比:P	無名:A	子少:N	
+那:DET	天:M	三:DET	個:M	人:N	分:M	下來:POST	
+一:DET	個:M	人:N	好似:Vt	300:DET	初:POST	左右:POST	
+還是:C	人:N	多點:DET	吃:Vt	比較:ADV	划算:Vi	

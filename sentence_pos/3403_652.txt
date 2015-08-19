@@ -1,0 +1,182 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	冶:b	春茶社:N	
+Fri:FW	
+Aug:FW	
+8:DET	
+21:DET	::COLONCATEGORY	00:DET	::COLONCATEGORY	06:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40992109:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	6:DET	冶:b	春茶社:N	是:Vt	揚州:N	名:A	店:N	
+來:Vi	台:N	開店:Vi	已:ADV	有:Vt	好幾:DET	年:M	了:T	
+從:P	剛:ADV	開幕:Vi	的:T	時候:N	便:ADV	一直:ADV	想:Vt	來:Vi	
+只是:ADV	苦:Vi	無:Vt	機會:N	
+這:DET	次:M	總算:ADV	約:ADV	到:Vt	了:ASP	人:N	一起:ADV	來:ADV	回味:Vt	揚州:N	的:T	滋味:N	
+2011年:N	時:POST	
+我:N	曾經:ADV	在:P	揚州:N	短暫:Vi	旅行:Vi	了:ASP	兩:DET	日:M	
+對:P	揚州:N	的:T	印象:N	很:ADV	好:Vi	
+江蘇:N	長江:N	北岸:N	的:T	悠閒:Vi	城市:N	
+京杭大:N	運河:N	的:T	重要:Vi	轉運點:N	
+孕育出:Vt	許多:DET	富可敵國:Vi	的:T	鹽商:N	
+同時:N	也:ADV	發展出:Vt	南北:N	混合:Vt	的:T	淮揚菜系:N	
+所謂:Vt	食:N	不:ADV	厭:Vt	精:Vi	
+明清:N	時期:N	的:T	揚州:N	有:Vt	許多:DET	富家:b	大戶:N	
+有錢人:N	整:DET	天:M	閒閒:Vi	吃:Vt	好:Vi	穿好:Vt	
+養:Vt	了:ASP	不少:DET	廚子:N	
+發展出:Vt	別樹一格:Vi	的:T	揚州菜:N	
+京華城:N	十一樓:N	的:T	冶:b	春茶社:N	是:Vt	揚州:N	當地:N	的:T	著名:Vi	老店:N	
+不過:C	當年:N	我:N	去:Vt	揚州:N	的:T	時候:N	
+吃:Vt	的:T	是:Vt	另:DET	一:DET	家:M	老店:N	富春:N	茶社:N	
+現在:N	來:ADV	冶:b	春茶社:N	用餐:Vi	
+免費:Vi	送:Vt	一:DET	罐:M	燕京:N	啤酒:N	
+燕京:N	啤酒:N	在:P	大陸:N	很:ADV	常見:Vi	
+每:DET	個:M	城市:N	都:ADV	有:Vt	賣:Vt	
+在:P	大陸:N	旅行:Vi	時常:ADV	喝:Vt	
+一:DET	罐:M	頂天:Vi	3.5:DET	人民幣:N	
+非常:ADV	便宜:Vi	
+但:C	進口:Vt	來:Vi	台灣:N	之後:POST	
+就:ADV	沒:ADV	那麼:ADV	經濟:Vi	實惠:Vi	了:T	
+還是:ADV	在:P	大陸:N	喝:Vt	比較:ADV	划算:Vi	
+鐵觀音:N	＄:FW	200:DET	既是:Vt	茶社:N	
+便:ADV	點:Vt	了:ASP	一:DET	壺:M	鐵觀音:N	喝:Vt	
+不過:C	也:ADV	就:ADV	一般:Vi	般:POST	
+大概:ADV	是:Vt	喝:Vt	慣:Vt	了:ASP	家:N	裡:N	好:Vi	茶:N	的:T	關係:N	
+揚州:N	獅子頭:N	＄:FW	460:DET	獅子頭:N	是:Vt	我:N	相當:ADV	喜歡:Vt	的:T	一:DET	道:M	淮揚:N	菜:N	
+在:P	隋朝:N	時:POST	發明:Vt	
+初:ADV	名為:Vt	葵花:N	斬:Vt	肉:N	
+唐代:N	時:POST	改喚:Vt	獅子頭:N	
+其中:DET	典故:N	
+這裡:N	不:ADV	言:Vt	
+冶春:N	的:T	獅子頭:N	為:Vt	白菜:N	清燉:Nv	
+砂鍋:N	中:POST	三:DET	大:Vi	肉丸:N	與:C	少許:DET	白菜:N	
+湯頭:N	有:Vt	著:ASP	白菜:N	清甜:Vi	
+個:M	人:N	頗為:ADV	喜歡:Vt	
+肉丸:N	口感:N	扎實:Vi	
+並:C	不:ADV	綿軟:Vi	
+與:C	在:P	揚州:N	吃到:Vt	的:T	獅子頭:N	有異:Vi	
+大概:ADV	是:Vt	瘦七肥:N	三:DET	
+不曾:ADV	油炸:Vt	定型:Vi	
+因此:C	不:ADV	油膩:Vi	而:C	清爽:Vi	
+雖說:C	這:DET	道:M	獅子頭:N	嚐起來:ADV	無:Vt	突出:Vi	之:T	處:N	
+但:C	清燉:Vt	的:T	清雅:Nv	滋味:N	恰好:ADV	是:Vt	我:N	喜歡:Vt	的:T	獅子頭:N	口味:N	
+我:N	自己:N	在:P	家:N	做:Vt	獅子頭:N	也:ADV	是:Vt	按此:ADV	作法:N	
+翡翠:N	羽衣:N	＄:FW	150:DET	淮揚菜:N	首重:Vt	刀工:N	
+在:P	調味:Vi	上:POST	雖然:C	也:ADV	是:Vt	江南:N	的:T	微:ADV	甜:Vi	口味:N	
+但:C	相較:Vi	於:P	江浙菜:N	、:PAUSECATEGORY	上海菜:N	來:ADV	說:Vt	
+又:ADV	不:ADV	那麼:ADV	甜:Vi	膩:Vi	
+融合:Vt	了:ASP	些:ADV	北方:N	風味:N	與:C	料理:N	手法:N	
+鹹甜:Vi	適中:Vi	
+同時:N	
+淮揚菜:N	也:ADV	是:Vt	常:ADV	被:P	老共:N	用來:Vt	作為:Vt	國宴:N	的:T	菜色:N	
+在:P	台灣:N	的:T	話:N	
+淮揚菜:N	、:PAUSECATEGORY	上海菜:N	、:PAUSECATEGORY	江浙菜:N	通常:ADV	被:P	混:Vt	在一起:Vi	
+甚至:ADV	也:ADV	有:Vt	川菜:N	與:C	淮揚:N	菜:N	合流:Vi	
+例如:P	老店:N	銀翼:N	便:ADV	是:Vt	
+冶:b	春茶社:N	也:ADV	提供:Vt	不少:DET	重:Vi	刀:N	工:N	的:T	菜餚:N	
+在:P	台灣:N	的:T	菜館:N	似乎:ADV	比較:ADV	少見:Vi	重刀工:N	的:T	菜:N	
+例如:P	這:DET	道:M	翡翠:N	羽衣:N	
+將:P	一段:N	小黃瓜:N	切:Vt	薄片:N	而:C	不斷:ADV	
+看起來:ADV	像:P	一片片:DET	地:T	黃瓜片:N	
+宛若:Vt	羽衣:N	
+其實:ADV	底部:N	仍然:ADV	相連:Vi	
+這:DET	道:M	菜:N	的:T	重點:N	在於:Vt	刀工:N	
+嚐起來:ADV	的:T	味道:N	也:ADV	就:ADV	只是:ADV	清爽:Vi	脆:Vi	嫩:Vi	的:T	涼拌:Nv	小黃瓜:N	罷了:T	
+不過:C	來:ADV	冶:b	春茶社:N	的:T	人:N	
+幾乎:ADV	都:ADV	會:ADV	點上:Vt	一:DET	道:M	
+畢竟:ADV	是:Vt	特色菜:N	
+淮揚:N	干絲:N	＄:FW	160:DET	干絲:N	也:ADV	是:Vt	道:M	重刀工:N	的:T	菜:N	
+滑嫩:Vi	的:T	干絲:N	搭配:Vt	褐色:N	醬汁:N	
+本:ADV	以為:Vt	是:Vt	醬油:N	
+但:C	吃起來:ADV	卻:ADV	無:Vt	什:DET	鹹味:N	
+反而:C	帶:Vt	著:ASP	淡淡:Vi	香油:N	味兒:N	
+也:ADV	是:Vt	道:Vt	清爽:Vi	開胃:Vi	的:T	小:Vi	點:ADV	
+個:M	人:N	覺得:Vt	口味:N	稍:ADV	淡:Vi	了:ASP	點:M	
+主要:ADV	吃:Vt	干絲:N	本身:N	的:T	豆:N	香甜味:N	
+三:DET	丁:DET	包:M	
+3:DET	個:M	
+＄:FW	130:DET	三:DET	丁:DET	包:M	是:Vt	揚州:N	的:T	著名:Vi	點心:N	
+當年:N	在:P	揚州:N	旅行:Vi	時:POST	便:ADV	以:P	富春:N	茶社:N	的:T	三:DET	丁:DET	包:M	作為:Vt	早點:N	
+顧名思義:ADV	
+三:DET	丁:DET	包:M	以:P	雞丁:N	、:PAUSECATEGORY	豬肉:N	丁:N	和:C	筍丁:N	為:P	內:N	餡:N	
+又:ADV	稱:Vt	三鮮:N	
+當時:N	對:P	富春:N	茶社:N	的:T	三:DET	丁:DET	包:M	印象:N	挺:ADV	好:Vi	
+於是:C	來到:Vt	冶春:N	自然:ADV	也:ADV	點:Vt	一:DET	籠:N	來:ADV	吃:Vt	
+三:DET	丁:DET	包:M	的:T	內:N	餡:N	口感:N	綿膩:Vi	
+不只:ADV	肉丁:N	柔軟:Vi	
+連:C	筍丁:N	也:ADV	軟:Vi	
+不:ADV	像:P	台灣:N	包子:N	的:T	筍丁:N	通常:ADV	帶:Vt	著:ASP	爽脆:Vi	
+此:DET	三:DET	丁:DET	包:M	內:POST	餡:N	肥膩:Vi	香甜:Vi	
+有別於:Vt	台灣:N	包子:N	的:T	瘦:Vi	肉餡:N	
+而:C	偏於:Vt	濕潤:Vi	
+可:ADV	吃:Vt	多:DET	也:ADV	易:Vi	膩:Vi	
+淮揚:N	軟兜:N	＄:FW	380:DET	軟兜:N	即:ADV	是:Vt	鰻魚:N	
+或:C	說:Vt	是:Vt	鱔魚:N	
+這:DET	道:M	菜:N	其實:ADV	很:ADV	像:Vt	南部:N	的:T	炒:Nv	鱔魚:N	
+醬色:N	黑褐:A	油亮:Vi	
+味道:N	濃:Vi	甜:Vi	
+不過:C	有別於:Vt	台灣:N	的:T	炒繕:Vt	魚:N	
+醬油:N	的:T	鹹味:N	較:ADV	重:Vi	
+鹹:Vi	中:POST	帶:Vt	甜:Vi	
+略:ADV	有:Vt	薑氣:N	
+鰻魚:N	口感:N	細緻:Vi	滑嫩:Vi	
+魚刺:N	處理:Vt	的:T	非常:ADV	乾淨:Vi	
+沒有:Vt	一:DET	片:M	魚肉:N	帶:Vt	刺:Vt	
+而且:C	魚肉:N	份量:N	很多:DET	
+幾乎:ADV	整:DET	鍋:N	都:ADV	是:Vt	鰻魚肉:N	
+反倒:C	是:Vt	配菜:N	比:P	魚:N	少:Vi	
+揚州:N	炒飯:N	＄:FW	260:DET	有:Vt	一:DET	說法:N	
+揚州:N	炒飯:N	其實:ADV	是:Vt	廣東人:N	發明:N	的:T	炒飯:N	
+現在:N	兩:DET	地:N	都:ADV	在:P	爭:Vt	揚州:N	炒飯:N	是:Vt	誰:N	發明:Vt	的:T	
+記得:Vt	當時:N	在:P	揚州:N	旅行:Vi	
+路:N	上:POST	看到:Vt	不少:DET	以:P	揚州:N	炒飯:N	為:Vt	招牌:N	的:T	飯館兒:N	
+不過:C	揚州:N	其實:ADV	有:Vt	一:DET	道:M	叫:Vt	碎金飯:N	的:T	炒飯:N	
+據說:ADV	是:Vt	隋:N	煬帝:N	遊江:N	都:ADV	時:POST	傳入:Vt	揚州:N	的:T	料理:N	
+其實:ADV	就:ADV	是:Vt	蛋炒飯:N	
+隋朝:N	的:T	越國:N	公楊素:N	相當:ADV	喜愛:Vt	這:DET	道:M	菜:N	
+冶春:N	的:T	揚州:N	炒飯:N	使用:Vt	長米:N	
+料:Vt	有:Vt	雞蛋:N	、:PAUSECATEGORY	青豆:N	、:PAUSECATEGORY	胡蘿蔔:N	、:PAUSECATEGORY	青蔥:Vi	、:PAUSECATEGORY	蝦仁:N	等:POST	
+炒:Vt	的:T	粒粒:DET	分明:Vi	又:ADV	不:ADV	顯:Vt	油膩:Vi	
+風味:N	清香:Vi	
+米飯:N	潔白:Vi	、:PAUSECATEGORY	雞蛋:N	金黃:Vi	
+帶有:Vt	一:DET	絲:M	鑊氣:N	
+個:M	人:N	頗:ADV	喜歡:Vt	這:DET	道:M	炒飯:N	
+文思:N	豆腐:N	羹:N	＄:FW	220:DET	這:DET	道:M	湯品:N	最:ADV	能:ADV	凸顯:Vt	揚州:N	菜重刀工:N	的:T	特色:N	
+嫩:Vi	豆腐:N	切成:Vt	細絲:N	而:C	不斷:ADV	
+刀工:N	著實:ADV	了得:Vi	
+不過:C	正:ADV	如:P	翡翠:N	羽衣:N	一般:POST	
+重刀工:N	的:T	菜色:N	其實:ADV	味道:N	並:ADV	無:Vt	凸顯:Vt	之:T	處:N	
+但:C	也:ADV	符合:Vt	淮揚菜:N	的:T	風味:N	
+風味:N	恬淡:Vi	
+富貴:N	人家:N	飯桌:N	上:N	的:T	菜餚:N	大多:DET	如此:Vi	
+勾芡:Vi	的:T	濃稠:Nv	雞湯:N	為:P	底:N	的:T	豆腐:N	羹湯:N	
+滋味:N	清雅:Vi	
+而:C	豆腐:N	細絲:N	雖然:C	滑嫩:Vi	
+但:C	也:ADV	柔:Vi	若:C	無:Vt	物:N	
+隨著:P	羹湯:N	入口:N	
+幾乎:ADV	感受:Vt	不:ADV	太:ADV	到:P	有無:Vt	豆腐:N	
+桂花:N	釀:Vt	元宵:N	＄:FW	180:DET	三:DET	人:N	份:N	的:T	桂花:N	釀:Vt	元宵:N	
+這裡:N	的:T	元宵:N	是:Vt	白色:N	小:Vi	湯圓:N	
+以:P	酒釀:N	和:C	桂花:N	同:ADV	煮:Vt	
+桂花:N	香:Vi	酒釀:N	甜:Vi	
+甜湯:N	濃稠:Vi	
+冶春:N	的:T	酒釀:N	不:ADV	太:ADV	酸:Vi	
+比較:ADV	甜:Vi	一點:ADV	
+不過:C	湯圓:N	太:ADV	軟:Vi	
+吃起來:ADV	沒:Vt	什麼:DET	口感:N	
+當年:N	去:Vt	揚州:N	最:ADV	遺憾:Vt	的:T	就是:C	只:ADV	安排:Vt	了:ASP	短短:Vi	兩:DET	天:M	
+其實:ADV	揚州:N	是:Vt	個:M	很:ADV	棒:Vi	的:T	城市:N	
+而且:C	也:ADV	有:Vt	不少:DET	美食:N	
+淮揚菜系:N	又:ADV	是:Vt	我:N	喜好:Vt	的:T	味道:N	
+只:ADV	可惜:Vi	沒:ADV	嘗到:Vt	太多:DET	
+希望:Vt	未來:N	有:Vt	機會:N	能:ADV	再:ADV	去:Vt	一:DET	次:M	
+彌補:Vt	遺珠之憾:N	
+冶:b	春茶社:N	地址:N	：:COLONCATEGORY	台北市:N	八德路:N	四段:N	138:DET	號:M	11樓:N	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	37621097:DET	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+食記:N	
+台北:N	厲:Vi	家:N	菜:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41203972:DET	
+食記:N	
+台北:N	上海:N	老:Vi	菜館:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40884196:DET	
+食記:N	
+揚州:N	富春:N	花園:N	茶社:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	29729909:DET	
+食記:N	
+揚州:N	盛宴:N	淮揚:N	本:DET	味:M	店:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	29727943:DET	
+食記:N	
+揚州:N	共和:Nv	春酒家:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	29727361:DET	--:DASHCATEGORY	一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	--:DASHCATEGORY	

@@ -1,0 +1,39 @@
+chenpei:FW	(:PARENTHESISCATEGORY	怎麼:ADV	都:ADV	吃:Vt	不:ADV	飽:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	甜點:N	好吃:Vi	的:T	NomNom:FW	咖啡:N	
+Fri:FW	
+Aug:FW	
+22:DET	
+10:DET	::COLONCATEGORY	26:DET	::COLONCATEGORY	47:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	NomNom:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	潮州街:N	137:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23583530:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週四:N	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+週五:N	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+週六:N	-:DASHCATEGORY	週日:N	::COLONCATEGORY	9:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+網誌:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	chenpei0116.pixnet.net/blog/post:FW	/:FW	41478521:DET	
+話:N	說:Vt	吃完:Vt	老虎:N	麵:N	已經:ADV	很:ADV	飽:Vi	了:T	但:C	我們:N	還是:ADV	找:Vt	了:ASP	家:N	上:DET	次:M	經過:Vt	客滿:Vi	的:T	咖啡廳:N	
+座落:Vt	在:P	永康:N	街:N	後段:N	的:T	NomNom:FW	咖啡:N	算是:Vt	一:DET	家:M	蠻:ADV	新:Vi	的:T	咖啡店:N	今年:N	3月:N	才:ADV	開張:Vi	
+平:Vi	晚:Vi	的:T	晚上人:N	不:ADV	多:ADV	怕:Vt	我們:N	太:ADV	吵:Vi	自已:N	找:Vt	了:ASP	個:M	角落:N	的:T	位置:N	坐下:Vi	
+店裡:N	的:T	擺設:N	很:ADV	簡單:Vi	但:C	卻:ADV	很:ADV	有:Vt	stytle:FW	猛然:ADV	一:ADV	看:Vt	還:ADV	發現:Vt	一:DET	個:M	超大:A	檯燈:N	好:ADV	愛:Vt	這:DET	種:M	佈置:Nv	
+既然:C	來:Vi	了:ASP	還是:ADV	點:Vt	了:ASP	個:M	甜點:N	和:C	飲料:N	伯爵:N	茶:N	泡:Vt	芙:b	灑上:Vt	了:ASP	糖粉:N	更:ADV	香:Vi	了:ASP	用不著:ADV	再:ADV	沾:Vt	蜂蜜:N	了:T	
+切開來:Vi	看到:Vt	裡面:N	那麼:ADV	紮實:Vi	肚子:N	頓時:ADV	空位:N	都:ADV	清出來:Vt	了:ASP	
+再次:ADV	後悔:Vt	晚餐:N	要:ADV	吃:Vt	那麼多:DET	...:ETCCATEGORY	
+再:ADV	來:ADV	是:Vt	今天:N	大家:N	都:ADV	說:Vt	讚:Vi	的:T	手工:N	蘋果派:N	雖然:C	價格:N	不:ADV	太:ADV	合:Vt	善:N	但是:C	吃完:Vt	
+是:Vt	值得:Vi	的:T	
+甜甜:Vi	的:T	蘋果:N	饀:b	帶有:Vt	一點點:DET	的:T	酸酸:Vi	的:T	口感:N	很:ADV	助:Vt	消化:Vt	XD:FW	
+相較:Vi	於:P	內:N	饀:b	我:N	個:M	人:N	比較:ADV	愛:Vt	派:Vt	皮烤:Vt	的:T	剛好:ADV	只要:C	派:Vt	皮:N	處理:Vt	的:T	好:Vi	
+基本:N	上:N	80:DET	%:M	我:N	都:ADV	會:ADV	覺得:Vt	好吃:Vi	
+因為:C	不能:ADV	過:ADV	軟:Vi	也:ADV	不能:ADV	太:ADV	硬:Vi	啊:T	要:ADV	有:Vt	真:Vi	功夫:N	才:ADV	行:Vi	
+這:DET	杯:M	雙果拉西:N	
+就是:C	優格:N	
+把:P	蔓:b	越:ADV	莓:b	和:C	藍莓:N	加:Vt	在一起:Vi	喝:Vt	起:ASP	了:ASP	酸酸:Vi	的:T	
+整:DET	個:M	就:ADV	是:Vt	走:Vi	飯:N	後:POST	消化:Vt	路線:N	
+最後:N	把:P	不起眼:Vi	的:T	二:DET	顆:M	果粒:N	也:ADV	吃掉:Vt	非:A	
+常:ADV	
+酸:Vi	
+過瘾:N	
+取名:Vt	NomNom:FW	是:Vt	因為:C	吃到:Vt	好吃:Vi	的:T	東西:N	時:POST	都:ADV	會:ADV	發出:Vt	聲音:N	
+就:ADV	如同:P	我們:N	今天:N	吃到:Vt	甜點:N	一樣:Vi	三:DET	個:M	人:N	一直:ADV	在:P	那麼:ADV	唉:T	唉:T	叫:Vt	
+下:DET	次:M	想:Vt	再:ADV	來:ADV	試試:Vt	NomNom:FW	的:T	Brunch:FW	也:ADV	是:Vt	蠻:ADV	多:Vi	人:N	推:Vt	的:T	

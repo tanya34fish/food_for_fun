@@ -1,0 +1,57 @@
+imok0122(momo:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安區:N	一:DET	天:M	活力:N	的:T	開始:Vi	好:Vi	樹:N	*:FW	早:Vi	午餐:N	
+Tue:FW	
+Jan:FW	
+6:DET	
+21:DET	::COLONCATEGORY	10:DET	::COLONCATEGORY	26:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	BonTree:FW	好:Vi	樹:N	.:PERIODCATEGORY	早:Vi	午餐:N	
+地址:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	2737:DET	-:DASHCATEGORY	3082:DET	（:PARENTHESISCATEGORY	距:P	捷運:N	六:DET	張:M	犂:b	約:ADV	10:DET	分:M	路程:N	）:PARENTHESISCATEGORY	
+電話:N	::COLONCATEGORY	台北市:N	大安區:N	樂業街:N	8:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	5:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	60:DET	元:M	
+消費:N	時間:N	::COLONCATEGORY	2015年:N	1月:N	
+店家:N	粉絲團:N	::COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	zh-tw.facebook.com/BonTree:FW	082:DET	
+圖文:N	好讀:Vt	網誌:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ohamei.pixnet.net/blog/post:FW	/:FW	254080738:DET	
+透過:P	朋友:N	介紹:Vt	得知:Vt	這:DET	家:M	早:Vi	午餐店:N	
+於是:C	便:ADV	找:Vt	了:ASP	元旦:N	連假:N	的:T	最後:N	一:DET	天:M	午餐:N	來:ADV	試試看:Vt	
+清新:Vi	的:T	招牌:N	還:ADV	有:Vt	門口:N	擺:Vt	了:ASP	手繪:Vt	的:T	活動:N	看板:N	
+會:ADV	讓:Vt	人:N	有:Vt	種:M	充滿:Vt	活力:N	的:T	店家:N	
+一:ADV	走進:Vt	店裡:N	便:ADV	看到:Vt	生意:N	不錯:Vi	
+店員:N	也:ADV	十分:ADV	忙碌:Vi	的:T	招呼:Nv	客人:N	及:C	準備:Nv	餐點:N	的:T	景象:N	
+因為:C	是:Vt	正:ADV	值:Vt	用餐:Nv	時段:N	
+當時:N	狹長型:N	的:T	店:N	內:N	座位:N	
+是:Vt	全:DET	滿:DET	的:T	
+還:ADV	有:Vt	不少:DET	外帶:Nv	及:C	候位:N	的:T	客人:N	
+索幸:N	只:ADV	有:Vt	我:N	一:DET	人:N	用餐:Vi	
+而:C	吧台型:N	的:T	座位:N	還:ADV	有:Vt	位子:N	
+即便:C	坐下:Vi	點:M	餐:N	
+店:N	內:N	採:Vt	半:DET	自助:Nv	
+餐具:N	及:C	醬料:N	可:ADV	自行:ADV	取用:Vt	
+也:ADV	擺置:Vt	了:ASP	客人:N	用餐:Vi	後:POST	自行:ADV	收拾:Vt	的:T	回收處:N	
+因為:C	餐點:N	標榜:Vt	是:Vt	現點現:N	做:Vt	
+還:ADV	擺:Vt	了:ASP	益智:A	遊戲:N	給:Vt	客人:N	打發:Vt	時間:N	
+很:ADV	有:Vt	童心:N	的:T	一:DET	招:M	
+店:N	內:N	裝潢:N	也:ADV	營造:Vt	的:T	溫馨:Vi	舒適:Vi	、:PAUSECATEGORY	乾淨:Vi	且:C	明亮:Vi	
+品:Vt	項:M	五花八門:Vi	
+除了:P	一般:A	常見:Vi	的:T	早餐店:N	組合:Vt	
+也:ADV	有:Vt	店家:N	自己:N	的:T	創意:N	
+發:N	想:Vt	
+雖然:C	名稱:N	很:ADV	可愛:Vi	
+但:C	為了:P	讓:Vt	客人:N	知道:Vt	內容物:N	是:Vt	甚麼:DET	
+也:ADV	有:Vt	註解:N	說明:Vt	
+我:N	點:Vt	的:T	是:Vt	早:Vi	午餐:N	系列:N	裡:N	的:T	-:DASHCATEGORY	花生:N	歐姆:M	牛:N	寶堡:N	$:FW	125:DET	
+從:P	點餐:N	到:P	送:Vt	餐:N	約:ADV	10:DET	分鐘:M	的:T	時間:N	
+還:ADV	頗:ADV	快:Vi	的:T	
+餐點:N	內容:N	蠻:ADV	豐富:Vt	的:T	-:DASHCATEGORY	
+看來:ADV	頗:ADV	新鮮:Vi	的:T	生菜:N	沙拉:N	、:PAUSECATEGORY	嚐:Vt	來:ADV	香:Vi	酥:Vi	不:ADV	油膩:Vi	的:T	三角:N	馬鈴薯:N	
+而:C	主角:N	花生:N	歐姆:M	牛:N	寶堡:N	也:ADV	是:Vt	很多:DET	料:N	
+三:DET	片:M	低脂:N	培根:N	、:PAUSECATEGORY	牛絞:N	肉餅:N	、:PAUSECATEGORY	有:Vt	滑嫩:Vi	的:T	歐姆:M	蛋:N	、:PAUSECATEGORY	生菜:N	
+麵包:N	還:ADV	蠻:ADV	柔軟:Vi	的:T	
+整體:N	搭:Vt	起來:ASP	蠻:ADV	好吃:Vi	沒有:Vt	油膩感:N	
+滑嫩:Vi	的:T	歐姆:M	蛋:N	還:ADV	有:Vt	些許:DET	蛋:N	液:N	流出:Vt	
+蠻:ADV	好吃:Vi	的:T	
+此:DET	次:M	用餐:Vi	的:T	感覺:N	不錯:Vi	
+之後:N	會:ADV	想:Vt	再:ADV	來:ADV	吃:Vt	看看:ASP	其他:DET	品:Vt	項:M	的:T	餐點:N	
+也:ADV	會:ADV	推薦給:Vt	朋友:N	的:T	一:DET	家:M	早午:N	
+餐店:N	

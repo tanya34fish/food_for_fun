@@ -1,0 +1,317 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	厲:Vi	家:N	菜:N	
+Sun:FW	
+Aug:FW	
+3:DET	
+20:DET	::COLONCATEGORY	00:DET	::COLONCATEGORY	03:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41203972:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	8:DET	期待:Nv	已:ADV	久:Vi	的:T	厲:Vi	家:N	菜:N	台北店:N	總算:ADV	低調:Vi	地:T	開始:Vt	營業:Vi	了:ASP	
+厲:Vi	家:N	菜:N	開設:Vt	於:P	Bellavita:FW	貴婦:N	百貨:N	的:T	三樓:N	
+Robuchon:FW	的:T	對面:N	
+這:DET	片:M	店面:N	已經:ADV	裝修:Vt	多:DET	時:M	
+遲遲:ADV	未:ADV	開幕:Vi	
+今年:N	七月:N	底:POST	總算:ADV	開始:Vt	試:Vt	賣:Vt	
+不同於:Vt	造成:Vt	轟動:Vi	的:T	添:Vt	好運:N	
+厲:Vi	家:N	菜:N	雖然:C	在:P	主流:N	媒體:N	上:N	有:Vt	不少:DET	來:Vi	台:N	開店:Vi	預告:Vt	報導:Vt	
+但:C	實際:Vi	開業:Vi	之後:POST	
+網路:N	上:POST	卻:ADV	是:Vt	相當:ADV	平靜:Vi	
+不:ADV	像:P	添:Vt	好運:N	一:ADV	開始:Vt	試:Vt	賣:Vt	
+當天:N	便有:Vt	文章:N	出現:Vi	
+我:N	想:Vt	這:DET	也:ADV	是:Vt	平價:N	的:T	港式:A	點心:N	與:C	高價:N	的:T	宮廷:N	御膳:N	之間:POST	的:T	差別:N	
+畢竟:ADV	人人:N	都:ADV	能:ADV	不:ADV	心疼:Vt	地:N	吃:Vt	添:Vt	好運:N	
+但:C	要:ADV	花:Vt	大錢:N	吃:Vt	厲:Vi	家:N	菜:N	就:ADV	得:ADV	考慮考慮:Vt	了:ASP	
+另一方面:C	
+香港:N	與:C	北京:N	相比:Vi	
+不僅:C	是:Vt	地理:N	位置:N	離:P	台灣:N	近:DET	
+在:P	心理:N	感情:N	上:POST	也:ADV	比:P	北京:N	來得:ADV	親近:Vi	
+再者:C	
+台灣:N	對於:P	京:N	、:PAUSECATEGORY	魯菜:N	的:T	認識:Nv	大概:ADV	限於:Vt	北京:N	烤鴨:N	吧:T	
+這:DET	也:ADV	是:Vt	台灣:N	北方:N	菜:N	的:T	主流:N	
+既然:C	如此:Vi	
+那:DET	就:ADV	更:ADV	別:ADV	說:Vt	宮廷菜:N	了:T	
+想必:ADV	了解:Vt	的:T	人:N	也:ADV	不:ADV	多:Vi	
+厲:Vi	家:N	菜:N	的:T	起源:N	來自於:Vi	同治:N	、:PAUSECATEGORY	光緒:N	年間:N	的:T	內務府:N	大臣:N	厲:Vi	子嘉:N	
+皇家:N	每天:N	吃:Vt	的:T	菜:N	都:ADV	經過:Vt	他:N	的:T	審批:Nv	
+同時:N	也:ADV	都:ADV	吃:Vt	過:ASP	
+記錄下來:Vi	的:T	菜譜:N	不計其數:Vi	
+其後:N	
+他:N	的:T	孫子:N	厲善麟:N	繼承:Vt	了:ASP	這些:DET	菜譜:N	與:C	料理:N	作法:N	
+最初:N	以:P	提供:Vt	私房菜:N	的:T	方式:N	來:ADV	經營:Vt	餐廳:N	
+最初:N	他:N	在:P	羊房:N	胡同:N	裡:N	的:T	小:Vi	四合院:N	經營:Nv	私房菜:N	
+一:DET	天:M	只:ADV	開:Vt	一:DET	桌:M	
+而且:C	不能:ADV	點菜:Vi	
+只:ADV	提供:Vt	套餐:N	
+儘管:C	如此:Vi	
+預訂:Vt	者:N	還是:ADV	絡繹不絕:Vi	
+在:P	美國:N	總統:N	柯林頓:N	來:ADV	用餐:Vi	過後:POST	
+讚不絕口:Vi	
+之後:N	陸續:ADV	有:Vt	各:DET	國:N	政要:N	顯貴:Nv	來:ADV	用餐:Vi	
+對:P	其:DET	稱讚:Vt	不已:Vi	
+至:P	此:DET	打出:Vt	了:ASP	名號:N	來:ADV	
+門口:N	的:T	厲:Vi	家:N	菜:N	三:DET	字:N	是:Vt	末代:N	皇帝:N	的:T	弟弟:N	溥傑:N	所:N	書:N	
+台北店:N	的:T	門口:N	也:ADV	放:Vt	了:ASP	這:DET	三:DET	字:N	招牌:N	
+一樓:N	門面:N	的:T	磚牆:N	一:DET	整:DET	個:M	令:Vt	人:N	想起:Vt	北京:N	的:T	現代:Vi	胡同:N	建築:N	
+就:ADV	是:Vt	用:P	這:DET	種:M	灰色:N	石磚:N	砌成:Vt	
+不過:C	我:N	用:P	手:N	去:ADV	敲:Vt	了:ASP	一下:N	牆壁:N	
+是:Vt	空心:Vi	的:T	
+看來:ADV	只:ADV	是:Vt	表面:N	做成:Vt	磚牆:N	的:T	樣子:N	
+內部:N	裝潢:N	極:ADV	具:Vt	現代:Vi	中國風:N	
+氣氛:N	優雅:Vi	寧靜:Vi	
+個:M	人:N	非常:ADV	喜歡:Vt	這:DET	種:M	氛圍:N	與:C	佈置:Nv	
+以:P	台北:N	的:T	中菜館:N	而言:Vt	
+這裡:N	的:T	環境:N	可:ADV	說:Vt	是:Vt	相當:ADV	高雅:Vi	
+不愧:ADV	是:Vt	貴婦:N	百貨:N	
+裡頭:N	的:T	餐廳:N	設計:Vt	大多:DET	不同:Vi	一般:A	
+最初:N	看到:Vt	媒體:N	報導:Vt	說:Vt	厲:Vi	家:N	菜:N	低:Vi	消:Vt	六千:DET	起:M	
+當時:N	嚇:Vt	了:ASP	一:DET	跳:N	
+心想:Vt	這:DET	門檻:N	也:ADV	太:ADV	高:Vi	了:T	吧:T	
+但:C	實際:Vi	開幕:Vi	之後:POST	
+一:ADV	看:Vt	才:ADV	知道:Vt	原來:ADV	中午:N	有:Vt	提供:Vt	平價:N	的:T	商業:N	午餐:N	
+價格:N	980:DET	元:M	
+以:P	貴婦:N	百貨:N	的:T	消費:N	而言:Vt	
+也:ADV	不:ADV	算:Vt	太:ADV	貴:Vi	
+除了:P	商午:N	之外:POST	
+之後:N	的:T	套餐:N	便:ADV	從:P	1580:DET	起跳:Nv	
+最:ADV	高:Vi	8880:DET	
+今天:N	第一:DET	次:M	來:POST	
+就:ADV	先:ADV	點:Vt	最:ADV	基本:A	的:T	SetA:FW	試試:Vt	
+價格:N	1580:DET	
+點完:Vt	餐:N	後:POST	
+送上:Vt	裹:Vt	了:ASP	蜜:N	的:T	核桃:N	酥:Vi	作為:Vt	開胃:Vi	點心:N	
+酥鬆:Vi	香甜:Vi	
+茶水:N	的:T	部份:DET	我:N	點:Vt	了:ASP	鐵觀音:N	
+杯子:N	據說:ADV	是:Vt	景德鎮:N	訂製:Vt	的:T	青花:N	骨瓷:N	
+個:M	人:N	非常:ADV	喜愛:Vt	這:DET	套:M	杯具:N	
+真:ADV	想:Vt	買:Vt	一:DET	組:M	回去:Vi	
+這:DET	鐵觀音:N	還:ADV	不錯:Vi	
+回沖:N	多:DET	次:M	還是:C	茶味:N	深厚:Vi	
+是:Vt	我:N	喜歡:Vt	的:T	茶品:N	
+而且:C	茶味:N	甘澀:Vi	
+特別:Vi	解:Vt	油膩:Vi	
+涼拌:Vt	火鴨絲:N	、:PAUSECATEGORY	翡翠:N	豆腐:N	、:PAUSECATEGORY	北京:N	燻肉:N	厲:Vi	家:N	菜:N	以:P	套餐:N	的:T	方式:N	為主:Vi	
+菜色:N	少量:DET	多樣:Vi	
+分為:Vt	首碟:N	、:PAUSECATEGORY	熱:Vt	菜:N	、:PAUSECATEGORY	主食:N	、:PAUSECATEGORY	湯品:N	與:C	甜點:N	
+光:ADV	是:Vt	首:M	碟:N	就:ADV	有:Vt	十:DET	道:M	小菜:N	
+道道:DET	精緻:Vi	而:C	有:Vt	特色:N	
+以:P	三:DET	、:PAUSECATEGORY	三:DET	、:PAUSECATEGORY	四:DET	的:T	順序:N	上菜:Vi	
+而且:C	吃起來:ADV	還:ADV	有:Vt	個:M	順序:N	之:T	分:Nv	
+高麗菜:N	絲:N	拌:Vt	烤鴨:N	肉絲:N	
+清爽:Vi	的:T	菜絲:N	中:POST	混有:Vt	鴨肉:N	的:T	燻香微:N	澀:Vi	
+拌:Vt	了:ASP	點:M	微:ADV	辣:Vi	的:T	紅油添:N	香:N	
+翡翠:N	豆腐:N	並:ADV	不:ADV	是:Vt	豆腐:N	
+而是:C	毛豆:N	泥:N	加上:Vt	干貝:N	同:ADV	煮:Vt	
+毛豆:N	泥:N	柔膩:Vi	香甜:Vi	
+其中:DET	又:ADV	有:Vt	濃郁:Vi	的:T	干貝:N	鮮:Vi	香:Vi	
+個:M	人:N	挺:ADV	喜歡:Vt	這:DET	道:M	小:Vi	點:ADV	
+北京:N	燻肉:N	用:Vt	的:T	是:Vt	五花肉:N	
+看似:Vt	叉燒:N	
+底下:N	搭配:Vt	一:DET	片:M	脆片:N	
+有點:ADV	像:Vt	是:Vt	蜜汁:N	火腿:N	
+據說:ADV	脆片:N	可以:ADV	解除:Vt	五花肉:N	的:T	油膩感:N	
+燻肉:N	肥:Vt	嫩配:Vi	著:ASP	薄:Vi	脆:Vi	的:T	脆片:N	
+的確:ADV	是:Vt	讓:Vt	人:N	不:ADV	感:Vt	油膩:Vi	
+椒麻雞:N	、:PAUSECATEGORY	肉:N	末:N	燒餅:N	、:PAUSECATEGORY	炸:Vt	春捲:N	接著:ADV	再:ADV	送上:Vt	三:DET	道:M	
+也:ADV	是:Vt	小巧玲瓏:Vi	
+椒麻雞:N	用:Vt	的:T	是:Vt	雞:N	胸肉:N	
+但:C	不會:ADV	顯得:Vt	乾澀:Vi	
+肉質:N	保持:Vt	著:ASP	水份:N	
+但:C	醬汁:N	味道:N	清淡:Vi	了:ASP	點:M	
+與:P	其:DET	說:Vt	是:Vt	椒麻:N	味:N	
+個:M	人:N	覺得:Vt	比較:ADV	像:Vt	剝皮:Vi	辣椒:N	味兒:N	
+肉:N	末:N	燒餅:N	像:Vt	個:M	可愛:Vi	的:T	小:Vi	漢堡:N	
+燒餅:N	圓:Vt	蓬蓬:DET	的:T	
+口感:N	非常:ADV	有:Vt	彈性:N	
+吃起來:ADV	不:ADV	像:Vt	傳統:Vi	的:T	中式:A	燒餅:N	
+反而:C	像:Vt	是:Vt	麵包:N	
+肉:N	末:POST	則:ADV	是:Vt	鹹香:N	
+但:C	個:M	人:N	對:P	這:DET	道:M	評價:N	普通:Vi	
+也許:ADV	是:Vt	這:DET	燒餅:N	少:Vi	了:ASP	傳統:Vi	味兒:N	
+春捲:N	也:ADV	略:ADV	嫌:Vt	一般:A	
+大概:ADV	嚐:Vt	的:T	出:Vt	裡頭:N	包:Vt	了:ASP	些:M	蔬菜:N	絲:N	
+我:N	對:P	炸:Vt	春捲:N	本來:ADV	就:ADV	沒:ADV	太:ADV	大:Vi	喜好:N	
+也:ADV	就:ADV	沒:ADV	細嚐:Vt	
+鶻侖吞棗:N	地:T	吃掉:Vt	
+青蛤:N	丸子:N	、:PAUSECATEGORY	麻辣:A	牛肉:N	、:PAUSECATEGORY	糖:N	醋:N	排骨:N	、:PAUSECATEGORY	炒咸食:Vt	最後:N	的:T	首碟:N	四:DET	道:M	齊:Vi	上:POST	
+依序:ADV	來:ADV	吃:Vt	
+青蛤:N	丸子:N	的:T	花樣:N	小:Vi	碟器:N	非常:ADV	精緻:Vi	漂亮:Vi	
+打開來:Vt	則:ADV	是:Vt	一:DET	小:Vi	瓣:M	蛤殼:N	
+裡頭:N	窩:Vi	著:ASP	蛤肉:N	與:C	小:Vi	雞:N	肉丸子:N	
+肉丸:N	是:Vt	嫩:Vi	但:C	蛤肉:N	收縮:Vt	地:T	太:ADV	小:Vi	
+整體:N	而言:Vt	稍:ADV	嫌:Vt	口感:N	薄弱:Vi	
+不過:C	蛤湯:N	倒是:ADV	鮮美:Vi	
+我:N	想:Vt	或許:ADV	這:DET	湯汁:N	才:ADV	是:Vt	重點:N	
+令:Vt	人:N	意外:N	的:T	麻辣:A	牛肉:N	
+竟然:ADV	是:Vt	油炸:Vt	作法:N	
+三:DET	小:Vi	塊:M	疊成:Vt	一:DET	串:M	
+口味:N	是:Vt	鹹香:N	
+但:C	沒:ADV	感覺到:Vt	太多:DET	麻辣味:N	
+糖醋:N	排骨:N	看:Vt	著:ASP	像:P	無錫:N	排骨:N	
+醬色:N	油亮:Vi	
+看起來:ADV	應該:ADV	用:P	冰糖:N	調色:Vi	
+才:ADV	會:ADV	如此:ADV	通透:Vi	吧:T	
+這:DET	道:M	排骨:N	肉:N	的:T	口感:N	特別:Vi	
+燉煮:Vt	的:T	肉質:N	酥化:Vt	
+輕輕:Vi	一:ADV	咬:Vt	便:ADV	骨肉:N	分離:Vt	
+但:C	肉:N	吃起來:ADV	又:ADV	顯:Vt	乾澀:Vi	
+澀:Vi	中:POST	帶:Vt	甜:Vi	
+酸味:N	偏:ADV	薄:Vi	
+肉:N	以:P	瘦:Vi	為主:Vi	
+十分:ADV	特別:Vi	
+結尾:Vi	的:T	炒咸菜:N	與:C	想像:Vt	的:T	不同:Vi	
+是:Vt	胡蘿蔔:N	絲:N	
+有點:ADV	像:Vt	泡菜:N	
+還:ADV	算:Vt	清爽:Vi	
+但:C	不:ADV	甚:ADV	特別:Vi	
+十:DET	道:M	首:DET	碟:N	結束:Vt	之後:POST	
+送上:Vt	酸梅汁:N	清除:Vt	一下:N	口:N	中:N	味道:N	
+軟:Vi	炸:Vt	牡丹:N	蝦:N	本來:ADV	應該:ADV	是:Vt	青松:N	鮮:Vi	貝:N	
+但:C	服務員:N	說:Vt	今天:N	沒:Vt	這:DET	道:M	菜:N	
+因此:C	改成:Vt	軟:Vi	炸:Vt	牡丹:N	蝦:N	
+中華:N	料理:N	博大精深:Vi	
+烹煮:Vt	的:T	方式:N	諸多:DET	變化:N	
+光:ADV	是:Vt	油炸:Vt	就:ADV	有:Vt	數:Vt	種:M	炸:Vt	法:N	
+例如:P	常見:Vi	的:T	酥炸:Vi	
+而:C	這:DET	道:M	牡丹:N	蝦:N	則:ADV	是:Vt	用:P	軟炸:Vi	的:T	作法:N	
+先:ADV	將:P	食材:N	醃:Vt	漬:N	入:Vt	味:N	之後:POST	
+裹上:Vt	一:DET	層:M	薄:Vi	麵糊:N	
+先:ADV	用:P	溫:N	油炸:Nv	再:ADV	用:P	熱:Vt	油炸:Nv	
+蝦肉:N	底下:N	墊:Vt	著:ASP	酥:Vi	炸:Vt	地瓜:N	絲:N	可以:ADV	配:Vt	著:ASP	吃:Vt	
+而:C	蝦肉:N	外頭:N	薄薄:Vi	的:T	粉衣:N	色澤:N	偏:ADV	白:Vi	
+口感:N	酥軟:Vi	
+咬下:Vt	蝦肉:N	
+傳來:Vt	濃郁:Vi	的:T	紹酒:N	香氣:N	
+蝦肉:N	則:ADV	頗為:ADV	鮮嫩:Vi	
+酒香:N	馥郁:Vi	的:T	一:DET	道:M	菜:N	
+油燜:N	大蝦:N	剛:ADV	吃完:Vt	一:DET	道:M	蝦:N	
+沒想到:ADV	又:ADV	送上:Vt	一:DET	道:M	蝦:N	
+本來:ADV	不應該:ADV	連續:ADV	兩:DET	道:M	蝦:N	料理:N	
+也:ADV	是:Vt	因為:C	今天:N	改:Vt	了:ASP	菜單:N	才:ADV	如此:Vi	
+不然:C	連續:ADV	兩:DET	道:M	蝦肉:N	
+不免:ADV	讓:Vt	人:N	有:Vt	種:M	審美:A	疲乏:Vi	
+這:DET	道:M	油燜蝦:N	一:ADV	送上:Vt	
+便:ADV	傳來:Vt	濃郁:Vi	的:T	醬:N	香氣:N	
+這:DET	股:M	醬香:N	帶:Vt	著:ASP	甜味:N	
+宛如:Vt	上海菜:N	的:T	紅燒:Nv	風味:N	
+看看:Vt	菜名:N	
+心想:Vt	這:DET	道:M	蝦:N	或許:ADV	跟上:Vt	海菜:N	中:POST	的:T	油爆蝦:N	一樣:Vi	
+蝦:N	殼:N	可:ADV	吃:Vt	
+實際:Vi	吃:Vt	了:ASP	
+的確:ADV	是:Vt	能:ADV	吃:Vt	
+其:DET	蝦殼:N	油炸:Vt	的:T	酥透:Vt	
+與:C	油爆蝦:N	口感:N	彷彿:ADV	
+而:C	醬汁:N	入味:N	
+滲入:Vt	蝦殼:N	與:C	肉:N	中:POST	
+帶:Vt	著:ASP	濃郁:Vi	的:T	甜味:N	與:C	鹹味:N	
+甜鹹:Vi	並重:Vi	
+個:M	人:N	認為:Vt	做:Vt	的:T	挺:ADV	不錯:Vi	的:T	一:DET	道:M	蝦肉:N	
+不過:C	吃:Vt	多:DET	大概:ADV	會:ADV	膩:Vi	
+一:DET	尾:M	也:ADV	就:ADV	剛好:ADV	
+菜:N	包飯:Vi	貝肉:N	、:PAUSECATEGORY	香菇:N	與:C	鴨肉:N	等:POST	料拌成:Vt	的:T	米飯:N	
+用:P	生菜:N	包裹:Vt	起來:ASP	
+嘴巴:N	大:Vi	的:T	一口:ADV	吃下:Vt	是:Vt	沒:Vt	問題:N	
+米飯:N	油香:N	
+吃起來:ADV	有點:ADV	油飯:N	味兒:N	
+但:C	沒:ADV	那麼:ADV	油膩:Vi	
+同時:N	還:ADV	有:Vt	烤鴨:Vi	的:T	香氣:N	
+風味:N	挺:ADV	複雜:Vi	的:T	一:DET	道:M	米飯:N	料理:N	
+焌油魚:N	今天:N	的:T	焌油魚:N	用:Vt	的:T	是:Vt	圓:Vi	鱈:b	
+這:DET	道:M	菜:N	的:T	作法:N	獨特:Vi	
+焌:b	的:T	讀音:N	為:Vt	
+區:N	
+是:Vt	指:Vt	一:DET	種:M	料理:N	手法:N	
+即:ADV	是:Vt	鍋:N	中油:N	熱:Vt	之後:POST	
+把:P	食材:N	下鍋:Vi	快速:Vi	炒熟:Vi	
+這:DET	道:M	魚肉:N	便:ADV	是:Vt	這樣:Vi	做:Vt	的:T	
+但是:C	從:P	沒用:Vi	過:ASP	這:DET	種:M	料理:N	手法:N	也:ADV	不曾:ADV	見:Vt	過:ASP	
+很:ADV	難:Vi	相信:Vt	熱:Vt	油:N	快:ADV	炒:Vt	可以:ADV	做出:Vt	這:DET	道:M	有如:Vt	炸:Vt	魚肉:N	般:POST	的:T	焌油:N	魚:N	
+焌油:N	魚肉:N	伴隨:Vt	著:ASP	炸:Vt	洋蔥:N	絲:N	
+魚肉:N	外皮:N	細酥:N	而:C	肉質:N	細膩:Vi	
+但:C	本身:N	沒:Vt	什麼:DET	調味:N	
+味道:N	清淡:Vi	了:ASP	點:M	
+底下:N	搭配:Vt	著:ASP	的:T	醬油:N	與:C	油燜:N	大蝦:N	是:Vt	同:DET	一:DET	種:M	醬:N	
+香氣:N	與:C	滋味:N	重複:Vt	
+畢竟:ADV	讓:Vt	人:N	有點:ADV	膩:Vi	口:N	
+這:DET	種:M	醬油:N	不:ADV	知道:Vt	是:Vt	什麼:DET	醬:N	
+味道:N	有點:ADV	像:Vt	蒸:Vt	魚:N	醬油:N	
+鹿尾:N	炸醬:N	配:Vt	手工:N	麵條:N	主食:N	兩:DET	種:M	選擇:N	
+我:N	選:Vt	的:T	是:Vt	相當:ADV	特別:Vi	的:T	鹿尾:N	炸醬:N	
+除了:P	手工:N	寬:Vi	麵條:N	之外:POST	
+配:Vt	了:ASP	一:DET	碗:M	鹿尾:N	炸醬:N	以及:C	三:DET	種:M	蔬菜:N	絲:N	
+分別:ADV	是:Vt	小黃瓜:N	、:PAUSECATEGORY	櫻桃:N	洋蔥:N	以及:C	蘿蔔:N	
+鹿尾:N	炸醬:N	真的:ADV	是:Vt	用:P	鹿:N	尾巴:N	來:ADV	做:Vt	
+還:ADV	加:Vt	了:ASP	五花肉:N	丁:N	與:C	黃:N	豆醬:N	
+鹿尾:N	有:Vt	一:DET	種:M	特殊:Vi	的:T	腺體:N	
+遇:Vt	熱:Vt	之後:POST	會:ADV	產生:Vt	獨特:Vi	的:T	香氣:N	
+仔細:Vi	聞:Vt	了:ASP	這:DET	炸醬:N	
+除了:P	發酵:Vi	微:ADV	酸:Vi	的:T	豆醬:N	味兒:N	之外:POST	
+的確:ADV	是:Vt	有:Vt	一:DET	股:M	不:ADV	知:Vt	如何:ADV	形容:Vt	的:T	香氣:N	
+大概:ADV	就是:C	所謂:Vt	的:T	鹿尾:N	腺體:N	香:Vi	吧:T	
+把:P	蔬菜:N	絲:N	與:C	炸醬:N	一同:ADV	放入:Vt	麵:N	中:POST	拌勻:Vi	
+手工:N	麵條:N	相當:ADV	有:Vt	彈勁:N	
+口感:N	相當:ADV	好:Vi	
+北方:N	菜:N	果然:ADV	還是:ADV	比較:ADV	會:ADV	做:Vt	麵食:N	
+炸醬:N	的:T	味道:N	香鹹:Vi	帶:Vt	點:N	微:ADV	酸:Vi	
+與:P	台灣:N	的:T	炸醬:N	截然不同:Vi	
+但:C	與:P	在:P	北京:N	吃:Vt	過:ASP	的:T	炸醬:N	也:ADV	不:ADV	一樣:Vi	
+頗為:ADV	獨特:Vi	
+三鮮:N	雲:N	吞湯:N	雞湯:N	做:Vt	底:POST	
+滋味:N	清甜:Vi	
+蘿蔔:N	挖成:Vt	小:Vi	球狀:N	
+內:N	有:Vt	三:DET	顆:M	小:Vi	餛飩:N	
+餛飩:N	雖:C	小:Vi	
+但:C	包:Vt	了:ASP	蝦肉:N	、:PAUSECATEGORY	豬肉:N	以及:C	海參:N	
+吃:Vt	著:ASP	彈嫩:Vi	
+比較:ADV	明顯:Vi	的:T	味道:N	是:Vt	蝦肉:N	
+奶酪:N	、:PAUSECATEGORY	蜜汁:N	山藥:N	、:PAUSECATEGORY	水果:N	、:PAUSECATEGORY	三不:N	沾:Vt	奶酪:N	頗:ADV	有:Vt	北京:N	風味:N	
+帶:Vt	點:N	微:ADV	酸:Vi	不:ADV	太:ADV	甜:Vi	
+口感:N	則:ADV	是:Vt	水:N	嫩:Vi	
+就:ADV	像:P	南:N	鑼鼓:N	巷:N	裡:N	的:T	文宇奶酪:N	
+蜜汁:N	山藥:N	頗為:ADV	特別:Vi	
+第一:DET	次:M	吃到:Vt	做成:Vt	甜點:N	的:T	奶:N	酪:b	
+柔膩:Vi	甜蜜:Vi	
+竟是:Vt	不錯:Vi	
+水果:N	就:ADV	沒:Vt	啥:DET	好說:Vi	的:T	
+三:DET	不:ADV	沾:Vt	是:Vt	御膳:N	
+其:DET	名:M	由來:N	為:Vt	不:ADV	沾:Vt	碟:N	、:PAUSECATEGORY	不:ADV	沾:Vt	筷:N	與:C	不:ADV	沾:Vt	牙:N	
+這:DET	是:Vt	道:M	功夫菜:N	
+使用:Vt	蛋黃:N	與:C	綠豆粉:N	做成:Vt	
+乍看:Vt	之下:POST	還:ADV	以為:Vt	是:Vt	芒果:N	凍:Vt	之類:POST	甜:Vi	品:N	
+其實:ADV	吃起來:ADV	有點:ADV	像:Vt	麻糬:N	
+滋味:N	香甜:Vi	
+柔膩:Vi	可口:Vi	
+還:ADV	真的:ADV	不:ADV	沾:Vt	牙:N	也:ADV	不:ADV	沾:Vt	碟筷:N	
+挺:ADV	特別:Vi	的:T	京味小:N	點兒:M	
+厲:Vi	家:N	菜:N	不愧:ADV	是:Vt	宮廷:N	御膳:N	
+每:DET	道:M	菜:N	都:ADV	足夠:Vi	精緻:Vi	
+雖然:C	量:N	少:Vi	
+但是:C	種類:N	多:Vi	
+以:P	個:M	人:N	套餐:N	的:T	形式:N	來:ADV	說:Vt	
+一:DET	個:M	人:N	也:ADV	能:ADV	吃到:Vt	許多:DET	種:M	不同:Vi	的:T	菜色:N	
+相當:ADV	豐富:Vt	
+有時候:ADV	也:ADV	不禁:Vt	要:ADV	感嘆:Vt	一下:N	台灣:N	的:T	中菜:N	
+水準:N	是:Vt	不:ADV	差:Vi	
+畢竟:ADV	當年:N	隨著:P	國民:N	政府:N	來:Vi	台:N	的:T	廚師:N	不少:Vi	
+在:P	台灣:N	又:ADV	經過:Vt	了:ASP	各:DET	省:N	菜系:N	的:T	融合:Nv	
+許多:DET	老店:N	的:T	菜餚:N	還是:ADV	令:Vt	人:N	津津樂道:Vi	
+可是:C	在:P	創新:Vt	上:POST	
+台灣:N	的:T	中菜:N	似乎:ADV	就:ADV	比較:ADV	少:Vi	足以:Vt	著:ASP	墨:N	之:T	處:N	
+厲:Vi	家:N	菜:N	能夠:ADV	把:P	宮廷菜:N	以:P	私房菜:N	的:T	形式:N	推廣:Nv	成:Vt	今日:N	的:T	樣貌:N	
+也:ADV	是:Vt	不:ADV	容易:Vi	
+讓:Vt	人:N	驚豔:Vi	
+也:ADV	算是:Vt	給:Vt	中菜:N	創造出:Vt	了:ASP	另:DET	一:DET	種:M	道路:N	
+中菜:N	其實:ADV	不比:Vt	西餐:N	差:Vi	呀:T	
+也:ADV	是:Vt	可以:ADV	做:Vt	的:T	精緻:Vi	美觀:Vi	又:ADV	好吃:Vi	
+厲:Vi	家:N	菜:N	地址:N	：:COLONCATEGORY	台北市:N	松仁路:N	28:DET	號:M	3樓:N	
+Bellavita:FW	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	87292638:DET	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+食記:N	
+北京:N	便宜:Vi	坊:N	烤鴨店:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	31646289:DET	
+食記:N	
+北京:N	大董:N	烤鴨:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	31631933:DET	
+食記:N	
+台北:N	京兆尹:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	39774904:DET	
+食記:N	
+台北:N	宋廚:N	菜館:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	32591679:DET	
+食記:N	
+台北:N	二:DET	訪:Vt	餡:N	老:Vi	滿:Vt	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	31401491:DET	--:DASHCATEGORY	一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	--:DASHCATEGORY	

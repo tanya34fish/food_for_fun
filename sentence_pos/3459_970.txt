@@ -1,0 +1,38 @@
+dianna72(godblessTaiwan:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	zoocafe:FW	有:Vt	誠意:N	的:T	店:N	國父:N	紀念館:N	站:Vi	
+Sun:FW	
+Aug:FW	
+24:DET	
+23:DET	::COLONCATEGORY	26:DET	::COLONCATEGORY	59:DET	
+2014:DET	
+食記:N	
+台北:N	zoocafe:FW	有:Vt	誠意:N	的:T	店:N	國父:N	紀念館:N	站:Vi	
+SunAug:FW	2423:DET	::COLONCATEGORY	26:DET	::COLONCATEGORY	592014:DET	
+ZooCafe:FW	動物園:N	野餐:Nv	咖啡:N	
+地址:N	：:COLONCATEGORY	台北市:N	仁愛路:N	4:DET	段:M	345巷:N	5弄:N	15:DET	號:M	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2721:DET	-:DASHCATEGORY	9322:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	
+::COLONCATEGORY	00:DET	週二:N	公休:Vi	
+消費:N	日期:N	：:COLONCATEGORY	2014:DET	/:FW	08:DET	
+雖然:C	這:DET	家:M	店:N	頗:ADV	有:Vt	誠意:N	不過:C	還是:ADV	要:ADV	小:Vi	抱怨:Vt	一下:N	服務:Vt	有點:ADV	鳥:Vi	掉:Vi	
+很:ADV	早:Vi	就:ADV	有:Vt	先:ADV	電話:N	訂位:Vi	訂:Vt	的:T	是:Vt	週日:N	後來:N	接到:Vt	他們:N	確認:Vt	電話:N	問:Vt	是:Vt	不:ADV	是:Vt	週六:N	
+已經:ADV	更改為:Vt	週日:N	今天:N	朋友:N	到:Vt	的:T	時候:N	又:ADV	說:Vt	怎會:ADV	是:Vt	訂:Vt	週六:N	...:ETCCATEGORY	=:FW	=:FW	
+後來:N	朋友:N	先:ADV	到:Vt	先:ADV	坐:Vi	位置:N	我們:N	抵達:Vt	時:POST	服務生:N	請:Vt	朋友:N	移桌:N	因為:C	說:Vt	要:ADV	幫:P	別人:N	併桌:N	@:FW	@:FW	
+上菜:Vi	後:POST	套餐:N	菜色:N	其實:ADV	還:ADV	算:Vt	不錯:Vi	麵包:N	跟:P	湯:N	都:ADV	挺:ADV	好吃:Vi	尤其:ADV	是:Vt	麵包:N	烤:Vt	的:T	真的:ADV	蠻:ADV	好吃:Vi	
+服務生:N	的:T	話:N	男:N	服務生:N	很:ADV	有:Vt	誠意:N	不過:C	聲音:N	好:ADV	小聲:Vi	幾:DET	次:M	聽:Vt	他:N	講話:Vi	我:N	都:ADV	聽:Vt	不:ADV	太:ADV	到:P	
+點:Vt	的:T	餐:N	是:Vt	兩:DET	份:M	蕃茄:N	蔬菜:N	義大利麵:N	味道:N	還可以:ADV	但:C	也:ADV	沒:ADV	到:P	很:ADV	出色:Vi	不過:C	蔬菜:N	蠻:ADV	多:Vi	
+朋友:N	是:Vt	奶油:N	蘑菇:N	雞肉麵:N	跟:P	飯:N	算是:Vt	這:DET	家:M	店:N	在:P	網路:N	上:POST	蠻:ADV	出名:Vi	的:T	菜色:N	兩:DET	個:M	朋友:N	都:ADV	說:Vt	很:ADV	好吃:Vi	
+不過:C	吃到:Vt	後面:N	我:N	朋友:N	的:T	飯:N	...:ETCCATEGORY	發現:Vt	一:DET	條:M	長:Vi	頭髮:N	......:ETCCATEGORY	orz:FW	
+最後:N	請:Vt	服務生:N	來:ADV	收回:Vt	.......:ETCCATEGORY	我們:N	就:ADV	瞬間:N	安靜:Vi	了:ASP	一下:N	.....:ETCCATEGORY	
+不過:C	店家:N	處理:Vt	很:ADV	有:Vt	誠意:N	後來:N	服務生:N	說:Vt	那:DET	餐:M	就:ADV	不:ADV	算:Vt	錢:N	
+朋友:N	也:ADV	算是:Vt	吃飽:Vi	了:T	所以:C	她:N	也:ADV	覺得:Vt	那:DET	不然:C	再:ADV	多點:DET	一:DET	份:M	飲料:N	吧:T	也:ADV	算是:Vt	回饋:N	
+之後:N	店家:N	又:ADV	上:Vt	了:ASP	道:N	花枝:N	沙拉:N	說:Vt	是:Vt	招待:Vt	我們:N	的:T	菜:N	
+其實:ADV	後來:N	這樣:Vi	的:T	補償:Nv	感覺:N	就:ADV	很:ADV	不錯:Vi	啦:T	
+很:ADV	有:Vt	誠意:N	這:DET	種:M	處理:Nv	方式:N	挺:ADV	好:Vi	可是:C	菜單:N	只:ADV	能:ADV	點:Vt	60:DET	元:M	或:C	150:DET	元:M	套餐:N	有點:ADV	可惜:Vi	
+只:ADV	能:ADV	選擇:Vt	要:Vt	湯:N	+:FW	麵包:N	或:C	湯:N	+:FW	麵包:N	+:FW	飲料:N	不能:ADV	選:Vt	餐:N	+:FW	飲料:N	
+如果:C	能:ADV	點:Vt	餐:N	+:FW	飲料:N	折價:Vt	就:ADV	好了:T	...:ETCCATEGORY	可惜:Vi	飲料:N	無法:ADV	折價:Vt	....:ETCCATEGORY	
+朋友點:N	的:T	水果:N	優格類:N	的:T	飲料:N	都:ADV	獲:Vt	好評:N	而且:C	似乎:ADV	也:ADV	蠻:ADV	健康:Vi	
+雖然:C	說:Vt	在:P	服務:Nv	上:POST	實在:ADV	不:ADV	甚:ADV	完美:Vi	但是:C	店家:N	誠意:N	真的:ADV	算:Vt	十足:Vi	的:T	
+今天:N	週日:N	晚上:N	九:DET	點:M	就:ADV	關店:N	了:T	

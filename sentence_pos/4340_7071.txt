@@ -1,0 +1,72 @@
+leafphoto:FW	(:PARENTHESISCATEGORY	葉影瓶:N	像:P	_:FW	里夫:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	四方:N	阿九:N	魯肉飯:N	(:PARENTHESISCATEGORY	萬華店:N	):PARENTHESISCATEGORY	。:PERIODCATEGORY	滷肉飯:N	
+Wed:FW	
+May:FW	
+13:DET	
+11:DET	::COLONCATEGORY	21:DET	::COLONCATEGORY	18:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	四方:N	阿九:N	魯肉飯:N	(:PARENTHESISCATEGORY	萬華店:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	4月:N	
+地址:N	：:COLONCATEGORY	台北市:N	萬華區:N	廣州街:N	225:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2336:DET	-:DASHCATEGORY	9119:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	略:ADV	
+無:Vt	音樂:N	。:PERIODCATEGORY	有:Vt	圖:N	真相:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	leafphoto.pixnet.net/blog/post:FW	/:FW	110558492:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	我:N	是:Vt	分隔:Vt	線:N	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+這:DET	家:M	魯:N	肉販:N	也:ADV	是:Vt	屬於:Vt	連鎖店:N	
+不過:C	規模:N	上:N	遠:Vi	比:P	鬍鬚:N	張:N	小:Vi	很多:DET	
+目前:N	僅:ADV	土城:N	、:PAUSECATEGORY	三重:N	以及:C	廣州:N	
+街:N	夜市:N	有:Vt	店:N	
+今天:N	介紹:Vt	的:T	就是:C	龍山寺:N	附近:N	的:T	萬華店:N	
+朋友:N	介紹:Vt	我:N	這:DET	家:M	魯:N	肉販:N	很:ADV	久:Vi	了:T	
+某:DET	次:M	晚上:N	我:N	曾:ADV	想:Vt	去:Vt	土城店:N	試試:Vt	
+結果:ADV	沒:ADV	設:Vt	導航:Nv	不:ADV	小心:Vt	就:ADV	開:Vt	
+過:ASP	頭:N	
+也:ADV	錯過:Vt	營業:Nv	時間:N	
+礙於:Vt	Flickr:FW	空間:N	
+如果:C	圖片:N	出現:Vi	破圖:N	的:T	朋友:N	
+請:Vt	點擊:Vt	該:DET	張:M	圖片:N	觀看:Vt	
+謝謝:Vt	
+1:DET	.:PERIODCATEGORY	店裡:N	比較:ADV	不:ADV	像:Vt	傳統:N	小吃店:N	
+有:Vt	餐盤:N	跟:P	料理:Vt	台:N	
+概念:N	上:POST	有點:ADV	像:Vt	鬍鬚:N	張:N	
+也:ADV	跟:P	先前:N	介紹:Vt	三:DET	
+重:Vi	的:T	店小二:N	頗:ADV	像:Vt	
+2:DET	.:PERIODCATEGORY	價位:N	上:POST	頗:ADV	便宜:Vi	
+很:ADV	親切:Vi	的:T	價位:N	
+3:DET	.:PERIODCATEGORY	筍絲:N	
+筍絲:N	上面:N	淋:Vt	上:POST	不少:DET	滷肉:N	
+油香:N	順口:Vi	
+點:DET	碗:M	白飯:N	配上:Vt	盤:N	應該:ADV	也:ADV	頗:ADV	爽:Vi	
+3:DET	.:PERIODCATEGORY	油豆腐:N	
+我:N	很:ADV	喜歡:Vt	豆腐:N	、:PAUSECATEGORY	豆皮:N	類:N	
+但:C	家母:N	醫生:N	交代:Vt	不能:ADV	吃:Vt	豆類:N	製品:N	
+家:N	中:N	基本:A	上:N	看:Vt	不:ADV	見:Vt	豆腐:N	
+因此:C	
+一:ADV	有:Vt	機會:N	我:N	就:ADV	會:ADV	點:Vt	油豆腐:N	
+滷:Vt	得:T	很:ADV	透:Vi	
+但:C	部:N	死:Vi	鹹:Vi	
+吃:Vt	得:T	出:Vt	淡淡:Vi	豆:N	香味:N	
+3:DET	.:PERIODCATEGORY	魯:N	肉乾:N	板條:N	
+4:DET	.:PERIODCATEGORY	魯肉飯:N	
+小:Vi	
+上面:N	灑上:Vt	些:M	魚:N	鬆:Vt	
+有點:ADV	像:Vt	南部:N	的:T	肉燥飯:N	
+但:C	口味:N	上:POST	則:ADV	是:Vt	北部:N	的:T	鹹味:N	
+肥肉:N	偏:ADV	多:Vi	
+不過:C	一般:A	店家:N	都:ADV	會:ADV	將:P	油脂:N	撈掉:Vt	
+所以:C	其實:ADV	大都:ADV	膠質:N	
+加上:C	魚鬆:N	後:POST	吃起來:ADV	幾乎:ADV	不:ADV	
+會:ADV	有:Vt	油膩感:N	
+飯:N	也:ADV	蠻:ADV	好吃:Vi	
+整體:N	來:ADV	說:Vt	是:Vt	好吃:Vi	且:C	合:Vt	我:N	口味:N	的:T	魯肉飯:N	
+後記:N	：:COLONCATEGORY	
+龍山寺:N	附近:N	小吃:N	很多:DET	
+有名:Vi	的:T	魯肉飯:N	除了:P	四方:N	阿九:N	
+也:ADV	有:Vt	黑金:N	魯肉飯:N	
+魯肉飯:N	這:DET	東西:N	很:ADV	神奇:Vi	
+感覺:N	上:POST	好像:ADV	沒有:Vt	什麼:DET	特別:Vi	之:T	處:N	
+論:Vt	豐盛:Vi	也:ADV	不及:Vt	中部:N	的:T	控肉:N	飯:N	
+但:C	迷上:Vt	後:POST	就:ADV	會:ADV	發現:Vt	各:DET	家:N	的:T	味道:N	都:ADV	有:Vt	其:DET	特色:N	
+都:ADV	有:Vt	不同:Vi	的:T	辨識度:N	
+有:Vt	機會:N	再:ADV	分享:Vt	更多:DET	魯肉飯:N	
+給:Vt	大家:N	參考:Vt	

@@ -1,0 +1,14 @@
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	市民:N	大道:N	四段:N	28:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	約:ADV	四:DET	、:PAUSECATEGORY	五百:DET	元:M	
+裝潢:N	可以:ADV	看:Vt	的:T	出來:Vi	走:Vi	正統:A	的:T	日式:A	居酒屋:N	風格:N	
+價位:N	都:ADV	大概:ADV	在:P	一百多:DET	左右:POST	
+柚子:N	酒:N	喝:Vt	起來:ASP	還:ADV	不錯:Vi	
+章魚:N	很:ADV	新鮮:Vi	吃完:Vt	很:ADV	清爽:Vi	開胃:Vi	
+不過:C	咬下去:Vt	真的:ADV	嚇一跳:Vi	的:T	多汁:Vi	
+湯:N	很:ADV	鮮:Vi	甜:Vi	帶有:Vt	淡淡:Vi	的:T	酒香:N	
+吃起來:ADV	很:ADV	鮮嫩:Vi	
+口感:N	還:ADV	不錯:Vi	
+這:DET	一:DET	餐:M	吃完:Vt	平均:Vi	一:DET	人:N	四百多:DET	
+整體:N	來:ADV	說:Vt	價位:N	上算:Vi	可以:ADV	接受:Vt	
+食物:N	調味:Nv	方面:N	滿:ADV	合:Vt	我:N	味:N	的:T	
+尤其:ADV	在:P	市民:N	大道:N	上:N	這:DET	一級:N	戰區:N	

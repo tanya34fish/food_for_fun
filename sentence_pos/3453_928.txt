@@ -1,0 +1,150 @@
+triccsegg:FW	(:PARENTHESISCATEGORY	歡迎:Vt	來:ADV	我:N	的:T	Blog:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義區:N	Paul:FW	-:DASHCATEGORY	輕:Vi	食排餐:N	套餐:N	下午茶:N	
+Sat:FW	
+Aug:FW	
+23:DET	
+12:DET	::COLONCATEGORY	03:DET	::COLONCATEGORY	13:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Paul:FW	信義店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松壽路:N	9:DET	號:M	2:DET	F:FW	(:PARENTHESISCATEGORY	新光三越:N	A:FW	9:DET	館:N	2:DET	F:FW	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	27220700:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	~:FW	週四:N	::COLONCATEGORY	早上:N	11:DET	::COLONCATEGORY	00:DET	~:FW	晚上:N	09:DET	::COLONCATEGORY	30:DET	
+週五:N	::COLONCATEGORY	早上:N	11:DET	::COLONCATEGORY	00:DET	~:FW	晚上:N	10:DET	::COLONCATEGORY	00:DET	
+週六:N	~:FW	週日:N	::COLONCATEGORY	早上:N	09:DET	::COLONCATEGORY	00:DET	~:FW	晚上:N	09:DET	::COLONCATEGORY	30:DET	
+好讀:Vt	網誌:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/blog/post:FW	/:FW	184937724:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	本文:N	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	Paul:FW	的:T	歷史:N	可:ADV	追:Vt	溯回:Vt	西元:N	1889年:N	成立:Vt	於:P	法國:N	北部:N	近:Vt	里耳:N	小鎮:N	上:N	的:T	一:DET	家:M	麵包店:N	
+隨著:P	時間:N	的:T	發展:Nv	
+2007年:N	法國:N	店面:N	總數:N	已:ADV	超過:Vt	300:DET	家:M	
+2008年:N	第1:DET	家:M	Paul:FW	於:P	台北:N	開設:Vt	
+這:DET	次:M	我們:N	來到:Vt	的:T	是:Vt	Paul:FW	信義店:N	
+位於:Vt	新光三越:N	A:FW	9:DET	館:N	2樓:N	
+一:ADV	抵達:Vt	現場:N	
+映入:Vt	眼簾:N	的:T	是:Vt	大:Vi	面積:N	的:T	黑色:N	招牌:N	以及:C	令:Vt	人:N	眼睛:N	為之:C	一:ADV	亮:Vi	的:T	麵包:N	甜點櫃:N	
+進入:Vt	店裡:N	後:POST	
+明亮:Vi	的:T	採光:N	與:C	幽暗:Vi	的:T	室:N	內燈:N	源混出:Vt	了:ASP	一:DET	股:M	柔和:Vi	的:T	光線:N	
+灑:Vt	在:P	店:N	內:N	採:Vt	樸實:Vi	、:PAUSECATEGORY	不:ADV	搶眼:Vi	的:T	配色:Nv	與:C	裝潢:N	上:N	
+一:DET	股:M	古典:Vi	歐式:A	鄉村:N	的:T	氛圍:N	油然而生:Vi	
+提醒:Vt	各:DET	位:M	朋友:N	
+Paul:FW	用餐:Nv	有:Vt	時間:N	2:DET	小時:M	
+每:DET	人:N	最:ADV	低:Vi	消費:N	180:DET	元:M	的:T	限制:N	喔:T	
+▼:FW	店:N	外觀:N	http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo:FW	/:FW	172627848:DET	▼:FW	部分:DET	麵包:N	甜點櫃:N	
+完整櫃:N	請見:Vt	文:N	末:N	
+-:DASHCATEGORY	麵包:N	、:PAUSECATEGORY	甜點:N	均:ADV	可:ADV	外帶:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172627767http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo:FW	/:FW	172627779:DET	▼:FW	店:N	內:N	http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172627869http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172627890http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172627920Paul:FW	提供:Vt	排餐:N	、:PAUSECATEGORY	輕:Vi	食:Vt	...:ETCCATEGORY	等:POST	主餐:N	
+與:C	甜點:N	、:PAUSECATEGORY	麵包類:N	的:T	下午茶:N	餐點:N	
+是:Vt	一:DET	家:M	能:ADV	滿足:Vt	全:DET	天:M	用餐:Nv	需求:N	的:T	餐廳:N	
+主餐:N	價格:N	約:ADV	在:P	280:DET	元:M	
+650:DET	元:M	之間:POST	
+小:Vi	甜點:N	則:ADV	在:P	100:DET	元:M	
+250:DET	元:M	之間:POST	
+▼:FW	今日:N	點選:Vt	餐點:N	之:T	菜單:N	
+完整:Vi	菜單:N	請見:Vt	文:N	末:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172628085http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172628088http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172628142http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172628124http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172628127http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172628130Paul:FW	的:T	套餐:N	是:Vt	要:ADV	另外:ADV	加價:Vi	的:T	
+共有:Vt	3:DET	類:M	：:COLONCATEGORY	SetA:FW	-:DASHCATEGORY	加:Vt	100:DET	元:M	享有:Vt	今日湯:N	
+或:C	
+130:DET	元:M	飲品:N	一:DET	杯:M	
+SetB:FW	-:DASHCATEGORY	加:Vt	130:DET	元:M	享有:Vt	今日湯:N	
+與:P	
+130:DET	元:M	飲品:N	一:DET	杯:M	
+SetC:FW	-:DASHCATEGORY	加:Vt	240:DET	元:M	享有:Vt	今日湯:N	、:PAUSECATEGORY	130:DET	元:M	飲品:N	一:DET	杯:M	
+與:P	今日:N	甜點:N	一:DET	份:M	
+由於:C	我們:N	想:Vt	自由:Vi	點選:Vt	甜點:N	
+因此:C	選擇:Vt	SetB:FW	
+▼:FW	今日湯:N	
+單點:N	NT:FW	$:FW	120:DET	
+-:DASHCATEGORY	當天:N	的:T	湯:N	是:Vt	番茄:N	蔬菜湯:N	
+光:ADV	看:Vt	湯:N	的:T	顏色:N	就:ADV	覺得:Vt	它:N	非常:ADV	濃郁:Vi	
+實際:Vi	喝:Vt	起來:ASP	也:ADV	的確:ADV	是:Vt	如此:Vi	
+不過:C	不會:ADV	過於:ADV	濃稠:Vi	噁心:Vi	
+內:N	有:Vt	番茄:N	、:PAUSECATEGORY	蔬菜:N	、:PAUSECATEGORY	菇類:N	、:PAUSECATEGORY	紅蘿蔔:N	...:ETCCATEGORY	等:POST	大量:DET	湯料:N	
+口感:N	類似:Vt	羅宋湯:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172627932http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo:FW	/:FW	172627944:DET	▼:FW	青醬:N	番茄:N	烤:Vt	雞肉:N	帕尼尼:N	
+NT:FW	$:FW	280:DET	
+-:DASHCATEGORY	沙拉:N	的:T	部分:DET	是:Vt	生菜:N	配:Vt	紅酒:N	油醋:N	醬:N	
+清爽:Vi	但:C	有點:ADV	苦:Vi	
+馬鈴薯:N	烤:Vt	到:P	過:ASP	老:Vi	
+整:DET	顆:M	變成:Vt	硬:Vi	的:T	
+不:ADV	愛:Vt	
+帕尼尼:N	三明治:N	採:Vt	法國:N	旅:N	西:N	麵包:N	壓烤:Vt	而:C	成:Vt	
+熱騰騰:Vi	的:T	
+表皮:N	結:Vt	有:Vt	一:DET	層:M	薄薄:Vi	的:T	脆皮:N	
+且:C	有:Vt	麥粉:N	的:T	粉粒:N	感:Vt	
+三明治:N	夾有:Vt	燻雞:N	、:PAUSECATEGORY	馬札瑞拉起司:N	、:PAUSECATEGORY	番茄:N	
+以及:C	烤:Vt	至:P	微乾:N	並:ADV	滲入:Vt	麵包:N	的:T	青醬:N	
+整體:N	口感:N	以:P	麵包味:N	為:Vt	主體:N	
+配料:N	用來:Vt	提味:N	
+爽口:Vi	無:Vt	負擔:N	
+不過:C	燻雞:N	再:ADV	多:ADV	加:Vt	些:M	風味:N	會:ADV	更:ADV	佳:Vi	
+麵包:N	看似:Vt	不:ADV	大:Vi	
+可是:C	吃完:Vt	後:POST	是:Vt	很:ADV	有:Vt	飽足:Vi	感:Vt	的:T	喔:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172627980http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172628007http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo:FW	/:FW	172628031:DET	▼:FW	蜜:N	桃花:N	果冰:N	茶:N	
+左:N	
+單點:N	NT:FW	$:FW	130:DET	
+、:PAUSECATEGORY	伯爵:N	冰茶:N	
+右:N	
+單點:N	NT:FW	130:DET	
+-:DASHCATEGORY	喝:Vt	起來:ASP	普普:N	
+茶:N	本身:N	無糖:N	
+會:ADV	附上:Vt	糖漿:N	讓:Vt	你:N	自行:ADV	加入:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo:FW	/:FW	172627938:DET	友人:N	的:T	餐點:N	
+▼:FW	格林:N	鹹派:N	
+NT:FW	$:FW	290:DET	
+-:DASHCATEGORY	酥脆:Vi	的:T	派皮:N	與:C	蛋:N	、:PAUSECATEGORY	起:Vt	司:N	製成:Vt	的:T	派體:N	
+有點:ADV	類似:Vt	葡式:N	蛋:N	塔:N	
+不過:C	餡料:N	是:Vt	以:P	培根:N	為:P	主體:N	
+好吃:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172627953http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo:FW	/:FW	172627959:DET	最後:N	來:ADV	看看:Vt	單點:N	的:T	甜點:N	部分:DET	吧:T	
+▼:FW	草莓:N	1001:DET	頁:M	千:DET	層:M	派:Vt	
+NT:FW	$:FW	225:DET	
+-:DASHCATEGORY	由:P	一層層:DET	薄薄:Vi	酥皮:N	堆疊:Vt	而:C	成:Vt	的:T	派皮:N	
+咬下去:Vt	後:POST	一層層:DET	依序:ADV	的:T	碎裂:Vi	開:Vt	來:ADV	
+熱鬧:Vi	而:C	十分:ADV	過癮:Vi	
+派:Vt	中:POST	夾:Vt	的:T	是:Vt	涼涼:Vi	的:T	卡士達醬:N	
+因為:C	是:Vt	醬:N	
+所以:C	吃起來:ADV	牙齒:N	不會:ADV	有:Vt	切碎:Vt	物體:N	的:T	感覺:N	
+而是:C	直接:Vi	與:C	舌頭:N	接觸:Vt	的:T	軟綿:N	口感:N	
+類似:Vt	泡芙:N	內:N	餡:N	
+口味:N	則:ADV	是:Vt	甜:Vi	中:POST	摻有:Vt	微微:A	的:T	蛋:N	、:PAUSECATEGORY	奶油味:N	
+派:Vt	中:POST	的:T	草莓:N	是:Vt	直接:Vi	切:Vt	塊:M	混入:Vt	
+好吃:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172628034http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo:FW	/:FW	172628043:DET	▼:FW	可娜麗:N	
+NT:FW	$:FW	85:DET	
+-:DASHCATEGORY	原本:ADV	期待:Vt	的:T	可娜麗:N	
+可:ADV	麗露:N	
+吃起來:ADV	外皮:N	過:ADV	硬:Vi	、:PAUSECATEGORY	內:N	餡:N	過:ADV	乾:Vi	
+而且:C	香草味:N	過:ADV	濃:Vi	
+有點:ADV	不:ADV	太:ADV	自然:Vi	
+令:Vt	我:N	有點:ADV	失望:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172628049http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo:FW	/:FW	172628055:DET	▼:FW	覆盆子:N	奶酥:N	塔:N	
+NT:FW	$:FW	155:DET	
+-:DASHCATEGORY	塔體:N	甜:Vi	而:C	微:ADV	硬:Vi	
+搭上:Vt	軟綿:N	的:T	卡士達醬:N	
+上:N	層:N	再:ADV	鋪上:Vt	彈嫩:Vi	的:T	覆盆子:N	
+3:DET	者:N	共同:A	舞出:Vt	美妙:Vi	的:T	口感:N	
+大:Vi	口:N	一:ADV	咬:Vt	
+首先:ADV	會:ADV	是:Vt	迸裂:Vi	覆盆子:N	湧出:Vi	的:T	酸甜:Vi	果汁:N	
+它:N	透進:Vt	心:N	底:POST	的:T	冰涼感:N	
+令:Vt	人:N	印象:N	深刻:Vi	
+緊接著:ADV	迅速:Vi	的:T	穿越:Nv	卡士達醬:N	
+最後:N	
+再:ADV	用:Vt	點:M	力氣:N	切碎:Vt	塔皮:N	
+繼續:Vt	咀嚼:Vt	著:ASP	
+塔皮:N	被:P	研磨:Vt	成:Vt	小:Vi	塊:M	、:PAUSECATEGORY	覆盆:N	莓:b	變成:Vt	帶有:Vt	種子:N	的:T	果醬:N	
+與:C	卡士達醬:N	一:ADV	混:Vt	
+最終:ADV	繽紛:Vi	的:T	口味:N	終於:ADV	呈現:Vt	
+這:DET	個:M	塔:N	
+不只:ADV	膚淺:Vi	的:T	應付:Vt	著:ASP	初:POST	入口:N	中:N	的:T	那:DET	一瞬間:N	
+更:ADV	是:Vt	一路:ADV	持續:Vt	到:P	吞嚥:Vt	的:T	那:DET	一:DET	刻:M	
+美味:Vi	啊:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo/172628067http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo:FW	/:FW	172628061:DET	總:ADV	評:Vt	::COLONCATEGORY	這:DET	次:M	享用:Vt	的:T	主餐:N	有:Vt	達:Vt	一定:A	水準:N	
+不過:C	配菜:N	感覺:N	不:ADV	是:Vt	很:ADV	精緻:Vi	
+甜點:N	滿:ADV	不錯:Vi	
+價格:N	方面:N	算:Vt	中價位:N	偏:ADV	高:Vi	
+而:C	環境:N	則:ADV	走:Vi	異國風:N	
+挺:ADV	舒適:Vi	的:T	
+能:ADV	讓:Vt	人:N	放鬆:Vt	心情:N	
+下:DET	次:M	來:Vi	時:POST	
+一定:ADV	會:ADV	再:ADV	嘗嘗:Vt	不同:Vi	品:Vt	項:M	的:T	甜點:N	
+飲酒:Vi	過量:Vi	有礙:Vt	健康:Vi	未:ADV	成年:Vi	請:Vt	勿:ADV	飲酒:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	triccsegg.pixnet.net/album/photo:FW	/:FW	172628145:DET	--:DASHCATEGORY	

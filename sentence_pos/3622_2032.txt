@@ -1,0 +1,70 @@
+XQQ7W32T:FW	(:PARENTHESISCATEGORY	有得:ADV	必:ADV	有失:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	<:PARENTHESISCATEGORY	台北:N	>:PARENTHESISCATEGORY	法鬥:N	餐廳:N	胖:Vi	東西:N	廚房:N	
+Tue:FW	
+Oct:FW	
+7:DET	
+18:DET	::COLONCATEGORY	22:DET	::COLONCATEGORY	31:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	胖:Vi	東西:N	廚房:N	
+消費:N	時間:N	：:COLONCATEGORY	103:DET	年:M	/:FW	10月:N	
+地址:N	：:COLONCATEGORY	大安區:N	延吉街:N	131巷:N	2弄:N	3:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8772:DET	-:DASHCATEGORY	2893:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	星期二:N	-:DASHCATEGORY	日:N	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	30／17:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	週一:N	公休:Vi	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	元:M	起:POST	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	無:Vt	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+圖版:N	網誌:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	friendindeed9.pixnet.net/blog/post:FW	/:FW	41627890:DET	
+今天:N	要:ADV	帶:Vt	大家:N	吃:Vt	的:T	美食:N	是:Vt	壹:DET	週刊:N	介紹:Vt	的:T	法鬥:N	餐廳:N	":FW	胖:Vi	東西:N	廚房:N	":FW	
+因為:C	小編:N	實在:ADV	太:ADV	愛:Vt	法鬥:N	
+所以:C	決定:Vt	身先士卒:Vi	的:T	去:ADV	看:Vt	狗:N	
+然後:ADV	順便:ADV	吃:Vt	東西:N	
+沒有:Vt	啦:T	是:Vt	一:DET	邊:N	吃:Vt	東西:N	一:DET	邊:N	看:Vt	狗:N	der:FW	
+::COLONCATEGORY	P:FW	
+建議:Vt	大家:N	要:ADV	先:ADV	訂位:Vi	
+不然:C	他們:N	空間:N	很:ADV	小:Vi	一定:ADV	會:ADV	沒:Vt	位子:N	
+這:DET	是:Vt	入口處:N	的:T	吧台區:N	
+大概:ADV	有:Vt	六:DET	個:M	位子:N	
+比較:ADV	適合:Vi	一:DET	個人用餐:N	
+座位區:N	有:Vt	五:DET	張:M	4:DET	人:N	坐:Vi	的:T	桌子:N	
+因為:C	其它:DET	張:M	桌子:N	都:ADV	有:Vt	客人:N	
+就:ADV	不:ADV	方便:Vi	入:Vt	鏡:N	囉:T	
+餐點:N	部分:DET	以:P	::COLONCATEGORY	漢堡:N	
+義大利麵:N	
+炸:Vt	物:N	
+燉飯:Vt	
+沙拉:N	為主:Vi	
+小編:N	最近:N	吃:Vt	太多:DET	漢堡類:N	的:T	東西:N	
+所以:C	翻開:Vt	第一:DET	頁:M	就:ADV	直接:Vi	不:ADV	考慮:Vt	跳過:Vt	啦:T	
+義大利麵:N	
+燉飯:Vt	
+口味:N	滿:ADV	多樣化:Vt	的:T	
+茄汁:N	培根:N	香腸:N	義大利麵:N	
+配料:N	很:ADV	豐盛:Vi	唷:T	
+這裡:N	的:T	義大利麵:N	是:Vt	可以:ADV	加:Vt	麵:N	forfree:FW	的:T	
+對於:P	食量:N	大:Vi	的:T	人:N	來:ADV	說:Vt	
+完全:ADV	就:ADV	是:Vt	會:ADV	裂:Vi	嘴:N	笑:Vi	的:T	一:DET	件:M	大事:N	
+PS:FW	::COLONCATEGORY	小編:N	的:T	另:DET	一半:DET	又:ADV	高:Vi	又:ADV	壯:Vi	又:ADV	會:ADV	吃:Vt	
+常常:ADV	點:Vt	了:ASP	個:M	主餐:N	吃:Vt	不:ADV	飽:Vi	來:ADV	吃:Vt	我:N	的:T	
+誰:N	能:ADV	了解:Vt	我:N	的:T	心情:N	orz:FW	
+滿滿:Vi	的:T	起:Vt	司粉:N	
+老闆:N	用料:N	完全:ADV	不:ADV	手軟:Vi	
+XO:FW	醬:N	培根:N	蘑菇:N	燉飯:Vt	
+我:N	很:ADV	喜歡:Vt	吃:Vt	辣:Vi	
+但:C	對於:P	辣:Vi	的:T	接受度:N	大概:ADV	只有:ADV	小:Vi	辣:Vi	的:T	程度:N	
+詢問:Vt	過:ASP	老闆娘:N	
+她:N	說:Vt	這:DET	辣度:N	大概:ADV	比:P	泡菜:N	再:ADV	不:ADV	辣:Vi	一些:DET	
+沒想到:ADV	
+吃:Vt	的:T	第:DET	一口:ADV	
+天:N	啊:T	
+真的:ADV	太:ADV	辣:Vi	了:T	
+鼻水:N	都:ADV	流出來:Vi	了:ASP	
+整體:N	的:T	味道:N	非常:ADV	香:Vi	
+這:DET	XO:FW	醬:N	真的:ADV	很:ADV	好吃:Vi	
+但:C	對:P	我:N	來:ADV	說:Vt	太:ADV	辣:Vi	
+味道:N	有點:ADV	偏:Vt	甜:Vi	
+老實說:ADV	沒有:ADV	很:ADV	愛:Vt	
+主角:N	出現:Vi	了:T	
+可愛:Vi	的:T	胖:Vi	寶:N	才:ADV	九:DET	個:M	月:N	大:Vi	就:ADV	這麼:ADV	圓滾滾:Vi	
+太:ADV	喜歡:Vt	法鬥:N	
+但:C	有:Vt	不能:ADV	養:Vt	的:T	悲哀:Nv	
+看看:Vt	乾:Vi	過癮:Vi	囉:T	::COLONCATEGORY	

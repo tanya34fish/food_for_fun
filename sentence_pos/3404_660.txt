@@ -1,0 +1,95 @@
+Faberge:FW	(:PARENTHESISCATEGORY	你:N	的:T	大:Vi	Ｆ:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	LDTG:FW	_:FW	法法:N	小:Vi	館:N	台北:N	_:FW	大安區:N	
+Sat:FW	
+Aug:FW	
+9:DET	
+00:DET	::COLONCATEGORY	15:DET	::COLONCATEGORY	24:DET	
+2014:DET	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014.0:DET	6.27:DET	.:PERIODCATEGORY	晚餐:N	友:N	：:COLONCATEGORY	4:DET	人:N	
+餐廳:N	名稱:N	：:COLONCATEGORY	法法:N	小:Vi	館:N	完整:Vi	食記:N	請:Vt	點:N	這裡:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/vRQR:FW	
+餐廳:N	地址:N	：:COLONCATEGORY	台北市:N	延吉街:N	164:DET	號:M	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27711628:DET	綜合:A	評價:N	：:COLONCATEGORY	8.0:DET	分:M	價位:N	：:COLONCATEGORY	約:ADV	693:DET	元:M	推薦:Nv	料理:N	：:COLONCATEGORY	太:ADV	妃糖:N	海鹽:N	可:ADV	麗餅:N	::COLONCATEGORY	8.0:DET	分:M	火焰:N	橙香:N	可:ADV	麗餅:N	::COLONCATEGORY	7.6:DET	分:M	經典:N	法式:A	風味:N	可:ADV	麗餅:N	::COLONCATEGORY	6.7:DET	分:M	六:DET	年:M	以來:POST	
+一直:ADV	每:DET	週:M	出團:Vi	的:T	簡單:Vi	美食團:N	
+一直:ADV	相信:Vt	非:A	營利:Nv	才:ADV	能:ADV	不忘:Vt	味:N	初:POST	
+希望:Vt	也:ADV	能:ADV	與:P	你:N	相遇:Vi	在:P	某:DET	次:M	滿足:Vt	的:T	美味:Vi	餐桌:N	
+成為:Vt	一起:ADV	吃飯:Vi	的:T	朋友:N	
+如果:C	可以:ADV	
+但願:Vt	和:P	你:N	遍:DET	嚐:Vt	幸福:Vi	
+餐廳:N	介紹:Vt	::COLONCATEGORY	文章:N	提供:Vt	：:COLONCATEGORY	團長:N	柏蓉:N	同樣:Vi	位於:Vt	東區:N	小:Vi	餐館:N	的:T	一級:N	戰區:N	
+兩:DET	位:M	主廚:N	分別:ADV	擁有:Vt	有:Vt	藍帶:N	烘焙:Nv	以及:C	廚藝:N	證書:N	
+小店:N	小:Vi	歸小:N	
+甜點:N	及:C	鹹食:N	除:Vt	時:POST	還是:ADV	有:Vt	分:M	喔:T	
+主打:Vt	道地:Vi	的:T	法:N	是:Vt	可:Vi	麗餅:N	
+每:DET	天:M	還是:ADV	會:ADV	有:Vt	兩:DET	道:M	經典:N	法式:A	鄉村:N	菜色:N	
+讓:Vt	大家:N	輕鬆:Vi	愉快:Vi	的:T	溫暖:Vt	舒心:Vi	的:T	法式:A	鄉村:N	料理:N	
+checkpoint:FW	::COLONCATEGORY	FafaVoila:FW	法法:N	小:Vi	館:N	1:DET	.:PERIODCATEGORY	要:Vt	訂位店:N	小小:Vi	的:T	位子:N	不:ADV	多:Vi	
+建議:Vt	事先:ADV	訂位:Vi	
+2:DET	.:PERIODCATEGORY	法式:A	可:Vi	麗餅:N	這:DET	是:Vt	法式:A	可:Vi	麗餅:N	
+所以:C	量:N	不會:ADV	太多:Vi	
+推薦:Vt	料理:Vt	第一:DET	道:M	::COLONCATEGORY	太:ADV	妃糖:N	海鹽:N	可:ADV	麗餅:N	推薦度:N	：:COLONCATEGORY	90.0:DET	%:M	美味度:N	：:COLONCATEGORY	8.0:DET	價格:N	：:COLONCATEGORY	680:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=470#d:FW	2657:DET	介紹:N	--:DASHCATEGORY	一:DET	上桌:Vi	就:ADV	飄散:Vi	著:ASP	濃郁:Vi	奶油:N	太:ADV	妃糖:N	香味:N	
+是:Vt	三:DET	種:M	甜:Vi	可:Vi	麗餅:N	中:POST	最:ADV	香:Vi	的:T	
+搭配:Vt	淡淡:Vi	的:T	鹽味:N	呈現:Vt	不:ADV	膩:Vi	口:N	的:T	甜:Vi	
+是:Vt	說:Vt	我:N	個:M	人:N	對於:P	軟濡甜膩:Vi	的:T	東西:N	沒有:Vt	抵抗力:N	
+這:DET	東西:N	完完全全:ADV	符合:Vt	需求:N	阿:N	
+ｂｙ:FW	兔子:N	評價:N	--:DASHCATEGORY	濃郁:Vi	的:T	太:ADV	妃糖搭:Vt	一點點:DET	的:T	海鹽:N	提味:N	
+讓:Vt	人:N	─:FW	柏蓉:N	一口:ADV	接:Vt	一口:ADV	相當:ADV	滿足:Vt	
+超級:A	甜:Vi	
+但:C	甜:Vi	中:POST	帶:Vt	點:M	微鹹:Vi	變得:Vt	容易:Vi	入口:N	
+─:FW	兔子:N	嗜甜:Vi	者:N	不可:ADV	錯過:Vt	
+推薦:Vt	料理:Vt	第二:DET	道:M	::COLONCATEGORY	火焰:N	橙香:N	可:ADV	麗餅:N	推薦度:N	：:COLONCATEGORY	90.0:DET	%:M	美味度:N	：:COLONCATEGORY	7.6:DET	價格:N	：:COLONCATEGORY	580:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=470#d:FW	2656:DET	介紹:N	--:DASHCATEGORY	火焰:N	系列:N	的:T	可:Vi	麗餅:N	
+事:N	前:POST	看:Vt	了:ASP	好多:DET	食:N	記:Vt	都:ADV	說:Vt	是:Vt	必:ADV	點:Vt	的:T	呢:T	
+點火:Vi	之前:POST	店裡:N	會:ADV	先:ADV	關燈:Vi	
+然後:ADV	將:P	酒:N	點燃:Vt	
+慢慢:Vi	的:T	倒:ADV	在:P	薄餅:N	上:N	
+這:DET	次:M	點:N	的:T	是:Vt	橙酒:N	口味:N	
+豐厚:Vi	的:T	柳橙:N	甜味:N	和:C	酒香:N	瀰漫:Vi	在:P	口腔:N	中:POST	
+是:Vt	比較:ADV	特別:Vi	的:T	一:DET	款:M	
+ｂｙＳｔｅｌｌａ:FW	評價:N	--:DASHCATEGORY	有:Vt	做到:Vt	基本:A	的:T	桌:N	邊:N	淋:Vt	酒:N	服務:Nv	
+柳橙:N	料:N	多:ADV	實在:ADV	
+口:N	─:FW	柏蓉味:N	不錯:Vi	
+雖說:C	火燒:N	系列:N	要:ADV	多:Vi	５０:DET	塊:M	
+但:C	完全:ADV	值得:Vi	阿:N	
+─:FW	兔子:N	推薦:Vt	料理:Vt	第三:DET	道:M	::COLONCATEGORY	經典:N	法式:A	風味:N	可:ADV	麗餅:N	推薦度:N	：:COLONCATEGORY	90.0:DET	%:M	美味度:N	：:COLONCATEGORY	6.7:DET	價格:N	：:COLONCATEGORY	580:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=470#d:FW	2653:DET	介紹:N	--:DASHCATEGORY	一樣:Vi	是:Vt	蕎麥:N	餅皮:N	
+蛋黃:N	稍微:ADV	凝固感:N	的:T	熟度:N	
+像:Vt	是:Vt	淋醬:N	一般:A	的:T	包覆:Vt	在:P	火腿:N	和:C	餅皮:N	上:N	
+融合:Vt	火腿:N	的:T	鹹味:N	與:C	半熟:Vi	蛋:N	的:T	的:T	溫潤感:N	
+口感:N	十分:ADV	討喜:Vi	
+特別:Vi	一:ADV	提:Vt	旁邊:N	除了:P	有:Vt	熟:Vi	的:T	蔬菜:N	
+還:ADV	有:Vt	一:DET	小:Vi	份:M	生菜:N	
+吃起來:ADV	沒有:Vt	生菜:N	的:T	生:N	冷感:Nv	
+感覺:Vt	很:ADV	舒服:Vi	
+ｂｙ:FW	Ｓｔｅｌｌａ:FW	評價:N	--:DASHCATEGORY	第一:DET	次:M	吃:Vt	鹹味:N	可:ADV	麗餅:N	
+路邊攤:N	鮪魚:N	玉米:N	那:DET	種:M	─:FW	兔子:N	不:ADV	算:Vt	的:T	話:N	XD:FW	
+那:DET	個:M	蛋黃:N	超棒:N	的:T	
+簡簡單單:Vi	的:T	培根:N	半熟:Vi	蛋:N	
+就是:C	經典:N	又:ADV	討好:Vt	
+─:FW	柏蓉:N	以下:POST	為:P	本:DET	次:M	用餐:Vi	的:T	詳細:Vi	評分:Nv	內容:N	::COLONCATEGORY	
+口味:N	各:DET	有:Vt	喜好:N	
+僅:ADV	能:ADV	當作:Vt	參考:N	::COLONCATEGORY	滿:DET	分為:Vt	五:DET	顆:M	
+適合:Vi	朋友:N	聚餐:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	適合:Vi	情侶:N	約會:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	適合:Vi	家庭:N	聚會:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	餐廳:N	氣氛:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	價格:N	划算:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	美味:Vi	滿意:Vt	程度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	
+就:ADV	該:DET	價位:N	而言:Vt	
+服務:Nv	品質:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	綜合:A	評價:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	再次:ADV	拜訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	推薦:Nv	朋友:N	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	本:DET	次:M	消費:N	金額:N	
+飲料:N	另:DET	計:N	
+：:COLONCATEGORY	每:DET	人:N	693:DET	元:M	
+4:DET	人:N	用餐:Vi	
+用餐:Vi	建議:Vt	事項:N	：:COLONCATEGORY	1:DET	.:PERIODCATEGORY	要:Vt	訂位店:N	小小:Vi	的:T	位子:N	不:ADV	多:Vi	
+建議:Vt	事先:ADV	訂位:Vi	
+2:DET	.:PERIODCATEGORY	法式:A	可:Vi	麗餅:N	這:DET	是:Vt	法式:A	可:Vi	麗餅:N	
+所以:C	量:N	不會:ADV	太多:Vi	
+近期:N	餐友:N	分享:Vt	：:COLONCATEGORY	
+女巫店:N	
+粉雪:N	北海道:N	Cafe:FW	
+INDULGE:FW	
+FafaVoila:FW	法法:N	小:Vi	館:N	
+1789:DET	Caf:FW	é:FW	...:ETCCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/2/Food_index.php:FW	
+t=&amp:FW	
+uid:FW	=:FW	八:DET	月份:N	美食團:N	行事曆:N	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/InfoNew.php:FW	
+t=&amp:FW	
+uid:FW	=:FW	如果:C	可以:ADV	
+希望:Vt	成為:Vt	與:P	你:N	一起:ADV	吃飯:Vi	的:T	朋友:N	bonnecontinuation:FW	
+F:FW	--:DASHCATEGORY	和:P	寂寞:Vi	、:PAUSECATEGORY	忙碌:Vi	、:PAUSECATEGORY	渺小:Vi	無關:Vi	美好:Vi	的:T	食物:N	是:Vt	擁抱:Vt	生活:N	的:T	大事:N	
+不:ADV	解釋:Vt	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/f.life.plus:FW	--:DASHCATEGORY	

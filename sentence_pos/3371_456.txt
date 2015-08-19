@@ -1,0 +1,61 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	LeRubanChocolat:FW	可可:N	法朋:N	
+Wed:FW	
+Jul:FW	
+30:DET	
+19:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	53:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41177785:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+仁愛:N	醫院:N	後方:N	的:T	下午茶:N	名店:N	法朋:N	最近:N	在:P	圓環:N	附近:N	又:ADV	開:Vt	了:ASP	家:N	新:Vi	的:T	店:N	可可:N	法朋:N	
+看:Vt	名字:N	大概:ADV	也:ADV	知道:Vt	是:Vt	賣:Vt	巧克力:N	為主:Vi	的:T	店:N	吧:T	
+在:P	華視:N	後面:N	吃完:Vt	麵:N	後:POST	
+口:N	中:POST	辛辣:Vi	
+便:ADV	想:Vt	著:ASP	來:ADV	吃:Vt	點:M	甜點:N	解:Vt	辣:Vi	吧:T	
+這:DET	次:M	可可:N	法朋:N	的:T	店面:N	外觀:N	倒是:ADV	挺:ADV	讓:Vt	我:N	喜歡:Vt	
+可能:ADV	是:Vt	藍色:N	的:T	關係:N	
+覺得:Vt	比:P	本:DET	店:N	
+好看:Vi	
+這裡:N	的:T	甜點:N	以:P	巧克力:N	為主:Vi	
+除了:P	蛋糕:N	之外:POST	
+也:ADV	有:Vt	各:DET	式:M	巧克力:N	
+不過:C	蛋糕:N	的:T	部:N	
+份:N	也:ADV	不:ADV	是:Vt	每:DET	款:M	都:ADV	是:Vt	巧克力:N	
+也:ADV	有:Vt	不:ADV	是:Vt	巧克力:N	的:T	蛋糕:N	
+此外:C	也:ADV	有:Vt	一些:DET	其他:DET	小:Vi	甜點:N	可:ADV	買:Vt	
+秘密:N	＄:FW	130:DET	
+秘密:N	這:DET	款:M	蛋糕:N	是:Vt	巧克力片:N	包裹:Vt	著:ASP	兩:DET	種:M	起:POST	司:Vt	
+其實:ADV	這:DET	種:M	如:P	提袋:N	包起:Vt	的:T	蛋糕:N	
+每:DET	
+次:C	我:N	都:ADV	不:ADV	知道:Vt	要:ADV	怎麼:ADV	吃:Vt	比較:ADV	好:Vi	
+只好:ADV	一:DET	刀:M	切開:Vt	
+看看:Vt	裡面:N	
+配:Vt	著:ASP	外皮:N	巧克力:N	
+一起:ADV	入口:Vi	
+巧克力:N	偏:ADV	苦:Vi	
+但:C	裡頭:N	的:T	起:Vt	司:N	酸甜:Vi	
+兩相:ADV	交融:Vi	也:ADV	就:ADV	中和:Vi	了:ASP	味道:N	
+最:ADV	
+底:N	還:ADV	有:Vt	一:DET	層:M	巧克力:N	蛋糕:N	增加:Vt	風味:N	與:C	鬆綿:Vi	口感:N	
+相當:ADV	清爽:Vi	又:ADV	不:ADV	過於:ADV	甜:Vi	膩:Vi	
+嫣紅:N	＄:FW	90:DET	
+因為:C	內:N	用:Vt	有:Vt	低消:N	兩百:DET	
+所以:C	又:ADV	點:Vt	了:ASP	一:DET	個:M	巧克力:N	
+店員:N	又:ADV	送:Vt	了:ASP	一:DET	塊:M	草莓:N	巧克力:N	
+說:Vt	是:Vt	試:Vt	吃:Vt	
+草莓:N	巧克力:N	的:T	籽:N	挺:ADV	多:Vi	的:T	
+味道:N	的:T	話:N	則:ADV	是:Vt	偏:ADV	甜:Vi	而:C	不:ADV	太:ADV	酸:Vi	
+至於:P	草莓:N	
+味:N	我:N	覺得:Vt	算是:Vt	有點:ADV	淡:Vi	
+我:N	選:Vt	的:T	嫣紅:N	巧克力:N	
+味道:N	以:P	蔓:b	越:ADV	莓:b	為主:Vi	
+但:C	同樣:Vi	莓果:N	
+酸味:N	不:ADV	是:Vt	很:ADV	明顯:Vi	
+主要:ADV	還是:ADV	偏:ADV	甜:Vi	的:T	味道:N	
+個:M	人:N	是:Vt	覺得:Vt	沒有:Vt	很:ADV	凸顯出:Vt	蔓:b	越:ADV	莓:b	的:T	
+味道:N	來:ADV	
+LeRubanChocolat:FW	可可:N	法朋:N	
+地址:N	：:COLONCATEGORY	台北市:N	仁愛路:N	四段:N	122巷:N	24:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27008656:DET	
+一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	

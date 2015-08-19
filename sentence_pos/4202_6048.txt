@@ -1,0 +1,138 @@
+flower:FW	3:DET	(:PARENTHESISCATEGORY	周:N	花花:Vi	，:COMMACATEGORY	甲:DET	飽:Vi	沒:T	？:QUESTIONCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	淡水:N	三芝:N	老:Vi	地方:N	手工:N	小:Vi	籠:N	湯包:N	高:Vi	cp:FW	值:N	
+Thu:FW	
+Apr:FW	
+2:DET	
+22:DET	::COLONCATEGORY	40:DET	::COLONCATEGORY	31:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	老:Vi	地方:N	手工:N	小:Vi	籠:N	湯包:N	潮州:N	肉圓:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	3月:N	
+地址:N	：:COLONCATEGORY	新:Vi	北市:N	三芝:N	區淡金路:N	二段:N	21:DET	號:M	
+電話:N	：:COLONCATEGORY	0226367711:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	週一:N	公休:Vi	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	$:FW	120:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	鮮肉:N	湯包:N	、:PAUSECATEGORY	蝦仁:N	湯包:N	、:PAUSECATEGORY	綜合麵:N	、:PAUSECATEGORY	豆沙:N	小:Vi	包:Vt	
+網誌:N	好:Vi	讀:Vt	多:DET	圖:N	無:Vt	音樂版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/qP3RuL:FW	
+年輕:Vi	時:POST	的:T	夏天:N	
+很:ADV	愛:Vt	往:P	三芝:N	淺水灣:N	跑:Vi	
+北海岸:N	沿途:N	風景:N	
+能夠:ADV	吹散:Vt	許多:DET	事:N	
+青春期:N	的:T	藍色:N	和:C	大海:N	相互:ADV	呼應:Vt	
+即使:C	唯一:A	稱得上:Vt	交通:N	工具:N	的:T	只有:ADV	機車:N	而已:T	
+追風:N	意志:N	依舊:ADV	高昂:Vi	
+長大:Vi	後:POST	沒:Vt	了:ASP	時間:N	、:PAUSECATEGORY	少:Vi	了:ASP	衝勁:N	
+數十:DET	公里:M	外:POST	的:T	風景:N	
+變得:Vt	遙不可及:Vi	
+這:DET	回:M	正:ADV	逢:P	清明:N	掃墓:Vi	之際:POST	
+一:DET	行人:N	挾:Vt	著:ASP	細雨:N	
+隨意:Vi	來到:Vt	老:Vi	地方:N	用餐:Vi	
+從:P	台北:N	方向:N	出發:Vi	
+轎車:N	駛過:Vt	淡水:N	開往:Vt	淡金:N	公路:N	
+過:Vt	了:ASP	邊界:N	驛站:N	不久:N	後:POST	
+轉入:Vt	淡金路:N	一段:N	、:PAUSECATEGORY	會:ADV	接:Vt	淡金路:N	二段:N	
+老:Vi	地方:N	就:ADV	在:P	三芝:N	郵局:N	旁:N	
+招牌:N	醒目:Vi	還:ADV	蠻:ADV	好:Vi	找:Vt	的:T	
+往:P	金山:N	的:T	掃墓:Vi	人潮:N	
+碰上:Vt	淡水:N	天元宮:N	櫻花:N	祭:Vt	
+好像:ADV	所有人:N	都:ADV	講好:Vt	似的:POST	
+相約:Vi	老:Vi	地方:N	吃:Vt	中餐:N	
+門庭若市:Vi	極了:ADV	
+室:N	內:N	區:N	加上:Vt	騎樓:N	空間:N	
+座位:N	其實:ADV	不:ADV	算:Vt	少:Vi	
+但:C	人群量:N	早:ADV	超過:Vt	供需:N	平衡:Vt	
+因為:C	現場:N	實在:ADV	過於:ADV	混亂:Vi	
+建議:Vt	大家:N	自己:N	找好:Vt	位子:N	
+或是:C	目標:N	座位:N	
+再:ADV	開始:Vt	點:DET	餐:M	
+店家:N	包:Vt	小:Vi	籠:N	湯包:N	的:T	手:N	沒:ADV	停:Vt	過:ASP	
+煮:Vt	麵:N	、:PAUSECATEGORY	舀湯:Vi	亦然:Vi	
+但:C	還是:ADV	要:ADV	等上:Vt	約:ADV	半:DET	小時:N	的:T	時間:N	
+飢腸轆轆:Vi	的:T	咱們:N	
+先:ADV	從:P	小菜區:N	開始:Vt	進攻:Vt	
+前前後後:ADV	、:PAUSECATEGORY	派出:Vt	多:DET	位:M	人馬:N	前往:Vt	拿取:Vt	
+最後:N	居然:ADV	吃:Vt	了:ASP	13:DET	盤:M	之多:Vi	
+茶:N	
+各:DET	式:M	小菜:N	---:DASHCATEGORY	$:FW	30:DET	
+沒:ADV	錯:Vi	
+老:Vi	地方:N	的:T	小菜:N	均一價:N	都:ADV	是:Vt	一:DET	盤:M	30:DET	元:M	
+無論:C	你:N	只是:ADV	拿:Vt	盤豆干:N	或是:C	蒜泥:N	白肉:N	、:PAUSECATEGORY	豬腸:N	
+都:ADV	是:Vt	同:DET	價位:N	
+品質:N	都:ADV	還:ADV	不錯:Vi	
+蒜泥:N	白肉:N	蠻:ADV	好吃:Vi	的:T	
+推薦:Vt	
+鮮肉:N	湯包:N	---:DASHCATEGORY	$:FW	70:DET	
+一:DET	籠:M	八:DET	顆:M	70:DET	元:M	實在:ADV	便宜:Vi	
+湯包:N	的:T	個:M	頭:N	也:ADV	不:ADV	小:Vi	
+皮:N	薄:Vi	而:C	Ｑ:FW	彈:Vt	
+一口:ADV	咬下:Vt	湯汁:N	瞬間:N	湧出:Vi	
+十足:Vi	是:Vt	顆:M	爆漿:N	湯包:N	
+務必:ADV	小心:Vt	燙口:Vt	
+豬肉:N	餡:N	和:P	著:ASP	些許:DET	青蔥:Vi	調味:Vi	
+有效:Vi	去:ADV	除掉:Vt	豬肉:N	的:T	腥臊:Vi	
+自助區:N	有:Vt	薑絲:N	、:PAUSECATEGORY	辣椒:N	等:POST	佐料:N	
+讓:Vt	客人:N	們:N	可以:ADV	自由:Vi	搭配:Vt	
+蝦仁:N	湯包:N	---:DASHCATEGORY	$:FW	70:DET	
+因為:C	加:Vt	了:ASP	蝦仁:N	所以:C	顆:M	數:N	縮減:Vt	成:Vt	6:DET	顆:M	
+但:C	cp:FW	值:N	同樣:Vi	頗:ADV	高:Vi	
+以:P	豬肉:N	餡:N	為:Vt	基底:N	
+加入:Vt	韭黃:N	調味:Vi	
+蝦子:N	個:M	頭:N	就:ADV	小小:Vi	的:T	
+不:ADV	仔細:Vi	看:Vt	還:ADV	真:ADV	難:Vi	發現:Vt	
+湯汁:N	爆漿:N	的:T	程度:N	不:ADV	輸:Vt	鮮肉:N	湯包:N	
+帶:Vt	著:ASP	一點:DET	海鮮:N	的:T	甜味:N	
+但:C	周:N	花花:N	比較:ADV	推薦:Vt	鮮肉:N	湯包:N	就:ADV	是:Vt	
+酸辣湯:N	---:DASHCATEGORY	$:FW	35:DET	
+很多:DET	人:N	吃:Vt	湯包:N	一定:ADV	要:ADV	配:Vt	碗:N	酸辣湯:N	
+但:C	這:DET	碗:M	酸辣湯:N	實在:ADV	是:Vt	不:ADV	太:ADV	好喝:Vi	
+連:C	愛:Vt	喝:Vt	湯:N	的:T	周:N	先生:N	喝:Vt	了:ASP	一口:ADV	都:ADV	沉默:Vi	
+酸度:N	辣度:N	都:ADV	不:ADV	夠:Vi	
+味道:N	相當:ADV	清淡:Vi	
+除非:C	真的:ADV	很:ADV	想:Vt	喝:Vt	再:ADV	點:Vt	...:ETCCATEGORY	
+綜合麵:N	---:DASHCATEGORY	$:FW	55:DET	
+這:DET	碗:M	麵:N	也:ADV	是:Vt	老:Vi	地方:N	的:T	招牌:N	之:T	一:DET	
+幾乎:ADV	桌桌:DET	一:DET	碗:M	
+用料:N	相當:ADV	豐富:Vt	
+有:Vt	魚丸:N	、:PAUSECATEGORY	餃子:N	、:PAUSECATEGORY	蘿蔔:N	、:PAUSECATEGORY	豆包:N	、:PAUSECATEGORY	蛋:N	皮:N	
+魚丸:N	好吃:Vi	內:POST	餡:N	不會:ADV	太:ADV	油膩:Vi	
+蘿蔔:N	煮:Vt	得:T	軟嫩:Vi	不:ADV	帶:Vt	筋:N	入口:N	即:ADV	化:Vt	
+最:ADV	特別:Vi	的:T	就是:C	這:DET	個:M	類似:Vt	燕餃:N	的:T	東西:N	
+外頭:N	包:Vt	著:ASP	腐竹:N	、:PAUSECATEGORY	裡頭:N	則:ADV	是:Vt	豬肉:N	
+或許:ADV	是:Vt	因為:C	人潮:N	太多:Vi	
+店家:N	大量:DET	煮:Vt	麵:N	的:T	關係:N	
+麵條:N	糊爛:Vi	毫無:ADV	嚼:Vt	勁:N	了:T	
+料:Vt	跟:P	麵:N	的:T	比例:N	約莫:ADV	1:DET	::COLONCATEGORY	1:DET	
+一:DET	碗:M	吃完:Vt	還:ADV	蠻:ADV	飽:Vi	的:T	
+綜合湯:N	---:DASHCATEGORY	$:FW	45:DET	
+老:Vi	地方:N	的:T	湯頭:N	挺:ADV	不:ADV	賴:Vt	
+因為:C	加入:Vt	蘿蔔:N	的:T	關係:N	
+甜味:N	有:Vt	被:P	熬:Vt	煮出來:Vt	
+麵類:N	的:T	麵粉:N	會:ADV	滲入:Vt	湯:N	中:POST	
+破壞:Vt	原本:ADV	甘甜:Vi	的:T	味道:N	
+單純:Vi	點:M	碗湯:N	喝:Vt	起來:ASP	就:ADV	很:ADV	滿足:Vt	
+尤其:ADV	是:Vt	在:P	濕濕:Vi	冷冷:Vi	的:T	春天:N	
+魚丸湯:N	---:DASHCATEGORY	$:FW	35:DET	
+魚丸湯:N	還:ADV	附:Vt	幾:DET	塊:M	蘿蔔:N	
+很:ADV	喜歡:Vt	老:Vi	地方:N	的:T	魚丸:N	
+豆沙:N	小:Vi	包:N	---:DASHCATEGORY	$:FW	70:DET	
+本:DET	日周:N	花花:N	最:ADV	滿意:Vt	的:T	餐點:N	就:ADV	是:Vt	這:DET	道:M	了:T	
+薄:Vi	皮包:N	著:Vt	滿滿:Vi	紅:Vi	豆沙:N	
+完美:Vi	詮釋:N	何謂:Vt	
+皮:N	薄:Vi	餡:N	兒多:N	
+豆沙:N	是:Vt	店家:N	自製:Vt	
+加入:Vt	麥芽糖:N	、:PAUSECATEGORY	少許:DET	豬油:N	製成:Vt	內:N	餡:N	
+一點:DET	都:ADV	不:ADV	甜:Vi	膩:Vi	很:ADV	順口:Vi	
+要不是:C	大排長龍:Vi	要:ADV	等:Vt	很:ADV	久:Vi	
+要:ADV	我:N	一:DET	個:M	人:N	吃完:Vt	一:DET	整:DET	籠:N	都:ADV	沒:Vt	問題:N	啊:T	
+超:Vt	好吃:Vi	推薦:Vt	
+整體:N	來:ADV	說:Vt	
+周:N	花花:N	最:ADV	推薦:Vt	豆沙:N	小:Vi	包:Vt	
+老:Vi	地方:N	稱不上:Vt	非常:ADV	美味:Vi	、:PAUSECATEGORY	絕對:ADV	必:ADV	訪:Vt	的:T	餐廳:N	
+但:C	以:P	這:DET	個:M	價位:N	對映:Vi	餐點:N	內容:N	
+實在:ADV	沒:Vt	什麼:DET	好:Vi	挑剔:Vt	的:T	
+一:DET	行人:N	把:P	這裡:N	當:P	吃到:Vt	飽:Vi	在:P	點餐:N	
+11:DET	人:N	也:ADV	才:ADV	吃:Vt	了:ASP	$:FW	1350:DET	
+來:Vi	三芝:N	玩:Vt	的:T	朋友:N	
+不妨:ADV	順路:Vi	來:ADV	老:Vi	地方:N	吃:Vt	籠:N	湯包:N	唷:T	
+歡迎:Vt	加入:Vt	":FW	周花:N	花甲:N	飽:Vi	沒:Vt	":FW	粉絲團:N	
+最:ADV	新:Vi	美食:N	資訊:N	報:Vt	你:N	知:Vt	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/tenjochou:FW	

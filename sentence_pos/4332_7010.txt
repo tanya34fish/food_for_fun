@@ -1,0 +1,138 @@
+lovedach:FW	(:PARENTHESISCATEGORY	毛毛:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	眼鏡:N	咖啡:N	文青:N	日式:A	風格:N	餐食:N	
+Sun:FW	
+May:FW	
+10:DET	
+22:DET	::COLONCATEGORY	13:DET	::COLONCATEGORY	13:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	眼鏡:N	咖啡:N	
+消費:N	時間:N	：:COLONCATEGORY	2015:DET	/:FW	4:DET	
+地址:N	::COLONCATEGORY	台北市:N	大安區:N	四維路:N	52巷:N	6:DET	號:M	(:PARENTHESISCATEGORY	德安:N	公園:N	旁:N	):PARENTHESISCATEGORY	
+營業:Nv	時間:N	：:COLONCATEGORY	週日:N	-:DASHCATEGORY	週四:N	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	週五:N	-:DASHCATEGORY	週六:N	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	no:FW	
+有無:Vt	包廂:N	：:COLONCATEGORY	no:FW	
+推薦:Vt	菜色:N	：:COLONCATEGORY	抹茶:N	
+圖文:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	lovedach.pixnet.net/blog/post:FW	/:FW	419967640:DET	
+PTT:FW	文字版:N	::COLONCATEGORY	毛毛:N	還:ADV	滿少:Vi	為了:P	
+文青:N	咖啡店:N	
+特地:ADV	跑去:Vt	的:T	
+畢竟:ADV	個:M	人:N	還是:ADV	比較:Vt	prefer:FW	食物:N	&:FW	gt:FW	
+環境:N	
+笑:Vi	
+不過:C	這:DET	家:M	店:N	吸引:Vt	毛毛:N	的:T	除了:P	用餐:Nv	時間:N	無:Vt	限制:N	之外:POST	
+最:ADV	吸引:Vt	毛毛:N	的:T	就是:C	抹:Vt	茶:N	和:C	他們:N	的:T	日式:A	餐點:N	了:T	
+剛好:ADV	又:ADV	和:P	朋友:N	有:Vt	約:ADV	
+眼鏡:N	咖啡:N	湊巧:Vi	同時:N	都:ADV	是:Vt	我們:N	的:T	口袋:N	名單:N	
+所以:C	就:ADV	決定:Vt	來:ADV	試試看:Vt	
+以:P	捷運:N	來:ADV	說:Vt	
+眼鏡:N	咖啡:N	離:P	
+捷運:N	大安:N	站:Vi	
+比較:ADV	近:Vi	
+信義:N	安和:Vi	站:Vi	會:ADV	稍微:ADV	遠:Vi	一點:ADV	
+門面:N	招牌:N	不:ADV	明顯:Vi	
+但:C	就:ADV	在:P	公園:N	正:ADV	旁邊:N	
+所以:C	很:ADV	好:Vi	找:Vt	
+小小:Vi	的:T	打燈:Vi	木頭:N	招牌:N	
+看到:Vt	
+禁止:Vt	拍照:Vi	
+的:T	標示:N	時:POST	有點:ADV	納悶:Vt	
+想:Vt	說:Vt	不能:ADV	拍照:Vi	的:T	話:N	怎麼:ADV	還:ADV	有:Vt	那麼多:DET	食記:N	
+後來:N	詢問:Vt	店家:N	才:ADV	知道:Vt	
+可以:ADV	拍照:Vi	
+但是:C	不可以:ADV	站起來:Vi	走動:Vi	拍照:Vi	
+連:C	離開:Vt	位子:N	一:DET	步:M	起來:Vi	拍照:Vi	店員:N	都:ADV	會:ADV	有:Vt	意見:N	的:T	程度:N	
+所以:C	...:ETCCATEGORY	只好:ADV	進行:Vt	一:DET	個:M	屁股:N	黏住:Vt	、:PAUSECATEGORY	扭動:Vt	上身:N	拍照:Vi	的:T	節奏:N	了:T	
+店家:N	其實:ADV	很:ADV	小:Vi	
+室:N	內:N	的:T	部分:DET	是:Vt	吧檯:N	的:T	位子:N	+:FW	一:DET	組:M	4:DET	人:N	位:N	+:FW	兩:DET	組:M	2:DET	人:N	位:Vt	
+另外:C	還:ADV	有:Vt	室:N	外:N	的:T	位子:N	
+有:Vt	屋簷:N	
+冬天:N	坐:Vi	外面:N	其實:ADV	還:ADV	OK:FW	
+夏天:N	就:ADV	比較:ADV	煎熬:Vt	了:ASP	
+位子:N	不:ADV	多:Vi	加上:C	沒有:Vt	用餐:Nv	時間:N	的:T	限制:N	
+所以:C	有沒有:ADV	位子:N	真的:ADV	要:ADV	看:Vt	運氣:N	
+看到:Vt	滿多:DET	人:N	帶:Vt	著:ASP	筆:M	電:N	來:Vi	這邊:N	工作:Vi	的:T	
+可能:ADV	一:ADV	用:Vt	就:ADV	很:ADV	長:Vi	時間:N	
+所以:C	位子:N	的:T	部分:DET	比較:ADV	難說:Vt	
+這:DET	一:DET	櫃:N	裡面:N	擺滿:Vt	了:ASP	眼鏡:N	
+為了:P	符合:Vt	店家:N	名稱:N	XD:FW	
+因為:C	不能:ADV	站起來:Vi	拍照:Vi	...:ETCCATEGORY	所以:C	照片:N	就:ADV	只:ADV	能:ADV	遠觀:N	了:T	OTZ:FW	
+從:P	室:N	外:N	拍:Vt	進去:Vi	
+水杯:N	採:Vt	自助式:N	的:T	
+雖然:C	不能:ADV	站起來:Vi	拍照:Vi	
+但是:C	可以:ADV	起來:Vi	倒水:N	XD:FW	
+室:N	內室:N	外:N	都:ADV	有:Vt	擺水杯:N	和:C	水壺:N	
+飲料:N	的:T	MENU:FW	咖啡:N	、:PAUSECATEGORY	茶:N	、:PAUSECATEGORY	牛奶類:N	的:T	飲品:N	、:PAUSECATEGORY	冰飲:Vt	、:PAUSECATEGORY	啤酒:N	等等:POST	
+餐點:N	的:T	MENU:FW	飯糰:N	、:PAUSECATEGORY	鬆餅:N	、:PAUSECATEGORY	沙拉:N	、:PAUSECATEGORY	餅乾:N	、:PAUSECATEGORY	蛋糕:N	
+沒:ADV	看到:Vt	店家:N	有:Vt	擺:Vt	蛋糕:N	的:T	冰櫃:N	
+所以:C	得:ADV	詢問:Vt	店員:N	了:T	
+餐點:N	選擇:Vt	很少:Vi	
+感覺:N	就是:C	一:DET	家:M	主打:Nv	給:Vt	你:N	點:Vt	飲料:N	好好:Vi	享受:Vt	優:Vi	哉:T	下午:N	的:T	地方:N	
+不:ADV	是:Vt	個:M	要:ADV	你:N	來:ADV	吃:Vt	飽飽:Vi	的:T	地方:N	
+貝禮詩奶酒:N	咖啡:N	190:DET	元:M	
+熱:Vt	
+朋友點:N	的:T	
+不:ADV	喝:Vt	咖啡:N	就:ADV	沒:ADV	嘗試:Vt	了:ASP	
+朋友:N	說:Vt	還:ADV	不錯:Vi	
+南非:N	紅葉:N	茶:N	200:DET	元:M	一樣:Vi	是:Vt	朋友點:N	的:T	
+黑豆:N	抹茶玄米:N	牛奶:N	180:DET	元:M	這:DET	個:M	當然:ADV	就是:C	毛毛:N	的:T	囉:T	
+中間:N	的:T	是:Vt	玄:Vi	米粒:N	
+每:DET	口:M	也:ADV	幾乎:ADV	都:ADV	喝:Vt	的:T	到:P	玄米:N	
+除了:P	上面:N	撒:Vt	的:T	裡面:N	也:ADV	有:Vt	不少:DET	
+杯子:N	燙:Vt	
+小心:Vt	拿:Vt	喔:T	
+濃郁度:N	來:ADV	說:Vt	毛毛:N	覺得:Vt	還:ADV	不錯:Vi	
+抹:Vt	茶:N	的:T	香氣:N	表現:Vt	OK:FW	
+小小:Vi	可惜:Vi	是:Vt	甜度:N	無法:ADV	調整:Vt	
+應該:ADV	是:Vt	含:Vt	糖抹:Vt	茶粉:N	泡:Vt	的:T	
+以:P	價位:N	來:ADV	說:Vt	算是:Vt	很:ADV	貴:Vi	一:DET	杯:M	
+但:C	整體:N	來:ADV	說:Vt	抹:Vt	茶:N	的:T	品質:N	是:Vt	不錯:Vi	
+餐點:N	現:ADV	做:Vt	得:T	比較:ADV	久:Vi	
+沒想到:ADV	毛毛:Vi	的:T	抹:Vt	茶:N	更:ADV	久:Vi	
+反正:ADV	和:P	朋友:N	聊:Vt	著:ASP	聊:Vt	著:ASP	
+餐點:N	也:ADV	就:ADV	上:Vt	齊:Vi	了:T	
+鹽味:N	鮭魚:N	飯糰:N	+:FW	紫蘇梅:N	青苔:N	飯糰:N	260:DET	元:M	當天:N	剛好:ADV	想:Vt	吃:Vt	鹹:Vi	的:T	食物:N	
+不然:C	實在:ADV	很:ADV	想:Vt	點:Vt	他們:N	的:T	鬆餅:N	來:ADV	吃:Vt	
+他們:N	家:N	的:T	抹:Vt	茶:N	甜甜圈:N	鬆餅:N	很:ADV	吸引:Vt	毛毛:N	
+同行:Vi	的:T	朋友:N	竟然:ADV	又:ADV	吃飽:Vi	了:ASP	才:ADV	來:ADV	
+在:P	無法:ADV	分食:Vt	的:T	狀況:N	下:POST	
+還是:ADV	算了:Vi	
+不然:C	會:ADV	吃:Vt	不:ADV	完:Vi	
+裡面:N	附:Vt	雞蛋:N	沙拉:N	、:PAUSECATEGORY	兩樣:Vi	每:DET	日:M	配菜:N	、:PAUSECATEGORY	日本:N	漬物:N	
+兩:DET	顆:M	飯糰:N	總共:ADV	使用:Vt	一:DET	碗:M	飯:N	的:T	份量:N	來:ADV	製作:Vt	
+念:Vt	營養:N	的:T	毛毛:N	小:Vi	知識:N	補充:Vt	::COLONCATEGORY	一:DET	碗:M	飯:N	的:T	熱量:N	約:ADV	為:Vt	280:DET	大:Vi	卡:N	
+配菜:N	、:PAUSECATEGORY	日本:N	漬物:N	的:T	份量:N	都:ADV	是:Vt	一點點:DET	
+非常:ADV	日式:A	的:T	小:Vi	份量:N	風格:N	
+味道:N	也:ADV	很:ADV	清爽:Vi	好吃:Vi	
+裡面:N	包:Vt	著:ASP	鹽味:N	鮭魚:N	
+滿:ADV	好吃:Vi	的:T	
+份量:N	一般:POST	
+整體:N	很:ADV	扎實:Vi	
+米飯:N	的:T	口感:N	毛毛:N	倒是:ADV	很:ADV	喜歡:Vt	
+其實:ADV	自己:N	也:ADV	很:ADV	驚訝:Vt	自己:N	會:ADV	點:Vt	飯糰:N	來:ADV	吃:Vt	
+不:ADV	愛:Vt	吃:Vt	米飯:N	的:T	人:N	
+純粹:ADV	是:Vt	因為:C	鹹食:N	又:ADV	可以:ADV	吃飽:Vi	的:T	只有:ADV	這:DET	個:M	選擇:N	
+好在:ADV	這:DET	米飯:N	的:T	口感:N	完全:ADV	合:Vt	毛毛:N	的:T	挑剔:Nv	嘴:N	
+是:Vt	偏:ADV	硬:Vi	且:C	粒粒:DET	分明:Vi	的:T	口感:N	
+毛毛:N	最:ADV	愛:Vt	這:DET	種:M	口感:N	的:T	米飯:N	了:T	
+紫蘇梅:N	青苔:N	飯糰:N	也:ADV	不錯:Vi	
+基本:N	上:N	米飯:N	只要:C	表現:Vt	好:Vi	
+就:ADV	已經:ADV	成功:Vi	了:ASP	8成:DET	
+其他:DET	都:ADV	不至於:ADV	太:ADV	差:Vi	了:T	
+看起來:ADV	繽紛:Vi	但:C	吃起來:ADV	相對:Vi	來:ADV	說:Vt	是:Vt	比較:ADV	簡單:Vi	的:T	口味:N	
+紫蘇梅:N	和:C	海苔:N	的:T	味道:N	、:PAUSECATEGORY	白:Vi	芝麻:N	的:T	香氣:N	真是:ADV	不容:ADV	小覷:Vt	
+整體:N	還:ADV	不錯:Vi	
+吃到:Vt	後來:N	覺得:Vt	米飯:N	的:T	份量:N	對:P	毛毛:N	來:ADV	說:Vt	還是:ADV	多:Vi	了:ASP	點:M	
+最後:N	還:ADV	剩下:Vt	一點:DET	沒:ADV	吃完:Vt	
+*:FW	*:FW	整體:N	小小:Vi	評價:N	*:FW	*:FW	一:DET	份飯:N	糰餐:N	的:T	整體:N	份量:N	對:P	毛毛:N	來:ADV	說:Vt	很:ADV	剛好:Vi	
+食量:N	大:Vi	一點:ADV	的:T	人:N	可能:ADV	會:ADV	覺得:Vt	吃:Vt	不:ADV	飽:Vi	喔:T	
+而且:C	以:P	這:DET	個:M	價格:N	來:ADV	說:Vt	
+毛毛:N	個:M	人:N	覺得:Vt	高:Vi	了:ASP	些:ADV	
+但是:C	其實:ADV	店家:N	也:ADV	沒有:Vt	限制:N	用餐:Nv	時間:N	
+所以:C	這:DET	個:M	價格:N	也:ADV	是:Vt	情有可原:Vi	
+價格:N	都:ADV	偏:ADV	高:Vi	
+適合:Vi	大家:N	來:ADV	這邊:N	坐:Vi	一:DET	整:DET	個:M	下午:N	會:ADV	比較:ADV	值得:Vi	
+PS:FW	.:PERIODCATEGORY	店家:N	有:Vt	提供:Vt	插座:N	可以:ADV	使用:Vt	
+但:C	不:ADV	是:Vt	每:DET	個:M	位子:N	都:ADV	有:Vt	
+●:FW	記得:Vt	幫:P	毛毛:N	按:Vt	個:M	『:PARENTHESISCATEGORY	讚:Vt	』:PARENTHESISCATEGORY	和:C	『:PARENTHESISCATEGORY	推:Vt	』:PARENTHESISCATEGORY	
+這些:DET	都:ADV	是:Vt	支持:Vt	著:ASP	毛毛:N	寫:Vt	文:N	的:T	動力:N	喔:T	●:FW	●:FW	有:Vt	任何:DET	想:Vt	和:C	毛毛:N	說:Vt	的:T	話:N	、:PAUSECATEGORY	分享:Vt	的:T	事:N	、:PAUSECATEGORY	意見:N	或是:C	問題:N	
+都:ADV	歡迎:Vt	留言:N	和:C	毛毛:N	交流:Vi	●:FW	--:DASHCATEGORY	

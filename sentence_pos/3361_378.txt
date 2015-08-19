@@ -1,0 +1,193 @@
+hanamaru:FW	8:DET	(:PARENTHESISCATEGORY	清清:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	す:FW	き:FW	家:M	SUKIYA:FW	-:DASHCATEGORY	古亭:N	7:DET	號:M	排到:Vt	天荒地老:Vi	
+Sun:FW	
+Jul:FW	
+27:DET	
+21:DET	::COLONCATEGORY	09:DET	::COLONCATEGORY	05:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	す:FW	き:FW	家:M	SUKIYA:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	二段:N	50:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23584169:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	24:DET	小時:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	59:DET	-:DASHCATEGORY	200:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	牛丼:N	、:PAUSECATEGORY	咖哩飯:N	
+官網:N	：:COLONCATEGORY	無:Vt	
+圖文:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.ipeen.com.tw/comment:FW	/:FW	702768:DET	
+哈:ADV	哈哈:ADV	
+自從:P	7:DET	/:FW	10:DET	試:N	營運:Nv	
+排隊:Vi	排:Vt	2:DET	-:DASHCATEGORY	3:DET	小時:N	的:T	誇張:Nv	情形:N	已:ADV	聽說:Vt	
+得知:Vt	此:DET	盛況:N	後:POST	
+す:FW	き:FW	家:M	SUKIYA:FW	就:ADV	是:Vt	
+我:N	的:T	口袋:N	名單:N	
+他:N	是:Vt	日本:N	三:DET	大:Vi	連鎖:A	品牌:N	之:T	一:DET	的:T	す:FW	き:FW	家:N	來:Vi	台:N	展店:N	
+從:P	國外:N	來:Vi	的:T	總是:ADV	特別:Vi	吸引人:Vi	
+照片:N	拍:Vt	的:T	時候:N	正在:ADV	隊伍:N	中:POST	
+大概:ADV	下午:N	一點:DET	到:P	此:DET	店:N	
+等:POST	啊:T	等等:POST	啊:T	等:POST	儘管:C	身體:N	不:ADV	舒服:Vi	
+還是:ADV	硬:Vi	要:ADV	來:ADV	吃:Vt	XD:FW	
+紅:Vi	黃大:N	招牌:N	
+搭配:Vt	白色:N	字:N	
+簡單:Vi	又:ADV	顯眼:Vi	
+約:ADV	等到:P	快:Vi	2:DET	點:M	時:POST	終於:ADV	到:P	我們:N	了:T	
+終於:ADV	可以:ADV	吹:Vt	冷氣:N	和:C	坐下:Vi	了:ASP	
+排:Vt	得:T	滿:DET	身:N	汗:N	
+累:Vt	慘:Vi	
+一:ADV	坐下:Vi	後:POST	店員:N	立馬帶位:N	
+右邊:N	位置:N	有:Vt	部分:DET	有:Vt	沙發:N	座椅:N	+:FW	靠背:N	椅子:N	
+左邊:N	多:ADV	為:Vt	吧台:N	座位:N	
+椅:N	
+子:N	沒有:Vt	靠背:N	
+左:N	們:N	是:Vt	坐:Vi	偏:Vt	吧檯:N	位置:N	
+有得:ADV	坐:Vi	都:ADV	好:Vi	
+桌:N	上:N	的:T	衛生紙:N	和:C	服務:Nv	鈴:N	
+按鈴:Vi	後:POST	店員:N	就:ADV	會:ADV	立刻:ADV	過來:Vi	XD:FW	
+餐具:N	筷子:N	和:C	湯匙:N	
+都:ADV	是:Vt	酒:N	紅色:N	
+醃:Vt	漬薑絲:N	好像:ADV	是:Vt	日本人:N	的:T	最愛:N	
+要:ADV	搭配:Vt	吃:Vt	可:ADV	自行:ADV	取用:Vt	
+左邊:N	應:ADV	是:Vt	七:DET	味:M	粉:N	
+MENU:FW	封面:N	為主:Vi	打:Vt	的:T	牛:N	丼:b	
+主要:ADV	都:ADV	是:Vt	牛丼:N	
+有:Vt	約:ADV	6:DET	種:M	口味:N	可以:ADV	供:Vt	挑選:Vt	
+份量:N	有:Vt	4:DET	種:M	可以:ADV	選擇:Vt	
+可以:ADV	自行:ADV	斟酌:Vt	份量:N	點:Vt	適合:Vi	的:T	碗:N	
+單價:N	真的:ADV	平價:N	
+59:DET	-:DASHCATEGORY	149:DET	元:M	
+若:C	不:ADV	愛:Vt	牛肉:N	的:T	下方:N	有:Vt	咖哩:N	可:ADV	供:Vt	選擇:Vt	
+有:Vt	四:DET	種:M	口味:N	
+單價:N	79:DET	-:DASHCATEGORY	149:DET	元:M	
+單點:N	
+另:C	也:ADV	有:Vt	其他:DET	單點:N	
+或是:C	兒童餐:N	
+也:ADV	考量:Vt	到:P	帶:Vt	小孩:N	來:Vi	的:T	家庭:N	^:FW	^:FW	
+有:Vt	空心菜:N	套餐:N	
+加價:Vi	30:DET	元:M	
+-:DASHCATEGORY	空心菜:N	一:DET	小盤:N	+:FW	味噌湯:N	1:DET	碗:M	
+和:C	
+可樂餅:N	套餐:N	
+加價:Vi	50:DET	元:M	
+-:DASHCATEGORY	可樂餅:N	多:DET	塊:M	+:FW	味噌湯:N	1:DET	碗:M	
+按下:Vt	服務:Nv	鈴:N	之後:POST	店員:N	立馬:N	拿:Vt	手機:N	幫忙:Vt	點:M	餐:N	
+好:ADV	先進:Vi	
+等待:Vt	中:POST	先:ADV	喝:Vt	口:N	店員:N	到:Vt	的:T	茶:N	
+微糖:N	麥茶:N	
+可以:ADV	續:ADV	
+淡淡:Vi	的:T	麥茶:N	味道:N	加上:Vt	清涼:Vi	的:T	冰塊:N	
+無疑:ADV	是:Vt	杯:M	解渴:Vi	的:T	飲料:N	
+等待:Vt	中:POST	看:Vt	看店:Vi	內:POST	環境:N	
+牆:N	上:N	或:C	柱子:N	上:POST	多:ADV	是:Vt	張貼:Vt	店:N	內:N	的:T	餐點:N	
+很:ADV	推薦:Vt	牛丼:N	野菜:N	套餐:N	
+中碗:N	
+因為:C	只要:C	$:FW	99:DET	
+我們:N	坐:Vi	的:T	是:Vt	面向:Vt	廚房:N	正中央:N	的:T	位置:N	
+我們:N	這邊:N	位置:N	是:Vt	個:M	較:ADV	長:Vi	的:T	半圓:N	
+中間:N	部分:DET	是:Vt	結帳:Vi	及:C	店員:N	走動:Vi	的:T	空間:N	
+看見:Vt	店:N	內:N	至少:ADV	7:DET	-:DASHCATEGORY	8:DET	位:M	店員:N	忙東忙西:Vi	到處:ADV	奔波:Vi	以:P	應付:Vt	這:DET	一:DET	群:M	貪吃鬼:N	XD:FW	
+仍:ADV	有:Vt	缺:Vt	人:N	喔:T	
+有:Vt	興趣:N	可以:ADV	前往:Vt	應徵:Vt	=:FW	D:FW	
+時薪:N	好像:ADV	125:DET	
+大夜班:N	時薪:N	175:DET	
+牆:N	上:N	滿滿:Vi	食物:N	的:T	海報:N	
+看:Vt	了:ASP	都:ADV	好:Vi	想:Vt	吃:Vt	
+蔥溫玉牛:N	丼:b	
+中間:N	那:DET	顆:M	蛋:N	太:ADV	吸引人:Vi	
+中碗:N	也:ADV	是:Vt	$:FW	99:DET	
+餐點:N	來:ADV	也:ADV	
+超值:Vi	碗牛丼:N	野菜:N	套餐:N	-:DASHCATEGORY	$:FW	119:DET	
+超值:Vi	碗:N	是:Vt	牛肉:N	多:Vi	1.3:DET	倍:N	
+想:Vt	多:ADV	吃:Vt	肉:N	的:T	可以:ADV	點:Vt	超值:Vi	碗:N	
+以:P	滿足:Vt	想:Vt	吃:Vt	肉:N	的:T	慾望:N	
+牛肉:N	大小:N	剛好:ADV	適合:Vi	入口:N	
+味道:N	滿滿:Vi	是:Vt	醬汁:N	
+搭配:Vt	被:P	洋蔥:N	吃:Vt	實在:Vi	絕配:N	
+好:ADV	好吃:Vi	
+中:N	碗:N	的:T	碗:N	還:ADV	有:Vt	人:N	在:P	上頭:N	
+而:C	不:ADV	是:Vt	用:P	一般:A	素色:N	的:T	碗:N	
+覺得:Vt	蠻:ADV	有:Vt	特色:N	的:T	=:FW	ˇ:FW	=:FW	
+蒜:N	炒:Vt	空心菜:N	
+每:ADV	一口:ADV	空心菜:N	都:ADV	沾滿:Vt	蒜頭味:N	
+空心菜:N	炒:Vt	的:T	脆綠:Vi	
+沒有:Vt	過:ASP	老:Vi	
+火侯:N	拿捏:Vt	恰到好處:Vi	
+味噌湯:N	
+滿:DET	是:Vt	料:N	的:T	一:DET	碗:M	味噌湯:N	
+裏頭:N	有蔥:N	、:PAUSECATEGORY	豆腐:N	、:PAUSECATEGORY	海帶:N	
+味道:N	比:P	外頭:N	喝:Vt	過:ASP	的:T	味噌湯:N	味道:N	淡:Vi	
+尚:ADV	有:Vt	味噌:N	味:N	
+每:ADV	一口:ADV	都:ADV	有:Vt	滿滿:Vi	的:T	料:N	很:ADV	喜歡:Vt	
+但是:C	份量:N	約:ADV	半:DET	碗:M	
+有:Vt	些少:A	
+希望:Vt	下:DET	次:M	可以:ADV	裝:Vt	至少:ADV	8:DET	分:M	滿:ADV	
+中碗:N	特製:Nv	咖哩:N	$:FW	89:DET	
+分量:N	適中:Vi	
+咖哩:N	和:C	飯:N	各:DET	半:DET	
+咖哩:N	吃起來:ADV	微:ADV	辣:Vi	
+但:C	因為:C	我:N	不:ADV	太:ADV	吃:Vt	辣:Vi	
+吃:Vt	一口:ADV	咖哩:N	要:ADV	喝:Vt	一下:N	麥茶:N	才:ADV	能:ADV	吃下:Vt	一口:ADV	XD:FW	
+肉塊:N	至少:ADV	6:DET	-:DASHCATEGORY	7:DET	塊:M	
+都:ADV	是:Vt	比:P	姆指:N	大:Vi	的:T	肉塊:N	
+而:C	不:ADV	是:Vt	肉片:N	
+還:ADV	有:Vt	一定:ADV	要:ADV	有的:DET	紅蘿蔔:N	
+吃:Vt	的:T	時候:N	好像:ADV	沒:ADV	吃到:Vt	洋蔥:N	@:FW	@:FW	
+但:C	我:N	想:Vt	應該:ADV	是:Vt	煮:Vt	得:T	軟:Vi	爛:Vi	
+所以:C	吃:Vt	不:ADV	出來:Vi	
+終於:ADV	一:DET	圓:M	我:N	想:Vt	吃:Vt	咖哩:N	的:T	小小:Vi	願望:N	
+滿足:Vt	
+注意到:Vt	一:DET	旁:N	有:Vt	配菜:N	/:FW	醃漬物:N	
+驚喜:Vi	XD:FW	
+吃起來:ADV	鹹鹹:Vi	脆脆:Vi	的:T	
+口感:N	很:ADV	棒:Vi	
+搭配:Vt	咖哩:N	也:ADV	增加:Vt	新鮮感:N	
+讓:Vt	味道:N	轉換:Nv	較:ADV	不:ADV	容易:Vi	膩:Vi	
+我:N	覺得:Vt	白飯:N	也:ADV	要:ADV	稱讚:Vt	一下:N	
+煮:Vt	的:T	粒粒:DET	分明:Vi	沒有:Vt	黏口:N	
+是:Vt	我:N	很:ADV	喜歡:Vt	的:T	口感:N	
+咖哩飯:N	的:T	飯:N	也:ADV	是:Vt	重點:N	之:T	一:DET	
+不能:ADV	因為:C	咖哩:N	是:Vt	降:Vt	飯:N	就:ADV	可以:ADV	馬虎:Vi	
+要是:C	黏:Vt	飯粒:N	配上:Vt	咖哩:N	整:DET	個:M	口感:N	就:ADV	偏:ADV	軟:Vi	爛:Vi	不:ADV	是:Vt	好吃:Vi	的:T	咖哩飯:N	了:T	
+因此:C	連:C	咖哩飯:N	都:ADV	很:ADV	用心:Vi	製作:Vt	
+吃:Vt	得:T	出來:Vi	
+看到:Vt	帳單:N	真是:ADV	驚喜:Vi	
+2:DET	人才:N	208:DET	元:M	
+且:C	不:ADV	收:Vt	服務費:N	
+真:ADV	是:Vt	佛心:N	來著:T	
+吃完:Vt	時:POST	才:ADV	有空:Vi	拍:Vt	店:N	門口:N	
+店面:N	乾乾淨淨:Vi	且:C	擺上:Vt	許多:DET	樣品:N	供:Vt	客人:N	參考:Vt	
+上方:N	有:Vt	茶水:N	可以:ADV	自行:ADV	取用:Vt	
+吃完:Vt	時:POST	約:ADV	仍:ADV	有:Vt	20:DET	公尺:M	的:T	排隊:Nv	人潮:N	
+大家:N	為了:P	吃:Vt	真的:ADV	很:ADV	拚:Vi	XD:FW	
+*:FW	*:FW	小:N	插曲:N	*:FW	*:FW	
+其實:ADV	剛:ADV	進去:Vi	店家:N	坐:Vi	時:POST	突:ADV	人:N	有:Vt	個:M	女生:N	疑似:Vt	中暑:Vi	昏:Vi	在:P	地:N	@:FW	@:FW	
+大家:N	都:ADV	嚇:Vt	道:N	且:C	很:ADV	驚恐:Vi	@:FW	@:FW	
+男性:N	朋友:N	馬上:ADV	請:Vt	店員:N	幫忙:Vt	叫:Vt	救護車:N	
+但:C	不:ADV	一會:N	女生:N	清醒:Vi	
+男性:N	朋友:N	將:P	女生:N	扶到:Vt	一:DET	旁:N	椅子:N	上:N	坐:Vi	著:ASP	
+請:Vt	店員:N	先:ADV	不用:ADV	叫:Vt	車:N	但:C	請:Vt	給予:Vt	水:N	
+和:C	冰塊:N	
+女生:N	坐:Vi	著:ASP	後:POST	想:Vt	吐:Vt	
+男性:N	朋友:N	向:P	店員:N	索取:Vt	是否:ADV	有:Vt	袋子:N	
+店家:N	也:ADV	很:ADV	熱心:Vt	提供:Vt	外帶:Nv	袋子:N	
+但:C	休息:Vi	後:POST	情況:N	仍:ADV	未:ADV	改善:Vt	
+還是:ADV	叫:Vt	了:ASP	救護車:N	....:ETCCATEGORY	
+店家:N	應變:Nv	能力:N	佳:Vi	
+也:ADV	立即:ADV	協助:Vt	客人:N	す:FW	き:FW	家:M	SUKIYA:FW	
+古亭店:N	
+：:COLONCATEGORY	【:PARENTHESISCATEGORY	台北:N	】:PARENTHESISCATEGORY	す:FW	き:FW	家:M	SUKIYA:FW	-:DASHCATEGORY	古亭:N	7:DET	
+號:N	排到:Vt	天荒地老:Vi	的:T	平價:N	丼飯:N	
+咖哩:N	也:ADV	美味:Vi	す:FW	き:FW	家:M	SUKIYA:FW	
+古亭店:N	
+：:COLONCATEGORY	【:PARENTHESISCATEGORY	台北:N	】:PARENTHESISCATEGORY	す:FW	き:FW	家:N	
+SUKIYA:FW	-:DASHCATEGORY	古亭:N	7:DET	號:M	排到:Vt	天荒地老:Vi	的:T	平價:N	丼飯:N	
+咖哩:N	也:ADV	美味:Vi	す:FW	き:FW	家:M	SUKIYA:FW	
+古亭店:N	
+：:COLONCATEGORY	【:PARENTHESISCATEGORY	台北:N	】:PARENTHESISCATEGORY	
+す:FW	き:FW	家:M	SUKIYA:FW	-:DASHCATEGORY	古亭:N	7:DET	號:M	排到:Vt	天荒地老:Vi	的:T	平價:N	丼飯:N	
+咖哩:N	也:ADV	美味:Vi	
+呼籲:Vt	大家:N	
+天氣:N	熱:Vt	排隊:Vi	吃:Vt	美食:N	可以:ADV	
+但:C	一定:ADV	要:ADV	視:P	自己:N	身體:N	狀況:N	而:C	定:Vt	
+量力而為:Vi	
+要:ADV	隨時:ADV	補充:Vt	水分:N	才:ADV	不會:ADV	被:P	熱昏:Vi	

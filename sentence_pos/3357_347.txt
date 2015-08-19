@@ -1,0 +1,140 @@
+iioouu:FW	(:PARENTHESISCATEGORY	小萍:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	：:COLONCATEGORY	米其林:N	一:DET	星港點:N	登台:Vi	☆:FW	添:Vt	好運:N	
+Sat:FW	
+Jul:FW	
+26:DET	
+14:DET	::COLONCATEGORY	53:DET	::COLONCATEGORY	28:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	添:Vt	好運:N	
+品嘗:Vt	日期:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	忠孝西路:N	一段:N	36:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2370:DET	-:DASHCATEGORY	7078:DET	
+---:DASHCATEGORY	
+網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	anrine910070.pixnet.net/blog/post:FW	/:FW	184126431:DET	
+---:DASHCATEGORY	因為:C	念念不忘:Vt	幾:DET	年:M	前:POST	在:P	香港:N	吃到:Vt	的:T	添:Vt	好運:N	
+所以:C	在:P	得知:Vt	開幕:Vi	時:POST	決定:Vt	熱血:N	一:DET	次:M	
+早起:Vi	去:ADV	排隊:Vi	
+早上:N	九:DET	點:M	半:DET	前面:N	大概:ADV	才:ADV	十五:DET	個:M	人:N	吧:T	
+還好:ADV	沒有:Vt	我們:N	想像:Vt	的:T	瘋狂:Vi	
+店家:N	貼心:Vi	搬出:Vt	椅子:N	讓:Vt	我們:N	坐:Vi	著:ASP	排隊:Vi	
+且:C	告知:Vt	需要:Vt	飲料:N	或:C	冰:N	開水:N	都:ADV	可:ADV	即時:Vi	反應:N	
+不過:C	這些:DET	都:ADV	是:Vt	一:ADV	開始:Vt	排隊:Vi	才:ADV	有的:DET	福利:N	
+後面:N	來:Vi	的:T	人:N	因為:C	椅子:N	不足:Vi	還是:ADV	只:ADV	能:ADV	站:Vi	著:ASP	
+且:C	飲料:N	改用:Vt	小:Vi	紙杯:N	
+不:ADV	像:P	我們:N	是:Vt	一:DET	大:Vi	杯:M	還:ADV	附上:Vt	吸管:N	
+門:N	前:POST	剛好:ADV	有:Vt	遮蔽:Vt	處:N	
+再:ADV	加上:Vt	前後:POST	方:ADV	都:ADV	有:Vt	大:Vi	電扇:N	
+過程:N	還:ADV	算:Vt	舒服:Vi	
+台灣:N	的:T	價格:N	比:P	香港:N	貴:Vi	了:ASP	不少:DET	
+不過:C	我:N	比較:ADV	的:T	樣本:N	已經:ADV	是:Vt	三:DET	年:M	前:POST	了:T	
+不:ADV	知道:Vt	現在:N	兩:DET	者:N	價差:N	是:Vt	不:ADV	是:Vt	近:DET	些:M	
+酥皮焗:N	叉燒:N	包:Vt	
+118:DET	元:M	
+這:DET	個:M	依舊:ADV	是:Vt	我:N	這:DET	次:M	造訪:Vt	的:T	第一:DET	名:M	
+且:C	味道:N	更甚:Vi	當年:N	我:N	在:P	香港:N	的:T	滋味:N	
+當時:N	有點:ADV	冷:Vi	了:T	
+熱騰騰:Vi	的:T	叉燒:N	包:Vt	外皮:N	和:C	菠蘿:N	麵包:N	很:ADV	像:Vt	
+又:ADV	香:Vi	又:ADV	酥脆:Vi	
+配上:Vt	甜:Vi	內:POST	餡:N	口感:N	好極了:Vi	
+不過:C	餡料:N	並:ADV	不如:Vt	菜單:N	上:N	的:T	包滿:Vt	
+被:P	我:N	剝開:Vt	的:T	另:DET	一半:DET	其實:ADV	是:Vt	空:Vt	的:T	
+香煎:N	蘿蔔糕:N	
+98:DET	元:M	
+這:DET	味道:N	也:ADV	不錯:Vi	
+外層:N	煎:Vt	得:T	焦香:N	吃:Vt	來:POST	口感:N	微酥:N	
+裡:N	層滑嫩:Vi	還:ADV	能:ADV	見:Vt	一絲絲:DET	的:T	蘿蔔:N	絲:N	
+唯一:A	的:T	缺點:N	就是:C	太:ADV	鹹:Vi	了:T	
+已經:ADV	稍微:ADV	有點:ADV	刺嘴:N	
+香滑:Vi	馬:N	來:T	糕:N	
+98:DET	元:M	
+以前:N	一直:ADV	覺得:Vt	它:N	長:Vi	得:T	很:ADV	像:Vt	澎湖:N	的:T	黑:Vi	糖糕:N	
+沒:Vt	什麼:DET	特別:Vi	的:T	
+所以:C	直到:P	今日:N	才:ADV	品嘗:Vt	
+但:C	味道:N	其實:ADV	還:ADV	不錯:Vi	
+吃:Vt	來:ADV	鬆軟:Vi	滑嫩:Vi	
+清爽:Vi	不:ADV	甜:Vi	膩:Vi	
+黃沙:N	豬:N	潤腸:N	
+128:DET	元:M	
+我:N	對:P	粉腸:N	評價:N	一向:ADV	普通:Vi	
+覺得:Vt	就是:C	外皮:N	滑:Vi	Q:FW	沾:Vt	醬油:N	而已:T	
+裡頭:N	包:Vt	的:T	是:Vt	豬肝:N	
+晶瑩:Vi	鮮蝦:N	餃:b	
+138:DET	元:M	
+外皮:N	薄:Vi	Q:FW	
+裡面:N	蝦子:N	塞:Vt	得:T	滿滿:Vi	的:T	
+不用:ADV	沾醬:N	直接:Vi	吃:Vt	蝦子:N	的:T	鮮:Vi	甜:Vi	就:ADV	很:ADV	棒:Vi	了:T	
+鮮蝦:N	燒賣:N	皇:b	
+128:DET	元:M	
+以往:N	港式:A	茶點:N	我:N	最:ADV	不:ADV	喜歡:Vt	的:T	就:ADV	是:Vt	這:DET	道:M	菜:N	
+我:N	覺得:Vt	過多:Vi	的:T	佐料:N	會:ADV	壓過:Vt	蝦子:N	的:T	氣味:N	
+果然:ADV	比起來:Vt	我:N	還是:ADV	喜歡:Vt	上面:N	晶瑩:Vi	鮮蝦:N	餃薄:N	Q:FW	的:T	做法:N	多:Vi	些:ADV	
+不過:C	他:N	已經:ADV	比:P	外面:N	的:T	好吃:Vi	很多:Vi	了:T	
+只是:C	蝦味:N	沒:ADV	那麼:ADV	明顯:Vi	
+豉汁蒸:N	肉排:N	
+108:DET	元:M	
+這:DET	是:Vt	我們:N	這:DET	次:M	的:T	餐點:N	中:POST	最:ADV	油:Vi	的:T	一:DET	道:M	小:Vi	點:ADV	
+但:C	我:N	挺:ADV	愛:Vt	的:T	
+大:Vi	塊:M	的:T	肉排:N	夾雜:Vt	不少:DET	肥肉:N	
+油脂:N	豐腴:Vi	鮮美:Vi	
+不過:C	豉汁:N	的:T	氣味:N	只有:ADV	淡淡:Vi	的:T	
+陳皮:N	牛肉球:N	
+98:DET	元:M	
+之前:N	在:P	西門町:N	的:T	港式茶:N	餐廳:N	
+有點:ADV	了:Vt	牛肉:N	相關:Vi	的:T	產品:N	
+當時:N	就:ADV	沒:ADV	特別:Vi	喜歡:Vt	
+覺得:Vt	吃:Vt	來:ADV	糊糊:Vi	的:T	
+沒:Vt	什麼:DET	肉:N	的:T	香氣:N	與:C	紮實感:N	
+這:DET	次:M	也:ADV	差不多:Vi	
+不:ADV	知道:Vt	香港:N	的:T	牛肉球:N	是:Vt	不:ADV	是:Vt	都:ADV	採:Vt	這:DET	種:M	做法:N	
+美味:Vi	燜鮮竹卷:Vt	
+98:DET	元:M	
+本:ADV	以為:Vt	是:Vt	大:Vi	塊鮮筍悶:Vi	煮:Vt	
+沒想到:ADV	裡面:N	看:Vt	不:ADV	到:Vt	竹筍:N	的:T	大:Vi	塊:M	蹤影:N	
+就:ADV	連:Vt	味道:N	也:ADV	不:ADV	明顯:Vi	
+反倒:C	是:Vt	蝦子:N	與:C	肉塊:N	的:T	氣味:N	較為:ADV	鮮明:Vi	
+這:DET	甘甜:Vi	的:T	醬汁:N	配上:Vt	這:DET	塊:M	卷:N	味道:N	還:ADV	不錯:Vi	
+但:C	不怎麼:ADV	呼應:Vt	菜名:N	就是了:Vi	
+鮑:N	汁燜:N	鳳爪:N	
+118:DET	元:M	
+同行:Vi	的:T	友人:N	對:P	它:N	讚不絕口:Vi	
+雞爪:N	大:Vi	隻:M	有:Vt	肉:N	
+燉:Vt	到:P	入口:N	即:ADV	化:Vt	
+濃郁:Vi	的:T	中藥:N	香:Vi	
+讓:Vt	人:N	越:ADV	吃:Vt	越:ADV	涮嘴:N	
+賽:Vt	螃蟹:N	春卷:N	
+98:DET	元:M	
+英文:N	菜名:N	壓根:ADV	沒:ADV	提到:Vt	有:Vt	螃蟹:N	覺得:Vt	有:Vt	些:M	奇怪:Vt	
+詢問:Vt	店員:N	後:POST	得知:Vt	
+是:Vt	因為:C	蛋白:N	打:Vt	的:T	綿密:Vi	細緻:Vi	
+吃起來:ADV	和:P	蟹肉:N	的:T	口感:N	相似:Vi	而:C	取名:Vt	
+蠻:ADV	好吃:Vi	的:T	
+臘腸:N	北菇雞飯:N	
+138:DET	元:M	
+賣:Vt	相:ADV	沒有:Vt	很:ADV	美:Vi	
+但:C	友人:N	大為:ADV	讚賞:Vt	
+老實說:ADV	吃到:Vt	這:DET	我:N	已經:ADV	飽:Vi	到:P	不行:Vi	了:T	
+僅:ADV	挖:Vt	了:ASP	一些:DET	醬汁:N	和:C	白飯:N	試試:Vt	
+說:Vt	不:ADV	出:Vt	那:DET	是:Vt	什麼:DET	氣味:N	
+好像:ADV	有:Vt	淡淡:Vi	的:T	薑氣:N	
+挺:ADV	好吃:Vi	的:T	
+白灼:N	時:POST	蔬:b	
+98:DET	元:M	
+這:DET	個:M	比較:ADV	不:ADV	特別:Vi	
+就是:C	燙好:Vt	的:T	青菜:N	淋:Vt	上:N	醬油:N	
+杞子:N	桂花:N	糕:N	
+78:DET	元:M	
+擺:Vt	在:P	桌:N	上:N	拍照:Vi	它:N	還:ADV	會:ADV	不斷:Vi	的:T	晃動:Vt	
+看起來:ADV	就:ADV	好:ADV	誘人:Vi	喔:T	
+這:DET	個:M	很:ADV	好吃:Vi	
+外層:N	和:C	果凍:N	一樣:Vi	
+裡頭:N	的:T	桂花:N	香氣:N	好:ADV	濃郁:Vi	
+還:ADV	有:Vt	淡淡:Vi	的:T	枸杞:N	香:Vi	
+就:ADV	連:ADV	不:ADV	愛:Vt	中藥:N	氣味:N	的:T	威哥:N	也:ADV	讚不絕口:Vi	
+楊枝:N	甘露:N	
+118:DET	元:M	
+裡頭:N	有:Vt	芒果:N	丁:N	、:PAUSECATEGORY	西米露:N	和:C	葡萄柚:N	粒:N	
+口感:N	有點:ADV	像:Vt	濃稠:Vi	的:T	芒果汁:N	加上:Vt	芒果:N	丁:N	
+葡萄柚:N	幾乎:ADV	沒:Vt	什麼:DET	存在感:N	
+吃:Vt	了:ASP	一:DET	大:Vi	堆:M	差點:ADV	沒:ADV	撐扁:Vt	
+很多:DET	道:M	餐點:N	我:N	都:ADV	蠻:ADV	滿意:Vt	的:T	
+能:ADV	多:Vi	一:DET	家:M	道地:Vi	的:T	港點:N	在:P	台:N	還:ADV	真:ADV	不錯:Vi	

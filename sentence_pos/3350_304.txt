@@ -1,0 +1,83 @@
+luckbear04(luckbear:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義:N	-:DASHCATEGORY	松隆路:N	-:DASHCATEGORY	空軍:N	涼麵:N	
+Thu:FW	
+Jul:FW	
+24:DET	
+21:DET	::COLONCATEGORY	59:DET	::COLONCATEGORY	08:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	空軍:N	涼麵:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	06月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松隆路:N	68:DET	號:M	
+電話:N	：:COLONCATEGORY	0927:DET	-:DASHCATEGORY	793623:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	6:DET	::COLONCATEGORY	00:DET	~:FW	14:DET	::COLONCATEGORY	30:DET	
+圖文版:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	luckbear.pixnet.net/blog/post:FW	/:FW	30236357:DET	
+空軍:N	涼麵:N	-:DASHCATEGORY	市府站:N	美食:N	
+永吉路:N	30巷:N	、:PAUSECATEGORY	松隆路:N	口:N	
+又:ADV	到:Vt	了:ASP	適合:Vi	吃:Vt	涼麵:N	的:T	季節:N	
+這:DET	家:M	空軍:N	涼麵:N	雖然:C	位在:Vt	松隆路:N	上:N	
+不過:C	剛好:ADV	在:P	跟:P	永吉路:N	30巷:N	的:T	
+交:Vt	岔口:N	
+之前:N	經常:ADV	來:ADV	這:DET	覓食:Vi	時:POST	就:ADV	有:Vt	注意到:Vt	他:N	
+不過:C	空軍:N	涼麵:N	的:T	營業:Nv	時間:N	是:Vt	從:P	早上:N	六:N	點到:Vt	下:POST	
+午:N	兩:DET	點:N	半:POST	
+所以:C	想:Vt	吃:Vt	超大:A	份量:N	涼麵:N	可:ADV	得:ADV	趁早:ADV	
+空軍:N	涼麵:N	的:T	價目表:N	
+主食:N	不只:ADV	涼麵:N	還:ADV	有:Vt	乾:Vi	麵:N	、:PAUSECATEGORY	沙茶:N	乾:Vi	拌:Vt	麵:N	
+可以:ADV	搭配:Vt	的:T	食物:N	算是:Vt	蠻:ADV	多:Vi	的:T	
+光:ADV	是:Vt	味噌:N	、:PAUSECATEGORY	蛋花:N	、:PAUSECATEGORY	貢丸:N	就:ADV	可以:ADV	變化:Vt	出:Vt	七:DET	種:M	組合:Nv	
+除此之外:ADV	還:ADV	有:Vt	魚:N	酥:Vi	羹:N	、:PAUSECATEGORY	魷魚:N	羹:N	以及:C	肉羹:N	可:ADV	
+以:P	選擇:Vt	
+小菜櫃:N	是:Vt	半:DET	自助式:N	的:T	
+夾到:Vt	上頭:N	的:T	盤子:N	再:ADV	交給:Vt	店家:N	切盤:N	
+豆乾:N	、:PAUSECATEGORY	海帶:N	、:PAUSECATEGORY	魯蛋:N	以及:C	豆皮:N	等:POST	大:Vi	
+多:ADV	是:Vt	豆類:N	製品:N	
+涼麵:N	小:Vi	45:DET	元:M	
+剛:ADV	上桌:Vi	的:T	瞬間:N	我:N	還:ADV	以為:Vt	是:Vt	送:Vt	錯:Vi	了:T	
+滿滿:Vi	一:DET	大盤:N	的:T	涼麵:N	居然:ADV	會:ADV	是:Vt	小:Vi	碗:N	的:T	
+這:DET	種:M	份量:N	如果:C	再:ADV	叫:Vt	
+碗湯:N	一般人:N	應該:ADV	會:ADV	吃:Vt	的:T	很:ADV	撐:Vt	啊:T	
+從:P	側面:N	看:Vt	堆:Vt	的:T	跟:Vt	座:M	小:Vi	山:N	一樣:Vi	
+還:ADV	沒:ADV	吃:Vt	我:N	已經:ADV	感覺:Vt	飽:Vi	了:T	
+吃:Vt	涼麵:N	的:T	好處:N	就:ADV	是:Vt	可以:ADV	慢慢:Vi	的:T	拍:Vt	
+不用:ADV	擔心:Vt	冷:Vi	掉:Vi	或是:C	麵爛:N	的:T	問題:N	
+仔細:Vi	拌勻:Vi	的:T	同時:N	可以:ADV	聞:Vt	
+到:P	蒜:N	香:N	與:C	麻醬味:N	
+加上:C	爽脆:Vi	的:T	小黃瓜:N	絲:N	
+夏天:N	就:ADV	是:Vt	要:ADV	吃:Vt	這:DET	味:M	
+沙茶:N	乾:Vi	拌:Vt	麵小:N	45:DET	元:M	
+不:ADV	意外:Vt	的:T	這:DET	盤面:N	也:ADV	是:Vt	份量:N	驚人:Vi	的:T	多:Vi	
+光:ADV	是:Vt	這:DET	兩:DET	盤:M	麵:N	要:ADV	吃完:Vt	都:ADV	很:ADV	難:Vi	
+很:ADV	想:Vt	把:P	湯:N	取消:Vt	但:C	已經:ADV	來:ADV	
+不及:Vt	了:ASP	...:ETCCATEGORY	
+不過:C	沙茶:N	麵:N	吃起來:ADV	比較:ADV	像:Vt	肉燥:N	乾:Vi	拌:Vt	麵:N	
+相較:Vi	之下:POST	我:N	還是:ADV	喜歡:Vt	涼麵:N	多:Vi	一點:ADV	
+三合一湯:N	
+味噌:N	+:FW	貢丸:N	+:FW	蛋花:N	
+45:DET	元:M	
+涼麵:N	就:ADV	是:Vt	要:ADV	搭:Vt	一:DET	碗:M	三合一湯:N	
+在:P	這裡:N	是:Vt	不:ADV	成立:Vt	的:T	
+並:C	不:ADV	是:Vt	他:N	的:T	湯:N	不:ADV	好喝:Vi	
+而是:C	一:DET	個:M	人:N	根本:ADV	
+吃:Vt	不:ADV	完:Vi	啊:T	
+下:DET	次:M	來:ADV	應該:ADV	就:ADV	點:Vt	一:DET	份:M	大:Vi	的:T	涼麵:N	加:Vt	兩:DET	碗:M	湯:N	
+份量:N	會:ADV	比較:ADV	剛好:Vi	些:ADV	
+肉:N	羹湯:N	40:DET	元:M	
+勾芡:Vi	略:ADV	偏重:Vt	一些:DET	
+肉羹:N	的:T	份量:N	還:ADV	不少:Vi	
+可惜:Vi	不:ADV	是:Vt	我:N	喜歡:Vt	吃:Vt	的:T	整:DET	塊:M	肉條:N	那:DET	種:M	
+小菜:N	的:T	部分:DET	並非:ADV	空軍:N	涼面:N	的:T	強項:N	
+沒有:ADV	特別:Vi	讓:Vt	人:N	有:Vt	記憶:N	度:Vt	的:T	品:N	項:M	
+不過:C	價格:N	還:ADV	蠻:ADV	平實:Vi	的:T	
+魯:N	蛋:N	、:PAUSECATEGORY	素:Vi	雞:N	加上:Vt	花干:N	只:ADV	要:Vt	35:DET	元:M	
+店家:N	會:ADV	把:P	小菜:N	的:T	價格:N	寫:Vt	在:P	盤子:N	的:T	邊緣:N	
+讓:Vt	客人:N	可以:ADV	很:ADV	清楚:Vi	
+的:T	點:Vt	了:ASP	多少:DET	錢:N	
+如果:C	你:N	的:T	食量:N	並非:ADV	特別:Vi	的:T	大:Vi	
+來到:Vt	空軍:N	涼麵:N	可:ADV	別:ADV	跟:P	我:N	一樣:Vi	
+貪心:Vi	的:T	都:ADV	想:Vt	嚐試:Vt	點:Vt	太多:Vi	的:T	下場:N	
+就是:C	浪費:Vt	食物:N	了:T	...:ETCCATEGORY	
+空軍:N	涼麵:N	
+營業:Nv	電話:N	：:COLONCATEGORY	0927:DET	-:DASHCATEGORY	793623:DET	
+營業:Nv	地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松隆路:N	68:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	6:DET	::COLONCATEGORY	00:DET	
+14:DET	::COLONCATEGORY	30:DET	

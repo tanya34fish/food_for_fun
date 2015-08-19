@@ -1,0 +1,168 @@
+pkza:FW	5267:DET	(:PARENTHESISCATEGORY	歐帝斯:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	BRAVOBURGER:FW	發福:Vi	廚房:N	@:FW	台北:N	公館:N	
+Thu:FW	
+Aug:FW	
+21:DET	
+20:DET	::COLONCATEGORY	13:DET	::COLONCATEGORY	47:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	BRAVOBURGER:FW	發福:Vi	廚房:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	8:DET	/:FW	18:DET	
+地址:N	：:COLONCATEGORY	台北市:N	羅斯福路:N	4:DET	段:M	24巷:N	13:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23657655:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	六:DET	日:M	):PARENTHESISCATEGORY	/:FW	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	火烤:Vt	花生醬:N	雞腿堡:N	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+無:Vt	音樂:N	圖文:N	網誌版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fatteng.pixnet.net/blog/post:FW	/:FW	185720703:DET	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+名稱:N	：:COLONCATEGORY	BRAVOBURGER:FW	發福:Vi	廚房:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23657655:DET	
+地址:N	：:COLONCATEGORY	台北市:N	羅斯福路:N	4:DET	段:M	24巷:N	13:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	
+六:DET	日:M	
+/:FW	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+---:DASHCATEGORY	
+今天:N	8:DET	/:FW	18:DET	是:Vt	我:N	的:T	生日:N	
+也:ADV	是:Vt	27:DET	年:M	人生:N	中第:Vi	一:DET	次:M	生日:N	特地:ADV	請假:Vi	
+感覺:N	特好:Vt	
+XD:FW	
+其實:ADV	一直:ADV	以來:POST	也:ADV	沒:Vt	什麼:DET	在:P	過生日:Vi	
+只是:ADV	希望:Vt	能:ADV	悠悠哉哉:Vi	沒:Vt	煩惱:N	度過:Vt	一:DET	天:M	而已:T	
+本來:ADV	想:Vt	去:Vt	貳:DET	樓:N	吃:Vt	個:M	早:Vi	午餐:N	
+殊不知:Vt	前:DET	三:DET	天:M	打電話:Vi	已經:ADV	訂位:Vi	滿:Vi	了:T	...:ETCCATEGORY	or:FW	2:DET	
+是:Vt	暑假:N	的:T	關係:N	嗎:T	
+好在:ADV	附近:N	還:ADV	有:Vt	另:Des	一:DET	間:M	也:ADV	是:Vt	聞名:Vi	已:ADV	久:Vi	還:ADV	未:ADV	去:Vt	過:ASP	的:T	發福:Vi	漢堡:N	
+身為:Vt	漢堡:N	控:Vt	+:FW	花生:N	控:Vt	的:T	我:N	就:ADV	趁:P	此:DET	機會:N	GO:FW	了:T	
+發福:Vi	廚房:N	02:DET	.:PERIODCATEGORY	jpg:FW	
+平日:N	11:DET	::COLONCATEGORY	30:DET	才:ADV	開始:Vt	營業:Vi	
+到:Vt	的:T	時候:N	約:ADV	11:DET	::COLONCATEGORY	20:DET	尚未:ADV	開門:Vi	先:ADV	拍:Vt	一:DET	張:M	
+但:C	已經:ADV	有:Vt	四:DET	五組:N	客人:N	在:P	外:N	等候:Vt	了:ASP	
+本來:ADV	還:ADV	以為:Vt	這:DET	玻璃:N	是:Vt	魔術鏡:N	所以:C	才:ADV	黑漆漆:Vi	看:Vt	不:ADV	到:Vt	裡面:N	
+走進去:Vi	才:ADV	發現:Vt	是:Vt	因為:C	還:ADV	沒:ADV	開燈:Vi	..:ETCCATEGORY	=:FW	=:FW	
+發福:Vi	廚房:N	03:DET	.:PERIODCATEGORY	jpg:FW	
+除了:P	公館店:N	還:ADV	有:Vt	景美店:N	
+黑板:N	前面:N	有:Vt	放小:N	MENU:FW	可以:ADV	等候:Vt	的:T	時候:N	先:ADV	看看:Vt	
+另外:C	外帶:Vt	有:Vt	95:DET	折:M	喔:T	
+發福:Vi	廚房:N	05:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	04:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	有:Vt	和:P	國民:N	旅遊卡:N	合作:Vi	特約:A	店家:N	
+店:N	內:N	禁止:Vt	吸菸:Vi	及:C	寵物:N	進入:Vt	
+但:C	導盲犬:N	是:Vt	OK:FW	的:T	喔:T	
+店:N	門口:N	還:ADV	放:Vt	著:ASP	一:DET	隻:M	很:ADV	眼熟:Vi	的:T	廚師:N	熊:N	看板:N	
+是:Vt	交通部:N	觀光局:N	舉辦:Vt	的:T	
+食:N	來:ADV	運轉:Vt	由:P	台灣:N	
+活動:N	
+發福:Vi	廚房:N	也:ADV	有:Vt	列入:Vt	名單:N	中:N	喔:T	
+這:DET	隻:M	熊:N	好像:ADV	也:ADV	有:Vt	在:P	美食:N	節目:N	
+食尚:N	玩家:N	
+出現:Vi	過:ASP	
+難怪:ADV	覺得:Vt	這麼:ADV	眼熟:Vi	...:ETCCATEGORY	
+活動:N	網:N	站上:Vt	還:ADV	有:Vt	其他:DET	推薦:Vt	的:T	店家:N	和:C	旅遊:Nv	景點:N	
+欲:Vt	知:Vt	詳情:N	請:Vt	點:N	→:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	www.timetoeat.tw:FW	/:FW	
+發福:Vi	廚房:N	06:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	07:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	08:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	09:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	10:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	11:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	12:DET	.:PERIODCATEGORY	jpg:FW	
+一:ADV	走進:Vt	店裡:N	就:ADV	可以:ADV	感受到:Vt	濃厚:Vi	的:T	美式:A	風格:N	
+裝潢:N	隨處:ADV	可見:ADV	美式:A	復古:Vt	的:T	海報:N	、:PAUSECATEGORY	警語:N	和:C	畫作:N	
+有:Vt	一二樓:N	座位:N	
+一樓:N	座位:N	較少:Vi	
+大部分:DET	都:ADV	集中:Vt	在:P	二樓:N	
+其中:DET	這:DET	個:M	樓梯:N	非常:ADV	有:Vt	FU:FW	
+感覺:N	根本:ADV	不:ADV	在:P	台灣:N	而是:C	到:Vt	了:ASP	國外:N	呢:T	
+每:DET	個:M	座位桌:N	上:POST	都:ADV	擺:Vt	著:ASP	番茄醬:N	和:C	芥末醬:N	
+另外:C	還:ADV	有:Vt	貼心:Vi	可:ADV	放:Vt	包包:N	的:T	竹簍子:N	
+店:N	內:N	也:ADV	有:Vt	提供:Vt	免費:Vi	WIFI:FW	
+完全:ADV	標準:Vi	的:T	早:Vi	午餐:N	悠閒:Vi	度日:Vi	的:T	環境:N	
+發福:Vi	廚房:N	13:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	14:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	15:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	16:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	17:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	18:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	19:DET	.:PERIODCATEGORY	jpg:FW	
+MENU:FW	上:N	除了:P	漢堡:N	之外:POST	
+也:ADV	有:Vt	三明治:N	和:C	沙拉:N	的:T	餐點:N	
+在:P	推薦:Vt	的:T	人氣:N	商品:N	上:N	有:Vt	讚:Vi	的:T	符號:N	
+有:Vt	辣:Vi	的:T	餐點:N	也:ADV	會:ADV	用:P	辣椒:N	符號:N	特別:Vi	標示出來:Vi	
+偷看:Vt	到:P	隔壁:N	桌點:N	的:T	沙拉:N	非常:ADV	大一:N	盆:N	
+一:DET	個:M	男生:N	吃:Vt	就:ADV	很:ADV	飽:Vi	or:FW	兩:DET	個:M	人:N	點:M	餐共食:N	都:ADV	非常:ADV	適合:Vi	
+平日:N	也:ADV	有:Vt	商:N	業務餐:N	的:T	選擇:N	
+又:ADV	再一次:ADV	羨慕:Vt	在:P	附近:N	上班:Vi	的:T	上班族:N	...:ETCCATEGORY	
+套餐:N	有:Vt	附副餐:N	及:C	飲料:N	
+副餐:N	有:Vt	三:DET	樣:M	選擇:N	：:COLONCATEGORY	薯條:N	/:FW	炸野菇:N	/:FW	玉米:N	脆片:N	
+飲料:N	也:ADV	有:Vt	多:DET	種:M	選擇:N	：:COLONCATEGORY	可樂:N	/:FW	ZERO:FW	/:FW	雪碧:N	/:FW	雪梨茶:N	/:FW	冰:Vt	奶茶:N	/:FW	熱:Vt	綠茶:N	/:FW	冰:Vt	or:FW	熱:Vt	紅茶:N	
+以上:N	都:ADV	是:Vt	可:ADV	續杯:Vi	的:T	
+另外:C	可:ADV	補:Vt	差價:N	換:Vt	其他:DET	飲料:N	
+也:ADV	有:Vt	提供:Vt	酒精類:N	飲料:N	
+漢堡:N	麵包:N	則:ADV	有:Vt	黑麥:N	蜂蜜:N	麵包:N	及:C	/:FW	鮮奶:N	白:Vi	麵包:N	兩:DET	種:M	
+發福:Vi	廚房:N	20:DET	.:PERIODCATEGORY	jpg:FW	
+一:ADV	開始:Vt	先:ADV	上:Vt	的:T	可樂:N	和:C	雪碧:N	
+可以:ADV	續杯:Vi	
+用餐:Nv	期間:N	服務生:N	看見:Vt	杯子:N	沒:Vt	飲料:N	了:T	會:ADV	主動:Vi	詢問:Vt	要不要:ADV	續杯:Vi	
+大:Vi	加分:Vi	
+發福:Vi	廚房:N	21:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	22:DET	.:PERIODCATEGORY	jpg:FW	
+△:FW	轟炸:Nv	蜂蜜:N	芥末:N	雞腿堡:N	$:FW	275:DET	
+一:ADV	端上:Vt	桌:N	我:N	心:N	裡:POST	就:ADV	OS:FW	：:COLONCATEGORY	挖:Vt	靠:P	這:DET	雞腿:N	也:ADV	太:ADV	大:Vi	了:T	吧:T	到底:ADV	哪裡:ADV	養:Vt	的:T	..:ETCCATEGORY	
+黑麥:N	麵包:N	夾:Vt	著:ASP	超大:A	炸:Vt	雞腿:N	排:Vt	
+上面:N	撒:Vt	著:ASP	許多:DET	起:POST	司:Vt	條:M	慢慢:Vi	融化:Vt	中:POST	
+炸雞:N	吃起來:ADV	不:ADV	油:N	
+雞肉:N	有點:ADV	略:ADV	乾:Vi	少:Vi	了:ASP	鮮嫩:Vi	肉汁:N	的:T	FU:FW	
+但:C	份量:N	十分:ADV	足夠:Vi	而且:C	肉:N	佔:Vt	居多:Vi	
+不會:ADV	看起來:ADV	很:ADV	大:Vi	但:C	大多:DET	都:ADV	是:Vt	麵粉:N	..:ETCCATEGORY	
+發福:Vi	廚房:N	23:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	24:DET	.:PERIODCATEGORY	jpg:FW	
+生菜:N	則:ADV	是:Vt	另外:C	擺:Vt	在:P	旁邊:N	要:ADV	吃:Vt	的:T	時候:N	自己:N	加:Vt	
+有:Vt	很多:DET	漢堡:N	餐廳:N	都:ADV	是:Vt	一:DET	層:M	一:DET	層:M	像:Vt	在:P	蓋:Vt	101:DET	似的:POST	疊:Vt	上:POST	去:ADV	
+其實:ADV	真的:ADV	很:ADV	不:ADV	方便:Vi	吃:Vt	啊:T	..:ETCCATEGORY	
+想要:Vt	拿:Vt	刀叉:N	切:Vt	都:ADV	不:ADV	知:Vt	從:P	何:N	下手:Vi	
+所以:C	我:N	覺得:Vt	這樣:Vi	的:T	擺盤:N	非常:ADV	方便:Vi	非常:ADV	棒:Vi	喔:T	
+也:ADV	可以:ADV	自己:N	切成:Vt	小:Vi	漢堡:N	分開:Vt	吃:Vt	XD:FW	
+副餐:N	是:Vt	薯條:N	
+旁邊:N	一:DET	小:Vi	碟:N	蜂蜜:N	芥末:N	沾醬:N	
+吃起來:ADV	不:ADV	油:N	且:C	脆脆:Vi	的:T	
+是:Vt	我:N	喜歡:Vt	的:T	炸:Nv	薯條:N	
+發福:Vi	廚房:N	25:DET	.:PERIODCATEGORY	jpg:FW	
+發福:Vi	廚房:N	26:DET	.:PERIODCATEGORY	jpg:FW	
+△:FW	火烤:Vt	花生醬:N	雞腿堡:N	$:FW	295:DET	
+店:N	內:N	的:T	人氣:N	招牌:N	
+也:ADV	是:Vt	我:N	這:DET	趟:M	的:T	主要:A	重點:N	
+滿滿:Vi	厚厚:Vi	的:T	花生醬:N	擠:Vt	得:T	像:Vt	玫瑰花:N	一樣:Vi	
+上面:N	再:ADV	撒上:Vt	滿滿:Vi	碎:Vi	培根:N	
+光:ADV	看:Vt	這:DET	一:DET	幕:M	就:ADV	覺得:Vt	不:ADV	知道:Vt	下:DET	次:M	運動:N	該:ADV	跑:Vi	多少:DET	才:ADV	夠:Vi	..:ETCCATEGORY	
+烤:Vt	的:T	雞腿:N	肉滿:N	JUICY:FW	
+雞皮:N	部分:DET	也:ADV	有:Vt	稍微:ADV	焦焦:Vi	脆脆:Vi	的:T	口感:N	
+烤肉:N	和:C	花生醬:N	的:T	搭配:Nv	彷彿:Vt	七:DET	世:N	夫妻:N	注定:Vt	在一起:Vi	般:POST	絕配:N	
+完全:ADV	無:Vt	違和:Vi	..:ETCCATEGORY	
+發福:Vi	廚房:N	27:DET	.:PERIODCATEGORY	jpg:FW	
+稍微:ADV	牽動:Vt	一下:N	花生醬:N	就:ADV	跟:P	土石:N	流:Vt	一樣:Vi	流下來:Vi	
+最後:N	還是:ADV	用:P	麵包:N	把:P	花生醬:N	全部:DET	沾:Vt	起來:ASP	吃完:Vt	
+XD:FW	
+副餐:N	是:Vt	炸野:Vt	菇:N	
+應該:ADV	是:Vt	香菇:N	和:C	袖珍:Vi	菇:N	吧:T	
+完全:ADV	沒有:Vt	油膩感:N	
+只有:ADV	薄薄:Vi	的:T	裹:Vt	麵粉:N	下去:Vi	炸:Vt	
+不:ADV	需要:Vt	灑:Vt	胡椒:N	鹽:N	就:ADV	很:ADV	好吃:Vi	
+發福:Vi	廚房:N	28:DET	.:PERIODCATEGORY	jpg:FW	
+離開:Vt	的:T	時候:N	才:ADV	發現:Vt	這:DET	塊:M	板子:N	
+我們:N	點:Vt	的:T	剛好:ADV	是:Vt	店:N	內:N	的:T	TOP:FW	一二:DET	名:M	呢:T	
+發福:Vi	廚房:N	29:DET	.:PERIODCATEGORY	jpg:FW	
+本:DET	次:M	用餐:Vi	總共:ADV	花費:Vt	$:FW	627:DET	
+需要:Vt	一成:DET	服務費:N	
+平均:Vi	$:FW	315:DET	/:FW	1:DET	人:N	
+用餐:Nv	期間:N	服務生:N	會:ADV	主動:Vi	詢問:Vt	並:ADV	提供:Vt	服務:Nv	
+我:N	覺得:Vt	這:DET	種:M	服務:Nv	態度:N	好:Vi	的:T	店家:N	非常:ADV	加分:Vi	
+會:ADV	常常:ADV	回來:Vi	
+入座:Vi	時:POST	有:Vt	提醒:Nv	用餐:Nv	時間:N	是:Vt	90:DET	分鐘:M	
+但:C	我們:N	足足:ADV	坐:Vi	了:ASP	兩:DET	小時:M	才:ADV	離開:Vt	
+中間:N	只:ADV	有:Vt	店員:N	來:POST	善意:N	提醒:Vt	一:DET	次:M	而已:T	
+可能:ADV	店:N	內:N	還:ADV	有:Vt	其他:DET	空位:N	時:POST	就:ADV	不:ADV	太:ADV	會:Vt	趕人:N	
+吃完:Vt	時:POST	兩:DET	個:M	人:N	都:ADV	撐:Vt	著:ASP	肚皮:N	離開:Vt	..:ETCCATEGORY	
+餐點:N	跟:P	環境:N	還:ADV	有:Vt	服務:Nv	都:ADV	很:ADV	好:Vi	的:T	一:DET	個:M	店家:N	

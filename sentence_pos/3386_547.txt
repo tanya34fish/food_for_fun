@@ -1,0 +1,66 @@
+lusammi(Sammi:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	景美:N	發福:Vi	廚房:N	
+Mon:FW	
+Aug:FW	
+4:DET	
+10:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	00:DET	
+2014:DET	
+圖文:N	網誌:N	(:PARENTHESISCATEGORY	無:Vt	音樂:N	):PARENTHESISCATEGORY	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.roodo.com/lunonnon/archives/29611556.html:FW	
+餐廳:N	名稱:N	：:COLONCATEGORY	發福:Vi	廚房:N	
+景美店:N	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	文山區:N	景美街:N	5巷:N	8:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2934:DET	-:DASHCATEGORY	6088:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	
+22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	NT:FW	220:DET	-:DASHCATEGORY	400:DET	
+-----:DASHCATEGORY	
+一直:ADV	很:ADV	想來:ADV	吃吃:Vt	看:ASP	發福:Vi	廚房:N	
+終於:ADV	來:Vi	了:ASP	
+眼:N	冒:Vt	愛心:N	
+原本:ADV	是:Vt	要:ADV	訂:Vt	公館店:N	的:T	
+但:C	打去:Vi	時:POST	說:Vt	沒:Vt	位子:N	
+建議:Vt	我們:N	去:Vt	景美店:N	
+景美店:N	果然:ADV	位子:N	較:ADV	多:Vi	比較:ADV	好:Vi	訂:Vt	喔:T	
+從:P	景美:N	捷運站:N	2:DET	號:M	出口:Nv	一:ADV	出來:Vi	就:ADV	可以:ADV	看到:Vt	大大:Vi	的:T	發福:Vi	廚房:N	的:T	招牌:N	
+裡面:N	空間:N	也:ADV	很:ADV	大:Vi	
+有:Vt	許多:DET	小:Vi	場景:N	
+喜歡:Vt	拍照:Vi	的:T	人兒:N	應該:ADV	可以:ADV	拍:Vt	得:T	很:ADV	開心:Vi	
+Bar:FW	台:N	上:N	也:ADV	放置:Vt	很多:DET	電影:N	人物:N	與:C	大大小小:Vi	的:T	公仔:N	
+都:ADV	會:ADV	讓:Vt	人:N	小:Vi	驚呼:Vt	一下:N	^:FW	^:FW	
+漢堡:N	可:ADV	搭配:Vt	選擇:N	炸:Vt	薯條:N	或:C	野菇:N	
+飲料:N	則:ADV	是:Vt	+:FW	50:DET	元:M	可:ADV	無限:Vi	暢飲:Vt	
+可:ADV	更換:Vt	口味:N	喔:T	
+服務生:N	還:ADV	蠻:ADV	貼心:Vi	的:T	
+主動:Vi	告知:Vt	現在:N	用餐:Nv	人數:N	較:ADV	多:Vi	
+點:DET	餐:M	後:POST	須:ADV	等:Vt	10:DET	
+15:DET	分鐘:M	
+但:C	其實:ADV	也:ADV	沒有:Vt	等:POST	很:ADV	久:Vi	的:T	感覺:N	
+還是:ADV	因為:C	都:ADV	在:P	聊天:Vi	
+餐點:N	後來:N	蠻:ADV	快:Vi	送到:Vt	的:T	::COLONCATEGORY	
+花生醬:N	牛肉堡:N	NT:FW	250:DET	.:PERIODCATEGORY	-:DASHCATEGORY	
+因為:C	有:Vt	人:N	就是:C	針對:P	花生醬:N	牛肉堡:N	慕名而來:Vi	
+因此:C	就:ADV	點:Vt	它:N	了:T	
+滿滿:Vi	的:T	花生醬:N	
+真的:ADV	很多:DET	
+讓:Vt	人:N	一:ADV	吃:Vt	想:Vt	再:ADV	吃:Vt	的:T	口味:N	
+一方面:C	擔心:Vt	熱量:N	爆表:N	但:C	手:N	無法:ADV	停止:Vt	
+繼續:Vt	吃:Vt	得:T	很:ADV	滿足:Vt	
+轟炸:Vt	蜂蜜:N	芥末:N	雞腿:N	NT:FW	260:DET	.:PERIODCATEGORY	-:DASHCATEGORY	
+轟炸:Vt	雞腿:N	非常:ADV	的:T	大:Vi	
+把:P	它:N	與:C	生菜:N	排列好:Vt	後:POST	拿起來:Vi	大:Vi	咬:Vt	一口:ADV	
+只:ADV	會:ADV	咬到:Vt	雞腿:N	
+哈哈:ADV	
+我們:N	還:ADV	有點:ADV	一:DET	個:M	是:Vt	花生醬:N	雞腿堡:N	NT:FW	260:DET	.:PERIODCATEGORY	-:DASHCATEGORY	
+雞腿:N	就:ADV	也:ADV	是:Vt	轟炸:Vt	雞腿:N	的:T	大:Vi	
+加上:C	滿滿:Vi	的:T	花生醬:N	
+就算:C	是:Vt	吃到:Vt	嘴巴:N	旁:N	沾滿:Vt	花生醬:N	也:ADV	覺得:Vt	無所謂:Vi	
+滿足:Vt	
+另外:C	單:ADV	點:Vt	了:ASP	甜點:N	
+香草:N	冰淇淋:N	布朗尼:N	NT:FW	130:DET	.:PERIODCATEGORY	-:DASHCATEGORY	
+出乎意料:Vi	很:ADV	好吃:Vi	耶:T	
+是:Vt	我:N	喜歡:Vt	的:T	口味:N	
+它:N	的:T	布朗尼:N	是:Vt	屬於:Vt	比較:ADV	軟:Vi	的:T	
+微:ADV	甜:Vi	再:ADV	配上:Vt	香草:N	冰淇淋:N	
+好好味:N	
+喜歡:Vt	布朗尼:N	的:T	朋友:N	也:ADV	可以:ADV	嘗試:Vt	一下:N	^:FW	^:FW	

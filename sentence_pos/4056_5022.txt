@@ -1,0 +1,39 @@
+marcoyangt1(ChaseWang:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	問卷:N	]:PARENTHESISCATEGORY	2:DET	分鐘:M	14:DET	題:M	，:COMMACATEGORY	幫:P	兩:DET	位:M	外國:N	朋友:N	在:P	台北:N	開間:N	店:N	
+Mon:FW	
+Feb:FW	
+16:DET	
+01:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	10:DET	
+2015:DET	
+【:PARENTHESISCATEGORY	本:DET	問卷:N	已經:ADV	板主:N	Dilbert:FW	核准:Vt	張貼:Vt	】:PARENTHESISCATEGORY	
+各:DET	位:M	美食版:N	的:T	朋友:N	：:COLONCATEGORY	
+這:DET	份:M	問卷:N	是:Vt	因為:C	兩:DET	位:M	已經:ADV	取得:Vt	永久:N	居留權:N	的:T	外國:N	朋友:N	，:COMMACATEGORY	
+希望:Vt	在:P	台北:N	可以:ADV	經營:Vt	一:DET	間:M	小:Vi	店面:N	，:COMMACATEGORY	帶給:Vt	台北:N	的:T	朋友:N	更:ADV	美味:Vi	與:C	健康:Vi	的:T	食物:N	。:PERIODCATEGORY	
+但:C	因為:C	調查:Vt	飲食:N	習慣:N	的:T	中文:N	，:COMMACATEGORY	對:P	兩:DET	位:M	朋友:N	還是:ADV	有:Vt	一定:A	的:T	難度:N	
+讓:Vt	他們:N	過去:N	在:P	許多:DET	地點:N	詢問:Vt	當地人:N	時:POST	，:COMMACATEGORY	往往:ADV	難以:ADV	深入:Vi	了解:Vt	，:COMMACATEGORY	而:C	覺得:Vt	蠻:ADV	挫折:Vi	的:T	。:PERIODCATEGORY	
+於是:C	他們:N	找上:Vt	我:N	（:PARENTHESISCATEGORY	我:N	目前:N	在:P	政治:N	大學:N	商學院:N	念:Vt	碩士班:N	）:PARENTHESISCATEGORY	
+希望:Vt	我:N	可以:ADV	幫忙:Vt	他們:N	克服:Vt	這:DET	個:M	難關:N	。:PERIODCATEGORY	
+這:DET	份:M	調查:Nv	的:T	目的:N	是:Vt	希望:Vt	初步:ADV	了解:Vt	大家:N	對:P	西式:A	餐點:N	的:T	飲食:N	習慣:N	，:COMMACATEGORY	
+作為:Vt	日後:N	深入:Vi	研究:Nv	的:T	基礎:N	
+問卷:N	以:P	google:FW	表單:N	進行:Vt	，:COMMACATEGORY	表單:N	網址:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/vwUdbw:FW	
+受測:Vi	對象:N	希望:Vt	是:Vt	：:COLONCATEGORY	
+18:DET	歲:M	以上:POST	
+有:Vt	固定:Vt	的:T	居住地:N	及:C	工作:N	地點:N	
+每週:N	在:P	該:DET	地點:N	會:ADV	出現:Vi	三:DET	日:M	以上:POST	
+的:T	台北:N	縣市:N	朋友:N	
+所有:DET	問卷:N	結果:N	只:ADV	會:ADV	作:Vt	市場:N	調查:Vt	的:T	初步:A	分析:N	
+不會:ADV	索取:Vt	聯絡:Nv	資料:N	
+也:ADV	不會:ADV	對:P	外:N	公開:Vt	
+整:DET	份:M	問卷:N	只:ADV	有:Vt	14:DET	題:M	
+2:DET	分鐘:M	以內:POST	就:ADV	可以:ADV	完成:Vt	
+希望:Vt	各:DET	位:M	可以:ADV	幫忙:Vt	填寫:Vt	
+讓:Vt	兩:DET	位:M	朋友:N	的:T	夢想:N	可以:ADV	完成:Vt	
+如果:C	需要:Vt	P:FW	幣:N	
+每:DET	份:M	提供:Vt	200:DET	P:FW	
+因為:C	不:ADV	記名:Vi	
+請:Vt	在:P	下面:N	推文:N	
+P:FW	幣共:N	準備:Vt	300:DET	份:M	
+名額:N	有限:Vi	請:Vt	多:DET	海涵:Vi	
+有:Vt	任何:DET	問題:N	
+也:ADV	歡迎:Vt	討論:Nv	
+謝謝:Vt	

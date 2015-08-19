@@ -1,0 +1,174 @@
+pswo:FW	210525:DET	(:PARENTHESISCATEGORY	(:PARENTHESISCATEGORY	阿:N	mon:FW	):PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	札幌:N	炎神:N	拉麵:N	~:FW	超:Vt	高溫:N	炙燒:Vi	的:T	拉麵:N	推薦:Vt	
+Wed:FW	
+Apr:FW	
+1:DET	
+22:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	16:DET	
+2015:DET	
+店名:N	::COLONCATEGORY	札幌:N	炎神:N	拉麵:N	
+電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	22752783:DET	
+地址:N	::COLONCATEGORY	台北市:N	大安區:N	光復南路:N	280巷:N	49:DET	號:M	
+價格:N	::COLONCATEGORY	$:FW	230:DET	up:FW	，:COMMACATEGORY	需:ADV	加收:Vt	一成:DET	服務費:N	
+用餐:Nv	日期:N	::COLONCATEGORY	2015年:N	3月:N	
+無:Vt	音樂:N	圖文:N	網誌版:N	
+痞客邦:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	monkey2010.pixnet.net/blog/post:FW	/:FW	60388351:DET	
+純:Vi	文字:N	版前:N	鎮子:N	聽:Vt	朋友:N	說:Vt	台北:N	開:Vt	了:ASP	一:DET	間:M	來自:Vt	日本:N	北海道:N	札幌:N	的:T	拉麵:N	
+跟:P	日本:N	京都:N	五行:N	拉麵:N	一樣:Vi	都:ADV	是:Vt	有:Vt	冒火:Vi	的:T	
+當下:N	就:ADV	覺得:Vt	很:ADV	新鮮:Vi	
+所以:C	這:DET	次:M	上:Vt	台北:N	的:T	時候:N	
+就:ADV	約:Vt	了:ASP	一:DET	位:M	朋友:N	一起:ADV	來:ADV	吃:Vt	看看:ASP	
+也:ADV	因為:C	這:DET	間:M	開幕:Vi	時候:N	很:ADV	轟動:Vi	
+所以:C	客人:N	是:Vt	大排長龍:Vi	
+我們:N	還:ADV	因此:C	非常:ADV	早:Vi	就:ADV	來:ADV	排隊:Vi	
+晚上:N	5:DET	點:M	半:DET	開門:Vi	營業:Vi	
+我們:N	6:DET	點:M	就:ADV	趕到:Vt	了:ASP	
+從:P	捷運:N	國父:N	紀念館:N	站:Vi	2:DET	號:M	口:N	出來:Vi	
+步行:Vi	約:ADV	5:DET	分鐘:M	可以:ADV	抵達:Vt	
+這:DET	附近:N	也:ADV	有:Vt	不少:DET	的:T	餐廳:N	
+許多:DET	的:T	異國:N	料理店:N	
+如果:C	真的:ADV	不:ADV	想:Vt	排隊:Vi	吃:Vt	拉麵:N	的:T	話:N	
+也:ADV	可以:ADV	就近:ADV	轉戰:Vt	其他:DET	餐廳:N	喔:T	
+店:N	外觀:N	小小:Vi	的:T	
+從:P	店:N	外頭:N	可以:ADV	看到:Vt	內部:N	頗:ADV	明亮:Vi	的:T	
+跟:P	日本:N	拉麵店:N	的:T	感覺:N	不:ADV	太:ADV	一樣:Vi	
+可能:ADV	日本:N	拉:Vt	麵店:N	入境:Vi	隨俗:Vi	
+都:ADV	改成:Vt	裝潢:N	比較:ADV	氣派:Vi	了:T	
+很:ADV	幸運:Vi	的:T	今天:N	門口:N	排隊:Vi	人潮:N	很:ADV	短:Vi	
+我們:N	等:Vt	大約:ADV	5:DET	分鐘:M	就:ADV	被:P	帶位:N	了:T	
+哈:ADV	
+門口:N	有:Vt	一:DET	個:M	炎神:N	的:T	字樣:N	
+剛:ADV	說到:Vt	會:ADV	冒火:Vi	
+也:ADV	是:Vt	吸引:Vt	我:N	來:Vi	的:T	原因:N	
+當初:N	在:P	日本:N	京都:N	吃:Vt	過:ASP	五行:N	拉麵:N	的:T	焦香:N	拉麵:N	就:ADV	是:Vt	用:P	大:Vi	火:N	去:ADV	考:Vt	出:Vt	那:DET	焦:Vi	香味:N	
+不:ADV	知道:Vt	這:DET	間:M	是:Vt	不:ADV	是也:ADV	這樣:Vi	
+特殊:Vi	角度:N	拍:Vt	這:DET	字樣:N	還:ADV	金光:N	閃閃:Vi	
+很:ADV	有:Vt	質感:N	XDDD:FW	在:P	門口:N	排隊:Vi	的:T	時候:N	
+服務生:N	會:ADV	先:ADV	給:Vt	菜單:N	
+菜單:N	分成:Vt	2:DET	種:M	
+圖文版:N	和:C	純:Vi	文字版:N	
+看:Vt	了:ASP	一下:N	才:ADV	發現:Vt	這:DET	間:M	只有:ADV	4:DET	種:M	拉麵:N	
+4:DET	種:M	中:POST	就:ADV	有:Vt	3:DET	款:M	是:Vt	味增:N	拉麵:N	
+看來:ADV	主打:Vt	的:T	是:Vt	味增:N	
+跟:P	我:N	想像:Vt	中:POST	的:T	焦香:N	不同:Vi	
+炎:N	之:T	味:N	增:Vt	拉麵:N	有:Vt	分成:Vt	兩:DET	個:M	版本:N	
+分別:ADV	是:Vt	2011年:N	和:C	2012年版:N	
+這:DET	感覺:N	蠻:ADV	酷:Vi	的:T	
+第一:DET	次:M	吃到:Vt	同:DET	名:M	不同:Vi	年份:N	拉麵:N	XDD:FW	
+另外:C	還:ADV	有:Vt	比較:ADV	清淡:Vi	口味:N	的:T	鹽味:N	拉麵:N	
+另外:C	還:ADV	會:ADV	加收:Vt	一成:DET	服務費:N	唷:T	
+這:DET	個:M	要:ADV	注意:Vt	一下:N	
+如果:C	覺得:Vt	會:ADV	一:DET	碗:M	麵:N	吃:Vt	不:ADV	飽:Vi	
+是:Vt	可以:ADV	免費:Vi	加:Vt	麵:N	的:T	喔:T	
+然後:ADV	拉麵:Vi	的:T	配菜:N	也:ADV	可以:ADV	另外:DET	點:M	
+很:ADV	客製:N	化:Vt	
+飲料:N	部分:DET	價格:N	稍:ADV	高:Vi	
+建議:Vt	直接:Vi	喝:Vt	店:N	內:N	檸檬水:N	就:ADV	好:Vi	
+全:DET	日文:N	的:T	介紹:N	
+有:Vt	看:Vt	沒有:ADV	懂:Vt	
+算了:Vi	
+拉麵:N	好吃:Vi	才:ADV	重要:Vi	
+一:ADV	走進:Vt	店:N	內:N	就:ADV	會:ADV	看到:Vt	一:DET	個:M	長桌:N	用餐區:N	
+然後:ADV	裝潢:Vt	非常:ADV	華麗:Vi	
+請:Vt	看上:Vt	圖:N	
+真的:ADV	很:ADV	難:Vi	跟:P	...:ETCCATEGORY	拉:Vt	麵店:N	做:Vt	聯想:N	啊:T	
+有:Vt	種:M	來到:Vt	歐美:N	餐廳:N	的:T	感覺:N	
+回頭:ADV	一:ADV	看:Vt	
+廚房:N	師傅:N	正在:ADV	噴火:Vi	
+真是:ADV	好:ADV	炫:Vi	阿:N	
+這:DET	火:N	比:P	五行:N	拉麵:N	的:T	還:ADV	大:Vi	好多:DET	
+等等:POST	再:ADV	來:ADV	拍:Vt	
+再:ADV	往:P	內:N	走:Vi	可以:ADV	發現:Vt	店:N	的:T	位置數:N	還:ADV	蠻:ADV	多:Vi	的:T	
+可能:ADV	比較:ADV	早:Vi	來:Vi	的:T	關係:N	
+很多:DET	位置:N	甚至:ADV	都:ADV	還是:ADV	空:Vt	的:T	
+就:ADV	隨意:Vi	的:T	挑:Vt	了:ASP	張:N	兩:DET	人:N	桌:N	坐下來:Vi	用餐:Vi	哩:T	
+椅子:N	下方:N	有:Vt	放:Vt	一:DET	個:M	置物:N	箱:N	
+可以:ADV	把:P	外套:N	、:PAUSECATEGORY	包包:N	都:ADV	放:Vt	這邊:N	
+還:ADV	蠻:ADV	貼心:Vi	的:T	服務:Nv	
+炎神:N	拉麵:N	介紹:Vt	桌:N	上:N	的:T	檸檬水:N	是:Vt	免費:Vi	供應:Vt	
+喝完:Vt	都:ADV	可以:ADV	請:Vt	服務生:N	補:Vt	
+接著:ADV	就:ADV	回到:Vt	透明:Vi	的:T	看臺:N	前:N	
+看:Vt	師傅:N	如何:ADV	用:P	大火:N	轟出:Vt	拉麵:N	
+炎神:N	拉麵:N	用:Vt	的:T	是:Vt	一:DET	種:M	很:ADV	特殊:Vi	的:T	噴:Vt	槍:N	
+有點:ADV	像:Vt	是:Vt	做:Vt	炙燒:Vi	壽司:N	的:T	那:DET	種:M	噴:Vt	槍:N	放大:Vt	版:N	
+聽說:Vt	溫度:N	可以:ADV	到:Vt	1300:DET	度:M	
+先:ADV	點:Vt	一下:N	
+火:N	感覺:N	還:ADV	好:Vi	
+接著:ADV	POWER:FW	全開:Vi	
+火燄:N	高到:Vi	快:Vi	燒到:Vt	天花板:N	
+聲勢:N	驚人:Vi	阿:N	
+是:Vt	說:Vt	這:DET	師傅:N	都:ADV	不:ADV	怕熱:Vi	嗎:T	=:FW	=:FW	
+竟然:ADV	可以:ADV	如此:ADV	穩:Vi	若:C	泰山:N	
+我們:N	在:P	玻璃:N	前:POST	都:ADV	能:ADV	感受到:Vt	那:DET	溫度:N	了:T	
+炎:N	之:T	味:N	增:Vt	拉麵:N	2011:DET	版:N	$:FW	230:DET	這:DET	碗:M	是:Vt	朋友點:N	的:T	
+該:DET	店:N	的:T	熱賣:Vi	拉麵:Vi	之:T	一:DET	
+配料:N	有:Vt	黑:Vi	木耳:N	、:PAUSECATEGORY	洋蔥:N	、:PAUSECATEGORY	筍干:N	、:PAUSECATEGORY	叉燒肉:N	塊:N	、:PAUSECATEGORY	糖:N	心:N	蛋:N	等:POST	
+其中:DET	糖:N	心:N	蛋:N	是:Vt	另外:C	加購:Vt	的:T	唷:T	
+一:DET	顆:M	$:FW	30:DET	
+這:DET	間:M	的:T	肉:N	好:ADV	特別:Vi	
+竟然:ADV	是:Vt	類似:Vt	骰子:N	牛肉:N	的:T	塊狀:N	豬肉:N	
+不:ADV	知道:Vt	這樣:Vi	吃起來:ADV	好不好吃:Vi	
+豬肉:N	表面:N	有:Vt	炙燒:Vi	過:ASP	的:T	痕跡:N	
+最:ADV	讓:Vt	我:N	好奇:Vi	的:T	是:Vt	湯頭:N	
+2011:DET	和:C	2012:DET	這:DET	兩:DET	種:M	到底:ADV	差:Vi	在:P	哪:DET	
+所以:C	先:ADV	喝:Vt	了:ASP	2011:DET	的:T	湯:N	
+味增:N	香氣:N	和:C	味道:N	都:ADV	算:Vt	蠻:ADV	濃:Vi	的:T	
+在:P	我:N	吃:Vt	過:ASP	的:T	台灣:N	日本:N	拉麵:N	店:N	中:N	濃稠度:N	真的:ADV	算:Vt	前:DET	幾:DET	位:M	
+鹹度:N	還:ADV	算:Vt	普通:Vi	
+炎:N	之:T	味:N	增:Vt	拉麵:N	2012:DET	版:N	$:FW	240:DET	仔細:Vi	看:Vt	了:ASP	一下:N	
+這:DET	碗麵:N	的:T	配菜:N	跟:P	2011:DET	版本:N	都:ADV	一模一樣:Vi	
+但:C	2012:DET	版本:N	是:Vt	該:DET	店:N	第一:DET	名:M	的:T	產品:N	
+差:Vi	就:ADV	差:Vi	在:P	湯頭:N	
+2012:DET	的:T	有:Vt	加入:Vt	馬鈴薯:N	冷:Vi	湯:N	
+所以:C	味道:N	更:ADV	濃稠:Vi	
+口感:N	上:POST	也:ADV	有:Vt	勾芡:Vi	感:Vt	
+就是:C	濃:Vi	
+大家:N	可以:ADV	仔細:Vi	比對:Vt	兩:DET	碗:M	湯:N	的:T	顏色:N	和:C	凝結:Vi	度:Vt	
+應該:ADV	可以:ADV	很:ADV	好:Vi	分出來:Vi	
+而:C	在:P	吃:Vt	過:ASP	的:T	拉麵:N	中:POST	
+這:DET	濃度:N	大概:ADV	僅次於:Vt	日本:N	的:T	天下:N	一:DET	品:N	拉麵:N	
+這:DET	碗:M	應該:ADV	很:ADV	受:Vt	吃重:Vi	口味:N	的:T	人:N	喜歡:Vt	
+看到:Vt	網路:N	上:POST	說:Vt	湯有焦:N	香味:N	
+但:C	我:N	喝:Vt	起來:ASP	都:ADV	是:Vt	味增:N	味:N	
+可能:ADV	我:N	味覺:N	比較:ADV	差:Vi	吧:T	
+才:ADV	沒:ADV	嚐:Vt	出來:Vi	
+骰子:N	豬:N	很:ADV	酷:Vi	的:T	肉塊:N	
+就:ADV	像:Vt	是:Vt	骰子:N	一樣:Vi	
+一塊塊:DET	的:T	堆疊:Vt	在:P	拉麵:N	上:N	
+一:DET	碗:M	大約:ADV	有:Vt	4:DET	
+6:DET	塊:M	吧:T	
+每:DET	塊:M	的:T	大小:N	也:ADV	都:ADV	一模一樣:Vi	
+感覺:Vt	很:ADV	像:Vt	是:Vt	模具:N	切出:Vt	來:Vi	的:T	
+表面:N	有:Vt	炙燒:Vi	過:ASP	的:T	痕跡:N	
+可能:ADV	就是:C	剛剛:ADV	的:T	大火:N	吧:T	
+口感:N	上:POST	跟:P	叉燒肉:N	差異:N	很:ADV	大:Vi	
+沒有:Vt	入口:N	即:ADV	化:Vt	
+而是:C	很:ADV	紮實:Vi	的:T	有:Vt	嚼:Vt	勁:N	
+老實說:ADV	我:N	吃:Vt	的:T	很:ADV	不:ADV	習慣:Vt	
+但:C	跟:P	拉麵:N	一起:ADV	吃:Vt	的:T	話:N	
+口感:N	是:Vt	會:ADV	還:ADV	蠻:ADV	多層次:N	的:T	
+不過:C	我:N	還是:ADV	比較:ADV	喜歡:Vt	軟嫩:Vi	的:T	叉燒肉:N	阿:N	
+糖心蛋:N	$:FW	30:DET	非常:ADV	的:T	Q:FW	軟:Vi	
+有:Vt	一定:A	的:T	水準:N	
+愛:Vt	吃:Vt	蛋:N	的:T	朋友:N	不能:ADV	錯過:Vt	
+拉麵:N	這:DET	間:M	的:T	拉麵:N	是:Vt	帶:Vt	有點:ADV	硬度:N	的:T	
+吃起來:ADV	會:ADV	有點:ADV	彈:Vt	牙:N	的:T	Q:FW	感:N	
+吸飽:Vt	濃稠:Vi	的:T	醬汁:N	
+入口:N	會:ADV	非常:ADV	好吃:Vi	
+跟:P	在:P	日本:N	拉:Vt	麵店:N	吃到:Vt	的:T	麵條:N	非常:ADV	的:T	像:P	
+讓:Vt	我:N	還:ADV	蠻:ADV	喜歡:Vt	的:T	
+搭配:Vt	紅:Vi	辣椒:N	絲:N	一起:ADV	吃:Vt	
+香香:Vi	辣辣:Vi	的:T	很:ADV	開胃:Nv	
+且:C	覺得:Vt	最:ADV	大:Vi	優勢:N	就:ADV	在於:Vt	可以:ADV	免費:Vi	加:Vt	麵:N	
+大:Vi	食量:N	的:T	人:N	應該:ADV	也:ADV	可以:ADV	吃飽:Vi	
+店:N	內:N	的:T	牆:N	上:N	有:Vt	兩:DET	個:M	很:ADV	有:Vt	氣勢:N	的:T	書法:N	字:N	
+應該:ADV	也:ADV	算是:Vt	該:DET	店:N	的:T	看頭:N	之:T	一:DET	
+整體:N	來:ADV	說:Vt	湯頭:N	濃郁:Vi	
+麵條:N	口感:N	跟:P	日本:N	也:ADV	頗:ADV	像:Vt	的:T	
+肉:N	很:ADV	大:Vi	塊:M	
+還:ADV	可:ADV	免費:Vi	加:Vt	麵:N	
+價格:N	跟:P	其他:DET	來自:Vt	日本:N	的:T	拉麵:N	相較:Vi	
+還:ADV	算:Vt	OK:FW	
+用餐:Vi	的:T	人潮:N	眾多:Vi	
+建議:Vt	提早:Vt	先:ADV	來:ADV	排隊:Vi	
+以上:N	是:Vt	個:M	人:N	淺見:N	
+僅:ADV	供:Vt	參考:Vt	

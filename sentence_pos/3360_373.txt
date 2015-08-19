@@ -1,0 +1,99 @@
+whh:FW	(:PARENTHESISCATEGORY	我:N	是:Vt	哇:T	哈哈:ADV	..:ETCCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	松山:N	15:DET	區:N	法式:A	烘焙:Vt	15:DET	emepatisserie:FW	
+Sun:FW	
+Jul:FW	
+27:DET	
+16:DET	::COLONCATEGORY	55:DET	::COLONCATEGORY	16:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	15:DET	區:N	法式:A	烘焙:Vt	15:DET	emepatisserie:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	1月:N	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	民生東路:N	三段:N	113巷:N	6弄:N	11:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2545:DET	-:DASHCATEGORY	6760:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	10:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	20:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	100:DET	-:DASHCATEGORY	200:DET	元:M	
+圖文:N	網誌:N	@:FW	sasa:FW	的:T	生活:N	好:Vi	時光:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	priscill.pixnet.net/blog/post:FW	/:FW	43130563:DET	
+在:P	甜點:N	的:T	領域:N	裡:N	
+日式:A	甜點:N	及:C	法式:A	甜點:N	是:Vt	兩:DET	大:Vi	霸主:N	
+日式:A	優雅:Vi	內斂:Vi	
+法式:A	華麗:Nv	熱情:N	
+而:C	在:P	台北:N	的:T	法式:A	甜點:N	地圖:N	中:POST	
+15:DET	區:N	是:Vt	其中:DET	響:M	噹噹:ADV	的:T	ㄧ員:N	
+在:P	西華:N	飯店:N	後面:N	幽靜:Vi	的:T	巷弄:N	中:POST	
+15:DET	區:N	以:P	亮:Vi	橘色:N	搭配:Vt	白色:N	亮眼:Vi	的:T	存在:Vi	著:ASP	
+整:DET	間:M	店:N	透出:Vt	溫暖:Vt	而:C	明亮:Vi	的:T	光芒:N	
+店:N	內:N	配色:Vi	是:Vt	用:P	一致:Vi	的:T	亮:Vi	白:Vi	及:C	粉橘:N	搭配:Vt	
+裝飾:N	簡單:Vi	精緻:Vi	
+一:ADV	入門:Vi	就是:C	一:DET	個:M	長:Vi	櫃臺:N	
+發:Vt	著:ASP	光:N	的:T	甜點:N	就:ADV	躺:Vi	在:P	玻璃:N	櫥櫃:N	中:POST	
+有:Vt	一:DET	小:Vi	區:N	內:N	用:P	區:N	
+我們:N	到達:Vt	時:POST	已經:ADV	是:Vt	下午:N	五:DET	點:M	
+幾乎:ADV	沒有:Vt	人:N	了:T	我們:N	也:ADV	是:Vt	要:ADV	外帶:Vt	當作:Vt	晚餐:N	後:POST	甜點:N	
+店員:N	會:ADV	將:P	蛋糕:N	底:POST	紙:N	以:P	膠帶:N	黏:Vt	在:P	外帶:Vt	紙盒:N	中:POST	
+避免:Vt	路程:N	中:N	晃動:Vt	傷:Vt	了:ASP	蛋糕:N	外觀:N	
+忘記:Vt	名字:N	的:T	閃電:N	泡芙:N	法式:A	甜點:N	有:Vt	很多:DET	經典:N	款:N	
+馬卡龍:N	、:PAUSECATEGORY	可:ADV	麗露:N	、:PAUSECATEGORY	舒芙蕾:N	、:PAUSECATEGORY	蒙布朗:N	等等:POST	..:ETCCATEGORY	
+而:C	閃電:N	泡芙:N	算是:Vt	相對:Vi	較:ADV	新:Vi	的:T	新秀:N	
+把:P	特:ADV	...:ETCCATEGORY	我:N	忘:Vt	了:ASP	它:N	的:T	口味:N	及:C	名字:N	了:T	
+閃電:N	泡芙:N	的:T	派皮:N	不:ADV	像:Vt	日式:A	大:Vi	泡芙:N	這樣:ADV	蓬鬆:Vi	
+屬:Vt	層層:DET	酥脆:Vi	的:T	感覺:N	
+上面:N	綠色:N	的:T	是:Vt	杏仁:N	口味:N	
+算是:Vt	比較:Nv	榛果:N	款:N	的:T	口味:N	的:T	杏仁:N	
+但:C	真的:ADV	不:ADV	敢:Vt	喝:Vt	杏仁茶:N	的:T	朋友:N	
+可能:ADV	還是:ADV	會:ADV	怕:Vt	它:N	的:T	味道:N	
+但:C	我:N	超:Vt	愛:N	的:T	
+聖誕:N	蒙:Vt	布朗:N	
+130:DET	元:M	
+聖誕:N	蒙:Vt	布朗:N	不:ADV	是:Vt	聖誕節:N	的:T	季節:N	限定:Vt	
+它:N	是:Vt	長期:N	推出:Vt	的:T	常態性:N	蛋糕:N	
+可是:C	15:DET	區:N	的:T	鎮店寶:N	之:T	一:DET	就:ADV	如同:Vt	名字:N	般:POST	
+用:P	野莓慕斯:N	營造:Vt	聖誕:N	的:T	節慶:N	
+搭上:Vt	濃郁:Vi	美味:Vi	的:T	栗子:N	餡:N	
+酸酸甜甜:Vi	好:Vi	滋味:N	
+抹:Vt	茶:N	千:DET	層:M	派:Vt	
+130:DET	元:M	
+千:DET	層:M	派上:Vt	灑:Vt	了:ASP	抹:Vt	茶粉:N	
+中間:N	每:DET	一:DET	層:M	也:ADV	是:Vt	濃厚:Vi	的:T	抹:Vt	茶醬:N	
+千:DET	層:M	派:N	都:ADV	是:Vt	現:ADV	烤:Vt	的:T	
+需:ADV	等待:Vt	約:ADV	15:DET	分鐘:M	
+但:C	我們:N	帶:Vt	回家:Vi	晚餐:N	後:POST	才:ADV	吃:Vt	
+沒:ADV	吃到:Vt	剛:ADV	烤:Vt	出:Vt	的:T	酥香:N	
+千:DET	層:M	派:Vt	變得:Vt	些微:A	濕黏:Vi	
+但:C	焦糖:N	的:T	焦:Vi	香味:N	很:ADV	明顯:Vi	
+所謂:Vt	的:T	焦:Vi	香味:N	
+真的:ADV	是:Vt	偏向:Vt	焦掉:N	的:T	氣味:N	
+這:DET	種:M	略微:ADV	焦掉:N	的:T	味道:N	好像:ADV	是:Vt	15:DET	區:N	的:T	風格:N	
+因為:C	在:P	他:N	的:T	可:ADV	麗露:N	上:N	表現:Vt	得:T	更為:ADV	明顯:Vi	
+而:C	抹:Vt	茶味:N	很:ADV	濃:Vi	很:ADV	香:Vi	
+不會:ADV	很:ADV	人工:N	
+更:ADV	可:ADV	稱:Vt	好吃:Vi	
+但:C	抹茶:N	這:DET	味道:N	
+我:N	覺得:Vt	還:ADV	是:Vt	日本:N	係:Vt	的:T	表現:N	得:T	比較:ADV	亮眼:Vi	
+草莓塔:N	
+150:DET	元:M	
+草莓塔:N	中間:N	的:T	卡式:A	達醬:N	非常:ADV	不:ADV	俗:Vi	
+吃:Vt	得:T	出:Vt	精緻:Vi	細緻:Vi	
+草莓:N	也:ADV	是:Vt	挑選:Vt	過:ASP	的:T	嬌豔:Vi	欲:Vt	滴:Vt	
+香甜:Vi	可口:Vi	
+不愧:ADV	也:ADV	是:Vt	15:DET	區:N	受:P	歡迎:Vt	的:T	品:N	項:M	
+這:DET	次:M	沒有:ADV	買:Vt	馬卡龍:N	
+但:C	草莓塔:N	上:N	有:Vt	一:DET	個:M	馬卡龍:N	
+15:DET	區:N	的:T	馬卡龍:N	我:N	也:ADV	滿:ADV	喜歡:Vt	的:T	
+不至於:ADV	甜:Vi	的:T	嚇人:Vi	
+杏仁:N	外皮:N	很:ADV	香:Vi	酥:Vi	
+內:N	餡:N	也:ADV	真:Vi	材實:N	料:Vt	
+可:ADV	麗露:N	
+60:DET	元:M	
+15:DET	區:N	的:T	可:ADV	麗露:N	外皮:N	很:ADV	薄:Vi	脆:Vi	
+焦:Vi	香氣:N	濃厚到:Vi	會:ADV	有點:ADV	懷疑:Vt	是:Vt	不:ADV	是:Vt	烤:Vt	得:T	過:ADV	焦:Vi	了:T	
+內層:N	Q:FW	軟:Vi	但:C	不:ADV	夠:ADV	扎實:Vi	
+我:N	不:ADV	是:Vt	很:ADV	喜歡:Vt	15:DET	區:N	的:T	可:ADV	麗露:N	
+對:P	我:N	來:ADV	說:Vt	
+我:N	吃:Vt	過:ASP	最:ADV	好吃:Vi	的:T	可:ADV	麗露:N	是:Vt	在:P	侯布雄:N	工作:N	的:T	甜點:N	廚師:N	
+友情:N	自製:Vt	的:T	可:ADV	麗露:N	
+我:N	覺得:Vt	比:P	珠寶盒:N	和:C	15:DET	區:N	的:T	都:ADV	好吃:Vi	
+當然:ADV	
+15:DET	區:N	的:T	甜點:N	不:ADV	便宜:Vi	
+不過:C	吃:Vt	得:T	出食材:N	的:T	實在:ADV	與:P	精緻:Vi	
+法國:N	太:ADV	遠:Vi	太:ADV	貴:Vi	
+在:P	15:DET	區:N	享受:Vt	一:DET	場:M	法式:A	的:T	悠閒:Vi	午後:N	
+也:ADV	不失為:Vt	一:DET	個:M	優雅:Vi	的:T	選擇:N	

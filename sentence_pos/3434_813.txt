@@ -1,0 +1,125 @@
+ghosthell:FW	(:PARENTHESISCATEGORY	小豪:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	台北市:N	]:PARENTHESISCATEGORY	美式:A	餐廳:N	-:DASHCATEGORY	thechips:FW	.:PERIODCATEGORY	光復:Vt	店:N	
+Mon:FW	
+Aug:FW	
+18:DET	
+10:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	38:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	thechips:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	
+地址:N	：:COLONCATEGORY	台北市:N	光復南路:N	280巷:N	37:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2778:DET	-:DASHCATEGORY	9993:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	~:FW	週五:N	10:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	；:SEMICOLONCATEGORY	週六:N	~:FW	週日:N	10:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	250:DET	元:M	
+推薦:Vt	菜色:N	：:COLONCATEGORY	燻雞:N	總匯:N	傑克:N	烙餅:N	、:PAUSECATEGORY	紐澳良香辣:N	雞:N	燉飯:Vt	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+無:Vt	音樂:N	好:Vi	讀版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	babydiablo.pixnet.net/blog/post:FW	/:FW	386121668:DET	
+---:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	以下:N	為:Vt	純:Vi	文字:N	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	這:DET	是:Vt	一:DET	間:M	
+菜:N	單品:N	項:M	非常:ADV	非常:ADV	非常:ADV	非常:ADV	非常:ADV	非常:ADV	多:Vi	的:T	餐廳:N	
+第一:DET	次:M	為了:P	寫:Vt	食記拍:N	菜單:N	會:ADV	拍到:Vt	震怒:Vi	不:ADV	想:Vt	拍:Vt	了:ASP	=:FW	_:FW	=:FW	athechips:FW	一共:ADV	有:Vt	兩:DET	間:M	
+起先:ADV	是:Vt	內湖店:N	
+但:C	內湖店:N	的:T	生意:N	好:Vi	到:P	不行:Vi	
+因此:C	開展出:Vt	了:ASP	第二:DET	間:M	分店:N	
+可是:C	兩:DET	間:M	的:T	菜色:N	略:ADV	有:Vt	不同:Vi	
+我們:N	吃:Vt	的:T	是:Vt	光復:Vt	店:N	
+就:ADV	先:ADV	來:ADV	說說:Vt	這:DET	間:M	光復:Vt	店:N	的:T	資訊:N	啦:T	：:COLONCATEGORY	地址:N	：:COLONCATEGORY	台北市:N	光復南路:N	280巷:N	37:DET	號:M	電話:N	：:COLONCATEGORY	
+02:DET	
+2778:DET	-:DASHCATEGORY	9993:DET	營業:Nv	時間:N	：:COLONCATEGORY	週一:N	
+週五:N	10:DET	::COLONCATEGORY	30:DET	
+22:DET	::COLONCATEGORY	00:DET	
+週六:N	
+週日:N	10:DET	::COLONCATEGORY	00:DET	
+22:DET	::COLONCATEGORY	00:DET	檢視:Vt	較:ADV	大:Vi	的:T	地圖:N	捷運:N	：:COLONCATEGORY	國父:N	紀念館:N	下:N	
+2:DET	號:M	出口:Vt	往:P	光復南路:N	方向:N	走:Vi	
+公車:N	：:COLONCATEGORY	204:DET	、:PAUSECATEGORY	.:PERIODCATEGORY	212:DET	、:PAUSECATEGORY	232:DET	、:PAUSECATEGORY	278:DET	、:PAUSECATEGORY	299:DET	、:PAUSECATEGORY	687:DET	、:PAUSECATEGORY	91:DET	、:PAUSECATEGORY	240:DET	、:PAUSECATEGORY	254:DET	、:PAUSECATEGORY	266:DET	、:PAUSECATEGORY	282:DET	、:PAUSECATEGORY	288:DET	
+ref:FW	：:COLONCATEGORY	tthechips:FW	官網:N	
+新莊人:N	可以:ADV	搭:Vt	235:DET	
+國父:N	紀念館:N	下車:Vi	走路:Vi	過去:N	即可:ADV	
+兩:DET	段:M	票:N	
+這:DET	便是:C	thechips:FW	的:T	招牌:N	啦:T	
+在:P	店:N	門口:N	就:ADV	可以:ADV	看到:Vt	
+有:Vt	戶外:N	座位:N	哦:T	
+可是:C	我:N	覺得:Vt	在:P	都市:N	裡:N	
+坐:Vi	在:P	戶外:N	吃飯:Vi	還:ADV	是:Vt	免:Vt	了:ASP	
+夏熱冬:N	冷:Vi	的:T	
+農場:N	還可以:ADV	欣賞:Vt	風景:N	
+都市:N	只:ADV	能:ADV	吃:Vt	廢氣:N	阿:N	
+美式:A	餐廳:N	的:T	特色:N	就:ADV	是:Vt	有:Vt	大:Vi	電視:N	可以:ADV	看:Vt	
+這:DET	在世:Vi	足賽:N	還是:C	甚麼:DET	的:T	一定:ADV	很:ADV	熱鬧:Vi	
+可是:C	老闆:N	最好:ADV	選擇:Vt	只:ADV	讓:Vt	一:DET	方:M	球迷:N	進場:Vi	
+不然:C	可能:ADV	會:ADV	喋血:A	thechips:FW	哈哈:ADV	哈哈:ADV	
+當然:ADV	
+這:DET	在:P	台灣:N	不:ADV	太:ADV	容易:Vi	發生:Vt	
+但是:C	世:N	足:Vt	期間:N	的:T	歐洲:N	就:ADV	一定:ADV	會:ADV	有:Vt	
+比方說:P	守門員:N	沒:ADV	守住:Vt	關鍵球:N	回國:Vi	被:P	槍殺:Vt	這:DET	我:N	就:ADV	聽:Vt	過:ASP	
+接下來:ADV	就:ADV	是:Vt	無限:Vi	菜單:N	
+菜單:N	種類:N	跟:P	品:Vt	項:M	真的:ADV	超多:Vi	
+其實:ADV	官網:N	也:ADV	都:ADV	看:Vt	得到:Vt	
+但是:C	官網:N	的:T	沒有:Vt	價錢:N	
+所以:C	可以:ADV	兩:DET	邊:N	對照:Vt	
+thechips:FW	菜單:N	每:DET	人:N	低:Vi	銷:Vt	$:FW	130:DET	
+另:C	加收:Vt	10:DET	%:M	服務費:N	
+食材:N	的:T	特別:Vi	小弟:N	我:N	也:ADV	看:Vt	不:ADV	太:ADV	懂:Vt	...:ETCCATEGORY	當兵:Vi	當:P	了:ASP	快:Vi	一:DET	年:M	
+在:P	軍:N	中:POST	很多:DET	時候:N	是:Vt	為了:P	生命:N	而:C	進食:Vi	的:T	
+早:Vi	午餐:N	
+早:Vi	午餐:N	官網:N	就:ADV	有:Vt	價錢:N	
+字:N	也:ADV	比較:ADV	清楚:Vi	
+所以:C	推薦:Vt	去:ADV	看:Vt	官網:N	
+官網:N	的:T	早:Vi	午餐:N	我:N	就:ADV	擷取:Vt	官網:N	最:ADV	有:Vt	可能:ADV	平常:N	會點:N	的:T	一:DET	部分:DET	
+我:N	相信:Vt	早餐:N	兩三百:DET	多數:DET	人:N	無法:ADV	常:ADV	吃:Vt	XD:FW	這:DET	部分:DET	的:T	炒蛋:N	..:ETCCATEGORY	我:N	可能:ADV	會:ADV	比較:ADV	喜歡:Vt	我:N	家:N	巷口:N	的:T	九:DET	層:M	塔:N	炒蛋:Vi	
+來:ADV	這裡:N	吃:Vt	漢堡:N	還是:ADV	燉:Vt	飯:N	或是:C	烙餅:N	可能:ADV	比較:ADV	好:Vi	
+法式:A	料理:N	的:T	餐廳:N	有有:Vi	稀飯:N	你:N	會:ADV	想:Vt	點:ADV	嗎:T	
+午晚餐:N	
+價位:N	很:ADV	清楚:Vi	從:P	120:DET	元:M	到:Vt	240:DET	元:M	都:ADV	有:Vt	
+有:Vt	麵包:N	、:PAUSECATEGORY	沙拉:N	、:PAUSECATEGORY	飲料:N	、:PAUSECATEGORY	甜點:N	
+名字:N	看起來:ADV	很:ADV	好吃:Vi	的:T	開胃菜:N	部分:DET	
+我們:N	點:Vt	了:ASP	綜合:A	拚盤:N	$:FW	NT:FW	430:DET	有:Vt	鮮嫩:Vi	雞:N	柳條:N	、:PAUSECATEGORY	酥炸:Vi	起:ASP	司條:N	、:PAUSECATEGORY	墨西哥:N	雞:N	肉卷:N	、:PAUSECATEGORY	辣味:N	雞翅:N	
+四:DET	選:Vt	三:DET	組合:Nv	
+沙拉:N	部分:DET	
+超貴:N	沙拉:N	...:ETCCATEGORY	義大利麵:N	
+怎麼:ADV	會:ADV	沙拉:N	跟:P	義大利麵:N	的:T	價位:N	接近:Vi	讓:Vt	我:N	百思不得其解:Vi	
+紅醬:N	義大利麵區:N	和麵:Vi	疙瘩:N	
+燉飯:Vt	區:N	
+這:DET	部份:DET	我們:N	點:Vt	了:ASP	紐澳良香辣:N	雞:N	燉飯:Vt	$:FW	NT:FW	280:DET	
+烙餅區:N	
+我們:N	點:Vt	了:ASP	燻雞:N	總匯:N	傑克:N	烙餅:N	$:FW	NT:FW	340:DET	
+漢堡區:N	
+這裡:N	應該:ADV	是:Vt	主:A	戰力:N	了:T	
+其實:ADV	我:N	那時:N	很:ADV	想:Vt	吃:Vt	史萊姆:N	
+聽起來:ADV	就:ADV	很:ADV	有趣:Vi	阿:N	XDD:FW	有:Vt	人:N	不:ADV	吃:Vt	牛:N	
+所以:C	很:ADV	貼心:Vi	地:T	弄:Vt	個:M	雞肉:N	堡區:N	出來:Vi	
+三明治區:N	
+三:DET	隻:M	小:Vi	嫩:Vi	豬:N	也:ADV	很:ADV	想:Vt	點:N	
+下:DET	次:M	來:ADV	在:P	吃:Vt	
+甜點區:N	
+還:ADV	有:Vt	兒童餐:N	耶:T	真的:ADV	貼心:Vi	到:P	不行:Vi	
+飲料:N	部分:DET	
+飲料:N	部分:DET	2:DET	
+接下來:ADV	就:ADV	是:Vt	我們:N	點:Vt	的:T	
+綜合:A	拚盤:N	$:FW	NT:FW	430:DET	
+上方:N	的:T	是:Vt	墨西哥:N	雞肉:N	捲:Vt	
+右邊:N	的:T	是:Vt	雞:N	柳條:N	
+左邊:N	的:T	是:Vt	雞翅:N	
+好吃:Vi	
+沾醬:N	後:POST	極品:N	
+紐澳良香辣:N	雞:N	燉飯:Vt	$:FW	NT:FW	280:DET	這:DET	燉飯:Vt	是:Vt	本:DET	次:M	用餐:Vi	最:ADV	好吃:Vi	的:T	
+可是:C	為什麼:ADV	沒:Vt	放首圖:N	呢:T	
+因為:C	它:N	的:T	賣:Vt	相:ADV	不:ADV	太:ADV	好看:Vi	哈哈:ADV	哈哈:ADV	
+但是:C	好吃:Vi	
+香味四溢:Vi	
+不:ADV	油膩:Vi	
+辣度:N	剛好:ADV	不會:ADV	讓:Vt	你:N	隔:P	天:N	解放:Nv	時候:N	屁股:N	痛痛:Vi	der:FW	
+燻雞:N	總匯:N	傑克:N	烙餅:N	$:FW	NT:FW	340:DET	
+官網:N	是:Vt	這麼:ADV	說:Vt	的:T	：:COLONCATEGORY	用:P	玉:N	米粉:N	、:PAUSECATEGORY	小麥:N	麵粉:N	烙製:Vt	的:T	墨西哥:N	薄餅:N	煎烤:Vt	至:P	酥脆:Vi	
+夾上:Vt	非常:ADV	Juicy:FW	的:T	自製:Nv	炭烤:Nv	燻:Nv	雞腿肉:N	
+配上:Vt	黑豆:N	、:PAUSECATEGORY	玉米:N	、:PAUSECATEGORY	胡萎葉:N	、:PAUSECATEGORY	青:Vi	紅椒:N	、:PAUSECATEGORY	芹菜:N	丁:N	
+搭配:Vt	自製:Vt	的:T	酪梨醬:N	、:PAUSECATEGORY	酸奶醬:N	、:PAUSECATEGORY	調味:Nv	蕃茄:N	丁:N	、:PAUSECATEGORY	新鮮:Vi	生菜:N	
+無論:C	單:ADV	點:Vt	當:P	主餐:N	或者:C	三五:DET	好友:N	一起:ADV	分享:Vt	皆:ADV	適合:Vi	
+道地:Vi	美味:Vi	的:T	餐點:N	
+滿足:Vt	您:N	挑剔:Vt	的:T	味蕾:N	
+酪梨醬:N	配:Vt	這:DET	真的:ADV	很:ADV	棒:Vi	
+就:ADV	跟:P	糖醋醬:N	配:Vt	薯條:N	一樣:Vi	爽:Vi	
+這:DET	道:M	很:ADV	不錯:Vi	
+只:ADV	是:Vt	傑克:N	到底:ADV	是:Vt	誰:N	
+完:Vi	

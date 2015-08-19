@@ -1,0 +1,36 @@
+like:FW	5556:DET	(:PARENTHESISCATEGORY	澎湖:N	馬公:N	孫協志:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	如果:C	要:ADV	去:ADV	吃:Vt	古拉爵:N	台北:N	哪:DET	間:M	最:ADV	推薦:Vt	?:QUESTIONCATEGORY	
+Fri:FW	
+Apr:FW	
+3:DET	
+16:DET	::COLONCATEGORY	53:DET	::COLONCATEGORY	53:DET	
+2015:DET	
+請益:Vi	
+如果:C	要:ADV	去:ADV	吃:Vt	古拉爵:N	台北:N	哪:DET	間:M	最:ADV	推薦:Vt	
+FriApr:FW	316:DET	::COLONCATEGORY	53:DET	::COLONCATEGORY	532015:DET	
+請:Vt	填寫:Vt	發問:Nv	範本:N	並:ADV	保留:Vt	項目:N	名稱:N	：:COLONCATEGORY	
+【:PARENTHESISCATEGORY	選填:Vt	項目:N	】:PARENTHESISCATEGORY	可:ADV	參酌:Vt	需求:N	自行:ADV	決定:Vt	是否:ADV	填寫:Vt	
+【:PARENTHESISCATEGORY	必:ADV	填:Vt	項目:N	】:PARENTHESISCATEGORY	未:ADV	填:Vt	者:N	
+板主:N	會:ADV	將:ADV	發問:Vi	原文:N	收入:N	回收:Vt	桶後:N	刪除:Vt	
+發表:Vt	時:POST	請:Vt	將:P	『:PARENTHESISCATEGORY	青色:N	的:T	項目:N	名稱:N	』:PARENTHESISCATEGORY	以外:POST	的:T	所有:DET	範本:N	內容:N	
+包括:Vt	上面:N	三:DET	行:M	與:P	本:DET	段:M	
+用:P	鍵盤:N	上:N	的:T	ctrl:FW	鍵:N	+:FW	y:FW	鍵:N	加以:ADV	刪除:Vt	
+1:DET	.:PERIODCATEGORY	想:Vt	找:Vt	的:T	餐飲:N	類別:N	
+義式:A	餐廳:N	
+2:DET	.:PERIODCATEGORY	用餐:Vi	地區:N	
+我們:N	住:Vt	板橋:N	..:ETCCATEGORY	
+所以:C	大概:ADV	是:Vt	板橋:N	或者:C	台北市:N	
+3:DET	.:PERIODCATEGORY	每:DET	人:N	預算:N	
+新台幣:N	$:FW	500:DET	-:DASHCATEGORY	600:DET	元:M	
+4:DET	.:PERIODCATEGORY	用餐:Nv	時段:N	
+晚餐:N	
+5:DET	.:PERIODCATEGORY	用餐:Nv	人數:N	
+選填:Vt	
+2:DET	人:N	
+6:DET	.:PERIODCATEGORY	查詢:Nv	精華區:N	及:C	板面:N	文章:N	後:POST	拿:Vt	不定:Vi	主意:N	的:T	候選:Nv	店家:N	
+必:ADV	填:Vt	
+候選:Vi	店家:N	未:ADV	填:Vt	者:N	
+板主:N	將:ADV	逕行:ADV	刪除:Vt	發問:Vi	
+目前:N	是:Vt	古拉:N	爵:Vt	
+可是:C	聽說:Vt	每:DET	間:M	店:N	的:T	素質:N	不:ADV	太:ADV	一樣:Vi	
+所以:C	想:Vt	問問:Vt	大家:N	比較:ADV	推薦:Vt	哪:DET	家:M	

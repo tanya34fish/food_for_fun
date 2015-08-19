@@ -1,0 +1,71 @@
+tzuyang:FW	555:DET	(:PARENTHESISCATEGORY	555:DET	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	士林:N	吉祥:Vi	小:Vi	館:N	
+Sun:FW	
+Jul:FW	
+20:DET	
+17:DET	::COLONCATEGORY	12:DET	::COLONCATEGORY	45:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	吉祥:Vi	小:Vi	館:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	4月:N	
+地址:N	：:COLONCATEGORY	111:DET	台北市:N	士林區:N	雨農路:N	31:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2838:DET	-:DASHCATEGORY	3250:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	16:DET	::COLONCATEGORY	30:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tzuyang555.pixnet.net/blog/post:FW	/:FW	43694341:DET	
+芝山岩:N	旁邊:N	有:Vt	個:M	不起眼:Vi	的:T	小店:N	-:DASHCATEGORY	吉祥:Vi	小:Vi	館:N	
+每:DET	次:M	總是:Vt	人聲:N	鼎沸:Vi	
+前:DET	鎮子:N	發現:Vt	他:N	搬到:Vt	雨:N	農路:N	上:N	
+離:P	我:N	家:N	更:ADV	近:Vt	了:ASP	
+趁著:P	一:DET	天:M	有空:Vi	
+早點:ADV	出發:Vi	來:ADV	吃吃:Vt	
+菜單:N	是:Vt	傳單:N	形式:N	
+都:ADV	被:P	折:Vt	得:T	有點:ADV	破破爛爛:Vi	...:ETCCATEGORY	不:ADV	太:ADV	討喜:Vi	一:DET	道:M	菜:N	平均:Vi	是:Vt	在:P	150:DET	到:P	200:DET	之間:POST	居多:Vi	
+辣子雞丁:N	
+$:FW	190:DET	
+雞:N	丁:N	挺:ADV	嫩:Vi	的:T	
+不:ADV	乾:Vi	柴:N	
+也:ADV	不會:ADV	太:ADV	辣:Vi	
+五:DET	更:M	腸旺:N	
+$:FW	160:DET	
+挺:ADV	辣:Vi	、:PAUSECATEGORY	料:N	挺:ADV	多:Vi	的:T	
+醬汁:N	中:POST	還:ADV	能:ADV	吃到:Vt	一些:DET	碎肉:N	
+超級:A	下:Vt	飯:N	
+不:ADV	太:ADV	習慣:Vt	腸旺:N	用:P	這:DET	種:M	容器:N	裝:Vt	
+一般:A	底下:N	都:ADV	有:Vt	個:M	持續:Vt	加熱:Vi	的:T	酒精燈:N	
+才:ADV	有:Vt	腸旺:N	fu:FW	
+XD:FW	但是:C	這裡:N	的:T	飯:N	是:Vt	一:DET	碗:M	一:DET	碗:M	點:N	的:T	
+$:FW	10:DET	
+..:ETCCATEGORY	不能:ADV	痛快:Vi	當:P	飯桶:N	了:T	
+獅子頭:N	
+$:FW	190:DET	
+算是:Vt	稍為:ADV	清爽:Vi	一點:ADV	的:T	一:DET	道:M	
+不:ADV	像:Vt	有:Vt	些:M	店:N	
+他們:N	的:T	獅子頭:N	是:Vt	沒有:ADV	勾芡:Vi	的:T	
+所以:C	我:N	才:ADV	說:Vt	他們:N	的:T	稍微:ADV	清爽:Vi	點:ADV	
+莧菜:N	小:Vi	魚:N	
+$:FW	130:DET	
+超級:A	鹹:Vi	
+其他:DET	肉類:N	調味:Vi	比較:ADV	鹹:Vi	就:ADV	算了:Vi	
+沒想到:ADV	連:C	這:DET	個:M	青菜:N	都:ADV	這麼:ADV	鹹:Vi	...:ETCCATEGORY	糖醋魚片:N	
+$:FW	180:DET	
+台灣:N	鯛:N	搭配:Vt	豌豆莢:N	
+吃來吃去:Vi	終於:ADV	沒有:Vt	這麼:ADV	鹹:Vi	了:T	
+因為:C	是:Vt	甜:Vi	的:T	啊:T	當然:ADV	..:ETCCATEGORY	
+干絲:N	肉絲:N	
+$:FW	160:DET	
+要:ADV	吃:Vt	所謂:Vt	干絲:N	的:T	話:N	
+個:M	人:N	比較:ADV	喜歡:Vt	寶飽煲:N	那:DET	種:M	滑嫩:Vi	的:T	干絲:N	
+結論:N	時間:N	：:COLONCATEGORY	寶飽煲:N	當作:Vt	這:DET	間:M	的:T	比較:Nv	對象:N	
+並:C	不:ADV	是:Vt	說:Vt	吉祥:Vi	小:Vi	館:N	不:ADV	好吃:Vi	
+但:C	較:P	價位:N	、:PAUSECATEGORY	份量:N	或是:C	口味:N	上:N	
+寶飽煲:N	在:P	我:N	心目中:N	都:ADV	略勝一籌:Vi	
+再:ADV	加上:C	有:Vt	熱:Vt	茶:N	&:FW	amp:FW	
+白飯:N	吃到:Vt	飽:Vi	&:FW	amp:FW	
+酒:N	水:N	可:ADV	自備:Vt	免:ADV	開瓶:Vi	費:Vt	
+可以:ADV	說:Vt	是:Vt	贏:Vt	了:ASP	一:DET	大:Vi	截:M	
+不過:C	能:ADV	從:P	路:N	旁:N	旁邊:N	不起眼:Vi	小店:N	
+一路:ADV	升級:Vi	到:P	兩:DET	層:M	樓:N	餐廳:N	
+也:ADV	是:Vt	挺:ADV	厲害:Vi	的:T	
+可以:ADV	自己:N	來:ADV	吃吃:Vt	看:Vt	
+就:ADV	知道:Vt	哪:DET	間:M	比較:ADV	合:Vt	你:N	味口:N	了:T	

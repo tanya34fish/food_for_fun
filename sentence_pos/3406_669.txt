@@ -1,0 +1,191 @@
+freya305(F:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	添:Vt	好運:N	
+Sat:FW	
+Aug:FW	
+9:DET	
+22:DET	::COLONCATEGORY	35:DET	::COLONCATEGORY	08:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	添:Vt	好運:N	北車:N	站前店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	忠孝西路:N	一段:N	36:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23707078:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	8:DET	/:FW	11:DET	起:M	改:Vt	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	營業:Nv	):PARENTHESISCATEGORY	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+平均:Vi	價位:N	::COLONCATEGORY	一:DET	人:N	約:ADV	兩百:DET	到:P	四百:DET	
+圖文:N	網誌:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	freyah.pixnet.net/blog/post:FW	/:FW	170077290:DET	
+大家:N	好:Vi	
+本人:N	非專業:A	
+抱:Vt	著:ASP	分享:Vt	的:T	心情:N	請:Vt	大家:N	多:ADV	包涵:Vt	唷:T	
+照片:N	沒有:ADV	預料到:Vt	自己:N	會:ADV	寫:Vt	食記:N	有:Vt	些:M	模糊:Vi	下:DET	次:M	會:ADV	努力:Vi	改善:Vt	
+謝謝:Vt	大家:N	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+身為:Vt	台北:N	學生:N	
+對於:P	北車:N	的:T	記憶:N	約莫:ADV	都:ADV	是:Vt	些:M	上課:Vi	前:POST	胡亂:ADV	吃:Vt	的:T	東西:N	
+這:DET	次:M	堪稱:Vt	
+世界:N	最:ADV	便宜:Vi	米其林:N	餐廳:N	
+---:DASHCATEGORY	添:Vt	好運:N	就:ADV	這樣:Vi	開:Vt	在:P	北車:N	
+自:P	以為:Vt	吃:Vt	了:ASP	會:ADV	好運:Vi	所以:C	就:ADV	去:Vt	了:ASP	XD:FW	
+首先:ADV	排隊:Vi	的:T	地方:N	很:ADV	貼心:Vi	地:T	設有:Vt	超大型:N	電扇:N	和:C	一:DET	排:M	的:T	椅子:N	
+在:P	排隊:Vi	的:T	時候:N	會:ADV	附上:Vt	小綠:N	菜單:N	
+目前:N	大約:ADV	要:ADV	排:Vt	一:DET	小:Vi	半:DET	才:ADV	能:ADV	吃到:Vt	建議:N	可以:ADV	先:ADV	有:Vt	人:N	去:ADV	排:Vt	
+DSC01525.JPG:FW	
+排隊:Vi	的:T	隊伍:N	很:ADV	驚人:Vi	
+不過:C	即便:C	朋友:N	們:N	先:ADV	來:ADV	排:Vt	還是:ADV	要:ADV	等到:P	全部:DET	到齊:Vi	才:ADV	能:ADV	進入:Vt	喔:T	
+廢話:N	不:ADV	多:ADV	說:Vt	讓:Vt	我們:N	直接:Vi	進入:Vt	主題:N	吧:T	
+鎗啷:N	啷:b	
+首先:ADV	是:Vt	四大天王:N	的:T	---:DASHCATEGORY	脆皮:N	叉燒:N	包:Vt	
+DSC01534.JPG:FW	
+目前:N	每:DET	桌:M	只:ADV	限量:Vi	一:DET	盤:M	
+酥脆:Vi	的:T	外在:N	不:ADV	因:C	內:N	餡:N	而:C	坍軟:Vi	
+呈現:Vt	分明:Vi	的:T	口感:N	
+叉燒:N	餡料:N	做:Vt	的:T	鹹甜:Vi	可口:Vi	
+這裡:N	主打:Vt	的:T	是:Vt	紅麴米:N	染紅:Vt	
+不:ADV	是:Vt	用:P	食用:Vt	色素:N	
+但:C	做為:Vt	主打:Nv	招牌:N	我:N	個:M	人:N	覺得:Vt	好像:ADV	言過其實:Vi	
+不過:C	去:Vt	了:ASP	還是:ADV	該:ADV	朝聖:Vi	一下:N	XD:FW	
+接著:ADV	是:Vt	韭王:N	鮮蝦:N	腸:N	
+DSC01537.JPG:FW	
+嫩薄:Vi	的:T	腸粉:N	X:FW	溫熱:Vt	的:T	醬汁:N	X:FW	彈:Vt	牙:N	的:T	蝦仁:N	
+真的:ADV	是:Vt	非常:ADV	大:Vi	推:Vt	
+在:P	嘴:N	裡:N	化開:Vt	的:T	感覺:N	讓:Vt	我:N	看到:Vt	了:ASP	小:Vi	當家:Vi	的:T	仙女:N	姐姐:N	阿:N	
+當然:ADV	這:DET	跟:P	我:N	是:Vt	腸粉控:N	有:Vt	關係:N	
+阿:N	
+滑溜:Vi	薄嫩:Vi	的:T	腸粉:N	還:ADV	保持:Vt	溫熱:Vt	的:T	躍出:Vt	彈彈:N	蝦:N	
+豐腴:Vi	的:T	口感:N	真是:ADV	深深:Vi	擄獲:Vt	我:N	的:T	心:N	啊:T	
+必:ADV	點:Vt	必:ADV	點:Vt	
+但:C	同:DET	場次:N	的:T	免:ADV	治:Vt	牛肉:N	腸:N	
+相較:Vi	而言:Vt	
+內:N	餡:N	就:ADV	稍:ADV	弱:Vi	了:T	
+無法:ADV	撐起:Vt	整體:N	的:T	口感:N	
+味道:N	容易:Vi	被:P	醬汁:N	給:Vt	搶掉:Vt	
+白灼食蔬:N	X:FW	陳皮:N	牛肉球:N	X:FW	鮮蝦:N	燒賣:N	皇:b	
+DSC01536.JPG:FW	
+白灼食蔬:N	---:DASHCATEGORY	喜歡:Vt	清淡:Vi	的:T	朋友:N	們:N	可:ADV	點:Vt	
+在:P	太:ADV	油膩:Vi	的:T	港飲:Vt	中:POST	不失為:Vt	一:DET	個:M	好:Vi	選擇:Vt	
+但:C	像:P	我:N	這:DET	種:M	肉食性:N	動物:N	就:ADV	還是:ADV	來:ADV	說說:Vt	牛肉球:N	和:C	燒賣:N	皇:b	吧:T	XD:FW	
+牛肉球:N	---:DASHCATEGORY	本身:N	長相:N	很:ADV	樸實:Vi	但:C	底下:N	的:T	豆腐皮:N	不:ADV	樸實:Vi	阿:N	
+不過:C	以:P	較:ADV	嚴格:Vi	的:T	角度:N	來:ADV	說:Vt	也:ADV	是:Vt	覺得:Vt	還:ADV	好:Vi	
+但:C	燒賣:N	皇:b	---:DASHCATEGORY	是:Vt	真的:ADV	必須:ADV	點:Vt	阿:N	阿阿:Vi	
+非常:ADV	紮實:Vi	的:T	燒賣:N	
+雖然:C	講到:Vt	紮實:Vi	的:T	燒賣:N	我:N	總:ADV	想到:Vt	台灣:N	口味:N	燒賣:N	---:DASHCATEGORY	基隆:N	的:T	阿:N	本:DET	
+這:DET	道:M	是:Vt	友人:N	本:DET	日:M	最:ADV	喜歡:Vt	的:T	一:DET	道:M	
+所以:C	也:ADV	很:ADV	推薦:Vt	大家:N	點:Vt	唷:T	
+香煎:N	蘿蔔糕:N	x:FW	煎:Vt	蛋:N	牛肉飯:N	x:FW	古法:N	糯米:N	雞:N	
+DSC01539.JPG:FW	
+蘿蔔糕:N	----:DASHCATEGORY	本身:N	做:Vt	得:T	較為:ADV	軟:Vi	爛:Vi	
+但:C	臘腸:N	香氣:N	四溢:Vi	
+不:ADV	是:Vt	五樓:N	救:Vt	了:ASP	這:DET	塊:M	蘿蔔糕:N	
+是:Vt	臘腸:N	啊:T	
+煎:Vt	蛋:N	牛肉飯:N	----:DASHCATEGORY	半熟:Vi	滿溢:Vi	的:T	蛋黃:N	搭上:Vt	八分:DET	熟:Vi	的:T	牛肉:N	其實:ADV	不錯:Vi	
+但:C	底下:N	是:Vt	一:DET	整:DET	晚:Vi	的:T	白飯:N	阿:N	
+.......:ETCCATEGORY	
+要:ADV	自己:N	手動:A	炒飯:N	WW:FW	需要:Vt	有:Vt	勤勞:Vi	且:C	愛:Vt	吃:Vt	白飯:N	的:T	朋友:N	相伴:Vi	會:ADV	是:Vt	好:Vi	選擇:Vt	
+古法:N	糯米:N	雞:N	----:DASHCATEGORY	荷葉:N	味道:N	非常:ADV	香:Vi	
+雖然:C	有點:ADV	類似:Vt	湖州:N	粽:b	但:C	裡邊:N	的:T	料:N	很:ADV	豐富:Vt	也:ADV	是:Vt	不錯:Vi	推薦:Vt	
+整體:N	而言:Vt	
+擅長度:N	而言:Vt	我:N	覺得:Vt	是:Vt	蝦仁:N	&:FW	gt:FW	
+牛肉:N	的:T	
+價錢:N	上:POST	很:ADV	平價:N	雖然:C	比:P	香港:N	貴:Vi	了:ASP	點:M	
+但:C	並:ADV	沒有:Vt	差:Vi	到:P	很多:DET	
+有:Vt	殘念:N	沒:ADV	吃到:Vt	的:T	是:Vt	桂花:N	糕:N	和:C	炸:Vt	春捲:N	
+如果:C	隊伍:N	不要:ADV	排:Vt	這麼:ADV	長:Vi	
+有機:A	會會:Vt	去:Vt	二:DET	訪:Vt	的:T	
+DSC_0010.JPG:FW	
+這:DET	是:Vt	這:DET	次:M	吃:Vt	的:T	帳單:N	
+有:Vt	一成:DET	的:T	服務費:N	喔:T	
+建議:N	大約:ADV	四:DET	
+六:DET	人:N	的:T	去:ADV	吃:Vt	才能點:N	比較:ADV	多樣化:Vt	的:T	食物:N	喔:T	
+一:DET	個:M	人:N	出:Vt	兩百:DET	到:P	三百:DET	就:ADV	可以:ADV	爽爽:Vi	吃:Vt	囉:T	

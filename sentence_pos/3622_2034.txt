@@ -1,0 +1,69 @@
+sam:FW	0459:DET	(:PARENTHESISCATEGORY	高猛:N	團長:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	串場:Nv	居酒:N	屋:N	
+Tue:FW	
+Oct:FW	
+7:DET	
+20:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	22:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	串場:Nv	居酒:N	屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	9月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	四段:N	223巷:N	52:DET	號:M	(:PARENTHESISCATEGORY	內外:N	標題:N	皆:ADV	請:Vt	附上:Vt	地區:N	！:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2771:DET	-:DASHCATEGORY	9693:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	18:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	1:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	500:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	鮮嫩:Vi	雞肉:N	串:Vt	(:PARENTHESISCATEGORY	蔥:N	):PARENTHESISCATEGORY	、:PAUSECATEGORY	地雞:N	上:N	心:N	
+圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sam0207.pixnet.net/blog/post:FW	/:FW	217515052:DET	
+每當:P	想要:Vt	吃:Vt	串燒:N	時:POST	
+總會:ADV	想起:Vt	這:DET	家:M	吃:Vt	過:ASP	不下:ADV	五:DET	次:M	的:T	串場:Nv	居酒:N	屋:N	
+這:DET	次:M	終於:ADV	有空:Vi	寫:Vt	在:P	網誌:N	上:N	
+分享:Vt	給:Vt	大家:N	
+不過:C	以:P	他:N	的:T	名氣:N	似乎:ADV	也:ADV	不用:ADV	我:N	來:ADV	分享:Vt	就是了:Vi	...:ETCCATEGORY	
+在:P	分別:ADV	嘗試:Vt	過:ASP	幾:DET	家:M	分店:N	後:POST	
+還是:ADV	覺得:Vt	這:DET	家:M	位於:Vt	忠孝東路:N	四段:N	223巷:N	的:T	分店:N	最:ADV	合:Vt	我:N	胃口:N	
+所:ADV	
+以:P	今天:N	的:T	主角:N	就:ADV	決定:Vt	是:Vt	他:N	了:T	
+現在:N	時間:N	是:Vt	凌晨:N	零:DET	點:M	
+從:P	客人:N	還是:ADV	接近:Vt	全:DET	滿:DET	
+就:ADV	知道:Vt	串場:Vi	有:Vt	多:ADV	好吃:Vi	啦:T	
+打到:Vt	這裡:N	肚子:N	又:ADV	餓:Vi	
+了:T	...:ETCCATEGORY	
+*:FW	地:T	雞:N	去:Vt	骨雞翅:N	75:DET	元:M	/:FW	串:M	*:FW	
+所謂:Vt	的:T	地雞:N	就是:C	放:Vt	山雞:N	
+因此:C	肉質:N	緊:Vi	實有:Vt	彈性:N	
+之前:N	來:ADV	最:ADV	喜歡:Vt	點:ADV	的:T	也:ADV	是:Vt	這:DET	道:M	去:Vt	骨雞:N	翅:N	
+不:ADV	
+料:Vt	士別三日:Vi	
+去:Vt	骨雞翅:N	竟然:ADV	生出:Vt	骨頭:N	了:T	
+恩:N	...:ETCCATEGORY	簡單:Vi	來:ADV	說:Vt	
+就是:C	一:DET	道:M	令:Vt	人:N	失望:Vi	的:T	料理:N	
+*:FW	松阪:N	豬:N	串:Vt	炸:Vt	75:DET	元:M	/:FW	串:M	*:FW	
+想:Vt	說:Vt	都:ADV	是:Vt	吃:Vt	串燒:N	
+點:DET	個:M	炸:Vt	的:T	換:Vt	個:M	口味:N	試試:Vt	
+這:DET	道:M	松阪:N	豬:N	串:Vt	炸:Vt	其實:ADV	表現:Vt	的:T	並:ADV	不:ADV	差:Vi	
+但:C	不:ADV	知道:Vt	
+是:Vt	不:ADV	是:Vt	炸:Vt	過:ASP	的:T	關係:N	
+松阪:N	豬:N	的:T	彈:Vt	牙:N	肉質:N	變得:Vt	有點:ADV	像:Vt	一般:A	豬肉:N	一樣:Vi	
+不過:C	整體:N	來:ADV	說:Vt	還是:C	中規:N	
+中矩:N	啦:T	
+*:FW	鮮嫩:Vi	雞腿肉:N	
+蔥:N	
+65:DET	元:M	/:FW	串:M	*:FW	
+本日:N	表現:Vt	最佳:A	也:ADV	是:Vt	一直:ADV	以來:POST	我:N	最:ADV	愛:Vt	的:T	一:DET	道:M	料理:N	
+鮮嫩:Vi	的:T	雞肉:N	和:C	上面:N	的:T	蔥花:N	搭配:Vt	的:T	完美:Vi	無缺:Vi	
+一如:P	往常:N	的:T	美味:N	讓:Vt	我:N	難以:ADV	形容:Vt	啊:T	
+*:FW	蒜香:N	雞肉:N	串:Vt	70:DET	元:M	/:FW	串:M	*:FW	
+這:DET	道:M	倒是:ADV	第一:DET	次:M	在:P	菜單:N	上:POST	看到:Vt	
+秉:Vt	著:ASP	實驗:N	的:T	精神:N	試試:Vt	
+雞肉:N	還是:ADV	不:ADV	意外:Vt	的:T	鮮嫩:Vi	好吃:Vi	
+但:C	配:Vt	
+上蒜:N	以後:POST	似乎:ADV	讓:Vt	整:DET	個:M	口感:N	變得:Vt	詭異:Vi	
+對:P	我:N	來:ADV	講:Vt	算是:Vt	失敗:Vi	之:T	作:Vt	
+*:FW	地:T	雞:N	上:N	心:N	65:DET	元:M	/:FW	串:M	*:FW	
+店員:N	推薦:Vt	的:T	雞:N	上:N	心:N	
+吃起來:ADV	完全:ADV	沒有:Vt	內臟:N	的:T	腥味:N	
+脆彈:N	的:T	口感:N	讓:Vt	我:N	忍不住:Vt	點:Vt	了:ASP	第二:DET	串:M	
+總結:Vt	本:DET	日:M	所:ADV	吃:Vt	
+串場:Vi	還是:ADV	讓:Vt	我:N	最愛:N	的:T	串燒:N	居酒:N	屋:N	
+但:C	下:DET	次:M	可能:ADV	還是:ADV	不要:ADV	隨便:Vi	嘗試:Vt	新:Vi	料理:N	吧:T	

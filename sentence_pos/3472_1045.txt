@@ -1,0 +1,110 @@
+roger:FW	6255:DET	(:PARENTHESISCATEGORY	大:Vi	城市:N	小:Vi	生活:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	士林:N	雲南:N	擺夷:N	小吃:N	
+Thu:FW	
+Aug:FW	
+28:DET	
+00:DET	::COLONCATEGORY	56:DET	::COLONCATEGORY	26:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	雲南:N	擺夷:N	小吃:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	福華路:N	164巷:N	3:DET	號:M	(:PARENTHESISCATEGORY	芝山:N	站:Vi	2:DET	號:M	出口:Nv	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2834:DET	-:DASHCATEGORY	1850:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	3017:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	周:N	四:DET	公休:Vi	):PARENTHESISCATEGORY	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	feiwin0331.pixnet.net/blog/post:FW	/:FW	178218655:DET	
+對於:P	雲泰:N	料理:N	一直:ADV	還:ADV	蠻:ADV	喜歡:Vt	的:T	
+不時:ADV	會:ADV	想要:Vt	來:Vi	一:DET	碗:M	米干:N	or:FW	泰式酸辣:Vi	麵:N	
+就:ADV	在:P	台北:N	捷運:N	芝山:N	站:Vi	2:DET	號:M	出口:Nv	
+有:Vt	一:DET	家:M	網路:N	評價:N	不錯:Vi	的:T	店:N	
+當然:ADV	要:ADV	來去:Vi	嚐嚐:Vt	啦:T	
+2:DET	號:M	出口:N	走出來:Vi	第一:DET	個:M	巷子:N	
+164巷:N	
+就:ADV	可以:ADV	看到:Vt	紅:Vi	底:POST	白字:N	的:T	招牌:N	
+門口:N	有:Vt	很:ADV	雲泰:N	風格:N	的:T	裝飾:N	or:FW	巴里島:N	風:N	
+總之:ADV	就:ADV	是:Vt	很:ADV	異國:N	風味:N	::COLONCATEGORY	P:FW	
+店:N	內:N	座位:N	不:ADV	算:Vt	多:Vi	
+布置:Vt	的:T	顏色:N	都:ADV	很:ADV	鮮豔:Vi	
+大紅色:N	的:T	牆:N	配上:Vt	亮:Vi	黃色:N	的:T	桌面:N	
+還:ADV	蠻:ADV	強烈:Vi	的:T	色彩:N	風格:N	
+桌:N	上:N	的:T	菜單:N	還:ADV	有:Vt	自製:Vt	筆筒:N	
+哈:ADV	
+好像:ADV	是:Vt	利用:Vt	沖天炮:N	的:T	包裝:N	嗎:T	
+真是:ADV	還:ADV	蠻:ADV	聰明:Vi	的:T	設計:N	
+菜單:N	還:ADV	蠻:ADV	簡單:Vi	好:Vi	懂:Vt	
+價位:N	從:P	NT:FW	80:DET	
+260:DET	
+在:P	台北:N	算是:Vt	中低價位:N	了:T	吧:T	
+牆:N	上:POST	也:ADV	有:Vt	大大:Vi	的:T	Menu:FW	
+還:ADV	有:Vt	些許:DET	照片:N	提供:Vt	參考:N	
+價位:N	的:T	部分:DET	全部:DET	貼上:Vt	紙張:N	標上:Vt	價錢:N	
+看來:ADV	是:Vt	剛:ADV	調漲:Vt	過:ASP	一:DET	輪:M	
+小菜區:N	
+一:DET	盤:M	小菜:N	NT:FW	30:DET	
+真是:ADV	每:DET	個:M	都:ADV	想:Vt	拿:Vt	耶:T	XDD:FW	
+小菜:N	點:Vt	了:ASP	一:DET	盤:M	有點:ADV	像:Vt	是:Vt	涼拌:Vt	海鮮:N	
+但:C	其實:ADV	是:Vt	涼拌:Vt	冬粉:N	吧:T	
+吃起來:ADV	就:ADV	是:Vt	些許:DET	酸酸:Vi	的:T	
+夏天:N	吃:Vt	還:ADV	蠻:ADV	涼爽:Vi	的:T	
+再:ADV	來:ADV	一:DET	個:M	苦瓜:N	小菜:N	
+綠色:N	的:T	苦瓜:N	
+吃起來:ADV	像:Vt	是:Vt	川:N	燙好:Vt	涼拌:Vt	起來:ASP	的:T	
+有:Vt	苦:Vi	....:ETCCATEGORY	但是:C	有:Vt	回甘:Vi	
+剛好:ADV	來:ADV	消消:Vi	連日:N	忙碌:Vi	的:T	":FW	火氣:N	":FW	
+酸辣:N	海鮮:N	米線:N	NT:FW	$:FW	180:DET	
+價位:N	算:Vt	有點:ADV	高:Vi	喔:T	
+不過:C	超大:A	一:DET	碗:M	
+表面:N	看起來:ADV	好像:ADV	很:ADV	辣:Vi	耶:T	
+紅紅:Vi	的:T	油:N	浮:Vi	在:P	上面:N	
+到底:ADV	有:Vt	多:ADV	大:Vi	碗:N	
+擺上:Vt	竹:N	筷子:N	
+有:Vt	FU:FW	了:T	嗎:T	
+海鮮:N	米線:N	
+裡面:N	有:Vt	不少:DET	顆:M	蛤蠣:N	
+肉:N	還:ADV	蠻:ADV	肥:Vt	的:T	喲:T	
+米線:N	的:T	口感:N	讓:Vt	我:N	很:ADV	suprise:FW	
+比:P	我:N	之前:POST	知道:Vt	的:T	米線:N	還:ADV	Q:FW	一些:DET	
+硬:ADV	要:ADV	形容:Vt	的:T	話:N	就:ADV	有點:ADV	像:Vt	1:DET	/:FW	3:DET	米苔目:N	+:FW	2:DET	/:FW	3:DET	米:M	線:N	
+不會:ADV	太:ADV	爛:Vi	
+湯頭:N	更:ADV	是:Vt	棒:Vi	
+一口:ADV	喝下:Vt	會:ADV	先:ADV	嘗到:Vt	些許:DET	的:T	酸:Vi	
+有點:ADV	像:Vt	番茄:N	的:T	酸:Vi	吧:T	
+接著:ADV	就:ADV	是:Vt	濃郁:Vi	的:T	大:Vi	骨頭湯:N	的:T	口感:N	
+讓:Vt	我:N	一口:ADV	接著:ADV	一口:ADV	地:T	喝:Vt	呢:T	
+分裝:Vt	成:Vt	小:Vi	碗:N	的:T	酸辣:N	海鮮:N	米線:N	
+看起來:ADV	是:Vt	不:ADV	是:Vt	豐盛:Vi	很多:DET	
+ㄎ:FW	ㄎ:FW	
+裡面:N	有:Vt	蛤蠣:N	數:DET	顆:M	
+蝦子:N	兩:DET	尾:M	
+花枝:N	少許:DET	
+番茄:N	
+還:ADV	有:Vt	杏包菇:N	喔:T	
+杏包菇:N	在:P	這樣:Vi	的:T	酸辣湯:N	頭:N	裡:POST	吃起來:ADV	還:ADV	帶有:Vt	甜味:N	
+真是:ADV	很:ADV	配:Vt	耶:T	
+蝦醬:N	空心菜:N	NT:FW	$:FW	90:DET	
+原本:ADV	不:ADV	是:Vt	太:ADV	期待:Vt	
+因為:C	這:DET	道:M	菜:N	還:ADV	蠻:ADV	普遍:Vi	
+蝦醬味:N	也:ADV	大都:ADV	差不多:Vi	
+但是:C	這邊:N	的:T	蝦醬:N	又:ADV	是:Vt	讓:Vt	我:N	suprise:FW	了:T	
+吃起來:ADV	就:ADV	像:Vt	是:Vt	用:P	新鮮:Vi	蝦頭:N	炒出來:Vt	的:T	味道:N	耶:T	
+我:N	超:Vt	愛:N	的:T	
+不:ADV	像:Vt	一般:A	蝦醬味:N	有點:ADV	.....:ETCCATEGORY	怎麼:ADV	形容:Vt	好:Vi	呢:T	
+就是:C	像:Vt	是:Vt	罐頭:N	的:T	感覺:N	吧:T	
+總之:ADV	是:Vt	新:Vi	鮮蝦:N	醬味:N	
+c:FW	好吃:Vi	
+椒麻雞:N	NT:FW	$:FW	120:DET	
+大:Vi	隻:M	去:Vt	骨:N	雞腿肉:N	下去:Vi	炸:Vt	的:T	
+不錯:Vi	吃:Vt	
+但是:C	不:ADV	像:P	前面:N	幾:DET	道:M	有:Vt	讓:Vt	我:N	驚豔:Vi	or:FW	印象:N	深刻:Vi	
+酸辣:N	麵:N	裡面:N	的:T	蝦子:N	
+特別:Vi	照特:N	顯:ADV	是:Vt	因為:C	發現:Vt	店家:N	很:ADV	貼心:Vi	的:T	
+把:P	蝦:N	頭:N	前面:N	尖尖:Vi	的:T	地方:N	剪掉:Vt	了:ASP	耶:T	
+這樣:Vi	吃:Vt	蝦子:N	才:ADV	不會:ADV	被:P	刺傷:Vt	
+這樣:Vi	特顯:N	好像:ADV	被:P	蝦子:N	盯上:Vt	喔:T	
+XD:FW	
+剝:Vt	好:Vi	的:T	蝦子:N	
+看看:Vt	有:Vt	多麼:ADV	的:T	新鮮:Vi	啊:T	
+店家:N	資訊:N	::COLONCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	福華路:N	164巷:N	3:DET	號:M	
+芝山:N	站:Vi	2:DET	號:M	出口:Nv	
+時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	30／17:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	週四:N	公休:Vi	
+結論:N	::COLONCATEGORY	好吃:Vi	呀:T	
+改天:ADV	還要:ADV	再:ADV	去:ADV	嚐嚐:Vt	其他:DET	的:T	飯類:N	

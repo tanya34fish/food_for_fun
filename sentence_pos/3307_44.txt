@@ -1,0 +1,23 @@
+看起來:ADV	真:ADV	好吃:Vi	
+味道:N	真的:ADV	還:ADV	不錯:Vi	
+大:Vi	推:Vt	他們:N	粉肝:N	
+Ｈ:FW	吃:Vt	了:ASP	也:ADV	說:Vt	不錯:Vi	喔:T	
+看起來:ADV	超:Vt	可口:Vi	的:T	
+裡面:N	這:DET	塊:M	帶:Vt	皮:N	豬肉:N	看起來:ADV	超級:A	好吃:Vi	耶:T	
+豬肉:N	軟:Vi	而:C	不:ADV	爛:Vi	
+豬皮:N	部份:DET	肥:Vt	Ｑ:FW	而:C	不:ADV	油膩:Vi	
+味道:N	很:ADV	不:ADV	賴:Vt	
+吃起來:ADV	有點:ADV	嚼:Vt	勁:N	
+現在:N	蚵仔煎:N	越來越:ADV	貴:Vi	也:ADV	越來越:ADV	少:Vi	份量:N	
+讓:Vt	我:N	好:ADV	傷心:Vi	
+但:C	也:ADV	不會:ADV	不:ADV	好吃:Vi	
+玉米:N	看起來:ADV	很:ADV	好吃:Vi	
+看起來:ADV	每:DET	一:DET	天:M	都:ADV	很:ADV	好吃:Vi	
+甜甜:Vi	鹹鹹:Vi	的:T	
+但:C	Ｈ:FW	覺得:Vt	還:ADV	不錯:Vi	
+味道:N	超香:N	濃:Vi	
+裡面:N	的:T	座位:N	不:ADV	算:Vt	少:Vi	
+而且:C	弄得:Vt	乾淨:Vi	明亮:Vi	
+可以:ADV	是:Vt	很:ADV	好喝:Vi	
+吃起來:ADV	好好:Vi	吃:Vt	
+而且:C	完全:ADV	不會:ADV	有:Vt	很:ADV	油:N	很:ADV	肥:Vt	的:T	感覺:N	

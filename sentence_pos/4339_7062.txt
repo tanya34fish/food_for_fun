@@ -1,0 +1,95 @@
+vul3nn:FW	(:PARENTHESISCATEGORY	盛:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	台北:N	信義:N	-:DASHCATEGORY	林東芳:N	他:N	爹:N	牛肉麵:N	-:DASHCATEGORY	林家:N	藥:N	燉:Vt	牛:N	
+Tue:FW	
+May:FW	
+12:DET	
+21:DET	::COLONCATEGORY	31:DET	::COLONCATEGORY	32:DET	
+2015:DET	
+店名:N	::COLONCATEGORY	林家:N	藥:N	燉:Vt	原汁:N	牛肉麵:N	大王:N	
+食用:Vt	時間:N	::COLONCATEGORY	104:DET	/:FW	3:DET	
+地址:N	::COLONCATEGORY	台北市:N	吳興街:N	281巷:N	9:DET	號:M	
+電話:N	::COLONCATEGORY	0922163609:DET	\:FW	
+營業:Nv	時間:N	::COLONCATEGORY	1100:DET	-:DASHCATEGORY	2200:DET	
+價格:N	::COLONCATEGORY	0:DET	-:DASHCATEGORY	250:DET	
+此:DET	次:M	食用:Vt	::COLONCATEGORY	牛雜:Vi	麵:N	半:DET	筋:N	半:DET	肉:N	麵:N	滷花:N	乾:Vi	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+好讀:Vt	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	leopen.pixnet.net/blog/post:FW	/:FW	197906646:DET	
+這:DET	家:M	林家:N	藥:N	燉:Vt	原汁:N	牛肉麵:N	大王:N	
+念:Vt	了:ASP	很:ADV	久:Vi	要:ADV	來:ADV	吃:Vt	
+原因:N	無:Vt	他:N	
+這:DET	間:M	林家:N	牛肉麵:N	的:T	林家:N	
+便是:C	林:N	東芳:N	他們:N	家:N	
+也:ADV	就是:C	赫赫有名:Vi	的:T	八德路:N	林:N	東芳:N	牛肉麵:N	老爸:N	所:ADV	開:Vt	的:T	
+台北:N	中山:N	
+--:DASHCATEGORY	名氣:N	響亮:Vi	
+肉:N	比:P	麵:N	優:FW	--:DASHCATEGORY	林東芳:N	牛肉麵:N	
+第二:DET	代:N	經營:Vt	
+當初:N	吃:Vt	過:ASP	林:N	東芳:N	後:POST	覺得:Vt	
+湯:N	淡雅:Vi	
+肉:N	好吃:Vi	
+不過:C	味道:N	上:POST	比較:ADV	不:ADV	是:Vt	傳統:Vi	口味:N	
+要:ADV	說:Vt	林家:N	最:ADV	大:Vi	的:T	缺點:N	
+那:DET	大概:ADV	是:Vt	用餐:Nv	環境:N	
+比較:ADV	雜亂:Vi	一點:ADV	
+桌椅:N	地板:N	黏度:N	也:ADV	比較:ADV	高:Vi	
+林東芳:N	老爸:N	林清池:N	
+在:P	三十:DET	年:N	前:POST	交棒:Vi	後:POST	
+就:ADV	來到:Vt	吳興街:N	開店:Vi	
+味道:N	上:POST	則:ADV	和:C	林:N	東芳:N	有所:Vt	區別:N	
+走:Vi	得:T	是:Vt	傳統:Vi	藥膳:N	口味:N	
+目前:N	林:N	老爸:N	年事:N	已:ADV	高:Vi	
+不:ADV	知道:Vt	何時:N	會:ADV	再:ADV	把:P	這:DET	間:M	店:N	交棒:Vi	下去:ASP	
+桌:N	上:N	的:T	辣醬:N	
+應該:ADV	是:Vt	林家:N	跟:P	林:N	東芳:N	的:T	招牌:N	了:T	吧:T	
+不少:DET	人:N	吃:Vt	麵:N	會:ADV	挖:Vt	個:M	兩三:DET	瓢:M	下去:Vi	
+愛:Vt	吃:Vt	辣:Vi	的:T	應該:ADV	很:ADV	愛:Vt	
+菜單:N	MENU:FW	
+價格:N	跟:P	林:N	東芳:N	差不多:ADV	
+都:ADV	在:P	一百:DET	末:N	到:Vt	兩百:DET	初:POST	
+對於:P	這:DET	價格:N	
+台北:N	見怪不怪:Vi	了:T	....:ETCCATEGORY	
+滷花干:Vt	也:ADV	是:Vt	這:DET	必:ADV	吃:Vt	的:T	
+因為:C	花:Vt	干吸飽:Vi	了:ASP	藥:N	燉:Vt	香氣:N	
+所以:C	咬:Vt	起來:ASP	有:Vt	嚼:Vt	感:N	同時:N	還:ADV	非常:ADV	香:Vi	
+在:P	配:Vt	點:M	辣醬:N	就:ADV	更:ADV	好吃:Vi	
+半:DET	筋:N	半:DET	肉麵:N	
+小:Vi	碗:N	分量:N	不:ADV	大:Vi	但:C	夠:Vi	吃:Vt	
+林東芳:N	是:Vt	用:P	鐵碗:N	裝:Vt	
+美觀:Vi	不:ADV	夠:Vi	
+還是:ADV	這:DET	種:M	碗公:N	比較:ADV	好看:Vi	
+肉:N	跟:P	筋:N	都:ADV	好吃:Vi	
+但:C	肉:N	比:P	筋:N	來:Vi	的:T	優:Vi	
+因為:C	筋:N	比較:ADV	沒入:Vt	味:N	
+但:C	軟:Vi	Q:FW	
+咬下去:Vt	帶:Vt	點:M	綿感:N	還:ADV	有:Vt	膠質:N	的:T	黏感:N	
+口感:N	不錯:Vi	
+就是:C	味道:N	比較:ADV	淡:Vi	
+肉:N	的:T	部分:DET	用:P	牛:N	腿肉:N	
+跟:P	帶:Vt	筋:N	的:T	牛腱:N	子肉:N	來:ADV	說:Vt	比較:ADV	扎實:Vi	
+咬:Vt	起來:ASP	纖維:N	明顯:Vi	但是:C	滷:Vt	得:ADV	有:Vt	入:Vt	味:N	
+味道:N	頗:ADV	夠:Vi	的:T	
+也:ADV	不會:ADV	說:Vt	要不:C	爛:Vi	說:Vt	所以:C	還:ADV	不錯:Vi	吃:Vt	
+麵條:N	就:ADV	一般:Vi	般:POST	沒:Vt	啥:DET	特別:Vi	
+湯頭:N	就:ADV	真的:ADV	是:Vt	藥膳:N	味道:N	比較:ADV	重:Vi	
+比較:ADV	鮮:Vi	甜:Vi	
+湯頭:N	比起:P	林:N	東芳:N	來:ADV	說:Vt	味道:N	比較:ADV	重:Vi	
+但:C	不會:ADV	說:Vt	如同:Vt	一般:A	紅燒:Nv	般:POST	油膩:Vi	
+要:ADV	油膩:Vi	辣醬:N	打開:Vt	加:Vt	下去:ASP	就:ADV	對了:Vi	
+半:DET	筋牛雜:N	麵:N	
+多:Vi	了:ASP	牛肚:N	牛腸:N	
+牛肉:N	跟:P	牛:N	筋:N	也:ADV	是:Vt	有:Vt	放:Vt	
+牛肉:N	就:ADV	不:ADV	多:Vi	了:T	
+牛雜:N	份量:N	大:Vi	
+牛腸:N	跟:P	牛肚:N	不錯:Vi	吃:Vt	
+Q:FW	感:N	十足:Vi	
+不過:C	入:Vt	味:N	並:ADV	不:ADV	算:Vt	深:Vi	
+不過:C	提供:Vt	牛肉:N	之外:POST	的:T	另:DET	一:DET	種:M	口感:N	
+也:ADV	是:Vt	滿:ADV	特別:Vi	的:T	
+總結:Vt	
+湯頭:N	好喝:Vi	
+肉:N	不錯:Vi	
+麵:N	普通:Vi	
+就是:C	環境:N	有點:ADV	差:Vi	
+要不然:C	肯定:Vt	會:ADV	是:Vt	人氣:N	更:ADV	高:Vi	的:T	店家:N	
+跟:P	林:N	東芳:N	比起來:ADV	就:ADV	是:Vt	炒:Vt	不:ADV	太:ADV	起來:Vi	
+想:Vt	吃:Vt	老爸:N	口味:N	的:T	可以:ADV	過來:Vi	

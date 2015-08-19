@@ -1,0 +1,111 @@
+spu70903(sPu:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山:N	阿紅:N	的:T	涮涮鍋:N	-:DASHCATEGORY	極品:N	現切:N	肉片:N	
+Thu:FW	
+Nov:FW	
+20:DET	
+00:DET	::COLONCATEGORY	04:DET	::COLONCATEGORY	53:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	阿紅:N	的:T	涮涮:b	鍋:M	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	9月:N	
+地址:N	：:COLONCATEGORY	104:DET	台北市:N	中山區:N	吉林路:N	249:DET	號:M	
+電話:N	：:COLONCATEGORY	0225112211:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	(:PARENTHESISCATEGORY	周:N	一:DET	公休:Vi	):PARENTHESISCATEGORY	
+平均:Vi	價位:N	：:COLONCATEGORY	500:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	各:DET	式:M	現:ADV	切:Vt	肉片:N	、:PAUSECATEGORY	牛肉:N	鍋:N	
+請:Vt	享用:Vt	圖:N	多:ADV	好:Vi	閱讀:Vt	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	sputravel.pixnet.net/blog/post:FW	/:FW	240453598:DET	
+會:ADV	知道:Vt	這:DET	家:M	店主:N	要:ADV	也:ADV	是:Vt	因為:C	
+就:ADV	在:P	我:N	的:T	愛店:N	":FW	饗宴:N	石頭:N	火鍋:N	":FW	隔壁:N	
+每:DET	次:M	都:ADV	看到:Vt	大排長龍:Vi	的:T	
+人潮:N	
+實在:ADV	很:ADV	好奇:Vi	
+愛店:N	已經:ADV	蠻:ADV	好吃:Vi	的:T	
+究竟:ADV	隔壁:N	有:Vt	甚麼:DET	魅力:N	呢:T	XDDD:FW	
+總算:ADV	挑:Vt	了:ASP	一:DET	個:M	周末:N	的:T	時間:N	來去:Vi	嘗嘗:Vt	
+這:DET	家:M	店:N	竟然:ADV	是:Vt	不:ADV	接受:Vt	訂位:Vi	的:T	唷:T	
+只:ADV	能:ADV	現場:N	排隊:Vi	領:Vt	號:M	
+碼牌:N	
+因為:C	晚餐:N	5:DET	::COLONCATEGORY	30:DET	才:ADV	開始:Vt	
+我們:N	還:ADV	提早:Vt	5:DET	::COLONCATEGORY	20:DET	就:ADV	到:Vt	現場:N	
+沒想到:ADV	都:ADV	已經:ADV	擠滿:Vt	等候:Vt	開店:Vi	的:T	人群:N	
+太:ADV	
+扯:Vt	了:ASP	吧:T	
+當:P	五:DET	點:M	半:DET	開門:Vi	的:T	時候:N	
+這:DET	瞬間:N	店:N	內:N	對:P	我們:N	來:ADV	說:Vt	根本:ADV	就:ADV	像:Vt	是:Vt	神:N	一般:A	的:T	在:P	綻放:Vt	光芒:N	阿:N	
+神:N	要:ADV	
+救贖:Vt	我們:N	了:T	XDDDD:FW	
+店家:N	非常:ADV	熟練:Vi	的:T	桌:N	上:POST	都:ADV	先:ADV	放:Vt	好了:T	菜盤:N	
+讓:Vt	入店:Vi	的:T	客人:N	第一:DET	時間:N	就:ADV	能:ADV	先:ADV	點菜:Vi	
+上菜:Vi	、:PAUSECATEGORY	切肉:Vi	等:POST	
+這:DET	應該:ADV	是:Vt	我:N	看過:Vt	SOP:FW	最:ADV	標準:Vi	的:T	店家:N	吧:T	
+不過:C	也:ADV	常常:ADV	看到:Vt	有:Vt	人:N	會:ADV	覺得:Vt	這樣:Vi	為了:P	翻:Vt	桌率:N	會:ADV	影響:Vt	用餐:Nv	心情:N	等:POST	
+不過:C	我:N	個:M	人:N	認為:Vt	這:DET	的確:ADV	
+取決:Vi	於:P	店家:N	的:T	決定:N	啦:T	
+接著:ADV	因為:C	我們:N	選擇:Vt	共鍋:N	的:T	關係:N	
+被:P	擠到:Vt	桌子:N	旁邊:N	的:T	小小:Vi	加:Vt	位:M	上面:N	
+不過:C	為了:P	美食:N	我們:N	可是:C	
+一點:DET	都:ADV	不會:ADV	介意:Vt	的:T	啦:T	
+桌:N	上:POST	跟:P	剛剛:ADV	的:T	入門:Nv	前:POST	都:ADV	有:Vt	菜單:N	可以:ADV	參考:Vt	
+可以:ADV	看得出來:Vt	這邊:N	主力:N	就:ADV	是:Vt	現:ADV	切:Vt	的:T	肉片:N	吧:T	XD:FW	
+接著:ADV	是:Vt	菜盤:N	
+跟:P	一般:A	涮涮鍋:N	的:T	菜盤:N	差不多:Vi	
+該:DET	有:Vt	的:T	都:ADV	有:Vt	
+也:ADV	不至於:ADV	非常:ADV	突出:Vi	就是了:Vi	
+還:ADV	有:Vt	因為:C	低消:N	要:ADV	加:Vt	點:M	
+我們:N	加:Vt	點:M	了:ASP	火鍋:N	餃:b	拼盤:N	
+接著:ADV	就:ADV	是:Vt	今天:N	最:ADV	期待:Vt	的:T	現:N	切:Vt	肉片:N	啦:T	
+在:P	去:ADV	拿:Vt	沾醬:N	的:T	時候:N	
+就:ADV	看到:Vt	老闆:N	再現:Vi	切:Vt	肉片:N	
+立馬:N	口:N	
+水流:N	滿:Vi	地:T	
+現切:N	牛肉:N	的:T	色澤:N	、:PAUSECATEGORY	擺盤:N	
+都:ADV	超:Vt	吸引人:Vi	的:T	啦:T	
+這:DET	是:Vt	我們:N	今天:N	點:Vt	的:T	肥牛:N	五:DET	花:N	鍋:N	
+$:FW	300:DET	
+我們:N	還:ADV	單:ADV	點:Vt	了:ASP	100:DET	克:M	
+$:FW	110:DET	
+想:Vt	多:ADV	吃:Vt	些:M	肉:N	
+因為:C	當天:N	胃口:N	普通:Vi	
+我們:N	選擇:Vt	比較:ADV	一般:A	的:T	牛肉:N	
+當下:N	有點:ADV	後悔:Vt	
+看:Vt	其他:DET	桌:N	的:T	肉:N	好:ADV	厲害:Vi	啊:T	
+先:ADV	說:Vt	一下:N	我們:N	當天:N	吃:Vt	的:T	肥牛:N	五:DET	花:N	
+光:ADV	這:DET	最:ADV	平價:N	的:T	牛肉:N	
+肉質:N	就:ADV	比:P	一般:A	常:ADV	吃:Vt	的:T	牛肉:N	好:Vi	上:POST	不少:DET	
+雖然:C	看起來:ADV	油脂:N	很多:DET	
+但:C	丟進:Vt	火鍋:N	稍微:ADV	涮:b	一下:N	就:ADV	起:Vt	鍋:N	
+配上:Vt	沾醬:N	可是:C	超級:A	適合:Vi	的:T	
+而且:C	吃起來:ADV	不會:ADV	像:Vt	一般:A	牛肉乾:N	乾柴柴:N	的:T	
+反而:C	覺得:Vt	牛:N	五:DET	花:N	油脂:N	恰到好處:Vi	呢:T	
+然後:ADV	看看:Vt	切:Vt	肉片機:N	的:T	其他:DET	牛肉:N	拼盤:N	....:ETCCATEGORY	這麼:ADV	令:Vt	人:N	崩潰:Vi	的:T	色澤:N	
+我:N	
+1:DET	
+定:Vt	
+要:ADV	
+再:ADV	
+來:ADV	
+吃:Vt	
+最後:N	這邊:N	都:ADV	有:Vt	附:Vt	甜點:N	
+可以:ADV	自取:Vt	的:T	霜淇淋:N	
+不過:C	每:DET	人:N	限:Vt	用:P	一:DET	支:M	唷:T	
+今天:N	的:T	是:Vt	香草:N	口味:N	
+味道:N	還:ADV	算:Vt	蠻:ADV	濃:Vi	的:T	
+吃完:Vt	火鍋:N	再:ADV	來:ADV	個:M	霜淇淋:N	
+都:ADV	快:ADV	飛天:Vi	啦:T	
+最後:N	我們:N	才:ADV	吃:Vt	40:DET	min:FW	就:ADV	結束:Vt	了:ASP	這:DET	餐:M	
+而:C	晚上:N	六:DET	點:M	半:DET	這:DET	晚餐:N	的:T	熱門:Vi	時段:N	
+店:N	門口:N	排隊:Vi	的:T	人潮:N	
+更:ADV	是:Vt	誇張:Vt	阿:N	
+其實:ADV	隔壁:N	的:T	火鍋店:N	也:ADV	蠻:ADV	好吃:Vi	的:T	
+不管:C	是:Vt	醃:Vt	過:ASP	的:T	肉:N	
+或是:C	石頭:N	火鍋:N	最:ADV	大:Vi	的:T	優勢:N	─:FW	湯頭:N	
+都:ADV	是:Vt	
+百:DET	吃:Vt	不:ADV	膩:Vi	
+加上:C	價格:N	又:ADV	便宜:Vi	
+我:N	應該:ADV	還是:ADV	會:ADV	比較:ADV	常:ADV	吃:Vt	隔壁:N	
+不過:C	阿紅:N	的:T	涮涮鍋:N	倒:ADV	可以:ADV	當作:Vt	偶爾:ADV	奢侈:Vi	的:T	新:Vi	選擇:Vt	XDD:FW	
+因為:C	價格:N	的:T	關係:N	
+可能:ADV	不能:ADV	常常:ADV	吃:Vt	
+但:C	這:DET	種:M	現:ADV	切:Vt	高級:Vi	肉片:N	可:ADV	不:ADV	是:Vt	哪:DET	邊:N	都:ADV	能:ADV	見到:Vt	呢:T	
+如果:C	覺得:Vt	文章:N	不錯:Vi	記得:Vt	點:Vt	石布:N	的:T	粉絲團:N	支持:Vt	一下:N	唷:T	
+^:FW	0:DET	^:FW	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/sputravel:FW	

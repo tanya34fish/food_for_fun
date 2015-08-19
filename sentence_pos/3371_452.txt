@@ -1,0 +1,76 @@
+QQminiai:FW	(:PARENTHESISCATEGORY	大貓:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	松山:N	天馬:N	茶房:N	二:DET	店:N	高級:Vi	燕窩:N	平價:N	享受:Vt	
+Wed:FW	
+Jul:FW	
+30:DET	
+15:DET	::COLONCATEGORY	13:DET	::COLONCATEGORY	36:DET	
+2014:DET	
+店家:N	名稱:N	::COLONCATEGORY	天馬:N	茶房:N	二:DET	店:N	
+消費:N	時間:N	::COLONCATEGORY	2013.0:DET	9.23:DET	(:PARENTHESISCATEGORY	是:Vt	的:T	，:COMMACATEGORY	大家:N	沒:ADV	看錯:Vi	，:COMMACATEGORY	去年:N	九月:N	我:N	拖到:Vt	現在:N	挖出來:Vi	寫:Vt	):PARENTHESISCATEGORY	
+店家:N	電話:N	::COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2545:DET	-:DASHCATEGORY	1558:DET	
+店家:N	地址:N	::COLONCATEGORY	台北市:N	松山區:N	民生東路:N	三段:N	130巷:N	18弄:N	9:DET	號:M	
+營業:Nv	時間:N	::COLONCATEGORY	週一:N	至:P	週五:N	AA:FW	::COLONCATEGORY	00:DET	~:FW	20:DET	::COLONCATEGORY	00:DET	；:SEMICOLONCATEGORY	週六:N	週日:N	需:ADV	預約:Vt	。:PERIODCATEGORY	
+交通:N	資訊:N	::COLONCATEGORY	位於:Vt	捷運:N	中山:N	國中:N	站:Vi	與:C	捷運:N	南京東路站:N	中間:N	，:COMMACATEGORY	步行:Vi	約:ADV	7:DET	-:DASHCATEGORY	10:DET	分鐘:M	。:PERIODCATEGORY	
+彩色:A	圖文:N	請見:Vt	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	0:DET	rz.tw/bj1Xs:FW	
+這:DET	家:M	真的:ADV	很:ADV	妙:Vi	
+是:Vt	因為:C	我:N	朋友:N	家:N	在:P	天馬:N	茶房:N	二:DET	店:N	的:T	...:ETCCATEGORY	對面:N	
+對:P	
+不要:ADV	懷疑:Vt	
+就是:C	對面:N	
+所以:C	我:N	才:ADV	有:Vt	機會:N	到:Vt	天馬:N	茶房:N	二:DET	店:N	吃:Vt	燕窩:N	
+記得:Vt	去年:N	這:DET	時候:N	我:N	支氣管:N	併發:Vt	到:P	氣喘:N	發作:Vi	
+生病:Vi	去:ADV	找:Vt	好友:N	
+一:DET	整:DET	天:M	都:ADV	咳:Vi	咳:Vi	咳:Vi	不停:Vi	....:ETCCATEGORY	
+好友:N	實在:ADV	看:Vt	不:ADV	下去:Vi	
+帶:Vt	我:N	到:Vt	天馬:N	茶房:N	二:DET	店:N	吃:Vt	燕窩:N	去:ADV	
+XD:FW	真是:ADV	太:ADV	溫馨:Vi	來著:T	Q&lt:FW	
+&:FW	gt:FW	
+Q:FW	....:ETCCATEGORY	
+但是:C	天馬:N	茶房:N	很多:DET	種:M	口味:N	
+有:Vt	豆漿:N	、:PAUSECATEGORY	抹茶:N	、:PAUSECATEGORY	茉莉:N	綠茶:N	、:PAUSECATEGORY	紅豆:N	雪蛤:N	、:PAUSECATEGORY	芝麻:N	雪蛤:N	
+很:ADV	驚訝:Vt	我:N	記得:Vt	這麼多:DET	口味:N	XDDD:FW	
+我:N	後來:N	選:Vt	了:ASP	豆漿:N	燕窩:N	
+不:ADV	甜:Vi	
+溫溫:Vi	吃:Vt	很:ADV	好吃:Vi	
+我:N	也:ADV	是:Vt	第一:DET	次:M	才:ADV	知道:Vt	原來:A	燕窩:N	可以:ADV	搭:Vt	這麼多:DET	口味:N	@:FW	@:FW	
+口感:N	
+天馬:N	茶房:N	的:T	燕窩:N	即便:C	是:Vt	吃:Vt	過:ASP	這麼:ADV	久:Vi	
+我:N	都:ADV	還:ADV	能:ADV	記得:Vt	他:N	淡淡:Vi	富有:Vi	膠質:N	口感:N	的:T	味道:N	
+如果:C	有:Vt	吃:Vt	過:ASP	外面:N	大:Vi	廠:N	的:T	罐裝:A	燕窩:N	的:T	話:N	
+就:ADV	可以:ADV	吃到:Vt	天馬:N	茶房:N	的:T	燕窩:N	天然:A	很多:DET	
+天馬:N	茶房:N	的:T	燕窩:N	
+味道:N	天然:A	
+膠質:N	口感:N	是:Vt	含:Vt	在:P	口腔:N	裡:POST	會:ADV	自然化:Vt	開:Vt	的:T	那:DET	種:M	
+如果:C	是:Vt	罐裝:A	的:T	燕窩:N	
+就:ADV	會:ADV	吃到:Vt	一些:DET	人工:N	膠:N	的:T	味道:N	
+我:N	很:ADV	難:Vi	形容:Vt	那:DET	人工:N	膠:N	是:Vt	甚麼:DET	口感:N	
+只:ADV	能:ADV	說:Vt	你:N	要:ADV	常:ADV	吃:Vt	
+這樣:Vi	你:N	就:ADV	分:Vt	得:T	出來:Vi	了:ASP	
+記得:Vt	我:N	當時:N	來:ADV	品嚐:Vt	燕窩:N	的:T	時候:N	
+上傳:Vt	了:ASP	這:DET	張:M	照片:N	到:P	我:N	的:T	FB:FW	
+結果:ADV	讓:Vt	其他:DET	朋友:N	看到:Vt	都:ADV	覺得:Vt	我:N	太:ADV	夭壽:Vi	
+簡直:ADV	是:Vt	奢侈:Vi	享受:Vt	啊:T	
+但:C	我:N	必須:ADV	很:ADV	老實:Vi	地:T	說真的:ADV	一點:DET	也:ADV	不會:ADV	很:ADV	貴:Vi	
+是:Vt	銅板:N	價格:N	
+ㄎ:FW	ㄎ:FW	
+好:Vi	啦:T	
+講:Vt	那麼多:DET	
+我:N	想:Vt	有:Vt	興趣:N	的:T	人:N	一定:ADV	要:ADV	去:ADV	品嚐:Vt	看看:ASP	
+這:DET	保證:N	比:P	那:DET	種:M	標榜:Vt	珍貴:Vi	多:DET	天然:A	卻:ADV	加:Vt	了:ASP	很多:DET	人工:N	添加物:N	的:T	大:Vi	品牌:N	罐裝:A	燕窩:N	好:Vi	
+吃:Vt	
+太:ADV	
+多:DET	
+印象:N	中:POST	老闆:N	是:Vt	一:DET	位:M	很:ADV	溫和:Vi	的:T	人:N	
+我:N	在:P	點:Vt	燕窩:N	的:T	時候人:N	也:ADV	非常:ADV	客氣:Vi	
+裡面:N	位子:N	不:ADV	多:Vi	
+但是:C	很:ADV	寧靜:Vi	
+可以:ADV	很:ADV	靜心:Vi	的:T	坐:Vi	在:P	那裏:N	悠閒:Vi	地:T	喝上:Vt	一:DET	碗:M	很:ADV	棒:Vi	的:T	燕窩:N	
+旁邊:N	有:Vt	衣服:N	和:C	其他:DET	小:Vi	飾品:N	可以:ADV	看:Vt	
+喜歡:Vt	的:T	話:N	也:ADV	可以:ADV	買:Vt	
+是:Vt	一:DET	間:M	很:ADV	複合式:A	的:T	店:N	喔:T	
+有:Vt	機會:N	再:ADV	來:ADV	介紹:Vt	也:ADV	位於:Vt	店家:N	內:N	的:T	占卜:Nv	工作室:N	和:C	電腦:N	工作室:N	好了:T	
+我:N	覺得:Vt	這:DET	家:M	真的:ADV	是:Vt	很:ADV	妙:Vi	的:T	店:N	XDD:FW	推薦:Vt	
+文章:N	也:ADV	發表:Vt	至:P	大:Vi	貓宅:N	生活:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog/post:FW	/:FW	41192206:DET	
+大貓宅:N	生活:N	http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog:FW	
+愛力:N	獅:N	粉絲:N	圖:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/AlicesVoice:FW	

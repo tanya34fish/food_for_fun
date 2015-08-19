@@ -1,0 +1,65 @@
+iioouu:FW	(:PARENTHESISCATEGORY	小萍:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	：:COLONCATEGORY	新潮:Vi	麵:N	館:N	值得:Vi	嚐:Vt	☆:FW	人:N	之初:POST	膠原:N	嫩:Vi	骨麵:N	
+Tue:FW	
+Aug:FW	
+12:DET	
+21:DET	::COLONCATEGORY	42:DET	::COLONCATEGORY	23:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	人:N	之初:POST	膠原:N	嫩:Vi	骨麵:N	
+品嘗:Vt	日期:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	三段:N	316巷:N	3:DET	-:DASHCATEGORY	1:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2366:DET	-:DASHCATEGORY	0179:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+---:DASHCATEGORY	
+網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	anrine910070.pixnet.net/blog/post:FW	/:FW	184607319:DET	
+---:DASHCATEGORY	
+來:Vi	公館:N	怎麼:ADV	也:ADV	少不了:Vt	我:N	最愛:N	的:T	陳三:N	鼎:N	黑糖:N	粉圓:N	
+自從:P	8:DET	/:FW	2:DET	號:M	這:DET	條:M	路:N	實行:Vt	假日:N	僅:ADV	限:Vt	行人:N	的:T	政策:N	後:POST	
+人潮:N	似乎:ADV	更:ADV	密集:Vi	了:T	
+想:Vt	吃:Vt	粉圓:N	的:T	客人:N	一路:ADV	從:P	店:N	門口:N	排到:Vt	人:N	之初:POST	對面:N	
+也:ADV	因為:C	這樣:Vi	我:N	才:ADV	發現:Vt	這:DET	家:M	店:N	
+人:N	之初:POST	
+乍看:Vt	之下:POST	很:ADV	難:Vi	弄懂:Vt	葫蘆:N	裡:N	賣:Vt	什麼:DET	藥:N	
+鮮紅色:N	的:T	招牌:N	與:C	新潮:Vi	的:T	裝潢:N	第一:DET	眼:M	我:N	便:ADV	猜:Vt	是:Vt	麻辣:A	火鍋:N	
+細看:Vt	旁邊:N	的:T	介紹:N	才:ADV	知道:Vt	
+賣:Vt	的:T	是:Vt	膠原:N	嫩:Vi	骨麵:N	與:C	潮州:N	滷味:N	
+麵館:N	做成:Vt	這樣:Vi	真:ADV	不:ADV	簡單:Vi	
+一向:ADV	喜歡:Vt	創意:N	新奇:Vi	的:T	我:N	
+當下:N	決定:Vt	今天:N	的:T	晚餐:N	就是:C	它:N	啦:T	
+莫:ADV	約:ADV	排:Vt	了:ASP	十:DET	分鐘:M	我們:N	順利:Vi	入:Vt	坐:Vi	
+店員:N	說:Vt	清燉:Vt	膠原:N	嫩:Vi	骨麵:N	、:PAUSECATEGORY	麻辣:A	膠原:N	嫩:Vi	骨麵:N	和:C	麻辣:A	滷味:N	中:POST	的:T	豆腐:N	是:Vt	店:N	內:N	招牌菜:N	
+既然:C	他:N	都:ADV	這樣:Vi	說:Vt	了:ASP	
+我:N	當然:ADV	就:ADV	從:P	這:DET	幾:DET	樣:M	挑:Vt	啦:T	
+清燉:Vt	膠原:N	嫩:Vi	骨麵:N	
+168:DET	元:M	
+看似:Vt	淡:Vi	而:C	無味:Vi	、:PAUSECATEGORY	不:ADV	油:N	不:ADV	膩:Vi	的:T	湯頭:N	其實:ADV	甘醇:Vi	濃厚:Vi	
+簡介:N	說:Vt	這:DET	是:Vt	用:P	豆蔻:N	、:PAUSECATEGORY	花:Vt	椒粒:N	、:PAUSECATEGORY	當歸:N	、:PAUSECATEGORY	桂枝:N	等:POST	28:DET	種:M	中藥:N	食材:N	
+再:ADV	搭配:Vt	豬:N	大骨:N	細:Vi	火:N	慢:Vi	燉:Vt	24:DET	小時:N	而:C	成:Vt	
+真的:ADV	蠻:ADV	好喝:Vi	的:T	
+而:C	一:DET	旁:N	的:T	兩:DET	株:M	青江菜:N	和:C	幾:DET	片:M	杏:N	鮑:N	菇:N	是:Vt	點綴:Vt	用:Vt	的:T	
+沒:Vt	什麼:DET	特殊:Vi	口感:N	
+麵條:N	的:T	話:N	我:N	覺得:Vt	比較:ADV	普通:Vi	
+就是:C	一般:A	麵館:N	常見:Vi	的:T	味道:N	
+所謂:Vt	的:T	嫩:Nv	骨:N	
+其實:ADV	是:Vt	豬:N	小:Vi	排:Vt	
+肉質:N	豐腴:Vi	軟嫩:Vi	
+稍微:ADV	用:P	舌尖:N	用力:Vi	推肉:N	就:ADV	散開:Vi	來:Vi	了:ASP	
+每:DET	塊:M	豬肉:N	裡頭:N	都:ADV	藏有:Vt	Q:FW	彈:Vt	的:T	軟骨:N	
+好吃:Vi	
+麻辣:A	滷味:N	－:DET	豆腐:N	
+35:DET	元:M	
+這:DET	個:M	我:N	也:ADV	喜歡:Vt	非常:ADV	入:Vt	味:N	但:C	卻:ADV	不:ADV	死:Vi	辣:Vi	
+用:P	中藥:N	滷製:Vt	而:C	成:Vt	不僅:C	帶有:Vt	獨特:Vi	的:T	香氣:N	
+口感:N	也:ADV	更為:ADV	溫潤:Vi	
+唯一:A	美中不足:Vi	的:T	是:Vt	
+我:N	發現:Vt	網路:N	上:N	有:Vt	人:N	說:Vt	桃園:N	也:ADV	有:Vt	人:N	之初:POST	
+我:N	驚嘆:Vt	的:T	膠原:N	嫩:Vi	骨麵:N	
+在:P	桃園:N	叫做:Vt	膠原:N	排骨麵:N	
+價格:N	是:Vt	這裡:N	的:T	一半:DET	不:ADV	到:Vt	
+只要:C	70:DET	元:M	
+和:C	店員:N	確認:Nv	後:POST	發現:Vt	
+真的:ADV	是:Vt	一樣:Vi	的:T	產品:N	
+天阿:N	
+價差:N	好:ADV	大:Vi	喔:T	
+雖然:C	知道:Vt	台北:N	租金:N	貴:Vi	
+但:C	這:DET	種:M	感覺:N	還是:ADV	不:ADV	好:Vi	

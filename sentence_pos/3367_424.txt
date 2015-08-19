@@ -1,0 +1,65 @@
+TigerL:FW	0927:DET	(:PARENTHESISCATEGORY	勒:Vt	虎:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北市:N	：:COLONCATEGORY	PsTAPAS:FW	西班牙餐:N	酒館:N	（:PARENTHESISCATEGORY	光復:Vt	店:N	）:PARENTHESISCATEGORY	
+Tue:FW	
+Jul:FW	
+29:DET	
+18:DET	::COLONCATEGORY	30:DET	::COLONCATEGORY	07:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	PsTapasseafoodbar:FW	西班牙:N	海鮮餐:N	酒館:N	（:PARENTHESISCATEGORY	光復:Vt	店:N	）:PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	07:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	光復南路:N	346巷:N	28:DET	號:M	
+電話:N	：:COLONCATEGORY	（:PARENTHESISCATEGORY	02:DET	）:PARENTHESISCATEGORY	2741:DET	-:DASHCATEGORY	6368:DET	
+服務:Nv	時間:N	：:COLONCATEGORY	11:DET	：:COLONCATEGORY	30:DET	-:DASHCATEGORY	02:DET	：:COLONCATEGORY	00:DET	（:PARENTHESISCATEGORY	星期一:N	－:DET	星期日:N	）:PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	NTD:FW	450:DET	-:DASHCATEGORY	700:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	水果酒:N	、:PAUSECATEGORY	蟹肉:N	沾醬:N	皮塔:N	麵包:N	、:PAUSECATEGORY	綜合:A	炸:Vt	海鮮:N	拼盤:N	
+--:DASHCATEGORY	
+【:PARENTHESISCATEGORY	圖:N	∕:FW	字:N	】:PARENTHESISCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tigerl.pixnet.net/blog/post:FW	/:FW	184253529:DET	
+瓦倫西亞:N	的:T	魚肉:N	鮮:Vi	鄉:N	＠:FW	PsTapas:FW	西班牙餐:N	酒館:N	
+光復:Vt	店:N	
+說:Vt	實話:N	
+PSTAPAS:FW	的:T	消費:N	不能:ADV	算:Vt	便宜:Vi	
+但:C	紮實:Vi	的:T	料理:N	手法:N	畢竟:ADV	廣受:Vt	饕客:N	
+青睞:N	
+因而:C	順水推舟:Vi	拓展:Vt	至:P	二:DET	店:N	了:T	
+與:C	發跡:Vi	的:T	安和店:N	相比:Vi	
+光復:Vt	店:N	似:ADV	又:ADV	
+更:ADV	側重:Vt	於:P	海味:N	美饌:Vi	的:T	開發:Nv	
+所謂:Vt	的:T	SeafoodBar:FW	
+從:P	開胃:Vi	小:Vi	點:ADV	、:PAUSECATEGORY	主食:N	
+到:P	下酒:Vi	拼盤:N	
+幾乎:ADV	無:Vt	處:N	不:ADV	見淡菜:N	花團錦簇:Vi	的:T	身影:N	
+率先:ADV	上桌:Vi	的:T	水果酒:N	
+即:ADV	以:P	碎:Vi	切:Vt	水果:N	丁:N	、:PAUSECATEGORY	冰塊:N	和:C	口感:N	偏:ADV	酸:Vi	的:T	白:Vi	葡萄酒:N	液平:N	
+衡:Vt	了:ASP	酥炸:Vi	小:Vi	物:N	
+某:DET	種:M	章魚:N	
+與:C	綜合:A	炸:Vt	海鮮:N	拼盤:N	的:T	腥氣:N	
+當然:ADV	後台:N	廚工:N	們:N	
+將:P	食料:N	沾染:Vt	的:T	熱油瀝:N	得:T	乾乾淨淨:Vi	
+也:ADV	當:P	記上:Vt	一:DET	功:N	
+稍後:ADV	的:T	烘:Vt	蛋:N	自:ADV	不必:ADV	多:Vi	
+言:Vt	
+它:N	或:C	可:ADV	稱為:Vt	西班牙:N	最:ADV	具:Vt	代表:N	的:T	平民:N	菜品:N	了:T	
+唯:ADV	好幾:DET	粒:M	碎:Vi	蛋黃:N	外加:Vt	煎:Vt	
+得:ADV	滋滋:ADV	叫:Vt	的:T	臘腸:N	切片:N	
+點:Vt	的:T	是:Vt	臘腸:N	口味:N	
+組合:Vt	起來:ASP	就:ADV	難免:ADV	予:Vt	人:N	血膋:N	過:Vt	
+高:Vi	的:T	想像:N	
+相較:Vi	之下:POST	
+蟹肉:N	沾醬:N	皮塔:N	麵包:N	則:ADV	令:Vt	人:N	驚豔:Vi	
+薄韌:Vi	的:T	麵包:N	皮微:N	帶:Vt	焦香:N	
+烤:Vt	
+盤內:N	黃:N	澄:b	如:N	精金:N	的:T	滑潤:Nv	沾醬:N	嚐:Vt	來:ADV	腴:b	而:C	不:ADV	膩:Vi	─:FW	─:FW	口感:N	厚實:Vi	的:T	乳製調:N	料:N	徹底:Vi	
+攙拌入:Vt	來自:Vt	海洋:N	的:T	甲殼:N	鮮味:N	
+不僅:C	提昇:Vt	味蕾:N	的:T	層次:N	
+也:ADV	強化:Vt	了:ASP	胃:N	囊:N	的:T	飽:Vi	
+足感:N	
+比較:ADV	可惜:Vi	的:T	是:Vt	週六:N	限定:Vt	的:T	淡:Vi	菜:N	海鮮:N	大鍋麵:N	
+看得出來:Vt	用料:N	實在:ADV	
+稠瀰:N	鮮:Vi	
+香:Vi	的:T	醬汁:N	也:ADV	頗:ADV	得:Vt	瓦倫西亞:N	的:T	原鄉:N	三昧:N	
+但:C	也許:ADV	因為:C	置放:Vt	時間:N	稍:ADV	久:Vi	導致:Vt	水:N	
+分:Vt	收乾:Vi	
+一:DET	坨坨:DET	西班牙:N	短:Vi	麵條:N	黏捲:N	在一塊:Vi	
+像:P	斷:Vt	爛:Vi	的:T	皮筋:N	
+失卻:Vt	了:ASP	原:A	該:DET	
+呈現:Vt	的:T	嚼:Vt	頭:N	

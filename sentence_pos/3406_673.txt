@@ -1,0 +1,83 @@
+shinstar:FW	(:PARENTHESISCATEGORY	阿:Vi	喔:T	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	松山:N	溫馨:Vi	好:Vi	口味:N	日式:A	料理:N	八宅:N	和:C	食:Vt	
+Sat:FW	
+Aug:FW	
+9:DET	
+23:DET	::COLONCATEGORY	26:DET	::COLONCATEGORY	04:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	八宅:N	和:C	食:Vt	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	光復:Vt	北路:N	190巷:N	3:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2545:DET	-:DASHCATEGORY	9186:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	AM:FW	11:DET	::COLONCATEGORY	30:DET	~:FW	PM:FW	14:DET	::COLONCATEGORY	30:DET	PM:FW	17:DET	::COLONCATEGORY	30:DET	~:FW	PM:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	中午:N	300:DET	~:FW	500:DET	晚上:N	500:DET	~:FW	1000:DET	需:ADV	加:Vt	一成:DET	服務費:N	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	炙燒:Vi	鮭魚:N	壽司:N	、:PAUSECATEGORY	起:Vt	司:N	牛肉:N	壽司:N	、:PAUSECATEGORY	辣:Vi	鮪魚:N	手:N	捲:Vt	
+官網:N	：:COLONCATEGORY	無:ADV	有:Vt	fb:FW	粉絲團:N	
+網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.pidu.me/blog/post:FW	/:FW	183645480:DET	
+真的:ADV	很:ADV	久:Vi	沒:ADV	來到:Vt	這:DET	家:M	印象:N	蠻:ADV	好:Vi	的:T	日本:N	料理:Vt	小店:N	&:FW	lt:FW	
+八宅:N	和:C	食:N	&:FW	gt:FW	
+周末夜:N	臨時:N	起意:Vt	從:P	新竹:N	回來:Vi	特:ADV	
+地:N	繞過:Vt	來:Vi	
+幸好:ADV	臨時:A	定位:N	還:ADV	有:Vt	吧台:N	的:T	兩:DET	人:N	位:Vt	
+當初:N	不:ADV	小心:Vt	發現:Vt	這:DET	家:M	店:N	時:POST	才:ADV	開幕:Vi	沒:Vt	多:ADV	久:Vi	
+轉:Vt	
+眼:N	也:ADV	過:Vt	好多:DET	年:M	了:T	
+店:N	裏:N	人事:N	很:ADV	穩定:Vt	都:ADV	沒:ADV	換人:Vi	
+外:N	場:M	親切:Vi	的:T	妹妹:N	居然:ADV	還:ADV	記得:Vt	我們:N	
+很:ADV	窩心:Vi	啊:T	
+兩:DET	個:M	人:N	很:ADV	沒:Vt	創意:N	每:DET	次:M	來:ADV	點:Vt	的:T	東西:N	都:ADV	差不多:Vi	
+不過:C	這麼:ADV	久:Vi	了:ASP	口味:N	倒是:ADV	還:ADV	有:Vt	維持住:Vt	
+上:Vt	FB:FW	看到:Vt	
+2013年:N	更換:Vt	過:ASP	新:Vi	菜單:N	
+但:C	店:N	裏:N	雖然:C	是:Vt	客滿:Vi	狀態:N	
+上菜:Vi	速度:N	居然:ADV	還:ADV	比:P	以前:N	更:ADV	快:Vi	了:T	
+是:Vt	工作:N	流:Vt	
+程:N	有:Vt	做:Vt	什麼:DET	改良:Nv	嗎:T	
+嘻喜:N	
+先:ADV	吃吃:Vt	招待:Vt	的:T	牛:N	蒡絲:N	
+特選:Vt	刺身:N	
+NT:FW	420:DET	
+的:T	大:Vi	干貝:N	非常:ADV	甜:Vi	
+好吃:Vi	
+每:DET	次:M	來:ADV	都:ADV	吃:Vt	的:T	辣:Vi	鮪魚:N	手:N	捲:Vt	
+NT:FW	90:DET	
+還是:ADV	很:ADV	喜歡:Vt	
+蔥花:N	鮪魚:N	手捲:N	
+NT:FW	90:DET	
+比較:ADV	弱:Vi	一點:ADV	
+蔥花:N	好像:ADV	不:ADV	夠:ADV	優:Vi	
+隔:Vt	了:ASP	幾:DET	年:M	
+店:N	裏:N	狀況:N	雖然:C	維持:Vt	得:T	很:ADV	好:Vi	
+但:C	設備:N	已經:ADV	開始:Vt	有:Vt	歲月:N	的:T	痕跡:N	了:T	
+其實:ADV	我:N	也:ADV	是:Vt	老:Vi	
+很多:DET	了:T	啊:T	
+好:ADV	感傷:Vt	
+洋蔥:N	鮭魚:N	壽司:N	捲:Vt	
+NT:FW	280:DET	八:DET	貫:M	
+味道:N	和:C	以前:N	差不多:ADV	
+但:C	好像:ADV	有:Vt	微妙:Vi	的:T	不:ADV	一樣:Vi	
+不:ADV	知道:Vt	是:Vt	不:ADV	
+是:Vt	明:Vi	太子醬:N	的:T	用量:N	降低:Vt	了:ASP	
+印象:N	中:POST	以前:N	比較:ADV	好吃:Vi	一點:ADV	
+烤青魽:N	下巴:N	
+時價:N	本:DET	次:M	NT:FW	380:DET	
+這:DET	個:M	好吃:Vi	
+烤魚:N	在:P	家:N	裏:N	很:ADV	難:Vi	自己:N	做:Vt	啊:T	
+還是:ADV	要:ADV	到:Vt	店:N	裏:N	來:ADV	吃:Vt	
+可惜:Vi	今天:N	開車:Vi	不能:ADV	喝:Vt	酒:N	啊:T	
+好:Vi	想:Vt	來:ADV	一:DET	杯:M	
+明:N	太子:N	烤:Vt	山藥:N	
+和:P	以前:N	不一:Vi	樣:M	
+份量:N	好像:ADV	變:Vi	少:Vi	了:T	
+剌身:N	裏:N	的:T	蝦:N	據說:ADV	很:ADV	甜:Vi	
+都:ADV	進:Vt	了:ASP	夜大星:N	的:T	肚子:N	裏:N	哈哈:ADV	
+今天:N	選擇:Vt	將:P	蝦頭:N	拿來:Vt	煮:Vt	味噌:N	場:N	
+加:Vt	了:ASP	蝦頭:N	的:T	鮮魚:N	味噌湯:N	
+NT:FW	100:DET	
+結尾:Vi	喝:Vt	個:M	熱湯:N	很:ADV	不錯:Vi	
+兩:DET	個:M	快:Vi	食王:N	又:ADV	迅速:Vi	完食:N	
+滿足:Vt	的:T	回家:Vi	啦:T	
+周末:N	快樂:Vi	
+如果:C	在:P	這:DET	附近:N	上班:Vi	或:C	更:ADV	常:ADV	來:ADV	吃:Vt	

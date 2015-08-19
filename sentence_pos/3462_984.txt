@@ -1,0 +1,69 @@
+savvik(Essay:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	築:Vt	地:T	市場:N	(:PARENTHESISCATEGORY	居酒屋:N	):PARENTHESISCATEGORY	(:PARENTHESISCATEGORY	永康街:N	):PARENTHESISCATEGORY	
+Mon:FW	
+Aug:FW	
+25:DET	
+19:DET	::COLONCATEGORY	27:DET	::COLONCATEGORY	49:DET	
+2014:DET	
+圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	savvik123.pixnet.net/blog/post:FW	/:FW	178985049:DET	
+店名:N	：:COLONCATEGORY	築:Vt	地:T	市場:N	
+居酒:N	屋:N	
+永康街:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2396:DET	-:DASHCATEGORY	8088:DET	
+地址:N	：:COLONCATEGORY	台北:N	永康街:N	34:DET	-:DASHCATEGORY	4:DET	號:M	
+價格:N	：:COLONCATEGORY	200:DET	-:DASHCATEGORY	800:DET	/:FW	人:N	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週日:N	：:COLONCATEGORY	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	0:DET	::COLONCATEGORY	00:DET	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014:DET	/:FW	5:DET	
+拍攝:Vt	相機:N	：:COLONCATEGORY	CanonEOSM:FW	
+個:M	人:N	評價:Vt	：:COLONCATEGORY	普通:Vi	
+這:DET	天:M	原先:ADV	想:Vt	吃:Vt	個:M	熱炒:Vt	
+卻:ADV	意外:Vt	碰到:Vt	熱炒店:N	休息:Vi	
+所以:C	跑到:Vt	永康街:N	
+就:ADV	挑:Vt	了:ASP	這邊:N	吃飯:Vi	
+與:C	一般:A	常見:Vi	把:P	當日:N	特別:Vi	的:T	菜色:N	寫:Vt	在:P	店:N	內:N	黑板:N	或:C	白板:N	不同:Vi	
+這邊:N	在:P	店:N	外:N	就:ADV	可以:ADV	看到:Vt	了:ASP	
+與:C	一般:A	台灣:N	居酒屋多:Vi	偏:Vt	串燒:N	來:ADV	說:Vt	
+這:DET	間:M	較:ADV	偏:Vt	海鮮類:N	
+所以:C	有:Vt	握:Vt	壽司:N	與:C	丼飯:N	
+飲料:N	選項:N	亦:ADV	多:Vi	
+連:C	每日:N	特選:Vt	的:T	菜:N	都:ADV	有:Vt	菜單:N	
+但:C	很:ADV	有趣:Vi	的:T	是:Vt	用:P	修正:Vt	帶:Vt	修正:Vt	了:ASP	N:FW	遍:DET	
+●:FW	毛豆:N	
+招待:Vt	
+只要:C	不要:ADV	碰到:Vt	油:N	炒:Vt	的:T	
+就:ADV	會:ADV	覺得:Vt	不錯:Vi	
+這裡:N	是:Vt	水:N	煮:Vt	的:T	
+可惜:Vi	不:ADV	像:P	日本:N	是:Vt	現:ADV	煮:Vt	加:Vt	鹽:N	
+那會:N	更:ADV	好:Vi	
+●:FW	軟絲刺身:N	
+切:Vt	的:T	比較:ADV	厚:Vi	的:T	軟絲:N	
+我:N	喜歡:Vt	這:DET	種:M	厚:Vi	的:T	口感:N	
+●:FW	特選:Vt	握:Vt	壽司:N	
+七:DET	貫:M	
+魚:N	料:N	尚可:Vi	
+不過:C	當天:N	醋:N	飯:N	可能:ADV	是:Vt	因為:C	供應量:N	大:Vi	
+還:ADV	有點:ADV	餘溫:N	
+故:C	吃起來:ADV	就:ADV	很:ADV	可惜:Vi	了:T	
+●:FW	明:N	太子:N	烤:Vt	洋芋:N	
+馬鈴薯:N	煮:Vt	的:T	夠:ADV	軟:Vi	
+明:N	太子:N	醬調:N	的:T	還:ADV	不錯:Vi	
+明:N	太子:N	的:T	份量:N	用:Vt	的:T	比較:ADV	多:Vi	
+不會:ADV	像:P	很多:DET	時候:N	有:Vt	些:M	
+地方:N	吃:Vt	來:ADV	像:P	吃:Vt	美:N	乃:Vt	茲:N	...:ETCCATEGORY	
+●:FW	茄子:N	田樂燒:N	
+用:Vt	的:T	是:Vt	日本:N	胖胖:Vi	茄:b	
+不過:C	這:DET	道:M	菜:N	很:ADV	神奇:Vi	
+原因:N	是:Vt	一般:A	的:T	田樂:N	燒:Vt	好像:ADV	用:Vt	的:T	是:Vt	味增:N	
+這邊:N	用:Vt	的:T	是:Vt	.....:ETCCATEGORY	肉醬:N	
+口感:N	很:ADV	....:ETCCATEGORY	特別:Vi	
+●:FW	酒:N	蒸:Vt	蛤蜊:N	
+可能:ADV	是:Vt	我:N	受:P	深夜:N	食堂:N	的:T	影響:N	吧:T	
+不:ADV	太:ADV	理解:Vt	為什麼:ADV	台灣:N	這邊:N	吃:Vt	酒:N	蒸:Vt	蛤蜊:N	最後:N	都:ADV	變成:Vt	蛤蜊湯:N	....:ETCCATEGORY	
+蛤蜊:N	大小:N	還可以:ADV	
+●:FW	總:ADV	評:Vt	
+就:ADV	......:ETCCATEGORY	有點:ADV	一般:A	
+可能:ADV	是:Vt	受到:Vt	醋飯:N	有點:ADV	影響:Vt	
+覺得:Vt	整體:N	吃起來:ADV	還:ADV	好:Vi	
+但:C	沒:Vt	什麼:DET	特色:N	
+茄子:N	田樂:N	燒:Vt	真的:ADV	很:ADV	特別:Vi	
+軟絲:N	的:T	吃法:N	我:N	很:ADV	欣賞:Vt	

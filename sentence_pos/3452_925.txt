@@ -1,0 +1,101 @@
+Faberge:FW	(:PARENTHESISCATEGORY	你:N	的:T	大:Vi	Ｆ:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	LDTG:FW	_:FW	粉雪:N	台北:N	_:FW	中山區:N	
+Sat:FW	
+Aug:FW	
+23:DET	
+08:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	37:DET	
+2014:DET	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014.0:DET	7.13:DET	.:PERIODCATEGORY	午餐:N	友:N	：:COLONCATEGORY	3:DET	人:N	
+餐廳:N	名稱:N	：:COLONCATEGORY	KONAYUKI:FW	粉雪:N	北海道:N	StyleCafe:FW	完整:Vi	食記:N	請:Vt	點:N	這裡:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/ZqT:FW	8:DET	
+餐廳:N	地址:N	：:COLONCATEGORY	中山北路:N	二段:N	20巷:N	1:DET	號:M	電話:N	::COLONCATEGORY	０２－２５２２２０２０:DET	綜合:A	評價:N	：:COLONCATEGORY	8.0:DET	分:M	價位:N	：:COLONCATEGORY	約:ADV	450:DET	元:M	推薦:Nv	料理:N	：:COLONCATEGORY	
+巧:Vi	
+綜合:A	水果:N	雙:A	味:N	乳酪:N	蛋糕:N	::COLONCATEGORY	9.3:DET	分:M	綜合:A	莓果:N	雙層:A	乳酪:N	蛋糕:N	::COLONCATEGORY	7.3:DET	分:M	炸:Vt	蝦:N	可:ADV	麗餅:N	三明治:N	::COLONCATEGORY	6.0:DET	分:M	六:DET	年:M	以來:POST	
+一直:ADV	每:DET	週:M	出團:Vi	的:T	簡單:Vi	美食團:N	
+一直:ADV	相信:Vt	非:A	營利:Nv	才:ADV	能:ADV	不忘:Vt	味:N	初:POST	
+希望:Vt	也:ADV	能:ADV	與:P	你:N	相遇:Vi	在:P	某:DET	次:M	滿足:Vt	的:T	美味:Vi	餐桌:N	
+成為:Vt	一起:ADV	吃飯:Vi	的:T	朋友:N	
+如果:C	可以:ADV	
+但願:Vt	和:P	你:N	遍:DET	嚐:Vt	幸福:Vi	
+餐廳:N	介紹:Vt	::COLONCATEGORY	文章:N	提供:Vt	：:COLONCATEGORY	團長:N	兔子:N	從:P	北海道:N	空運:Nv	來:POST	臺:N	的:T	蛋糕:N	
+和:C	小:Vi	樽洋:N	果子:N	鋪:Vt	合作:Vi	
+除了:P	空運:Nv	蛋糕:N	外:POST	
+技術:N	合作:Vi	的:T	戚風:N	蛋糕:N	、:PAUSECATEGORY	專:ADV	為:Vt	法式:A	吐司:N	特製:Nv	吐司:N	的:T	吐司:N	
+好:ADV	饒舌:Vi	阿:N	
+等等:POST	
+完全:ADV	重現:Vi	日本:N	美味:Vi	
+這:DET	顆:M	蛋糕:N	會:ADV	顛覆:Vt	一:DET	個:M	人:N	對於:P	起:ASP	司:N	蛋糕:N	的:T	看法:N	
+沒有:Vt	起:ASP	司:N	獨特:Vi	的:T	腥味:N	
+而是:C	綿密:Vi	濃郁:Vi	的:T	乳香:N	
+入口:N	清爽:Vi	
+checkpoint:FW	::COLONCATEGORY	KONAYUKI:FW	粉雪:N	北海道:N	StyleCafe:FW	1:DET	.:PERIODCATEGORY	用餐:Nv	時間:N	90:DET	分鐘:M	
+如:C	無:Vt	候位:N	則:ADV	不:ADV	限:Vt	時間:N	
+2:DET	.:PERIODCATEGORY	假日:N	無:Vt	訂位:Nv	
+需:Vt	現場:N	登記:Vt	候補:Vi	
+推薦:Vt	料理:Vt	第一:DET	道:M	::COLONCATEGORY	
+巧:Vi	
+綜合:A	水果:N	雙:A	味:N	乳酪:N	蛋糕:N	推薦度:N	：:COLONCATEGORY	76.7:DET	%:M	美味度:N	：:COLONCATEGORY	9.3:DET	價格:N	：:COLONCATEGORY	250:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=480#d:FW	2668:DET	介紹:N	--:DASHCATEGORY	完全:ADV	就:ADV	是:Vt	為:P	此:DET	而:C	來:Vi	的:T	啊:T	
+原味:N	乳酪:N	蛋糕:N	綿綿密密:Vi	
+細緻:Vi	濃郁:Vi	中:POST	帶:Vt	著:ASP	清爽:Vi	
+味道:N	令:Vt	人:N	滿足:Vt	的:T	不得了:Vi	
+加上:C	巧克力:N	就:ADV	是:Vt	變化版:N	
+旁邊:N	的:T	牛奶:N	霜淇淋:N	非常:ADV	順口:Vi	
+不:ADV	是:Vt	會:ADV	讓:Vt	人:N	膩口:N	的:T	奶:N	味:N	
+而且:C	融化:Vt	的:T	很:ADV	快:Vi	
+得:ADV	把握:Vt	時間:N	快快:Vi	享受:Vt	完畢:Vi	
+ｂｙ:FW	Ｓｔｅｌｌａ:FW	推薦:Vt	料理:Vt	第二:DET	道:M	::COLONCATEGORY	綜合:A	莓果:N	雙層:A	乳酪:N	蛋糕:N	推薦度:N	：:COLONCATEGORY	76.7:DET	%:M	美味度:N	：:COLONCATEGORY	7.3:DET	價格:N	：:COLONCATEGORY	260:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=480#d:FW	2667:DET	介紹:N	--:DASHCATEGORY	北海道:N	的:T	這:DET	個:M	蛋糕:N	我:N	覺得:Vt	無論:C	吃:Vt	不:ADV	吃:Vt	起:ASP	司:N	蛋糕:N	
+或:C	吃:Vt	不:ADV	吃:Vt	甜點:N	都:ADV	一定:ADV	要:ADV	試試看:Vt	的:T	阿:N	
+旁邊:N	搭配:Vt	的:T	冰淇淋:N	也好:T	好吃:Vi	阿:N	
+莓果:N	們:N	給:Vt	得:T	很:ADV	大方:Vi	
+一:DET	大:Vi	堆:M	有:Vt	覆盆子:N	、:PAUSECATEGORY	草莓:N	、:PAUSECATEGORY	葡萄:N	跟:P	小:Vi	紅梅:N	酸:Vi	得:T	過癮:Vi	
+搭配:Vt	冰品:N	和:C	蛋糕:N	都:ADV	非常:ADV	好吃:Vi	
+拇指:N	
+ｂｙ:FW	兔子:N	評價:N	--:DASHCATEGORY	雙層:A	蛋糕:N	在:P	台北:N	應該:ADV	還是:ADV	相對:Vi	少見:Vi	
+就算:C	─:FW	Sping:FW	有:Vt	要:ADV	有:Vt	相同:Vi	水準:N	也:ADV	不:ADV	容易:Vi	呢:T	
+加上:C	綜合:A	苺果:N	有:Vt	夏天:N	的:T	滋味:N	
+─:FW	Stella:FW	推薦:Vt	料理:Vt	第三:DET	道:M	::COLONCATEGORY	炸:Vt	蝦:N	可:ADV	麗餅:N	三明治:N	推薦度:N	：:COLONCATEGORY	76.7:DET	%:M	美味度:N	：:COLONCATEGORY	6.0:DET	價格:N	：:COLONCATEGORY	220:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=480#d:FW	2670:DET	介紹:N	--:DASHCATEGORY	秉持:Vt	著:ASP	甜鹹配:N	才:ADV	可以:ADV	吃:Vt	更多:DET	的:T	概念:N	加:Vt	點:M	的:T	三明治:N	
+吐司:N	可以:ADV	選擇:Vt	要不要:ADV	烤:Vt	
+這:DET	次:M	是:Vt	選擇:Vt	烤:Vt	過:ASP	的:T	吐司:N	
+身為:Vt	一:DET	個:M	下午茶:N	的:T	配角:N	
+上桌:Vi	後:POST	太:ADV	香:Vi	了:ASP	整:DET	個:M	超搶戲阿:Vi	
+可:ADV	麗餅:N	你:N	這樣:ADV	對:Vi	嗎:T	
+吐司:N	意外:N	的:T	非常:ADV	好吃:Vi	
+後來:N	翻:Vt	資料:N	才:ADV	發現:Vt	為了:P	製作:Vt	好吃:Vi	的:T	法式:A	吐司:N	
+專門:Vt	特製:Vt	了:ASP	這:DET	款:M	吐司:N	
+雖然:C	沒:ADV	照到:Vt	
+但:C	旁邊:N	有:Vt	附:Vt	一:DET	小攤:N	帶:Vt	皮:N	炸:Vt	薯條:N	也:ADV	很:ADV	美味:Vi	
+如果:C	男友:N	因為:C	不:ADV	想:Vt	吃:Vt	甜:Vi	的:T	所以:C	不:ADV	陪:Vt	妳:N	吃:Vt	下午茶:N	的:T	女孩:N	們:N	
+請:Vt	用:P	三明治:N	系列:N	說服:Vt	他:N	
+ＸＤ:FW	ｂｙ:FW	兔子:N	評價:N	--:DASHCATEGORY	可:ADV	麗餅麵衣:N	不過:C	厚:Vi	
+內:N	餡:N	馬鈴薯:N	泥:N	滑:Vi	順:Vt	香甜:Vi	
+加:Vt	─:FW	Stella:FW	上:N	烤:Vt	過:ASP	的:T	吐司:N	
+意外:N	的:T	吃起來:ADV	很:ADV	不錯:Vi	::COLONCATEGORY	D:FW	一般:A	般:POST	
+沒有:ADV	特別:Vi	印象:N	啊:T	
+─:FW	Sping:FW	以下:N	為:P	本:DET	次:M	用餐:Vi	的:T	詳細:Vi	評分:Nv	內容:N	::COLONCATEGORY	
+評價:N	僅:ADV	供:Vt	參考:Vt	::COLONCATEGORY	滿:DET	分為:Vt	五:DET	顆:M	
+適合:Vi	朋友:N	聚餐:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	適合:Vi	情侶:N	約會:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	適合:Vi	家庭:N	聚會:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	餐廳:N	氣氛:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	價格:N	划算:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	美味:Vi	滿意:Vt	程度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	
+就:ADV	該:DET	價位:N	而言:Vt	
+服務:Nv	品質:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	綜合:A	評價:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	再次:ADV	拜訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	推薦:Nv	朋友:N	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	本:DET	次:M	消費:N	金額:N	
+飲料:N	另:DET	計:N	
+：:COLONCATEGORY	每:DET	人:N	420:DET	元:M	
+3:DET	人:N	用餐:Vi	
+用餐:Vi	建議:Vt	事項:N	：:COLONCATEGORY	1:DET	.:PERIODCATEGORY	用餐:Nv	時間:N	90:DET	分鐘:M	
+如:C	無:Vt	候位:N	則:ADV	不:ADV	限:Vt	時間:N	
+2:DET	.:PERIODCATEGORY	假日:N	無:Vt	訂位:Nv	
+需:Vt	現場:N	登記:Vt	候補:Vi	
+近期:N	餐友:N	分享:Vt	：:COLONCATEGORY	
+黃龍莊:N	
+女巫店:N	
+粉雪:N	北海道:N	Cafe:FW	
+INDULGE:FW	
+FafaVoila:FW	法法:N	小:Vi	館:N	...:ETCCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/2/Food_index.php:FW	
+t=&amp:FW	
+uid:FW	=:FW	八:DET	月份:N	美食團:N	行事曆:N	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/InfoNew.php:FW	
+t=&amp:FW	
+uid:FW	=:FW	如果:C	可以:ADV	
+希望:Vt	成為:Vt	與:P	你:N	一起:ADV	吃飯:Vi	的:T	朋友:N	--:DASHCATEGORY	和:P	寂寞:Vi	、:PAUSECATEGORY	忙碌:Vi	、:PAUSECATEGORY	渺小:Vi	無關:Vi	美好:Vi	的:T	食物:N	是:Vt	擁抱:Vt	生活:N	的:T	大事:N	
+不:ADV	解釋:Vt	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/f.life.plus:FW	--:DASHCATEGORY	

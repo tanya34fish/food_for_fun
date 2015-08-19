@@ -1,0 +1,172 @@
+hatawa(Hatawa:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山:N	午食:N	年代:N	蹦揪:Vi	好吃:Vi	
+Mon:FW	
+Jul:FW	
+21:DET	
+20:DET	::COLONCATEGORY	36:DET	::COLONCATEGORY	22:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	午食:N	年代:N	蹦揪:Vi	好吃:Vi	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	02月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大同區:N	南京西路:N	18巷:N	6弄:N	8:DET	-:DASHCATEGORY	1:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	25599101:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	Mon-Sun:FW	::COLONCATEGORY	11:DET	::COLONCATEGORY	15:DET	am:FW	-:DASHCATEGORY	9:DET	::COLONCATEGORY	30:DET	pm:FW	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	-:DASHCATEGORY	300:DET	元:M	
+推薦:Vt	菜色:N	：:COLONCATEGORY	橙汁:N	鮮奶醬:N	鳳梨:N	燻:Vt	雞:N	燉飯:Vt	橙汁:N	鮮奶醬:N	杏:N	鮑:N	菇燻:N	雞:N	燉飯:Vt	
+檸檬醬:N	蛤蠣:N	燉飯:Vt	日式:A	炸豬排:N	花生:N	牛奶麵:N	麵茶:N	炸:Vt	元宵:N	紅豆:N	紫米:N	
+好吃:Vi	圖文:N	在:P	裡面:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/pb:FW	05:DET	
+＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	＃:FW	
+這:DET	篇:M	又:ADV	隔:Vt	了:ASP	半:DET	年:M	才:ADV	寫完:Vt	是:Vt	在:P	搞:Vt	什麼:DET	
+現在:N	已:ADV	是:Vt	七月:N	大:Vi	熱天:N	
+文:N	中:POST	的:T	人物:N	還:ADV	穿著:Vt	厚:Vi	棉襖:N	
+XDDDD:FW	
+造訪:Vt	
+午食:N	年代:N	
+時:N	的:T	天氣:N	
+是:Vt	陰雨:N	綿綿:Vi	凍:Vt	之:T	又:ADV	凍:Vt	的:T	13:DET	度:M	阿:N	
+這:DET	天:M	為了:P	慶祝:Nv	好友:N	飽:Vi	的:T	2:DET	x:FW	大壽:N	
+選定:Vt	這:DET	間:M	特色:N	復古:Vt	餐廳:N	為:P	最後:N	惡作劇:Vi	的:T	結尾:Nv	
+哈哈:ADV	收到:Vt	陌生人:N	送:Vt	的:T	金莎:N	也:ADV	是:Vt	種:M	趣味:N	呴:b	
+納塔:N	也:ADV	來:ADV	入:Vt	鏡:N	一下:N	
+店家:N	非常:ADV	熱情:Vi	好客:Vi	
+先:ADV	來:ADV	看:Vt	菜單:N	摟:Vt	
+可能:ADV	那:DET	天:M	都:ADV	一致:Vi	太:ADV	想:Vt	喝:Vt	飲料:N	了:T	
+於是:C	都:ADV	點:Vt	了:ASP	B:FW	套餐:N	100:DET	元:M	
+主餐秀:N	請:Vt	繼續:Vt	往:P	下:N	嚕:ADV	
+店:N	內:N	十分:ADV	的:T	古:Vi	著:ASP	風:N	
+先:ADV	來:ADV	和:P	壽星:N	拍:Vt	一:DET	張:M	
+可惡:Vi	精心:Vi	設計:N	的:T	橋段:N	居然:ADV	被:P	識破:Vt	是:Vt	我:N	太:ADV	笨:Vi	還是:C	壽星:N	太過:ADV	幹練:Vi	
+現在:N	變成:Vt	直髮:N	就:ADV	開始:Vt	懷念:Vt	以前:N	的:T	捲髮:N	了:T	
+這:DET	時候:N	是:Vt	濕:Vi	冷:Vi	的:T	二月:N	
+大家:N	有志一同:Vi	都:ADV	點:Vt	了:ASP	熱:Vt	的:T	飲品:N	
+香草:N	奶茶:N	*:FW	2:DET	巧克力:N	奶茶:N	*:FW	1:DET	桂圓:N	紅棗茶:N	*:FW	1:DET	
+納塔:N	自己:N	是:Vt	喝:Vt	香草:N	奶茶:N	
+奶味:N	濃郁:Vi	但:C	有點:ADV	過:ADV	甜:Vi	了:T	
+算了:Vi	啦:T	當作:Vt	給:Vt	身子:N	補充:Vt	熱量:N	
+too:FW	
+much:FW	
+這:DET	張:M	是:Vt	要:ADV	表達:Vt	什麼:DET	XDDDD:FW	這樣:Vi	乾杯:Vi	的:T	嗎:T	
+套餐:N	都:ADV	有的:DET	沙拉:N	
+印象:N	中:POST	非常:ADV	好吃:Vi	阿:N	
+特別:Vi	在於:Vt	沙拉:N	老闆:N	都:ADV	很:ADV	均勻:Vi	地:T	幫:P	你:N	拌:Vt	好了:T	
+送到:Vt	你:N	
+面前:N	只:ADV	要:ADV	張口:Vi	吃:Vt	就:ADV	好:Vi	XDDDD:FW	
+沒有:ADV	很:ADV	愛:Vt	沙拉:N	的:T	納塔:N	全:DET	吃光:Vt	了:ASP	
+生菜:N	都:ADV	很:ADV	新鮮:Vi	
+醬汁:N	應該:ADV	算是:Vt	特調:N	款:N	
+蠻:ADV	少:Vi	吃到:Vt	這:DET	種:M	味道:N	
+有:Vt	優格:N	的:T	成分:N	酸酸甜甜:Vi	
+連:C	討厭:Vt	葡萄乾:N	的:T	我:N	因為:C	有:Vt	沾到:Vt	醬汁:N	竟:ADV	也:ADV	一併:ADV	吃光:Vt	XDD:FW	
+麵包:N	也:ADV	是:Vt	外表:N	烤:Vt	的:T	外脆內軟:Vi	
+抹:Vt	的:T	醬:N	應該:ADV	算:Vt	很:ADV	實在:ADV	不:ADV	是:Vt	隨便:Vi	撇:Vt	個:M	幾:DET	下:M	那:DET	種:M	
+欣妞:N	的:T	：:COLONCATEGORY	橙汁:N	鮮奶醬:N	鳳梨:N	燻:Vt	雞:N	燉飯:Vt	150:DET	元:M	
+這:DET	味道:N	驚為天人:Vi	阿:N	
+真的:ADV	算是:Vt	創意:N	料理:Vt	了:ASP	啦:T	
+感覺:N	橙汁:N	怎麼:ADV	可以:ADV	入菜:Vi	而且:C	還:ADV	入燉:N	飯:N	
+SORRY:FW	它:N	就:ADV	是:Vt	可以:ADV	
+那:DET	種:M	涮嘴:N	的:T	感覺:N	不:ADV	知道:Vt	怎麼:ADV	形容:Vt	咧:T	
+橙汁:N	讓:Vt	奶醬:N	降低:Vt	膩感:N	率:Vt	
+卻:ADV	也:ADV	
+一點:DET	都:ADV	不:ADV	突兀:Vi	的:T	融合:Nv	
+可能:ADV	因為:C	有:Vt	鳳梨:N	的:T	存在:Nv	所以:C	真的:ADV	蠻:ADV	協調:Vi	
+燻雞:N	淡淡:Vi	的:T	煙燻味:N	徐徐:Vi	的:T	
+圍繞:Vt	在:P	咀嚼:Vt	時:POST	的:T	周圍:N	
+會:ADV	不知不覺:ADV	很:ADV	想:Vt	讓:Vt	人:N	一口:ADV	接:Vt	一口:ADV	那樣:Vi	
+份量:N	來:ADV	看:Vt	也:ADV	是:Vt	很:ADV	夠:Vi	的:T	
+好:ADV	顯:Vt	有:Vt	拍照:Vi	不然:C	都:ADV	快:ADV	忘:Vt	了:ASP	是:Vt	誰:N	吃:Vt	的:T	啊:T	哈哈:ADV	哈哈:ADV	
+佑妞:N	的:T	：:COLONCATEGORY	橙汁:N	鮮奶:N	醬杏:N	鮑:N	菇燻:N	雞:N	燉飯:Vt	150:DET	元:M	
+基底:N	醬汁:N	不變:Vi	一樣:Vi	特殊:Vi	的:T	味道:N	
+而:C	不同於:Vt	鳳梨:N	結合:Vt	橙汁:N	複合:A	上:POST	去:ADV	的:T	甜香:N	
+這:DET	道:M	有:Vt	著:ASP	杏:N	鮑:N	菇:N	
+帶來:Vt	的:T	Ｑ:FW	脆:Vi	口感:N	也:ADV	是:Vt	很:ADV	不錯:Vi	的:T	一:DET	品:N	
+壽星:N	寶妞點:N	的:T	：:COLONCATEGORY	檸檬醬:N	蛤蠣:N	燉飯:Vt	180:DET	元:M	
+這:DET	一:DET	送上來:Vt	大家:N	也:ADV	是:Vt	都:ADV	哇哇:ADV	大叫:Vt	
+蛤蠣:N	好:ADV	大:Vi	顆:M	阿:N	而且:C	都:ADV	很:ADV	飽滿:Vi	多汁:Vi	
+燉煮:Vt	的:T	恰到好處:Vi	才:ADV	能:ADV	
+這樣:Vi	呈現:Vt	阿:N	
+這:DET	道:M	燉:Vt	飯:N	裡:POST	也:ADV	是:Vt	充滿:Vt	檸檬:N	清香:N	與:C	淡淡:Vi	香氣:N	
+檸檬:N	的:T	微酸:N	意外:N	地:N	與:C	蛤蠣:N	特有:A	會:ADV	釋放:Vt	的:T	那:DET	種:M	鮮:Vi	
+味:N	合拍:Vt	
+而且:C	納塔:N	喜歡:Vt	它:N	花椰菜:N	的:T	表現:N	方式:N	
+碎碎:Vi	的:T	在:P	其中:DET	讓:Vt	主角:N	蛤蠣:N	完全:Vi	的:T	凸顯:Vt	
+一點:DET	
+一點:DET	的:T	綠色:N	參雜:Vt	在:P	其中:DET	也:ADV	起:POST	到:P	一些:DET	提色:N	作用:N	
+終於:ADV	輪到:Vt	我:N	啦:T	好:ADV	餓:Vi	好:Vi	餓:Vi	
+焗:b	烤:Vt	好像:ADV	都:ADV	會:ADV	等:POST	好:Vi	一陣子:N	呢:T	
+不過:C	太:ADV	值得:Vi	了:T	
+我:N	大膽:Vi	的:T	點:Vt	了:ASP	本:DET	店:N	極:ADV	推:Vt	的:T	招牌:N	台灣味:N	義法:N	混:Vi	搭:Vt	風:N	：:COLONCATEGORY	
+日式:A	炸豬排:N	花生:N	牛奶麵:N	
+加焗:Vt	烤:Vt	
+220:DET	元:M	焗烤:Vt	+:FW	40:DET	元:M	
+剛:ADV	送來:Vt	的:T	時候:N	上面:N	的:T	起:Vt	司:N	還:ADV	在:P	逼逼撥撥:Vt	冒煙:Vi	阿:N	
+豬排:N	是:Vt	分開:Vt	裝:Vt	的:T	
+麵衣:N	不會:ADV	被:P	醬汁:N	沾溼:Vt	的:T	作法:N	我:N	喜歡:Vt	
+納塔:N	最:ADV	最:ADV	喜歡:Vt	爆:Vi	血管:N	的:T	濃郁:Vi	口味:N	
+這:DET	這:DET	這:DET	完全:ADV	符合:Vt	阿:N	
+這:DET	時候:N	心:N	裡:N	浮現:Vi	一:DET	張:M	表格:N	每:DET	個:M	格子:N	
+都:ADV	打:Vt	勾勾:N	阿:N	
+哪來:ADV	的:T	鬼:N	表格:N	
+花生:N	味道:N	超:Vt	濃郁:Vi	巴附:Vt	在:P	每:DET	一:DET	條:M	麵:N	上頭:N	
+最:ADV	討厭:Vt	汁:N	沒:ADV	收乾:Vi	水水:Vi	的:T	義大利麵:N	
+麵條:N	的:T	軟度:N	也:ADV	
+是:Vt	恰到好處:Vi	
+焗烤:Vt	那:DET	層:M	還:ADV	蠻:ADV	厚:Vi	的:T	每:DET	一口:ADV	都:ADV	大大:Vi	滿足:Vt	
+豬排:N	的:T	話:N	雖然:C	有點:ADV	薄:Vi	不過:C	其實:ADV	算:Vt	ＯＫ:FW	可以:ADV	接受:Vt	
+因為:C	麵條:N	份量:N	不少:Vi	
+這:DET	塊:M	豬排:N	差點:ADV	吃:Vt	不:ADV	下:Vt	
+口感:N	上:POST	也:ADV	算:Vt	適中:Vi	
+底部:N	的:T	醬汁:N	
+濃:Vi	
+納塔:N	全:DET	都:ADV	沾:Vt	光光:Vi	
+這:DET	天:M	日子:N	的:T	前後:ADV	是:Vt	元宵節:N	
+剛好:ADV	應景:Vi	來:Vi	份:M	麵茶:N	炸:Vt	元宵:N	
+60:DET	元:M	
+不錯:Vi	的:T	乾式:N	甜點:N	
+熱熱:Vi	吃:Vt	很:ADV	讚:Vi	
+不過:C	納塔:N	不:ADV	太:ADV	懂:Vt	麵茶:N	這樣:Vi	東西:N	所以:C	其實:ADV	有:Vt	偷偷:ADV	覺得:Vt	不要:ADV	
+沾:Vt	麵茶:N	會:ADV	比較:ADV	好:Vi	
+整體:N	合:Vt	起來:ASP	吃:Vt	是:Vt	蠻:ADV	特別:Vi	的:T	也:ADV	沒:ADV	到:P	討厭:Vt	的:T	地步:N	
+紅豆:N	紫米:N	
+熱:Vt	
+40:DET	元:M	
+印象:N	中:POST	不會:ADV	太:ADV	甜:Vi	
+不錯:Vi	的:T	古早味:N	甜點:N	
+不過:C	這:DET	時候:N	大家:N	都:ADV	飽:Vi	到:P	不行:Vi	了:T	
+納塔:N	幫忙:Vt	吃:Vt	了:ASP	1:DET	/:FW	2:DET	
+也:ADV	宣告:Vt	停:Vt	匙:N	
+飽足:Vi	之後:POST	來:ADV	開始:Vt	今日:N	大:Vi	重點:N	
+女人:N	要:ADV	永遠:Vi	的:T	十八:DET	歲:M	
+看到:Vt	妳:N	收禮:Vi	開心:Vi	我們:N	就:ADV	開心:Vi	啦:T	
+偷偷:ADV	計畫:N	很:ADV	久:Vi	的:T	路人:N	隨機:ADV	金莎:N	計畫:N	靠:Vt	著:ASP	納塔:N	這:DET	位:M	笨笨:Vi	的:T	執:Vt	
+行者:N	這樣:Vi	算是:Vt	半:DET	成功:Vi	嗎:T	XDDDD:FW	
+創意:N	大:Vi	卡片:N	：:COLONCATEGORY	
+發:N	想:Vt	者:N	---:DASHCATEGORY	欣妞:N	／:FW	幫助:Vt	者:N	：:COLONCATEGORY	佑妞:N	／:FW	執行:Nv	者:N	：:COLONCATEGORY	納塔:N	
+紅包:N	紅包:N	拆:Vt	使:Vt	妳:N	計畫:N	：:COLONCATEGORY	
+發:N	想:Vt	者:N	：:COLONCATEGORY	欣妞:N	／:FW	執行:Nv	者:N	：:COLONCATEGORY	欣妞:N	、:PAUSECATEGORY	佑妞:N	／:FW	幫助:Vt	者:N	：:COLONCATEGORY	納塔:N	
+經典:N	D:FW	2:DET	惡魔:N	蛋糕:N	
+好:ADV	大:Vi	阿:N	沈佃佃:Vi	的:T	
+中間:N	是:Vt	非常:ADV	厚實:Vi	的:T	香蕉:N	夾:Vt	香蕉:N	奶油:N	
+因為:C	四:DET	位:M	妞:N	必須:ADV	一起:ADV	解決:Vt	這:DET	塊:M	蛋糕:N	於是:C	每:DET	個:M	人:N	都:ADV	分成:Vt	
+好:Vi	大一:N	塊:M	XDDDD:FW	
+要:ADV	把:P	蛋糕:N	舉起:Vt	拍照:Vi	的:T	時候:N	都:ADV	超:Vt	怕:Vt	紙盤重:N	到:P	凹下去:Vi	
+要:ADV	兩:DET	手:N	小心:Vt	的:T	捧阿:Vt	否則:C	蛋糕:N	就:ADV	毀:Vt	了:ASP	哈哈:ADV	
+店長:N	還:ADV	主動:Vi	提議:Vt	把:P	這:DET	個:M	店:N	內:N	最:ADV	珍貴:Vi	的:T	位子:N	給:Vt	我們:N	拍照:Vi	
+店長:N	真的:ADV	很:ADV	親切:Vi	
+店長:N	非:Vt	老闆:N	
+還:ADV	與:P	我們:N	一起:ADV	分享:Vt	蛋糕:N	
+店長:N	大哥:N	還:ADV	說:Vt	他們:N	的:T	習慣:N	是:Vt	送:Vt	他:N	
+們:N	蛋糕:N	的:T	人:N	一律:ADV	要:ADV	合照:Vi	
+才:ADV	有:Vt	了:ASP	這:DET	張:M	照片:N	
+謝謝:Vt	
+午食:N	年代:N	
+給:Vt	我們:N	很:ADV	棒:Vi	的:T	回憶:N	
+幫:P	我們:N	服務:Vt	上菜:Nv	或:C	收盤:Vi	的:T	阿姨:N	態度:N	都:ADV	很:ADV	好:Vi	有禮:Vi	
+在:P	
+復古:Vt	的:T	氛圍:N	中:POST	加入:Vt	創意:N	料理:N	的:T	堅持:Nv	
+也許:ADV	有:Vt	人:N	不:ADV	太:ADV	習慣:Vt	
+你們:N	卻:ADV	早已:ADV	走出:Vt	自己:N	的:T	特色:N	來:ADV	
+加油:Vi	
+▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	
+▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	
+▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	
+▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	▇:FW	
+▇:FW	▇:FW	▇:FW	#:FW	

@@ -1,0 +1,10 @@
+地址:N	：:COLONCATEGORY	台北市:N	中正路:N	115:DET	號:M	
+喝:Vt	起來:ASP	味道:N	很:ADV	不錯:Vi	
+泰式:A	烤雞:N	肉餅:N	是:Vt	裡面:N	覺得:Vt	最:ADV	好吃:Vi	的:T	
+內:N	餡:N	不:ADV	算:Vt	少:Vi	
+算是:Vt	討喜:Vi	的:T	品:N	樣:POST	
+土司:N	吃起來:ADV	甜甜:Vi	的:T	
+份量:N	可以:ADV	說:Vt	是:Vt	不少:DET	
+但:C	覺得:Vt	吃:Vt	到:P	最後:N	會:ADV	有:Vt	一點:DET	太:ADV	鹹:Vi	
+當然:ADV	味道:N	也:ADV	滿:ADV	不錯:Vi	的:T	
+對於:P	這:DET	家:M	覺得:Vt	還:ADV	不:ADV	賴:Vt	

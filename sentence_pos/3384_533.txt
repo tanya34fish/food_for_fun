@@ -1,0 +1,35 @@
+guessworld:FW	(:PARENTHESISCATEGORY	奶油:N	不:ADV	飛:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義:N	安和:Vi	LeRuban:FW	法朋:N	烘焙:Vt	甜點:N	坊:N	
+Sun:FW	
+Aug:FW	
+3:DET	
+16:DET	::COLONCATEGORY	46:DET	::COLONCATEGORY	46:DET	
+2014:DET	
+圖文:N	網誌版:N	請:Vt	點:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	guessworld.pixnet.net/blog/post:FW	/:FW	40960657:DET	
+店名:N	：:COLONCATEGORY	LeRubanPatisserie:FW	法朋:N	烘焙:Vt	甜點:N	坊:N	
+電話:N	：:COLONCATEGORY	0227003501:DET	
+地址:N	：:COLONCATEGORY	台北市:N	仁愛路:N	四段:N	300巷:N	20弄:N	11:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	
+20:DET	::COLONCATEGORY	00:DET	
+消費:N	日期:N	：:COLONCATEGORY	MAR:FW	232014:DET	
+久聞:Vt	法朋:N	大名:N	
+某:DET	天:M	到:Vt	附近:N	吃飯:Vi	就:ADV	到:Vt	店:N	觀望:Vi	了:ASP	一下:N	
+可能:ADV	是:Vt	傍晚:N	去:Vt	的:T	關係:N	
+還:ADV	蠻:ADV	多:Vi	東西:N	都:ADV	快:ADV	賣光:Vt	了:ASP	
+蛋糕:N	超:Vt	吸引人:Vi	
+不過:C	價位:N	不:ADV	便宜:Vi	
+店面:N	蛋糕:N	都:ADV	剩:Vt	不:ADV	多:Vi	啦:T	
+趕快:ADV	搶:Vt	兩:DET	個:M	入:Vt	袋:N	
+朋友:N	跟:P	我:N	分別:ADV	帶:Vt	了:ASP	檸檬:N	蛋糕:N	跟:P	柳橙:N	蛋糕:N	
+我:N	吃:Vt	了:ASP	柳橙:N	蛋糕:N	
+作工:Vi	頗:ADV	細:Vi	
+甜味:N	剛好:ADV	
+舒芙蕾:N	起:POST	司:Vt	
+$:FW	65:DET	
+最:ADV	喜歡:Vt	的:T	是:Vt	舒芙蕾:N	起:POST	司:Vt	
+非常:ADV	濃郁:Vi	又:ADV	綿密:Vi	的:T	口感:N	
+這:DET	個:M	好:ADV	美味:Vi	
+對:P	法朋:N	的:T	印象:N	還:ADV	不錯:Vi	
+雖然:C	價位:N	不:ADV	低:Vi	
+但:C	味道:N	都:ADV	不錯:Vi	
+有:Vt	機會:N	想:Vt	嘗嘗:Vt	蛋糕:N	卷:N	

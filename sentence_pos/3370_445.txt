@@ -1,0 +1,219 @@
+mina0711(mina:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山:N	-:DASHCATEGORY	新:Vi	都:ADV	里懷石:N	料理:N	-:DASHCATEGORY	一:DET	客:M	3800:DET	的:T	美味:N	
+Wed:FW	
+Jul:FW	
+30:DET	
+11:DET	::COLONCATEGORY	44:DET	::COLONCATEGORY	52:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	新:Vi	都:ADV	里懷石:N	料理:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	-:DASHCATEGORY	07:DET	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	建國北路:N	80:DET	號:M	B:FW	1:DET	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2501:DET	-:DASHCATEGORY	7000:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	45:DET	–:FW	14:DET	::COLONCATEGORY	3017:DET	::COLONCATEGORY	45:DET	–:FW	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1500:DET	~:FW	3800:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	新:Vi	都:ADV	里懷石獻:N	立:Vt	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.shintori.com.tw:FW	/:FW	
+詳細:Vi	圖文版:N	::COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	tsaipei525.pixnet.net/blog/post:FW	/:FW	379705464:DET	
+純:Vi	文字版:N	::COLONCATEGORY	
+今年:N	生日:N	
+吃:Vt	了:ASP	極為:ADV	昂貴:Vi	的:T	一:DET	餐:M	
+懷石:N	料理:N	
+說到:Vt	新:Vi	都:ADV	里:N	
+很多:DET	稍:ADV	年長:Vi	的:T	應該:ADV	不:ADV	陌生:Vi	
+懷石:N	料理界:N	的:T	龍頭:N	
+據說:ADV	三:DET	井:N	剛:ADV	開始:Vi	就是:C	以:P	它:N	為:P	學習:Vt	範本:N	
+IMG_7348.JPG:FW	
+因為:C	是:Vt	生日:N	
+我們:N	被:P	安排:Vt	到:P	一:DET	間:M	私人:N	包廂:N	
+新:Vi	都:ADV	里:M	非常:ADV	重視:Vt	客人:N	的:T	隱私:N	
+有:Vt	各:DET	種:M	大小:N	的:T	包廂:N	
+甚至:ADV	有:Vt	部份:DET	的:T	開放式:A	座位:N	
+都:ADV	有:Vt	竹簾:N	隔開:Vt	
+SAM_5488.JPG:FW	
+歐西:N	摸:Vt	哩:T	
+熱:Vt	毛巾:N	一定:ADV	會:ADV	有的:DET	
+今天:N	老公:N	是:Vt	點:M	夏季:N	限定:Vt	的:T	【:PARENTHESISCATEGORY	京:N	
+懷石:N	套餐:N	】:PARENTHESISCATEGORY	
+IMG_7354.JPG:FW	
+一:ADV	開始:Vt	我:N	以為:Vt	這:DET	紙捲:N	
+是:Vt	給:P	服務生:N	知道:Vt	客人:N	點:Vt	哪:DET	套餐:N	
+後來:N	才:ADV	發現:Vt	、:PAUSECATEGORY	原來:ADV	它:N	可以:ADV	打開:Vt	
+裡面:N	該:DET	套餐:N	的:T	內容:N	
+SAM_5484.JPG:FW	
+下圖:N	是:Vt	我:N	的:T	前:DET	菜:N	
+一:DET	套餐:N	總共:ADV	有:Vt	十:DET	道:M	
+每:DET	道:M	非常:ADV	精緻:Vi	
+IMG_7356.JPG:FW	
+▲:FW	岩生蠔:N	、:PAUSECATEGORY	玉女:N	小:Vi	蕃茄:N	、:PAUSECATEGORY	絲瓜:N	、:PAUSECATEGORY	檸檬:N	晶凍:N	、:PAUSECATEGORY	芽蔥:N	的:T	組合:Nv	
+下面:N	墊:Vt	著:ASP	的:T	那:DET	一:DET	片:M	是:Vt	蘿蔔片:N	
+可以:ADV	一起:ADV	吃:Vt	
+很:ADV	鮮:Vi	甜:Vi	
+IMG_7362.JPG:FW	
+▲:FW	這:DET	是:Vt	京:N	套餐:N	的:T	
+台灣:N	少見:Vi	用來:Vt	料理:Vt	的:T	【:PARENTHESISCATEGORY	章:N	魚卵:N	】:PARENTHESISCATEGORY	、:PAUSECATEGORY	象拔:N	蚌:N	、:PAUSECATEGORY	絲瓜:N	、:PAUSECATEGORY	水梨:N	...:ETCCATEGORY	等:POST	
+佐:Vt	蛋黃:N	醋:N	
+非常:ADV	優:Vi	
+清爽:Vi	不:ADV	油膩:Vi	
+酸甜:Vi	酸甜:Vi	的:T	
+非常:ADV	適合:Vi	夏天:N	
+前湯:N	
+京:N	套餐:N	的:T	是:Vt	枝:M	豆:N	豆腐:N	、:PAUSECATEGORY	紅喉:Vi	、:PAUSECATEGORY	酸柚茅輪:N	...:ETCCATEGORY	等:POST	
+豆腐:N	口感:N	和:C	一般:A	的:T	完全:ADV	不同:Vi	
+它:N	吃起來:ADV	黏黏:Vi	的:T	
+很:ADV	濃稠:Vi	
+紅喉:Vi	非常:ADV	新鮮:Vi	
+搭上:Vt	酸柚茅輪:N	
+很:ADV	對味:Vi	
+據說:ADV	加入:Vt	酸柚茅輪:N	
+也:ADV	是:Vt	有:Vt	種:M	祈福:Vi	的:T	含意:N	在:P	裡面:N	
+IMG_7377.JPG:FW	
+我:N	的:T	套餐:N	前湯:N	是:Vt	用:P	海鰻:N	
+雖然:C	簡單:Vi	
+但:C	湯:N	有:Vt	特製:Vt	過:ASP	
+帶:Vt	點:M	柴魚:N	香:Vi	
+IMG_7384.JPG:FW	
+生品:N	
+這:DET	是:Vt	京:N	套餐:N	的:T	生魚片:N	
+天:N	啊:T	
+它:N	一:ADV	上桌:Vi	
+根本:ADV	是:Vt	幅:M	畫:N	啊:T	
+難怪:ADV	有:Vt	人:N	說:Vt	吃:Vt	懷石:N	
+就是:C	味覺:N	和:C	視覺:N	的:T	雙重:A	饗宴:N	
+IMG_7382.JPG:FW	
+▲:FW	甜:Vi	蝦:N	、:PAUSECATEGORY	鮑魚:N	、:PAUSECATEGORY	黑:Vi	鮪魚:N	
+盤:N	上:N	的:T	任何:DET	一樣:Vi	都:ADV	可以:ADV	吃:Vt	
+也:ADV	包含:Vt	右手:N	邊:N	的:T	小黃瓜:N	花:Vt	
+IMG_7389.JPG:FW	
+▲:FW	我:N	的:T	套餐:N	的:T	生品:N	
+沒有:Vt	蝦:N	、:PAUSECATEGORY	是:Vt	用:P	軟絲:N	、:PAUSECATEGORY	海膽:N	的:T	組合:Nv	
+中間:N	那:DET	片:M	粉紅色:N	的:T	
+我:N	一:DET	度:M	以為:Vt	它:N	是:Vt	生:Vt	牛肉:N	
+它:N	也:ADV	是:Vt	黑:Vi	鮪魚:N	啦:T	
+IMG_7391.JPG:FW	
+有:Vt	聽:Vt	師傅:N	說:Vt	過:ASP	、:PAUSECATEGORY	他們:N	的:T	生品:N	
+都:ADV	是:Vt	挑:Vt	各:DET	魚類:N	部位:N	最:ADV	頂級:A	的:T	來:ADV	用:P	
+所以:C	每:ADV	一口:ADV	都:ADV	吃:Vt	得到:Vt	新鮮:Vi	之外:POST	
+口口:DET	都:ADV	是:Vt	享受:Vt	啊:T	
+吃完:Vt	生品:N	、:PAUSECATEGORY	接著:ADV	是:Vt	炸:Vt	品:N	
+IMG_7395.JPG:FW	
+京:N	套餐:N	的:T	炸品:N	是:Vt	日本:N	的:T	道明:N	寺米:N	裹:Vt	著:ASP	海鰻:N	、:PAUSECATEGORY	乾:Vi	香菇:N	、:PAUSECATEGORY	山椒芽:N	..:ETCCATEGORY	等等:POST	
+淋上梅:N	肉醬:N	
+因為:C	最:ADV	外層:N	是:Vt	米:N	
+又:ADV	煎:Vt	過:ASP	
+所以:C	吃起來:ADV	很:ADV	香:Vi	脆:Vi	
+但:C	中間:N	又:ADV	帶:Vt	點:M	黏稠:Vi	
+很:ADV	獨特:Vi	的:T	一:DET	道:M	
+IMG_7397.JPG:FW	
+我:N	的:T	炸品:N	是:Vt	香魚:N	+:FW	洺荷:N	
+就是:C	粉紅色:N	那:DET	一:DET	條:M	
+有點:ADV	像:Vt	長:Vi	條:M	型:N	的:T	甜:Vi	洋蔥:N	
+IMG_7401.JPG:FW	
+再:ADV	來:ADV	是:Vt	冷:Vi	缽:N	
+有點:ADV	像:Vt	涼食:Vt	的:T	感覺:N	
+我:N	的:T	有:Vt	海膽:N	、:PAUSECATEGORY	明蝦:N	、:PAUSECATEGORY	無花果:N	、:PAUSECATEGORY	甲仙:N	芋:b	、:PAUSECATEGORY	日本:N	茄:b	、:PAUSECATEGORY	獅子:N	辣椒:N	...:ETCCATEGORY	等:POST	
+也:ADV	是:Vt	令:Vt	人:N	很:ADV	難忘:Vt	的:T	一:DET	道:M	
+每:DET	一:DET	種:M	食材:N	都:ADV	好:ADV	特別:Vi	
+IMG_7406.JPG:FW	
+再:ADV	來:ADV	是:Vt	京:N	套餐:N	的:T	冷:Vi	缽:N	
+因為:C	夏天:N	會:ADV	遇到:Vt	七夕:N	
+這:DET	道:M	冷:Vi	缽:N	有:Vt	七夕:N	的:T	概念:N	在:P	裡頭:N	
+從:P	它:N	盤子:N	就:ADV	知道:Vt	有:Vt	銀河:N	的:T	味道:N	
+兩:DET	顆:M	玉:N	米粒:N	就:ADV	是:Vt	牛郎:N	織女:N	
+這樣:Vi	師傅:N	還:ADV	不能:ADV	多:ADV	放:Vt	幾:DET	粒:M	
+不然:C	七夕:N	銀河:N	上:POST	會:ADV	變:Vt	多:DET	P:FW	
+誤:ADV	
+IMG_7408.JPG:FW	
+最:ADV	底:N	是:Vt	日本:N	來:Vi	的:T	賀茂茄:N	
+和:P	台灣:N	茄子:N	不同:Vi	
+它:N	口感:N	較:ADV	紮實:Vi	
+卻:ADV	又:ADV	不:ADV	像:P	台灣:N	茄:b	這麼:ADV	軟:Vi	爛:Vi	
+上頭:N	疊:Vt	著:ASP	的:T	有:Vt	：:COLONCATEGORY	海膽:N	、:PAUSECATEGORY	明蝦:N	、:PAUSECATEGORY	玉米:N	、:PAUSECATEGORY	紫蘇:N	花:Vt	
+最後:N	淋:Vt	上:POST	的:T	是:Vt	柴魚:N	晶凍:N	
+非常:ADV	美味:Vi	的:T	一:DET	道:M	
+IMG_7413.JPG:FW	
+煮:Vt	品:N	
+京:N	套餐:N	的:T	甲仙:N	芋:b	+:FW	星鰻:N	
+IMG_7414.JPG:FW	
+我:N	的:T	套餐:N	的:T	煮:Vt	品:N	是:Vt	【:PARENTHESISCATEGORY	南非:N	鮑魚:N	蒸:Vt	蛋:N	】:PARENTHESISCATEGORY	
+超:Vt	好吃:Vi	的:T	這:DET	道:M	
+蒸:Vt	蛋:N	吃起來:ADV	很:ADV	夠味:Vi	
+香:Vi	濃:Vi	蛋:N	配:Vt	一口:ADV	厚實:Vi	鮮鮑:Vi	
+人間:N	美味:Vi	
+IMG_7416.JPG:FW	
+▲:FW	天:M	啊:T	
+是:Vt	讓:Vt	我:N	吃完:Vt	還:ADV	對:P	它:N	魂牽夢縈:Vi	的:T	【:PARENTHESISCATEGORY	照:P	燒黑:Vi	鮪魚:N	肚:N	】:PARENTHESISCATEGORY	
+體積:N	不:ADV	小:Vi	塊:M	的:T	黑:Vi	鮪魚:N	
+就:ADV	知道:Vt	店家:N	多:ADV	真:Vi	材實料:N	的:T	奉獻給:Vt	客人:N	
+搭配:Vt	照:P	燒:Vt	醬汁:N	
+連:C	我:N	老公:N	也:ADV	忍不住:Vt	來:ADV	搶食:Vt	
+鮪魚:N	肚:N	左上角:N	那:DET	塊:M	是:Vt	它:N	的:T	油花:N	
+吃起來:ADV	不:ADV	油膩:Vi	、:PAUSECATEGORY	反而:C	是:Vt	QQ:FW	的:T	
+有點:ADV	彈:Vt	牙:N	
+肉:N	的:T	部份:DET	
+入口:N	即:ADV	化:Vt	、:PAUSECATEGORY	照:Vt	燒:Vt	也:ADV	料理:Vt	得:T	非常:ADV	入:Vt	味:N	
+卻:ADV	又:ADV	不:ADV	掩蓋:Vt	過:ASP	黑:Vi	鮪魚:N	本身:N	的:T	鮮味:N	
+這:DET	道:M	烤品:N	是:Vt	當天:N	的:T	第一:DET	名:M	
+IMG_7417.JPG:FW	
+京:N	套餐:N	的:T	烤:Nv	品:N	是:Vt	【:PARENTHESISCATEGORY	鱸魚:N	灑白:Vt	芝麻:N	】:PARENTHESISCATEGORY	
+相形之下:ADV	、:PAUSECATEGORY	它:N	就:ADV	弱:Vi	掉:Vt	了:ASP	
+哈:ADV	
+IMG_7422.JPG:FW	
+▲:FW	最後:N	主食:N	出現:Vi	、:PAUSECATEGORY	我:N	的:T	是:Vt	【:PARENTHESISCATEGORY	星鰻醬:N	燒飯:Vi	】:PARENTHESISCATEGORY	
+很:ADV	香:Vi	
+小小:Vi	一:DET	碗:M	
+份量:N	不:ADV	多:Vi	
+但:C	因為:C	前面:N	也:ADV	吃:Vt	了:ASP	八:DET	道:M	
+也:ADV	不會:ADV	覺得:Vt	不:ADV	夠:Vi	
+IMG_7426.JPG:FW	
+▲:FW	京:N	套餐:N	的:T	主食:N	是:Vt	【:PARENTHESISCATEGORY	櫻花:N	蝦:N	越:ADV	光:Vt	米:N	】:PARENTHESISCATEGORY	
+米飯:N	散發:Vt	著:ASP	濃濃:Vi	櫻花:N	蝦:N	香氣:N	
+味道:N	雖然:C	沒:ADV	新:Vi	都:ADV	里:M	套餐:N	的:T	濃郁:Vi	
+但:C	不:ADV	喜歡:Vt	重:Vi	口味:N	的:T	
+也許:ADV	會:ADV	喜歡:Vt	這:DET	道:M	料理:N	
+IMG_7430.JPG:FW	
+最後:N	一:DET	道:M	湯品:N	
+我:N	的:T	是:Vt	日本:N	蜆湯:N	
+滿滿:Vi	蜆味:N	卻:ADV	不:ADV	腥:Vi	
+感覺:N	喝完:Vt	這:DET	碗:M	
+可以:ADV	擋:Vt	好幾:DET	杯:M	酒:N	的:T	感覺:N	
+人家:N	說:Vt	喝:Vt	酒:N	前:POST	吃:Vt	蜆精:N	不易:Vi	醉:Vi	嘛:T	
+IMG_7432.JPG:FW	
+京:N	套餐:N	的:T	湯品:N	是:Vt	【:PARENTHESISCATEGORY	味增:N	+:FW	豆皮:N	捲:Vt	豆:N	】:PARENTHESISCATEGORY	
+也:ADV	滿:ADV	好喝:Vi	的:T	
+新:Vi	都:ADV	里:N	每:DET	道:M	餐食:N	
+份量:N	都:ADV	不:ADV	多:Vi	
+不過:C	絕對:ADV	精緻:Vi	和:C	新鮮:Vi	
+IMG_7443.JPG:FW	
+餐廳:N	知道:Vt	我們:N	是:Vt	來:ADV	慶生:Vi	的:T	
+還:ADV	特地:ADV	在:P	我:N	的:T	甜點:N	上:N	
+多:ADV	加:Vt	了:ASP	堤拉米蘇:N	蛋糕:N	和:C	大福:N	
+吼:Vi	
+真是:ADV	超:Vt	貼心:Vi	的:T	啦:T	
+他們:N	端:Vt	著:ASP	蠟燭:N	和:C	蛋糕:N	進來:Vi	時:POST	
+真的:ADV	是:Vt	超超:N	驚喜:Vi	
+謝謝:Vt	他們:N	的:T	用心:Vi	
+也:ADV	讓:Vt	我們:N	渡過:Vt	美好:Vi	的:T	夜晚:N	
+SAM_5495.JPG:FW	
+因為:C	我們:N	去:Vt	的:T	時候:N	
+店:N	內:N	剛好:ADV	推:Vt	七夕:N	活動:N	
+它:N	會:ADV	提供:Vt	你:N	許願:Vi	卡:Vi	
+可以:ADV	寫:Vt	在:P	心願:N	
+掛:Vt	在:P	他們:N	店:N	內:N	的:T	竹林:N	上:N	
+我:N	又:ADV	忘:Vt	了:ASP	拍:Vt	...:ETCCATEGORY	
+這裡:N	非常:ADV	適合:Vi	喜歡:Vt	【:PARENTHESISCATEGORY	吃巧:Vi	不:ADV	吃飽:Vi	】:PARENTHESISCATEGORY	的:T	人:N	
+推推:Vt	
+店家:N	資訊:N	：:COLONCATEGORY	
+新:Vi	都:ADV	里懷石:N	料理:N	-:DASHCATEGORY	瀧四:N	店:N	
+我們:N	吃:Vt	的:T	是:Vt	【:PARENTHESISCATEGORY	新:Vi	都:ADV	里:M	懷石:N	套餐:N	】:PARENTHESISCATEGORY	、:PAUSECATEGORY	【:PARENTHESISCATEGORY	京:N	懷石:N	套餐:N	】:PARENTHESISCATEGORY	
+一:DET	客:M	3800:DET	元:M	
+地址:N	：:COLONCATEGORY	104:DET	建國北路:N	一段:N	80:DET	號:M	B:FW	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2501:DET	-:DASHCATEGORY	7000:DET	
+美味:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	
+CP:FW	值:N	：:COLONCATEGORY	★:FW	★:FW	☆:FW	
+以上:N	不:ADV	負責:Vt	食堂:N	與:C	您:N	分享:Vt	
+吃喝玩樂:Vi	是:Vt	我:N	的:T	興趣:N	
+新手:N	人妻:N	ing:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	tsaipei525.pixnet.net/blog:FW	

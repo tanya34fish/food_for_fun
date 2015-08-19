@@ -1,0 +1,30 @@
+地址:N	：:COLONCATEGORY	台北市:N	敦化南路:N	一段:N	190巷:N	19:DET	號:M	1樓:N	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	100:DET	元:M	以上:POST	(:PARENTHESISCATEGORY	另:DET	收:Vt	服務費:N	):PARENTHESISCATEGORY	
+這:DET	家:M	很:ADV	好吃:Vi	的:T	茶水攤:N	是:Vt	好友:N	凍:Vt	的:T	同事:N	帶:Vt	我:N	去:Vt	的:T	
+說:Vt	中午:N	要:ADV	去:ADV	吃:Vt	很:ADV	好吃:Vi	的:T	港式:A	飲茶:Nv	
+這:DET	間:M	很:ADV	好吃:Vi	的:T	香港:N	茶水:N	攤:Vt	
+雖然:C	店裡:N	很:ADV	擠:Vi	很:ADV	小:Vi	裝潢:N	也:ADV	不:ADV	怎樣:ADV	
+態度:N	都:ADV	還:ADV	滿:ADV	好:Vi	的:T	
+我們:N	要:ADV	打包:Vi	還是:ADV	要:ADV	幹嘛:Vi	的:T	老闆:N	都:ADV	是:Vt	撲克臉:N	
+可是:C	老闆:N	其實:ADV	感覺:Vt	得:T	出來:Vi	是:Vt	好人:N	啦:T	
+奶茶:N	的:T	香味:N	又:ADV	香:Vi	又:ADV	濃:Vi	
+茶香味:N	很:ADV	濃:Vi	
+而且:C	大大:Vi	一:DET	杯:M	
+可以:ADV	讓:Vt	我:N	喝:Vt	很:ADV	久:Vi	.....:ETCCATEGORY	
+看起來:ADV	好:ADV	清淡:Vi	很:ADV	好吃:Vi	的:T	樣子:N	
+一:ADV	上桌:Vi	服務生:N	就:ADV	會:ADV	倒:Vt	茶:N	的:T	麥茶:N	
+根據:P	表示:Vt	是:Vt	很:ADV	好吃:Vi	
+後來:N	她:N	食量:N	小吃:N	不:ADV	完:Vi	..:ETCCATEGORY	所以:C	打包:Vi	...:ETCCATEGORY	
+這:DET	種:M	咖哩飯:N	是:Vt	我:N	很:ADV	愛:Vt	的:T	那:DET	種:M	啊:T	啊:T	啊:T	啊:T	啊:T	啊:T	
+春捲皮:N	很:ADV	酥脆:Vi	
+炸:Vt	得:T	很:ADV	透:Vi	而且:C	不會:ADV	帶:Vt	油:N	
+感覺:Vt	起:ASP	鍋:N	前:POST	搶:Vt	酥:Vi	的:T	過程:N	很:ADV	俐落:Vi	
+而:C	中間:N	蝦:N	肉餡:N	兒:N	的:T	部分:DET	肉:N	是:Vt	很:ADV	彈:Vt	的:T	
+看:Vt	就:ADV	覺得:Vt	好吃:Vi	
+這:DET	是:Vt	好:Vi	東西:N	
+炒:Vt	公仔:N	麵:N	看起來:ADV	非常:ADV	美味:Vi	
+鮮蝦:N	的:T	肉:N	看:Vt	朋友:N	咬:Vt	的:T	感覺:N	很:ADV	彈:Vt	
+我:N	喜歡:Vt	細:Vi	麵:N	口感:N	啊:T	
+根據:P	朋友:N	表示:Vt	這裡:N	的:T	辣椒:N	超:Vt	好吃:Vi	
+這裡:N	的:T	熱:Vt	炒類:N	的:T	很:ADV	好吃:Vi	整體:N	而言:Vt	是:Vt	心:N	中:POST	很:ADV	滿意:Vt	的:T	店家:N	
+聽說:Vt	很:ADV	早期:N	的:T	時候:N	更:ADV	好吃:Vi	

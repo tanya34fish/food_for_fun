@@ -1,0 +1,35 @@
+likelihood:FW	(:PARENTHESISCATEGORY	我:N	是:Vt	北投人:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	北投:N	花蓮:N	扁食:N	/:FW	玉里:N	橋頭麵:N	
+Tue:FW	
+Aug:FW	
+5:DET	
+08:DET	::COLONCATEGORY	35:DET	::COLONCATEGORY	39:DET	
+2014:DET	
+店家:N	名稱:N	：:COLONCATEGORY	花蓮:N	扁食:N	/:FW	玉里:N	橋頭麵:N	
+地址:N	：:COLONCATEGORY	台北市:N	北投區:N	崇仁路:N	41:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	28975866:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	待查:Vi	
+店休:N	：:COLONCATEGORY	星期日:N	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	05月:N	
+平均:Vi	個:M	人:N	費用:N	：:COLONCATEGORY	40:DET	元:M	起:POST	/:FW	人:N	
+推薦:Vt	菜色:N	：:COLONCATEGORY	花蓮:N	扁食湯:N	，:COMMACATEGORY	瓜仔肉飯:N	，:COMMACATEGORY	玉里:N	橋頭麵:N	
+捷運:N	鐵路:N	：:COLONCATEGORY	捷運:N	奇岩:N	站:Vi	
+公車站:N	：:COLONCATEGORY	慈后:N	宮:N	
+圖文:N	版本:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	babbitwang.pixnet.net/blog/post:FW	/:FW	105887867:DET	
+2014:DET	北投:N	新:Vi	美食:N	
+玉里:N	橋頭麵:N	/:FW	花蓮:N	扁食:N	
+這:DET	間:M	是:Vt	今年:N	新:Vi	開:Vt	的:T	小吃店:N	
+利用:Vt	某天:N	晚上:N	揪:Vt	我:N	弟:N	一起:ADV	來:ADV	這:DET	吃:Vt	晚飯:N	
+價格:N	平平:Vi	不會:ADV	貴:Vi	
+麵:N	的:T	
+口味:N	跟:P	我:N	在:P	花蓮:N	吃:Vt	的:T	不會:ADV	差:Vi	太多:Vi	
+扁食:N	也:ADV	還:ADV	不錯:Vi	吃:Vt	
+一:DET	碗:M	湯麵:N	搭:Vt	一:DET	個:M	小菜:N	剛剛好:ADV	
+玉里:N	湯麵:N	40:DET	元:M	
+金黃色:N	的:T	麵:N	、:PAUSECATEGORY	白色:N	的:T	豆芽菜:N	、:PAUSECATEGORY	乳白色:N	的:T	豬肉:N	與:C	些許:DET	綠色:N	蔬菜:N	點綴:Vt	組成:Vt	這:DET	碗:M	簡單:Vi	又:ADV	幸福:Vi	的:T	湯:N	
+麵:N	
+至於:P	甚麼:DET	是:Vt	玉里麵:N	
+其實:ADV	是:Vt	一:DET	種:M	特殊:Vi	作法:N	的:T	油麵:N	麵條:N	
+這:DET	作法:N	在:P	花蓮:N	玉里:N	比較:ADV	普遍:Vi	而:C	
+聞名:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	pic.pimg.tw/babbitwang/1405415213-3313741221_n.jpg:FW	

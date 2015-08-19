@@ -1,0 +1,61 @@
+minglong:FW	1985:DET	(:PARENTHESISCATEGORY	星空:N	的:T	約定:Nv	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	*:FW	南:N	機場:N	夜市:N	美食:N	超:Vt	有名山:N	內:N	雞肉:N	
+Thu:FW	
+Nov:FW	
+20:DET	
+13:DET	::COLONCATEGORY	09:DET	::COLONCATEGORY	16:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	山內:N	雞肉:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	9月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	中華路:N	二段:N	307巷:N	
+電話:N	：:COLONCATEGORY	無:Vt	
+營業:Nv	時間:N	：:COLONCATEGORY	上午:N	十:DET	一點:DET	至:P	晚間:N	九:DET	點:M	左右:POST	，:COMMACATEGORY	賣完:Vt	就:ADV	休息:Vi	（:PARENTHESISCATEGORY	周三:N	公休:Vi	）:PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	80:DET	
+網誌:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tony60533.pixnet.net/blog/post:FW	/:FW	33002389:DET	
+今天:N	要:ADV	來:ADV	介紹:Vt	南:N	機場:N	夜市:N	美食:N	::COLONCATEGORY	山內:N	雞肉:N	、:PAUSECATEGORY	銘鄉豬高飯:N	、:PAUSECATEGORY	永康街:N	芋頭:N	大王:N	
+南:N	機場:N	位在:Vt	中華路:N	二段:N	上:N	
+其實:ADV	不:ADV	太:ADV	醒目:Vi	交通:N	也:ADV	不:ADV	太:ADV	方便:Vi	
+但:C	有:Vt	好多:DET	好吃:Vi	的:T	東西:N	
+這:DET	間:M	山:N	內:N	雞肉:N	
+這:DET	間:M	真的:ADV	超級:A	有名:Vi	
+每:DET	次:M	來:ADV	都:ADV	大排長龍:Vi	
+真的:ADV	不錯:Vi	吃:Vt	滿:ADV	值得:Vi	一:DET	排:M	的:T	
+最:ADV	有名:Vi	的:T	就是:C	山:N	內:N	雞肉飯:N	跟:P	雞腿飯:N	
+這:DET	次:M	我們:N	兩:DET	種:M	都:ADV	有點:ADV	來:ADV	品嘗:Vt	看看:ASP	
+坐位:N	真的:ADV	很少:ADV	
+但:C	大家:N	也:ADV	都:ADV	吃:Vt	很:ADV	快:Vi	
+還:ADV	滿多:Vi	人:N	外帶:Vt	的:T	
+我:N	覺得:Vt	翻:Vt	桌率:N	很:ADV	高:Vi	不會:ADV	等:Vt	很:ADV	久:Vi	
+看:Vt	老闆:N	一:DET	盤:M	一:DET	盤:M	切:Vi	的:T	超:Vt	快:Vi	
+賣:Vt	的:T	速度:N	也:ADV	很:ADV	快:Vi	
+老闆:N	的:T	動作:N	都:ADV	快:ADV	趕不上:Vt	排隊:Nv	人潮:N	
+右上:N	是:Vt	山:N	內:N	雞肉:N	
+右下:N	是:Vt	雞腿:N	
+雞腿:N	有:Vt	骨頭:N	
+雞肉:N	都:ADV	是:Vt	肉:N	居多:Vi	
+都:ADV	有:Vt	淋上:Vt	獨門:A	醬料:N	好好:Vi	吃:Vt	
+一:DET	份:M	餐:N	有:Vt	附:Vt	一:DET	碗:M	白飯:N	一:DET	碗:M	湯:N	
+雖然:C	是:Vt	清湯:N	
+但:C	很:ADV	好喝:Vi	
+雞腿飯:N	$:FW	80:DET	
+雞腿飯:N	比:P	山:N	內:N	雞肉:N	飯貴:N	10:DET	元:M	
+雞腿:N	滿:ADV	嫩:Vi	的:T	但:C	有:Vt	骨頭:N	我:N	不:ADV	愛:Vt	
+不過:C	雞腿:N	很:ADV	快:Vi	就:ADV	賣完:Vt	了:ASP	
+單:ADV	吃:Vt	跟:P	配:Vt	飯:N	都:ADV	好:ADV	好吃:Vi	
+這:DET	個:M	雞腿飯:N	是:Vt	沒有:ADV	附:Vt	青菜:N	的:T	唷:T	
+要:ADV	另外:DET	點:M	
+特色:N	就是:C	一:DET	整:DET	份:M	雞腿:N	配上:Vt	淋上:Vt	醬汁:N	的:T	白飯:N	
+山內:N	雞肉飯:N	$:FW	70:DET	
+個:M	人:N	大:Vi	推山內:N	雞肉飯:N	
+雞肉:N	多:ADV	又:ADV	嫩:Vi	又:ADV	比較:ADV	沒骨頭:Vi	
+感覺:N	吃起來:ADV	肉:N	比較:ADV	多:Vi	比較:ADV	滿足:Vt	耶:T	
+重點:N	還:ADV	比較:ADV	便宜:Vi	
+單:ADV	點:Vt	60:DET	元:M	
+雞肉飯:N	70:DET	元:M	
+雞肉:N	份量:N	滿多:Vi	的:T	
+一:DET	整:DET	盤:M	滿滿:Vi	的:T	肉:N	
+大推:Vt	
+營業:Nv	時間:N	：:COLONCATEGORY	上午:N	十:DET	一點:DET	至:P	晚間:N	九:DET	點:M	左右:POST	
+賣完:Vt	就:ADV	休息:Vi	
+周三:N	公休:Vi	
+網誌:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tony60533.pixnet.net/blog/post:FW	/:FW	33002389:DET	

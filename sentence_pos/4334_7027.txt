@@ -1,0 +1,76 @@
+jiisu(ovo:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	【:PARENTHESISCATEGORY	台北:N	中正:N	美食:N	】:PARENTHESISCATEGORY	京都:N	菓子:N	燒:Vt	
+Mon:FW	
+May:FW	
+11:DET	
+16:DET	::COLONCATEGORY	20:DET	::COLONCATEGORY	14:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	京都:N	菓子:N	燒:Vt	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	4月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	南陽街:N	4:DET	號:M	
+電話:N	：:COLONCATEGORY	0938:DET	-:DASHCATEGORY	599:DET	-:DASHCATEGORY	956:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	20:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	均一價:N	15:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	座位:N	
+推薦:Vt	菜色:N	：:COLONCATEGORY	抹茶:N	紅豆:N	、:PAUSECATEGORY	瑞士:N	巧克力:N	藍莓:N	
+詳細:Vi	圖文板:N	→:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	qwl74986.pixnet.net/blog/post:FW	/:FW	284043616:DET	
+內文:N	開始:Vt	
+這:DET	次要:A	介紹:N	的:T	下午茶:N	小:Vi	點心:N	
+喜歡:Vt	抹:Vt	茶:N	的:T	捧友:Vt	看:Vt	這邊:N	
+北車:N	實在:ADV	是:Vt	銅板:N	美食:N	的:T	聚集地:N	耶:T	
+用:P	少少:Vi	的:T	錢:N	就:ADV	可以:ADV	換到:Vt	小:Vi	雀幸:N	摟:Vt	
+京都:N	菓子:N	燒:Vt	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	南陽街:N	4:DET	號:M	
+電話:N	：:COLONCATEGORY	0938:DET	-:DASHCATEGORY	599:DET	-:DASHCATEGORY	956:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	
+20:DET	::COLONCATEGORY	00:DET	
+無:Vt	座位:N	
+台北:N	火車站:N	附近:N	位在:Vt	南陽:N	街:N	上:N	
+附近:N	就:ADV	是:Vt	一連串:A	的:T	美食街:N	
+來:ADV	看看:Vt	
+【:PARENTHESISCATEGORY	Menu:FW	】:PARENTHESISCATEGORY	↓:FW	
+每:DET	一:DET	個:M	都:ADV	是:Vt	15:DET	元:M	均一價:N	
+以前:N	好像:ADV	是:Vt	20:DET	元:M	
+怎麼:ADV	不:ADV	漲:Vi	反:Vt	降:Vt	
+有:Vt	鹹:Vi	有:Vt	甜總類:N	滿多:Vi	的:T	
+原本:ADV	想:Vt	點:M	時令:N	水果:N	布丁:N	
+可是:C	當天:N	沒有:ADV	販售:Vt	@:FW	@:FW	
+速度:N	很:ADV	快:Vi	唷:T	
+馬上:ADV	就:ADV	拿到:Vt	趕快:ADV	去:Vt	附近:N	公園:N	來:Vi	個:M	美食:N	外:N	拍:Vt	xD:FW	
+【:PARENTHESISCATEGORY	瑞士:N	巧克力:N	藍莓:N	】:PARENTHESISCATEGORY	15:DET	元:M	
+有點:ADV	紅:Vi	豆餅:N	的:T	外型:N	
+拿起來:Vi	頗:ADV	有:Vt	分量:N	
+剝開:Vt	後:POST	奶油:N	噴出來:Vt	了:ASP	
+上半部:N	有點:ADV	紅紅:Vi	的:T	是:Vt	藍莓醬:N	
+看起來:ADV	維:Vt	斯:DET	潤:Vt	的:T	地方:N	是:Vt	瑞士:N	巧克力:N	
+吃起來:ADV	綿綿:Vi	的:T	口感:N	
+酸酸:Vi	的:T	藍莓醬:N	搭配:Vt	巧克力:N	甜:Vi	香:N	又:ADV	濃郁:Vi	
+一點:DET	也:ADV	不會:ADV	甜:Vi	膩:Vi	呢:T	
+有:Vt	種:M	在:P	吃:Vt	小:Vi	蛋糕:N	的:T	感覺:N	
+濕潤:Vi	感:Vt	很:ADV	棒:Vi	
+第二:DET	款:M	
+【:PARENTHESISCATEGORY	抹:Vt	茶:N	紅豆:N	】:PARENTHESISCATEGORY	15:DET	元:M	
+抹茶:N	季節:N	不:ADV	來:Vi	個:M	抹茶:N	怎麼:ADV	行:Vi	
+這:DET	一:DET	款:M	顏色:N	和:C	外觀:N	就:ADV	深得:Vt	omo:FW	的:T	心:N	
+甜甜:Vi	的:T	抹:Vt	茶:N	香味:N	
+趕快:ADV	扒開:Vt	
+扎扎實實:Vi	的:T	紅豆:N	餡:N	兒阿:N	
+吃起來:ADV	綿密:Vi	帶:Vt	一點:DET	顆粒:N	
+蛋糕體:N	也:ADV	滿:ADV	濕潤:Vi	的:T	
+飄:Vi	著:ASP	淡淡:Vi	的:T	抹:Vt	茶:N	香味:N	
+整體:N	吃起來:ADV	不會:ADV	過於:ADV	甜:Vi	膩:Vi	
+喜歡:Vt	
+一:DET	個:M	才:ADV	15:DET	元:M	
+cp:FW	值:N	好:ADV	高:Vi	好:Vi	高:Vi	好:Vi	高:Vi	
+【:PARENTHESISCATEGORY	結論:N	】:PARENTHESISCATEGORY	::COLONCATEGORY	
+CP:FW	值:N	很:ADV	高:Vi	價格:N	比起:P	其他:DET	的:T	要:ADV	划算:Vi	好多:DET	
+而且:C	好吃:Vi	
+燒菓子:N	看起來:ADV	有點:ADV	像:Vt	是:Vt	紅:Vi	豆餅:N	
+但:C	蛋糕體:N	的:T	比例:N	多:Vi	了:ASP	許多:DET	
+吃起來:ADV	外皮:N	一點點:DET	酥酥:Vi	的:T	
+軟綿綿:Vi	濕潤:Vi	的:T	蛋糕體:N	
+味道:N	香:N	又:ADV	好吃:Vi	
+以上:N	兩:DET	款:M	都:ADV	很:ADV	推:Vt	喔:T	
+推薦給:Vt	大大:Vi	參考:Vt	
+謝謝:Vt	大大:Vi	的:T	閱讀:Nv	

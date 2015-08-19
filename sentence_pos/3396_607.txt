@@ -1,0 +1,125 @@
+joey:FW	080369:DET	(:PARENTHESISCATEGORY	小:Vi	綿羊:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	1:DET	Bite2Go:FW	。:PERIODCATEGORY	老奶奶:N	的:T	派:N	好:ADV	好吃:Vi	!:EXCLAMATIONCATEGORY	!:EXCLAMATIONCATEGORY	!:EXCLAMATIONCATEGORY	
+Wed:FW	
+Aug:FW	
+6:DET	
+22:DET	::COLONCATEGORY	10:DET	::COLONCATEGORY	32:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	1:DET	Bite2Go:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	08:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	安和路:N	一段:N	21巷:N	5:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2751:DET	-:DASHCATEGORY	6628:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300多:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	老奶奶:N	的:T	酥皮:N	火雞派:N	、:PAUSECATEGORY	碳烤:N	煙燻:Vt	豬肋:N	排:Vt	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.1bite2go.com/tc:FW	/:FW	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	happylife698.pixnet.net/blog/post:FW	/:FW	184806324:DET	
+高壓:N	的:T	一:DET	個:M	多:POST	月:N	總算:ADV	過去:Vi	了:ASP	
+幸好:ADV	結果:ADV	是:Vt	甜美:Vi	的:T	&:FW	gt:FW	
+W&lt:FW	
+由於:C	當天:N	身體:N	微恙:Vi	
+忘記:Vt	拍攝:Vt	門口:N	照片:N	
+只好:ADV	奉上:Vt	壽星:N	本人:N	的:T	照片:N	當:Vt	openingXD:FW	
+1:DET	Bite2Go:FW	是:Vt	國賓:N	大:Vi	飯店:N	旗下:N	的:T	餐飲:N	品牌:N	
+屬於:Vt	美式:A	餐廳:N	
+目前:N	台北:N	有:Vt	3:DET	家:M	分店:N	
+而且:C	還:ADV	有:Vt	
+行動:N	餐車:N	喔:T	
+超酷:Vi	的:T	
+蠻:ADV	喜歡:Vt	他們:N	家:N	充滿:Vt	花紋:N	的:T	地板:N	
+感覺:Vt	有:Vt	一:DET	種:M	復古:Vt	的:T	味道:N	
+除了:P	一般:A	的:T	餐桌椅:N	
+店:N	裡頭:N	有:Vt	兩:DET	張大:Vt	長桌:N	和:C	長椅:N	
+是:Vt	多:DET	人:N	聚餐:Vi	的:T	不錯:Vi	選擇:Vt	
+也:ADV	是:Vt	我們:N	這:DET	次:M	
+用餐:Vi	的:T	地方:N	&:FW	gt:FW	
+W&lt:FW	
+Menu:FW	
+餐點:N	包含:Vt	了:ASP	開胃菜:N	、:PAUSECATEGORY	湯:N	、:PAUSECATEGORY	沙拉:N	、:PAUSECATEGORY	早:Vi	午餐:N	、:PAUSECATEGORY	三明治:N	、:PAUSECATEGORY	特餐:N	、:PAUSECATEGORY	甜點:N	和:C	飲料:N	
+如果:C	比較:ADV	多:Vi	人:N	的:T	話:N	
+其實:ADV	還:ADV	蠻:ADV	推薦:Vt	點:M	幾:DET	份:M	特餐:N	大家:N	一起:ADV	share:FW	
+可以:ADV	吃到:Vt	比較:ADV	特別:Vi	的:T	餐點:N	
+喔:T	
+另外:C	
+還:ADV	有:Vt	拼盤:N	、:PAUSECATEGORY	雙人:N	套餐:N	和:C	披薩:N	可以:ADV	選擇:Vt	
+凱薩沙拉:N	
+NT:FW	.:PERIODCATEGORY	380:DET	
+生菜:N	使用:Vt	的:T	是:Vt	蘿蔓:N	葉:N	
+搭配:Vt	酥脆:Vi	的:T	麵包:N	丁:N	
+吃起來:ADV	就:ADV	是:Vt	一般:A	印象:N	中:POST	的:T	凱薩沙拉:N	
+不過:C	個:M	人:N	認為:Vt	起:ASP	司絲撒:N	得:T	有點:ADV	太多:Vi	
+吃起來:ADV	稍:ADV	鹹:Vi	了:ASP	一:DET	
+些:M	..:ETCCATEGORY	
+老奶奶:N	的:T	酥皮:N	火雞:N	派:Vt	
+NT:FW	.:PERIODCATEGORY	480:DET	
+光:ADV	看:Vt	上頭:N	的:T	派皮:N	就:ADV	讓:Vt	人:N	垂涎三尺:Vi	
+口感:N	紮實:Vi	
+味道:N	香:Vi	濃:Vi	
+派:Vt	這:DET	種:M	東西:N	實在:ADV	很:ADV	難:Vi	呈現:Vt	完美:Vi	的:T	斷面秀:N	=:FW	.:PERIODCATEGORY	=:FW	
+裡頭:N	的:T	用料:N	蠻:ADV	豐盛:Vi	的:T	
+有:Vt	火:N	雞肉:N	、:PAUSECATEGORY	薯塊:N	、:PAUSECATEGORY	培根:N	和:C	蔬菜:N	
+火雞肉:N	的:T	部分:DET	是:Vt	切:Vt	成丁狀:N	
+口感:N	比:P	一般:A	絲狀:N	的:T	火:N	雞肉飯:N	有:Vt	嚼:Vt	勁:N	
+醬汁:N	使用:Vt	的:T	是:Vt	鮮:Vi	奶油:N	雞:N	肉醬:N	
+裡頭:N	還:ADV	摻雜:Vt	了:ASP	許多:DET	蔬菜:N	末:N	
+不:ADV	負責任:Vi	的:T	大膽:Vi	推測:Vt	是:Vt	菠菜:N	XD:FW	
+味道:N	比:P	一般:A	的:T	白醬:N	多:Vi	了:ASP	些:M	肉汁:N	的:T	鹹味:N	和:C	蔬菜:N	的:T	甜味:N	
+吃起來:ADV	也:ADV	比較:ADV	不:ADV	膩:Vi	口:N	
+在:P	下:DET	默默:ADV	的:T	多:Vi	喝:Vt	了:ASP	好幾:DET	口:M	醬汁:N	XDDD:FW	
+碳烤:N	煙燻:Vt	豬肋:N	排:Vt	
+32:DET	oz:FW	
+NT:FW	.:PERIODCATEGORY	880:DET	
+一:DET	旁:N	附有:Vt	堪薩斯:N	BBQ:FW	醬:N	可以:ADV	沾:Vt	
+不過:C	個:M	人:N	認為:Vt	豬肋:N	排:Vt	本身:N	已經:ADV	非常:ADV	夠味:Vi	
+可以:ADV	斟酌:Vt	使用:Vt	^:FW	^:FW	
+薯條:N	就:ADV	是:Vt	一般:A	的:T	水準:N	
+倒是:ADV	沒有:Vt	特別:Vi	讓:Vt	人:N	驚豔:Vi	之:T	處:N	XD:FW	
+因為:C	碳烤:N	醬汁:N	蠻:ADV	濃郁:Vi	的:T	
+可以:ADV	搭配:Vt	一:DET	旁:N	的:T	捲心菜:N	一起:ADV	吃:Vt	
+捲心菜:N	的:T	酸:Vi	可以:ADV	讓:Vt	豬肋:N	排:Vt	的:T	味道:N	
+不會:ADV	太:ADV	單調:Vi	
+最:ADV	外層:N	的:T	肉質:N	雖然:C	稍微:ADV	柴:N	了:ASP	一些:DET	
+不過:C	裡頭:N	的:T	肉:N	依然:ADV	呈現:Vt	漂亮:Vi	的:T	粉紅色:N	
+吃:Vt	豬肋排:N	最:ADV	主要:A	就是:C	要:ADV	吃:Vt	靠近:Vt	骨頭:N	那:DET	一:DET	層:M	QQ:FW	的:T	纖維:N	組織:N	
+而:C	他們:N	家:N	的:T	豬肋排:N	用:P	刀叉:N	很:ADV	
+容易:Vi	就:ADV	可以:ADV	骨肉:N	分離:Vt	
+不:ADV	太:ADV	需要:Vt	動手:Vi	、:PAUSECATEGORY	齜牙咧嘴:Vi	的:T	咬:Vt	他:N	XD:FW	
+鮮泡:Vi	粉紅:Vi	檸檬:N	漾:Vi	
+NT:FW	.:PERIODCATEGORY	120:DET	
+喝:Vt	起來:ASP	酸酸:Vi	的:T	
+既:C	開胃:Vi	又:ADV	解:Vt	膩:Vi	
+不過:C	實在:ADV	喝:Vt	不:ADV	出來:Vi	粉紅色:N	鳩:N	竟是:Vt	什麼:DET	
+大概:ADV	是:Vt	莓果:N	之類:POST	的:T	吧:T	XD:FW	
+洋:A	甘菊茶:N	
+NT:FW	.:PERIODCATEGORY	160:DET	
+是:Vt	一:DET	壺:M	熱:Vt	茶:N	
+可以:ADV	續:Vt	沖歐:N	
+可以:ADV	聞到:Vt	濃濃:Vi	的:T	花草:N	茶香:N	
+還:ADV	蠻:ADV	有:Vt	舒緩:Vt	心神:N	的:T	感覺:N	
+【:PARENTHESISCATEGORY	同場:N	加映:Vt	】:PARENTHESISCATEGORY	耶:T	里:M	ellie:FW	黑森林:N	蛋糕:N	
+上頭:N	有:Vt	兩:DET	顆:M	小小:Vi	的:T	巧克力:N	馬卡龍:N	
+還:ADV	不錯:Vi	
+特別:Vi	喜歡:Vt	覆滿:Vt	蛋糕:N	的:T	巧克力片:N	
+就:ADV	好像:ADV	黑森林:N	的:T	落葉:N	蓋滿:Vt	了:ASP	整:DET	個:M	蛋糕:N	
+入口:N	即:ADV	化:Vt	
+裡頭:N	除了:P	巧克力:N	蛋糕體:N	之外:POST	
+還:ADV	夾:Vt	了:ASP	豐富:Vt	的:T	櫻桃:N	
+而且:C	是:Vt	用:P	酒:N	醃:Vt	漬:Vt	過:ASP	的:T	
+吃起來:ADV	甜:Vi	中:POST	帶:Vt	酒:N	
+香:Vi	
+不會:ADV	有:Vt	苦澀感:N	
+【:PARENTHESISCATEGORY	分:Vt	項:M	評比:Nv	】:PARENTHESISCATEGORY	
+★:FW	=:FW	一:DET	顆:M	星:N	
+☆:FW	=:FW	半:POST	顆:M	星:N	
+美味度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	
+CP:FW	值:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	
+用餐:Nv	氣氛:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	
+服務:Nv	態度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	
+小結:N	：:COLONCATEGORY	這:DET	家:M	店:N	在:P	價格:N	上:POST	雖然:C	稍微:ADV	貴:Vi	了:ASP	一些:DET	
+但:C	多:DET	人:N	用餐:Vi	一起:ADV	分攤:Vt	其實:ADV	還:ADV	在:P	可:ADV	接受:Vt	的:T	範圍:N	內:N	
+特別:Vi	推薦:Vt	老奶奶:N	的:T	酥皮:N	火雞:N	派:Vt	
+真的:ADV	讓:Vt	人:N	念念不忘:Vt	&:FW	gt:FW	
+W&lt:FW	
+最近:N	幫:P	網誌:N	架設:Vt	粉絲:N	專頁:N	了:T	
+希望:Vt	大家:N	可以:ADV	多多:ADV	支持:Vt	^:FW	^:FW	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/happylife:FW	698:DET	

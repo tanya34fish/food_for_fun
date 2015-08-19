@@ -1,0 +1,60 @@
+violetphoeni:FW	(:PARENTHESISCATEGORY	紫鳳:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	寅樂:N	屋:N	
+Sun:FW	
+Aug:FW	
+3:DET	
+17:DET	::COLONCATEGORY	52:DET	::COLONCATEGORY	06:DET	
+2014:DET	
+無:Vt	音樂:N	圖文:N	網誌:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/viophex/article:FW	/:FW	77001004:DET	
+低調:N	到:Vt	幾乎:ADV	找:Vt	不:ADV	到:Vt	的:T	店面:N	
+店面:N	隱身:Vi	、:PAUSECATEGORY	位置:N	極少:DET	的:T	寅樂:N	屋:N	
+門:N	外:POST	卻:ADV	總是:ADV	有:Vt	人:N	在:P	等候:Vt	入座:Vi	
+短期:N	內:POST	看到:Vt	這:DET	間:M	的:T	介紹:Vt	不少:DET	次:M	
+因此:C	也:ADV	找:Vt	幾:DET	個:M	朋友:N	一起:ADV	試試:Vt	
+菜單:N	
+約:ADV	15:DET	個:M	位置:N	的:T	小小:Vi	店面:N	
+充滿:Vt	日式:A	居酒屋:N	風情:N	
+由於:C	一些:DET	因素:N	在:P	外面:N	等:Vt	了:ASP	許久:N	
+座位:N	幾乎:ADV	都:ADV	換:Vt	了:ASP	一:DET	輪:M	才:ADV	進去:Vi	吃:Vt	
+位置:N	雖:C	小:Vi	
+但:C	不斷:ADV	傳來:Vt	陣陣:DET	咖:b	裡:N	香:Vi	
+讓:Vt	人:N	相當:ADV	期待:Vt	
+豬雞:N	咖哩:N	通心粉:N	
+160:DET	
+加:Vt	荷包蛋:N	
+20:DET	
+甘口:N	不:ADV	辣:Vi	
+水果:N	、:PAUSECATEGORY	洋蔥:N	等:POST	氣味:N	相當:ADV	突出:Vi	
+非常:ADV	讓:Vt	人:N	感到:Vt	窩心:Vi	的:T	日式:A	咖哩:N	
+荷包蛋:N	煎:Vt	得:ADV	有:Vt	技術:N	
+且看:Vt	蛋黃:N	就:ADV	知道:Vt	一定:ADV	是:Vt	認證蛋:N	
+形狀:N	飽滿:Vi	且:C	不:ADV	塌陷:Vi	
+迅速:Vi	扒完:Vt	整:DET	碗:M	後:POST	居然:ADV	還:ADV	想:Vt	再:ADV	吃:Vt	一:DET	碗:M	
+牛肉:N	咖哩飯:N	
+160:DET	
+朋友點:N	的:T	
+試:Vt	過:ASP	一口:ADV	
+更:ADV	勝:Vi	豬雞:N	咖哩:N	
+微:ADV	辣:Vi	的:T	香氣:N	提出:Vt	味道:N	
+牛肉:N	塊:N	也:ADV	相當:ADV	鮮嫩:Vi	
+可能:ADV	是:Vt	肋條:N	
+但:C	燉:Vt	得:T	軟:Vi	爛:Vi	
+價錢:N	實在:ADV	公道:Vi	
+濃郁:Vi	、:PAUSECATEGORY	層次:N	都:ADV	更:ADV	上:Vt	一:DET	層:M	
+相當:ADV	喜愛:Vt	
+火藥:N	冰:N	奶茶:N	
+150:DET	
+飄:Vi	著:ASP	木質:N	煙燻:Vt	味:N	的:T	鮮奶茶:N	
+濃郁:Vi	非常:ADV	
+改天:ADV	該:ADV	問問:Vt	怎麼:ADV	製作:Vt	
+結帳:Vi	時:POST	相當:ADV	開心:Vi	
+如此:Vi	平價:N	的:T	小店:N	居然:ADV	有:Vt	如此:ADV	物超所值:Vi	的:T	咖哩:N	
+值得:Vi	一:ADV	訪:Vt	再:ADV	訪:Vt	
+老闆:N	及:C	店員:N	的:T	服務:Nv	態度:N	也:ADV	值得:Vi	一:DET	書:N	
+相當:ADV	親切:Vi	
+有:Vt	人:N	在:P	排隊:Vi	時:POST	也:ADV	用:P	讓:Vt	吃完:Vt	的:T	人:N	欣然:ADV	接受:Vt	的:T	方式:N	離開:Vt	
+該:DET	店:N	的:T	另:DET	一:DET	招牌:N	為:Vt	咖啡:N	
+是:Vt	該:ADV	再:ADV	帶:Vt	懂:Vt	咖啡:N	的:T	朋友:N	去:Vt	一:DET	次:M	
+氣氛:N	十足:Vi	的:T	店:N	內:N	一:DET	景:N	
+--:DASHCATEGORY	寅樂屋:N	台北市:N	延吉街:N	294:DET	號:M	02:DET	-:DASHCATEGORY	2325:DET	-:DASHCATEGORY	7874:DET	--:DASHCATEGORY	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	杏子:N	日式:A	豬排:N	：:COLONCATEGORY	裹:Vt	著:ASP	文化:N	麵衣:N	的:T	好:Vi	味道:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/viophex/article:FW	/:FW	68945841:DET	--:DASHCATEGORY	╱:FW	╲:FW	

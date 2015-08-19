@@ -1,0 +1,91 @@
+ppptt(PT:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	公館:N	慕:Vt	斯卡:N	咖啡:N	洋食:N	館:N	
+Wed:FW	
+Jul:FW	
+23:DET	
+11:DET	::COLONCATEGORY	55:DET	::COLONCATEGORY	59:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	慕:N	斯卡:N	咖啡:N	洋食:N	館:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	溫州街:N	79:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23635182:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	：:COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	：:COLONCATEGORY	30:DET	
+網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/KNLi:FW	
+第一:DET	次:M	造訪:Nv	是:Vt	5月:N	
+那時:N	可能:ADV	還是:ADV	試:Vt	營運:Nv	階段:N	
+跟:P	7月:N	的:T	菜單:N	稍:ADV	有:Vt	不同:Vi	
+★:FW	座位:N	不會:ADV	太:ADV	擁擠:Vi	
+店:N	內:N	提供:Vt	插座:N	＆:FW	免費:Vi	wifi:FW	
+★:FW	有:Vt	提供:Vt	IKEA:FW	餐椅:N	＆:FW	兒童:N	餐具:N	
+接著:ADV	直接:Vi	看:Vt	菜色:N	吧:T	
+本來:ADV	這:DET	次:M	二:DET	訪:Vt	
+就是:C	想:Vt	嘗試:Vt	不同:Vi	餐點:N	
+結果:ADV	陰錯陽差:Vi	點:ADV	的:T	跟上:Vt	次:M	幾乎:ADV	一模一樣:Vi	XD:FW	....:ETCCATEGORY	★:FW	這:DET	回:M	菜單:N	印刷:Vt	精緻:Vi	了:ASP	些:ADV	
+我們:N	一樣:Vi	都:ADV	點:Vt	了:ASP	全:DET	餐:M	
+首先:ADV	是:Vt	濃湯:N	＆:FW	麵包:N	★:FW	兩:DET	次:M	的:T	湯:N	應該:ADV	都:ADV	是:Vt	奶油:N	花椰菜:N	濃湯:N	
+5:DET	月份:N	的:T	湯:N	裡:N	有:Vt	香腸:N	切片:N	
+★:FW	7月:N	這:DET	次:M	有:Vt	免費:Vi	給:Vt	兒子:N	一:DET	碗:M	濃湯:N	
+★:FW	兩:DET	次:M	的:T	麵包:N	也:ADV	差不多:Vi	
+麵包:N	是:Vt	鬆軟型:N	
+提供:Vt	的:T	是:Vt	鮪魚:N	美乃滋醬:N	
+接著:ADV	是:Vt	前:DET	菜:N	
+兩:DET	次:M	都:ADV	點:Vt	了:ASP	焗烤:Vt	田螺:N	＆:FW	焗:b	烤馬鈴薯:N	泥:N	
+★:FW	來:Vi	個:M	超級:A	比:Vt	一:DET	比:Vt	吧:T	
+嗯:T	...:ETCCATEGORY	7月:N	的:T	荷蘭:N	芹:b	比較:ADV	小:Vi	朵:M	
+★:FW	嗯:T	...:ETCCATEGORY	5月:N	的:T	焗:b	烤馬鈴薯:N	比較:ADV	焦:Vi	XD:FW	
+★:FW	焗烤:Vt	田螺:N	是:Vt	黑:Vi	胡椒醬:N	
+一:DET	份:M	5:DET	顆:M	
+★:FW	兒子:N	還:ADV	蠻:ADV	喜歡:Vt	吃:Vt	烤:Vt	田螺:N	的:T	
+愛:Vt	吃:Vt	才:ADV	會:ADV	像:Vt	這樣:Vi	急:Vi	著:ASP	自己:N	吹涼:Vt	XD:FW	
+★:FW	馬鈴薯:N	泥:N	口感:N	柔順:Vi	細滑:Vi	
+前:DET	回:M	吃:Vt	了:ASP	雞腿:N	排:Vt	好吃:Vi	
+本來:ADV	二:DET	訪:Vt	的:T	主菜:N	想:Vt	點:Vt	米蘭:N	蒜香:N	雞腿:N	排:Vt	
+沒想到:ADV	賣完:Vt	了:ASP	
+只好:ADV	和:P	上:DET	次:M	一樣:Vi	點:M	普羅:Vi	旺:Vi	斯:DET	香草:N	烤:Vt	雞腿:N	排:Vt	
+★:FW	普羅:N	旺:Vi	斯:DET	香草:N	烤:Vt	雞腿:N	排:Vt	
+皮烤:Vt	得:T	很:ADV	香:Vi	脆:Vi	
+肉:N	也:ADV	醃:Vt	得:T	很:ADV	有:Vt	味道:N	
+相當:ADV	好吃:Vi	
+★:FW	搭配:Vt	的:T	是:Vt	少見:Vi	的:T	薑黃:Vi	飯:N	
+飯:N	吃起來:ADV	有點:ADV	糯米:N	的:T	感覺:N	
+蠻:ADV	喜歡:Vt	的:T	^:FW	^:FW	
+★:FW	一:DET	旁:N	的:T	配:Vt	菜:N	有:Vt	沙拉:N	＆:FW	馬鈴薯:N	泥:N	雖然:C	前:DET	菜:N	已經:ADV	有:Vt	焗:b	烤:Vt	了:ASP	
+但:C	焗烤:Vt	控:Vt	老公:N	兩:DET	次:M	都:ADV	點:Vt	了:ASP	青醬:N	焗烤:Vt	
+★:FW	5月:N	點:Vt	的:T	是:Vt	奶油:N	青醬燻雞焗烤:Vt	飯:N	
+雖然:C	名稱:N	有:Vt	奶油:N	
+卻:ADV	不:ADV	是:Vt	加:Vt	了:ASP	濃濃:Vi	白醬:N	的:T	那:DET	種:M	調和:Vi	青醬:N	
+慕:N	斯卡:N	的:T	青醬:N	屬於:Vt	比較:ADV	清淡:Vi	的:T	
+焗烤飯:N	內容物:N	不:ADV	太:ADV	記得:Vt	了:ASP	
+應該:ADV	是:Vt	有:Vt	燻雞:N	、:PAUSECATEGORY	甜椒:N	之類:POST	的:T	
+★:FW	7月:N	這:DET	次:M	老公:N	本來:ADV	又:ADV	要點:N	跟上:Vt	回:M	相同:Vi	的:T	
+焗烤:Vt	、:PAUSECATEGORY	燻雞:N	、:PAUSECATEGORY	青醬:N	這:DET	三:DET	項:M	都:ADV	是:Vt	他:N	的:T	偏好:Nv	
+被:P	我:N	以:P	換:Vt	口味:N	說服:Vt	點:Vt	了:ASP	奶油:N	青醬:N	海鮮:N	焗烤:Vt	螺旋麵:N	
+★:FW	但:C	這:DET	道:M	並:ADV	不:ADV	得:Vt	我:N	青睞:Vi	
+甜椒:N	、:PAUSECATEGORY	花椰菜:N	以外:POST	
+海鮮:N	好像:ADV	只有:ADV	花枝:N	跟:P	螺肉:N	
+好歹:ADV	也:ADV	加:Vt	點:M	蝦仁:N	、:PAUSECATEGORY	蛤蜊:N	或:C	魚肉:N	吧:T	Orz:FW	
+因為:C	我:N	不:ADV	是:Vt	吃:Vt	整:DET	份:M	
+不:ADV	確定:Vt	到底:ADV	還:ADV	有沒有:ADV	其他:DET	料:N	
+但:C	根據:P	我:N	翻:Vt	來:ADV	找去:Vi	
+海鮮:N	料:N	的確:ADV	不:ADV	多:Vi	
+最後:N	是:Vt	飲料:N	＆:FW	甜點:N	★:FW	無:Vt	咖啡因:N	熱:Vt	茶:N	＆:FW	冰:Vt	蘋果汁:N	★:FW	冰:Vt	蘋果汁:N	＆:FW	冰:Vt	蜂蜜:N	醋:N	
+蠻:ADV	濃:Vi	的:T	XD:FW	
+★:FW	比利時:N	鬆餅:N	還:ADV	不錯:Vi	
+★:FW	古典:Vi	巧克力:N	+:FW	冰淇淋:N	
+跟:P	感恩:Vi	小:Vi	館:N	的:T	有點:ADV	類似:Vt	XD:FW	
+★:FW	提拉米蘇:N	
+口味:N	不:ADV	差:Vi	
+但是:C	比較:ADV	像:Vt	鮮:Vi	奶油:N	慕:Vt	斯:DET	那:DET	種:M	口感:N	
+★:FW	脆皮泡芙:N	
+蠻:ADV	好吃:Vi	的:T	
+外面:N	有:Vt	一:DET	球:N	瑞士:N	巧克力:N	冰淇淋:N	
+★:FW	內:N	餡:N	也:ADV	是:Vt	巧克力:N	鮮:Vi	奶油:N	
+凍:Vt	得:T	冰:N	涼涼:Vi	的:T	
+吃起來:ADV	也:ADV	像:Vt	冰淇淋:N	：:COLONCATEGORY	
+以:P	全:DET	餐:M	NT:FW	290:DET	-:DASHCATEGORY	299:DET	的:T	價位:N	
+可以:ADV	吃到:Vt	主餐:N	、:PAUSECATEGORY	濃湯:N	、:PAUSECATEGORY	麵包:N	、:PAUSECATEGORY	前菜:N	、:PAUSECATEGORY	飲料:N	、:PAUSECATEGORY	甜點:N	我:N	覺得:Vt	挺:ADV	實惠:Vi	了:T	
+查:Vt	了:ASP	一下:N	兩:DET	年:M	前:POST	的:T	食記:N	
+看起來:ADV	青醬:N	海鮮麵:N	的:T	用料:N	似乎:ADV	好:Vi	很多:DET	
+下:DET	次:M	再:ADV	去:ADV	的:T	話:N	應該:ADV	會:ADV	嘗試:Vt	非焗烤類:N	的:T	主餐:N	再:ADV	來:ADV	比較:ADV	看看:Vt	
+他們:N	的:T	脆皮烤:Vt	雞腿:N	排:Vt	我:N	和:C	老公:N	都:ADV	蠻:ADV	喜歡:Vt	的:T	
+期待:Vt	下:DET	次:M	試試:Vt	米蘭:N	蒜香:N	是:Vt	不:ADV	是也:ADV	同樣:Vi	好:Vi	滋味:N	

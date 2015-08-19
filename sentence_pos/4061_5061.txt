@@ -1,0 +1,117 @@
+KUNI:FW	0202:DET	(:PARENTHESISCATEGORY	藐視:Vt	王法:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	鮨:b	小馬:N	再:ADV	訪:Vt	：:COLONCATEGORY	心情:N	愉悅:Vi	的:T	Omakase:FW	
+Tue:FW	
+Feb:FW	
+17:DET	
+23:DET	::COLONCATEGORY	59:DET	::COLONCATEGORY	09:DET	
+2015:DET	
+圖文:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	2015年:N	二月:N	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	410534692:DET	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	--:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	鮨:b	小馬:N	Kunma:FW	地址:N	：:COLONCATEGORY	台北市:N	松山區:N	民生東路:N	三段:N	111:DET	號:M	B:FW	1:DET	
+西華:N	飯店:N	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2718:DET	-:DASHCATEGORY	1188:DET	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	
+14:DET	::COLONCATEGORY	3018:DET	::COLONCATEGORY	00:DET	
+22:DET	::COLONCATEGORY	00:DET	Mon:FW	
+Sun:FW	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	--:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	沒想到:ADV	這麼:ADV	快:ADV	又:ADV	回到:Vt	西華:N	
+上:DET	次:M	停車場:N	惱人:Vi	的:T	警衛:N	已:ADV	不:ADV	在:P	
+感謝:Vt	經理:N	
+今天:N	是:Vt	3000:DET	的:T	Omakase:FW	
+數字:N	比:P	預期:N	來得:ADV	低:Vi	
+板前:N	入座:Vi	
+和:C	知:Vt	san:FW	變得:Vt	稍微:ADV	不:ADV	一樣:Vi	
+仔細:Vi	觀察:Vt	
+才:ADV	發現:Vt	是:Vt	多:Vi	了:ASP	一:DET	股:M	親近:Vt	
+以:P	台北:N	所:ADV	認識:Vt	的:T	日籍:N	師傅:N	而言:Vt	相當:ADV	少見:Vi	
+不:ADV	知:Vt	為何:ADV	
+板:N	前:POST	的:T	他們:N	總是:ADV	給:Vt	人:N	距離:N	感:Vt	
+在:P	熱絡:Vi	對談:Vi	當中:POST	
+料理:Vt	們:N	逐漸:ADV	登場:Vi	
+但:C	不:ADV	知:Vt	為何:ADV	內:N	場:N	失誤:Vi	了:ASP	
+魚生備:N	料:N	不足:Vi	
+導致:Vt	Nigiri:FW	一共:ADV	只:ADV	出:Vt	了:ASP	三:DET	貫:M	
+幸好:ADV	板:N	長:Vi	道歉:Vi	相當:ADV	誠懇:Vi	
+加上:C	料理:Vt	內容:N	精彩:Vi	依舊:ADV	
+這:DET	一:DET	餐:M	吃:Vt	得:T	畢竟:ADV	還是:ADV	很:ADV	開心:Vi	
+從:P	大根:N	風呂炊:Vt	開始:Vi	活絡:Vi	味覺:N	
+煮:Vt	透:ADV	的:T	白:Vi	蘿蔔:N	與:C	味噌:N	
+混:Vt	著:ASP	雞肉:N	泥球:N	
+以:P	溫和:Vi	為:Vt	主題:N	
+讓:Vt	心:N	暖洋洋:Vi	
+看到:Vt	星鰻苗:N	時:POST	瞬間:N	感到:Vt	失落:Vi	
+這:DET	食材:N	不:ADV	便宜:Vi	
+吃:Vt	過:ASP	數:DET	次:M	
+但:C	口感:N	滑:Vi	順:Vt	有餘:Vi	
+細嫩:Vi	卻:ADV	不足:Vi	
+不過:C	和:P	知:Vt	先生:N	果然:ADV	厲害:Vi	
+藉著:P	不落俗套:Vi	的:T	調味:Nv	及:C	處理:Nv	方式:N	硬是:ADV	將:P	口感:N	提升:Vt	不少:DET	
+高明:Vi	之至:ADV	
+不:ADV	知:Vt	是否:ADV	誤打誤撞:Vi	
+還是:ADV	事先:ADV	有:Vt	交代:Vt	會:ADV	帶:Vt	清酒:N	的:T	緣故:N	
+今天:N	的:T	鴨肝:N	與:C	二:DET	割:Vt	三:DET	分:Vt	有如:Vt	熱戀:Vi	中:POST	情人:N	一般:POST	
+緊:Vi	密不可分:Vi	
+本來:ADV	較:ADV	單調:Vi	的:T	滑膩:Vi	藉著:P	富有:Vt	色彩:N	的:T	吟釀:Vt	
+竟:ADV	變更:Vt	甘甜:Vi	
+這:DET	一:DET	次:M	的:T	章魚:N	煮:Vt	散發:Vt	嶄新:A	風貌:N	
+有別:Vi	以往:N	的:T	萬巒:N	豬腳:N	濃郁:Vi	膠質:N	
+今天:N	的:T	軟:Vi	爛:Vi	讓:Vt	人:N	特別:Vi	印象:N	深刻:Vi	
+來自:Vt	台灣:N	的:T	鰹魚:N	透露出:Vt	師傅:N	絕妙:Vi	的:T	刀工:N	
+海膽:N	的:T	甜:Vi	被:P	海苔:N	包覆:Vt	住:Vt	
+溫潤:Vi	之後:POST	甘味:N	不若:C	以往:N	直接:Vi	
+而是:C	含蓄:Vi	逐漸:ADV	化:Vt	至:C	口:N	中:POST	
+這:DET	當中:N	板:N	前:N	配角:N	們:N	包括:Vt	漬:Vt	蘿蔔:N	
+煙燻:A	蘿蔔:N	
+山藥:N	與:C	漬薑塊:N	等:POST	
+不斷:ADV	做:Vt	更迭:Vi	的:T	動作:N	
+讓:Vt	清口:N	成為:Vt	另:DET	一:DET	種:M	愉悅:Vi	的:T	心情:N	
+和:C	知:Vt	的:T	拿手:Nv	好:Vi	戲:N	真:Vi	丈湯:N	沒:ADV	失常:Vi	
+與:C	日式:A	第一:DET	高湯:N	微:ADV	酸:Vi	微甘:N	的:T	調性:N	極:ADV	相似:Vi	
+可惜:Vi	不:ADV	夠:ADV	清澈見底:Vi	
+鮑魚:N	切面:N	工整:Vi	
+有:Vt	預期:N	之中:POST	的:T	柔嫩:Vi	
+以:P	山椒葉:N	香氣:N	來:ADV	做:Vt	最後:N	綴飾:Vt	似乎:ADV	已:ADV	快:ADV	變:Vt	例行:A	公事:N	了:T	
+鰻魚:N	粽:b	看:Vt	得:T	出:Vt	相當:ADV	費工:Vi	
+熱湯:N	後:POST	上桌:Vi	
+繼續:Vt	保持:Vt	味覺:N	上:N	的:T	節奏:N	
+太:ADV	刀魚:N	烤:Vt	得:T	好:Vi	
+美:N	得:ADV	令:Vt	人:N	讚嘆:Vt	的:T	切工:N	下:POST	藏不住:Vt	微微:ADV	清香:Vi	的:T	乾淨:Vi	肉質:N	
+炸:Vt	春捲:N	裡:N	包覆:Vt	的:T	是:Vt	毛蟹:N	白子:N	
+熱度:N	剛好:ADV	
+酥:Vi	口:N	中:POST	緩緩:Vi	流出:Vt	迷人:Vi	牛奶:N	
+與:C	細嫩:Vi	嚼:Vt	勁:N	的:T	雪白:Vi	河豚肉:N	合作無間:Vi	
+這:DET	一:DET	道:M	倒是:ADV	有:Vt	些:M	可惜:Vi	
+不:ADV	知:Vt	是否:ADV	為:P	內:N	場:M	粗心:Vi	所:ADV	致:Vt	
+整體:N	不:ADV	夠:ADV	盡善盡美:Vi	
+終於:ADV	輪到:Vt	握:Vt	壽司:N	了:T	
+三:DET	貫:M	以:P	大:Vi	間:POST	一:DET	本:M	釣:Vt	本:DET	鮪:N	為:Vt	主軸:N	
+在:P	握功:N	上:POST	幾乎:ADV	沒:Vt	什麼:DET	可:ADV	挑剔:Vt	之:T	處:N	
+中腹:N	那:DET	一貫:A	可惜:Vi	了:T	
+沒:ADV	能:ADV	保持:Vt	最佳:A	的:T	型:N	
+忽然:ADV	想到:Vt	
+與:P	台北:N	的:T	龍吟:N	極:ADV	相似:Vi	
+和:C	知:Vt	先生:N	堅持:Vt	只:ADV	用:P	大:Vi	間:POST	一:DET	本:M	釣:Vt	高檔貨:N	
+在:P	成本:N	上:N	是:Vt	一:DET	個:M	相當:ADV	可怕:Vi	的:T	壓力:N	
+尤其:ADV	這:DET	東西:N	近年:N	來:ADV	愈來愈:ADV	稀少:Vi	
+而:C	幾:DET	次:M	以來:POST	的:T	經驗:N	
+並未:ADV	讓:Vt	我:N	察覺:Vt	這:DET	奢侈:Vi	品牌:N	有:Vt	著:ASP	高不可攀:Vi	的:T	味覺:N	優勢:N	
+當然:ADV	不可:ADV	否認:Vt	
+在:P	熟成:Vt	狀態:N	達到:Vt	巔峰:N	時:POST	
+一:DET	本:M	釣:Vt	野生:A	本:DET	鮪:N	的:T	酸:Nv	與:C	清香:Vi	就:ADV	是:Vt	乾淨:Vi	俐落:Vi	
+只是:ADV	這樣:Vi	等級:N	的:T	美味:N	並非:ADV	只有:ADV	大:Vi	間:POST	才:ADV	做得到:Vi	而已:T	
+最後:N	在:P	鰻魚:N	丼:b	與:C	海:N	瓜子:N	素麵:N	下:POST	
+和:C	知:Vt	的:T	饗宴:N	逐漸:ADV	接近:Vt	尾聲:N	
+蕎麥:N	冰淇淋:N	與:C	令:Vt	人:N	驚喜:Vi	的:T	蛋糕:N	劃下:Vt	唯美:Vi	句點:N	
+小馬:N	之所以:C	會:ADV	讓:Vt	我:N	近期:N	內:POST	迅速:Vi	回訪:Vt	第二:DET	次:M	
+理由:N	很:ADV	簡單:Vi	：:COLONCATEGORY	":FW	因為:C	它:N	讓:Vt	我:N	開心:Vi	
+":FW	師承:Vt	神:N	田裕行:N	的:T	顯赫:Vi	來歷:N	對:P	我:N	來:ADV	說:Vt	只:ADV	據:P	參考:Vt	價值:N	
+重點:N	是:Vt	他:N	對於:P	日式:A	料理:Vt	那:DET	近乎:Vt	修行:Nv	者:N	的:T	態度:N	及:C	原則:N	
+偶爾:ADV	透過:P	幕簾:N	聽到:Vt	他:N	在:P	廚房:N	裡:N	相當:ADV	激動:Vi	的:T	聲調:N	
+看:Vt	得:T	出:Vt	他:N	對:P	副手:N	們:N	的:T	嚴苛:Vi	
+但:C	與:P	他:N	在:P	言談:N	中:POST	
+那:DET	發自:Vt	內心:N	的:T	禮貌:N	與:C	謙遜:Vi	
+絕非:ADV	來自:Vt	傲慢:Vi	的:T	做作:Nv	
+太:ADV	讓:Vt	人:N	欣賞:Vt	了:ASP	
+三:DET	訪:Vt	指日可待:Vi	
+相關:Vi	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	鮨:b	小馬:N	初:POST	訪:Vt	：:COLONCATEGORY	神田:N	弟子:N	和:C	知:Vt	師傅:N	果然:ADV	了得:Vi	http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	404805979:DET	游:N	壽司:N	一:DET	店:N	：:COLONCATEGORY	新:Vi	地點:N	新:Vi	氣象:N	http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	403923874:DET	祥雲:N	龍吟:N	：:COLONCATEGORY	走:Vi	在:P	世界:N	雲端:N	的:T	味覺:N	http:FW	::COLONCATEGORY	/:FW	/:FW	kuni.pixnet.net/blog/post:FW	/:FW	394834721:DET	錵鑶:b	日本:N	料理:N	
+Hana:FW	壽司:N	三:DET	店:N	

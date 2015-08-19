@@ -1,0 +1,82 @@
+Angello:FW	(:PARENTHESISCATEGORY	＊:FW	草莓:N	＊:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	‧:PERIODCATEGORY	養蜂:Vi	人家:N	珍貴:Vi	少見:Vi	的:T	冬蜜:N	
+Wed:FW	
+Oct:FW	
+8:DET	
+22:DET	::COLONCATEGORY	24:DET	::COLONCATEGORY	35:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	養蜂:Vi	人家:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	10月:N	
+地址:N	：:COLONCATEGORY	台北市:N	松壽路:N	11:DET	號:M	B:FW	2:DET	（:PARENTHESISCATEGORY	新光:N	信義:N	新天地:N	A11-B:FW	2:DET	專櫃:N	）:PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27231708:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	–:FW	21:DET	::COLONCATEGORY	30:DET	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ssag.pixnet.net/blog/post:FW	/:FW	41497843:DET	
+說到:Vt	蜂蜜:N	
+那:DET	可:ADV	真是:ADV	我:N	的:T	心頭:N	好:Vi	
+收到:Vt	來自:Vt	長輩:N	送:Vt	的:T	『:PARENTHESISCATEGORY	養蜂:Vi	人家:N	』:PARENTHESISCATEGORY	蜂蜜:N	
+想:Vt	說:Vt	：:COLONCATEGORY	
+咦:T	
+這:DET	蜂蜜:N	怎:ADV	這麼:ADV	小:Vi	瓶:N	
+上面:N	還:ADV	寫:Vt	著:ASP	冬蜜:N	
+不禁:Vt	讓:Vt	我:N	對:P	這:DET	瓶:M	蜂蜜:N	好奇:Vi	了:ASP	起來:ASP	...:ETCCATEGORY	
+既然:C	提到:Vt	蜂蜜:N	
+就:ADV	先:ADV	來:ADV	聽:Vt	首:DET	蕭亞軒:N	的:T	HoneyHoney:FW	吧:T	
+不:ADV	是:Vt	聊:Vt	蜂蜜:N	嗎:T	
+跳:Vi	去:Vt	蕭亞軒:N	的:T	歌:N	是:Vt	怎樣:Vi	
+XD:FW	
+喔:T	
+好:Vi	
+回到:Vt	主題:N	
+先:ADV	看:Vt	一下:N	瓶子:N	側面:N	
+咦:T	
+看起來:ADV	顏色:N	跟:P	一般:A	蜂蜜:N	不同:Vi	耶:T	
+據說:ADV	
+冬蜜:N	
+是:Vt	蜜蜂:N	採集:Vt	冬季:N	各:DET	種:M	蜜源:N	植物:N	所:ADV	分泌:Vt	的:T	花蜜:N	
+氣味:N	清香:Vi	
+適合:Vi	不:ADV	喜歡:Vt	太:ADV	甜:Vi	口感:N	的:T	人:N	
+因:C	冬季:N	開花期:N	不:ADV	長:Vi	
+且:C	其:DET	維生素:N	含量:N	多:Vi	
+礦物質:N	含量:N	較:ADV	低:Vi	
+頗為:ADV	珍貴:Vi	
+蜂蜜:N	又:ADV	分:Vt	春蜜:N	和:C	冬蜜:N	
+冬蜜:N	因為:C	冬季:N	花少:N	
+因此:C	採集:Vt	的:T	是:Vt	多:ADV	種花:Vi	的:T	花蜜:N	
+春蜜:N	主要:ADV	是:Vt	以:P	龍眼:N	蜜:N	
+荔枝:N	蜜:N	為主:Vi	
+另外:C	
+冬蜜:N	色澤:N	偏:ADV	金黃:Vi	
+春蜜:N	的:T	色澤:N	則:ADV	為:Vt	暗褐色:N	
+冬蜜:N	水份:N	少:Vi	
+會:ADV	有:Vt	白白:Vi	的:T	結晶狀:N	
+是:Vt	它:N	和:C	春蜜:N	最好:ADV	分別:ADV	的:T	地方:N	
+看到:Vt	下方:N	的:T	建議:N	售價:N	NT:FW	360:DET	元:M	
+哇:T	
+這麼:ADV	小:Vi	一:DET	瓶:M	還:ADV	真是:ADV	不:ADV	便宜:Vi	
+這:DET	是:Vt	第一:DET	次:M	品嚐到:Vt	冬蜜:N	
+以往:N	都:ADV	是:Vt	看到:Vt	春蜜:N	比較:ADV	多:Vi	
+剛:ADV	開始:Vt	看到:Vt	顏色:N	濁濁:Vi	的:T	
+還:ADV	想:Vt	說:Vt	是:Vt	有加:ADV	了:ASP	什麼:DET	蜂王乳:N	之類:POST	的:T	嗎:T	
+原來:ADV	這:DET	才:ADV	是:Vt	冬蜜:N	的:T	特色:N	
+含水量:N	少:Vi	
+用:P	湯匙:N	挖:Vt	會:ADV	很:ADV	濃稠:Vi	的:T	感覺:N	
+看看:Vt	這:DET	冬:N	蜜:N	
+蜜糖:N	濃度:N	較:ADV	高:Vi	
+色澤:N	呈:Vt	淺:Vi	琥珀色:N	
+很:ADV	美:Vi	吧:T	
+他:N	聞起來:ADV	有:Vt	股:M	特殊:Vi	香氣:N	
+不:ADV	是:Vt	很:ADV	強烈:Vi	的:T	甜味:N	
+直接:Vi	品嚐:Vt	感覺:N	也:ADV	不會:ADV	很:ADV	膩:Vi	口:N	
+香香甜甜:Vi	的:T	
+很:ADV	好吃:Vi	
+個:M	人:N	習慣:Vt	加:Vt	水:N	直接:Vi	沖泡:Vt	飲用:Vt	
+為了:P	保存:Vt	他:N	的:T	營養素:N	
+不要:ADV	用:Vt	太:ADV	高溫:N	的:T	水:N	
+拿來:Vt	塗抹:Vt	麵包:N	orScone:FW	也:ADV	很:ADV	適合:Vi	
+其實:ADV	除了:P	蜂蜜:N	
+花粉:N	跟:P	蜂王乳:N	也:ADV	不錯:Vi	
+只:ADV	是:Vt	蜂王乳:N	味道:N	比較:ADV	刺激:Vi	
+可以:ADV	搭配:Vt	蜂蜜:N	一起:ADV	沖泡:Vt	喝:Vt	
+蜂蜜:N	內含:Vt	的:T	營養素:N	不少:Vi	
+但:C	要:ADV	小心:Vt	不要:ADV	買到:Vt	假:Vi	蜜:N	
+還是:ADV	找:Vt	有:Vt	信譽:N	的:T	店家:N	購買:Vt	比較:ADV	安心:Vi	喔:T	

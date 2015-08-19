@@ -1,0 +1,116 @@
+FrancePeeres(www.iTiffany.cc:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安區:N	MONECAFECP:FW	值:N	高:Vi	的:T	BRUNCH:FW	
+Wed:FW	
+Apr:FW	
+1:DET	
+00:DET	::COLONCATEGORY	52:DET	::COLONCATEGORY	27:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	MONECAFE:FW	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	3月:N	/:FW	21:DET	日:M	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	仁愛路:N	四段:N	27巷:N	6:DET	號:M	-:DASHCATEGORY	1:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	8773:DET	-:DASHCATEGORY	2136:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	07:DET	::COLONCATEGORY	00:DET	–:FW	20:DET	::COLONCATEGORY	30:DET	
+網頁:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	itiffany.cc/post:FW	/:FW	1602:DET	
+週末:N	假期:N	美好:Vi	一:DET	天:M	的:T	開始:Nv	就:ADV	從:P	
+MONECAFE:FW	早:Vi	午餐:N	
+吧:T	
+小:Vi	S:FW	推薦:Vt	MONECAFEBrunch:FW	也:ADV	有:Vt	好:Vi	一段:N	時日:N	
+沒:ADV	想到:Vt	依舊:ADV	這樣:Vi	熱門:Vi	
+特別:Vi	是:Vt	假日:N	中午:N	到:P	下午:N	三:DET	點:N	這:DET	時段:N	
+若:C	沒:ADV	訂位:Vi	
+到:P	現場:N	也:ADV	幾乎:ADV	排:Vt	不:ADV	到:Vt	後:DET	位:M	
+除非:C	有:Vt	訂位客:N	臨時:N	取消:Vt	了:ASP	
+但:C	機率:N	是:Vt	零:DET	
+我:N	就:ADV	碰壁:Vi	過:ASP	三:DET	次:M	吧:T	
+這:DET	天:M	
+原本:ADV	盤算:Vt	著:ASP	睡到:Vt	中午:N	自然:ADV	醒:Vi	
+然後:ADV	下午:N	兩:DET	點:N	再:ADV	去:ADV	用餐:Vi	
+結果:ADV	打去:Vi	訂位:Vi	
+話筒:N	傳來:Vt	的:T	是:Vt	
+客滿:Vi	
+喔:T	
+要:ADV	等到:P	四五:DET	點:M	後:POST	才:ADV	比較:ADV	有:Vt	空位:N	
+那:ADV	我:N	只好:ADV	把:P	時間:N	往:P	前:N	算:Vt	
+只:ADV	剩下:Vt	早上:N	十:DET	點:M	半:DET	有:Vt	一:DET	席位:N	
+我:N	感動:Vt	的:T	要:ADV	哭:Vi	了:ASP	
+可是:C	也:ADV	太早:ADV	了:T	吧:T	
+但:C	為了:P	吃:Vt	朝思暮想:Vi	的:T	MONECAFE:FW	早:Vi	午餐:N	
+再:ADV	早:ADV	也:ADV	是:Vt	要:ADV	起床:Vi	去:ADV	吃:Vt	
+十:DET	點:M	半:DET	準時:Vi	抵達:Vt	MONECAFE:FW	
+別:ADV	看:Vt	還:ADV	有:Vt	兩:DET	張:M	空桌:N	
+其實:ADV	店:N	內:N	另:DET	一:DET	區客:N	席位:N	早:ADV	已經:ADV	坐:Vi	滿滿:Vi	啦:T	
+看來:ADV	大家:N	都:ADV	在:P	比:Vt	早:Vi	的:T	
+MONECAFE:FW	客:N	席位:N	本來:ADV	就:ADV	不:ADV	多:Vi	
+因此:C	容易:Vi	客滿:Vi	也:ADV	是:Vt	見怪不怪:Vi	
+假日:N	用餐:Vi	有限:Vi	時:POST	兩:DET	小時:M	
+像:P	我們:N	吃:Vt	較:ADV	慢:Vi	的:T	人:N	
+兩:DET	小時:N	也:ADV	很:ADV	足夠:Vi	了:T	
+Menu:FW	請:Vt	拉到:Vt	頁面:N	最:ADV	下方:N	
+有:Vt	完整:Vi	呈現:Vt	
+單:ADV	點:Vt	主廚:N	沙拉:N	$:FW	240:DET	
+這:DET	盤:M	沙拉:N	很:ADV	新鮮:Vi	也:ADV	很:ADV	大盤:N	
+配料:N	有:Vt	生菜:N	、:PAUSECATEGORY	番茄片:N	、:PAUSECATEGORY	苜蓿:N	芽:N	和:C	水:N	煮:Vt	蛋:N	以及:C	火腿片:N	
+醬汁:N	吃起來:ADV	清爽:Vi	開胃:Vi	
+兩:DET	個:M	人:N	分食:Vt	恰到好處:Vi	
+早餐:N	套餐:N	有:Vt	附:Vt	可:ADV	續杯:Vi	的:T	咖啡:N	、:PAUSECATEGORY	紅茶:N	
+二:DET	選:Vt	一:DET	
+和:C	一:DET	杯:M	新鮮:Vi	果汁:N	
+使用:Vt	的:T	咖啡:N	不:ADV	是:Vt	太:ADV	差:Vi	
+喝:Vt	起來:ASP	很:ADV	順口:Vi	不:ADV	澀:Vi	
+果汁:N	超級:A	純:Vi	
+完全:ADV	不:ADV	是:Vt	泡粉:N	或:C	濃縮汁:N	那:DET	種:M	口感:N	
+是:Vt	可以:ADV	吃到:Vt	果肉:N	喔:T	
+可惜:Vi	不能:ADV	續杯:Vi	
+牛:N	小:Vi	排:Vt	早餐:N	$:FW	380:DET	
+營養師:N	有:Vt	說:Vt	
+早餐:N	就:ADV	是:Vt	要:ADV	吃:Vt	的:T	很:ADV	澎湃:Vi	
+所以:C	我:N	吃:Vt	牛:N	小:Vi	排:Vt	
+哈:ADV	哈哈:ADV	
+這:DET	牛:N	小:Vi	排:Vt	超嫩:Vi	的:T	啊:T	
+而且:C	你們:N	看:Vt	兩:DET	大:Vi	塊:M	牛:N	小:Vi	排:Vt	
+才:ADV	380:DET	元:M	
+是:Vt	不:ADV	是:Vt	CP:FW	值:N	很:ADV	高:Vi	咧:T	
+比較:ADV	可惜:Vi	的:T	是:Vt	
+只有:C	水果:N	沒有:Vt	沙拉:N	
+如果:C	沙拉:N	和:C	水果:N	能:ADV	都:ADV	各:ADV	放:Vt	一點:DET	
+這樣:Vi	餐點:N	會:ADV	更:ADV	完美:Vi	更:ADV	均衡:Vt	
+如果:C	你:N	以為:Vt	這:DET	是:Vt	蘿蔔糕:N	
+那:DET	就:ADV	大錯特錯:Vi	啦:T	
+這:DET	其實:ADV	是:Vt	馬鈴薯:N	泥:N	
+只是:ADV	煎:Vt	的:T	很:ADV	像:Vt	蘿蔔糕:N	
+不過:C	超:Vt	好吃:Vi	的:T	
+讓:Vt	我:N	一口:ADV	接:Vt	一口:ADV	
+配餐:N	麵包:N	有:Vt	四:DET	種:M	可:ADV	選:Vt	
+我:N	選:Vt	了:ASP	一:DET	個:M	最:ADV	油:Vi	滋滋:ADV	甜滋滋:Vi	的:T	法國:N	吐司:N	
+哈:ADV	哈哈:ADV	
+趁熱:ADV	吃:Vt	很:ADV	讚:Vi	
+冷:Vi	著:ASP	吃:Vt	口感:N	依舊:ADV	柔軟:Vi	不:ADV	油:N	
+麵包:N	不會:ADV	因此:C	變:Vt	很:ADV	乾:Vi	硬:Vi	
+男友點:N	得:T	
+理查:N	墨西哥:N	辣:Vi	蛋捲:N	$:FW	330:DET	
+這:DET	個:M	辣:Vi	蛋捲:N	有:Vt	三:DET	種:M	口味:N	可:ADV	選:Vt	
+香腸:N	、:PAUSECATEGORY	起:Vt	司:N	、:PAUSECATEGORY	牛肉:N	
+男友:N	選:Vt	的:T	是:Vt	牛肉:N	口味:N	
+然後:ADV	旁邊:N	的:T	太陽:N	蛋:N	是:Vt	額外:A	加:Vt	點:M	的:T	喔:T	
+額:N	外加點:N	、:PAUSECATEGORY	額外:A	加:Vt	點:M	、:PAUSECATEGORY	外加點:N	
+很:ADV	重要:Vi	
+所以:C	說:Vt	三:DET	次:M	
+很:ADV	怕:Vt	你們:N	去:ADV	點:Vt	餐:N	發現:Vt	少:Vi	一:DET	顆:M	蛋:N	而:C	跟:P	店家:N	反應:N	
+那:DET	就:ADV	會:ADV	很:ADV	糗:Vi	了:T	
+男友:N	食評:N	
+綿密:Vi	的:T	蛋捲:N	配上:Vt	略:ADV	有:Vt	嚼:Vt	勁:N	的:T	牛肉:N	加上:C	微:ADV	辣:Vi	的:T	墨西哥:N	醬汁:N	
+真是:ADV	渾然天成:Vi	的:T	美味:Vi	啊:T	
+YUMMY:FW	
+我:N	自己:N	品嚐:Vt	的:T	感覺:N	是:Vt	
+蛋捲:N	真的:ADV	蠻:ADV	滑:Vi	嫩:Vi	
+不會:ADV	煎:Vt	得:T	太:ADV	過:ASP	頭:N	
+墨西哥:N	醬汁:N	調配:Vt	的:T	還:ADV	不:ADV	賴:Vt	
+也:ADV	不:ADV	是:Vt	太:ADV	辣:Vi	
+配餐烤:Vt	吐司:N	
+有:Vt	附:Vt	草莓醬:N	和:C	奶油醬:N	
+如果:C	你:N	問:Vt	我:N	還:ADV	會:ADV	有:Vt	可能:Vi	二:DET	訪:Vt	嗎:T	
+我:N	會:ADV	耶:T	
+但:C	希望:Vt	不要:ADV	那麼:ADV	難:Vi	訂位:Vi	啊:T	
+最後:N	附上:Vt	MONECAFEMENU:FW	供:Vt	參考:Vt	
+--:DASHCATEGORY	BonVivant:FW	蒂芬妮:N	的:T	香榭:N	大道:N	整形:Nv	、:PAUSECATEGORY	保養:Nv	、:PAUSECATEGORY	旅遊:Nv	、:PAUSECATEGORY	美食:N	、:PAUSECATEGORY	貓咪:N	§:FW	網站:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	itiffany.cc:FW	/:FW	粉絲團:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/tiffanylin.tptw:FW	歡迎:Vt	來:Vi	粉絲團:N	跟:P	我:N	喇:ADV	D:FW	賽:N	
+隨時:ADV	精美:Vi	大獎:N	等:Vt	妳:N	帶回去:Vi	--:DASHCATEGORY	

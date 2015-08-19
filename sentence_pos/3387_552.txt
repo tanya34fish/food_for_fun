@@ -1,0 +1,141 @@
+redpoppy(redpoppy:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	內湖:N	Foodies:FW	饕客:N	創意:N	台菜:N	
+Mon:FW	
+Aug:FW	
+4:DET	
+16:DET	::COLONCATEGORY	41:DET	::COLONCATEGORY	46:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Foodies:FW	饕客:N	創意:N	台菜:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	洲子街:N	69:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8751:DET	-:DASHCATEGORY	3858:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	AM:FW	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	PM:FW	14:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	PM:FW	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	PM:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	400:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	松露野菇燉:N	飯:N	、:PAUSECATEGORY	蕃茄:N	肉醬:N	排骨湯:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	foodies.com.tw:FW	/:FW	
+多圖好讀:Vt	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	yuuka0414.pixnet.net/blog/post:FW	/:FW	184689165:DET	
+不少:DET	朋友:N	在:P	內湖:N	上班:Vi	
+每:DET	回:M	約:ADV	下班:Vi	到:P	要:ADV	在:P	內湖:N	聚會:N	我:N	總是:ADV	嫌:Vt	遠:ADV	懶得:Vt	去:Vt	
+不過:C	最近:N	剛好:ADV	換新:Vt	工作:N	在:P	內湖:N	附近:N	
+所以:C	就:ADV	跟到:Vt	這:DET	次:M	的:T	聚會:N	啦:T	XD:FW	
+這:DET	次:M	的:T	聚會:N	地點:N	約:ADV	在:P	Foodies:FW	饕客:N	創意:N	台菜:N	
+因為:C	新:Vi	公司:N	報到:Vi	第一:DET	天:M	沒:Vt	什麼:DET	早早:ADV	就:ADV	下班:Vi	
+結果:ADV	我:N	反而:C	是:Vt	第一:DET	個:M	到:Vt	現場:N	的:T	
+其實:ADV	真的:ADV	沒有:ADV	研究:Vt	這裡:N	是:Vt	吃:Vt	什麼:DET	的:T	
+所以:C	就:ADV	先:ADV	在:P	門口:N	看:Vt	了:ASP	一下:N	推薦:Vt	菜:N	
+裡面:N	的:T	店員:N	看:Vt	我:N	在:P	外面:N	晃來晃去:Vi	的:T	
+就:ADV	出來:Vi	問:Vt	我:N	是:Vt	不:ADV	是:Vt	有:Vt	訂位:Nv	要不要:ADV	先:ADV	進去:Vi	吹:Vt	冷氣:N	
+真的:ADV	很:ADV	貼心:Vi	
+不過:C	進來:Vi	後:POST	發現:Vt	....:ETCCATEGORY	這裡:N	一點:DET	也:ADV	不:ADV	像:P	賣:Vt	台菜:N	的:T	
+比較:ADV	像:Vt	美式:A	餐廳:N	吧:T	
+紅:Vi	磚牆:N	的:T	設計:N	掛:Vt	了:ASP	一些:DET	美式:A	的:T	掛:Vt	飾:Vt	
+我們:N	的:T	座位:N	被:P	安排:Vt	在:P	二樓:N	
+上樓:Vi	前:POST	看到:Vt	這裡:N	的:T	一:DET	小:Vi	區塊:N	
+感覺:Vt	比較:ADV	像:Vt	在:P	咖啡廳:N	裡:N	出現:Vi	的:T	桌椅:N	吶:T	
+這:DET	是:Vt	我們:N	今天:N	用餐:Vi	的:T	包廂:N	
+可以:ADV	盡情:ADV	吵鬧:Vi	講:Vt	八卦:N	也:ADV	不:ADV	怕:Vt	吵到:Vt	其他:DET	客人:N	
+而且:C	桌子:N	有:Vt	轉盤:N	真的:ADV	很:ADV	方便:Vi	
+帶有:Vt	復古:Vt	美式:A	風格:N	的:T	風報:N	
+因為:C	大家:N	都:ADV	還:ADV	沒:ADV	到:Vt	所以:C	把:P	包包:N	放:Vt	在:P	包廂:N	內:N	後:POST	就:ADV	自己:N	拿:Vt	著:ASP	相機:N	到處:ADV	拍照:Vi	
+人:N	陸續:ADV	到齊:Vi	後:POST	就:ADV	開始:Vt	點菜:Vi	囉:T	
+Menu:FW	雖然:C	只是:C	A:FW	4:DET	紙:M	護本:N	
+不過:C	手工:N	做:Vt	的:T	讓:Vt	每:DET	本:M	封面:N	都:ADV	點:Vt	小小:Vi	的:T	不:ADV	一樣:Vi	
+打開:Vt	Menu:FW	發現:Vt	Foodies:FW	饕客:N	創意:N	台菜:N	菜色:N	超:Vt	多:Vi	的:T	
+不只:ADV	有:Vt	台式:A	料理:N	、:PAUSECATEGORY	也:ADV	有:Vt	西式:A	料理:N	
+實在:ADV	有點:ADV	不:ADV	知:Vt	要:ADV	從:P	哪:DET	點起:Vt	
+不過:C	Menu:FW	內:N	有:Vt	針對:P	人氣:N	菜色:N	做:Vt	記號:N	
+我們:N	就:ADV	從:P	這些:DET	開始:Vt	點起:Vt	
+紹興:N	水蓮:N	
+TWD:FW	$:FW	250:DET	
+我:N	個:M	人:N	很:ADV	愛:Vt	吃水:Vi	蓮:N	
+不過:C	市場:N	實在:ADV	不:ADV	好買:Vt	
+所以:C	每:DET	次:M	到:Vt	外面:N	用餐:Vi	時:POST	看到:Vt	有:Vt	水:N	蓮:N	必:ADV	點:Vt	
+水蓮:N	本身:N	就:ADV	是:Vt	帶:Vt	了:ASP	點:M	土味:N	的:T	青菜:N	
+有:Vt	些:M	人:N	可能:ADV	會:ADV	覺得:Vt	生生:Vt	怕怕:Vi	的:T	
+但:C	這兒:N	料理:Vt	的:T	土味:N	不會:ADV	很:ADV	重:Vi	
+大概:ADV	是:Vt	有加:ADV	紹興:N	的:T	原因:N	有:Vt	把:P	味道:N	壓掉:Vt	一些:DET	
+宮保:N	雞丁:N	
+TWD:FW	$:FW	260:DET	
+雞肉:N	吃起來:ADV	不會:ADV	太:ADV	柴:N	還:ADV	蠻:ADV	嫩:Vi	的:T	
+味道:N	很:ADV	夠:Vi	超:Vt	下:Vt	飯:N	
+其實:ADV	每:DET	次:M	點:N	宮保:N	雞丁:N	我:N	最愛:N	的:T	是:Vt	乾:Vi	辣椒:N	和:C	花生米:N	
+結果:ADV	這:DET	盤:M	每:DET	次:M	繞到:Vt	我:N	面前:N	我:N	都:ADV	一直:ADV	在:P	挾:Vt	這:DET	兩樣:Vi	
+蒜味:N	飯:N	
+TWD:FW	$:FW	150:DET	
+蒜:N	與:C	白飯:N	炒:Vt	在一起:Vi	
+看起來:ADV	很:ADV	簡單:Vi	不起眼:Vi	
+但:C	吃起來:ADV	很:ADV	香:Vi	
+下:DET	次:M	也:ADV	來:ADV	請:Vt	老爸:N	在:P	家:N	試試:Vt	
+麻婆豆腐:N	
+TWD:FW	$:FW	200:DET	
+原本:ADV	只有:ADV	點:Vt	蒜香:N	飯:N	
+但:C	這:DET	道:M	菜:N	上來:Vi	後:POST	一:DET	夥:M	人:N	馬上:ADV	加:Vt	點:M	白飯:N	
+我:N	看:Vt	每:DET	個:M	人:N	都:ADV	扒:Vt	了:ASP	兩:DET	、:PAUSECATEGORY	三:DET	碗:M	飯:N	
+今天:N	的:T	菜:N	真的:ADV	都:ADV	很:ADV	下:Vt	飯:N	
+不過:C	
+向來:ADV	吃:Vt	很:ADV	辣:Vi	的:T	我:N	覺得:Vt	這:DET	有點:ADV	不:ADV	夠:ADV	辣:Vi	
+但:C	相對:Vi	的:T	也:ADV	比較:ADV	適合:Vi	一般人:N	的:T	口味:N	
+金沙:N	蝦仁:N	
+TWD:FW	$:FW	360:DET	
+蝦仁:N	裏:N	薄:Vi	粉:N	油炸:Nv	後:POST	再:ADV	與:P	鹹蛋:N	黃:N	一同:ADV	拌炒:Vt	
+又:ADV	是:Vt	一:DET	道:M	很:ADV	下:Vt	飯:N	的:T	菜:N	
+蝦仁:N	很:ADV	大:Vi	顆:M	這:DET	道:M	很:ADV	受:Vt	歡迎:Vt	
+等:P	我:N	想:Vt	吃:Vt	第二:DET	顆:M	時:POST	居然:ADV	已經:ADV	空:Vt	了:ASP	
+香鬆杏:N	鮑:N	菇:N	
+TWD:FW	$:FW	220:DET	
+這:DET	道:M	上來:Vi	時:POST	大家:N	還:ADV	在:P	想:Vt	
+是:Vt	送:Vt	錯菜:N	了:T	嗎:T	
+印象:N	中:POST	沒有點:N	這:DET	個:M	啊:T	
+大家:N	都:ADV	以為:Vt	是:Vt	鹹豬肉:N	之類:POST	的:T	菜:N	
+吃:Vt	了:ASP	才:ADV	發現:Vt	原來:ADV	是:Vt	杏:N	鮑:N	菇:N	
+杏鮑:N	外面:N	裏:N	了:ASP	一:DET	層:M	粉:N	、:PAUSECATEGORY	外面:N	沾:Vt	有:Vt	芝麻:N	再:ADV	下鍋:Vi	油炸:Vt	
+切片:N	後:POST	再:ADV	擠上:Vt	美:N	奶滋:N	
+杏:N	鮑:N	菇:N	的:T	水份:N	都:ADV	有:Vt	被:P	完整:Vi	鎖:Vt	在:P	裡面:N	
+個:M	人:N	覺得:Vt	還:ADV	蠻:ADV	特別:Vi	的:T	
+松露野菇燉飯:N	
+TWD:FW	$:FW	300:DET	
+同:DET	桌:M	友人:N	之前:POST	有:Vt	來:ADV	這:DET	用餐:Vi	過:ASP	
+一直:ADV	跟:P	我們:N	大家:N	推薦:Vt	這:DET	道:M	
+果然:ADV	好吃:Vi	
+菇蕈味:N	很:ADV	重:Vi	很:ADV	香:Vi	、:PAUSECATEGORY	搭配:Vt	上面:N	的:T	蒜片:N	
+超:Vt	
+好吃:Vi	的:T	
+個:M	人:N	大:Vi	推:Vt	
+白鯧:N	米粉湯:N	
+TWD:FW	$:FW	500:DET	
+白:Vi	鯧魚:N	切成:Vt	條:M	塊狀:N	炸:Vt	過:ASP	
+跟:P	芋頭:N	、:PAUSECATEGORY	蛋皮:N	、:PAUSECATEGORY	蒜油:N	一起:ADV	下去:Vi	煮:Vt	
+湯頭:N	很:ADV	鮮美:Vi	就:ADV	看:Vt	大家:N	一直:ADV	在:P	裝:Vt	湯:N	
+米粉:N	會:ADV	吸:Vt	湯:N	當:P	大家:N	還:ADV	在:P	講:Vt	要:ADV	吃:Vt	快:Vi	一點:ADV	時:POST	、:PAUSECATEGORY	不要:ADV	只:ADV	顧:Vt	喝:Vt	湯:N	不:ADV	吃:Vt	米粉:N	時:POST	
+服務生:N	就:ADV	拿:Vt	高湯:N	進來:Vi	加:Vt	湯:N	
+然後:ADV	就:ADV	看:Vt	大家:N	又:ADV	在:P	瘋狂:Vi	裝:Vt	湯:N	喝:Vt	XD:FW	
+蕃茄:N	肉醬:N	排骨湯:N	
+TWD:FW	$:FW	800:DET	
+這:DET	菜名:N	害:Vt	我:N	一直:ADV	跟:P	義大利麵:N	的:T	蕃茄:N	肉醬:N	聯想:N	在一起:Vi	
+猜想:Vt	會不會:ADV	很:ADV	濃:Vi	很:ADV	膩:Vi	
+上桌:Vi	後:POST	看到:Vt	這:DET	紅通通:Vi	的:T	湯:N	原本:ADV	有點:ADV	興趣缺缺:Vi	
+但:C	旁邊:N	的:T	人:N	一直:ADV	稱讚:Vt	好喝:Vi	
+就:ADV	先:ADV	裝:Vt	一:DET	小:Vi	碗:N	試試:Vt	
+發現:Vt	這:DET	味道:N	和:C	預期:N	的:T	完全:ADV	不:ADV	一樣:Vi	
+有:Vt	蕃茄:N	自然:Vi	的:T	香甜:Vi	氣味:N	、:PAUSECATEGORY	但:C	又:ADV	沒有:Vt	肉醬:N	給:Vt	人:N	油膩:Vi	的:T	感覺:N	
+喝:Vt	起來:ASP	意外:N	清爽:Vi	
+裡面:N	還:ADV	有:Vt	煮:Vt	的:T	軟:Vi	爛:Vi	的:T	排骨:N	
+原本:ADV	覺得:Vt	最:ADV	不:ADV	感興趣:Vi	的:T	沒:ADV	想到:Vt	是:Vt	整頓:Vt	吃下來:Vi	最:ADV	喜歡:Vt	的:T	一:DET	道:M	
+我:N	一:DET	個:M	人:N	就:ADV	喝:Vt	了:ASP	四:DET	、:PAUSECATEGORY	五:DET	碗:M	湯:N	
+Menu:FW	上:N	有:Vt	寫:Vt	
+這:DET	道:M	需:ADV	等待:Vt	約:ADV	30:DET	分鐘:M	
+不過:C	湯:N	通常:ADV	是:Vt	最後:N	喝:Vt	所以:C	也:ADV	沒:ADV	差:Vi	
+不過:C	這:DET	湯:N	真的:ADV	蠻:ADV	大鍋:N	的:T	
+我們:N	還:ADV	在:P	討論:Vt	如果:C	喝:Vt	不:ADV	完:Vi	要:ADV	打包:Vi	回家:Vi	煮:Vt	麵:N	
+但:C	
+大家:N	真的:ADV	很:ADV	會:ADV	吃:Vt	
+最後:N	根本:ADV	沒:ADV	剩:Vt	多少:DET	
+整體:N	來:ADV	說:Vt	
+Foodies:FW	饕客:N	創意:N	台菜:N	是:Vt	一:DET	個:M	還:ADV	不錯:Vi	的:T	聚餐:Nv	地點:N	
+很少:ADV	看到:Vt	有:Vt	餐廳:N	會:ADV	同時:N	提供:Vt	台菜:N	、:PAUSECATEGORY	義大利麵:N	、:PAUSECATEGORY	燉:Vt	飯:N	、:PAUSECATEGORY	排餐:N	
+等:POST	不同:Vi	選項:N	
+想:Vt	吃:Vt	中式:A	、:PAUSECATEGORY	西式:A	都:ADV	有:Vt	
+如果:C	是:Vt	家族:N	聚會:N	也:ADV	能:ADV	一:DET	次:M	滿足:Vt	長輩:N	和:C	小朋友:N	的:T	餐飲:N	需求:N	
+--:DASHCATEGORY	：:COLONCATEGORY	：:COLONCATEGORY	Yoona's27seconds:FW	：:COLONCATEGORY	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	yuuka0414.pixnet.net/blog:FW	--:DASHCATEGORY	

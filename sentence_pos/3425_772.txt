@@ -1,0 +1,70 @@
+bubbleting:FW	(:PARENTHESISCATEGORY	囧囧:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	，:COMMACATEGORY	天吉屋:N	，:COMMACATEGORY	天丼:N	專賣店:N	，:COMMACATEGORY	炸:Vt	物大:N	集合:Vt	
+Fri:FW	
+Aug:FW	
+15:DET	
+00:DET	::COLONCATEGORY	33:DET	::COLONCATEGORY	02:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	天吉:N	屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	5月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	4:DET	段:M	216巷:N	27弄:N	10:DET	號:M	(:PARENTHESISCATEGORY	內外:N	標題:N	皆:ADV	請:Vt	附上:Vt	地區:N	！:EXCLAMATIONCATEGORY	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27213328:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	350:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	天吉雙品:N	
+官網:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	具:Vt	購物:Nv	功能:N	之:T	官網:N	、:PAUSECATEGORY	店家:N	臉書:N	粉絲團:N	帳號:N	請:Vt	勿:ADV	附上:Vt	，:COMMACATEGORY	違者:N	刪:Vt	文:N	不:ADV	另:DET	通知:N	):PARENTHESISCATEGORY	
+網誌:N	有:Vt	圖:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bubbleting.pixnet.net/blog/post:FW	/:FW	185385786:DET	
+這:DET	次:M	用餐:Vi	是:Vt	在:P	忠孝店:N	
+就:ADV	在:P	很多:DET	美食:N	的:T	東區:N	巷弄:N	內:N	
+裡面:N	有:Vt	ㄧ:N	些:M	座位:N	圍繞:Vt	著:ASP	吧檯:N	
+特別:Vi	有:Vt	日式:A	餐廳:N	的:T	感覺:N	
+其他:DET	座位:N	則:ADV	是:Vt	以:P	4:DET	人:N	座:N	居多:Vi	
+用餐:Vi	前:POST	先:ADV	送上:Vt	養生:Vi	牛蒡茶:N	
+每:DET	人:N	有:Vt	一:DET	份:M	小小:Vi	盒:N	的:T	沙拉:N	
+我:N	自己:N	是:Vt	蠻:ADV	喜歡:Vt	這:DET	個:M	小:Vi	份量:N	的:T	啦:T	
+先:ADV	送上:Vt	的:T	是:Vt	天:M	吉:Vi	烏龍:N	定食:Vt	$:FW	350:DET	
+一:DET	大:Vi	碗:M	的:T	讚岐:N	烏龍麵:N	
+炸:Vt	物:N	另外:ADV	裝:Vt	一:DET	盤:M	
+裡面:N	有:Vt	炸:Vt	蝦:N	3:DET	尾:M	、:PAUSECATEGORY	白身魚:N	、:PAUSECATEGORY	透抽:N	
+地瓜:N	、:PAUSECATEGORY	茄子:N	、:PAUSECATEGORY	青椒:N	、:PAUSECATEGORY	溫泉蛋:N	
+而:C	我:N	自己:N	點:Vt	的:T	是:Vt	天:M	吉雙品:N	$:FW	350:DET	
+內容:N	是:Vt	一:DET	碗:M	小:Vi	天:M	丼加:N	小:Vi	的:T	讚岐:N	烏龍麵:N	
+天丼:N	部份:DET	鋪:Vt	著:ASP	滿滿:Vi	的:T	炸物:N	
+裡面:N	有:Vt	炸:Vt	蝦:N	2:DET	尾:M	、:PAUSECATEGORY	白身魚:N	、:PAUSECATEGORY	透抽:N	
+地瓜:N	、:PAUSECATEGORY	茄子:N	、:PAUSECATEGORY	青椒:N	、:PAUSECATEGORY	溫泉蛋:N	
+炸:Vt	蝦:N	部份:DET	
+麵衣:N	不會:ADV	很:ADV	厚:Vi	
+隱約:ADV	還:ADV	看:Vt	得到:Vt	蝦肉:N	
+蝦肉:N	蠻:ADV	Q:FW	彈:Vt	的:T	
+白身魚:N	的:T	部份:DET	
+不:ADV	知:Vt	為何:ADV	吃起來:ADV	有點:ADV	不:ADV	像:Vt	魚肉:N	
+可能:ADV	是:Vt	口感:N	有點:ADV	彈:Vt	XD:FW	
+地瓜:N	我:N	很:ADV	愛:Vt	
+甜味:N	有:Vt	出來:Vi	
+加上:C	麵衣:N	、:PAUSECATEGORY	醬汁:N	
+甜甜:Vi	鹹鹹:Vi	超:Vt	愛:N	
+溫泉:N	蛋:N	的:T	部份:DET	很:ADV	驚艷:Vi	
+不只:ADV	外表:N	有:Vt	炸:Vt	的:T	香氣:N	
+裡面:N	還:ADV	保有:Vt	半熟:Vi	的:T	蛋:N	汁:N	
+我:N	平常:N	是:Vt	有點:ADV	怕:Vt	沒有:Vt	熟:Vi	的:T	蛋白:N	
+但:C	這:DET	個:M	炸:Vt	過:ASP	的:T	溫泉:N	蛋:N	
+熟度:N	完全:ADV	正中:Vt	我:N	心:N	
+飯量:N	我:N	覺得:Vt	還:ADV	蠻:ADV	適合:Vi	女生:N	的:T	
+男生:N	可能:ADV	會:ADV	覺得:Vt	偏少:Vi	
+淋:Vt	上:POST	為:Vt	鹹:Vi	甜:Vi	的:T	醬汁:N	
+很:ADV	下:Vt	飯:N	
+點雙品:N	就:ADV	是:Vt	為了:P	這:DET	個:M	小:Vi	碗:N	的:T	讚岐:N	烏龍麵:N	
+我:N	為了:P	它:N	放棄:Vt	沒:Vt	點:DET	天:M	吉丼:N	3:DET	隻:M	炸:Vt	蝦:N	
+還好:ADV	沒:ADV	讓:Vt	我:N	失望:Vi	
+湯頭:N	算是:Vt	清爽:Vi	但:C	又:ADV	不會:ADV	過:ADV	淡:Vi	
+麵條:N	只:ADV	能:ADV	說:Vt	QQQQQ:FW	
+咬:Vt	起來:ASP	很:ADV	有:Vt	存在感:N	
+而且:C	搭配:Vt	著:ASP	烏龍麵:N	
+也:ADV	不會:ADV	覺得:Vt	只有:ADV	單:ADV	吃:Vt	炸:Vt	物:N	這麼:ADV	膩:Vi	喔:T	
+Channel:FW	
+囧:Vi	
+甜:Vi	南瓜:N	頻道:N	
+部落格:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bubbleting.pixnet.net/blog:FW	
+FB:FW	專頁:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/channelJJ:FW	

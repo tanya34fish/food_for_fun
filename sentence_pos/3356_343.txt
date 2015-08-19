@@ -1,0 +1,137 @@
+chuantina:FW	(:PARENTHESISCATEGORY	一:DET	朵:M	小:Vi	桃紅:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	や:FW	よ:FW	い:FW	軒:N	。:PERIODCATEGORY	日本:N	定食:Vt	登台:Vi	，:COMMACATEGORY	大推:Vt	漢堡:N	
+Sat:FW	
+Jul:FW	
+26:DET	
+09:DET	::COLONCATEGORY	20:DET	::COLONCATEGORY	18:DET	
+2014:DET	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	380815532:DET	
+彌生:N	軒:N	
+YAYOI:FW	/:FW	や:FW	よ:FW	い:FW	軒:N	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	7月:N	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	25118696:DET	店:N	址:N	：:COLONCATEGORY	台北市:N	中山區:N	南京東路:N	二段:N	97:DET	號:M	1樓:N	臉書:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/yayoitw:FW	最近:N	海外:N	美食:N	登台:Vi	的:T	餐廳:N	可是:C	一:DET	發:M	接著:Vt	一:DET	發:M	
+除:P	す:FW	き:FW	家:N	、:PAUSECATEGORY	明天:N	即將:ADV	開幕:Vi	的:T	添:Vt	好運:N	
+還:ADV	有:Vt	一:DET	間:M	就是:C	日本:N	定食:Vt	專賣店:N	や:FW	よ:FW	い:FW	軒:N	也:ADV	在:P	今天:N	隆重:Vi	登陸:Vt	台灣:N	囉:T	
+之前:N	看到:Vt	新聞:N	時:POST	就:ADV	越:ADV	越:ADV	欲:Vt	試:Vt	
+趁著:P	今天:N	下班:Vi	
+備:Vt	滿:ADV	十足:Vi	行動力:N	
+立馬:N	往:P	や:FW	よ:FW	い:FW	軒:N	出發:Vi	
+握拳:Vi	
+や:FW	よ:FW	い:FW	軒:N	座落:Vt	於:P	南京東路:N	上:N	
+鄰近:Vt	松江:N	南京:N	捷運站:N	
+約莫:ADV	步行:Vi	2:DET	
+3:DET	分鐘:M	即可:ADV	抵達:Vt	
+雖然:C	今天:N	下:Vt	著:ASP	雨:N	
+但:C	仍:ADV	不:ADV	減:Vt	我:N	的:T	戰鬥力:N	呀:T	
+不過:C	原:ADV	以為:Vt	會:ADV	出現:Vi	排隊:Vi	的:T	人潮:N	
+結果:ADV	是:Vt	店員:N	比:P	客人:N	多:DET	XD:FW	整:DET	個:M	空間:N	使用:Vt	大量:DET	的:T	木質:N	素材:N	
+看起來:ADV	高雅:Vi	且:C	富有:Vt	質感:N	
+桌:N	與:C	桌:N	之間:POST	保持:Vt	著:ASP	一定:A	距離:N	
+用:P	起:ASP	餐:N	來:ADV	頗為:ADV	舒適:Vi	
+而:C	桌:N	上:POST	最:ADV	吸睛:Vi	的:T	
+莫過於:Vt	這:DET	台:M	ipad:FW	了:T	
+雖然:C	服務生:N	會:ADV	給予:Vt	Menu:FW	參考:Vt	
+不過:C	點:Vt	餐:N	可是:C	全:DET	靠:P	這:DET	台:M	呦:b	
+在:P	裡面:N	可以:ADV	看到:Vt	全部:DET	菜色:N	
+而且:C	非常:ADV	貼心:Vi	的:T	備有:Vt	三:DET	種:M	語言:N	的:T	文字:N	說明:Vt	
+只:ADV	是:Vt	Order:FW	時:POST	要:ADV	特別:Vi	注意:Vt	
+因為:C	訂:Vt	單一:A	送出去:Vi	就:ADV	不能:ADV	更改:Vt	了:ASP	
+服務生:N	也:ADV	會:ADV	特別:Vi	跟:P	客人:N	再:ADV	叮嚀:Vt	這:DET	一:DET	次:M	
+但:C	別:ADV	看:Vt	我:N	形容:Vt	就:ADV	搞:Vt	得:T	很:ADV	緊張:Vi	
+其實:ADV	操作:Vt	還:ADV	是:Vt	很:ADV	簡單:Vi	：:COLONCATEGORY	
+花:Vt	了:ASP	一點:DET	時間:N	把:P	所有:DET	菜色:N	拍:Vt	上來:Vi	給:Vt	大家:N	參考:Vt	
+最:ADV	便宜:Vi	的:T	價格:N	是:Vt	定食類:N	的:T	260:DET	大洋:N	
+高:Vi	則:ADV	到:P	近:DET	500:DET	元:M	都:ADV	有:Vt	
+再:ADV	加上:Vt	服務費:N	
+老實說:ADV	其實:ADV	並:ADV	不:ADV	算:Vt	便宜:Vi	
+不過:C	它:N	的:T	餐點:N	有:Vt	好幾:DET	樣:M	都:ADV	有:Vt	吸引到:Vt	我:N	
+難不成:ADV	是:Vt	圖片:N	拍:Vt	得:T	太:ADV	誘人:Vi	嗎:T	
+&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+而且:C	選擇:Vt	也:ADV	很多:Vi	呢:T	
+佐料:N	放置:Vt	了:ASP	醬油:N	、:PAUSECATEGORY	七:DET	味:M	粉:N	
+精美:Vi	的:T	器皿:N	
+看起來:ADV	有:Vt	種:M	高級:Vi	的:T	FU:FW	
+鐵板:N	照:P	燒:Vt	漢堡:N	肉定:N	食:Vt	
+NT:FW	.:PERIODCATEGORY	360:DET	元:M	
+在:P	到:Vt	や:FW	よ:FW	い:FW	軒:N	之前:POST	我:N	就:ADV	已經:ADV	做好:Vt	功課:N	了:T	
+這:DET	道:M	漢堡:N	排:Vt	聽說:Vt	是:Vt	店家:N	的:T	招牌:N	兼:Vt	人氣:N	
+所以:C	在:P	點餐:N	時:POST	我:N	也:ADV	沒:Vt	什麼:DET	考慮:Vt	
+直接:Vi	點:Vt	了:ASP	這:DET	份:M	定食:Vt	
+然後:ADV	按:P	確定:Vt	
+除了:P	主餐:N	漢堡:N	排:Vt	
+一:DET	旁:N	還:ADV	有:Vt	米飯:N	、:PAUSECATEGORY	沙拉:N	及:C	味噌湯:N	
+份量:N	我:N	想:Vt	是:Vt	比較:ADV	適合:Vi	女孩兒:N	食用:Vt	
+如果:C	不:ADV	續:Vt	白飯:N	
+大胃王:N	根本:ADV	只是:ADV	塞:Vt	牙縫:N	來著:T	XD:FW	煎:Vt	得:T	赤赤:Vi	的:T	漢堡肉:N	
+厚度:N	沒:ADV	想像:Vt	中:POST	厚實:Vi	
+不過:C	美味度:N	可是:C	讓:Vt	人:N	齒頰留:N	香:Vi	
+好吃:Vi	得:T	很:ADV	呢:T	
+淋上:Vt	隨:P	餐:N	附上:Vt	的:T	醬油:N	
+賣:Vt	相:ADV	又:ADV	更:ADV	誘人:Vi	了:T	
+才:ADV	吃:Vt	第一:DET	口:M	
+漢堡:N	排:Vt	中:POST	的:T	肉汁:N	馬上:ADV	溢滿:Vt	整:DET	個:M	舌尖:N	
+完全:ADV	是:Vt	Juicy:FW	到:P	不行:Vi	
+肉質:N	介於:Vt	紮實:Vi	與:C	鬆軟:Vi	之間:POST	
+我:N	覺得:Vt	它:N	比較:ADV	厲害:Vi	的:T	是:Vt	
+肥:Vt	與:C	瘦:Vi	的:T	比例:N	拿捏:Vt	得:T	恰到好處:Vi	
+有:Vt	瘦肉:N	的:T	咀嚼感:N	
+卻:ADV	又:ADV	不失:Vt	肥肉:N	的:T	豐脥:N	油脂:N	
+雖然:C	鹹度:N	偏:ADV	高:Vi	
+但:C	還是:ADV	完全:ADV	征服:Vt	我:N	的:T	味蕾:N	呀:T	
+拿來:Vt	當:P	薯條:N	的:T	配菜:N	就:ADV	先:ADV	跳過:Vt	
+因為:C	太:ADV	乾:Vi	柴:N	
+立馬:N	出局:Vi	XD:FW	生菜:N	的:T	菜味:N	有點:ADV	重:Vi	
+醬汁:N	感覺:N	混入:Vt	油醋:N	及:C	千:DET	島:N	
+酸度:N	高:Vi	卻:ADV	又:ADV	比:P	油:N	醋:N	更:ADV	有:Vt	味道:N	
+這:DET	個:M	白飯:N	可就:ADV	要:ADV	好好:Vi	來:ADV	介紹:Vt	一下:N	了:T	
+它:N	可是:C	大:Vi	有:Vt	來頭:N	的:T	
+從:P	日本:N	坐:Vi	飛機:N	過來:Vi	有名:Vi	的:T	金芽米:N	
+怎:ADV	感覺:Vt	它:N	都:ADV	在:P	發亮:Vi	了:T	&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+不得不:ADV	說:Vt	這:DET	個:M	金芽米:N	真是:ADV	好吃:Vi	
+其實:ADV	單:ADV	吃:Vt	就:ADV	足以:Vt	讓:Vt	人:N	愛上:Vt	它:N	
+如果:C	想要:Vt	吃:Vt	粗飽:Vi	
+這邊:N	倒是:ADV	有:Vt	個:M	免費:Vi	無限:Vi	續:Vi	碗:N	的:T	服務:Nv	
+整:DET	個:M	就是:C	讓:Vt	你:N	吃到:Vt	爽:Vi	為止:POST	XD:FW	味噌湯:N	中:POST	添加:Vt	了:ASP	豆:N	皮條:N	、:PAUSECATEGORY	菠菜:N	及:C	海帶:N	芽:N	
+滋味:N	偏鹹:Vi	
+不過:C	味噌香:N	還:ADV	挺:ADV	重:Vi	的:T	
+牛肉:N	烏龍麵:N	
+NT:FW	.:PERIODCATEGORY	190:DET	元:M	
+比起:P	漢排:N	堡:N	
+這:DET	個:M	烏龍麵:N	相對:Vi	就:ADV	遜色:Vi	不少:Vi	
+滋味:N	只:ADV	能:ADV	說:Vt	一般:A	般:POST	
+上頭:N	了:ASP	溫泉蛋:N	
+我:N	相:ADV	是:Vt	它:N	最:ADV	大:Vi	的:T	亮點:N	
+老實說:ADV	要不是:C	我:N	吃:Vt	不:ADV	下:Vt	
+這:DET	個:M	烏龍:N	麵:N	其實:ADV	我:N	也:ADV	蠻:ADV	感興趣:Vi	的:T	
+不過:C	還好:ADV	我:N	的:T	堅持:Nv	是:Vt	對:Vi	的:T	XD:FW	回家:Vi	馬上:ADV	PO:FW	上:N	臉:N	書:N	跟:P	大家:N	分享:Vt	
+在:P	日本:N	吃:Vt	過:ASP	や:FW	よ:FW	い:FW	軒:N	的:T	大:Vi	濕:Vi	也:ADV	站出來:Vi	說:Vt	這:DET	間:M	不錯:Vi	
+不過:C	在:P	討論:Vt	一:DET	番:M	之後:POST	
+發現:Vt	它:N	在:P	台灣:N	的:T	價格:N	還:ADV	真是:ADV	貴:Vi	得:ADV	有:Vt	些:ADV	誇張:Vt	
+就:ADV	拿:Vt	鐵板:N	牛肉:N	組合:Vt	定食:Vt	來:ADV	說:Vt	
+在:P	日本:N	是:Vt	980:DET	円:b	
+約:ADV	330:DET	元:M	
+但:C	台灣:N	的:T	價格:N	竟然:ADV	要:ADV	490:DET	元:M	
+再:ADV	加:Vt	服務費:N	就:ADV	飆:Vi	到:P	550:DET	了:T	
+天:N	呀:T	
+好吃:Vi	是:Vt	好吃:Vi	
+但:C	也:ADV	太:ADV	貴:Vi	了:T	
+後來:N	我們:N	得:T	出:Vt	一:DET	個:M	結論:N	
+還是:C	sukiya:FW	比較:ADV	有:Vt	良心:N	這樣:Vi	XD:FW	
+延伸:Vi	閱讀:Vt	
+折:Vt	井:N	日本:N	料理:N	
+在:P	台灣:N	也:ADV	可以:ADV	吃到:Vt	日本:N	皇太子:N	結婚:Vi	時:POST	的:T	菜餚:N	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	80381305:DET	三田製:Vt	麵:N	所:ADV	
+日本:N	第一:DET	家:M	沾:Vt	麵:N	專賣店:N	
+彈:Vt	牙:N	好:Vi	滋味:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	94878940:DET	名古屋:N	台:N	所:ADV	
+充滿:Vt	濃厚:Vi	日式:A	家鄉味:N	的:T	美味:N	料理:Vt	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	80382262:DET	穗科手打:N	烏龍麵:N	
+清爽:Vi	Q:FW	溜:Vi	的:T	超:Vt	正點:Vi	冷:Vi	麵:N	
+好:ADV	好吃:Vi	呦:b	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	194851676:DET	丸:M	龜製:N	麵:N	
+日本:N	庶民:N	美食:N	
+台灣:N	首號店:N	隆重:Vi	開幕:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	194851676:DET	銀河:N	堂讚岐:N	烏龍麵:N	
+宛若:Vt	置身:Vt	於:P	江戶:N	時代:N	的:T	舊:Vi	時空:N	
+品嚐:Vt	現:N	打:Vt	現:N	做:Vt	的:T	道地:Vi	烏龍麵:N	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	319916930:DET	横浜:b	ち:FW	ゃ:FW	ん:FW	ぽ:FW	ん:FW	亭:N	
+來自:Vt	關東:N	
+不:ADV	是:Vt	拉麵:N	的:T	日本麵:N	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	362527259:DET	--:DASHCATEGORY	

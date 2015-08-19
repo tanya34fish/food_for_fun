@@ -1,0 +1,54 @@
+poltroon:FW	(:PARENTHESISCATEGORY	20:DET	公分:M	的:T	距離:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	彌生:N	軒:N	（:PARENTHESISCATEGORY	Yaiyo:FW	軒:N	）:PARENTHESISCATEGORY	
+Fri:FW	
+Aug:FW	
+22:DET	
+15:DET	::COLONCATEGORY	07:DET	::COLONCATEGORY	13:DET	
+2014:DET	
+2014:DET	/:FW	8:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	vikingbear.pixnet.net/blog/post:FW	/:FW	30309515:DET	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	25118696:DET	
+地址:N	::COLONCATEGORY	台北市:N	中山區:N	南京東路:N	二段:N	97:DET	號:M	1:DET	F:FW	
+YAYOI:FW	軒:N	等待:Vt	的:T	人數:N	比:P	想像:N	中:POST	要:ADV	少:Vi	
+點餐:N	的:T	方式:N	是:Vt	利用:Vt	IPAD:FW	
+直接:Vi	菜單:N	就:ADV	會:ADV	進入:Vt	廚房:N	
+本來:ADV	以為:Vt	是:Vt	為了:P	要:ADV	減少:Vt	人力:N	
+但:C	觀察:Vt	了:ASP	一下:N	
+依舊:ADV	要:Vt	帯位:N	
+送:Vt	餐:N	
+所以:C	可能:ADV	只是:ADV	為了:P	要:ADV	降低:Vt	送:Vt	錯:Vi	的:T	成本:N	吧:T	
+不過:C	第一:DET	次:M	利用:Vt	這:DET	種:M	方式:N	的:T	我:N	
+覺得:Vt	還:ADV	頗為:ADV	新奇:Vi	的:T	
+店員:N	會:ADV	送上:Vt	開水:N	
+如果:C	不:ADV	夠:Vi	喝:Vt	
+也:ADV	可以:ADV	按:P	IPAD:FW	上:N	的:T	呼叫:N	服務生:N	
+桌:N	上:N	還:ADV	有:Vt	醬油:N	跟:P	七:DET	味:M	粉:N	
+醬油:N	聞起來:ADV	鹹甜:Vi	鹹甜:Vi	的:T	
+算是:Vt	還:ADV	滿:Vt	日式:A	的:T	感覺:N	
+貝爾點:N	的:T	是:Vt	豪華:Vi	牛排:N	
+除了:P	主菜:N	外:POST	
+還:ADV	有:Vt	飯:N	
+味噌湯:N	
+沙拉:N	跟:P	漬物:N	
+白飯:N	滿:ADV	好吃:Vi	的:T	
+沙拉:N	份量:N	不少:Vi	
+芝麻:N	醬汁:N	還:ADV	不錯:Vi	
+主菜:N	部分:DET	有:Vt	漢堡肉:N	
+牛排:N	
+漢堡肉:N	吃起來:ADV	挺:ADV	多汁:Vi	的:T	
+加上:C	鹹:Vi	甜:Vi	的:T	醬油:N	個:M	人:N	吃:Vt	了:ASP	一口:ADV	覺得:Vt	不錯:Vi	
+不過:C	吃完:Vt	要:ADV	喝:Vt	味噌湯:N	
+覺得:Vt	味噌湯:N	有點:ADV	過:ADV	鹹:Vi	就:ADV	是:Vt	
+我:N	點:Vt	的:T	是:Vt	豪華:Vi	煮定:Vt	食:N	
+是:Vt	豬排:N	
+炸:Vt	蝦:N	跟:P	牛肉:N	
+蛋:N	煮:Vt	吃起來:ADV	味道:N	挺:ADV	不錯:Vi	的:T	
+不過:C	放久:Vt	了:ASP	炸:Vt	物:N	的:T	外皮:N	會:ADV	軟:Vi	嫩:Vi	
+基本:N	上:N	豬排:N	跟:P	炸:Vt	蝦:N	的:T	口感:N	都:ADV	還:ADV	ok:FW	
+這:DET	個:M	定:Vt	食:N	把:P	沙拉:N	換成:Vt	了:ASP	豆腐:N	
+所以:C	好像:ADV	纖維質:N	少:Vi	了:ASP	一點:DET	
+豆腐:N	也:ADV	比較:ADV	沒:Vt	味道:N	一點:DET	
+吃完:Vt	買單:Nv	
+依舊:ADV	是:Vt	利用:Vt	IPAD:FW	傳送:Nv	資料:N	
+滿:ADV	清楚:Vi	的:T	可以:ADV	知道:Vt	清單:N	
+也:ADV	滿:ADV	不:ADV	賴:Vt	的:T	

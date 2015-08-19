@@ -1,0 +1,42 @@
+GMCU(GMCU:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北:N	法式:A	餐廳:N	建議:Vt	
+Sun:FW	
+Aug:FW	
+24:DET	
+23:DET	::COLONCATEGORY	26:DET	::COLONCATEGORY	57:DET	
+2014:DET	
+請益:Vi	
+台北:N	法式:A	餐廳:N	建議:Vt	
+SunAug:FW	2423:DET	::COLONCATEGORY	26:DET	::COLONCATEGORY	572014:DET	
+禮拜:N	五:DET	是:Vt	我:N	的:T	生日:N	
+下:DET	禮拜:N	一:ADV	是:Vt	我:N	女友:N	生日:N	
+因:C	日期:N	接近:Vt	故:C	決定:Vt	一起:ADV	過:Vt	
+兩:DET	人:N	都:ADV	沒有:ADV	嘗試:Vt	過:ASP	法式:A	料理:N	
+故:C	想:Vt	請問:Vt	一下:N	有:Vt	吃:Vt	過:ASP	的:T	前輩:N	提供:Vt	一些:DET	意見:N	
+內心:N	有點:ADV	偏:Vt	安東廳:N	
+1:DET	.:PERIODCATEGORY	想:Vt	找:Vt	的:T	餐飲:N	類別:N	
+法式:A	料理:N	
+2:DET	.:PERIODCATEGORY	用餐:Vi	地區:N	
+台北市:N	
+3:DET	.:PERIODCATEGORY	每:DET	人:N	預算:N	
+新台幣:N	$:FW	3000:DET	-:DASHCATEGORY	3500:DET	元:M	/:FW	人:N	
+4:DET	.:PERIODCATEGORY	用餐:Nv	時段:N	
+a:FW	.:PERIODCATEGORY	晚餐:N	
+b:FW	.:PERIODCATEGORY	星期五:N	
+6:DET	點:M	
+5:DET	.:PERIODCATEGORY	用餐:Nv	人數:N	
+2:DET	人:N	
+6:DET	.:PERIODCATEGORY	查詢:Nv	精華區:N	及:C	板面:N	文章:N	後:POST	拿:Vt	不定:Vi	主意:N	的:T	候選:Nv	店家:N	
+1:DET	.:PERIODCATEGORY	巴黎廳:N	1930:DET	-:DASHCATEGORY	&:FW	gt:FW	
+與:P	安東廳:N	一樣:Vi	是:Vt	老店:N	
+但:C	裝潢:N	後:POST	感覺:N	氣氛:N	沒:ADV	那麼:ADV	好:Vi	
+2:DET	.:PERIODCATEGORY	安東廳:N	-:DASHCATEGORY	&:FW	gt:FW	
+目前:N	比較:ADV	想:Vt	去:Vt	這:DET	家:M	
+但:C	一直:ADV	查:Vt	不:ADV	到:Vt	正確:Vi	價位:N	
+擔心:Vt	破:Vt	預算:N	
+3:DET	.:PERIODCATEGORY	DELION:FW	
+4:DET	.:PERIODCATEGORY	STAY-&gt:FW	
+怕:Vt	踩到:Vt	雷:N	
+5:DET	.:PERIODCATEGORY	法式:A	派翠克:N	
+7:DET	.:PERIODCATEGORY	特殊:Vi	需求:N	
+氣氛:N	要:ADV	好:Vi	

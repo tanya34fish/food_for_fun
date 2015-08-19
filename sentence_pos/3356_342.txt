@@ -1,0 +1,98 @@
+Faberge:FW	(:PARENTHESISCATEGORY	你:N	的:T	大:Vi	Ｆ:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	LDTG_1789Cafe:FW	台北:N	_:FW	中正區:N	
+Sat:FW	
+Jul:FW	
+26:DET	
+09:DET	::COLONCATEGORY	09:DET	::COLONCATEGORY	17:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	1789:DET	CafebyCyrilleCour:FW	用餐:Nv	時間:N	：:COLONCATEGORY	Jun21st:FW	,:COMMACATEGORY	2014:DET	
+網誌板:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	?:QUESTIONCATEGORY	gid:FW	=:FW	478:DET	
+地址:N	：:COLONCATEGORY	台北市:N	仁愛路:N	二段:N	97:DET	-:DASHCATEGORY	1:DET	號:M	電話:N	::COLONCATEGORY	０２－３３２２２０８９:DET	價位:N	範圍:N	：:COLONCATEGORY	約:ADV	400:DET	元:M	
+美味度:N	參考:Vt	分數:N	為:Vt	4:DET	人:N	平均值:N	
+推薦:Vt	料理:N	：:COLONCATEGORY	檸檬:N	閃電:N	泡芙:N	::COLONCATEGORY	7.6:DET	分:M	粉紅:Vi	芭樂:N	泡芙:N	::COLONCATEGORY	7.6:DET	分:M	荔枝:N	覆盆子:N	泡芙:N	::COLONCATEGORY	7.6:DET	分:M	這:DET	是:Vt	一:DET	個:M	以:P	每週:N	拜訪:Vt	不同:Vi	餐廳:N	為:Vt	目標:N	的:T	活動:N	
+承蒙:P	大家:N	支持:Vt	
+正:ADV	往:P	第六:DET	年度:N	邁進:Vt	中:N	
+抱:Vt	著:ASP	提供:Vt	資訊:N	的:T	想法:N	
+我們:N	試:Vt	著:ASP	把:P	用餐:Vi	完:Vt	大家:N	的:T	心得:N	與:C	建議:N	PO:FW	上:N	food:FW	版:N	
+期望:Vt	讓:Vt	版友:N	在:P	選擇:Vt	餐廳:N	時:POST	能夠:ADV	多:Vi	一:DET	個:M	參考:N	
+總:ADV	評:Vt	::COLONCATEGORY	總和:N	評價:N	7:DET	分:M	餐廳:N	介紹:Vt	::COLONCATEGORY	
+以下:N	文章:N	由:P	團長:N	：:COLONCATEGORY	兔子:N	提供:Vt	
+店名:N	的:T	數字:N	1789:DET	是:Vt	法國:N	大:Vi	革命:Vi	開始:POST	的:T	那:DET	一:DET	年:M	
+人民:N	覺醒:Vi	打破:Vt	了:ASP	持續:Vt	數:DET	個:M	世紀:N	以來:POST	的:T	封建:N	、:PAUSECATEGORY	貴族:N	和:C	宗教:N	特權:N	
+許多:DET	廚師:N	開設:Vt	餐館:N	和:C	麵包店:N	
+一般:A	民眾:N	也:ADV	能:ADV	吃到:Vt	原本:ADV	只:ADV	有:Vt	貴族:N	才能:N	享有:Vt	的:T	美食:N	
+餐廳:N	只有:ADV	兩:DET	項:M	主打:Nv	::COLONCATEGORY	巧克力:N	和:C	Eclair:FW	
+Eclair:FW	是:Vt	法文:N	閃電:N	的:T	意思:N	
+中文:N	翻成:Vt	『:PARENTHESISCATEGORY	閃電:N	泡芙:N	』:PARENTHESISCATEGORY	
+倒:ADV	也:ADV	不:ADV	是:Vt	因為:C	那:DET	長長:Vi	的:T	形狀:N	
+畢竟:ADV	說到:Vt	閃電:N	形狀:N	我:N	只:ADV	想到:Vt	哈利:N	ｏ:FW	特:A	額頭:N	那:DET	一:DET	條:M	
+而是:C	19世紀:N	時:POST	一:DET	位:M	非常:ADV	厲害:Vi	的:T	廚師:N	叫:Vt	AntoninCareme:FW	將:P	一:DET	種:M	稱:Vt	之:N	為:Vt	Ducheses:FW	
+譯名:N	：:COLONCATEGORY	公爵:N	夫人:N	
+長:Vi	得:T	像:Vt	迷你版:N	的:T	泡芙:N	
+點心:N	改良:Nv	而:C	成:Vt	
+結果:ADV	這:DET	東東:N	一:DET	上市:Vi	大:Vi	受:P	歡迎:Vt	
+小姐:N	女士:N	們嗑掉:Vt	的:T	速度:N	快:ADV	如:P	閃電:N	而:C	得名:Vi	
+阿阿:Vi	我:N	懂:Vt	
+我:N	懂:Vt	這:DET	感覺:N	
+checkpoint:FW	::COLONCATEGORY	1789:DET	CafebyCyrilleCour:FW	1:DET	.:PERIODCATEGORY	店:N	內:N	無:Vt	刷卡:Nv	有:Vt	手:N	滑:Vi	可能:ADV	
+現金:N	要:ADV	帶:Vt	夠:Vi	
+2:DET	.:PERIODCATEGORY	需:ADV	預約:Vt	店:N	內:N	座位:N	不:ADV	多:Vi	
+如果:C	訂:Vt	了:ASP	6:DET	個:M	人:N	
+盡量:ADV	人數:N	要:ADV	到齊:Vi	
+推薦:Vt	料理:Vt	第一:DET	道:M	::COLONCATEGORY	檸檬:N	閃電:N	泡芙:N	推薦度:N	：:COLONCATEGORY	80.0:DET	%:M	美味度:N	：:COLONCATEGORY	7.6:DET	價格:N	：:COLONCATEGORY	130:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=478#d:FW	2641:DET	介紹:N	--:DASHCATEGORY	該:DET	店:N	招牌:N	之:T	一:DET	
+就算:C	其他:DET	口味:N	來來去去:Vi	
+這:DET	款:M	泡芙:N	永遠:ADV	在:P	保:Vt	冷:Vi	櫃:N	內:N	佔有:Vt	一席之地:N	
+奶油:N	帶:Vt	點:M	鹹味:N	的:T	檸檬:N	泡芙:N	
+檸檬:N	清香:Vi	宜人:Vi	
+優雅:Vi	的:T	鹹甜:Vi	交織:Vt	
+完全:ADV	好吃:Vi	
+如果:C	要點:N	兩:DET	個:M	以上:POST	建議:Vt	其中:DET	一:DET	個:M	可以:ADV	點:Vt	這:DET	款:M	
+ｂｙ:FW	兔子:N	評價:N	--:DASHCATEGORY	微酸:N	清甜:Vi	
+清爽:Vi	口感:N	
+─:FW	蘇打粉:N	就:ADV	是:Vt	單純:Vi	檸檬:N	口味:N	
+─:FW	Tracy:FW	推薦:Vt	料理:Vt	第二:DET	道:M	::COLONCATEGORY	粉紅:Vi	芭樂:N	泡芙:N	推薦度:N	：:COLONCATEGORY	70.0:DET	%:M	美味度:N	：:COLONCATEGORY	7.6:DET	價格:N	：:COLONCATEGORY	150:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=478#d:FW	2644:DET	介紹:N	--:DASHCATEGORY	香草:N	奶油:N	與:C	粉色:N	芭樂:N	果凍:N	與:C	開心果:N	的:T	共舞:Vi	
+再:ADV	搭配:Vt	瑪士卡彭:N	奶油:N	的:T	樂章:N	
+這:DET	道:M	是:Vt	所有:DET	泡:Vt	芙:b	裡:N	口味:N	層次:N	最:ADV	豐富:Vt	的:T	
+意外:Vt	好吃:Vi	
+不:ADV	甜:Vi	不:ADV	膩:Vi	且:C	體積:N	也:ADV	不:ADV	大:Vi	的:T	泡芙:N	好像:ADV	一:DET	次:M	吃:Vt	十:DET	條:M	都:ADV	沒:Vt	問題:N	阿:N	
+ｂｙＴｒａｃｙ:FW	評價:N	--:DASHCATEGORY	有沒有:ADV	像:Vt	火腿:N	奶油:N	羅勒葉:N	
+選用:Vt	紅心:N	芭樂:N	香味:N	─:FW	兔子:N	上:POST	呈現:Vt	更:ADV	多變:Vi	
+跟:P	荔枝:N	泡芙:N	都:ADV	是:Vt	嘗:Vt	鮮:Vi	必:ADV	點:Vt	
+會:ADV	想:Vt	令:Vt	人:N	續點:N	的:T	水果:N	類泡:N	芙:b	
+─:FW	Angelica:FW	推薦:Vt	料理:Vt	第三:DET	道:M	::COLONCATEGORY	荔枝:N	覆盆子:N	泡芙:N	推薦度:N	：:COLONCATEGORY	70.0:DET	%:M	美味度:N	：:COLONCATEGORY	7.6:DET	價格:N	：:COLONCATEGORY	150:DET	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid=478#d:FW	2642:DET	介紹:N	--:DASHCATEGORY	其實:ADV	泡芙:N	外皮:N	都:ADV	一模一樣:Vi	
+外在:N	裝飾:N	與:C	口味:N	的:T	創意:N	
+才:ADV	顯得:Vt	出泡芙:N	甜點:N	的:T	驚喜感:N	
+一:DET	進:M	門:N	就:ADV	被:P	小:Vi	雛菊:N	得:T	可愛:Vi	造型:N	吸引:Vt	
+小:Vi	雛菊:N	應該:ADV	是:Vt	用:P	Fondant:FW	所:ADV	製:Vt	
+紅色:N	覆盆子:N	有:Vt	jelly:FW	口感:N	
+內:N	餡:N	裡:N	卡式:A	達醬:N	搭配:Vt	荔枝:N	果粒:N	
+整體:N	吃:Vt	來:ADV	是:Vt	很:ADV	特別:Vi	的:T	好:Vi	滋味:N	
+ｂｙ:FW	蘇打粉:N	評價:N	--:DASHCATEGORY	水果:N	本色:N	滋味:N	
+─:FW	Angelica:FW	以下:N	為:P	本:DET	次:M	用餐:Vi	的:T	詳細:Vi	評分:Nv	內容:N	::COLONCATEGORY	
+評價:N	僅:ADV	供:Vt	參考:Vt	::COLONCATEGORY	滿:DET	分為:Vt	五:DET	顆:M	
+適合:Vi	朋友:N	聚餐:Vi	：:COLONCATEGORY	★:FW	★:FW	★:FW	適合:Vi	情侶:N	約會:Vi	：:COLONCATEGORY	★:FW	★:FW	☆:FW	適合:Vi	家庭:N	聚會:N	：:COLONCATEGORY	★:FW	★:FW	☆:FW	餐廳:N	氣氛:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	價格:N	划算:Vi	：:COLONCATEGORY	★:FW	★:FW	☆:FW	美味:Vi	滿意:Vt	程度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	
+就:ADV	該:DET	價位:N	而言:Vt	
+服務:Nv	品質:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	綜合:A	評價:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	再次:ADV	拜訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	推薦:Nv	朋友:N	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	本:DET	次:M	消費:N	金額:N	
+飲料:N	另:DET	計:N	
+：:COLONCATEGORY	每:DET	人:N	400:DET	元:M	
+4:DET	人:N	用餐:Vi	
+用餐:Vi	建議:Vt	事項:N	：:COLONCATEGORY	1:DET	.:PERIODCATEGORY	店:N	內:N	無:Vt	刷卡:Nv	有:Vt	手:N	滑:Vi	可能:ADV	
+現金:N	要:ADV	帶:Vt	夠:Vi	
+2:DET	.:PERIODCATEGORY	需:ADV	預約:Vt	店:N	內:N	座位:N	不:ADV	多:Vi	
+如果:C	訂:Vt	了:ASP	6:DET	個:M	人:N	
+盡量:ADV	人數:N	要:ADV	到齊:Vi	
+更多:DET	詳細:Vi	評價:N	
+含:Vt	所有:DET	用餐:Nv	朋友:N	回響:N	
+與:C	料理:N	照片:N	可:ADV	跳轉:Vt	網誌:N	好:Vi	讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.fbglife.com/food/1/Food_transition.php:FW	
+gid:FW	=:FW	478:DET	邀請:Vt	您:N	加入:Vt	一起:ADV	吃飯:Vi	的:T	朋友:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tinyurl.com/nrm3vfbonnecontinuation:FW	
+大:Vi	F:FW	--:DASHCATEGORY	":FW	一起:ADV	來:ADV	吃:Vt	個:M	飯:N	吧:T	
+":FW	":FW	嗯:T	
+":FW	":FW	我:N	相信:Vt	生活:N	會:ADV	變好:Vi	的:T	
+也許:ADV	寂寞:Vi	
+忙碌:Vi	
+但:C	我:N	相信:Vt	我們:N	可以:ADV	有:Vt	吃飯:Vi	的:T	空間:N	":FW	":FW	....:ETCCATEGORY	":FW	":FW	所以:C	我:N	創造:Vt	了:ASP	這:DET	個:M	團體:N	
+然後:ADV	繼續:Vt	下去:ASP	":FW	":FW	....:ETCCATEGORY	因為:C	人:N	都:ADV	需要:Vt	吃飯:Vi	的:T	朋友:N	
+":FW	":FW	因為:C	人:N	都:ADV	需要:Vt	一起:ADV	吃飯:Vi	的:T	朋友:N	":FW	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/f.life.plus:FW	--:DASHCATEGORY	

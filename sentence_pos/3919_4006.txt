@@ -1,0 +1,80 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	湛盧:N	咖啡:N	
+Tue:FW	
+Jan:FW	
+6:DET	
+15:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	48:DET	
+2015:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41672086:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	12:DET	
+星期日:N	晚上:N	與:C	友人:N	吃完:Vt	飯:N	
+按:P	慣例:N	找:Vt	家:N	咖啡館:N	坐坐:Vi	
+在:P	台北:N	生活:N	的:T	好處:N	就:ADV	是:Vt	
+咖啡店:N	特別:Vi	多:Vi	
+不用:ADV	特地:ADV	去:ADV	找:Vt	
+巷弄:N	隨便:Vi	繞:Vi	一:ADV	繞:Vi	都:ADV	有:Vt	咖啡店:N	
+在:P	大安:N	森林:N	公:N	
+園:N	附近:N	的:T	巷弄:N	一:ADV	繞:Vi	
+很:ADV	快:Vi	就:ADV	看到:Vt	一:DET	家:M	咖啡店:N	
+結果:ADV	是:Vt	頗:ADV	有:Vt	名氣:N	的:T	連鎖:A	咖啡店:N	
+湛盧:N	
+我:N	記得:Vt	以前:N	湛盧:N	好像:ADV	沒:Vt	那麼多:DET	家:M	
+印象:N	中:POST	是:Vt	在:P	台大:N	附近:N	的:T	一:DET	家:M	咖啡店:N	
+沒:ADV	想:Vt	
+到:P	現在:N	那麼多:DET	家:N	分店:N	
+這:DET	晚:M	我:N	來:Vi	的:T	是:Vt	大安:N	分店:N	
+店裡:N	有:Vt	非常:ADV	多:Vi	的:T	貝禮:N	斯:DET	奶酒:N	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	有:Vt	品牌:N	合作:Vi	
+不過:C	看看:Vt	菜單:N	
+的:T	
+確:ADV	很多:Vi	加:Vt	了:ASP	奶:N	酒:N	的:T	咖啡:N	
+此外:C	
+湛盧:N	是:Vt	家:N	很:ADV	適合:Vi	久:Vi	坐:Vi	的:T	咖啡店:N	
+有:Vt	幾:DET	張:M	專門:Vi	
+給:P	客人:N	使用:Vt	電腦:N	的:T	桌子:N	
+彷彿:Vt	學校:N	圖書館:N	或:C	K:FW	書:N	中心:N	那:DET	種:M	桌子:N	
+整:DET	個:M	很:ADV	有:Vt	來到:Vt	
+學校:N	念書:Vi	的:T	感覺:N	
+好不:ADV	像:Vt	咖啡店:N	阿:N	
+原味:N	拿:Vt	鐵:N	＄:FW	160:DET	
+湛盧:N	的:T	咖啡:N	也:ADV	不:ADV	便宜:Vi	
+單品:N	咖啡:N	200:DET	元:M	起跳:Vi	
+有:Vt	會員:N	的:T	話:N	會:ADV	便宜:Vi	一些:DET	
+點:Vt	了:ASP	一:DET	
+杯:N	拿:Vt	鐵:N	
+奶泡:N	綿密:Vi	略帶:Vt	甜味:N	
+咖啡豆:N	應該:ADV	是:Vt	中焙:Vt	以上:POST	
+沒:Vt	什麼:DET	酸味:N	
+倒是:ADV	有:Vt	
+點焦:N	香味:N	
+但:C	牛奶:N	的:T	溫度:N	掌控:Vt	的:T	不錯:Vi	
+混合:Vt	了:ASP	濃縮:Nv	咖啡:N	之後:POST	
+沖淡:Vt	苦味:N	添:Vt	了:ASP	
+一些:DET	甜味:N	
+雖說:C	咖啡:N	不:ADV	酸:Vi	
+但:C	在:P	咖啡液:N	滑過:Nv	舌頭:N	兩:DET	側:N	時:POST	
+還是:ADV	感覺:Vt	的:T	一點:DET	酸:Vi	
+香感:N	
+湛盧:N	咖啡:N	
+大安店:N	
+地址:N	：:COLONCATEGORY	台北市:N	新生南路:N	一段:N	161巷:N	2:DET	-:DASHCATEGORY	1:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27089828:DET	
+延伸:Vi	閱讀:Vt	：:COLONCATEGORY	
+食記:N	
+台北:N	KnutsenPetiteCafe:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41659714:DET	
+食記:N	
+台北:N	3:DET	
+coCafe:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41629288:DET	
+食記:N	
+高雄:N	書店:N	喫茶:Vi	一二三:DET	亭:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41512153:DET	
+食記:N	
+龍潭:N	年輕:Vi	的:T	老頭:N	咖啡館:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41544586:DET	
+食記:N	
+板橋:N	YoLoCafe:FW	有:Vt	樂:Vi	咖啡:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41540845:DET	
+一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	

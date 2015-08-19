@@ -1,0 +1,78 @@
+sorimachi:FW	18:DET	(:PARENTHESISCATEGORY	森:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山區:N	晴光:N	市場:N	--:DASHCATEGORY	八:DET	番:M	堂:N	日式:A	料理:N	
+Thu:FW	
+Jan:FW	
+8:DET	
+14:DET	::COLONCATEGORY	04:DET	::COLONCATEGORY	10:DET	
+2015:DET	
+2014年:N	12月:N	
+隱身:Vi	於:P	晴光:N	市場:N	附近:N	的:T	巷弄:N	裡:POST	，:COMMACATEGORY	
+周邊:N	眾多:Vi	小吃:N	餐廳:N	環繞:Vt	，:COMMACATEGORY	
+但:C	仍:ADV	能:ADV	每:DET	天:M	客人:N	絡繹不絕:Vi	的:T	上門:Vi	，:COMMACATEGORY	
+想必:ADV	有:Vt	能:ADV	留住:Vt	顧客:N	胃口:N	的:T	秘訣:N	。:PERIODCATEGORY	
+除了:P	菜單:N	上:N	的:T	固定:Nv	選項:N	，:COMMACATEGORY	
+每:DET	天:M	也:ADV	會:ADV	因為:C	進:Vt	的:T	新鮮:Vi	魚貨:N	不同:Vi	，:COMMACATEGORY	
+而:C	多:Vi	了:ASP	很多:DET	每日:N	特選:Vt	。:PERIODCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	ally701.pixnet.net/blog/post:FW	/:FW	403031308:DET	
+無:Vt	音樂:N	
+有:Vt	圖:N	真相:N	網誌:N	好讀:Vt	版:N	
+除了:P	部分:DET	魚貨:N	的:T	價位:N	會:ADV	有:Vt	浮動:Vi	外:POST	
+大致上:ADV	價位:N	都:ADV	1:DET	、:PAUSECATEGORY	200:DET	元:M	上下:POST	
+算是:Vt	十分:ADV	平價:N	
+隨:P	丼飯:N	附贈:Vt	的:T	味增湯:N	表現:Vt	一般:A	
+偏:ADV	甜:Vi	的:T	口感:N	
+如果:C	能:ADV	添加:Vt	點:M	小:Vi	魚:N	干:Vt	和:C	海帶:N	芽:N	
+相信:Vt	鮮味:N	能:ADV	跳脫:Vt	出來:Vi	
+和風:N	沙拉:N	當中:POST	的:T	蔬菜:N	十分:ADV	清新:Vi	
+吃:Vt	的:T	吃:Vt	鮮度:N	
+洋蔥:N	應有:A	泡:Vt	過:ASP	冰水:N	處理:Vt	
+保持:Vt	甜味:N	去除:Vt	了:ASP	多於:Vt	的:T	辛辣感:N	
+醬汁:N	酸甜:Vi	適中:Vi	
+非常:ADV	開胃:Vi	可口:Vi	
+大大:Vi	一:DET	碗:M	的:T	海鮮:N	烏龍麵:N	
+看似:Vt	份量:N	很多:DET	
+不過:C	湯:N	多:Vi	、:PAUSECATEGORY	料多:N	
+麵:N	的:T	分量:N	充其量:ADV	只:ADV	夠:Vi	一:DET	個:M	小:Vi	胃口:N	的:T	女生:N	
+但:C	整體:N	吃下來:Vi	
+還是:ADV	非常:ADV	有:Vt	飽足感:N	
+至少:ADV	還可以:ADV	有:Vt	胃:N	口吃:Vi	的:T	下:DET	其他:DET	的:T	餐點:N	
+烏龍麵:N	的:T	配料:N	下:POST	的:T	很:ADV	足:POST	
+除了:P	整:DET	顆:M	大大:Vi	的:T	生:Vt	干貝:N	之外:POST	
+還:ADV	有:Vt	蝦子:N	、:PAUSECATEGORY	花枝:N	、:PAUSECATEGORY	蛤蜊:N	、:PAUSECATEGORY	多:DET	種:M	魚片:N	和:C	牛:N	蒡:b	甜不辣:N	....:ETCCATEGORY	
+湯頭:N	很:ADV	鮮:Vi	甜:Vi	
+烏龍:N	麵:N	也:ADV	十分:ADV	有:Vt	嚼:Vt	勁:N	
+綜合:A	刺身丼:Vt	的:T	魚片:N	給:Vt	的:T	滿:DET	大:Vi	塊:M	厚實:Vi	的:T	
+油脂:N	的:T	表現:N	不:ADV	俗:Vi	
+入口:N	的:T	鮮度:N	也:ADV	算:Vt	甜:Vi	
+醋:N	飯:N	表現:Vt	一般:A	
+整體:N	不:ADV	算:Vt	太:ADV	驚艷:Vi	
+但:C	也:ADV	算:Vt	討喜:Vi	
+明:N	太子:N	雞翅:N	是:Vt	我:N	今天:N	最:ADV	愛:Vt	的:T	一:DET	道:M	
+雞翅烤:Vt	的:T	香香:Vi	酥酥:Vi	
+醬料:N	也:ADV	搭配:Vt	得:T	恰到好處:Vi	
+內裡:N	包覆:Vt	著:ASP	滿滿:Vi	的:T	明:Vi	太子:N	
+沒有:ADV	過份:Vi	的:T	死鹹:Vi	
+調和:Vi	的:T	穠纖:N	合度:Vi	
+十分:ADV	適中:Vi	
+鹽烤紅目鰱:N	的:T	火侯:N	也:ADV	拿捏:Vt	得:T	很:ADV	有:Vt	分寸:N	
+外皮:N	抹上:Vt	鹽烤:Vt	的:T	焦香:N	
+輕輕:Vi	敞開:Vt	
+魚肉:N	的:T	生熟度:N	控制:Vt	精準:Vi	
+不過:C	紅:Vi	目鰱:N	本身:N	就:ADV	屬:Vt	魚:N	肉質:N	比較:ADV	扎實:Vi	的:T	魚:N	種:Vt	
+吃:Vt	的:T	出:Vt	鮮味:N	
+也:ADV	不會:ADV	過:ADV	乾:Vi	過:ASP	硬:Vi	
+不:ADV	走進:Vt	巷子:N	內:N	仔細:Vi	找找:Vt	
+真的:ADV	還:ADV	滿:ADV	不:ADV	容易:Vi	發現:Vt	":FW	八:DET	番:M	堂:N	":FW	的:T	蹤影:N	
+整體:N	主打:Vt	新鮮:Vi	平價:N	
+雖:C	不至於:ADV	過於:ADV	驚艷:Vi	
+但:C	路經:Vt	此:DET	地:N	進去:Vi	嚐嚐:Vt	
+相信:Vt	不會:ADV	讓:Vt	你:N	感到:Vt	失望:Vi	
+八:DET	番:M	堂:N	
+電話:N	::COLONCATEGORY	
+02:DET	
+2597:DET	-:DASHCATEGORY	3283:DET	
+地址:N	::COLONCATEGORY	台北市:N	中山區:N	雙城街:N	8:DET	-:DASHCATEGORY	1:DET	號:M	
+附近:N	吃:Vt	甚麼:DET	
+【:PARENTHESISCATEGORY	食記:N	】:PARENTHESISCATEGORY	通:Vi	記:Vt	牛肉:N	粉麵:N	--:DASHCATEGORY	小鳥:N	胃:N	也:ADV	胃口:N	大開:Vt	
+【:PARENTHESISCATEGORY	食記:N	】:PARENTHESISCATEGORY	常青:N	餃子館:N	--:DASHCATEGORY	吃:Vt	的:T	是:Vt	懷舊:Vi	風情:N	
+【:PARENTHESISCATEGORY	食記:N	】:PARENTHESISCATEGORY	雙妹麥:N	--:DASHCATEGORY	甜品:N	也:ADV	要:ADV	養生:Vi	

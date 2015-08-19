@@ -1,0 +1,96 @@
+emilypigggg(pig:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	秋天:N	來:ADV	吃:Vt	暖呼呼:Vi	馥臨港式:N	火鍋:N	(:PARENTHESISCATEGORY	吃:Vt	到:P	飽:Vi	
+Thu:FW	
+Oct:FW	
+9:DET	
+11:DET	::COLONCATEGORY	40:DET	::COLONCATEGORY	53:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	馥臨港式:N	火鍋:N	
+消費:N	時間:N	：:COLONCATEGORY	103:DET	年:M	/:FW	10月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	基隆路:N	二段:N	128:DET	號:M	2樓:N	(:PARENTHESISCATEGORY	愛:Vt	貓園二館:N	旁:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2733:DET	-:DASHCATEGORY	8686:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	平日:N	17:DET	::COLONCATEGORY	00－:DET	凌晨:N	1:DET	::COLONCATEGORY	00:DET	，:COMMACATEGORY	週末:N	假日:N	11:DET	::COLONCATEGORY	30－15:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	成人:N	359:DET	+:FW	10:DET	%:M	服務費:N	，:COMMACATEGORY	小孩:N	180:DET	+:FW	10:DET	%:M	服務費:N	(:PARENTHESISCATEGORY	左右:POST	):PARENTHESISCATEGORY	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	菊花:N	露:Vt	酸梅湯:N	花雕:N	雞湯:N	底:POST	
+圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	alice000519.pixnet.net/blog/category:FW	/:FW	2930503:DET	
+夏:N	末:N	初秋:N	
+四:DET	季:N	如:P	夏:N	的:T	台灣:N	在:P	這:DET	幾:DET	天:M	的:T	夜晚:N	
+已經:ADV	稍稍:ADV	有:Vt	秋天:N	的:T	影子:N	了:T	
+於是:C	
+艾莉絲:N	覺得:Vt	可以:ADV	來:ADV	吃:Vt	點:M	火鍋:N	
+這:DET	次選:A	的:T	是:Vt	很:ADV	有名:Vi	的:T	馥臨港式:N	火鍋:N	
+吃:Vt	到:P	飽:Vi	
+話說:ADV	
+艾莉絲:N	已經:ADV	好幾:DET	個:M	月:N	沒:ADV	去:ADV	吃:Vt	火鍋:N	了:T	
+一:ADV	來:Vi	是:Vt	覺得:Vt	近:DET	幾:DET	年:M	來:POST	物價:N	一直:ADV	飆漲:Vi	
+很多:DET	艾莉絲:N	喜歡:Vt	吃:Vt	的:T	火鍋店:N	食材:N	來:ADV	越:ADV	少:Vi	
+越來越:ADV	不:ADV	新鮮:Vi	了:T	
+最近:N	艾莉絲:N	發現:Vt	馥:b	臨:ADV	是:Vt	少數:DET	新鮮:Vi	食材:N	又:ADV	不錯:Vi	價格:N	也:ADV	OK:FW	的:T	火鍋店:N	
+今天:N	來到:Vt	基隆路:N	這:DET	家:M	分店:N	
+馥林:N	的:T	招牌:N	湯頭:N	
+是:Vt	左邊:N	這:DET	味:M	花雕:N	雞鍋:N	底:POST	
+裡面:N	有:Vt	超級:A	多:Vi	雞肉:N	的:T	
+右邊:N	的:T	是:Vt	朋友:N	推薦:Vt	的:T	香菜:N	皮蛋:N	鍋:N	底:POST	
+香菜:N	皮蛋:N	聽起來:ADV	很:ADV	特別:Vi	
+我們:N	必須:ADV	要:ADV	抱:Vt	著:ASP	正面:N	好奇:Vi	的:T	心:N	
+去:ADV	嘗試:Vt	看看:Vt	XDDDD:FW	
+肉類:N	可以:ADV	無限:Vi	點:ADV	
+有:Vt	四五:DET	種:M	肉:N	可以:ADV	選擇:Vt	
+兩:DET	種:M	湯:N	底:POST	都:ADV	很:ADV	適合:Vi	涮:b	肉片:N	
+肉質:N	都:ADV	很:ADV	新鮮:Vi	喔:T	
+其他:DET	的:T	食材:N	也:ADV	都:ADV	是:Vt	自己:N	拿:Vt	
+種類:N	多樣:Vi	
+CP:FW	值:N	挺:ADV	高:Vi	^:FW	^:FW	
+右下:N	角:N	是:Vt	花枝丸:N	跟:P	蝦子丸:N	
+丸子:N	料:N	非常:ADV	實在:Vi	
+都:ADV	可以:ADV	吃:Vt	的:T	到:Vt	滿滿:Vi	紮實:Vi	的:T	花枝:N	和:C	蝦子:N	喔:T	
+前面:N	有:Vt	提到:Vt	花雕:N	雞:N	
+肉質:N	鮮嫩:Vi	Q:FW	彈:Vt	
+不:ADV	像:Vt	是:Vt	肉雞:N	
+重點:N	是:Vt	分量:N	很多:DET	
+到:P	最後:N	都:ADV	沒有:ADV	吃完:Vt	
+蒟蒻:b	跟:P	蔬菜:N	用:P	花雕:N	雞湯:N	底:POST	煮:Vt	味道:N	真的:ADV	好棒:Vi	
+香菜:N	皮蛋:N	的:T	鍋:N	底:POST	不:ADV	油:N	
+蔬菜:N	煮:Vt	過後:POST	
+都:ADV	會:ADV	帶:Vt	著:ASP	清香:Vi	
+感覺:N	熱量:N	就:ADV	少:Vi	了:ASP	一些:DET	
+朋友:N	們:N	一定:ADV	要:ADV	來:ADV	試試看:Vt	喔:T	
+介紹:Vt	一下:N	他們:N	特別:Vi	的:T	飲料:N	
+蜂蜜:N	菊花:N	露:Vt	和:C	酸梅汁:N	
+特調:N	的:T	菊花:N	露:Vt	喝:Vt	起來:ASP	有:Vt	獨特:Vi	的:T	口感:N	
+可以:ADV	解:Vt	油膩:Vi	
+喝完:Vt	整:DET	瓶:M	都:ADV	沒:Vt	問題:N	
+酸梅汁:N	跟:P	台灣:N	的:T	沒有:Vt	差:Vi	很多:DET	
+口味:N	比較:ADV	淡:Vi	一些:DET	
+還:ADV	有:Vt	艾莉絲:N	覺得:Vt	他們:N	的:T	調味料:N	也:ADV	很:ADV	不錯:Vi	
+特別:Vi	是:Vt	辣椒:N	
+只:ADV	加:Vt	了:ASP	一點點:DET	
+又:ADV	辣:Vi	又:ADV	麻:Vi	好幾:DET	秒鐘:M	
+今天:N	真的:ADV	吃:Vt	得:T	太:ADV	撐:Vi	好:Vi	滿足:Vt	
+減肥:Vi	明天:N	再:ADV	說:Vt	
+有:Vt	機會:N	大家:N	要:ADV	去:ADV	捧場:Vi	喔:T	
+商家:N	：:COLONCATEGORY	馥臨港式:N	火鍋:N	
+通化店:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	基隆路:N	二段:N	128:DET	號:M	2樓:N	
+愛:Vt	貓園二館:N	旁:N	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2733:DET	-:DASHCATEGORY	8686:DET	
+消費:N	方式:N	：:COLONCATEGORY	
+平日:N	17:DET	::COLONCATEGORY	00－:DET	凌晨:N	1:DET	::COLONCATEGORY	00:DET	
+成人:N	359:DET	+:FW	10:DET	%:M	服務費:N	
+小孩:N	180:DET	+:FW	10:DET	%:M	服務費:N	
+週末:N	假日:N	11:DET	::COLONCATEGORY	30－15:DET	::COLONCATEGORY	30:DET	
+成人:N	330:DET	+:FW	10:DET	%:M	服務費:N	
+小孩:N	165:DET	+:FW	10:DET	%:M	服務費:N	
+17:DET	::COLONCATEGORY	00－:DET	凌晨:N	1:DET	::COLONCATEGORY	00:DET	
+成人:N	359:DET	+:FW	10:DET	%:M	服務費:N	
+小孩:N	180:DET	+:FW	10:DET	%:M	服務費:N	
+身高:N	100－120:DET	公分:M	以:P	兒童:N	計算:Vt	
+用餐:Nv	時間:N	：:COLONCATEGORY	尖峰:A	時段:N	1.5:DET	個:M	小時:N	
+客滿:Vi	、:PAUSECATEGORY	候位:N	
+離峰:A	時段:N	3:DET	個:M	小時:N	
+晚間:N	九:DET	點:M	後:POST	
+假日:N	中午:N	吃:Vt	最:ADV	便宜:Vi	

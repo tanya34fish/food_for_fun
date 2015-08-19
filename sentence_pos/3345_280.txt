@@ -1,0 +1,215 @@
+ancom:FW	(:PARENTHESISCATEGORY	我:N	也:ADV	是:Vt	個:M	平凡人:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	八里:N	峇里:N	BALI:FW	水:N	岸:N	四:DET	季:N	景觀:N	餐廳:N	
+Wed:FW	
+Jul:FW	
+23:DET	
+17:DET	::COLONCATEGORY	27:DET	::COLONCATEGORY	48:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	峇里:N	水:N	岸:N	四:DET	季:N	景觀:N	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	.:PERIODCATEGORY	6.30:DET	
+地址:N	：:COLONCATEGORY	台北市:N	八里區:N	景觀:N	大道:N	39:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2619:DET	-:DASHCATEGORY	5258:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	一:DET	~:FW	四:DET	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+五:DET	~:FW	日:M	11:DET	::COLONCATEGORY	00:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1000:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	爐烤脆皮:N	雞腿:N	輕:Vi	挽:Vt	海:N	大蝦:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.waterfront.com.tw:FW	/:FW	
+無:Vt	音樂:N	圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/ancom/article:FW	/:FW	76325666:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	以下:N	純:Vi	文字版:N	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+托:Vt	陪:Vt	著:ASP	大:Vi	長官:N	們:N	出差:Vi	的:T	福:N	
+沒想到:ADV	好久:Vi	沒:Vt	來:Vi	的:T	八里:N	
+有:Vt	著:ASP	這麼:ADV	美麗:Vi	的:T	峇里島:N	風格:N	的:T	水:N	岸:N	餐廳:N	阿:N	
+峇里:N	水:N	岸:N	餐廳:N	是:Vt	隸屬於:Vt	水灣:N	餐廳:N	旗下:N	的:T	一:DET	個:M	分店:N	
+同事:N	
+跟:P	我:N	說:Vt	很:ADV	有名:Vi	的:T	時候:N	
+孤陋寡聞:Vi	如:P	我:N	...:ETCCATEGORY	還:ADV	真的:ADV	沒:ADV	聽:Vt	過:ASP	XD:FW	
+第一:DET	次:M	來:ADV	場勘:Vt	就:ADV	有:Vt	驚豔:Vi	到:P	
+這:DET	個:M	門面:N	也:ADV	太:ADV	飯店:N	了:T	點:ADV	
+純:Vi	白色:N	的:T	建築:N	
+看起來:ADV	就:ADV	很:ADV	美:Vi	
+餐廳:N	在:P	2樓:N	
+話:N	說:Vt	我:N	同事:N	很:ADV	想:Vt	紅:Vi	XDD:FW	
+1樓:N	有:Vt	拉拉:Vt	熊:N	專賣店:N	喔:T	
+門口:N	的:T	結帳:Nv	櫃檯:N	
+看起來:ADV	就:ADV	很:ADV	舒服:Vi	
+候:Vt	位:M	區:N	
+那:DET	個:M	盆子:N	很:ADV	有:Vt	來到:Vt	東南亞:N	的:T	感覺:N	XD:FW	
+外面:N	的:T	座位區:N	
+很:ADV	有:Vt	度假:Nv	風格:N	阿:N	
+坐:Vi	外面:N	這:DET	一:DET	排:M	
+可以:ADV	直接:Vi	看到:Vt	外面:N	的:T	淡水河:N	風景:N	喔:T	
+很:ADV	漂亮:Vi	
+不過:C	夏天:N	坐:Vi	這邊:N	要:ADV	有:Vt	會:ADV	很:ADV	熱:Vt	的:T	心理:N	準:ADV	就是了:Vi	^:FW	^:FW	":FW	...:ETCCATEGORY	因為:C	是:Vt	開放式:A	的:T	
+這:DET	就是:C	看出去:Vi	的:T	景色:N	囉:T	
+心曠神怡:Vi	
+很:ADV	漂亮:Vi	的:T	戶外區:N	
+這:DET	是:Vt	for:FW	戶外:N	婚禮:N	用:Vt	的:T	喔:T	
+建築:N	在:P	淺:Vi	池上:N	的:T	小:Vi	舞台:N	
+新人:N	可以:ADV	在:P	上面:N	接受:Vt	草皮:N	上:N	親友:N	的:T	祝福:N	
+配上:Vt	後面:N	的:T	景色:N	
+整:DET	個:M	很:ADV	浪漫:Vi	&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+這:DET	片:M	草皮:N	維護:Vt	的:T	也:ADV	很:ADV	好:Vi	
+可以:ADV	躺:Vi	在:P	上面:N	的:T	XD:FW	
+是:Vt	個:M	超:Vt	好:Vi	拍照:Vi	的:T	景點:N	啊:T	
+餐廳:N	大致上:ADV	分成:Vt	前後:DET	兩:DET	塊:M	
+因為:C	前面:N	長官:N	們:N	已經:ADV	坐滿:Vt	了:ASP	
+就:ADV	沒:ADV	多:ADV	拍:Vt	了:ASP	
+後面:N	還:ADV	有:Vt	一:DET	大:Vi	片:M	喔:T	
+座位:N	真的:ADV	算:Vt	很多:DET	
+據說:ADV	還:ADV	常常:ADV	客滿:Vi	呢:T	
+大量:DET	運用:Vt	色彩:N	鮮艷:Vi	的:T	簾子:N	跟:P	抱枕:N	
+讓:Vt	整:DET	個:M	餐廳:N	看起來:ADV	很:ADV	活潑:Vi	
+也:ADV	讓:Vt	人:N	很:ADV	放鬆:Vt	
+真的:ADV	很:ADV	有:Vt	峇里島:N	的:T	fu:FW	阿:N	
+雖然:C	我:N	沒:ADV	去:Vt	過:ASP	...:ETCCATEGORY	Q_Q:FW	
+Menu:FW	
+我:N	個:M	人:N	很:ADV	愛:Vt	這:DET	個:M	menu:FW	設計:N	::COLONCATEGORY	P:FW	
+因為:C	時間:N	關係:N	
+我:N	就:ADV	沒有:Vt	一:DET	頁:M	一:DET	頁:M	拍:Vt	囉:T	
+有:Vt	興趣:N	的:T	可以:ADV	上:Vt	官網:N	看:Vt	
+我:N	只:ADV	能:ADV	說:Vt	...:ETCCATEGORY	真:Vi	的:T	要價:Vt	不:ADV	斐阿:N	^:FW	^:FW	|:FW	|:FW	|:FW	...:ETCCATEGORY	
+最:ADV	便宜:Vi	的:T	前:DET	菜:N	都:ADV	要:ADV	380:DET	
+主餐:N	一:DET	套:M	都:ADV	要:ADV	800:DET	元:M	以上:POST	
+加完:Vt	一成:DET	服務費:N	基本:N	上:POST	要:ADV	逼近:Vt	1000:DET	了:T	
+平常:N	自己:N	要:ADV	來:ADV	吃:Vt	...:ETCCATEGORY	真的:ADV	要:ADV	捏捏:Vt	荷包:N	阿:N	T_T:FW	
+這:DET	次:M	幫:P	長官:N	們點:N	的:T	是:Vt	6:DET	人:N	分享:Vt	餐:N	
+6:DET	人:N	5200:DET	元:M	加:Vt	一成:DET	服務費:N	
+不過:C	都:ADV	是:Vt	全:DET	套:M	套餐:N	就是了:Vi	
+很:ADV	彭湃:N	
+我們:N	因為:C	有:Vt	4:DET	個:M	人:N	落單:Vi	
+所以:C	點:Vt	的:T	就:ADV	不:ADV	是:Vt	6:DET	人:N	的:T	囉:T	
+以下:N	有:Vt	詳細:Vi	介紹:Vt	的:T	就是:C	我:N	吃:Vt	的:T	啦:T	XD:FW	
+前菜:N	
+燻:Vt	鮭魚:N	配上:Vt	某:DET	種:M	蛋糕:N	
+服務生:N	有:Vt	講:Vt	蛋糕:N	是:Vt	哪:DET	一:DET	種:M	
+不過:C	我:N	整:DET	個:M	腦殘:N	轉:Vt	個:M	身:N	就:ADV	忘:Vt	了:ASP	=:FW	=:FW	
+這:DET	擺盤:N	很:ADV	精緻:Vi	
+旁邊:N	的:T	醬:N	是:Vt	蒜味凱薩:N	醬:N	
+話:N	說:Vt	這:DET	真的:ADV	弄得:Vt	很:ADV	精緻:Vi	啊:T	
+底下:N	的:T	蛋糕:N	甜甜:Vi	鹹鹹:Vi	
+綠綠:Vi	的:T	一:ADV	開始:Vt	吃:Vt	不:ADV	太:ADV	出來:Vt	是:Vt	什麼:DET	口味:N	
+而且:C	還:ADV	綠綠:Vi	的:T	
+後來:N	回頭:ADV	一:ADV	想:Vt	
+應該:ADV	是:Vt	開心果:N	吧:T	
+口感:N	很:ADV	鬆軟:Vi	
+一點:DET	都:ADV	不:ADV	馬虎:Vi	
+還:ADV	滿:ADV	好吃:Vi	的:T	
+然後:ADV	我:N	個:M	人:N	不:ADV	太:ADV	愛:Vt	吃:Vt	燻:Vt	鮭魚:N	
+不過:C	整:DET	個:M	搭:Vt	著:ASP	上面:N	的:T	番茄:N	、:PAUSECATEGORY	萊姆片:N	跟:P	底下:N	的:T	蛋糕:N	一起:ADV	吃:Vt	
+那:DET	個:M	我:N	不:ADV	愛:Vt	的:T	感覺:N	降低:Vt	很多:DET	
+雖然:C	口感:N	還是:ADV	沒:ADV	很:ADV	愛:Vt	XD:FW	
+整:DET	個:M	搭起:Vt	來:ADV	真的:ADV	還:ADV	不錯:Vi	
+附上:Vt	的:T	蒜味:N	美乃滋:N	也好:T	好吃:Vi	&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+沾:Vt	了:ASP	又:ADV	是:Vt	不同:Vi	的:T	風味:N	
+這:DET	是:Vt	偷拍:Vt	隔壁桌:N	長官:N	們:N	的:T	6:DET	人:N	分享:Vt	餐:N	
+應該:ADV	是:Vt	前:DET	菜:N	
+看起來:ADV	就:ADV	很:ADV	壯觀:Vi	啊:T	
+好像:ADV	很:ADV	好吃:Vi	
+中間:N	那:DET	個:M	好像:ADV	打:Vt	拋肉:N	喔:T	
+附餐:N	麵包:N	
+這:DET	麵包:N	超:Vt	好吃:Vi	的:T	
+烤:Vt	的:T	外酥內軟:Vi	
+而且:C	口感:N	很:ADV	Q:FW	彈:Vt	
+裡面:N	有點:ADV	鬆軟:Vi	到:P	不可思議:Vi	
+而且:C	本身:N	就:ADV	帶有:Vt	甜:Vi	香味:N	
+麵粉:N	的:T	香氣:N	很:ADV	濃:Vi	
+熱:Vt	呼呼:ADV	的:T	單:N	吃:Vt	就:ADV	好:ADV	好吃:Vi	
+旁邊:N	的:T	奶油:N	也:ADV	是:Vt	蒜味:N	的:T	
+抹:Vt	了:ASP	也:ADV	很:ADV	讚:Vi	
+好:Vi	吃到:Vt	超:A	想:Vt	續:Vt	麵包:N	的:T	
+蘑菇:N	濃湯:N	
+這:DET	個:M	也:ADV	好喝:Vi	
+味道:N	剛好:ADV	
+菇類:N	的:T	鮮味:N	有:Vt	煮出來:Vt	
+小:Vi	缺點:N	大概:ADV	是:Vt	芡勾:N	的:T	稍微:ADV	重:Vt	了:ASP	一點:DET	
+有點:ADV	濃:Vi	XD:FW	
+這:DET	又:ADV	是:Vt	隔壁桌:N	的:T	菜:N	XD:FW	
+肉串:N	還:ADV	放:Vt	在:P	炭火:N	上:N	烤:Vt	喔:T	
+黑:Vi	櫻桃:N	鮮果:N	冰茶:N	
+這:DET	杯:M	看起來:ADV	很:ADV	彭湃:N	啊:T	
+算是:Vt	超:Vt	有:Vt	誠意:N	的:T	附餐:N	飲料:N	
+冰:N	涼涼:Vi	的:T	超:A	消暑:Vi	
+裡面:N	還:ADV	有:Vt	滿滿:Vi	的:T	水果:N	喔:T	
+喝:Vt	起來:ASP	酸酸甜甜:Vi	
+很:ADV	解膩:Vi	
+而且:C	不:ADV	算:Vt	小:Vi	杯:N	其實:ADV	
+同事點:N	的:T	草莓茶:N	
+同事:N	表示:Vt	：:COLONCATEGORY	這:DET	種:M	天氣:N	點熱:N	的:T	實在:ADV	是:Vt	.......:ETCCATEGORY	.......:ETCCATEGORY	XD:FW	
+也:ADV	是:Vt	隔壁:N	長官桌:N	借:Vt	拍:Vt	的:T	
+好像:ADV	是:Vt	牛肉串:N	
+這:DET	超酷:Vi	的:T	啊:T	
+服務生:N	還:ADV	會:ADV	點火:Vi	喔:T	
+當然:ADV	
+也:ADV	會:ADV	幫忙:Vt	卸下:Vt	來:ADV	方便:Vi	客人:N	吃:Vt	啦:T	
+爐烤脆皮:N	雞腿:N	輕:Vi	挽:Vt	海:N	大蝦:N	
+這:DET	我:N	自己:N	點:Vt	的:T	
+擺盤:N	也:ADV	是:Vt	很:ADV	精緻:Vi	啊:T	
+中間:N	那:DET	個:M	有:Vt	考:Vt	過:ASP	痕跡:N	的:T	是:Vt	馬鈴薯:N	泥:N	喔:T	
+還:ADV	滿:ADV	綿密:Vi	的:T	
+有:Vt	烤:Vt	過:ASP	的:T	香氣:N	
+味道:N	也:ADV	還:ADV	不錯:Vi	
+這:DET	是:Vt	一:DET	整:DET	隻:M	大:Vi	雞腿:N	對半:Vi	切:Vt	
+看起來:ADV	就:ADV	好:ADV	飽:Vi	啊:T	
+還:ADV	很:ADV	厲害:Vi	的:T	在:P	雞皮:N	下面:N	塞:Vt	了:ASP	起:ASP	司:N	跟:P	甜椒:N	
+雞皮:N	烤:Vt	的:T	非常:ADV	酥脆:Vi	
+幾乎:ADV	把:P	油脂:N	都:ADV	滴掉:Vt	了:ASP	
+但是:C	雞腿肉:N	不會:ADV	過:ADV	老:Vi	或是:C	過:ADV	乾:Vi	
+口感:N	還是:ADV	很:ADV	Q:FW	彈:Vt	軟嫩:Vi	
+本身:N	就:ADV	有:Vt	先:ADV	醃:Vt	過:ASP	
+醃:Vt	料:N	帶:Vt	有點:ADV	甜甜:Vi	的:T	焦糖味:N	
+再:ADV	搭上:Vt	起:ASP	司:N	的:T	鹹味:N	
+可以:ADV	一口:ADV	接:Vt	一口:ADV	不會:ADV	膩:Vi	喔:T	
+雖然:C	很:ADV	飽:Vi	但:C	我:N	還是:ADV	啃:Vt	光光:Vi	了:ASP	XD:FW	
+有:Vt	附上:Vt	一:DET	杯:M	醬料:N	
+帶有:Vt	一點點:DET	的:T	酸味:N	
+不過:C	我:N	覺得:Vt	原味:N	就:ADV	很:ADV	好吃:Vi	了:T	
+站立:Vi	在:P	萊姆片:N	上:N	的:T	海:N	大蝦:N	XD:FW	
+蝦子:N	基本:N	上:POST	沒有:ADV	做:Vt	太多:DET	調味:N	
+只有:ADV	淡淡:Vi	的:T	鹹:Vi	
+肉:N	吃起來:ADV	算:Vt	Q:FW	
+不過:C	沒有:Vt	特別:Vi	讓:Vt	我:N	驚豔:Vi	就是了:Vi	@:FW	@:FW	
+爐烤:Vt	10:DET	oz:FW	美國:N	穀:N	飼:Vt	牛排:N	佐波特:N	紅酒:N	
+有:Vt	偷吃:Vt	到:P	一口:ADV	
+大概:ADV	是:Vt	5.6:DET	分:M	的:T	熟度:N	
+味道:N	也:ADV	還:ADV	不錯:Vi	
+不會:ADV	吃起來:ADV	很:ADV	生:Vi	
+BALI:FW	四:DET	季:N	春夏:N	海鮮:N	饗宴:N	
+超彭:N	派:Vt	
+不過:C	這:DET	我:N	沒:ADV	吃:Vt	到:P	
+這:DET	也:ADV	是:Vt	他們:N	家:N	招牌:N	喔:T	
+峇里島:N	式香檸:N	海鱸魚:N	煲:Vt	
+這:DET	看起來:ADV	也:ADV	是:Vt	很:ADV	下:Vt	飯:N	阿:N	
+魚:N	基本:N	上:N	是:Vt	炸:Vt	過:ASP	再:ADV	配上:Vt	底下:N	的:T	咖哩醬:N	
+不過:C	...:ETCCATEGORY	我:N	也:ADV	沒:ADV	吃到:Vt	就是了:Vi	::COLONCATEGORY	P:FW	
+倒是:ADV	有:Vt	吃到:Vt	裡面:N	附:Vt	的:T	花枝:N	
+稍微:ADV	老:Vi	了:ASP	點:M	XD:FW	
+附餐:N	甜點:N	
+有:Vt	兩:DET	種:M	口味:N	的:T	蛋糕:N	可以:ADV	選:Vt	
+也:ADV	是:Vt	弄得:Vt	很:ADV	精緻:Vi	阿:N	
+一:DET	個:M	應該:ADV	是:Vt	開心果:N	口味:N	的:T	蛋糕:N	
+一:DET	個:M	是:Vt	巧克力:N	
+都:ADV	不會:ADV	太:ADV	甜:Vi	
+巧克力:N	還:ADV	滿:ADV	香:Vi	的:T	
+開心果:N	口味:N	吃起來:ADV	也:ADV	很:ADV	清爽:Vi	
+算是:Vt	中規中矩:Vi	囉:T	
+這:DET	天:M	比較:ADV	美中不足:Vi	的:T	是:Vt	
+因為:C	要:ADV	趕:Vt	後面:N	行程:N	所以:C	沒:ADV	能:ADV	好好:Vi	享受:Vt	
+吃:Vt	的:T	有點:ADV	趕:Vi	
+所以:C	也好:T	飽:Vt	Q_Q:FW	
+然後:ADV	因為:C	餐廳:N	算是:Vt	半:DET	開放式:A	
+所以:C	即使:C	有:Vt	們:N	玻璃門:N	隔:Vt	著:ASP	
+但:C	仍然:ADV	感受到:Vt	外面:N	的:T	炎熱:Vi	
+所以:C	吃:Vt	得:T	滿:DET	頭:M	汗:N	阿:N	^:FW	^:FW	":FW	
+冷氣:N	是:Vt	若:Vt	了:ASP	點:M	
+不過:C	餐點:N	都:ADV	有:Vt	一定:A	水準:N	
+雖然:C	價位:N	偏:ADV	高:Vi	
+但:C	美景:N	加上:Vt	服務:Nv	跟:C	水準:N	以上:POST	的:T	美食:N	跟:P	視覺:N	享受:Vt	
+在:P	有:Vt	要:ADV	過節:Vi	的:T	時候:N	
+還:ADV	滿:Vt	推薦:Nv	來:ADV	享受:Vt	一下:N	的:T	囉:T	
+或是:C	來:ADV	喝:Vt	個:M	下午茶:N	
+過:Vt	個:M	優閒:Vi	的:T	下午:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/ancom:FW	

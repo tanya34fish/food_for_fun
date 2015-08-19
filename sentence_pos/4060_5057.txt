@@ -1,0 +1,192 @@
+phoennivia:FW	(:PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	TastyRoad:FW	韓國:N	燒肉:N	*:FW	黃:N	OPPA:FW	新店:N	
+Tue:FW	
+Feb:FW	
+17:DET	
+20:DET	::COLONCATEGORY	56:DET	::COLONCATEGORY	32:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	TastyRoad:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	12月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	延吉街:N	131巷:N	3:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2721:DET	-:DASHCATEGORY	8252:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	10:DET	::COLONCATEGORY	30:DET	~:FW	24:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	400:DET	元:M	起:POST	，:COMMACATEGORY	不需:ADV	加:Vt	服務費:N	
+blogger:FW	圖文板:N	
+台北:N	餐廳:N	--:DASHCATEGORY	[:PARENTHESISCATEGORY	大安:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	烤:Vt	肉:N	]:PARENTHESISCATEGORY	TastyRoad:FW	韓國:N	燒肉:N	＊:FW	黃:N	OPPACHICKEN:FW	姊妹店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	phoennivia.blogspot.tw/2015/01/tasty-roadoppa-chicken.html:FW	
+最近:N	怎麼:ADV	常:ADV	吃:Vt	韓式烤肉:N	啊:T	
+才:ADV	剛:ADV	在:P	延吉:N	街:N	上:N	的:T	燒:Nv	桶子:N	韓風立燒:N	吃完:Vt	一:DET	頓:M	燒肉:N	
+幾:DET	個:M	星期:N	後:POST	又:ADV	來:Vi	附近:N	的:T	韓國:N	烤肉店:N	報到:Vi	啦:T	
+今晚:N	來到:Vt	的:T	是:Vt	黃:N	OPPA:FW	新:Vi	開:Vt	的:T	韓國:N	燒:Vt	肉店:N	TastyRoad:FW	
+店址:N	就位:Vi	在:P	黃:N	OPPACHICKEN:FW	附近:N	
+除了:P	韓國:N	烤:Vt	肉:N	之外:POST	
+也:ADV	有:Vt	各:DET	種:M	韓式:N	火鍋:N	讓:Vt	你:N	在:P	寒冬:N	裡:POST	暖暖:Vi	胃:N	喔:T	
+不同於:Vt	黃:N	OPPACHICKEN:FW	的:T	韓國:N	街:N	邊:N	小店:N	裝潢:N	
+TastyRoad:FW	走:Vi	的:T	是:Vt	精緻:Vi	時尚:N	風格:N	
+一:DET	進:M	門:N	就:ADV	看到:Vt	好幾:DET	個:M	OPPA:FW	在:P	幫:Vt	客人:N	進行:Vt	桌:N	邊:N	服務:Vt	
+環顧:Vt	店:N	內:N	大約:ADV	九成:DET	的:T	女性:N	顧客:N	
+難道:ADV	都:ADV	是:Vt	為了:P	OPPA:FW	而:C	來:ADV	
+華:N	美:N	的:T	裝潢:N	之外:POST	
+店:N	內:N	的:T	韓流:N	音樂:N	輕擊:Vt	著:ASP	輕快:Vi	的:T	節奏:N	
+角落:N	裡:N	的:T	一:DET	把:M	吉他:N	加上:Vt	一:DET	座:M	麥克風:N	架:Vt	
+不過:C	期待:Vt	了:ASP	一:DET	整:DET	晚:Vi	
+都:ADV	沒:ADV	遇上:Vt	任何:DET	一:DET	個:M	OPPA:FW	來:ADV	演唱:Vt	
+別:ADV	管:Vt	OPPA:FW	了:T	
+先:ADV	來:ADV	看看:Vt	TastyRoad:FW	的:T	菜單:N	吧:T	
+這裡:N	的:T	菜單:N	設計:N	得:ADV	還:ADV	挺:ADV	有趣:Vi	的:T	
+除了:P	就:ADV	像:Vt	一:DET	份:M	桌曆:N	外:POST	
+前後:DET	兩:DET	面:M	的:T	菜單:N	內容:N	是:Vt	一樣:Vi	的:T	
+所以:C	對面:N	的:T	朋友:N	也:ADV	可以:ADV	一起:ADV	看:Vt	喔:T	
+TastyRoad:FW	主打:Nv	韓國:N	烤肉:N	、:PAUSECATEGORY	韓式:N	火鍋:N	、:PAUSECATEGORY	韓國:N	酒類:N	及:C	韓系:N	飲料:N	
+可:ADV	分為:Vt	套餐:N	及:C	單點:N	
+套餐:N	101:DET	cm:FW	王:N	串燒:N	加韓式:A	火鍋:N	是:Vt	每:DET	桌:M	必:ADV	點:Vt	
+韓式:N	火鍋:N	有:Vt	部隊:N	鍋:N	、:PAUSECATEGORY	年糕:N	鍋:N	、:PAUSECATEGORY	大醬湯:N	、:PAUSECATEGORY	燒肉鍋:N	、:PAUSECATEGORY	泡菜:N	鍋:N	可:ADV	選:Vt	
+火鍋:N	可:ADV	享:Vt	優惠價:N	小:Vi	火鍋:N	
+2:DET	人:N	份:N	
+490:DET	元:M	及:C	大:Vi	火鍋:N	
+3:DET	
+4:DET	人:N	份:N	
+690:DET	元:M	
+火鍋:N	單:ADV	點:Vt	2:DET	
+4:DET	人:N	份:N	要價:Vt	800:DET	
+1600:DET	元:M	
+所以:C	特別:Vi	套餐:N	價格:N	優惠:Vt	許多:DET	
+先:ADV	送上:Vt	的:T	是:Vt	瓶裝:A	飲水:N	
+不過:C	這麼:ADV	小:Vi	瓶:N	
+難道:ADV	是:Vt	希望:Vt	OPPA:FW	多:ADV	來:Vi	桌:N	邊:N	服務:Vt	幾:DET	次:M	嗎:T	
+哈哈:ADV	
+吃:Vt	韓式:N	料理:N	
+韓國:N	小菜:N	當然:ADV	也:ADV	是:Vt	主角:N	之:T	一:DET	囉:T	
+TastyRoad:FW	的:T	小菜:N	有:Vt	韓式:N	泡菜:N	、:PAUSECATEGORY	醋:N	醃:Vt	蘿蔔:N	、:PAUSECATEGORY	甜不辣:N	等:POST	
+可:ADV	無限:Vi	續:ADV	用:P	
+不需:ADV	加價:Vi	
+但:C	味道:N	就:ADV	普普通通:Vi	囉:T	
+韓式:A	烤肉:N	有:Vt	三:DET	種:M	沾醬:N	：:COLONCATEGORY	香:Vi	麻油:N	、:PAUSECATEGORY	韓式:N	甜:Vi	辣醬:N	、:PAUSECATEGORY	韓式:N	醬油:N	
+另外:C	還:ADV	附:Vt	了:ASP	醃:Vt	生:Vt	洋蔥:N	可以:ADV	和:P	烤:Vt	肉:N	一起:ADV	配:Vt	著:ASP	吃:Vt	
+重頭戲:N	101:DET	cm:FW	王:N	串燒:N	
+單:ADV	點:Vt	1010:DET	元:M	
+上桌:Vi	
+雖然:C	不:ADV	確定:Vt	到底:ADV	有沒有:ADV	101:DET	公分:M	
+不過:C	超級:A	長:Vi	的:T	烤:Nv	肉串:N	應該:ADV	足以:Vt	媲美:Vt	烤肉界:N	的:T	101:DET	了:T	吧:T	
+大家:N	紛紛:ADV	拿出:Vt	手機:N	或:C	相機:N	拍下:Vt	這:DET	個:M	長度:N	驚人:Vi	的:T	烤:Nv	肉串:N	
+還:ADV	沒:ADV	嘗:Vt	過:ASP	味道:N	
+視覺:N	上:POST	就:ADV	已經:ADV	先:ADV	震撼:Vt	了:ASP	大夥兒:N	
+拍完:Vt	照:Vt	後:POST	
+就:ADV	輪到:Vt	OPPA:FW	的:T	烤:Nv	肉:N	服務:Nv	時間:N	囉:T	
+將:P	烤串:N	上:N	的:T	五花肉:N	、:PAUSECATEGORY	馬鈴薯:N	及:C	洋蔥:N	等:POST	放:Vt	在:P	熾熱:Vi	的:T	鐵:N	盤:N	上:N	
+火紅:A	的:T	爐火:N	將:P	五花肉:N	燒:Vt	得:T	滋滋:ADV	作響:Vi	
+順著:P	緩緩:Vi	上升:Vi	的:T	熱氣:N	
+五花肉:N	也:ADV	開始:Vt	飄香:Vi	了:ASP	唷:T	
+五花肉:N	烤:Vt	到:P	表面:N	微微:ADV	滲出:Vi	血水:N	之後:POST	就:ADV	可以:ADV	翻:Vt	面:N	囉:T	
+不過:C	在:P	TastyRoad:FW	完全:ADV	不用:ADV	在意:Vt	這:DET	種:M	事:N	
+因為:C	烤:Vt	肉:N	是:Vt	OPPA:FW	全程:ADV	桌:N	邊:N	服務:Vt	
+我們:N	只管:Vt	吃:Vt	就是了:Vi	
+五花肉:N	兩:DET	面:M	烤:Vt	至:P	微焦:N	之後:POST	
+OPPA:FW	便:ADV	動手:Vi	將:P	肉:N	剪成:Vt	小:Vi	片:M	
+繼續:Vt	將:P	五花肉:N	烤:Vt	到:P	全:DET	熟:Vi	就:ADV	可以:ADV	吃:Vt	囉:T	
+瞧瞧:Vt	整:DET	個:M	鐵盤:N	的:T	五花肉:N	是:Vt	不:ADV	是:Vt	排:Vt	得:T	很:ADV	整齊:Vi	呢:T	
+強烈:Vi	覺得:Vt	這:DET	位:M	幫:P	我們:N	烤肉:N	的:T	OPPA:FW	房間:N	也:ADV	是:Vt	超級:A	整齊:Vi	
+沒想到:ADV	連:Vt	烤肉:N	也:ADV	可以:ADV	烤:Vt	得:T	如此:ADV	有條不紊:Vi	
+除了:P	直接:Vi	沾:Vt	醬料:N	享用:Vt	之外:POST	
+店家:N	也:ADV	準備:Vt	了:ASP	搭配:Vt	烤肉:N	的:T	蔬菜:N	
+有:Vt	生菜:N	葉:N	、:PAUSECATEGORY	青:Vi	辣椒:N	、:PAUSECATEGORY	小黃瓜片:N	和:C	醃:Vt	生:Vt	洋蔥:N	等:POST	
+五花肉:N	吃起來:ADV	沒有:Vt	想像:N	中:POST	那樣:ADV	油膩:Vi	
+瘦肉:N	吃:Vt	來:ADV	緊:Vi	實:ADV	
+肥肉:N	吃:Vt	來:POST	Q:FW	彈:Vt	
+蔬菜:N	帶來:Vt	清爽:Vi	的:T	食感:N	
+不過:C	偷偷:ADV	說:Vt	
+烤肉:N	還:ADV	是:Vt	表面:N	帶:Vt	油光:N	的:T	五花肉:N	吃起來:ADV	才:ADV	過癮:Vi	啊:T	
+吃起來:ADV	清淡:Vi	當然:ADV	就:ADV	沒:ADV	吃:Vt	烤肉:N	的:T	爽快:Vi	感:Vt	啦:T	
+有點:ADV	可惜:Vi	的:T	是:Vt	泡菜:N	味道:N	不:ADV	夠:ADV	酸:Vi	辣:Vi	有勁:Vi	
+所以:C	不足:Vi	的:T	地方:N	只好:ADV	多:ADV	加:Vt	一點:DET	韓式:N	辣醬:N	來:ADV	補強:Vt	
+我:N	還:ADV	剪:Vt	了:ASP	好幾:DET	小:Vi	段:M	的:T	青:Vi	辣椒:N	一同:ADV	入口:Vi	
+但:C	沒想到:ADV	青:Vi	辣椒:N	竟:ADV	沒有:Vt	想像:N	中:N	嗆辣:Vi	
+反倒:C	是:Vt	很:ADV	溫:Vt	醇:Vi	的:T	辣味:N	
+烤完:Vt	五花肉:N	後:POST	
+就:ADV	進入:Vt	海鮮:N	區塊:N	啦:T	
+海鮮區:N	打頭陣:Vi	的:T	是:Vt	兩:DET	隻:M	鮮蝦:N	
+不一會兒:ADV	就:ADV	烤:Vt	得:T	橙紅:N	發亮:Vi	了:T	
+肉質:N	尚:ADV	算:Vt	新鮮:Vi	緊實:Vi	
+不過:C	蝦味:N	就:ADV	欠缺:Vt	了:ASP	一些:DET	
+鹽烤:Vt	的:T	滋味:N	我:N	想:Vt	會:ADV	更:ADV	好:Vi	一點:ADV	吧:T	
+花枝:N	也:ADV	是:Vt	稍微:ADV	燒烤:Vt	之後:POST	剪成:Vt	小:Vi	片:M	
+雖然:C	用:P	剪刀:N	剪成:Vt	小:Vi	片:M	後:POST	再:ADV	吃:Vt	是:Vt	韓式烤肉:N	的:T	特色:N	
+不過:C	吃完:Vt	了:ASP	101:DET	cm:FW	烤肉:N	串:Vt	
+總:ADV	覺得:Vt	少:Vi	了:ASP	一些:DET	韓味:N	
+和:C	燒:Vt	桶子:N	比起來:ADV	
+到底:ADV	哪:DET	個:M	比較:ADV	好吃:Vi	啊:T	
+朋友:N	問:Vt	著:ASP	
+毫無:ADV	調味:Vi	
+只:ADV	單純:Vi	靠:P	OPPA:FW	烤功:N	和:C	烤肉:N	沾醬:N	撐場:N	的:T	TastyRoad:FW	
+除了:P	溫柔:Vi	的:T	OPPA:FW	
+好像:ADV	就是:C	少:Vi	了:T	那麼:ADV	一些:DET	記憶點:N	
+隨:P	烤:Vt	肉:N	套餐:N	贈送:Vt	的:T	是:Vt	一:DET	碗:M	太陽:N	蛋:N	鍋巴:N	白飯:N	
+拌:Vt	點:M	韓:N	式:N	小菜:N	加上:Vt	部隊:N	鍋:N	的:T	辣湯:N	進去:Vi	
+自己:N	做成:Vt	一:DET	道:M	韓式:N	鍋巴:N	拌:Vt	飯:N	吧:T	
+這樣:Vi	會:ADV	更:ADV	好吃:Vi	喔:T	
+今晚:N	的:T	重頭戲:N	就:ADV	是:Vt	部隊:N	鍋:N	
+單:ADV	點:Vt	三:DET	人:N	份:N	1200:DET	元:M	
+啦:T	
+部隊:N	鍋:N	起源:N	於:P	韓戰:N	過後:POST	那:DET	個:M	物資:N	短缺:Vt	的:T	年代:N	
+韓國:N	居民:N	將:P	美軍:N	基地:N	遺留下:Vt	來:Vi	的:T	罐裝:A	火腿:N	、:PAUSECATEGORY	午餐肉:N	及:C	香腸:N	做:Vt	底:POST	
+再:ADV	加入:Vt	泡菜:N	、:PAUSECATEGORY	洋蔥:N	、:PAUSECATEGORY	焗豆:N	、:PAUSECATEGORY	起:Vt	司:N	、:PAUSECATEGORY	年糕:N	等:POST	材料:N	
+最後:N	倒入:Vt	辛辣味:N	十足:Vi	的:T	苦椒:N	醬:N	
+部隊:N	鍋:N	就:ADV	完成:Vt	囉:T	
+等:Vt	著:ASP	部隊:N	鍋:N	沸騰:Vi	的:T	時間:N	
+是:Vt	讓:Vt	人:N	口水:N	直流:Vi	的:T	時刻:N	
+相較:Vi	於:P	原味:N	的:T	韓國:N	烤肉:N	
+部隊:N	鍋:N	冒:Vt	著:ASP	濃濃:Vi	的:T	韓式:N	風味:N	
+大概:ADV	是:Vt	我們:N	太:ADV	有:Vt	等待:Vt	美食:N	的:T	耐心:N	了:T	
+所以:C	OPPA:FW	中途:N	又:ADV	幫:P	我們:N	加:Vt	了:ASP	一:DET	次:M	苦:Vi	椒醬湯:N	底:POST	
+等待:Vt	是:Vt	有:Vt	回報:Vt	的:T	
+部隊:N	鍋:N	吃:Vt	來:ADV	酸:Vi	與:C	辣:Vi	兼具:Vt	
+越:ADV	吃:Vt	越:ADV	覺得:Vt	舌頭:N	發辣:Vi	發麻:Vi	
+但:C	濃郁:Vi	的:T	滋味:N	又:ADV	讓:Vt	人:N	一口:ADV	接:Vt	一口:ADV	
+儘管:C	TastyRoad:FW	打開:Vt	了:ASP	它:N	面街:N	的:T	所有:DET	窗戶:N	
+但:C	在:P	這樣:Vi	寒冷:Vi	的:T	冬天:N	裡:POST	
+還是:ADV	吃:Vt	得:T	大夥兒:N	額角:N	冒:Vt	汗:N	、:PAUSECATEGORY	大呼:Vt	過癮:Vi	啊:T	
+說:Vt	實在:ADV	
+部隊:N	鍋:N	中:POST	沒有:Vt	什麼:DET	稱得上:Vt	山珍海味:N	的:T	食材:N	
+但:C	就是:C	那:DET	份:M	單純:Vi	的:T	美味:N	加上:Vt	酸辣:N	有勁:Vi	的:T	苦椒:N	醬:N	
+才:ADV	讓:Vt	部隊:N	鍋:N	成為:Vt	韓式:N	料理店:N	中:N	的:T	主打:Nv	明星:N	吧:T	
+不只:ADV	適合:Vi	單:ADV	吃:Vt	
+配上:Vt	烤肉:N	或是:C	拌:Vt	飯:N	也:ADV	都:ADV	讓:Vt	人:N	胃口:N	大開:Vt	
+還:ADV	記得:Vt	開頭:N	說:Vt	過:ASP	TastyRoad:FW	不遠處:N	的:T	黃:N	OPPACHICKEN:FW	嗎:T	
+在:P	TastyRoad:FW	也:ADV	可以:ADV	請:Vt	店員:N	幫忙:Vt	叫:Vt	外:N	賣:Vt	的:T	韓式:N	炸雞:N	來:ADV	吃:Vt	喔:T	
+不過:C	就:ADV	只:ADV	限:Vt	韓式:N	炸雞:N	
+想要:Vt	吃:Vt	其他:DET	的:T	韓式:N	小吃:N	
+就:ADV	只:ADV	能:ADV	另外:ADV	找:Vt	個:M	時間:N	到:P	黃:N	OPPACHICKEN:FW	解饞:Vi	了:ASP	
+韓式:N	炸雞:N	
+200:DET	元:M	
+外表:N	裹上:Vt	了:ASP	一:DET	層:M	韓式酸辣:N	醬汁:N	
+再:ADV	灑上:Vt	一些:DET	白:Vi	芝麻:N	點綴:Vt	
+完全:ADV	是:Vt	熱量:N	爆表:N	的:T	一:DET	品:N	
+韓式:N	炸雞:N	吃起來:ADV	其實:ADV	和:P	糖醋:N	排骨:N	有:Vt	些:M	異曲同工:Vi	之:T	妙:Nv	
+外層:N	濃厚:Vi	的:T	酸:Vi	辣醬:N	也:ADV	帶:Vt	了:ASP	些:M	甜味:N	
+雞肉:N	比起:P	醬汁:N	倒:ADV	成:Vt	了:ASP	配角:N	
+濃重:Vi	的:T	酸:Vi	辣味:N	不只:ADV	下:Vt	飯:N	
+更:ADV	是:Vt	讓:Vt	人:N	想要:Vt	大:Vi	口:N	喝:Vt	酒:N	的:T	下:DET	酒菜:N	呀:T	
+雖然:C	沒有:ADV	追:Vt	看:Vt	韓劇:N	
+來自:Vt	星星:N	的:T	你:N	
+但:C	沒:ADV	錯過:Vt	千:DET	頌:Vt	伊:N	的:T	最愛:N	
+口味:N	濃重:Vi	的:T	韓式:N	炸雞:N	當然:ADV	要:ADV	配:Vt	CASS:FW	韓國:N	啤酒:N	
+160:DET	元:M	
+不:ADV	愛:Vt	喝:Vt	啤酒:N	
+也:ADV	是:Vt	第一:DET	次:M	喝:Vt	韓國:N	啤酒:N	的:T	我:N	
+完全:ADV	被:P	CASS:FW	啤酒:N	低:Vi	苦味:N	又:ADV	清淡:Vi	順口:Vi	的:T	味道:N	驚艷:Vi	了:T	
+看來:ADV	總是:ADV	喝:Vt	水果:N	啤酒:N	的:T	我:N	
+又:ADV	多:Vi	了:ASP	個:M	新:Vi	選擇:Vt	
+用餐:Vi	到:Vt	了:ASP	尾聲:N	
+傳說:N	中:POST	的:T	黃:N	OPPA:FW	也:ADV	出現:Vi	了:T	
+不過:C	沒有:ADV	對:P	韓國:N	OPPA:FW	著迷:Vi	的:T	我:N	沒:ADV	特地:ADV	拍下:Vt	他:N	的:T	照片:N	
+只:ADV	見:Vt	他:N	操:Vt	著:ASP	濃濃:Vi	韓國腔:N	的:T	中文:N	對:P	每:DET	桌:M	客人:N	發送:Vt	橘子:N	
+這:DET	是:Vt	我:N	媽媽:N	寄給:Vt	我:N	的:T	喔:T	
+好吃:Vi	嗎:T	
+說:Vt	罷:T	
+就:ADV	從:P	我:N	手:N	中:POST	掰:Vt	了:ASP	一:DET	瓣:M	橘子:N	送進:Vt	嘴:N	中:POST	
+其他:DET	桌:N	的:T	女客:N	被:P	黃:N	OPPA:FW	逗:Vt	得:T	花枝:N	亂顫:Vi	
+我:N	想:Vt	這:DET	可能:ADV	也:ADV	是:Vt	這麼多:DET	女孩:N	對:P	韓國:N	OPPA:FW	著迷:Vi	的:T	原因:N	吧:T	
+˙:FW	延伸:Nv	閱讀:Nv	：:COLONCATEGORY	台北:N	餐廳:N	--:DASHCATEGORY	
+大安:N	
+燒烤:Vt	
+燒:Vt	桶子:N	韓風立燒:N	＊:FW	站:Vi	著:ASP	烤:Vt	的:T	燒肉:N	http:FW	::COLONCATEGORY	/:FW	/:FW	phoennivia.blogspot.tw/2014/11/blog-post_24.html:FW	--:DASHCATEGORY	

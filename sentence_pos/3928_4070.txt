@@ -1,0 +1,63 @@
+vivagozo(wei:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	內湖:N	|:FW	|:FW	手工:N	豆花:N	.:PERIODCATEGORY	純米:N	湯圓:N	*:FW	李:N	記:Vt	甜:Vi	品:N	*:FW	
+Fri:FW	
+Jan:FW	
+9:DET	
+08:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	49:DET	
+2015:DET	
+[:PARENTHESISCATEGORY	瑋瑋:N	*:FW	美食:N	萬歲:Vi	]:PARENTHESISCATEGORY	圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	vivawei.pixnet.net/blog/post:FW	/:FW	5153353:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	李:N	記:Vt	甜:Vi	品:N	消費:N	時間:N	：:COLONCATEGORY	2014年:N	12月:N	地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	江南街:N	123:DET	號:M	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2657:DET	-:DASHCATEGORY	9930:DET	營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週五:N	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	週六:N	&:FW	amp:FW	
+週日:N	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	20:DET	::COLONCATEGORY	00:DET	平均:Vi	價位:N	：:COLONCATEGORY	50:DET	推薦:Vt	菜色:N	：:COLONCATEGORY	紅豆:N	湯圓:N	今天:N	是:Vt	冬至:N	
+所以:C	我們:N	在:P	吃完:Vt	了:ASP	
+太:ADV	將:P	鍋:N	
+以後:N	就:ADV	走路:Vi	到:Vt	了:ASP	
+李:N	記:Vt	甜:Vi	品:N	
+吃:Vt	湯圓:N	
+李:N	記:Vt	甜:Vi	品:N	
+是:Vt	豆花:N	專賣店:N	
+除了:P	豆花:N	以外:POST	還:ADV	有:Vt	燒:Vt	仙草:N	、:PAUSECATEGORY	薏仁湯:N	、:PAUSECATEGORY	紅豆湯:N	、:PAUSECATEGORY	豆漿:N	等等:POST	
+這:DET	是:Vt	店:N	內:N	的:T	價目表:N	
+價格:N	算是:Vt	蠻:ADV	平價:N	的:T	
+新鮮:Vi	配料:N	加:Vt	一:DET	種:M	10:DET	元:M	：:COLONCATEGORY	有:Vt	花生:N	、:PAUSECATEGORY	紅豆:N	、:PAUSECATEGORY	花生:N	、:PAUSECATEGORY	綠豆:N	、:PAUSECATEGORY	薏仁:N	、:PAUSECATEGORY	珍珠:N	、:PAUSECATEGORY	枸杞:N	銀耳:N	、:PAUSECATEGORY	純米:N	湯圓:N	
+進入:Vt	店:N	門口:N	前:N	有:Vt	這樣:Vi	的:T	半:DET	戶外:N	區:N	
+如果:C	內:N	用:Vt	座位:N	已:ADV	滿:ADV	也:ADV	可以:ADV	做:Vt	這:DET	一:DET	區:N	
+進門處:N	的:T	右手:N	邊:N	有:Vt	靠:Vt	窗:N	的:T	座位:N	
+冬至:N	這天:N	店:N	內:N	有:Vt	滿滿:Vi	人潮:N	
+無論:C	是:Vt	內用:N	或是:C	外帶:Nv	都:ADV	有:Vt	不少:DET	人:N	呢:T	
+這邊:N	主打:Vt	無:Vt	基因:N	改造:Vt	的:T	黃豆:N	
+遵循:Vt	古法:N	製作:Vt	
+無:Vt	化學:N	添加物:N	
+打卡:Vi	可以:ADV	送:Vt	一:DET	份:M	免費:Vi	的:T	配料:N	
+櫃檯區:N	這邊:N	抬頭:Vi	看:Vt	也:ADV	有:Vt	價目表:N	可以:ADV	參考:Vt	
+滿滿:Vi	的:T	新鮮:Vi	配料:N	
+我們:N	今天:N	點:Vt	了:ASP	一:DET	份:M	紅豆:N	湯圓:N	和:C	湯圓:N	豆花:N	
+不過:C	會:ADV	覺得:Vt	他們:N	給:Vt	的:T	湯圓:N	分量:N	實在:ADV	太少:Vi	了:ASP	些:ADV	
+＃:FW	純米:N	湯圓:N	豆花:N	：:COLONCATEGORY	４０:DET	元:M	
+豆花:N	可以:ADV	吃到:Vt	黃豆:N	香:Vi	
+口感:N	很:ADV	嫩:Vi	很:ADV	順口:Vi	
+加入:Vt	的:T	糖水:N	會:ADV	覺得:Vt	吃起來:ADV	稍微:ADV	偏:ADV	甜:Vi	了:ASP	些:ADV	
+湯圓:N	的:T	分量:N	很少:ADV	
+今天:N	是:Vt	
+冬至:N	
+所以:C	想要:Vt	多:ADV	吃:Vt	一點:DET	湯圓:N	
+但是:C	這:DET	個:M	湯圓:N	只:ADV	是:Vt	點綴:Vt	而已:T	
+純米:N	湯圓:N	的:T	口感:N	吃起來:ADV	和:P	一般:A	的:T	不:ADV	太:ADV	一樣:Vi	
+感覺:N	少:Vi	了:ASP	平常:N	吃:Vt	的:T	湯圓:N	那:DET	種:M	ＱＱ:FW	的:T	口感:N	
+＃:FW	紅豆:N	純:Vi	米湯:N	圓:N	：:COLONCATEGORY	６０:DET	元:M	
+紅豆:N	湯圓:N	真的:ADV	是:Vt	冬天:N	必:ADV	吃:Vt	的:T	組合:Nv	啦:T	
+會:ADV	覺得:Vt	單單:ADV	只有:ADV	紅豆:N	比較:ADV	甜:Vi	了:ASP	些:ADV	
+如果:C	能:ADV	加:Vt	點:M	薏仁:N	會:ADV	更:ADV	加分:Vi	
+紅豆:N	很:ADV	大:Vi	顆:M	
+煮:Vt	得:T	很:ADV	軟:Vi	很:ADV	剛好:Vi	
+覺得:Vt	紅豆:N	的:T	表現:N	還:ADV	算:Vt	不錯:Vi	
+只是:ADV	會:ADV	覺得:Vt	這:DET	一:DET	碗:M	60:DET	元:M	來:ADV	說:Vt	單價:N	偏:ADV	高:Vi	
+＃:FW	整體:N	而言:Vt	
+會:ADV	覺得:Vt	
+李:N	記:Vt	甜:Vi	品:N	
+的:T	表現:N	中規中矩:Vi	
+使用:Vt	的:T	食材:N	很:ADV	天然:A	
+但是:C	個:M	人:N	覺得:Vt	純米:N	湯圓:N	的:T	口感:N	吃:Vt	不:ADV	太:ADV	習慣:Vt	
+配料:N	給:Vt	的:T	太少:Vi	了:ASP	點:M	
+不:ADV	夠:ADV	大方:Vi	
+內湖區:N	如果:C	想不到:ADV	要:ADV	吃:Vt	什麼:DET	甜點:N	
+或許:ADV	可以:ADV	來:Vi	這邊:N	買:Vt	豆花:N	、:PAUSECATEGORY	燒:Vt	仙草:N	或:C	紅豆湯:N	來:ADV	品嘗:Vt	

@@ -1,0 +1,118 @@
+diet83(Crystal:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	OvenCoffee:FW	甜鹹:Vi	都:ADV	好吃:Vi	的:T	比利時:N	鬆餅:N	
+Thu:FW	
+Apr:FW	
+2:DET	
+02:DET	::COLONCATEGORY	10:DET	::COLONCATEGORY	07:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	OvenCoffee:FW	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	3月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	光復南路:N	570:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23253057:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	7:DET	::COLONCATEGORY	30:DET	~:FW	19:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	150:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	比利時:N	鬆餅:N	咖啡:N	
+圖文:N	完整:Vi	版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	crystal1983.pixnet.net/blog/post:FW	/:FW	273935629:DET	
+＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	＝:FW	
+比利時:N	烈日:N	鬆餅:N	
+上班族:N	開始:Vt	忙碌:Vi	的:T	一:DET	天:M	最:ADV	需要:Vt	的:T	就是:C	香濃:Vi	的:T	咖啡:N	呀:T	
+咖啡:N	控:Vt	的:T	同事:N	不少:Vi	
+不:ADV	喝:Vt	就:ADV	覺得:Vt	醒:Vi	不:ADV	過來:Vi	
+今天:N	要:ADV	介紹:Vt	的:T	這:DET	間:M	小:Vi	咖啡店:N	是:Vt	位於:Vt	光復南路:N	的:T	":FW	OvenCoffee:FW	":FW	
+好像:ADV	挺:ADV	多:Vi	分店:N	的:T	
+安蹄:N	吃:Vt	過:ASP	之後:POST	真的:ADV	好:ADV	希望:Vt	也:ADV	能:ADV	公司:N	附近:N	南港:N	也:ADV	開:Vt	一:DET	家:M	呀:T	
+裡頭:N	販賣:Vt	的:T	是:Vt	最愛:N	的:T	鬆餅:N	
+以及:C	還:ADV	沒:ADV	進到:Vt	店裡:N	就:ADV	能:ADV	聞到:Vt	的:T	香:N	濃:Vi	咖啡:N	
+哎喲:T	
+仔細:Vi	一:ADV	看:Vt	菜單:N	上:N	還:ADV	有:Vt	好:ADV	愛:Vt	的:T	奶蓋:N	系列:N	飲品:N	
+加分:Vi	
+OvenCoffee:FW	店裡:N	位子:N	不:ADV	多:Vi	
+但是:C	生意:N	很:ADV	好:Vi	
+假日:N	時間:N	客滿:Vi	
+而且:C	很:ADV	早:Vi	就:ADV	營業:Vi	耶:T	
+平常日:N	七:DET	點:M	半:DET	就:ADV	營業:Vi	了:ASP	
+這:DET	天:M	是:Vt	來:ADV	吃:Vt	早:Vi	午餐:N	的:T	
+餐點:N	主打:Nv	正宗:N	比利時:N	烈日:N	鬆餅:N	為主:Vi	
+鹹甜:Vi	口味:N	都:ADV	有:Vt	
+還:ADV	有:Vt	輕食類:N	的:T	bagel:FW	以及:C	軟法:N	麵包:N	
+店裡:N	裝飾:N	很:ADV	可愛:Vi	
+放有:Vt	一:DET	罐罐:DET	咖啡豆:N	與:C	烤:Vt	著:ASP	鬆餅:N	的:T	爐子:N	跟:P	烤箱:N	
+因為:C	叫:Vt	oven:FW	嘛:T	
+水:N	以:P	自助式:N	的:T	方式:N	取用:Vt	
+Oven:FW	奶蓋:N	紅茶:N	NT:FW	.:PERIODCATEGORY	60:DET	
+最:ADV	愛:Vt	這:DET	種上:Vt	層:M	厚厚:Vi	鹹鹹:Vi	甜甜:Vi	的:T	奶蓋:N	茶:N	
+這裡:N	的:T	奶蓋單:N	吃:Vt	一口:ADV	味道:N	很:ADV	好:Vi	
+喝到:Vt	最後:N	越來越:ADV	香:Vi	濃:Vi	
+最後:N	混合:Vt	在一起:Vi	非常:ADV	好喝:Vi	呀:T	
+好喝:Vi	的:T	奶茶:N	
+摩卡:N	咖啡:N	NT:FW	.:PERIODCATEGORY	95:DET	
+這裡:N	的:T	咖啡:N	口味:N	比較:ADV	重:Vi	
+雖然:C	摩卡:N	咖啡:N	帶:Vt	點:M	可可味:N	
+但是:C	還是:ADV	喝:Vt	的:T	到:Vt	濃厚:Vi	咖啡味:N	
+也:ADV	很:ADV	好喝:Vi	
+鮪魚:N	烈日:N	NT:FW	.:PERIODCATEGORY	90:DET	蘋果:N	肉桂:N	NT:FW	.:PERIODCATEGORY	75:DET	
+Round:FW	1:DET	
+點:Vt	了:ASP	一:DET	甜:Vi	一:DET	鹹:Vi	鬆餅:N	
+先:ADV	吃:Vt	了:ASP	鮪魚:N	口味:N	的:T	烈日:N	鬆餅:N	
+先:ADV	咬:Vt	了:ASP	一:DET	下邊:N	邊:N	
+帶:Vt	點:M	酥脆:Vi	
+再:ADV	與:P	鮪魚:N	一起:ADV	吃:Vt	
+吼:Vi	喲:T	
+很:ADV	搭:Vt	耶:T	
+很:ADV	不:ADV	手軟:Vi	的:T	在:P	鬆餅:N	上:N	鋪上:Vt	滿滿:Vi	鮪魚:N	料:Vt	
+再:ADV	撒上:Vt	些:M	黑:Vi	胡椒:N	
+很:ADV	香:Vi	
+沒想到:ADV	鹹:Vi	的:T	與:P	比利時:N	鬆餅:N	也:ADV	那麼:ADV	搭:Vt	
+感覺:N	裡頭:N	還:ADV	有點:ADV	美:Vi	奶滋:N	
+甜甜:Vi	鹹鹹:Vi	的:T	
+吃完:Vt	一:DET	個:M	覺得:Vt	還:ADV	想:Vt	再:ADV	吃:Vt	
+蘋果:N	肉桂:N	也:ADV	是:Vt	同樣:ADV	美味:Vi	
+先:ADV	鋪上:Vt	熬:Vt	煮:Vt	過:ASP	的:T	蘋果:N	糖漿:N	
+還:ADV	看:Vt	得到:Vt	蘋果片:N	
+再:ADV	撒上:Vt	滿滿:Vi	的:T	肉桂粉:N	
+肉桂:N	是:Vt	安蹄:N	的:T	最愛:N	之:T	一:DET	
+雖然:C	有:Vt	些:M	人:N	不:ADV	愛:Vt	
+但是:C	這:DET	味:M	加上:Vt	蘋果:N	
+絕配:N	
+Round:FW	2:DET	
+吃:Vt	了:ASP	第一:DET	輪:M	不:ADV	過癮:Vi	
+又:ADV	再:ADV	叫:Vt	了:ASP	一:DET	輪:M	
+蜂蜜:N	燕麥:N	NT:FW	.:PERIODCATEGORY	85:DET	藍莓:N	森林:N	NT:FW	.:PERIODCATEGORY	65:DET	
+平常:N	不:ADV	常見:Vi	的:T	蜂蜜:N	燕麥:N	口味:N	
+還:ADV	有:Vt	一:DET	球:N	鮮:Vi	奶油:N	
+雖然:C	平常:N	不:ADV	愛:Vt	吃:Vt	奶油:N	
+但是:C	這裡:N	的:T	奶油:N	吃起來:ADV	非常:ADV	清爽:Vi	
+撒上:Vt	帶:Vt	點:M	脆脆:Vi	甜甜:Vi	的:T	燕麥:N	再:ADV	淋:Vt	上:POST	香甜:Vi	蜂蜜:N	
+怎麼:ADV	會:ADV	不:ADV	好吃:Vi	咧:T	
+藍莓:N	果醬:N	也:ADV	是:Vt	同樣:Vi	填:Vt	得:T	鬆餅:N	滿滿:Vi	的:T	
+一:ADV	上桌:Vi	就:ADV	可:ADV	聞到:Vt	酸甜:Vi	藍莓味:N	
+酸酸甜甜:Vi	的:T	很:ADV	自然:Vi	的:T	藍莓:N	果醬味:N	
+真的:ADV	很:ADV	想:Vt	早餐:N	都:ADV	吃:Vt	這:DET	一味:ADV	呀:T	
+鬆餅:N	結束:Vt	
+黃金:N	起:POST	士軟:Vi	法:N	
+蘑菇:N	燻雞:N	
+NT:FW	.:PERIODCATEGORY	100:DET	
+夾:Vt	著:ASP	滿滿:Vi	蔬菜:N	的:T	軟法:N	麵包:N	
+看起來:ADV	很:ADV	大:Vi	
+看起來:ADV	有點:ADV	硬:Vi	
+原本:ADV	以為:Vt	咬:Vt	起來:ASP	會:ADV	有點:ADV	扎實:Vi	
+但是:C	nono:FW	
+它:N	是:Vt	軟法:N	呀:T	
+出乎意料:Vi	的:T	麵包:N	口感:N	帶:Vt	點:M	鬆軟:Vi	
+很:ADV	好:Vi	入口:N	
+加上:C	好多:DET	新鮮:Vi	生菜:N	跟:P	蘑菇:N	燻雞:N	
+是:Vt	很:ADV	清爽:Vi	的:T	一:DET	道:M	輕:Vi	食:Vt	
+總之:ADV	
+這:DET	次:M	吃完:Vt	OvenCoffee:FW	的:T	鬆餅:N	真的:ADV	覺得:Vt	很:ADV	美味:Vi	
+不管:C	是:Vt	當:P	早餐:N	、:PAUSECATEGORY	甜點:N	或是:C	下午茶:N	都:ADV	很:ADV	適合:Vi	
+附近:N	的:T	咖啡廳:N	跟:P	早餐:N	都:ADV	吃膩:Vt	了:ASP	啦:T	
+總之:ADV	呢:T	
+很:ADV	驚訝:Vt	比利時:N	鬆餅:N	能:ADV	搭配:Vt	這麼多:DET	種:M	口味:N	的:T	醬料:N	都:ADV	好吃:Vi	
+非常:ADV	推薦:Vt	喲:T	
+Address:FW	::COLONCATEGORY	台北市:N	大安區:N	光復南路:N	570:DET	號:M	1樓:N	
+Tel:FW	::COLONCATEGORY	02:DET	-:DASHCATEGORY	23253057:DET	
+✡:FW	歡迎:Vt	光臨:Nv	水晶:N	安蹄:N	✡:FW	不務正業:Vi	過:ASP	生活:N	
+痞客邦:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	crystal1983.pixnet.net/blog:FW	
+ＦＢ:FW	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/Crystalaunt:FW	

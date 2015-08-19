@@ -1,0 +1,186 @@
+rainieis:FW	(:PARENTHESISCATEGORY	芮妮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	平安京:N	茶事:N	京都:N	抹茶:N	專賣店:N	
+Mon:FW	
+Jul:FW	
+21:DET	
+21:DET	::COLONCATEGORY	21:DET	::COLONCATEGORY	05:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	平安京:N	茶事:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	
+地址:N	：:COLONCATEGORY	100:DET	台北市:N	師大路:N	165:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23682277:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	rainieis.tw/blog/post:FW	/:FW	30215454:DET	
+平安京:N	茶事:N	是:Vt	今年:N	4:DET	/:FW	1:DET	開幕:Vi	的:T	新店:N	
+老闆:N	到:Vt	京都:N	拜師:Vi	取經:Vi	
+店面:N	交通:N	超:Vt	方便:Vi	
+捷運:N	出口:Vt	出:Vt	
+來:ADV	走:Vi	個:M	20:DET	步:M	就:ADV	到:Vt	了:ASP	吧:T	
+店裡:N	店:N	外:N	都:ADV	超級:A	日式:A	和風:N	
+店:N	外:N	還:ADV	有:Vt	小小:Vi	的:T	庭園:N	造景:N	
+很:ADV	有:Vt	氣氛:N	的:T	
+一:DET	間:M	店:N	
+既然:C	身為:Vt	日式:A	抹:Vt	茶店:N	
+平安京:N	茶事:N	當然:ADV	有:Vt	和:P	式:N	座位:N	
+和:C	式:N	包廂:N	有限:Vi	人數:N	
+也:ADV	要:ADV	一定:ADV	的:T	消費:N	
+金額:N	
+假日:N	最少:ADV	8:DET	人:N	預訂:Vt	、:PAUSECATEGORY	消費:N	NT:FW	3600:DET	+:FW	10:DET	%:M	限時:A	2:DET	小時:N	@:FW	@:FW	
+其實:ADV	我們:N	一:ADV	開始:Vt	就:ADV	很:ADV	想:Vt	坐:Vi	和:C	式:N	
+但:C	看到:Vt	標示:N	馬上:ADV	打消:Vt	念頭:N	
+感覺:N	這樣:Vi	的:T	標示:N	非常:ADV	不:ADV	親人:N	
+而且:C	花:Vt	了:ASP	錢:N	來:Vi	這邊:N	消費:Vi	
+當然:ADV	希望:Vt	就算:C	只有:ADV	兩:DET	個:M	人:N	也:ADV	能:ADV	進去:Vi	享受:Vt	那:DET	個:M	氛圍:N	嘛:T	
+最後:N	要:ADV	走:Vi	的:T	時候:N	才:ADV	又:ADV	問:Vt	了:ASP	一下:N	店員:N	
+店員:N	表示:Vt	如果:C	用餐:Vi	當下:N	沒:Vt	客人:N	
+店家:N	也:ADV	歡迎:Vt	入座:Vi	
+那:DET	
+.....:ETCCATEGORY	這樣:Vi	我:N	就:ADV	覺得:Vt	標示:N	真的:ADV	怪:Vt	嚇人:Vi	
+感覺:N	會:ADV	有:Vt	很多:DET	人:N	想:Vt	坐:Vi	又:ADV	坐:Vi	不:ADV	到:Vt	
+因為:C	塌塌米:N	不:ADV	好:Vi	維持:Vt	
+入:Vt	內:N	都:ADV	一定:ADV	要:ADV	穿:Vt	襪子:N	
+如果:C	沒:Vt	襪子:N	呢:T	
+店家:N	會:ADV	提供:Vt	免費:Vi	的:T	防:Vt	滑:Vi	免洗:A	
+襪:N	給:Vt	客人:N	喔:T	
+算是:Vt	滿:ADV	貼心:Vi	的:T	
+我們:N	吃完:Vt	之後:POST	也:ADV	忍不住:Vt	進來:Vi	拍照:Vi	啦:T	
+以:P	台北:N	來:ADV	說:Vt	
+平安京:N	茶事:N	的:T	店面:N	算:Vt	非常:ADV	大:Vi	
+座位:N	不少:DET	還:ADV	分:Vt	了:ASP	和:P	式:N	的:T	區域:N	、:PAUSECATEGORY	櫃檯區:N	
+廚房:N	和:C	廁所:N	距離:N	顧客:N	的:T	距離:N	也:ADV	很:ADV	遠:Vi	
+整體:N	非常:ADV	寬敞:Vi	
+舒適:Vi	
+櫃台:N	旁:N	有:Vt	冰櫃:N	
+放置:Vt	抹:Vt	茶粉:N	跟:P	抹茶:N	冰品:N	
+也:ADV	可以:ADV	來:Vi	平安京:N	茶事:N	單:ADV	買:Vt	霜淇淋:N	外帶:Vt	
+冰品:N	價位:N	
+如下:Vt	：:COLONCATEGORY	
+一:DET	大:Vi	球:N	雙:A	小:Vi	球:N	NT:FW	120:DET	
+雙:A	大:Vi	球:N	或:C	四:DET	小:Vi	球:N	NT:FW	200:DET	
+吹:Vt	雪:N	
+生抹茶:N	冰淇淋:N	
+一:DET	大:Vi	球:N	NT:FW	150:DET	雙:M	大:Vi	球:N	NT:FW	260:DET	
+平安京:N	茶事:N	完整:Vi	菜單:N	MENU:FW	
+可:ADV	點:Vt	圖:N	放大:Vt	
+價錢:N	可是:C	非常:ADV	不:ADV	可愛:Vi	的:T	一:DET	間:M	店:N	
+低消:N	::COLONCATEGORY	平日:N	NT:FW	300:DET	+:FW	10:DET	%:M	/:FW	假日:N	NT:FW	450:DET	+:FW	10:DET	%:M	
+因為:C	其實:ADV	我:N	沒:ADV	查:Vt	過:ASP	價錢:N	就:ADV	直接:Vi	來:ADV	勒:Vt	
+看:Vt	菜單:N	時:POST	才:ADV	發現:Vt	價位:N	偏:ADV	高:Vi	
+假日:N	來:ADV	吃:Vt	甜點:N	最少:ADV	也:ADV	要:ADV	花:Vt	
+五百:DET	大洋:N	
+只:ADV	是:Vt	下午茶:N	甜點:N	而已:T	說:Vt	@:FW	@:FW	原來:A	現代人:N	消費力:N	都:ADV	這麼:ADV	好:Vi	
+到底:ADV	是:Vt	誰:N	說:Vt	經濟:N	不:ADV	景:N	
+氣:N	的:T	啦:T	
+但:C	那天:N	服務:Vt	我們:N	點:Vt	餐:N	的:T	店員:N	說:Vt	實在:ADV	不:ADV	太:ADV	專業:Vi	
+感覺:N	就是:C	新店:N	才:ADV	剛:ADV	開:Vt	兩:DET	個:M	月:N	訓練:N	不足:Vi	
+問:Vt	這:DET	
+個:M	不:ADV	知道:Vt	、:PAUSECATEGORY	問:Vt	那:DET	個:M	不:ADV	了解:Vt	
+都:ADV	要:ADV	跑進去:Vt	廚房:N	確認:Vt	後:POST	才:ADV	能:ADV	回答:Vt	我們:N	
+當下:N	觀感:N	沒有:ADV	很:ADV	好:Vi	
+覺:Vt	
+得:Vt	東西:N	如果:C	要:ADV	賣:Vt	得:T	貴:Vi	
+至少:ADV	服務:Vt	要:ADV	專業:Vi	、:PAUSECATEGORY	食物:N	也:ADV	要:ADV	有:Vt	那:DET	個:M	價值:N	
+菸:N	
+除了:P	一般:A	的:T	MENU:FW	之外:POST	
+平安京:N	茶事:N	還:ADV	有:Vt	假日:N	限定:Vt	款:N	套餐:N	SETFORHOLIDAY:FW	
+套餐:N	均一價:N	NT:FW	450:DET	+:FW	10:DET	%:M	
+剛剛:ADV	好過:Vi	了:ASP	假日:N	低消:N	的:T	最:ADV	低:Vi	金額:N	
+看來:ADV	也:ADV	只:ADV	能:ADV	選:Vt	這:DET	個:M	
+不然:C	吃:Vt	
+完:Vt	這:DET	頓:M	就:ADV	準備:Vt	吃:Vt	土勒:N	
+BTW:FW	
+平安京:N	茶事:N	是:Vt	用:P	平板:Vi	電腦:N	點:Vt	餐:N	的:T	喲:T	
+客人:N	看:Vt	的:T	還是:C	紙本:N	的:T	MENU:FW	
+一:ADV	看:Vt	就:ADV	知道:Vt	超:Vt	新:Vi	的:T	
+我們:N	都:ADV	不:ADV	敢:Vt	翻:Vt	太:ADV	大力:ADV	哈:ADV	
+蛋糕:N	卷:N	雙:A	片:N	套餐:N	
+抹茶:N	+:FW	玄米:N	
++:FW	抹茶:N	拿:Vt	鐵:N	
+原本:ADV	飲料:N	換:Vt	這:DET	個:M	
+NT:FW	450:DET	+:FW	10:DET	%:M	
+甜點:N	上:N	來:T	後:POST	驚覺:Vt	
+蝦毀:N	
+兩:DET	片:M	蛋糕:N	+:FW	一:DET	杯:M	飲料:N	吃完:Vt	要:ADV	五百:DET	
+這:DET	頓:M	甜點:N	好:ADV	奢侈:Vi	
+人家:N	好:ADV	窮:Vi	
+呷:ADV	完:Vi	沒:Vt	錢:N	吃:Vt	晚餐:N	勒:Vt	
+好:Vi	吧:T	就:ADV	是:Vt	一直:ADV	忍不住:Vt	嫌:Vt	它:N	貴:Vi	
+先:ADV	說說:Vt	甜點:N	
+照片:N	上:N	的:T	兩:DET	大:Vi	杯:M	
+一:DET	杯:M	是:Vt	抹茶:N	拿:Vt	鐵:N	
+一:DET	杯:M	是:Vt	抹茶歐蕾:N	
+就是:C	很:ADV	順口:Vi	的:T	抹:Vt	茶牛:N	
+奶:N	
+不:ADV	苦:Vi	不:ADV	澀:Vi	
+但:C	老實說:ADV	我們:N	兩:DET	個:M	人:N	都:ADV	分:Vt	不:ADV	出:Vt	這:DET	兩:DET	者:N	的:T	差異:N	
+喝:Vt	起來:ASP	根本:ADV	一樣:Vi	0:DET	..:ETCCATEGORY	0:DET	問:Vt	店:N	
+家:N	也:ADV	問:Vt	不:ADV	出:Vt	所以然:N	...:ETCCATEGORY	
+不:ADV	知道:Vt	為什麼:ADV	還:ADV	附:Vt	了:ASP	一:DET	杯:M	冷:Vi	泡茶:Vi	
+應該:ADV	是:Vt	蛋糕:N	解膩用:A	之類:POST	的:T	
+來:ADV	進入:Vt	正題:N	
+平安京:N	茶事:N	的:T	抹:Vt	茶:N	蛋糕:N	卷:N	厚度:N	至少:ADV	有:Vt	三:DET	公分:M	
+外皮:N	非常:ADV	鬆軟:Vi	不:ADV	乾澀:Vi	
+雖然:C	我:N	
+個:M	人:N	不:ADV	是:Vt	太:ADV	愛:Vt	鮮:Vi	奶油:N	
+但:C	因為:C	平安京:N	茶事:N	的:T	抹:Vt	茶:N	還是:ADV	偏:ADV	苦:Vi	的:T	口感:N	
+所以:C	和:P	偏:Vt	甜:Vi	的:T	鮮:Nv	奶油:N	調:Vt	
+和:C	
+就:ADV	剛好:ADV	不會:ADV	覺得:Vt	奶油:N	很:ADV	甜:Vi	膩:Vi	
+雖然:C	這:DET	不能:ADV	稱上:Vt	我:N	吃:Vt	過:ASP	最:ADV	好吃:Vi	的:T	抹:Vt	茶:N	蛋糕:N	捲:Vt	
+但:C	也:ADV	算:Vt	不:ADV	
+錯:Vi	啦:T	
+看:Vt	那:DET	已經:ADV	流下來:Vi	的:T	抹:Vt	茶:N	餡:N	我:N	又:ADV	想要:Vt	再:ADV	吃:Vt	它:N	一口:ADV	勒:Vt	
+芮妮:N	喜歡:Vt	抹:Vt	茶:N	就是:C	因為:C	討厭:Vt	太:ADV	甜:Vi	
+的:T	甜點:N	
+抹:Vt	茶:N	對:P	我:N	來:ADV	說:Vt	完全:ADV	沒有:Vt	抵抗力:N	
+玄米:N	的:T	表現:N	也:ADV	滿:ADV	不錯:Vi	
+就是:C	比較:ADV	有:Vt	茶香:N	
+稍微:ADV	不:ADV	甜:Vi	一點:ADV	
+但:C	兩:DET	者:N	吃起來:ADV	的:T	差異:N	不:ADV	大:Vi	
+巴菲:N	套餐:N	+:FW	抹茶歐蕾:N	NT:FW	450:DET	
+巴菲:N	一:ADV	上來:Vi	真的:ADV	好:ADV	讓:Vt	人:N	驚艷:Vi	
+顏色:N	太:ADV	華麗:Vi	太:ADV	漂亮:Vi	了:T	
+裡面:N	有:Vt	抹茶:N	冰淇淋:N	、:PAUSECATEGORY	抹茶:N	寒天:N	、:PAUSECATEGORY	白玉:N	、:PAUSECATEGORY	紅豆:N	、:PAUSECATEGORY	鳳梨:N	、:PAUSECATEGORY	奇異果:N	、:PAUSECATEGORY	西瓜:N	、:PAUSECATEGORY	抹茶:N	餅乾:N	、:PAUSECATEGORY	鮮:Vi	奶油:N	
+品:Vt	項:M	可以:ADV	說:Vt	是:Vt	相當:ADV	豐富:Vt	
+我:N	個:M	人:N	是:Vt	吃:Vt	不:ADV	出:Vt	這些:DET	東西:N	有:Vt	特別:Vi	優秀:Vi	的:T	地方:N	
+但:C	就是:C	整體:N	組合:Vt	在:P	
+一起:ADV	
+口感:N	多樣:Vi	很:ADV	新鮮:Vi	
+類似:Vt	用:P	聖代:N	的:T	方式:N	呈現:Vt	抹茶:N	
+雖然:C	作法:N	好像:ADV	不:ADV	太:ADV	道地:Vi	
+一:DET	種:M	重新:ADV	
+翻:Vt	玩:Vt	抹:Vt	茶:N	的:T	概念:N	
+但:C	無論:C	是:Vt	視覺:N	還是:C	味覺:N	都:ADV	是:Vt	一:DET	種:M	享宴:N	
+巴菲:N	吃起來:ADV	比較:ADV	不:ADV	無聊:Vi	是:Vt	真的:ADV	
+因為:C	可以:ADV	吃:Vt	比較:ADV	久:Vi	
+可能:ADV	心理:N	因素:N	上:POST	也:ADV	會:ADV	覺得:Vt	五百:DET	塊:M	花:N	的:T	
+比較:ADV	值得:Vi	吧:T	
+再:ADV	放:Vt	一:DET	張:M	精采:Vi	的:T	側面:N	照:Vt	&:FW	lt:FW	
+3:DET	
+雖然:C	我:N	真的:ADV	是:Vt	超級:A	抹茶:N	控:Vt	
+但:C	我:N	也:ADV	相當:ADV	重視:Vt	C/P:FW	值:P	這:DET	東西:N	
+平安京:N	茶事:N	還:ADV	真:ADV	不:ADV	是:Vt	一般人:N	隨:P	
+便:ADV	可以:ADV	吃:Vt	的:T	
+價位:N	確實:ADV	偏:ADV	高:Vi	
+也許:ADV	老闆:N	想要:Vt	用:P	價格:N	區隔:Nv	客層:N	
+也:ADV	不:ADV	允許:Vt	7:DET	歲:M	以下:POST	的:T	兒童:N	入:Vt	
+店:N	這:DET	之類:POST	的:T	
+無疑:ADV	都:ADV	是:Vt	要:ADV	保障:Vt	顧客:N	的:T	用餐:Nv	品質:N	
+但:C	吃:Vt	一:DET	次要:A	五百:DET	都:ADV	可以:ADV	拿去:Vt	吃:Vt	牛排:N	了:T	
+價:N	
+位:N	無法:ADV	列入:Vt	我:N	常:ADV	去:Vt	的:T	愛店:N	清單:N	裡:N	
+覺得:Vt	東西:N	好:Vi	自然:N	會:ADV	賺錢:Vi	的:T	價錢:N	不用:ADV	定:Vt	這麼:ADV	高:Vi	
+反而:C	會:ADV	少:Vi	
+掉:Vt	很多:DET	忠實:Vi	客群:N	
+畢竟:ADV	抹:Vt	茶店:N	的:T	選擇:Vt	這麼多:DET	......:ETCCATEGORY	即使:C	不錯:Vi	吃:Vt	
+也:ADV	只:ADV	能:ADV	祈禱:Vt	哪:DET	天:M	中:POST	樂透:N	再:ADV	
+來:ADV	勒:Vt	
+笑:Vi	
+值不值得:Vi	這:DET	種:M	事情:N	也:ADV	不:ADV	是:Vt	我:N	說:Vt	的:T	算:Vt	
+還是:ADV	要:ADV	你們:N	親身:ADV	體驗:Vt	才:ADV	能:ADV	一起:ADV	分享:Vt	討論:Nv	
+不過:C	也:ADV	希望:Vt	
+店家:N	能:ADV	加強:Vt	人事:N	訓練:N	
+有:Vt	專業:Vi	素養:N	的:T	店員:N	一定:ADV	會:ADV	讓:Vt	消費者:N	的:T	心理:N	感受:N	更:ADV	美好:Vi	的:T	
+※:FW	文章:N	網址:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.ptt.cc/bbs/Food/M.1405948868.A.73D.html:FW	
+※:FW	編輯:Nv	::COLONCATEGORY	rainieis:FW	
+114.24:DET	.:PERIODCATEGORY	24.112:DET	
+07:DET	/:FW	21:DET	/:FW	201422:DET	::COLONCATEGORY	48:DET	::COLONCATEGORY	49:DET	

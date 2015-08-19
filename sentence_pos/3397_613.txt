@@ -1,0 +1,88 @@
+sherry1115(nana:FW	媽:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	士林:N	夜市:N	.:PERIODCATEGORY	Luvincrepes:FW	軟式:A	可:Vi	麗餅:N	
+Wed:FW	
+Aug:FW	
+6:DET	
+23:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	53:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Luvincrepes:FW	樂芙:N	軟式:A	可:Vi	麗餅:N	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	陽明:N	戲院:N	安平街:N	(:PARENTHESISCATEGORY	右:N	巷:N	第二:DET	間:M	):PARENTHESISCATEGORY	(:PARENTHESISCATEGORY	捷運:N	劍潭:N	站:Vi	1:DET	號:M	出口:Nv	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	0976:DET	-:DASHCATEGORY	647088:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	15:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	23:DET	::COLONCATEGORY	00:DET	
+nana:FW	媽:N	四處:ADV	趴:Vi	趴:Vi	走:Vi	日記:N	原:A	圖文:N	網誌版:N	::COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nana960701.pixnet.net/blog/post:FW	/:FW	383335904:DET	
+位在:Vt	陽明:N	戲院:N	旁:N	的:T	安平:N	街:N	裡:N	
+隱身:Vi	一:DET	間:M	可:Vi	麗餅:N	小店:N	
+走進:Vt	窄窄:Vi	小:Vi	巷:N	內:N	
+右:N	巷:N	第二:DET	間:M	
+就:ADV	能:ADV	發現:Vt	以:P	浪漫:Vi	甜心:N	色系:N	為:Vt	主題:N	的:T	LuvinCrepes:FW	樂芙:N	軟式:A	可:Vi	麗餅:N	
+店:N	內:N	無:Vt	內:N	用:Vt	座位:N	.:PERIODCATEGORY	只:ADV	能:ADV	外帶:Vt	
+LuvinCrepes:FW	樂芙:N	軟式:A	可:Vi	麗餅:N	雖然:C	是:Vt	走:Vi	平價:N	路線:N	
+讓:Vt	客人:N	品嚐:Vt	之:N	於:P	.:PERIODCATEGORY	也:ADV	能:ADV	同時:N	享受到:Vt	不:ADV	一樣:Vi	的:T	時尚:N	甜美:Vi	可:Vi	麗餅:N	
+LuvinCrepes:FW	樂芙:N	軟式:A	可:Vi	麗餅:N	
+有:Vt	分:M	
+●:FW	軟式:A	系列:N	
+可:ADV	做:Vt	甜:Vi	的:T	口味:N	
+●:FW	熱酥:N	系列:N	
+可:ADV	做:Vt	鹹:Vi	的:T	或:C	甜:Vi	的:T	口味:N	
+茹素:Vi	的:T	朋友:N	.:PERIODCATEGORY	除了:P	鹹:Vi	可:Vi	麗餅:N	是:Vt	葷:Vi	食:N	之外:POST	.:PERIODCATEGORY	其餘:DET	口味:N	都:ADV	是:Vt	蛋:N	奶:N	素:ADV	
+冰淇淋:N	選用:Vt	日本:N	meiji:FW	-:DASHCATEGORY	明治:N	冰淇淋:N	
+這邊:N	還:ADV	有:Vt	販售:Vt	少見:Vi	的:T	巧克力餅:N	皮:N	及:C	抹茶:N	餅皮:N	口味:N	
+愛:Vt	吃:Vt	巧克力:N	或是:C	愛抹:Vt	茶:N	的:T	您:N	.:PERIODCATEGORY	可:ADV	千萬:DET	別:ADV	錯過:Vt	這:DET	款:M	口味:N	
+遠遠:Vi	看到:Vt	Nutella:FW	包裝:N	字樣:N	
+其實:ADV	並:ADV	不:ADV	陌生:Vi	
+NANA:FW	媽:N	以前:POST	曾:ADV	買:Vt	過:ASP	幾:DET	次:M	Nutella:FW	
+塗抹:Vt	在:P	吐司:N	上:N	給:Vt	小鬼頭:N	當:Vt	早餐:N	吃:Vt	
+Nutella:FW	榛果:N	巧克力醬:N	的:T	味道:N	
+其實:ADV	跟:P	金莎:N	巧克力:N	很:ADV	像:Vt	
+有時候:ADV	nana:FW	嘴饞:Vi	時:POST	.:PERIODCATEGORY	
+會:ADV	去:ADV	打開:Vt	冰箱:N	偷偷:ADV	挖:Vt	Nutella:FW	來:ADV	吃:Vt	..:ETCCATEGORY	XD:FW	
+可想而知:ADV	.:PERIODCATEGORY	加上:C	這:DET	一味:ADV	不管:C	是:Vt	女孩子:N	還是:C	小朋友:N	們:N	都:ADV	很:ADV	深受:Vt	歡迎:Vt	
+如果:C	不:ADV	曉得:Vt	怎麼:Vi	點:ADV	嗎:T	
+來:ADV	來:ADV	來:ADV	..:ETCCATEGORY	
+上頭:N	menu:FW	有:Vt	產品:N	參考:Vt	圖:N	寫:Vt	
+跟:P	老闆娘:N	講:Vt	你:N	要:ADV	幾:DET	號:M	口味:N	的:T	可:Vi	麗餅:N	
+老闆娘:N	就:ADV	會:ADV	馬上:ADV	現:ADV	做:Vt	給:Vt	你:N	
+影片:N	
+nana:FW	媽:N	有:Vt	瞧見:Vt	樂芙:N	經典:N	蛋糕:N	奢華:Nv	系列:N	
+但:C	不:ADV	大:Vi	明白:Vt	蛋糕:N	跟:P	可:Vi	麗餅:N	有:Vt	何:DET	關聯:Nv	
+一:ADV	問:Vt	老闆娘:N	才:ADV	明白:Vt	.:PERIODCATEGORY	這:DET	是:Vt	老闆娘:N	的:T	創意:N	新:Vi	吃法:N	
+將:ADV	可:ADV	麗餅包:N	入樂:Vi	芙:b	自製:Vt	蛋糕:N	.:PERIODCATEGORY	
+2:DET	號:M	提拉米蘇佐:N	香蕉:N	口味:N	95:DET	$:FW	
+蛋:N	奶:N	素:ADV	
+可:ADV	麗餅餅皮烤:Vt	過:ASP	好:ADV	香:Vi	喔:T	
+金黃:Vi	可口:Vi	的:T	模樣:N	
+nana:FW	一:DET	拿到:Vt	可:Vi	麗餅:N	
+已經:ADV	迫不及待:ADV	.:PERIODCATEGORY	想:Vt	馬上:ADV	嚐:Vt	鮮:Vi	一:DET	塊:M	
+薄嫩:Vi	的:T	甜餅皮:N	.:PERIODCATEGORY	
+卻:ADV	有:Vt	著:ASP	Q:FW	彈:Vt	有:Vt	勁兒:N	
+當:P	鮮:Vi	奶油:N	與:C	卡士達醬:N	碰上:Vt	了:ASP	鬆軟:Vi	提拉米蘇:N	
+提拉米:N	蘇:N	的:T	口感:N	更:ADV	顯:Vt	滋潤:Vt	
+加上:C	新鮮:Vi	香蕉片:N	
+結合:Vt	了:ASP	巧克力醬:N	
+混:Vi	搭出:Vt	的:T	美味:N	.:PERIODCATEGORY	
+讓:Vt	人:N	意想不到:Vt	的:T	驚奇:Nv	
+18:DET	號:M	香煎:N	牛肉:N	佐:Vt	花生醬:N	100:DET	$:FW	
+香濃:Vi	酥脆:Vi	的:T	餅:N	皮:N	
+包進:N	清爽:Vi	的:T	生菜:N	.:PERIODCATEGORY	玉米:N	.:PERIODCATEGORY	小黃瓜:N	.:PERIODCATEGORY	軟:Vi	嫩:Vi	牛肉:N	.:PERIODCATEGORY	花生醬:N	..:ETCCATEGORY	等:POST	5:DET	種:M	好:Vi	料:N	
+其實:ADV	是:Vt	6:DET	種:M	好:Vi	料:N	.:PERIODCATEGORY	由於:C	nana:FW	媽:N	不:ADV	敢:Vt	吃:Vt	番茄:N	只:ADV	能:ADV	捨棄:Vt	第6:DET	種:M	好:Vi	料:N	@:FW	@:FW	
+咬下去:Vt	熱:Vt	酥餅皮:N	會:ADV	有:Vt	ㄎ:FW	ㄠ:FW	ㄎ:FW	ㄠ:FW	聲響:N	.:PERIODCATEGORY	脆度:N	很:ADV	夠:Vi	
+邊:ADV	吃:Vt	的:T	時候:N	.:PERIODCATEGORY	餅:N	皮:N	碎削:N	會:ADV	一:DET	邊:N	掉:Vi	
+咀嚼:Vt	同時:N	飄出:Vi	濃郁:Vi	花生:N	香:Vi	.:PERIODCATEGORY	更:ADV	增添:Vt	風味:N	.:PERIODCATEGORY	
+香:Vi	脆:Vi	花生:N	顆粒:N	迅速:Vi	在:P	口:N	中:N	跳躍:Vi	
+鹹香:N	中:POST	都:ADV	帶有:Vt	蔬菜:N	的:T	爽脆:Vi	
+每:ADV	一口:ADV	都:ADV	有:Vt	不同:Vi	變化:N	
+吃完:Vt	很:ADV	有:Vt	飽足感:N	的:T	可:Vi	麗餅:N	
+當然:ADV	要:ADV	來上:Vt	一:DET	杯:M	現代:Vi	紅茶:N	30:DET	$:FW	
+如果:C	有:Vt	買:Vt	可:Vi	麗餅:N	.:PERIODCATEGORY	加購:Vt	一:DET	杯:M	現代:Vi	紅茶:N	只要:C	25:DET	$:FW	
+冰涼:Vi	的:T	紅茶:N	芳醇:N	茶湯:N	香味:N	.:PERIODCATEGORY	隨之:ADV	撲鼻:Vi	而:C	來:ADV	
+炎炎夏日:N	不:ADV	想:Vt	吃:Vt	太:ADV	油膩:Vi	的:T	東西:N	.:PERIODCATEGORY	
+不妨:ADV	試試:Vt	luvincrepes:FW	樂芙:N	軟式:A	可:Vi	麗餅:N	
+想要:Vt	了解:Vt	北市:N	相關:Vi	文章:N	.:PERIODCATEGORY	歡迎:Vt	點閱:Vt	::COLONCATEGORY	
+【:PARENTHESISCATEGORY	台北:N	捷運:N	美食:N	】:PARENTHESISCATEGORY	す:FW	き:FW	家:M	SukiYa:FW	平價:N	牛丼:N	不用:ADV	飛到:Vt	日本:N	也:ADV	能:ADV	吃到:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nana960701.pixnet.net/blog/post:FW	/:FW	379518893:DET	
+【:PARENTHESISCATEGORY	台北:N	捷運:N	美食:N	】:PARENTHESISCATEGORY	蒙古:N	紅:Vi	蒙古:N	火鍋:N	吃到:Vt	飽:Vi	一:ADV	吃:Vt	會:ADV	上癮:Vi	的:T	好店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	nana960701.pixnet.net/blog/post:FW	/:FW	372083153:DET	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+歡迎:Vt	大家:N	加入:Vt	NANA:FW	媽:N	四處:ADV	趴:Vi	趴:Vi	走:Vi	日記:N	粉絲團:N	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/nana:FW	9671:DET	

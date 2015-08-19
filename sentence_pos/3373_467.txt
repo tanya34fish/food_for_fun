@@ -1,0 +1,142 @@
+chuantina:FW	(:PARENTHESISCATEGORY	一:DET	朵:M	小:Vi	桃紅:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	PINEDE:FW	。:PERIODCATEGORY	名古屋:N	甜點:N	登台:Vi	，:COMMACATEGORY	清爽:Vi	不:ADV	膩:Vi	
+Thu:FW	
+Jul:FW	
+31:DET	
+09:DET	::COLONCATEGORY	14:DET	::COLONCATEGORY	46:DET	
+2014:DET	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	381601520:DET	
+PINEDE:FW	彼:DET	內朵:N	消費:N	日期:N	：:COLONCATEGORY	2014年:N	7月:N	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27400101:DET	店:N	址:N	：:COLONCATEGORY	台北市:N	忠孝東路:N	三段:N	244:DET	號:M	創立:Vt	於:P	西元:N	1974年:N	的:T	PINEDE:FW	
+在:P	日本:N	名古屋:N	已:ADV	有:Vt	近:DET	40:DET	年:M	的:T	歷史:N	囉:T	
+最近:N	趕上來:Vi	台灣:N	的:T	熱潮:N	
+也:ADV	登台:Vi	開設:Vt	海外:N	第一:DET	家:M	分店:N	
+秉持:Vt	著:ASP	好吃:Vi	、:PAUSECATEGORY	簡單:Vi	及:C	新鮮:Vi	三:DET	大:Vi	原則:N	
+清爽:Vi	不:ADV	膩:Vi	的:T	好:Vi	滋味:N	也:ADV	深深:Vi	打動:Vt	人心:N	
+會:ADV	知道:Vt	PINEDE:FW	來:Vi	台:N	
+完全:ADV	是:Vt	在:P	PTT:FW	得知:Vt	的:T	消息:N	
+是:Vt	說:Vt	美食版:N	的:T	鄉民:N	實在:ADV	很:ADV	強大:Vi	
+只:ADV	貼出:Vt	新聞:N	立馬:N	就:ADV	有:Vt	人:N	回答:Vt	
+完全:ADV	是:Vt	臥虎藏龍:Vi	的:T	一:DET	個:M	神奇:Vi	地方:N	呀:T	
+說真的:ADV	
+我:N	對:P	這:DET	牌子:N	其實:ADV	很:ADV	陌生:Vi	
+而且:C	網路:N	上:POST	也:ADV	搜:Vt	尋不到:Vt	什麼:DET	食記:N	
+但:C	看到:Vt	關鍵字:N	
+甜點店:N	
+我:N	整:DET	個:M	是:Vt	不:ADV	怕:Vt	踩雷:Vt	就:ADV	往:P	前:DET	插旗:N	了:T	XDPINEDE:FW	開設:Vt	的:T	地點:N	座落:Vt	於:P	忠孝東路:N	上:N	
+鄰近:Vt	忠孝:N	復興:Vt	站:Vi	
+步行:Vi	不用:ADV	5:DET	分鐘:M	即可:ADV	抵達:Vt	
+這:DET	一帶:N	跟:P	我:N	想像:Vt	中:POST	有:Vt	些:M	不:ADV	一樣:Vi	
+原:ADV	以為:Vt	是:Vt	車水馬龍:Vi	的:T	熱鬧:Vi	街頭:N	
+但:C	這:DET	區:N	似乎:ADV	相對:Vi	孄靜:N	許多:DET	
+藏身:Vi	在:P	大樓:N	一樓:N	的:T	店面:N	
+淺色:N	的:T	店:N	門:N	設計:N	
+低調:Vi	優雅:Vi	而:C	富有:Vt	質感:N	
+整:DET	間:M	店:N	以:P	木質:N	的:T	元素:N	為主:Vi	
+顏色:N	討喜:Vi	
+雖然:C	沒有:Vt	華麗:Vi	的:T	裝飾:N	
+可是:C	像:Vt	這樣:Vi	高雅:Vi	而:C	簡潔:Vi	
+反而:C	更:ADV	讓:Vt	人:N	覺得:Vt	舒服:Vi	而:C	自在:Vi	
+大大:Vi	的:T	長桌:N	
+讓:Vt	我:N	聯想到:Vt	豪宅:N	內:N	一:DET	群:M	人:N	在:P	吃:Vt	著:ASP	大餐:N	的:T	場景:N	
+別:ADV	懷疑:Vt	
+店:N	內:N	就:ADV	這麼:ADV	一:DET	張:M	桌子:N	
+因為:C	它:N	的:T	生意:N	還:ADV	算:Vt	不錯:Vi	
+所以:C	下午茶:N	的:T	時間:N	除非:C	你:N	是:Vt	外帶:Vt	
+不然:C	記得:Vt	先:ADV	訂位:Vi	比較:Vt	保險:N	呦:b	
+每:DET	次:M	到:P	這:DET	種:M	甜點店:N	
+最:ADV	讓:Vt	我:N	無法:ADV	抗拒:Vt	的:T	就:ADV	屬:Vt	透明:Vi	的:T	甜點櫃:N	了:T	
+一:DET	個:M	一:DET	個:M	華麗:Vi	的:T	蛋糕:N	
+都:ADV	會:ADV	在:P	瞬間:N	立馬:N	激起:Vt	我:N	的:T	少女心:N	&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+我:N	發現:Vt	店員:N	的:T	教育:N	訓練:N	做:Vt	得:T	不錯:Vi	
+看到:Vt	前來:Vt	的:T	客人:N	都:ADV	會:ADV	仔細:Vi	地:T	介紹:Vt	它們:N	家:N	的:T	甜點:N	
+不管:C	是:Vt	口感:N	、:PAUSECATEGORY	原料:N	
+甚至:ADV	有:Vt	問題:N	詢問:Vt	
+他們:N	也:ADV	蠻:ADV	有:Vt	耐心:N	的:T	
+至少:ADV	對:P	我:N	這:DET	種:M	腦袋:N	不:ADV	太:ADV	靈光:Vi	的:T	人:N	來:ADV	說:Vt	特別:Vi	有感:Vi	
+有時候:ADV	會:ADV	有:Vt	聽:Vt	沒:ADV	有:Vt	種:M	還:ADV	反覆:ADV	地:T	問:Vt	XD:FW	泡芙:N	、:PAUSECATEGORY	蒙布朗:N	、:PAUSECATEGORY	圓型:N	小:Vi	起:ASP	士:N	蛋糕:N	及:C	1974:DET	起:M	士:N	蛋糕:N	都:ADV	是:Vt	招牌:N	
+我:N	覺得:Vt	圓型:N	起:POST	士:N	的:T	設計:N	還:ADV	不錯:Vi	
+除了:P	口味:N	眾多:Vi	
+小巧:Vi	模樣:N	不僅:C	適合:Vi	女孩兒:N	
+也:ADV	不易:Vi	因:C	份量:N	大:Vi	而:C	覺得:Vt	顯膩:N	
+除了:P	冰箱:N	裡面:N	的:T	甜點:N	
+另外:C	還:ADV	有:Vt	販售:Vt	手工:N	餅乾:N	、:PAUSECATEGORY	茶包:N	等:POST	小:Vi	物:N	
+心型:N	的:T	布朗尼:N	
+可愛:Vi	外表:N	非常:ADV	討喜:Vi	
+東方:N	丘:N	比特:N	紅茶:N	
+NT:FW	.:PERIODCATEGORY	150:DET	元:M	
+茶香:N	聞起來:ADV	還:ADV	蠻:ADV	獨特:Vi	的:T	
+不過:C	滋味:N	算是:Vt	一般:A	般:POST	
+優點:N	是:Vt	喝:Vt	來:ADV	柔順:Vi	而:C	不:ADV	澀:Vi	口:N	
+坐:Vi	我們:N	旁邊:N	的:T	大姐:N	倒是:ADV	很:ADV	推:Vt	水果:N	茶:N	及:C	咖啡:N	
+有:Vt	興趣:N	的:T	朋友:N	不妨:ADV	可以:ADV	一:ADV	試:Vt	呦:b	
+1974:DET	起:M	士:N	蛋糕:N	
+NT:FW	.:PERIODCATEGORY	75:DET	元:M	
+這:DET	款:M	是:Vt	PINEDE:FW	的:T	經典:N	甜點:N	
+取名:Vt	來由:N	是:Vt	因:C	蛋糕:N	於:P	1974年:N	被:P	製作:Vt	出來:Vi	
+所以:C	後來:N	就:ADV	延用:Vt	它:N	的:T	年份:N	當:Vt	名稱:N	
+外型:N	樸實:Vi	而:C	簡單:Vi	
+外:N	圈:N	帶有:Vt	烤:Vt	過:ASP	之後:POST	的:T	咖褐:N	色澤:N	
+紮實:Vi	綿密:Vi	的:T	口感:N	是:Vt	它:N	給:Vt	人:N	最:ADV	深刻:Vi	的:T	印象:N	
+起士味:N	沒:ADV	想像:Vt	中:POST	濃郁:Vi	
+可是:C	吃:Vt	來:ADV	卻:ADV	雋永:Vi	深邃:Vi	
+我:N	喜歡:Vt	它:N	慢慢:Vi	融化:Vt	在:P	嘴:N	裡:N	的:T	感覺:N	
+淡淡:Vi	的:T	
+很:ADV	含蓄:Vi	
+齒頰留:N	香:N	讓:Vt	人:N	難忘:Vt	
+泡芙:N	
+NT:FW	.:PERIODCATEGORY	50:DET	元:M	
+個:M	頭:N	約莫:ADV	比:P	一:DET	個:M	女孩子:N	的:T	拳頭:N	再:ADV	大上:Vt	一些:DET	
+泡芙:N	也許:ADV	不:ADV	是:Vt	什麼:DET	太:ADV	稀奇:Vi	的:T	東西:N	
+不過:C	因:C	在:P	表層:N	加入:Vt	杏仁角:N	
+就:ADV	顯得:Vt	它:N	的:T	獨特:Vi	之:T	處:N	
+表皮:N	乾脆:Vi	香酥:N	
+因:C	有:Vt	杏仁角:N	的:T	加持:Vt	
+咀嚼:Vt	起來:ASP	更:ADV	是:Vt	倍增:Vt	它:N	的:T	香氣:N	
+飽滿:Vi	的:T	卡士達醬:N	擁有:Vt	大大:Vi	的:T	滿足感:N	
+好:ADV	香:Vi	又:ADV	好:ADV	濃郁:Vi	
+而且:C	加:Vt	在:P	裡面:N	的:T	香草:N	莢:N	也:ADV	頗:ADV	大器:N	的:T	呦:b	
+芒果:N	蛋糕:N	
+NT:FW	.:PERIODCATEGORY	120:DET	元:M	
+使用:Vt	甜度:N	高:Vi	、:PAUSECATEGORY	水份:N	多:Vi	、:PAUSECATEGORY	香氣:N	又:ADV	足:Vi	的:T	愛:Nv	文:N	當:Vt	食材:N	
+是:Vt	PINEDE:FW	特別:Vi	為:P	台灣店:N	設計:N	的:T	一:DET	款:M	水果:N	蛋糕:N	
+才:ADV	吃:Vt	一口:ADV	就:ADV	讓:Vt	人:N	驚豔:Vi	
+甚至:C	我:N	覺得:Vt	比:P	經典:N	起:POST	士:N	還:ADV	要:Vt	美味:Vi	
+蛋糕體:N	輕盈:Vi	濕潤:Vi	
+當:P	融化:Vt	在:P	嘴:N	裡:N	時:POST	
+就:ADV	像:Vt	在:P	芒果園:N	奔跑:Vi	一樣:Vi	
+滿滿:Vi	都:ADV	是:Vt	芒果:N	的:T	氣息:N	
+雖然:C	說:Vt	果香:N	濃郁:Vi	
+可是:C	甜度:N	卻:ADV	不:ADV	高:Vi	
+有:Vt	一:DET	種:M	食材:N	結合:Vt	到:P	恰到好處:Vi	的:T	境界:N	
+好:ADV	好吃:Vi	呦:b	
+已:ADV	融化:Vt	
+品嚐:Vt	過:ASP	PINEDE:FW	的:T	甜點:N	之後:POST	
+感受:N	就:ADV	如同:P	它們:N	想:Vt	傳遞:Vt	的:T	訊息:N	一樣:Vi	
+是:Vt	簡單:Vi	的:T	美味:N	
+外觀:N	不:ADV	走:Vi	華麗:Vi	精緻:Vi	
+但:C	有時候:ADV	樸實:Vi	的:T	美麗:Vi	也:ADV	是:Vt	另:DET	一:DET	種:M	不同:Vi	的:T	體驗:Nv	
+延伸:Vi	閱讀:Vt	
+曉:N	確:ADV	幸:ADV	
+光:ADV	看:Vt	就:ADV	讓:Vt	人:N	覺得:Vt	好:ADV	幸福:Vi	的:T	夢幻:N	甜點:N	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	80382253:DET	柏林:N	頓:Vi	花園:N	PaddingtonGarden:FW	
+超:Vt	犯規:Vi	的:T	草莓:N	乳酪:N	煎餅:N	
+好:Vi	夢幻:N	呀:T	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	93703948:DET	和:C	茗:N	甘味處:N	
+抹茶控:Vt	必:ADV	訪:Vt	
+馥郁:Vi	茶香:N	超:Vt	誘人:Vi	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	340892831:DET	咖啡:N	瑪榭:N	
+吸晴度:N	滿:DET	表:N	的:T	盆栽:N	甜點:N	
+屬:Vt	女孩兒:N	們:N	的:T	甜蜜:Nv	聚會:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post/355057838JamlingCafe:FW	
+視覺:N	與:C	味覺:N	的:T	雙層:A	享受:Nv	
+超:Vt	犯規:Nv	美莓果:N	鬆餅:N	
+季節:N	限定:Nv	中:POST	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post/357381704Amy'sCafe:FW	愛:Vt	蜜思:N	咖啡:N	
+食尚:N	玩家:N	之:T	溫馨:Nv	小店:N	
+超:Vt	好吃:Vi	太:ADV	妃:N	核果:N	派:Vt	叫:Vt	人:N	念念不忘:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	359715029:DET	敲敲:Vt	咖啡:N	KNOCKKAFE:FW	
+與:C	夢幻:N	甜點:N	的:T	美麗:Vi	邂逅:Vt	
+一:ADV	嚐:Vt	就:ADV	愛上:Vt	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	366082373:DET	小:Vi	食糖:N	SugarBistro:FW	
+藏身:Vi	在:P	巷弄:N	內:N	的:T	超:A	美味:N	乳酪:N	蛋糕:N	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	369434534:DET	巷弄:N	裡:N	的:T	噠噠:b	聲:M	
+腳踏車:N	甜點:N	
+躲:Vt	在:P	巷子:N	內:N	的:T	秒:M	殺布:N	蕾:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	375299132:DET	--:DASHCATEGORY	

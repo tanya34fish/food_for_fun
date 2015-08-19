@@ -1,0 +1,59 @@
+QQminiai:FW	(:PARENTHESISCATEGORY	大貓:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義:N	斜角:N	巷魔豆屋:N	
+Fri:FW	
+Jul:FW	
+25:DET	
+13:DET	::COLONCATEGORY	43:DET	::COLONCATEGORY	22:DET	
+2014:DET	
+好讀網:N	網誌:N	同步:Vi	發表:Vt	於:P	GET:FW	窩:N	http:FW	::COLONCATEGORY	/:FW	/:FW	0:DET	rz.tw/nwWCw:FW	
+大貓宅:N	生活:N	http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog/post:FW	/:FW	41165944:DET	餐廳:N	名稱:N	::COLONCATEGORY	斜角:N	巷魔豆屋:N	消費:N	時間:N	::COLONCATEGORY	2014.0:DET	1.21:DET	/:FW	2014.0:DET	2.27:DET	
+除此以外:ADV	我:N	常常:ADV	去:ADV	
+但:C	只:ADV	挑:Vt	了:ASP	這:DET	兩:DET	天:M	的:T	照片:N	放:Vt	上來:Vi	
+最近:N	去:Vt	的:T	一:DET	次:M	差不多:ADV	是:Vt	6:DET	月份:N	左右:POST	
+店家:N	地址:N	::COLONCATEGORY	台北市:N	信義區:N	基隆路:N	二段:N	19:DET	-:DASHCATEGORY	1:DET	號:M	店家:N	電話:N	::COLONCATEGORY	
+02:DET	
+2725:DET	-:DASHCATEGORY	1377:DET	營業:Nv	時間:N	::COLONCATEGORY	AM:FW	8:DET	::COLONCATEGORY	00:DET	
+PM:FW	19:DET	::COLONCATEGORY	00:DET	我:N	只要:C	每:DET	次:M	來:POST	這:DET	附近:N	
+最:ADV	常:ADV	喝:Vt	的:T	咖啡:N	莫過於:Vt	同:DET	一:DET	條:M	路:N	上:N	的:T	
+黑:Vi	吧:T	
+煎焙:Vt	咖啡:N	
+但是:C	因為:C	有時候:ADV	黑:Vi	吧:T	人:N	真的:ADV	很多:DET	也:ADV	會:ADV	很:ADV	熱:Vt	
+我:N	待:Vt	不:ADV	下去:Vi	
+XDDDD:FW	所以:C	
+斜角:N	巷魔豆屋:N	
+是:Vt	我:N	另:DET	一:DET	家:M	也:ADV	是:Vt	很:ADV	鐘意:N	的:T	咖啡店:N	
+很:ADV	喜歡:Vt	他們:N	的:T	木質:N	打造:Vt	環境:N	
+我:N	通常:ADV	都:ADV	是:Vt	來:ADV	外帶:Vt	咖啡:N	
+也:ADV	因為:C	我:N	時間:N	通常:ADV	只:ADV	能:ADV	外帶:Vt	
+所以:C	我:N	幾乎:ADV	喝:Vt	拿:Vt	鐵:N	
+真:ADV	希望:Vt	有:Vt	天:M	可以:ADV	很:ADV	悠哉:Vi	地:T	坐:Vi	在:P	這裡:N	喝:Vt	單品:N	
+沒:ADV	記錯:Vt	的:T	話:N	應該:ADV	是:Vt	2:DET	月份:N	的:T	時候:N	
+來:ADV	買:Vt	咖啡:N	時:POST	碰到:Vt	有:Vt	媒體:N	採訪:Vt	
+即使:C	是:Vt	外帶:Vt	咖啡:N	的:T	奶:N	泡:Vt	也:ADV	可以:ADV	很:ADV	細緻:Vi	
+上面:N	浮:Vi	著:ASP	很:ADV	美:Vi	的:T	褐色:N	crema:FW	
+斜角:N	巷魔豆屋:N	
+的:T	咖啡:N	有:Vt	著:ASP	堅果:N	香:Vi	
+而且:C	拿到:Vt	手:N	的:T	咖啡:N	溫度:N	是:Vt	不會:ADV	燙手:Vi	的:T	
+更:ADV	不:ADV	燙口:Vt	
+溫度:N	是:Vt	咖啡:N	該:DET	有的:DET	溫度:N	
+所以:C	喝:Vt	起來:ASP	也:ADV	不:ADV	酸澀:Vi	
+我:N	喜歡:Vt	在:P	咖啡:N	保持:Vt	gentle:FW	的:T	溫度:N	的:T	時候:N	
+輕:Vi	晃:Vt	著:ASP	咖啡杯:N	
+一口:ADV	接:Vt	一口:ADV	的:T	將:P	這:DET	杯:M	的:T	小:Vi	美好:Vi	飲:Vt	盡:Vt	
+有時候:ADV	也:ADV	會:ADV	忍不住:Vt	拿起:Vt	附贈:Vt	的:T	攪拌:Nv	木棒:N	
+刮起:Vt	杯壁:N	上:N	殘留:Vt	的:T	咖啡:N	奶泡:N	
+貪心:Vi	地:T	搜刮:Vt	乾淨:Vi	
+對於:P	可以:ADV	外帶:Vt	的:T	咖啡:N	而言:Vt	
+斜角:N	巷魔豆屋:N	
+的:T	外帶:Nv	咖啡:N	已經:ADV	做:Vt	得:T	很:ADV	好了:T	
+而且:C	價格:N	也:ADV	很:ADV	平價:N	
+我:N	記得:Vt	是:Vt	NT:FW	.:PERIODCATEGORY	70:DET	上下:N	
+喝:Vt	很多:DET	次:M	
+品質:N	大致上:ADV	穩定:Vt	
+還:ADV	沒:ADV	喝:Vt	過:ASP	有:Vt	出錯:Vi	的:T	時候:N	::COLONCATEGORY	
+店員:N	也:ADV	很:ADV	有:Vt	禮貌:N	
+服務:Nv	感覺:N	很:ADV	好:Vi	::COLONCATEGORY	
+如果:C	不:ADV	想:Vt	去:ADV	擠:Vt	黑:Vi	吧:T	
+這:DET	家:M	歡迎:Vt	大家:N	試試:Vt	
+但是:C	別:ADV	擠爆:Vt	了:ASP	啊:T	...:ETCCATEGORY	這樣:Vi	我:N	就:ADV	又:ADV	失去:Vt	了:ASP	一:DET	家:M	很:ADV	愛:Vt	的:T	口袋:N	名單:N	惹:Vt	QQ:FW	
+好讀網:N	網誌:N	同步:Vi	發表:Vt	於:P	GET:FW	窩:N	http:FW	::COLONCATEGORY	/:FW	/:FW	0:DET	rz.tw/nwWCw:FW	大貓宅:N	生活:N	http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog/post:FW	/:FW	41165944:DET	文章:N	另:DET	發表:Vt	於:P	踹:Vt	論壇:N	http:FW	::COLONCATEGORY	/:FW	/:FW	0:DET	rz.tw/riCTj:FW	--:DASHCATEGORY	大貓宅:N	生活:N	http:FW	::COLONCATEGORY	/:FW	/:FW	alicequeen.pixnet.net/blog:FW	愛力:N	獅:N	粉絲:N	圖:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/AlicesVoice:FW	--:DASHCATEGORY	

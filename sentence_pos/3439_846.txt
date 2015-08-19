@@ -1,0 +1,38 @@
+JohnsonWang:FW	(:PARENTHESISCATEGORY	強森王:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	永康街:N	麗水街:N	的:T	美味:N	老店:N	：:COLONCATEGORY	六品:N	小:Vi	館:N	
+Tue:FW	
+Aug:FW	
+19:DET	
+21:DET	::COLONCATEGORY	35:DET	::COLONCATEGORY	20:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	六品:N	小:Vi	館:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	金華街:N	199巷:N	3弄:N	8:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2393:DET	-:DASHCATEGORY	0104:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	午餐:N	與:C	晚餐:N	時段:N	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	-:DASHCATEGORY	400:DET	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+圖文:N	完整:Vi	版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	yuann.tw:FW	/:FW	?:QUESTIONCATEGORY	p:FW	=:FW	5231:DET	
+這:DET	天:M	與:C	小學:N	同學:N	一起:ADV	聚餐:Vi	
+選:Vt	的:T	就是:C	當年:N	母校:N	金華:N	國小:N	旁:N	的:T	
+六品:N	小:Vi	館:N	
+有:Vt	同學:N	是:Vt	小學:N	
+時:N	就:ADV	吃:Vt	過:ASP	這:DET	家:M	了:T	
+想想:Vt	那:DET	就:ADV	有:Vt	大概:ADV	27年:N	以前:N	了:T	
+算是:Vt	老店:N	應該:ADV	不為過:Vi	囉:T	
+也:ADV	有的:DET	同學:N	近:ADV	
+年:N	來:ADV	才:ADV	吃:Vt	過:ASP	
+我:N	則:ADV	是:Vt	一:DET	次:M	也:ADV	沒有:Vt	
+但:C	看到:Vt	網路:N	上:N	的:T	評價:N	都:ADV	還:ADV	不錯:Vi	
+就:ADV	慫恿:Vt	大家:N	來:ADV	聚餐:Vi	了:ASP	
+一:DET	行:N	八:DET	個:M	人:N	
+點:Vt	了:ASP	這些:DET	菜:N	
+平均:Vi	一:DET	人:N	四百:DET	元:M	左右:POST	
+首先:ADV	是:Vt	豆干:N	肉絲:N	
+有:Vt	著:ASP	大火:N	快:ADV	炒:Vt	的:T	焦:Vi	
+香:Vi	
+豆干切絲切:N	的:T	挺:ADV	細:Vi	
+還:ADV	蠻:ADV	軟:Vi	嫩:Vi	的:T	
+相當:ADV	好吃:Vi	
+據說:ADV	是:Vt	六品:N	小:Vi	館:N	的:T	招牌菜:N	之:T	一:DET	
+https:FW	::COLONCATEGORY	/:FW	/:FW	farm4.staticflickr.com/3912/14716400277_0fe20836a2_z.jpg:FW	

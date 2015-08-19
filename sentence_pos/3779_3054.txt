@@ -1,0 +1,53 @@
+hoho:FW	123:DET	(:PARENTHESISCATEGORY	我:N	現在:N	真是:ADV	晴空萬里:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	‧:PERIODCATEGORY	信義區:N	華納威秀:N	‧:PERIODCATEGORY	燒丼:Vt	株式會社:N	
+Fri:FW	
+Nov:FW	
+21:DET	
+16:DET	::COLONCATEGORY	13:DET	::COLONCATEGORY	50:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	燒丼:Vt	株式會社:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	11月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松壽路:N	20:DET	號:M	2樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2758:DET	-:DASHCATEGORY	0909:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	都:ADV	好吃:Vi	
+網誌:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	daigo24.pixnet.net/blog/post:FW	/:FW	190548891:DET	
+中午:N	剛好:ADV	想:Vt	吃:Vt	點:M	肉:N	
+所以:C	便:ADV	打算:Vt	去:Vt	這裡:N	吃:Vt	頓:M	飯:N	
+找到:Vt	了:ASP	這:DET	間:M	店:N	
+剛好:ADV	人:N	少少:Vi	的:T	很:ADV	適合:Vi	我們:N	
+我們:N	坐:Vi	了:ASP	三:DET	人:N	坐:Vi	的:T	高腳:N	椅:N	
+也:ADV	可以:ADV	坐:Vi	吧台:N	前:POST	
+但:C	我:N	不:ADV	喜歡:Vt	和:C	老闆:N	面對面:Vi	吃:Vt	
+例如:P	::COLONCATEGORY	鐵板燒:N	
+所以:C	我們:N	就:ADV	進去:Vi	找:Vt	位置:N	坐:Vi	
+這:DET	是:Vt	點:M	單:ADV	
+自己:N	打勾:Vi	後:POST	去:Vt	櫃台:N	結帳:Vi	
+它:N	的:T	種類:N	不:ADV	多:Vi	
+但:C	現在:N	好像:ADV	有:Vt	多:DET	一:DET	種:M	雪花:N	豬:N	可以:ADV	選:Vt	
+這:DET	是:Vt	目錄:N	
+桌:N	上:N	有:Vt	大:Vi	蒜泥:N	和:C	辣:Vi	蘿蔔乾:N	可以:ADV	供:Vt	客人:N	自己:N	加:Vt	用:P	
+點好:Vt	後:POST	就:ADV	回到:Vt	位置:N	等:Vt	它:N	響:Vi	囉:T	
+等:POST	不:ADV	到:Vt	十:DET	分鐘:M	就:ADV	來:Vi	了:ASP	
+我們:N	點:Vt	了:ASP	一:DET	個:M	豬:N	丼:b	和:C	雞丼:N	
+各:ADV	是:Vt	１９０:DET	元:M	和:C	１７０:DET	元:M	
+用:P	某:DET	家:M	信用卡:N	付:Vt	帳:N	有:Vt	打:Vt	九:DET	折:M	
+這:DET	是:Vt	雞丼:N	
+雞肉:N	烤:Vt	的:T	很:ADV	香:Vi	嫩:Vi	
+而且:C	有:Vt	很多:DET	蔥:N	
+真是:ADV	超讚:N	的:T	
+這:DET	是:Vt	豬丼:N	
+肉片:N	多:ADV	到:P	嚇死:Vt	人:N	
+而且:C	肉:N	甜甜:Vi	的:T	好:ADV	好吃:Vi	
+加上:C	大:Vi	蒜泥:N	更:ADV	是:Vt	好吃:Vi	喔:T	
+附有:Vt	一:DET	個:M	味噌湯:N	也:ADV	很:ADV	好喝:Vi	
+就:P	商業:N	午餐:N	來:ADV	說:Vt	
+它:N	算是:Vt	一:DET	個:M	不錯:Vi	的:T	選擇:N	
+至少:ADV	肉片:N	很多:DET	
+不:ADV	像:P	上:DET	次:M	去:ADV	吃:Vt	的:T	那:DET	家:M	只有:ADV	四:DET	片:M	
+價格:N	差不多:Vi	但是:C	吃完:Vt	還是:ADV	好像:ADV	沒:ADV	吃:Vt	一樣:Vi	
+有:Vt	機會:N	我:N	會:ADV	再:ADV	去:ADV	消費:Vi	
+謝謝:Vt	收看:Nv	

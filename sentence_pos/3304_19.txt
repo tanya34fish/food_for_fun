@@ -1,0 +1,316 @@
+bapyhana(bapyhana:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	SEASON:FW	分子:N	甜點:N	+:FW	8:DET	家:M	分子:N	冰淇淋:N	整理:Vt	
+Fri:FW	Jul:FW	11:DET	02:DET	::COLONCATEGORY	59:DET	::COLONCATEGORY	14:DET	2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	SEASONCuisinePatissiartism:FW	敦南:N	旗:N	鑑店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	1月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	295巷:N	16:DET	號:M	
+電話:N	：:COLONCATEGORY	0227085299:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週二:N	~:FW	週日:N	11:DET	::COLONCATEGORY	30:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	NT.400up:FW	＊:FW	低消:N	每:DET	人:N	一:DET	份:M	餐點:N	＋:FW	飲料:N	/:FW	另:DET	收:Vt	服務費:N	10:DET	%:M	
+&:FW	gt:FW	;:SEMICOLONCATEGORY	&:FW	gt:FW	;:SEMICOLONCATEGORY	&:FW	gt:FW	;:SEMICOLONCATEGORY	好讀:Vt	圖文:N	網誌版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/YwZvU3&lt:FW	;:SEMICOLONCATEGORY	&:FW	lt:FW	;:SEMICOLONCATEGORY	&:FW	lt:FW	;:SEMICOLONCATEGORY	
+以下:N	純:Vi	文字:N	版本:N	：:COLONCATEGORY	
+":FW	分子:N	料理:N	是:Vt	_:FW	_:FW	_:FW	_:FW	
+":FW	簡單:Vi	來:ADV	說:Vt	
+分子:N	料理:N	的:T	原理:N	是:Vt	
+改變:Vt	食材:N	型態:N	
+但:C	化學:N	組成:Vt	不變:Vi	
+而:C	分子:N	冰淇淋:N	是:Vt	利用:Vt	
+高壓:N	液態:N	氮:N	
+極速:N	降溫:Nv	至:C	-:DASHCATEGORY	196:DET	度:M	
+讓:Vt	基底:N	材料:N	化為:Vt	冰凍:Vt	爽口:Vi	的:T	冰品:N	
+口感:N	介:Vt	在:P	冰淇淋:N	跟:P	霜淇淋:N	間:POST	
+但:C	因為:C	冰晶:N	結構:N	小:Vi	
+吃起來:ADV	更:ADV	綿密:Vi	滑順:N	
+接下來:ADV	在:P	介紹:Vt	分子:N	料理:Vt	究竟:N	何方:N	神聖:Vi	、:PAUSECATEGORY	主打:Nv	分子:N	甜點:N	的:T	SEASONCuisinePatissiartism:FW	食用:Vt	心得:N	之後:POST	
+一連:ADV	整理:Vt	位於:Vt	台北:N	/:FW	高雄:N	/:FW	首:M	爾:T	/:FW	香港:N	/:FW	洛杉磯:N	/:FW	雪梨:N	/:FW	墨爾本:N	
+共:ADV	8:DET	家:M	專營:Vt	
+次:DET	世代:N	分子:N	冰淇淋:N	
+的:T	年輕:Vi	品牌:N	
+分子:N	廚藝:N	
+Moleculargastronomy:FW	
+已:ADV	在:P	歐洲:N	興起:Vt	數:DET	年:M	
+評價:N	兩極:N	
+或許:ADV	一般:ADV	大眾:N	
+包含:Vt	我:N	
+仍然:ADV	覺得:Vt	有點:ADV	陌生:Vi	、:PAUSECATEGORY	有點:ADV	距離:P	感:N	
+印象:N	中:POST	是:Vt	歐美:N	創作:Vt	餐廳:N	才:ADV	能:ADV	吃到:Vt	的:T	
+料理:Vt	人:N	與:P	其:DET	說:Vt	是:Vt	廚師:N	
+更:ADV	像:Vt	是:Vt	科學家:N	
+施展:Vt	一:DET	場場:DET	
+解構:Vt	再:ADV	重組:Vt	
+的:T	魔術:N	
+一:ADV	是:Vt	利用:Vt	可:ADV	食用:Vt	的:T	化學:N	物質:N	合成:Vt	逼近:Vt	真實:Vi	食材:N	的:T	口感:N	
+例如:P	吸引:Vt	比爾蓋茲:N	投資:N	的:T	
+植物性:N	人造蛋:N	
+據說:ADV	用:P	這:DET	個:M	合成:Nv	蛋:N	液:N	做出:Vt	的:T	炒蛋:N	
+風味:N	口感:N	都:ADV	足以:Vt	媲美:Vt	真:Vi	蛋:N	
+二:DET	是:Vt	改變:Vt	物質:N	原本:ADV	的:T	形態:N	
+最:ADV	淺顯:Vi	易懂:Vi	的:T	就是:C	讓:Vt	一粒粒:DET	的:T	砂糖:N	結晶:N	變成:Vt	輕飄飄:Vi	如:P	絲縷:N	的:T	棉花糖:N	
+也:ADV	因為:C	解構:Vt	再:ADV	重組:Vt	
+顛覆:Vt	口感:N	的:T	既定:A	印象:N	
+成:Vt	了:ASP	鑽研:Vt	分子:N	料理:N	的:T	人:N	們:N	最:ADV	熱衷:Vt	的:T	事:N	
+比拼:Vi	創意:N	做出:Vt	個:M	人:N	識別度:N	
+帶來:Vt	
+所:ADV	見:Vt	未必:ADV	所得:N	
+的:T	飲食:N	革命:Nv	
+例如:P	泡沫狀:N	的:T	牛肉:N	、:PAUSECATEGORY	珍珠:N	寶石:N	般:POST	的:T	高湯:N	
+追求:Vt	那:DET	一:DET	秒:M	的:T	入口:N	驚奇:Nv	
+彷彿:ADV	是:Vt	以:P	精密:Vi	的:T	科學:N	執行:Vt	最:ADV	高等級:N	的:T	惡作劇:N	
+我:N	個:M	人:N	還是:ADV	比較:ADV	想:Vt	吃:Vt	有:Vt	彈:Vt	牙:N	的:T	纖維:N	肌理:N	的:T	“:FW	真:Vi	.:PERIODCATEGORY	牛排:N	”:FW	啦:T	::COLONCATEGORY	p:FW	
+年初:N	與:C	朋友:N	在:P	有點:ADV	誤打誤撞:Vi	的:T	情況:N	下:POST	
+笑:Vi	
+造訪:Vt	了:ASP	主打:Nv	分子:N	甜點:N	的:T	SEASONCuisinePatissiartism:FW	
+店員:N	對:P	自家:N	甜點:N	了解:Vt	程度:N	很:ADV	高:Vi	
+介紹:Vt	詳盡:Vi	但:C	不:ADV	匠氣:N	擺弄:Vt	
+或許:ADV	是:Vt	因為:C	當晚:N	連:C	我們:N	這:DET	桌:M	只有:ADV	三:DET	桌:M	客人:N	
+服務:Nv	應對:Nv	超級:A	仔細:Vi	
+但:C	也:ADV	還:ADV	不:ADV	到:Vt	會:ADV	負擔:Vt	的:T	程度:N	XD:FW	
+可能:ADV	晚上:N	七八:DET	點:M	明明:ADV	應該:ADV	吃:Vt	正餐:N	的:T	時間:N	
+我們:N	一:ADV	進:Vt	門:N	卻:ADV	只:ADV	關心:Vt	蛋糕櫃:N	裡:POST	還:ADV	剩:Vt	什麼:DET	甜點:N	實在:ADV	太:ADV	不尋常:Vi	了:T	
+所以:C	後來:N	還:ADV	招待:Vt	了:ASP	一:DET	份:M	分子:N	甜點:N	最:ADV	入門:Vi	的:T	童趣:N	棉花糖:N	
+只:ADV	是:Vt	跟:P	清爽:Vi	淡雅:Vi	的:T	花神:N	＆:FW	層次:N	多變:Vi	的:T	蘋果派:N	一:ADV	比:P	
+彷彿:ADV	冒:Vt	著:ASP	粉紅:Vi	泡泡:N	的:T	棉花糖:N	顯得:Vt	有點:ADV	死:Vi	甜膩:Vi	口:N	
+雖然:C	很:ADV	感謝:Vt	款待:Vt	但:C	最後:N	這:DET	道:M	沒有:ADV	吃完:Vt	...:ETCCATEGORY	&:FW	lt:FW	
+_:FW	_:FW	
+&:FW	gt:FW	
+-:DASHCATEGORY	花神:N	NT:FW	.:PERIODCATEGORY	200:DET	-:DASHCATEGORY	現:N	烤:Vt	低溫:N	熟成:Vt	蘋果派:N	佐:Vt	橄欖油:N	冰沙:N	NT:FW	.:PERIODCATEGORY	380:DET	-:DASHCATEGORY	童趣:N	棉花糖:N	NT:FW	.:PERIODCATEGORY	150:DET	
+招待:Vt	
+-:DASHCATEGORY	法式:A	早餐茶:N	、:PAUSECATEGORY	五點鐘茶:N	各:DET	NT:FW	.:PERIODCATEGORY	200:DET	
+熱:Vt	
+可:ADV	回沖:N	其中:DET	蘋果派:N	一:DET	旁:N	佐:Vt	上:Vt	了:ASP	蘋果汁:N	
+另:DET	一:DET	杯:M	淡淡:Vi	黃綠色:N	的:T	是:Vt	橄欖油:N	冰沙:N	
+這:DET	杯:M	冰沙:N	翻新:Vt	了:ASP	我:N	以:P	既有:A	認知:Nv	想像:N	
+橄欖油:N	的:T	味道:N	
+能:ADV	怎麼:ADV	變身:Vi	的:T	任何:DET	可能:ADV	
+無法:ADV	斷定:Vt	觸舌:Vi	瞬間:N	化開:Vt	的:T	
+冰鎮:A	綿密物:N	
+本:DET	尊:M	究竟:ADV	為何:ADV	
+這:DET	份:M	不確定感:N	
+莫非:ADV	就:ADV	是:Vt	品味:Vt	分子:N	料理:N	的:T	境界:N	嗎:T	XDDD:FW	只:ADV	能:ADV	說:Vt	我:N	的:T	庶民:N	魂:N	一時:N	半刻:N	還不是:ADV	很:ADV	習慣:Vt	...:ETCCATEGORY	::COLONCATEGORY	p:FW	據說:N	
+進到:Vt	徹底:Vi	執行:Vt	分子:N	料理:N	的:T	廚房:N	
+是:Vt	見不到:Vt	任何:DET	生鮮:A	食材:N	的:T	
+而是:C	成:Vt	批:M	裝:Vt	了:ASP	
+化學:N	原料:N	
+的:T	罐頭:N	或:C	原料桶:N	
+雖然:C	這:DET	畫面:N	實在:ADV	太:ADV	激:Vt	不:ADV	起:Vt	食慾:N	了:T	
+但:C	也:ADV	杜絕:Vt	了:ASP	蟑螂:N	老鼠:N	等:POST	衛生:N	問題:N	不:ADV	是:Vt	嗎:T	XD:FW	
+也:ADV	有:Vt	人:N	說:Vt	分子:N	料理:N	是:Vt	太空:N	食物:N	的:T	延伸:Nv	應用:N	
+或許:ADV	分子:N	料理:N	研究:Nv	是:Vt	解決:Vt	全球:N	食物:N	資源:N	逐漸:ADV	短少:Vt	、:PAUSECATEGORY	分配:Vt	不均:Vi	的:T	希望:N	之:T	一:DET	
+":FW	凍感:N	白:Vi	煙:N	並非:ADV	新鮮:Vi	事:N	但:C	娛樂:N	效果:N	滿分:N	":FW	回到:Vt	分子:N	料理:Vt	冰淇淋:N	上:N	
+有:Vt	不少:DET	提供:Vt	甜點:N	的:T	分子:N	料理:Vt	餐廳:N	
+選擇:Vt	將:ADV	戲劇化:Vt	的:T	製作:Nv	過程:N	現場:N	展演:N	給:Vt	客人:N	看:Vt	
+也許:ADV	是:Vt	開放式:A	的:T	甜點:N	廚房:N	、:PAUSECATEGORY	或者:C	是:Vt	臨:P	桌:N	獻上:Vt	一:DET	場:M	充滿:Vt	娛樂:N	效果:N	的:T	創作秀:N	
+利用:Vt	高壓:N	液態:N	氮氣:N	特性:N	
+遇:Vt	空氣:N	中:POST	水氣:N	瞬間:N	漫出:Vt	白色:N	煙霧:N	
+豐富:Vt	了:ASP	感官:N	體驗:Vt	
+享用:Vt	美食:N	不僅:C	只:ADV	滿足:Vt	味蕾:N	
+連:C	視覺:N	享受:Vt	都:ADV	照顧到:Vt	了:ASP	
+雖然:C	冒:Vt	白:Vi	煙:N	並:ADV	不:ADV	是:Vt	一:DET	個:M	很:ADV	新:Vi	甚至:ADV	略:ADV	嫌:Vt	老派:A	的:T	噱頭:N	
+但:C	卻:ADV	能:ADV	輕易:ADV	勾起:Vt	所有人:N	腦海:N	中:N	
+真:ADV	好吃:Vi	
+的:T	共通:Vi	記憶:N	
+舉凡:C	的:T	火鍋:N	
+熱騰騰:Vi	
+、:PAUSECATEGORY	拉麵:N	
+暖呼呼:Vi	
+、:PAUSECATEGORY	咖啡:N	
+香醇:Vi	芬芳:Vi	
+更:ADV	不用說:ADV	令:Vt	人:N	暑意:N	全:DET	消:Vi	的:T	冰品:N	囉:T	
+分子:N	料理:N	其實:ADV	並:ADV	沒:ADV	那麼:ADV	高不可攀:Vi	
+因為:C	身價:N	並非:ADV	取決:Vi	於:P	原料:N	
+而是:C	技術:N	結合:Vt	創意:N	
+於是:C	全球:N	各:DET	地:T	腦筋:N	動:Vt	得:T	快:Vi	的:T	經營:Nv	者:N	
+不約而同:ADV	以:P	操作:Vt	簡單:Vi	的:T	冰品:N	搶灘:Vi	大眾:N	市場:N	
+也:ADV	為了:P	呼應:Vt	分子:N	料理:Vt	緣起:N	科學:N	實驗:N	的:T	背景:N	
+不少:DET	販售:Vt	分子:N	冰淇淋:N	的:T	品牌:N	都:ADV	選擇:Vt	將:P	
+實驗室:N	元素:N	
+融入:Vt	店:N	裝潢:N	
+像:Vt	是:Vt	燒瓶:N	、:PAUSECATEGORY	試管:N	、:PAUSECATEGORY	針筒:N	
+並:C	選用:Vt	白色:N	、:PAUSECATEGORY	藍色:N	等:POST	理性:N	色系:N	
+也:ADV	很:ADV	愛:Vt	用:Vt	
+LAB:FW	
+或是:C	代表:N	
+氮:N	元素:N	
+的:T	N:FW	字母:N	為:P	店:N	命名:Vt	
+分子:N	冰淇淋:N	以:P	液態:N	氮:N	瞬間:N	降溫:Vi	
+改變:Vt	原料:N	形態:N	
+製成:Vt	
+優點:N	是:Vt	不:ADV	需要:Vt	以:P	人工:N	添加物:N	的:T	乳化劑:N	、:PAUSECATEGORY	穩定劑:N	或:C	高:Vi	乳脂:N	讓:Vt	冰淇淋:N	成形:Vi	
+靠:Vt	的:T	是:Vt	低溫:N	
+但:C	也:ADV	代表會:N	隨著:P	溫度:N	上升:Vi	而:C	迅速:Vi	融化:Vt	
+最:ADV	標準:Vi	的:T	享用:Nv	步驟:N	就:ADV	是:Vt	現:N	點:N	、:PAUSECATEGORY	現:N	打:Vt	、:PAUSECATEGORY	即刻:ADV	享用:Vt	
+又:ADV	是:Vt	一:DET	個:M	促成:Vt	排隊:Vi	人潮:N	、:PAUSECATEGORY	吸引:Vt	注意:Vt	的:T	時間:N	因素:N	
+不宜:Vt	外帶:Vt	保存:Nv	
+這:DET	個:M	優點:N	也:ADV	同時:N	讓:Vt	分子:N	冰淇淋:N	被:P	貼上:Vt	
+比:P	霜淇淋:N	、:PAUSECATEGORY	冰淇淋:N	更:ADV	健康:Vi	
+的:T	標籤:N	
+不過:C	呢:T	
+也:ADV	不能:ADV	忘:Vt	了:ASP	往:P	上:N	追溯:Vt	關鍵:N	的:T	
+原料:N	、:PAUSECATEGORY	原液:N	
+是否:ADV	也:ADV	健康:Vi	
+不然:C	我們:N	其實:ADV	可以:ADV	把:P	
+分子:N	料理:N	
+當成:Vt	一:DET	種:M	新:Vi	的:T	宣傳:N	噱頭:N	
+輕鬆:Vi	看待:Vt	即可:ADV	
+::COLONCATEGORY	
+另外:C	
+店家:N	也:ADV	應該:ADV	留意:Vt	工作:N	人員:N	＆:FW	消費者:N	的:T	安全:Nv	
+雖然:C	液態:N	氮:N	常見:Vi	於:P	皮膚科:N	的:T	冷凍:Nv	治療:N	
+但:C	若是:C	操作:Vt	不當:Vi	
+例如:P	與:P	混:Vt	和:Vi	的:T	原料:N	溫差:N	過:ADV	大:Vi	
+也:ADV	有:Vt	可能:ADV	發生:Vt	危險:Vi	的:T	
+科普:N	
+完:Vi	分子:N	冰淇淋:N	之後:POST	
+下:DET	件:M	事:N	只:ADV	剩:Vt	
+哪裡:N	可以:ADV	吃:Vt	得到:Vt	
+而已:T	吧:T	
+XD:FW	其實:ADV	一:ADV	開始:Vt	是:Vt	因為:C	Instagram:FW	上:N	韓國:N	網友:N	po:FW	了:ASP	THELABCreamery:FW	
+標:Vt	了:ASP	#:FW	明洞:N	
+但:C	打卡:Vi	的:T	地方:N	是:Vt	鄉下:N	XD:FW	這:DET	線索:N	是:Vt	要:ADV	逼死:Vt	誰:N	
+於是:C	用:P	僅有:Vt	的:T	關鍵字:N	展開:Vt	一連串:A	土法:N	煉鋼:Vi	的:T	Google:FW	搜尋:Vt	XD:FW	一:ADV	查:Vt	
+還:ADV	發現:Vt	
+氮:N	
+的:T	韓文:N	跟:P	日文:N	
+窒素:N	
+發音:N	好像:ADV	
+雜學:N	經驗值:N	＋:FW	1:DET	
+以下:N	7:DET	個:M	城市:N	共:ADV	8:DET	個:M	品牌:N	就:ADV	是:Vt	在:P	搜尋:Vt	途中:N	拾獲:Vt	的:T	
+都:ADV	在:P	相關:Vi	關鍵字:N	的:T	第一:DET	頁:M	
+應該:ADV	有點:ADV	品質:N	保證:Vt	吧:T	
+XD:FW	相信:Vt	這:DET	幾:DET	個:M	城市:N	、:PAUSECATEGORY	或者:C	沒:ADV	列出:Vt	的:T	城市:N	也:ADV	絕對:ADV	有:Vt	其他:DET	分子:N	冰淇淋店:N	插:Vt	旗子:N	了:T	
+再:ADV	搜:Vt	下去:ASP	會:ADV	沒完沒了:Vi	::COLONCATEGORY	p:FW	總之:ADV	先:ADV	從:P	台北:N	出發:Vi	南下:Vi	高雄:N	吧:T	
+然後:ADV	經:P	香港:N	轉機:N	飛往:Vt	首:DET	爾:N	
+再:ADV	轉飛:Vi	至:P	美國:N	
+最後:N	繞到:Vt	南半球:N	澳洲:N	涼:Vi	一下:N	再:ADV	回:Vt	熱烘烘:Vi	的:T	家:N	吧:T	
+XD:FW	
+好:ADV	荒唐:Vi	地:T	繞:Vi	了:ASP	太平洋:N	一:DET	圈:M	
+#:FW	台北:N	49:DET	LAB:FW	
+2014年:N	6月:N	發表:Vt	
+facebook49LAB:FW	是:Vt	由:P	Bakery:FW	49:DET	經營:Vt	的:T	系列:N	品牌:N	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/llwSlj:FW	地址:N	
+1:DET	
+Bakery:FW	49:DET	台北:N	敦北店:N	
+2:DET	
+信義:N	三越:N	A:FW	8:DET	館:N	
+3:DET	
+板橋:N	環球:A	購物:Nv	中心:N	營業:Nv	時間:N	
+1:DET	
+週一:N	
+週六:N	9:DET	：:COLONCATEGORY	00:DET	
+21:DET	：:COLONCATEGORY	00:DET	、:PAUSECATEGORY	週日:N	9:DET	：:COLONCATEGORY	00:DET	
+16:DET	：:COLONCATEGORY	00:DET	
+2:DET	
+.:PERIODCATEGORY	
+3:DET	
+依:P	各:DET	百貨:N	為準:Vi	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	#:FW	台北:N	CoolN:FW	2:DET	分子:N	虎:N	分子:N	雪糕:N	專賣:Vt	
+2014年:N	4月:N	開幕:Vi	
+facebookhttps:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/coolN:FW	2:DET	地址:N	台北市:N	士林區:N	文林路:N	27:DET	號:M	營業:Nv	時間:N	12:DET	：:COLONCATEGORY	00:DET	
+23:DET	：:COLONCATEGORY	30:DET	
+或:C	至:P	12:DET	：:COLONCATEGORY	00:DET	不定:Vi	
+目前:N	是:Vt	號稱:Vt	
+台灣:N	最早:ADV	專營:Vt	分子:N	冰淇淋:N	
+的:T	品牌:N	
+圖:N	中:POST	份量:N	看起來:ADV	給:Vt	得:T	很:ADV	大方:Vi	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	#:FW	高雄:N	N:FW	7:DET	分子:N	冰淇:N	淋:Vt	專賣店:N	
+2014年:N	6月:N	開幕:Vi	
+facebookhttps:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/N7LNIC:FW	地址:N	高雄市:N	苓雅區:N	林森:N	二路:N	17巷:N	25:DET	號:M	營業:Nv	時間:N	14:DET	：:COLONCATEGORY	30:DET	
+22:DET	：:COLONCATEGORY	00:DET	不:ADV	定期:ADV	公休:Vi	
+港式奶醬脆:Vi	多:Vi	士:N	
+上面:N	還:ADV	插:Vt	了:ASP	香港:N	小:Vi	旗:N	
+重擊:Vt	巧克力:N	雪:N	酪:b	
+附:Vt	實驗室:N	元素:N	的:T	針筒:N	淋:Vt	醬:N	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	--:DASHCATEGORY	#:FW	香港:N	LabMade:FW	
+2012年:N	開幕:Vi	
+facebookhttps:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/LabMadeHK:FW	地址:N	大坑:N	、:PAUSECATEGORY	尖沙咀:N	、:PAUSECATEGORY	將軍:N	澳:N	、:PAUSECATEGORY	屯門:N	、:PAUSECATEGORY	北:N	角:N	營業:Nv	時間:N	以及:C	各:DET	店:N	地址:N	、:PAUSECATEGORY	公休:Vi	時間:N	LINKFACEBOOK:FW	常:ADV	推出:Vt	期間:N	限定:Vt	的:T	特別:Vi	口味:N	
+像:Vt	是:Vt	充滿:Vt	香江:N	風情:N	的:T	港式:A	月餅:N	系列:N	：:COLONCATEGORY	雙黃:N	蓮蓉:N	月餅:N	、:PAUSECATEGORY	流沙:N	奶皇包:N	、:PAUSECATEGORY	士多啤梨:N	
+草莓:N	
+牛:N	油酥:N	
+早:ADV	在:P	2012年:N	就:ADV	開幕:Vi	的:T	LabMade:FW	
+現在:N	更:ADV	多角:A	經營:Nv	與:C	潮:N	牌:N	推出:Vt	許多:DET	聯名:ADV	周邊:N	商品:N	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	#:FW	韓國:N	搜尋:Vt	
+氮氣:N	IceCream:FW	
+ps.bbs:FW	似乎:ADV	無法:ADV	顯示:Vt	韓文:N	
+請見:Vt	網誌:N	::COLONCATEGORY	
+就:ADV	能:ADV	找到:Vt	很多:DET	相關:Vi	訊息:N	囉:T	
+LINKintagram:FW	主題:N	牆:N	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/grCOM:FW	5:DET	
+不只:ADV	以下:N	介紹:Vt	的:T	2:DET	家:M	
+光:ADV	是:Vt	主題:N	牆:N	上:N	還:ADV	有:Vt	THELABCreamery:FW	
+明洞:N	、:PAUSECATEGORY	首:N	爾:N	大學:N	、:PAUSECATEGORY	釜山:N	
+、:PAUSECATEGORY	TheFLASK:FW	
+釜山:N	
+、:PAUSECATEGORY	N2GelatoLab:FW	
+蔚山:N	
+、:PAUSECATEGORY	ici:FW	
+大邱:N	
+、:PAUSECATEGORY	icelab:FW	
+大邱:N	
+等等:POST	
+韓國:N	真的:ADV	是:Vt	冰淇淋:N	的:T	天堂:N	啊:T	
+往:P	空谷:N	吶喊:Vi	
+抱歉:Vt	無法:ADV	提供:Vt	詳盡:Vi	的:T	口味:N	資訊:N	
+因為:C	我:N	還:ADV	停留:Vi	在:P	有一搭沒一搭:Vi	的:T	懶人:N	認:Vt	字母:N	階段:N	XD:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	#:FW	首:DET	爾:N	弘大:Vt	AZOTOfacebookN/A:FW	地址:N	366:DET	-:DASHCATEGORY	19:DET	
+HP:FW	
+Tips:FW	弘大:Vt	停車場街:N	前:DET	段:M	營業:Nv	時間:N	週日:N	
+週四:N	11:DET	：:COLONCATEGORY	00:DET	
+23:DET	：:COLONCATEGORY	00:DET	、:PAUSECATEGORY	週五:N	週六:N	12:DET	：:COLONCATEGORY	00:DET	
+23:DET	：:COLONCATEGORY	00:DET	※:FW	韓國:N	網友:N	食記:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.cyworld.com/mchoux:FW	/:FW	4243604:DET	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	+:FW	#:FW	首:M	爾:N	VOILACreamery:FW	弘大:Vt	店:N	
+facebookhttps:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/voilacreamery:FW	地址:N	332:DET	-:DASHCATEGORY	14:DET	
+HP:FW	
+Tips:FW	往:P	STYLENANDA:FW	、:PAUSECATEGORY	由:P	7:DET	-:DASHCATEGORY	11:DET	轉入:Vt	的:T	那:DET	條:M	巷子:N	
+延伸:Vi	閱讀:Vt	：:COLONCATEGORY	STYLENANDA:FW	弘大:Vt	旗艦店:N	怎麼:ADV	去:Vt	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/yltQ7c:FW	
+營業:Nv	時間:N	週日:N	
+週四:N	12:DET	：:COLONCATEGORY	00:DET	
+22:DET	：:COLONCATEGORY	00:DET	、:PAUSECATEGORY	週五:N	週六:N	12:DET	：:COLONCATEGORY	00:DET	
+23:DET	：:COLONCATEGORY	00:DET	VOILA:FW	的:T	FB:FW	介紹:Vt	說:Vt	他們:N	是:Vt	韓國:N	第一:DET	家:M	液態:N	氮:N	冰淇淋:N	
+看來:ADV	展店:N	版圖:N	也:ADV	是:Vt	最:ADV	廣:Vi	的:T	
+在:P	盤浦:N	、:PAUSECATEGORY	忠:Vi	武路站:N	等:POST	交通:N	便利:Nv	的:T	地方:N	
+以及:C	韓流:N	fans:FW	可能:ADV	會:ADV	去:ADV	踩:Vt	點:N	的:T	京畿:N	道高陽市日山:N	園區:N	
+/:FW	一:DET	山:N	
+都:ADV	有:Vt	分店:N	
+※:FW	韓國:N	網友:N	食記:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.daum.net/lovelygreent:FW	/:FW	1157:DET	
+弘大:Vt	店:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.naver.com/s:FW	_:FW	0422:DET	/:FW	40180144642:DET	
+日山店:N	&:FW	lt:FW	
+--:DASHCATEGORY	mbc:FW	附近:N	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	--:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	#:FW	洛杉磯:N	ICEC:FW	REAMLABfacebookhttps:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/LAIceCreamLab:FW	地址:N	噢:T	天:N	
+一:ADV	看:Vt	郵遞區號:N	是:Vt	90210:DET	飛躍:Nv	比佛利:N	呀:T	
+已:ADV	懷舊:Vi	XD:FW	
+LINKFACEBOOK:FW	營業:Nv	時間:N	週日:N	
+週三:N	12:DET	：:COLONCATEGORY	00:DET	
+23:DET	：:COLONCATEGORY	00:DET	、:PAUSECATEGORY	週四:N	
+周六:N	12:DET	：:COLONCATEGORY	00:DET	
+24:DET	：:COLONCATEGORY	00:DET	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	--:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	#:FW	雪梨:N	、:PAUSECATEGORY	墨:N	爾:T	本:DET	N2ExtremeGelatofacebook:FW	雪梨:N	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/UvR9t:FW	1:DET	墨爾本:N	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maiPl:FW	7:DET	營業:Nv	時間:N	週一:N	
+週日:N	13:DET	：:COLONCATEGORY	00:DET	
+23:DET	：:COLONCATEGORY	00:DET	我:N	必須:ADV	說:Vt	搜:Vt	圖:N	時:POST	最:ADV	令:Vt	人:N	崩潰:Vi	的:T	就是:C	這:DET	家:M	
+創始人:N	是:Vt	亞裔:N	
+除了:P	水果:N	、:PAUSECATEGORY	巧克力:N	等:Vt	大眾:N	口味:N	
+他:N	也:ADV	很:ADV	擅長:Vt	融入:Vt	東南亞:N	熱帶:N	風情:N	的:T	食材:N	
+像:Vt	是:Vt	香瓜:N	、:PAUSECATEGORY	椰果:N	、:PAUSECATEGORY	西米露:N	
+咖椰:N	土司:N	口味:N	還:ADV	挺進:Vi	了:ASP	澳洲:N	冰淇淋:N	大賽:N	
+令:Vt	人:N	太:ADV	好奇:Vi	的:T	配料:N	與:C	口味:N	
+卻:ADV	吃:Vt	不:ADV	到:Vt	&:FW	gt:FW	
+O&lt:FW	
+只:ADV	能:ADV	用:P	多圖:N	攻擊:Vt	表示:Vt	我:N	的:T	理智:N	斷線:Vi	
+快:ADV	加入:Vt	這:DET	個:M	行列:N	一起:ADV	崩潰:Vi	
+而且:C	店員:N	在:P	大門:N	玻璃:N	上:N	的:T	每:DET	日:M	留言:N	實在:ADV	太:ADV	幽默:Vi	有:Vt	才:ADV	
+香瓜:N	雪酪:N	＋:FW	椰子:N	乾:Vi	＋:FW	椰果:N	＋:FW	注入:Vt	柚子酒:N	
+太:ADV	想:Vt	吃:Vt	了:ASP	
+☆:FW	開車:Vi	不:ADV	喝:Vt	酒:N	
+喝:Vt	酒:N	不:ADV	開車:Vi	☆:FW	火焰:N	噴:Vt	槍:N	伺候:Vt	黃金:N	香草:N	卡士達:N	冰淇淋:N	
+現:ADV	做:Vt	
+冰:N	與:C	火:N	之:T	烤:Vt	布蕾:N	
+omg:FW	....:ETCCATEGORY	銷魂:Vi	
+品牌:N	自:P	介:Vt	表示:Vt	：:COLONCATEGORY	我們:N	不:ADV	做:Vt	那:DET	種:M	宣稱:Vt	低脂:N	妝點:Vt	得:T	毫:N	可愛:Vi	的:T	產品:N	
+只:ADV	使用:Vt	鄰近:Nv	酪農人:N	家產:N	的:T	全:DET	脂:N	牛奶:N	與:C	鮮:Vi	奶油:N	
+XDD:FW	當然:ADV	也:ADV	不:ADV	是:Vt	只有:C	monster:FW	級:N	的:T	Menu:FW	
+也:ADV	有:Vt	這:DET	種花:Vi	花果果:N	的:T	小:Vi	清新:Vi	
+澳洲:N	家家戶戶:N	必備:A	的:T	VEGEMITE:FW	抹醬:N	也:ADV	拿來:Vt	玩出:Vt	新:Vi	口味:N	
+menu:FW	都:ADV	在:P	大:Vi	黑板:N	牆:N	上:N	
+前:DET	陣子:N	是:Vt	應景:Vi	的:T	世:N	足:Vt	版本:N	開始:Vt	
+店員:N	系列:N	：:COLONCATEGORY	-:DASHCATEGORY	如果:C	你:N	看:Vt	得:T	清楚:Vi	這:DET	段:M	文字:N	
+代表:Vt	你:N	沒有:Vt	過:ASP	一:DET	個:M	
+醉棒:N	
+的:T	聖:N	派翠克節:N	-:DASHCATEGORY	P.S:FW	.:PERIODCATEGORY	人生:N	苦:Vi	短:Vi	
+管:Vt	他:N	卡路里:N	什麼:DET	的:T	...:ETCCATEGORY	-:DASHCATEGORY	墨爾本店:N	在:P	萬聖節:N	遭:P	喪:Vt	屍:N	入侵:Vt	
+而且:C	是:Vt	勞碌命:Vi	的:T	喪:N	屍:N	XDDD:FW	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	最後:N	來:ADV	欣賞:Vt	一下:N	一:DET	家:M	在:P	芝加哥:N	的:T	分子:N	冰淇淋店:N	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.youtube.com/watch:FW	
+v=t4_I1EfBymQ:FW	

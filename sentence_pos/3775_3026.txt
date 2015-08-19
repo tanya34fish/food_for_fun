@@ -1,0 +1,128 @@
+tonlin:FW	(:PARENTHESISCATEGORY	帽子:N	與:C	大象:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	。:PERIODCATEGORY	捷運:N	台大:N	醫院:N	站:Vi	。:PERIODCATEGORY	MetroCafe:FW	
+Thu:FW	
+Nov:FW	
+20:DET	
+00:DET	::COLONCATEGORY	41:DET	::COLONCATEGORY	13:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	MetroCafe:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	重慶南路:N	一段:N	70:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2388:DET	-:DASHCATEGORY	5958:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	~:FW	週日:N	09:DET	::COLONCATEGORY	30:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tonlinphoto.pixnet.net/blog/post:FW	/:FW	41642314:DET	
+BBS:FW	文字版:N	：:COLONCATEGORY	話說:ADV	MetroCafe:FW	這:DET	間:M	咖啡廳:N	開幕:Vi	其實:ADV	還:ADV	不:ADV	到:Vt	半:DET	年:M	
+店址:N	過去:N	是:Vt	怡客:N	咖啡:N	
+生意:N	不錯:Vi	但:C	後來:N	收:Vt	了:ASP	
+非常:ADV	有:Vt	勇氣:N	來:ADV	頂下:Vt	重慶南路金:N	店面:N	的:T	老闆:N	
+為了:P	讓:Vt	大家:N	喝到:Vt	世界:N	各:DET	國:N	的:T	精品:N	咖啡:N	
+把:P	市面:N	上:N	不:ADV	常見:Vi	的:T	比賽:N	豆:N	和:C	一些:DET	稀有:Vi	莊園:N	咖啡豆:N	引進:Vt	
+除了:P	在:P	咖啡廳:N	裡:N	現場:N	現場:N	烹煮:Vt	
+也:ADV	做:Vt	咖啡豆:N	的:T	販售:Nv	
+剛剛:ADV	看:Vt	了:ASP	一下:N	咖啡廳:N	的:T	粉絲:N	專頁:N	
+店:N	內:N	還:ADV	有:Vt	2014:DET	WBC:FW	世界:N	咖啡:N	大賽:N	的:T	冠軍:N	丸山:N	咖啡:N	呢:T	
+不:ADV	喝:Vt	咖啡:N	的:T	我:N	都:ADV	覺得:Vt	好:ADV	厲害:Vi	啊:T	
+有:Vt	種:M	金光:N	閃閃:Vi	的:T	感覺:N	
+哈哈:ADV	
+從:P	店:N	外來:A	看:Vt	
+MetroCafe:FW	的:T	招牌:N	很:ADV	簡約:Vi	
+黑:Vi	底:POST	白字:N	
+有:Vt	一:DET	種:M	紐約:N	的:T	時尚:N	感:Vt	
+好:Vi	啦:T	是:Vt	我:N	心目中:N	的:T	紐約:N	啦:T	
+不過:C	因為:C	是:Vt	平日:N	中午:N	
+有:Vt	好多:DET	叔叔:N	阿姨:N	經過:Vt	呀:T	
+雖然:C	門面:N	不:ADV	大:Vi	
+但是:C	一:ADV	走進:Vt	店:N	內:N	發現:Vt	空間:N	還:ADV	不:ADV	小:Vi	呢:T	
+一樓:N	有:Vt	十來:DET	個:M	位子:N	
+然後:ADV	就是:C	甜點櫃:N	和:C	吧台:N	
+工作:N	人員:N	就:ADV	在:P	吧台:N	
+和:P	後面:N	的:T	廚房:N	
+製作:Vt	餐點:N	和:C	飲品:N	
+店:N	內:N	展售:Vt	的:T	壺:N	具:Vt	繽紛:Vi	又:ADV	具:Vt	設計:N	感:Vt	
+有:Vt	大名鼎鼎:Vi	的:T	月:N	兔:N	壺:N	耶:T	
+是:Vt	說:Vt	壺具:N	的:T	單價:N	不:ADV	低:Vi	
+不過:C	聽說:Vt	有:Vt	比:P	百貨公司:N	專櫃:N	販售:Vt	的:T	價格:N	低:Vi	唷:T	
+聽說:Vt	的:T	聽說:Vt	的:T	
+甜點櫃:N	上方:N	的:T	黑板:N	寫:Vt	得:T	店:N	內:N	現有:A	的:T	單品:N	咖啡:N	的:T	種類:N	
+有:Vt	興趣:N	的:T	人:N	可以:ADV	和:P	店員:N	詢問:Vt	
+身為:Vt	一:DET	個:M	不:ADV	喝:Vt	咖啡:N	的:T	人:N	
+比較:ADV	好奇:Vi	甜點櫃:N	內:N	的:T	甜點:N	
+八月:N	中旬:N	過去:N	的:T	時候:N	還:ADV	只有:ADV	店家:N	和:C	某:DET	家:N	烘焙:Vt	坊:N	合作:Vi	的:T	甜點:N	
+聽說:Vt	後來:N	改:Vt	和:C	珠寶盒:N	合作:Vi	唷:T	
+而且:C	後來:N	也:ADV	推出:Vt	了:ASP	鬆餅:N	
+有點:ADV	想要:Vt	在:P	下午:N	時分:N	過去:N	試試看:Vt	新:Vi	推出:Vt	的:T	精選:Nv	雙人:N	下午茶:N	套餐:N	
+包括:Vt	珠寶盒:N	點心:N	X:FW	1:DET	、:PAUSECATEGORY	鬆餅:N	X:FW	1:DET	、:PAUSECATEGORY	200:DET	元:M	以下:POST	飲品:N	X:FW	2:DET	
+特價:N	599:DET	元:M	
+每:DET	人:N	只要:C	300:DET	元:M	左右:POST	
+感覺:Vt	很:ADV	划算:Vi	
+重點:N	是:Vt	
+珠寶盒:N	點心:N	看起來:ADV	超:Vt	誘人:Vi	的:T	
+完全:ADV	被:P	迷惑:Vi	了:T	
+是:Vt	說:Vt	這:DET	家:M	店:N	我:N	覺得:Vt	最:ADV	值得:Vi	推薦:Vt	的:T	是:Vt	店:N	內:N	空間:N	真的:ADV	蠻:ADV	大:Vi	的:T	
+很:ADV	適合:Vi	舉辦:Vt	讀書會:N	、:PAUSECATEGORY	聯誼:Nv	等:POST	活動:N	
+除了:P	一樓:N	有:Vt	十來:DET	個:M	座位:N	外:POST	
+地:N	下:N	一樓:N	有:Vt	一:DET	個:M	類似:Vt	包廂:N	的:T	
+稍微:ADV	有:Vt	隔間:N	的:T	空間:N	
+也:ADV	是:Vt	十來:DET	個:M	座位:N	
+小小:Vi	包廂:N	外:POST	
+還:ADV	有:Vt	一:DET	個:M	長:Vi	條:M	型:N	的:T	空間:N	
+左右:Vt	兩:DET	側:N	的:T	座位:N	加:Vt	起來:ASP	有:Vt	30來:DET	個:M	唷:T	
+算:Vt	一:DET	算:Vt	
+地:N	下:N	一樓:N	加:Vt	起來:ASP	有:Vt	50:DET	個:M	座位:N	耶:T	
+再:ADV	加上:Vt	一樓:N	的:T	大概:ADV	有:Vt	70:DET	個:M	座位:N	
+看起來:ADV	不用:ADV	擔心:Vt	用餐:Nv	巔峰:N	時間:N	會:ADV	沒有:Vt	座位:N	
+中型:A	活動:N	應該:ADV	也:ADV	能:ADV	舉辦:Vt	
+地:N	下:N	一樓:N	的:T	天花板:N	和:C	燈具:N	間:POST	略:ADV	有:Vt	空隙:N	
+從:P	空隙:N	間:POST	灑落:Vt	的:T	燈光:N	有點:ADV	浪漫:Vi	溫暖:Vt	
+我:N	還:ADV	蠻:ADV	喜歡:Vt	MetroCafe:FW	的:T	椅子:N	
+簡約:Vi	有:Vt	設計:N	感:Vt	
+和:C	整體:N	調性:N	蠻:ADV	一致:Vi	的:T	
+八月:N	中旬:N	去:ADV	用餐:Vi	的:T	時候:N	
+店:N	內:N	掛:Vt	著:ASP	某:DET	位:M	攝影師:N	的:T	作品:N	
+現場:N	展示:Vt	也:ADV	協助:Vt	販售:Vt	
+聽:Vt	店家:N	說:Vt	蠻:ADV	歡迎:Vt	攝影師:N	或:C	藝術家:N	合作:Vi	
+看來:ADV	這:DET	種:M	複合式:A	的:T	經營:Nv	方式:N	越來越:ADV	普及:Vt	了:ASP	
+因為:C	不:ADV	喝:Vt	咖啡:N	
+所以:C	我:N	只:ADV	能:ADV	分享:Vt	一下:N	餐點:N	囉:T	
+這:DET	天:M	因為:C	是:Vt	別人:N	請客:Vi	
+再:ADV	加上:C	是:Vt	午休:Vi	時間:N	
+所以:C	我:N	只:ADV	點:Vt	了:ASP	一:DET	客:M	三明治:N	和:C	飲料:N	
+我:N	點:Vt	的:T	是:Vt	煙燻:A	牛肉:N	三明治:N	
+原本:ADV	以為:Vt	會:ADV	是:Vt	一般:A	店家:N	使用:Vt	的:T	吐司:N	夾心:A	的:T	方式:N	
+沒想到:ADV	上桌:Vi	的:T	是:Vt	斜:Vi	切:Vt	的:T	半:DET	條:M	法國:N	麵包:N	
+夾:Vt	著:ASP	煙燻:A	牛肉:N	、:PAUSECATEGORY	起士:N	、:PAUSECATEGORY	生菜:N	等:POST	配料:N	
+讓:Vt	我:N	有點:ADV	驚喜:Vi	
+麵包:N	表面:N	酥脆:Vi	
+咬下去:Vt	卻:ADV	軟韌:Vi	有:Vt	嚼:Vt	勁:N	
+是:Vt	我:N	喜歡:Vt	的:T	麵包:N	類型:N	呀:T	
+灑花:N	
+煙燻:A	牛肉:N	的:T	口感:N	也:ADV	很:ADV	不錯:Vi	
+以:P	輕:Vi	食:N	來:ADV	說:Vt	分數:N	頗:ADV	高:Vi	
+只是:ADV	逼近:Vt	兩百:DET	大關:N	的:T	價格:N	不:ADV	算:Vt	便宜:Vi	
+若:C	不:ADV	是:Vt	有:Vt	人:N	請客:Vi	
+工作日:N	的:T	午餐:N	我:N	不:ADV	太:ADV	可能:Vi	來:Vi	這裡:N	用餐:Vi	
+喔:T	對了:Vi	
+旁邊:N	那:DET	一:DET	小:Vi	碗:N	沙拉:N	要:ADV	大:Vi	不:ADV	大要:N	小:Vi	不:ADV	小:Vi	
+感覺:Vt	有點:ADV	雞肋:N	
+不過:C	沙拉:N	的:T	橙汁:N	佐醬:N	味道:N	不錯:Vi	
+酸酸甜甜:Vi	的:T	頗為:ADV	開胃:Vi	就是了:Vi	
+點:Vt	三明治:N	加:Vt	個:M	幾十:DET	元:M	就:ADV	可以:ADV	獲得:Vt	飲品:N	一:DET	杯:M	
+我:N	點:Vt	了:ASP	蔓:b	越:Vt	莓汁:N	
+朋友:N	點:Vt	了:ASP	冰:N	美式:A	咖啡:N	
+是:Vt	說:Vt	用:P	酒杯:N	裝:Vt	果汁:N	蠻:ADV	有:Vt	誠意:N	的:T	
+不:ADV	是:Vt	小小杯:N	的:T	容量:N	
+味道:N	也:ADV	不錯:Vi	
+但是:C	以:P	套餐:N	加購:Vt	價:N	來:ADV	說:Vt	
+這樣:Vi	一:DET	杯:M	不:ADV	算:Vt	便宜:Vi	喔:T	
+同行:Vi	的:T	另:DET	一:DET	位:M	點:N	的:T	是:Vt	熱:Vt	拿:Vt	鐵:N	
+中規中矩:Vi	的:T	拉花:N	看起來:ADV	還是:ADV	很:ADV	可愛:Vi	
+以前:N	我:N	差點:ADV	要:ADV	在:P	咖啡廳:N	打工:Vi	
+當時:N	學拉花學:N	的:T	哩:T	哩:T	辣辣:Vi	
+現在:N	看到:Vt	別人:N	拉:Vt	都:ADV	覺得:Vt	好:ADV	厲害:Vi	
+據說:ADV	咖啡:N	還:ADV	蠻:ADV	不錯:Vi	的:T	
+但:C	我:N	無:Vt	福:N	享受:Vt	就是了:Vi	
+下:DET	一:DET	次:M	如果:C	有:Vt	機會:N	
+我:N	會:ADV	想要:Vt	去:ADV	試試看:Vt	下午茶:N	套餐:N	
+飲品:N	來:ADV	試試看:Vt	抹茶:N	拿:Vt	鐵:N	
+希望:Vt	也:ADV	有:Vt	漂亮:Vi	的:T	拉花:N	
+以上:N	

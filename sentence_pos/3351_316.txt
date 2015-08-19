@@ -1,0 +1,104 @@
+danielpowter(daniel:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義:N	春:N	和:C	油飯:N	~:FW	天下:N	第一:DET	攤:M	米飯類:N	冠軍:N	
+Fri:FW	
+Jul:FW	
+25:DET	
+00:DET	::COLONCATEGORY	10:DET	::COLONCATEGORY	42:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	台北:N	信義:N	春:N	和:C	油飯:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松山路:N	294號之17:N	
+電話:N	：:COLONCATEGORY	：:COLONCATEGORY	0939758966:DET	、:PAUSECATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	27653671:DET	(:PARENTHESISCATEGORY	市場:N	):PARENTHESISCATEGORY	、:PAUSECATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	27668412:DET	(:PARENTHESISCATEGORY	家:N	):PARENTHESISCATEGORY	
+營業:Nv	時間:N	：:COLONCATEGORY	08:DET	：:COLONCATEGORY	00:DET	-:DASHCATEGORY	18:DET	：:COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	周:N	一:DET	公休:Vi	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	NT:FW	.:PERIODCATEGORY	500:DET	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	---:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+好吃:Vi	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	waitingangel0514.pixnet.net/blog/post:FW	/:FW	159745569:DET	
+永春:N	市場:N	內:N	的:T	第:DET	15.17:DET	號:M	攤位:N	
+就是:C	拿下:Vt	天下:N	第一:DET	攤:M	米飯類:N	冠軍:N	的:T	春:N	和:C	油飯:N	
+小:Vi	攤子:N	佈滿:Vt	獎牌:N	、:PAUSECATEGORY	獎盃:N	
+已:ADV	擁有:Vt	20多:DET	年:M	的:T	歷史:N	
+40:DET	年:M	前:DET	第一:DET	代:N	老闆:N	擺:Vt	攤:N	賣:Vt	的:T	是:Vt	青菜:N	
+但:C	賣:Vt	蔬菜:N	的:T	攤販:N	太多:Vi	了:T	
+考量:Nv	競爭力:N	轉賣:Vt	油飯:N	
+其實:ADV	不只:ADV	是:Vt	油飯:N	
+各:DET	種:M	年節:N	食品:N	都:ADV	有:Vt	販售:Vt	
+品:Vt	項:M	非常:ADV	多:Vi	
+大:Vi	嗓門:N	的:T	老闆:N	一:DET	邊:N	忙著:Vt	排列:Vt	整齊:Vi	粿類:N	的:T	商品:N	
+一:DET	邊:N	招呼:Vt	客人:N	
+發粿:N	不:ADV	在:P	過年:Vi	時:POST	真的:ADV	很:ADV	難:Vi	提起:Vt	勁:N	去:ADV	吃:Vt	它:N	
+附近:N	沒有:Vt	大型:N	廟宇:N	
+供奉:Vt	神明:N	為主:Vi	的:T	粿類:N	每:DET	天:M	依然:ADV	熱賣:Vi	
+可見:ADV	它:N	的:T	魅力:N	非凡:Vi	
+有:Vt	很多:DET	種:M	口味:N	
+要:ADV	甜:Vi	要:ADV	鹹:Vi	都:ADV	有:Vt	
+太晚:Vi	去:Vt	麻油:N	雞:N	飯:N	已經:ADV	沒有:Vt	了:ASP	
+麻油:N	雞:N	飯:N	本來:ADV	只:ADV	有:Vt	假日:N	提供:Vt	
+自從:P	當選:Vt	天下:N	第一:DET	攤:M	後:POST	
+太多:DET	客人:N	詢問:Vt	
+熱情:Vi	的:T	老闆:N	就:ADV	改為:Vt	每:DET	天:M	都:ADV	有:Vt	做:Vt	麻油:N	雞飯:N	
+直到:P	天氣:N	更:ADV	熱:Vt	較少:Vi	人:N	買:Vt	再:ADV	改回:Vt	假日:N	賣:Vt	
+所有:DET	的:T	商品:N	都:ADV	是:Vt	當天:N	做:Vt	、:PAUSECATEGORY	當天:N	賣:Vt	
+遠遠:Vi	的:T	就:ADV	可以:ADV	聞到:Vt	香味:N	
+商品:N	裡面:N	的:T	蔬菜:N	、:PAUSECATEGORY	豬肉:N	都:ADV	是:Vt	向:P	市場:N	其他:DET	攤販:N	購買:Vt	
+方便:Vi	又:ADV	安心:Vi	
+雞:N	捲:Vt	比:P	別人:N	家:N	的:T	大一:N	倍:N	
+但:C	本身:N	對:P	它:N	有:Vt	強烈:Vi	恐懼感:N	
+掙扎:Vi	很:ADV	久:Vi	還是:ADV	無法:ADV	入手:Vi	
+老闆:N	只要:C	一:ADV	空閒:Vi	就:ADV	開始:Vt	包:Vt	醬料:N	
+擺放:Vt	的:T	整整齊齊:Vi	
+老闆:N	說:Vt	自己:N	看:Vt	了:ASP	也:ADV	舒服:Vi	
+很:ADV	容易:Vi	在:P	老闆:N	的:T	熱情:N	介紹:N	下:POST	帶回:Vt	一:DET	拖拉:Vt	庫:N	美食:N	
+米粉:N	
+80:DET	元:M	/:FW	斤:M	
+偏:ADV	細:Vi	的:T	米粉:N	非常:ADV	有:Vt	嚼:Vt	勁:N	
+所有:DET	的:T	配料:N	都:ADV	炒:Vt	得:T	很:ADV	入:Vt	味:N	
+吃完:Vt	不會:ADV	覺得:Vt	胃:N	不:ADV	舒服:Vi	
+非常:ADV	有:Vt	飽足感:N	
+油飯:N	80:DET	元:M	/:FW	斤:M	
+老闆:N	用:P	彰化:N	上:N	等:Vt	純米:N	先:ADV	泡:Vt	2:DET	小時:N	再:ADV	煮:Vt	
+香菇:N	、:PAUSECATEGORY	蝦米:N	、:PAUSECATEGORY	豬肉:N	都:ADV	放:Vt	得:T	很:ADV	大方:Vi	
+油飯:N	口感:N	很:ADV	Q:FW	
+粒粒:DET	分明:Vi	卻:ADV	不會:ADV	黏:Vt	膩:Vi	
+很:ADV	紮實:Vi	不用:ADV	加:Vt	任何:DET	醬:N	就:ADV	很:ADV	有:Vt	風味:N	
+老闆:N	將:P	粿類:N	減少:Vt	糖:N	的:T	比例:N	
+比較:ADV	不會:ADV	那麼:ADV	甜:Vi	膩:Vi	
+芋頭:N	粿:b	
+35:DET	元:M	
+很少:ADV	看到:Vt	有:Vt	人:N	在:P	做:Vt	
+芋頭:N	塊:N	越:ADV	嚼:Vt	越:ADV	香:Vi	
+每:ADV	一口:ADV	都:ADV	是:Vt	芋頭:N	的:T	純粹:A	
+草仔:N	粿:b	
+35:DET	元:M	
+相同:Vi	的:T	是:Vt	爆滿:Vi	出來:Vi	的:T	餡料:N	
+蘿蔔:N	絲:N	鹹度:N	適當:Vi	
+濕度:N	留存:Vt	所以:C	好:Vi	入口:N	
+花生:N	粿:b	
+35:DET	元:M	
+也:ADV	不:ADV	常見:Vi	
+裡面:N	的:T	花生:N	是:Vt	花生:N	顆粒:N	
+但:C	花生:N	顆粒:N	會:ADV	卡:Vi	牙縫:N	
+不:ADV	是:Vt	很:ADV	對:P	我:N	的:T	味:N	
+堅持:Vt	不:ADV	卡:Vi	牙縫:N	才:ADV	是:Vt	王道:N	
+外皮:N	都:ADV	很:ADV	有:Vt	彈性:N	又:ADV	甘甜:Vi	
+下:DET	次:M	去:ADV	想:Vt	任性:Vi	的:T	要求:N	老闆:N	直接:Vi	賣:Vt	我:N	不:ADV	包:Vt	料:N	的:T	粿:b	
+碗粿:N	
+30:DET	元:M	
+是:Vt	非常:ADV	古:Vi	早味:N	的:T	口感:N	
+讓:Vt	陳:N	姊:N	憶起:Vt	她:N	的:T	小時候:N	
+滿滿:Vi	的:T	菜脯:N	搭配:Vt	滑溜:Vi	的:T	粿:b	
+加:Vt	一點點:DET	醬油膏:N	就:ADV	滋味:N	滿:DET	點:M	
+很多:DET	網友:N	也:ADV	推春:N	和:C	油飯:N	的:T	湯圓:N	
+下:DET	回:M	早點:N	去:ADV	買:Vt	麻油:N	雞飯:N	的:T	時候:N	再:ADV	一起:ADV	帶:Vt	吧:T	
+呷:ADV	飽:Vi	資訊:N	
+春:N	和:C	油飯:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	松山路:N	294號之17:N	
+電話:N	：:COLONCATEGORY	0939758966:DET	、:PAUSECATEGORY	
+02:DET	
+27653671:DET	
+市場:N	
+、:PAUSECATEGORY	
+02:DET	
+27668412:DET	
+家:N	
+時間:N	：:COLONCATEGORY	08:DET	：:COLONCATEGORY	00:DET	-:DASHCATEGORY	18:DET	：:COLONCATEGORY	00:DET	
+周:N	一:DET	公休:Vi	

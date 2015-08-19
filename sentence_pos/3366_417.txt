@@ -1,0 +1,110 @@
+weiyu:FW	0331:DET	(:PARENTHESISCATEGORY	男孩:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	古亭:N	鋤燒壽:N	喜:Vt	燒:Vt	吃:Vt	到:P	飽:Vi	
+Tue:FW	
+Jul:FW	
+29:DET	
+12:DET	::COLONCATEGORY	30:DET	::COLONCATEGORY	11:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	鋤燒:N	
+消費:N	時間:N	：:COLONCATEGORY	103:DET	/:FW	7:DET	
+古亭:N	捷運站:N	巷弄:N	人氣:N	美食:N	、:PAUSECATEGORY	中正:N	紀念堂:N	壽:N	喜:Vt	燒:Vt	吃到:Vt	飽:Vi	－:DET	《:PARENTHESISCATEGORY	鋤燒壽:N	喜:Vt	燒:Vt	》:PARENTHESISCATEGORY	杭州店:N	！:EXCLAMATIONCATEGORY	
+&:FW	lt:FW	;:SEMICOLONCATEGORY	好讀:Vt	圖文:N	&:FW	gt:FW	;:SEMICOLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	weiyu0331.pixnet.net/blog/post:FW	/:FW	381289340:DET	
+好久:Vi	不:ADV	見:Vt	
+近日:N	天天:ADV	行程:N	滿檔:Vi	的:T	Ethan:FW	
+終於:ADV	有:Vt	機會:N	繼續:Vt	看:Vt	大家:N	分享:Vt	美食:N	了:T	
+在:P	這:DET	個:M	炎炎夏日:N	
+大家:N	一定:ADV	想:Vt	吃:Vt	肉:N	
+誰:N	說:Vt	的:T	
+可是:C	因為:C	現在:N	就是:C	要:ADV	介紹:Vt	肉類:N	
+難不成:ADV	這:DET	篇:M	網誌:N	要:ADV	冬天:N	才:ADV	發表:Vt	嗎:T	
+今天:N	Ethan:FW	帶:Vt	各:DET	位:M	來到:Vt	位於:Vt	古亭:N	、:PAUSECATEGORY	中正:N	紀念堂:N	捷運:N	之間:POST	
+早:ADV	就:ADV	營業:Vi	不:ADV	知道:Vt	幾百:DET	年:M	的:T	
+鋤燒壽:N	喜:Vt	燒:Vt	
+光:N	Ethan:FW	個:M	人:N	就:ADV	不:ADV	知道:Vt	已經:ADV	吃:Vt	了:ASP	幾:DET	遍:M	
+畢竟:ADV	就是:C	覺得:Vt	西門店:N	沒有:Vt	杭州店:N	好吃:Vi	呀:T	
+說不上來:Vt	的:T	感覺:N	
+鋤燒壽:N	喜:Vt	燒:Vt	
+杭州店:N	店家:N	資訊:N	
+地址:N	：:COLONCATEGORY	台北市:N	杭州南路:N	二段:N	74:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23955597:DET	/:FW	02:DET	-:DASHCATEGORY	23514998:DET	
+時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	08:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	58:DET	
+最後:N	入場:Vi	時間:N	
+/:FW	用餐:Nv	時間:N	至:C	23:DET	::COLONCATEGORY	00:DET	
+費用:N	：:COLONCATEGORY	不:ADV	分:Vt	午晚餐:N	平日:N	假日:N	皆:ADV	398:DET	+:FW	10:DET	%:M	
+網址:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.justforfun.com.tw/sukiyaki-c-1.htm:FW	
+捷運:N	：:COLONCATEGORY	古亭:N	捷運站:N	6:DET	號:M	出口:Nv	
+往:P	中正:N	紀念堂:N	方向:N	轉彎:Vi	
+高聳:Vi	的:T	
+鋤燒壽:N	喜:Vt	燒:Vt	
+大樓:N	居然:ADV	一口氣:ADV	蓋:Vt	了:ASP	三:DET	層:M	樓:N	
+我:N	只:ADV	能:ADV	說真的:ADV	威猛:Vi	
+有時候:ADV	Ethan:FW	假日:N	來:ADV	用餐:Vi	的:T	時候:N	
+生意:N	真的:ADV	會:ADV	好:Vi	到:P	叫:Vt	我們:N	坐到:Vt	樓上:N	
+不過:C	像:Vt	是:Vt	今天:N	平日:N	晚上:N	
+感覺:N	就:ADV	比較:ADV	沒有:Vt	這麼多:DET	人:N	
+完全:ADV	只:ADV	有:Vt	一樓:N	開放:Vi	的:T	感覺:N	
+就:ADV	比較:ADV	寂寞:Vi	一點點:DET	
+到底:ADV	誰:N	說:Vt	可以:ADV	在:P	食記:N	裡面:N	談心:Vi	
+好:Vi	吧:T	
+我們:N	來:ADV	看看:Vt	菜單:N	的:T	部分:DET	
+為了:P	讓:Vt	你們:N	有:Vt	一:DET	個:M	set:FW	的:T	感覺:N	
+所以:C	還可以:ADV	選擇:Vt	前菜:N	、:PAUSECATEGORY	飲料:N	、:PAUSECATEGORY	甜點:N	
+換句話說:ADV	
+前菜:N	跟:P	甜點:N	就:ADV	沒有:Vt	辦法:N	隨:P	你:N	吃:Vt	到:P	爽:Vi	了:T	
+飲恨:Vi	
+當然:ADV	不能:ADV	錯過:Vt	的:T	就是:C	加:Vt	點:M	菜單:N	
+你:N	要:ADV	肉:N	要:Vt	蛋:N	要飯:Vi	
+全部:DET	都:ADV	用:P	鉛筆:N	畫上去:Vi	馬上:ADV	店員:N	就:ADV	會:ADV	幫:P	你:N	準備好:Vt	
+不得不:ADV	誇獎:Vt	的:T	就是:C	這:DET	家:M	店員:N	動作:N	很:ADV	快:Vi	
+一下子:N	就:ADV	會:ADV	幫:P	你:N	上肉:N	
+這:DET	完全:ADV	可以:ADV	再:ADV	誇獎:Vt	一:DET	次:M	
+【:PARENTHESISCATEGORY	芥末:N	杏:N	鮑:N	菇:N	】:PARENTHESISCATEGORY	
+這:DET	是:Vt	完全:ADV	一:DET	個:M	想像:N	不:ADV	到:Vt	的:T	味兒:N	
+就是:C	芥末:N	的:T	味道:N	意外:N	深入:Vi	
+但是:C	我:N	個:M	人:N	很:ADV	愛:Vt	啦:T	
+如果:C	真的:ADV	很:ADV	怕:Vt	辣:Vi	或是:C	不:ADV	喜:Vt	芥末:N	者:N	
+第:DET	一口:ADV	一定:ADV	要:ADV	小心:Vt	吃:Vt	
+或是:C	選擇點:N	別的:DET	
+【:PARENTHESISCATEGORY	辣味:N	泡菜:N	】:PARENTHESISCATEGORY	
+辣味:N	泡菜:N	的:T	部分:DET	很:ADV	入:Vt	味:N	
+當然:ADV	
+也:ADV	建議:Vt	你們:N	留:Vt	著:ASP	配肉:N	
+感覺:N	會:ADV	更:ADV	多元:Vi	
+【:PARENTHESISCATEGORY	可:ADV	爾:N	必:ADV	思:Vt	】:PARENTHESISCATEGORY	
+飲料:N	的:T	部分:DET	則:ADV	是:Vt	以:P	壺:N	為:Vt	單位:N	
+如果:C	第一:DET	壺:M	喝完:Vt	也:ADV	可以:ADV	選擇:Vt	換:Vt	別的:DET	哦:T	
+不過:C	沒有:Vt	可樂:N	那些:DET	就:ADV	覺得:Vt	怎麼:ADV	少:Vi	了:ASP	一:DET	個:M	味:N	
+【:PARENTHESISCATEGORY	白飯:N	】:PARENTHESISCATEGORY	
+壽:N	喜:Vt	燒:Vt	一定:ADV	要:ADV	配:Vt	白飯:N	
+就是:C	配上:Vt	蛋:N	和:C	肉:N	
+一:DET	個:M	自行:ADV	製造:Vt	丼飯:N	的:T	感覺:N	
+【:PARENTHESISCATEGORY	生:Vt	蛋:N	】:PARENTHESISCATEGORY	
+打破:Vt	他:N	
+打破:Vt	他:N	
+打破:Vt	他:N	
+配上:Vt	七:DET	味:M	粉:N	
+打造:Vt	一定:ADV	要:ADV	搭配:Vt	的:T	醬汁:N	
+【:PARENTHESISCATEGORY	牛肉:N	】:PARENTHESISCATEGORY	
+牛肉:N	的:T	部分:DET	都:ADV	有:Vt	帶:Vt	一些:DET	油花:N	
+吃起來:ADV	的:T	口感:N	比較:ADV	嫩:Vi	
+不過:C	鋤燒:N	很:ADV	可惜:Vi	的:T	地方:N	就:ADV	在於:Vt	肉片:N	的:T	選擇:N	真的:ADV	太少:Vi	
+所以:C	容易:Vi	吃膩:Vt	
+【:PARENTHESISCATEGORY	豬肉:N	】:PARENTHESISCATEGORY	
+豬肉:N	的:T	部分:DET	也:ADV	不:ADV	知道:Vt	為什麼:ADV	就:ADV	是:Vt	極:ADV	嫩:Vi	
+每:DET	次:M	Ethan:FW	來:POST	鋤燒:N	反而:C	愛:Vt	豬肉:N	都:ADV	勝過:Vt	牛肉:N	
+到底:ADV	為什麼:ADV	
+【:PARENTHESISCATEGORY	菜盤:N	】:PARENTHESISCATEGORY	
+基本:A	的:T	菜盤:N	
+金針菇:N	好好:Vi	吃:Vt	阿:Vi	呀:T	
+【:PARENTHESISCATEGORY	火鍋:N	料:N	/:FW	加:Vt	點:M	盤:M	】:PARENTHESISCATEGORY	
+喜歡:Vt	壽喜:N	醬汁:N	搭配:Vt	烏龍麵:N	和:C	凍:Vt	豆腐:N	的:T	感覺:N	真:ADV	好:Vi	
+笑:Vi	
+【:PARENTHESISCATEGORY	開鍋:Vi	】:PARENTHESISCATEGORY	
+完全:ADV	進入:Vt	一:DET	個:M	放肆:Vi	的:T	狀態:N	
+就是:C	沒:ADV	吃飽:Vi	不:ADV	付錢:Vi	
+明明:ADV	有:Vt	時間:N	限制:N	
+【:PARENTHESISCATEGORY	抹:Vt	茶:N	冰淇淋:N	】:PARENTHESISCATEGORY	
+最後:N	飽餐一頓:Vi	以後:POST	
+來:ADV	一:DET	個:M	抹:Vt	茶:N	煉乳:N	冰淇淋:N	
+果然:ADV	是:Vt	消暑:Nv	聖品:N	

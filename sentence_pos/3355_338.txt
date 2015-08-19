@@ -1,0 +1,146 @@
+malegb:FW	(:PARENTHESISCATEGORY	對:Vi	啊:T	對:Vi	啊:T	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	松山區:N	CHIFFONCAKE:FW	─:FW	炸雞:N	比:P	蛋糕:N	好吃:Vi	的:T	蛋糕店:N	
+Fri:FW	
+Jul:FW	
+25:DET	
+23:DET	::COLONCATEGORY	06:DET	::COLONCATEGORY	11:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	CHIFFONCAKE:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	07:DET	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	復興北路:N	313巷:N	36:DET	號:M	
+電話:N	：:COLONCATEGORY	電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2716:DET	-:DASHCATEGORY	0138:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	到:P	週六:N	AM:FW	.:PERIODCATEGORY	10:DET	::COLONCATEGORY	00:DET	~:FW	PM:FW	.:PERIODCATEGORY	10:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	240:DET	~:FW	300:DET	NT:FW	
+─:FW	好讀:Vt	圖文版:N	─:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	lurong.pixnet.net/blog/post:FW	/:FW	157470669:DET	
+日式:A	咖哩:N	炸雞飯:N	─:FW	260:DET	NT:FW	喜歡:Vt	吃:Vt	日式:A	炸雞:N	那:DET	種:M	Juicy:FW	的:T	口感:N	
+一般:A	作法:N	是:Vt	雞肉:N	先:ADV	醃製:Vt	過:ASP	
+溫度:N	的:T	控制:Nv	以及:C	二:DET	次:M	回:Vt	炸:Vt	
+除了:P	雞肉:N	要:ADV	新鮮:Vi	之外:POST	
+日式:A	炸雞粉:N	也:ADV	可以:ADV	將:P	肉汁:N	緊緊:Vi	鎖住:Vt	
+愛:Vt	吃:Vt	肉:N	的:T	人:N	可以:ADV	點:Vt	日式:A	炸雞飯:N	
+有:Vt	六:DET	塊:M	炸雞:N	
+每:DET	個:M	炸雞:N	都:ADV	有:Vt	女生:N	半:DET	個:M	拳頭:N	那麼:ADV	大:Vi	
+算是:Vt	CP:FW	值:N	蠻:ADV	高:Vi	的:T	
+咖哩:N	炸雞飯:N	有:Vt	三:DET	塊:M	炸雞:N	
+套餐:N	有:Vt	附:Vt	一:DET	碗:M	清湯:N	以及:C	和風:N	生菜:N	沙拉:N	
+女生:N	吃:Vt	三:DET	個:M	炸雞:N	就:ADV	很:ADV	撐:Vt	了:ASP	
+而且:C	會:ADV	很:ADV	仙:N	
+所以:C	桌:N	上:N	還:ADV	有:Vt	店裡:N	特製:Vt	的:T	炸物:N	沾醬:N	
+主要:ADV	是:Vt	蕃茄醬:N	跟:P	洋蔥:N	等等:POST	...:ETCCATEGORY	調味:Vi	而:C	成:Vt	
+吃膩:Vt	原味:N	就:ADV	沾:Vt	一下:N	
+或是:C	沾:Vt	一下:N	不:ADV	濃郁:Vi	的:T	咖哩:N	也:ADV	ok:FW	
+炸雞粉:N	包裹:Vt	著:ASP	柔軟:Vi	鮮嫩:Vi	的:T	雞肉:N	
+一口:ADV	咬下:Vt	可以:ADV	看到:Vt	油亮:Vi	油亮:Vi	的:T	光澤:N	
+可是:C	我:N	不:ADV	認為:Vt	他:N	是:Vt	":FW	雞汁:N	":FW	
+我:N	覺得:Vt	他:N	比較:ADV	像:Vt	是:Vt	油花:N	....:ETCCATEGORY	
+義磚:N	X:FW	瓦:N	是:Vt	我:N	吃:Vt	過:ASP	真的:ADV	有:Vt	雞汁:N	滴下來:Vi	的:T	日式:A	唐揚:N	炸雞:N	
+不:ADV	是:Vt	這:DET	種:M	黏黏:Vi	得:T	像:Vt	油:N	的:T	口感:N	
+外皮:N	脆:Vi	口:N	好吃:Vi	
+有點:ADV	厚度:N	
+但:C	應該:ADV	沒有:Vt	特別:Vi	調味:Vi	
+雞肉:N	也:ADV	吃:Vt	不:ADV	太:ADV	出來:Vt	是:Vt	不:ADV	是:Vt	有:Vt	醃製:Vt	過:ASP	
+肉質:N	有點:ADV	甜甜:Vi	的:T	
+雞肉:N	呈現:Vt	淡淡:Vi	的:T	粉紅色:N	
+唯一:A	美中不足:Vi	的:T	地方:N	是:Vt	......:ETCCATEGORY	今天:N	吃到:Vt	的:T	這:DET	個:M	炸雞:N	是:Vt	有:Vt	肥皮:N	跟:P	脂肪:N	的:T	
+雖然:C	不:ADV	多:Vi	
+但是:C	完全:ADV	放:Vt	涼:Vi	了:ASP	以後:N	真的:ADV	頗:ADV	影響:Vt	口感:N	的:T	
+外皮:N	變軟:Vi	仍然:ADV	是:Vt	不:ADV	滲:Vt	油:N	這:DET	點:M	是:Vt	蠻:ADV	厲害:Vi	的:T	
+咖哩:N	的:T	部分:DET	
+我:N	姑且:ADV	稱:Vt	他:N	為:P	咖哩:N	濃湯:N	....:ETCCATEGORY	
+咖哩:N	醬汁:N	看起來:ADV	很:ADV	稠:Vi	
+擱:ADV	擱:Vt	的:T	
+但是:C	吃起來:ADV	是:Vt	淡淡:Vi	的:T	
+咖哩:N	的:T	味道:N	不:ADV	濃郁:Vi	
+算是:Vt	敗筆:N	
+咖哩:N	裡面:N	沒有:Vt	甚麼:DET	料:N	
+意思:N	意思:N	放:Vt	了:ASP	兩:DET	片:M	蘿蔔:N	跟:P	一:DET	朵:M	花椰菜:N	點綴:Vt	一下:N	好看:Vi	
+來:ADV	一:DET	張:M	剖面秀:N	
+仔細:Vi	看:Vt	可以:ADV	看到:Vt	脂肪:N	和:C	肥皮:N	兩:DET	個:M	好兄弟:N	
+所以:C	我:N	覺得:Vt	他:N	比較:ADV	像:Vt	是:Vt	溶:Vt	出來:Vi	的:T	油花:N	不:ADV	是:Vt	雞汁:N	
+真的:ADV	雞汁:N	或是:C	肉汁:N	應該:ADV	是:Vt	像:P	下面:N	這:DET	張:M	炸:Vt	雞腿:N	這樣:Vi	鮮嫩:Vi	欲:Vt	滴:Vt	的:T	模樣:N	.....:ETCCATEGORY	
+吞:Vt	口水:N	V:FW	咖哩:N	炸雞:N	讚岐:N	烏龍麵:N	─:FW	280:DET	NT:FW	咖哩:N	烏龍麵:N	的:T	咖哩:N	跟:P	咖哩飯:N	的:T	咖哩:N	
+來自:Vt	同:DET	一:DET	鍋:M	吧:T	
+一樣:Vi	的:T	疙疙:b	但是:C	咖哩味:N	不:ADV	濃郁:Vi	
+讚岐:N	烏龍:N	麵:N	倒是:ADV	真的:ADV	Q:FW	滑:Vi	有:Vt	嚼:Vt	勁:N	
+咕溜:N	好:Vi	彈性:N	
+讚:Vi	唷:T	
+覺得:Vt	吃:Vt	白米飯:N	很:ADV	單調:Vi	無趣:Vi	的:T	人:N	
+可以:ADV	試試:Vt	點:DET	個:M	烏龍:N	麵:N	來:ADV	速:Vi	一下:N	
+很:ADV	OK:FW	的:T	
+手工:N	戚風:N	蛋糕:N	─:FW	正餐:Vi	加:Vt	點:M	59:DET	NT:FW	/:FW	片:M	原價:N	75:DET	/:FW	片:M	由:P	上:N	至:P	下:N	分別:ADV	是:Vt	巧克力:N	、:PAUSECATEGORY	草莓:N	、:PAUSECATEGORY	香蕉:N	
+蛋糕:N	本體:N	口味:N	很:ADV	...:ETCCATEGORY	清淡:Vi	
+第一:DET	次:M	嚐試:Vt	日本:N	手工:N	戚風:N	蛋糕:N	
+吃:Vt	習慣:N	重:Vi	口味:N	的:T	我:N	覺得:Vt	偶爾:ADV	吃吃:Vt	清淡:Vi	的:T	也:ADV	不錯:Vi	囉:T	
+戚風:N	蛋糕:N	本體:N	的:T	孔隙:N	蠻:ADV	大:Vi	的:T	
+吃起來:ADV	濕潤:Vi	鬆軟:Vi	
+沒有:ADV	綿密:Vi	的:T	口感:N	
+也:ADV	沒有:Vt	蛋:N	香味:N	
+蛋糕:N	的:T	顏色:N	很:ADV	鮮豔:Vi	
+跟:P	清淡:Vi	的:T	口味:N	呈現:Vt	強烈:Vi	的:T	反差:N	....:ETCCATEGORY	
+市售:A	的:T	蛋糕:N	普遍:Vi	會:ADV	加:Vt	人工:N	香精:N	和:C	色素:N	
+所以:C	口味:N	濃郁:Vi	又:ADV	香甜:Vi	
+如果:C	是:Vt	純:Vi	天然:A	的:T	手工:N	水果:N	蛋糕:N	又:ADV	要:Vt	口味:N	濃郁:Vi	
+成本:N	一定:ADV	很:ADV	高:Vi	
+烘烤:Vt	過後:POST	還:ADV	不一定:ADV	留:Vt	得:T	住:Nv	果香:N	
+不:ADV	清楚:Vt	這:DET	間:M	店:N	使用:Vt	的:T	原料:N	
+巧克力:N	蛋糕:N	有:Vt	略略:ADV	的:T	可可粉:N	的:T	苦味:N	
+但:C	沒有:Vt	一般:A	巧克力:N	海綿:N	蛋糕:N	那:DET	種:M	香甜:Vi	的:T	味道:N	
+草莓:N	蛋糕:N	vivi:FW	啊:T	森:N	但是:C	沒有:Vt	甚麼:DET	草莓味:N	
+香蕉:N	算是:Vt	這:DET	三:DET	個:M	口味:N	裡面:N	最:ADV	吃:Vt	得:T	出來:Vi	是:Vt	甚麼:DET	口味:N	的:T	蛋糕:N	了:T	
+我:N	覺得:Vt	不:ADV	愛:Vt	吃:Vt	甜食:N	的:T	人:N	應該:ADV	會:ADV	蠻:ADV	喜:Vt	翻:Vt	的:T	
+硬是:ADV	要:ADV	說:Vt	....:ETCCATEGORY	這:DET	個:M	蛋糕:N	最:ADV	好吃:Vi	的:T	部分:DET	就:ADV	屬:Vt	奶油:N	了:T	吧:T	
+奶油:N	幾:DET	爸:N	婚:N	
+*:FW	
+轉:Vt	圈圈:N	
+吃起來:ADV	非常:ADV	的:T	紮實:Vi	
+有:Vt	很:ADV	濃:Vi	純:Vi	的:T	鮮奶味:N	
+建議:Vt	店家:N	直接:Vi	推出:Vt	整:DET	杯:M	的:T	鮮:Nv	奶油:N	
+不:ADV	需要:Vt	搭配:Vt	蛋糕:N	本體:N	了:T	
+XD:FW	
+或是:C	可以:ADV	推出:Vt	炸雞:N	沾:Vt	鮮:Vi	奶油:N	之類:POST	的:T	套餐:N	
+這:DET	次:M	聚餐:Vi	之所以:C	選:Vt	在:P	CHIFFONCAKE:FW	
+完全:ADV	是:Vt	因為:C	看:Vt	了:ASP	非凡台:N	的:T	介紹:N	
+加上:C	美食:N	部落客:N	的:T	推薦:Nv	
+搜尋:Vt	這:DET	間:M	店:N	的:T	評價:N	
+蠻:N	兩極:N	的:T	
+本著:P	實事求是:Vi	的:T	精神:N	
+其實:ADV	純粹:ADV	是:Vt	愛:Vt	吃:Vt	
+還是:ADV	要:ADV	親自:ADV	來:ADV	吃:Vt	一:DET	趟:M	才:ADV	會:ADV	知道:Vt	
+太多:DET	商業:N	性質:N	的:T	廣告:N	操作:Vt	
+雖然:C	能:ADV	吸引到:Vt	一次性:N	光顧:Vt	的:T	客戶:N	
+但:C	食物:N	本身:N	若:C	沒有:Vt	實力:N	
+是:Vt	沒有:Vt	辦法:N	培養出:Vt	忠實:Vi	客戶:N	的:T	吧:T	
+一:ADV	進到:Vt	店裡:N	店員:N	就:ADV	馬上:ADV	過來:Vi	服務:Vt	
+吃完:Vt	也:ADV	馬上:ADV	過來:Vi	收:Vt	
+算是:Vt	非常:ADV	主動:Vi	又:ADV	敬業:Vi	的:T	
+或許:ADV	是:Vt	這樣:Vi	翻:Vt	桌率:N	才:ADV	會:ADV	高:Vi	吧:T	
+所以:C	我們:N	也:ADV	飛快:ADV	地:T	吃完:Vt	就:ADV	閃:Vt	了:ASP	
+讓:Vt	老闆:N	再:ADV	賺:Vt	下:DET	一:DET	桌:M	
+我:N	好:ADV	誠實:Vi	
+雖然:C	看到:Vt	網路:N	上:N	有:Vt	人:N	說:Vt	這:DET	間:M	店:N	的:T	服務:Nv	態度:N	不佳:Vi	
+好險:Vi	這:DET	次:M	來:ADV	用餐:Vi	我:N	並:ADV	沒有:Vt	明顯:Vi	感受到:Vt	
+只有:C	被:P	一:DET	個:M	用餐:Vi	的:T	女:N	客戶:N	大敲:Vt	廁所:N	的:T	門:N	
+開門:Vi	出來:Vi	的:T	那:DET	一瞬間:N	被:P	店員:N	投:Vt	以:P	注目:Vi	的:T	眼光:N	
+廁所:N	門:N	正:ADV	對:P	結帳:Nv	吧檯:N	
+....:ETCCATEGORY	
+其實:ADV	我們:N	只是:ADV	在:P	裡面:N	摳菜渣:N	而已:T	啊:T	...:ETCCATEGORY	不:ADV	超過:Vt	3:DET	分鐘:M	欸:T	
+戴:Vt	牙套:N	卡菜渣:N	很:ADV	難受:Vi	咩:ADV	拍:Vt	謝:N	
+建議:Vt	老闆:N	要是:C	店:N	內:N	空間:N	還:ADV	夠:Vi	的:T	話:N	
+洗手:Vi	台:N	跟:P	馬桶:N	可以:ADV	分開:Vt	設置:Vt	吧:T	.....:ETCCATEGORY	
+有的:DET	人:N	只是:ADV	想:Vt	進去:Vi	洗:Vt	個:M	手:N	漱:Vt	個:M	口摳:N	個:T	屁股:N	吃:Vt	布:N	就:ADV	會:ADV	占用:Vt	到:P	整:DET	間:M	廁所:N	了:T	
+讓:Vt	外面:N	的:T	人:N	急:Vi	得:T	要:ADV	漏尿:Vi	了:ASP	
+總之:ADV	喜歡:Vt	吃:Vt	微:ADV	甜:Vi	蛋糕:N	
+不:ADV	濃:Vi	咖哩:N	或是:C	很:ADV	香:Vi	濃:Vi	的:T	奶油:N	和:C	大:Vi	塊:M	炸雞:N	的:T	人:N	
+非常:ADV	推薦:Vt	您:N	來:ADV	這裡:N	用餐:Vi	唷:T	
+揪咪:Vi	^:FW	.:PERIODCATEGORY	&:FW	lt:FW	
+ps:FW	.:PERIODCATEGORY	官網:N	的:T	價目表:N	是:Vt	舊:Vi	的:T	
+菜單:N	也:ADV	沒有:ADV	更新:Vt	
+部落格:N	的:T	食記:N	有:Vt	2014年:N	初:POST	去:Vt	的:T	價位:N	卻:ADV	和:P	7月:N	的:T	不同:Vi	
+店家:N	部分:DET	的:T	菜色:N	都:ADV	有:Vt	調漲:Vt	
+包含:Vt	加:Vt	點:M	手工:N	蛋糕:N	也:ADV	從:P	49:DET	漲到:Vi	59:DET	
+如果:C	想要:Vt	訂位:Vi	的:T	客戶:N	建議:Vt	在:P	電話:N	中:POST	詢問:Vt	店員:N	目前:N	的:T	價位:N	是:Vt	最:ADV	準:Vi	的:T	
+炸雞:N	套餐:N	240:DET	
+300:DET	之間:POST	
+附:Vt	飲料:N	、:PAUSECATEGORY	湯:N	、:PAUSECATEGORY	生菜:N	沙拉:N	
+加:Vt	點:M	蛋糕:N	+:FW	59:DET	元:M	
+有:Vt	收:Vt	一成:DET	服務費:N	唷:T	

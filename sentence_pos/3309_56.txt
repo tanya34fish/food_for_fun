@@ -1,0 +1,13 @@
+地址:N	：:COLONCATEGORY	新:Vi	北市:N	板橋區:N	松江街:N	70:DET	號:M	
+看到:Vt	餐點:N	的:T	第一:DET	印象:N	就是:C	CP:FW	值:N	也:ADV	太:ADV	高:Vi	了:T	吧:T	
+份量:N	超:Vt	多:Vi	的:T	而且:C	也:ADV	不:ADV	貴:Vi	
+店:N	內:N	的:T	擺設:N	充滿:Vt	鄉村:N	風:N	的:T	感覺:N	
+現在:N	的:T	下午茶:N	或:C	早:Vi	午餐:N	餐廳:N	都:ADV	很:ADV	講究:Vt	店面:N	風格:N	和:C	特色:N	
+我:N	個:M	人:N	最:ADV	喜歡:Vt	的:T	是:Vt	有:Vt	一:DET	大:Vi	片:M	的:T	落地窗:N	
+店:N	內:N	座位:N	不:ADV	多:Vi	用餐:Nv	環境:N	相當:ADV	舒適:Vi	
+店員:N	也:ADV	很:ADV	親切:Vi	客氣:Vi	
+飲料:N	份量:N	也:ADV	超大:Vi	的:T	根本:N	就:ADV	喝:Vt	不:ADV	完:Vt	阿:N	哈哈:ADV	
+最:ADV	喜歡:Vt	蛋:N	滑滑:Vi	嫩嫩:Vi	的:T	搭配:Nv	吐司:N	好:ADV	幸福:Vi	
+整體:N	來:ADV	說真的:ADV	非常:ADV	不錯:Vi	吃到:Vt	店家:N	都:ADV	要:ADV	關門:Vi	了:ASP	才:ADV	猛:ADV	一:ADV	吃:Vt	得:T	全部:DET	吃光:Vt	太:ADV	撐:Vt	了:ASP	
+份量:N	也:ADV	很多:DET	雞肉:N	多汁:Vi	鮮美:Vi	超:Vt	好吃:Vi	的:T	
+很:ADV	值得:Vi	去:Vt	的:T	一:DET	家:M	早:Vi	午餐:N	餐廳:N	大推:Vt	

@@ -1,0 +1,129 @@
+tonlin:FW	(:PARENTHESISCATEGORY	帽子:N	與:C	大象:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	。:PERIODCATEGORY	西門:N	。:PERIODCATEGORY	AGABURGER:FW	手工:N	漢堡:N	外帶:Vt	
+Wed:FW	Jul:FW	9:DET	23:DET	::COLONCATEGORY	52:DET	::COLONCATEGORY	25:DET	2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	AGABURGER:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	中華路:N	一段:N	59:DET	號:M	1樓之9:N	（:PARENTHESISCATEGORY	捷運:N	西門:N	站:Vi	走路:Vi	約:ADV	3:DET	分鐘:M	）:PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2311:DET	-:DASHCATEGORY	3551:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	到:P	週五:N	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	30:DET	/:FW	17:DET	::COLONCATEGORY	00:DET	~:FW	20:DET	::COLONCATEGORY	00:DET	；:SEMICOLONCATEGORY	週六:N	12:DET	::COLONCATEGORY	00:DET	~:FW	20:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	100:DET	元:M	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tonlinphoto.pixnet.net/blog/post:FW	/:FW	41094136:DET	
+BBS:FW	文字版:N	：:COLONCATEGORY	第一:DET	次:M	外帶:Nv	手工:N	漢堡:N	就:ADV	上手:Vi	
+有:Vt	一:DET	天:M	晚上:N	睡:Vi	不:ADV	著:Vt	
+無聊:Vi	在:P	逛:Vt	PTT:FW	美食版:N	的:T	時候:N	
+看到:Vt	一:DET	篇:M	關於:P	AGABURGER:FW	的:T	食記:N	
+驚喜:Vi	地:T	發現:Vt	原來:A	西門站:N	附近:N	居然:ADV	有:Vt	家:M	手工:N	漢堡:N	外帶:Vt	小店:N	
+完全:ADV	適合:Vi	中午:N	外帶:Vt	一:DET	個:M	漢堡:N	來:ADV	當:P	午餐:N	的:T	
+我:N	立馬:N	傳訊:Vt	給:P	好:Vi	同事:N	兒:N	
+相約:Vi	一起:ADV	散步:Vi	過去:Vi	買:Vt	午餐:N	
+AGABURGER:FW	從:P	西門:N	捷運站:N	2:DET	號:M	出口:N	出來:Vi	後:POST	直:ADV	走:Vi	
+第一:DET	個:M	巷子:N	左轉:Vi	
+看到:Vt	前方:N	有:Vt	個:M	小小:Vi	的:T	白色:N	圓:Vi	招牌:N	就是了:Vi	
+走近:Vt	一:DET	看:Vt	
+會:ADV	先:ADV	發現:Vt	手寫:A	的:T	小:Vi	黑板:N	和:C	自動:Vi	販賣機:N	
+這:DET	台:M	自動:Vi	販賣機:N	據說:ADV	是:Vt	老闆:N	從:P	竹科:N	訂製:Vt	而:C	來:Vi	的:T	
+八:DET	郎謀:N	喔:T	
+可以:ADV	直接:Vi	點:M	餐:N	
+或者:C	到:Vt	櫃台:N	右方:N	拿:Vt	張:M	DM:FW	
+細細:Vi	地:T	研究:Vt	你:N	想:Vt	吃:Vt	哪:DET	種:M	口味:N	
+AGABURGER:FW	的:T	消費:N	方式:N	超級:A	簡單:Vi	
+就是:C	一:DET	堡:N	一:DET	飲料:N	一百:DET	元:M	
+怎麼:ADV	有:Vt	種:M	一生:N	一:DET	世一:N	雙人:N	的:T	感覺:N	
+有:Vt	手工:N	牛肉堡:N	、:PAUSECATEGORY	手工:N	豬肉堡:N	、:PAUSECATEGORY	手工:N	雞肉堡:N	、:PAUSECATEGORY	法蘭克:N	熱狗堡:N	、:PAUSECATEGORY	台灣味:N	香腸堡:N	五:DET	種:M	選擇:N	
+每:DET	種:M	堡:N	都:ADV	各:ADV	有:Vt	特色:N	
+尤其:ADV	是:Vt	香腸堡:N	超酷:Vi	的:T	
+除了:P	有:Vt	南部:N	老家:N	手工:N	香腸:N	領銜:Vi	主演:Vt	
+外:N	
+還:ADV	有:Vt	青醬:N	搭配:Vt	耶:T	
+下:DET	次:M	我:N	要:ADV	來:ADV	吃:Vt	這:DET	個:M	
+和:C	捷運:N	購:Vt	票:N	方式:N	一樣:Vi	
+要:ADV	先:ADV	按下:Vt	你:N	想:Vt	點:N	的:T	餐點:N	口味:N	
+再:ADV	放入:Vt	紙鈔:N	或:C	投入:Vt	硬幣:N	
+選好:Vt	口味:N	付:Vt	好:Vi	錢:N	後:POST	
+機器:N	下方:N	就:ADV	會:ADV	印出:Vt	你:N	的:T	點餐:N	單:ADV	
+同時:N	你:N	的:T	點餐:N	內容:N	也:ADV	會:ADV	送到:Vt	櫃台:N	給:Vt	老闆:N	唷:T	
+就:ADV	不用:ADV	像:P	我們:N	一樣:Vi	傻傻:Vi	地:T	拿:Vt	單子:N	到:Vt	櫃台:N	問:Vt	老闆:N	要不要:ADV	給:Vt	他:N	了:T	
+點餐單:N	上:N	的:T	圖案:N	和:C	自動:Vi	販賣機:N	的:T	一樣:Vi	耶:T	
+超可愛:Vi	的:T	
+大心:N	
+等到:P	餐點:N	完成:Vt	後:POST	
+再:ADV	把:P	單子:N	給:Vt	老闆:N	就:ADV	可以:ADV	囉:T	
+點完:Vt	餐:N	就:ADV	可以:ADV	到:Vt	旁邊:N	休息:Vi	一下:N	
+店:N	門口:N	有:Vt	木頭:N	長椅:N	可以:ADV	休息:Vi	
+不過:C	因為:C	天氣:N	太:ADV	熱:Vt	了:ASP	
+老闆:N	非常:ADV	貼心:Vi	地:T	跟:P	我們:N	說:Vt	可以:ADV	到:Vt	隔壁:N	店:N	裡面:N	吹:Vt	冷氣:N	試:Vt	吃:Vt	餅乾:N	
+隔壁:N	是:Vt	個:M	有:Vt	賣:Vt	豆酥朋泡芙:N	的:T	小店:N	
+在:P	老闆:N	及:C	老闆娘:N	正在:ADV	製作:Vt	我們:N	點:Vt	的:T	漢堡:N	時:POST	
+小小:Vi	地:T	和:P	他們:N	聊:Vt	了:ASP	一下:N	
+原來:ADV	這:DET	家:M	店:N	只有:ADV	兩:DET	個:M	人:N	經營:Nv	
+而且:C	老闆娘:N	平常:N	還:ADV	要:ADV	上班:Vi	
+老闆娘:N	說:Vt	因為:C	她:N	週六:N	休息:Vi	會:ADV	到:Vt	店裡:N	幫忙:Vt	
+所以:C	如果:C	不:ADV	忙:Vi	的:T	話:N	
+外:N	送:Vt	是:Vt	OK:FW	
+但:C	挖奔郎:N	周六:N	沒:ADV	上班:Vi	啦:T	哈哈:ADV	
+不過:C	週一:N	到:P	週五:N	因為:C	只有:C	老闆:N	一:DET	個:M	人:N	
+還是:ADV	要:ADV	請:Vt	大家:N	到:Vt	店裡:N	覓食:Vi	唷:T	
+雖然:C	不能:ADV	外:N	送:Vt	
+但是:C	可以:ADV	打電話:Vi	先:ADV	訂餐:N	
+老闆:N	有:Vt	說:Vt	
+他們:N	有:Vt	一:DET	個:M	團購:Vt	方案:N	
+只要:C	訂購:Vt	10:DET	份:M	餐點:N	
+就:ADV	會:ADV	多:ADV	送:Vt	一:DET	個:M	漢堡:N	
+可以:ADV	用來:Vt	回饋給:Vt	負責:Vt	團購:Vt	和:C	取餐:N	的:T	搬:Vt	班長:N	
+因為:C	取餐:N	的:T	人:N	好:ADV	辛苦:Vt	啊:T	
+時間:N	咻:ADV	一:ADV	下:Vt	就:ADV	到:Vt	了:ASP	取:Vt	餐:M	時間:N	
+取餐:N	前:POST	要:ADV	先:ADV	選擇:Vt	附餐:N	飲料:N	
+有:Vt	可樂:N	、:PAUSECATEGORY	雪碧:N	、:PAUSECATEGORY	沙士:N	、:PAUSECATEGORY	檸檬:N	汽水:N	、:PAUSECATEGORY	葡萄:N	汽水:N	、:PAUSECATEGORY	烏龍茶:N	可以:ADV	選擇:Vt	
+取餐:N	的:T	時候:N	發現:Vt	AGABURGER:FW	居然:ADV	是:Vt	用:P	一:DET	個:M	超:Vt	有:Vt	質感:N	的:T	紙盒:N	來:ADV	裝:Vt	漢堡:N	和:C	飲料:N	
+老闆:N	真是:ADV	不惜:Vt	重本:N	啊:T	
+而且:C	紙盒:N	上:N	還:ADV	有:Vt	貼心:Vi	的:T	手提:A	設計:N	
+這樣子:ADV	一:DET	邊:N	撐傘:Vi	一:DET	邊:N	拎:Vt	著:ASP	午餐:N	回:Vt	公司:N	超:Vt	方便:Vi	
+回到:Vt	公司:N	打開:Vt	之後:POST	
+發現:Vt	這:DET	個:M	貼心:Vi	的:T	紙盒:N	甚至:ADV	把:P	熱騰騰:Vi	的:T	漢堡:N	和:C	冰冰涼涼:Vi	的:T	飲料:N	分開:Vt	了:ASP	
+這樣:Vi	漢堡:N	就:ADV	不會:ADV	冷:Vi	掉:Vi	
+飲料:N	也:ADV	不會:ADV	不:ADV	冰:Vt	了:ASP	
+sosweet:FW	
+而且:C	紙盒:N	和:C	漢堡:N	間:POST	還:ADV	有:Vt	很:ADV	方便:Vi	進食:Vi	的:T	紙袋:N	隔:Vt	著:ASP	
+相當:ADV	衛生:Vi	啊:T	
+也:ADV	因為:C	有:Vt	紙袋:N	隔:Vt	著:ASP	
+一直:ADV	到:P	用餐:Vi	完畢:Vi	
+紙盒:N	都:ADV	非常:ADV	乾淨:Vi	清爽:Vi	
+這:DET	個:M	時候:N	千萬:DET	不要:ADV	拆開來:Vi	丟到:Vt	回收箱:N	
+或者:C	是:Vt	塞給:Vt	回收:Nv	阿姨:N	
+阿姨:N	可能:ADV	會:ADV	恨:Vt	我:N	
+因為:C	下:DET	一:DET	回:M	攜帶:Vt	紙盒:N	回去:Vi	AGABURGER:FW	購買:Vt	漢堡:N	
+還可以:ADV	折抵:Vt	5:DET	元:M	
+真是:ADV	好:Vi	環保:N	好:ADV	省錢:Vi	啊:T	
+拿出:Vt	漢堡:N	
+你:N	看看:Vt	這:DET	黑麥:N	漢堡:N	包:Vt	看起來:ADV	真:ADV	是:Vt	好:Vi	夏天:N	好:ADV	黝黑:Vi	啊:T	哈哈:ADV	
+搭配上:Vt	不:ADV	小心:Vt	跑出來:Vi	亮相:Vi	的:T	蔬菜:N	
+一:DET	整:DET	個:M	就:ADV	很:ADV	有:Vt	健康:Vi	的:T	感覺:N	
+身為:Vt	
+自:P	以為:Vt	
+在:P	減肥:Vi	的:T	人:N	
+這:DET	種:M	健康:Vi	的:T	漢堡:N	吃:Vt	的:T	時候:N	不會:ADV	有:Vt	罪惡感:N	呢:T	
+生菜:N	很:ADV	清爽:Vi	
+牛肉:N	厚實:Vi	多汁:Vi	
+但:C	有點:ADV	略:ADV	鹹:Vi	了:T	
+老闆:N	下:DET	次:M	留意:Vt	一下:N	捏:Vt	
+因為:C	我:N	買完:Vt	漢堡:N	去:Vt	了:ASP	趟:M	銀行:N	才:ADV	回:Vt	公司:N	開動:Vi	
+起:Vt	司好捧友:N	有點:ADV	凝固:Vi	了:T	
+要是:C	剛:ADV	出爐:Vi	吃:Vt	一定:A	超棒:N	的:T	
+夏天:N	太:ADV	熱:Vt	
+冬天:N	的:T	話:N	大概:ADV	買完:Vt	就坐:Vi	在:P	店:N	外:N	長椅:N	上:N	開動:Vi	吧:T	
+漢堡:N	上面:N	還:ADV	有:Vt	烙印:Vt	AGABURGER:FW	的:T	LOGO:FW	
+好:ADV	有:Vt	質感:N	喔:T	
+老闆:N	甚麼:DET	巧思:N	
+喔:T	對了:Vi	
+我:N	今天:N	搭配:Vt	的:T	是:Vt	檸檬:N	汽水:N	
+它:N	就:ADV	是:Vt	檸檬:N	汽水:N	啦:T	
+我:N	本人:N	沒有:Vt	甚麼:DET	特殊:Vi	評價:N	
+總的來說:ADV	
+我:N	覺得:Vt	擠霸摳:Vt	可以:ADV	吃到:Vt	一:DET	個:M	健康:Vi	又:ADV	好吃:Vi	的:T	手工:N	漢堡:N	
+還:ADV	能:ADV	搭配上:Vt	一:DET	瓶:M	飲料:N	
+相當:ADV	經濟:Vi	實惠:Vi	
+所以:C	AGABURGER:FW	已經:ADV	被:P	挖:Vt	奔:Vi	郎:N	列入:Vt	午餐:N	及:C	看:Vt	電影:N	前:POST	的:T	覓食:Nv	好店:N	清單:N	上:N	了:T	
+回:Vt	購:Vt	率:N	是:Vt	100:DET	%:M	唷:T	
+但:C	離:P	我:N	公司:N	有點:ADV	距離:P	
+中午:N	走路:Vi	過去:Vi	買:Vt	還是:ADV	需要:Vt	勇氣:N	來:ADV	抵抗:Vt	烈:Vi	陽:N	
+真心:Vi	推薦給:Vt	大家:N	

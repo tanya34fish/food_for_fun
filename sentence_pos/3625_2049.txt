@@ -1,0 +1,54 @@
+sowhatddd(Eve:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	松江:N	南京:N	火鍋:N	106:DET	粵式:N	豬肚:N	煲:Vt	鍋:N	
+Wed:FW	
+Oct:FW	
+8:DET	
+15:DET	::COLONCATEGORY	34:DET	::COLONCATEGORY	29:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	火鍋:N	106:DET	粵式:N	豬肚:N	煲:Vt	鍋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	10月:N	06日:N	
+地址:N	：:COLONCATEGORY	【:PARENTHESISCATEGORY	松江:N	南京:N	】:PARENTHESISCATEGORY	火鍋:N	106:DET	粵式:N	豬肚:N	煲:Vt	鍋:N	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2507:DET	-:DASHCATEGORY	1135:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週日:N	至:P	週四:N	11:DET	::COLONCATEGORY	30:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	週五:N	至:P	週六:N	11:DET	::COLONCATEGORY	30:DET	~:FW	01:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	327:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	酸菜:N	白肉鍋:N	、:PAUSECATEGORY	川:N	丸子:N	
+圖文:N	網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	dimple0350322.pixnet.net/blog/post:FW	/:FW	44027143:DET	
+最近:N	天氣:N	開始:Vt	轉涼:Vi	
+就:ADV	開始:Vt	想:Vt	吃:Vt	點:M	熱熱:Vi	的:T	湯湯水水:Vi	
+這:DET	次選:A	了:T	在:P	南京東路:N	三段:N	的:T	豬肚:N	煲:Vt	鍋:N	
+來:ADV	看看:Vt	他:N	推出來:Vt	的:T	商業:N	午餐:N	
+我們:N	一:DET	行:N	3:DET	人:N	覺得:Vt	還:ADV	不錯:Vi	就:ADV	進去:Vi	了:ASP	
+裡面:N	裝潢:N	是:Vt	中式:A	簡約:Vi	風:N	
+牆:N	上:POST	還:ADV	掛:Vt	著:ASP	豬肚:N	煲:Vt	鍋:N	的:T	照片:N	XD:FW	
+雖然:C	這:DET	間:M	招牌:N	是:Vt	豬肚:N	
+但是:C	因為:C	同行:Vi	的:T	人:N	不:ADV	吃:Vt	豬肚:N	
+所以:C	點:Vt	了:ASP	酸菜:N	白肉鍋:N	
+裡面:N	內建:Vt	不少:DET	的:T	白肉:N	XDD:FW	
+湯頭:N	是:Vt	以:P	豬:N	大骨:N	跟:P	雞:N	架子:N	熬煮:Vt	多:DET	時而:ADV	成:Vt	
+相當:ADV	濃郁:Vi	
+其實:ADV	豬肚湯:N	跟:P	酸菜:N	白肉:N	的:T	湯:N	底:POST	
+都:ADV	是:Vt	一樣:Vi	的:T	
+只:ADV	是:Vt	裡面:N	的:T	料:N	不:ADV	一樣:Vi	
+所以:C	他們:N	家:N	的:T	湯頭:N	有:Vt	濃濃:Vi	的:T	胡椒味:N	
+豬肚湯:N	要:ADV	加:Vt	胡椒:N	去:ADV	腥:Vi	啊:T	
+味道:N	像:Vt	是:Vt	韓國:N	的:T	雪:N	濃湯:N	+:FW	新加坡:N	的:T	肉骨:N	茶湯:N	
+什麼:DET	跟:P	什麼:DET	啊:T	
+很:ADV	奇怪:Vt	吧:T	
+但:C	真的:ADV	就是:C	這樣:Vi	...:ETCCATEGORY	XDDD:FW	
+來:ADV	看看:Vt	他:N	的:T	配菜:N	
+很:ADV	陽春:Vi	的:T	菇類:N	綜合盤:N	+:FW	川:N	丸子:N	
+但是:C	他們:N	家:N	的:T	菇:N	沒有:Vt	草味:N	優秀:Vi	
+川:N	丸子:N	是:Vt	很:ADV	實在:Vi	的:T	肉丸子:N	相當:ADV	推薦:Vt	
+還:ADV	有:Vt	一:DET	盤:M	雪花:N	牛:N	
+不過:C	沒有:Vt	什麼:DET	特別:Vi	的:T	地方:N	
+吃到:Vt	一半:DET	我們:N	的:T	臘味:N	煲仔:N	飯:N	終於:ADV	登場:Vi	
+只:ADV	是:Vt	一來:DET	熱心:Vt	的:T	服務員:N	就:ADV	幫:P	我們:N	拌勻:Vi	分:Vt	碗:N	了:T	
+還:ADV	來不及:ADV	拍:Vt	它:N	剛:ADV	登場:Vi	的:T	好吃:Vi	模樣:N	
+它:N	的:T	鍋巴:N	超多:Vi	
+超香:N	一:DET	人:N	只有:ADV	一:ADV	小:Vi	碗:N	真是:ADV	意猶未盡:Vi	
+最後:N	吃完:Vt	跟:P	鼎王:N	一樣:Vi	
+鍋:N	底:POST	是:Vt	可以:ADV	打包:Vi	的:T	唷:T	
+勤儉:Vi	持家:Vi	的:T	我:N	當然:ADV	要:ADV	打包:Vi	回家:Vi	下:POST	麵條:N	吃:Vt	啊:T	
+喔:T	對了:Vi	提醒:Vt	一下:N	有:Vt	+:FW	1成:DET	服務費:N	唷:T	

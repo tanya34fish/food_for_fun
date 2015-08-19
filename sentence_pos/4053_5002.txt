@@ -1,0 +1,100 @@
+MrFatUncle:FW	(:PARENTHESISCATEGORY	胖:Vi	大叔:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	蒙古:N	紅:Vi	蒙古:N	麻辣:A	鴛鴦:N	鍋:N	
+Sat:FW	
+Feb:FW	
+14:DET	
+22:DET	::COLONCATEGORY	33:DET	::COLONCATEGORY	58:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	蒙古:N	紅:Vi	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	12月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	光復南路:N	280巷:N	42:DET	號:M	(:PARENTHESISCATEGORY	國父:N	紀念館:N	2:DET	號:M	出口:Nv	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2731:DET	-:DASHCATEGORY	5656:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	01:DET	::COLONCATEGORY	00:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	mrfatuncle.blogspot.tw/2014/12/blog-post_20.html:FW	
+論:Vt	台北:N	麻辣:A	火鍋:N	中:POST	
+風味:N	最為:ADV	特殊:Vi	
+且:C	不:ADV	膩:Vi	口:N	的:T	店家:N	
+絕對:Vi	是:Vt	非:A	蒙古:N	紅:Vi	莫:ADV	屬:Vt	
+其:DET	蒙古:N	火鍋式:N	的:T	麻辣:A	鍋:N	底:POST	
+滴油:N	不:ADV	加:Vt	
+純:Vi	用:P	飄:Vi	在:P	湯頭:N	上:N	的:T	藥材:N	熬煮:Vt	
+清香:Vi	自然:N	
+繞:Vi	了:ASP	一圈:N	吃膩:Vt	了:ASP	外頭:N	的:T	辣油:N	麻辣:A	鍋:N	
+便:ADV	想:Vt	再:ADV	來:ADV	蒙古:N	紅:Vi	
+回味:Vt	下:N	這:DET	熱氣:N	四溢:Vi	的:T	蒙古式:A	麻辣:A	鍋:N	
+蒙古:N	紅:Vi	如果:C	不:ADV	是:Vt	坐:Vi	在:P	店:N	內:N	深處:N	的:T	圓桌:N	
+則:ADV	環境:N	稍:ADV	嫌:Vt	擁擠:Vi	
+每:DET	桌:M	空間:N	不:ADV	大:Vi	
+回音:N	稍:ADV	大:Vi	且:C	略:ADV	吵:Vt	
+若:C	來:Vi	蒙古:N	紅:Vi	
+錯開:Vt	中午:N	與:P	晚上:N	尖峰:A	時段:N	用餐:Vi	
+講話:Vi	不必:ADV	如此:ADV	辛苦:Vt	
+應該:ADV	最好:ADV	
+店:N	內:N	也:ADV	並:ADV	無:Vt	提供:Vt	阻隔:Nv	鍋味沾:N	至:C	背包:N	上:N	的:T	布袋:N	
+在:P	台北:N	競爭:N	激烈:Vi	的:T	麻辣:A	鍋界:N	
+服務:Vt	遜色:Vi	不少:Vi	
+蒙古:N	紅:Vi	除了:P	湯:N	底:POST	
+另:DET	一:DET	強項:N	便是:C	琳琅滿目:Vi	的:T	項目:N	
+種類:N	多:Vi	的:T	驚人:Vi	
+品質:N	皆:ADV	不錯:Vi	
+蔬菜:N	裡:POST	也:ADV	有:Vt	提供:Vt	在:P	吃到:Vt	飽:Vi	店:N	中:N	
+單價:N	屬於:Vt	較:ADV	高:Vi	
+較少:ADV	看見:Vt	的:T	水:N	根:N	蓮:N	與:C	絲瓜:N	
+海鮮:N	不僅:C	止於:Vt	一:DET	種:M	
+舉凡:C	蛤蜊:N	、:PAUSECATEGORY	蝦蟹:N	、:PAUSECATEGORY	多:DET	種:M	各:DET	式:M	魚類:N	皆:ADV	有:Vt	
+不過:C	油條:N	倒是:ADV	不:ADV	優:Vi	
+一:ADV	下鍋:Vi	便:ADV	太:ADV	軟:Vi	
+整:DET	根:M	軟綿綿:Vi	的:T	
+毫無:Vt	酥脆度:N	
+不:ADV	建議:Vt	拿:Vt	
+蒙古:N	紅:Vi	其:DET	自助:Vi	吧:T	
+應:ADV	算是:Vt	台北:N	麻辣:A	鍋界:N	中:N	
+數一數二:Vi	
+提供:Vt	最多:Vi	選擇:Vt	種類:N	的:T	店家:N	
+蒙古:N	紅:Vi	最:ADV	具:Vt	特色:N	的:T	
+便是:C	加入:Vt	藥材:N	
+白湯紅湯:N	皆:ADV	用:P	相同湯:N	底:POST	
+大:Vi	火熱:Vi	煮:Vt	的:T	湯頭:N	
+而:C	紅:Vi	湯:N	與:C	白湯:N	之:T	分:Nv	
+僅:ADV	差異:N	在:P	有無:ADV	再:ADV	加入:Vt	辣椒:N	
+若:C	覺:Vt	紅湯:N	不:ADV	夠:ADV	辣:Vi	
+則:ADV	可:ADV	再:ADV	加入:Vt	辣椒:N	快:ADV	煮:Vt	
+不過:C	基本:N	上:N	
+因:C	無:Vt	辣油:N	
+再:ADV	如何:ADV	辣:Vi	
+也:ADV	不若:Vt	外頭:N	辣:Vi	至:C	爆:Vi	汗:N	
+蒙古:N	紅:Vi	屬於:Vt	溫和:Vi	的:T	辣度:N	
+微:ADV	麻:Vi	
+白湯:N	有別於:Vt	一般:A	鴛鴦:N	鍋:N	的:T	昆布:N	鍋:N	
+其:DET	用:P	藥材:N	燉煮:Vt	的:T	白湯:N	
+單:ADV	喝:Vt	湯頭:N	便:ADV	已:ADV	夠:Vi	水準:N	
+也:ADV	因:C	其:DET	湯頭:N	夠味:Vi	
+即便:C	白鍋:N	也:ADV	無需:Vt	另:DET	沾醬:N	料:Vt	
+光涮肉:N	與:C	蔬菜:N	
+味道:N	便:ADV	相當:ADV	特殊:Vi	好吃:Vi	
+雪花:N	牛:N	稍:ADV	帶:Vt	點:M	油脂:N	
+涮:b	後:POST	嫩:Vi	
+可能:ADV	是:Vt	個:M	人:N	口味:N	
+較:ADV	愛:Vt	油脂:N	多:Vi	
+肉質:N	嫩:Vi	的:T	肉片:N	種類:N	
+安格:N	斯:DET	牛嫩肩:N	安格:N	斯:DET	牛嫩肩:N	每:DET	片:M	可:ADV	真:ADV	大:Vi	
+攤開:Vt	鋪平:Vi	
+幾乎:ADV	佔:Vt	了:ASP	整:DET	盤:M	
+簡單:Vi	涮:b	個:T	幾:DET	下:M	
+略帶:Vt	粉紅:N	便:ADV	可:ADV	下肚:Vi	
+肉質:N	因:C	油花:N	較少:Vi	
+不若:C	雪花:N	牛涮:N	後:POST	那麼:ADV	嫩:Vi	
+建議:Vt	不要:ADV	涮:b	太:ADV	久:Vi	
+免得:C	過於:ADV	硬:Vi	老:Vi	
+蒙古:N	紅:Vi	開業:Vi	已:ADV	久:Vi	
+除了:P	物價:N	急:Vi	漲:Vi	外:POST	
+湯頭:N	、:PAUSECATEGORY	肉片:N	與:C	配料:N	品質:N	皆:ADV	維持:Vt	高:Vi	水準:N	
+實在:ADV	無可:ADV	挑:Vt	替:P	
+若:C	吃膩:Vt	一般:A	麻辣:A	火鍋:N	口味:N	
+建議:Vt	不妨:ADV	至:P	國父:N	紀念館:N	附近:N	的:T	蒙古:N	紅:Vi	一:ADV	試:Vt	
+換換:Vt	口味:N	
+當然:ADV	
+若是:C	等到:P	四:DET	人:N	同行:N	
+一:DET	人:N	免費:Vi	的:T	不:ADV	定時:Vi	優惠:Nv	
+那:DET	可就:ADV	真:ADV	是:Vt	划算:Vi	了:T	
+胖大叔:Vi	::COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	☆:FW	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	胖大叔:Vi	Mr.FatUncle:FW	食記:N	http:FW	::COLONCATEGORY	/:FW	/:FW	mrfatuncle.blogspot.tw:FW	/:FW	胖大叔:Vi	Mr.FatUncle:FW	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/mrfatuncle:FW	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	

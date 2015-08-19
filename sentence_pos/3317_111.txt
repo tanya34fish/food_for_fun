@@ -1,0 +1,134 @@
+imcappuccino:FW	(:PARENTHESISCATEGORY	卡布:N	~:FW	~:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	知:Vt	味房:N	麻辣:A	之:T	家:N	自助:Vi	無限:Vi	
+Tue:FW	
+Jul:FW	
+15:DET	
+17:DET	::COLONCATEGORY	38:DET	::COLONCATEGORY	28:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	知味房:N	麻辣:A	之:T	家:N	自助:Vi	無限:Vi	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	北市:N	大安區:N	大安路:N	一段:N	52巷:N	21:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	8771:DET	-:DASHCATEGORY	4495:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	02:DET	::COLONCATEGORY	00:DET	(:PARENTHESISCATEGORY	隔日:N	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	午:N	440:DET	.:PERIODCATEGORY	-:DASHCATEGORY	晚:N	490:DET	.:PERIODCATEGORY	-:DASHCATEGORY	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	n/a:FW	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+圖文並茂:Vi	無:Vt	音樂:N	blog:FW	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	takenbycappu.blogspot.tw/2014/07/blog-post_14.html:FW	
+知味房:N	在:P	東區:N	可是:C	有:Vt	多:DET	年:M	的:T	歷史:N	了:T	
+堪稱:Vt	麻辣:A	鍋界:N	的:T	始祖:N	啊:T	...:ETCCATEGORY	或許:ADV	沒有:Vt	新一代:A	麻辣:A	鍋店:N	的:T	華麗:Nv	裝潢:N	跟:P	更:ADV	具:Vt	噱頭:N	的:T	高檔:N	肉品:N	海鮮:N	
+不過:C	平價:N	的:T	消費:N	跟:P	超:Vt	低:Vi	的:T	訂位:Nv	門檻:N	
+甚至:ADV	不用:ADV	訂:Vt	XD:FW	
+都:ADV	還是:ADV	讓:Vt	他:N	保有:Vt	一定:A	的:T	競爭力:N	
+知味房:N	的:T	消費:N	金額:N	是:Vt	午餐:N	440:DET	.:PERIODCATEGORY	-:DASHCATEGORY	晚餐:N	490:DET	.:PERIODCATEGORY	-:DASHCATEGORY	
+記得:Vt	剛:ADV	知道:Vt	這:DET	間:M	店:N	的:T	時候:N	好像:ADV	才:ADV	300多:DET	
+一轉眼:ADV	也:ADV	接近:Vt	500:DET	大關:N	了:T	
+不過:C	跟:P	台北:N	現在:N	動不動:ADV	就:ADV	要:ADV	5:DET	、:PAUSECATEGORY	600:DET	的:T	火鍋:N	吃到:Vt	飽:Vi	比起來:ADV	
+還是:ADV	稍微:ADV	有:Vt	便宜:Vi	一點點:DET	...:ETCCATEGORY	這:DET	次:M	消費:N	點:N	的:T	是:Vt	天:M	香:N	麻辣:A	鍋:N	跟:P	香醇:Vi	椰奶:N	鍋:N	
+麻辣:A	鍋:N	底:POST	並:ADV	沒有:Vt	貼心:Vi	的:T	辣味:N	選擇:Vt	
+送上來:Vt	後:POST	再:ADV	自己:N	根據:P	撈掉:Vt	些:M	辣:Vi	油:N	調整:Vt	辣:Vi	度:M	吧:T	
+三:DET	人:N	以上:POST	則:ADV	可以:ADV	點:Vt	賓士:N	鍋:N	
+顧名思義:ADV	就:ADV	是:Vt	鍋:N	中:POST	以:P	一:DET	個:M	賓士:N	logo:FW	區隔成:Vt	三格:N	、:PAUSECATEGORY	三:DET	種:M	口味:N	
+這:DET	是:Vt	另:DET	一:DET	次:M	消費:N	拍:Vt	的:T	
+點:Vt	的:T	是:Vt	天:M	香:N	麻辣:A	、:PAUSECATEGORY	低脂:N	藥膳:N	、:PAUSECATEGORY	以及:C	山東:N	酸白:N	鍋:N	
+低脂:N	藥膳:N	帶有:Vt	淡淡:Vi	的:T	中藥:N	香:Vi	
+不過:C	基本:N	上:N	算是:Vt	味道:N	最:ADV	淡:Vi	的:T	湯:N	底:POST	
+山東:N	酸白:N	鍋:N	則:ADV	是:Vt	放入:Vt	大量:DET	的:T	東北:N	酸:Vi	白菜:N	
+拿來:Vt	涮:b	肥肉:N	相當:ADV	合適:Vi	
+沒有:ADV	新:Vi	世代:N	的:T	現:N	切:Vt	肉品區:N	
+所有:DET	肉品:N	都:ADV	直接:Vi	放:Vt	在:P	架:N	上:POST	供:Vt	消費者:N	自由:Vi	拿取:Vt	
+雖然:C	可能:ADV	新:Vi	鮮度:N	不比:Vt	現:N	切:Vt	
+但:C	想:Vt	吃:Vt	多少:DET	就:ADV	拿:Vt	多少:DET	
+而且:C	不用:ADV	開口:Vi	跟:P	服務生點:N	
+還是:ADV	多少:DET	有:Vt	些:M	優點:N	
+因為:C	是:Vt	自取:Vt	
+所以:C	我:N	就:ADV	不:ADV	客氣:Vi	了:T	...:ETCCATEGORY	
+喂:T	|:FW	|:FW	|:FW	b:FW	架:N	上:N	有:Vt	梅花:N	豬:N	、:PAUSECATEGORY	羊:N	、:PAUSECATEGORY	瘦牛:N	、:PAUSECATEGORY	小:Vi	肥:Vt	牛:N	
+以及:C	雞肉:N	
+但:C	因為:C	我:N	覺得:Vt	雞肉:N	可以:ADV	切出:Vt	一片片:DET	圓形:N	的:T	肉片:N	很:ADV	詭異:Vi	所以:C	從來:ADV	不:ADV	吃:Vt	火鍋店:N	的:T	雞肉:N	
+而:C	我:N	認為:Vt	不:ADV	敗:Vi	款:N	是:Vt	梅花:N	豬:N	跟:P	小:Vi	肥:Vt	牛:N	
+瘦:Vi	牛肉:N	則:ADV	要:ADV	講究:Vt	火侯:N	
+稍微:ADV	涮:b	過:ASP	一:DET	變色:Vi	就:ADV	可以:ADV	拿起來:Vi	食用:Vt	了:ASP	
+一:ADV	但:C	泡:Vt	在:P	湯底:N	裡:POST	太:ADV	久:Vi	很:ADV	容易:Vi	就:ADV	老掉:Vi	
+火鍋:N	料:N	直接:Vi	拆開:Vt	包裝:N	對:P	剪:Vt	
+一條條:DET	放:Vt	在:P	架:N	上:POST	讓:Vt	消費者:N	取用:Vt	
+看起來:ADV	很:ADV	是:Vt	海派:Vi	
+因為:C	我們:N	家:N	都:ADV	是:Vt	特:ADV	愛:Vt	火鍋:N	料:N	的:T	賠錢貨:N	們:N	
+所以:C	當然:ADV	也:ADV	就:ADV	不:ADV	客氣:Vi	地:T	一:DET	次:M	拿:Vt	一:DET	整:DET	條:M	
+吃得開:Vi	心:N	過癮:Vi	遠:Vi	比:P	吃:Vt	得:T	划算:Vi	更:ADV	重要:Vi	
+對:Vi	吧:T	
+吃:Vt	麻辣:A	鍋:N	怎麼:ADV	能:ADV	少:Vi	了:ASP	老油條:N	
+當然:ADV	一定:ADV	要:ADV	泡:Vt	一:DET	條:M	老油條:N	
+等:P	他:N	吸足:Vt	了:ASP	麻辣湯:N	底:POST	再:ADV	大:Vi	口:N	咬下:Vt	
+一:DET	面:N	辣味:N	十足:Vi	充滿:Vt	湯汁:N	一:DET	面:N	又:ADV	還:ADV	留有:Vt	油條:N	應:ADV	應:ADV	脆脆:Vi	的:T	口感:N	
+吃:Vt	麻辣:A	鍋:N	就:ADV	是:Vt	應該:ADV	以:P	這:DET	個:M	開場:Vi	
+鴨:N	血:N	跟:P	豆腐:N	也:ADV	都:ADV	煮:Vt	得:T	入味:N	
+加:Vt	湯:N	的:T	時候:N	也:ADV	可以:ADV	無限:Vi	續:Vi	唷:T	
+鴨血:N	比較:ADV	合:Vt	我:N	味:N	
+不過:C	可能:ADV	是:Vt	我:N	本來:ADV	就:ADV	比較:ADV	喜歡:Vt	吃:Vt	麻辣:A	鴨血:N	勝過:Vt	麻辣:A	豆腐:N	吧:T	XDDDD:FW	除了:P	麻辣:A	鴨血:N	跟:P	豆腐:N	是:Vt	隨著:P	湯:N	底:POST	一起:ADV	來:Vi	的:T	
+食材區:N	也:ADV	有:Vt	牛肚:N	、:PAUSECATEGORY	肥腸:N	等:POST	滷料:N	
+這些:DET	也:ADV	是:Vt	麻辣湯:N	底:POST	的:T	好朋友:N	們:N	
+吃:Vt	麻辣:A	鍋:N	一定:ADV	要:ADV	來:ADV	點:ADV	這些:DET	滷:Vt	料:N	的:T	
+蛤俐:N	跟:P	蝦子:N	還:ADV	滿:ADV	漂亮:Vi	的:T	
+雖然:C	沒有:Vt	大:Vi	得:T	驚豔:Vi	
+但:C	大小:N	適中:Vi	也:ADV	還:ADV	算:Vt	新鮮:Vi	沒:Vt	異味:N	
+如果:C	肚子:N	有:Vt	空間:N	的:T	話:N	
+這:DET	種:M	蝦子:N	可以:ADV	吃上:Vt	一:DET	大盤:N	...:ETCCATEGORY	可惜:Vi	海鮮:N	我:N	每:DET	次:M	都:ADV	放:Vt	在:P	最後:N	再:ADV	戰:Vi	
+只:ADV	能:ADV	隨意:Vi	吃:Vt	個:M	幾:DET	尾:M	心意:N	一下:N	、:PAUSECATEGORY	點到:Vt	為止:POST	
+接著:ADV	來:ADV	介紹:Vt	一下:N	取:Vt	餐:M	環境:N	吧:T	
+食材:N	區:N	
+左上:N	是:Vt	肉品:N	
+拍攝:Vt	當下:N	因為:C	已經:ADV	進入:Vt	半:DET	午休:Vi	時段:N	
+所以:C	肉品:N	改成:Vt	要:ADV	跟:P	店員點:N	
+平常:N	用餐:Nv	時段:N	是:Vt	直接:Vi	放:Vt	在:P	架:N	上:N	的:T	唷:T	
+中間:N	是:Vt	火鍋:N	料們:N	
+右邊:N	有:Vt	一:DET	大:Vi	堆:M	菇菇:N	
+好:ADV	恐怖:Vi	..:ETCCATEGORY	下面:N	則:ADV	有:Vt	青菜:N	跟:P	海鮮:N	
+海鮮:N	種類:N	相當:ADV	豐富:Vt	
+有:Vt	魚片:N	、:PAUSECATEGORY	蛤俐:N	、:PAUSECATEGORY	蚵仔:N	、:PAUSECATEGORY	海參:N	、:PAUSECATEGORY	蝦子:N	等等:POST	...:ETCCATEGORY	最:ADV	厲害:Vi	的:T	是:Vt	還:ADV	有:Vt	螃蟹:N	
+現在:N	台北:N	地區:N	400多:DET	的:T	火鍋:N	能:ADV	看到:Vt	螃蟹:N	
+眼淚:N	都:ADV	快:ADV	噴出來:Vt	了:ASP	...:ETCCATEGORY	醬料區:N	
+選項:N	也:ADV	相當:ADV	豐富:Vt	
+該:DET	有:Vt	的:T	都:ADV	有:Vt	
+一:DET	個:M	小小:Vi	的:T	遺憾:Nv	是:Vt	沒有:Vt	豆腐乳:N	
+不然:C	拿:Vt	豆腐乳:N	來:ADV	沾:Vt	酸白鍋:N	的:T	肥:Nv	牛:N	肯定:Vt	很:ADV	棒:Vi	
+櫃子:N	中:POST	應該:ADV	是:Vt	熱飲:N	包:Vt	吧:T	
+可惜:Vi	我:N	不:ADV	喝:Vt	熱飲:N	沒有:Vt	機會:N	替:P	各:DET	位:M	嚐:Vt	百草:N	了:T	...:ETCCATEGORY	飲料櫃:N	
+這:DET	我:N	覺得:Vt	是:Vt	這:DET	家:M	店:N	最:ADV	特別:Vi	的:T	地方:N	
+裡面:N	滿滿:Vi	都:ADV	是:Vt	擺:Vt	桌:N	會:ADV	用:Vt	的:T	那:DET	種:M	大:Vi	包裝:Vt	國產:A	飲品:N	
+像:Vt	是:Vt	維他露:N	的:T	青草:N	茶:N	跟:P	冬瓜茶:N	
+這:DET	整:DET	個:M	就是:C	小時候:N	才:ADV	會:ADV	看到:Vt	的:T	東西:N	啊:T	
+一:DET	整:DET	個:M	就是:C	很:ADV	有趣:Vi	\:FW	^:FW	▽:FW	^:FW	/:FW	當然:ADV	如果:C	你:N	對:P	這些:DET	逝去:Vi	的:T	童年:N	回憶:N	不:ADV	是:Vt	這麼:ADV	有:Vt	興趣:N	的:T	話:N	
+也:ADV	是:Vt	有:Vt	另:DET	一:DET	櫃:N	有:Vt	玻璃:N	罐裝:A	可樂:N	的:T	
+不用:ADV	擔心:Vt	
+因為:C	不:ADV	是:Vt	很:ADV	有:Vt	梗:N	所以:C	就:ADV	沒:ADV	拍:Vt	了:ASP	...:ETCCATEGORY	
+甜點:N	跟:P	水果櫃:N	
+種類:N	也:ADV	還:ADV	算:Vt	豐富:Vt	
+旁邊:N	有:Vt	團購:Vt	美食:N	的:T	蛋:N	塔:N	跟:P	泡芙:N	
+上面:N	還:ADV	有:Vt	提:Vt	拉米蘇:N	
+可惜:Vi	我:N	已經:ADV	吃:Vt	太:ADV	飽:Vi	了:ASP	沒辦法:Vi	一一:ADV	品嘗:Vt	...:ETCCATEGORY	經不起:Vt	誘惑:Nv	還是:C	各:DET	拿:Vt	了:ASP	一:DET	個:M	...:ETCCATEGORY	
+喂:T	
+這:DET	可是:C	豆酥朋:N	的:T	泡芙:N	啊:T	
+豆酥朋:N	吃到:Vt	飽:Vi	耶:T	
+怒:Vi	吃:Vt	蛋塔:N	吃起來:ADV	像:Vt	是:Vt	蛋塔:N	工場:N	的:T	蛋塔:N	
+倆倆:N	都:ADV	是:Vt	團購界:N	
+相當:ADV	知名:Vi	的:T	甜點:N	
+冰淇淋櫃:N	有:Vt	明治:N	跟:P	卡比索:N	
+另:DET	一:DET	面:N	取:Vt	餐區:N	還:ADV	有:Vt	三:DET	孔:N	霜淇淋:N	機:N	喔:T	
+DIY:FW	式:N	的:T	
+小朋友:N	都:ADV	會:ADV	喜歡:Vt	擠上:Vt	一:DET	捲:M	
+值得:Vi	一:ADV	提:Vt	的:T	是:Vt	甜筒:N	是:Vt	尖:Vi	的:T	脆:Vi	皮:N	甜筒:N	
+這:DET	種:M	甜筒:N	本身:N	餅乾:N	脆脆:Vi	的:T	帶有:Vt	甜味:N	
+很:ADV	像:Vt	coldstone:FW	的:T	餅:N	皮:N	
+我:N	很:ADV	喜歡:Vt	
+坊間:N	的:T	霜淇淋:N	可能:ADV	是:Vt	頂端:N	面積:N	的:T	關係:N	都:ADV	紛紛:ADV	採用:Vt	軟餅皮:N	沒:Vt	味道:N	的:T	甜筒:N	
+要是:C	有:Vt	這:DET	種:M	甜筒:N	該:ADV	有:Vt	多:ADV	好:Vi	O3O:FW	整體:N	來:ADV	說:Vt	
+雖然:C	知:Vt	味房:N	沒有:Vt	特別:Vi	驚豔:Vi	的:T	食材:N	
+但是:C	該:DET	有的:DET	也:ADV	都:ADV	沒:ADV	少:Vi	
+會:ADV	想:Vt	來:Vi	消費:Vi	
+大概:ADV	不會:ADV	是:Vt	因為:C	有:Vt	什麼:DET	特別:Vi	的:T	食材:N	非:ADV	吃:Vt	不可:ADV	讓:Vt	人:N	印象:N	深刻:Vi	
+便宜:Vi	的:T	價錢:N	、:PAUSECATEGORY	沒有:Vt	客滿:Vi	基本:N	上:POST	不會:ADV	趕人:N	
+跟:P	方便:Vi	訂位:Vi	才:ADV	是:Vt	他:N	最:ADV	大:Vi	的:T	優勢:N	
+畢竟:ADV	在:P	東區:N	
+沒有:Vt	三五:DET	天:M	前:POST	就:ADV	預約:Vt	
+想要:Vt	吃:Vt	麻辣:A	鍋:N	可:ADV	不:ADV	是:Vt	件:M	簡單:Vi	的:T	事:N	...:ETCCATEGORY	--:DASHCATEGORY	

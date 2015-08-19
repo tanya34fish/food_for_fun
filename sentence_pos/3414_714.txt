@@ -1,0 +1,71 @@
+ethel:FW	0203:DET	(:PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	Toasteria:FW	吐司:N	利亞:N	N:FW	訪:Vt	體驗:Vt	
+Tue:FW	
+Aug:FW	
+12:DET	
+11:DET	::COLONCATEGORY	50:DET	::COLONCATEGORY	09:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	ToasteriaCafe:FW	三:DET	號:M	店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	169巷:N	3:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2752:DET	-:DASHCATEGORY	0033:DET	
+圖文:N	網誌:N	→:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	borntoshop.pixnet.net/blog/post:FW	/:FW	185193972:DET	
+以下:N	是:Vt	不:ADV	負責:Vt	食評:N	
+全部:DET	都:ADV	是:Vt	我:N	跟:P	朋友:N	們:N	的:T	心得:N	
+僅:ADV	供:Vt	大家:N	點:Vt	餐:N	時:POST	參考:Vt	
+畢竟:ADV	每:DET	個:M	人:N	喜好:Vt	的:T	口感:N	不:ADV	一樣:Vi	呀:T	
+Toasteria:FW	是:Vt	一:DET	家:M	我:N	很少:ADV	主動:Vi	帶:Vt	朋友:N	去:ADV	吃:Vt	的:T	餐廳:N	
+多半:DET	是:Vt	外國:N	朋友:N	指名:ADV	要:ADV	去:Vt	的:T	地方:N	
+既然:C	去:Vt	了:ASP	這麼多:DET	次:M	
+某:DET	一:DET	天:M	偶然:Vi	心血來潮:Vi	
+興起:Vt	寫:Vt	篇:M	食記:N	的:T	念頭:N	
+讓:Vt	大家:N	知道:Vt	該:ADV	避開:Vt	哪些:DET	菜色:N	
+XD:FW	這:DET	家:M	位於:Vt	忠孝:N	敦化:N	站:Vi	的:T	分店:N	也:ADV	是:Vt	我:N	最:ADV	常:ADV	光顧:Vt	的:T	一:DET	家:M	
+不:ADV	誇張:Vt	
+不管:C	什麼:DET	時候:N	店:N	內:N	總是:ADV	高朋滿座:Vi	
+來:ADV	看:Vt	菜單:N	吧:T	
+顧及:Vt	到:P	外籍:A	客人:N	
+Toasteria:FW	吐司:N	利亞:N	的:T	菜單:N	採用:Vt	雙語:N	的:T	設計:N	
+連:C	內容物:N	都:ADV	寫:Vt	得:T	一清二楚:Vi	
+這樣:Vi	服務生:N	就:ADV	不用:ADV	一天到晚:ADV	解釋:Vt	
+究竟:ADV	用:Vt	了:ASP	哪些:DET	食材:N	
+餐廳:N	沒有:Vt	過多:Vi	的:T	裝潢:N	設計:N	
+走:Vi	一:DET	個:M	簡約:Vi	復古風:N	
+到訪:Vt	的:T	時候:N	
+客人:N	太多:Vi	
+所以:C	並:ADV	沒有:ADV	拍攝:Vt	店:N	內:N	的:T	照片:N	
+波菜:N	培根:N	瑞:N	可:ADV	達:Vt	$:FW	170:DET	歐姆:M	蛋:N	經典:N	早餐:N	$:FW	240:DET	烤:Vt	甜椒:N	奶油醬:N	義大利麵:N	$:FW	290:DET	地中海:N	烤:Vt	起:ASP	司加:N	洞見:Vt	$:FW	200:DET	這:DET	道:M	大家:N	幾乎:ADV	都:ADV	愛:Vt	
+在:P	吐司:N	中間:N	挖空:Vt	放上:Vt	半熟:Vi	蛋:N	
+絕配:N	
+另外:ADV	兩:DET	道:M	來不及:ADV	拍:Vt	就:ADV	被:P	搶光:Vt	了:ASP	XD:FW	對了:Vi	
+八:DET	月份:N	平日:N	用:P	餐點:N	義大利麵:N	系列:N	送:Vt	白酒:N	或:C	紅酒:N	一:DET	杯:M	
+白酒:N	喝:Vt	起來:ASP	讓:Vt	人:N	無法:ADV	評價:Vt	
+似乎:ADV	送:Vt	可樂:N	會:ADV	更:ADV	好些:DET	
+Toasteria:FW	的:T	吐司:N	都:ADV	有:Vt	一:DET	種:M	很:ADV	扎實:Vi	的:T	特性:N	
+吃:Vt	一半:DET	就:ADV	很:ADV	有:Vt	飽足感:N	
+好吃:Vi	的:T	話:N	倒是:ADV	無所謂:Vi	
+偏偏:ADV	它們:N	家:N	的:T	吐司:N	有:Vt	三分之一:DET	的:T	機率:N	會:ADV	點到:Vt	不合:Vi	台灣人:N	口味:N	
+我:N	這麼:ADV	寫:Vt	是:Vt	因為:C	有:Vt	些:M	我:N	覺得:Vt	不:ADV	好吃:Vi	的:T	口味:N	
+外籍:A	朋友:N	們:N	到:C	是:Vt	很:ADV	愛:Vt	
+所以:C	建議:Vt	小鳥:N	胃:N	的:T	女生:N	可以:ADV	兩:DET	個:M	人:N	分食:Vt	一:DET	份:M	
+吃:Vt	不:ADV	夠:Vi	的:T	話:N	
+再:ADV	加:Vt	點:M	小菜:N	即可:ADV	
+還:ADV	有:Vt	
+如果:C	你:N	也:ADV	不:ADV	喜歡:Vt	乾巴巴:Vi	的:T	口感:N	
+選擇:Vt	Panini:FW	格子:N	三明治:N	時:POST	
+記得:Vt	加選:Vt	濕潤:Vi	的:T	配菜:N	準:ADV	沒:ADV	錯:Vi	
+像:Vt	是:Vt	蔬菜:N	、:PAUSECATEGORY	半熟:Vi	蛋:N	、:PAUSECATEGORY	起:Vt	司:N	等:POST	
+既然:C	都:ADV	說到:Vt	這邊:N	
+就:ADV	再:ADV	分享:Vt	一下:N	早:Vi	午餐:N	的:T	部分:DET	
+這:DET	個:M	幾乎:ADV	是:Vt	跟:P	我:N	去:ADV	過:Vt	的:T	朋友:N	都:ADV	覺得:Vt	還好:Vi	的:T	餐點:N	
+沒:ADV	錯:Vi	
+連:C	外籍:A	朋友:N	也:ADV	這麼:ADV	說:Vt	
+真是:ADV	讓:Vt	我:N	意外:Vt	
+很:ADV	意外:Vt	地:T	
+Toasteria:FW	的:T	義大利麵:N	幾乎:ADV	都:ADV	很:ADV	好吃:Vi	
+所以:C	不用:ADV	擔心:Vt	點到:Vt	雷:N	
+大膽:Vi	的:T	點:N	就:ADV	對了:Vi	
+不過:C	還是:ADV	建議:Vt	分食:Vt	
+吃:Vt	多:DET	有點:ADV	膩:Vi	XD--&lt:FW	
+莉芙:N	小姐:N	愛:Vt	旅遊:Vi	&:FW	gt:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	borntoshop.pixnet.net/blog:FW	--:DASHCATEGORY	

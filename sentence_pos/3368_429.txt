@@ -1,0 +1,103 @@
+Roa(Roa:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	美味:N	港式:A	粥飯:N	，:COMMACATEGORY	1976:DET	港式:A	餐廳:N	
+Tue:FW	
+Jul:FW	
+29:DET	
+22:DET	::COLONCATEGORY	22:DET	::COLONCATEGORY	21:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	1976:DET	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	/:FW	19:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	233巷:N	11:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2777:DET	-:DASHCATEGORY	1976:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	130:DET	
+圖文:N	好讀:Vt	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/M8II:FW	
+其實:ADV	說到:Vt	港式粥品:N	
+在:P	台北:N	最:ADV	負盛名:Vi	的:T	應該:ADV	是:Vt	同樣:Vi	位在:Vt	東區:N	的:T	老友:N	記:Vt	粥:N	麵館:N	
+另:DET	一:DET	間:M	也:ADV	很:ADV	
+有名:Vi	的:T	就是:C	這:DET	次要:A	介紹:N	的:T	1976:DET	港式茶:N	餐廳:N	
+號稱:Vt	是:Vt	台北:N	第一:DET	間:M	道地:Vi	港式:A	廣東:N	粥店:N	
+創立:Vt	於:P	
+民國:N	65年:N	
+就是:C	1976年:N	
+不過:C	現在:N	這:DET	間:M	是:Vt	後來:N	重開:Vt	的:T	
+並非:ADV	原本:ADV	的:T	老店:N	
+1976:DET	港式茶:N	餐廳:N	靠近:Vt	捷運:N	忠孝:N	敦化:N	站:Vi	
+位於:Vt	忠孝東路:N	和:C	敦南:N	誠品:N	中間:N	的:T	巷弄:N	之中:POST	
+基本:N	上:N	
+招牌:N	還:ADV	算:Vt	明顯:Vi	
+裝潢:N	也:ADV	頗:ADV	有:Vt	特色:N	
+雖然:C	店面:N	不:ADV	大:Vi	不過:ADV	不至於:ADV	難找:Vt	
+室:N	內:N	就:ADV	是:Vt	一般:A	港式:A	+:FW	家常:A	餐廳:N	的:T	感覺:N	
+空間:N	狹長:Vi	且:C	不:ADV	大:Vi	
+座位:N	有點:ADV	小:Vi	
+1976年:N	台北市:N	的:T	第一:DET	間:M	道地:Vi	港式:A	廣東:N	粥店:N	
+這邊:N	和:C	老友:N	記:Vt	粥:N	麵館:N	一樣:Vi	是:Vt	主打:Nv	粥麵:N	
+不過:C	和:P	
+老友:N	記:Vt	不同:Vi	的:T	是:Vt	這邊:N	還:ADV	有:Vt	賣:Vt	蒸飯:N	類:N	
+但是:C	沒有:ADV	賣:Vt	港式燒臘:N	
+價位:N	上:N	和:C	老友:N	記:Vt	差不多:Vi	
+不過:C	粥麵:N	口味:N	較少:Vi	
+小菜:N	種類:N	較:ADV	多:Vi	並且:C	還:ADV	有:Vt	點心類:N	
+點心:N	在:P	菜單:N	
+背面:N	
+我:N	沒有:ADV	照到:Vt	
+點:Vt	飯類:N	會:ADV	先:ADV	送上:Vt	一:DET	碗:M	清湯:N	
+喝:Vt	起來:ASP	就:ADV	像:Vt	是:Vt	港式撈麵:N	的:T	湯頭:N	
+有點:ADV	鹹:Vi	
+片手魚生:N	粥:N	
+95:DET	元:M	
+粥:N	很:ADV	有:Vt	味道:N	且:C	薑味:N	重:Vi	
+米飯:N	也:ADV	煮成:Vt	黏稠狀:N	
+吃:Vt	不:ADV	太:ADV	到:P	米粒:N	感:Vt	
+裡面:N	
+的:T	魚肉:N	也:ADV	很:ADV	軟:Vi	嫩:Vi	且:C	味道:N	鮮美:Vi	
+不過:C	魚刺:N	稍:ADV	多:Vi	耐性:N	不:ADV	好:Vi	的:T	人:N	別:DET	點:M	
+不然:C	光:ADV	是:Vt	吐:Vt	魚刺:N	就:ADV	要:ADV	崩潰:Vi	
+了:T	
+排骨:N	臘味飯:N	
+110:DET	元:M	
+原本:ADV	很:ADV	猶豫:Vt	要點:N	鳳爪:N	排骨:N	還是:C	鳳爪:N	臘味:N	
+不過:C	鳳爪:N	根本:ADV	可以:ADV	單:Vi	點:ADV	啊:T	
+傻傻:Vi	的:T	
+當然:ADV	就:ADV	點:Vt	排骨:N	臘味飯:N	過過:Vt	肉癮:N	
+這邊:N	的:T	臘肉:N	吃起來:ADV	帶:Vt	有點:ADV	Q:FW	度:M	
+不會:ADV	太:ADV	乾:Vi	硬:Vi	
+吃:Vt	
+起來:Vi	有:Vt	股:M	白酒:N	的:T	清:Vi	香味:N	
+當然:ADV	味道:N	也:ADV	是:Vt	相當:ADV	不錯:Vi	
+另:DET	一:DET	個:M	主菜:N	鼓:Vt	汁:N	排骨:N	
+肉質:N	很:ADV	軟:Vi	帶:Vt	骨:N	的:T	
+部分:DET	不會:ADV	很:ADV	大:Vi	塊:M	
+調味:Vi	也:ADV	相當:Vi	入味:N	
+口味:N	稍:ADV	重:Vi	
+吃起來:ADV	滿滿:Vi	的:T	肉味:N	相當:ADV	過癮:Vi	
+配合:Vt	著:ASP	半熟:Vi	
+蛋:N	的:T	蛋:N	汁:N	以及:C	兩:DET	種:M	肉:N	的:T	肉汁:N	混合:Vt	著:ASP	米飯:N	大:Vi	口:N	扒飯:Vi	
+對:P	愛:Vt	吃:Vt	肉:N	的:T	人:N	來:ADV	說:Vt	真:ADV	是:Vt	一:DET	大:Vi	享受:Vt	啊:T	
+鳳爪:N	
+50:DET	元:M	
+聽說:Vt	這邊:N	的:T	鳳爪:N	是:Vt	招牌:N	點心:N	之:T	一:DET	
+所以:C	小菜:N	就:ADV	決定:Vt	點:M	鳳爪:N	來:ADV	吃:Vt	
+這:DET	紅燒:Nv	鳳:N	
+爪:N	甜味:N	算是:Vt	蠻:ADV	明顯:Vi	並:ADV	帶:Vt	有點:ADV	辣味:N	
+醬汁:N	味道:N	十足:ADV	相當:Vi	入味:N	
+鳳爪:N	也:ADV	蒸:Vt	的:T	很:ADV	透:ADV	
+我:N	覺得:Vt	相當:ADV	
+好吃:Vi	
+不過:C	口味:N	偏重:Vt	就:ADV	是:Vt	
+個:M	人:N	評分:Vi	
+食物:N	::COLONCATEGORY	8.5:DET	/:FW	10:DET	頗:ADV	合:Vt	我:N	的:T	口味:N	
+不過:C	有:Vt	些:M	人:N	可能:ADV	會:ADV	覺得:Vt	口味:N	太:ADV	重:Vi	太:ADV	鹹:Vi	
+CP:FW	值:N	::COLONCATEGORY	8:DET	/:FW	10:DET	價格:N	來:ADV	說:Vt	還:ADV	算:Vt	OK:FW	
+至少:ADV	比:P	祥發:N	便宜:Vi	許多:DET	
+環境:N	::COLONCATEGORY	7:DET	/:FW	10:DET	環境:N	普普:N	
+服務:Nv	::COLONCATEGORY	8:DET	/:FW	10:DET	阿姨:N	還:ADV	算:Vt	頗:ADV	客氣:Vi	
+我:N	看:Vt	網路:N	上:N	寫:Vt	這邊:N	的:T	麵:N	也:ADV	很:ADV	好吃:Vi	
+下:DET	次:M	再:ADV	來:ADV	嘗嘗:Vt	
+總之:ADV	喜歡:Vt	吃:Vt	港式粥:N	麵:N	還:ADV	有:Vt	蒸飯:N	的:T	可以:ADV	來:ADV	
+試試看:Vt	
+Roa:FW	的:T	生活:N	心得:N	紀錄:N	-:DASHCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/xQHN:FW	
+紀錄:N	逝去:Vi	的:T	青春:N	時光:N	
+或:C	老年:N	時光:N	&:FW	amp:FW	
+各:DET	種:M	台北:N	美食:N	

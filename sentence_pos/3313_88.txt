@@ -1,0 +1,12 @@
+地址:N	：:COLONCATEGORY	台北市:N	文山區:N	景隆街:N	1巷:N	9:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	$:FW	200:DET	左右:POST	
+店址:N	附近:N	為:P	文山區:N	老舊:Vi	民房:N	
+搭:Vt	捷運:N	至:C	萬隆站:N	2:DET	號:M	出口:Nv	
+步行:Vi	5:DET	分鐘:M	內:POST	可:ADV	抵達:Vt	
+不:ADV	油膩:Vi	同樣:Vi	份量:N	十足:Vi	
+三:DET	種:M	水果:N	品質:N	也:ADV	不:ADV	賴:Vt	
+無論:C	飯:N	前:POST	/:FW	飯:N	後:POST	吃:Vt	都:ADV	很:ADV	棒:Vi	
+完全:ADV	一:ADV	吃:Vt	愛上:Vt	
+甜:Vi	的:T	吃:Vt	、:PAUSECATEGORY	鹹:Vi	的:T	吃:Vt	都:ADV	不:ADV	怪:Vt	
+推薦:Vt	
+不妨:ADV	起身:Vi	來:Vi	趟:M	文山區:N	

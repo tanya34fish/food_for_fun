@@ -1,0 +1,48 @@
+leafphoto:FW	(:PARENTHESISCATEGORY	葉影瓶:N	像:P	_:FW	里夫:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	台北:N	]:PARENTHESISCATEGORY	銀:N	咖哩:N	(:PARENTHESISCATEGORY	銀:N	カ:FW	レ:FW	ー:FW	公館:N	總店:N	):PARENTHESISCATEGORY	
+Thu:FW	
+Nov:FW	
+20:DET	
+11:DET	::COLONCATEGORY	10:DET	::COLONCATEGORY	23:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	銀:N	咖哩:N	(:PARENTHESISCATEGORY	公館:N	總店:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	10月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	三段:N	276:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23646459:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	略:ADV	
+無:Vt	音樂:N	。:PERIODCATEGORY	有:Vt	圖:N	真相:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	leafphoto.pixnet.net/blog/post:FW	/:FW	108087475:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	我:N	是:Vt	分隔:Vt	線:N	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+會:ADV	開始:Vt	注意到:Vt	銀:N	咖哩:N	我:N	想:Vt	還是:ADV	因為:C	它:N	誇張:Vt	的:T	富士山:N	咖哩飯:N	吧:T	
+後來:N	看:Vt	了:ASP	不少:DET	網友:N	的:T	分享:Nv	才:ADV	發現:Vt	
+銀:N	咖哩:N	的:T	價格:N	真的:ADV	頗為:ADV	平價:N	
+算是:Vt	日式:A	餐飲:N	登台:Vi	少數:DET	仍:ADV	
+維持:Vt	庶民:N	價位:N	的:T	連鎖:A	餐廳:N	之:T	一:DET	
+礙於:Vt	Flickr:FW	空間:N	
+如果:C	圖片:N	出現:Vi	破圖:N	的:T	朋友:N	
+請:Vt	點擊:Vt	該:DET	張:M	圖片:N	觀看:Vt	
+謝謝:Vt	
+1:DET	.:PERIODCATEGORY	豬排:N	咖哩飯:N	
+外加:Vt	牛肉:N	
+這邊:N	的:T	餐點:N	主打:Nv	現點:N	現:ADV	做:Vt	
+所以:C	也:ADV	同時:N	可以:ADV	加價:Vi	加料:Vi	調整:Vt	
+飯量:N	、:PAUSECATEGORY	辣度:N	都:ADV	能:ADV	調整:Vt	
+2:DET	.:PERIODCATEGORY	豬排:N	不:ADV	算:Vt	厚:Vi	
+不過:C	也:ADV	不會:ADV	薄:Vi	到:P	吃:Vt	不:ADV	出:Vt	肉感:Vi	
+加價:Vi	添加:Vt	的:T	牛肉:N	蠻:ADV	好吃:Vi	的:T	
+醬汁:N	偏:ADV	少:ADV	比較:ADV	
+可惜:Vi	
+好像:ADV	也:ADV	可以:ADV	加價:Vi	添加:Vt	
+口味:N	上算:Vi	蠻:ADV	好吃:Vi	的:T	
+且:C	建議:Vt	要:ADV	加料:Vi	
+一:ADV	來:Vi	不:ADV	貴:Vi	
+二來:C	是:Vt	不:ADV	加料:Vi	有點:ADV	空虛:Vi	
+後記:N	：:COLONCATEGORY	
+其實:ADV	我:N	很:ADV	想:Vt	試試:Vt	富士山:N	咖哩:N	
+不過:C	個:M	人:N	是:Vt	小鳥:N	胃:N	
+可能:ADV	下:DET	次:M	需要:N	找:Vt	3:DET	
+4:DET	人:N	一起:ADV	才:ADV	吃:Vt	得:T	完:Vi	吧:T	
+個:M	人:N	覺得:Vt	以:P	日式:A	平價:N	餐飲:N	來:ADV	說:Vt	
+銀:N	咖哩:N	的:T	口味:N	跟:P	價格:N	都:ADV	還:ADV	頗:ADV	實在:Vi	
+份量:N	跟:P	口味:N	也:ADV	能:ADV	針對:P	自己:N	喜好:Vt	調整:Vt	
+算是:Vt	蠻:ADV	推薦:Vt	的:T	用餐:Nv	好:Vi	選擇:Vt	
+分享:Vt	給:Vt	大家:N	

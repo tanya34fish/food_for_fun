@@ -1,0 +1,132 @@
+hunk7108(hunk:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	南港:N	甲級:N	寫字樓:N	(:PARENTHESISCATEGORY	新:Vi	開店:Vi	):PARENTHESISCATEGORY	
+Mon:FW	
+Feb:FW	
+16:DET	
+17:DET	::COLONCATEGORY	26:DET	::COLONCATEGORY	33:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	甲級:N	寫字樓:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	2月:N	
+地址:N	：:COLONCATEGORY	台北市:N	南港區:N	忠孝東路:N	七段:N	359:DET	號:M	B:FW	棟:M	一樓:N	(:PARENTHESISCATEGORY	Citylink:FW	南港:N	車站:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	（:PARENTHESISCATEGORY	02:DET	）:PARENTHESISCATEGORY	2786:DET	-:DASHCATEGORY	7767:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	目前:N	試:Vt	營運:Vi	中:POST	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+圖文:N	網誌:N	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/Xl9PNY:FW	
+自從:P	Citylink:FW	南港:N	車站:N	開幕:Vi	後:POST	
+除了:P	幾:DET	米:M	的:T	裝飾:Nv	藝術:N	作品:N	吸引:Vt	了:ASP	許多:DET	人潮:N	外:POST	
+更多:DET	幾:DET	米:M	裝飾:N	藝術展:N	資訊點:N	這邊:N	
+Citylink:FW	也:ADV	開始:Vt	引入:Vt	許多:DET	特別:Vi	的:T	商家:N	進駐:Vt	
+甲級:N	寫字樓:N	
+RetroDeliCafe:FW	
+就是:C	其中:DET	之:T	一:DET	
+這:DET	間:M	店:N	是:Vt	N.YBagelsCafe:FW	旗下:N	的:T	新創:Nv	品牌:N	之:T	一:DET	
+在:P	籌備:Nv	期間:N	就:ADV	已經:ADV	受到:Vt	不少:DET	人:N	關注:Vt	
+在:P	漫長:Vi	的:T	等待:Nv	與:C	期待:Nv	中:POST	
+終於:ADV	在:P	2015:DET	/:FW	02:DET	/:FW	11:DET	起:M	開始:Vt	試:Vt	營運:Vi	
+走入:Vt	店:N	內:N	
+裝潢:N	與:C	氛圍:N	有:Vt	著:ASP	強烈:Vi	的:T	美式:A	工業:N	風格:N	
+裡面:N	的:T	音樂:N	剛好:ADV	正:ADV	播放:Vt	著:ASP	美國:N	獨立:Vi	民謠:N	樂團:N	FamilyoftheYear:FW	的:T	Hero:FW	
+整體感:N	意外:N	的:T	契合:Vi	
+店:N	內:N	的:T	挑高:Vi	特徵:N	與:C	裸露:Nv	橫樑:N	
+完全:ADV	原汁:N	原味:N	呈現出:Vt	結構:N	重點:N	
+裡面:N	的:T	採光:N	也:ADV	十分:ADV	舒適:Vi	
+店家:N	除了:P	盡可能:ADV	運用:Vt	自然:N	光:ADV	來:ADV	點亮:Vt	空間:N	
+另外:C	在:P	燈具:N	選擇:Vt	上:POST	多:ADV	以:P	帶有:Vt	復古:Vt	風味:N	或:C	金屬:N	機械感:N	的:T	燈具:N	為主:Vi	
+桌椅:N	擺設:Vt	更:ADV	運用:Vt	不同:Vi	的:T	色系:N	木質:N	
+使:Vt	其:DET	整體:N	散發:Vt	著:ASP	個性:N	與:C	溫度:N	
+平衡:Vt	工業:N	風:N	冷:Vi	調:Vt	的:T	氛圍:N	
+店:N	內:N	點餐:N	方式:N	有:Vt	兩:DET	種:M	
+一:DET	種:M	是:Vt	
+自:P	選:Vt	吧:T	
+可以:ADV	選擇:Vt	自己:N	想要:Vt	的:T	餐點:N	與:C	飲料:N	
+再:ADV	去:ADV	付款:Vi	
+另:DET	一:DET	種:M	則:ADV	是:Vt	常見:Vi	的:T	
+單點式:A	
+消費:N	
+單點:N	可以:ADV	吃到:Vt	義麵:N	或:C	早:Vi	午餐:N	
+價格:N	也:ADV	相對:Vi	較:ADV	高:Vi	
+當然:ADV	兩:DET	種:M	消費:N	的:T	座位區:N	也:ADV	不同:Vi	
+而:C	甲級:N	寫字樓:N	這邊:N	附設:Vt	的:T	素食:N	比較:ADV	適合:Vi	方便:Vi	素:Vi	或:C	蛋:N	奶素:N	者:N	
+如果:C	為:Vt	嚴格:Vi	全素:N	者:N	
+建議:Vt	可:ADV	去:Vt	前:N	先:ADV	電話:N	與:C	店家:N	做:Vt	確認:Vt	
+也:ADV	因為:C	可能:ADV	還:ADV	在:P	試:Vt	營運:Nv	階段:N	
+所以:C	服務生:N	在:P	帶位:N	、:PAUSECATEGORY	說明:N	、:PAUSECATEGORY	點餐:N	中:POST	都:ADV	略:ADV	顯:Vt	生澀:Vi	
+上菜:Vi	速度:N	也:ADV	偏:ADV	慢:Vi	
+但是:C	服務:Nv	態度:N	都:ADV	非常:ADV	親切:Vi	
+我們:N	這:DET	次:M	選擇:N	
+單點式:A	
+消費:N	
+點:Vt	好:Vi	菜:N	後:POST	
+美味:Vi	的:T	餐點:N	便:ADV	陸續:ADV	一道道:DET	開始:Vt	上桌:Vi	
+首先:ADV	是:Vt	單:A	點:N	的:T	
+蘋果:N	油醋:N	沙拉:N	
+$:FW	200:DET	
+生菜:N	搭配:Vt	蘋果:N	片面:A	與:C	油醋:N	醬汁:N	非常:ADV	清爽:Vi	好吃:Vi	
+上面:N	還:ADV	撒上:Vt	一些:DET	塊狀:N	的:T	起:Vt	司:N	以及:C	杏仁片:N	
+添增:Vt	其:DET	風味:N	與:C	口感:N	
+另外:C	是:Vt	一:DET	道:M	開胃菜:N	
+醋漬:N	綜合:A	菇:N	
+100:DET	g:FW	/:FW	$:FW	70:DET	
+用:P	新鮮:Vi	的:T	洋菇:N	與:C	杏:N	鮑:N	菇:N	製作:Vt	
+非常:ADV	有:Vt	嚼:Vt	勁:N	
+酸甜:Vi	的:T	調味:N	十分:ADV	吸引人:Vi	
+而:C	湯品:N	
+法式:A	蘑菇:N	濃湯:N	
+$:FW	120:DET	
+熱熱:Vi	喝:Vt	非常:ADV	美味:Vi	
+但:C	湯:N	個:M	人:N	覺得:Vt	比較:ADV	偏:Vt	鹹:Vi	
+比較:ADV	適合:Vi	口味:N	重:Vi	的:T	人:N	
+加上:C	兩:DET	塊:M	鋪:Vt	著:ASP	香菇:N	的:T	麵包:N	
+配:Vt	著:ASP	濃湯:N	一起:ADV	吃:Vt	
+非常:ADV	美味:Vi	
+接著:ADV	是:Vt	主餐:N	部分:DET	
+素:Vi	三明治:N	
+$:FW	230:DET	
+可以:ADV	選:Vt	搭配:Nv	沙拉:N	或:C	薯條:N	
+我們:N	選擇:Vt	了:ASP	薯條:N	
+並且:C	請:Vt	服務生:N	提醒:Vt	廚師:N	不要:ADV	在:P	裡面:N	使用:Vt	蛋:N	製品:N	
+一:ADV	開始:Vt	以為點:N	的:T	三明治:N	
+是:Vt	那:DET	種:M	如:P	傳統:N	西式:A	餐點:N	的:T	吐司:N	三明治:N	
+結果:ADV	上菜:Vi	後:POST	驚豔:Vi	一下:N	
+是:Vt	用:P	嚼:Vt	勁:N	的:T	法國:N	麵包:N	鋪上:Vt	滿滿:Vi	的:T	菇類:N	、:PAUSECATEGORY	四季豆:N	、:PAUSECATEGORY	玉米:N	、:PAUSECATEGORY	蕃茄:N	、:PAUSECATEGORY	黑:Vi	橄欖:N	
+然後:ADV	還:ADV	藏有:Vt	一:DET	層:M	口感:N	滑嫩:Vi	的:T	豆腐:N	排:Vt	
+廚師:N	用:P	帶:Vt	有點:ADV	些微:A	辣度:N	的:T	醬汁:N	調和:Vt	
+口感:N	與:C	層次:N	都:ADV	非常:ADV	豐富:Vt	
+而且:C	非常:ADV	有:Vt	飽足感:N	
+非常:ADV	適合:Vi	搭配:Vt	咖啡:N	
+然後:ADV	是:Vt	
+鄉村:N	野菇:N	奶油:N	醬麵:N	
+$:FW	280:DET	
+這邊:N	的:T	義大利麵:N	都:ADV	可以:ADV	選好:Vt	口味:N	請:Vt	廚師:N	另:C	特:ADV	製成:Vt	素食:N	的:T	口味:N	
+適合:Vi	方便:Vi	素:Vi	或:C	蛋:N	奶:N	素:ADV	
+義大利麵:N	的:T	麵條:N	使用:Vt	的:T	是:Vt	扁平:Vi	細:Vi	麵:N	
+雖然:C	個:M	人:N	比較:ADV	偏愛:Vt	圓柱狀:N	的:T	麵條:N	
+但:C	店家:N	處理:Vt	的:T	還:ADV	蠻:ADV	好吃:Vi	的:T	
+奶油醬:N	的:T	味道:N	也:ADV	非常:ADV	濃郁:Vi	
+另外:C	是:Vt	葷:Vi	食:Vt	的:T	
+新鮮:Vi	青醬:N	義大利麵:N	佐:Vt	炭烤:Nv	透抽:N	
+$:FW	280:DET	
+一樣:Vi	用:P	扁平:Vi	的:T	細:Vi	麵:N	料理:N	
+青醬:N	跟:P	透抽:N	也:ADV	都:ADV	處理:Vt	的:T	非常:ADV	不錯:Vi	
+店家:N	在:P	醬汁:N	的:T	掌握:Nv	上:POST	
+表現:N	都:ADV	在:P	水準:N	之上:POST	
+另外:C	飲料:N	部分:DET	
+我們:N	有點:ADV	
+拿:Vt	鐵:N	
+$:FW	150:DET	/:FW	熱:Vt	
+、:PAUSECATEGORY	
+抹茶奶綠:Vi	
+$:FW	180:DET	/:FW	熱:Vt	
+、:PAUSECATEGORY	
+貝禮詩:N	鮮奶茶:N	
+$:FW	180:DET	/:FW	冰:Vt	
+用完:Vt	餐:N	後邊:N	喝:Vt	飲料:N	邊:N	聊天:Vi	非常:ADV	棒:Vi	
+整體:N	來:ADV	說:Vt	甲級:N	寫字樓:N	的:T	餐點:N	都:ADV	有:Vt	一定:A	品質:N	
+但:C	唯獨:ADV	以:P	目前:N	試:Vt	營運:Vi	的:T	價位:N	來:ADV	說:Vt	
+還是:ADV	略:ADV	顯:Vt	偏:ADV	高:Vi	
+若:C	之後:N	正式:Vi	營運:Nv	開幕:Nv	能:ADV	推出:Vt	價位:N	在:P	$:FW	200:DET	
+$:FW	260:DET	的:T	商業:N	套餐:N	
+我:N	想:Vt	會:ADV	更:ADV	能:ADV	吸引:Vt	消費群:N	
+--:DASHCATEGORY	隨便:Vi	寫寫:Vt	
+Citylink:FW	南港:N	車站:N	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/DAXTKi:FW	素:Vi	的:T	大阪:N	燒:Vt	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/QRIorf:FW	台鐵:N	素:Vi	便當:N	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/llN41n:FW	商家:N	採訪:Vt	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/zUKNnt:FW	甲級:N	寫字樓:N	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/Xl9PNY:FW	--:DASHCATEGORY	

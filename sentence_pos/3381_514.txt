@@ -1,0 +1,39 @@
+owlran(owlran:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	抱怨:Vt	]:PARENTHESISCATEGORY	台北:N	松山:N	Meal&WineMW:FW	時尚:N	義法:N	料理:N	
+Sat:FW	
+Aug:FW	
+2:DET	
+22:DET	::COLONCATEGORY	31:DET	::COLONCATEGORY	03:DET	
+2014:DET	
+抱怨:Vt	
+台北:N	松山:N	Meal&WineMW:FW	時尚:N	義法:N	料理:N	
+SatAug:FW	222:DET	::COLONCATEGORY	31:DET	::COLONCATEGORY	032014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Meal&amp:FW	
+WineMW:FW	時尚:N	義法:N	料理:N	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	八德路:N	四段:N	185:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2760:DET	-:DASHCATEGORY	0010:DET	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	8:DET	
+事發:Vi	經過:N	：:COLONCATEGORY	
+預定:Vt	七夕:N	到:P	MW:FW	用餐:Vi	
+早:ADV	在:P	幾:DET	個:M	禮拜:N	前:POST	就:ADV	先:ADV	訂好:Vt	位置:N	
+在:P	電話:N	中:POST	
+店員:N	有:Vt	說:Vt	剩下:Vt	地下室:N	的:T	位置:N	可以:ADV	坐:Vi	而已:T	
+今天:N	去:ADV	到:Vt	店裡:N	一樓:N	只有:ADV	坐:Vi	了:ASP	兩三:DET	桌:M	客人:N	
+結果:ADV	我們:N	還是:ADV	和:P	電話:N	中:POST	說:Vt	的:T	一樣:Vi	
+是:Vt	在:P	地下室:N	用餐:Vi	
+地下室:N	只:ADV	有:Vt	我們:N	..:ETCCATEGORY	和:C	一:DET	位:M	服:Vt	
+ㄐ:FW	一:DET	ㄢ:FW	
+侍:Vt	
+ㄎ:FW	ㄨ:N	ㄥ:FW	ˋ:FW	
+我們:N	的:T	店員:N	
+整:DET	個:M	搞:Vt	得:T	超:A	不:ADV	自在:Vi	的:T	.:PERIODCATEGORY	
+用餐:Vi	用到:Vt	一半:DET	
+瞥:Vt	到:P	我:N	的:T	餐具:N	上:POST	竟然:ADV	有:Vt	隻:M	蟑螂:N	從:P	我:N	的:T	餐具:N	爬過:Vt	
+店員:N	也:ADV	只是:ADV	淡定:Vt	的:T	過來:Vi	抓:Vt	了:ASP	蟑螂:N	
+表示:Vt	說:Vt	會:ADV	跟:P	公司:N	反應:N	..:ETCCATEGORY	
+到:P	我們:N	結帳:Vi	離開:Vt	
+他們:N	還是:ADV	沒:Vt	什麼:DET	反應:N	..:ETCCATEGORY	
+東西:N	不:ADV	難吃:Vi	
+本來:ADV	也:ADV	只是:ADV	想:Vt	找:Vt	個:M	氣氛:N	好:Vi	的:T	地方:N	用餐:Vi	
+但:C	今天:N	的:T	經驗:N	
+我:N	想:Vt	也:ADV	不會:ADV	在:P	進來:Vi	第二:DET	次:M	了:T	

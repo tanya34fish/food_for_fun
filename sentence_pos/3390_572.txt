@@ -1,0 +1,62 @@
+cheichen:FW	(:PARENTHESISCATEGORY	小珊:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	松菸:Vi	誠品:N	B:FW	2:DET	義麵坊:N	商業:N	午餐:N	好:ADV	超值:Vi	
+Tue:FW	
+Aug:FW	
+5:DET	
+00:DET	::COLONCATEGORY	32:DET	::COLONCATEGORY	53:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	義麵坊:N	小:Vi	酒館:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	3月:N	
+地址:N	：:COLONCATEGORY	北市:N	菸廠路:N	88:DET	號:M	B:FW	2:DET	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	6636:DET	-:DASHCATEGORY	5888:DET	#:FW	1911:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	$:FW	280:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	Y:FW	
+有無:Vt	包廂:N	：:COLONCATEGORY	N:FW	
+無:Vt	音樂:N	圖文:N	網誌:N	好讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	mssandra.pixnet.net/blog/post:FW	/:FW	105794582:DET	
+其實:ADV	珊卓:N	是:Vt	一:DET	個:M	還:ADV	蠻:ADV	能夠:ADV	自己:N	吃飯:Vi	的:T	人:N	
+平常:N	上班:Vi	忙碌:Vi	的:T	時候:N	
+偶爾:ADV	中午:N	可以:ADV	一:DET	個:M	人:N	吃飯:Vi	靜:Vi	一:DET	靜:Vi	想:Vt	點:M	事情:N	也:ADV	蠻:ADV	好:Vi	的:T	
+商業:N	午餐:N	就:ADV	很:ADV	適合:Vi	我:N	這:DET	種:M	偶爾:ADV	想:Vt	自己:N	吃飯:Vi	的:T	人:N	
+之前:N	辦公室:N	在:P	松菸:Vi	誠品:N	的:T	時候:N	
+珊卓:N	就:ADV	很:ADV	常:ADV	吃:Vt	義麵坊:N	的:T	商業:N	午餐:N	
+除了:P	義麵坊:N	的:T	義大利麵:N	不會:ADV	踩:Vt	雷:N	之外:POST	
+這邊:N	很:ADV	適合:Vi	跟:P	朋友:N	一起:ADV	聚聚:Vi	也:ADV	不會:ADV	失禮:Vi	
+不愧:ADV	是:Vt	小:Vi	酒館:N	
+連:C	水壺:N	都:ADV	是:Vt	用:P	喝完:Vt	的:T	紅:Vi	酒瓶:N	
+雖然:C	下午:N	還:ADV	要:ADV	上班:Vi	不能:ADV	開:Vt	喝:Vt	
+但是:C	看到:Vt	這:DET	紅:Vi	酒瓶:N	就:ADV	有:Vt	一:DET	種:M	適合:Vi	微醺:Vi	的:T	感覺:N	
+義麵坊:N	制式:A	的:T	餐具:N	陳列:Vt	
+商業:N	午餐:N	附:Vt	的:T	蔬菜湯:N	
+照理:ADV	來:ADV	說:Vt	是:Vt	每:DET	日:M	例:N	湯:N	
+不過:C	幾:DET	次:M	都:ADV	是:Vt	碰到:Vt	番茄:N	蔬菜湯:N	
+義麵坊:N	的:T	番茄:N	蔬菜:N	湯食材:N	蠻:ADV	新鮮:Vi	的:T	
+調味:Vi	也:ADV	不會:ADV	過重:Vi	
+所以:C	可以:ADV	吃:Vt	的:T	到:P	蔬菜:N	原本:ADV	的:T	味道:N	
+番茄:N	也:ADV	不會:ADV	太:ADV	酸:Vi	
+還:ADV	帶有:Vt	一點:DET	甜味:N	
+我:N	覺得:Vt	蠻:ADV	好喝:Vi	的:T	
+商業:N	午餐:N	附:Vt	的:T	麵包:N	
+拿到:Vt	的:T	時候:N	不:ADV	是:Vt	非常:ADV	熱:Vt	
+而且:C	外皮:N	有點:ADV	硬:Vi	
+所以:C	後來:N	我:N	是:Vt	搭配:Vt	著:ASP	湯:N	吃:Vt	
+味道:N	就:ADV	比較:ADV	柔和:Vi	
+這:DET	是:Vt	我:N	當天:N	的:T	主餐:N	-:DASHCATEGORY	肉醬:N	義大利麵:N	
+珊:b	卓有:Vt	個:M	習慣:N	
+到:P	新:Vi	的:T	義大利麵:N	餐廳:N	
+都:ADV	會:ADV	試試:Vt	肉醬:N	
+因為:C	肉醬:N	是:Vt	最:ADV	基本:A	的:T	義大利麵:N	口味:N	
+如果:C	基本功:N	做:Vt	得:T	好:Vi	
+其他:DET	餐點:N	自然:ADV	不會:ADV	太:ADV	差:Vi	
+義麵坊:N	的:T	肉醬:N	義大利麵:N	果然:ADV	不:ADV	差:Vi	
+味道:N	夠味:Vi	而:C	不:ADV	膩:Vi	
+麵條:N	也:ADV	軟:Vi	硬:Vi	適中:Vi	
+以:P	這樣:Vi	價位:N	來:ADV	說:Vt	我:N	覺得:Vt	很:ADV	超值:Vi	
+義麵坊:N	的:T	商業:N	午餐:N	是:Vt	均一價:N	@:FW	$:FW	280:DET	
+附湯:N	、:PAUSECATEGORY	麵包:N	、:PAUSECATEGORY	自助式:N	的:T	咖啡:N	紅茶:N	
+如果:C	想:Vt	吃:Vt	甜點:N	還可以:ADV	加價:Vi	$:FW	50:DET	
+可以:ADV	享用:Vt	當天:N	的:T	特製:Nv	甜點:N	
+在:P	松菸:Vi	這樣:Vi	的:T	高:Vi	價位:N	區域:N	來:ADV	說:Vt	
+我:N	覺得:Vt	義麵坊:N	絕對:ADV	是:Vt	午餐:N	的:T	好:Vi	選擇:Vt	
+也:ADV	難怪:ADV	這樣:Vi	
+他們:N	中午:N	總是:ADV	高朋滿座:Vi	
+想:Vt	吃:Vt	的:T	朋友:N	們:N	記得:Vt	避開:Vt	尖峰:A	時間:N	喔:T	

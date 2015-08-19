@@ -1,0 +1,201 @@
+fencertw(fencer:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	-:DASHCATEGORY	真的:ADV	好:Vi	海鮮:N	餐廳:N	（:PARENTHESISCATEGORY	復興:N	旗艦店:N	）:PARENTHESISCATEGORY	
+Mon:FW	
+Oct:FW	
+6:DET	
+21:DET	::COLONCATEGORY	49:DET	::COLONCATEGORY	52:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	真的:ADV	好:Vi	海鮮:N	餐廳:N	（:PARENTHESISCATEGORY	復興:N	旗艦店:N	）:PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	復興南路:N	一段:N	222:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	27710266:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	30:DET	、:PAUSECATEGORY	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	30:DET	
+完整:Vi	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.yufublog.com/2014/10/blogger-reallygoodseafood.html:FW	
+真的:ADV	好:Vi	海鮮:N	餐廳:N	店名:N	聽起來:ADV	或許:ADV	有點:ADV	俗:Vi	
+但:C	它:N	成立:Vt	10多:DET	年:M	來:ADV	憑藉:Vt	著:ASP	尚:ADV	青:Vi	的:T	海鮮:N	食材:N	、:PAUSECATEGORY	用心:Vi	的:T	服務:Nv	熱忱:N	及:C	舒適:Vi	的:T	用餐:Nv	環境:N	
+深得:Vt	國內外:N	政商:N	名流:N	及:C	藝人:N	們:N	的:T	喜愛:Nv	
+據說:ADV	湯姆克魯斯:N	、:PAUSECATEGORY	大:Vi	導演:N	李安:N	、:PAUSECATEGORY	千頌:N	伊:N	
+全:DET	智賢:N	
+、:PAUSECATEGORY	林青霞:N	、:PAUSECATEGORY	梁朝偉:N	、:PAUSECATEGORY	反:Vt	町隆史:N	...:ETCCATEGORY	等:POST	眾多:Vi	明星:N	都:ADV	曾:ADV	是:Vt	座:M	上:POST	嘉賓:N	
+也:ADV	因此:C	贏得:Vt	了:ASP	臺北市:N	海鮮:N	食府:N	之:T	冠:N	的:T	美譽:N	
+這:DET	回:M	我:N	能:ADV	跟上:Vt	愛:N	飯團:N	美:Nv	少女:N	團長:N	主揪:N	的:T	餐敘:Vi	
+有:Vt	機會:N	品嚐到:Vt	如此:ADV	美味:Vi	的:T	海鮮:N	大餐:N	
+真是:ADV	太:ADV	感激:Vt	了:ASP	
+真的:ADV	好:Vi	海鮮:N	餐廳:N	從:P	新生南路:N	搬遷:Vt	到:P	復興南路:N	上:N	
+距離:P	捷運:N	忠孝:N	復興:Vt	站:Vi	很:ADV	近:Vi	
+交通:N	更:ADV	方便:Vi	
+之前:N	常:ADV	走路:Vi	、:PAUSECATEGORY	騎車:Vi	經過:Vt	門口:N	
+都:ADV	會:ADV	被:P	這:DET	顯眼:Vi	的:T	龍蝦:N	LOGO:FW	招牌:N	吸引:Vt	
+從:P	外觀:N	門面:N	看:Vt	得:T	出:Vt	是:Vt	間:M	頂級:A	的:T	海鮮:N	餐廳:N	
+這:DET	回:M	終於:ADV	能:ADV	入:Vt	內:N	一窺究竟:Vi	真是:ADV	太:ADV	開心:Vi	了:T	
+真的:ADV	好:Vi	海鮮:N	餐廳:N	主打:Vt	高級:Vi	海鮮:N	料理:N	
+也:ADV	從:P	2013年:N	起:POST	開設:Vt	UrKitchen:FW	優:FW	廚坊半:N	開放式:A	櫃位:N	
+供應:Vt	五星級:N	的:T	幸福:Nv	外:POST	賣:Vt	佳餚:N	
+有:Vt	多:DET	款:M	健康:Vi	、:PAUSECATEGORY	養生:Vi	、:PAUSECATEGORY	美味:Vi	的:T	工夫:N	珍饈:N	
+還:ADV	有:Vt	主廚:Vi	精饌:Vi	的:T	風味:N	便當:N	
+單價:N	是:Vt	300:DET	元:M	跟:P	500:DET	元:M	好:Vi	高檔:N	喔:T	
+另:DET	一:DET	邊:N	還:ADV	有:Vt	真空:N	包裝:N	的:T	和:C	牛:N	及:C	海鮮:N	等:POST	頂級:A	食材:N	
+可惜:Vi	櫥櫃:N	內:N	強烈:Vi	黃光:N	照射:Vi	下:POST	
+拍:Vt	不:ADV	清楚:Vi	阿:N	
+真的:ADV	好:Vi	海鮮:N	餐廳:N	嚴選:N	台灣:N	在:P	地海:N	鮮食:N	材:N	
+特別:Vi	設有:Vt	擺滿:Vt	水族箱:N	的:T	生猛:Vi	海鮮區:N	
+即時:ADV	供應:Vt	活跳跳:Vi	的:T	極品:N	海鮮:N	
+無須:ADV	過度:ADV	地:T	烹調:Nv	及:C	添味:N	
+堅持:Vt	美味:Vi	的:T	精:Vi	隨:P	在於:Vt	海鮮:N	的:T	本身:N	
+並:C	融合:Vt	臺式:A	、:PAUSECATEGORY	廣式:A	、:PAUSECATEGORY	歐式:A	、:PAUSECATEGORY	日式:A	等:POST	烹調:Nv	精髓:N	
+創造出:Vt	多元:A	豐富:Vt	的:T	美味:Vi	菜餚:N	
+我們:N	當天:N	餐敘:Vi	的:T	地點:N	就:ADV	安排:Vt	在:P	地:N	下:N	一樓:N	的:T	包廂區:N	
+下樓:Vi	會:ADV	經過:Vt	一:DET	座:M	兩:DET	層:M	樓:N	高:Vi	透明:Vi	的:T	酒窖:N	
+擺放:Vt	著:ASP	來自:Vt	法國:N	五:DET	大:Vi	酒:N	莊:N	以及:C	新:Vi	
+舊:Vi	世界:N	酒區:N	交互:ADV	爭輝:Vi	的:T	各:DET	式:M	精選酒:N	
+氣勢:N	磅礡:Vi	令:Vt	人:N	望:Vt	而:C	興嘆:Vi	阿:N	
+來到:Vt	地:T	下:DET	一樓:N	也:ADV	就是:C	透明:Vi	的:T	酒窖:N	底部:N	
+反而:C	擺放:Vt	數:DET	罈:M	女兒紅:N	及:C	狀元:N	紅:Vi	等:POST	中國:N	名酒:N	
+給:P	人:N	一:DET	種:M	中西合併:Vi	的:T	奇妙:Vi	氛圍:N	
+包廂:N	隔間:N	採:Vt	印有:Vt	清代:N	文學:N	大師:N	鄭板橋:N	的:T	
+揚州:N	雜記:N	
+的:T	書法:N	字體:N	毛玻璃:N	
+在:P	現代:N	的:T	光影:N	中流:N	溢出:Vi	傳統:N	卻:ADV	又:ADV	不羈:Vi	的:T	豪放:Vi	
+裝潢:Vt	設計:N	採:Vt	當今:N	流行:Vi	的:T	現代:Vi	奢華:Vi	簡約:Vi	與:C	和風:N	室:N	內:N	庭園:N	的:T	結合:Nv	
+東西方:N	相互:ADV	交融:Vi	的:T	細節:N	隨處:ADV	可見:ADV	
+細緻:Vi	而:C	不:ADV	炫耀:Vt	
+沉穩:Vi	而:C	不:ADV	浮誇:Vi	
+另外:C	在:P	餐具:N	方面:N	的:T	講究:Vt	亦:ADV	可謂:Vt	是:Vt	餐飲界:N	之:T	最:ADV	
+這兒:N	可是:C	選用:Vt	世界:N	頂級:A	品牌:N	英國:N	皇家:N	Wedgwood:FW	骨瓷:N	呢:T	
+結果:ADV	只:ADV	顧:Vt	著:ASP	跟:P	偶像:N	們:N	請安:Vi	問好:Vi	
+好幾:DET	道:M	小菜:N	都:ADV	忘記:Vt	拍:Vt	了:ASP	
+印象:N	中:POST	有:Vt	涼拌:Nv	娃娃菜:N	、:PAUSECATEGORY	梅漬:N	苦瓜:N	等:POST	精緻:Vi	冷盤:N	
+冰涼:Vi	可口:Vi	很:ADV	開胃:Vi	
+鹹蜆:N	仔:N	
+這:DET	道:M	據說:ADV	是:Vt	美:N	少女:N	團長:N	最:ADV	愛:Vt	的:T	台式:A	小菜:N	之:T	一:DET	
+不過:C	我:N	想:Vt	也:ADV	是:Vt	很多:DET	人:N	小時候:N	的:T	共同:A	回憶:N	
+我:N	以前:N	桃園:N	鄉下:N	的:T	親戚:N	常:ADV	會:ADV	自己:N	醃:Vt	
+那:DET	股:M	鮮美:Vi	甘:Vi	鹹:Vi	的:T	滋味:N	
+拿來:Vt	配清粥:N	真是:ADV	棒:Vi	極了:ADV	呢:T	
+特製:Vt	XO:FW	醬:N	
+口味:N	微:ADV	辣:Vi	鹹香:N	濃郁:Vi	
+干貝:N	絲:N	入口:N	鮮味:N	直:ADV	衝:Vt	腦門:N	
+拿來:Vt	拌:Vt	麵:N	、:PAUSECATEGORY	下飯:Vi	、:PAUSECATEGORY	配:Vt	粥:N	一定:ADV	都:ADV	超讚:N	的:T	
+涼拌:Vt	海蜇皮:N	
+口感:N	清涼:Vi	爽脆:Vi	
+微鹹微:N	酸:Vi	也:ADV	很:ADV	開胃:Vi	喔:T	
+白鯧:N	刺身:N	
+正式:Vi	進入:Vt	第一:DET	道:M	菜:N	
+剛:ADV	端上:Vt	桌:N	大夥:N	一:ADV	看:Vt	雖然:C	知道:Vt	是:Vt	生魚片:N	
+但:C	卻:ADV	猜不透:Vt	是:Vt	甚麼:DET	魚:N	種:Vt	
+魚肉:N	竟是:Vt	如此:ADV	潔白:Vi	透亮:Vi	
+詢問:Vt	服務生:N	才:ADV	知道:Vt	
+原來:ADV	是:Vt	每:DET	到:P	過年:Vi	都:ADV	很:ADV	搶手:Vi	、:PAUSECATEGORY	價格:N	高漲:Vi	
+有錢:Vi	也:ADV	買不到:Vt	的:T	白:Vi	鯧魚:N	
+首:DET	次:M	遇到:Vt	以:P	刺:Vt	身:N	呈現:Vt	
+太:ADV	令:Vt	人:N	驚艷:Vi	了:T	
+舖:Vt	在:P	一:DET	層:M	冰塊:N	上:N	的:T	白鯧:N	魚刺:N	身:N	
+冰鎮:A	之下:POST	表層:N	透出:Vt	油亮:Vi	的:T	光澤:N	感:Vt	
+十分:ADV	賞心悅目:Vi	
+輕輕:Vi	夾起:Vt	一:DET	片:M	
+在:P	筷子:N	的:T	尾端:N	隱約:ADV	感受到:Vt	些許:DET	的:T	Q:FW	彈:Vt	勁:N	與:C	滑嫩:Vi	度:M	
+將:P	白鯧:N	刺:Vt	身:N	沾上:Vt	少許:DET	芥末醬油:N	
+入口:N	那:DET	鮮:Vi	甜:Vi	的:T	紮實:Vi	感:Vt	有點:ADV	類似:Vt	薄:Vi	切:Vt	鯛魚:N	
+再:ADV	多點:DET	黏滑感:N	及:C	Q:FW	彈:Vt	度:M	
+完全:ADV	無:Vt	腥味:N	只:ADV	有:Vt	魚肉:N	本身:N	的:T	鮮:Nv	甜味:N	
+如此:ADV	美味:Vi	恐怕:ADV	爾後:ADV	也:ADV	很:ADV	難:Vi	再:ADV	嚐到:Vt	了:ASP	
+竹筍:N	沙拉:N	
+選用:Vt	當:P	季:N	尚:ADV	青:Vi	的:T	綠:Vi	竹筍:N	
+纖維:N	十分:ADV	細緻:Vi	不:ADV	刮舌:Vi	
+入口:N	鮮:Vi	脆:Vi	多汁:Vi	超:Vt	好吃:Vi	
+可憐:Vt	的:T	美乃滋:N	被:P	冷落:Vt	一:DET	旁:N	
+完全:ADV	派不上:Vt	用場:N	
+川燙鮮蛤:N	
+嚴選:N	個:M	頭:N	超大:A	的:T	帝王:N	文蛤:N	
+服務:Nv	人員:N	剛:ADV	端上:Vt	桌:N	就:ADV	把:P	大家:N	嚇:Vt	了:ASP	一:DET	跳:N	
+哪裡:N	來:ADV	這麼:ADV	大:Vi	的:T	文蛤:N	啊:T	
+放:Vt	顆:M	鹹蜆仔:N	放:Vt	在:P	帝王:N	文蛤旁:N	就:ADV	知道:Vt	它:N	有:Vt	多麼:ADV	巨大:Vi	
+只:ADV	須:ADV	用:Vt	最:ADV	簡單:Vi	的:T	川燙:N	烹調:Nv	至:C	七:DET	分:M	熟:Vi	
+蛤肉:N	完全:ADV	沒:ADV	縮小:Vt	
+保持:Vt	最:ADV	飽滿:Vi	的:T	狀態:N	
+入口:N	鹹香:N	多汁:Vi	鮮甜爆漿:N	而:C	出:Vt	
+迷人:Vi	滋味:N	令:Vt	人:N	魂牽夢縈:Vi	阿:N	
+過:Vt	橋:N	鮑魚:N	
+服務生:N	先:ADV	送上:Vt	盤架:N	與:C	一:DET	盤:M	鮮:Vi	鮑魚:N	切片:N	、:PAUSECATEGORY	老油條:N	及:C	銀芽:N	
+但:C	這:DET	跟:P	過:ASP	橋:N	有:Vt	啥:DET	關係:N	呢:T	
+其實:ADV	雲南:N	著名:Vi	的:T	過:Vt	橋:N	米線:N	
+是:Vt	將:ADV	預先:ADV	準備好:Vt	的:T	米線:N	、:PAUSECATEGORY	肉片:N	、:PAUSECATEGORY	蔥花:N	等:POST	食材:N	
+想:Vt	食用:Vt	的:T	時候:N	再:ADV	倒:Vi	上:POST	滾燙:Vi	的:T	雞湯:N	
+成就:Vt	一:DET	碗:M	香噴噴:Vi	又:ADV	熱騰騰:Vi	的:T	美味:N	
+在:P	真的:ADV	好:Vi	借鏡:N	相同:Vi	的:T	巧思:N	
+嚴選:N	肉質:N	軟嫩:Vi	的:T	澳洲:N	大:Vi	顆:M	活:Vi	鮑魚:N	
+湯頭:N	是:Vt	以:P	金華:N	火腿:N	及:C	老母雞:N	等:POST	所:ADV	煲:Vt	出來:Vi	的:T	鮮美:Vi	高湯:N	
+由:P	服務:Nv	人員:N	幫忙:Vt	淋:Vt	上:POST	熱騰騰:Vi	的:T	老母雞:N	高湯:N	
+盤架:N	下方:N	持續:Vt	以:P	明火:N	加熱:Vi	保溫:Vi	
+高湯:N	川燙:N	後:POST	的:T	鮑魚:N	片:N	呈:Vt	捲曲狀:N	
+口感:N	軟:Vi	脆:Vi	Q:FW	彈:Vt	稍:ADV	有:Vt	嚼:Vt	勁:N	很:ADV	好吃:Vi	
+不過:C	切記:Vt	要:ADV	速速:Vi	享用:Vt	不要:ADV	讓:Vt	鮑魚:N	過熟:Vi	便:ADV	應:ADV	就:ADV	可惜:Vi	了:T	
+老母雞:N	高湯:N	則:ADV	是:Vt	香濃:Vi	醇厚:Vi	
+入口:N	的:T	黏稠:Vi	度超棒:N	的:T	
+能:ADV	充分:Vi	感受到:Vt	天然:A	膠質:N	的:T	魅力:N	
+這:DET	道:M	必:ADV	點:Vt	的:T	鎮:N	店名菜:N	
+果然:ADV	有夠:ADV	厲害:Vi	
+清蒸:Vt	青蟳:N	
+青蟳:N	及:C	是:Vt	俗稱:Vt	的:T	
+紅蟳:N	
+秋分:N	時節:N	蟹黃:N	真:ADV	是:Vt	肥美:Vi	誘人:Vi	啊:T	
+個:M	人:N	覺得:Vt	青蟳:N	最:ADV	迷人:Vi	之:T	處:N	
+不只:ADV	蟹黃:N	濃稠:Vi	香醇:Vi	
+蟹肉:N	也:ADV	是:Vt	甘甜:Vi	飽滿:Vi	
+同樣:Vi	以:P	最:ADV	簡單:Vi	的:T	清蒸:Nv	手法:N	處理:Vt	
+證明:Vt	對:P	食材:N	的:T	新:Vi	鮮度:N	極:ADV	有:Vt	信心:N	
+椒鹽:N	石頭魚:N	
+石頭:N	魚:N	是:Vt	極為:ADV	稀有:Vi	的:T	魚:N	種:Vt	
+且:C	背脊:N	的:T	尖:Vi	刺:N	帶有:Vt	神經:N	毒:N	
+只有:ADV	最:ADV	高明:Vi	的:T	廚師:N	才:ADV	懂得:Vt	料理:Vt	
+原本:ADV	想:Vt	說:Vt	如此:ADV	珍貴:Vi	的:T	魚:N	種:Vt	以:P	油炸:Vt	處理:Vt	
+是否:ADV	會:ADV	將:P	鮮味:N	蓋住:Vt	就:ADV	可惜:Vi	了:T	
+入口:N	之後:POST	才:ADV	感覺到:Vt	
+炸:Vt	得:T	外酥內:N	紮實:Vi	的:T	肉塊:N	
+還:ADV	保有:Vt	些許:DET	鮮:Vi	甜:Vi	的:T	魚:N	脂:N	
+口味:N	雖然:C	偏重:Vt	但:C	也:ADV	挺:ADV	好吃:Vi	下:Vt	飯:N	的:T	
+酥:Vi	炸:Vt	絲瓜:N	
+據說:ADV	是:Vt	選用:Vt	來自:Vt	澎湖:N	的:T	優質:A	絲瓜:N	
+簡單:Vi	切:Vt	塊:M	裹上:Vt	麵衣:N	後:POST	下鍋:Vi	油炸:Vt	
+外層:N	香酥薄:Vi	脆:Vi	
+裡面:N	鮮嫩:Vi	而:C	多汁:Vi	還:ADV	會:ADV	爆漿:N	
+也:ADV	是:Vt	一:DET	道:M	令:Vt	人:N	驚豔:Vi	的:T	佳作:N	
+烤羊排:N	
+西式:A	擺盤:N	非常:ADV	精緻:Vi	美觀:Vi	
+羊:N	排炭:N	烤熟度:N	
+拿捏:Vt	地:T	非常:ADV	好:Vi	
+表皮:N	呈現:Vt	微焦:N	
+內裡:N	保持:Vt	鮮嫩:Vi	多汁:Vi	
+義式:A	香料:N	醬汁:N	不僅:C	沒:ADV	影響:Vt	羊肉:N	本身:N	的:T	風味:N	
+更:ADV	恰如其分:Vi	的:T	提點:N	了:ASP	鮮味:N	
+蠔油:N	芥蘭:N	
+個:M	人:N	平時:N	就:ADV	不:ADV	愛:Vt	芥蘭菜:N	
+這:DET	道:M	儘管:C	看來:ADV	賣:Vt	像:Vt	很:ADV	棒:Vi	
+但:C	我:N	還是:ADV	動不了:Vi	筷子:N	啊:T	
+麻油:N	蚵仔:N	麵線:N	
+這:DET	道:M	據說:ADV	是:Vt	總經理:N	愛:Vt	吃:Vt	的:T	私房:A	料理:N	
+因為:C	嚐:Vt	過:ASP	的:T	人:N	都:ADV	說:Vt	讚:Vt	
+所以:C	現在:N	也:ADV	有:Vt	對:P	外:N	販售:Vt	了:ASP	
+巨大:Vi	陶鍋:N	上桌:Vi	麻油:N	香氣:N	立即:ADV	撲鼻:Vi	而:C	來:ADV	
+看:Vt	著:ASP	鍋:N	內:N	滿滿:Vi	的:T	麵線:N	上:N	
+鋪:Vt	著:ASP	一顆顆:DET	的:T	飽滿:Vi	的:T	蚵仔:N	
+還:ADV	有:Vt	稍微:ADV	攪散:Vi	蛋黃:N	的:T	荷包蛋:N	
+賣:Vt	像:P	看來:ADV	雖然:C	樸實:Vi	無華:Vi	
+但:C	有:Vt	莫名:A	魔力:N	卻:ADV	驅使:Vt	著:ASP	我們:N	大快朵頤:Vi	
+滑潤:Vt	順口:Vi	的:T	麵線:N	及:C	蚵仔:N	
+搭配:Vt	頂級:A	麻油:N	調味:Vi	真是:ADV	太:ADV	邪惡:Vi	了:T	啦:T	
+杏仁茶:N	油條:N	
+口感:N	濃郁:Vi	滑:Vi	細:Vi	的:T	杏仁茶:N	跟:P	油條:N	最:ADV	搭:Vt	了:ASP	
+過去:N	因:C	吃到:Vt	化學:N	調製:Vt	的:T	嗆鼻:Vi	杏仁茶:N	
+所以:C	一直:ADV	很:ADV	討厭:Vt	杏仁味:N	
+自從:P	嚐到:Vt	天然:A	研磨:Vt	的:T	杏仁茶:N	
+才:ADV	真正:ADV	感受到:Vt	它:N	的:T	甜美:Vi	
+本:DET	次:M	餐敘:Vi	的:T	甜點:N	是:Vt	由:P	Cupetit:FW	卡柏蒂:N	杯子:N	費南雪:N	所:ADV	準備:Vt	的:T	杯子:N	蛋糕:N	
+每:DET	款:M	口味:N	不同:Vi	且:C	各:DET	有:Vt	獨特:Vi	造型:N	
+每:DET	人:N	各:ADV	挑:Vt	一:DET	款:M	嚐:Vt	味道:N	
+對於:P	我:N	這:DET	個:M	不:ADV	喜:Vt	甜食:N	的:T	人:N	來:ADV	說:Vt	
+他們:N	家:N	杯子:N	蛋糕:N	不會:ADV	過分:ADV	甜:Vi	膩:Vi	
+蛋糕體:N	保有:Vt	濕潤度:N	且:C	味道:N	多層次:N	
+很:ADV	不錯:Vi	吃:Vt	呦:b	
+每:DET	款:M	杯子:N	蛋糕:N	都:ADV	有:Vt	專屬:Vt	可愛:Vi	的:T	小:Vi	卡:N	及:C	介紹:N	
+有:Vt	興趣:N	的:T	朋友:N	不:ADV	訪:Vt	參考:Vt	Cupetit:FW	卡柏蒂:N	杯子:N	費南雪:N	官方:N	網站:N	
+--:DASHCATEGORY	兩:DET	天:M	捕:Vt	魚:N	、:PAUSECATEGORY	五:DET	天:M	曬網:N	－:DET	漁夫:N	週誌:N	http:FW	::COLONCATEGORY	/:FW	/:FW	www.yufublog.com:FW	--:DASHCATEGORY	

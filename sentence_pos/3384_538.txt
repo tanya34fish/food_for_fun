@@ -1,0 +1,114 @@
+maggie:FW	024:DET	(:PARENTHESISCATEGORY	莫莉:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	【:PARENTHESISCATEGORY	台北:N	】:PARENTHESISCATEGORY	貝貝:N	西點:N	LesBebes:FW	，:COMMACATEGORY	繽紛:Vi	浪漫:Vi	少女系:N	甜點:N	
+Sun:FW	
+Aug:FW	
+3:DET	
+20:DET	::COLONCATEGORY	20:DET	::COLONCATEGORY	13:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	貝貝:N	西點:N	LesBebes:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	敦化南路:N	一段:N	295巷:N	10:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2784:DET	-:DASHCATEGORY	7460:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週日:N	至:P	四:DET	|:FW	11:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	週五:N	至:P	週六:N	|:FW	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	海鹽:N	焦糖:N	大吉嶺:N	、:PAUSECATEGORY	黑醋栗:N	玫瑰:N	
+【:PARENTHESISCATEGORY	台北:N	貝貝:N	西點:N	LesBebes:FW	，:COMMACATEGORY	繽紛:Vi	浪漫:Vi	少女系:N	甜點:N	】:PARENTHESISCATEGORY	
+●:FW	圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	382993646:DET	
+【:PARENTHESISCATEGORY	延伸:Vi	閱讀:Vt	】:PARENTHESISCATEGORY	
+●:FW	【:PARENTHESISCATEGORY	台北:N	B-LineByATrain:FW	
+在:P	都市:N	中:POST	找尋:Vt	屬於:Vt	自己:N	的:T	secretbar:FW	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	380114576:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	爐鍋:N	咖啡:N	小:Vi	藝埕:N	
+人文:N	巷弄:N	間:POST	的:T	咖啡:N	香:N	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	371969156:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	小:Vi	藝埕思:N	劇場:N	
+文學:N	與:C	不可思議:Vi	相遇:Vi	在:P	迪化街:N	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	375875567:DET	
+●:FW	【:PARENTHESISCATEGORY	台北:N	Leparkcafe:FW	
+隱藏:Vt	在:P	都市:N	喧囂:Nv	後:POST	的:T	片刻:N	寧靜:Vi	】:PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summertsai000.pixnet.net/blog/post:FW	/:FW	324726350:DET	
+【:PARENTHESISCATEGORY	無:Vt	文字:N	好:Vi	讀版:N	】:PARENTHESISCATEGORY	
+":FW	Everylittlemomentisworthcelebrating:FW	
+":FW	-:DASHCATEGORY	LesBebes:FW	
+-:DASHCATEGORY	貝貝:N	西點:N	LesBebes:FW	-:DASHCATEGORY	
+杯子:N	蛋糕:N	｜:FW	BRUNCH:FW	|:FW	午餐:N	|:FW	AFTERNOONTEA:FW	|:FW	晚餐:N	
+★:FW	仁愛:N	門市:N	
+台北市:N	大安區:N	敦化南路:N	一段:N	295巷:N	10:DET	號:M	1樓:N	
+02:DET	-:DASHCATEGORY	2784:DET	-:DASHCATEGORY	7460:DET	
+甜點:N	外帶:Vt	
+週日:N	至:P	四:DET	|:FW	11:DET	::COLONCATEGORY	00:DET	
+21:DET	::COLONCATEGORY	00:DET	週五:N	至:P	週六:N	|:FW	11:DET	::COLONCATEGORY	00:DET	
+22:DET	::COLONCATEGORY	00:DET	
+內用:N	
+週一:N	至:P	週四:N	|:FW	11:DET	::COLONCATEGORY	30:DET	
+21:DET	::COLONCATEGORY	00:DET	週五:N	|:FW	11:DET	::COLONCATEGORY	30:DET	
+22:DET	::COLONCATEGORY	00:DET	
+週六:N	|:FW	10:DET	::COLONCATEGORY	00:DET	
+22:DET	::COLONCATEGORY	00週日:N	|:FW	10:DET	::COLONCATEGORY	00:DET	
+21:DET	::COLONCATEGORY	00:DET	
+Brunch&amp:FW	
+午餐:N	
+週一:N	至:P	週五:N	|:FW	11:DET	::COLONCATEGORY	30:DET	
+14:DET	::COLONCATEGORY	30:DET	
+週六:N	至:P	週日:N	|:FW	10:DET	::COLONCATEGORY	00:DET	
+15:DET	::COLONCATEGORY	00:DET	
+下午茶:N	
+每:DET	日:M	17:DET	::COLONCATEGORY	00:DET	前:N	
+晚餐:N	
+供應:Vt	時段:N	每:DET	日:M	18:DET	::COLONCATEGORY	00:DET	
+20:DET	::COLONCATEGORY	30:DET	
+★:FW	青田:N	門市:N	
+台北市:N	大安區:N	潮州街:N	149:DET	-:DASHCATEGORY	4:DET	號:M	1樓:N	
+02:DET	-:DASHCATEGORY	2358:DET	-:DASHCATEGORY	2226:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	每:DET	天:M	11:DET	::COLONCATEGORY	00:DET	
+20:DET	::COLONCATEGORY	00:DET	
+這:DET	間:M	位在:Vt	敦化南路:N	後:POST	巷:N	轉角處:N	
+與:C	一般:A	甜點店:N	不同:Vi	的:T	黃:Vi	白:Vi	相間:Vi	走:Vi	清爽:Vi	風:N	裝潢:N	
+從:P	陽光:N	灑下:Vt	的:T	窗:N	邊:N	透視:Vt	進去:Vi	
+就:ADV	可以:ADV	看見:Vt	每:DET	個:M	繽紛:Vi	小巧:Vi	可愛:Vi	的:T	排排:DET	站:N	杯子:N	蛋糕:N	
+光:ADV	是:Vt	這樣:Vi	的:T	畫面:N	
+就:ADV	讓:Vt	人:N	佇立:Vi	在:P	櫥窗:N	前:POST	還:ADV	沒:ADV	品嘗:Vt	
+已:ADV	牽動:Vt	內心:N	那:DET	浪漫:Vi	與:C	童心:N	
+除了:P	剛剛:ADV	過:Vt	的:T	七夕:N	情人節:N	限定:Vt	主題:N	手工:N	翻:Vt	糖:N	系列:N	外:POST	
+緊接著:ADV	貝貝:N	也:ADV	推出:Vt	了:ASP	接下來:ADV	更:ADV	重要:Vi	的:T	溫馨:Nv	日子:N	-:DASHCATEGORY	88:DET	節:M	
+【:PARENTHESISCATEGORY	HappyFather'sDay:FW	限定:Nv	主題:N	手工:N	翻:Vt	糖:N	】:PARENTHESISCATEGORY	
+任選:Vt	當日:N	口味:N	蛋糕:N	
+搭配:Vt	父親節:N	限定:Vt	手工:N	翻:Vt	糖:N	組合:Nv	
+2014:DET	/:FW	7:DET	/:FW	31:DET	起:M	
+開始:Vt	於:P	仁愛:N	與:C	青田:N	門市:N	預購:Vt	與:C	販售:Nv	
+即日:N	起:POST	開放:Vt	預購:Vt	
+不:ADV	接受:Vt	電話:N	預約:Vt	
+本:DET	預購:Vt	活動:N	需:ADV	親自:ADV	至:P	仁愛:N	門市:N	及:C	青田:N	門市:N	訂購:Vt	及:C	取貨:N	
+訂購:Vt	時:POST	完成:Vt	付款:Nv	
+-:DASHCATEGORY	LesBebes:FW	
+大家:N	可以:ADV	選擇:Vt	三:DET	到:P	五:DET	種:M	的:T	杯子:N	蛋糕:N	
+大:Vi	、:PAUSECATEGORY	小:Vi	都:ADV	可以:ADV	
+然後:ADV	再:ADV	加價:Vi	購買:Vt	上面:N	有:Vt	圖騰:N	的:T	手工:N	糖霜:N	
+$:FW	80:DET	/:FW	片:M	
+總價:N	會:ADV	因為:C	選購:Vt	杯子:N	的:T	價位:N	不同:Vi	而:C	有:Vt	變動:Vt	
+但:C	原則:N	上:N	杯子:N	蛋糕:N	價位:N	大概:ADV	都:ADV	是:Vt	小:Vi	$:FW	40:DET	大:Vi	$:FW	100:DET	
+這麼:ADV	可愛:Vi	我:N	當然:ADV	也:ADV	訂:Vt	上:DET	一:DET	盒:M	給:Vt	親愛:Vi	的:T	爸爸:N	囉:T	
+而:C	在:P	店:N	內:N	我們:N	享用:Vt	的:T	口味:N	是:Vt	::COLONCATEGORY	海鹽:N	焦糖:N	大吉嶺:N	、:PAUSECATEGORY	黑醋栗:N	玫瑰:N	♥:FW	
+海鹽:N	焦糖:N	大吉嶺:N	SeaSaltCaramel:FW	
+很:ADV	推薦:Vt	男生:N	吃:Vt	喔:T	
+因為:C	下方:N	的:T	杯子:N	蛋糕:N	是:Vt	偏:ADV	鹹:Vi	的:T	口味:N	
+搭配:Vt	上面:N	少許:DET	的:T	點綴:Nv	甜味:N	奶油:N	
+非常:ADV	清爽:Vi	
+很:ADV	適合:Vi	不:ADV	愛:Vt	吃:Vt	甜:Vi	的:T	女生:N	或:C	男生:N	喔:T	
+黑醋栗:N	玫瑰:N	BlackCurrantRose:FW	
+這:DET	個:M	也:ADV	是:Vt	非常:ADV	推薦:Vt	之:N	因為:C	我:N	私心:N	熱愛:Vt	這:DET	兩:DET	個:M	顏色:N	的:T	組合:Nv	哈哈:ADV	
+很:ADV	好吃:Vi	
+一口:ADV	大小:N	的:T	甜度:N	剛剛好:ADV	
+LesB:FW	é:FW	b:FW	é:FW	s:FW	團隊:N	經過:Vt	一:DET	年:M	半:POST	的:T	時間:N	
+走遍:Vt	紐約:N	、:PAUSECATEGORY	舊金山:N	、:PAUSECATEGORY	西雅圖:N	、:PAUSECATEGORY	香港:N	、:PAUSECATEGORY	東京:N	、:PAUSECATEGORY	曼谷:N	、:PAUSECATEGORY	新加坡:N	
+與:P	上海:N	等:POST	城市:N	
+將:ADV	品嚐到:Vt	的:T	飲食:N	經驗:N	與:C	記憶:N	
+逐一:ADV	注入:Vt	到:P	產品:N	口味:N	的:T	研發:Nv	與:C	設計:N	中:POST	...:ETCCATEGORY	嚴:N	成為:Vt	LesB:FW	é:FW	b:FW	é:FW	s:FW	的:T	獨特:Vi	品牌:N	精神:N	及:C	特質:N	
+-:DASHCATEGORY	LesBebes:FW	
+對於:P	剛:ADV	過完:Vt	情人節:N	的:T	我們:N	
+也:ADV	不要:ADV	忘記:Vt	幫:P	我們:N	上輩子:N	的:T	情人:N	帥哥:N	老爸:N	過:Vt	父親節:N	喔:T	
+迫不及待:ADV	想:Vt	看:Vt	老爸:N	享用:Vt	這麼:ADV	小巧:Vi	杯子:N	蛋糕:N	的:T	表情:N	阿:N	
+應該:ADV	會:ADV	與:P	女孩子:N	呈現出:Vt	的:T	畫面:N	截然不同:Vi	吧:T	
+祝:Vt	大家:N	88:DET	節:M	超級:A	快樂:Vi	啊:T	::COLONCATEGORY	D:FW	

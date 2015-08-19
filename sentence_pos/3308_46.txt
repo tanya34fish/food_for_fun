@@ -1,0 +1,28 @@
+地址:N	：:COLONCATEGORY	台北市:N	八德路:N	二段:N	275:DET	號:M	
+店裡:N	的:T	空間:N	不:ADV	大:Vi	
+約:ADV	七:DET	張:M	桌子:N	與:C	吧台:N	座位區:N	
+整潔度:N	很:ADV	好:Vi	
+光線:N	明亮:Vi	
+頗為:ADV	舒適:Vi	
+▼:FW	凍檸:Vt	茶:N	65:DET	元:M	
+▼:FW	香滑:Vi	絲襪:N	奶茶:N	75:DET	元:M	
+幸好:ADV	不過:C	甜:Vi	
+茶味:N	較:ADV	重:Vi	
+蠻:ADV	順口:Vi	
+▼:FW	脆皮:N	奶油:N	豬仔:N	包:Vt	45:DET	元:M	
+烤:Vt	得:T	不:ADV	夠:ADV	焦:Vi	脆:Vi	
+麵包體:N	的:T	狀態:N	偏:ADV	鬆軟:Vi	
+口感:N	不:ADV	對:P	
+口味:N	上香:Vi	濃:Vi	但:C	過於:ADV	甜:Vi	膩:Vi	
+生菜:N	鮮:Vi	脆:Vi	
+▼:FW	XO:FW	醬:N	乾炒:Vt	公仔麵:N	160:DET	元:M	
+香氣:N	逼:Vt	人:N	
+充滿:Vt	著:ASP	洋蔥:N	的:T	香甜:Vi	
+還:ADV	不錯:Vi	吃:Vt	
+▼:FW	咖哩:N	牛肉:N	鐵:N	扒飯:Vi	180:DET	元:M	
+咖哩醬:N	帶:Vt	著:ASP	微微:ADV	辣:Vi	度:M	
+牛肉:N	燉:Vt	得:T	十分:ADV	軟:Vi	爛:Vi	
+▼:FW	凱特琳:N	女王:N	法蘭西:N	多:DET	士:N	110:DET	元:M	
+外酥:N	甜:Vi	內香:N	軟:Vi	
+麻犇堂囍糖:N	本:ADV	舖:Vt	不:ADV	收取:Vt	服務:Nv	費用:N	
+服務:Nv	態度:N	非常:ADV	良好:Vi	

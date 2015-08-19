@@ -1,0 +1,140 @@
+flower:FW	3:DET	(:PARENTHESISCATEGORY	周:N	花花:Vi	，:COMMACATEGORY	甲:DET	飽:Vi	沒:T	？:QUESTIONCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	圓山:N	海霸王:N	懷念:Vt	料理:N	一:DET	整:DET	桌:N	$:FW	2500:DET	起:M	
+Mon:FW	
+Feb:FW	
+16:DET	
+22:DET	::COLONCATEGORY	10:DET	::COLONCATEGORY	32:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	海霸王:N	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	1月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	中山北路:N	三段:N	59:DET	號:M	
+電話:N	：:COLONCATEGORY	0225963141:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週五:N	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	，:COMMACATEGORY	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	；:SEMICOLONCATEGORY	週六:N	日:N	及:C	國定:A	例假日:N	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	，:COMMACATEGORY	17:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	$:FW	385:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	鳳貝:N	砂鍋:N	雞:N	、:PAUSECATEGORY	紅燒:Nv	圓蹄:N	、:PAUSECATEGORY	圓籠蒸:N	鮮蝦:N	、:PAUSECATEGORY	鮮魚:N	芋香鍋:N	、:PAUSECATEGORY	甜蜜:Vi	情人果:N	
+網誌:N	好:Vi	讀:Vt	多:DET	圖:N	無:Vt	音樂版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/daxx0b:FW	
+海霸王:N	是:Vt	北:N	台灣:N	老牌:Vi	的:T	餐飲:N	集團:N	
+以:P	桌菜:N	聞名:Vi	
+更:ADV	隨:P	時代:N	推出:Vt	火鍋:N	吃到:Vt	飽:Vi	、:PAUSECATEGORY	buffet:FW	吃到:Vt	飽:Vi	等:POST	新:Vi	選擇:Vt	
+咱們:N	家:N	還:ADV	蠻:ADV	愛:Vt	吃:Vt	海霸王:N	的:T	
+便宜:Vi	又:ADV	澎湃:Vi	超:Vt	適合:Vi	我們:N	這:DET	種:M	勤儉:Vi	持家:Vi	的:T	人:N	
+記得:Vt	國中:N	謝師宴:N	就是:C	吃:Vt	海霸王:N	懷念:Vt	料理:N	
+造訪:Vt	次數:N	手指:N	數:N	不:ADV	完:Vi	
+海霸王:N	目前:N	在:P	大台北:N	地區:N	有:Vt	5:DET	間:M	分店:N	
+此:DET	行:M	前往:Vt	的:T	是:Vt	中山店:N	
+可:ADV	坐:Vi	捷運:N	至:C	圓山:N	站:Vi	1:DET	號:M	出口:Nv	
+出站:N	後:POST	往:P	花:Vt	博館:N	方向:N	走:Vi	
+步行:Vi	10:DET	分鐘:M	左右:POST	可:ADV	抵達:Vt	
+海霸王:N	是:Vt	棟:M	地:T	下:DET	一:DET	層:M	、:PAUSECATEGORY	地上:N	八:DET	層:M	的:T	獨棟:A	建築:N	
+從:P	周:N	花花:N	小時:N	後:POST	就:ADV	一直:ADV	佇立:Vi	在:P	這:DET	路口:N	
+稱:Vt	它:N	是:Vt	市中心:N	往:P	北:N	的:T	大:Vi	地標:N	一點:DET	也:ADV	不為過:Vi	
+因為:C	海霸王:N	多:ADV	是:Vt	宴會:N	需求:N	的:T	客人:N	
+所以:C	用餐:Vi	建議:Vt	先:ADV	訂位:Vi	
+吃:Vt	桌菜:N	的:T	樓層:N	並:ADV	不:ADV	固定:Vt	
+這:DET	次:M	我們:N	就:ADV	被:P	安排:Vt	到:Vt	一樓:N	的:T	座位:N	
+懷念:Vt	料理:N	總共:ADV	有:Vt	三:DET	種:M	組合:Nv	、:PAUSECATEGORY	三:DET	種:M	價格:N	
+最:ADV	便宜:Vi	的:T	是:Vt	$:FW	1500:DET	+:FW	10:DET	%:M	
+最:ADV	豪華:Vi	也:ADV	不過:C	$:FW	3500:DET	+:FW	10:DET	%:M	
+咱們:N	周家:N	都:ADV	超:Vt	會:ADV	吃:Vt	
+之前:N	曾:ADV	挑戰:Vt	五:DET	人:N	吃完:Vt	
+懷念:Vt	料理:N	呷:C	青操:N	2500:DET	元:M	桌菜:N	
+今天:N	因為:C	要:ADV	跟:P	長輩:N	們:N	聚餐:Vi	
+所以:C	首:DET	次:M	嚐試:N	
+懷念:Vt	料理:N	呷:ADV	未了:Vi	3500:DET	元:M	桌菜:N	
+這裡:N	的:T	服務生:N	多:ADV	是:Vt	中年:N	阿姨:N	
+或:C	建教合作:Vi	的:T	學生:N	
+阿姨:N	們:N	的:T	個性:N	很:ADV	隨興:Vi	
+感覺:Vt	很:ADV	容易:Vi	被:P	客訴:N	服務:Nv	態度:N	不:ADV	好:Vi	...:ETCCATEGORY	
+不過:C	好幾:DET	年:M	吃下來:Vi	
+對:P	咱們:N	來:ADV	說:Vt	這:DET	也:ADV	是:Vt	另:DET	一:DET	種:M	親切感:N	啦:T	XD:FW	
+一:ADV	入座:Vi	桌:N	上:POST	就:ADV	擺:Vt	著:ASP	這:DET	鍋:M	鳳貝:N	砂鍋:N	雞:N	
+飢腸轆轆:Vi	一:DET	行人:N	
+立馬:N	開火:Vi	下去:Vi	等:POST	水:N	滾:Vi	開動:Vi	
+裡頭:N	除了:P	完整:Vi	一:DET	隻:M	雞:N	外:POST	
+還:ADV	用:P	小:Vi	干貝:N	、:PAUSECATEGORY	豬腳:N	熬湯:N	
+湯:N	鮮味:N	美:N	還:ADV	能:ADV	再:ADV	加:Vt	湯:N	唷:T	
+傳統:Vi	古早味:N	的:T	辦桌:Nv	必:ADV	喝:Vt	湯:N	品:N	
+等:P	吃到:Vt	一半:DET	
+服務生:N	才:ADV	發現:Vt	青菜盤:N	還:ADV	沒:ADV	加:Vt	
+趕緊:ADV	追:Vt	加進去:Vt	
+都:ADV	怪:Vt	我們:N	真:ADV	得:ADV	太:ADV	餓:Vi	了:T	啦:T	
+哈:ADV	
+和風:N	綜合:A	沙拉:N	
+上頭:N	有:Vt	大量:DET	中卷:N	
+鮮度:N	比:P	預期:N	中:POST	來:Vi	的:T	優:Vi	
+沙拉:N	就:ADV	是:Vt	一般:ADV	常見:Vi	的:T	一般:A	沙拉:N	
+和風醬:N	有:Vt	柚子:N	香:Vi	
+當作:Vt	開胃菜:N	還:ADV	ok:FW	
+等:POST	主餐:N	上桌:Vi	吃吃:Vt	無妨:Vi	的:T	概念:N	
+寫:Vt	這:DET	篇:M	食記:N	時:POST	才:ADV	發現:Vt	
+菜單:N	上:N	的:T	冰花:N	鮮魚:N	變成:Vt	了:ASP	嚴選刺身:N	
+生魚片:N	是:Vt	比較:ADV	便宜:Vi	的:T	菜色:N	耶:T	...:ETCCATEGORY	算:Vt	不:ADV	算:Vt	廣告:N	不實:Vi	啊:T	...:ETCCATEGORY	
+新:Vi	鮮度:N	ok:FW	只是:C	厚度:N	較:ADV	薄:Vi	
+符合:Vt	辦桌:Vi	的:T	生魚片:N	等級:N	
+紅燒:Vt	圓蹄:N	
+服務生:N	展示:Nv	後:POST	
+會:ADV	協助:Vt	將:P	它:N	切開:Vt	方便:Vi	客人:N	食用:Vt	
+這:DET	道:M	菜:N	是:Vt	周:N	太太:N	的:T	愛:N	
+蹄膀:N	煮:Vt	得:ADV	有:Vt	爛:Vi	
+牙口:N	不:ADV	好:Vi	的:T	人:N	也:ADV	別:ADV	擔心:Vt	
+台式:A	酸菜:N	味道:N	沒有:ADV	進去:Vi	
+仍然:ADV	像:Vt	是:Vt	在:P	吃:Vt	高麗菜:N	絲:N	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	今天:N	宴會:N	較:ADV	多:Vi	
+總:ADV	覺得:Vt	之前:POST	比較:ADV	好吃:Vi	耶:T	
+櫻花:N	蝦:N	米糕:N	
+小時候:N	最:ADV	期待:Vt	的:T	就是:C	這:DET	道:M	了:T	
+Ｑ:FW	彈:Vt	米糕:N	配上:Vt	櫻花:N	蝦:N	
+撲鼻:Vi	香氣:N	轉:Vt	個:M	兩:DET	圈:M	即:ADV	一掃而空:Vi	
+這:DET	道:M	基本:N	上:POST	只要:C	米飯:N	有:Vt	透:Vi	、:PAUSECATEGORY	味道:N	入:Vt	進去:Vi	
+都:ADV	不會:ADV	偏:ADV	到:P	哪:DET	去:T	啦:T	
+菌菇:N	貴妃片:N	
+醬汁:N	剛好:ADV	可以:ADV	拌:Vt	著:ASP	米糕:N	吃:Vt	
+算是:Vt	增添:Vt	了:ASP	風味:N	
+台式:A	鮑魚:N	
+是:Vt	個:M	很:ADV	神奇:Vi	的:T	食材:N	
+到:P	現在:N	還是:ADV	不:ADV	知道:Vt	是:Vt	用:P	什麼:DET	做:Vt	的:T	XD:FW	
+不過:C	周:N	花花:N	比較:ADV	喜歡:Vt	單純:Vi	的:T	食物:N	啦:T	
+杏:N	鮑:N	菇:N	、:PAUSECATEGORY	碗:N	豆莢:N	都:ADV	好吃:Vi	
+圓籠蒸:N	鮮蝦:N	
+蝦子:N	蒸:Vt	得:T	不會:ADV	過熟:Vi	
+新:Vi	鮮度:N	有:Vt	到:P	水準:N	
+一:DET	整:DET	籠:N	的:T	份量:N	也:ADV	很:ADV	夠:Vi	
+印象:N	中:POST	我:N	吃到:Vt	3:DET	、:PAUSECATEGORY	4:DET	隻:M	
+八仙:N	佛:N	跳牆:Vi	
+佛:N	跳牆:Vi	是:Vt	比較:ADV	高級:Vi	的:T	料理:N	
+聚會:N	場合:N	端上:Vt	桌:N	
+也:ADV	讓:Vt	請客:Vi	的:T	人:N	很:ADV	有:Vt	面子:N	
+看似:Vt	料:N	很多:DET	
+但:C	不:ADV	知道:Vt	為什麼:ADV	真的:ADV	要:ADV	吃:Vt	時:POST	卻:ADV	挖:Vt	不:ADV	到:Vt	東西:N	
+或許:ADV	該:ADV	說:Vt	內容物:N	都:ADV	差不多:Vi	
+就是:C	排骨:N	、:PAUSECATEGORY	筍乾:N	、:PAUSECATEGORY	芋頭:N	之類:POST	的:T	
+湯頭:N	還:ADV	ok:FW	不會:ADV	太:ADV	油膩:Vi	就:ADV	是:Vt	
+但:C	我們:N	覺得:Vt	有:Vt	雞湯:N	就:ADV	很:ADV	夠:Vi	喝:Vt	了:ASP	
+鮮魚:N	芋香:N	鍋:N	
+韭菜:N	、:PAUSECATEGORY	油蔥:N	、:PAUSECATEGORY	芹菜:N	是:Vt	辦桌:Vi	很:ADV	常見:Vi	的:T	調味:Nv	工具:N	
+魚肉:N	很:ADV	細碎:Vi	
+其實:ADV	要:ADV	撈到:Vt	完整:Vi	鮮魚:N	是:Vt	件:M	有:Vt	難度:N	的:T	事:N	
+好在:ADV	還:ADV	加:Vt	了:ASP	芋頭:N	、:PAUSECATEGORY	魚:N	餃:b	
+豐富:Vt	米粉:N	以外:POST	的:T	配料:N	
+有點:ADV	鹹:Vi	的:T	重:Vi	口味:N	料理:N	
+壓軸:Vi	上桌:Vi	喝:Vt	一:DET	碗:M	就:ADV	飽:Vt	了:ASP	
+中式:A	美:N	點:N	是:Vt	麻糬:N	
+味道:N	不用:ADV	介紹:Vt	了:ASP	
+應該:ADV	大家:N	都:ADV	吃:Vt	過:ASP	啦:T	
+甜蜜:Vi	情人果:N	
+海霸王:N	的:T	情人果:N	很:ADV	有名:Vi	
+紅:Vi	到:P	有:Vt	在:P	單:N	賣:Vt	、:PAUSECATEGORY	宅配:N	
+現在:N	很多:DET	辦桌:Nv	都:ADV	看:Vt	不:ADV	到:Vt	這:DET	種:M	甜點:N	了:T	
+更:ADV	有:Vt	懷舊感:N	
+老實說:ADV	
+首:DET	次:M	嘗試:N	$:FW	3500:DET	的:T	菜色:N	
+覺得:Vt	沒有:Vt	那:DET	個:M	價值:N	
+並:C	不:ADV	是:Vt	東西:N	真的:ADV	糟:Vi	到:P	哪:DET	去:ADV	
+只:ADV	是:Vt	$:FW	2500:DET	的:T	cp:FW	值:N	更:ADV	高:Vi	
+建議:Vt	大家:N	如果:C	不:ADV	是:Vt	非:A	吃:Vt	佛:N	跳牆:Vi	不可:ADV	
+點:N	$:FW	2500:DET	就:ADV	夠:Vi	囉:T	
+歡迎:Vt	加入:Vt	":FW	周花:N	花甲:N	飽:Vi	沒:Vt	":FW	粉絲團:N	
+最:ADV	新:Vi	美食:N	資訊:N	報:Vt	你:N	知:Vt	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/tenjochou:FW	

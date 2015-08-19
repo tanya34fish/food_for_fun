@@ -1,0 +1,12 @@
+地址:N	：:COLONCATEGORY	位於:Vt	京站:N	購物:Nv	中心:N	及:C	台北:N	轉運站:N	內:N	鄰近:Vt	台北:N	車站:N	
+捷運:N	台北:N	車站:N	台北:N	地下街:N	Y:FW	3:DET	出口:N	旁:N	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	低消:N	250:DET	元:M	
+於:P	於:P	服務生人:N	很:ADV	好:Vi	
+最:ADV	喜歡:Vt	的:T	是:Vt	原味:N	的:T	奶油:N	起:POST	司:Vt	
+冰拿:N	鐵口:b	很:ADV	好:Vi	很:ADV	順:Vi	
+大致上:ADV	也:ADV	都:ADV	很:ADV	順口:Vi	
+品質:N	個:M	人:N	很:ADV	喜歡:Vt	
+趁熱:ADV	塗抹:Vt	超:Vt	好吃:Vi	的:T	
+煙燻:A	的:T	風味:N	
+肉質:N	甜甜:Vi	的:T	
+吃起來:ADV	多汁:Vi	意猶未盡:Vi	

@@ -1,0 +1,131 @@
+joey:FW	080369:DET	(:PARENTHESISCATEGORY	小:Vi	綿羊:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	士林:N	蒔蘿:N	香草:N	餐廳:N	。:PERIODCATEGORY	食材:N	給:Vt	的:T	好:Vi	大器:N	!:EXCLAMATIONCATEGORY	
+Tue:FW	
+Jan:FW	
+6:DET	
+20:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	18:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	蒔蘿:N	香草:N	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	12:DET	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	天母:N	東路:N	96:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2872:DET	-:DASHCATEGORY	1396:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	~:FW	400:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	排餐:N	系列:N	、:PAUSECATEGORY	焗烤:Vt	蘑菇:N	培根:N	雞肉:N	筆尖麵:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.dill.com.tw:FW	/:FW	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	happylife698.pixnet.net/blog/post:FW	/:FW	192217689:DET	蒔蘿:N	香草:N	餐廳:N	
+一:DET	家:M	仰慕:Vt	許久:N	的:T	餐廳:N	
+這:DET	天:M	
+趁著:P	跨年:A	看:Vt	姊姊:N	表演:N	之前:POST	
+和:C	朋友:N	來:ADV	此:DET	一:DET	敘:Vt	
+餐廳:N	外觀:N	散發出:Vt	一:DET	種:M	童話:N	故事:N	中:POST	
+街道:N	的:T	氛圍:N	
+還:ADV	蠻:ADV	喜歡:Vt	的:T	^:FW	^:FW	
+文末:N	有:Vt	小:Vi	祕密:N	歐:N	XDDD:FW	最近:N	餐廳:N	有:Vt	一:DET	個:M	活動:N	---:DASHCATEGORY	消費:N	滿:Vt	1000:DET	元:M	
+就:ADV	可以:ADV	得到:Vt	一:DET	本:M	
+2015:DET	優惠:Nv	手冊:N	
+數量:N	有限:Vi	
+裡頭:N	總共:ADV	有:Vt	12:DET	張:M	優惠券:N	
+每:DET	個:M	月:N	對應:Vt	的:T	優惠:Nv	方式:N	各:ADV	不:ADV	相同:Vi	喔:T	
+整:DET	個:M	餐廳:N	基本:N	上:N	是:Vt	木造:A	
+廚房:N	是:Vt	半:DET	開放式:A	
+還:ADV	有:Vt	許多:DET	名人:N	簽名:Vi	的:T	盤子:N	當:Vt	擺飾:N	喔:T	
+耶:T	一:DET	
+剛好:ADV	被:P	我:N	拍到:Vt	空蕩蕩:Vi	的:T	餐廳:N	XD:FW	不一會兒:ADV	
+立馬:N	高朋滿座:Vi	
+畢竟:ADV	今天:N	可是:C	2014:DET	的:T	最後:N	一:DET	天:M	啊:T	
+餐廳:N	的:T	水瓶:N	除了:P	放:Vt	番茄:N	、:PAUSECATEGORY	檸檬:N	之外:POST	
+還:ADV	多:Vi	了:ASP	一些:DET	香草:N	
+喝:Vt	起來:ASP	有:Vt	種:M	特別:Vi	的:T	味道:N	
+Menu:FW	餐點:N	以:P	西式:A	料理:N	為主:Vi	
+排餐:N	雖然:C	貴:Vi	了:ASP	一些:DET	
+但:C	真的:ADV	有:Vt	其:DET	價值:N	啊:T	
+牛排:N	超大:A	一:DET	塊:M	
+春雞:N	好:ADV	嫩:Vi	好好:Vi	吃:Vt	
+不過:C	我:N	沒:ADV	拍照:Vi	...:ETCCATEGORY	經過:Vt	這:DET	次:M	的:T	經驗:N	
+下:DET	次:M	用餐:Vi	我:N	一定:ADV	會:ADV	點:Vt	排餐類:N	XDDD:FW	另外:C	
++:FW	100:DET	元:M	有:Vt	副食:N	
+6:DET	選:Vt	1:DET	
+、:PAUSECATEGORY	甜點:N	和:C	飲料:N	
+任選:Vt	
+還:ADV	蠻:ADV	划算:Vi	的:T	
+也:ADV	有:Vt	499:DET	元:M	主廚:N	推薦:Vt	精緻:Vi	套餐:N	可以:ADV	選擇:Vt	歐:N	
+這:DET	家:M	店:N	還:ADV	有:Vt	提供:Vt	特別:Vi	的:T	鍋:N	物:N	喔:T	
+田園:N	沙拉:N	水果:N	沙拉:N	上頭:N	淋:Vt	的:T	是:Vt	蔓:b	越:Vt	莓優格醬:N	
+整體:N	而言:Vt	清爽:Vi	開胃:Vi	
+個:M	人:N	還:ADV	蠻:ADV	喜歡:Vt	的:T	^:FW	^:FW	餐前:N	麵包:N	不管:C	單點:N	或:C	套餐:N	
+都:ADV	會:ADV	附:Vt	一:DET	小:Vi	塊:M	喔:T	
+有:Vt	事先:ADV	烤:Vt	過:ASP	
+麵包:N	帶:Vt	一點:DET	乳酪:N	香:Vi	
+一:DET	旁:N	的:T	沾醬:N	有點:ADV	墨西哥:N	風味:N	
+吃起來:ADV	有:Vt	股:M	辛:Vi	香味:N	
+今日:N	例:N	湯:N	是:Vt	奶油:N	玉米:N	濃湯:N	
+裡頭:N	加:Vt	了:ASP	些:M	馬鈴薯:N	泥:N	
+喝:Vt	起來:ASP	有:Vt	沙沙:Vi	的:T	口感:N	
+不過:C	
+味道:N	有點:ADV	過於:ADV	清淡:Vi	
+稍微:ADV	多:Vi	一些:DET	鹹味:N	或許:ADV	會:ADV	更:ADV	好喝:Vi	::COLONCATEGORY	D:FW	紅酒:N	菲力:N	番茄:N	義大利麵:N	
+NT:FW	.:PERIODCATEGORY	240:DET	
+據:P	同學:N	說:Vt	
+牛肉:N	還:ADV	蠻:ADV	好吃:Vi	的:T	
+量:N	好像:ADV	也:ADV	不少:Vi	
+點餐:N	之前:POST	
+店員:N	會:ADV	特別:Vi	提醒:Vt	
+會:ADV	保留:Vt	一些:DET	麵芯:N	的:T	口感:N	
+如果:C	想要:Vt	吃:Vt	熟透:Vi	了:ASP	的:T	麵條:N	
+也:ADV	是:Vt	可以:ADV	請:Vt	店員:N	告知:Vt	主廚:Vi	喔:T	
+焗烤:Vt	蘑菇:N	培根:N	雞肉:N	筆尖麵:N	
+NT:FW	.:PERIODCATEGORY	190:DET	
+是:Vt	一:DET	款:M	中規中矩:Vi	的:T	焗烤:Vt	麵:N	
+雞肉:N	的:T	份量:N	依然:ADV	很:ADV	大器:N	
+調味:Vi	走:Vi	的:T	是:Vt	白醬:N	路線:N	
+Dill:FW	地中海:N	香草:N	海鮮:N	鍋:N	
+NT:FW	.:PERIODCATEGORY	249:DET	
+這:DET	一:DET	鍋:M	最:ADV	特別:Vi	的:T	地方:N	在於:Vt	
+裡面:N	居然:ADV	有加:ADV	義大利麵:N	
+是:Vt	一:DET	個:M	自己:N	煮:Vt	麵:N	的:T	概念:N	XD:FW	
+據:P	朋友:N	的:T	說法:N	
+湯頭:N	的:T	味道:N	很:ADV	
+蝦:N	
+不過:C	她:N	不:ADV	大:Vi	喜歡:Vt	...:ETCCATEGORY	
+是:Vt	說:Vt	後來:N	另:DET	一:DET	個:M	朋友:N	把:P	這:DET	鍋:M	湯:N	都:ADV	喝光:Vt	了:ASP	
+也許:ADV	是:Vt	個:M	見仁見智:Vi	的:T	概念:N	
+鮮蔬:N	海鮮:N	起:POST	司焗:N	飯:N	
+NT:FW	.:PERIODCATEGORY	240:DET	
+原先:ADV	期待:Vt	裡頭:N	是:Vt	奶油:N	燉飯:Vt	
+沒想到:ADV	挖開:Vt	之後:POST	
+居然:ADV	是:Vt	乾乾:Vi	黃黃:Vi	的:T	飯粒:N	QQ:FW	朋友:N	說:Vt	可能:ADV	是:Vt	番紅花:N	
+但:C	吃起來:ADV	卻:ADV	不:ADV	太:ADV	有:Vt	味道:N	
+焗烤:Vt	和:C	燉:Vt	飯:N	之間:POST	還:ADV	夾:Vt	了:ASP	一:DET	層:M	白白:Vi	的:T	醬:N	
+有點:ADV	類似:Vt	濃湯:N	
+但是:C	和:P	燉飯:Vt	超級:A	不:ADV	搭:Vt	啊:T	...:ETCCATEGORY	唯一:A	值得:Vi	稱許:Vt	的:T	是:Vt	海鮮:N	真的:ADV	很多:DET	
+有:Vt	蝦子:N	、:PAUSECATEGORY	蛤蜊:N	、:PAUSECATEGORY	魚片:N	、:PAUSECATEGORY	墨魚:N	和:C	扇貝:N	
+稍微:ADV	扳回:Vt	一些:DET	顏面:N	不過:C	
+整體:N	而言:Vt	
+個:M	人:N	還是:C	不:ADV	大:Vi	推:Vt	這:DET	款:M	燉飯:Vt	...:ETCCATEGORY	酥:Vi	炸:Vt	薯條:N	
+NT:FW	.:PERIODCATEGORY	100:DET	
+朋友:N	聚餐:Vi	當然:ADV	要點:N	一些:DET	可以:ADV	一起:ADV	分享:Vt	的:T	小:Vi	點:ADV	囉:T	
+薯條:N	是:Vt	個:M	人:N	最:ADV	愛:Vt	的:T	金黃:Vi	薯:b	
+旁邊:N	的:T	沾醬:N	是:Vt	番茄醬:N	和:C	黃:N	芥末:N	
+主廚:N	甜點:N	是:Vt	蔓:b	越:ADV	莓慕:Vt	斯:DET	蛋糕:N	
+算是:Vt	蠻:ADV	中規中矩:Vi	的:T	飯:N	後:POST	甜點:N	XD:FW	維納斯:N	香草:N	茶:N	是:Vt	認真:Vi	的:T	把:P	香草:N	泡:Vt	在:P	裡頭:N	
+而:C	不:ADV	是:Vt	茶包:N	喔:T	
+抹茶:N	拿:Vt	鐵:N	
+熱:Vt	
+味道:N	稍微:ADV	甜:Vi	了:ASP	一些:DET	
+而且:C	抹:Vt	茶味:N	略:ADV	淡:Vi	
+香:Vi	濃:Vi	可可:N	
+熱:Vt	
+恩:N	...:ETCCATEGORY	就:ADV	是:Vt	一般:A	的:T	熱:Vt	可可:N	XD:FW	
+是:Vt	說:Vt	實在:ADV	是:Vt	不:ADV	知道:Vt	為何:ADV	要:ADV	附:Vt	糖:N	包:Vt	XDDD:FW	【:PARENTHESISCATEGORY	小:Vi	祕密:N	】:PARENTHESISCATEGORY	昨天:N	看:Vt	再:ADV	說:Vt	一:DET	次:M	我:N	願意:Vt	的:T	時候:N	
+意外:N	發現:Vt	原來:ADV	這裡:N	也:ADV	是:Vt	劇:N	中:POST	場景:N	之:T	一:DET	
+真:ADV	後悔:Vt	當初:N	沒有:ADV	好好:Vi	發露:N	一下:N	
+【:PARENTHESISCATEGORY	分:Vt	項:M	評比:Nv	】:PARENTHESISCATEGORY	
+滿分:N	10:DET	分:M	
+美味度:N	：:COLONCATEGORY	7.5:DET	CP:FW	值:N	：:COLONCATEGORY	7.5:DET	用餐:Nv	氣氛:N	：:COLONCATEGORY	9:DET	服務:Nv	態度:N	：:COLONCATEGORY	8.5:DET	小:Vi	結:Vt	：:COLONCATEGORY	用餐:Nv	氣氛:N	很:ADV	棒:Vi	
+只:ADV	可惜:Vi	這:DET	次:M	點到:Vt	了:ASP	不:ADV	太:ADV	合:Vt	胃口:N	的:T	焗烤飯:N	QQ:FW	儘管:C	如此:Vi	
+還是:ADV	可以:ADV	感受:Vt	的:T	到:P	店家:N	食材:N	挑選:Vt	的:T	誠意:N	
+份量:N	也:ADV	很:ADV	足夠:Vi	
+下:DET	次:M	找:Vt	個:M	時間:N	再:ADV	去:ADV	認真:Vi	的:T	品嘗:Vt	一下:N	他們:N	家:N	的:T	排餐:N	
+再:ADV	來:ADV	發:Vt	一:DET	篇:M	分享:Vt	文:N	^:FW	^:FW	--:DASHCATEGORY	最近:N	幫:P	網誌:N	架設:Vt	粉絲:N	專頁:N	了:T	
+希望:Vt	大家:N	可以:ADV	多多:ADV	支持:Vt	^:FW	^:FW	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/happylife:FW	698:DET	--:DASHCATEGORY	

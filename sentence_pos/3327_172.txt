@@ -1,0 +1,104 @@
+attfunj(fuku:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	六:DET	條:M	通海樂:N	日本:N	料理:Vt	商業:N	午餐:N	
+Fri:FW	
+Jul:FW	
+18:DET	
+21:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	29:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	海樂:N	日本:N	料理:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	中山北路:N	1:DET	段:M	105巷:N	20:DET	號:M	(:PARENTHESISCATEGORY	六:DET	條:M	通:Vi	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	25318992:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	，:COMMACATEGORY	18:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	-:DASHCATEGORY	450:DET	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	丼丼:b	定食:Vt	，:COMMACATEGORY	牛肉:N	柳川風:N	定食:Vt	
+圖文:N	網誌:N	無:Vt	音樂版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	yumekanau.pixnet.net/blog/post:FW	/:FW	158247321:DET	
+在:P	林森北路:N	附近:N	的:T	日本:N	料理:N	
+晚餐:N	時間:N	的:T	價格:N	
+通常:ADV	都:ADV	比較:Vt	高價:N	一點:DET	
+但是:C	這:DET	附近:N	的:T	日本:N	料理:N	出:Vt	的:T	商業:N	午餐:N	價格:N	卻:ADV	平易近人:Vi	
+所以:C	我:N	和:C	朋友:N	的:T	主婦:N	午餐:N	約會:Vi	
+我們:N	很:ADV	喜歡:Vt	到:P	這:DET	附近:N	吃吃:Vt	
+朋友:N	真的:ADV	是:Vt	日本人:N	
+在:P	家:N	料理:N	已經:ADV	是:Vt	日本菜:N	
+出去:Vi	用餐:Vi	日本:N	料理:N	還是:C	第一:DET	選擇:N	
+今天:N	選:Vt	的:T	是:Vt	海樂:N	日本:N	料理:N	
+晚餐:N	時段:N	套餐:N	在:P	1500:DET	以上:N	吧:T	
+主婦:N	吃:Vt	商業:N	午餐:N	就:ADV	很:ADV	滿足:Vt	了:ASP	
+商業:N	午餐:N	好吃:Vi	的:T	話:N	
+那:DET	晚餐:N	一定:ADV	就:ADV	沒:ADV	話說:ADV	了:T	
+之前:N	的:T	商業:N	午餐:N	好像:ADV	有:Vt	每:DET	日:M	不同:Vi	的:T	今日:N	定食:Vt	
+現在:N	都:ADV	是:Vt	統一:Vt	的:T	菜單:N	
+朋友:N	點丼丼定:Vt	食:N	
+450:DET	元:M	
+二:DET	個:M	小丼:N	飯:N	
+海鮮:N	丼:b	和:C	天:N	丼:b	
+朋友:N	說:Vt	好吃:Vi	
+海鮮:N	很:ADV	新鮮:Vi	
+天丼:N	的:T	醬料:N	也:ADV	好吃:Vi	
+丼飯:N	的:T	份量:N	也:ADV	剛剛好:ADV	
+對:P	女生:N	來:ADV	說:Vt	是:Vt	正常:Vi	飽:Vi	的:T	份量:N	
+我:N	點:Vt	的:T	是:Vt	牛肉:N	柳川風:N	定:Vt	食:N	
+380:DET	元:M	
+在:P	點餐:N	時:POST	
+我:N	不:ADV	懂:Vt	
+柳川風:N	
+的:T	意思:N	
+服務生:N	也:ADV	說:Vt	不:ADV	出:Vt	所以然:N	
+他:N	只:ADV	跟:P	我:N	說:Vt	是:Vt	牛蒡:N	和:C	牛肉:N	及:C	蛋:N	煮成:Vt	的:T	鍋物:N	
+我:N	就:ADV	點:Vt	了:ASP	這:DET	道:M	料理:N	
+滿滿:Vi	的:T	牛蒡:N	
+真:ADV	得:ADV	很:ADV	營養:Vi	
+感覺:N	隔:Vt	天:N	會:ADV	很:ADV	順暢:Vi	
+笑:Vi	
+在:P	家:N	料理:N	時:POST	應該:ADV	也:ADV	可以:ADV	這麼:ADV	做:Vt	吧:T	
+附:Vt	的:T	小菜:N	
+我們:N	都:ADV	愛:Vt	的:T	黏稠:Vi	系秋:N	葵:b	
+附餐:N	的:T	冰淇淋:N	及:C	咖啡:N	或:C	紅茶:N	
+回家:Vi	後:POST	
+我:N	一直:ADV	在意:Vt	著:ASP	
+柳川風:N	
+是:Vt	什麼:DET	意思:N	
+上網:Vi	查:Vt	也:ADV	沒有:Vt	什麼:DET	答案:N	
+我:N	也:ADV	就:ADV	這麼:ADV	忘:Vt	了:ASP	
+直到:P	最近:N	讀:Vt	了:ASP	北大路:N	魯:N	山人:N	所:ADV	著:Vt	的:T	料理:N	王國:N	
+裡面:N	有:Vt	一:DET	篇:M	泥鰍:N	鍋:N	
+這:DET	才:ADV	解答:Vt	我:N	的:T	疑感:N	
+在:P	東京:N	
+比起:P	
+泥鰍:N	鍋:N	
+這:DET	個:M	名字:N	
+柳川:N	
+這:DET	個:M	名字:N	更:ADV	為:P	人:N	知:Vt	
+為什麼:ADV	會:ADV	稱作:Vt	
+柳川:N	
+呢:T	
+根據:P	昔時:ADV	的:T	傳聞:N	
+幕府:N	末:DET	期:M	
+日本:N	橋通:N	一:DET	丁:DET	目:M	附近:N	有:Vt	一:DET	間:M	名為:Vt	
+柳川屋:N	
+的:T	店:N	
+這裡:N	供應:Vt	
+了:Vt	人:N	們:N	不曾:ADV	見:Vt	過:ASP	的:T	泥鰍:N	鍋:N	
+製作:Vt	泥鰍:N	鍋:N	的:T	重點:N	在於:Vt	高湯:N	
+此外:C	
+外層:N	的:T	蛋:N	液:N	要:ADV	清澈:Vi	
+牛蒡絲:N	下方:N	的:T	高湯:N	不能:ADV	剩:Vt	太多:DET	
+雞蛋:N	不能:ADV	沉:Vi	到:P	牛:N	蒡絲:N	裡:POST	
+只要:C	有:Vt	了:ASP	這:DET	三:DET	種:M	技巧:N	
+就:ADV	能:ADV	做出:Vt	正統:A	泥鰍:N	鍋:N	了:T	-----:DASHCATEGORY	料理:N	王國:N	
+原來如此:Vi	
+這樣:Vi	我:N	懂:Vt	為什麼:ADV	要:ADV	稱為:Vt	牛肉:N	柳川風:N	定:Vt	食:Vt	了:ASP	
+他:N	所:ADV	用:Vt	的:T	材料:N	高湯:N	
+牛蒡:N	
+蛋:N	液:N	
+就:ADV	像:P	柳川鍋:N	
+呀:T	
+吃:Vt	商業:N	午餐:N	也:ADV	能:ADV	長:Vi	知識:N	真:ADV	好:Vi	
+如果:C	要不是:C	對:P	這:DET	有:Vt	疑惑:Vi	
+就算:C	讀:Vt	了:ASP	這:DET	本:M	書:N	
+我:N	也:ADV	會:ADV	忘:Vt	了:ASP	柳川鍋:N	是:Vt	什麼:DET	意思:N	吧:T	
+這:DET	是:Vt	一:DET	家:M	很:ADV	精緻:Vi	的:T	日本:N	料理:N	
+我:N	想:Vt	晚餐:N	的:T	時段:N	應該:ADV	也:ADV	會:ADV	很:ADV	美味:Vi	吧:T	

@@ -1,0 +1,193 @@
+hx:FW	271:DET	(:PARENTHESISCATEGORY	肥滋芝:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	君悅凱菲屋:N	假日:N	晚餐:N	吃到:Vt	飽:Vi	~:FW	CP:FW	值高:Vi	~:FW	推:Vt	
+Wed:FW	
+Apr:FW	
+1:DET	
+22:DET	::COLONCATEGORY	35:DET	::COLONCATEGORY	22:DET	
+2015:DET	
+君悅:N	飯店:N	-:DASHCATEGORY	凱菲屋:N	BUFFET:FW	吃:Vt	到:P	飽:Vi	
+電話:N	::COLONCATEGORY	0227201230:DET	
+地址:N	::COLONCATEGORY	台北市:N	松壽路:N	2:DET	號:M	
+圖文並茂:Vi	網誌版:N	::COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	hx271.pixnet.net/blog/post:FW	/:FW	60381775:DET	
+現場:N	價格:N	::COLONCATEGORY	
+週一:N	至:P	週四:N	午:N	、:PAUSECATEGORY	晚餐:N	及:C	週五:N	午餐:N	價格:N	為:Vt	NT:FW	$:FW	1:DET	
+100:DET	
+週五:N	晚餐:N	、:PAUSECATEGORY	周末:N	午餐:N	及:C	晚餐:N	價格:N	為:Vt	NT:FW	$:FW	1:DET	
+300:DET	
+下午茶:N	價格:N	為:Vt	NT:FW	$:FW	780:DET	
+樓層:N	：:COLONCATEGORY	一樓:N	
+314:DET	位:M	
+營業:Nv	時間:N	：:COLONCATEGORY	
+早餐:N	自助餐:N	06:DET	::COLONCATEGORY	30:DET	am:FW	-:DASHCATEGORY	10:DET	::COLONCATEGORY	30:DET	am:FW	
+午餐:N	自助餐:N	11:DET	::COLONCATEGORY	30:DET	am:FW	-:DASHCATEGORY	02:DET	::COLONCATEGORY	00:DET	pm:FW	
+下午茶:N	自助餐:N	03:DET	::COLONCATEGORY	00:DET	pm:FW	-:DASHCATEGORY	05:DET	::COLONCATEGORY	00:DET	pm:FW	
+晚餐:N	自助餐:N	06:DET	::COLONCATEGORY	00:DET	pm:FW	-:DASHCATEGORY	09:DET	::COLONCATEGORY	30:DET	pm:FW	
+在:P	三:DET	個:M	禮拜:N	前:POST	就:ADV	先:ADV	打去:Vi	訂位:Vi	
+這:DET	次:M	用餐:Vi	的:T	經驗:N	相當:ADV	好:Vi	
+非常:ADV	吸引:Vt	我:N	再次:ADV	光臨:Vt	就是了:Vi	^:FW	^:FW	
+當天:N	我們:N	出門:Vi	稍:ADV	晚:Vi	了:ASP	點:M	
+我:N	整:DET	路:N	都:ADV	在:P	擔心:Vt	我們:N	沒:ADV	準時:Vi	到:P	位置:N	會:ADV	不:ADV	見:Vt	
+哭哭:Vi	
+君悅:N	飯店:N	真的:ADV	相當:ADV	豪華:Vi	氣派:Vi	
+而:C	我們:N	在:P	趕路:Vi	只:ADV	能:ADV	匆匆:Vi	掃射:Vt	一下:N	
+馬上:ADV	一:ADV	進:Vt	大門:N	就:ADV	問:Vt	說:Vt	凱菲屋:N	怎麼:ADV	走:Vi	呀:T	
+終於:ADV	在:P	6:DET	::COLONCATEGORY	10:DET	前:N	衝到:Vt	凱菲屋:N	的:T	門口:N	
+呼:ADV	呼呼:ADV	....:ETCCATEGORY	喘氣:Vi	中:POST	
+下面:N	是:Vt	後來:N	吃完:Vt	補:Vt	拍:Vt	的:T	照片:N	
+乾淨:Vi	整齊:Vi	又:ADV	溫暖:Vt	的:T	黃光:N	
+頓時:ADV	腳步:N	也:ADV	跟:P	著:ASP	慢:Vi	下:POST	
+服務生:N	把:P	我們:N	帶到:Vt	甜點區:N	後方:N	的:T	座位:N	
+哇:T	
+椅子:N	真是:ADV	太:ADV	舒適:Vi	了:T	
+是:Vt	一:DET	長:Vi	條:M	沙發:N	座椅區:N	
+而且:C	這:DET	一:DET	塊:M	空間:N	也:ADV	不會:ADV	有:Vt	人:N	走來走去:Vi	
+也:ADV	不:ADV	知道:Vt	是:Vt	我:N	提前:Vi	打來:Vt	訂位:Nv	
+所以:C	先:ADV	安排:Vt	到:P	這:DET	區:N	還是:ADV	怎麼樣:Vi	^:FW	^:FW	
+總之:ADV	我:N	滿意:Vt	極了:ADV	^:FW	^:FW	
+開心:Vi	
+可惜:Vi	飯店:N	大多:DET	沒有:Vt	什麼:DET	壽星:N	優惠:Nv	
+是:Vt	說:Vt	現在:N	餐廳:N	的:T	壽星:N	優惠:Nv	也:ADV	越來越:ADV	少:Vi	
+接著:ADV	東西:N	放好:Vt	我們:N	就:ADV	準備:Vt	開始:Vt	大快朵頤:Vi	囉:T	
+餐廳:N	總共:ADV	分:Vt	了:ASP	大概:ADV	7:DET	區:N	
+生菜:N	沙拉:N	、:PAUSECATEGORY	冷盤:N	、:PAUSECATEGORY	熟食:N	、:PAUSECATEGORY	飲料:N	、:PAUSECATEGORY	湯品:N	、:PAUSECATEGORY	甜品:N	等等:POST	
+整理:Vt	照片:N	的:T	時候:N	發現:Vt	
+果然:ADV	是:Vt	甜:Vi	品拍:N	得:T	最多:Vi	
+座位:N	幾乎:ADV	9成:DET	滿:DET	
+不過:C	拿:Vt	食物:N	的:T	地方:N	完全:ADV	不會:ADV	等:Vt	非常:ADV	非常:ADV	久:Vi	
+誰:N	能:ADV	告訴:Vt	我:N	饗:Vt	食:Vt	天堂:N	到底:ADV	
+是:Vt	怎麼:ADV	回:Vt	事:N	
+整體:N	空間:N	動線:N	設計:N	非常:ADV	流暢:Vi	
+桌:N	上:N	有:Vt	糖包:N	調味料:N	等等:POST	
+水:N	也:ADV	是:Vt	服務生:N	看到:Vt	剩:Vt	一半:DET	就:ADV	會:ADV	來:ADV	添加:Vt	
+而且:C	是:Vt	添加:Vt	礦泉水:N	耶:T	
+就:ADV	看:Vt	他:N	拿:Vt	著:ASP	一:DET	個:M	礦泉水瓶:N	在:P	倒:Vt	
+盤子:N	也:ADV	是:Vt	收:Vt	的:T	很:ADV	勤勞:Vi	
+先:ADV	從:P	冷食:N	沙拉:N	開始:Vt	介紹:Vt	起:ASP	吧:T	^:FW	^:FW	
+這:DET	一:DET	區:N	普遍:Vi	沒:Vt	什麼:DET	人:N	出沒:Vi	...:ETCCATEGORY	XD:FW	":FW	
+還:ADV	有:Vt	主廚:Vi	特:ADV	調:Vt	的:T	沙拉:N	
+看起來:ADV	還:ADV	不:ADV	賴:Vt	耶:T	
+不過:C	我:N	的:T	胃:N	沒:ADV	這麼:ADV	大:Vi	
+看看:Vt	就:ADV	好:Vi	^:FW	^:FW	
+加:Vt	了:ASP	法式油:N	醋:N	不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	份量:N	沒:ADV	控制好:Vt	
+好:ADV	酸:Vi	唷:T	
+隔壁桌:N	有:Vt	一:DET	個:M	香港:N	帥哥:N	
+裝:Vt	了:ASP	一:DET	整:DET	大盤:N	的:T	生菜:N	沙拉:N	
+有夠:ADV	健康:Vi	要:ADV	給:Vt	他:N	拍拍手:Vi	^:FW	^:FW	
+冷盤:N	海鮮區:N	
+新鮮:Vi	":FW	青:N	":FW	欸:T	
+當:P	餐台:N	上:N	的:T	食物:N	快:ADV	被:P	掃光:N	
+廚師:N	都:ADV	會:ADV	來:ADV	補:Vt	滿:DET	^:FW	^:FW	
+除了:P	圖片:N	看到:Vt	這:DET	四:DET	種:M	
+還:ADV	有:Vt	草蝦:N	
+這邊:N	我們:N	進攻:Vt	了:ASP	三:DET	、:PAUSECATEGORY	四:DET	次:M	....:ETCCATEGORY	XD:FW	
+海鮮:N	最:ADV	要緊:Vi	就:ADV	是:Vt	新鮮:Vi	
+除了:P	這:DET	個:M	黑貽貝:N	拿:Vt	了:ASP	一:DET	大盤:N	很多:DET	顆:M	裡面:N	都:ADV	有:Vt	沙:N	耶:T	嚇:Vt	的:T	不:ADV	敢:Vt	再:ADV	拿:Vt	=:FW	
+=:FW	":FW	
+生魚片:N	和:C	壽司:N	
+今天:N	生魚片:N	有:Vt	三:DET	種:M	
+還:ADV	有:Vt	花枝:N	^:FW	^:FW	
+另外:C	還:ADV	有:Vt	醃:Vt	燻:Vt	鮭魚:N	
+可惜:Vi	沒:ADV	看到:Vt	鮪魚:N	...:ETCCATEGORY	QQ:FW	":FW	
+鮭魚:N	厚度:N	剛好:ADV	
+油脂:N	分布:Vi	的:T	很:ADV	美:N	
+吃起來:ADV	很:ADV	鮮:Vi	甜:Vi	唷:T	
+^:FW	^:FW	
+燻:Vt	鮭魚:N	是:Vt	很:ADV	長:Vi	一:DET	片:M	切:Vi	的:T	較:ADV	薄:Vi	
+裡面:N	可以:ADV	包紅:N	洋蔥:N	絲:N	
+在:P	擠:Vt	一點:DET	檸檬:N	提味:N	
+好:Vi	大:Vi	塊:M	的:T	各:DET	種:M	乳酪:N	
+可惜:Vi	我:N	不:ADV	是:Vt	老鼠:N	XD:FW	
+還:ADV	有:Vt	好幾:DET	種:M	麵包:N	耶:T	
+跟:P	在:P	麵包店:N	沒:ADV	兩樣:Vi	的:T	感覺:N	^:FW	^:FW	":FW	
+沾上:Vt	乳酪:N	滋味:N	肯定:Vt	很:ADV	棒:Vi	
+但是:C	胃:N	只有:ADV	一:DET	個:M	...:ETCCATEGORY	看看:Vt	就:ADV	好:Vi	=:FW	=:FW	":FW	看看:Vt	就:ADV	好:Vi	=:FW	=:FW	":FW	不要:ADV	貪心:Vi	^:FW	^:FW	
+湯品區:N	
+這天:N	看到:Vt	兩:DET	種:M	...:ETCCATEGORY	一:DET	個:M	是:Vt	濃湯:N	一:DET	個:M	是:Vt	韓國:N	海鮮湯:N	
+我:N	拿:Vt	了:ASP	海鮮湯:N	
+裡頭:N	還:ADV	有:Vt	螃蟹:N	耶:T	
+讚讚:Vi	
+不過:C	辣度:N	上:POST	就:ADV	超過:Vt	我:N	的:T	負荷:N	範圍:N	....:ETCCATEGORY	
+看起來:ADV	辣:Vi	實際:Vi	上:POST	真的:ADV	很:ADV	辣:Vi	XDXD:FW	
+但:C	螃蟹:N	就:ADV	比:P	冷盤:N	的:T	夠味:Vi	
+真是:ADV	難:Vi	取捨:Vt	
+果汁:N	吧:T	
+這:DET	天:M	提供:Vt	了:ASP	四:DET	種:M	果汁:N	+:FW	可:ADV	爾:N	必:ADV	思:Vt	
+旁邊:N	還:ADV	有:Vt	現:N	磨:Vt	咖啡機:N	可以:ADV	享用:Vt	
+只是:ADV	小:Vi	芝:b	不:T	喝:Vt	咖啡:N	^:FW	^:FW	":FW	
+我們:N	喝:Vt	了:ASP	三:DET	種:M	葡萄柚汁:N	柳橙汁:N	胡蘿蔔汁:N	
+真的:ADV	純:Vi	天然:A	水果:N	下去:Vi	打:Vt	
+好:ADV	美味:Vi	喔:T	
+尤其:ADV	是:Vt	這:DET	葡萄柚汁:N	
+外面:N	都:ADV	賣超:Vt	貴:Vi	
+還:ADV	不一定:ADV	買:Vt	的:T	到:Vt	...:ETCCATEGORY	.......:ETCCATEGORY	^:FW	^:FW	
+帶:Vt	點:M	苦味:N	酸感:N	的:T	葡萄柚汁:N	
+很:ADV	懷念:Vt	XD:FW	":FW	
+烤雞:N	烤鴨區:N	
+這:DET	區:N	真的:ADV	太:ADV	好玩:Vi	了:T	
+就:ADV	像:Vt	在:P	燒臘:N	便當店:N	看到:Vt	的:T	一樣:Vi	
+而且:C	還:ADV	有:Vt	放:Vt	擔仔麵:N	、:PAUSECATEGORY	士林:N	香腸:N	等等:POST	
+就是:C	融合:Vt	了:ASP	台灣:N	小吃:N	特色:N	
+因為:C	君悅:N	飯店:N	的:T	客源:N	除了:P	台灣:N	還:ADV	有:Vt	很多:Neaq	觀光客:N	、:PAUSECATEGORY	商務客:N	
+順便:ADV	推銷:Vt	一下:N	台灣:N	小吃:N	真的:ADV	做對:Vt	了:ASP	XD:FW	":FW	
+這邊:N	還:ADV	有:Vt	一:DET	個:M	大:Vi	蒸籠:N	
+五顏六色:N	的:T	健康:Nv	原味:N	蔬菜:N	
+有:Vt	地瓜:N	南瓜:N	玉米:N	.......:ETCCATEGORY	.:PERIODCATEGORY	突然:ADV	忘記:Vt	中間:N	那:DET	個:M	叫做:Vt	什麼:DET	耶:T	=:FW	=:FW	":FW	
+還:ADV	有:Vt	蒸籠區:N	
+燒賣:N	
+蒸餃:N	跟:P	後面:N	的:T	XX:FW	穌:b	
+我:N	又:ADV	忘記:Vt	那:DET	是:Vt	什麼:DET	了:T	=:FW	=:FW	
+下面:N	這裡:N	也:ADV	很:ADV	特別:Vi	沿著:P	食物:N	擺放:Vt	就:ADV	走到:Vt	彷彿:Vt	超級市場:N	一樣:Vi	....:ETCCATEGORY	XDXD:FW	
+再:ADV	來:ADV	是:Vt	異國:N	美食區:N	
+這:DET	區:N	食物:N	都:ADV	蠻:ADV	特別:Vi	的:T	^:FW	^:FW	":FW	
+韓式牛:N	小:Vi	排:Vt	
+烤豬梅肉:N	
+廚師:N	會:ADV	一:DET	片:M	一:DET	片:M	現:ADV	切:Vt	給:Vt	你:N	唷:T	^:FW	^:FW	
+烤:Vt	豬肉:N	很:ADV	香:Vi	很:ADV	夠味:Vi	
+今天:N	的:T	高潮:N	來:Vi	了:ASP	
+燒烤:Vt	頂級:A	現切:N	美國:N	牛肉:N	
+只要:C	告訴:Vt	廚師:N	要:ADV	幾:DET	片:M	都:ADV	會:ADV	切:Vt	給:Vt	你:N	喔:T	
+裡頭:N	雖然:C	紅紅:Vi	的:T	看起來:ADV	有點:ADV	可怕:Vi	
+但:C	吃起來:ADV	完全:ADV	沒有:Vt	":FW	生:N	":FW	的:T	感覺:N	
+配上:Vt	廚師:N	特調:N	的:T	紅酒汁:N	......:ETCCATEGORY	
+天:N	呀:T	
+這:DET	真的:ADV	是:Vt	今天:N	的:T	冠軍:N	啦:T	
+牛肉:N	烤:Vt	的:T	香氣:N	都:ADV	鎖:Vt	在:P	肉:N	內:N	
+咬下去:Vt	不會:ADV	老:Vi	的:T	咬不動:Vt	
+非常:ADV	容易:Vi	就:ADV	撕開:Vt	
+搭配:Vt	紅酒汁:N	讓:Vt	肉:N	的:T	層次:N	提升:Vt	
+這:DET	也:ADV	是:Vt	讓:Vt	男友:N	又:ADV	去:ADV	多:ADV	拿:Vt	了:ASP	10:DET	片:M	的:T	原因:N	吧:T	XDXD:FW	":FW	
+真的:ADV	非常:ADV	美味:Vi	
+非常:ADV	推薦:Vt	一定:ADV	要:ADV	吃:Vt	阿:N	阿阿:Vi	
+鬼叫:Vt	什麼:DET	ＸＤ:FW	
+最後:N	是:Vt	甜點:N	水果:N	蛋糕區:N	
+也:ADV	就是:C	最:ADV	靠近:Vt	我們:N	座位:N	的:T	地方:N	
+甜品:N	搭配上:Vt	幽雅:Vi	的:T	裝飾:N	
+心情:N	也:ADV	都:ADV	繽紛:Vi	起來:ASP	囉:T	
+這裡:N	還:ADV	有:Vt	放:Vt	香瓜:N	
+很少:ADV	在:P	外面:N	吃到:Vt	@:FW	@:FW	
+這:DET	擺:Vt	的:T	真的:ADV	太:ADV	美:Vi	了:T	
+請:Vt	容:Vt	我:N	叫:Vt	你:N	一:DET	聲:M	大師:N	.......:ETCCATEGORY	.......:ETCCATEGORY	XD:FW	
+這:DET	款:M	和:P	旁邊:N	的:T	香草:N	杯子:N	蛋糕:N	我:N	都:ADV	覺得:Vt	超可愛:Vi	
+但:C	吃起來:ADV	就:P	普普:N	
+小:Vi	難過:Vt	
+竟然:ADV	還:ADV	有:Vt	少女:N	的:T	酥胸:N	-:DASHCATEGORY	馬卡龍:N	
+太:ADV	繽紛:Vi	可愛:Vi	啦:T	
+第一:DET	次:M	吃:Vt	馬卡龍:N	
+真的:ADV	是:Vt	太:ADV	興奮:Vi	啦:T	
+非常:ADV	甜:Vi	但:C	還是:ADV	忍不住:Vt	吃:Vt	了:ASP	好幾:DET	顆:M	
+也:ADV	是:Vt	看:Vt	在:P	他:N	一:DET	顆:M	要:ADV	賣:Vt	60.70:DET	元:M	多:Vi	吃:Vt	一點:DET	XD:FW	
+還:ADV	用:Vt	這麼:ADV	傳統:Vi	的:T	容器:N	裝:Vt	豆花:N	
+太:ADV	用心:Vi	啦:T	
+最後:N	是:Vt	莫:ADV	凡:C	彼:N	的:T	冰淇淋:N	
+殘念:N	
+我:N	比較:ADV	愛:Vt	哈根:N	達:Vt	斯:DET	的:T	抹:Vt	茶:N	XD:FW	
+不過:C	最後:N	我:N	真的:ADV	飽:Vi	到:P	完全:ADV	不:ADV	想:Vt	裝:Vt	=:FW	=:FW	":FW	
+整體:N	吃下來:Vi	
+君悅:N	的:T	凱菲屋:N	真的:ADV	深得:Vt	我:N	心:N	
+通通:ADV	都:ADV	是:Vt	下:DET	重:M	本:DET	的:T	食材:N	
+用餐:Nv	品質:N	很:ADV	穩定:Vt	
+不會:ADV	有:Vt	某:DET	個:M	食材:N	一:ADV	上桌:Vi	就:ADV	吃:Vt	不:ADV	到:Vt	的:T	情況:N	
+牛肉:N	更:ADV	是:Vt	今天:N	我們:N	讚不絕口:Vi	的:T	主食:N	XD:FW	":FW	
+尤其:ADV	又:ADV	是:Vt	買:Vt	餐券:N	價錢:N	降低:Vt	
+CP:FW	值:N	更:ADV	是:Vt	提高:Vt	了:ASP	不少:DET	

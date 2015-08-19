@@ -1,0 +1,56 @@
+avadakedavra:FW	(:PARENTHESISCATEGORY	陳小昭:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	濃濃:Vi	雞蛋:N	香:Vi	的:T	日式:A	鬆餅:N	JamlingCafe:FW	
+Sun:FW	
+Aug:FW	
+24:DET	
+11:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	07:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	JamlingCafe:FW	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014:DET	/:FW	07:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	安和路:N	一段:N	127巷:N	29弄:N	15:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2701:DET	-:DASHCATEGORY	203:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週五:N	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	
+週六:N	-:DASHCATEGORY	週日:N	10:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	20:DET	::COLONCATEGORY	00:DET	
+圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	chaochao.tw:FW	/:FW	?:QUESTIONCATEGORY	p:FW	=:FW	6598:DET	
+去年:N	在:P	日本:N	第一:DET	次:M	嚐到:Vt	來自:Vt	澳洲:N	的:T	Bills:FW	餐廳:N	
+裡面:N	的:T	hotcakes:FW	讓:Vt	人:N	念念不忘:Vt	
+沒想到:ADV	回:Vt	台灣:N	沒:Vt	多:ADV	久:Vi	
+馬上:ADV	就:ADV	新:Vi	開:Vt	了:ASP	類似:Vi	的:T	日式:A	厚:Vi	鬆餅店:N	了:T	
+好:ADV	開心:Vi	啊:T	
+由:P	三:DET	個:M	日本人:N	合開:Vt	的:T	JamlingCafe:FW	
+用:P	木質:N	裝潢:N	營造:Vt	簡單:Vi	溫馨:Vi	的:T	氣氛:N	
+提供:Vt	的:T	餐點:N	也:ADV	很:ADV	簡單:Vi	
+主要:ADV	是:Vt	4:DET	種:M	甜:Vi	口味:N	的:T	Dessertpancakes:FW	
+6:DET	種:M	鹹:Vi	口味:N	的:T	Mealpancakes:FW	和:C	一些:DET	飲品:N	
+店裡:N	的:T	生意:N	滿:ADV	好:Vi	的:T	
+簡直:ADV	是:Vt	座無虛席:Vi	害:Vt	我:N	也:ADV	不好意思:Vi	拿:Vt	著:ASP	相機:N	對:P	人:N	拍:Vt	
+今天:N	的:T	目標:N	當然:ADV	是:Vt	放:Vt	在:P	Dessertpancakes:FW	
+４:DET	種:M	口味:N	分別:ADV	是:Vt	蜂蜜:N	
+180:DET	元:M	
+、:PAUSECATEGORY	
+蘋果:N	肉桂:N	
+220:DET	元:M	
+、:PAUSECATEGORY	香蕉:N	芭娜娜:N	
+220:DET	元:M	
+、:PAUSECATEGORY	季節:N	限定:Vt	
+莓果:N	260:DET	元:M	
+鬆餅:N	都:ADV	是:Vt	現點現:N	做:Vt	
+要:ADV	等:Vt	15:DET	
+20:DET	分鐘:M	
+在:P	香蕉:N	芭娜娜:N	還:ADV	有:Vt	蘋果:N	肉桂:N	間:POST	猶豫:Vt	許久:N	
+最後:N	還是:ADV	選擇:Vt	了:ASP	比較:ADV	清爽:Vi	的:T	蘋果:N	肉桂:N	口味:N	
+結果:ADV	一:ADV	上桌:Vi	就:ADV	被:P	這:DET	份量:N	嚇:Vt	傻:Vi	了:T	
+每:DET	片:M	厚度:N	1.5:DET	公分:M	的:T	鬆餅:N	
+當成:Vt	飯:N	後:POST	甜點:N	來:ADV	吃:Vt	兩:DET	個:M	人:N	是:Vt	比較:ADV	剛好:Vi	的:T	
+熱:Vt	呼呼:ADV	的:T	鬆餅:N	一:ADV	上桌:Vi	就:ADV	聞到:Vt	濃郁:Vi	的:T	雞蛋:N	香:Vi	
+這裡:N	使用:Vt	的:T	雞蛋:N	是:Vt	通過:Vt	認證:Vi	的:T	低:Vi	膽固醇:N	和:C	高:Vi	卵:N	磷脂:N	
+而且:C	製作:Vt	鬆餅:N	的:T	過程:N	也:ADV	不:ADV	添加:Vt	奶油:N	
+只:ADV	加入:Vt	優良:Vi	的:T	乳品:N	還:ADV	有:Vt	日本:N	進口:Vt	的:T	小:Vi	麥粉:N	
+讓:Vt	人:N	吃:Vt	得:T	沒有:Vt	負擔:N	
+醃:Vt	漬:Vt	過:ASP	的:T	蘋果片:N	帶:Vt	著:ASP	淡淡:Vi	的:T	肉桂:N	香:Vi	
+肉桂:N	味道:N	不會:ADV	太:ADV	濃:Vi	我:N	還:ADV	滿:ADV	喜歡:Vt	的:T	
+再:ADV	搭配上:Vt	杏仁片:N	、:PAUSECATEGORY	葡萄乾:N	、:PAUSECATEGORY	卡士達醬:N	、:PAUSECATEGORY	香草:N	冰淇淋:N	和:C	生:Vt	焦糖:N	輕:Vi	海鹽醬:N	
+聞起來:ADV	香甜:Vi	吃:Vt	來:Vi	入口:N	即:ADV	化:Vi	．．．:ETCCATEGORY	好:ADV	好吃:Vi	唷:T	
+一:DET	邊:N	寫食:Vt	記:N	還:ADV	能:ADV	一:DET	邊:N	想起:Vt	那:DET	種:M	香甜:Vi	滑順:N	的:T	滋味:N	呢:T	
+這:DET	種:M	溫熱:Vt	的:T	甜點:N	不管:C	夏天:N	或:C	冬天:N	來:ADV	吃:Vt	都:ADV	很:ADV	適合:Vi	唷:T	
+推薦給:Vt	大家:N	啦:T	

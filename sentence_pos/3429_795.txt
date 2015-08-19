@@ -1,0 +1,47 @@
+yuenwei(Sia:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	士林:N	1:DET	Bite2Go:FW	
+Sat:FW	
+Aug:FW	
+16:DET	
+04:DET	::COLONCATEGORY	02:DET	::COLONCATEGORY	31:DET	
+2014:DET	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	
+Blog:FW	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/MJxQ:FW	
+耳聞:Vt	國賓:N	飯店:N	旗下:N	的:T	自營:Nv	美式:A	餐廳:N	1:DET	Bite2Go:FW	已:ADV	久:Vi	
+不:ADV	知:Vt	為何:ADV	現在:N	對:P	新:Vi	開店:Vi	總:ADV	抱:Vt	著:ASP	先:ADV	觀望:Vi	的:T	態度:N	
+再:ADV	加上:Vt	自己:N	是:Vt	討厭:Vt	排隊:Vi	的:T	懶人:N	
+直到:P	在:P	大安:N	、:PAUSECATEGORY	信義:N	也:ADV	開:Vt	了:ASP	分店:N	
+終於:ADV	找:Vt	了:ASP	個:M	機會:N	前往:Vt	
+超級:A	不:ADV	積極:Vi	的:T	吃:Vt	貨:N	
+抱:Vt	著:ASP	好吃:Vi	的:T	東西:N	絕不:ADV	會:ADV	倒:Vt	的:T	心態:N	
+笑:Vi	
+士林店:N	的:T	店面:N	就:ADV	坐:Vi	落在:Vt	中山北路:N	和:C	中正路:N	交會處:N	
+印象:N	沒:ADV	錯:Vi	的:T	話:N	
+以前:N	應該:ADV	是:Vt	間修:N	車廠:N	
+所以:C	整:DET	個:M	店面:N	很:ADV	挑高:Vi	
+空間:N	也:ADV	很:ADV	大:Vi	
+前往:Vt	時:POST	是:Vt	六月:N	底:POST	
+正好:ADV	世界盃:N	開踢:Vi	
+餐廳:N	中間:N	的:T	座位:N	設置:Vt	也:ADV	正好:ADV	適合:Vi	三五:DET	好友:N	一起:ADV	觀看:Vt	運動:N	賽事:N	
+大:Vi	口:N	咬:Vt	三明治:N	套餐:N	$:FW	880:DET	
+包含:Vt	了:ASP	凱薩沙拉:N	、:PAUSECATEGORY	三明治:N	和:C	兩:DET	杯:M	飲料:N	
+凱薩沙拉:N	中規中矩:Vi	
+新鮮:Vi	蘿:b	蔓生菜:N	、:PAUSECATEGORY	麵包:N	丁:N	、:PAUSECATEGORY	培根碎:N	和:C	起士粉:N	組合:Nv	
+三明治:N	的:T	選項:N	是:Vt	店:N	內:N	七:DET	款:M	選:Vt	一:DET	
+選擇:Vt	的:T	是:Vt	啪啪:ADV	牛肉:N	三明治:N	
+主要:ADV	是:Vt	因為:C	台北:N	薄:Vi	切:Vt	烤:Vt	牛:N	胸肉:N	的:T	三明治:N	並:ADV	不:ADV	多:ADV	見:Vt	
+香料:N	醃製:Vt	入味:N	
+入口:N	香味:N	滿溢:Vi	
+略:ADV	有:Vt	厚實:Vi	嚼:Vt	感:N	
+搭配:Vt	的:T	現:N	炸:Vt	洋芋片:N	
+乾脆:Vi	不:ADV	油:N	
+算是:Vt	台北:N	美式:A	餐廳:N	中:N	相當:Vi	特色:N	的:T	配菜:N	之:T	一:DET	
+沙朗:N	牛排:N	套餐:N	$:FW	600:DET	
+10:DET	oz:FW	牛排:N	＋:FW	飲料:N	＋:FW	冰淇淋:N	
+不愧:ADV	是:Vt	飯店:N	品牌:N	旗下:N	餐廳:N	
+牛肉:N	品質:N	不在話下:Vi	
+新鮮:Vi	且:C	熟度:N	剛好:ADV	
+搭配:Vt	的:T	配菜:N	就:ADV	稍:ADV	普通:Vi	
+但:C	以:P	套餐:N	來:ADV	說:Vt	比起:P	同:DET	類型:N	餐廳:N	售價:N	倒是:ADV	相當:ADV	平實:Vi	
+ADD:FW	::COLONCATEGORY	台北市:N	士林區:N	中正路:N	115:DET	號:M	
+TEL:FW	::COLONCATEGORY	0228825676:DET	

@@ -1,0 +1,188 @@
+rainieis:FW	(:PARENTHESISCATEGORY	芮妮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台:N	北京:N	鼎樓:N	日本人:N	指定:Vt	必:ADV	吃:Vt	小籠包:N	
+Sun:FW	
+Jul:FW	
+20:DET	
+23:DET	::COLONCATEGORY	18:DET	::COLONCATEGORY	00:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	京鼎:N	樓:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	104:DET	台北市:N	中山區:N	長春路:N	47:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2523:DET	-:DASHCATEGORY	6639:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	rainieis.tw/blog/post:FW	/:FW	30213489:DET	
+美食:N	這:DET	種:M	東西:N	相當:ADV	其:DET	妙:Vi	
+當地:N	食物:N	居然:ADV	還:ADV	要:ADV	外國人:N	推薦給:Vt	我們:N	才:ADV	知道:Vt	
+說到:Vt	
+小籠包:N	
+大家:N	地:T	一:DET	個:M	就:ADV	會:ADV	想到:Vt	
+鼎泰豐:N	
+或是:C	
+點水:Vi	樓:N	
+吧:T	
+不過:C	在:P	日本:N	介:Vt	居然:ADV	
+還:ADV	有:Vt	一:DET	間:M	很多:DET	人:N	可能:ADV	連:ADV	聽:Vt	都:ADV	沒:ADV	聽:Vt	過:ASP	的:T	
+京鼎:N	樓:N	
+這:DET	間:M	是:Vt	芮妮哥:N	的:T	日本:N	同事:N	每:DET	次:M	來:Vi	台灣:N	都:ADV	
+指定:Vt	要:ADV	吃:Vt	的:T	小籠包店:N	
+據說:ADV	老闆:N	三:DET	兄弟:N	都:ADV	曾經:ADV	在:P	鼎泰豐:N	服務:Vt	過:ASP	
+京鼎樓:N	不僅:C	菜單:N	跟:P	鼎泰豐:N	
+很:ADV	類似:Vi	之外:POST	
+連:C	料理:Vt	的:T	外觀:N	和:C	口感:N	都:ADV	很:ADV	相像:Vi	
+基本:N	上:POST	也:ADV	可以:ADV	說:Vt	京鼎樓:N	就:ADV	是:Vt	山寨版:N	的:T	鼎泰豐:N	
+啦:T	XD:FW	
+用:P	在:P	這裡:N	是:Vt	褒義:N	
+有:Vt	很多:DET	日本人:N	不:ADV	想:Vt	忍受:Vt	去:Vt	鼎泰豐:N	排隊:Vi	的:T	麻煩:N	
+都:ADV	會:ADV	直接:Vi	指定:Vt	要:ADV	吃:Vt	這:DET	間:M	京鼎:N	樓:N	
+才:ADV	這樣:Vi	口:N	耳:N	
+相傳:Vt	傳到:Vt	芮妮:N	耳:N	中:POST	
+不過:C	這:DET	京鼎樓:N	很:ADV	妙:Vi	的:T	地方:N	是:Vt	
+不僅:C	官網:N	全:DET	日文:N	
+更:ADV	在:P	日本:N	各:DET	地:N	開:Vt	了:ASP	
+許多:DET	分店:N	
+網站:N	乍看:Vt	之下:POST	還:ADV	真的:ADV	很:ADV	像:Vt	是:Vt	間:M	日本人:N	開:Vt	的:T	店:N	哩:T	
+可見:ADV	老闆:N	主力:N	全:DET	放:Vt	在:P	日本:N	人身:N	
+上:N	
+實在:ADV	太:ADV	妙:Vi	了:T	
+能:ADV	多:ADV	賺:Vt	日本人:N	的:T	錢:N	我:N	保持:Vt	樂觀:Vi	態度:N	XD:FW	但:C	對:P	台灣人:N	來:ADV	說:Vt	官網:N	資訊:N	太:ADV	欠缺:Vt	
+google:FW	到:P	一:DET	篇:M	新聞稿:N	還:ADV	比:P	網站:N	清楚:Vi	::COLONCATEGORY	0:DET	
+京鼎樓:N	不:ADV	像:P	鼎泰豐:N	是:Vt	大型:N	的:T	企業:N	集團:N	
+店面:N	非常:ADV	local:FW	
+絕對:ADV	沒有:Vt	高級:Vi	裝潢:N	
+1:DET	F:FW	位置:N	不:ADV	多:Vi	
+大部分:DET	的:T	顧客:N	都:ADV	會:ADV	被:P	帶到:Vt	地下室:N	的:T	用餐區:N	去:ADV	
+就座:Vi	以後:POST	芮妮:N	才:ADV	發現:Vt	前後:ADV	左右:Vt	全:DET	坐:Vi	著:ASP	日本:N	客人:N	
+簡直:ADV	嚇傻:Vi	
+根本:ADV	人:N	莫名:A	身:N	在:P	日本:N	
+全:DET	
+店:N	快:Vi	90:DET	%:M	都:ADV	日本人:N	
+誇張:Vt	
+小籠包店:N	來:ADV	說:Vt	
+芮妮:N	最:ADV	常:ADV	吃:Vt	鼎泰豐:N	
+因為:C	位置:N	方便:Vi	又:ADV	不:ADV	貴:Vi	
+最:ADV	棒:Vi	的:T	是:Vt	料理:N	可以:ADV	點:Vt	":FW	半:DET	籠:N	":FW	
+很:ADV	適合:Vi	兩:DET	人:N	用餐:Vi	
+所以:C	我:N	幾乎:ADV	每:DET	個:M	月:N	都:ADV	會:ADV	報到:Vi	
+因為:C	比較:ADV	常:ADV	吃:Vt	鼎泰豐:N	所以:C	以下:N	只好:ADV	拿:Vt	鼎泰:N	
+豐:Vi	當:P	比例尺:N	做:Vt	比較:Vt	歐:N	
+左:N	菜肉:N	蒸餃:N	10:DET	個:M	NT:FW	190:DET	
+右:N	小籠包:N	10:DET	個:M	NT:FW	180:DET	
+中:N	烏龍茶:N	小籠包:N	10:DET	個:M	NT:FW	200:DET	
+京鼎樓:N	各:DET	式:M	小籠包:N	、:PAUSECATEGORY	蒸餃:N	的:T	餅:N	皮:N	吃起來:ADV	都:ADV	滿:ADV	像:Vt	鼎泰豐:N	的:T	
+都:ADV	很:ADV	薄:Vi	又:ADV	均勻:Vi	
+內:N	餡:N	也:ADV	很:ADV	雷同:Vi	
+尤其:ADV	是:Vt	菜肉:N	蒸餃:N	
+口味:N	像:Vt	到:P	我:N	分:ADV	不:ADV	太:ADV	出來:Vi	
+小籠包:N	就:ADV	比較:ADV	好:Vi	分:Vt	
+雖然:C	湯汁:N	都:ADV	很多:DET	
+皮:N	真的:ADV	都:ADV	很:ADV	薄:Vi	
+聽說:Vt	京鼎樓:N	每:DET	顆:M	小籠包:N	都:ADV	控制:Vt	外皮:N	
+只:ADV	能:ADV	佔:Vt	5:DET	公克:M	左右:POST	重:Vi	
+但:C	肉:N	的:T	味道:N	有:Vt	些微:A	不同:Vi	
+芮妮:N	覺得:Vt	鼎泰豐:N	的:T	肉:N	吃起來:ADV	更勝一籌:Vi	
+不:ADV	
+過:Vt	兩:DET	者:N	的:T	小籠包:N	都:ADV	可以:ADV	稱:Vt	上:N	是:Vt	有:Vt	水準:N	的:T	小籠包:N	
+烏龍茶:N	口味:N	也:ADV	是:Vt	招牌:N	之:T	一:DET	
+鼎泰豐:N	吃:Vt	不:ADV	到:Vt	的:T	
+皮:N	本身:N	的:T	茶味:N	不:ADV	多:Vi	
+聞:Vt	不:ADV	出:Vt	味道:N	
+倒是:ADV	餡料:N	
+入口:N	之後:POST	才:ADV	爆出:Vt	茶味:N	
+綠茶:N	又:ADV	能:ADV	解:Vt	膩:Vi	
+原來:A	茶:N	和:C	小籠包:N	的:T	組合:Nv	也:ADV	滿:Vt	配:Vt	的:T	
+小:Vi	籠:N	湯包:N	20:DET	個:M	NT:FW	280:DET	
+京鼎樓:N	另:DET	一:DET	個:M	比較:ADV	特殊:Vi	的:T	招牌:N	就:ADV	是:Vt	小:Vi	籠:N	湯包:N	
+小:Vi	籠:N	湯包:N	一共:ADV	有:Vt	20:DET	顆:M	
+每:DET	顆:M	都:ADV	比:P	正常:Vi	小籠包:N	
+的:T	SIZE:FW	還:ADV	小:Vi	
+皮:N	薄:Vi	肉:N	多:Vi	
+除了:P	湯包:N	裡:POST	本身:N	的:T	湯汁:N	之外:POST	
+還:ADV	附:Vt	了:ASP	一:DET	碗:M	湯:N	
+店家:N	介紹:Vt	是:Vt	要:ADV	配:Vt	
+著:Vt	喝:Vt	
+一口:ADV	湯:N	、:PAUSECATEGORY	一口:ADV	小籠包:N	
+滿:ADV	特別:Vi	的:T	吃法:N	
+我:N	個:M	人:N	嫌:Vt	麻煩:Vt	
+還是:ADV	比較:ADV	愛:Vt	大:Vi	顆:M	的:T	小籠包:N	
+菜肉:N	餛飩麵:N	NT:FW	130:DET	
+因為:C	家:N	中:N	有:Vt	人:N	不能:ADV	吃:Vt	蝦:N	
+所以:C	有時候:ADV	家族:N	聚餐:Vi	都:ADV	會:ADV	避開:Vt	蝦:N	料理:N	
+最:ADV	愛:Vt	的:T	蝦:N	餛飩:N	也:ADV	只:ADV	能:ADV	捨棄:Vt	
+嗚:T	..:ETCCATEGORY	
+京鼎樓:N	的:T	餛飩麵:N	也:ADV	滿:ADV	不:ADV	賴:Vt	
+沒:Vt	啥:DET	好:Vi	挑剔:Vt	的:T	
+只是:ADV	放久:Vt	了:ASP	麵:N	會:ADV	很:ADV	乾:Vi	
+建議:Vt	一:ADV	上桌:Vi	就:ADV	趕快:ADV	吃:Vt	
+蝦仁:N	蛋炒飯:N	NT:FW	180:DET	
+肉絲:N	蛋炒飯:N	NT:FW	110:DET	
+蛋炒飯:N	吃起來:ADV	跟:P	鼎泰豐:N	有夠:ADV	像:Vt	
+有:Vt	人:N	也:ADV	覺得:Vt	鼎泰豐:N	最:ADV	好吃:Vi	的:T	東西:N	根本:ADV	不:ADV	是:Vt	小籠包:N	嘛:T	XD:FW	
+超:Vt	
+香:Vi	
+個:M	人:N	覺得:Vt	蛋炒飯:N	是:Vt	很:ADV	不:ADV	簡單:Vi	的:T	料理:N	
+雖然:C	簡單:Vi	但:C	功力:N	吃:Vt	一口:ADV	就:ADV	見真章:Vi	
+京鼎樓:N	的:T	炒飯:N	
+蔥:N	、:PAUSECATEGORY	蛋:N	跟:P	鹽巴:N	的:T	比例:N	調和:Vt	的:T	很:ADV	好:Vi	
+米飯:N	不會:ADV	過:ADV	硬:Vi	
+很:ADV	好吃:Vi	
+元盅:N	土雞麵:N	NT:FW	190:DET	
+元盅:N	牛肉麵:N	NT:FW	180:DET	
+芮妮:N	本身:N	沒有:ADV	很:ADV	愛:Vt	吃:Vt	麵:N	說不上:Vt	喜歡:Vt	
+兩:DET	者:N	都:ADV	有點:ADV	類似:Vt	乾:Vi	拌:Vt	麵:N	的:T	吃法:N	
+先:ADV	夾乾:Vt	麵:N	再:ADV	倒入:Vt	元盅:N	
+裡:N	的:T	湯:N	
+湯:N	本身:N	味道:N	偏:ADV	清淡:Vi	
+肉:N	的:T	話:N	有:Vt	些:M	軟嫩:Vi	有:Vt	些:M	偏:ADV	乾:Vi	
+這:DET	兩:DET	道:M	牛肉:N	漢:N	雞肉:N	都:ADV	普普:N	沒有:ADV	太:ADV	
+推薦:Vt	
+炒:Vt	高麗菜:N	NT:FW	140:DET	
+炒:Vt	空心菜:N	NT:FW	140:DET	
+炒:Vt	青菜:N	就:ADV	中規中矩:Vi	
+不會:ADV	太:ADV	油:Vi	
+可以:ADV	接受:Vt	
+芋泥:N	小:Vi	包:Vt	10:DET	個:M	NT:FW	190:DET	
+京鼎樓:N	的:T	芋泥:N	小:Vi	包:Vt	口感:N	和:C	鼎泰豐:N	如出一轍:Vi	
+無論:C	是:Vt	餅:N	皮:N	還是:C	內:N	餡:N	都:ADV	很:ADV	類似:Vt	
+而且:C	比:P	鼎泰豐:N	
+的:T	更:ADV	大:Vi	顆:M	
+SIZE:FW	幾乎:ADV	跟:P	小籠包:N	一樣:Vi	大:Vi	了:T	
+更:ADV	棒:Vi	的:T	是:Vt	內:N	餡:N	裡面:N	可以:ADV	吃到:Vt	芋頭:N	的:T	顆粒:N	
+硬:ADV	要:ADV	
+比:P	的:T	話:N	是:Vt	稍:ADV	甜:Vi	了:ASP	點:M	
+也:ADV	沒:Vt	什麼:DET	不:ADV	好:Vi	的:T	
+我:N	最:ADV	喜歡:Vt	咬:Vt	破皮:Vi	芋泥:N	爆出:Vt	來:Vi	的:T	那:DET	一:DET	刻:M	
+吃到:Vt	芋泥:N	小:Vi	包:Vt	我:N	真的:ADV	懂:Vt	為什麼:ADV	京鼎樓:N	可以:ADV	在:P	日本人:N	
+心:N	中:POST	取代:Vt	鼎泰豐:N	
+因為:C	真的:ADV	有:Vt	像:Vt	到:P	那:DET	個:M	水準:N	
+終於:ADV	找到:Vt	除了:P	鼎泰豐:N	以外:POST	也:ADV	有:Vt	賣:Vt	好吃:Vi	芋泥:N	小:Vi	
+包:Vt	的:T	店家:N	了:T	
+看:Vt	菜單:N	發現:Vt	他們:N	還:ADV	有:Vt	超大:A	顆:M	的:T	芋泥:N	包:Vt	
+想:Vt	吃:Vt	
+其實:ADV	我:N	自己:N	在:P	鼎泰豐:N	最:ADV	最:ADV	最:ADV	愛:Vt	吃:Vt	的:T	是:Vt	芋泥:N	小:Vi	包:Vt	
+每:DET	次:M	都:ADV	必:ADV	點:Vt	
+是:Vt	說:Vt	
+有:Vt	人:N	有:Vt	發現:Vt	鼎泰豐:N	的:T	
+原本:ADV	超:Vt	迷你:Vi	的:T	芋泥:N	小:Vi	包:Vt	跟:P	豆沙:N	小:Vi	包:Vt	近期:N	也:ADV	都:ADV	默默:ADV	長大:Vi	了:T	嘛:T	
+豆沙:N	小:Vi	包:Vt	10:DET	個:M	NT:FW	130:DET	
+豆沙:N	小:Vi	包:Vt	的:T	口味:N	更:ADV	像:Vt	
+也:ADV	沒有:ADV	比:P	鼎泰豐:N	甜:Vi	
+皮:N	都:ADV	很:ADV	薄:Vi	、:PAUSECATEGORY	料:N	都:ADV	滿滿:Vi	的:T	
+這:DET	種:M	甜包:N	當:Vt	飯:N	後:POST	甜點:N	
+最:ADV	合適:Vi	了:T	
+吃:Vt	山寨版:N	還:ADV	有:Vt	個:M	好處:N	就:ADV	是:Vt	又:ADV	大:Vi	又:ADV	便宜:Vi	
+可以:ADV	吃:Vt	得:T	很:ADV	放肆:Vi	
+解饞:Vi	又:ADV	不用:ADV	管:Vt	價格:N	
+很:ADV	棒:Vi	
+總結:Vt	京鼎:N	樓:N	
+不愧:ADV	是:Vt	鼎泰豐:N	出來:Vi	的:T	師傅:N	
+東西:N	不錯:Vi	也:ADV	有:Vt	自己:N	的:T	創意:N	
+雖然:C	可能:ADV	會:ADV	有:Vt	人:N	酸:Vi	說:Vt	
+是:Vt	仿冒:Vt	
+但:C	能夠:ADV	在:P	日本:N	人心:N	中:POST	佔有:Vt	一席之地:N	也:ADV	不可能:ADV	完全:ADV	靠:Vt	著:ASP	鼎泰豐:N	的:T	名號:N	
+該:DET	有的:DET	水準:N	
+絕對:ADV	是:Vt	有的:DET	
+服務:Nv	也:ADV	不錯:Vi	
+如果:C	懶得:Vt	排隊:Vi	等:P	鼎泰豐:N	
+也:ADV	滿:Vt	推薦:Vt	來:Vi	這邊:N	吃:Vt	看看:ASP	
+順便:ADV	體驗:Vt	一:DET	
+下:DET	日本:N	觀光客:N	的:T	愛店:N	也:ADV	不錯:Vi	
+還:ADV	會:ADV	再:ADV	來:ADV	

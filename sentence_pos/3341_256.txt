@@ -1,0 +1,249 @@
+Mavelous(Mavelous:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	・:FW	玄麻:N	蕎麥處:N	・:FW	舌尖:N	上:N	的:T	清爽:Vi	Soba:FW	
+Tue:FW	
+Jul:FW	
+22:DET	
+17:DET	::COLONCATEGORY	42:DET	::COLONCATEGORY	23:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	玄麻:N	蕎麥處:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	4:DET	段:M	216巷:N	27弄:N	8:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27753555:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	～:FW	15:DET	::COLONCATEGORY	30:DET	和:C	17:DET	::COLONCATEGORY	30:DET	～:FW	21:DET	::COLONCATEGORY	30:DET	，:COMMACATEGORY	平日:N	中午:N	到:P	14:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	250:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	
+【:PARENTHESISCATEGORY	食記:N	】:PARENTHESISCATEGORY	台北:N	・:FW	東區:N	・:FW	玄麻:N	蕎麥處:N	・:FW	舌尖:N	上:N	的:T	清爽:Vi	そ:FW	ば:FW	Soba:FW	
+好讀:Vt	網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hypeink.com/celavia/love-to-eat/soba-in-the-east:FW	
+話:N	說:Vt	這:DET	陣子:N	天氣:N	實在:ADV	太過:ADV	悶熱:Vi	
+胃口:N	實在:ADV	是:Vt	很:ADV	不:ADV	好:Vi	
+偏偏:ADV	一:DET	整:DET	天:M	不:ADV	吃:Vt	又:ADV	不行:Vi	
+身為:Vt	女人:N	實在:ADV	很:ADV	可憐:Vt	
+炎炎夏日:N	廉恥:N	心:N	時:POST	不時:ADV	總是:ADV	作祟:Vi	
+想要:Vt	吃:Vt	點:M	清爽:Vi	的:T	食物:N	
+冰品:N	、:PAUSECATEGORY	甜點:N	這:DET	種:M	高:Vi	熱量:N	食物:N	又:ADV	不:ADV	敢:Vt	放肆:Vi	吃:Vt	
+每:DET	天:M	除了:P	Subway:FW	以外:POST	
+都:ADV	在:P	想:Vt	究竟:ADV	要:ADV	吃:Vt	什麼:DET	才:ADV	能:ADV	顧:Vt	身材:N	又:ADV	吃:Vt	得:T	不:ADV	油膩:Vi	且:C	清爽:Vi	呢:T	
+直到:P	某天:N	下午:N	好:Vi	姐妹:N	傳:Vt	了:ASP	個:M	簡訊:N	來:ADV	
+Girls:FW	
+明天:N	七:DET	點:M	吃:Vt	Soba:FW	♥:FW	
+是:Vt	XXX:FW	的:T	弟弟:N	開:Vt	的:T	店:N	噢:T	
+對:P	齁:b	
+對:P	齁:b	
+對:P	齁:b	
+蕎麦:N	／:FW	そ:FW	ば:FW	soba:FW	身為:Vt	極度:ADV	熱愛:Vt	麵食:N	文化:N	的:T	我:N	
+怎麼:ADV	會:ADV	忘:Vt	了:ASP	這:DET	個:M	屬於:Vt	日本:N	的:T	三:DET	大:Vi	國民:N	麵食:N	之:T	一:DET	的:T	Soba:FW	蕎麥麵:N	咧:T	
+註:N	：:COLONCATEGORY	日本:N	的:T	三:DET	大:Vi	國民:N	麵食:N	分別:ADV	是:Vt	拉麵:N	、:PAUSECATEGORY	烏龍麵:N	以及:C	蕎麥麵:N	
+認真:Vi	想想:Vt	近年:N	台灣人:N	似乎:ADV	特別:Vi	鍾愛:Vt	日本:N	的:T	麵食:N	文化:N	
+那些:DET	在:P	東京:N	每幾步路:N	就:ADV	會:ADV	有:Vt	的:T	許多:DET	知名:Vi	麵店:N	EX:FW	.:PERIODCATEGORY	丸龜:N	製麵:N	、:PAUSECATEGORY	三田製麵所:N	、:PAUSECATEGORY	一:DET	風堂:N	
+全:DET	都:ADV	跑來:Vi	台灣:N	開:Vt	分店:N	
+然後:ADV	排隊:Vi	排:Vt	很:ADV	長:Vi	啊:T	捏:Vt	
+其中:DET	雖然:C	
+蕎麥麵:N	
+的:T	人氣:N	雖然:C	還不如:Vt	那些:DET	拉:Vt	麵店:N	來:Vi	的:T	夯:b	
+但:C	也:ADV	慢慢:Vi	在:P	東區:N	街頭:N	現身:Vi	
+不過:C	這邊:N	狗妹:N	真的:ADV	要:ADV	說:Vt	啊:T	
+當今:N	賣:Vt	得:T	通街:N	的:T	拉麵:N	
+其實:ADV	並非:ADV	真正:A	的:T	日本麵:N	
+他們:N	的:T	原名:N	其實:ADV	就:ADV	是:Vt	中華麵:N	
+只:ADV	不過:C	在:P	日本:N	賣出:Vt	了:ASP	名堂:N	
+賣:Vt	回來:Vi	變:Vi	稱為:Vt	拉麵:N	囉:T	
+而:C	真正:A	的:T	日本麵:N	
+其實:ADV	是:Vt	三:DET	大:Vi	國:N	麵:N	裡:N	營養:N	最:ADV	豐富:Vt	
+而且:C	熱量:N	超:Vt	低:Vi	的:T	
+SOBA:FW	蕎麥麵:N	
+God:FW	
+還好:ADV	多虧:ADV	姐妹:N	兒:N	提醒:Vt	
+不然:C	差點:ADV	就:ADV	忘:Vt	了:ASP	還:ADV	有:Vt	Soba:FW	這:DET	個:M	選擇:N	
+簡直:ADV	是:Vt	太:ADV	適合:Vi	夏天:N	吃:Vt	
+也:ADV	超級:A	適合:Vi	減肥:Vi	用:Vt	啊:T	
+其實:ADV	這:DET	才:ADV	是:Vt	重點:N	噗:ADV	嗤:ADV	
+雖說:C	狗:N	妹:N	因為:C	實在:ADV	太:ADV	忙:Vi	
+荒廢:Vt	Hypeink:FW	有:Vt	一陣子:N	了:T	
+順便:ADV	和:P	這些:DET	日子:N	被:P	狗:N	妹:N	拒絕:Vt	過:ASP	的:T	公關:N	公司:N	說:Vt	聲:N	抱歉:Vt	
+但:C	這麼:ADV	忙碌:Vi	的:T	生活:N	裡:POST	竟然:ADV	出現:Vi	了:ASP	讓:Vt	自己:N	生活:N	有:Vt	這麼:ADV	點:Vt	新鮮:Vi	不:ADV	一樣:Vi	的:T	東西:N	這:DET	讓:Vt	平常:N	不:ADV	隨便:Vi	幫:P	身邊人:N	的:T	自家:N	產品:N	做:Vt	推薦:Nv	和:C	保證:N	的:T	狗妹:N	
+心血來潮:Vi	決定:Vt	來:ADV	介紹:Vt	一下:N	
+蕎麥麵:N	
+的:T	好:Vi	而:C	大大:Vi	推薦:Vt	的:T	食用:Vt	地點:N	就:ADV	是:Vt	位於:Vt	臺北:N	忠孝東路:N	216巷:N	
+東區:N	粉圓:N	對面:N	7:DET	-:DASHCATEGORY	11巷:N	內:N	穗科:N	對面:N	、:PAUSECATEGORY	天吉屋隔璧:N	的:T	『:PARENTHESISCATEGORY	玄麻:N	蕎麥處:N	』:PARENTHESISCATEGORY	
+緣起:N	話:N	說:Vt	關於:P	『:PARENTHESISCATEGORY	玄麻:N	蕎麥處:N	』:PARENTHESISCATEGORY	的:T	緣起:N	
+狗妹:N	知道:Vt	的:T	也:ADV	是:Vt	挺:ADV	片面:A	的:T	模糊:Vi	
+或是:C	大眾:N	
+版本:N	
+畢竟:ADV	我們:N	這:DET	群:M	姐妹:N	朋友:N	們:N	
+實在:ADV	很少:ADV	會:ADV	特地:ADV	去:ADV	多:ADV	問:Vt	各自:N	家:N	裡:N	的:T	生意:N	事業:N	版圖:N	呀:T	
+所以:C	縱使:C	老闆:N	是:Vt	XXX:FW	的:T	弟弟:N	
+也:ADV	只是:ADV	依稀:ADV	曉得:Vt	起家:Vi	在:P	雲林:N	
+主要:ADV	是:Vt	外銷:Vt	日本:N	生:Vt	鮮食:N	材:N	
+長期:N	與:C	日本:N	有:Vt	技術:N	交流:Vi	的:T	
+榮祺:N	食品:N	
+而:C	兩:DET	個:M	弟弟:N	都:ADV	在:P	日本:N	留學:Vi	
+也許:ADV	決定:Vt	走:Vi	窮:Vi	留學生:N	路線:N	
+誤:ADV	
+所以:C	吃:Vt	蕎麥:N	麵:N	吃:Vt	出:Vt	興趣:N	
+噗哧:ADV	
+畢竟:ADV	在:P	日本:N	可是:C	因為:C	窮:Vi	才:ADV	發明:Vt	蕎麥:N	的:T	吃法:N	
+荒山:N	僻野:N	
+長:Vi	不:ADV	出:Vt	白米:N	
+才:ADV	去:ADV	種:Vt	蕎麥:N	
+然後:ADV	就:ADV	和:P	東京:N	池袋:N	蕎麥:N	麵名:N	店:N	
+壬生:N	
+的:T	老闆:N	壬生裕文:N	的:T	關係:N	從:P	老:Vi	顧客:N	變:Vi	老朋友:N	
+返國:Vi	後:POST	
+弟弟:N	有:Vt	了:ASP	創業:Nv	念頭:N	
+壬生裕文:N	也:ADV	有:Vt	海外:N	發展:Nv	意願:N	
+然後:ADV	噔噔:b	噔:b	
+『:PARENTHESISCATEGORY	玄麻:N	蕎麥處:N	』:PARENTHESISCATEGORY	即:ADV	成為:Vt	取師:N	日本:N	
+從:P	日本:N	引進:Vt	技術:N	
+打:Vt	造出:Vt	榮祺:N	食品:N	的:T	全新:Vi	餐飲:N	品牌:N	
+玄麻:N	的:T	蕎麥麵:N	Q:FW	彈:Vt	的:T	祕訣:N	
+主要:ADV	用:P	煮:Vt	義大利麵:N	條:M	的:T	方式:N	來:ADV	調理:Vt	
+把:P	蕎麥粉:N	和:C	麵粉:N	的:T	比例:N	作:Vt	改良:Nv	
+所以:C	吃起來:ADV	口感:N	才:ADV	會:ADV	特別:Vi	不:ADV	一樣:Vi	餐點:N	【:PARENTHESISCATEGORY	玄麻:N	蕎麥處:N	】:PARENTHESISCATEGORY	的:T	餐點:N	很:ADV	簡單:Vi	
+店:N	內:N	主要:ADV	分沾:Vt	麵:N	與:C	湯麵:N	兩:DET	種:M	
+變化:N	頗多:Vi	
+另外:C	還:ADV	有:Vt	小菜:N	及:C	甜點:N	
+至於:P	價格:N	
+單:ADV	點:Vt	一:DET	人:N	份:N	的:T	麵:N	約莫:ADV	都:ADV	在:P	200:DET	-:DASHCATEGORY	300:DET	元:M	上下:POST	之間:POST	
+就:ADV	跟:P	216:DET	這:DET	附近:N	的:T	價錢:N	差不多:Vi	
+這裡:N	的:T	餐具:N	都:ADV	是:Vt	頗:ADV	具有:Vt	質感:N	的:T	日式:A	和風:N	杯盤:N	由於:C	這裡:N	也:ADV	來過:Vt	三四:DET	次:M	了:T	
+有的:DET	時候:N	茶水:N	是:Vt	牛蒡茶:N	
+有的:DET	時候:N	是:Vt	黑豆:N	玄米:N	煎茶:N	味道:N	特:ADV	甘美:Vi	
+喝:Vt	起來:ASP	有:Vt	種:M	說:Vt	不:ADV	出:Vt	來:Vi	的:T	養身:Nv	Fu:FW	
+個:M	人:N	非常:ADV	愛:Vt	這:DET	茶兒:N	
+招待:Vt	的:T	小菜:N	做:Vt	的:T	很:ADV	簡單:Vi	精緻:Vi	
+吃:Vt	過:ASP	幾:DET	次:M	都:ADV	不同:Vi	
+特別:Vi	愛:Vt	醃:Vt	小:Vi	番茄:N	
+左:N	圖:N	
+冰冰涼涼:Vi	的:T	且:ADV	又:ADV	酸酸甜甜:Vi	
+吃起來:ADV	清爽:Vi	極了:ADV	
+雖然:C	來過:Vt	幾:DET	次:M	了:T	
+不過:C	每:DET	次:M	我:N	都:ADV	是:Vt	點:M	一樣:Vi	的:T	
+大推醬燒:Vt	牛:N	五:DET	花:N	沾:Vt	麵:N	如果:C	沒:ADV	餓:Vi	到:P	一:DET	上菜:Vi	就:ADV	狼吞虎嚥:Vi	
+我:N	建議:Vt	先:ADV	單:ADV	吃:Vt	一口:ADV	這:DET	個:M	原味:N	的:T	蕎麥麵:N	
+感受:Vt	那:DET	特有:A	的:T	蕎麥:N	香氣:N	和:C	口感:N	真的:ADV	沒:ADV	跟:P	你:N	在:P	唬爛:Vt	
+真的:ADV	可以:ADV	很:ADV	明顯:Vi	感受到:Vt	和:C	普通:Vi	的:T	蕎麥麵:N	不同:Vi	
+特別:Vi	彈:Vt	Q:FW	
+超:Vt	像:Vt	是:Vt	蒟蒻麵:N	的:T	Fu:FW	牛肉片:N	帶:Vt	點:M	油花:N	
+但:C	吃起來:ADV	比較:ADV	乾瘦:Vi	
+正合我意:Vi	
+微微:ADV	甜甜:Vi	的:T	味兒:N	應該:ADV	就是:C	所謂:Vt	的:T	醬燒:N	囉:T	
+麵:N	上:N	佈:Vt	了:ASP	青蔥:Vi	跟:P	海苔:N	絲:N	
+光:ADV	是:Vt	外表:N	看起來:ADV	就:ADV	很:ADV	吸引人:Vi	了:T	
+★:FW	★:FW	特別:Vi	不同:Vi	的:T	地方:N	還:ADV	有:Vt	在:P	這:DET	沾醬:N	
+多:Vi	了:ASP	那:DET	一:DET	層:M	濃濃:Vi	香氣:N	的:T	浮油:N	普通:Vi	我們:N	7:DET	-:DASHCATEGORY	11:DET	可以:ADV	買到:Vt	的:T	那:DET	種:M	蕎麥麵:N	呀:T	
+沾醬:N	都:ADV	是:Vt	昆布:N	柴魚:N	醬油:N	
+但:C	玄麻:N	蕎麥處:N	的:T	沾醬:N	多:Vi	了:ASP	辣油:N	
+其實:ADV	感覺:Vt	更:ADV	像:Vt	是:Vt	香油:N	
+只:ADV	是:Vt	花椒:N	香氣:N	明顯:Vi	沾:Vt	了:ASP	醬:N	後:POST	吃:Vt	進:Vt	嘴:N	裡:N	特別:Vi	潤滑:Vt	且:C	麻:N	而:C	不:ADV	辣:Vi	
+整體:N	口感:N	很:ADV	明顯:Vi	就:ADV	和:P	外頭:N	普通:Vi	的:T	的:T	日式:A	涼麵:N	很:ADV	不:ADV	一樣:Vi	
+不:ADV	知道:Vt	是:Vt	自己:N	胃口:N	變大:Vt	還是:ADV	怎樣:ADV	
+超級:A	開胃:Nv	又:ADV	順口:Vi	
+沒:ADV	兩三下:ADV	就:ADV	吃完:Vt	一:DET	碗:M	
+如果:C	覺得:Vt	醬汁:N	不:ADV	夠味:Vi	
+桌:N	上:POST	都:ADV	還:ADV	有:Vt	辣油:N	與:C	七:DET	味:M	粉:N	可以:ADV	酌量:ADV	調加:Vt	
+其實:ADV	在:P	日本:N	
+除了:P	正式:Vi	麵:N	館:N	以外:POST	
+可以:ADV	在:P	許多:DET	種:M	不同:Vi	的:T	場合:N	吃到:Vt	蕎麥:N	麵條:N	
+而:C	最:ADV	常見:Vi	的:T	食用:Vt	方法:N	：:COLONCATEGORY	如:P	熱:Vt	吃:Vt	的:T	湯麵:N	可:ADV	用:P	柴魚片:N	、:PAUSECATEGORY	海帶:N	、:PAUSECATEGORY	醬油:N	、:PAUSECATEGORY	清酒:N	等:POST	澆:Vt	制:N	的:T	湯:N	和:C	蔥花:N	、:PAUSECATEGORY	七:DET	味:M	粉:N	等:POST	
+涼式麵:N	或:C	拌:Vt	麵:N	會:ADV	用:P	比熱:N	吃:Vt	時:POST	較:ADV	濃:Vi	的:T	醬汁:N	
+加上:C	蔥花:N	、:PAUSECATEGORY	山葵:N	糊:Vt	、:PAUSECATEGORY	生:Vt	鵪鶉蛋:N	、:PAUSECATEGORY	紫菜:N	絲:N	等:POST	
+也:ADV	可以:ADV	配上:Vt	許多:DET	不同:Vi	的:T	菜:N	
+如:P	天婦羅:N	、:PAUSECATEGORY	紅燒:Nv	油炸:Nv	豆腐:N	、:PAUSECATEGORY	生:Vt	雞蛋:N	、:PAUSECATEGORY	蘿蔔:N	泥:N	等等:POST	
+這:DET	也:ADV	因此:C	在:P	【:PARENTHESISCATEGORY	玄麻:N	蕎麥處:N	】:PARENTHESISCATEGORY	是:Vt	可以:ADV	吃到:Vt	很多:DET	不同:Vi	變化:N	的:T	蕎麥:N	麵:N	瞧瞧:Vt	這:DET	個:M	海:N	老天:N	婦羅:N	沾:Vt	麵:N	加:Vt	半:DET	顆:M	溏心:N	蛋:N	
+看起來:ADV	超級:A	可口:Vi	的:T	
+至於:P	湯麵:N	
+雖然:C	有別於:Vt	傳統:Vi	蕎麥麵:N	只:ADV	能:ADV	吃:Vt	涼麵:N	的:T	刻板:Vi	印象:N	
+但:C	在:P	狗:N	妹:N	的:T	印象:N	裡:N	蕎麥麵:N	就:ADV	是:Vt	要:ADV	吃:Vt	乾:Vi	的:T	
+所以:C	始終:ADV	沒:ADV	打算:Vt	要:ADV	嘗試:Vt	......:ETCCATEGORY	科:M	還:ADV	有:Vt	這:DET	個:M	蛤蜊:N	海帶湯:N	至:C	從:P	狗:N	妹:N	率先:ADV	點:Vt	了:ASP	這:DET	湯:N	後:POST	
+姐妹:N	們:N	嘗:Vt	過:ASP	之後:POST	每:DET	個:M	人:N	之後:POST	都:ADV	跟:P	著:ASP	點:M	可見:ADV	它:N	有:Vt	多:ADV	鮮:Vi	甜:Vi	
+實在:ADV	太:ADV	好喝:Vi	了:T	啦:T	
+我:N	實在:ADV	想不到:ADV	理由:N	不:ADV	推薦:Vt	呀:T	不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	因為:C	看到:Vt	隔壁桌:N	客人:N	點:Vt	了:ASP	胡:N	麻醬:N	沾:Vt	麵:N	
+一:ADV	想到:Vt	好多:DET	芝麻:N	搭配:Vt	著:ASP	醬汁:N	與:C	蕎麥:N	麵:N	一起:ADV	入口:Vi	的:T	香味:N	
+我:N	決定:Vt	下:DET	次:M	就是:C	他:N	了:T	
+環境:N	店裡:N	風格:N	簡約:Vi	日式:A	風:N	
+光線:N	明亮:Vi	
+旁邊:N	桌:N	的:T	女孩:N	狂:Vi	拍照:Vi	
+咱們:N	姐妹:N	也:ADV	輸:Vt	人:N	不:ADV	輸:Vt	陣:M	
+拿起:Vt	自拍:Vi	神機:N	來:ADV	咔滋:Vi	咔滋:Vi	一下:N	
+嘖:T	嘖嘖:ADV	
+燈光:N	美:Nv	氣氛:N	佳:Vi	
+你:N	瞧:Vt	我:N	腳:N	在:P	後頭:N	都:ADV	交叉:Vi	了:ASP	起來:ASP	科科:DET	店:N	門口:N	還:ADV	有:Vt	擺放:Vt	著:ASP	品田堂:N	的:T	餅乾:N	
+以及:C	剛剛:ADV	說到:Vt	很:ADV	好:Vi	的:T	【:PARENTHESISCATEGORY	東洋:N	牛蒡:N	茶:N	】:PARENTHESISCATEGORY	以及:C	【:PARENTHESISCATEGORY	黑豆:N	玄米:N	煎茶:N	】:PARENTHESISCATEGORY	的:T	茶葉:N	最後:N	我:N	發現:Vt	呀:T	
+『:PARENTHESISCATEGORY	玄麻:N	蕎麥處:N	』:PARENTHESISCATEGORY	這兒:N	整:DET	條:M	街:N	莫名:Vi	以:P	日式:A	餐館:N	居多:Vi	
+有:Vt	種:M	感覺:N	像:Vt	是:Vt	未來:N	可以:ADV	發展出:Vt	一:DET	種:M	獨特:Vi	的:T	風味:N	
+就:ADV	像:Vt	是:Vt	打:Vt	造出:Vt	
+想:Vt	吃:Vt	日式:A	麵食:N	文化:N	就:ADV	來:ADV	這:DET	的:T	Fu:FW	
+不過:C	只有:ADV	『:PARENTHESISCATEGORY	玄麻:N	蕎麥處:N	』:PARENTHESISCATEGORY	有:Vt	這:DET	日式:A	庭院:N	的:T	小:Vi	造景:N	
+圖:N	下:POST	
+這:DET	點:M	我:N	特別:Vi	喜歡:Vt	
+簡單:Vi	介紹:Vt	一下:N	老闆:N	
+看起來:ADV	年紀:N	有夠:ADV	小:Vi	的:T	
+沒想到:ADV	竟:ADV	有:Vt	33:DET	歲:M	
+嘖:T	嘖嘖:ADV	
+難道:ADV	吃:Vt	蕎麥麵:N	除了:P	健康:Vi	以外:POST	
+也:ADV	能:ADV	養顏:Vi	美容:N	嗎:T	
+補充:Vt	說明:N	狗妹:N	不:ADV	是:Vt	什麼:DET	專業:Vi	評論家:N	
+不過:C	絕對:ADV	是:Vt	
+夠:ADV	實在:Vi	
+的:T	消費者:N	
+or:FW	部落客:N	
+而:C	會:ADV	自稱:Vt	
+夠:ADV	實在:Vi	
+的:T	原因:N	呢:T	
+就是:C	和:P	那:DET	種:M	網路:N	世界:N	什麼:DET	都:ADV	超:Vt	好吃:Vi	
+超:Vt	好看:Vi	
+超:Vt	好用:Vi	
+或是:C	樣樣:DET	都:ADV	很:ADV	爛:Vi	、:PAUSECATEGORY	說:Vt	得:T	一:DET	嘴:N	專業:Vi	的:T	部落客:N	
+or:FW	鄉民:N	
+相較:Vi	之下:POST	
+完:Vi	.:PERIODCATEGORY	全:DET	.:PERIODCATEGORY	相:N	.:PERIODCATEGORY	反:Vt	的:T	一:DET	款:M	人:N	
+舉例:Vi	來:ADV	說:Vt	：:COLONCATEGORY	友:N	：:COLONCATEGORY	
+那:DET	家:M	XXX:FW	的:T	薯條:N	超級:A	好吃:Vi	的:T	
+我:N	：:COLONCATEGORY	
+ㄟ:N	
+就:ADV	
+..:ETCCATEGORY	薯條:N	囉:T	
+薯條:N	要:ADV	弄得:Vt	很:ADV	難吃:Vi	
+也:ADV	實在:ADV	是:Vt	很:ADV	難:Vi	吧:T	
+.:PERIODCATEGORY	
+簡言之:ADV	
+就是:C	比較:ADV	嚴苛:Vi	一點:ADV	
+當:P	別人:N	用到:Vt	
+最:ADV	高級:Vi	
+超級:A	or:FW	非常:ADV	or:FW	
+等:POST	
+字眼:N	
+我:N	就:ADV	會:ADV	變得:Vt	很:ADV	實在:Vi	友:N	：:COLONCATEGORY	
+最近:N	上映:Vt	的:T	XXXX:FW	超級:A	難看:Vi	
+我:N	：:COLONCATEGORY	
+我:N	覺得:Vt	你:N	太:ADV	嚴苛:Vi	了:T	啦:T	
+看:Vt	站:Vi	在:P	劇情:N	角度:N	來:ADV	看:Vt	當:P	人:N	很:ADV	扯:Vt	
+但:C	從:P	娛樂:N	角度:N	切入:Vt	就:ADV	是:Vt	標準:N	爽:Vi	片:N	囉:T	
+簡言之:ADV	
+就是:C	比較:ADV	理智:Vi	一點:ADV	
+當:P	別人:N	一:DET	句:M	爛:Vi	或:C	壞:Vt	就:ADV	摧毀:Vt	別人:N	努力:Vi	時:POST	
+我:N	就:ADV	會:ADV	很:ADV	強調:Vt	要:ADV	客觀:Vi	
+表情:N	如下:Vt	圖:N	ANYWAY:FW	反正:ADV	重點:N	就:ADV	是:Vt	
+基於:P	一直:ADV	以來:POST	堅守:Vt	
+公平:Vi	、:PAUSECATEGORY	公正:Vi	、:PAUSECATEGORY	公開:Vt	的:T	誠實:Vi	信用:N	原則:N	
+所以:C	就:ADV	連:Vt	自家人:N	的:T	東西:N	都:ADV	很少:ADV	會:ADV	主動:Vi	推薦:Vt	的:T	我:N	
+無論:C	是:Vt	邀稿:Vi	或是:C	出自:Vt	于:P	自發:Vi	感觸:N	
+但:C	只要:C	能:ADV	讓:Vt	狗妹:N	願意:Vt	介紹:Vt	的:T	玩意兒:N	或:C	餐廳:N	
+絕對:ADV	都:ADV	很:ADV	實在:Vi	
+Others:FW	【:PARENTHESISCATEGORY	玄麻:N	蕎麥處:N	】:PARENTHESISCATEGORY	★:FW	★:FW	★:FW	★:FW	★:FW	五:DET	顆:M	星:N	推薦:Nv	蕎麥:N	“:FW	沾:Vt	麵:N	”:FW	
+湯麵:N	這:DET	部分:DET	
+姐:N	還:ADV	沒:ADV	吃:Vt	過:ASP	
+地址:N	::COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	4:DET	段:M	216巷:N	27弄:N	8:DET	號:M	電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	27753555:DET	時間:N	::COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	
+15:DET	::COLONCATEGORY	30:DET	和:C	17:DET	::COLONCATEGORY	30:DET	
+21:DET	::COLONCATEGORY	30:DET	
+平日:N	中午:N	到:P	14:DET	::COLONCATEGORY	30:DET	最後:N	呀:T	
+雖然:C	吃:Vt	東西:N	不:ADV	發出:Vt	聲音:N	一直:ADV	是:Vt	亞洲人:N	的:T	飲食:N	行為:N	規範:N	
+但:C	日本人:N	對:P	吃:Vt	蕎麥:N	麵:N	發出:Vt	希嚕:N	呼嚕:N	的:T	聲音:N	卻:ADV	很:ADV	寬容:Vt	
+因為:C	這:DET	是:Vt	從:P	江戶:N	時代:N	就:ADV	流傳:Vt	下來:Vi	的:T	蕎麥麵:N	標準:N	吃法:N	
+所以:C	這:DET	個:M	夏天:N	
+姐:N	就:ADV	是:Vt	要:ADV	稀:Vi	哩:T	呼嚕:ADV	大:Vi	口:N	狂:Vi	吃:Vt	蕎麥麵:N	
+Hooray:FW	
+完全:ADV	是:Vt	膚淺:Vi	女子:N	的:T	心態:N	呀:T	哈:ADV	哈哈:ADV	哈哈:ADV	
+以上:N	非常:ADV	不:ADV	專業:Vi	而且:C	絕對:ADV	非常:ADV	主觀:Vi	實在:ADV	分享:Vt	--:DASHCATEGORY	

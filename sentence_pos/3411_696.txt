@@ -1,0 +1,91 @@
+leafphoto:FW	(:PARENTHESISCATEGORY	葉影瓶:N	像:P	_:FW	里夫:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	[:PARENTHESISCATEGORY	台北:N	]:PARENTHESISCATEGORY	Caff'ebene:FW	忠孝店:N	/:FW	東區:N	216巷:N	
+Mon:FW	
+Aug:FW	
+11:DET	
+09:DET	::COLONCATEGORY	39:DET	::COLONCATEGORY	28:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Caff'ebene:FW	忠孝店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	忠孝東路:N	四段:N	216巷:N	32弄:N	18:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27119906:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	略:ADV	
+無:Vt	音樂:N	。:PERIODCATEGORY	有:Vt	圖:N	真相:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	leafphoto.pixnet.net/blog/post:FW	/:FW	106276940:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	我:N	是:Vt	分隔:Vt	線:N	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	以前:N	不:ADV	看:Vt	韓劇:N	的:T	我:N	
+雖然:C	近期:N	連:ADV	追:Vt	了:ASP	許多:DET	部:M	韓劇:N	
+不過:C	老實說:ADV	我:N	還是:ADV	不:ADV	知道:Vt	張根碩:N	是:Vt	哪:DET	位:M	
+我:N	應該:ADV	會:ADV	被:P	張根碩粉:N	打死:Vt	所以:C	先前:N	幾:DET	位:M	友人:N	跟:P	我:N	說:Vt	張根碩:N	代言:Vi	的:T	咖啡館:N	要:ADV	北上:Vi	來:Vi	台北:N	開店:Vi	了:ASP	
+我:N	總是:ADV	沒:Vt	什麼:DET	特別:Vi	的:T	感覺:N	
+甚至:ADV	戲稱為:Vt	韓國:N	星巴克:N	恰巧:ADV	這:DET	次:M	友人:N	相邀:Vi	
+就:ADV	順便:ADV	來:ADV	看看:Vt	張根碩:N	的:T	魅力:N	吧:T	
+礙於:Vt	Flickr:FW	空間:N	
+如果:C	圖片:N	出現:Vi	破圖:N	的:T	朋友:N	
+請:Vt	點擊:Vt	該:DET	張:M	圖片:N	觀看:Vt	
+謝謝:Vt	
+1:DET	.:PERIODCATEGORY	店裡:N	木系:N	裝潢:N	的:T	風格:N	個:M	人:N	很:ADV	喜歡:Vt	
+給:P	人:N	一:DET	種:M	清新:Vi	自然:N	的:T	感覺:N	
+同樣:Vi	位於:Vt	東區:N	216巷:N	的:T	KayaKayaCaf:FW	é:FW	也:ADV	採:Vt	類似:Vi	的:T	裝潢:N	風格:N	
+我:N	想:Vt	這:DET	也:ADV	是:Vt	種:M	裝潢:N	風格:N	的:T	反璞歸真:Vi	吧:T	目前:N	採:Vt	美食街:N	那:DET	種:M	先:ADV	找:Vt	位:M	再:ADV	點:Vt	餐:N	的:T	概念:N	
+所以:C	可以:ADV	不用:ADV	在:P	外面:N	熱:Vt	到:P	要:ADV	死:Vi	
+起碼:ADV	等候:Vt	時:ADV	有:Vt	冷氣:N	吹:Vt	
+2:DET	.:PERIODCATEGORY	除了:P	咖啡:N	、:PAUSECATEGORY	刨冰:N	、:PAUSECATEGORY	糕點:N	之外:POST	
+這邊:N	也:ADV	有:Vt	義式:A	冰淇淋:N	
+整體:N	來:ADV	說:Vt	餐點:N	非常:ADV	有:Vt	韓國味:N	
+視覺:N	造型:N	搶眼:Vi	之外:POST	
+色調:N	上:POST	也:ADV	非常:ADV	colorful:FW	3:DET	.:PERIODCATEGORY	也:ADV	有:Vt	各:DET	式:M	鬆餅:N	跟:P	吐司:N	厚片:N	
+一樣:Vi	
+外型:N	吸睛:Vi	到:P	讓:Vt	人:N	很:ADV	難:Vi	忍住:Vt	不:ADV	點:Vt	
+4:DET	.:PERIODCATEGORY	巧克力:N	惡魔:N	刨冰:N	一:DET	個:M	海之冰:N	韓國版:N	的:T	概念:N	
+大:Vi	誤:Vt	5:DET	.:PERIODCATEGORY	外型:N	上:POST	來:ADV	說真的:ADV	頗為:ADV	討喜:Vi	
+惡魔角:N	的:T	造型:N	
+別:ADV	說:Vt	一:DET	堆:M	少女:N	
+大叔:N	我:N	看:Vt	了:ASP	都:ADV	忍不住:Vt	多:DET	拍:Vt	幾:DET	張:M	
+中間:N	的:T	冰淇淋:N	略帶:Vt	鹹度:N	
+而:C	上:DET	層:M	鋪上:Vt	滿滿:Vi	的:T	布朗尼:N	
+這:DET	布朗尼:N	真的:ADV	是:Vt	好吃:Vi	
+甜度:N	、:PAUSECATEGORY	厚實度:N	、:PAUSECATEGORY	柔軟度:N	都:ADV	恰到好處:Vi	
+除了:P	外型:N	
+連:C	口味:N	上:POST	也:ADV	讓:Vt	人:N	滿意:Vt	
+而:C	內:N	層:N	而是:C	混:Vt	了:ASP	玉米片:N	以及:C	紅豆:N	餡:N	
+搭配:Vt	著:ASP	吃起來:ADV	也:ADV	沒有:Vt	違和感:N	
+整:DET	碗:M	刨冰:N	的:T	份量:N	並:ADV	不少:Vi	
+建議:Vt	2:DET	
+4:DET	人:N	分食:Vt	
+我:N	看:Vt	許多:DET	桌:N	有:Vt	女孩子:N	一:DET	人:N	就:ADV	點上:Vt	一:DET	盆:M	
+我:N	只:ADV	能:ADV	說:Vt	非常:ADV	佩服:Vt	
+6:DET	.:PERIODCATEGORY	蒜香:N	起:POST	司:Vt	吐司:N	基本:N	上:N	算是:Vt	常見:Vi	的:T	大蒜:N	起:POST	士厚:N	片:N	
+不過:C	土司:N	的:T	厚度比:N	一般:ADV	厚:Vi	片:M	更:ADV	為:P	厚實:Vi	
+而:C	上:DET	層淋:N	上:N	的:T	起士:N	量:N	
+整:DET	個:M	就:ADV	讓:Vt	人:N	忍不住:Vt	想:Vt	點:N	
+7:DET	.:PERIODCATEGORY	東西:N	濃:Vi	香:N	而:C	好吃:Vi	
+但:C	如果:C	一:DET	個:M	人:N	吃:Vt	也:ADV	感覺:Vt	罪惡:Vi	了:ASP	一些:DET	
+大概:ADV	吃完:Vt	就:ADV	變:Vi	厚:Vi	片人:N	這邊:N	不得不:ADV	佩服:Vt	韓國人:N	的:T	行銷:N	包裝:N	
+把:P	一般:A	吐司:N	厚片:N	在:P	口感:N	、:PAUSECATEGORY	外觀:N	重新:ADV	處理:Vt	改良:Nv	後:POST	
+討喜:Vi	程度:N	就:ADV	大幅:ADV	上升:Vi	
+厲害:Vi	
+8:DET	.:PERIODCATEGORY	目前:N	台北:N	忠孝店:N	還:ADV	在:P	試:Vt	賣:Vt	階段:N	
+在:P	2014:DET	/:FW	8:DET	/:FW	12:DET	之前:POST	
+全部:DET	餐飲:N	皆:ADV	九:DET	折:M	優惠:Nv	後記:N	：:COLONCATEGORY	當天:N	跟:P	友人:N	閒聊:Vt	才:ADV	知道:Vt	Caff'ebene:FW	在:P	高雄:N	、:PAUSECATEGORY	台中:N	展店:N	時:POST	
+都:ADV	造成:Vt	誇張:Vt	的:T	人潮:N	
+幸好:ADV	目前:N	台北店:N	的:T	人潮:N	還:ADV	不:ADV	算:Vt	太過:ADV	誇張:Vt	
+個:M	人:N	覺得:Vt	是:Vt	因為:C	添:Vt	好運:N	搶:Vt	了:ASP	版面:N	XD:FW	
+雖然:C	總:ADV	戲稱:Vt	這:DET	是:Vt	韓國:N	星巴克:N	
+但:C	說:Vt	實在:ADV	兩:DET	者:N	風格:N	、:PAUSECATEGORY	餐點:N	都:ADV	有:Vt	蠻:ADV	大:Vi	的:T	不同:Vi	
+Caff'ebene:FW	採:Vt	自助:Nv	式免:N	服務費:N	的:T	概念:N	
+從:P	取餐:N	、:PAUSECATEGORY	倒水:N	、:PAUSECATEGORY	餐具:N	、:PAUSECATEGORY	用餐:Vi	後:POST	的:T	回收:Nv	一切:DET	都:ADV	自己:N	來:ADV	
+撇開:Vt	明星:N	代言:Vi	的:T	光環:N	不:ADV	說:Vt	
+東西:N	大都:ADV	有:Vt	其:DET	特色:N	
+訂價:N	策略:N	以:P	台北:N	來:ADV	看:Vt	也:ADV	不:ADV	算:Vt	誇張:Vt	
+來:Vi	店裡:N	的:T	客層:N	大都:ADV	年輕:Vi	女性:N	居多:Vi	
+只:ADV	能:ADV	說:Vt	張根碩:N	果然:ADV	擄獲:Vt	許多:DET	少女心:N	
+而:C	很:ADV	兇:Vi	的:T	妹子:N	果然:ADV	擄獲:Vt	大叔:N	的:T	眼睛:N	當晚:N	一:ADV	回到:Vt	家:N	
+也:ADV	想:Vt	來:Vi	插旗:N	的:T	友人:N	就:ADV	來:ADV	詢問:Vt	排隊:Vi	狀況:N	
+這邊:N	簡單:Vi	講:Vt	一下:N	
+Caff'ebene:FW	的:T	銷售:Nv	主要:ADV	是:Vt	咖啡:N	、:PAUSECATEGORY	下午茶:N	
+所以:C	很:ADV	難:Vi	像:Vt	一般:A	餐館:N	大家:N	吃完:Vt	就:ADV	閃:Vt	人:N	
+大多數:DET	人:N	一:ADV	坐:Vi	都:ADV	2:DET	
+3:DET	小時:M	不等:POST	
+所以:C	個:M	人:N	建議:Vt	如果:C	真的:ADV	不:ADV	想:Vt	排隊:Vi	
+可以:ADV	等:P	晚上:N	6:DET	點:M	左右:POST	
+正餐:N	用餐:Nv	時間:N	
+人潮:N	會:ADV	少:Vt	很多:DET	

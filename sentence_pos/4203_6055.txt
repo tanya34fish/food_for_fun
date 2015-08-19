@@ -1,0 +1,56 @@
+too121932(derek:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	明星:N	愛店:N	當心:Vt	上癮:Vi	麻辣:A	火鍋:N	
+Fri:FW	
+Apr:FW	
+3:DET	
+12:DET	::COLONCATEGORY	14:DET	::COLONCATEGORY	38:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	當心:Vt	上癮:Vi	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	3月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	東豐街:N	47:DET	號:M	
+電話:N	：:COLONCATEGORY	0227033037:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	01:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	500:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	too121932.pixnet.net/blog:FW	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	too121932.pixnet.net/blog/post:FW	/:FW	308098879:DET	
+曾經:ADV	說:Vt	過:ASP	
+如果:C	決定:Vt	去:Vt	國外:N	住:Vt	
+麻辣:A	鍋:N	跟:P	燒餅:N	油條:N	夾:Vt	蛋:N	一定:ADV	是:Vt	最:ADV	讓:Vt	我:N	思念:Vt	的:T	台灣:N	美食:N	
+這:DET	幾:DET	年:M	來到:Vt	台北:N	吃:Vt	了:ASP	不少:DET	麻辣:A	鍋:N	
+從小:ADV	大一:N	時候:N	專:ADV	吃:Vt	吃:Vt	到:P	飽:Vi	
+到:P	現在:N	慢慢:Vi	發現:Vt	單點:N	
+麻辣:A	鍋:N	的:T	美好:Vi	
+吃到:Vt	飽:Vi	就:ADV	不用說:ADV	了:T	
+鼎王:N	、:PAUSECATEGORY	無:Vt	老鍋:N	、:PAUSECATEGORY	鼎旺:N	、:PAUSECATEGORY	史記:N	、:PAUSECATEGORY	夫妻:N	肺:N	片:N	、:PAUSECATEGORY	詹記:N	、:PAUSECATEGORY	太:ADV	和:P	殿:N	、:PAUSECATEGORY	寬:Vi	巷子:N	、:PAUSECATEGORY	
+老:Vi	四川:N	等:POST	都:ADV	曾經:ADV	不只:ADV	一:DET	次:M	踩點:Vt	過:ASP	
+雖:C	不:ADV	算:Vt	吃遍:Vt	台北:N	
+但:C	數量:N	也:ADV	不:ADV	算:Vt	少:Vi	
+結果:ADV	令:Vt	人:N	意外:N	的:T	
+最:ADV	熟悉:Vt	喜歡:Vt	的:T	還是:C	家:N	裡:N	附近:N	的:T	當心:Vt	上癮:Vi	
+老闆娘:N	是:Vt	個:M	爽朗:Vi	又:ADV	充滿:Vt	活力:N	的:T	人:N	
+對於:P	自家:N	產品:N	非常:ADV	有:Vt	自信:N	
+也:ADV	讓:Vt	整:DET	個:M	用餐:Nv	氣氛:N	更加:ADV	放鬆:Vt	
+當心:Vt	上癮:Vi	的:T	麻辣:A	鍋:N	底:POST	很:ADV	香:Vi	且:C	完全:ADV	不:ADV	油膩:Vi	
+可以:ADV	無限:Vi	續加:Vt	的:T	軟嫩入味:N	的:T	豆腐:N	以及:C	好吃:Vi	鴨:N	血:N	
+檢驗:Vt	ok:FW	
+老闆娘:N	表示出:Vt	問題:N	的:T	廠商:N	15:DET	年:M	前:POST	找:Vt	過:ASP	她:N	
+當時:N	就:ADV	覺得:Vt	太:ADV	便宜:Vi	很:ADV	怪:Vi	而:C	沒有:ADV	使用:Vt	
+也許:ADV	是:Vt	老闆娘:N	的:T	堅持:Nv	
+食材:N	方面:N	平均:Vi	水準:N	很:ADV	高:Vi	
+且:C	價位:N	相當:ADV	合理:Vi	
+大多:DET	品:Vt	項:M	可以:ADV	選擇:Vt	半:DET	份:M	
+肉品:N	都:ADV	是:Vt	現點現切:N	
+品質:N	優良:Vi	
+就算:C	是:Vt	最低價:N	位:Vt	的:T	豬:N	或:C	牛:N	都:ADV	有:Vt	很:ADV	好:Vi	的:T	味道:N	及:C	口感:N	
+蔬菜:N	很:ADV	新鮮:Vi	
+沒有:ADV	看到:Vt	任何:DET	爛葉:N	或是:C	老葉:N	
+老闆娘:N	說:Vt	為了:P	避免:Vt	農藥:N	殘留:Vt	
+都:ADV	會:ADV	用:P	活水:N	先:ADV	充:Vt	10:DET	分鐘:M	後:POST	再:ADV	另外:ADV	清洗:Vt	
+頭:N	、:PAUSECATEGORY	蒙古包:N	及:C	手工:N	鮮蝦丸:N	都:ADV	相當:ADV	特別:Vi	好吃:Vi	
+至於:P	基隆:N	魚餃:N	等:POST	就:ADV	較為:ADV	普通:Vi	
+佐料:N	和:C	大部分:DET	店家:N	相同:Vi	
+但:C	另:DET	有:Vt	滋味:N	很:ADV	棒:Vi	的:T	香椿醬:N	
+最後:N	會:ADV	附上:Vt	綠豆湯:N	做:Vt	結尾:Vi	
+總結:Vt	就:ADV	是:Vt	間:N	低調:Vi	但:C	食:Vt	材:N	新鮮湯:N	底:POST	淳厚:Vi	的:T	好吃:Vi	麻辣:A	鍋店:N	

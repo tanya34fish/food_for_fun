@@ -1,0 +1,140 @@
+windfree:FW	(:PARENTHESISCATEGORY	小:Vi	宅:N	檸檬:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	。:PERIODCATEGORY	六福:N	皇宮:N	絲路宴:N	@:FW	特色:N	buffet:FW	餐廳:N	
+Wed:FW	
+Aug:FW	
+27:DET	
+14:DET	::COLONCATEGORY	16:DET	::COLONCATEGORY	06:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	六福:N	皇宮:N	-:DASHCATEGORY	絲路:N	宴:Vt	互動式:A	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	南京東路:N	三段:N	133:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	3518:DET	-:DASHCATEGORY	3078:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	早餐:N	::COLONCATEGORY	06:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	10:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	午餐:N	::COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	下午茶:N	::COLONCATEGORY	15:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	17:DET	::COLONCATEGORY	00:DET	
+晚餐:N	::COLONCATEGORY	18:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1380:DET	+:FW	10:DET	%:M	晚餐:N	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	烤肉:N	、:PAUSECATEGORY	牛排:N	、:PAUSECATEGORY	現:N	打:Vt	果汁:N	
+圖文:N	部落格:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	evisko.pixnet.net/blog/post:FW	/:FW	182036332:DET	
+這:DET	幾:DET	個:M	月:N	來:ADV	
+好像:ADV	都:ADV	有:Vt	一:DET	天:M	會:ADV	出現:Vi	在:P	六福:N	皇宮:N	
+倒是:ADV	吃:Vt	得:T	都:ADV	是:Vt	不同:Vi	的:T	料理:N	、:PAUSECATEGORY	餐廳:N	
+會:ADV	這樣:Vi	對:P	六福:N	皇宮:N	忠心耿耿:Vi	主要:ADV	是:Vt	因為:C	父親:N	大人:N	有:Vt	加入:Vt	會員:N	
+價格:N	上:POST	也:ADV	會:ADV	有:Vt	些許:DET	優惠:Nv	
+不知不覺:ADV	卻:ADV	也:ADV	好像:ADV	被:P	六福:N	皇宮:N	制約:Vt	了:ASP	＞:FW	＜:FW	絲路宴:N	的:T	Buffet:FW	空間:N	寬敞:Vi	明亮:Vi	
+還:ADV	有:Vt	吧檯桌:N	
+整體:N	感覺:N	較:ADV	活潑:Vi	
+由於:C	是:Vt	以:P	絲路:N	作為:Vt	主題:N	
+所以:C	有:Vt	很多:DET	偏:Vt	中亞:N	的:T	料理:N	
+如:P	印度:N	烤肉:N	之類:POST	的:T	
+有:Vt	濃濃:Vi	印度:N	風味:N	的:T	烤:Nv	物:N	
+別有:Vt	一:DET	番:M	風味:N	
+這:DET	種:M	充滿:Vt	印度:N	風味:N	的:T	料理:N	在:P	12:DET	廚:N	也:ADV	能:ADV	見到:Vt	
+香:Vi	米飯:N	、:PAUSECATEGORY	烤餅:N	、:PAUSECATEGORY	印度:N	雞肉:N	
+喜歡:Vt	吃:Vt	這:DET	類:M	食物:N	的:T	話:N	一定:ADV	覺得:Vt	是:Vt	個:M	天堂:N	
+除了:P	自助:Nv	式取餐:N	也:ADV	有:Vt	桌:N	邊:N	服務:Vt	
+第一:DET	次:M	遇到:Vt	頗為:ADV	驚喜:Vi	
+想:Vt	著:ASP	充滿:Vt	西式:A	風格:N	的:T	餐廳:N	怎麼:ADV	也:ADV	來:ADV	港式:A	茶樓:N	推車:N	
+一:DET	人:N	可:ADV	先:ADV	點:Vt	一:DET	只:M	
+之後:N	餐車:N	再:ADV	推:Vt	來:ADV	可:ADV	再:ADV	加:Vt	點:M	
+桌:N	邊:N	服務:Vt	不:ADV	限:Vt	牡蠣:N	
+也:ADV	會:ADV	問:Vt	客人:N	是否:ADV	需要:Vt	現煎:N	牛排:N	
+這:DET	個:M	算是:Vt	主餐:N	部分:DET	每:DET	人:N	可:ADV	點:Vt	一:DET	次:M	
+我們:N	各:ADV	點:Vt	了:ASP	牛排:N	跟:P	豬排:N	
+但是:C	不:ADV	知道:Vt	分量:N	這麼:ADV	大:Vi	
+來:Vi	的:T	時候:N	大家:N	一起:ADV	傻眼:Vi	
+並且:C	在:P	盤算:Vt	
+如果:C	嗑掉:Vt	這:DET	份:M	牛排:N	後:POST	還:ADV	剩:Vt	多少:DET	胃:N	可以:ADV	裝:Vt	其他:DET	美食:N	
+喜歡:Vt	吃:Vt	肉:N	的:T	朋友:N	
+一定:ADV	會:ADV	覺得:Vt	太:ADV	
+過:Vt	
+癮:N	
+啦:T	
+豬排:N	也:ADV	不:ADV	囉嗦:Vi	
+同樣:ADV	這麼:Vi	大一:N	個:T	
+生魚片:N	幾乎:ADV	已經:ADV	是:Vt	每:DET	間:M	飯店:N	吃到:Vt	飽:Vi	的:T	必備:A	菜色:N	了:T	
+這裡:N	的:T	海鮮:N	也:ADV	很:ADV	豐富:Vt	
+魚:N	、:PAUSECATEGORY	蝦:N	、:PAUSECATEGORY	貝殼類:N	的:T	應有盡有:Vi	
+也:ADV	有:Vt	新:Vi	加玻:N	美食:N	：:COLONCATEGORY	叻沙:N	麵:N	
+可:ADV	搭配:Vt	米線:N	或:C	麵:N	
+一般來說:ADV	
+湯頭:N	會:ADV	使用:Vt	蝦米:N	、:PAUSECATEGORY	大蒜:N	、:PAUSECATEGORY	辣椒:N	、:PAUSECATEGORY	南薑:N	、:PAUSECATEGORY	香茅:Vi	、:PAUSECATEGORY	椰漿熬煮:Vt	
+所以:C	會:ADV	喝:Vt	起:ASP	湯:N	來:ADV	會:ADV	有:Vt	些:M	椰漿:N	風味:N	
+可以:ADV	自:P	選:Vt	配料:N	
+主廚:N	會:ADV	幫:P	您:N	烹調:Vt	
+南薑:N	、:PAUSECATEGORY	椰漿:N	味道:N	頗重:Vi	
+裡面:N	有:Vt	蘭花:N	蚌:N	則:ADV	是:Vt	最愛:N	
+不:ADV	愛:Vt	南洋:N	風:N	
+也:ADV	有:Vt	現:ADV	煮:Vt	的:T	義大利麵:N	
+分有:Vt	紅醬:N	、:PAUSECATEGORY	白醬:N	、:PAUSECATEGORY	南瓜醬:N	等等:POST	豐富:Vt	醬汁:N	
+麵類:N	也:ADV	有:Vt	長管麵:N	、:PAUSECATEGORY	貝殼:N	麵:N	可:ADV	選擇:Vt	
+一定:ADV	會:ADV	找到:Vt	自己:N	所:ADV	愛:Vt	的:T	搭配:Nv	
+各:DET	式:M	麵包:N	也:ADV	都:ADV	琳琅滿目:Vi	地:T	呈現:Vt	在:P	面前:N	
+喜歡:Vt	麵包:N	的:T	話:N	倒:ADV	也:ADV	是:Vt	一:DET	種:M	選擇:N	
+可惜:Vi	我:N	本身:N	只要:C	看到:Vt	肉:N	就:ADV	會:ADV	失:Vt	心:N	瘋:Vi	
+所以:C	沒有:Vt	多餘:A	的:T	肚子:N	可以:ADV	裝:Vt	麵包:N	了:T	
+吃:Vt	了:ASP	口渴:Vi	
+還:ADV	能:ADV	選擇:Vt	氣泡:N	水:N	或:C	汽水:N	
+汽水:N	是:Vt	迷你瓶:N	
+如果:C	很:ADV	喜歡:Vt	喝:Vt	
+可以:ADV	每:DET	種:M	都:ADV	喝:Vt	咧:T	
+也:ADV	有:Vt	最:ADV	受:Vt	歡迎:Vt	的:T	現:N	打:Vt	果汁:N	
+當天:N	最:ADV	好喝:Vi	的:T	是:Vt	哈密瓜汁:N	
+非常:ADV	香:Vi	濃:Vi	好喝:Vi	
+但是:C	由於:C	有:Vt	供應:Nv	數量:N	限制:N	
+還:ADV	聽到:Vt	其他:DET	客人:N	小小:Vi	地:T	抱怨:Vt	呢:T	
+想:Vt	喝到:Vt	熱門:Vi	果汁:N	
+還是:ADV	要:ADV	早點:ADV	去:ADV	領:Vt	才:ADV	行:Vi	
+像:P	我:N	這樣:ADV	慢吞吞:Vi	
+只好:ADV	選擇:Vt	木瓜汁:N	啦:T	
+也:ADV	是:Vt	很:ADV	好喝:Vi	的:T	啦:T	
+喝完:Vt	果汁:N	後:POST	
+就:ADV	繼續:Vt	在:P	戰:N	
+這裡:N	除了:P	現點現:N	做:Vt	的:T	牛:N	、:PAUSECATEGORY	豬排:N	
+也:ADV	有:Vt	這:DET	種:M	擺放:Vt	在:P	桌:N	上:N	自取:Vt	的:T	肉類:N	與:C	蔬菜:N	
+絕對:ADV	可以:ADV	滿足:Vt	愛:Vt	肉族:N	的:T	嗜肉:N	靈魂:N	
+只:ADV	是:Vt	在:P	我:N	吃下:Vt	牛排:N	又:ADV	拿:Vt	了:ASP	第二:DET	盤:M	火腿:N	的:T	時候:N	
+我:N	爸:N	用:P	充滿:Vt	驚異:Vi	地:T	眼神:N	看:Vt	著:ASP	我:N	說:Vt	：:COLONCATEGORY	啊:T	你:N	還:ADV	沒:ADV	飽:Vi	喔:T	
+讓:Vt	一心:ADV	向:P	肉:N	的:T	我:N	
+覺得:Vt	老爸:N	真:ADV	沒:Vt	禮貌:N	
+謎:N	：:COLONCATEGORY	是:Vt	誰:N	吃成:Vt	這樣:Vi	嚇死:Vt	人:N	
+雖然:C	是:Vt	絲路宴:N	
+卻:ADV	出現:Vi	了:ASP	在:P	Buffet:FW	很少:ADV	會:ADV	出現:Vi	的:T	關東:N	煮:Vt	
+各式各樣:A	的:T	關東:N	煮:Vt	料:N	
+讓:Vt	人:N	目不暇給:Vi	
+不過:C	
+因為:C	真的:ADV	太:ADV	撐:Vi	
+最後:N	只:ADV	吃:Vt	了:ASP	蒸:Vt	蛋:N	作結:Vi	
+蒸:Vt	蛋:N	好吃:Vi	
+頗:ADV	推:Vt	
+最後:N	
+輪到:Vt	各:DET	色:M	貌美:Vi	的:T	甜點:N	來:ADV	勾引:Vt	大家:N	
+這:DET	種:M	活潑:Vi	的:T	配色:Nv	
+即便:C	是:Vt	吃:Vt	得:T	飽飽:Vi	的:T	
+也:ADV	會:ADV	忍不住:Vt	拿:Vt	上:DET	一兩:DET	個:M	
+來:ADV	這裡:N	可以:ADV	享用到:Vt	金箔:N	奶酪:N	
+還:ADV	不:ADV	賴:Vt	吧:T	
+各:DET	種:M	蛋糕:N	雖然:C	沒有:Vt	辦法:N	一一:ADV	品嘗:Vt	只:ADV	有:Vt	略:ADV	吃:Vt	部分:DET	
+但是:C	還是:ADV	可以:ADV	比較:ADV	得:ADV	出來:Vi	大勝:Vt	12:DET	廚:N	與:C	TheKitchenTable:FW	除了:P	小:Vi	蛋糕:N	
+也:ADV	有:Vt	這:DET	種:M	大:Vi	蛋糕:N	可以:ADV	分食:Vt	
+但是:C	因為:C	我:N	不:ADV	嗜:Vt	吃:Vt	甜點:N	
+這:DET	部分:DET	還:ADV	要:ADV	各:DET	位:M	親身:ADV	去:ADV	體驗:Vt	
+以前:N	六福:N	皇宮:N	的:T	自助餐:N	其實:ADV	並:ADV	不:ADV	出色:Vi	
+自從:P	改裝成:Vt	現在:N	的:T	絲路宴:N	後:POST	水準:N	已經:ADV	大為:ADV	提升:Vt	
+料理:Vt	菜色:N	的:T	豐富度:N	也:ADV	提高:Vt	很多:DET	
+讓:Vt	喜歡:Vt	吃:Vt	不同:Vi	食物:N	類型:N	的:T	人:N	都:ADV	可以:ADV	享受到:Vt	美食:N	
+尤其:ADV	烤肉:N	、:PAUSECATEGORY	牛排:N	、:PAUSECATEGORY	果汁:N	等:POST	部分:DET	讓:Vt	我:N	最:ADV	驚艷:Vi	
+其實:ADV	吃:Vt	自助餐:N	不:ADV	就是:C	這樣:Vi	
+除了:P	要:ADV	吃到:Vt	自己:N	愛:Vt	吃:Vt	的:T	料理:N	也:ADV	會:ADV	想:Vt	從中:ADV	獲得:Vt	一些:DET	新:Vi	驚喜:Vi	
+才:ADV	會:ADV	有:Vt	不斷:ADV	想:Vt	去:ADV	探索:Vt	的:T	動力:N	
+絲路宴:N	自助餐:N	
+服務:Vt	中上:A	、:PAUSECATEGORY	餐點:N	好吃:Vi	、:PAUSECATEGORY	價格:N	尚可:Vi	
+是:Vt	屬於:Vt	會:ADV	再:ADV	想:Vt	光臨:Vt	的:T	餐廳:N	
+中秋節:N	快:ADV	到:Vt	了:ASP	
+也許:ADV	你:N	不:ADV	喜歡:Vt	悶著:Vt	熱風:N	在:P	戶外:N	烤肉:N	的:T	感覺:N	
+那麼:ADV	也:ADV	可以:ADV	考慮:Vt	帶:Vt	家人:N	朋友:N	一起:ADV	來:ADV	六福:N	皇宮:N	的:T	絲路宴:N	
+享受:Vt	一:DET	頓:M	沒有:Vt	駱駝:N	、:PAUSECATEGORY	太陽:N	
+但:C	有:Vt	冷氣:N	、:PAUSECATEGORY	美食:N	、:PAUSECATEGORY	飲品:N	齊全:Vi	的:T	烤:Nv	肉:N	饗宴:N	
+--:DASHCATEGORY	喜歡:Vt	走:Vi	的:T	
+打:Vt	著:ASP	赤腳:N	也:ADV	會:ADV	走:Vi	不:ADV	愛:Vt	走:Vi	的:T	
+穿著:Vt	皮鞋:N	也:ADV	是:Vt	坐:Vi	王:N	的:T	貪吃誌:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	evisko.pixnet.net/blog:FW	--:DASHCATEGORY	

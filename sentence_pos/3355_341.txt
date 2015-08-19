@@ -1,0 +1,76 @@
+LoveFood:FW	(:PARENTHESISCATEGORY	食:Vt	在:P	愛玩:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	香港:N	【:PARENTHESISCATEGORY	添:Vt	好運:N	】:PARENTHESISCATEGORY	台北:N	也:ADV	有:Vt	分店:N	了:T	！:EXCLAMATIONCATEGORY	
+Sat:FW	
+Jul:FW	
+26:DET	
+03:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	24:DET	
+2014:DET	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.lovefood.cc/2014/07/blog-post_26.html:FW	
+添:Vt	好運:N	點心:N	專門店:N	是:Vt	間:M	香港:N	著名:Vi	的:T	':FW	港式:A	點心店:N	
+並:C	曾:ADV	榮獲:Vt	米其林:N	的:T	一:DET	星:N	餐廳:N	評價:N	
+目前:N	
+添:Vt	好運:N	在:P	香港:N	的:T	奧海城:N	、:PAUSECATEGORY	深水埗:N	、:PAUSECATEGORY	中環:N	香港:N	站:Vi	、:PAUSECATEGORY	北:N	角:N	和:C	富:Vt	道:N	與:C	將軍:N	澳:N	PopCorn:FW	有:Vt	分店:N	
+而:C	
+在:P	海外:N	分店:N	部分:DET	
+2012年:N	有:Vt	了:ASP	新加坡:N	
+台灣:N	則:ADV	在:P	2014年:N	7月:N	也:ADV	有:Vt	了:ASP	分店:N	
+本:DET	次:M	來到:Vt	港鐵:N	奧運:N	站:N	附近:N	的:T	奧海城:N	二:DET	期:M	G:FW	樓:N	72:DET	號:M	舖:Vt	分店:N	
+基本:N	上:N	奧海城:N	就:ADV	是:Vt	間:N	大型:N	購物商:N	
+城:N	
+不過:C	如果:C	你:N	進到:Vt	奧海城:N	裡面:N	是:Vt	很:ADV	難:Vi	找到:Vt	添:Vt	好運:N	的:T	
+因為:C	添:Vt	好運:N	是:Vt	在:P	奧海城:N	商城:N	的:T	外面:N	
+阿:N	
+從:P	外面:N	走:Vi	比較:ADV	快:Vi	
+基本:N	上:POST	會:ADV	比較:ADV	喜歡:Vt	來:ADV	添:Vt	好運:N	的:T	奧海城:N	分店:N	原因:N	在:P	
+他:N	人潮:N	不會:ADV	像:P	其他:DET	地鐵:N	分店:N	人:N	都:ADV	爆多:N	
+而且:C	奧海城:N	分店:N	是:Vt	較:ADV	新:Vi	的:T	店面:N	
+所以:C	乾淨:Vi	明亮:Vi	許多:DET	
+在:P	餐點:N	與:C	價位:N	方面:N	
+添:Vt	好運:N	會:ADV	如此:ADV	出名:Vi	
+就是:C	因為:C	他:N	是:Vt	最:ADV	便宜:Vi	的:T	米其林:N	餐廳:N	阿:N	
+各:DET	種:M	港式:A	
+點心:N	價位:N	約:ADV	在:P	$:FW	12:DET	
+$:FW	25:DET	港幣:N	左右:POST	
+就算:C	一:DET	個:M	人:N	來:ADV	吃:Vt	也:ADV	很:ADV	好:Vi	點:M	餐:N	
+首先:ADV	
+當然:ADV	大:Vi	推:Vt	他:N	的:T	酥皮:N	叉燒:N	包:Vt	
+這:DET	是:Vt	我:N	最:ADV	喜歡:Vt	添:Vt	好運:N	的:T	一:DET	道:M	沒有:Vt	之:T	一:DET	
+一:DET	份:M	有:Vt	三:DET	顆:M	為:Vt	
+$:FW	19:DET	港幣:N	
+真的:ADV	很:ADV	酥:Vi	啊:T	
+裡面:N	的:T	叉燒:N	又:ADV	燙:Vt	又:ADV	香:Vi	
+另外:C	蘿蔔糕:N	也:ADV	算:Vt	店:N	招牌:N	之:T	一:DET	
+煎:Vt	得:T	都:ADV	很:ADV	香:Vi	酥:Vi	
+都:ADV	還:ADV	吃:Vt	得到:Vt	蘿蔔:N	絲:N	
+嫌:Vt	味道:N	太:ADV	淡:Vi	的:T	
+也:ADV	可以:ADV	
+搭配:Vt	她:N	的:T	各:DET	式:M	醬油:N	、:PAUSECATEGORY	甜:Vi	辣醬:N	等:POST	醬料:N	
+除了:P	酥皮:N	叉燒:N	包:Vt	與:C	蘿蔔糕:N	外:POST	
+這裡:N	的:T	叉燒:N	腸:N	、:PAUSECATEGORY	黃沙:N	豬:N	潤腸:N	、:PAUSECATEGORY	香滑:Vi	馬來:N	糕:N	等:POST	
+也:ADV	是:Vt	蠻:ADV	多:Vi	人:N	點:N	
+的:T	
+我們:N	點:Vt	的:T	陳皮:N	牛肉球:N	
+還:ADV	不錯:Vi	吃:Vt	
+牛肉:N	味道:N	也:ADV	很:ADV	足夠:Vi	
+茶資:N	一:DET	人:N	還要:ADV	收:Vt	3:DET	元:M	
+而:C	現在:N	吃:Vt	添:Vt	好運:N	也:ADV	不用:ADV	跑到:Vt	香港:N	了:T	
+添:Vt	好運:N	台北店:N	在:P	2014年:N	7月:N	開幕:Vi	在:P	台北:N	車站:N	對面:N	
+店:N	
+址:N	為:P	台北市:N	忠孝西路:N	一段:N	36:DET	號:M	
+以:P	這:DET	價錢:N	就:ADV	能:ADV	吃到:Vt	米其林:N	的:T	一:DET	星:N	餐廳:N	
+真的:ADV	很:ADV	划算:Vi	
+本文:N	所有:DET	餐點:N	皆:ADV	為:Vt	自費:Vi	
+無:Vt	受:P	店家:N	任何:DET	招待:Vt	
+消費:N	明細:N	或:C	發票:N	如下:Vt	
+添:Vt	好運:N	點心:N	專門店:N	資訊:N	
+香港:N	地址:N	：:COLONCATEGORY	大:Vi	角:N	咀海庭道:N	18:DET	號:M	奧海城:N	二:DET	期:M	G:FW	樓:N	72:DET	號:M	舖:Vt	
+電話:N	：:COLONCATEGORY	2332:DET	-:DASHCATEGORY	2896:DET	
+台灣:N	地址:N	：:COLONCATEGORY	台北市:N	中正區:N	忠孝西路:N	一段:N	36:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2370:DET	-:DASHCATEGORY	7078:DET	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014.5:DET	
+感謝:Vt	您:N	的:T	邀請:Nv	
+不過:C	我們:N	謝絕:Vt	試:Vt	吃:Vt	邀約:Vt	
+歡迎:Vt	推薦:Vt	好:Vi	餐廳:N	
+我們:N	會:ADV	自費:Vi	前往:Vt	體驗:Vt	
+食:Vt	在:P	愛玩:Vi	：:COLONCATEGORY	讓:Vt	食記:N	也:ADV	能:ADV	很:ADV	浪漫:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.LoveFood.cc:FW	

@@ -1,0 +1,113 @@
+tong817(tong:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	仁愛路:N	老:Vi	上海:N	菜館:N	
+Mon:FW	
+Aug:FW	
+25:DET	
+11:DET	::COLONCATEGORY	26:DET	::COLONCATEGORY	22:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	老:Vi	上海:N	菜館:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	仁愛路:N	四段:N	300巷:N	9弄:N	4:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27051161:DET	，:COMMACATEGORY	02:DET	-:DASHCATEGORY	27051161:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	30:DET	，:COMMACATEGORY	17:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	700:DET	-:DASHCATEGORY	900:DET	
+有無:Vt	包廂:N	：:COLONCATEGORY	有:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	芋奶雞骨醬:N	、:PAUSECATEGORY	砂鍋:N	醃:Vt	篤鮮:N	
+圖文:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tongblack212.pixnet.net/blog/post:FW	/:FW	180689629:DET	
+今年:N	公公:N	的:T	父親節:N	和:C	姊姊:N	兩:DET	個:M	小孩:N	的:T	慶生:Nv	大餐:N	就:ADV	選:Vt	在:P	仁愛路:N	巷弄:N	裡:N	的:T	老:Vi	上海:N	菜館:N	
+一:ADV	走進去:Vi	
+發現:Vt	老:Vi	上海:N	菜館:N	沒有:Vt	什麼:DET	裝潢:N	
+甚至:C	牆:N	上:POST	都:ADV	有:Vt	些:M	斑駁:Vi	
+這樣:Vi	的:T	餐廳:N	會:ADV	有:Vt	什麼:DET	驚艷:Vi	的:T	菜色:N	嗎:T	
+結果:ADV	出奇:Vi	的:T	推薦:Nv	耶:T	
+每:DET	道:M	菜色:N	都:ADV	不會:ADV	太:ADV	鹹:Vi	膩:Vi	
+味道:N	都:ADV	不錯:Vi	
+真心:Vi	推薦給:Vt	大家:N	
+來:ADV	看看:Vt	當天:N	的:T	菜色:N	吧:T	
+一:ADV	上桌:Vi	店家:N	先:ADV	擺上:Vt	兩:DET	種:M	招待:Vt	的:T	小菜:N	
+抱歉:Vt	都:ADV	沒:ADV	拍:Vt	
+芝麻醬:N	黃瓜:N	拉皮:N	
+這:DET	個:M	還:ADV	不錯:Vi	
+芝麻醬:N	很:ADV	香:Vi	
+另:DET	一:DET	種:M	是:Vt	醃:Vt	蘿蔔乾:N	
+這:DET	道:M	有點:ADV	苦苦:Vi	的:T	
+我:N	不:ADV	是:Vt	很:ADV	喜歡:Vt	
+接著:ADV	還是:ADV	趕快:ADV	來:ADV	看看:Vt	menu:FW	吧:T	
+其實:ADV	是:Vt	想:Vt	趕快:ADV	轉移:Vt	焦點:N	XD:FW	
+小菜:N	部分:DET	拿:Vt	了:ASP	海帶:N	麵筋:N	
+這:DET	道:M	算是:Vt	比較:ADV	油:Vi	的:T	小菜:N	
+不錯:Vi	還:ADV	不錯:Vi	吃:Vt	
+海帶:N	很:ADV	入:Vt	味:N	
+蔥燒:Vi	鯽魚:N	
+這:DET	個:M	我:N	喜歡:Vt	
+甜甜:Vi	的:T	
+連:C	骨頭:N	都:ADV	好:ADV	酥:Vi	好:Vi	酥:Vi	
+因為:C	小小:Vi	一:DET	條:M	
+我們:N	六:DET	個:M	大人:N	一下:N	就:ADV	分食:Vt	完:Vt	了:ASP	
+所以:C	又:ADV	叫:Vt	了:ASP	一:DET	盤:M	
+魷魚:N	炒:Vt	肉:N	
+自己:N	取:Vt	的:T	
+我:N	覺得:Vt	魷魚:N	有點:ADV	腥:Vi	耶:T	
+不:ADV	是:Vt	很:ADV	愛:Vt	
+清:N	炒:Vt	蝦仁:N	
+蝦仁:N	不:ADV	大:Vi	
+不過:C	顆顆:DET	飽滿:Vi	很:ADV	鮮:Vi	甜:Vi	Q:FW	彈:Vt	
+很:ADV	推薦:Vt	的:T	一:DET	道:M	菜:N	
+店家:N	招待:Vt	的:T	水餃:N	
+很:ADV	清爽:Vi	的:T	水餃:N	
+不錯:Vi	吃:Vt	
+而且:C	每:DET	顆:M	都:ADV	很:ADV	大:Vi	顆:M	喔:T	
+紅燒:Vt	馬頭魚:N	豆腐:N	
+這:DET	道:M	超級:A	下:Vt	飯:N	
+馬頭魚:N	和:C	豆腐:N	都:ADV	燒:Vt	得:T	非常:ADV	入:Vt	味:N	
+魚肉:N	細緻:Vi	帶:Vt	點:M	紅燒:Nv	甜味:N	
+豆腐:N	軟嫩:Vi	可口:Vi	
+但:C	其實:ADV	吃:Vt	多:DET	有點:ADV	點:Vt	過:ASP	鹹:Vi	
+所以:C	建議:Vt	搭配:Vt	飯:N	一起:ADV	食用:Vt	
+芋奶雞骨:N	醬:N	
+熬製:Vt	濃稠:Nv	且:C	軟嫩:Vi	的:T	芋頭:N	超棒:N	
+光:N	芋頭:N	我:N	就:ADV	吃:Vt	了:ASP	好幾:DET	塊:M	
+寫到:Vt	這裡:N	
+我:N	口水:N	都:ADV	要:ADV	流下來:Vi	了:ASP	
+大:Vi	蒜頭:N	炒飯:N	
+這:DET	個:M	炒飯:N	的:T	軟:Vi	硬度:N	正好:ADV	
+只是:ADV	沒有:ADV	吃:Vt	出:Vt	特別:Vi	的:T	大蒜:N	味道:N	就是了:Vi	
+雞火干絲:N	
+鮮美:Vi	的:T	雞湯:N	內:N	有:Vt	著:ASP	分量:N	很多:DET	的:T	豆干絲:N	跟:P	火腿:N	
+豆干絲吸飽:N	雞湯:N	的:T	鮮:Nv	甜味:N	
+非常:ADV	好吃:Vi	
+推:Vt	推推:Vt	
+老少蛋:N	
+名字:N	取:Vt	的:T	非常:ADV	特別:Vi	
+其實:ADV	就是:C	類似:Vt	木:N	須:ADV	炒蛋:Vi	
+把:P	蛋:N	跟:P	木耳:N	和:C	蔬菜:N	以及:C	粉絲:N	炒:Vt	在一起:Vi	
+味道:N	調味:Vi	的:T	非常:ADV	好:Vi	
+有點:ADV	甜甜:Vi	的:T	
+又:ADV	是:Vt	一:DET	道:M	非常:ADV	下:Vt	飯:N	的:T	菜色:N	
+砂鍋:N	醃:Vt	篤鮮:N	
+我:N	之前:POST	沒:ADV	聽:Vt	過:ASP	這:DET	道:M	菜:N	
+特別:Vi	上網:Nv	搜尋:Nv	
+原來:ADV	醃:Vt	篤鮮:N	是:Vt	用:P	火腿:N	、:PAUSECATEGORY	五花肉:N	、:PAUSECATEGORY	筍子:N	、:PAUSECATEGORY	百:DET	頁:M	與:C	青江菜:N	為:Vt	主要:A	材料:N	燉煮:Vt	的:T	一:DET	道:M	湯品:N	
+湯頭:N	乳白狀:N	
+看起來:ADV	就:ADV	很:ADV	誘人:Vi	
+湯:N	喝:Vt	起來:ASP	不會:ADV	重鹹:Vi	
+還:ADV	有:Vt	一:DET	股:M	濃郁:Vi	的:T	香甜:Vi	
+很:ADV	回甘:Vi	
+這:DET	道:M	湯品:N	我:N	喝:Vt	了:ASP	好幾:DET	碗:M	
+加:Vt	點:M	的:T	炸:Nv	銀絲:N	卷:N	
+2:DET	份:M	
+這裡:N	的:T	炸:Nv	銀絲:N	卷:N	沒有:Vt	煉乳:N	
+不過:C	銀絲:N	卷:N	本身:N	就:ADV	甜甜:Vi	的:T	
+趁熱:ADV	吃:Vt	最:ADV	好吃:Vi	
+讓:Vt	人:N	想:Vt	一口:ADV	接著:ADV	一口:ADV	
+招待:Vt	的:T	水果:N	
+招待:Vt	的:T	甜湯:N	
+仙草:N	
+這:DET	家:M	餐廳:N	價位:N	其實:ADV	有點:ADV	高:Vi	
+不過:C	每:DET	道:M	菜:N	都:ADV	算是:Vt	相當:Vi	的:T	到位:Vi	
+水準:N	很:ADV	高:Vi	
+非常:ADV	推薦:Vt	
+老:Vi	上海:N	菜館:N	
+地址:N	：:COLONCATEGORY	台北市:N	仁愛路:N	四段:N	300巷:N	9弄:N	4:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27051161:DET	
+02:DET	-:DASHCATEGORY	27051161:DET	

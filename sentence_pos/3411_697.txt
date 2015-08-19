@@ -1,0 +1,32 @@
+chenpei:FW	(:PARENTHESISCATEGORY	怎麼:ADV	都:ADV	吃:Vt	不:ADV	飽:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中正區:N	忠孝:N	新生:N	站:Vi	4:DET	MANOcaffe:FW	':FW	
+Mon:FW	
+Aug:FW	
+11:DET	
+11:DET	::COLONCATEGORY	06:DET	::COLONCATEGORY	29:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	4:DET	MANOCAFFE:FW	':FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	4月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	忠孝東路:N	二段:N	134巷:N	3:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23911356:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+網誌:N	心得:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	chenpei0116.pixnet.net/blog/post:FW	/:FW	41433236:DET	
+又:ADV	跑來:Vi	新生:N	站喬:N	事情:N	了:T	XDD:FW	這:DET	次:M	我們:N	選:Vt	的:T	是:Vt	很:ADV	紅:Vi	的:T	4:DET	MANO:FW	除了:P	鬆餅:N	誘人:Vi	之外:POST	咖啡:N	也:ADV	是:Vt	
+一:DET	絶:b	
+還:ADV	得:Vt	過:ASP	咖啡:N	大師:N	競賽:N	冠軍:N	不過:C	這:DET	天:M	我們:N	三:DET	個:M	人:N	都:ADV	沒有:Vt	點:DET	咖啡:N	來:ADV	喝:Vt	
+歪腰:N	....:ETCCATEGORY	
+單純:Vi	想:Vt	來:Vi	
+吃:Vt	看看:ASP	鬆餅:N	
+鬆餅:N	因為:C	是:Vt	現:ADV	做:Vt	等待:Vt	的:T	時間:N	也:ADV	比較:ADV	久:Vi	一點:ADV	整:DET	個:M	店裡:N	充斥:Vi	著:ASP	鬆餅:N	和:C	咖啡:N	香:Vi	
+難怪:ADV	人潮:N	一直:ADV	絡繹:Vi	不:ADV	絶:b	
+鬆餅:N	最:ADV	大:Vi	的:T	特色:N	就:ADV	是:Vt	它:N	的:T	麻糬:N	連:C	我:N	這:DET	個:M	不:ADV	愛:Vt	麻糬:N	的:T	都:ADV	吃:Vt	了:ASP	好幾:DET	口:M	
+上面:N	淋:Vt	著:ASP	蜂蜜:N	和:C	一:DET	球:N	鮮:Vi	奶油:N	吃起來:ADV	竟:ADV	也:ADV	不會:ADV	太:ADV	甜:Vi	
+不過:C	鬆餅:N	東西:N	還是:ADV	趁熱:ADV	吃:Vt	的:T	好:Vi	到:P	後來:N	我們:N	只:ADV	顧:Vt	著:ASP	聊天:Vi	竟然:ADV	錯:Vi	殺:Vt	一:DET	塊:M	
+口感:N	就:ADV	不:ADV	太:ADV	對:Vi	
+因為:C	我:N	很:ADV	愛:Vt	吃:Vt	蛋:N	只要:C	有關於:P	蛋:N	的:T	料理:N	必:ADV	點:Vt	這:DET	道:M	義式:A	什錦:A	烘:Vt	蛋:N	配:Vt	手工:N	麵包:N	
+還:ADV	有:Vt	磨菇:Vi	和:C	G:FW	肉:N	可以:ADV	選擇:Vt	
+其實:ADV	烘:Vt	蛋:N	可以:ADV	直接:Vi	吃:Vt	雖然:C	配:Vt	麵包:N	也:ADV	不錯:Vi	啦:T	但:C	對:P	蛋:N	實在:ADV	是:Vt	太:ADV	有:Vt	愛:Vt	了:ASP	
+整:DET	盤:M	一下子:N	就:ADV	吃掉:Vt	了:ASP	
+雞肉:N	很:ADV	嫩:Vi	份量:N	不會:ADV	太多:Vi	也:ADV	不至於:ADV	吃:Vt	不:ADV	飽:Vt	我:N	還:ADV	蠻:ADV	推薦:Vt	這:DET	道:M	的:T	
+4:DET	MANO:FW	的:T	裝潢:N	走:Vi	簡約:Vi	黑白:A	風:N	雖然:C	素素:Vi	的:T	但是:C	很:ADV	有:Vt	自已:N	的:T	風格:N	
+來:ADV	這裡:N	主要:ADV	是:Vt	品味:N	咖啡:N	和:C	美食:N	的:T	有時:ADV	簡簡單單:Vi	的:T	其實:ADV	就:ADV	很:ADV	棒:Vi	了:T	

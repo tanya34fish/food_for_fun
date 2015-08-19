@@ -1,0 +1,28 @@
+地址:N	：:COLONCATEGORY	台北市:N	敦化南路:N	一段:N	232巷:N	16:DET	號:M	1樓:N	
+地點:N	位在:Vt	東區:N	頂:ADV	好:Vi	名店城:N	對面:N	巷子:N	內:N	
+附近:N	停:Vt	機車:N	還:ADV	算:Vt	方便:Vi	
+忠孝東路:N	彎:N	進來:Vi	第一:DET	個:M	巷子:N	口:N	就:ADV	可以:ADV	看到:Vt	黃:Vi	底:POST	紅字:N	的:T	老友:N	記:Vt	
+用餐:Nv	環境:N	寬敞:Vi	
+座位:N	不少:Vi	
+不論:C	是:Vt	大:Vi	圓桌:N	、:PAUSECATEGORY	四:DET	人:N	桌:N	或是:C	兩:DET	人:N	桌:N	都:ADV	有:Vt	
+容納:Vt	一百:DET	人:N	應該:ADV	跑:Vi	不:ADV	掉:Vt	
+翻:Vt	桌率:N	高:Vi	
+價格:N	落在:Vt	100:DET	-:DASHCATEGORY	150:DET	之間:POST	不等:POST	
+服務:Nv	阿姨:N	們:N	態度:N	都:ADV	超:Vt	好:Vi	.....:ETCCATEGORY	
+這:DET	跟:P	我:N	在:P	香港:N	當地:N	館子:N	吃飯:Vi	遇到:Vt	的:T	直白:N	服務:Nv	態度:N	差:Vi	好多:DET	
+不過:C	老友:N	記:Vt	的:T	服務:Nv	態度:N	真的:ADV	好:Vi	
+阿姨:N	們:N	都:ADV	很:ADV	熱心:Vt	而且:C	認真:Vi	服務:Nv	
+還:ADV	不:ADV	收:Vt	服務費:N	
+質地:N	已經:ADV	軟:Vi	了:T	但:C	保有:Vt	芥藍:N	的:T	清脆:Vi	
+還:ADV	有:Vt	他:N	的:T	肉:N	真的:ADV	算:Vt	多:Vi	
+排骨:N	質地:N	柔軟:Vi	外:POST	保有:Vt	新鮮:Vi	的:T	彈性:N	
+每:DET	咀嚼:Vt	一:DET	次:M	都:ADV	像:Vt	排骨:N	在:P	口:N	中:N	跳舞:Vi	
+無疑:ADV	他:N	已經:ADV	榮登:Vt	我:N	心:N	中:N	台北:N	第一:DET	名:M	原盅豉汁:N	排骨飯:N	
+即使:C	吃到:Vt	最後:N	一口:ADV	仍:ADV	不:ADV	油:N	不:ADV	膩:Vi	
+肉質:N	細嫩:Vi	
+入口:N	即:ADV	化:Vt	
+配:Vt	點:M	蔥:N	油:N	的:T	香氣:N	
+是:Vt	我:N	吃:Vt	過:ASP	最:ADV	柔軟:Vi	的:T	油雞:N	
+雞皮:N	不:ADV	油:N	不:ADV	膩:Vi	
+但:C	細:Vi	麵:N	吃起來:ADV	很:ADV	有:Vt	嚼:Vt	勁:N	
+比較:ADV	不:ADV	對:P	我:N	的:T	口味:N	

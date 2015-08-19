@@ -1,0 +1,71 @@
+inayearn(ina:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	-:DASHCATEGORY	好:Vi	喜歡:Vt	的:T	上樓:Vi	看看:Vt	ArthereCafe:FW	
+Thu:FW	
+Jan:FW	
+8:DET	
+21:DET	::COLONCATEGORY	20:DET	::COLONCATEGORY	28:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	上樓:Vi	看看:Vt	ArthereCafe:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	12月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	永吉路:N	30巷:N	177弄:N	6:DET	號:M	
+電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	8787:DET	-:DASHCATEGORY	1782:DET	
+圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	inayearn624.pixnet.net/blog/post:FW	/:FW	405358435:DET	
+上樓:Vi	看看:ASP	位在:Vt	市政府:N	捷運站:N	4:DET	號:M	出口:Nv	
+金磚:N	咖啡:N	附近:N	的:T	巷子:N	唷:T	
+非常:ADV	好:Vi	找:Vt	也:ADV	離:P	捷運:N	非常:ADV	近:Vi	
+交通:N	方便:Vi	已經:ADV	大:Vi	加分:Vi	啦:T	
+本來:ADV	聽:Vt	名字:N	以為:Vt	是:Vt	間:M	在:P	二樓:N	的:T	餐廳:N	
+結果:ADV	不:ADV	是:Vt	唷:T	
+是:Vt	間:M	老:Vi	房子:N	改造:Vt	的:T	兩:DET	層:M	樓:N	咖啡廳:N	
+甜點櫃:N	在:P	櫃檯:N	下方:N	
+我們:N	有點:ADV	了:ASP	右上:N	的:T	香蕉:N	蛋糕:N	和:C	下方:N	中間:N	的:T	乳酪:N	蛋糕:N	
+朋友點:N	的:T	芝麻:N	拿:Vt	鐵:N	NT:FW	.:PERIODCATEGORY	150:DET	
+拉:Vt	花:N	好:ADV	美麗:Vi	
+然後:ADV	我:N	要:ADV	大大:Vi	稱讚:Vt	他們:N	的:T	芝麻:N	咖啡:N	
+除了:P	旁邊:N	點綴:Vt	的:T	黑:Vi	芝麻:N	外:POST	
+應該:ADV	還:ADV	有加:ADV	芝麻:N	糊:Vt	在:P	裏頭:N	
+每:ADV	一口:ADV	都:ADV	有:Vt	濃濃:Vi	的:T	芝麻:N	香氣:N	
+又:ADV	不會:ADV	太:ADV	甜:Vi	
+好:ADV	喜歡:Vt	
+我們:N	都:ADV	有點:ADV	店裡:N	的:T	早:Vi	午餐:N	NT:FW	.:PERIODCATEGORY	290:DET	
+除了:P	肉品:N	
+飲料:N	
+吐司:N	需要:Vt	選擇:Vt	以外:POST	
+其他:DET	都:ADV	是:Vt	配:Vt	好:Vi	的:T	配菜:N	唷:T	.:PERIODCATEGORY	
+覺得:Vt	這樣:Vi	滿:ADV	方便:Vi	的:T	
+有時候:ADV	真的:ADV	是:Vt	懶得:Vt	選:Vt	想要:Vt	直接點:N	好:Vi	.:PERIODCATEGORY	
+整:DET	份:M	早:Vi	午餐:N	非常:ADV	豐盛:Vi	
+是:Vt	吃完:Vt	會:ADV	非常:ADV	飽:Vi	的:T	那:DET	種:M	.:PERIODCATEGORY	
+而且:C	馬鈴薯:N	塊:M	還:ADV	有:Vt	跟:P	蒜:N	末:POST	一起:ADV	下去:Vi	炒:Vt	
+非常:ADV	夠味:Vi	
+炒蛋:N	則:ADV	是:Vt	跟:P	菇類:N	一起:ADV	炒:Vt	
+有:Vt	其他:DET	配:Vt	菜:N	存在:Vi	讓:Vt	簡單:Vi	的:T	餐點:N	變得:Vt	不:ADV	無趣:Vi	
+不過:C	旁邊:N	可以:ADV	選擇:Vt	的:T	肉品:N	我:N	選:Vt	了:ASP	里肌肉:N	朋友:N	選:Vt	培根:N	
+都:ADV	太:ADV	太太:N	乾:Vi	了:T	
+乾:Vi	到:P	不行:Vi	
+而且:C	我們:N	私心:N	覺得:Vt	根本:ADV	無須:ADV	提供:Vt	肉品:N	
+因為:C	已經:ADV	有德式:N	香腸:N	啦:T	
+肉品:N	變得:Vt	有點:ADV	雞肋:N	XD:FW	
+吐司:N	有:Vt	附:Vt	奶油:N	和:C	果醬:N	
+旁邊:N	的:T	則:ADV	是:Vt	芒果:N	優格:N	
+沙拉:N	也:ADV	非常:ADV	值得:Vi	稱讚:Vt	
+上樓:Vi	看看:Vt	調:N	的:T	沙拉醬:N	非常:ADV	好吃:Vi	
+裡頭:N	的:T	蔬果:N	也:ADV	算:Vt	多元:Vi	.:PERIODCATEGORY	
+我:N	點:Vt	的:T	是:Vt	蜂蜜:N	拿:Vt	鐵:N	
+一樣:Vi	每:ADV	一口:ADV	都:ADV	有:Vt	濃郁:Vi	的:T	蜂蜜:N	香氣:N	
+一樣:Vi	不會:ADV	太:ADV	甜:Vi	
+其實:ADV	吃完:Vt	早:Vi	午餐:N	我們:N	已經:ADV	飽:Vi	到:P	吃:Vt	不:ADV	下:Vt	甜點:N	了:T	
+無奈:Vi	一:ADV	開始:Vt	太:ADV	餓:Vi	甚麼:DET	都:ADV	想:Vt	點:N	
+所以:C	甜點:N	送上來:Vt	時:POST	著實:ADV	又:ADV	高興:Vt	又:ADV	無奈:Vi	呀:T	XD:FW	
+香蕉:N	蛋糕:N	
+覺得:Vt	它:N	長:Vi	得:T	很:ADV	誠懇:Vi	
+不過:C	吃起來:ADV	卻:ADV	有:Vt	些:M	太:ADV	乾:Vi	
+我們:N	不:ADV	是:Vt	很:ADV	愛:Vt	.:PERIODCATEGORY	
+倒是:ADV	這:DET	個:M	乳酪:N	蛋糕:N	非常:ADV	好吃:Vi	
+而且:C	上面:N	的:T	檸檬:N	皮:N	碎沫:N	讓:Vt	整:DET	個:M	蛋糕:N	充滿:Vt	清新:Vi	香氣:N	
+它:N	算是:Vt	比較:ADV	重:Vi	的:T	乳酪:N	蛋糕:N	
+吃起來:ADV	是:Vt	綿密:Vi	扎實:Vi	的:T	口感:N	
+我們:N	一致:Vi	偏愛:Vt	它:N	
+雖然:C	很:ADV	飽:Vi	但:C	還是:ADV	吃:Vt	得:T	心滿意足:Vi	XDD:FW	
+上樓:Vi	看看:Vt	算是:Vt	近期:N	吃到:Vt	最:ADV	滿意:Vt	的:T	早:Vi	午餐:N	
+咖啡:N	和:C	甜點:N	也:ADV	很:ADV	推薦:Vt	喔:T	.:PERIODCATEGORY	

@@ -1,0 +1,220 @@
+mikageyoru:FW	(:PARENTHESISCATEGORY	美食:N	好芃友:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大直:N	不:ADV	出國:Vi	吃:Vt	米:N	其:DET	林:N	星星:N	-:DASHCATEGORY	laFESTA:FW	
+Wed:FW	
+Jul:FW	
+16:DET	
+10:DET	::COLONCATEGORY	23:DET	::COLONCATEGORY	36:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	laFESTA:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	敬業:Vi	四:DET	路:M	168:DET	號:M	
+電話:N	：:COLONCATEGORY	026602:DET	-:DASHCATEGORY	5671:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週五:N	::COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	0:DET	::COLONCATEGORY	00:DET	週六:N	-:DASHCATEGORY	週日:N	::COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	0:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1000:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	麵食類:N	甜點類:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.grandvictoria.com.tw/dining_lafesta.php:FW	
+無:Vt	音樂:N	網誌:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	mikageyoru.pixnet.net/blog/post:FW	/:FW	378942575:DET	
+與:C	男友:N	在一起:Vi	好幾:DET	年:M	
+不久:N	的:T	將來:N	即將:ADV	走入:Vt	婚姻:N	.:PERIODCATEGORY	最後:N	一:DET	次:M	婚前:N	交往:Vi	週年:M	慶祝:Nv	
+當然:ADV	要:ADV	選:Vt	一:DET	間:M	別具:Vt	意義:N	的:T	餐廳:N	
+其實:ADV	只是:ADV	想:Vt	找:Vt	機會:N	吃:Vt	美食:N	
+.:PERIODCATEGORY	
+最後:N	朋友:N	推薦:Vt	了:ASP	米:N	其:DET	林星級:N	師傅:N	在:P	台灣:N	合作:Vi	
+評價:N	頗:ADV	不錯:Vi	的:T	laFESTA:FW	.:PERIODCATEGORY	
+laFESTA:FW	位在:Vt	台北:N	大直:N	維多利亞:N	酒店:N	
+捷運:N	文湖線劍南路站:N	出口:N	步行:Vi	8:DET	分鐘:M	即可:ADV	到達:Vt	
+呼:ADV	
+上:DET	回:M	是:Vt	兩:DET	年:N	前:POST	和:C	友人:N	在:P	這裡:N	吃:Vt	可口:Vi	牛排:N	N168Prime:FW	.:PERIODCATEGORY	
+laFESTA:FW	位在:Vt	維多利亞:N	酒店:N	二樓:N	.:PERIODCATEGORY	大:Vi	扇:M	玻璃門:N	搭配:Vt	淺色:N	木紋:N	與:C	紅磚:N	
+外觀:N	融合:Vt	現代感:N	卻:ADV	不失:Vt	典雅:Vi	.:PERIODCATEGORY	
+一:DET	進:M	門:N	就:ADV	可以:ADV	看到:Vt	前:DET	場:M	吧檯:N	的:T	超大:A	酒櫃:N	
+有:Vt	各:DET	國:N	不同:Vi	等級:N	的:T	葡萄酒:N	.:PERIODCATEGORY	
+喔:T	對了:Vi	
+來:Vi	之前:POST	朋友:N	提:Vt	過:ASP	
+維多利亞:N	酒店:N	的:T	每:DET	間:M	餐廳:N	都:ADV	有:Vt	持有:Vt	執照:N	的:T	侍:Vt	酒:N	師:N	
+所以:C	如果:C	想:Vt	試點:N	不:ADV	一樣:Vi	酒:N	
+請:Vt	侍:Vt	酒:N	師:N	推薦:Vt	絕對:ADV	不會:ADV	失望:Vi	.:PERIODCATEGORY	
+laFESTA:FW	的:T	室內:N	空間:N	是:Vt	深:Vi	色調:N	搭配:Vt	白色:N	的:T	簡單:Vi	風格:N	.:PERIODCATEGORY	
+座位:N	分:Vt	兩:DET	區:N	
+靠:P	窗:N	雅座區:N	和:C	沙發座:N	.:PERIODCATEGORY	
+這:DET	天:M	訂位:Vi	時:POST	沒:ADV	特別:Vi	指定:Vt	
+餐廳:N	幫:P	我們:N	安排:Vt	在:P	沙發區:N	.:PERIODCATEGORY	
+比較:ADV	讓:Vt	我:N	印象:N	深刻:Vi	的:T	是:Vt	靠:P	窗區:N	的:T	天花板:N	有:Vt	個:M	彩繪:N	壁畫:N	
+以:P	色:N	鉛筆:N	的:T	寫生:Nv	速寫:Vi	描繪:Vt	義大利:N	的:T	生活:N	.:PERIODCATEGORY	
+入座:Vi	後:POST	
+服務生:N	先:ADV	替:P	我們:N	倒:Vt	水:N	和:C	送上:Vt	菜單:N	.:PERIODCATEGORY	
+這裡:N	的:T	水:N	分成:Vt	礦泉水:N	和:C	氣泡水:N	
+氣泡水:N	使用:Vt	的:T	是:Vt	S.Pellegrino:FW	.:PERIODCATEGORY	
+跟:P	牛排館:N	一樣:Vi	都:ADV	要:ADV	收:Vt	水:N	資:N	80:DET	元:M	
+無限:Vi	暢飲:Vt	
+北北:N	要:ADV	加價:Vi	
+選:Vt	氣泡水:N	比較:ADV	划算:Vi	XDD:FW	
+laFESTA:FW	的:T	菜單:N	也:ADV	分成:Vt	午間:N	和:C	晚間:N	菜單:N	
+就是:C	知道:Vt	午間:N	的:T	價位:N	較:ADV	低:Vi	
+比較:ADV	適合:Vi	我們:N	這:DET	種:M	剛:ADV	出:Vt	社會:N	的:T	小資:N	男女:N	
+特別:Vi	挑選:Vt	午間:N	時段:N	來:T	.:PERIODCATEGORY	
+詳細:Vi	菜單:N	請:Vt	參考:N	這裡:N	唷:T	
+laFESTA:FW	午間:N	菜單:N	
+laFESTA:FW	有:Vt	一:DET	個:M	極:ADV	美:Vi	的:T	紅褐色:N	木頭:N	貼紋:N	開放式:A	廚房:N	
+大:Vi	吧檯:N	
+大窯:N	烤爐:N	
+非常:ADV	適合:Vi	做:Vt	義大利菜:N	.:PERIODCATEGORY	
+非常:ADV	幸運:Vi	偷看:Vt	到:P	主廚:N	SilvestroZanella:FW	.:PERIODCATEGORY	
+之前:N	上網:Vi	查:Vt	過:ASP	laFESTA:FW	餐廳:N	主廚:N	背景:N	
+一:DET	開始:Vi	是:Vt	米其林:N	資歷:N	主廚:N	米其林:N	主廚:N	IgorMacchia:FW	.:PERIODCATEGORY	
+今年:N	初:POST	ChefIgor:FW	引薦:Vt	在:P	義大利:N	合作:Vi	的:T	夥伴:N	
+也:ADV	在:P	許多:DET	米:M	其:DET	林:N	餐廳:N	服務:Vt	過:ASP	的:T	SilvestroZanella:FW	擔任:Vt	laFESTA:FW	主廚:N	
+希望:Vt	能:ADV	帶來:Vt	更多:DET	傳統:N	與:C	創新:Vt	的:T	活力:N	.:PERIODCATEGORY	
+餐廳:N	靠:P	裡邊:N	有:Vt	個:M	乳酪:N	和:C	醃肉:N	熟成:Vt	室:N	
+看到:Vt	大:Vi	塊:M	車輪:N	乳酪:N	
+好:Vi	想:Vt	整:DET	塊:M	抱走:Vt	XD:FW	
+回到:Vt	座位:N	的:T	路:N	上:N	
+還:ADV	看到:Vt	gelato:FW	機器:N	.:PERIODCATEGORY	
+laFESTA:FW	的:T	gelato:FW	強調:Vt	每:DET	日:M	新鮮:Vi	現:ADV	做:Vt	
+就是:C	想:Vt	讓:Vt	大家:N	吃到:Vt	最:ADV	新鮮:Vi	的:T	義式:A	冰淇淋:N	.:PERIODCATEGORY	
+回:Vt	座:M	後:POST	
+餐點:N	也:ADV	差不多:ADV	上桌:Vi	囉:T	
+這:DET	是:Vt	餐:M	前:DET	麵包組:N	
+墨魚:N	麵包:N	與:C	法國:N	麵包:N	
+搭配:Vt	黑:Vi	橄欖:N	鯷魚醬:N	與:C	紅酒:N	醋:N	橄欖油:N	.:PERIODCATEGORY	
+兩:DET	種:M	麵包:N	都:ADV	先:ADV	加熱:Vi	過:ASP	
+放:Vt	在:P	白色:N	餐巾:N	小:Vi	籃:N	優雅:Vi	上桌:Vi	
+一:ADV	上來:Vi	就:P	香氣:N	撲鼻:Vi	.:PERIODCATEGORY	
+法國:N	麵包:N	好吃:Vi	
+但:C	這:DET	天:M	讓:Vt	我:N	最:ADV	驚豔:Vi	的:T	昰:b	這:DET	款:M	墨魚:N	麵包:N	
+我:N	從來:ADV	沒:ADV	吃:Vt	過:ASP	墨魚:N	麵包:N	帶有:Vt	這麼:ADV	強烈:Vi	的:T	墨魚:N	鮮味:N	醬汁:N	香氣:N	
+更:ADV	遑論:Vt	裡面:N	還:ADV	有:Vt	添增:Vt	口感:N	層次:N	的:T	杏仁片:N	
+咀嚼:Vt	後:POST	麵香:N	
+杏仁:N	香:Vi	
+墨魚:N	香:N	在:P	嘴:N	裡:N	迸發:Vt	
+不:ADV	沾醬:N	就:ADV	好好:Vi	吃:Vt	了:ASP	
+為:P	此:DET	這:DET	籃:M	麵包:N	我:N	整整:ADV	續:Vt	了:ASP	兩:DET	次:M	
+還:ADV	指定:Vt	只要:C	墨魚:N	麵包:N	
+可惜:Vi	沒:ADV	單:ADV	賣:Vt	整:DET	條:M	
+不然:C	我:N	大概:ADV	買:Vt	個:M	三:DET	條:M	回:Vt	高雄:N	.:PERIODCATEGORY	
+然後:ADV	是:Vt	我:N	的:T	開胃菜:N	
+進口:Vt	生蠔佐:N	雞尾酒醬:N	及:C	乾:Vi	蔥:N	紅酒:N	醋:N	.:PERIODCATEGORY	
+詢問:Vt	服務生:N	
+這:DET	天:M	的:T	生蠔:N	是:Vt	加拿大:N	進口:Vt	的:T	.:PERIODCATEGORY	
+服務生:N	說:Vt	視:P	季節:N	
+加拿大:N	與:C	法國:N	海岸:N	的:T	生蠔:N	輪替:Vi	使用:Vt	
+就:ADV	看:Vt	哪裡:N	的:T	品質:N	比較:ADV	好:Vi	.:PERIODCATEGORY	這:DET	個:M	生蠔:N	我:N	也:ADV	很:ADV	愛:Vt	
+軟嫩:Vi	肥碩:Vi	沒有:Vt	腥味:N	
+加:Vt	點:M	檸檬汁:N	而:C	不需:ADV	任何:DET	醬料:N	
+入口:N	也:ADV	是:Vt	美味:Vi	甘甜:Vi	.:PERIODCATEGORY	
+男友:N	的:T	開胃菜:N	
+香煎:N	北海道:N	生食:N	干貝:N	佐:Vt	奶油:N	南瓜:N	醬汁:N	與:C	清:N	炒:Vt	菠菜:N	.:PERIODCATEGORY	
+兩:DET	年:M	前:POST	在:P	維多力亞:N	酒店:N	牛排館:N	N168Prime:FW	吃到:Vt	驚為天人:Vi	的:T	干貝:N	
+從此:ADV	在:P	台灣:N	吃:Vt	西餐:N	前菜:N	再:ADV	也:ADV	無:Vt	人:N	能:ADV	超越:Vt	.:PERIODCATEGORY	這:DET	次:M	又:ADV	有:Vt	機會:N	前來:Vt	
+特地:ADV	跟:P	男友:N	點:Vt	了:ASP	讓:Vt	人:N	回味:Vt	的:T	干貝:N	.:PERIODCATEGORY	laFESTA:FW	的:T	這:DET	個:M	干貝:N	也:ADV	不錯:Vi	
+外表:N	煎:Vt	上色:Vi	
+干貝:N	肉質:N	鮮美:Vi	軟嫩:Vi	
+不過:C	...:ETCCATEGORY	我:N	個:M	人:N	
+還是:ADV	愛:Vt	兩:DET	年:N	前:POST	Prime:FW	168:DET	微微:ADV	帶有:Vt	韌性:N	的:T	干貝:N	一些些:DET	.:PERIODCATEGORY	
+倒是:ADV	laFESTA:FW	的:T	干貝:N	醬汁:N	表現:N	比較:ADV	豐富:Vt	
+下方:N	的:T	南瓜:N	奶油:N	醬汁:N	搭配:Vt	菠菜:N	很:ADV	突出:Vi	.:PERIODCATEGORY	
+湯品:N	
+我:N	選:Vt	的:T	是:Vt	野菇:N	濃湯:N	佐:Vt	手工:N	義式:A	雞肉:N	餃:b	.:PERIODCATEGORY	
+laFESTA:FW	的:T	義大利:N	餃:b	像:Vt	小:Vi	星星:N	一樣:Vi	
+真是:ADV	太:ADV	可愛:Vi	了:T	
+因為:C	是:Vt	湯品:N	
+所以:C	只:ADV	做:Vt	少少:Vi	的:T	三:DET	顆:M	
+不過:C	這:DET	餃子:N	的:T	雞:N	肉餡:N	
+哇:T	靠:P	
+也:ADV	太:ADV	細緻:Vi	了:T	
+完全:ADV	逼近:Vt	慕:Vt	斯:DET	口感:N	
+搭:Vt	上野:N	菇味:N	濃郁:Vi	的:T	濃湯:N	
+與:C	特選:Nv	橄欖油:N	
+也:ADV	是:Vt	好久:Vi	沒:ADV	喝:Vt	倒:Vt	的:T	美味:Vi	濃湯:N	
+男友:N	的:T	湯品:N	
+蒜苗:N	洋芋:N	濃湯:N	佐:Vt	小牛肉球:N	.:PERIODCATEGORY	
+濃湯:N	搭配:Vt	小牛肉球:N	與:C	馬鈴薯:N	泥:N	的:T	口感:N	
+個:M	人:N	覺得:Vt	挺:ADV	奇妙:Vi	的:T	XD:FW	
+男友:N	說:Vt	相比:Vi	之下:POST	他:N	比較:ADV	喜歡:Vt	這:DET	款:M	濃湯:N	
+比起:P	我:N	的:T	更:ADV	清爽:Vi	些:ADV	.:PERIODCATEGORY	
+但:C	我:N	覺得:Vt	這:DET	牛:N	肉球:N	真是:ADV	太:ADV	迷你:Vi	了:T	啊:T	
+主餐:N	
+這:DET	是:Vt	我:N	的:T	煙燻:A	洋芋:N	餃佐:N	有機:A	碗豆:N	醬汁:N	搭配:Vt	季節:N	蔬菜:N	與:C	帕瑪:N	火腿:N	.:PERIODCATEGORY	
+也:ADV	是:Vt	小:Vi	星星:N	排成:Vt	團:N	上桌:Vi	
+笑:Vi	
+上桌:Vi	時:POST	有點:ADV	疑惑:Vi	醬汁:N	偏少:Vi	
+但:C	侍:Vt	酒:N	師笑:Vi	說:Vt	
+這:DET	個:M	菜餚:N	在:P	義大利:N	本:ADV	是:Vt	鄉村:N	農婦:N	替:P	丈夫:N	帶:Vt	的:T	田野:N	便當:N	
+少:Vi	醬汁:N	比較:ADV	好:Vi	攜帶:Vt	
+所以:C	後來:N	變化:N	的:T	菜餚:N	也:ADV	延續:Vt	這樣:Vi	的:T	做法:N	.:PERIODCATEGORY	
+我:N	真的:ADV	好:ADV	喜歡:Vt	laFESTA:FW	的:T	義大利:N	餃:b	
+在:P	台灣:N	吃:Vt	過:ASP	那麼多:DET	義大利菜:N	
+這:DET	間:M	的:T	義大利:N	餃:b	真的:ADV	昰:b	我:N	吃:Vt	過:ASP	最:ADV	印象:N	深刻:Vi	的:T	
+沒有:ADV	一般:ADV	在:P	外:N	麵:N	吃到:Vt	的:T	軟軟:Vi	餃皮:N	
+這裡:N	的:T	餃:b	皮帶:N	有:Vt	彈性:N	
+醬汁:N	擔任:Vt	配角:N	但:C	又:ADV	不:ADV	搶:Vt	餃子:N	的:T	味道:N	.:PERIODCATEGORY	
+其實:ADV	一:ADV	開始:Vt	選:Vt	這:DET	間:M	餐廳:N	就:ADV	是:Vt	看到:Vt	菜單:N	裡:N	有:Vt	很多:DET	的:T	義大利:N	餃子:N	品:Vt	項:M	
+才:ADV	有:Vt	高度:A	興趣:N	的:T	
+男友:N	的:T	主餐:N	
+黑松:N	露醬:N	炒:Vt	龍蝦:N	
+鴨肝:N	
+及:C	牛:N	肝:N	蕈:N	手工:N	寬:Vi	麵:N	.:PERIODCATEGORY	
+主廚:N	看似:Vt	大男人:N	但:C	內心:N	也:ADV	有:Vt	小:Vi	花園:N	
+浪漫:Vi	地:T	替:P	麵兒:N	灑上:Vt	花瓣:N	.:PERIODCATEGORY	
+黑松:N	露醬:N	提香:N	
+但:C	不:ADV	搶:Vt	掉食材:N	其他:DET	味道:N	
+我:N	覺得:Vt	這:DET	是:Vt	很:ADV	厲害:Vi	的:T	小:Vi	眉角:N	.:PERIODCATEGORY	
+許多:DET	餐廳:N	也:ADV	主打:Vt	黑松:N	露醬:N	
+但:C	醬料:N	下去:Vi	後:POST	只:ADV	吃:Vt	的:T	到:P	松露:N	味:N	
+其他:DET	好像:ADV	放:Vt	什麼:DET	都:ADV	沒:ADV	差:Vi	了:T	
+這:DET	盤:M	義大利麵:N	完全:ADV	沒有:Vt	這:DET	個:M	缺點:N	
+松露:N	是:Vt	前:DET	味:M	
+卻:ADV	不:ADV	蓋掉:Vt	其他:DET	食材:N	的:T	味道:N	
+咀嚼:Vt	時:POST	還是:ADV	可以:ADV	感受到:Vt	各:DET	食材:N	
+鴨肝:N	
+牛:N	肝:N	菌:N	和:C	龍蝦:N	的:T	原始:Vi	味道:N	.:PERIODCATEGORY	
+餐:N	後:POST	甜點:N	
+男友:N	選:Vt	了:ASP	自製:Vt	焦糖:N	義式:A	水果:N	乾:Vi	蛋糕:N	搭配:Vt	核桃:N	巧克力:N	與:C	無花果:N	乾:Vi	.:PERIODCATEGORY	
+義式:A	水果:N	乾:Vi	蛋糕:N	是:Vt	義大利:N	傳統:N	蛋糕:N	
+但:C	laFESTA:FW	主廚:N	將:P	他:N	變化:N	
+以:P	法式:A	吐司:N	的:T	概念:N	出發:Vi	
+煎成:Vt	四面:N	焦黃:Vi	後:POST	再:ADV	搭配:Vt	香草:N	蛋黃:N	奶醬:N	.:PERIODCATEGORY	
+我:N	選:Vt	的:T	昰:b	主廚:Vi	特製:Vt	蛋糕:N	佐:Vt	糖漬:A	大:Vi	黃:Vi	、:PAUSECATEGORY	法芙娜:N	巧克力:N	橄欖油:N	慕:Vt	斯:DET	.:PERIODCATEGORY	
+主廚:N	特製:Nv	蛋糕:N	單:ADV	吃:Vt	有點:ADV	無聊:Vi	
+但:C	搭配上:Vt	幕:N	斯:DET	
+莓類:N	水果:N	和:C	果醬:N	後:POST	
+口感:N	和:C	味道:N	層次:N	就:ADV	變得:Vt	很:ADV	多元:Vi	.:PERIODCATEGORY	
+餐:N	後:POST	飲料:N	
+瑪黑:N	兄弟:N	法式:A	加:Vt	味:N	紅茶:N	
+但:C	忘記:Vt	當初:N	選:Vt	的:T	那:DET	個:M	名字:N	了:T	
+與:C	熱:N	卡布:N	奇:ADV	諾:FW	.:PERIODCATEGORY	
+不過:C	這天:N	選:Vt	的:T	這:DET	款:M	紅茶:N	很:ADV	棒:Vi	
+香氣:N	清爽:Vi	不:ADV	苦澀:Vi	
+搭配:Vt	蛋糕:N	十分:ADV	適合:Vi	.:PERIODCATEGORY	
+咖啡:N	使用:Vt	的:T	昰:b	Lavazza:FW	豆子:N	
+搭配:Vt	奶:N	泡:Vt	滑:Vi	順:Vt	好:Vi	入口:N	.:PERIODCATEGORY	
+這:DET	天:M	就:ADV	這樣:Vi	
+和:C	男友:N	在:P	laFESTA:FW	度過:Vt	了:ASP	非常:ADV	美好:Vi	的:T	週年:N	午餐:N	時光:N	.:PERIODCATEGORY	
+從:P	裝潢:N	
+用餐:Nv	氣氛:N	到:P	餐點:N	
+laFESTA:FW	都:ADV	非常:ADV	到:P	味:N	
+更:ADV	別:ADV	說:Vt	主廚:N	驚人:Vi	的:T	手藝:N	.:PERIODCATEGORY	
+這天:N	吃完:Vt	我:N	和:C	男友:N	兩:DET	人:N	直接:Vi	將:P	這:DET	間:M	列入:Vt	我們:N	在:P	台灣:N	最:ADV	喜歡:Vt	的:T	義大利:N	餐廳:N	XD:FW	
+另外:C	
+真的:ADV	要:ADV	大推:Vt	維多:N	力亞:N	酒店:N	的:T	服務:Nv	人員:N	及:C	侍:Vt	酒:N	師:N	.:PERIODCATEGORY	
+雖然:C	這:DET	天:M	我們:N	一:DET	杯:M	酒:N	都:ADV	沒:ADV	點:Vt	
+但:C	侍:Vt	酒:N	師:N	幫:P	我們:N	點菜:Vi	時:POST	
+邊:ADV	與:P	我們:N	聊天:Vi	
+邊:ADV	從:P	我們:N	聊天:Vi	的:T	內容:N	裡:POST	了解:Vt	我們:N	的:T	喜好:Nv	
+不單:ADV	只是:ADV	強力:Vi	推薦:Vt	單價:N	高:Vi	的:T	肉類:N	主餐:N	
+而:C	建議:Vt	我們:N	點:Vt	主廚:N	擅長:Vt	的:T	義大利:N	麵食:N	
+也:ADV	因為:C	如此:Vi	
+這:DET	天:M	所有:DET	餐點:N	都:ADV	很:ADV	和:P	我們:N	胃口:N	
+也:ADV	謝謝:Vt	這:DET	位:M	細心:Vi	的:T	侍:Vt	酒:N	師:N	.:PERIODCATEGORY	
+雖然:C	價位:N	不:ADV	低:Vi	
+一:DET	人:N	吃下來:Vi	約:ADV	1000:DET	出頭:POST	
+但:C	這樣:Vi	的:T	價位:N	
+能夠:ADV	想:Vt	受到:Vt	五星級:N	服務:Nv	及:C	米其林:N	等級:N	餐點:N	
+也:ADV	算:Vt	物超所值:Vi	.:PERIODCATEGORY	
+推薦給:Vt	大家:N	
+重要:Vi	節慶:N	或:C	記念日:N	可以:ADV	來:ADV	享受:Vt	一:DET	頓:M	囉:T	
+每天:N	睜開:Vt	眼:N	
+就:ADV	開始:Vt	期待:Vt	會:ADV	在:P	哪:DET	個:M	角落:N	遇見:Vt	好吃:Vi	的:T	東西:N	
+美食:N	好芃友:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	mikageyoru.pixnet.net/blog:FW	

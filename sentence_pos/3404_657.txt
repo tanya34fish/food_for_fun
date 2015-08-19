@@ -1,0 +1,152 @@
+HENRY:FW	1:DET	(:PARENTHESISCATEGORY	黃:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	*:FW	松山:N	。:PERIODCATEGORY	躼腳:N	日本:N	料理:N	*:FW	排隊:Vi	美食:N	生:Vt	魚:N	
+Fri:FW	
+Aug:FW	
+8:DET	
+23:DET	::COLONCATEGORY	08:DET	::COLONCATEGORY	39:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	台北:N	*:FW	松山:N	(:PARENTHESISCATEGORY	中山:N	國中:N	):PARENTHESISCATEGORY	。:PERIODCATEGORY	躼腳:N	(:PARENTHESISCATEGORY	身長:Vt	腳:N	):PARENTHESISCATEGORY	日本:N	料理:N	*:FW	排隊:Vi	美食:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	08月:N	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	民權東路:N	三段:N	１０７:DET	號:M	
+電話:N	：:COLONCATEGORY	０２－２５４５４６９９:DET	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32660717:DET	
+＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	
+＊:FW	純:Vi	文字:N	
+從:P	咖啡病:N	開幕:Vi	後:POST	我:N	已經:ADV	唉:T	唉:T	叫:Vt	好幾:DET	天:M	叫:Vt	ＴＪ:FW	帶:Vt	我:N	去:ADV	吃:Vt	
+好不容易:ADV	盧:N	到:P	今天:N	晚上:N	要:ADV	去:ADV	吃:Vt	了:ASP	
+卻:ADV	看到:Vt	一:DET	堆:M	普評:N	甚至:ADV	負:Vt	評:Vt	XD:FW	
+腦波:N	超:Vt	弱:Vi	立刻:ADV	打消:Vt	念頭:N	
+決定:Vt	改:Vt	往:P	ＴＪ:FW	一直:ADV	想:Vt	吃:Vt	的:T	『:PARENTHESISCATEGORY	身長:Vt	腳:N	』:PARENTHESISCATEGORY	去:ADV	
+其實:ADV	身長:Vt	腳:N	真的:ADV	放:Vt	在:P	口袋:N	放:Vt	很:ADV	久:Vi	了:T	
+但:C	我:N	只要:C	想到:Vt	人:N	好多:DET	好:Vi	排隊:Vi	這:DET	件:M	事:N	就:ADV	會:ADV	無力:Vi	
+因為:C	是:Vt	很:ADV	臨時:A	決定:N	要:ADV	去:ADV	吃:Vt	的:T	也:ADV	沒:ADV	訂位:Vi	
+心:N	裡:POST	還:ADV	盤算:Vt	著:ASP	真的:ADV	要:ADV	排:Vt	很:ADV	久:Vi	的:T	話:N	就:ADV	打道回府:Vi	
+我:N	一:ADV	下班:Vi	就:ADV	飛奔:Vi	過去:Vi	
+大概:ADV	是:Vt	六:DET	點:M	出頭:POST	
+但:C	看到:Vt	門口:N	這樣:Vi	的:T	人潮:N	下巴:N	還是:ADV	掉:Vt	了:ASP	下來:Vi	
+比:P	我:N	想像:Vt	的:T	還:ADV	再:ADV	誇張:Vt	一點:DET	XD:FW	
+『:PARENTHESISCATEGORY	躼腳:N	』:PARENTHESISCATEGORY	其實:ADV	唸:Vt	『:PARENTHESISCATEGORY	ㄌ:FW	ㄠ:FW	ˋ:FW	咖:b	』:PARENTHESISCATEGORY	
+就:ADV	是:Vt	台語:N	指:Vt	一:DET	個:M	人:N	長:Vi	得:T	很:ADV	高:Vi	腳:N	很:ADV	長:Vi	之:T	意:N	
+不過:C	可以:ADV	發現:Vt	用:P	注音:N	打:Vt	ㄌ:FW	ㄠ:FW	ˋ:FW	的:T	時後:N	其實:ADV	打:Vt	不:ADV	出:Vt	身長:Vt	這:DET	個:M	字:N	
+那:ADV	我:N	是:Vt	怎麼:ADV	打出:Vt	這:DET	個:M	字:N	的:T	呢:T	
+就:ADV	複製:Vt	貼上:Vt	就:ADV	好了:T	XDDD:FW	
+好:Vi	啦:T	
+叫:Vt	他:N	身長:Vt	腳:N	或是:C	澇咖:N	都:ADV	可以:ADV	
+大:Vi	熱天:N	戶外:N	居然:ADV	也:ADV	是:Vt	坐滿:Vt	滿滿:Vi	
+點餐:N	流程:N	是:Vt	這樣:Vi	的:T	：:COLONCATEGORY	
+１:DET	.:PERIODCATEGORY	衝進去:Vi	跟:P	店員:N	說:Vt	有:Vt	幾:DET	位:M	並:ADV	拿:Vt	菜單:N	
+此:DET	時:POST	已:ADV	得到:Vt	排隊:Nv	號碼:N	
+２:DET	.:PERIODCATEGORY	去:Vt	外面:N	慢慢:Vi	點:M	餐:N	再:ADV	拿給:Vt	店員:N	等:POST	安排:Nv	座位:N	
+好:Vi	的:T	
+神奇:Vi	的:T	事情:N	發生:Vt	了:ASP	
+我:N	拿到:Vt	排隊:Nv	號碼:N	的:T	時候:N	順口:Vi	問:Vt	了:ASP	一:DET	聲:M	要:ADV	等:P	多:ADV	久:Vi	
+店員:N	說:Vt	：:COLONCATEGORY	４０:DET	分鐘:M	
+來:ADV	都:ADV	來:Vi	了:ASP	４０:DET	分鐘:M	就:ADV	４０:DET	分鐘:M	吧:T	
+那:DET	就:ADV	慢慢:Vi	選:Vt	菜:N	好了:T	
+可是:C	就:ADV	在:P	我:N	寫完:Vt	菜單:N	拿進:Vt	去:ADV	給:Vt	店員:N	的:T	同時:N	就:ADV	立刻:ADV	得到:Vt	了:ASP	位子:N	=:FW	_:FW	_:FW	_:FW	=:FW	
+結果:ADV	才:ADV	等:Vt	不:ADV	到:Vt	１０:DET	分鐘:M	阿:N	是:Vt	花生:N	省:N	魔術:N	
+XDDD:FW	
+餐廳:N	空間:N	不:ADV	大:Vi	
+內:N	用:Vt	座位:N	更:ADV	是:Vt	少:Vi	
+中間:N	有:Vt	個:M	環狀:N	吧台:N	
+我們:N	最後:N	也:ADV	是:Vt	被:P	安排:Vt	跟:P	別人:N	一起:ADV	併:Vt	桌:N	用餐:Vi	
+不過:C	翻:Vt	桌:N	還:ADV	蠻:ADV	快:Vi	的:T	
+也許:ADV	是:Vt	我們:N	很:ADV	快:Vi	就:ADV	排到:Vt	隊:N	的:T	原因:N	之:T	一:DET	吧:T	XD:FW	
+丼飯:N	有:Vt	分:M	套餐:N	或:C	單點:N	
+套餐:N	多:Vi	了:ASP	６０:DET	元:M	
+含:Vt	手卷:N	/:FW	沙拉:N	/:FW	小菜:N	三:DET	選:Vt	一:DET	
+以及:C	味噌湯:N	
+大概:ADV	便宜:Vi	二三十:DET	元:M	
+個:M	人:N	覺得:Vt	蠻:ADV	划算:Vi	的:T	點:Vt	了:ASP	一:DET	份:M	
+味噌湯:N	
+他們:N	的:T	味噌偏:Vi	甜:Vi	但:C	很:ADV	好喝:Vi	
+而且:C	鮭魚肉:N	好多:DET	
+蝦:N	蘆筍:N	手卷:N	
+有:Vt	些:M	手卷:N	會:ADV	用:P	爭:Vt	鮮:Vi	那:DET	種:M	小小:Vi	隻:M	的:T	蝦子:N	還:ADV	硬:ADV	要:ADV	對:P	切:Vt	+:FW	拍扁:Vt	
+但:C	身長:Vt	腳:N	的:T	蝦子:N	是:Vt	新鮮:Vi	的:T	白蝦:N	且:C	很:ADV	大:Vi	隻:M	
+我:N	很:ADV	喜歡:Vt	耶:T	
+要:ADV	盡快:ADV	吃:Vt	不然:C	海苔:N	會:ADV	潮掉:N	噢:T	
+章魚:N	醋:N	＄:FW	８０:DET	
+幾乎:ADV	只要:C	有:Vt	看到:Vt	章魚:N	醋:N	我:N	就:ADV	會:ADV	點:Vt	
+我:N	喜歡:Vt	的:T	章魚:N	醋:N	要:ADV	很:ADV	酸:Vi	很:ADV	酸:Vi	
+而且:C	還要:ADV	很:ADV	入:Vt	味:N	
+不能:ADV	是:Vt	新鮮:Vi	章魚:N	丟進:Vt	醋:N	裡:N	
+哈哈:ADV	
+身長:Vt	腳:N	的:T	章魚:N	有:Vt	入:Vt	味:N	
+但:C	沒有:Vt	很:ADV	酸:Vi	XD:FW	微:ADV	酸:Vi	偏:ADV	鹹:Vi	
+全:DET	員:M	到齊:Vi	合照:Vi	一:DET	張:M	
+海膽:N	生魚片:N	丼:b	配色:Vi	真:ADV	美:Vi	
+海膽:N	生魚片:N	丼:b	＄:FW	２４０:DET	
+單:ADV	
+加上:C	芥末:N	的:T	話:N	就:ADV	有:Vt	紅:Vi	橙黃:Vi	綠:Vi	了:T	耶:T	XD:FW	
+海膽:N	生魚片:N	丼:b	有:Vt	鮪魚:N	×:FW	1:DET	旗魚:N	×:FW	1:DET	鮭魚:N	×:FW	2:DET	海膽:N	×:FW	3:DET	
+看似:Vt	份量:N	好像:ADV	不:ADV	多:Vi	
+但:C	看:Vt	圖:N	就:ADV	知道:Vt	每:DET	一:DET	片:M	生魚片:N	都:ADV	是:Vt	又:ADV	厚:Vi	又:ADV	大:Vi	塊:M	
+鮪魚:N	跟:P	旗魚:N	就:ADV	不:ADV	贅述:Vi	了:ASP	
+我:N	對:P	他們:N	實在:ADV	無感:N	
+不過:C	都:ADV	沒有:Vt	什麼:DET	筋:N	就是了:Vi	
+鮭魚:N	可是:C	超:Vt	有:Vt	誠意:N	來著:T	
+接近:Vt	魚肚:N	的:T	部位:N	又:C	油:N	又:ADV	甜:Vi	的:T	相當:ADV	肥:Vt	嫩:Vi	
+一般來說:ADV	
+生魚片:N	並:ADV	不:ADV	是:Vt	厚:Vi	切:Vt	就:ADV	好吃:Vi	
+有時候:ADV	切:Vt	太:ADV	厚:Vi	反而:C	容易:Vi	有:Vt	差錯:N	影響:Vt	口感:N	
+但是:C	身長:Vt	腳:N	的:T	魚:N	料選:Vt	得:T	好:Vi	
+真的:ADV	是:Vt	又:ADV	厚:Vi	又:ADV	好吃:Vi	
+海膽:N	有:Vt	三:DET	個:M	
+我:N	覺得:Vt	品質:N	有點:ADV	參差不齊:Vi	
+三:DET	顆:M	味道:N	都:ADV	不:ADV	太:ADV	一樣:Vi	XD:FW	
+其中:DET	兩:DET	個:M	的:T	新鮮度:N	還:ADV	OK:FW	
+但:C	顏色:N	最:ADV	接近:Vi	土黃色:N	的:T	那:DET	個:M	就:ADV	有點:ADV	腥味:N	
+不過:C	我:N	真心:Vi	覺得:Vt	吃:Vt	過:ASP	來自:Vt	北海道:N	的:T	海膽:N	之後:POST	真的:ADV	就:ADV	回:Vt	
+不:ADV	
+去:ADV	
+了:T	
+北海道:N	海膽:N	：:COLONCATEGORY	菓湜小:N	料理:Vt	Furutsu:FW	*:FW	
+生:Vt	鮭魚:N	親子:N	丼:b	＄:FW	２３０:DET	
+套:Vt	
+這:DET	碗:M	總共:ADV	有:Vt	四:DET	片:M	肥厚:Vi	的:T	鮭魚:N	
+比起:P	剛剛:ADV	海膽:N	丼:b	裡:N	的:T	鮭魚:N	又:ADV	來得:ADV	更:ADV	油:N	一些:DET	
+其實:ADV	我:N	記得:Vt	我:N	以前:N	沒有:ADV	喜歡:Vt	鮭魚:N	卵:N	
+但:C	最近:N	好像:ADV	有點:ADV	開始:Vt	對:P	鮭魚:N	卵:N	產生:Vt	好感:N	XD:FW	
+顆顆:DET	在:P	口:N	中:N	爆漿:N	的:T	鮭魚:N	卵:N	相當:ADV	不錯:Vi	吃:Vt	
+且:C	鹹度:N	適中:Vi	
+不:ADV	像:Vt	小:Vi	六:DET	的:T	鮭魚:N	卵:N	就:ADV	真的:ADV	太:ADV	鹹:Vi	了:T	
+這:DET	碗:M	要是:C	單點:N	只要:C	１７０:DET	耶:T	
+ＣＰ:FW	值:N	是否:ADV	超高:Vi	
+噢:T	對了:Vi	還:ADV	沒:ADV	講到:Vt	飯:N	的:T	部分:DET	
+基本:N	上:N	丼:b	飯:N	裡:POST	要:ADV	是是:Vi	醋:N	飯:N	是:Vt	最好:ADV	
+但:C	我:N	對:Vi	是:Vt	熱:Vt	白飯:N	也:ADV	還:ADV	能:ADV	接受:Vt	
+但:C	身長:Vt	腳:N	的:T	飯:N	是:Vt	溫偏:Vi	冷:Vi	的:T	白飯:N	
+且:C	煮:Vt	得:T	稍:ADV	偏:ADV	乾:Vi	了:ASP	點:M	
+這:DET	算是:Vt	今天:N	唯一:A	的:T	小小:Vi	缺點:N	啦:T	
+但:C	不:ADV	太:ADV	影響:Vt	我:N	對:P	身長:Vt	腳:N	的:T	喜歡:Vt	XD:FW	
+每:DET	週一:N	公休:Vi	別:ADV	白:Vi	跑:Vi	一:DET	趟:M	
+結論:N	：:COLONCATEGORY	
+雖然:C	身長:Vt	腳:N	是:Vt	排隊:Vi	名:M	店:N	
+外頭:N	也:ADV	總是:ADV	擠滿:Vt	人:N	
+不過:C	因為:C	翻:Vt	桌率:N	很:ADV	高:Vi	所以:C	不用:ADV	等:Vt	太:ADV	久:Vi	就:ADV	能:ADV	用:P	
+餐:N	
+魚:N	料:N	肥厚:Vi	大:Vi	片:N	又:ADV	新鮮:Vi	
+最:ADV	便宜:Vi	的:T	生魚片:N	丼:b	更:ADV	是:Vt	１２０:DET	元:M	就:ADV	吃:Vt	得到:Vt	
+我:N	自己:N	是:Vt	覺得:Vt	CP:FW	值:N	相當:ADV	
+不錯:Vi	
+聽說:Vt	常常:ADV	有:Vt	人:N	會:ADV	拿:Vt	身長:Vt	腳:N	來:ADV	跟:P	小:Vi	六:DET	比:P	
+如果:C	單:ADV	就:ADV	鮭魚:N	親子:N	丼:b	來:ADV	說:Vt	比較:ADV	喜歡:Vt	身長:Vt	腳:N	的:T	
+鮭魚:N	
+卵:N	的:T	關係:N	
+不過:C	小:Vi	六:DET	有:Vt	醋飯:N	且:C	也許:ADV	海鮮:N	丼:b	比較:ADV	是:Vt	強項:N	
+所以:C	很:ADV	難說:Vt	誰:N	比較:ADV	厲害:Vi	啦:T	只:ADV	有:Vt	比較:ADV	偏愛:Vt	哪:DET	家:M	之:T	
+分:Vt	XD:FW	
+聽說:Vt	身長:Vt	腳:N	的:T	烤:Nv	物:N	也:ADV	很:ADV	好吃:Vi	
+下:DET	次:M	再:ADV	來:ADV	試試:Vt	
+整體:N	來:ADV	說:Vt	值得:Vi	一:ADV	吃:Vt	
+推薦給:Vt	大家:N	囉:T	
+食物:N	美味:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	☆:FW	
+ＣＰ:FW	值:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	★:FW	
+服務:Nv	態度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	☆:FW	
+再:ADV	訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	★:FW	
+本:DET	篇:M	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32660717:DET	
+常:ADV	被:P	拿來:Vt	比較:Vt	的:T	
+小:Vi	六:DET	食堂:N	*:FW	食尚:N	玩家:N	推薦:Nv	排隊:Nv	美食:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32210492:DET	

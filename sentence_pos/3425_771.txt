@@ -1,0 +1,59 @@
+Joycebe:FW	(:PARENTHESISCATEGORY	我:N	和:P	我:N	的:T	倔強:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	印花樂:N	＠:FW	什物:N	快:ADV	閃:Vt	雜貨:N	咖啡店:N	
+Fri:FW	
+Aug:FW	
+15:DET	
+00:DET	::COLONCATEGORY	22:DET	::COLONCATEGORY	10:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	印花樂:N	＠:FW	什物:N	快:ADV	閃:Vt	雜貨:N	咖啡店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	文昌街:N	49:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27067062:DET	(:PARENTHESISCATEGORY	印花樂:N	@:FW	什物:N	):PARENTHESISCATEGORY	
+營業:Nv	時間:N	：:COLONCATEGORY	13:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	天天:ADV	開店:Vi	
+網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	joycebe.pixnet.net/blog/post:FW	/:FW	41256352:DET	
+注意:Vt	什物:N	這:DET	間:M	餐廳:N	已經:ADV	一陣子:N	了:T	
+沒:ADV	注意到:Vt	的:T	是:Vt	老闆娘:N	去:Vt	過:ASP	暑假:N	
+所以:C	要:ADV	休息:Vi	3:DET	個:M	月:N	
+一:DET	
+直到:P	某天:N	在:P	誠品:N	的:T	印花:N	樂櫃位:N	看到:Vt	快:Vi	閃店:N	的:T	宣傳:N	貼紙:N	
+才:ADV	知道:Vt	這:DET	個:M	有趣:Vi	的:T	企劃:N	
+快:ADV	閃:Vt	雜貨:N	咖啡店:N	的:T	menu:FW	很:ADV	精簡:Vi	
+只有:C	一:DET	種:M	咖啡:N	、:PAUSECATEGORY	一:DET	種:M	茶:N	、:PAUSECATEGORY	三:DET	種:M	甜點:N	
+當然:ADV	還是:ADV	保留:Vt	了:ASP	熱愛:Vt	
+台灣:N	的:T	品:N	項:M	
+台灣:N	阿里山:N	烏龍:N	紅茶:N	
+是:Vt	將:P	烏龍茶:N	以:P	紅茶:N	的:T	方式:N	烘焙:Vt	
+而:C	
+阿里山:N	咖啡:N	
+混合:Vt	義式:A	咖啡豆:N	
+是:Vt	由:P	同樣:Vi	在:P	小:Vi	藝埕:N	有:Vt	分店:N	的:T	爐鍋:N	咖啡:N	所:ADV	烘焙:Vt	的:T	
+甜點:N	部份:DET	有:Vt	什物:N	招牌:N	檸:b	
+檬塔:N	、:PAUSECATEGORY	特製:Vt	的:T	提拉米蘇:N	和:C	瑪德蓮:N	小:Vi	蛋糕:N	
+可惜:Vi	我們:N	造訪:Vt	的:T	當天:N	沒有:Vt	提拉米蘇:N	
+我:N	和:C	朋友:N	都:ADV	點:Vt	了:ASP	冰:N	的:T	台灣:N	阿里山:N	烏龍:N	紅茶:N	
+味道:N	甘甜:Vi	不:ADV	苦澀:Vi	
+雖然:C	不會:ADV	太:ADV	濃郁:Vi	
+但:C	喝:Vt	起來:ASP	
+也:ADV	是:Vt	清清爽爽:Vi	好:Vi	入口:N	
+令:Vt	人:N	驚喜:Vi	的:T	是:Vt	每:DET	個:M	茶杯:N	和:C	杯墊:N	都:ADV	長:Vt	得:T	不同:Vi	
+喜歡:Vt	這:DET	種:M	質樸:Vi	的:T	杯子:N	
+因為:C	沒有:ADV	提:Vt	拉米蘇:N	所以:C	合:Vt	點:Vt	了:ASP	一:DET	個:M	檸檬塔:N	
+上面:N	還:ADV	加:Vt	了:ASP	印花:N	樂:Vi	的:T	Logo:FW	
+檸檬塔:N	的:T	塔皮:N	非:ADV	
+常:ADV	鬆脆:Vi	
+帶有:Vt	奶香:N	
+餡料:N	部份:DET	則:ADV	是:Vt	偏:ADV	酸:Vi	
+感覺:N	用料:N	扎扎實實:Vi	
+不:ADV	虧:ADV	是:Vt	什物:N	的:T	招牌:N	
+但:C	怕:Vt	酸:Vi	
+的:T	人:N	可能:ADV	要:ADV	三思:Vi	喔:T	
+餐具:N	一樣:Vi	是:Vt	好:ADV	可愛:Vi	
+雖然:C	是:Vt	快:Vi	閃:Vt	店:N	
+但是:C	不論:C	是:Vt	店:N	的:T	擺設:Nv	、:PAUSECATEGORY	甜點:N	製作:Nv	、:PAUSECATEGORY	廣告:N	文宣:N	全:DET	都:ADV	不:ADV	馬虎:Vi	
+甚至:C	印花樂:N	還手:Vi	
+繪:Vt	了:ASP	快:Vi	閃:Vt	店:N	的:T	周邊:N	地圖:N	
+與:P	大家:N	分享:Vt	信義:N	安和:Vi	一帶:N	的:T	美好:Vi	生活:N	提案:N	
+快:Vi	閃店:N	只:ADV	到:P	9:DET	/:FW	21:DET	
+雖:C	
+然:C	價位:N	有點:ADV	高:Vi	
+但:C	和:P	我:N	一樣:Vi	喜歡:Vt	這:DET	種:M	期間:N	限定:Vt	的:T	朋友:N	趕快:ADV	把握:Vt	機會:N	來:ADV	看看:Vt	吧:T	

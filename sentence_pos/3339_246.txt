@@ -1,0 +1,368 @@
+iRURU:FW	(:PARENTHESISCATEGORY	茹茹:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	-:DASHCATEGORY	海人刺身丼飯:N	專賣店:N	超:Vt	新鮮:Vi	的:T	~:FW	
+Tue:FW	
+Jul:FW	
+22:DET	
+00:DET	::COLONCATEGORY	08:DET	::COLONCATEGORY	45:DET	
+2014:DET	
+店名:N	：:COLONCATEGORY	海人刺身丼飯:N	專賣店:N	
+地址:N	：:COLONCATEGORY	北巿:N	羅斯福路:N	4:DET	段:M	134:DET	號:M	2樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2365:DET	-:DASHCATEGORY	2699:DET	
+前往:Vt	時間:N	：:COLONCATEGORY	2014.03:DET	
+圖文:N	分享:Vt	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	w01111014.pixnet.net/blog/post:FW	/:FW	56247453:DET	
+很:ADV	開心:Vi	收到:Vt	邀約:Vt	來:Vi	公館:N	這邊:N	品嚐:Vt	這:DET	家:M	海人刺身丼飯:N	專賣店:N	
+位於:Vt	公館:N	的:T	頂呱呱:Vi	樓上:N	
+平常:N	我:N	去:ADV	逛:Vt	公館:N	還:ADV	真:ADV	沒:ADV	注意到:Vt	這:DET	家:M	店:N	耶:T	
+沒想到:ADV	這:DET	家:M	店:N	在:P	這麼:ADV	隱密:Vi	的:T	地方:N	
+生意:N	居然:ADV	超:Vt	好:Vi	的:T	
+都:ADV	快:ADV	客滿:Vi	了:T	
+大略:ADV	照:P	一下:N	環境:N	
+這:DET	個:M	時間:N	已經:ADV	九:DET	點:M	多:POST	我們:N	也:ADV	吃完:Vt	準備:Vt	走:Vi	了:ASP	
+還是:ADV	有:Vt	人:N	來:ADV	用餐:Vi	
+環境:N	很:ADV	光亮:Vi	乾淨:Vi	
+服務生:N	都:ADV	會:ADV	很:ADV	勤:Vi	的:T	來:ADV	收盤:Vi	整理:Vt	
+櫃檯處:N	
+有:Vt	個:M	小:Vi	冰櫃:N	
+裡面:N	放:Vt	了:ASP	許多:DET	種:M	生魚片:N	
+這邊:N	的:T	生魚片:N	強調:Vt	它:N	的:T	新:Vi	鮮度:N	
+選用:Vt	的:T	肉質:N	好:Vi	
+部位:N	好:Vi	
+懂得:Vt	享受:Vt	的:T	人:N	
+會:ADV	情願:Vt	多:ADV	花:Vt	點:M	錢:N	
+就是:C	要:ADV	吃到:Vt	這:DET	種:M	新鮮:Vi	生魚片:N	
+菜單:N	部分:DET	大略:ADV	介紹:Vt	一下:N	
+有:Vt	特別:Vi	分丼飯:N	跟:P	定食:Vt	
+也:ADV	有:Vt	小菜:N	及:C	手捲:N	等:POST	
+這:DET	次:M	特別:Vi	點:ADV	了:T	：:COLONCATEGORY	極樂:Vi	海景:N	丼:b	飯:N	、:PAUSECATEGORY	什錦:A	海鮮:N	丼:b	飯:N	、:PAUSECATEGORY	醬:N	燒松阪:Vt	豬:N	定食:Vt	
+其中:DET	只有:ADV	極樂:Vi	海景:N	丼飯:N	是:Vt	生食:N	
+其它:DET	兩:DET	道:M	都:ADV	是:Vt	熟食:N	的:T	
+小菜類:N	的:T	則:ADV	是:Vt	點:Vt	了:ASP	：:COLONCATEGORY	蜜汁:N	魚卵:N	、:PAUSECATEGORY	薑醋冰卷:N	、:PAUSECATEGORY	酥香烤水針:N	酥香烤水針:N	這:DET	名字:N	大家:N	一定:ADV	覺得:Vt	很:ADV	好奇:Vi	吧:T	
+其實:ADV	就:ADV	是:Vt	烤:Vt	魚乾:N	啦:T	
+可是:C	
+實際:Vi	上桌:Vi	的:T	時候:N	
+已經:ADV	被:P	剪成:Vt	一:DET	小:Vi	塊:M	一:DET	小:Vi	塊:M	的:T	片狀:N	
+不:ADV	是:Vt	完整:Vi	一:DET	片:M	
+還:ADV	有:Vt	手:N	捲:Vt	以及:C	單點烤物:N	
+這:DET	次:M	沒有:ADV	品嚐到:Vt	手卷:N	
+下:DET	次:M	有:Vt	機會:N	想:Vt	試試看:Vt	海膽:N	手卷:N	XDD:FW	三:DET	道:M	餐點:N	都:ADV	上桌:Vi	啦:T	
+最:ADV	左邊:N	是:Vt	醬烤松阪:N	豬:N	定食:Vt	
+右上:N	是:Vt	什錦:A	海鮮:N	丼:b	
+右下:N	最:ADV	大:Vi	碗:N	是:Vt	極樂:Vi	海景:N	丼:b	每:DET	份:M	都:ADV	會:ADV	附:Vt	味噌湯:N	和:C	甜湯:N	
+白飯:N	部分:DET	
+丼:b	飯:N	都:ADV	在:P	底下:N	了:T	
+定食:Vt	則:ADV	是:Vt	另外:C	附:Vt	一:DET	碗:M	
+且:C	上面:N	有:Vt	灑:Vt	上香:Vi	鬆:Vt	
+且:C	不:ADV	小:Vi	碗:M	喔:T	什錦:A	海鮮:N	丼:b	裡面:N	有:Vt	大卷:N	、:PAUSECATEGORY	蝦子:N	、:PAUSECATEGORY	魚卵:N	、:PAUSECATEGORY	鮑魚:N	、:PAUSECATEGORY	吻仔魚:N	等:POST	海鮮:N	
+對於:P	想:Vt	吃:Vt	海鮮:N	卻:ADV	不:ADV	想:Vt	吃:Vt	生食:N	的:T	話:N	
+就:ADV	可以:ADV	參考點:N	這:DET	一:DET	道:M	
+海鮮:N	料:N	還:ADV	挺:ADV	豐富:Vt	的:T	
+大卷:N	超:Vt	Q:FW	的:T	
+而且:C	好:ADV	有:Vt	厚度:N	喔:T	
+吻仔魚:N	則:ADV	是:Vt	太:ADV	軟:Vi	了:T	...:ETCCATEGORY	口感:N	我:N	不:ADV	喜歡:Vt	
+蝦子:N	挺:ADV	大:Vi	隻:M	的:T	
+重點:N	超:Vt	新鮮:Vi	的:T	
+殼:N	非常:ADV	好:Vi	剝:Vt	
+裡面:N	的:T	肉質:N	吃起來:ADV	超:Vt	Q:FW	彈:Vt	
+而且:C	沒有:Vt	特別:Vi	多:Vi	調味:Vi	
+居然:ADV	就:ADV	很:ADV	鮮:Vi	甜:Vi	
+迷人:Vi	的:T	脆度:N	口感:N	整:DET	個:M	超:Vt	加分光:N	這樣:Vi	吃:Vt	
+都:ADV	不用:ADV	沾醬:N	就:ADV	很:ADV	美味:Vi	了:T	
+還:ADV	蠻:ADV	清淡:Vi	的:T	
+若:C	喜歡:Vt	重:Vi	口味:N	就:ADV	建議:Vt	點:N	定食:Vt	附上:Vt	的:T	味噌湯:N	
+裡面:N	有:Vt	魚骨:N	塊:M	
+帶:Vt	肉:N	的:T	喔:T	
+另外:C	還:ADV	有:Vt	豆腐:N	、:PAUSECATEGORY	海帶:N	等:POST	
+老闆娘:N	有:Vt	特別:Vi	先:ADV	告知:Vt	
+因為:C	是:Vt	新來:Vi	的:T	人員:N	煮:Vt	的:T	
+所以:C	當日:N	煮:Vt	的:T	味噌湯:N	味道:N	比較:ADV	不:ADV	OK:FW	..:ETCCATEGORY	味噌湯:N	顏色:N	很:ADV	深:Vi	
+喝:Vt	起來:ASP	味道:N	不:ADV	只:ADV	有:Vt	味噌:N	而已:T	
+還:ADV	有:Vt	魚肉:N	熬:Vt	煮:Vt	的:T	鮮味:N	
+但:C	喝:Vt	起來:ASP	卻:ADV	有:Vt	一點:DET	澀澀:Vi	的:T	感覺:N	不:ADV	夠:ADV	順口:Vi	
+我:N	還是:ADV	喜歡:Vt	單純:Vi	一點:ADV	的:T	味噌湯:N	那:DET	種:M	濃郁:Vi	清爽:Vi	鹹鮮:N	適中:Vi	的:T	味道:N	
+又:ADV	讓:Vt	我:N	懷念:Vt	起:ASP	在:P	日本:N	喝:Vt	的:T	味噌湯:N	了:T	^:FW	^:FW	|:FW	|:FW	|:FW	附上:Vt	的:T	甜點:N	紫米:N	紅豆湯:N	這:DET	紫米:N	紅豆湯:N	
+料:N	還:ADV	挺:ADV	多:Vi	的:T	
+而且:C	紅豆:N	熬:Vt	煮:Vt	的:T	好好:Vi	喔:T	
+整:DET	個:M	湯:N	裡面:N	都:ADV	融入:Vt	了:ASP	滿滿:Vi	的:T	紅豆:N	泥:N	
+顆粒:N	也:ADV	很:ADV	完整:Vi	
+吃起來:ADV	鬆軟:Vi	又:ADV	綿密:Vi	裡面:N	也:ADV	有:Vt	混合:Vt	一些:DET	QQ:FW	的:T	紫米:N	
+口感:N	很:ADV	豐富:Vt	
+又:ADV	不會:ADV	太:ADV	甜:Vi	
+好喝:Vi	好喝:Vi	
+極樂:Vi	海景:N	丼:b	這:DET	個:M	好:Vi	大一:N	碗:N	喔:T	
+難怪:ADV	是:Vt	菜單:N	裡面:N	最:ADV	高級:Vi	的:T	一:DET	道:M	
+而且:C	生魚片:N	都:ADV	好:ADV	厚:Vi	喔:T	
+蝦子:N	超大:Vi	隻:M	的:T	
+還:ADV	有:Vt	四五:DET	種:M	的:T	生魚片:N	、:PAUSECATEGORY	鮭魚:N	卵:N	、:PAUSECATEGORY	鮑魚:N	以及:C	干貝:N	
+這:DET	個:M	比:P	剛剛:ADV	的:T	海鮮:N	丼:b	還:ADV	要:ADV	大:Vi	碗:N	許多:DET	
+蝦子:N	也:ADV	更:ADV	大:Vi	隻:M	喔:T	
+每:DET	款:M	生魚片:N	也:ADV	都:ADV	是:Vt	很:ADV	有:Vt	彈性:N	
+不:ADV	是:Vt	一般:A	吃到:Vt	軟趴趴:Vi	不:ADV	新鮮:Vi	的:T	那:DET	種:M	
+更:ADV	讚:Vi	的:T	是:Vt	它:N	每:DET	塊:M	生魚片:N	都:ADV	好:ADV	厚:Vi	喔:T	
+來自:Vt	東港:N	的:T	新鮮:Vi	魚貨:N	
+鮮美:Vi	又:ADV	沒:Vt	腥味:N	
+大:Vi	顆:M	鮭魚:N	卵:N	是:Vt	來自:Vt	日本:N	北海道:N	的:T	
+一口:ADV	咬下:Vt	口腔:N	充滿:Vt	非常:ADV	美味:Vi	的:T	海:N	鮮鮮:Vi	甜味:N	
+好好:Vi	吃:Vt	喔:T	
+真的:ADV	很少:ADV	吃到:Vt	這麼:ADV	鮮美:Vi	的:T	
+讓:Vt	我:N	很:ADV	驚艷:Vi	喔:T	^:FW	^:FW	大家:N	可以:ADV	仔細:Vi	看:Vt	
+真正:A	的:T	鮭魚:N	卵:N	中間:N	是:Vt	帶有:Vt	一點:DET	橘色:N	的:T	色澤:N	在:P	其中:DET	
+可以:ADV	辨識:Vt	看看:ASP	干貝:N	也:ADV	不:ADV	小:Vi	顆:M	喔:T	
+來自:Vt	日本:N	北海道:N	
+吃起來:ADV	QQ:FW	軟軟:Vi	的:T	
+若:C	口感:N	再:ADV	Q:FW	彈:Vt	點:N	會:ADV	更棒:N	...:ETCCATEGORY	北:N	寄:Vt	貝:N	口感:N	很:ADV	Q:FW	
+咀嚼:Vt	中:POST	會:ADV	帶有:Vt	甜味:N	出來:Vi	
+這:DET	也:ADV	算是:Vt	比較:ADV	高:Vi	極:ADV	些:M	的:T	食材:N	這:DET	碗:M	真的:ADV	是:Vt	超:Vt	豐富:Vt	的:T	
+我:N	想:Vt	喜歡:Vt	吃:Vt	生魚片:N	的:T	人:N	應該:ADV	會:ADV	非常:ADV	的:T	愛:N	喔:T	
+呵呵:ADV	
+看:Vt	這:DET	生魚片:N	的:T	厚度:N	
+就是:C	要:ADV	這樣:Vi	吃:Vt	才:ADV	過癮:Vi	
+朋友:N	嚐到:Vt	後跟:N	我:N	說:Vt	
+很:ADV	鮮美:Vi	也:ADV	很:ADV	好吃:Vi	的:T	
+有:Vt	在:P	吃:Vt	生魚片:N	的:T	人:N	一:ADV	嚐:Vt	就:ADV	知道:Vt	什麼:DET	是:Vt	新鮮:Vi	肉質:N	以及:C	油脂:N	的:T	化口:N	和:C	香氣:N	
+吃:Vt	了:ASP	會:ADV	上癮:Vi	喔:T	
+呵呵:ADV	一:ADV	拿:Vt	蝦子:N	要:ADV	來:ADV	剝:Vt	殼:N	
+比照:P	一下:N	
+比:P	我:N	那:DET	肥肥:Vi	的:T	甜不辣:N	手指:N	還:ADV	要:ADV	粗:Vi	很多:DET	
+口感:N	也:ADV	是:Vt	超脆口超:N	新鮮:Vi	的:T	
+不用:ADV	沾:Vt	什麼:DET	醬料:N	
+剝:ADV	好:ADV	直接:Vi	吃:Vt	
+就:ADV	甜:Vi	的:T	很:ADV	不像話:Vi	醬燒松阪:N	豬:N	定食:Vt	附上:Vt	的:T	沙拉:N	挺:ADV	普通:Vi	的:T	
+我:N	覺得:Vt	醬料:N	換:Vt	凱薩:N	或者:C	千:DET	島:N	或許:ADV	會:ADV	好:Vi	一點:ADV	
+之前:N	吃:Vt	過:ASP	的:T	松阪:N	豬:N	
+其實:ADV	都:ADV	會:ADV	有點:ADV	油脂:N	偏:ADV	多:ADV	也:ADV	比較:ADV	油:Vi	一點:ADV	
+但:C	可是:C	這邊:N	的:T	松阪:N	豬:N	完全:ADV	不:ADV	油:N	也:ADV	不會:ADV	有:Vt	太:ADV	肥:Vt	的:T	情形:N	
+但是:C	口感:N	呢:T	
+則:ADV	是:Vt	比:P	我:N	一般:ADV	吃到:Vt	的:T	再:ADV	紮實:Vi	許多:DET	
+各:DET	人:N	喜歡:Vt	的:T	口感:N	不同:Vi	
+我:N	則:ADV	是:Vt	喜歡:Vt	軟嫩:Vi	且:C	卻:ADV	有:Vt	油脂:N	的:T	感覺:N	
+吃起來:ADV	更:ADV	棒:Vi	
+上面:N	沾:Vt	附:Vt	的:T	醬汁:N	有點:ADV	甜甜:Vi	的:T	
+是:Vt	很:ADV	大眾化:Vt	的:T	口味:N	
+灑上:Vt	白:Vi	芝麻:N	香氣:N	更:ADV	夠:Vi	更加:ADV	分:Vt	白飯:N	還:ADV	蠻:ADV	大:Vi	碗:N	的:T	
+但是:C	這:DET	家:M	的:T	白飯:N	好好:Vi	吃:Vt	喔:T	
+粒粒:DET	分明:Vi	
+軟硬:Vi	適中:Vi	
+我:N	是:Vt	個:M	沒有:Vt	很:ADV	愛:Vt	吃飯:Vi	的:T	人:N	卻:ADV	整:DET	碗:N	吃光光:Vi	XD:FW	上面:N	還:ADV	有:Vt	一些:DET	香鬆:N	搭配:Vt	一起:ADV	吃:Vt	
+更:ADV	美味:Vi	更:ADV	香:Vi	薑醋冰卷:N	吃起來:ADV	好:Vi	Q:FW	彈:Vt	喔:T	
+真的:ADV	很:ADV	新鮮:Vi	
+口感:N	超:Vt	好:Vi	的:T	
+搭配:Vt	有點:ADV	微:Vi	酸:Vi	的:T	醬汁:N	
+很:ADV	清爽:Vi	很:ADV	開胃:Vi	
+沒有:Vt	什麼:DET	太:ADV	重:Vi	的:T	薑味:N	喔:T	
+調味:Vi	偏淡:Vi	
+感覺:N	主要:ADV	都:ADV	是:Vt	在:P	吃食:N	材:N	本身:N	的:T	味道:N	嚕:ADV	
+蜜汁:N	魚卵:N	好:ADV	厚:Vi	一:DET	條:M	喔:T	
+裡面:N	非常:ADV	的:T	紮實:Vi	緊密:Vi	
+但:C	吃起來:ADV	也:ADV	比較:ADV	偏:Vt	乾:Vi	了:ASP	點:M	
+蜜汁:N	些微:A	甜甜:Vi	的:T	
+但是:C	並:ADV	不會:ADV	太過:ADV	甜:Vi	
+而:C	覺得:Vt	醬汁:N	太:ADV	厚重:Vi	
+顆顆:DET	分明:Vi	的:T	魚卵:N	也:ADV	代表:Vt	著:ASP	新鮮:Vi	
+而:C	不:ADV	是:Vt	軟:Vi	塌塌:Vi	的:T	糊成:Vt	一:DET	團:M	
+若:C	能:ADV	讓:Vt	它:N	持續:Vt	降:Vt	泡:Vt	在:P	醬汁:N	內:N	
+增加:Vt	點:N	濕潤度:N	
+或許:ADV	吃起來:ADV	會:ADV	更:ADV	滑:Vi	順:Vt	好:Vi	入口:N	酥香烤水針:N	真正:ADV	上菜:Vi	的:T	不:ADV	像:Vt	菜單:N	圖片:N	中:POST	是:Vt	一:DET	大:Vi	片:M	的:T	魚乾:N	
+而是:C	已經:ADV	切成:Vt	小小:Vi	塊:M	的:T	片狀:N	
+吃起來:ADV	很:ADV	有:Vt	口感:N	
+也:ADV	很:ADV	有:Vt	咬:Vt	勁:N	
+可是:C	卻:ADV	不會:ADV	太:ADV	硬:Vi	到:P	難:Vi	咬:Vt	
+其實:ADV	就:ADV	很:ADV	像:Vt	魷魚:N	絲:N	那:DET	樣:M	要:ADV	慢慢:Vi	咀嚼:Vt	它:N	
+這:DET	種:M	魚乾:N	都:ADV	會:ADV	以為:Vt	很:ADV	死:Vi	鹹:Vi	
+可是:C	卻:ADV	不會:ADV	
+反而:C	是:Vt	鹹:Vi	香:N	中:POST	帶有:Vt	醬汁:N	甜度:N	薄薄:Vi	的:T	魚乾:N	
+但是:C	還是:ADV	有:Vt	一點:DET	咬:Vt	勁:N	在:P	
+越:ADV	咬:Vt	越:ADV	香:Vi	
+有:Vt	一點:DET	甜甜:Vi	鹹鹹:Vi	的:T	
+卻:ADV	沒:Vt	太多:DET	過重:Vi	的:T	醬汁:N	沾附:Vt	
+很:ADV	適合:Vi	當下:N	酒菜:N	耶:T	
+吃起來:ADV	滿:Vt	口:N	的:T	魚肉:N	香:Vi	
+真的:ADV	是:Vt	一點:DET	腥味:N	都:ADV	沒有:Vt	^:FW	^:FW	這:DET	間:M	店:N	真的:ADV	很:ADV	不:ADV	顯眼:Vi	
+位在:Vt	公館:N	商圈:N	的:T	外圍處:N	
+平常:N	經過:Vt	根本:ADV	也:ADV	沒:ADV	發現:Vt	但:C	其實:ADV	有:Vt	不少:DET	人:N	都:ADV	知道:Vt	這:DET	家:M	店:N	
+一:ADV	進去:Vi	生意:N	都:ADV	超:Vt	好:Vi	的:T	
+建議:Vt	要:ADV	去:Vt	的:T	人:N	要:ADV	先:ADV	訂位:Vi	喔:T	
+食材:N	都:ADV	很:ADV	新鮮:Vi	
+這:DET	也:ADV	是:Vt	最:ADV	重要:Vi	的:T	一點:DET	
+店家:N	調味:Vi	都:ADV	淡淡:Vi	的:T	
+不:ADV	是:Vt	用:P	醬汁:N	的:T	重:Vi	口味:N	來:POST	調位:N	
+很多:DET	地方:N	吃定:Vt	食:N	
+都:ADV	在:P	吃:Vt	醬:N	..:ETCCATEGORY	這邊:N	是:Vt	比較:ADV	傾向於:Vt	食材:N	原味:N	
+大家:N	有:Vt	機會:N	可以:ADV	來:ADV	試試:Vt	^:FW	^:FW	很:ADV	開心:Vi	收到:Vt	邀約:Vt	來:Vi	公館:N	這邊:N	品嚐:Vt	這:DET	家:M	海人刺身丼飯:N	專賣店:N	
+位於:Vt	公館:N	的:T	頂呱呱:Vi	樓上:N	
+平常:N	我:N	去:ADV	逛:Vt	公館:N	還:ADV	真:ADV	沒:ADV	注意到:Vt	這:DET	家:M	店:N	耶:T	
+沒想到:ADV	這:DET	家:M	店:N	在:P	這麼:ADV	隱密:Vi	的:T	地方:N	
+生意:N	居然:ADV	超:Vt	好:Vi	的:T	
+都:ADV	快:ADV	客滿:Vi	了:T	
+大略:ADV	照:P	一下:N	環境:N	
+這:DET	個:M	時間:N	已經:ADV	九:DET	點:M	多:POST	我們:N	也:ADV	吃完:Vt	準備:Vt	走:Vi	了:ASP	
+還是:ADV	有:Vt	人:N	來:ADV	用餐:Vi	
+環境:N	很:ADV	光亮:Vi	乾淨:Vi	
+服務生:N	都:ADV	會:ADV	很:ADV	勤:Vi	的:T	來:ADV	收盤:Vi	整理:Vt	
+櫃檯處:N	
+有:Vt	個:M	小:Vi	冰櫃:N	
+裡面:N	放:Vt	了:ASP	許多:DET	種:M	生魚片:N	
+這邊:N	的:T	生魚片:N	強調:Vt	它:N	的:T	新:Vi	鮮度:N	
+選用:Vt	的:T	肉質:N	好:Vi	
+部位:N	好:Vi	
+懂得:Vt	享受:Vt	的:T	人:N	
+會:ADV	情願:Vt	多:ADV	花:Vt	點:M	錢:N	
+就是:C	要:ADV	吃到:Vt	這:DET	種:M	新鮮:Vi	生魚片:N	
+菜單:N	部分:DET	大略:ADV	介紹:Vt	一下:N	
+有:Vt	特別:Vi	分丼飯:N	跟:P	定食:Vt	
+也:ADV	有:Vt	小菜:N	及:C	手捲:N	等:POST	
+這:DET	次:M	特別:Vi	點:ADV	了:T	：:COLONCATEGORY	極樂:Vi	海景:N	丼:b	飯:N	、:PAUSECATEGORY	什錦:A	海鮮:N	丼:b	飯:N	、:PAUSECATEGORY	醬:N	燒松阪:Vt	豬:N	定食:Vt	
+其中:DET	只有:ADV	極樂:Vi	海景:N	丼飯:N	是:Vt	生食:N	
+其它:DET	兩:DET	道:M	都:ADV	是:Vt	熟食:N	的:T	
+小菜類:N	的:T	則:ADV	是:Vt	點:Vt	了:ASP	：:COLONCATEGORY	蜜汁:N	魚卵:N	、:PAUSECATEGORY	薑醋冰卷:N	、:PAUSECATEGORY	酥香烤水針:N	酥香烤水針:N	這:DET	名字:N	大家:N	一定:ADV	覺得:Vt	很:ADV	好奇:Vi	吧:T	
+其實:ADV	就:ADV	是:Vt	烤:Vt	魚乾:N	啦:T	
+可是:C	
+實際:Vi	上桌:Vi	的:T	時候:N	
+已經:ADV	被:P	剪成:Vt	一:DET	小:Vi	塊:M	一:DET	小:Vi	塊:M	的:T	片狀:N	
+不:ADV	是:Vt	完整:Vi	一:DET	片:M	
+還:ADV	有:Vt	手:N	捲:Vt	以及:C	單點烤物:N	
+這:DET	次:M	沒有:ADV	品嚐到:Vt	手卷:N	
+下:DET	次:M	有:Vt	機會:N	想:Vt	試試看:Vt	海膽:N	手卷:N	XDD:FW	三:DET	道:M	餐點:N	都:ADV	上桌:Vi	啦:T	
+最:ADV	左邊:N	是:Vt	醬烤松阪:N	豬:N	定食:Vt	
+右上:N	是:Vt	什錦:A	海鮮:N	丼:b	
+右下:N	最:ADV	大:Vi	碗:N	是:Vt	極樂:Vi	海景:N	丼:b	每:DET	份:M	都:ADV	會:ADV	附:Vt	味噌湯:N	和:C	甜湯:N	
+白飯:N	部分:DET	
+丼:b	飯:N	都:ADV	在:P	底下:N	了:T	
+定食:Vt	則:ADV	是:Vt	另外:C	附:Vt	一:DET	碗:M	
+且:C	上面:N	有:Vt	灑:Vt	上香:Vi	鬆:Vt	
+且:C	不:ADV	小:Vi	碗:M	喔:T	什錦:A	海鮮:N	丼:b	裡面:N	有:Vt	大卷:N	、:PAUSECATEGORY	蝦子:N	、:PAUSECATEGORY	魚卵:N	、:PAUSECATEGORY	鮑魚:N	、:PAUSECATEGORY	吻仔魚:N	等:POST	海鮮:N	
+對於:P	想:Vt	吃:Vt	海鮮:N	卻:ADV	不:ADV	想:Vt	吃:Vt	生食:N	的:T	話:N	
+就:ADV	可以:ADV	參考點:N	這:DET	一:DET	道:M	
+海鮮:N	料:N	還:ADV	挺:ADV	豐富:Vt	的:T	
+大卷:N	超:Vt	Q:FW	的:T	
+而且:C	好:ADV	有:Vt	厚度:N	喔:T	
+吻仔魚:N	則:ADV	是:Vt	太:ADV	軟:Vi	了:T	...:ETCCATEGORY	口感:N	我:N	不:ADV	喜歡:Vt	
+蝦子:N	挺:ADV	大:Vi	隻:M	的:T	
+重點:N	超:Vt	新鮮:Vi	的:T	
+殼:N	非常:ADV	好:Vi	剝:Vt	
+裡面:N	的:T	肉質:N	吃起來:ADV	超:Vt	Q:FW	彈:Vt	
+而且:C	沒有:Vt	特別:Vi	多:Vi	調味:Vi	
+居然:ADV	就:ADV	很:ADV	鮮:Vi	甜:Vi	
+迷人:Vi	的:T	脆度:N	口感:N	整:DET	個:M	超:Vt	加分光:N	這樣:Vi	吃:Vt	
+都:ADV	不用:ADV	沾醬:N	就:ADV	很:ADV	美味:Vi	了:T	
+還:ADV	蠻:ADV	清淡:Vi	的:T	
+若:C	喜歡:Vt	重:Vi	口味:N	就:ADV	建議:Vt	點:N	定食:Vt	附上:Vt	的:T	味噌湯:N	
+裡面:N	有:Vt	魚骨:N	塊:M	
+帶:Vt	肉:N	的:T	喔:T	
+另外:C	還:ADV	有:Vt	豆腐:N	、:PAUSECATEGORY	海帶:N	等:POST	
+老闆娘:N	有:Vt	特別:Vi	先:ADV	告知:Vt	
+因為:C	是:Vt	新來:Vi	的:T	人員:N	煮:Vt	的:T	
+所以:C	當日:N	煮:Vt	的:T	味噌湯:N	味道:N	比較:ADV	不:ADV	OK:FW	..:ETCCATEGORY	味噌湯:N	顏色:N	很:ADV	深:Vi	
+喝:Vt	起來:ASP	味道:N	不:ADV	只:ADV	有:Vt	味噌:N	而已:T	
+還:ADV	有:Vt	魚肉:N	熬:Vt	煮:Vt	的:T	鮮味:N	
+但:C	喝:Vt	起來:ASP	卻:ADV	有:Vt	一點:DET	澀澀:Vi	的:T	感覺:N	不:ADV	夠:ADV	順口:Vi	
+我:N	還是:ADV	喜歡:Vt	單純:Vi	一點:ADV	的:T	味噌湯:N	那:DET	種:M	濃郁:Vi	清爽:Vi	鹹鮮:N	適中:Vi	的:T	味道:N	
+又:ADV	讓:Vt	我:N	懷念:Vt	起:ASP	在:P	日本:N	喝:Vt	的:T	味噌湯:N	了:T	^:FW	^:FW	|:FW	|:FW	|:FW	附上:Vt	的:T	甜點:N	紫米:N	紅豆湯:N	這:DET	紫米:N	紅豆湯:N	
+料:N	還:ADV	挺:ADV	多:Vi	的:T	
+而且:C	紅豆:N	熬:Vt	煮:Vt	的:T	好好:Vi	喔:T	
+整:DET	個:M	湯:N	裡面:N	都:ADV	融入:Vt	了:ASP	滿滿:Vi	的:T	紅豆:N	泥:N	
+顆粒:N	也:ADV	很:ADV	完整:Vi	
+吃起來:ADV	鬆軟:Vi	又:ADV	綿密:Vi	裡面:N	也:ADV	有:Vt	混合:Vt	一些:DET	QQ:FW	的:T	紫米:N	
+口感:N	很:ADV	豐富:Vt	
+又:ADV	不會:ADV	太:ADV	甜:Vi	
+好喝:Vi	好喝:Vi	
+極樂:Vi	海景:N	丼:b	這:DET	個:M	好:Vi	大一:N	碗:N	喔:T	
+難怪:ADV	是:Vt	菜單:N	裡面:N	最:ADV	高級:Vi	的:T	一:DET	道:M	
+而且:C	生魚片:N	都:ADV	好:ADV	厚:Vi	喔:T	
+蝦子:N	超大:Vi	隻:M	的:T	
+還:ADV	有:Vt	四五:DET	種:M	的:T	生魚片:N	、:PAUSECATEGORY	鮭魚:N	卵:N	、:PAUSECATEGORY	鮑魚:N	以及:C	干貝:N	
+這:DET	個:M	比:P	剛剛:ADV	的:T	海鮮:N	丼:b	還:ADV	要:ADV	大:Vi	碗:N	許多:DET	
+蝦子:N	也:ADV	更:ADV	大:Vi	隻:M	喔:T	
+每:DET	款:M	生魚片:N	也:ADV	都:ADV	是:Vt	很:ADV	有:Vt	彈性:N	
+不:ADV	是:Vt	一般:A	吃到:Vt	軟趴趴:Vi	不:ADV	新鮮:Vi	的:T	那:DET	種:M	
+更:ADV	讚:Vi	的:T	是:Vt	它:N	每:DET	塊:M	生魚片:N	都:ADV	好:ADV	厚:Vi	喔:T	
+來自:Vt	東港:N	的:T	新鮮:Vi	魚貨:N	
+鮮美:Vi	又:ADV	沒:Vt	腥味:N	
+大:Vi	顆:M	鮭魚:N	卵:N	是:Vt	來自:Vt	日本:N	北海道:N	的:T	
+一口:ADV	咬下:Vt	口腔:N	充滿:Vt	非常:ADV	美味:Vi	的:T	海:N	鮮鮮:Vi	甜味:N	
+好好:Vi	吃:Vt	喔:T	
+真的:ADV	很少:ADV	吃到:Vt	這麼:ADV	鮮美:Vi	的:T	
+讓:Vt	我:N	很:ADV	驚艷:Vi	喔:T	^:FW	^:FW	大家:N	可以:ADV	仔細:Vi	看:Vt	
+真正:A	的:T	鮭魚:N	卵:N	中間:N	是:Vt	帶有:Vt	一點:DET	橘色:N	的:T	色澤:N	在:P	其中:DET	
+可以:ADV	辨識:Vt	看看:ASP	干貝:N	也:ADV	不:ADV	小:Vi	顆:M	喔:T	
+來自:Vt	日本:N	北海道:N	
+吃起來:ADV	QQ:FW	軟軟:Vi	的:T	
+若:C	口感:N	再:ADV	Q:FW	彈:Vt	點:N	會:ADV	更棒:N	...:ETCCATEGORY	北:N	寄:Vt	貝:N	口感:N	很:ADV	Q:FW	
+咀嚼:Vt	中:POST	會:ADV	帶有:Vt	甜味:N	出來:Vi	
+這:DET	也:ADV	算是:Vt	比較:ADV	高:Vi	極:ADV	些:M	的:T	食材:N	這:DET	碗:M	真的:ADV	是:Vt	超:Vt	豐富:Vt	的:T	
+我:N	想:Vt	喜歡:Vt	吃:Vt	生魚片:N	的:T	人:N	應該:ADV	會:ADV	非常:ADV	的:T	愛:N	喔:T	
+呵呵:ADV	
+看:Vt	這:DET	生魚片:N	的:T	厚度:N	
+就是:C	要:ADV	這樣:Vi	吃:Vt	才:ADV	過癮:Vi	
+朋友:N	嚐到:Vt	後跟:N	我:N	說:Vt	
+很:ADV	鮮美:Vi	也:ADV	很:ADV	好吃:Vi	的:T	
+有:Vt	在:P	吃:Vt	生魚片:N	的:T	人:N	一:ADV	嚐:Vt	就:ADV	知道:Vt	什麼:DET	是:Vt	新鮮:Vi	肉質:N	以及:C	油脂:N	的:T	化口:N	和:C	香氣:N	
+吃:Vt	了:ASP	會:ADV	上癮:Vi	喔:T	
+呵呵:ADV	一:ADV	拿:Vt	蝦子:N	要:ADV	來:ADV	剝:Vt	殼:N	
+比照:P	一下:N	
+比:P	我:N	那:DET	肥肥:Vi	的:T	甜不辣:N	手指:N	還:ADV	要:ADV	粗:Vi	很多:DET	
+口感:N	也:ADV	是:Vt	超脆口超:N	新鮮:Vi	的:T	
+不用:ADV	沾:Vt	什麼:DET	醬料:N	
+剝:ADV	好:ADV	直接:Vi	吃:Vt	
+就:ADV	甜:Vi	的:T	很:ADV	不像話:Vi	醬燒松阪:N	豬:N	定食:Vt	附上:Vt	的:T	沙拉:N	挺:ADV	普通:Vi	的:T	
+我:N	覺得:Vt	醬料:N	換:Vt	凱薩:N	或者:C	千:DET	島:N	或許:ADV	會:ADV	好:Vi	一點:ADV	
+之前:N	吃:Vt	過:ASP	的:T	松阪:N	豬:N	
+其實:ADV	都:ADV	會:ADV	有點:ADV	油脂:N	偏:ADV	多:ADV	也:ADV	比較:ADV	油:Vi	一點:ADV	
+但:C	可是:C	這邊:N	的:T	松阪:N	豬:N	完全:ADV	不:ADV	油:N	也:ADV	不會:ADV	有:Vt	太:ADV	肥:Vt	的:T	情形:N	
+但是:C	口感:N	呢:T	
+則:ADV	是:Vt	比:P	我:N	一般:ADV	吃到:Vt	的:T	再:ADV	紮實:Vi	許多:DET	
+各:DET	人:N	喜歡:Vt	的:T	口感:N	不同:Vi	
+我:N	則:ADV	是:Vt	喜歡:Vt	軟嫩:Vi	且:C	卻:ADV	有:Vt	油脂:N	的:T	感覺:N	
+吃起來:ADV	更:ADV	棒:Vi	
+上面:N	沾:Vt	附:Vt	的:T	醬汁:N	有點:ADV	甜甜:Vi	的:T	
+是:Vt	很:ADV	大眾化:Vt	的:T	口味:N	
+灑上:Vt	白:Vi	芝麻:N	香氣:N	更:ADV	夠:Vi	更加:ADV	分:Vt	白飯:N	還:ADV	蠻:ADV	大:Vi	碗:N	的:T	
+但是:C	這:DET	家:M	的:T	白飯:N	好好:Vi	吃:Vt	喔:T	
+粒粒:DET	分明:Vi	
+軟硬:Vi	適中:Vi	
+我:N	是:Vt	個:M	沒有:Vt	很:ADV	愛:Vt	吃飯:Vi	的:T	人:N	卻:ADV	整:DET	碗:N	吃光光:Vi	XD:FW	上面:N	還:ADV	有:Vt	一些:DET	香鬆:N	搭配:Vt	一起:ADV	吃:Vt	
+更:ADV	美味:Vi	更:ADV	香:Vi	薑醋冰卷:N	吃起來:ADV	好:Vi	Q:FW	彈:Vt	喔:T	
+真的:ADV	很:ADV	新鮮:Vi	
+口感:N	超:Vt	好:Vi	的:T	
+搭配:Vt	有點:ADV	微:Vi	酸:Vi	的:T	醬汁:N	
+很:ADV	清爽:Vi	很:ADV	開胃:Vi	
+沒有:Vt	什麼:DET	太:ADV	重:Vi	的:T	薑味:N	喔:T	
+調味:Vi	偏淡:Vi	
+感覺:N	主要:ADV	都:ADV	是:Vt	在:P	吃食:N	材:N	本身:N	的:T	味道:N	嚕:ADV	
+蜜汁:N	魚卵:N	好:ADV	厚:Vi	一:DET	條:M	喔:T	
+裡面:N	非常:ADV	的:T	紮實:Vi	緊密:Vi	
+但:C	吃起來:ADV	也:ADV	比較:ADV	偏:Vt	乾:Vi	了:ASP	點:M	
+蜜汁:N	些微:A	甜甜:Vi	的:T	
+但是:C	並:ADV	不會:ADV	太過:ADV	甜:Vi	
+而:C	覺得:Vt	醬汁:N	太:ADV	厚重:Vi	
+顆顆:DET	分明:Vi	的:T	魚卵:N	也:ADV	代表:Vt	著:ASP	新鮮:Vi	
+而:C	不:ADV	是:Vt	軟:Vi	塌塌:Vi	的:T	糊成:Vt	一:DET	團:M	
+若:C	能:ADV	讓:Vt	它:N	持續:Vt	降:Vt	泡:Vt	在:P	醬汁:N	內:N	
+增加:Vt	點:N	濕潤度:N	
+或許:ADV	吃起來:ADV	會:ADV	更:ADV	滑:Vi	順:Vt	好:Vi	入口:N	酥香烤水針:N	真正:ADV	上菜:Vi	的:T	不:ADV	像:Vt	菜單:N	圖片:N	中:POST	是:Vt	一:DET	大:Vi	片:M	的:T	魚乾:N	
+而是:C	已經:ADV	切成:Vt	小小:Vi	塊:M	的:T	片狀:N	
+吃起來:ADV	很:ADV	有:Vt	口感:N	
+也:ADV	很:ADV	有:Vt	咬:Vt	勁:N	
+可是:C	卻:ADV	不會:ADV	太:ADV	硬:Vi	到:P	難:Vi	咬:Vt	
+其實:ADV	就:ADV	很:ADV	像:Vt	魷魚:N	絲:N	那:DET	樣:M	要:ADV	慢慢:Vi	咀嚼:Vt	它:N	
+這:DET	種:M	魚乾:N	都:ADV	會:ADV	以為:Vt	很:ADV	死:Vi	鹹:Vi	
+可是:C	卻:ADV	不會:ADV	
+反而:C	是:Vt	鹹:Vi	香:N	中:POST	帶有:Vt	醬汁:N	甜度:N	薄薄:Vi	的:T	魚乾:N	
+但是:C	還是:ADV	有:Vt	一點:DET	咬:Vt	勁:N	在:P	
+越:ADV	咬:Vt	越:ADV	香:Vi	
+有:Vt	一點:DET	甜甜:Vi	鹹鹹:Vi	的:T	
+卻:ADV	沒:Vt	太多:DET	過重:Vi	的:T	醬汁:N	沾附:Vt	
+很:ADV	適合:Vi	當下:N	酒菜:N	耶:T	
+吃起來:ADV	滿:Vt	口:N	的:T	魚肉:N	香:Vi	
+真的:ADV	是:Vt	一點:DET	腥味:N	都:ADV	沒有:Vt	^:FW	^:FW	這:DET	間:M	店:N	真的:ADV	很:ADV	不:ADV	顯眼:Vi	
+位在:Vt	公館:N	商圈:N	的:T	外圍處:N	
+平常:N	經過:Vt	根本:ADV	也:ADV	沒:ADV	發現:Vt	但:C	其實:ADV	有:Vt	不少:DET	人:N	都:ADV	知道:Vt	這:DET	家:M	店:N	
+一:ADV	進去:Vi	生意:N	都:ADV	超:Vt	好:Vi	的:T	
+建議:Vt	要:ADV	去:Vt	的:T	人:N	要:ADV	先:ADV	訂位:Vi	喔:T	
+食材:N	都:ADV	很:ADV	新鮮:Vi	
+這:DET	也:ADV	是:Vt	最:ADV	重要:Vi	的:T	一點:DET	
+店家:N	調味:Vi	都:ADV	淡淡:Vi	的:T	
+不:ADV	是:Vt	用:P	醬汁:N	的:T	重:Vi	口味:N	來:POST	調位:N	
+很多:DET	地方:N	吃定:Vt	食:N	
+都:ADV	在:P	吃:Vt	醬:N	..:ETCCATEGORY	這邊:N	是:Vt	比較:ADV	傾向於:Vt	食材:N	原味:N	
+大家:N	有:Vt	機會:N	可以:ADV	來:ADV	試試:Vt	^:FW	^:FW	圖文:N	分享:Vt	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	w01111014.pixnet.net/blog/post:FW	/:FW	56247453:DET	--:DASHCATEGORY	

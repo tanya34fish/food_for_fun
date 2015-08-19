@@ -1,0 +1,200 @@
+zine:FW	1215:DET	(:PARENTHESISCATEGORY	研究仔:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	‧:PERIODCATEGORY	等:POST	一:DET	個:M	人:N	咖啡:N	電影:N	實體:N	店面:N	!:EXCLAMATIONCATEGORY	
+Sun:FW	
+Aug:FW	
+24:DET	
+23:DET	::COLONCATEGORY	38:DET	::COLONCATEGORY	30:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	等:POST	一:DET	個:M	人:N	咖啡:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	文山區:N	一:DET	壽街:N	44巷:N	1:DET	號:M	1樓:N	(:PARENTHESISCATEGORY	景美:N	女中:N	對面:N	巷子:N	公園:N	旁:N	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	29360596:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	平日:N	11:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	，:COMMACATEGORY	假日:N	&:FW	amp:FW	;:SEMICOLONCATEGORY	國定:A	假日:N	9:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	
+大:Vi	口吃:Nv	大:Vi	口:N	玩:Vt	!:EXCLAMATIONCATEGORY	走跳:Vi	台灣:N	尋找:Vt	邪惡:Vi	美食:N	!:EXCLAMATIONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	zine1215.pixnet.net/blog/post:FW	/:FW	43839658:DET	
+鏘鏘:ADV	鏘:Vt	
+最近:N	最:ADV	夯:b	的:T	話題:N	之:T	一:DET	應該:ADV	就是:C	
+等:POST	一:DET	個:M	人:N	咖啡:N	
+電影:N	惹:Vt	吧:T	
+短短:Vi	六:DET	天:M	破億:N	的:T	
+等:POST	一:DET	個:M	人:N	咖啡:N	
+在:P	一:DET	次:M	出:Vt	任務:N	的:T	因緣際會:Nv	下:POST	
+我們:N	竟然:ADV	就:ADV	看:Vt	了:ASP	電影:N	
+然後:ADV	被:P	劇情:N	感動:Vt	的:T	亂七八糟:Vi	
+殊不知:Vt	
+真實版:N	的:T	
+等:POST	一:DET	個:M	人:N	咖啡館:N	
+竟然:ADV	真實:Vi	存在:Vi	著:ASP	
+就:ADV	位於:Vt	台北市:N	文山區:N	景美:N	女中:N	附近:N	
+當然:ADV	要:ADV	立:Vt	馬來:N	去:ADV	瞧瞧:Vt	
+等:POST	一:DET	個:M	人:N	咖啡:N	Cafe.Waiting.Love:FW	
+於:P	八月:N	初:POST	正式:Vi	營運:Nv	
+完整:Vi	保留:Vt	電影:N	裡:N	的:T	裝潢:N	風格:N	跟:P	擺設:Vt	
+走進:Vt	咖啡店:N	裡:N	
+跟:P	電影:N	一模一樣:Vi	的:T	場景:N	會:ADV	讓:Vt	人:N	大大:Vi	尖叫:Vt	啊:T	
+我們:N	就:ADV	如同:Vt	走進:Vt	電影:N	劇情:N	裡:N	一樣:Vi	興奮:Vi	
+牆:N	上:N	掛:Vt	的:T	劇:N	照:P	感覺:N	像:Vt	是:Vt	角色:N	們:N	陪:Vt	我們:N	喝:Vt	咖啡:N	一樣:Vi	
+這裡:N	的:T	餐點:N	名稱:N	延續:Vt	小說:N	裡:N	的:T	創意:N	
+像:Vt	是:Vt	老闆娘:N	特調:N	、:PAUSECATEGORY	告白:N	需要:Vt	勇氣:N	的:T	早:Vi	午餐:N	、:PAUSECATEGORY	華山:N	論劍:N	之:T	黯然:ADV	銷魂:Vi	等:POST	
+都:ADV	讓:Vt	人:N	想:Vt	來:ADV	上:Vt	一口:ADV	啊:T	
+但是:C	每:DET	日:M	限量:Vi	一:DET	杯:M	的:T	老闆娘:N	特調:N	
+熱:Vt	
+就:ADV	可:ADV	遇:Vt	而:C	不可:ADV	求:Vt	惹:Vt	
+沒關係:Vi	
+我們:N	還是:ADV	點:Vt	了:ASP	冰:N	的:T	老闆娘:N	特調:N	及:C	告白:N	需要:Vt	勇氣:N	等:POST	特色:N	餐點:N	
+好吃:Vi	又:ADV	好玩:Vi	
+推開:Vt	大門:N	走進去:Vi	
+就:ADV	像:P	走進:Vt	電影:N	一樣:Vi	
+彷彿:ADV	可以:ADV	看到:Vt	戲:N	中:POST	主角:N	在:P	店:N	內:N	穿梭:Vi	的:T	模樣:N	
+讓:Vt	我們:N	超級:A	興奮:Vi	搭:Vt	
+店:N	內:N	空間:N	不:ADV	大:Vi	
+位子:N	不:ADV	多:Vi	
+所以:C	都:ADV	必須:ADV	先:ADV	登記:Vt	候位:N	
+採取:Vt	現場:N	叫號:Vt	的:T	方式:N	入座:Vi	
+等待:Vt	的:T	時間:N	不妨:ADV	拍:Vt	拍照:Vi	
+切記:Vt	千萬:DET	不要:ADV	離開:Vt	太:ADV	遠:Vi	唷:T	
+不然:C	又:ADV	要:ADV	重新:ADV	排:Vt	過:ASP	
+小小:Vi	的:T	店面:N	已經:ADV	擺:Vt	了:ASP	滿滿:Vi	的:T	擺飾:N	
+走道:N	並:ADV	不:ADV	大:Vi	
+人:N	多:Vi	的:T	時候:N	需要:Vt	側身:Vt	才:ADV	能:ADV	通過:Vt	
+這裡:N	也:ADV	有:Vt	提供:Vt	座位:N	給:Vt	候位:N	的:T	客人:N	
+雖然:C	數量:N	不:ADV	多:Vi	
+但:C	也:ADV	算:Vt	貼心:Vi	惹:Vt	
+黑板:N	下:POST	的:T	吧台:N	正:ADV	是:Vt	阿:N	不:ADV	思:Vt	調出:Vt	各:DET	種:M	莫名其妙:Vi	特調:N	的:T	地方:N	唷:T	
+店:N	內:N	牆:N	上:N	有:Vt	大型:N	的:T	海報:N	劇照:N	
+感覺:N	就:ADV	好像:ADV	跟:P	他們:N	一起:ADV	喝:Vt	咖啡:N	一樣:Vi	
+彷彿:ADV	更:ADV	能夠:ADV	感受:Vt	他們:N	的:T	喜怒哀樂:N	
+靠:P	窗:N	的:T	這:DET	個:M	位子:N	
+正:ADV	是:Vt	女:N	主角:N	思瑩:N	暗戀:Vt	的:T	澤:N	于:P	跟:P	不同:Vi	女生:N	常:ADV	坐:Vi	的:T	座位:N	唷:T	
+店:N	內:N	座位:N	不:ADV	多:Vi	
+所以:C	這:DET	陣子:N	大概:ADV	一直:ADV	都:ADV	會:ADV	是:Vt	這樣:Vi	的:T	人潮:N	吧:T	
+笑:Vi	
+在:P	等待:Vt	的:T	過程:N	
+也:ADV	可以:ADV	在:P	室:N	內:N	捕捉:Vt	幾:DET	張:M	喜愛:Vt	的:T	角度:N	
+當然:ADV	不能:ADV	免俗:Vi	在:P	店:N	內:N	自拍:Vi	一下:N	溜:Vi	
+背景:N	就:ADV	是:Vt	":FW	每:DET	個:M	人:N	
+都:ADV	在:P	等:Vt	一:DET	個:M	人:N	":FW	的:T	小:Vi	黑板:N	跟:P	電影:N	劇照:N	
+一:DET	整:DET	個:M	超:Vt	開心:Vi	搭:Vt	
+另外:C	窗:N	邊:N	也:ADV	有:Vt	一些:DET	座位:N	
+坐:Vi	在:P	那兒:N	也:ADV	頗:ADV	愜意:Vi	的:T	
+電影劇:N	照:P	上:N	還:ADV	有:Vt	演員:N	們:N	的:T	簽名:Nv	唷:T	
+還:ADV	有:Vt	阿:N	不:ADV	思:Vt	最:ADV	拿手:Vi	的:T	特調:N	
+每:DET	張:M	照片:N	都:ADV	讓:Vt	我們:N	回味:Vt	無窮:Vi	呢:T	
+這裡:N	除了:P	是:Vt	拍攝:Vt	的:T	場景:N	外:POST	
+桌椅:N	、:PAUSECATEGORY	擺設:N	也:ADV	都:ADV	相當:ADV	特別:Vi	
+感覺:N	斑駁:Vi	中:POST	帶:Vt	點:M	歷史:N	的:T	味道:N	
+還:ADV	有:Vt	裁縫機:N	改造:Nv	而:C	成:Vt	的:T	小:Vi	桌子:N	
+這裡:N	可:ADV	真的:ADV	是:Vt	一:DET	個:M	人:N	坐:Vi	的:T	vip:FW	座位:N	
+還:ADV	真的:ADV	變成:Vt	
+等:POST	一:DET	個:M	人:N	咖啡:N	
+了:T	啊:T	
+話:N	說:Vt	最後:N	我們:N	也:ADV	被:P	安排:Vt	到:P	這:DET	個:M	靠:P	窗:N	的:T	兩:DET	人:N	座:N	哩:T	
+這:DET	當初:N	可:ADV	是:Vt	老闆娘:N	坐:Vi	的:T	位子:N	呢:T	
+店:N	內:N	許多:DET	擺設:N	也:ADV	相當:ADV	有意思:Vi	
+像:Vt	是:Vt	這:DET	個:M	復古:Vt	的:T	掛鐘:N	
+時間:N	還是:ADV	準:Vi	的:T	
+或是:C	大大小小:Vi	的:T	摩卡:N	壺:N	
+或是:C	一些:DET	咖啡:N	用具:N	等:POST	
+讓:Vt	人:N	沉浸:Vi	在:P	一:DET	股:M	咖啡:N	香:N	裡:N	
+牆:N	上:N	還:ADV	有:Vt	一:DET	張:M	大大:Vi	的:T	":FW	愛:N	的:T	特調:N	":FW	
+正:ADV	是:Vt	思:Vt	瑩:Vi	撿到:Vt	老闆:N	手繪:Vt	本:DET	裡:N	最:ADV	重要:Vi	的:T	一:DET	頁:M	唷:T	
+是:Vt	澤:N	于:P	為:Vt	老闆娘:N	特:ADV	調出:Vt	來:Vi	的:T	專屬:Vt	咖啡:N	
+電影:N	裡:N	的:T	這:DET	一:DET	張:M	愛:N	的:T	特調:N	可是:C	牽動:Vt	故事:N	的:T	開始:Nv	與:C	結束:Vt	呢:T	
+菜單:N	是:Vt	用:P	牛皮紙:N	及:C	夾子:N	簡單:Vi	製作:Vt	的:T	
+微皺:Vi	的:T	牛皮紙:N	看來:ADV	也:ADV	超:Vt	有:Vt	fu:FW	搭:Vt	
+其中:DET	一:DET	頁:M	就是:C	
+等:POST	一:DET	個:M	人:N	咖啡:N	
+專區:N	溜:Vi	
+裡頭:N	有:Vt	老闆娘:N	特調:N	、:PAUSECATEGORY	問:Vt	世間:N	情:N	為何:ADV	物:N	、:PAUSECATEGORY	
+華山:N	論劍:N	之:T	黯然:ADV	銷魂:Vi	、:PAUSECATEGORY	男子漢:N	咖啡:N	、:PAUSECATEGORY	阿不:N	思:Vt	特:ADV	調:Vt	....:ETCCATEGORY	
+小說:N	內:N	出現:Vi	的:T	餐點:N	創意:N	在:P	這裡:N	都:ADV	看:Vt	得到:Vt	
+真是:ADV	太:ADV	有趣:Vi	惹:Vt	
+我:N	好:Vi	想:Vt	每:DET	一樣:Vi	都:ADV	喝喝:Vt	看:Vt	唷:T	
+可惜:Vi	最:ADV	特別:Vi	的:T	老闆娘:N	特調:N	
+熱:Vt	
+每:DET	日:M	只:ADV	限量:Vi	一:DET	杯:M	
+無緣:Vi	啦:T	
+崩潰:Vi	
+我們:N	最後:N	點:Vt	了:ASP	老闆娘:N	特調:N	
+冰:N	
+、:PAUSECATEGORY	原味:N	拿:Vt	鐵:N	
+冰:N	
+、:PAUSECATEGORY	
+堅果:N	蜂蜜:N	奶油:N	鬆餅:N	及:C	告白:N	需要:Vt	勇氣:N	早:Vi	午餐:N	
+就:ADV	開始:Vt	期待:Vt	餐點:N	上桌:Vi	惹:Vt	
+老闆娘:N	特調:N	
+冰:N	/:FW	150:DET	元:M	
+是:Vt	採用:Vt	高:Vi	腳:N	杯:N	盛裝:Vi	的:T	
+只有:ADV	熱:Vt	的:T	老闆娘:N	特調:N	才:ADV	是:Vt	用:P	電影:N	裡:N	的:T	那:DET	個:M	杯子:N	啊:T	啊:T	啊:T	啊:T	啊:T	
+殘念:N	
+但:C	聽說:Vt	熱:Vt	的:T	老闆娘:N	特調:N	其實:ADV	就:ADV	是:Vt	用:P	摩卡壺:N	煮:Vt	的:T	濃縮:Nv	咖啡:N	加發:Vt	泡鮮:N	奶油:N	再:ADV	加上:Vt	一:DET	朵:M	桔梗:N	
+知道:Vt	配方:N	後:POST	有沒有:ADV	比較:ADV	不:ADV	遺憾:Vt	一些些:DET	
+沒有:Vt	
+看來:ADV	對:P	那:DET	杯:M	老闆娘:N	特調:N	相當:ADV	感興趣:Vi	啊:T	
+檸檬:N	搭配:Vt	黑:Vi	咖啡:N	與:C	黑糖:N	的:T	老闆娘:N	特調:N	
+喝:Vt	起來:ASP	微:ADV	酸:Vi	微:ADV	甜:Vi	
+味道:N	意外:N	的:T	和諧:Vi	耶:T	
+既:C	沒有:Vt	咖啡:N	的:T	苦味:N	也:ADV	沒有:Vt	濃烈:Vi	的:T	咖啡因:N	
+喝:Vt	起來:ASP	溫和:Vi	順口:Vi	
+告白:N	需要:Vt	勇氣:N	
+250:DET	元:M	
+培根:N	、:PAUSECATEGORY	蘿蔓:N	、:PAUSECATEGORY	起:Vt	司:N	、:PAUSECATEGORY	番茄:N	搭配:Vt	佛卡夏:N	
+洋芋:N	沙拉:N	及:C	水果:N	沙拉:N	
+看起來:ADV	顏色:N	繽紛:Vi	豐富:Vt	
+話:N	說:Vt	為何:ADV	要:ADV	取:Vt	這:DET	個:M	名字:N	
+想必:ADV	應該:ADV	是:Vt	要:ADV	讓:Vt	人:N	吃完:Vt	豐盛:Vi	的:T	早:Vi	午餐:N	
+元氣:N	滿滿:Vi	再:ADV	去:Vt	告白:N	吧:T	
+笑:Vi	
+佛卡:N	夏:N	裡頭:N	有:Vt	滿滿:Vi	的:T	配料:N	
+搭配:Vt	番茄醬:N	與:C	黃:N	芥末醬:N	
+吃起來:ADV	清爽:Vi	開胃:Vi	
+將:P	佛卡夏:N	組合:Vt	起來:ASP	就:ADV	變成:Vt	像:Vt	是:Vt	漢堡:N	的:T	概念:N	溜:Vi	
+一口:ADV	咬下:Vt	
+Q:FW	彈:Vt	酥軟:Vi	的:T	佛卡夏:N	搭配:Vt	鹹:Vi	香:Vi	爽脆:Vi	的:T	內:N	餡:N	
+沒有:ADV	過多:Vi	的:T	油脂:N	或:C	調味:Vi	
+還:ADV	算:Vt	美味:Vi	
+水果:N	沙拉:N	搭配:Vt	酸甜:Vi	優格:N	醬:N	
+酸酸甜甜:Vi	吃起來:ADV	好:ADV	開胃:Vi	
+尤其:ADV	一:DET	旁:N	的:T	洋芋:N	沙拉:N	
+看似:Vt	不起眼:Vi	
+但:C	吃起來:ADV	有:Vt	股:M	淡淡:Vi	的:T	馬鈴薯:N	香氣:N	
+沒有:ADV	過多:Vi	的:T	油膩感:N	
+也:ADV	是:Vt	相當:ADV	清爽:Vi	啊:T	
+原味:N	拿:Vt	鐵:N	
+冰:N	/:FW	120:DET	元:M	
+漸層:N	的:T	拿:Vt	鐵:N	一:ADV	上桌:Vi	就:ADV	大大:Vi	吸引:Vt	我們:N	的:T	目光:N	
+感覺:N	就:ADV	真的:ADV	好像:ADV	阿:Vi	不:ADV	思:Vt	調出:Vt	來:Vi	的:T	一樣:Vi	
+幻想:Nv	中:POST	
+拿:Vt	鐵:N	喝:Vt	起來:ASP	有:Vt	香:Vi	濃:Vi	鮮奶:N	香氣:N	
+奶泡:N	細緻:Vi	綿密:Vi	
+沒有:ADV	過重:Vi	的:T	咖啡因:N	
+沒:ADV	加:Vt	糖:N	也:ADV	超:Vt	好喝:Vi	
+堅果:N	奶油:N	蜂蜜:N	鬆餅:N	
+150:DET	元:M	
+鬆餅:N	以:P	木板:N	盛裝:Vi	著:ASP	
+奶油:N	蜂蜜:N	則:ADV	用:P	高腳杯:N	裝:Vt	著:ASP	
+看起來:ADV	晶瑩剔透:Vi	
+一:DET	旁:N	附有:Vt	一些:DET	堅果:N	
+可以:ADV	搭配:Vt	著:ASP	吃:Vt	比較:ADV	解膩:Vi	
+他們:N	的:T	鬆餅:N	是:Vt	比利時:N	鬆餅:N	的:T	作法:N	
+外酥內:N	Q:FW	
+還:ADV	吃:Vt	得到:Vt	一:DET	顆:M	一:DET	顆:M	的:T	珍珠:N	糖:N	
+鬆餅:N	內層:N	有點:ADV	類似:Vt	可:ADV	頌:Vt	麵包:N	的:T	感覺:N	
+一層層:DET	的:T	好:ADV	特別:Vi	
+詹婦:N	奶油:N	蜂蜜:N	一起:ADV	吃:Vt	
+味道:N	非常:ADV	香:Vi	啊:T	
+奶油:N	細緻:Vi	滑順:N	
+不:ADV	是:Vt	會:ADV	膩:Vi	口:N	的:T	那:DET	種:M	奶油:N	
+喜愛:Vt	奶油:N	的:T	就:ADV	多:ADV	沾:Vt	一些:DET	
+不:ADV	那麼:ADV	喜愛:Vt	奶油:N	的:T	話:N	也:ADV	可以:ADV	沾附:Vt	下方:N	的:T	蜂蜜:N	
+香醇:Vi	甘甜:Vi	
+相當:ADV	美味:Vi	啊:T	
+也:ADV	可以:ADV	兩:DET	種:M	都:ADV	沾:Vt	
+吃:Vt	得到:Vt	香甜:Vi	綿密:Vi	的:T	口感:N	
+滿:DET	嘴:N	都:ADV	甜蜜:Vi	蜜:N	的:T	唷:T	
+這裡:N	的:T	餐點:N	是:Vt	需要:Vt	加:Vt	服務費:N	的:T	唷:T	
+所以:C	我們:N	兩:DET	人:N	吃下來:Vi	是:Vt	737:DET	元:M	
+雖然:C	消費:N	稍微:ADV	高:Vi	了:ASP	一些:DET	
+但:C	餐點:N	都:ADV	有:Vt	在:P	水準:N	之上:POST	
+加上:C	享受:Vt	這些:DET	場景:N	跟:P	彷彿:ADV	回到:Vt	電影:N	裡:N	的:T	那:DET	種:M	感動:Vt	
+就:ADV	值回票價:Vi	惹:Vt	

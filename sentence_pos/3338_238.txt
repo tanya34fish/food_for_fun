@@ -1,0 +1,26 @@
+nocoffee1(nocoffee:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北:N	地區:N	有:Vt	鱘龍:N	魚:N	料理:N	的:T	餐廳:N	
+Mon:FW	
+Jul:FW	
+21:DET	
+20:DET	::COLONCATEGORY	35:DET	::COLONCATEGORY	14:DET	
+2014:DET	
+請益:Vi	
+台北:N	地區:N	有:Vt	鱘龍:N	魚:N	料理:N	的:T	餐廳:N	
+MonJul:FW	2120:DET	::COLONCATEGORY	35:DET	::COLONCATEGORY	142014:DET	
+1:DET	.:PERIODCATEGORY	想:Vt	找:Vt	的:T	餐飲:N	類別:N	
+有:Vt	作:Vt	鱘龍:N	魚:N	料理:N	的:T	餐廳:N	
+不論:C	東西式:N	都:ADV	可以:ADV	
+2:DET	.:PERIODCATEGORY	用餐:Vi	地區:N	
+臺北市:N	或:C	新:Vi	北市:N	範圍:N	內:N	
+3:DET	.:PERIODCATEGORY	每:DET	人:N	預算:N	
+新台幣:N	$:FW	1000:DET	元:M	
+4:DET	.:PERIODCATEGORY	用餐:Nv	時段:N	
+假日:N	的:T	午餐:N	
+5:DET	.:PERIODCATEGORY	用餐:Nv	人數:N	
+4:DET	-:DASHCATEGORY	5:DET	人:N	
+7:DET	.:PERIODCATEGORY	特殊:Vi	需求:N	
+因為:C	父親節:N	快:ADV	到:Vt	了:ASP	
+想:Vt	藉:P	此:DET	讓:Vt	全:DET	家:N	吃:Vt	一:DET	頓:M	口味:N	比較:ADV	不同:Vi	的:T	料理:N	
+之前:N	聽:Vt	爸爸:N	提:Vt	過:ASP	鱘龍:N	魚:N	
+所以:C	想:Vt	看:Vt	有:Vt	沒:Vt	網友:N	可以:ADV	推薦:Vt	台北:N	地區:N	不:ADV	貴:Vi	又:ADV	好吃:Vi	的:T	料理:N	餐廳:N	

@@ -1,0 +1,140 @@
+yeahbonnie(bonnie:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	Urban:FW	331:DET	-:DASHCATEGORY	台北:N	慕軒:N	下午茶:N	
+Tue:FW	
+Aug:FW	
+5:DET	
+10:DET	::COLONCATEGORY	50:DET	::COLONCATEGORY	09:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Urban:FW	331:DET	-:DASHCATEGORY	台北:N	慕軒:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	8:DET	
+地址:N	：:COLONCATEGORY	台北市:N	敦化南路:N	一段:N	331:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	77269090:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	下午茶:N	14:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	1700:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	NT:FW	500:DET	-:DASHCATEGORY	700:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	urban:FW	331:DET	牛肉:N	起:POST	士:N	小:Vi	漢堡:N	
+網誌:N	圖多無:Vt	音樂:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	yeahbonnie0227.pixnet.net/blog/post:FW	/:FW	166850271:DET	
+以下:N	純:Vi	文字:N	
+女孩:N	們:N	最:ADV	愛:Vt	的:T	下午茶:N	系列:N	來:Vi	了:ASP	
+為了:P	跟:P	久:Vi	未:ADV	見面:Vi	的:T	好友:N	聚聚:Vi	
+希望:Vt	能:ADV	找:Vt	一:DET	間:M	能:ADV	聊天:Vi	又:ADV	舒適:Vi	的:T	餐廳:N	
+又:ADV	不:ADV	想:Vt	是:Vt	吃:Vt	過:ASP	的:T	
+想來想去:Vt	看見:Vt	近日:N	有:Vt	許多:DET	
+urban:FW	331:DET	
+的:T	下午茶:N	介紹:Vt	文:N	
+就:ADV	決定:Vt	是:Vt	他:N	惹:Vt	
+Urban:FW	331:DET	位於:Vt	
+台北:N	慕軒:N	MadisonTaipei:FW	
+飯店:N	一樓:N	
+走進去:Vi	右轉:Vi	就:ADV	會:ADV	看到:Vt	大大:Vi	的:T	標誌:N	
+331:DET	其實:ADV	就:ADV	是:Vt	以:P	他們:N	的:T	門牌:N	號碼:N	命名:Vt	
+也:ADV	加深:Vt	了:ASP	我們:N	對:P	飯店:N	地址:N	的:T	印象:N	
+餐廳:N	裡頭:N	燈光:N	滿:ADV	暗:Vi	的:T	
+以:P	復古:Vt	為:P	主題:N	裡頭:N	掛滿:Vt	許多:DET	復古:Vt	小:Vi	物:N	
+裝潢:N	氣派:Vi	嶄新:A	配上:Vt	微弱:Vi	的:T	燈光:N	更:ADV	顯:Vt	神秘:Vi	
+裡頭:N	空間:N	寬敞:Vi	有:Vt	沙發:N	有:Vt	椅子:N	
+餐廳:N	裡頭:N	一共:ADV	63:DET	個:M	座位:N	
+另外:C	還:ADV	有:Vt	室:N	外區:N	12:DET	個:M	座位:N	
+可能:ADV	是:Vt	剛:ADV	開幕:Vi	的:T	關係:N	
+餐廳:N	裡頭:N	沒有:Vt	滿座:Vi	
+原本:ADV	想:Vt	多:ADV	拍:Vt	一點:DET	照片:N	無奈:Vi	裡頭:N	燈光:N	真的:ADV	很:ADV	暗:Vi	
+加上:C	外頭:N	天氣:N	陰暗:Vi	都:ADV	很:ADV	不:ADV	清晰:Vi	
+櫃台:N	上:N	有:Vt	許多:DET	小:Vi	點心:N	
+是:Vt	免費:Vi	提供給:Vt	住客:N	的:T	下午茶:N	客人:N	不能:ADV	享用:Vt	
+只:ADV	能:ADV	羨慕:Vt	房客:N	惹:Vt	
+建議:Vt	想來:ADV	這裡:N	拍照:Vi	的:T	人:N	要:ADV	帶:Vt	厲害:Vi	一點:ADV	的:T	相機:N	
+我們:N	三:DET	人:N	點:Vt	了:ASP	一:DET	份:M	下午茶:N	套餐:N	
+鹹點:N	
+翡翠:N	沁:Vt	香:N	冷:Vi	湯:N	
+慢:Vi	燉:Vt	牛:N	頰肉:N	可:ADV	頌:Vt	三明治:N	
+馬里蘭:N	蟹肉:N	番茄:N	盅:N	
+蒔蘿:N	鮮蝦:N	酥:Vi	盒:N	
+培根:N	堅果:N	乳酪球:N	
+煙燻:A	鮭魚:N	奶酪:N	
+甜點:N	
+英國:N	司康附:Vt	奶油:N	、:PAUSECATEGORY	果醬:N	
+覆盆:N	莓艾克雷亞:N	泡:Vt	芙:b	
+約克:N	公爵:N	風格:N	重:Vi	乳酪:N	起:POST	司:Vt	
+香芒:N	達克:N	瓦茲:N	
+桑葚:N	紅:Vi	與:C	米歇爾黑:N	巧克力:N	
+榛果:N	奶油:N	香草:N	酥皮:N	拿:Vt	破侖:N	派:Vt	
+慕軒手作:N	巧克力:N	
+加上:C	茶:N	、:PAUSECATEGORY	咖啡:N	13:DET	選:Vt	1:DET	
+我:N	點:Vt	了:ASP	伯爵:N	茶:N	很:ADV	香:Vi	很:ADV	好喝:Vi	味道:N	也:ADV	不會:ADV	淡:Vi	
+只:ADV	可惜:Vi	無法:ADV	回沖:N	
+他們:N	的:T	名字:N	的:T	超:Vt	長:Vi	一共:ADV	13:DET	道:M	菜:N	
+看似:Vt	好多:DET	會:ADV	吃:Vt	不:ADV	完:Vi	
+不用:ADV	擔心:Vt	喲:T	實品:N	份量:N	一兩:DET	口:M	就:ADV	能:ADV	吃完:Vt	
+一:ADV	送上:Vt	就是:C	鹹:Vi	甜點:N	各:DET	一:DET	木盒:N	
+底部:N	是:Vt	假:P	草:N	與:C	隔離:Nv	用:Vt	的:T	玻璃片:N	
+看似:Vt	把:P	蛋糕:N	放:Vt	在:P	草地:N	上:N	野餐:Vi	
+非常:ADV	可愛:Vi	
+但:C	切:Vt	蛋糕:N	時:POST	玻璃片:N	會:ADV	下陷:Vi	所以:C	還是:ADV	拿出來:Vi	切分:Vt	比較:ADV	方便:Vi	
+為了:P	想:Vt	多:ADV	嘗試:Vt	一點:DET	別的:DET	
+因此:C	我們:N	只:ADV	點:Vt	了:ASP	一:DET	份:M	午茶:N	
+一:DET	份:M	價錢:N	為:Vt	650:DET	+:FW	10:DET	%:M	服務費:N	
+另外:C	點:Vt	了:ASP	炸:Vt	薯條:N	200多:DET	
+與:P	一:DET	份:M	小:Vi	漢堡:N	300多:DET	
+炸:Vt	薯條:N	方面:N	滿:ADV	讓:Vt	人:N	失望:Vi	的:T	
+薯條:N	就:ADV	是:Vt	要:ADV	脆:Vi	呀:T	
+但:C	送來:Vt	時:POST	已經:ADV	軟掉:Vt	
+URBAN:FW	331:DET	小:Vi	漢堡:N	一:DET	份:M	三:DET	個:M	裡頭:N	時:POST	牛肉:N	起:POST	士:N	與:C	番茄:N	
+由於:C	我們:N	聊天:Vi	聊:Vt	得:T	太:ADV	開心:Vi	放涼:Vi	後:POST	才:ADV	吃:Vt	
+雖然:C	冷掉:Vt	但:C	咬下:Vt	後:POST	牛肉:N	非常:ADV	juicy:FW	
+友人:N	吃:Vt	了:ASP	之後:POST	都:ADV	非常:ADV	稱讚:Vt	
+不過:C	記得:Vt	趁熱:ADV	吃:Vt	喲:T	
+urban:FW	331:DET	裡頭:N	燈光:N	雖然:C	不:ADV	好:Vi	
+但:C	外頭:N	大廳:N	很:ADV	亮:Vi	白色:N	牆面:N	拍:Vt	起:ASP	照:Vt	來:ADV	也:ADV	不錯:Vi	想:Vt	拍照:Vi	的:T	人:N	就:ADV	到:Vt	外面:N	吧:T	：:COLONCATEGORY	Ｄ:FW	
+ＢＯＢＯ:FW	小結:N	
+交通:N	兩:DET	星:N	::COLONCATEGORY	
+位在:Vt	東區:N	但:C	不:ADV	在:P	各:DET	大:Vi	捷運站:N	旁:N	
+搭:Vt	到:P	大安:N	、:PAUSECATEGORY	信義:N	安和:Vi	都:ADV	可以:ADV	
+只是:ADV	要:ADV	再:ADV	走:Vi	一:DET	
+段路:N	
+6:DET	-:DASHCATEGORY	10:DET	分鐘:M	不等:POST	
+開車:Vi	的:T	人:N	就:ADV	直接:Vi	停:Vt	飯店:N	的:T	停車場:N	就:ADV	可以:ADV	了:T	
+服務:Vt	兩:DET	星:N	::COLONCATEGORY	
+態度:N	很:ADV	好:Vi	
+但:C	週末:N	下午:N	送:Vt	餐點餐:N	的:T	服務生:N	才:ADV	三:DET	位:M	
+要:ADV	應付:Vt	滿廳:N	63:DET	位:M	客人:N	的:T	話:N	略:ADV	顯:Vt	
+不足:Vi	
+尤其:ADV	是:Vt	我們:N	要點餐:N	時:POST	
+很:ADV	努力:Vi	地:T	揮手:Vi	找:Vt	他們:N	
+大概:ADV	六七:DET	分鐘:M	後:POST	才:ADV	會:ADV	被:P	注意到:Vt	
+最後:N	
+木盒:N	上:N	還:ADV	有:Vt	我們:N	未:ADV	吃完:Vt	的:T	餐點:N	
+就:ADV	詢問:Vt	我們:N	需不需要:Vt	收走:Vt	
+雖然:C	是:Vt	好意:Vi	
+但:C	上面:N	不:ADV	是:Vt	還:ADV	
+有:Vt	餐點:N	嗎:T	
+..:ETCCATEGORY	
+食物:N	兩:DET	星:N	：:COLONCATEGORY	
+中規中矩:Vi	
+沒有:ADV	令:Vt	人:N	驚艷:Vi	的:T	甜點:N	
+及:C	鹹點:N	
+除了:P	小:Vi	漢堡:N	有:Vt	得到:Vt	友人:N	的:T	稱讚:Nv	外:POST	
+並:C	
+無:Vt	特別:Vi	感受:N	
+環境:N	三星:N	：:COLONCATEGORY	
+非常:ADV	乾淨:Vi	裝潢:N	用心:Vi	
+古董:N	、:PAUSECATEGORY	裝飾:N	都:ADV	相當:ADV	復古:Vt	
+若:C	沒有:ADV	拍照:Vi	需求:N	這裡:N	非常:ADV	舒適:Vi	
+皆:ADV	
+為:P	沙發式:N	座椅:N	
+裡頭:N	也:ADV	不:ADV	吵:Vt	很:ADV	好:Vi	聊天:Vi	
+但:C	提醒:Vt	網友:N	裡面:N	很:ADV	暗:Vi	
+想:Vt	拍照:Vi	的:T	人:N	要:ADV	帶好:Vt	一點:DET	的:T	相:N	
+機:N	喲:T	
+價位:N	兩:DET	星:N	：:COLONCATEGORY	
+跟:P	許多:DET	飯店:N	下午茶:N	的:T	價位:N	差不多:Vi	
+一:DET	人:N	六百五:DET	
+我們:N	只:ADV	點:Vt	一:DET	份:M	下午茶:N	
+一:DET	份:M	薯條:N	
+、:PAUSECATEGORY	漢堡:N	、:PAUSECATEGORY	多點:DET	兩:DET	杯:M	茶飲:N	
+最後:N	結帳:Vi	金額:N	為:Vt	1850:DET	左右:POST	
+再:ADV	訪率:N	兩:DET	星:N	：:COLONCATEGORY	
+裝潢:N	精緻:Vi	、:PAUSECATEGORY	環境:N	舒適:Vi	
+若:C	餐點:N	能:ADV	再:ADV	進步:Vi	一些:DET	
+會:ADV	是:Vt	不錯:Vi	的:T	聚餐:Nv	地點:N	
+以上:N	謝謝:Vt	大家:N	^:FW	^:FW	

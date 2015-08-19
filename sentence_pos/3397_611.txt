@@ -1,0 +1,124 @@
+Roa(Roa:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	古亭:N	平價:N	牛丼:N	專賣店:N	，:COMMACATEGORY	す:FW	き:FW	家:M	SUKIYA:FW	
+Wed:FW	
+Aug:FW	
+6:DET	
+22:DET	::COLONCATEGORY	56:DET	::COLONCATEGORY	52:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	す:FW	き:FW	家:N	(:PARENTHESISCATEGORY	SUKIYA:FW	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	/:FW	23:DET	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	羅斯福路:N	2:DET	段:M	50:DET	號:M	(:PARENTHESISCATEGORY	捷運:N	古亭:N	站:Vi	7:DET	號:M	出口:Nv	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2358:DET	-:DASHCATEGORY	4169:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	24:DET	小時:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	120:DET	
+圖文:N	好讀:Vt	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/AzP:FW	-:DASHCATEGORY	
+日本:N	三:DET	大連:N	鎖牛丼:N	之:T	一:DET	的:T	す:FW	き:FW	家:N	終於:ADV	登台:Vi	了:ASP	
+鳩:N	竟:ADV	す:FW	き:FW	家:N	的:T	到來:Nv	是否:ADV	可以:ADV	提供:Vt	台灣人:N	一:DET	個:M	
+不用:ADV	繼續:Vt	吃:Vt	漲價:Vi	漲:Vi	超:Vt	多:Vi	的:T	吉野家:N	的:T	新:Vi	選擇:Vt	呢:T	
+讓:Vt	我們:N	看下去:Vi	
+す:FW	き:FW	家:N	目前:N	在:P	台灣:N	只:ADV	有:Vt	一:DET	間:M	分店:N	位於:Vt	古亭:N	
+依照:P	台北人:N	愛:Vt	排隊:Vi	的:T	特性:N	只要:C	是:Vt	國外:N	名:A	店:N	不管:C	
+賣:Vt	啥:DET	只要:C	是:Vt	吃:Vt	的:T	來:Vi	台:N	開幕:Vi	肯定:Vt	是:Vt	大排長龍:Vi	
+我:N	是:Vt	大概:ADV	兩:DET	周:M	前:POST	颱風:N	假:P	那天:N	晚上:N	去:ADV	吃:Vt	的:T	
+大概:ADV	
+排:Vt	了:ASP	一:DET	個:M	小時:N	左右:POST	
+最近:N	又:ADV	多:Vi	了:ASP	添:Vt	好運:N	可以:ADV	排隊:Vi	
+我:N	想:Vt	現在:N	す:FW	き:FW	家:N	應該:ADV	沒有:Vt	那麼多:DET	人:N	了:T	吧:T	
+大排長龍:Vi	的:T	門口:N	
+話:N	說:Vt	這:DET	店面:N	就:ADV	是:Vt	以前:N	古亭:N	美食:N	李嘉興:N	板鴨號:N	的:T	所在地:N	
+現在:N	似乎:ADV	因為:C	分:Vt	
+家:N	的:T	關係:N	分成:Vt	兩:DET	間:M	
+其中:DET	一:DET	間:M	吳記:N	南京:N	板鴨:N	就:ADV	在:P	正:N	旁邊:N	
+以前:N	阿婆:N	網咖:N	的:T	地方:N	
+國中:N	在:P	那:DET	
+邊:ADV	不:ADV	知道:Vt	貢獻:Vt	多少:DET	10:DET	元:M	來:ADV	玩:Vt	CS:FW	、:PAUSECATEGORY	天堂:N	還:ADV	有:Vt	D:FW	2:DET	
+這:DET	張:M	圖:N	讓:Vt	人:N	感覺:N	す:FW	き:FW	家:M	是:Vt	洋人:N	的:T	東西:N	
+飄洋過海:Vi	來:Vi	日本:N	
+聽說:Vt	是:Vt	日本市:N	佔:Vt	率:N	第一:DET	的:T	牛丼:N	連鎖:A	
+不過:C	大家:N	都:ADV	說:Vt	松屋:N	比較:ADV	好吃:Vi	就是了:Vi	
+吉野家:N	其實:ADV	我:N	蠻:ADV	
+喜歡:Vt	的:T	
+不過:C	近年:N	漲價:Vi	幅度:N	實在:ADV	太:ADV	大:Vi	了:T	
+菜單:N	在:P	此:DET	
+不得不:ADV	說真的:ADV	是:Vt	比:P	吉野家:N	便宜:Vi	很多:DET	
+中碗牛丼:N	69:DET	元:M	
+吉野家:N	中碗:N	要:ADV	109:DET	元:M	啊:T	
+居然:ADV	差:Vi	了:ASP	40:DET	塊:M	而且:C	分量:N	也:ADV	沒有:ADV	說:Vt	差:Vi	很多:DET	
+光:ADV	是:Vt	價格:N	就:ADV	很:ADV	有:Vt	競爭力:N	了:T	
+其他:DET	特別:Vi	牛丼:N	的:T	話:N	大:VJH	
+概:ADV	也:ADV	和:P	吉野家:N	差:Vi	了:ASP	20:DET	元:M	以上:POST	
+真的:ADV	是:Vt	便宜:Vi	很多:DET	
+這邊:N	當然:ADV	也:ADV	有:Vt	提供:Vt	套餐:N	選擇:Vt	
+總共:ADV	有:Vt	四:DET	種:M	套餐:N	
+漬物:N	
++:FW	25:DET	
+、:PAUSECATEGORY	空心菜:N	
++:FW	30:DET	
+、:PAUSECATEGORY	筊白:N	筍:N	
++:FW	40:DET	
+還:ADV	有:Vt	可樂餅:N	
++:FW	50:DET	
+基本:N	上:POST	就是:C	套餐:N	名稱:N	上:N	的:T	東西:N	加上:Vt	一:DET	碗:M	味增湯:N	這樣:Vi	
+套餐:N	的:T	空心菜:N	
+份量:N	就:ADV	真的:ADV	是:Vt	小菜:N	的:T	份量:N	
+賣:Vt	像:P	其實:ADV	不:ADV	太:ADV	好:Vi	
+看起來:ADV	有點:ADV	乾:Vi	
+吃起來:ADV	也:ADV	是:Vt	
+除此之外:ADV	這:DET	個:M	空心菜:N	蒜味:N	很:ADV	重:Vi	且:C	很:ADV	鹹:Vi	
+相當:ADV	重:Vi	口味:N	
+實在:ADV	是:Vt	不:ADV	太:ADV	好吃:Vi	
+三:DET	種:M	起:POST	司牛:N	丼:b	
+99:DET	元:M	
+聽說:Vt	是:Vt	す:FW	き:FW	家:M	招牌:N	的:T	特別:Vi	口味:N	之:T	一:DET	
+將:P	三:DET	種:M	不同:Vi	的:T	起:Vt	司:N	通通:ADV	撒:Vt	在:P	
+熱騰騰:Vi	的:T	牛丼:N	和:C	飯:N	上面:N	
+起:Vt	司:N	的:T	味道:N	還:ADV	蠻:ADV	香:Vi	的:T	
+而且:C	有:Vt	種:M	特別:Vi	的:T	甜味:N	
+不:ADV	知道:Vt	用:Vt	的:T	是:Vt	哪:DET	種:M	
+起:Vt	司:N	
+雖然:C	看起來:ADV	像:Vt	是:Vt	起:Vt	司粉:N	
+不過:C	下:DET	層:M	的:T	起:Vt	司:N	還是:ADV	有:Vt	呈現:Vt	融化:Vt	的:T	狀態:N	
+還:ADV	蠻:ADV	不錯:Vi	的:T	
+不:ADV	
+過:Vt	因為:C	這邊:N	的:T	牛肉:N	真的:ADV	很:ADV	鹹:Vi	
+在:P	配上:Vt	起:ASP	司:N	整體:N	吃起來:ADV	實在:ADV	是:Vt	鹹膩:Vi	啊:T	
+還:ADV	有:Vt	白飯:N	夭壽:Vi	燙:Vt	
+可能:ADV	是:Vt	因為:C	人:N	太多:Vi	煮好:Vt	飯:N	馬上:ADV	裝:Vt	呈:Vt	出去:Vi	的:T	關係:N	吧:T	
+除此之外:ADV	醬汁:N	也:ADV	比:P	
+較:ADV	多:Vi	
+會:ADV	讓:Vt	白飯:N	變得:Vt	濕軟:Vi	且:C	糊糊:Vi	的:T	
+配上:Vt	起:ASP	司:N	又:ADV	更:ADV	糊:Vt	一些:DET	
+讓:Vt	原本:ADV	就:ADV	很:ADV	重:Vi	口味:N	的:T	丼:b	飯:N	吃:Vt	起:ASP	
+來:ADV	又:ADV	更:ADV	容易:Vi	膩:Vi	一些:DET	
+沒:Vt	啥:DET	味道:N	的:T	可樂餅:N	
+看:Vt	圖片:N	好像:ADV	有:Vt	蔬菜:N	在:P	裡面:N	
+不過:C	實際:Vi	吃起來:ADV	毫無:Vt	反應:N	就:ADV	只是:ADV	個:M	馬鈴薯:N	
+餅:N	
+不:ADV	好吃:Vi	
+滿滿:Vi	青蔥:Vi	的:T	蔥溫玉牛:N	丼:b	
+溫泉蛋:N	是:Vt	會:ADV	另外:ADV	裝:Vt	喔:T	
+然後:ADV	吃起來:ADV	也:ADV	是:Vt	太:ADV	鹹:Vi	啦:T	
+合體:N	之後:POST	的:T	樣子:N	
+其實:ADV	我:N	覺得:Vt	す:FW	き:FW	家:M	鹹:Vi	的:T	根本:N	原因:N	在於:Vt	牛肉:N	和:C	它:N	的:T	醬汁:N	
+真的:ADV	是:Vt	很:ADV	重:Vi	口味:N	
+而且:C	牛肉:N	味道:N	和:C	吉野家:N	完全:ADV	不同:Vi	
+我:N	個:M	人:N	比較:ADV	喜歡:Vt	吉野家:N	的:T	味道:N	
+喔:T	對了:Vi	
+套餐:N	的:T	味增湯:N	也:ADV	很:ADV	鹹:Vi	
+整:DET	餐:M	都:ADV	超:Vt	鹹:Vi	的:T	根本:N	鈉:N	含量:N	超標:Vi	啊:T	
+說真的:ADV	我:N	個:M	人:N	還:ADV	蠻:ADV	不:ADV	喜歡:Vt	的:T	す:FW	き:FW	家:N	的:T	味道:N	的:T	
+不過:C	如果:C	之後:N	不:ADV	用:Vt	排隊:Vi	的:T	話:N	倒是:ADV	可以:ADV	衝:Vi	著:ASP	便:ADV	
+宜:ADV	來:ADV	吃吃:Vt	看:Vt	
+要:ADV	排隊:Vi	的:T	話:N	就算:C	惹:Vt	吧:T	
+個:M	人:N	評分:Vi	
+食物:N	::COLONCATEGORY	6:DET	/:FW	10:DET	太:ADV	鹹:Vi	啦:T	
+套餐:N	也:ADV	不:ADV	太:ADV	好吃:Vi	
+CP:FW	值:N	::COLONCATEGORY	7:DET	/:FW	10:DET	和:C	吉野家:N	比起來:ADV	算:Vt	便宜:Vi	
+環境:N	::COLONCATEGORY	7:DET	/:FW	10:DET	就:ADV	是:Vt	速食店:N	
+服務:Nv	::COLONCATEGORY	7:DET	/:FW	10:DET	還:ADV	OK:FW	
+喜歡:Vt	日本:N	重鹹:Vi	口味:N	的:T	可以:ADV	試試:Vt	
+不然:C	不用:ADV	特別:Vi	來:ADV	排隊:Vi	了:ASP	
+Roa:FW	的:T	生活:N	心得:N	紀錄:N	-:DASHCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/xQHN:FW	
+紀錄:N	逝去:Vi	的:T	青春:N	時光:N	
+或:C	老年:N	時光:N	&:FW	amp:FW	
+各:DET	種:M	台北:N	美食:N	

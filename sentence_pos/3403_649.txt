@@ -1,0 +1,59 @@
+peacefulsea:FW	(:PARENTHESISCATEGORY	靜:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	Nagi:FW	凪豚王:N	拉麵:N	(:PARENTHESISCATEGORY	忠孝店:N	):PARENTHESISCATEGORY	
+Fri:FW	
+Aug:FW	
+8:DET	
+20:DET	::COLONCATEGORY	14:DET	::COLONCATEGORY	50:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Nagi:FW	凪豚王:N	拉麵:N	(:PARENTHESISCATEGORY	忠孝店:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	08:DET	/:FW	08:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	大安路:N	一段:N	75巷:N	5:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	0227781899:DET	
+網誌:N	圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	leicam9.pixnet.net/blog/post:FW	/:FW	169539960:DET	
+今天:N	到:P	微風:N	廣場:N	去:ADV	走走:Vi	
+在:P	朋友:N	的:T	建議:N	下:POST	就:ADV	到:Vt	附近:N	的:T	nagi:FW	凪豚王拉:N	麵店:N	用餐:Vi	
+能:ADV	讓:Vt	一向:ADV	口味:N	很:ADV	刁:Vi	的:T	朋友:N	說:Vt	CP:FW	值:N	不錯:Vi	
+就:ADV	也:ADV	在:P	大:Vi	太陽:N	底下:N	去:ADV	找:Vt	這:DET	間:M	店:N	
+店:N	門口:N	的:T	辨視度:N	真的:ADV	非常:ADV	清楚:Vi	
+沒:ADV	走:Vi	幾:DET	分鐘:M	的:T	路:N	就:ADV	找到:Vt	了:ASP	
+由於:C	已:ADV	經過:Vt	了:ASP	用餐:Nv	時間:N	
+店:N	內:N	的:T	人潮:N	並:ADV	沒有:Vt	很多:DET	
+店員:N	的:T	服務:Nv	很:ADV	棒:Vi	
+對於:P	第一:DET	次:M	用餐:Vi	的:T	客戶:N	會:ADV	解說:Vt	菜單:N	上:N	的:T	":FW	豚王:N	、:PAUSECATEGORY	黑王:N	、:PAUSECATEGORY	赤王:N	、:PAUSECATEGORY	脆王:N	及:C	限定王:N	":FW	的:T	差別性:N	
+另外:C	針對:P	如:P	醬汁:N	鹹度:N	
+秘製:Vt	風味油:N	
+叉燒肉:N	
+等等:POST	的:T	搭配:Nv	
+也:ADV	做:Vt	了:ASP	詳細:Vi	的:T	解說:N	
+基本:N	上:N	選擇:Vt	都:ADV	是:Vt	選:Vt	普通:Vi	
+麵條:N	方面:N	我:N	選擇:Vt	沒有:ADV	試:Vt	過:ASP	的:T	太:ADV	麵:N	
+沒:Vt	多:ADV	久:Vi	
+點選:Vt	的:T	麵:N	就:ADV	來:Vi	了:ASP	
+一:ADV	看到:Vt	時:POST	
+似乎:ADV	感覺:Vt	較:P	過去:N	吃:Vt	的:T	差不多:Vi	
+但:C	喝:Vt	了:ASP	一口:ADV	湯頭:N	後:POST	
+只:ADV	能:ADV	說:Vt	
+它:N	的:T	湯頭:N	抓住:Vt	了:ASP	我:N	的:T	喜好:Nv	
+再:ADV	吃上:Vt	麵:N	
+口感:N	很:ADV	棒:Vi	
+順口:Vi	滑溜:Vi	
+叉燒肉:N	的:T	給:Vt	的:T	份量:N	
+也:ADV	不少:Vi	
+吃起來:ADV	口感:N	實在:ADV	
+也:ADV	帶有:Vt	一些:DET	湯頭:N	的:T	味道:N	
+意外:N	的:T	有:Vt	著:ASP	加乘:Vt	促進:Nv	食:N	欲:Vt	的:T	效果:N	
+第一:DET	次:M	找到:Vt	讓:Vt	我:N	非常:ADV	喜愛:Vt	的:T	拉麵:N	
+可惜:Vi	這:DET	次:M	只有:ADV	一:DET	個:M	人:N	
+也:ADV	只:ADV	能:ADV	吃:Vt	其中:DET	一:DET	個:M	口味:N	
+其它:DET	如:P	
+限定:Vt	王:N	等等:POST	的:T	口感:N	
+也:ADV	只:ADV	能:ADV	等:P	下:DET	次:DET	有:Vt	機會:N	到:Vt	台北:N	時:POST	再:ADV	約:Vt	朋友:N	來:ADV	吃吃:Vt	看:Vt	
+今天:N	的:T	台北:N	行:Vi	
+除:P	
+了:Vt	接觸:Vt	的:T	一些:DET	商品:N	外:POST	
+就:ADV	屬:Vt	這:DET	間:M	的:T	用餐:Nv	經驗:N	
+是:Vt	讓:Vt	我:N	非常:ADV	給予:Vt	高分:N	評價:N	的:T	
+曾經:ADV	
+妳:N	是:Vt	我:N	的:T	唯一:A	
+如今:N	
+妳:N	是:Vt	我:N	的:T	曾經:ADV	

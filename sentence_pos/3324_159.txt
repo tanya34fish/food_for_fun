@@ -1,0 +1,191 @@
+lovedach:FW	(:PARENTHESISCATEGORY	毛毛:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	廣宣:Vt	]:PARENTHESISCATEGORY	台北:N	大安:N	MR.PAPA:FW	比利時:N	鬆餅:N	法式:A	烤布:N	蕾:N	
+Thu:FW	
+Jul:FW	
+17:DET	
+23:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	17:DET	
+2014:DET	
+店名:N	MR.PAPA:FW	比利時:N	鬆餅:N	專賣店:N	
+地址:N	::COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	四段:N	170巷:N	5弄:N	22:DET	號:M	
+電話:N	::COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2771:DET	-:DASHCATEGORY	1616:DET	
+營業:Nv	時間:N	::COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+圖文:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	lovedach.pixnet.net/blog/post:FW	/:FW	378713669:DET	
+PTT:FW	文字版:N	::COLONCATEGORY	
+看:Vt	過來:Vi	看過:Vt	來:ADV	
+MR.PAPA:FW	又:ADV	有:Vt	新品:N	推出:Vt	了:ASP	
+還可以:ADV	看:Vt	帥帥:Vi	又:ADV	可愛:Vi	的:T	法國:N	主廚:N	喔:T	
+毛毛:N	完全:ADV	就:ADV	是:Vt	MR.PAPA:FW	的:T	常客:N	
+算:Vt	一:DET	算:Vt	應該:ADV	已經:ADV	來訪:Vi	6.7:DET	次:M	了:T	
+會:ADV	這樣:Vi	N:FW	訪:Vt	絕對:ADV	不:ADV	是:Vt	沒有:Vt	原因:N	的:T	
+去:ADV	看:Vt	毛毛:N	之前:POST	的:T	文章:N	就:ADV	會:ADV	知道:Vt	
+網頁:N	下:POST	拉:Vt	有:Vt	文章:N	整理:Vt	連:C	
+結:Vt	
+2014:DET	今年:N	夏天:N	
+MR.PAPA:FW	又:ADV	推出:Vt	了:ASP	新:Vi	口味:N	的:T	鬆餅:N	
+而且:C	還:ADV	有:Vt	了:ASP	重大:Vi	突破:Vt	
+就是:C	要:ADV	準備:Vt	推出:Vt	
+鹹:Vi	口味:N	
+的:T	鬆餅:N	
+而且:C	絕對:ADV	是:Vt	外面:N	沒:ADV	見:Vt	過:ASP	的:T	
+獨:ADV	
+家:N	口味:N	呀:T	
+和:C	毛毛:N	一起:ADV	到:P	MR.PAPA:FW	明耀店:N	來:ADV	品嘗:Vt	吧:T	::COLONCATEGORY	D:FW	
+DSC01440.JPG:FW	
+不論:C	是:Vt	明耀店:N	還是:C	其他:DET	分店:N	
+都:ADV	有:Vt	很:ADV	有:Vt	特色:N	
+松山店:N	和:C	松山:N	車站店:N	是:Vt	白色:N	為主:Vi	的:T	風格:N	
+明耀店:N	就:ADV	是:Vt	大紅色:N	的:T	鐵皮:N	為:Vt	主題:N	
+DSC01381.JPG:FW	
+牆壁:N	上:N	的:T	手寫:A	黑板:N	
+超:Vt	厲害:Vi	的:T	呀:T	
+DSC01383.JPG:FW	
+DSC01384.JPG:FW	
+鬆餅:N	均:ADV	是:Vt	現點現:N	做:Vt	
+所以:C	請:Vt	耐心:N	的:T	等候:Nv	美味:N	又:ADV	熱:Vt	呼呼:ADV	的:T	現:N	做:Vt	鬆餅:N	唷:T	::COLONCATEGORY	D:FW	
+DSC01441.JPG:FW	
+現在:N	推出:Vt	的:T	優惠:Nv	
+趁:P	暑假:N	比較:ADV	有空:Vi	趕快:ADV	去:ADV	吃:Vt	吧:T	
+DSC01347_2.jpg:FW	
+等待:Vt	鬆餅:N	的:T	時間:N	貼心:Vi	地:T	先:ADV	送上:Vt	飲料:N	
+DSC01362.JPG:FW	
+法式:A	烤布蕾:N	鬆餅:N	120:DET	元:M	
+2014:DET	.:PERIODCATEGORY	7.31:DET	前:N	優惠價:N	100:DET	元:M	
+這:DET	就:ADV	是:Vt	今年:N	夏天:N	推出:Vt	的:T	第一:DET	個:M	新:Vi	口味:N	
+是:Vt	說:Vt	昨天:N	毛毛:N	才:ADV	剛:ADV	烤:Vt	了:ASP	烤布:N	蕾:N	
+食譜:N	連結:Vt	請:Vt	點:Vt	我:N	
+今天:N	就:ADV	來:ADV	吃:Vt	烤布蕾:N	鬆餅:N	了:T	XD:FW	
+當然:ADV	這:DET	兩樣:Vi	東西:N	不:ADV	太:ADV	一樣:Vi	啦:T	
+MR.PAPA:FW	更加:ADV	的:T	特別:Vi	
+還:ADV	搭配上:Vt	了:ASP	比利時:N	鬆餅:N	
+DSC01355.JPG:FW	
+不:ADV	是:Vt	草莓:N	的:T	季節:N	
+但:C	MR.PAPA:FW	使用:Vt	的:T	草莓:N	仍:ADV	是:Vt	紅通通:Vi	的:T	吸引:Vt	著:ASP	每:DET	個:M	人:N	的:T	目光:N	
+光:ADV	是:Vt	拍照:Vi	時:POST	
+就:ADV	可以:ADV	聞到:Vt	頻頻:ADV	傳來:Vt	烤布蕾:N	的:T	奶:N	蛋:N	香:Vi	
+DSC01368.JPG:FW	
+鬆餅:N	均:ADV	會:ADV	貼心:Vi	地:T	幫:P	你:N	切成:Vt	4:DET	塊:M	
+輕鬆:Vi	地:T	就:ADV	可以:ADV	享用:Vt	鬆餅:N	
+多:DET	人:N	分食:Vt	的:T	話:N	也:ADV	非常:ADV	方便:Vi	
+DSC01371.JPG:FW	
+烤布蕾:N	滿溢:Vi	著:ASP	濃濃:Vi	的:T	奶:N	蛋:N	香:Vi	
+吃起來:ADV	很:ADV	像:Vt	卡士達醬:N	的:T	感覺:N	
+不過:C	又:ADV	比:P	卡士達醬:N	還要:ADV	濃稠:Vi	很:ADV	
+多:DET	
+非常:ADV	的:T	甜滋滋:Vi	
+如果:C	覺得:Vt	太:ADV	甜:Vi	
+就:ADV	搭配:Vt	一:DET	小:Vi	口:N	酸酸:Vi	的:T	草莓:N	
+就:ADV	會:ADV	剛剛好:ADV	囉:T	
+DSC01376.JPG:FW	
+烤布蕾:N	最:ADV	上面:N	是:Vt	一:DET	層:M	薄薄:Vi	的:T	炙燒:Vi	過:ASP	的:T	焦糖:N	脆皮:N	
+DSC01379.JPG:FW	
+整體:N	非常:ADV	的:T	特別:Vi	又:ADV	好吃:Vi	
+上面:N	的:T	烤:Vt	布蕾:N	好:ADV	濃郁:Vi	又:ADV	好:ADV	香:Vi	
+奶:N	蛋:N	的:T	味道:N	很:ADV	自然:Vi	好吃:Vi	
+小:Vi	缺點:N	是:Vt	...:ETCCATEGORY	超甜:Vi	XD:FW	螞蟻人:N	鐵定:ADV	熱愛:Vt	的:T	啦:T	
+DSC01394.JPG:FW	
+草莓:N	起:POST	司:Vt	蛋糕:N	90:DET	元:M	
+這:DET	杯:M	飲料:N	毛毛:N	喝:Vt	過:ASP	3:DET	次:M	了:T	
+每:DET	喝:Vt	一:DET	次:M	
+都:ADV	覺得:Vt	一:DET	次:M	比:P	一:DET	次:M	還要:ADV	好喝:Vi	
+DSC01436.JPG:FW	
+這:DET	次:M	喝:Vt	起來:ASP	的:T	非常:ADV	的:T	濃郁:Vi	
+冰塊:N	打:Vt	的:T	很:ADV	碎:Vi	
+變成:Vt	很:ADV	有:Vt	口感:N	的:T	冰沙:N	
+不過:C	冰塊:N	也:ADV	只有:ADV	上:N	層:N	一點點:DET	而已:T	
+所以:C	幾乎:ADV	不:ADV	影響:Vt	整:DET	杯:M	的:T	濃郁度:N	
+底下:N	完全:ADV	濃濃:Vi	的:T	草莓:N	起:POST	司:Vt	
+裡面:N	的:T	草莓:N	是:Vt	使用:Vt	真正:A	的:T	草莓:N	下去:Vi	打製:Vt	而:C	成:Vt	的:T	
+並非:ADV	使用:Vt	香精:N	
+喝:Vt	的:T	時候:N	你:N	就:ADV	會:ADV	知道:Vt	了:ASP	
+會:ADV	喝到:Vt	很多:DET	草莓:N	的:T	籽籽:N	
+真的:ADV	假不了:Vi	的:T	啦:T	
+照片:N	中:POST	的:T	草莓:N	只:ADV	是:Vt	示意圖:N	喔:T	
+實際:Vi	點:M	餐:N	後:POST	不會:ADV	有:Vt	這:DET	顆:M	草莓:N	卡在:Vt	杯緣:N	
+DSC01405.JPG:FW	
+墨西哥:N	肉醬:N	鬆餅:N	
+這:DET	是:Vt	MR.PAPA:FW	第一:DET	個:M	目前:N	尚未:ADV	正式:Vi	上市:Vi	的:T	鹹:Vi	口味:N	鬆餅:N	
+正式:Vi	推出:Vt	後:POST	的:T	版本:N	要:ADV	等:Vt	上市:Vi	後:POST	才:ADV	知道:Vt	囉:T	
+先:ADV	讓:Vt	大家:N	一:ADV	窺:Vt	新:Vi	口味:N	的:T	面貌:N	
+DSC01415.JPG:FW	
+上面:N	的:T	料:N	非常:ADV	的:T	豐盛:Vi	
+擺放:Vt	的:T	也:ADV	是:Vt	一級:N	棒:Vi	的:T	美:Nv	
+墨西哥:N	口味:N	實在:ADV	很:ADV	特別:Vi	
+外面:N	常見:Vi	的:T	就是:C	鮪魚:N	、:PAUSECATEGORY	火腿:N	哪些:DET	口味:N	
+沒:ADV	吃膩:Vt	的:T	話:N	也:ADV	應該:ADV	看到:Vt	膩:Vi	
+了:Vt	XD:FW	
+DSC01423.JPG:FW	
+你們:N	都:ADV	知道:Vt	的:T	
+毛毛:N	不:ADV	吃:Vt	辣:Vi	
+這:DET	個:M	剛:ADV	送:Vt	上桌:Vi	的:T	時候:N	心想:Vt	::COLONCATEGORY	
+糟糕:Vi	....:ETCCATEGORY	不:ADV	吃:Vt	辣:Vi	阿:N	QQ:FW	
+但是:C	香氣:N	騰騰:Vi	
+而且:C	好奇心:N	勝於:Vt	不:ADV	吃:Vt	辣:Vi	這:DET	點:M	
+所以:C	還是:ADV	開動:Vi	了:ASP	XD:FW	
+DSC01433.JPG:FW	
+DSC:FW	01426:DET	
+肉醬:N	辣味:N	還:ADV	真:ADV	夠:Vi	
+好:ADV	辣:Vi	
+XD:FW	
+肉醬:N	的:T	用料:N	非常:ADV	的:T	豐富:Vt	
+以前:N	去:Vt	一些:DET	美式:A	餐廳:N	
+沒:ADV	點:Vt	墨:N	西:N	
+哥:N	料理:N	也:ADV	看過:Vt	別人:N	點:Vt	
+通常:ADV	很多:DET	肉醬:N	都:ADV	稀稀:Vi	的:T	
+大部分:DET	都:ADV	是:Vt	":FW	醬汁:N	":FW	而:C	不:ADV	是:Vt	料:Vt	
+但是:C	MR.PAPA:FW	有:Vt	著:ASP	滿滿:Vi	的:T	料:N	
+非常:ADV	
+重本:N	的:T	濃稠:Nv	肉醬:N	
+還:ADV	有:Vt	幾:DET	片:M	多力多滋:N	的:T	餅:N	乾脆片:N	
+實在:ADV	是:Vt	好吃:Vi	又:ADV	很:ADV	到位:Vi	
+要不是:C	無法:ADV	吃:Vt	這麼:ADV	辣:Vi	
+真的:ADV	很:ADV	想:Vt	整:DET	個:M	吃完:Vt	它:N	XD:FW	
+DSC01444.JPG:FW	
+連:C	打包:Vi	的:T	袋子:N	都:ADV	越來越:ADV	可愛:Vi	了:T	
+DSC01451_3.jpg:FW	
+這:DET	位:M	是:Vt	MR.PAPA:FW	御用:A	的:T	法國:N	主廚:N	GIGI:FW	
+人:N	超可愛:Vi	的:T	XD:FW	
+有:Vt	機會:N	的:T	話:N	
+應該:ADV	都:ADV	可以:ADV	看到:Vt	他:N	在:P	廚房:N	裡:N	忙進忙出:Vi	的:T	
+DSC01464.JPG:FW	
+MR.PAPA:FW	的:T	生意:N	非常:ADV	好:Vi	
+即使:C	是:Vt	平日:N	下午:N	
+也:ADV	是:Vt	源源不絕:Vi	的:T	客人:N	
+如果:C	沒有:Vt	時間:N	在:P	店:N	內:N	慢慢:Vi	用餐:Vi	
+也:ADV	可以:ADV	選擇:Vt	外帶:Vt	
+如果:C	不:ADV	喜歡:Vt	吃:Vt	花俏:Vi	有加:ADV	配料:N	的:T	鬆餅:N	
+當然:ADV	也:ADV	有:Vt	原味:N	的:T	鬆餅:N	可以:ADV	選:Vt	
+一:DET	整:DET	盒:M	原味:N	鬆餅:N	300:DET	元:M	
+6:DET	個:M	
+一樣:Vi	都:ADV	是:Vt	現:ADV	做:Vt	的:T	
+熱熱:Vi	的:T	買回去:Vi	辦公室:N	或是:C	回家:Vi	吃:Vt	
+還是:ADV	要:ADV	
+隔:P	天:N	再:ADV	加熱:Vi	品嘗:Vt	
+都:ADV	是:Vt	很:ADV	棒:Vi	的:T	選擇:N	喔:T	
+盒子:N	的:T	質感:N	滿:ADV	好:Vi	的:T	
+送人:Vi	當:P	禮物:N	也:ADV	很:ADV	方便:Vi	
+DSC01463.JPG:FW	
+因為:C	現:ADV	做:Vt	的:T	鬆餅:N	是:Vt	熱:Vt	呼呼:ADV	的:T	
+所以:C	盒子:N	沒有:ADV	立刻:ADV	關:Vt	起來:ASP	
+回家:Vi	一路:ADV	上:N	就:ADV	一直:ADV	聞到:Vt	鬆餅:N	的:T	香氣:N	
+捷運:N	上:N	的:T	人:N	應該:ADV	會:ADV	很:ADV	餓:Vi	吧:T	XD:FW	
+*:FW	*:FW	毛毛:N	給:Vt	粉絲:N	的:T	優惠:Nv	*:FW	*:FW	
+DSC01456.JPG:FW	
+毛毛:N	都:ADV	來:ADV	吃:Vt	這麼多:DET	次:M	了:T	
+這:DET	次:M	就:ADV	幫:P	大家:N	爭取到:Vt	了:ASP	優惠券:N	
+但是:C	要:ADV	怎麼:ADV	拿到:Vt	優惠券:N	呢:T	
+來:Vi	來:Vi	來:Vi	哩:T	來:T	
+1:DET	.:PERIODCATEGORY	本:DET	篇:M	文章:N	按:P	讚:Vt	
+按:P	讚處:N	位於:Vt	文章:N	標題:N	正:ADV	下方:N	
+2:DET	.:PERIODCATEGORY	本:DET	篇:M	文章:N	推文:N	
+推文:N	教學:Vi	
+3:DET	.:PERIODCATEGORY	留言:N	你:N	是:Vt	幾:DET	讚:Vi	和:C	幾:DET	推:Vt	
+請:Vt	務必:ADV	讚:Vt	+:FW	推:Vt	
+缺少:Vt	一:DET	個:M	就:ADV	不:ADV	算:Vt	喔:T	
+4:DET	.:PERIODCATEGORY	留言:N	你:N	最:ADV	想:Vt	吃:Vt	的:T	鬆餅:N	口味:N	
+5:DET	.:PERIODCATEGORY	留下:Vt	你:N	的:T	寄:Vt	件:M	資料:N	
+郵遞區號:N	、:PAUSECATEGORY	地址:N	、:PAUSECATEGORY	手機:N	、:PAUSECATEGORY	收件:Nv	姓名:N	
+完成:Vt	以上:POST	5:DET	項:M	的:T	格友:N	
+將:ADV	從中:ADV	抽出:Vt	8:DET	位:M	
+名額:N	超多:Vi	
+有:Vt	讚:Vi	有:Vt	推:Vt	有:Vt	留言:N	就:ADV	幾乎:ADV	一定:ADV	中:Vt	了:ASP	啦:T	
+活動:N	只:ADV	到:P	7:DET	/:FW	2022:DET	::COLONCATEGORY	00:DET	唷:T	

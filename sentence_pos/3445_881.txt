@@ -1,0 +1,102 @@
+diet83(Crystal:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	8:DET	%甜鹹:Vi	屋:N	閃電:N	泡芙:N	
+Thu:FW	
+Aug:FW	
+21:DET	
+00:DET	::COLONCATEGORY	27:DET	::COLONCATEGORY	22:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	8:DET	%甜鹹:Vi	點心屋:N	
+消費:N	時間:N	::COLONCATEGORY	2014:DET	/:FW	08:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	金華街:N	251巷:N	2:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2356:DET	-:DASHCATEGORY	3265:DET	
+營業:Nv	時間:N	::COLONCATEGORY	平日:N	12:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	假日:N	10:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	200:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+有:Vt	圖:N	有:Vt	真相版:N	：:COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	crystal1983.pixnet.net/blog/post:FW	/:FW	178200340:DET	
+永康街:N	人氣:N	店家:N	8:DET	%:M	現在:N	也:ADV	出:Vt	甜:Vi	鹹:Vi	點心:N	了:T	
+自從:P	上:DET	次:M	吃:Vt	了:ASP	山茶花:N	檸檬塔:N	後:POST	
+一直:ADV	很:ADV	想:Vt	試試:Vt	看起來:ADV	好:Vi	漂釀:Vt	的:T	閃電:N	泡芙:N	
+而且:C	現在:N	外帶:Vt	買一送一:Vi	好:Vi	划算:Vi	
+只好:ADV	有請:Vt	把:P	8:DET	%:M	當:P	自己:N	家:N	灶咖:N	的:T	朋友:N	出馬:Vi	
+將:ADV	閃電:ADV	泡:Vt	芙:b	全部:DET	包:M	回家:Vi	
+閃電:N	泡芙:N	排排:DET	站:Vi	
+每:DET	一:DET	個:M	都:ADV	看起來:ADV	好:ADV	可口:Vi	
+總共:ADV	買:Vt	了:ASP	七:DET	個:M	閃電:N	泡芙:N	
+其中:DET	一:DET	個:M	無法:ADV	入:Vt	列:N	就:ADV	陣亡:Vi	了:T	
+外帶:Vt	面目全非:Vi	了:T	吶:T	
+↓:FW	↓:FW	↓:FW	玫瑰:N	荔枝:N	閃電:N	泡芙:N	↓:FW	↓:FW	↓:FW	
+是:Vt	不:ADV	是:Vt	很:ADV	美:Vi	捏:Vt	
+裹:Vt	了:ASP	糖漿:N	後:POST	還:ADV	放上:Vt	玫瑰:N	花瓣:N	+:FW	金箔:N	
+綠綠:Vi	的:T	應該:ADV	是:Vt	開心果:N	顆粒:N	
+泡芙:N	內:N	餡:N	充滿:Vt	了:ASP	玫瑰:N	的:T	香味:N	
+安蹄:N	是:Vt	沒:ADV	吃到:Vt	荔枝:N	的:T	味道:N	啦:T	
+嘗:Vt	起來:ASP	是:Vt	濃濃:Vi	玫瑰:N	cream:FW	的:T	味道:N	喲:T	
+↓:FW	↓:FW	↓:FW	伯爵茶:N	巧克力:N	閃電:N	泡芙:N	↓:FW	↓:FW	↓:FW	
+泡芙:N	撒上:Vt	巧克力粉:N	後:POST	
+還:ADV	放上:Vt	一些:DET	茶葉:N	梗:N	
+這:DET	款:M	有:Vt	淡淡:Vi	的:T	茶香:N	
+不:ADV	甜:Vi	不:ADV	膩:Vi	
+又:ADV	有:Vt	巧克力:N	濃厚:Vi	的:T	口感:N	
+好:ADV	適合:Vi	配上:Vt	一:DET	壺:M	茶:N	吶:T	
+↓:FW	↓:FW	↓:FW	玄米抹茶:N	閃電:N	泡芙:N	↓:FW	↓:FW	↓:FW	
+這:DET	款:M	泡芙:N	撒上:Vt	的:T	較:ADV	粗:Vi	顆粒:N	的:T	抹:Vt	茶粉:N	
+還:ADV	有:Vt	烘焙:Vt	過:ASP	的:T	玄米:N	與:C	茶葉:N	
+抹茶:N	配上:Vt	玄米:N	的:T	香氣:N	十足:Vi	
+茶香:N	口味:N	泡芙:N	都:ADV	不會:ADV	太過:ADV	甜:Vi	膩:Vi	
+苦味:N	主要:ADV	來自:Vt	上:Vt	層:M	撒上:Vt	的:T	抹:Vt	茶粉:N	
+搭上:Vt	甜甜:Vi	的:T	抹:Vt	茶內:N	餡:N	
+怕:Vt	甜:Vi	的:T	可以:ADV	選擇:Vt	這:DET	款:M	喲:T	
+↓:FW	↓:FW	↓:FW	北極:N	之:T	心:N	閃電:N	泡芙:N	↓:FW	↓:FW	↓:FW	
+安蹄:N	一眼:N	掃去:Vt	
+最:ADV	不:ADV	喜歡:Vt	的:T	就是:C	這:DET	個:M	泡芙:N	
+只有:ADV	白白:Vi	的:T	
+而且:C	糖飾:N	還:ADV	辣:Vi	漆:N	的:T	倒:Vt	了:ASP	
+悲劇:N	
+但是:C	安蹄:N	一:ADV	查:Vt	不得了:Vi	了:ASP	各:DET	位:M	
+這:DET	可是:C	8:DET	%:M	為了:P	VivienneWestwood:FW	捍衛:Vt	地球:N	特展:N	
+特別:Vi	打造:Vt	的:T	閃電:N	泡芙:N	
+是:Vt	以:P	暖化:Vt	的:T	北極:N	冰:N	融為:Vt	概念:N	
+滿滿:Vi	糖粉:N	像:Vt	是:Vt	北極熊:N	的:T	毛皮:N	質感:N	
+還:ADV	放上:Vt	糖:N	飾:Vt	代表:N	冰原:N	
+搭上:Vt	檸檬:N	薄荷:N	內:N	餡:N	
+這:DET	個:M	閃電:N	泡芙:N	
+跌破:Vt	安蹄:N	眼鏡:N	
+好:ADV	喜:Vt	翻:Vt	啦:T	
+↓:FW	↓:FW	↓:FW	威士忌:N	焦糖:N	蘋果:N	閃電:N	泡芙:N	↓:FW	↓:FW	↓:FW	
+這:DET	個:M	是:Vt	安蹄:N	吃起來:ADV	最:ADV	甜:Vi	的:T	
+威士忌:N	焦糖:N	口味:N	
+裡面:N	有:Vt	奶油:N	蘋果:N	餡:N	
+哎喲:T	
+簡單:Vi	來:ADV	說:Vt	就是:C	韋特:N	糖:N	口味:N	啦:T	
+知不知道:Vt	偉特:N	糖:N	
+就是:C	爺爺:N	的:T	韋特:N	糖:N	呀:T	
+因為:C	太:ADV	甜:Vi	了:T	所以:C	安蹄:N	吃:Vt	了:ASP	幾:DET	口:M	就:ADV	放棄:Vt	
+據:P	東門:N	地頭:N	熊:N	表示:Vt	：:COLONCATEGORY	內:N	餡:N	蘋果:N	好吃:Vi	
+↓:FW	↓:FW	↓:FW	珍珠:N	玫瑰:N	黑醋栗:N	閃電:N	泡芙:N	↓:FW	↓:FW	↓:FW	
+泡芙:N	上:N	裹:Vt	著:ASP	淡粉:N	紅糖:N	霜:N	還:ADV	放上:Vt	幾:DET	顆:M	珍珠:N	糖:N	點綴:Vt	
+是:Vt	不:ADV	是:Vt	很:ADV	美:Vi	膩:Vi	
+好:ADV	有:Vt	貴氣:N	吶:T	
+這:DET	也:ADV	是:Vt	安蹄:N	喜歡:Vt	的:T	口味:N	
+黑醋栗:N	酸酸:Vi	的:T	味道:N	
+中和:Vi	了:ASP	糖霜:N	的:T	甜味:N	
+但是:C	玫瑰:N	味道:N	在:P	哪:DET	
+是:Vt	的:T	
+安蹄:N	突破:Vt	盲點:N	了:T	
+不能:ADV	被:P	外表:N	所:ADV	迷惑:Vi	
+是:Vt	不:ADV	知道:Vt	是:Vt	玫瑰味:N	還是:C	玫瑰色:N	
+但是:C	這:DET	款:M	真的:ADV	是:Vt	外形:N	內容:N	都:ADV	出色:Vi	吶:T	
+斷面秀:N	來:Vi	一:DET	張:M	
+總而言之:ADV	
+這:DET	幾:DET	款:M	閃電:N	泡芙:N	都:ADV	沒有:ADV	踩到:Vt	雷:N	
+現場:N	吃:Vt	一定:ADV	比:P	安蹄:N	現在:N	寫:Vt	的:T	口感:N	還:ADV	出色:Vi	嚕:ADV	
+安蹄:N	感想:N	：:COLONCATEGORY	老娘:N	半:DET	年:M	不:ADV	碰:Vt	閃電:N	泡芙:N	
+Address:FW	::COLONCATEGORY	台北市:N	大安區:N	金華街:N	251巷:N	2:DET	號:M	
+Tel:FW	::COLONCATEGORY	
+02:DET	
+2356:DET	-:DASHCATEGORY	3265:DET	
+謝謝:Vt	大家:N	掰:Vt	
+我們:N	下:DET	次:M	見:Vt	
+✡:FW	歡迎:Vt	光臨:Nv	水晶:N	安蹄:N	✡:FW	不務正業:Vi	過:ASP	生活:N	
+痞客邦:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	crystal1983.pixnet.net/blog:FW	
+ＦＢ:FW	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/Crystalaunt:FW	

@@ -1,0 +1,134 @@
+flower:FW	3:DET	(:PARENTHESISCATEGORY	周:N	花花:Vi	，:COMMACATEGORY	甲:DET	飽:Vi	沒:T	？:QUESTIONCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	和:C	NagomiPasta:FW	和風:N	洋食:N	義大利麵:N	
+Mon:FW	
+Oct:FW	
+6:DET	
+22:DET	::COLONCATEGORY	26:DET	::COLONCATEGORY	02:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	和:C	NagomiPasta:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	逸仙路:N	50巷:N	20:DET	號:M	
+電話:N	：:COLONCATEGORY	0227251151:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	$:FW	300:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	和風:N	干貝麵:N	、:PAUSECATEGORY	鮭魚:N	親子:N	奶油麵:N	、:PAUSECATEGORY	歐牧純:N	生鮮:A	奶油:N	霜淇淋:N	
+網誌:N	好:Vi	讀:Vt	多:DET	圖:N	無:Vt	音樂版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/rh6N9e:FW	
+Nagomi:FW	是:Vt	近期:N	剛:ADV	開幕:Vi	的:T	和風:N	洋食:N	義大利:N	麵店:N	
+為:P	食材:N	進口商:N	背景:N	的:T	Primo:FW	義大利麵:N	的:T	姐妹店:N	
+跳脫:Vt	義式:A	風格:N	、:PAUSECATEGORY	融入:Vt	和:C	式:N	概念:N	
+變化:N	出:Vt	多:DET	道:M	創意:N	料理:N	
+店址:N	位在:Vt	逸仙路:N	巷弄:N	內:N	
+靠近:Vt	國父:N	紀念館:N	、:PAUSECATEGORY	松菸:Vi	、:PAUSECATEGORY	阪:b	急:Vi	百貨:N	
+附近:N	美食:N	超級:A	多:Vi	
+要:ADV	在:P	這:DET	長久:Vi	生存:Vi	勢必:ADV	得:ADV	有:Vt	兩:DET	把:M	刷子:N	
+這兒:N	的:T	裝潢:N	也:ADV	走:Vi	日式:A	簡約:Vi	風:N	
+很:ADV	像:Vt	來到:Vt	拉:Vt	麵店:N	或是:C	日本:N	料理店:N	
+笑:Vi	
+週末:N	晚間:N	來訪:Vi	
+始終:ADV	維持:Vt	約莫:ADV	8:DET	分:M	滿:DET	狀態:N	
+用餐:Vi	建議:Vt	先:ADV	訂位:Vi	比較:ADV	保險:Vi	唷:T	
+除了:P	各:DET	種:M	醬汁:N	的:T	義大利麵:N	外:POST	
+還:ADV	有:Vt	冷盤:N	、:PAUSECATEGORY	熱:Vt	盤:N	、:PAUSECATEGORY	主廚:N	特選:Nv	、:PAUSECATEGORY	甜點:N	可:ADV	供:Vt	選擇:Vt	
+菜色:N	比:P	周:N	花花:N	預期:Vt	中:POST	多:ADV	上:N	許多:DET	
+真:ADV	得:ADV	很:ADV	難:Vi	決定:Vt	耶:T	
+加:Vt	麵:N	不:ADV	加價:Vi	
+加:Vt	麵:N	後:POST	的:T	份量:N	我:N	覺得:Vt	剛剛好:ADV	
+建議:Vt	大家:N	都:ADV	可以:ADV	加:Vt	一下:N	啦:T	
+因為:C	母公司:N	為:Vt	有:Vt	食材:N	進口商:N	
+Nagomi:FW	對於:P	原料:N	比:P	一般:A	餐廳:N	更:ADV	講究:Vt	
+像:Vt	是:Vt	杜蘭:N	小麥:N	義大利麵:N	、:PAUSECATEGORY	冷:Vi	壓:Vt	橄欖油:N	以及:C	OMU:FW	冰淇淋:N	等:POST	
+行家:N	所:ADV	熟知:Vt	的:T	高級:Nv	食材:N	
+對比:N	餐點:N	價位:N	
+老闆:N	真:ADV	是:Vt	佛心:N	來著:T	
+一:DET	行:N	二:DET	人:N	點:Vt	了:ASP	兩:DET	份:M	義大利麵:N	
+加:Vt	了:ASP	份:M	A:FW	套餐:N	一起:ADV	share:FW	
+本來:ADV	還:ADV	想:Vt	吃:Vt	馬鈴薯:N	沙拉:N	
+可惜:Vi	賣完:Vt	了:ASP	Q_Q:FW	
+A:FW	套餐:N	加價:Vi	$:FW	120:DET	
+多:Vi	了:ASP	今日:N	沙拉:N	+:FW	甜點:N	
+凱薩沙拉:N	
+從:P	沙拉:N	就:ADV	可以:ADV	看出:Vt	Nagomi:FW	的:T	創新:Nv	
+這:DET	凱薩醬:N	很:ADV	特別:Vi	
+完全:ADV	不:ADV	像:P	以前:N	吃:Vt	過:ASP	的:T	
+味道:N	有點:ADV	類似:Vt	和風醬:N	
+卻:ADV	又:ADV	帶:Vt	著:ASP	點辣:N	度:Vt	
+詢問:Vt	店員:N	到底:ADV	是:Vt	什麼:DET	醬:N	
+得到:Vt	的:T	回覆:Nv	是:Vt	：:COLONCATEGORY	特調:N	機密:N	不可以:ADV	說:Vt	^:FW	_:FW	&:FW	lt:FW	
+上頭:N	現:ADV	刨:Vt	的:T	padanocheese:FW	
+大:Vi	片:M	大:Vi	片:N	覆蓋:Vt	在:P	生菜:N	上:N	
+真:ADV	是:Vt	誠意:N	十足:Vi	
+這:DET	盤:M	簡單:Vi	的:T	附餐:N	沙拉:N	挺:ADV	讓:Vt	周:N	花花:N	驚豔:Vi	的:T	
+便:ADV	開始:Vt	期待:Vt	接下來:ADV	的:T	主餐:N	
+醬油:N	口味:N	
+和風:N	干貝麵:N	---:DASHCATEGORY	$:FW	320:DET	
+擺盤:N	先:ADV	加:Vt	10:DET	分:M	
+堆成:Vt	小:Vi	山:N	壯:Vi	份量:N	很:ADV	夠:Vi	
+一般:A	傳統:N	義大利麵:N	是:Vt	先:ADV	炒:Vt	醬:N	
+再:ADV	加入:Vt	麵:N	拌炒:Vt	
+Nagomi:FW	做法:N	則:ADV	是:Vt	將:ADV	煮好:Vt	的:T	麵條:N	先:ADV	用:P	橄欖油:N	炒:Vt	至:P	入味:N	
+過程:N	再:ADV	加入:Vt	醬料:N	拌炒:Vt	
+極度:ADV	入:Vt	味:N	的:T	日式:A	料理:N	
+光:N	作法:N	就:ADV	非常:ADV	特別:Vi	
+麵條:N	本身:N	非常:ADV	硬:Vi	唷:T	
+是:Vt	周:N	花花:N	最:ADV	喜歡:Vt	地帶:N	麵芯:N	口感:N	
+但是:C	不:ADV	是:Vt	能:ADV	被:P	所有人:N	接受:Vt	就:ADV	不得而知:Vi	了:T	
+因為:C	他:N	真:ADV	得:ADV	是:Vt	我:N	吃:Vt	過:ASP	最:ADV	硬:Vi	的:T	義大利麵:N	
+硬:Vi	麵:N	控:Vt	快:Vi	來:T	
+招手:Vi	
+干貝:N	絕對:ADV	要:ADV	大力:ADV	推薦:Vt	一下:N	
+來自:Vt	大海:N	的:T	鮮甜:Vi	全:DET	鎖:N	在:P	裡頭:N	
+超級:A	好吃:Vi	
+四塊:N	根本:ADV	不:ADV	夠:Vi	吃:Vt	啊:T	
+老闆:N	加料:Vi	要:ADV	加價:Vi	嗎:T	
+日式:A	醬油:N	的:T	鹹香:N	
+伴隨:Vt	些許:DET	大蒜:N	辛辣:Vi	
+調味:Vi	挺:ADV	優秀:Vi	
+但:C	不:ADV	知道:Vt	為什麼:ADV	
+非常:ADV	之:T	油:N	
+雖然:C	Nagomi:FW	強調:Vt	是:Vt	用:P	進口:Vt	的:T	冷:Vi	壓:Vt	橄欖油:N	
+但:C	一口氣:ADV	加:Vt	這麼多:DET	周:M	花花:Vi	吃不消:Vt	啦:T	
+.:PERIODCATEGORY	
+奶油:N	口味:N	
+鮭魚:N	親子:N	奶油麵:N	---:DASHCATEGORY	$:FW	360:DET	
+鮭魚片:N	+:FW	鮭魚:N	卵:N	
+又:ADV	是:Vt	道:Vt	超:Vt	犯規:Vi	的:T	海味:N	料理:N	
+延續:Vt	上:DET	一:DET	道:M	好吃:Vi	干貝:N	
+這:DET	兩樣:Vi	鮭魚:N	親子檔:N	同樣:ADV	優秀:Vi	
+使用:Vt	煙燻:A	鮭魚:N	入菜:Vi	
+也:ADV	算是:Vt	大膽:Vi	的:T	創意:N	之:T	作:Vt	
+鮭魚:N	卵:N	的:T	新:Vi	鮮度:N	更:ADV	不在話下:Vi	
+鹹甜:Vi	超級:A	好吃:Vi	
+但:C	同樣:Vi	
+這:DET	碗:M	也:ADV	有:Vt	橄欖油:N	toomuch:FW	的:T	問題:N	
+加上:C	奶油:N	醬汁:N	更:ADV	是:Vt	把:P	整:DET	碗:M	義大利麵:N	推向:Vt	油:N	的:T	最:ADV	高級:Vi	
+讓:Vt	人:N	不:ADV	經:P	思考:Vt	
+難道:ADV	是:Vt	我:N	不:ADV	懂:Vt	吃:Vt	嗎:T	
+.:PERIODCATEGORY	
+在:P	經歷:Vt	兩:DET	盤:M	奇妙:Vi	的:T	義大利麵:N	後:POST	
+我:N	想:Vt	
+只:ADV	有:Vt	來:Vi	份:M	好:Vi	甜點:N	才:ADV	能:ADV	撫慰:Vt	我:N	心:N	了:T	
+歐牧:N	純:Vi	生鮮:A	奶油:N	霜淇淋:N	
+我:N	對:P	你:N	充滿:Vt	信心:N	
+你:N	一定:ADV	很:ADV	好吃:Vi	吧:T	
+用:P	如此:ADV	高級:Vi	的:T	原料:N	製作:Vt	
+味道:N	果然:ADV	沒:ADV	讓:Vt	我:N	失望:Vi	
+不:ADV	油膩:Vi	、:PAUSECATEGORY	不:ADV	死甜:Vi	
+鮮:Vi	奶油:N	比例:N	極:ADV	高:Vi	
+好吃:Vi	推薦:Vt	
+入口:N	後:POST	
+千萬:DET	別:ADV	急:Vi	著:ASP	吞下:Vt	肚:N	
+把:P	霜淇淋:N	靜置:Vt	在:P	舌:N	間:POST	上:Vt	一會兒:N	
+讓:Vt	甘甜:Vi	味換:Vt	緩緩:Vi	散開:Vi	
+美妙:Vi	滋味:N	實在:ADV	沒:ADV	話說:ADV	
+連:C	吃遍:Vt	台北:N	40:DET	間:M	冰淇淋:N	的:T	周:N	花花:N	都:ADV	佩服:Vt	的:T	美味:N	底:POST	加:Vt	
+在:P	下:DET	星等:N	時:POST	
+周:N	花花:N	陷入:Vt	兩難:N	
+Nagomi:FW	嚴選:N	的:T	食材:N	真:ADV	得:ADV	非常:ADV	棒:Vi	
+無論:C	海鮮:N	料:N	、:PAUSECATEGORY	義大利麵:N	、:PAUSECATEGORY	橄欖油:N	都:ADV	很:ADV	優秀:Vi	
+但:C	他們:N	為什麼:ADV	要:ADV	跟:P	這麼多:DET	橄欖油:N	糾纏:Vt	呢:T	
+Why:FW	
+如果:C	油量:N	減少:Vt	的:T	話:N	
+我:N	絕對:ADV	不:ADV	加:Vt	思索:Vt	地:N	給:Vt	4:DET	顆:M	星:N	
+歡迎:Vt	加入:Vt	":FW	周花:N	花甲:N	飽:Vi	沒:Vt	":FW	粉絲團:N	
+最:ADV	新:Vi	美食:N	資訊:N	報:Vt	你:N	知:Vt	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/tenjochou:FW	

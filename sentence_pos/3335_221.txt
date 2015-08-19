@@ -1,0 +1,146 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	二:DET	訪:Vt	の:FW	む:FW	ら:FW	野村:N	鮨:b	
+Sun:FW	
+Jul:FW	
+20:DET	
+22:DET	::COLONCATEGORY	14:DET	::COLONCATEGORY	43:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	40949722:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	6:DET	不:ADV	敢:Vt	說:Vt	野村:N	是:Vt	台北:N	最好:Vi	的:T	握:Vt	壽司:N	
+但:C	就:ADV	以:P	我:N	個:M	人:N	口味:N	來:ADV	說:Vt	
+野村:N	的確:ADV	是:Vt	我:N	心目中:N	台北:N	最:ADV	喜歡:Vt	的:T	握:Vt	壽司店:N	
+自從:P	上:DET	次:M	吃:Vt	過:ASP	野村:N	之後:POST	
+吃:Vt	別:DET	家:N	日本:N	料理:N	總:ADV	覺得:Vt	不:ADV	是:Vt	滋味:N	
+既然:C	價格:N	差不多:Vi	
+那:DET	何不:ADV	來:ADV	吃:Vt	野村:N	
+當然:ADV	這:DET	是:Vt	個:M	人:N	喜歡:Vt	的:T	口味:N	
+吃到:Vt	目前:N	還是:ADV	覺得:Vt	野村:N	師傅:N	捏:Vt	的:T	握:Vt	壽司:N	最:ADV	讓:Vt	我:N	喜愛:Vt	
+週六:N	中午:N	
+與:P	一:DET	位:M	同樣:Vi	喜愛:Vt	吃:Vt	壽司:N	的:T	高中:N	同學:N	相約:Vi	野村:N	
+順便:ADV	讓:Vt	他:N	點評:N	一下:N	
+野村:N	的:T	店面:N	有如:Vt	許多:DET	日本:N	的:T	料亭:N	、:PAUSECATEGORY	小店:N	一樣:Vi	低調:Vi	
+灰白:A	的:T	牆面:N	與:C	一:DET	扇:M	木門:N	
+門:N	旁:N	一:DET	塊:M	寫:Vt	著:ASP	の:FW	む:FW	ら:FW	的:T	小:Vi	招牌:N	
+沒:ADV	仔細:Vi	看:Vt	也:ADV	挺:ADV	容易:Vi	讓:Vt	人:N	錯過:Vt	
+入座:Vi	後:POST	先:ADV	送上:Vt	兩樣:Vi	開胃:Vi	小菜:N	
+分別:ADV	是:Vt	醋:N	海菜:N	與:C	玉米糕:N	
+海菜:N	滑溜:Vi	酸醋:N	開胃:Vi	
+玉米糕:N	則:ADV	是:Vt	柔膩:Vi	軟綿:N	
+味道:N	清淡:Vi	了:ASP	些:ADV	
+今日:N	一樣:Vi	吃:Vt	1500:DET	的:T	壽司:N	
+本來:ADV	想:Vt	點:Vt	2000:DET	以上:N	的:T	
+但:C	早餐:N	太晚:Vi	吃:Vt	
+不:ADV	是:Vt	很:ADV	餓:Vi	
+怕:Vt	吃:Vt	不:ADV	多:Vi	
+所以:C	還是:ADV	先:ADV	吃:Vt	八:DET	貫:M	握:Vt	壽司:N	吧:T	
+下:DET	次:M	晚餐:N	再:ADV	來:ADV	
+第:DET	一貫:A	是:Vt	透抽:N	
+野村:N	說:Vt	台語:N	的:T	透抽:N	
+剛:ADV	聽到:Vt	的:T	時候:N	他:N	說:Vt	台語:N	
+有點:ADV	楞:Vi	了:ASP	一下:N	
+透抽:N	上:N	加:Vt	點:M	鹽:N	與:C	削:Vt	了:ASP	些:M	金桔皮:N	調味:Vi	
+野村:N	的:T	透抽:N	與:C	以往:N	常:ADV	吃:Vt	的:T	有:Vt	很:ADV	大:Vi	的:T	不同:Vi	
+透抽:N	肉:N	不:ADV	是:Vt	微:ADV	脆:Vi	或:C	有點:ADV	韌:Vi	的:T	口感:N	
+而是:C	非常:ADV	柔軟:Vi	綿膩:Vi	
+咀嚼:Vt	時:POST	帶:Vt	點:M	滑潤感:N	
+鹽巴:N	提出:Vt	甜味:N	
+而:C	桔皮:N	則:ADV	營造:Vt	清香:Vi	酸味:N	
+第:DET	一貫:A	就:ADV	打開:Vt	胃口:N	
+相當:ADV	清爽:Vi	
+第二:DET	貫:M	則:ADV	是:Vt	真:Vi	鯛:N	
+這:DET	一貫:A	的:T	醋飯:N	比較:ADV	溫:Vt	一些:DET	
+魚肉:N	帶:Vt	著:ASP	一:DET	股:M	特殊:Vi	清香:Vi	
+不過:C	略帶:Vt	一:DET	絲:M	筋肉:N	
+影響:Vt	了:ASP	一點:DET	口感:N	
+我:N	最:ADV	欣賞:Vt	野村:N	的:T	在於:Vt	他:N	的:T	壽司:N	大小:N	以及:C	醋飯:N	和:C	魚料:N	入口:N	的:T	口感:N	
+個:M	人:N	認為:Vt	野村:N	的:T	握:Vt	壽司:N	大小:N	適中:Vi	
+一貫:A	入口:N	剛好:ADV	飽滿:Vi	
+而:C	他:N	的:T	醋飯:N	很:ADV	特別:Vi	的:T	是:Vt	米粒:N	彷彿:ADV	有:Vt	一:DET	種:M	滑膩:Vi	的:T	保護膜:N	
+咀嚼:Vt	的:T	時候:N	可以:ADV	感受到:Vt	每:DET	一:DET	粒:M	米:N	表面:N	都:ADV	有:Vt	一:DET	種:M	柔滑感:N	
+與:C	魚:N	料:N	搭配:Vt	起來:ASP	有:Vt	種:M	互相:ADV	交融:Vi	的:T	感受:N	
+目前:N	我:N	吃:Vt	過:ASP	的:T	握:Vt	壽司:N	中:POST	
+只:ADV	有:Vt	野村:N	讓:Vt	我:N	有:Vt	這:DET	種:M	感覺:N	
+當然:ADV	我:N	吃:Vt	過:ASP	的:T	握:Vt	壽司:N	也:ADV	不:ADV	多:Vi	
+所以:C	也:ADV	只是:ADV	個:M	人:N	口味:N	與:C	喜好:N	而已:T	
+第三:DET	貫:M	是:Vt	銀皮:N	的:T	喜魚:N	
+魚:N	皮:N	上:N	切:Vt	了:ASP	幾:DET	條:M	入:Vt	肉:N	的:T	直紋:N	
+讓:Vt	涮:b	上:POST	去:ADV	的:T	醬油:N	停留:Vi	在:P	刀:N	紋:N	之中:POST	
+這:DET	一貫:A	的:T	魚肉:N	口感:N	比較:ADV	扎實:Vi	
+可以:ADV	感受到:Vt	魚肉:N	的:T	肉質:N	纖維:N	
+是:Vt	比較:ADV	厚實:Vi	的:T	一貫:A	
+滋味:N	酸:Vi	中:POST	帶:Vt	甜:Vi	
+第四:DET	貫:M	則:ADV	是:Vt	鮪魚:N	肚:N	
+看起來:ADV	好像:ADV	沒:Vt	什麼:DET	油花:N	
+不過:C	口感:N	非常:ADV	柔軟:Vi	
+雖然:C	不:ADV	到:Vt	入口:N	即:ADV	化:Vt	
+但:C	油脂:N	挺:ADV	恰好:Vi	的:T	
+並:C	不會:ADV	過於:ADV	油膩:Vi	而:C	只:ADV	吃:Vt	得到:Vt	滿:DET	口:M	油:N	
+而:C	無:Vt	鮪魚肉:N	的:T	感覺:N	
+滋味:N	自然:ADV	也:ADV	是:Vt	鮪魚:N	的:T	獨特:Vi	微酸:N	帶:Vt	著:ASP	些微:A	油脂:N	的:T	甜味:N	
+中場:N	送上:Vt	鮮熱:N	的:T	茶碗:N	蒸:Vt	
+表面:N	點綴:Vt	點點:DET	碎:Vi	蟹肉:N	
+蒸:Vt	蛋:N	口感:N	滑:Vi	順:Vt	鮮嫩:Vi	
+不過:C	味道:N	偏於:Vt	清淡:Vi	就:ADV	是:Vt	
+接下來:ADV	送上:Vt	的:T	是:Vt	鰹魚:N	
+鰹魚:N	其實:ADV	是:Vt	我:N	比較:ADV	不:ADV	愛:Vt	的:T	魚:N	料:Vt	
+因為:C	據:P	以往:N	經驗:N	
+鰹魚:N	的:T	風味:N	較:ADV	重:Vi	
+常常:ADV	都:ADV	會:ADV	有:Vt	股:M	濃重:Vi	的:T	腥味:N	
+個:M	人:N	不:ADV	太:ADV	喜歡:Vt	
+不過:C	野村:N	的:T	鰹魚:N	卻:ADV	是:Vt	相當:ADV	滑膩:Vi	柔軟:Vi	
+有:Vt	種:M	入口:N	即:ADV	化:Vt	感:N	
+而且:C	沒有:Vt	以往:N	吃:Vt	過:ASP	的:T	那:DET	種:M	鰹魚:N	腥味:N	
+挺:ADV	出乎:Vt	我:N	意料:Vt	之外:POST	的:T	
+難得:Vi	是:Vt	我:N	會:ADV	喜歡:Vt	的:T	鰹魚:N	
+甜蝦:N	
+入口:N	一:ADV	咬:Vt	先:ADV	感受到:Vt	清脆:Vi	的:T	口感:N	
+接著:ADV	便是:C	蝦肉:N	裡外:N	一:DET	股:M	黏膩:Vi	感:N	
+隨著:P	咀嚼:Vt	而:C	散發出:Vt	甜味:N	
+這:DET	貫:M	的:T	醋飯:N	溫度:N	也:ADV	較:ADV	高:Vi	
+溫度:N	較:ADV	高:Vi	的:T	醋:N	飯:N	似乎:ADV	也:ADV	能:ADV	激發出:Vt	蝦肉:N	的:T	甜味:N	來:ADV	
+馬糞:N	海膽:N	軍艦:N	
+可能:ADV	是:Vt	野村:N	一:DET	次:M	做:Vt	比較:ADV	多:Vi	貫:Vt	
+海苔:N	已經:ADV	有點:ADV	濕:Vi	軟:Vi	
+海膽:N	顆粒:N	完整:Vi	
+一:DET	入口:N	的:T	時候:N	
+稍微:ADV	感受到:Vt	一點:DET	明礬味:N	
+品質:N	沒有:Vt	上:DET	次:M	來:ADV	吃:Vt	的:T	好:Vi	
+所幸:ADV	咬:Vt	了:ASP	幾:DET	口:M	是:Vt	沒:Vt	什麼:DET	異味:N	
+甜度:N	的:T	話:N	也:ADV	還可以:ADV	
+但:C	還是:ADV	覺得:Vt	有點:ADV	失望:Vi	就:ADV	是:Vt	
+最後:N	一貫:A	則:ADV	是:Vt	星鰻:N	
+也:ADV	是:Vt	唯一:A	一貫:A	熟:Vi	魚肉:N	的:T	握:Vt	壽司:N	
+沒有:ADV	太多:Vi	的:T	醬汁:N	
+只:ADV	涮:b	了:T	一些:DET	
+不會:ADV	吃起來:ADV	滿:Vt	口:N	是:Vt	醬油味:N	
+星鰻:N	肉質:N	鬆綿:Vi	柔軟:Vi	
+香甜:Vi	可口:Vi	
+醋飯:N	與:C	魚肉:N	都:ADV	是:Vt	溫熱:Vt	的:T	渾然:ADV	一體:N	
+作為:Vt	握:Vt	壽司:N	的:T	最後:N	一貫:A	
+溫溫:Vi	熱熱:Vi	的:T	頗:ADV	有:Vt	填飽:Vt	肚子:N	的:T	溫熱感:N	
+蛤仔:N	湯:N	
+個:M	人:N	覺得:Vt	蛤仔:N	有點:ADV	煮:Vt	過:ASP	頭:N	
+肉:N	已經:ADV	萎縮:Vi	
+蛤肉:N	略:ADV	乾:Vi	不:ADV	飽滿:Vi	
+湯頭:N	則:ADV	是:Vt	相當:ADV	清爽:Vi	
+吃完:Vt	不:ADV	加:Vt	點:ADV	了:T	
+所以:C	送上:Vt	最後:N	的:T	細:Vi	卷:N	
+難得:Vi	這:DET	細:Vi	卷:N	不:ADV	是:Vt	常見:Vi	的:T	瓢瓜:N	卷:N	
+而是:C	鮪魚:N	泥:N	、:PAUSECATEGORY	醃:Vt	蘿蔔:N	與:C	紫蘇:N	葉:N	
+個:M	人:N	非常:ADV	喜歡:Vt	這:DET	細:Vi	卷:N	
+有:Vt	蘿蔔:N	的:T	爽脆:Vi	也:ADV	有:Vt	鮪魚:N	的:T	柔膩:Vi	
+加上:C	解:Vt	膩:Vi	的:T	紫蘇:N	香:N	與:C	一:ADV	點:Vt	微:ADV	酸:Vi	
+玉子:N	燒:Vt	
+野村:N	的:T	玉子:N	燒:Vt	個:M	人:N	覺得:Vt	中規中矩:Vi	
+滋味:N	偏:ADV	甜:Vi	
+口感:N	鮮嫩:Vi	
+今天:N	的:T	甜點:N	是:Vt	弱弱:Vi	的:T	抹:Vt	茶:N	冰淇淋:N	
+感覺:N	就是:C	聊勝於無:Vi	
+本來:ADV	再:ADV	訪:Vt	野村:N	打算:Vt	要:ADV	吃:Vt	晚餐:N	
+可惜:Vi	同行:N	的:T	友人:N	沒:ADV	來過:Vt	
+想:Vt	先:ADV	試試看:Vt	便宜:Vi	一點:ADV	的:T	午餐:N	
+下:DET	次要:A	再:ADV	訪:Vt	野村:N	
+還是:ADV	希望:Vt	能:ADV	吃吃:Vt	晚餐:N	吧:T	
+就:ADV	以:P	個:M	人:N	喜好:Vt	而言:Vt	
+還是:ADV	喜歡:Vt	野村:N	的:T	握:Vt	壽司:N	勝過:Vt	於:P	目前:N	吃:Vt	過:ASP	的:T	其他:DET	店:N	
+の:FW	む:FW	ら:FW	野村:N	鮨:b	地址:N	：:COLONCATEGORY	台北市:N	仁愛路:N	四段:N	300巷:N	19弄:N	4:DET	號:M	電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27077518:DET	--:DASHCATEGORY	一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	--:DASHCATEGORY	

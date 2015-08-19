@@ -1,0 +1,143 @@
+jay70134(AJ:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	米其林:N	一:DET	星添:N	好運:N	台灣:N	首:DET	店:N	
+Sat:FW	
+Jul:FW	
+26:DET	
+18:DET	::COLONCATEGORY	36:DET	::COLONCATEGORY	30:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	添:Vt	好運:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	07:DET	
+地址:N	：:COLONCATEGORY	台北市:N	忠孝西路:N	一段:N	36:DET	號:M	，:COMMACATEGORY	捷運:N	台北:N	車站:N	6:DET	號:M	出口:N	旁:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2370:DET	-:DASHCATEGORY	7078:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	12:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	試:N	營運:Nv	時間:N	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	~:FW	1000:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+圖文:N	好讀:Vt	版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jay7134.pixnet.net/blog/post:FW	/:FW	184136508:DET	
+之前:N	去:Vt	香港:N	玩:Vt	的:T	時候:N	有:Vt	吃:Vt	過:ASP	添:Vt	好運:N	
+當時:N	是:Vt	衝:Vi	著:ASP	最:ADV	便宜:Vi	的:T	米其林:N	一:DET	星:N	餐廳:N	慕名:Vi	前往:Vt	
+知道:Vt	添:Vt	好運:N	要:ADV	來:ADV	台灣:N	開店:Vi	便:ADV	很:ADV	期待:Vt	
+即使:C	知道:Vt	價格:N	可能:ADV	不會:ADV	像:P	香港:N	分店:N	那樣:ADV	便宜:Vi	
+台灣:N	首:DET	店:N	開:Vt	在:P	台北:N	車站:N	對面:N	
+就:P	位置:N	而言:Vt	非常:ADV	方便:Vi	
+加上:C	試:Vt	營運:Vi	這:DET	天:M	是:Vt	假日:N	
+人潮:N	爆滿:Vi	
+大家:N	最:ADV	關心:Vt	的:T	價格:N	
+比起:P	香港:N	來:ADV	說:Vt	有:Vt	比較:ADV	貴:Vi	一點:ADV	
+且:C	須:ADV	另:DET	加:Vt	一成:DET	服務費:N	
+但:C	服務費:N	個:M	人:N	覺得:Vt	還:ADV	算:Vt	值得:Vi	
+台灣:N	的:T	服務:Nv	品質:N	比:P	香港:N	好:Vi	上:POST	許多:DET	喔:T	
+參考:Vt	香港:N	添:Vt	好運:N	食記:N	&:FW	gt:FW	
+香港:N	
+添:Vt	好運:N	點心:N	專賣店:N	深水埗店:N	
+剛:ADV	開幕:Vi	只:ADV	開放:Vt	現場:N	排隊:Vi	
+且:C	需:Vt	人員:N	都:ADV	到齊:Vi	才:ADV	能:ADV	入座:Vi	
+試:Vt	營運:Nv	期間:N	人氣:N	商品:N	酥皮焗:N	叉燒:N	包:Vt	一:DET	人:N	只:ADV	能:ADV	點:Vt	一:DET	份:M	
+等:POST	上軌道:Vi	後:POST	應該:ADV	就:ADV	不會:ADV	有:Vt	限制:N	了:T	吧:T	
+店:N	內:N	座位:N	不:ADV	多:Vi	
+一時:N	很:ADV	難:Vi	消化:Vt	大量:DET	嘗:Vt	鮮:Vi	人潮:N	
+除了:P	文字版:N	的:T	菜單:N	外:POST	
+桌:N	上:POST	也:ADV	會:ADV	有:Vt	圖片版:N	的:T	菜單:N	
+可以:ADV	大概:ADV	參考:Vt	一下:N	
+因為:C	排隊:Vi	時間:N	很:ADV	長:Vi	
+雖然:C	這:DET	次:M	只有:ADV	三:DET	個人用餐:N	
+但:C	戰鬥力:N	十足:Vi	
+飲料:N	點:Vt	了:ASP	汽水:N	48:DET	元:M	、:PAUSECATEGORY	薏米水:N	48:DET	元:M	
+汽水:N	是:Vt	可以:ADV	續杯:Vi	的:T	
+這:DET	點:M	個:M	人:N	很:ADV	喜歡:Vt	XD:FW	
+薏米:N	水:N	喝:Vt	起來:ASP	跟:P	之前:N	在:P	新加坡:N	喝到:Vt	的:T	濃度:N	差不多:Vi	
+不錯:Vi	喝:Vt	
+重點:N	人氣:N	商品:N	：:COLONCATEGORY	酥皮焗:N	叉燒:N	包:Vt	一:DET	份:M	三:DET	顆:M	118:DET	元:M	
+外皮:N	烤:Vt	的:T	相當:ADV	酥軟:Vi	的:T	叉燒:N	包:Vt	
+跟:P	之前:N	在:P	香港:N	吃:Vt	的:T	印象:N	相去:Vt	不:ADV	遠:Vi	
+看起來:ADV	有:Vt	移植:Vt	成功:Vi	
+鹹:Vi	甜:Vi	的:T	叉燒:N	內:N	餡:N	則:ADV	比:P	預期:Vt	少一點:DET	
+但:C	味道:N	不錯:Vi	
+跟:P	酥香:N	的:T	酥皮:N	搭配:Vt	好好:Vi	吃:Vt	
+是:Vt	必:ADV	吃:Vt	人氣商:N	
+品:N	
+鮮蝦:N	腐皮捲:N	138:DET	元:M	
+鬆軟:Vi	的:T	腐:Nv	皮包:N	著:Vt	蝦子:N	與:C	些許:DET	蔬菜:N	
+表現:Vt	正常:Vi	
+古法:N	糯米:N	雞:N	128:DET	元:M	
+這:DET	是:Vt	今天:N	最:ADV	普通:Vi	的:T	一:DET	道:M	
+糯米飯:N	包裹:N	調味:Vi	普通:Vi	的:T	雞:N	肉餡:N	
+味道:N	不:ADV	突出:Vi	
+除非:C	很:ADV	想:Vt	試試看:Vt	
+不然:C	我們:N	覺得:Vt	可以:ADV	不用:ADV	點:Vt	
+香煎:N	蘿蔔糕:N	98:DET	元:M	
+不用:ADV	沾醬:N	就:ADV	蠻:ADV	好吃:Vi	的:T	
+可惜:Vi	價格:N	偏:ADV	高:Vi	
+蘿蔔糕:N	可以:ADV	吃到:Vt	蘿蔔:N	纖維:N	
+調味:Vi	上:POST	因為:C	加:Vt	了:ASP	鹹:Vi	臘肉:N	關係:N	也:ADV	比:P	台灣:N	的:T	蘿蔔糕:N	還要:ADV	再:ADV	重:Vi	口味:N	些:ADV	
+青:Vi	芥末:N	明蝦:N	餃:b	128:DET	元:M	
+油炸:Vt	後:POST	的:T	蝦餃淋:N	上:POST	微:ADV	甜:Vi	不:ADV	嗆:Vi	的:T	芥末醬:N	
+正常:Vi	口味:N	
+鮮蝦:N	菠菜:N	餃:b	98:DET	元:M	
+透明:Vi	餃:b	皮包:N	了:ASP	大量:DET	菠菜:N	與:C	大蝦:N	
+顏色:N	看起來:ADV	蠻:ADV	討喜:Vi	的:T	
+雖然:C	是:Vt	以:P	菠菜:N	當:P	底:N	
+但:C	調味:Vi	夠:Vi	
+不用:ADV	沾醬:N	就:ADV	好吃:Vi	
+晶瑩:Vi	鮮蝦:N	餃:b	138:DET	元:M	
+跟上:Vt	一:DET	道:M	鮮蝦:N	菠菜:N	餃:b	比起來:Vi	大概:ADV	就是:C	少:Vi	了:ASP	菠菜:N	而已:T	
+但:C	蝦仁:N	蠻:ADV	新鮮:Vi	的:T	
+加上:C	餃皮:N	Q:FW	彈:Vt	
+喜歡:Vt	蝦餃:N	的:T	人:N	可以:ADV	試試:Vt	
+豉汁蒸:N	肉排:N	108:DET	元:M	
+味道:N	不錯:Vi	的:T	蒸:Nv	肉排:N	
+跟:P	其他:DET	港:N	式:N	餐廳:N	比起來:ADV	相對:Vi	不:ADV	油膩:Vi	
+陳皮:N	牛肉球:N	98:DET	元:M	
+Q:FW	彈:Vt	的:T	牛肉:N	球:N	調味:Vi	蠻:ADV	重:Vi	的:T	
+比起:P	在:P	台灣:N	其他:DET	港:N	式:N	餐廳:N	都:ADV	要:ADV	來:ADV	的:T	鹹:Vi	一點:ADV	
+美味:Vi	燜竹捲:Vt	98:DET	元:M	
+以:P	醬油:N	勾芡:Vi	的:T	醬汁:N	搭配:Vt	腐皮:N	製成:Vt	的:T	竹捲:N	
+表現:Vt	正常:Vi	
+鮮蝦:N	燒賣:N	皇:b	128:DET	元:M	
+添:Vt	好運:N	裡:N	只要:C	有:Vt	蝦類:N	的:T	菜色:N	都:ADV	不錯:Vi	
+像:P	這:DET	道:M	燒賣:N	除了:P	內:N	餡:N	拋摔:Vt	有:Vt	做:Vt	足:N	
+讓:Vt	口感:N	很:ADV	Q:FW	外:N	
+調味:Vi	上:POST	也:ADV	接近:Vt	在:P	香港:N	吃到:Vt	的:T	道地:Vi	燒賣:N	
+接著:ADV	是:Vt	腸粉:N	系列:N	
+第一:DET	道:M	是:Vt	大:Vi	排:Vt	檔腸粉:N	108:DET	元:M	
+大:Vi	排:Vt	檔腸粉:N	沒有:ADV	包:Vt	其他:DET	餡料:N	
+只:ADV	用:P	腸粉粿成:N	一:DET	圈:M	
+搭配:Vt	香氣:N	十足:Vi	的:T	芝麻:N	醬汁:N	與:C	微:ADV	甜:Vi	的:T	醬油:N	
+膏:N	
+反而:C	讓:Vt	這:DET	道:M	單調:Vi	的:T	腸粉:N	比:P	預期:N	中:POST	好吃:Vi	很多:DET	
+美妙:Vi	的:T	醬汁:N	救:Vt	了:ASP	它:N	XD:FW	
+韭王:N	鮮蝦:N	腸:N	、:PAUSECATEGORY	免:ADV	治:Vt	牛肉:N	腸:N	、:PAUSECATEGORY	蜜味:N	叉燒:N	腸:N	、:PAUSECATEGORY	黃沙:N	豬:N	潤腸:N	以上:POST	皆:ADV	為:Vt	128:DET	元:M	
+這:DET	裡面:N	除了:P	常勝軍:N	鮮蝦:N	口味:N	的:T	腸粉:N	外:POST	
+我們:N	最:ADV	喜歡:Vt	黃沙:N	豬:N	潤腸:N	
+以:P	豬肝:N	為:P	底:N	做成:Vt	的:T	黃沙:N	豬:N	潤腸:N	
+比:P	其:DET	其他:DET	常見:Vi	的:T	腸粉:N	口感:N	更:ADV	為:P	特別:Vi	
+加上:C	豬肝:N	特有:A	的:T	滋味:N	
+我們:N	一致:Vi	覺得:Vt	它:N	最:ADV	好吃:Vi	
+當然:ADV	喜歡:Vt	蝦子:N	的:T	人:N	鮮蝦:N	腸:N	也:ADV	是:Vt	可以:ADV	點:Vt	的:T	
+而:C	最:ADV	普通:Vi	的:T	就是:C	蜜味:N	叉燒:N	腸:N	了:T	
+調味:Vi	普通:Vi	的:T	蜜味:N	叉燒:N	即使:C	裹:Vt	在:P	Q:FW	談:Vt	的:T	腸粉:N	裡:POST	依然:ADV	沒有:Vt	亮點:N	
+甜點:N	部分:DET	
+第一:DET	道:M	是:Vt	楊枝:N	甘露:N	118:DET	元:M	
+基底:N	是:Vt	強烈:Vi	的:T	芒果味:N	湯汁:N	
+加上:C	一些:DET	粉圓:N	、:PAUSECATEGORY	微:A	酸苦:N	的:T	西柚:N	肉:N	
+是:Vt	道:N	很:ADV	有:Vt	香港:N	特色:N	的:T	甜品:N	
+最後:N	是:Vt	之前:N	在:P	香港:N	吃:Vt	過:ASP	也:ADV	是:Vt	很:ADV	喜歡:Vt	的:T	杞子:N	桂花:N	糕:N	78:DET	元:M	
+晶瑩剔透:Vi	的:T	桂花:N	糕:N	裡頭:N	有:Vt	大量:DET	的:T	醃製:Vt	桂花:N	與:C	微:ADV	甜:Vi	的:T	枸杞:N	
+糕點:N	甜度:N	正常:Vi	
+但:C	香氣:N	十足:Vi	
+很:ADV	適合:Vi	在:P	吃完:Vt	一:DET	堆:M	油膩:Vi	的:T	點心:N	後來:N	上:POST	一口:ADV	
+會:ADV	大大:Vi	降低:Vt	油膩:Vi	感:Vt	喔:T	
+個:M	人:N	覺得:Vt	比:P	楊枝:N	甘露:N	有:Vt	
+趣:N	
+吃完:Vt	台灣:N	分店:N	後:POST	覺得:Vt	這:DET	次:M	添:Vt	好運:N	整體:N	味道:N	移植:Nv	的:T	很:ADV	成功:Vi	
+不若:C	一些:DET	國外:N	名店:N	到:Vt	台灣:N	後:POST	就:ADV	變:Vi	
+調:Vt	
+像:Vt	是:Vt	叉燒:N	酥:Vi	、:PAUSECATEGORY	燒賣:N	、:PAUSECATEGORY	蝦餃類:N	的:T	產品:N	、:PAUSECATEGORY	桂花:N	糕:N	都:ADV	很:ADV	好吃:Vi	
+完全:ADV	有:Vt	回到:Vt	香港:N	的:T	感覺:N	
+等:POST	剛:ADV	開幕:Vi	熱潮:N	過後:POST	
+如果:C	排隊:Vi	時間:N	控制:Vt	在:P	一:DET	小時:N	內:N	的:T	話:N	
+添:Vt	好運:N	會:ADV	是:Vt	目前:N	台灣:N	較:ADV	好:Vi	的:T	港式:A	
+餐廳:N	
+自助:Vi	旅行:Vi	、:PAUSECATEGORY	飛行:Nv	、:PAUSECATEGORY	美食:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	jay7134.pixnet.net/blog:FW	

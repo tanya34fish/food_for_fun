@@ -1,0 +1,67 @@
+violetphoeni:FW	(:PARENTHESISCATEGORY	紫鳳:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	梅子:N	鰻浦燒:Vt	屋:N	
+Sun:FW	
+Jul:FW	
+20:DET	
+22:DET	::COLONCATEGORY	03:DET	::COLONCATEGORY	31:DET	
+2014:DET	
+無:Vt	音樂:N	圖文:N	網誌:N	(:PARENTHESISCATEGORY	2014:DET	/:FW	07:DET	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/viophex/article:FW	/:FW	76523784:DET	
+好:Vi	鰻魚:N	一向:ADV	不可多得:Vi	
+幾:DET	年:M	前:POST	在:P	京都屋:N	吃:Vt	得:T	印象:N	深刻:Vi	
+但:C	年初:N	回訪:Vt	已:ADV	不復:ADV	從前:N	
+輾轉:ADV	搜尋:Vt	下:POST	得知:Vt	這:DET	間:M	的:T	評價:N	不錯:Vi	
+特來:Vi	一:DET	品:N	芳澤:b	
+廚房:N	
+踏進:Vt	相當:ADV	日式:A	的:T	裝潢:N	
+服務:Nv	領班:N	的:T	態度:N	頓時:ADV	讓:Vt	人像:N	是:Vt	置身:Vt	日本:N	
+由於:C	是:Vt	中午:N	
+討論:Vt	一:DET	番:M	後:POST	點:Vt	了:ASP	鰻魚:N	定食:Vt	
+380:DET	
+與:P	天婦羅:N	套餐:N	
+480:DET	
+但:C	後來:N	才:ADV	發覺:Vt	鰻魚:N	在:P	中午:N	根本:ADV	沒有:Vt	比較:ADV	便宜:Vi	啊:T	
+生魚片:N	不:ADV	太:ADV	好:Vi	的:T	開始:Nv	
+很:ADV	明顯:Vi	的:T	冰:N	過:ASP	頭:N	又:ADV	解凍:Vt	不良:Vi	
+嚴重:Vi	影響:Vt	口感:N	
+上桌:Vi	溫度:N	的:T	掌控:Nv	也:ADV	不:ADV	太:ADV	理想:Vi	
+沙拉:N	參雜:Vt	著:ASP	芥茉子:N	的:T	油醋醬:N	很:ADV	開胃:Vi	
+勉強:Vt	扳回一城:Vi	
+蘋果:N	雕:Vt	得:T	細心:Vi	可人:Vi	
+茶碗:N	蒸:Vt	高湯:N	用:Vt	得:T	不:ADV	夠多:Vi	過於:ADV	清淡:Vi	
+但:C	口感:N	蒸:Vt	得:T	到位:Vi	
+綿密:Vi	彈韌:Vi	且:C	用料:N	實在:ADV	
+漸入佳境:Vi	
+主食:N	天婦羅:N	兩:DET	尾:M	炸:Vt	蝦:N	以:P	價位:N	論:Vt	相當:ADV	出色:Vi	
+完全:ADV	不:ADV	靠:P	麵衣充:N	體積:N	
+肉質:N	彈:Vt	牙:N	令:Vt	人:N	印象:N	深刻:Vi	
+搭配:Vt	的:T	南瓜:N	、:PAUSECATEGORY	茄子:N	、:PAUSECATEGORY	洋蔥:N	、:PAUSECATEGORY	青椒:N	等:POST	蔬菜:N	亦:ADV	佳:Vi	
+尤其:ADV	洋蔥:N	鮮:Vi	甜:Vi	餘韻:N	至:P	今:N	
+麵衣:N	也:ADV	不惶多讓:Vi	的:T	特別:Vi	
+遇:Vt	醬汁:N	不:ADV	軟:Vi	
+甚至:ADV	可以:ADV	撥:Vt	到:P	味增:N	湯:N	裡:POST	一起:ADV	吃:Vt	
+口感:N	別緻:Vi	
+主食:N	鰻魚飯:N	肥:Vt	嫩:Vi	刺:Vt	少:Vi	
+皮:N	下:N	脂肪:N	相當:ADV	豐盛:Vi	
+比起:P	年初:N	的:T	失敗:Nv	經驗:N	相當:ADV	棒:Vi	
+近:DET	兩:DET	年:M	鰻魚:N	身價:N	暴漲:Vi	
+在:P	這:DET	種:M	價位:N	可以:ADV	吃到:Vt	如此:Vi	品質:N	的:T	鰻魚:N	
+考慮:Vt	時勢:N	算是:Vt	不錯:Vi	
+特別:Vi	一:DET	書:N	其:DET	米飯:N	
+煮:Vt	得:T	明顯:Vi	較:ADV	硬:Vi	但:C	也:ADV	不至於:ADV	不:ADV	熟:Vi	
+淋上:Vt	醬汁:N	後方:N	臻:Vt	完美:Vi	
+實在:ADV	細心:Vi	
+相對:Vi	清淡:Vi	
+或許:ADV	是:Vt	用量:N	有:Vt	控制:Vt	
+的:T	蒲燒醬:N	搭配:Vt	之:T	
+相得益彰:Vi	
+甜點:N	左:N	：:COLONCATEGORY	梅子:N	
+右:N	：:COLONCATEGORY	杏仁:N	
+普普通通:Vi	
+主食:N	的:T	表現:N	都:ADV	相對:Vi	精彩:Vi	
+除了:P	生魚片:N	與:C	甜點:N	外:POST	的:T	味道:N	也:ADV	不錯:Vi	
+可惜:Vi	有:Vt	一:DET	批:M	鰻魚:N	正在:ADV	處理:Vt	
+沒:ADV	點到:Vt	朋友:N	推薦:Vt	的:T	烤:Nv	鰻肝:N	
+以:P	燒烤:Vt	、:PAUSECATEGORY	握:Vt	壽司:N	為主:Vi	的:T	菜單:N	亦:ADV	是:Vt	琳瑯滿目:Vi	
+下:DET	次:M	可:ADV	當作:Vt	居酒屋:N	再:ADV	訪:Vt	
+--:DASHCATEGORY	梅子:N	鰻浦燒:Vt	屋:N	台北市:N	林森北路:N	107巷:N	8:DET	號:M	02:DET	-:DASHCATEGORY	2521:DET	-:DASHCATEGORY	2813:DET	----:DASHCATEGORY	╱:FW	╲:FW	

@@ -1,0 +1,82 @@
+pig:FW	1125:DET	(:PARENTHESISCATEGORY	鹽巴:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	‧:PERIODCATEGORY	SoloPastaCucinaltaliana:FW	‧:PERIODCATEGORY	相信:Vt	
+Wed:FW	
+Aug:FW	
+20:DET	
+22:DET	::COLONCATEGORY	24:DET	::COLONCATEGORY	11:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	SoloPasta:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	6:DET	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	安和路:N	一段:N	29:DET	-:DASHCATEGORY	1:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2775:DET	-:DASHCATEGORY	3645:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	;:SEMICOLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	;:SEMICOLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	500:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+圖文:N	連結:Nv	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hurainjay.pixnet.net/blog/post:FW	/:FW	184974726:DET	
+歡迎:Vt	加入:Vt	烏娜:N	小姐:N	粉絲團:N	：:COLONCATEGORY	
+https:FW	::COLONCATEGORY	/:FW	/:FW	m.facebook.com/una:FW	19850624:DET	
+坐:Vi	在:P	公司:N	座位:N	隔壁:N	的:T	同事:N	
+在:P	還:ADV	沒有:ADV	生:Vt	小孩:N	之前:POST	
+是:Vt	一:DET	個:M	廣蒐:N	各:DET	大台北:N	縣市:N	美食:N	的:T	高手:N	
+烏娜:N	小姐:N	提:Vt	過:ASP	好幾:DET	家:M	好吃:Vi	的:T	餐廳:N	美食:N	
+都:ADV	曾經:ADV	消化:Vt	在:P	她:N	的:T	肚子:N	裡:N	
+SoloPasta:FW	
+就是:C	
+她:N	念念不忘:Vt	極力:ADV	推薦:Vt	的:T	其中:DET	一:DET	家:M	餐廳:N	
+也:ADV	是:Vt	臺中:N	K:FW	2:DET	小:Vi	蝸牛:N	、:PAUSECATEGORY	J-Ping:FW	等:POST	知名:Vi	義大利麵:N	的:T	主廚:N	
+王嘉平:N	在:P	台北:N	開:Vt	的:T	店:N	
+由於:C	樣:N	的:T	大力:ADV	誇獎:Vt	
+烏娜:N	小姐:N	就:ADV	趁著:P	生日:N	約會:Vi	
+走到:Vt	門口:N	才:ADV	發現:Vt	原來:A	之前:POST	已經:ADV	吃:Vt	過:ASP	了:ASP	
+只是:C	當時:N	還:ADV	沒有:ADV	開始:Vt	紀錄:N	部落格:N	
+加上:C	忙著:Vt	跟:P	小孩子:N	玩:Vt	
+所以:C	沒有:ADV	刻意:ADV	的:T	記住:Vt	店名:N	
+我們:N	三:DET	個:M	人:N	
+被:P	安排:Vt	在:P	裡面:N	的:T	桌子:N	裡:N	
+SoloPasta:FW	的:T	菜單:N	菜色:N	變化:N	並:ADV	不:ADV	大:Vi	
+很:ADV	快:Vi	的:T	我們:N	三:DET	
+人:N	就:ADV	選擇:Vt	好:Vi	餐點:N	了:T	
+【:PARENTHESISCATEGORY	特大:Vi	蘆筍:N	與:C	溫泉:N	蛋佐:N	36:DET	個:M	月:N	帕馬森:N	老:Vi	起司:N	NT:FW	：:COLONCATEGORY	280:DET	】:PARENTHESISCATEGORY	
+第一:DET	菜:N	讓:Vt	烏娜:N	小姐:N	傻眼:Vi	了:T	
+這樣:Vi	的:T	份量:N	要:ADV	280:DET	
+原本:ADV	是:Vt	想:Vt	說:Vt	蘆筍:N	溫泉蛋:N	應該:ADV	是:Vt	沙拉:N	
+當:P	
+個:M	開:Vt	味菜:N	可以:ADV	大家:N	分:Vt	著:ASP	一起:ADV	吃:Vt	
+可:ADV	...:ETCCATEGORY	兩:DET	顆:M	蛋:N	跟:P	三:DET	根:M	整:DET	條:M	的:T	蘆筍:N	
+份量:N	是:Vt	讓:Vt	人:N	有點:ADV	傻眼:Vi	就:ADV	
+是:Vt	了:T	
+不過:C	一般:ADV	在:P	外:N	是:Vt	真的:ADV	很少:ADV	看到:Vt	這樣:Vi	大:Vi	支:M	的:T	蘆筍:N	
+溫泉蛋:N	半熟:Vi	也:ADV	讓:Vt	人:N	喜愛:Vt	
+扣除:Vt	份量:N	
+不:ADV	說:Vt	
+蘆筍:N	是:Vt	烏娜:N	小姐:N	很:ADV	愛:Vt	的:T	
+【:PARENTHESISCATEGORY	巴薩醋燻鴨胸:N	奶油:N	義大利麵:N	NT:FW	：:COLONCATEGORY	260:DET	】:PARENTHESISCATEGORY	
+被:P	極力:ADV	推薦:Vt	的:T	巴薩醋燻鴨胸:N	奶油:N	義大利麵:N	
+巴薩醋:N	是:Vt	店家:N	採用:Vt	發酵:Vi	25:DET	年:M	的:T	陳年:A	醋:N	
+雖然:C	好:Vi	
+吃:Vt	但是:C	還:ADV	沒有:Vt	里昂尼:N	讓:Vt	人:N	驚艷:Vi	
+粉紅色:N	的:T	鴨:N	胸肉:N	第一:DET	口:M	很:ADV	好吃:Vi	
+但是:C	全部:DET	吃完:Vt	卻:ADV	有點:ADV	讓:Vt	人:N	
+覺得:Vt	油膩:Vi	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	因為:C	I:FW	小姐:N	形容:Vt	的:T	太:ADV	過於:ADV	美味:Vi	
+讓:Vt	烏娜:N	小姐:N	期望:Vt	過:ASP	高:Vi	了:T	
+【:PARENTHESISCATEGORY	自製:Vt	香腸:N	肉:N	末炒普利亞貓:N	耳朵麵:N	NT:FW	：:COLONCATEGORY	280:DET	】:PARENTHESISCATEGORY	
+朋友:N	選擇:Vt	的:T	自製:Nv	香腸:N	肉:N	末炒普利亞貓:N	耳朵麵:N	
+配色:Vi	很:ADV	討喜:Vi	
+小:Vi	碎肉:N	末:N	加上:Vt	青:Vi	花椰菜:N	
+Y:FW	小:Vi	
+姐:N	最:ADV	愛:Vt	青:Vi	花椰菜:N	了:T	
+義大利:N	傳統:N	豬肉:N	的:T	料理:N	手法:N	
+加上:C	白酒:N	
+貓:N	耳朵:N	麵:N	加上:Vt	配料:N	吃起來:ADV	
+很:ADV	爽快:Vi	
+【:PARENTHESISCATEGORY	羅馬:N	辣味:N	鹹豬肉:N	管麵:N	NT:FW	：:COLONCATEGORY	280:DET	】:PARENTHESISCATEGORY	
+朋友:N	選擇:Vt	的:T	羅馬:N	辣味:N	鹹豬肉:N	管麵:N	
+偷吃:Vt	一口:ADV	覺得:Vt	普普:N	
+不過:C	倒是:ADV	很:ADV	捧場:Vi	吃:Vt	個:M	精光:Vi	
+後記:N	：:COLONCATEGORY	SoloPasta:FW	的:T	燈光:N	不:ADV	適合:Vi	拍照:Vi	
+烏娜:N	小姐:N	剛好:ADV	就坐:Vi	在:P	背:Vt	光:N	的:T	位置:N	
+拍照:Vi	的:T	時候:N	要:ADV	一:DET	
+直:ADV	晃來晃去:Vi	躲:Vt	燈光:N	實在:ADV	很:ADV	阿:Vi	雜:Vi	
+SentfrommyAndroid:FW	

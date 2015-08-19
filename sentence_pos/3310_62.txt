@@ -1,0 +1,18 @@
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	南京東路:N	一段:N	42:DET	號:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	260:DET	-:DASHCATEGORY	300:DET	元:M	，:COMMACATEGORY	收:Vt	一成:DET	服務費:N	
+將:ADV	原本:ADV	在:P	捷運:N	中山:N	站:N	旁邊:N	的:T	店家:N	搬遷:Vt	到:P	天津街:N	和:C	
+南京東路:N	交叉口:N	附近:N	
+服務:Nv	人員:N	態度:N	
+普通:Vi	
+還:ADV	蠻:ADV	鹹:Vi	的:T	
+屬於:Vt	中高:A	價位:N	的:T	拉麵:N	
+吃起來:ADV	有點:ADV	吃力:Vi	
+湯頭:N	濃度:N	和:C	鹹度:N	一般:POST	
+但:C	稍微:ADV	偏:Vt	油:N	
+很:ADV	稀有:Vi	又:ADV	很:ADV	好吃:Vi	的:T	部位:N	
+份量:N	上:N	算是:Vt	非常:ADV	有:Vt	誠意:N	的:T	
+也:ADV	還:ADV	不錯:Vi	
+拉麵:N	本身:N	表現:Vt	中規中矩:Vi	
+但:C	在:P	肉:N	的:T	份量:N	以:P	
+及:C	味道:N	都:ADV	在:P	水準:N	之上:POST	
+它:N	的:T	高:Vi	單價:N	也:ADV	會:ADV	讓:Vt	人:N	用:Vt	比較:ADV	嚴苛:Vi	的:T	

@@ -1,0 +1,116 @@
+flower:FW	3:DET	(:PARENTHESISCATEGORY	周:N	花花:Vi	，:COMMACATEGORY	甲:DET	飽:Vi	沒:T	？:QUESTIONCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	smith&hsu:FW	號稱:Vt	全:DET	台:N	第一:DET	名:M	英式:A	scone:FW	
+Thu:FW	Jul:FW	10:DET	23:DET	::COLONCATEGORY	31:DET	::COLONCATEGORY	15:DET	2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	smith&amp:FW	;:SEMICOLONCATEGORY	hsu:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	5月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	南京東路:N	1:DET	段:M	21:DET	號:M	
+電話:N	：:COLONCATEGORY	0225625565:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	AM:FW	10:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	PM:FW	10:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	$:FW	295:DET	+:FW	10:DET	%:M	
+推薦:Vt	菜色:N	：:COLONCATEGORY	英式:A	酥餅:N	午:N	茶組:N	、:PAUSECATEGORY	桂花:N	凍頂:N	烏龍:N	冰茶:N	、:PAUSECATEGORY	阿薩姆:N	茶歐:N	蕾:N	
+網誌:N	好:Vi	讀:Vt	多:DET	圖:N	無:Vt	音樂版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	tenjochou.pixnet.net/blog/post:FW	/:FW	154509822:DET	
+smith&amp:FW	
+hsu:FW	是:Vt	傳統:Vi	茶館:N	的:T	延續:Nv	
+透過:P	建築:N	與:C	設計:N	、:PAUSECATEGORY	社交:N	、:PAUSECATEGORY	休閒:Nv	、:PAUSECATEGORY	工作:N	、:PAUSECATEGORY	閱讀:Vt	
+當然:ADV	還:ADV	有:Vt	飲茶:Vi	相互:ADV	間:POST	的:T	激盪:Nv	
+結合:Vt	亞洲:N	與:C	西方:N	
+用:P	一:DET	種:M	嶄新:A	與:C	簡潔:Vi	的:T	方式:N	呈現出:Vt	像:P	這樣:Vi	的:T	氛圍:N	
+smith&amp:FW	
+hsu:FW	目前:N	在:P	台北:N	台中:N	共:ADV	6:DET	間:M	分店:N	
+此:DET	行:M	造訪:Vt	中山:N	商圈:N	附近:N	的:T	南京東路店:N	
+離:P	捷運:N	中山:N	站:Vi	不:ADV	遠:Vi	
+步行:Vi	約:ADV	10:DET	分鐘:M	可:ADV	抵達:Vt	
+假日:N	午後:N	來訪:Vi	
+建議:Vt	事先:ADV	訂位:Vi	避免:Vt	向隅:Vi	
+裝潢:N	十分:ADV	新穎:Vi	
+映入:Vt	眼簾:N	的:T	是:Vt	多:DET	種:M	茶品:N	、:PAUSECATEGORY	茶具:N	
+空間:N	中:POST	飄逸:Vi	清淡:Vi	茶香:N	
+有:Vt	著:ASP	城市:N	休憩:Vi	的:T	人文:N	概念:N	
+都會人:N	在:P	此:DET	尋得:Vt	片刻:N	悠閒:Vi	
+我:N	很:ADV	喜歡:Vt	這:DET	層:M	書:N	牆:N	
+窩在:Vt	這:DET	角落:N	
+即使:C	不:ADV	讀書:Vi	也:ADV	能:ADV	沾:Vt	得:T	些許:DET	書香:N	
+這裡:N	提供:Vt	豐富:Vt	的:T	茶款:N	選擇:Vt	
+無論:C	紅茶:N	、:PAUSECATEGORY	綠茶:N	、:PAUSECATEGORY	花草茶:N	、:PAUSECATEGORY	烏龍茶:N	、:PAUSECATEGORY	水果茶:N	等:POST	各:DET	式:M	風味茶:N	
+一:DET	座:M	入:Vt	位:M	
+服務生:N	親切:Vi	地:T	拿:Vt	上:N	聞香:Vi	瓶:M	拖盤:N	
+多達:Vt	數十:DET	種:M	供:Vt	客人:N	試聞:Vt	
+也:ADV	會:ADV	提供:Vt	今日:N	精選:Vt	試:Vt	喝:Vt	
+順著:P	喜好:N	
+不妨:ADV	沏:Vt	壺:N	茶:N	吧:T	
+smith&amp:FW	
+hsu:FW	內:N	用餐色:N	的:T	選擇:Vt	不少:DET	
+滿足:Vt	無論:C	是:Vt	早:Vi	午餐:N	、:PAUSECATEGORY	晚餐:N	
+或是:C	簡單:Vi	來:Vi	份:M	下午茶:N	的:T	你:N	
+最:ADV	經典:N	的:T	餐點:N	
+莫過於:Vt	英式:A	手工:N	酥餅:N	scone:FW	司康:N	
+冠上:Vt	全:DET	台:M	最:ADV	美味:Vi	scone:FW	之:T	名:N	
+倆:DET	人:N	決定:Vt	各:DET	來:Vi	一:DET	套:M	
+英式:A	酥餅:N	午:N	茶組:N	---:DASHCATEGORY	$:FW	295:DET	+:FW	10:DET	%:M	
+英式:A	酥餅:N	2:DET	個:M	+:FW	英國:N	德文:N	郡:N	濃:Vi	奶油:N	、:PAUSECATEGORY	英國:N	經典:N	果醬:N	及:C	飲品:N	
+$:FW	145:DET	內:N	
+scone:FW	和:C	自製:Nv	手工:N	果醬:N	的:T	總類:N	
+會:ADV	隨:P	季節:N	做:Vt	更換:Vt	
+滿足:Vt	愛好:Vt	嚐鮮:Vt	的:T	癮:N	
+好在:ADV	此:DET	行:M	點:Vt	了:ASP	兩:DET	套:M	
+在:P	四:DET	選:Vt	二:DET	的:T	交戰:Nv	中:POST	
+少:Vi	了:ASP	遺珠之憾:N	
+悠閒:Vi	地:T	午茶:N	
+在:P	盛物:N	上:N	得:T	更加:ADV	講究:Vt	
+好:Vi	的:T	茶具:N	能:ADV	襯托出:Vt	好:Vi	茶:N	的:T	香醇:Vi	風味:N	
+讓:Vt	人:N	更加:ADV	陶醉:Vi	
+餐具:N	之於:Vt	餐點:N	
+亦然:Vi	
+英式:A	手工:N	酥餅:N	scone:FW	
+我們:N	各:ADV	選:Vt	了:ASP	原味:N	、:PAUSECATEGORY	葡萄乾:N	、:PAUSECATEGORY	薄荷:N	巧克力:N	
+scone:FW	外:N	酥內軟:Vi	、:PAUSECATEGORY	香氣:N	十足:Vi	
+建議:Vt	先:ADV	單:ADV	吃:Vt	
+品嚐:Vt	食材:N	最:ADV	原始:Vi	味道:N	
+周:N	花花:N	最:ADV	喜歡:Vt	原味:N	的:T	
+不:ADV	愛:Vt	太多:DET	華麗:Vi	裝飾:N	
+葡萄乾:N	scone:FW	、:PAUSECATEGORY	薄荷:N	巧克力:N	scone:FW	
+兩:DET	者:N	很:ADV	明顯:Vi	和:C	原味:N	、:PAUSECATEGORY	彼此:N	做出:Vt	區隔:Nv	
+葡萄乾量:N	給:Vt	得:T	大方:Vi	
+每:DET	口:M	都:ADV	可:ADV	吃到:Vt	鮮甜:Vi	果肉:N	
+薄荷:N	巧克力:N	的:T	薄荷味:N	很:ADV	濃:Vi	
+口:N	中:N	涼感:N	無限:Vi	延伸:Vi	很:ADV	適合:Vi	夏天:N	
+切開:Vt	抹上:Vt	果醬:N	也:ADV	很:ADV	對味:Vi	
+尤其:ADV	是:Vt	主打:Vt	的:T	招牌醬:N	英國:N	德文:N	郡:N	濃:Vi	奶油:N	
+Devonshireclottedcream:FW	
+濃醇:Vi	滋味:N	、:PAUSECATEGORY	口感:N	滑順:N	
+不:ADV	油:N	不:ADV	膩:Vi	非常:ADV	好吃:Vi	
+和:C	scone:FW	根本:N	絕配:N	
+另:DET	一:DET	種:M	抹:Vt	醬:N	選:Vt	了:ASP	檸檬:N	蛋黃:N	、:PAUSECATEGORY	無花果醬:N	
+檸檬:N	蛋黃:N	帶:Vt	著:ASP	微酸:N	
+口感:N	非常:ADV	細緻:Vi	且:C	溫和:Vi	
+無花果醬:N	則:ADV	嚐:Vt	得到:Vt	果肉:N	
+手工:N	製作:Nv	真材實料:N	
+這:DET	三:DET	款:M	抹:Vt	醬:N	無論:C	是:Vt	單獨:ADV	抹:Vt	在:P	scone:FW	上:N	
+或是:C	來:Vi	個:M	雙醬雙享:Vt	都:ADV	很:ADV	對味:Vi	
+桂花:N	凍頂:N	烏龍:N	冰茶:N	
+凍頂烏龍茶:N	葉:N	融入:Vt	桂花:N	蜜:N	
+濃濃:Vi	東方:N	味:N	茶飲:N	
+阿薩姆:N	茶歐:N	蕾:N	
+阿薩姆:N	TGFOP:FW	1:DET	紅:Vi	茶葉:N	、:PAUSECATEGORY	牛奶:N	以:P	獨家:A	比例:N	調和:Vt	
+奶味:N	濃郁:Vi	但:C	不:ADV	搶過:Vt	茶香:N	
+無論:C	做成:Vt	冷飲:N	熱飲:N	都:ADV	很:ADV	棒:Vi	
+smith&amp:FW	
+hsu:FW	不愧:ADV	是:Vt	茶葉:N	專賣店:N	
+這裡:N	的:T	茶:N	真:ADV	得:ADV	好喝:Vi	
+茶香:N	十足:Vi	、:PAUSECATEGORY	順口:Vi	不:ADV	苦澀:Vi	
+置放:Vt	舌尖:N	細細:Vi	品嚐:Vt	回甘:Vi	滋味:N	
+加上:C	講究:Vt	的:T	茶具:N	
+視覺:N	味覺:N	上:POST	都:ADV	令:Vt	我:N	滿足:Vt	
+來過:Vt	一:DET	趟:M	smith&amp:FW	
+hsu:FW	
+就:ADV	能:ADV	理解:Vt	為何:ADV	如此:ADV	受:Vt	歡迎:Vt	
+餐飲:N	都:ADV	讓:Vt	我:N	十分:ADV	滿意:Vt	
+絕對:ADV	會:ADV	推薦:Vt	朋友:N	來:ADV	這:DET	坐坐:Vi	
+或許:ADV	在:P	價位:N	上:POST	稍微:ADV	偏:ADV	高:Vi	
+但:C	一:ADV	分:Vt	錢:N	一:ADV	分:Vt	或是:C	不變:Vi	定律:N	
+偶爾:ADV	款待:Vt	自己:N	
+來:ADV	份:M	scone:FW	、:PAUSECATEGORY	沏壺:N	好:Vi	茶:N	
+享受:Vt	這:DET	愜意:Vi	時光:N	吧:T	
+歡迎:Vt	加入:Vt	":FW	周花:N	花甲:N	飽:Vi	沒:Vt	":FW	粉絲團:N	
+最:ADV	新:Vi	美食:N	資訊:N	報:Vt	你:N	知:Vt	
+https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/tenjochou:FW	

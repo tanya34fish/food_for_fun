@@ -1,0 +1,641 @@
+elisa:FW	10:DET	(:PARENTHESISCATEGORY	罵:Vt	許&:N	捏捏:Vt	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	30:DET	幾:DET	間:M	日本:N	美食:N	介紹:N	~:FW	日本:N	排隊:Vi	美食展:N	
+Fri:FW	
+Apr:FW	
+3:DET	
+01:DET	::COLONCATEGORY	27:DET	::COLONCATEGORY	50:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	日本:N	排隊:Vi	美食展:N	
+消費:N	時間:N	：:COLONCATEGORY	2015年:N	/:FW	4月:N	
+地址:N	：:COLONCATEGORY	台北:N	世界:N	貿易:N	中心:N	三館:N	
+展出:Vt	時間:N	：:COLONCATEGORY	2015:DET	.:PERIODCATEGORY	4.2:DET	（:PARENTHESISCATEGORY	星期四:N	）:PARENTHESISCATEGORY	~:FW	2015:DET	.:PERIODCATEGORY	4.5:DET	（:PARENTHESISCATEGORY	星期天:N	）:PARENTHESISCATEGORY	早上:N	11:DET	點:M	～:FW	晚上:N	19:DET	點:M	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	入場券:N	300:DET	元:M	(:PARENTHESISCATEGORY	可:ADV	兌換:Vt	25:DET	格:N	的:T	20:DET	元:M	美食:N	折扣:N	點券:N	):PARENTHESISCATEGORY	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	，:COMMACATEGORY	需:ADV	使用:Vt	現金券:N	不可:ADV	使用:Vt	現金:N	
+圖文:N	好讀:Vt	&:FW	gt:FW	;:SEMICOLONCATEGORY	&:FW	gt:FW	;:SEMICOLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	marshnienie.pixnet.net/blog/post:FW	/:FW	416962753:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	我:N	一直:ADV	都:ADV	很:ADV	喜歡:Vt	吃:Vt	日本:N	料理:N	
+每:DET	次:M	只要:C	有:Vt	新:Vi	開:Vt	的:T	日本:N	料理店:N	我:N	就:ADV	會:ADV	都:ADV	去:ADV	品嘗:Vt	一下:N	
+碰到:Vt	百貨公司:N	樓上:N	的:T	那:DET	種:M	日本:N	美食:N	饗宴:N	也:ADV	都:ADV	一定:ADV	會:ADV	抽空:ADV	去:ADV	逛逛:Vt	
+這麼:ADV	熱愛:Vt	日本:N	食物:N	的:T	我:N	也:ADV	意外:Vt	獲得:Vt	
+日本:N	排隊:Vi	美食展:N	
+門票:N	
+既然:C	都:ADV	有:Vt	門票:N	了:T	豈:ADV	有:Vt	不:ADV	去:Vt	的:T	道理:N	
+日本:N	排隊:Vi	美食展:N	
+首日:N	
+我:N	早上:N	11:DET	點:M	就:ADV	準時:Vi	抵達:Vt	進場:Vi	
+因為:C	已經:ADV	有:Vt	票券:N	了:T	
+所以:C	省去:Vt	了:ASP	排隊:Vi	購:Vt	票:N	的:T	時間:N	
+但:C	只:ADV	能:ADV	說:Vt	這:DET	場:M	
+日本:N	排隊:Vi	美食展:N	
+人氣:N	真:ADV	旺:Vi	
+11:DET	點:M	不:ADV	到:Vt	
+排隊:Vi	購:Vt	票:N	的:T	人潮:N	就:ADV	多:Vi	得:T	很:ADV	誇張:Vt	
+日本:N	排隊:Vi	美食展:N	
+在:P	世貿:N	三館:N	展出:Vt	
+參展:Nv	廠商:N	將近:ADV	40:DET	攤:M	
+雖然:C	擁有:Vt	
+日本:N	排隊:Vi	美食展:N	
+的:T	入場券:N	
+但:C	其實:ADV	我們:N	也:ADV	跟:P	一般:A	民眾:N	一樣:Vi	需要:Vt	排隊:Vi	另外:C	花錢:Vi	購買:Vt	餐點:N	
+沒有:Vt	特權:N	
+因為:C	貴賓券:N	上面:N	有:Vt	寫到:Vt	＂:FW	憑:P	此:DET	券:N	到:Vt	現場:N	還:ADV	可:ADV	兌換:Vt	500:DET	元:M	折價券:N	＂:FW	
+所以:C	我:N	就:ADV	興高采烈:Vi	的:T	到:Vt	【:PARENTHESISCATEGORY	點券:N	兌換:Vt	處:N	】:PARENTHESISCATEGORY	作:Vt	兌換:Vt	
+雖然:C	場:N	內:N	設:Vt	了:ASP	四:DET	個:M	兌換點:N	
+但:C	人潮:N	真的:ADV	有點:ADV	多:Vi	
+所以:C	花:Vt	了:ASP	一些:DET	時間:N	排隊:Vi	才:ADV	換到:Vt	點券:N	
+原本:ADV	以為:Vt	貴賓券:N	上面:N	寫:Vt	的:T	＂:FW	憑:P	此:DET	券:N	到:Vt	現場:N	還:ADV	可:ADV	兌換:Vt	500:DET	元:M	折價券:N	＂:FW	是:Vt	指:Vt	可以:ADV	直接:Vi	拿到:Vt	500:DET	元:M	現金券:N	
+但:C	似乎:ADV	不:ADV	是:Vt	如此:Vi	
+我們:N	拿到:Vt	的:T	是:Vt	25:DET	格:N	的:T	20:DET	元:M	美食:N	折扣:N	點券:N	
+正當:P	我:N	錯愕:Vi	覺:N	的:T	廠商:N	應該:ADV	是:Vt	搞錯:Vt	的:T	時候:N	
+他們:N	向:P	我:N	說明:Vt	網路:N	上:N	有:Vt	清楚:Vi	說明:Vt	是:Vt	給:P	這:DET	種:M	折扣券:N	而:C	非:Vt	現金券:N	
+其實:ADV	聽到:Vt	它們:N	的:T	說明:Vt	我們:N	有:Vt	傻眼:Vi	了:ASP	一下:N	
+因為:C	這:DET	代表:N	一般:A	民眾:N	若要:C	進來:Vi	
+要:ADV	先:ADV	花:Vt	300:DET	元:M	購買:Vt	入場券:N	
+然後:ADV	到:P	每:DET	個:M	攤位:N	還要:ADV	":FW	自費:Vi	”:FW	購買:Vt	餐點:N	只:ADV	能:ADV	享有:Vt	20:DET	元:M	的:T	折扣:N	
+或許:ADV	是:Vt	文字:N	說明:Vt	不:ADV	夠:ADV	清楚:Vi	
+所以:C	不只:ADV	我們:N	會:ADV	錯:Vi	意:N	
+其他:DET	拿到:Vt	點券:N	的:T	民眾:N	也:ADV	都:ADV	誤會:Vt	了:ASP	＂:FW	憑:P	此:DET	券:N	到:Vt	現場:N	還:ADV	可:ADV	兌換:Vt	500:DET	元:M	折價券:N	＂:FW	的:T	真正:A	涵意:N	
+所以:C	在:P	此:DET	還是:ADV	要:ADV	先:ADV	提醒:Vt	欲:Vt	前往:Vt	
+日本:N	排隊:Vi	美食展:N	
+的:T	民眾:N	
+若:C	您:N	不:ADV	想:Vt	在場:Vi	內:POST	另外:C	消費:N	
+可能:ADV	較:ADV	不:ADV	是:Vt	合:Vt	前往:Vt	
+因為:C	若:C	不:ADV	花錢:Vi	是:Vt	無法:ADV	吃到:Vt	任何:DET	東西:N	的:T	
+廠商:N	有:Vt	再三:ADV	跟:P	我:N	強調:Vt	他們:N	有:Vt	在:P	網路:N	上:POST	說明:Vt	遊戲:N	規則:N	
+可能:ADV	是:Vt	我:N	自己:N	眼殘:N	沒:ADV	注意到:Vt	吧:T	
+..:ETCCATEGORY	為了:P	不:ADV	讓:Vt	大家:N	跟:P	我:N	犯:Vt	一樣:Vi	的:T	錯:Vi	
+我:N	還是:ADV	要:ADV	為:P	大家:N	詳細:Vi	描述:Vt	一下:N	
+以免:C	進到:Vt	會場:N	後:POST	更:ADV	生氣:Vi	就:ADV	不:ADV	好了:T	
+雖然:C	
+日本:N	排隊:Vi	美食展:N	
+參展:Vi	的:T	攤位:N	有:Vt	將近:ADV	40:DET	家:M	
+但:C	整體:N	的:T	環境:N	我:N	覺得:Vt	還:ADV	挺:ADV	寬敞:Vi	的:T	
+也:ADV	因為:C	如此:Vi	
+所以:C	有:Vt	很:ADV	大:Vi	的:T	空間:N	可以:ADV	讓:Vt	大家:N	＂:FW	排隊:Vi	＂:FW	
+因為:C	有:Vt	幾:DET	攤:M	真的:ADV	很:ADV	有:Vt	人潮:N	
+排隊:Vi	人數:N	誇張:Vt	多:DET	
+慶幸:Vt	這裡:N	的:T	空間:N	不:ADV	算:Vt	太:ADV	擁擠:Vi	
+才:ADV	能:ADV	讓:Vt	排隊:Vi	人潮:N	這麼:ADV	長:Vi	
+難怪:ADV	會:ADV	稱作:Vt	
+日本:N	＂:FW	排隊:Vi	＂:FW	美食展:N	
+呀:T	XDDD:FW	個:M	人:N	覺得:Vt	撇:N	除掉:Vt	＂:FW	憑:P	此:DET	券:N	到:Vt	現場:N	還:ADV	可:ADV	兌換:Vt	500:DET	元:M	折價券:N	＂:FW	這:DET	個:M	讓:Vt	我:N	傻眼:Vi	的:T	文字:N	敘述:N	外:POST	
+空間:N	方面:N	我:N	覺得:Vt	還:ADV	挺:Vt	ＯＫ:FW	的:T	
+他們:N	設置:Vt	的:T	用餐區:N	也:ADV	很:ADV	大:Vi	
+即便:C	桌子:N	不:ADV	夠:Vi	
+起碼:ADV	備有:Vt	多:DET	張:M	塑膠椅:N	
+讓:Vt	我:N	逛累:Vi	了:ASP	可以:ADV	坐下:Vi	用餐:Vi	
+一:DET	旁:N	也:ADV	有:Vt	免費:Vi	的:T	遊戲區:N	
+以及:C	舞台:N	表演:N	
+讓:Vt	大家:N	可以:ADV	一:DET	邊:N	吃吃:Vt	喝喝:Vt	還可以:ADV	聽:Vt	日本:N	新星:N	唱歌:Vi	
+接下來:ADV	就:ADV	為:P	大家:N	一一:ADV	介紹:Vt	
+日本:N	排隊:Vi	美食展:N	
+參展:Vi	的:T	攤販:N	
+但:C	因為:C	高達:Vt	40:DET	間:M	
+所以:C	沒辦法:Vi	每:DET	間:M	都:ADV	吃:Vt	到:P	
+所以:C	我:N	挑:Vt	幾:DET	間:M	出來:Vi	
+有:Vt	些:M	只:ADV	有:Vt	照片:N	而:C	沒有:Vt	實際:Vi	吃:Vt	過:ASP	
+是:Vt	請:Vt	別人:N	把:P	餐點:N	借:Vt	我:N	拍:Vt	的:T	XDDD:FW	而且:C	前面:N	有:Vt	提到:Vt	
+我:N	雖然:C	意外:Vt	獲得:Vt	入場券:N	
+但:C	要:ADV	吃:Vt	東西:N	的:T	話:N	還是:ADV	必須:ADV	自掏腰包:Vi	去:ADV	兌換:Vt	現金券:N	
+然後:ADV	再:ADV	跟:P	著:ASP	人潮:N	排隊:Vi	購買:Vt	
+完全:ADV	沒:Vt	特權:N	
+所以:C	如果:C	每:DET	一:DET	攤:M	都:ADV	要:ADV	排:Vt	20:DET	分鐘:M	以上:POST	
+我:N	要:ADV	幫:P	大家:N	把:P	每:DET	一:DET	攤:M	都:ADV	吃:Vt	過:ASP	真的:ADV	不:ADV	太:ADV	可能:Vi	
+我:N	光:ADV	在:P	裡面:N	待:Vt	三:DET	小時:M	腳:N	就:ADV	快:ADV	酸:Vi	死:Vi	了:T	
+但:C	人家:N	都:ADV	叫:Vt	
+日本:N	＂:FW	排隊:Vi	＂:FW	美食展:N	
+了:T	
+好像:ADV	也:ADV	不能:ADV	因為:C	要:ADV	排隊:Vi	就:ADV	哇哇叫:Vi	
+所以:C	我:N	還是:ADV	都:ADV	有:Vt	乖乖:Vi	排隊:Vi	沒有:ADV	抱怨:Vt	喔:T	
+以下:N	介紹:Vt	攤販:N	的:T	順序:N	就:ADV	依照:P	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	提供:Vt	的:T	地圖:N	編號:N	來:ADV	編排:Vt	
+編號:N	1:DET	：:COLONCATEGORY	軟:Vi	Q:FW	軟:Vi	Q:FW	馬鈴薯:N	323:DET	房:M	も:FW	ち:FW	も:FW	ち:FW	ポ:FW	テ:FW	ト:FW	323:DET	号室:N	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+軟:Vi	Q:FW	薯條:N	：:COLONCATEGORY	讓:Vt	您:N	驚艷:Vi	的:T	全新:Vi	口感:N	薯條:N	
+你:N	有:Vt	吃:Vt	過:ASP	明:Vi	太子:N	美乃滋:N	嗎:T	
+跟:P	薯條:N	超級:A	絕配:N	的:T	哦:T	
+在:P	日本:N	很:ADV	流行:Vi	這:DET	種:M	吃法:N	
+編號:N	2:DET	：:COLONCATEGORY	麵屋政宗:N	雖然:C	我:N	挺:ADV	想:Vt	吃:Vt	這:DET	間:M	的:T	
+但:C	看到:Vt	這:DET	排隊:Nv	人潮:N	
+恩:N	
+我:N	放棄:Vt	了:ASP	XDDDDD:FW	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+伊:N	達烤肉:N	沾:Vt	麵:N	：:COLONCATEGORY	我們:N	來自:Vt	仙台:N	
+很:ADV	感謝:Vt	台灣人:N	311:DET	的:T	幫忙:Nv	
+謝謝:Vt	
+あ:FW	り:FW	が:FW	と:FW	う:FW	
+台日:N	友好:Vi	
+編號:N	3:DET	：:COLONCATEGORY	北海道:N	小:Vi	樽:N	的:T	冰淇淋:N	屋:N	北:N	冰:N	菓:b	這:DET	是:Vt	
+日本:N	排隊:Vi	美食展:N	
+中:N	我:N	最:ADV	想:Vt	吃:Vt	的:T	一:DET	攤:M	
+不:ADV	知道:Vt	是:Vt	我:N	太早:ADV	來:Vi	了:ASP	還:ADV	怎樣:ADV	
+竟然:ADV	沒:ADV	開:Vt	
+我:N	逛:Vt	到:P	下午:N	兩:DET	點:N	才:ADV	離開:Vt	還是:ADV	一樣:Vi	沒:ADV	開:Vt	
+到底:ADV	發生:Vt	什麼:DET	事:N	啦:T	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+夕張:N	哈密瓜:N	冰淇淋:N	：:COLONCATEGORY	即使:C	在:P	日本:N	也:ADV	很:ADV	難吃:Vi	得到:Vt	
+在:P	北海道:N	小:Vi	樽超:N	有名:Vi	的:T	冰淇淋屋:N	即將:ADV	在:P	台北:N	現身:Vi	囉:T	
+小:Vi	樽:N	在:P	北海道:N	是:Vt	人氣:N	的:T	觀光:Nv	景點:N	
+編號:N	4:DET	：:COLONCATEGORY	練:Vt	り:FW	や:FW	銀:N	八:DET	
+魚:N	肉餅:N	銀:N	八:DET	
+強烈:Vi	推薦:Vt	他們:N	的:T	【:PARENTHESISCATEGORY	炸:Vt	起司:N	】:PARENTHESISCATEGORY	口味:N	
+會:ADV	大爆:Vi	漿:N	
+而且:C	起:Vt	司超:N	濃郁:Vi	超:Vt	好吃:Vi	
+現場:N	也:ADV	很多:DET	民眾:N	是:Vt	購買:Vt	【:PARENTHESISCATEGORY	巧克力:N	香蕉:N	】:PARENTHESISCATEGORY	
+但:C	因為:C	我:N	以前:N	在:P	泰國:N	還:ADV	有:Vt	逢甲:N	夜市:N	有:Vt	吃:Vt	過:ASP	
+所以:C	就:ADV	沒有:Vt	點:ADV	這:DET	個:M	
+以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+炸:Vt	起:ASP	司:N	
+加:Vt	蔥:N	章魚:N	風味:N	
+、:PAUSECATEGORY	日式:A	魚肉餅:N	
+鮪魚:N	魷魚:N	
+、:PAUSECATEGORY	巧克力:N	香蕉:N	來自:Vt	北海道:N	的:T	鱈魚:N	做成:Vt	的:T	魚:N	肉餅:N	
+內:N	餡:N	包:Vt	著:ASP	熱:Vt	呼呼:ADV	的:T	起士:N	
+還:ADV	有:Vt	彈:Vt	牙:N	的:T	花枝:N	口味:N	
+想:Vt	吃:Vt	甜點:N	的:T	話:N	還:ADV	有:Vt	香蕉:N	巧克力:N	口味:N	的:T	喔:T	
+編號:N	5:DET	：:COLONCATEGORY	森:N	の:FW	コ:FW	ロ:FW	ッ:FW	ケ:FW	
+森林:N	可樂餅:N	
+我們:N	是:Vt	點:M	【:PARENTHESISCATEGORY	奶油:N	馬鈴薯:N	可樂餅:N	】:PARENTHESISCATEGORY	
+裡面:N	的:T	馬鈴薯味:N	超級:A	重:Vi	
+而且:C	很:ADV	綿密:Vi	
+外表:N	炸:Vt	得:T	很:ADV	酥脆:Vi	
+而且:C	不會:ADV	很:ADV	油膩:Vi	
+挺:ADV	好吃:Vi	的:T	
+以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+小卷飯:N	可樂餅:N	：:COLONCATEGORY	你:N	吃:Vt	過:ASP	小卷:N	包飯:Vi	
+但是:C	你:N	有:Vt	吃:Vt	過:ASP	小卷:N	包飯:Vi	做成:Vt	的:T	可樂餅:N	嗎:T	
+鐵路:N	便當:N	中:POST	有名:Vi	的:T	小卷:N	包飯:Vi	變身:Vi	成:Vt	了:ASP	可樂餅:N	
+酥脆:Vi	的:T	外衣:N	是:Vt	本:DET	店:N	的:T	招牌:N	
+編號:N	６:DET	：:COLONCATEGORY	阿部:N	商店:N	的:T	小卷:N	包飯:Vi	這:DET	一:DET	份:M	【:PARENTHESISCATEGORY	小卷:N	包飯:Vi	】:PARENTHESISCATEGORY	是:Vt	我:N	這天:N	吃到:Vt	的:T	餐點:N	中:POST	我:N	覺:Vt	的:T	前:DET	三:DET	名:M	好吃:Vi	的:T	
+非常:ADV	推薦:Vt	
+小卷:N	真的:ADV	很:ADV	Q:FW	彈:Vt	
+外面:N	的:T	醬汁:N	讓:Vt	整體:N	口感:N	更:ADV	好:Vi	
+裡面:N	的:T	米飯:N	也:ADV	非常:ADV	香:Vi	
+而且:C	這:DET	攤:M	大概:ADV	只:ADV	花:Vt	30:DET	分鐘:M	就:ADV	售完:Vt	了:ASP	
+日本:N	老闆娘:N	還:ADV	當場:ADV	備:Vt	料:N	準備:Vt	
+真的:ADV	生意:N	很:ADV	好:Vi	
+以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+小卷飯:N	鐵路:N	便當:N	：:COLONCATEGORY	在:P	北海道:N	熱賣:Vi	長達:Vt	70:DET	幾:DET	年:M	的:T	鐵路:N	便當:N	
+在:P	美味:Vi	小卷:N	的:T	肚子:N	裡:N	塞進:Vt	生米:N	烹煮:Vt	
+再:ADV	加上:Vt	特殊:Vi	的:T	調味:N	
+吃起來:ADV	甜甜:Vi	辣辣:Vi	不:ADV	咬:Vt	舌:N	
+要不要:ADV	來:ADV	吃:Vt	看看:ASP	
+編號:N	７:DET	：:COLONCATEGORY	北海道:N	札幌:N	九兵衛:N	這:DET	個:M	攤位:N	也:ADV	是:Vt	這:DET	天:M	的:T	當紅:Vi	炸:Vt	子雞:N	
+排隊:Vi	人潮:N	一樣:Vi	驚人:Vi	
+但:C	它:N	的:T	價格:N	一樣:Vi	很:ADV	嚇人:Vi	
+我們:N	這:DET	天:M	是:Vt	點:M	【:PARENTHESISCATEGORY	北海道:N	鮭魚:N	鮭魚:N	卵:N	親子:N	丼飯:N	】:PARENTHESISCATEGORY	
+食材:N	真的:ADV	很:ADV	新鮮:Vi	而且:C	給:Vt	得:T	很多:DET	
+吃起來:ADV	也:ADV	真的:ADV	很:ADV	美味:Vi	很:ADV	好吃:Vi	
+但是:C	我:N	覺得:Vt	價格:N	還是:ADV	挺:ADV	貴:Vi	的:T	
+好險:Vi	我:N	是:Vt	跟:P	兩:DET	個:M	凱子:N	朋友:N	來:ADV	
+所以:C	我:N	偷吃:Vt	它們:N	的:T	
+自己:N	沒有:ADV	點:Vt	XDDDD:FW	不用:ADV	花錢:Vi	的:T	最:ADV	好吃:Vi	
+以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+北海:N	鮭魚:N	鮭魚:N	卵:N	親子:N	丼飯:N	：:COLONCATEGORY	集合:Vt	全:DET	北海道:N	最:ADV	新:Vi	的:T	海產:N	
+時常:ADV	大排長龍:Vi	的:T	店家:N	
+首:DET	次:M	參加:Vt	海外:N	展覽:N	就:ADV	獻給:Vt	台灣:N	
+保證:Vt	讓:Vt	你:N	感受到:Vt	濃濃:Vi	的:T	北海道:N	風味:N	
+編號:N	８:DET	：:COLONCATEGORY	渡:Vt	な:FW	べ:FW	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+東京:N	日式:A	油麵:N	：:COLONCATEGORY	這:DET	次:M	我們:N	要:ADV	參展:Vi	的:T	拉麵:N	跟:P	大家:N	印象:N	中:POST	的:T	拉麵:N	不:ADV	一樣:Vi	喔:T	
+這:DET	次:M	是:Vt	乾:Vi	的:T	拉麵:N	
+沒有:Vt	湯:N	
+而:C	現在:N	在:P	東京:N	最:ADV	流行:Vi	的:T	日式:A	
+油麵:N	
+一定:ADV	要:ADV	來:ADV	試試看:Vt	喔:T	
+編號:N	９:DET	：:COLONCATEGORY	う:FW	ど:FW	ん:FW	伊呂波:N	原宿:N	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+炸豬排:N	咖哩飯:N	：:COLONCATEGORY	這:DET	次:M	參展:Vi	的:T	由:P	台灣:N	分店:N	中:N	的:T	人氣:N	餐點:N	咖哩:N	上場:Vi	
+道地:Vi	的:T	日式:A	風味:N	咖哩:N	您:N	嚐:Vt	過:ASP	了:T	嗎:T	
+現場:N	準備:Vt	三:DET	種:M	口味:N	
+你:N	決定好:Vt	要:ADV	吃:Vt	哪:DET	一:DET	道:M	了:T	嗎:T	
+編號:N	１０:DET	：:COLONCATEGORY	フ:FW	ラ:FW	ッ:FW	パ:FW	ー:FW	
+富士宮:N	日式:A	炒麵:N	FLAPPER:FW	
+這裡:N	的:T	炒麵:N	跟:P	台灣:N	的:T	炒麵:N	很:ADV	不:ADV	一樣:Vi	
+麵條:N	較:ADV	短:Vi	
+我:N	不:ADV	知道:Vt	是:Vt	因為:C	店家:N	有:Vt	特地:ADV	切:Vt	短:Vi	還是:C	麵條:N	本身:N	就:ADV	這麼:ADV	短:Vi	
+而且:C	麵條:N	有點:ADV	透明:Vi	的:T	感覺:N	
+吃起來:ADV	不會:ADV	很:ADV	油:Vi	
+屬於:Vt	比較:ADV	乾:Vi	的:T	那:DET	種:M	
+用料:N	只有:ADV	簡單:Vi	的:T	高麗菜:N	
+雖然:C	簡單:Vi	但:C	卻:ADV	吃起來:ADV	順口:Vi	
+還:ADV	曾:ADV	獲得:Vt	兩:DET	次:M	富士宮:N	日式:A	炒麵:N	優勝:Vi	呢:T	
+以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+富士宮:N	日式:A	炒麵:N	：:COLONCATEGORY	在:P	B:FW	-:DASHCATEGORY	1:DET	美食:N	賞:Vt	
+為:P	日本:N	當地:N	美食:N	比賽:N	
+得到:Vt	兩:DET	次:M	優勝:Vi	的:T	富士宮:N	日式:A	炒麵:N	
+有:Vt	嚼:Vt	勁:N	的:T	麵:N	是:Vt	他:N	的:T	最:ADV	大:Vi	特徵:N	
+由:P	出生:Vi	於:P	富士宮:N	的:T	老闆:N	親自:ADV	為:P	您:N	下廚:Vi	
+編號:N	１１:DET	：:COLONCATEGORY	中華:N	蕎麦:N	奨:b	
+中華:N	拉麵獎:N	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+蛤蜊:N	拉麵:N	：:COLONCATEGORY	日本:N	第一:DET	來自:Vt	宍道湖產:N	蛤蜊:N	
+蜆仔:N	
+再:ADV	搭配上:Vt	濃郁:Vi	的:T	味噌湯:N	頭:N	
+就:ADV	是:Vt	本:DET	店:N	的:T	特製:Nv	拉麵:N	
+蛤蜊:N	
+蜆仔:N	
+也:ADV	對:P	身體:N	很:ADV	好:Vi	的:T	食材:N	之:T	一:DET	喔:T	
+編號:N	１２:DET	：:COLONCATEGORY	東京:N	江戸:N	う:FW	ど:FW	ん:FW	
+東京:N	江戶:N	烏龍麵:N	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+東京:N	江戶:N	烏龍:N	緬:N	：:COLONCATEGORY	東京:N	老街:N	的:T	味道:N	
+湯頭:N	基底:N	為:Vt	柴魚:N	和:C	昆布:N	再:ADV	加上:Vt	醬油:N	
+喝:Vt	起來:ASP	有:Vt	清香:Vi	風味:N	的:T	高湯:N	
+你:N	一定:ADV	要:ADV	試試看:Vt	這:DET	種:M	高湯:N	搭配:Vt	的:T	烏龍:N	緬:N	
+編號:N	１３:DET	：:COLONCATEGORY	東京:N	江戶:N	前:N	鶏:b	す:FW	き:FW	
+東京:N	江戶:N	雞肉:N	壽:N	喜:Vt	燒:Vt	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+東京:N	江戶:N	雞肉:N	壽:N	喜:Vt	燒:Vt	：:COLONCATEGORY	東京:N	老街:N	的:T	味道:N	
+特製:Vt	的:T	祖傳:A	甘甜:Vi	醬汁:N	
+完美:Vi	的:T	結合:Nv	雞肉:N	壽:N	喜:Vt	燒:Vt	
+吃:Vt	過:ASP	一:DET	次:M	保證:Vt	你:N	會:ADV	上癮:Vi	
+絕對:ADV	要:ADV	過來:Vi	試試看:Vt	哦:T	
+編號:N	１４:DET	：:COLONCATEGORY	麵屋:N	八:DET	重:M	山:N	STYLE:FW	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+台灣:N	乾:Vi	拌:Vt	麵:N	：:COLONCATEGORY	源自於:Vt	名古屋:N	的:T	日式:A	台灣:N	乾:Vi	拌:Vt	麵:N	
+現在:N	在:P	台北:N	也:ADV	吃:Vt	得到:Vt	囉:T	
+招牌:N	醬汁:N	搭上:Vt	獨特:Vi	麵條:N	
+保證:Vt	上癮:Vi	
+要不要:ADV	來:ADV	試試看:Vt	日式:A	的:T	台灣:N	乾:Vi	拌:Vt	麵:N	呢:T	
+編號:N	１５:DET	：:COLONCATEGORY	鳥:N	め:FW	し:FW	あ:FW	き:FW	ば:FW	
+雞肉飯:N	秋葉:N	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+雞肉飯:N	便當:N	：:COLONCATEGORY	代表:Vt	日本:N	家庭:N	的:T	料理:N	之:T	一:DET	
+其中:DET	大家:N	最:ADV	喜歡:Vt	的:T	一:DET	道:M	飯:N	是:Vt	雞肉飯:N	
+甜甜:Vi	鹹鹹:Vi	的:T	醬汁:N	
+跟:P	雞肉:N	完全:ADV	搭配:Vt	
+您:N	絕對:ADV	不要:ADV	錯過:Vt	
+編號:N	１６:DET	：:COLONCATEGORY	天串:N	
+天婦羅:N	串:Vt	炸:Vt	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+天婦羅:N	雞肉:N	：:COLONCATEGORY	源自於:Vt	九州:N	的:T	一:DET	道:M	鄉土:N	料理:N	
+當地人:N	會:ADV	把:P	雞肉:N	天婦羅:N	跟:P	飯:N	還:ADV	有:Vt	下酒菜:N	和:C	酒:N	一起:ADV	做:Vt	品嚐:Vt	
+絕對:ADV	是:Vt	當地:N	的:T	人氣:N	餐點:N	
+編號:N	１７:DET	：:COLONCATEGORY	中村:N	屋:N	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+馬鈴薯:N	燉肉:N	：:COLONCATEGORY	這:DET	就是:C	媽媽:N	的:T	味道:N	
+醬油:N	的:T	香氣:N	跟:P	鬆軟:Vi	的:T	馬鈴薯:N	還:ADV	有:Vt	肉:N	完美:Vi	的:T	融合:Nv	燉煮:Nv	一起:ADV	
+在:P	日本:N	
+是:Vt	每:DET	個:M	家庭:N	必備:A	的:T	家常菜:N	
+編號:N	１８:DET	：:COLONCATEGORY	博:Vt	多:DET	白天:N	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+博多:N	拉麵:N	：:COLONCATEGORY	說到:Vt	拉麵:N	就:ADV	會:ADV	想到:Vt	豚骨:N	湯頭:N	
+源自於:Vt	博:Vi	多:Vi	
+道地:Vi	的:T	博多:N	風味:N	的:T	豚骨:N	湯頭:N	拉麵:N	你:N	絕對:ADV	不能:ADV	錯過:Vt	它:N	
+忘不了:Vt	的:T	濃厚:Vi	的:T	湯頭:N	
+編號:N	１９:DET	：:COLONCATEGORY	伍德:N	我們:N	點:Vt	了:ASP	【:PARENTHESISCATEGORY	東京:N	日式:A	豬:N	雜:Vi	火鍋:N	】:PARENTHESISCATEGORY	來:ADV	吃吃:Vt	看:Vt	
+他:N	的:T	豬:N	雜:Vi	都:ADV	有:Vt	燉:Vt	到:P	入味:N	
+而且:C	不失:Vt	Ｑ:FW	度:M	
+咬:Vt	起來:ASP	好:ADV	有:Vt	彈性:N	
+湯頭:N	則:ADV	是:Vt	偏:ADV	鹹:Vi	
+建議:Vt	大家:N	可以:ADV	點:Vt	【:PARENTHESISCATEGORY	日式:A	豬:N	雜:Vi	火鍋:N	】:PARENTHESISCATEGORY	
+因為:C	有:Vt	附:Vt	白飯:N	
+湯汁:N	搭配:Vt	白飯:N	應該:ADV	挺:ADV	夠味:Vi	好吃:Vi	的:T	
+以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+東京:N	日式:A	豬:N	雜:Vi	火鍋:N	：:COLONCATEGORY	位於:Vt	池袋:N	的:T	購物:Nv	中心:N	
+熬:Vt	煮:Vt	豬:N	雜有:Vt	30:DET	個:M	年頭:N	的:T	老店:N	
+提供:Vt	各:DET	種:M	日式:A	風味:N	的:T	燉肉:N	
+而:C	充滿:Vt	著:ASP	老:Vi	東京:N	滋味:N	的:T	『:PARENTHESISCATEGORY	東京:N	燉肉:N	』:PARENTHESISCATEGORY	
+您:N	要不要:ADV	試:Vt	一:ADV	試:Vt	
+編號:N	２０:DET	：:COLONCATEGORY	麵家:N	IROHA:FW	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+白蝦味噌拉麺:N	：:COLONCATEGORY	在:P	2014:DET	東京:N	拉麵:N	賞:Vt	得到:Vt	最:ADV	高:Vi	營業額:N	第一:DET	名:M	
+目前:N	為止:POST	為最:Vi	高:Vi	總:A	人氣:N	的:T	日本:N	名:A	店:N	
+使用:Vt	高級:Vi	的:T	白蝦:N	做成:Vt	的:T	味噌:N	拉麵:N	
+編號:N	２１:DET	：:COLONCATEGORY	迷你:Vi	果汁:N	吧:T	這:DET	份:M	北海道:N	草莓:N	冰沙:N	是:Vt	我:N	這天:N	逛完:Vt	
+日本:N	排隊:Vi	美食展:N	
+後:DET	
+心目中:N	NO:FW	.:PERIODCATEGORY	1:DET	的:T	攤位:N	
+用料:N	實在:ADV	
+下方:N	的:T	草莓醬:N	搭配:Vt	草莓:N	冰沙:N	酸酸甜甜:Vi	得:T	好:ADV	好吃:Vi	
+上面:N	又:ADV	擠上:Vt	超:Vt	細緻:Vi	的:T	奶油:N	
+讓:Vt	整體:N	吃起來:ADV	更加:ADV	滑:Vi	順:Vi	
+我:N	愛:Vt	慘:Vi	了:T	
+直接:Vi	吃:Vt	了:ASP	兩:DET	杯:M	
+強力:Vi	推薦:Vt	
+另外:C	也:ADV	有:Vt	哈蜜瓜:N	口味:N	
+但:C	這:DET	天:M	好像:ADV	是:Vt	哈蜜瓜:N	缺貨:Vi	
+所以:C	從:P	一早:ADV	就:ADV	只有:ADV	草莓:N	口味:N	的:T	
+以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+北海道:N	草莓:N	冰沙:N	：:COLONCATEGORY	第一:DET	次:M	的:T	海外:N	初:POST	登場:Vi	
+我們:N	的:T	店:N	位於:Vt	北海道:N	的:T	札榥:N	
+您:N	絕對:ADV	不能:ADV	錯過:Vt	用:P	北海道:N	的:T	新鮮:Vi	水果:N	做成:Vt	各式各樣:A	的:T	水果:N	冰沙:N	
+新鮮:Vi	又:ADV	好吃:Vi	
+編號:N	２２:DET	、:PAUSECATEGORY	２３:DET	：:COLONCATEGORY	オ:FW	ル:FW	ガ:FW	ン:FW	
+風琴:N	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+祖傳:A	醬汁:N	雞肉:N	丼:b	：:COLONCATEGORY	擁有:Vt	200:DET	年:M	歷史:N	的:T	老店:N	
+Q:FW	彈:Vt	彈:Vt	牙:N	的:T	雞肉:N	加上:Vt	祖傳:A	的:T	醬油:N	熬煮:Vt	
+完成:Vt	了:ASP	一:DET	道:M	多:DET	年:M	不變:Vi	的:T	好:Vi	滋味:N	
+招牌:N	的:T	雞肉:N	丼飯:N	
+雞湯:N	蕎麥麵:N	：:COLONCATEGORY	由:P	特選:Vt	雞肉:N	和:C	鰹魚:N	熬:Vt	煮出:Vt	的:T	美味:Vi	雞湯:N	
+完美:Vi	的:T	搭配上:Vt	日本:N	特製:Vt	的:T	蕎麥麵:N	
+全新:Vi	的:T	風味:N	以及:C	口感:N	
+保證:Vt	你:N	會:ADV	愛上:Vt	喔:T	
+編號:N	２４:DET	：:COLONCATEGORY	金久:N	右:N	衛門:N	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+在:P	2012:DET	東京:N	拉麵:N	賞:Vt	得到:Vt	第一:DET	名:M	的:T	金久:N	右:N	衛:N	門:N	來到:Vt	台灣:N	囉:T	
+在:P	美食:N	網站:N	評比:Vt	大阪:N	地區:N	連續:A	三:DET	年:M	第一:DET	名:M	
+清爽:Vi	美味:Vi	湯頭:N	濃縮:Vi	在:P	黃金:N	湯頭:N	裡:N	的:T	拉麵:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.king-emon.jp:FW	編號:N	２５:DET	：:COLONCATEGORY	京都:N	唐揚:N	げ:FW	鳥心:N	
+京都:N	唐揚:N	炸雞:N	雞心:N	
+這:DET	間:M	和:C	草莓:N	冰沙:N	那:DET	間:M	都:ADV	是:Vt	並列:Vt	我:N	心目中:N	的:T	NO:FW	.:PERIODCATEGORY	1:DET	
+這:DET	間:M	的:T	炸雞:N	怎麼:ADV	可以:ADV	這麼:ADV	酥脆:Vi	多汁:Vi	
+肉:N	真的:ADV	超級:A	無敵:Vi	軟嫩:Vi	
+重點:N	是:Vt	老闆:N	人:N	超:Vt	和藹可親:Vi	
+一直:ADV	問:Vt	我們:N	好不好吃:Vi	
+我:N	也:ADV	很:ADV	慶幸:Vt	我:N	一:ADV	進來:Vi	展場:N	後:POST	吃:Vt	的:T	第一:DET	間:M	就:ADV	是:Vt	它:N	
+因為:C	之後:N	這:DET	攤:M	人潮:N	爆炸:Vi	多:Vi	
+排超:N	長人龍:N	
+我:N	好:ADV	慶幸:Vt	我:N	沒:ADV	排到:Vt	什麼:DET	隊:M	就:ADV	吃:Vt	到:P	了:ASP	
+YA:FW	
+強力:Vi	推薦:Vt	
+以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+剛:ADV	炸:Vt	好:Vi	的:T	炸雞:N	沾上:Vt	京都:N	風味:N	的:T	白色:N	高湯:N	
+好:ADV	好吃:Vi	唷:T	
+在:P	台灣:N	沒有:ADV	吃:Vt	過:ASP	的:T	日本:N	京都:N	風味:N	炸雞:N	
+絕對:ADV	不要:ADV	錯過:Vt	哦:T	
+編號:N	２６:DET	：:COLONCATEGORY	東京:N	パ:FW	ン:FW	ケ:FW	ー:FW	キ:FW	
+東京:N	鬆餅:N	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+東京:N	鬆餅:N	：:COLONCATEGORY	鬆鬆軟軟:Vi	的:T	麵團:N	再:ADV	夾上:Vt	好吃:Vi	的:T	會:ADV	流:Vt	口水:N	的:T	鮮:Nv	奶油:N	
+像:Vt	是:Vt	一:DET	份:M	三明治:N	的:T	感覺:N	
+這:DET	就:ADV	是:Vt	東京:N	風:N	的:T	鬆餅:N	
+全新:Vi	口感:N	的:T	鬆餅:N	
+挑戰:Vt	您:N	的:T	味蕾:N	
+編號:N	２７:DET	：:COLONCATEGORY	は:FW	し:FW	ま:FW	き:FW	ラ:FW	イ:FW	ズ:FW	
+筷子:N	燒:Vt	RIZE:FW	
+個:M	人:N	覺得:Vt	這:DET	道:M	料理:N	很:ADV	像:Vt	捲起來:Vi	的:T	可:Vi	麗餅:N	
+中間:N	在:P	插上:Vt	竹籤:N	
+很:ADV	可愛:Vi	很:ADV	新奇:Vi	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+用:P	筷子:N	把:P	大阪:N	燒卷成:Vt	一:DET	支:M	串燒:N	的:T	樣子:N	
+就是:C	日本:N	傳統:Vi	的:T	廟會:N	美食:N	
+筷子:N	燒:Vt	只:ADV	會:ADV	出現:Vi	在:P	日本:N	廟會:N	中:N	而已:T	
+機會:N	非常:ADV	難得:Vi	
+編號:N	２８:DET	：:COLONCATEGORY	富士山:N	た:FW	い:FW	焼:b	き:FW	
+富士山:N	鯛魚:N	燒:Vt	吉田屋:N	
+因為:C	鯛魚:N	燒:Vt	在:P	很多:DET	百貨公司:N	中:N	也:ADV	能:ADV	品嘗到:Vt	
+因此:C	沒有:Vt	特別:Vi	點:ADV	來:ADV	吃:Vt	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+富士山:N	鯛魚:N	燒:Vt	：:COLONCATEGORY	日本:N	國民:N	點心:N	之:T	一:DET	
+鯛魚:N	燒烤:Vt	的:T	外酥內軟:Vi	
+內:N	餡:N	飽滿:Vi	
+有:Vt	奶油:N	及:C	紅豆:N	兩:DET	種:M	口味:N	
+牠:N	最:ADV	大:Vi	的:T	特徵:N	就:ADV	是:Vt	會:ADV	有:Vt	富士山:N	的:T	印子:N	喔:T	
+編號:N	２９:DET	：:COLONCATEGORY	芦屋串:N	天:N	天天:ADV	
+蘆屋:N	串:Vt	炸:Vt	天天:DET	屋:N	
+這裡:N	的:T	食材:N	都:ADV	很:ADV	新鮮:Vi	而且:C	很:ADV	肥美:Vi	
+由:P	其:DET	是:Vt	章魚:N	腳:N	
+好:Vi	大一:N	隻:M	呀:T	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+串:Vt	炸天婦羅:N	套餐:N	：:COLONCATEGORY	在:P	日本:N	是:Vt	高級:Vi	料理:N	的:T	炸天婦羅:N	
+變身:Vi	成:Vt	用:P	竹籤:N	串成:Vt	一串串:DET	的:T	美身:N	
+再:ADV	加上:Vt	外面:N	酥脆:Vi	的:T	麵衣:N	搭上:Vt	新鮮:Vi	的:T	食材:N	
+絕妙:Vi	的:T	滋味:N	
+編號:N	３０:DET	：:COLONCATEGORY	浪:N	速:Vi	串:M	揚:Vt	げ:FW	正:ADV	
+浪:N	速正:N	老爹:N	的:T	串:Vt	炸店:N	
+這:DET	個:M	攤位:N	跟上:Vt	一:DET	個:M	介紹:N	的:T	攤位:N	性質:N	一樣:Vi	
+都:ADV	是:Vt	串:M	炸類:N	的:T	
+但:C	因為:C	我:N	兩:DET	間:M	都:ADV	沒有:Vt	點:N	來:ADV	品嘗:Vt	
+所以:C	不:ADV	確定:Vt	哪:DET	間:M	比較:ADV	好吃:Vi	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+串:Vt	炸:Vt	套餐:N	：:COLONCATEGORY	大阪:N	的:T	靈魂:N	食物:N	代表:N	-:DASHCATEGORY	串:Vt	炸:Vt	也:ADV	要:ADV	登場:Vi	囉:T	
+最:ADV	道地:Vi	的:T	吃法:N	就:ADV	是:Vt	把:P	串:Vt	炸:Vt	沾上:Vt	美味:Vi	的:T	醬汁:N	
+酥酥脆脆:Vi	的:T	口感:N	
+小心:Vt	上癮:Vi	喔:T	
+編號:N	３１:DET	、:PAUSECATEGORY	３２:DET	：:COLONCATEGORY	夢:N	は:FW	正:POST	夢:N	
+夢想:N	成真:Vi	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+現:ADV	烤:Vt	抹茶:N	銅鑼:N	焼:b	：:COLONCATEGORY	足以:Vt	代表:N	日本:N	傳統:N	點心:N	的:T	和:C	菓子:N	
+用:P	傳統:N	技術:N	搭配:Vt	現代:Vi	的:T	手藝:N	全:DET	手工:N	製成:Vt	
+就:ADV	像:Vt	藝術品:N	般:POST	的:T	完美:Vi	呈現:Vt	在:P	您:N	的:T	眼前:N	
+南蠻:N	雞:N	：:COLONCATEGORY	醬酒:N	為:P	底:N	吃起來:ADV	甜甜:Vi	辣辣:Vi	的:T	醬汁:N	
+搭配:Vt	日式:A	風味:N	的:T	南:N	蠻風:N	炸雞:N	
+或是:C	做成:Vt	了:ASP	南:N	蠻風:N	炸雞:N	丼飯:N	
+道地:Vi	的:T	宮崎:N	風:N	
+代表:Vt	日本:N	的:T	靈魂:N	食物:N	
+編號:N	３３:DET	、:PAUSECATEGORY	３４:DET	：:COLONCATEGORY	高円寺:N	ア:FW	ボ:FW	カ:FW	ド:FW	食堂:N	
+高圓寺酪梨:N	食堂:N	
+會:ADV	選:Vt	這:DET	間:M	主要:ADV	是:Vt	因為:C	我:N	很:ADV	喜歡:Vt	吃:Vt	酪梨:N	
+再:ADV	來:ADV	就是:C	它:N	人潮:N	較少:ADV	不需:ADV	排隊:Vi	
+這裡:N	的:T	酪梨:N	風味:N	蛋糕:N	捲:Vt	連:C	餅皮:N	都:ADV	是:Vt	酪梨:N	口味:N	的:T	
+但:C	味道:N	不:ADV	明顯:Vi	
+裡面:N	的:T	水果:N	除了:P	酪梨:N	外:POST	
+還:ADV	有:Vt	草莓:N	和:C	芒果:N	
+最:ADV	厲害:Vi	的:T	莫過於:Vt	他:N	的:T	奶油:N	
+不:ADV	甜:Vi	又:ADV	好吃:Vi	順口:Vi	
+只:ADV	是:Vt	甜點:N	吃到:Vt	最後:N	難免:ADV	會:ADV	有:Vt	些:M	膩:Vi	
+但:C	我:N	覺得:Vt	整體:N	的:T	口感:N	是:Vt	我:N	喜歡:Vt	的:T	
+以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+酪梨:N	起:POST	司:Vt	可樂餅:N	：:COLONCATEGORY	在:P	日本:N	超級:A	受:Vt	歡迎:Vt	的:T	酪梨:N	起:POST	司:Vt	可樂餅:N	在:P	台北:N	初:POST	登場:Vi	囉:T	
+你:N	一定:ADV	要:ADV	嗜:Vt	看看:Vt	源自於:Vt	東京:N	高圓寺:N	不:ADV	一樣:Vi	口感:N	的:T	可樂餅:N	
+酪梨:N	風味:N	蛋糕:N	巻:b	：:COLONCATEGORY	來自於:Vi	日本:N	的:T	全新:Vi	口感:N	
+酪梨:N	口味:N	的:T	蛋糕:N	卷:N	
+蛋糕:N	吃起來:ADV	又:ADV	鬆:Vt	又:ADV	軟:Vi	
+對:P	身體:N	也:ADV	很:ADV	健康:Vi	哦:T	
+最近:N	在:P	日本:N	流行:Vi	起來:Vi	的:T	新:Vi	甜點:N	
+編號:N	３５:DET	：:COLONCATEGORY	佐藤:N	精肉店:N	SatoSeinikutenTokyo:FW	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+豬肉:N	丼:b	：:COLONCATEGORY	甜甜:Vi	辣辣:Vi	的:T	醬汁:N	跟:P	豬肉:N	就是:C	絕配:N	
+商業:N	機密:N	的:T	醬汁:N	跟:P	豬肉:N	的:T	肉汁:N	
+再:ADV	搭上:Vt	熱:N	呼呼:ADV	的:T	白飯:N	
+沒想到:ADV	居然:ADV	有:Vt	這麼:Vi	的:T	好吃:Vi	
+編號:N	３６:DET	：:COLONCATEGORY	浪:N	速:Vi	點心堂:N	章魚:N	燒:Vt	雖然:C	我:N	沒有點:N	來:ADV	吃:Vt	
+但是:C	在:P	一:DET	旁:N	看到:Vt	這:DET	攤:M	的:T	用料:N	就:ADV	覺得:Vt	很:ADV	實在:Vi	
+我:N	本來:ADV	也:ADV	想:Vt	排隊點:N	來:ADV	吃:Vt	的:T	
+但:C	這:DET	間:M	的:T	人潮:N	大概:ADV	是:Vt	這:DET	天:M	全:DET	展場:N	裡面:N	排隊:Vi	排:Vt	最:ADV	誇張:Vt	的:T	一:DET	攤:M	
+整:DET	個:M	排到:Vt	變:Vt	L:FW	型:N	
+等:P	我:N	吃到:Vt	都:ADV	不:ADV	知道:Vt	幾:DET	點:M	了:T	
+所以:C	只好:ADV	擦擦:Vt	口水:N	默默:ADV	的:T	淡:Vi	出:Vt	
+但:C	我:N	真的:ADV	好:Vi	想:Vt	吃吃:ADV	看:Vt	
+看起來:ADV	超:Vt	美味:Vi	的:T	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+章魚:N	燒:Vt	：:COLONCATEGORY	你:N	有:Vt	試:Vt	過:ASP	最:ADV	道地:Vi	的:T	章魚:N	燒:Vt	嗎:T	
+那:ADV	你:N	絕對:ADV	不能:ADV	錯過:Vt	
+這:DET	次:M	參展:Vi	的:T	章魚:N	燒:Vt	來自於:Vi	兵庫縣:N	的:T	明石:N	市:N	
+是:Vt	最:ADV	道地:Vi	的:T	章魚:N	燒:Vt	
+編號:N	３７:DET	：:COLONCATEGORY	浪:N	速:Vi	點心堂:N	大阪:N	燒:Vt	這:DET	間:M	的:T	大阪:N	燒:Vt	是:Vt	使用:Vt	麵:N	來:ADV	製作:Vt	
+我:N	其實:ADV	沒有:ADV	吃:Vt	過:ASP	麵:N	製成:Vt	的:T	大阪:N	燒:Vt	
+很:ADV	想:Vt	品嘗:Vt	看看:ASP	
+但:C	又:ADV	擔心:Vt	吃:Vt	了:ASP	麵:N	就:ADV	吃:Vt	不:ADV	下:Vt	別:DET	樣:M	了:T	
+但:C	這:DET	攤:M	得:T	排隊:Nv	人潮:N	也:ADV	很多:DET	
+大家:N	可以:ADV	試試看:Vt	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+大阪:N	燒:Vt	：:COLONCATEGORY	代表:Vt	大阪:N	的:T	靈魂:N	食物:N	之:T	一:DET	
+國人:N	也:ADV	非常:ADV	熟悉:Vt	的:T	日本:N	美食:N	之:T	一:DET	
+大阪:N	燒:Vt	
+用:P	高麗菜:N	的:T	甘甜:Vi	引出:Vt	大阪:N	燒:Vt	的:T	菁華:N	
+準備好:Vt	要:ADV	吃:Vt	道地:Vi	的:T	大阪:N	燒:Vt	了:ASP	嗎:T	
+編號:N	３８:DET	：:COLONCATEGORY	浪:N	速:Vi	點心堂:N	日式:A	炒麵:N	
+只有:ADV	拍:Vt	樣品:N	未:ADV	點:Vt	來:ADV	吃:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+日式:A	炒麵:N	：:COLONCATEGORY	日式:A	炒麵:N	中:POST	最:ADV	重要:Vi	的:T	是:Vt	醬汁:N	跟:P	麵條:N	
+再:ADV	搭上:Vt	師父:N	的:T	無敵:Vi	炒:Vt	功:N	
+炒麵:N	的:T	工夫:N	是:Vt	很:ADV	重要:Vi	的:T	喔:T	
+超強:Vi	的:T	日式:A	炒麵:N	即將:ADV	正式:Vi	登場:Vi	
+編號:N	３９:DET	：:COLONCATEGORY	赤坂:N	ち:FW	び:FW	す:FW	け:FW	
+赤坂:N	迷你:Vi	煎餃:N	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+在:P	日本:N	超:Vt	受:P	歡迎:Vt	的:T	一口:ADV	餃:b	即將:ADV	在:P	台北:N	登場:Vi	囉:T	
+有:Vt	原味:N	
+起:Vt	司:N	跟:P	紫蘇:N	口味:N	
+一:DET	次:M	三:DET	種:M	口味:N	挑戰:Vt	你:N	的:T	味蕾:N	
+請:Vt	現場:N	來:ADV	看看:Vt	
+http:FW	::COLONCATEGORY	/:FW	/:FW	www.a-chibisuke.com:FW	編號:N	４０:DET	：:COLONCATEGORY	OiCFactory:FW	
+北海道:N	偶:ADV	依稀:ADV	工廠:N	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+魩仔:N	魚:N	奶油:N	可樂餅:N	：:COLONCATEGORY	滿滿:Vi	的:T	北海道:N	最:ADV	美味:Vi	的:T	馬鈴薯:N	
+鬆鬆軟軟:Vi	
+再:ADV	搭上:Vt	我們:N	各式各樣:A	的:T	特製:Nv	食材:N	
+讓:Vt	你:N	吃起來:ADV	有:Vt	滿滿:Vi	的:T	幸福:Vi	的:T	感覺:N	
+編號:N	４１:DET	：:COLONCATEGORY	OmtRak:FW	
+歐姆:M	蛋:N	噗噗:ADV	車:N	
+未:ADV	點:Vt	未:ADV	拍:Vt	以下:N	文字:N	取自:Vi	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+粉絲團:N	
+雞肉:N	蕃茄:N	肉醬:N	歐姆:M	蛋:N	：:COLONCATEGORY	吃起來:ADV	滑:Vi	嫩嫩:Vi	的:T	歐姆:M	蛋:N	
+黃金:N	三十五秒:N	製作:Vt	而:C	成:Vt	
+搭配:Vt	特製:Vt	的:T	醬汁:N	吃起來:ADV	有:Vt	幸福:Vi	的:T	感覺:N	
+絕對:Vi	的:T	日式:A	風味:N	
+我們:N	也:ADV	準備:Vt	了:ASP	好多:DET	的:T	餐點:N	哦:T	
+編號:N	４２:DET	：:COLONCATEGORY	TokyoCrepes:FW	
+東京:N	可:ADV	麗餅:N	
+鮮:Vi	奶油:N	香蕉:N	巧克力:N	：:COLONCATEGORY	來自於:Vi	東京:N	
+大量:DET	使用:Vt	新鮮:Vi	的:T	蛋黃:N	
+再:ADV	加上:Vt	獨家:A	麵粉:N	所:ADV	做出來:Vi	的:T	可:Vi	麗餅:N	皮:N	
+吃起來:ADV	軟:Vi	Q:FW	軟:Vi	Q:FW	
+是:Vt	我們:N	最:ADV	受:Vt	歡迎:Vt	的:T	秘訣:N	哦:T	
+雖然:C	說:Vt	這:DET	次:M	的:T	
+日本:N	排隊:Vi	美食展:N	in:FW	台北:N	
+讓:Vt	我們:N	荷包:N	大:Vi	失血:Vi	
+加上:C	浪費:Vt	很多:DET	時間:N	在:P	排隊:Vi	上:POST	
+但:C	撇開:Vt	主辦:Nv	單位:N	的:T	問題:N	
+我:N	還:ADV	挺:ADV	喜歡:Vt	裡面:N	的:T	每:DET	個:M	攤位:N	
+日本:N	的:T	東西:N	怎麼:ADV	都:ADV	這麼:ADV	好吃:Vi	
+只:ADV	是:Vt	價格:N	也:ADV	真的:ADV	不:ADV	便宜:Vi	就是了:Vi	
+而且:C	日本人:N	都:ADV	好:ADV	客氣:Vi	
+雖然:C	不會:ADV	講:Vt	中文:N	
+但:C	他們:N	會:ADV	比手畫腳:Vi	親切:Vi	解說:Vt	到:P	我們:N	明白:Vt	為止:POST	
+雖然:C	排隊:Vi	排到:Vt	一直:ADV	放空:Vi	
+但:C	看到:Vt	日本人:N	親切:Vi	的:T	招呼:N	就:ADV	覺得:Vt	很:ADV	棒:Vi	
+當然:ADV	現場:N	也:ADV	是:Vt	有:Vt	看到:Vt	不少:DET	對:P	日本:N	店家:N	破口大罵:Vt	的:T	民眾:N	
+我:N	個:M	人:N	覺得:Vt	挺:ADV	丟臉:Vi	的:T	
+因為:C	人家:N	這:DET	個:M	展場:N	就:ADV	已經:ADV	寫:Vt	了:ASP	是:Vt	
+日本:N	”:FW	排隊:Vi	":FW	美食展:N	
+卻:ADV	因為:C	要:ADV	排隊:Vi	購買:Vt	餐點:N	而:C	發火:Vi	真的:ADV	是:Vt	很:ADV	奇怪:Vt	的:T	一:DET	件:M	事:N	
+只:ADV	見:Vt	日本人:N	也:ADV	不:ADV	太:ADV	了解:Vt	為什麼:ADV	台灣:N	民眾:N	要:ADV	對:P	它們:N	破口大罵:Vt	
+只是:ADV	很:ADV	委屈:Vt	的:T	一直:ADV	埋頭:ADV	做:Vt	
+然後:ADV	一直:ADV	道歉:Vi	
+我:N	就:ADV	覺得:Vt	這:DET	畫面:N	很:ADV	難看:Vi	
+我:N	是:Vt	覺得:Vt	購買:Vt	票券:N	的:T	人:N	一定:ADV	會:ADV	不:ADV	爽:Vi	啦:T	
+因為:C	連:C	我:N	都:ADV	有點:ADV	不:ADV	太:ADV	高興:Vt	了:ASP	
+畢竟:ADV	＂:FW	憑:P	此:DET	券:N	到:Vt	現場:N	還:ADV	可:ADV	兌換:Vt	500:DET	元:M	折價券:N	＂:FW	這:DET	句:M	話:N	真的:ADV	會:ADV	讓:Vt	所有人:N	誤會:N	
+我:N	以為:Vt	憑:P	這:DET	張:M	入場券:N	我:N	就:ADV	可以:ADV	500:DET	元:M	吃:Vt	飽飽:Vi	
+所以:C	連:C	錢包:N	都:ADV	沒:ADV	帶:Vt	
+結果:ADV	進來:Vi	後:POST	才:ADV	發現:Vt	要:ADV	另外:ADV	付錢:Vi	購買:Vt	
+真的:ADV	很:ADV	傻眼:Vi	
+起:Vt	不:ADV	是:Vt	好險:Vi	我:N	朋友:N	有:Vt	攜帶:Vt	錢包:N	
+不然:C	我們:N	等於:Vt	是:Vt	進來:Vi	看:Vt	別人:N	排隊:Vi	看:Vt	別人:N	吃飯:Vi	XDDDD:FW	但:C	希望:Vt	大家:N	若:C	有:Vt	什麼:DET	不滿:Vt	直接:Vi	去:ADV	跟:P	主辦:Vt	單位:N	反應:N	
+不要:ADV	把:P	滿:DET	肚子:N	的:T	怒氣:N	出:Vt	在:P	日本:N	店家:N	身:N	上:N	呀:T	
+也:ADV	希望:Vt	接下來:ADV	的:T	三:DET	天:M	展期:N	
+主辦:Vt	單位:N	能:ADV	出來:Vi	說明:Vt	一下:N	＂:FW	憑:P	此:DET	券:N	到:Vt	現場:N	還:ADV	可:ADV	兌換:Vt	500:DET	元:M	折價券:N	＂:FW	
+不要:ADV	讓:Vt	購:Vt	票:N	的:T	民眾:N	覺得:Vt	有:Vt	被:P	騙:Vt	進去:Vi	的:T	感覺:N	
+另外:C	也:ADV	希望:Vt	多多:ADV	增設:Vt	購買:Vt	現金券:N	的:T	窗口:N	
+不然:C	這麼多:DET	人潮:N	真的:ADV	會:ADV	排隊:Vi	排到:Vt	很:ADV	火大:Vi	
+希望:Vt	大家:N	能:ADV	看清楚:Vt	我:N	這:DET	篇:M	的:T	說明:N	
+願意:Vt	另外:C	花錢:Vi	購買:Vt	餐點:N	以及:C	願意:Vt	花:Vt	時間:N	排隊:Vi	的:T	人:N	再:ADV	進入:Vt	
+日本:N	排隊:Vi	美食展:N	
+希望:Vt	不要:ADV	再:ADV	有:Vt	人:N	跟:P	我:N	一樣:Vi	進去:Vi	後:POST	有:Vt	種:M	被:P	騙:Vt	的:T	感覺:N	XDDDD:FW	
+但:C	後來:N	我:N	自己:N	還是:ADV	吃:Vt	得:T	很:ADV	開心:Vi	就是了:Vi	
+另外:C	也:ADV	要:ADV	提醒:Vt	大家:N	
+記得:Vt	自備:Vt	水:N	或:C	飲料:N	
+因為:C	裡面:N	的:T	飲料:N	超貴:N	
+一:DET	瓶:M	60:DET	元:M	起跳:Vi	
+即使:C	用:P	20:DET	元:M	折價券:N	也:ADV	還是:ADV	要:ADV	40:DET	元:M	
+自己:N	帶:Vt	水:N	比較:ADV	省:Vi	
+這天:N	在:P	
+日本:N	排隊:Vi	美食展:N	
+吃到:Vt	的:T	東西:N	真的:ADV	都:ADV	挺:ADV	好吃:Vi	的:T	
+沒:Vt	什麼:DET	雷:N	
+我:N	自己:N	很:ADV	喜歡:Vt	
+大推:Vt	編號:N	２１:DET	：:COLONCATEGORY	迷你:Vi	果汁:N	吧:T	和:C	編號:N	２５:DET	：:COLONCATEGORY	京都:N	唐揚:N	げ:FW	鳥心:N	
+京都:N	唐揚:N	炸雞:N	雞心:N	
+真的:ADV	太:ADV	好吃:Vi	了:T	
+這:DET	兩樣:Vi	的:T	價格:N	也:ADV	是:Vt	我:N	比較:ADV	能:ADV	接受:Vt	的:T	範圍:N	喔:T	
+--:DASHCATEGORY	罵:Vt	許:N	&:FW	amp:FW	
+捏捏:Vt	BLOG:FW	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	marshnienie.pixnet.net/blog:FW	捏捏:Vt	【:PARENTHESISCATEGORY	搞笑:Vi	公主:N	】:PARENTHESISCATEGORY	＆:FW	罵:Vt	許:N	【:PARENTHESISCATEGORY	小:Vi	天使:N	】:PARENTHESISCATEGORY	粉絲團:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/marshnienie:FW	--:DASHCATEGORY	

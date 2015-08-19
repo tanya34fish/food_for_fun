@@ -1,0 +1,74 @@
+peacefulsea:FW	(:PARENTHESISCATEGORY	靜:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	貓空:N	清泉:N	山莊:N	
+Fri:FW	
+Nov:FW	
+21:DET	
+21:DET	::COLONCATEGORY	31:DET	::COLONCATEGORY	15:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	清泉:N	山莊:N	
+消費:N	時間:N	：:COLONCATEGORY	2014.1:DET	1.21:DET	.:PERIODCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	文山區:N	指南路:N	三段:N	38巷:N	33:DET	-:DASHCATEGORY	3:DET	號:M	
+電話:N	：:COLONCATEGORY	0932325387:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	10:DET	::COLONCATEGORY	00:DET	–:FW	22:DET	::COLONCATEGORY	00:DET	
+網路:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/FJ1v:FW	
+趁著:P	工作:N	到:Vt	台北:N	出差:Vi	的:T	空檔:N	
+和:C	同事:N	在:P	彼此:N	同意:Vt	下:DET	
+到:P	貓:N	空:Vt	去:ADV	吃:Vt	午餐:N	
+以前:N	曾經:ADV	和:P	
+人:N	約:ADV	過:Vt	要:ADV	來:ADV	貓空:N	
+但:C	經過:Vt	多:DET	年:M	
+那怕:C	是:Vt	貓空:N	纜車:N	都:ADV	通:Vt	了:ASP	
+也:ADV	一直:ADV	到:P	今天:N	才:ADV	踏上:Vt	貓空:N	
+做為:Vt	在:P	台北:N	著名:Vi	的:T	景點:N	地標:N	之:T	一:DET	
+可以:ADV	遠望:Vt	台北市:N	景:N	
+包括:Vt	101:DET	
+算是:Vt	一:DET	個:M	可以:ADV	看到:Vt	山:N	
+景:N	、:PAUSECATEGORY	市景:N	的:T	不錯:Vi	地方:N	
+由:P	目前:N	公司:N	所在:N	教導:Vt	的:T	同事:N	帶領:Vt	下:DET	
+到:P	清泉:N	山莊:N	用:P	午餐:N	
+一:ADV	坐下來:Vi	
+就:ADV	多少:DET	放鬆:Vt	心:N	
+情:N	
+算是:Vt	排解:Vt	在:P	工作:N	上:POST	才:ADV	被:P	顧客:N	狠狠:ADV	孫:N	了:ASP	一:DET	頓:M	的:T	怒氣:N	
+仔細:Vi	看店:Vi	
+店:N	內:N	掛:Vt	著:ASP	許多:DET	在:P	食物:N	方面:N	等等:POST	的:T	介紹:N	及:C	許多:DET	名人:N	來訪:Vi	的:T	照片:N	
+挑選:Vt	一下:N	後:POST	
+我:N	點:Vt	烏龍茶:N	香:Vi	炒飯:N	
+而:C	其中:DET	一:DET	位:M	同事:N	則:ADV	是:Vt	點選:Vt	茶油:N	籽:N	麵線:N	
+烏龍茶:N	香:Vi	炒飯:N	1:DET	人:N	
+120:DET	元:M	
+量:N	並:ADV	沒有:Vt	非常:ADV	多:Vi	
+吃起來:ADV	口感:N	算是:Vt	還:ADV	好:Vi	
+而:C	烏龍茶:N	香:Vi	的:T	味道:N	
+也:ADV	是:Vt	有:Vt	
+吃:Vt	在:P	嘴:N	裡:N	的:T	感覺:N	應該:ADV	可以:ADV	說:Vt	就是:C	在:P	享受:Vt	烏龍茶:N	的:T	那:DET	個:M	味道:N	吧:T	
+笑:Vi	
+是:Vt	一:DET	個:M	算:Vt	蠻:ADV	奇特:Vi	
+也:ADV	覺得:Vt	可以:ADV	試試:Vt	體會:Vt	一下:N	那樣:Vi	口感:N	的:T	菜色:N	
+而:C	其中:DET	一:DET	位:M	同事:N	點選:Vt	的:T	茶油:N	籽:N	麵線:N	
+根據:P	他:N	的:T	說法:N	是:Vt	
+口味:N	感覺:N	一般:POST	
+並:C	沒有:Vt	什麼:DET	特:ADV	
+別的:DET	感受:N	度:Vt	
+而且:C	吃:Vt	幾:DET	口:M	就:ADV	吃完:Vt	
+吃:Vt	了:ASP	還:ADV	有點:ADV	餓:Vi	
+笑:Vi	
+也許:ADV	是:Vt	臨時:N	突然:ADV	性:N	的:T	前來:Vt	
+並:C	沒有:ADV	做:Vt	足:N	功課:N	好好:Vi	研究:Vt	這:DET	間:M	店:N	最:ADV	著名:Vi	及:C	好吃:Vi	的:T	美味:N	
+但:C	
+能:ADV	在:P	工作:N	受:Vt	夠:Vi	了:ASP	鳥氣:N	後:POST	
+在:P	一:DET	個:M	空檔:N	
+到:P	這:DET	來:ADV	吃:Vt	吃飯:Vi	
+並且:C	遠望:Vt	台北:N	的:T	風景:N	
+倒:ADV	也:ADV	是:Vt	
+一:DET	種:M	很:ADV	棒:Vi	的:T	享受:Nv	
+也許:ADV	在:P	做:Vt	足:N	功課:N	後:POST	
+下:DET	次:M	應該:ADV	會:ADV	再:ADV	來訪:Vi	吧:T	
+真正:A	的:T	幸福:Nv	
+不:ADV	是:Vt	過去:N	也:ADV	不:ADV	是:Vt	未來:N	
+而是:C	抓住:Vt	現在:N	手心:N	裏:N	的:T	幸福:Nv	
+不要:ADV	認為:Vt	別人:N	的:T	人生:N	就:ADV	一定:ADV	會:ADV	比:P	你:N	更:ADV	好:Vi	
+你:N	不:ADV	是:Vt	那:DET	個:M	人:N	
+其實:ADV	每:DET	個:M	人:N	的:T	人生:N	都:ADV	不會:ADV	比:P	你:N	更:ADV	容易:Vi	
+做好:Vt	自己:N	的:T	角色:N	
+看好:Vt	自己:N	的:T	人生:N	

@@ -1,0 +1,98 @@
+shiang0504(shiang:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山:N	水柚居酒屋:N	台灣:N	漁產:N	創意:N	入菜:Vi	
+Wed:FW	
+Jul:FW	
+23:DET	
+12:DET	::COLONCATEGORY	43:DET	::COLONCATEGORY	01:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	水柚居酒:N	屋:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	5:DET	
+電話:N	::COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2775:DET	-:DASHCATEGORY	1213:DET	
+地址:N	::COLONCATEGORY	台北市:N	龍江路:N	55巷:N	8:DET	號:M	(:PARENTHESISCATEGORY	距離:P	南京東路:N	一:DET	號:M	出口:Nv	，:COMMACATEGORY	請:Vt	耐心:N	步行:Vi	10:DET	分鐘:M	XD:FW	):PARENTHESISCATEGORY	
+營業:Nv	時間:N	::COLONCATEGORY	
+週一:N	至:P	週五日:N	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	30:DET	夜:N	17:DET	::COLONCATEGORY	30:DET	~:FW	24:DET	::COLONCATEGORY	00:DET	
+週六:N	至:P	週日:N	夜:N	17:DET	::COLONCATEGORY	30:DET	~:FW	24:DET	::COLONCATEGORY	00:DET	
+圖文:N	網誌版:N	→:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	eleanorgo.pixnet.net/blog/post:FW	/:FW	182752230:DET	
+交通:N	不:ADV	算:Vt	便利:Nv	
+但:C	你:N	走進:Vt	這:DET	小:Vi	巷:N	絕對:ADV	會:ADV	愛上:Vt	這裡:N	
+靜:Vi	悠悠:Vi	的:T	住宅區:N	
+出現:Vi	這麼:ADV	一:DET	家:M	日式:A	氛圍:N	小店:N	
+推開:Vt	木門:N	
+老闆娘:N	親切:Vi	不:ADV	尷尬:Vi	的:T	招呼聲:N	
+老闆:N	專注:Vi	料理:N	串燒:N	和:C	燒物:N	
+座位:N	不:ADV	多:Vi	
+足夠:Vi	將:P	我們:N	一:DET	整:DET	天:M	的:T	忙碌:Vi	後:POST	的:T	身軀:N	窩:N	進去:Vi	
+看看:Vt	菜單:N	
+可以:ADV	先:ADV	選:Vt	些:M	自己:N	喜歡:Vt	的:T	餐點:N	
+老闆:N	會:ADV	依照:P	你們:N	來訪:Vi	人數:N	進行:Vt	食材客製:N	份量:N	
+因此:C	價位:N	可能:ADV	會:ADV	增減:Vt	
+但:C	都:ADV	能:ADV	吃:Vt	飽飽:Vi	
+而且:C	你:N	會:ADV	驚訝:Vt	
+這裡:N	的:T	料理:N	幾乎:ADV	都:ADV	是:Vt	百:DET	元:M	間:POST	
+和:C	在:P	市區:N	能:ADV	擁有:Vt	這樣:Vi	風情:N	和:C	味道:N	的:T	居酒:N	屋:N	
+價格:N	整整:ADV	少:ADV	去:Vt	一半:DET	
+不:ADV	是:Vt	很:ADV	確定:Vt	這:DET	台:M	機器:N	的:T	芳名:N	
+我:N	僅:ADV	知道:Vt	從:P	這裡:N	打出來:Vi	的:T	酒會:N	有:Vt	綿密:Vi	酒:N	泡:Vt	
+要不是:C	我:N	今天:N	咳:Vi	到:P	肺:N	都:ADV	要:ADV	跑出來:Vi	了:ASP	
+鐵定:ADV	來上:Vt	一:DET	杯:M	
+有:Vt	把:P	手:N	的:T	椅背:N	
+便於:Vt	搬動:Vt	
+精挑細選:Vi	的:T	器皿:N	
+具:Vt	質感:N	又:ADV	添:Vt	店家:N	用心:Vi	
+海鮮:N	彩蔬:N	沙拉:N	搭配:Vt	洋芋片:N	
+一:ADV	開始:Vt	我:N	以為:Vt	是:Vt	單純:Vi	的:T	紅蘿蔔:N	和:C	蘋果:N	鳳梨:N	等:POST	切丁:N	
+再:ADV	淋:Vt	上:POST	開胃:Vi	清爽:Vi	的:T	優格:N	醬:N	
+沒想到:ADV	這:DET	骰子:N	大小:N	的:T	是:Vt	鮭魚:N	切丁:N	
+和:P	過去:N	常:ADV	吃:Vt	的:T	燻:Nv	鮭魚:N	沙拉:N	好吃:Vi	太多:Vi	
+這:DET	道:M	很:ADV	適合:Vi	女生:N	來:ADV	吃:Vt	
+除了:P	拿:Vt	湯匙:N	大力:ADV	啃:Vt	食:N	
+還可以:ADV	小巧:Vi	裝添:N	在:P	洋芋:N	片:N	上:N	
+蠻:ADV	接近:Vi	西班牙:N	Tapas:FW	吃法:N	
+我:N	從來:ADV	沒:ADV	想:Vt	過:ASP	洋芋片:N	和:C	燻:Nv	鮭魚:N	這麼:ADV	搭:Vt	
+炸:Vt	或:C	烤:Vt	至:P	脆口:N	的:T	洋芋片:N	和:C	鮮甜:Vi	鮭魚:N	真的:ADV	非常:ADV	正點:Vi	
+現在:N	回想:Vt	起來:ASP	還是:ADV	會:ADV	流:Vt	口水:N	...:ETCCATEGORY	
+海:N	豬腳:N	NT:FW	.:PERIODCATEGORY	120:DET	
+它:N	來自:Vt	台東:N	
+要:ADV	預約:Vt	才:ADV	有:Vt	唷:T	
+當:P	鮪魚:N	肚:N	作為:Vt	刺身:N	
+所:ADV	留下:Vt	膠質:N	肥厚:Vi	的:T	尾部:N	就:ADV	是:Vt	海:N	豬腳:N	啦:T	
+經由:P	師傅:N	特製:Nv	紅燒:Nv	料理:N	
+無:Vt	腥:Vi	好:Vi	下:Vt	飯:N	
+單:ADV	吃:Vt	若:C	嫌:Vt	膩:Vi	的:T	話:N	
+和:C	老闆:N	要:Vt	碗:N	白飯:N	吧:T	
+攪和:Vt	白飯:N	成為:Vt	好吃:Vi	魚鬆飯:N	呢:T	
+中卷鹽燒:N	NT:FW	.:PERIODCATEGORY	280:DET	
+鹽燒:N	後:POST	的:T	中卷:N	鋪:Vt	在:P	芥末:N	籽醬:N	上頭:N	
+我:N	個:M	人:N	並:C	不:ADV	偏愛:Vt	中:ASP	卷:M	
+但:C	鹽:N	燒到:Vt	酥脆:Vi	的:T	中卷頭沾:Vt	點:M	芥末:N	籽醬:N	
+真的:ADV	是:Vt	讓:Vt	無:Vt	風:N	的:T	夏日:N	夜晚:N	帶來:Vt	爽勁:Vi	
+陶板:N	牛:N	菲力:N	起司:N	NT:FW	.:PERIODCATEGORY	350:DET	
+有:Vt	一點:DET	像:Vt	紅酒:N	燉:Vt	牛肉:N	
+將:P	牛肉:N	煎:Vt	到:P	外表:N	已:ADV	熟:Vi	丟入:Vt	高溫:N	陶板:N	將:ADV	鮮:Vi	甜:Vi	肉汁:N	鎖住:Vt	
+以:P	洋蔥:N	和:C	起:Vt	司:N	和:C	菲力:N	牛塊:N	XD:FW	墊底:Vi	
+並:C	淋上:Vt	日式:A	醬油:N	、:PAUSECATEGORY	味醂:N	與:C	特製:Nv	醬料:N	做成:Vt	的:T	醬汁:N	
+再:ADV	以:P	加熱:Vi	的:T	陶板:N	上桌:Vi	
+口感:N	肥:Vt	腴:b	的:T	菲力:N	牛塊:N	
+軟嫩:Vi	多汁:Vi	肉香:N	還:ADV	有:Vt	起:POST	司:Vt	奶:N	香:Vi	
+非常:ADV	好吃:Vi	
+鍬燒:N	
+聽:Vt	老闆:N	說:Vt	是:Vt	非常:ADV	傳統:Vi	的:T	日本:N	鄉間:N	料理:N	
+如果:C	到:P	日本:N	鄉下:N	
+就:ADV	可以:ADV	遇上:Vt	這麼:Vi	道鍬:N	燒:Vt	
+表面:N	微微:ADV	酥炸:Vi	後:POST	的:T	雞:N	翅:N	
+先:ADV	裹上:Vt	炸:Vt	衣:N	油炸:Vt	鎖住:Vt	肉汁:N	甜味:N	
+運用:Vt	日式:A	醬汁:N	提味:N	與:C	豐富:Vt	蔬果:N	的:T	清爽:Vi	陪襯:Vt	
+就是:C	鍬燒:N	醬:N	
+比目魚:N	緣側:N	、:PAUSECATEGORY	鮭魚:N	、:PAUSECATEGORY	紅甘:N	
+現:ADV	磨:Vt	的:T	山葵:N	和:C	經由:P	昆布:N	熬煮:Vt	後:POST	的:T	日式:A	醬油:N	
+任何:DET	生魚片:N	沾:Vt	取:Vt	都:ADV	能:ADV	更:ADV	添:Vt	風味:N	
+接著:ADV	
+老闆娘:N	幫:P	我們:N	上:DET	一:DET	副:M	新:Vi	的:T	碗筷:N	
+很:ADV	像:Vt	漏斗:N	、:PAUSECATEGORY	頗:ADV	具:Vt	禪意:N	色澤:N	的:T	瓷器:N	
+美人湯:N	
+以青:N	木瓜:N	
+切:Vt	超大:A	塊:M	
+和:C	豐富:Vt	蔬果:N	熬煮:Vt	
+看看:Vt	湯頭:N	已經:ADV	呈現:Vt	高湯:N	的:T	奶:N	白色:N	
+溫熱:Vt	滋潤:Nv	感覺:N	就:ADV	會:ADV	越:ADV	喝:Vt	越:ADV	美麗:Vi	

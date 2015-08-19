@@ -1,0 +1,302 @@
+billowlin:FW	(:PARENTHESISCATEGORY	胖胖:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	【:PARENTHESISCATEGORY	台北:N	】:PARENTHESISCATEGORY	捷運站:N	附近:N	秘密:N	樂園:N	~:FW	大樹:N	先生:N	的:T	家:N	
+Thu:FW	
+Jul:FW	
+24:DET	
+23:DET	::COLONCATEGORY	45:DET	::COLONCATEGORY	24:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	大樹:N	先生:N	的:T	家:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	4月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	潮州街:N	38:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	3393:DET	-:DASHCATEGORY	3313:DET	（:PARENTHESISCATEGORY	欲:Vt	訂位:Nv	者:N	，:COMMACATEGORY	請:Vt	於:P	11:DET	::COLONCATEGORY	00:DET	am:FW	~:FW	8:DET	::COLONCATEGORY	30:DET	pm:FW	致電:Vt	）:PARENTHESISCATEGORY	
+營業:Nv	時間:N	：:COLONCATEGORY	午餐:N	時段:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	30:DET	
+清場:Vi	整理:Vt	時間:N	
+午茶:N	時段:N	：:COLONCATEGORY	15:DET	::COLONCATEGORY	00:DET	~:FW	17:DET	::COLONCATEGORY	30:DET	
+清場:Vi	整理:Vt	時間:N	
+晚餐:N	時段:N	：:COLONCATEGORY	18:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	
+六:DET	歲:M	以上:POST	低消:N	NT:FW	$:FW	180:DET	+:FW	10:DET	%:M	服務費:N	
+六:DET	歲:M	以下:POST	清潔費:N	NT:FW	$:FW	150:DET	
+清潔費:N	為:P	室:N	內外:N	遊戲區:N	清潔:Nv	和:C	安全:Nv	維護:Nv	需要:N	，:COMMACATEGORY	清潔費:N	不:ADV	抵:Vt	任何:DET	低消:N	．:PERIODCATEGORY	
+包場:N	全:DET	場:M	價格:N	為:Vt	50,:NULL	000:DET	(:PARENTHESISCATEGORY	含:Vt	60:DET	人:N	餐:N	):PARENTHESISCATEGORY	;:SEMICOLONCATEGORY	玻璃屋:N	包廂:N	價格:N	
+為:Vt	20,:NULL	000:DET	(:PARENTHESISCATEGORY	含:Vt	25:DET	人:N	餐:N	):PARENTHESISCATEGORY	,:COMMACATEGORY	詳情:N	請:Vt	店洽:Vt	。:PERIODCATEGORY	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+無:Vt	音樂:N	好:Vi	讀:Vt	網誌版:N	::COLONCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	iamhappy88.com/mr-tree:FW	38:DET	-:DASHCATEGORY	20140416:DET	/:FW	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	文字版:N	心得:N	::COLONCATEGORY	有:Vt	一:DET	句:M	廣告詞:N	是:Vt	這麼:ADV	說:Vt	的:T	：:COLONCATEGORY	
+像:P	大:Vi	樹:N	一樣:Vi	高:Vi	
+不過:C	
+筆者:N	不:ADV	是:Vt	要:ADV	介紹:Vt	
+奶粉:N	
+更:ADV	不:ADV	是:Vt	要:ADV	推薦:Vt	
+保險:N	
+而是:C	一:DET	家:M	在:P	2014年:N	3月:N	新開幕:Vi	的:T	親子:N	餐廳:N	
+由於:C	位在:Vt	台北:N	古亭:N	捷運站:N	附近:N	
+交通:N	方便:Vi	
+又:ADV	具備:Vt	優美:Vi	的:T	庭園:N	與:C	寬廣:Vi	的:T	兒童:N	遊戲場:N	
+因此:C	也:ADV	造成:Vt	了:ASP	開幕:Vi	期間:N	一:DET	位:M	難:Vi	求:Vt	的:T	盛況:N	
+到底:ADV	是:Vt	什麼:DET	地方:N	具有:Vt	如此:ADV	超凡:Vi	的:T	魅力:N	呢:T	
+原來:ADV	它:N	就:ADV	是:Vt	
+大樹:N	先生:N	的:T	家:N	
+大樹:N	先生:N	的:T	家:N	
+位在:Vt	潮州:N	街:N	上:N	
+若:C	您:N	是:Vt	搭乘:Vt	捷運:N	前來:Vt	
+可:ADV	至:P	捷運:N	古亭:N	站:Vi	下車:Vi	
+再:ADV	從:P	六:DET	號:M	出口:N	步行:Vi	到:P	此:DET	大約:ADV	5:DET	分鐘:M	的:T	路程:N	
+如上圖:N	
+從:P	外觀:N	看來:ADV	
+若:C	不:ADV	特別:Vi	注意:Vt	招牌:N	
+或許:ADV	您:N	會:ADV	誤以為:Vt	是:Vt	深處:N	住宅區:N	裡:N	的:T	豪宅:N	別墅:N	
+如上圖:N	
+餐廳:N	大門:N	前:POST	的:T	告示牌:N	
+清楚:Vi	的:T	標明:Vt	入場:Vi	的:T	相關:Vi	資訊:N	
+如上圖:N	
+這:DET	個:M	看似:Vt	小:Vi	狗:N	的:T	裝飾:N	
+其實:ADV	它:N	有:Vt	個:M	名字:N	叫:Vt	
+PonyChair:FW	
+小:Vi	狗:N	椅:N	
+據說:ADV	它:N	是:Vt	從:P	芬蘭:N	的:T	EeroAarnioStudio:FW	直接:Vi	運抵:Vt	台灣:N	的:T	喔:T	
+PonyChair:FW	
+的:T	原創:Nv	設計:N	者:N	
+來自:Vt	芬蘭:N	的:T	EeroAarnio:FW	曾:ADV	說:Vt	：:COLONCATEGORY	
+椅子:N	就:ADV	是:Vt	椅子:N	
+一:DET	張:M	椅子:N	
+不過:C	一:DET	個:M	『:PARENTHESISCATEGORY	座位:N	』:PARENTHESISCATEGORY	並:C	不一定:ADV	就:ADV	得:ADV	是:Vt	一:DET	張:M	椅子:N	
+它:N	可以:ADV	是:Vt	任何:DET	物體:N	
+只要:C	它:N	符合:Vt	良好:Vi	的:T	人體工學:N	設計:N	
+所以:C	一:DET	匹:M	可:ADV	坐:Vi	可:ADV	騎:Vt	的:T	可愛:Vi	小馬:N	
+也:ADV	是:Vt	舒適:Vi	的:T	座位:N	
+因此:C	
+他:N	並未:ADV	將:ADV	
+PonyChair:FW	
+限定為:Vt	兒童:N	家具:N	
+他:N	單純:Vi	就:ADV	想:Vt	做出:Vt	一:DET	個:M	舒適:Vi	的:T	座位:N	而已:T	
+資料:N	轉:Vt	摘自:Vt	餐廳:N	官網:N	
+像:P	這樣:Vi	可愛:Vi	的:T	
+PonyChair:FW	
+在:P	餐廳:N	內:N	有:Vt	好幾:DET	個:M	
+而且:C	五顏六色:N	均:ADV	有:Vt	
+可見:ADV	餐廳:N	主人:N	在:P	佈置:Vt	上:POST	的:T	講究:Vt	
+餐廳:N	前院:N	的:T	花圃:N	也:ADV	裁:Vt	種:Vt	了:ASP	各:DET	式:M	美麗:Vi	的:T	花卉:N	
+如上圖:N	
+花圃:N	旁:N	還:ADV	有:Vt	個:M	
+S:FW	造型:N	
+休憩:Vi	座位區:N	
+如上圖:N	
+座位區:N	的:T	對面:N	就:ADV	是:Vt	小朋友:N	們:N	相當:ADV	喜愛:Vt	的:T	
+戶外:N	遊戲區:N	
+如上圖:N	
+戶外:N	遊戲區:N	
+中:N	最:ADV	主要:A	的:T	一:DET	項:M	遊樂:Nv	設施:N	
+溜滑梯:N	
+如上圖:N	
+或許:ADV	是:Vt	庭園:N	裡:N	大:Vi	樹:N	林立:Vi	
+餐廳:N	主人:N	才:ADV	因此:C	取名為:Vt	
+大樹:N	先生:N	的:T	家:N	
+吧:T	
+S:FW	造型:N	
+休憩:Vi	座位區:N	旁:N	其實:ADV	還:ADV	有:Vt	個:M	小:Vi	餐桌:N	可:ADV	供:Vt	休息:Vi	
+如上圖:N	
+夜晚:N	時:POST	
+S:FW	造型:N	
+休憩:Vi	座位區:N	亮起:Vt	燈:N	來:ADV	
+氣氛:N	是:Vt	不:ADV	是:Vt	更:ADV	顯:Vt	特別:Vi	呢:T	
+如上圖:N	
+位在:Vt	
+戶外:N	遊戲區:N	
+旁:N	還:ADV	有:Vt	一:DET	間:M	獨立:Vi	的:T	用餐:Nv	包廂:N	
+如上圖:N	
+包廂:N	的:T	隔壁:N	則:ADV	是:Vt	
+沙坑區:N	
+如上圖:N	
+沙坑:N	裡:POST	已:ADV	備有:Vt	許多:DET	挖:Vt	沙:N	玩具:N	
+小朋友:N	可以:ADV	藉:P	此:DET	樂在其中:Vi	
+從:P	用餐:Nv	包廂:N	裡:N	的:T	沙發:N	上:N	
+也:ADV	可以:ADV	透過:P	大:Vi	片:M	玻璃窗:N	清楚:Vi	的:T	觀:N	看到:Vt	沙坑:N	裡:N	的:T	活動:N	情形:N	
+這:DET	對:M	父母:N	來:ADV	說:Vt	
+實在:ADV	貼心:Vi	
+如上圖:N	
+接著:ADV	我們:N	準備:Vt	進入:Vt	餐廳:N	裡:N	
+如上圖:N	
+進入:Vt	餐廳:N	之前:POST	
+順:P	帶:Vt	介紹:Vt	一下:N	
+餐廳:N	在:P	小:Vi	細節:N	上:N	的:T	努力:Nv	
+像:Vt	是:Vt	這:DET	座:M	無:Vt	障礙式:N	的:T	坡道:N	
+對:P	有:Vt	推:Vt	娃娃車:N	的:T	家長:N	們:N	而言:Vt	
+就是:C	一:DET	大:Vi	福音:N	
+如上圖:N	
+推上:Vt	來:Vi	的:T	娃娃車:N	可:ADV	停放:Vt	在:P	此:DET	
+而:C	一:DET	旁:N	也:ADV	提供:Vt	傘桶:N	可:ADV	放置:Vt	雨傘:N	
+如上圖:N	
+入:Vt	內:N	前:DET	
+工作:N	人員:N	還:ADV	會:ADV	仔細:Vi	的:T	為:P	所有:DET	即將:ADV	進入:Vt	的:T	客人量:N	體溫:N	
+以:C	確保:Vt	健康:Vi	安全:Vi	
+餐廳:N	內:N	的:T	佈置:Nv	相當:ADV	明亮:Vi	清新:Vi	
+如上圖:N	
+用餐:Vi	座位區:N	也:ADV	十分:ADV	寬敞:Vi	
+如上圖:N	
+用餐:Vi	前:POST	
+工作:N	人員:N	也:ADV	會:ADV	幫:P	需要:N	的:T	孩子:N	們:N	事先:ADV	準備好:Vt	
+兒童餐椅:N	
+如上圖:N	
+往:P	內:N	走:Vi	便:ADV	是:Vt	結帳:Vi	的:T	櫃台:N	
+如上圖:N	
+可愛:Vi	的:T	車車:N	造型:N	是:Vt	不:ADV	是也:ADV	很:ADV	討喜:Vi	呢:T	
+櫃台:N	旁:N	則:ADV	是:Vt	廁所:N	
+在:P	這裡:N	也:ADV	提供:Vt	了:ASP	許多:DET	兒童:N	親善:A	設施:N	
+如:C	將:ADV	洗手:Vi	台:N	區分為:Vt	大人:N	與:C	小孩:N	高低:Nv	二:DET	區:N	
+如上圖:N	
+還:ADV	有:Vt	提供:Vt	了:ASP	二:DET	間:M	親子式:N	的:T	廁所:N	
+如上圖:N	
+親子:N	廁所:N	內:N	還:ADV	有:Vt	尿布台:N	
+也:ADV	貼心:Vi	了:ASP	準備:Vt	小:Vi	凳子:N	供:Vt	孩童:N	利用:Vt	
+如上圖:N	
+在:P	介紹:Vt	室:N	內:N	的:T	兒童:N	遊戲區:N	前:N	
+我們:N	先:ADV	來:ADV	看看:Vt	這裡:N	提供:Vt	了:ASP	哪些:DET	餐點:N	
+如上圖:N	
+我們:N	今晚:N	準備:Vt	點:Vt	了:ASP	：:COLONCATEGORY	藍:N	帶:Vt	豬排:N	咖哩飯:N	套餐:N	
+含:Vt	主廚:N	沙拉:N	、:PAUSECATEGORY	精選:Vt	主廚湯:N	、:PAUSECATEGORY	飲料:N	
+以及:C	單:A	點:Vt	一:DET	份:M	青醬:N	鮮蝦:N	干貝:N	義大利麵:N	
+主廚:N	沙拉:N	
+如上圖:N	
+鮮:Vi	脆:Vi	爽口:Vi	
+精選:Vt	主廚湯:N	
+南瓜:N	濃湯:N	
+以及:C	飲料:N	
+無糖:N	綠茶:N	
+如上圖:N	
+值得:Vi	一:ADV	提:Vt	的:T	是:Vt	這:DET	南瓜:N	濃湯:N	
+奶香:N	四溢:Vi	
+南瓜:N	也:ADV	濃郁:Vi	香醇:Vi	
+美味:Vi	順口:Vi	
+藍:N	帶:Vt	豬排:N	咖哩飯:N	
+如上圖:N	
+除了:P	主菜:N	的:T	藍:Vi	帶:Vt	豬排:N	外:POST	
+還:ADV	附上:Vt	了:ASP	些許:DET	的:T	彩椒:N	、:PAUSECATEGORY	蕃茄:N	與:C	小黃瓜:N	
+這:DET	藍:Vi	帶:Vt	豬排:N	裡:POST	還:ADV	包:Vt	著:ASP	一:DET	片:M	起:POST	士:N	火腿:N	
+口感:N	紮實:Vi	
+外酥肉軟:Vi	
+配上:Vt	那:DET	香:N	濃:Vi	而:C	不:ADV	辣:Vi	的:T	咖哩醬:N	
+實在:ADV	讓:Vt	人:N	一口:ADV	接著:ADV	一口:ADV	無法:ADV	自拔:Vi	
+如上圖:N	
+青醬:N	鮮蝦:N	干貝:N	義大利麵:N	
+如上圖:N	
+這:DET	道:M	青醬:N	鮮蝦:N	干貝:N	義大利麵:N	
+裡頭:N	大概:ADV	有:Vt	三:DET	、:PAUSECATEGORY	四:DET	隻:M	已:ADV	剝:Vt	殼:N	如:P	食指:N	般:POST	大小:N	的:T	蝦子:N	
+還:ADV	有:Vt	未:ADV	仔細:Vi	數:Vt	過:ASP	的:T	數:DET	顆:M	干貝:N	
+另外:C	再:ADV	配上:Vt	一些:DET	彩椒丁:N	、:PAUSECATEGORY	松子:N	與:C	甜豆:N	
+食材:N	新鮮:Vi	豐富:Vt	而:C	實在:ADV	
+如上圖:N	
+另外:C	
+這:DET	青醬式:A	的:T	義大利麵:N	屬:Vt	比較:Nv	乾式:N	的:T	做法:N	
+吃起來:ADV	不:ADV	像:P	其它:DET	家:N	的:T	義式:A	青醬:N	那般:ADV	濕潤:Vi	
+吃下:Vt	第一:DET	口:M	
+令:Vt	我:N	不禁:Vt	想起:Vt	另:DET	一:DET	家:M	親子:N	餐廳:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/tigSPu:FW	
+因為:C	他們:N	二:DET	者:N	的:T	青醬:N	滋味:N	有:Vt	著:ASP	相似:Vi	之:T	處:N	
+然而:C	將:P	湯汁:N	收乾:Vi	後:POST	
+並未:ADV	使得:Vt	麵條:N	軟:Vi	爛:Vi	
+反而:C	口感:N	硬:Vi	Q:FW	具:Vt	嚼:Vt	勁:N	
+再者:C	
+其:DET	湯汁:N	並未:ADV	完全:ADV	收乾:Vi	
+依然:ADV	保有:Vt	些許:DET	在:P	麵:N	底:POST	
+因此:C	不致於:ADV	入口:Vi	不易:Vi	
+我:N	蠻:ADV	喜歡:Vt	這樣子:Vi	的:T	烹調:Nv	方式:N	
+不:ADV	曉得:Vt	您:N	呢:T	
+用餐:Vi	完畢:Vi	
+準備:Vt	向:P	室:N	內:N	的:T	兒童:N	遊戲區:N	
+大樹:N	遊樂場:N	
+邁進:Vt	
+如上圖:N	
+進入:Vt	遊戲區:N	前:N	
+得:ADV	經:P	工作:N	人員:N	將:P	雙手:N	消毒:Nv	
+並且:C	大人:N	進入:Vt	遊戲區:N	需:ADV	穿:Vt	襪:N	
+而:C	小朋友:N	可以:ADV	穿:Vt	或:C	不:ADV	穿:Vt	
+如上圖:N	
+進入:Vt	遊戲區:N	後:POST	可:ADV	將:P	鞋子:N	置於:Vt	一:DET	旁:N	的:T	鞋櫃:N	
+在:P	這裡:N	也:ADV	擺放:Vt	了:ASP	些許:DET	的:T	童書:N	供:Vt	孩子:N	們:N	借閱:Vt	
+如上圖:N	
+室:N	內:N	遊戲區:N	中:N	
+佔地:Vt	最:ADV	大:Vi	且:C	最:ADV	受:Vt	孩子:N	們:N	歡迎:Vt	的:T	
+應:ADV	屬:Vt	這:DET	座:M	大型:N	球池:N	溜滑梯:Vi	
+如上圖:N	
+孩子:N	們:N	可:ADV	在:P	這:DET	城堡:N	造型:N	的:T	球池:N	裡:N	
+恣意:ADV	奔跑:Vi	玩樂:Vi	
+如上圖:N	
+若:C	家長:N	們:N	想:Vt	邊:N	用餐:Vi	邊:N	看顧:Vt	小朋友:N	在:P	遊戲區:N	裡:N	的:T	情形:N	
+則:ADV	可:ADV	選擇:Vt	球池:N	旁:N	的:T	座位區:N	
+如上圖:N	
+若是:C	坐:Vi	在:P	這:DET	個:M	角度:N	
+則:ADV	可:ADV	隱約:ADV	看顧:Vt	的:T	到:Vt	
+如上圖:N	
+球池:N	的:T	隔壁:N	為:Vt	0:DET	
+24:DET	個:M	月:N	小小:Vi	幼兒:N	專區:N	
+如上圖:N	
+這裡:N	也:ADV	設置:Vt	了:ASP	一:DET	座:M	迷你:Vi	球池:N	供:Vt	小小:Vi	幼兒:N	玩耍:Vi	
+當然:ADV	還:ADV	有:Vt	簡易:Vi	的:T	爬行:Nv	坡道:N	、:PAUSECATEGORY	小型:N	溜滑梯:N	與:C	盪鞦韆:Vi	
+如上圖:N	
+也:ADV	有:Vt	一些:DET	適合:Vi	幼兒:N	的:T	玩具組:N	
+如上圖:N	
+熟悉:Vt	的:T	
+PonyChair:FW	
+小:Vi	狗:N	椅:N	
+又:ADV	出現:Vi	了:T	
+一:DET	旁:N	還:ADV	有:Vt	個:M	剪刀:N	造型:N	裝飾:N	
+十分:ADV	可愛:Vi	
+如上圖:N	
+在:P	造型:N	剪刀:N	旁:N	則:ADV	有:Vt	許多:DET	軌道:N	火車:N	可:ADV	讓:Vt	小朋友:N	們:N	把玩:Vt	
+如上圖:N	
+再:ADV	往:P	前:N	走:Vi	
+另:DET	一:DET	個:M	會:ADV	讓:Vt	小朋友:N	驚喜:Vi	尖叫:Vt	的:T	地方:N	
+就是:C	這兒:N	
+六:DET	套:M	的:T	MotherGarden:FW	大型:N	廚房:N	玩具組:N	
+如上圖:N	
+另外:C	
+桌子:N	上:POST	也:ADV	備有:Vt	一:DET	系列:N	的:T	MotherGarden:FW	玩具:N	
+如上圖:N	
+讓:Vt	孩子:N	們:N	彷彿:ADV	進入:Vt	了:ASP	夢幻:N	的:T	玩具:N	世界:N	裡:N	
+別:ADV	以為:Vt	就:ADV	只有:ADV	上面:N	那些:DET	玩具:N	喔:T	
+在:P	門:N	外:POST	
+還:ADV	有:Vt	一:DET	區:N	兒童:N	玩具:N	農場:N	
+讓:Vt	小朋友:N	們:N	實習:Vi	怎麼:ADV	當:Vt	個:M	農夫:N	吧:T	
+如上圖:N	
+整:DET	個:M	室:N	內:N	遊戲區:N	相當:ADV	寬敞:Vi	
+足以:Vt	讓:Vt	孩子:N	們:N	在:P	此:DET	流連忘返:Vi	了:ASP	
+如上圖:N	
+看完:Vt	這:DET	篇:M	心得:N	之後:POST	
+心動:Vi	了:T	嗎:T	
+心得:N	總結:N	：:COLONCATEGORY	就:ADV	
+大樹:N	先生:N	的:T	家:N	
+整體:N	環境:N	看來:ADV	
+不論:C	是:Vt	遊戲:N	設施:N	的:T	豐富性:N	、:PAUSECATEGORY	場地:N	的:T	大小:N	、:PAUSECATEGORY	環境:N	生:Vt	的:T	維持:Nv	、:PAUSECATEGORY	以及:C	完善:Vi	的:T	兒童:N	親善:A	設施:N	
+再再:ADV	都:ADV	具備:Vt	不錯:Vi	的:T	水準:N	
+另外:C	
+服務:Nv	人員:N	個個:DET	態度:N	積極:Vi	
+親切:Vi	友善:Vi	
+送:Vt	餐:N	、:PAUSECATEGORY	收拾:Vt	桌面:N	有:Vt	效率:N	
+遊戲區:N	內:N	的:T	人員:N	也:ADV	相當:ADV	注意:Vt	場:N	內:N	小朋友:N	的:T	活動:N	情形:N	而:C	給予:Vt	照顧:Vt	
+再:ADV	就餐:Vi	點:N	上:POST	來:ADV	說:Vt	
+個:M	人:N	覺得:Vt	食材:N	新鮮:Vi	、:PAUSECATEGORY	烹調:Vt	的:T	手法:N	與:C	滋味:N	也:ADV	很:ADV	對味:Vi	
+是:Vt	我們:N	所:ADV	喜愛:Vt	的:T	料理:N	
+因此:C	
+這裡:N	相當:ADV	適合:Vi	六:DET	歲:M	以下:POST	親子:N	家庭:N	來:ADV	此:DET	聚會:N	聚餐:Vi	
+當然:ADV	幫:P	孩子:N	們:N	舉辦:Vt	個:M	生日:N	派對:N	或是:C	親子:N	派對:N	也:ADV	是:Vt	個:M	不錯:Vi	的:T	選擇:N	
+然而:C	
+由於:C	這裡:N	交通:N	方便:Vi	、:PAUSECATEGORY	設施:N	完善:Vi	
+因此:C	開幕:Vi	至:P	此:DET	
+天天:ADV	客滿:Vi	
+所以:C	有:Vt	興趣:N	的:T	朋友:N	們:N	得:ADV	極早:ADV	預約:Vt	
+以免:C	向隅:Vi	
+最後:N	
+官網:N	上:N	稱:Vt	這裡:N	是:Vt	
+台北市:N	中心:N	最:ADV	夢幻:N	的:T	6:DET	歲:M	以下:POST	親子:N	餐廳:N	
+不:ADV	知:Vt	就:ADV	您:N	看來:ADV	
+這:DET	間:M	網路:N	人氣:N	超夯:N	、:PAUSECATEGORY	超:Vt	熱門:Vi	的:T	親子:N	餐廳:N	是否:ADV	符合:Vt	您:N	的:T	期待:Nv	呢:T	
+找:Vt	個:M	時間:N	看看:Vt	吧:T	
+謝謝:Vt	您:N	耐心:ADV	看完:Vt	
+--:DASHCATEGORY	歡迎:Vt	光臨:Vt	
+我:N	是:Vt	樂:Vi	爸:N	
+Jeffery:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	feeds.feedburner.com/JefferyPixnet:FW	--:DASHCATEGORY	

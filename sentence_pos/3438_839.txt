@@ -1,0 +1,180 @@
+windfree:FW	(:PARENTHESISCATEGORY	小:Vi	宅:N	檸檬:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北市:N	中正區:N	。:PERIODCATEGORY	勺勺:DET	客:N	@:FW	有:Vt	特色:N	又:ADV	好吃:Vi	
+Tue:FW	
+Aug:FW	
+19:DET	
+15:DET	::COLONCATEGORY	56:DET	::COLONCATEGORY	43:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	勺勺:DET	客:N	陝西:N	料理:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中正區:N	仁愛路:N	二段:N	41巷:N	15:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2351:DET	-:DASHCATEGORY	7148:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	–:FW	14:DET	::COLONCATEGORY	30,:NULL	17:DET	::COLONCATEGORY	30:DET	–:FW	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	4:DET	、:PAUSECATEGORY	500:DET	元:M	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	無:Vt	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	龍:N	穿:Vt	鳳翼:N	、:PAUSECATEGORY	燒魚梅:N	、:PAUSECATEGORY	醋:N	溜:Vi	土豆:N	絲:N	、:PAUSECATEGORY	蒙古:N	炸:Vt	奶:N	豆腐:N	、:PAUSECATEGORY	泡饃:N	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.shaoshaoke.com/index.html:FW	
+圖文:N	部落格:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	evisko.pixnet.net/blog/post:FW	/:FW	167864412:DET	炎熱:Vi	夏天:N	本:ADV	應該:ADV	介紹:Vt	冰品:N	讓:Vt	客官:N	們:N	消暑:Vi	卻:ADV	反其道而行:Vi	
+來到:Vt	大漠:N	料理:Vt	餐館:N	
+這:DET	是:Vt	何故:ADV	
+那:DET	還:ADV	用:P	說:Vt	當然:ADV	是:Vt	因為:C	嘴饞:Vi	啦:T	
+勺勺:DET	客:N	料理:Vt	口味:N	最:ADV	是:Vt	特別:Vi	
+有:Vt	許多:DET	平常:N	在:P	其他:DET	餐廳:N	吃:Vt	不:ADV	到:Vt	的:T	大菜:N	、:PAUSECATEGORY	名:A	菜:N	
+而且:C	素來:ADV	假日:N	訂位:Vi	也:ADV	不:ADV	容易:Vi	
+能夠:ADV	與:P	三五:DET	好友:N	相約:Vi	在:P	此:DET	吃:Vt	肉:N	飲茶:Vi	
+自然:ADV	是:Vt	人生:N	一:DET	件:M	樂事:N	
+搧風:Vi	
+談起:Vt	勺勺:DET	客:N	前:POST	
+當然:ADV	也:ADV	不得不:ADV	提起:Vt	位在:Vt	國父:N	紀念館站:N	附近:N	的:T	
+秦味館:N	
+兩:DET	家:M	都:ADV	是:Vt	陝西:N	料理:N	
+怪哉:ADV	
+這:DET	種:M	冷門:Vi	料理:N	為何:ADV	會:ADV	開:Vt	兩:DET	家:M	
+且:C	兩:DET	家:M	口味:N	都:ADV	很:ADV	不:ADV	賴:Vt	也:ADV	各:ADV	有:Vt	擁護:Vt	者:N	
+讓:Vt	鍵盤:N	柯南:N	來:ADV	告訴:Vt	大家:N	：:COLONCATEGORY	原來:ADV	
+勺勺:DET	客:M	老闆:N	是:Vt	姊姊:N	
+而:C	秦味館:N	老闆:N	則:ADV	是:Vt	弟弟:N	
+兩:DET	店:N	的:T	裝潢:N	氣氛:N	各有千秋:Vi	
+口味:N	據說:ADV	也:ADV	是:Vt	略:ADV	有:Vt	不同:Vi	
+勺勺:DET	客:N	的:T	口味:N	較為:ADV	偏重:Vt	
+勺勺:DET	客:N	的:T	裝潢:N	是:Vt	以:P	陝西:N	的:T	特色:N	民居:N	
+窯洞:N	
+為:P	出發:Vi	
+地面:N	方:N	天:M	花:Vt	圓:Vi	
+有:Vt	取:Vt	天:M	方地圓:N	之:T	說:Vt	的:T	概念:N	
+不過:C	勺勺:DET	客:N	只是:ADV	做:Vt	了:ASP	拱門:N	啦:T	
+牆壁:N	上:POST	則:ADV	簽滿:Vt	了:ASP	吃:Vt	過:ASP	饕客:N	的:T	大名:N	
+頗:ADV	有:Vt	大家:N	到:P	此:DET	一:ADV	遊:Vt	的:T	興味:N	
+桌椅:N	以:P	名:A	店:N	角度:N	來:ADV	看:Vt	是:Vt	簡單:Vi	了:ASP	些:ADV	
+但:C	如果:C	是:Vt	要:ADV	表顯:Vt	陝西:N	民居:N	的:T	簡樸:Vi	
+是:Vt	可以:ADV	興然:Vi	接受:Vt	的:T	
+陝西:N	的:T	窯洞:N	
+本:ADV	就:ADV	會:ADV	抹:Vt	石灰:N	上:N	牆:N	
+這樣:Vi	會:ADV	顯得:Vt	牆白:N	明亮:Vi	
+也:ADV	會:ADV	在:P	牆:N	上:N	貼上:Vt	有:Vt	圖畫:N	的:T	紙:N	或是:C	拼貼:Nv	的:T	畫:N	
+沒想到:ADV	勺勺:DET	客:N	還:ADV	真:ADV	複製:Vt	了:ASP	一:DET	番:M	
+讓:Vt	整:DET	個:M	餐廳:N	非常:ADV	有:Vt	特色:N	
+不管:C	餐廳:N	開:Vt	多:ADV	久:Vi	都:ADV	能:ADV	保持:Vt	這:DET	種:M	簡樸:Vi	的:T	陝西:N	風格:N	且:C	不會:ADV	違和:Vi	
+是:Vt	真的:ADV	有點:ADV	看膩:Vt	了:ASP	其他:DET	餐廳:N	的:T	工業:N	風:N	.......:ETCCATEGORY	
+菜單:N	一:ADV	翻開:Vt	
+滿滿:Vi	令:Vt	人:N	目不暇給:Vi	的:T	大菜:N	
+讓:Vt	人:N	無從:ADV	選擇:Vt	
+還好:ADV	點菜:Vi	小:Vi	秘書:N	已經:ADV	幫忙:Vt	點:Vt	了:ASP	很多:DET	菜單:N	上:N	沒有:Vt	的:T	隱藏:Nv	菜色:N	
+容:Vt	後:POST	可以:ADV	好好:Vi	介紹:Vt	
+▲:FW	小菜:N	還:ADV	沒:ADV	點:Vt	餐:N	就:ADV	放:Vt	在:P	桌:N	上:POST	供:Vt	享用:Vt	的:T	黃:N	豆芽:N	是:Vt	也:ADV	
+是:Vt	清爽:Vi	消暑:Vi	的:T	一:DET	道:M	開胃:Vi	小菜:N	
+▲:FW	泡饃:N	店員:N	會:ADV	先:ADV	上:Vt	完整:Vi	泡饃:N	
+然後:ADV	讓:Vt	我們:N	以:P	手:N	將:P	泡饃:N	撕成:Vt	小:Vi	瓣:M	
+店員:N	將:ADV	撕:Vt	好:Vi	的:T	泡饃:N	收走:Vt	烹調:Nv	後:POST	才:ADV	再:ADV	上桌:Vi	
+▲:FW	葫蘆:N	頭:N	鮮:Vi	湯:N	+:FW	泡饃:N	
+160:DET	元:M	以:P	全雞:N	、:PAUSECATEGORY	肘肉:N	、:PAUSECATEGORY	肋排熬:N	煮:Vt	的:T	湯頭:N	
+豬肉:N	味道:N	特:ADV	濃:Vi	
+有:Vt	人:N	會:ADV	覺得:Vt	很:ADV	香:Vi	也:ADV	有:Vt	人:N	覺得:Vt	很:ADV	臭:Vi	
+歪腰:N	
+我:N	個:M	人:N	是:Vt	覺得:Vt	蠻:ADV	好喝:Vi	頗:ADV	鮮:Vi	香:Vi	
+如果:C	怕:Vt	豬:N	騷:Vi	味:N	太:ADV	重:Vi	
+也:ADV	可以:ADV	點:Vt	雙紅鮮湯:N	
+牛肉:N	為主:Vi	
+或:C	燒:Vt	羊肉:N	鮮:Vi	湯:N	
+泡饃:N	吃:Vt	不:ADV	慣:Vt	也:ADV	可以:ADV	選擇:Vt	冒:Vt	":FW	食合:N	":FW	":FW	食:Vt	各:DET	":FW	
+音:N	為:Vt	::COLONCATEGORY	ㄏ:FW	ㄜ:FW	ˊ:FW	ㄌ:FW	ㄠ:FW	ˋ:FW	
+蕎麥麵:N	
+、:PAUSECATEGORY	手工:N	拉麵:N	來:ADV	做:Vt	搭配:Vt	
+算是:Vt	一:DET	碗:M	簡單:Vi	可:ADV	吃飽:Vi	的:T	麵點:N	
+▲:FW	鮮溜:Vi	Ａ:FW	菠雙:N	綠:Vi	
+100:DET	元:M	雙重:A	口感:N	
+A:FW	菜:N	吃起來:ADV	也:ADV	不會:ADV	刮刮:Vt	的:T	
+加上:C	菠菜:N	的:T	香:N	
+算是:Vt	很:ADV	對味:Vi	的:T	一:DET	道:M	青疏:Vi	
+席:N	間:POST	
+也:ADV	有:Vt	人:N	提到:Vt	鼎泰豐:N	的:T	波菜:N	百:DET	頁:M	也:ADV	可以:ADV	換成:Vt	A:FW	菜:N	百:DET	頁:M	
+算是:Vt	另:DET	一:DET	款:M	鼎泰豐:N	的:T	隱藏:Nv	菜單:N	吧:T	
+據說:ADV	也:ADV	非常:ADV	好吃:Vi	
+▲:FW	寶雞:N	涼:Vi	條:M	
+280:DET	元:M	有:Vt	雞肉:N	、:PAUSECATEGORY	涼條:N	、:PAUSECATEGORY	黃瓜:N	、:PAUSECATEGORY	些許:DET	香菜:N	
+拌:Vt	上:N	酸香:N	醬汁:N	
+有點:ADV	微:Vi	辣:Vi	很:ADV	是:Vt	開胃:Vi	又:ADV	很:ADV	清爽:Vi	
+很:ADV	適合:Vi	夏日:N	食用:Vt	
+▲:FW	龍:N	穿:Vt	鳳翼:N	訂位:Vi	時:POST	
+店家:N	有:Vt	說:Vt	這:DET	道:M	菜:N	必須:ADV	十:DET	人才:N	能:ADV	訂購:Vt	
+但是:C	因為:C	當天:N	也:ADV	有:Vt	人:N	訂購:Vt	
+所以:C	店家:N	有:Vt	詢問:Vt	我們:N	是否:ADV	要:ADV	訂:Vt	可以:ADV	一起:ADV	製作:Vt	
+於是:C	就:ADV	幸運:Vi	地:T	吃到:Vt	了:ASP	這:DET	道:M	料理:N	
+雞肉:N	裡面:N	包有:Vt	竹筍:N	、:PAUSECATEGORY	香菇:N	、:PAUSECATEGORY	火腿:N	等:POST	鮮:Vi	物:N	
+香:Vi	嫩:Vi	雞肉:N	與:C	各:DET	樣:M	提鮮:N	蔬食:N	共冶:N	於:P	一:DET	翼:N	
+又:ADV	香:Vi	又:ADV	鮮:Vi	口感:N	真:ADV	好:Vi	
+真的:ADV	好:Vi	吃到:Vt	嘴巴:N	都:ADV	歪掉:Vt	了:ASP	
+如果:C	有:Vt	機會:N	真的:ADV	要:ADV	來:ADV	試:Vt	一:ADV	試:Vt	
+▲:FW	燒魚梅:N	也:ADV	是:Vt	一:DET	道:M	需要:N	預訂:Vt	的:T	菜色:N	
+每:DET	次:M	都:ADV	是:Vt	用:P	不同:Vi	的:T	魚:N	來:ADV	烹煮:Vt	
+又:ADV	有:Vt	三:DET	種:M	口味:N	烹調:Nv	可:ADV	選擇:Vt	：:COLONCATEGORY	紅燒:Vt	、:PAUSECATEGORY	糖醋:N	、:PAUSECATEGORY	橙醬:N	
+點餐:N	時:POST	決定:Vt	不:ADV	下:Vt	要:ADV	吃:Vt	甚麼:DET	口味:N	
+後來:N	店員:N	說:Vt	慈禧:N	太后:N	最:ADV	愛:Vt	吃:Vt	紅燒:Nv	
+好:Vi	吧:T	
+那:DET	就:ADV	來:ADV	享受:Vt	一下:N	慈禧:N	太后:N	的:T	口味:N	吧:T	
+小:Vi	李子:N	
+這:DET	道:M	菜:N	很:ADV	特別:Vi	的:T	是:Vt	魚肉:N	在:P	外:N	魚:N	皮:N	向:P	內:N	
+先:ADV	炸:Vt	過:ASP	再:ADV	紅燒:Vt	
+所以:C	魚肉:N	不:ADV	鬆散:Vi	
+真的:ADV	能:ADV	享受:Vt	大:Vi	塊:M	吃:Vt	魚:N	的:T	爽感:N	
+而且:C	紅燒:Vt	的:T	調味:N	非常:ADV	美味:Vi	
+蔥:N	、:PAUSECATEGORY	辣椒:N	也:ADV	幫忙:Vt	增色:Vi	不少:Vi	
+是:Vt	一:ADV	上桌:Vi	就:ADV	大:Vi	受:P	歡迎:Vt	
+立刻:ADV	掃:Vt	光:N	的:T	一級:N	料理:N	
+▲:FW	虎皮:N	會:ADV	
+160:DET	元:M	其實:ADV	
+嗯:T	......:ETCCATEGORY	就:ADV	是:Vt	好像:ADV	一般:A	的:T	紅燒:Nv	豆腐:N	
+但是:C	名字:N	很:ADV	引人入勝:Vi	
+會:ADV	想:Vt	點點:DET	看來:ADV	吃:Vt	
+不過:C	
+因為:C	其他:DET	菜色:N	都:ADV	太:ADV	有:Vt	特色:N	而且:C	太:ADV	好吃:Vi	
+相形之下:ADV	這:DET	道:M	菜:N	就:ADV	完全:ADV	被:P	比下去:Vi	了:T	
+▲:FW	醋溜:N	土豆:N	絲:N	
+140:DET	元:M	吃完:Vt	大菜:N	來:ADV	吃吃:Vt	小品:N	
+醋溜:N	土豆:N	絲:N	也:ADV	就是:C	醋溜:N	馬鈴薯:N	
+在:P	大陸:N	這:DET	道:M	菜:N	算是:Vt	北方:N	家庭:N	經常:ADV	出現:Vi	的:T	菜色:N	
+這裡:N	炒:Vt	的:T	這:DET	道:M	菜:N	也:ADV	頗:ADV	道地:Vi	
+馬鈴薯:N	切絲:N	口感:N	很:ADV	好:Vi	
+加上:C	醋拌炒開:Vt	來:ADV	很:ADV	是:Vt	下:Vt	飯:N	
+大家:N	聊聊天:Vi	配配:N	菜:N	
+稀:Vi	哩:T	呼嚕:ADV	也:ADV	就:ADV	吃完:Vt	了:ASP	
+台灣:N	飯桌:N	上:POST	極少:ADV	看到:Vt	這:DET	道:M	料理:N	
+來:ADV	這裡:N	不妨:ADV	可以:ADV	嘗嘗:Vt	鮮:Vi	
+▲:FW	奶香:N	小:Vi	饅:b	
+一:DET	份:M	三:DET	只:M	36:DET	元:M	
+圖:N	為:Vt	兩:DET	份:M	
+不:ADV	知道:Vt	是:Vt	哪:DET	個:M	怕:Vt	吃:Vt	不:ADV	飽:Vi	的:T	點:Vt	了:ASP	這:DET	份:M	餐點:N	
+份量:N	小小:Vi	怕:Vt	真:ADV	吃:Vt	不:ADV	飽:Vi	應該:ADV	也:ADV	不濟事:Vi	吧:T	
+哈哈:ADV	
+這:DET	個:M	外皮:N	炸:Vt	得:T	很:ADV	堅硬:Vi	
+淋:Vt	上:POST	滿滿:Vi	煉乳:N	的:T	小:Vi	饅頭:N	
+搭:Vt	在:P	大魚大肉:N	之後:POST	
+甜滋滋:Vi	地:T	也:ADV	頗:ADV	對味:Vi	
+當然:ADV	
+據說:ADV	也:ADV	有:Vt	人:N	認為:Vt	這:DET	不過:ADV	是:Vt	普通:Vi	的:T	銀絲:N	卷:N	而已:T	
+但:C	我:N	認為:Vt	餐廳:N	菜色:N	不:ADV	是非:N	要:ADV	每:DET	道:M	都:ADV	很:ADV	特別:Vi	
+只要:C	大家:N	吃得開心:N	覺得:Vt	美味:Vi	就:ADV	好:Vi	
+▲:FW	蒙古:N	炸:Vt	奶:N	豆腐:N	
+一:DET	份:M	兩:DET	只:M	
+60:DET	元:M	
+圖:N	為:Vt	三:DET	份:M	
+貪圖:Vt	新鮮:Vi	有趣:Vi	好吃:Vi	
+每:DET	次:M	來:POST	都:ADV	會:ADV	點:ADV	
+只是:C	每:DET	次:M	吃:Vt	都:ADV	會:ADV	怕:Vt	這樣:ADV	高:Vi	熱量:N	的:T	甜點:N	
+會:ADV	讓:Vt	身體:N	吃不消:Vt	啊:T	
+炸:Vt	奶:N	豆腐:N	裡面:N	包:Vt	了:ASP	起:ASP	司:N	上面:N	則:ADV	灑滿:Vt	糖:N	粉:N	
+熱騰騰:Vi	的:T	上桌:Vi	
+一定:ADV	會:ADV	勾引:Vt	你:N	來:ADV	嘗:Vt	一口:ADV	
+總結:N	來:ADV	說:Vt	
+電話:N	訂位:Vi	時:POST	服務:Vt	人員:N	算是:Vt	親切:Vi	
+現場:N	點:Vt	餐:N	的:T	時候:N	服務:Nv	較為:ADV	普通:Vi	
+整體:N	服務:Nv	就:ADV	是:Vt	普普通通:Vi	
+感覺:Vt	比較:ADV	像:Vt	是:Vt	家庭式:A	料理:N	的:T	格局:N	
+但是:C	菜色:N	上:POST	真的:ADV	很:ADV	好吃:Vi	也:ADV	很:ADV	有:Vt	特色:N	
+非常:ADV	適合:Vi	帶:Vt	外國:N	朋友:N	遊:Vt	台灣:N	時:POST	造訪:Vt	
+如果:C	是:Vt	臨時:N	起意:Vt	
+也:ADV	有:Vt	很多:DET	非:ADV	預定:Vt	菜色:N	、:PAUSECATEGORY	麵食:N	可以:ADV	選擇:Vt	
+不管:C	大宴:Vt	小酌:Vi	都:ADV	很:ADV	適合:Vi	
+是:Vt	一:DET	間:M	有時:ADV	懷念:Vt	起:ASP	就:ADV	會:ADV	很:ADV	想:Vt	出發:Vi	前往:Vt	的:T	特色:N	餐廳:N	
+--:DASHCATEGORY	如果:C	我:N	真的:ADV	愛:Vt	過:ASP	你我:N	就:ADV	不會:ADV	忘記:Vt	當然:ADV	我:N	還是:ADV	得:ADV	不動聲色:Vi	地:T	走下去:Vi	說:Vt	這:DET	天氣:N	真:ADV	好:Vi	風:N	又:ADV	輕柔:Vi	還:ADV	能:ADV	在:P	斜陽:N	裏:N	疲倦:Vi	地:T	微笑:N	說:Vt	人生:N	極:ADV	平凡:Vi	也:ADV	沒有:Vt	什麼:DET	波折:N	和:C	憂愁:Nv	可是:C	如果:C	我:N	真的:ADV	愛:Vt	過:ASP	你我:N	就:ADV	不:ADV	會:ADV	忘記:Vt	就是:C	在:P	這:DET	個:M	十字路口:N	年輕:Vi	的:T	你我:N	曾:ADV	揮手:Vi	從此:ADV	分離:Vt	--:DASHCATEGORY	

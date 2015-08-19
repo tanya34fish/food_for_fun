@@ -1,0 +1,130 @@
+roger:FW	6255:DET	(:PARENTHESISCATEGORY	大:Vi	城市:N	小:Vi	生活:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	品川蘭:N	高檔:N	牛肉麵:N	
+Tue:FW	
+Aug:FW	
+26:DET	
+23:DET	::COLONCATEGORY	42:DET	::COLONCATEGORY	35:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	品川:N	蘭:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	忠孝東路:N	四段:N	216巷:N	11弄:N	10:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2721:DET	-:DASHCATEGORY	7397:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週四:N	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	/:FW	17:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	週五:N	至:P	週日:N	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	210:DET	-:DASHCATEGORY	490:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	Y:FW	
+有無:Vt	包廂:N	：:COLONCATEGORY	N:FW	
+推薦:Vt	菜色:N	：:COLONCATEGORY	肋眼:N	牛排麵:N	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	feiwin0331.pixnet.net/blog/post:FW	/:FW	171864763:DET	
+甚麼:DET	叫做:Vt	高檔:A	牛肉麵:N	
+就是:C	牛肉麵:N	裡面:N	的:T	牛肉:N	是:Vt	整:DET	塊:M	牛排:N	
+厲害:Vi	了:T	吧:T	
+這:DET	家:M	品川:N	蘭:N	
+就:ADV	在:P	東區:N	鼎泰豐:N	的:T	附近:N	
+門口:N	招牌:N	就:ADV	是:Vt	很:ADV	素雅:Vi	的:T	紅黑:Vi	系列:N	
+看起來:ADV	頗:ADV	高檔:A	
+不:ADV	太:ADV	會:ADV	跟:P	牛肉麵:N	聯想:N	在一起:Vi	
+店:N	內:N	布置:Vt	也:ADV	是:Vt	很:ADV	高雅:Vi	
+讓:Vt	人:N	自動:Vi	的:T	會:ADV	輕聲:ADV	細語:Vi	
+店:N	裡面:N	座位:N	不會:ADV	太:ADV	壅擠:Vt	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	因為:C	快:Vi	一點:ADV	了:T	
+人:N	並:ADV	沒有:Vt	很多:DET	
+裡面:N	服務員:N	也:ADV	是:Vt	穿著:Vt	紅黑:Vi	的:T	制服:N	
+很:ADV	親切:Vi	的:T	招呼:Vt	著:ASP	
+牆面:N	上:N	有:Vt	奇特:Vi	的:T	抽屜:N	裝飾:N	
+有點:ADV	像:Vt	中藥店:N	後面:N	的:T	抽屜:N	
+偷偷:ADV	去:ADV	使用:Vt	過:ASP	
+不能:ADV	動:Vt	XD:FW	
+座位:N	上:POST	已經:ADV	擺好:Vt	了:ASP	Menuand:FW	餐具:N	
+也:ADV	是:Vt	讓:Vt	人:N	感覺:N	很:ADV	高雅:Vi	
+店員:N	馬上:ADV	送上:Vt	檸檬水:N	
+整:DET	瓶:M	的:T	檸檬水:N	
+還:ADV	有:Vt	待上:Vt	蓋子:N	
+讓:Vt	人:N	很:ADV	安心:Vi	地:T	飲用:Vt	
+牛肉麵:N	分為:Vt	川:N	系列:N	and:FW	蘭:N	系列:N	
+川:N	系列:N	就:ADV	是:Vt	紅燒:Vt	的:T	湯頭:N	
+蘭:N	系列:N	就:ADV	是:Vt	清燉:Vt	牛肉麵:N	系列:N	
+價位:N	從:P	NT:FW	200:DET	
+490:DET	
+算是:Vt	高檔:A	價位:N	了:T	
+除了:P	牛肉麵:N	
+還:ADV	有:Vt	一些:DET	小菜:N	
+價位:N	也:ADV	是:Vt	頗:ADV	高:Vi	
+飲料:N	部分:DET	店員:N	特別:Vi	推薦:Vt	烏梅汁:N	
+一:DET	杯:M	NT:FW	45:DET	
+算是:Vt	可以:ADV	接受:Vt	的:T	範圍:N	
+Menu:FW	其實:ADV	還:ADV	有:Vt	其他:DET	餐點:N	
+像:Vt	是:Vt	斤:M	餅:N	之類:POST	的:T	
+也:ADV	有:Vt	非:A	牛肉:N	的:T	麵類:N	
+提供:Vt	不:ADV	吃:Vt	牛肉:N	的:T	客人:N	選用:Vt	
+真是:ADV	有:Vt	用心:Vi	
+不過:C	我:N	實在:ADV	是:Vt	太:ADV	餓:Vi	了:T	
+所以:C	沒有:ADV	把:P	menu:FW	都:ADV	照出來:Vi	::COLONCATEGORY	P:FW	
+送:Vt	的:T	小菜:N	
+有點:ADV	小:Vi	碟:N	
+應該:ADV	是:Vt	醃:Vt	蘿蔔:N	之類:POST	的:T	吧:T	
+不:ADV	難吃:Vi	
+但是:C	肚子:N	很:ADV	餓:Vi	吃:Vt	這:DET	小菜:N	還:ADV	真是:ADV	
+折磨:Vt	人:N	啊:T	
+重頭戲:N	來:Vi	啦:T	
+Prime:FW	肋眼:N	牛排麵:N	NT:FW	490:DET	
+一:ADV	上:N	來:T	就:ADV	是:Vt	看到:Vt	撲滿:N	整:DET	碗:N	的:T	五:DET	分:M	熟:Vi	肋眼:N	牛排:N	
+還可以:ADV	看到:Vt	粉紅:Vi	的:T	肉色:N	
+接著:ADV	店員:N	就:ADV	會:ADV	倒入:Vt	蘭:N	系列:N	的:T	湯:N	淋:Vt	在:P	五:DET	分:M	熟:Vi	的:T	牛排:N	上面:N	
+看:Vt	著:ASP	五:DET	分:M	熟:Vi	的:T	牛肉:N	被:P	高湯:N	燙到:Vt	七:DET	分:M	熟:Vi	左右:POST	吧:T	
+看:Vt	著:ASP	店員:N	帶:Vt	著:ASP	手套:N	優雅:Vi	的:T	倒入:Vt	高湯:N	
+也:ADV	是:Vt	一:DET	種:M	特殊:Vi	的:T	感受:N	耶:T	
+到:Vt	了:ASP	七:DET	分:M	滿:Vi	左右:POST	就:ADV	完成:Vt	了:ASP	
+吞:Vt	口水:N	ing:FW	...:ETCCATEGORY	
+真是:ADV	迫不及待:ADV	想要:Vt	來:ADV	嘗嘗:Vt	了:ASP	
+那:DET	個:M	湯:N	真是:ADV	好喝:Vi	
+看似:Vt	清淡:Vi	卻:ADV	是:Vt	有:Vt	濃郁:Vi	的:T	口感:N	
+果然:ADV	是:Vt	大骨湯:N	熬出來:Vi	的:T	美味:N	
+接著:ADV	當然:ADV	馬上:ADV	夾:Vt	了:ASP	塊:M	牛排:N	來:ADV	嗑:Vt	
+Ohmygod:FW	
+就是:C	肋眼:N	牛排:N	的:T	口感:N	啊:T	
+軟嫩:Vi	多汁:Vi	帶:Vt	牛肉:N	的:T	甜味:N	
+真是:ADV	要:ADV	飛上:Vt	天:N	了:T	
+哈哈:ADV	
+牛肉麵:N	的:T	麵條:N	是:Vt	粗:Vi	麵條:N	
+口感:N	是:Vt	有:Vt	咬:Vt	勁:N	但是:C	又:ADV	不會:ADV	太:ADV	硬:Vi	
+配上:Vt	湯汁:N	真的:ADV	是:Vt	會:ADV	一口:ADV	接著:ADV	一口:ADV	
+蘭:N	系列:N	湯頭:N	好喝:Vi	到:P	我:N	跟:P	店員:N	追:Vt	詢問:Vt	是否:ADV	可以:ADV	追加:Vt	湯:N	
+店員:N	非常:ADV	親切:Vi	的:T	說:Vt	":FW	當然:ADV	可以:ADV	":FW	
+然後:ADV	端來:Vt	一:DET	碗:M	附上:Vt	蓋子:N	的:T	湯:N	
+還:ADV	貼心:Vi	提醒:Vt	使用:Vt	前:POST	讓:Vt	蓋子:N	蓋:Vt	著:ASP	比較:ADV	能:ADV	保持:Vt	溫度:N	
+裡面:N	還:ADV	有:Vt	蔥:N	呢:T	
+真是:ADV	貼心:Vi	
+特選:Vt	腱心:N	牛肉麵:N	NT:FW	210:DET	
+點:Vt	了:ASP	川:N	系列:N	湯頭:N	
+半:DET	筋:N	半:DET	肉:N	的:T	牛肉片:N	躺:Vi	在:P	碗:N	哩:T	
+依樣:ADV	是:Vt	很:ADV	誘人:Vi	可口:Vi	的:T	
+湯頭:N	也:ADV	是:Vt	很:ADV	清爽:Vi	不:ADV	死:Vi	鹹:Vi	
+不過:C	個:M	人:N	還是:ADV	比較:ADV	偏好:Vt	蘭:N	系列:N	的:T	湯頭:N	
+看看:Vt	那:DET	半:DET	筋:N	半:DET	肉:N	的:T	美麗:Nv	花紋:N	
+還:ADV	有:Vt	那:DET	厚度:N	卻:ADV	一點:DET	也:ADV	不會:ADV	老:Vi	柴:N	
+一:ADV	咬:Vt	就:ADV	斷:Vt	的:T	口感:N	
+真:ADV	是:Vt	牛肉:N	的:T	饗宴:N	啊:T	
+手工:N	小菜:N	-:DASHCATEGORY	金沙:N	花椰菜:N	NT:FW	90:DET	
+不錯:Vi	吃:Vt	
+金沙:N	就:ADV	是:Vt	鹹:Vi	蛋黃:N	
+花椰菜:N	煮:Vt	得:T	恰當:Vi	好處:N	
+不會:ADV	太:ADV	軟:Vi	也:ADV	不會:ADV	太:ADV	硬:Vi	
+配上:Vt	鹹:Vi	蛋黃:N	更:ADV	是:Vt	把:P	花椰菜:N	的:T	甜味:N	給:Vt	帶出來:Vt	了:ASP	呢:T	
+不過:C	90:DET	元:M	一:DET	小盤:N	
+個:M	人:N	覺得:Vt	有點:ADV	小:Vi	貴:Vi	
+最後:N	-:DASHCATEGORY	純釀:Vt	手工:N	烏梅汁:N	NT:FW	45:DET	
+感覺:Vt	有點:ADV	小:Vi	杯:M	
+不過:C	有:Vt	好喝:Vi	喔:T	
+味道:N	條配:N	得:T	剛剛好:ADV	
+不會:ADV	太:ADV	酸:Vi	
+剛剛好:ADV	可以:ADV	解:Vt	一下:N	吃下:Vt	一:DET	堆:M	牛肉:N	的:T	些許:DET	油膩感:N	
+店家:N	資訊:N	::COLONCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	忠孝東路:N	四段:N	216巷:N	11弄:N	10:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	
+02:DET	
+2721:DET	-:DASHCATEGORY	7397:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	至:P	週四:N	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	/:FW	17:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	週五:N	至:P	週日:N	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	30:DET	
+結論:N	::COLONCATEGORY	好吃:Vi	配上:Vt	乾淨:Vi	的:T	環境:N	還:ADV	有:Vt	恰如其分:Vi	的:T	服務:Nv	
+讓:Vt	我:N	會:ADV	想:Vt	帶:Vt	親朋好友:N	去:ADV	嚐嚐:Vt	鮮:Vi	
+特別:Vi	是:Vt	Prime:FW	肋眼:N	牛排:N	牛肉麵:N	
+跟:P	一般:A	牛肉麵:N	的:T	體驗:Nv	完全:ADV	不同:Vi	呢:T	

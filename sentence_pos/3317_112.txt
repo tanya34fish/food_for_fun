@@ -1,0 +1,34 @@
+cowking:FW	520:DET	(:PARENTHESISCATEGORY	卡綠:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	請益:Vi	]:PARENTHESISCATEGORY	台北市:N	好吃:Vi	的:T	日式:A	定食:Vt	
+Tue:FW	
+Jul:FW	
+15:DET	
+18:DET	::COLONCATEGORY	49:DET	::COLONCATEGORY	48:DET	
+2014:DET	
+請益:Vi	
+台北市:N	好吃:Vi	的:T	日式:A	定食:Vt	
+TueJul:FW	1518:DET	::COLONCATEGORY	49:DET	::COLONCATEGORY	482014:DET	
+1:DET	.:PERIODCATEGORY	想:Vt	找:Vt	的:T	餐飲:N	類別:N	
+日式:A	定食類:N	的:T	
+如同:P	中山區:N	小器:Vi	食堂:N	之類:POST	的:T	
+2:DET	.:PERIODCATEGORY	用餐:Vi	地區:N	
+台北:N	市區:N	都:ADV	可以:ADV	
+3:DET	.:PERIODCATEGORY	每:DET	人:N	預算:N	
+必:ADV	填:Vt	
+新台幣:N	$:FW	400:DET	元:M	以內:POST	
+4:DET	.:PERIODCATEGORY	用餐:Nv	時段:N	
+午餐:N	
+5:DET	.:PERIODCATEGORY	用餐:Nv	人數:N	
+選填:Vt	
+2:DET	人:N	
+6:DET	.:PERIODCATEGORY	查詢:Nv	精華區:N	及:C	板面:N	文章:N	後:POST	拿:Vt	不定:Vi	主意:N	的:T	候選:Nv	店家:N	
+必:ADV	填:Vt	
+候選:Vi	店家:N	未:ADV	填:Vt	者:N	
+板主:N	將:ADV	逕行:ADV	刪除:Vt	發問:Vi	
+想:Vt	找尋:Vt	類似:Vt	小器:Vi	食堂:N	的:T	日式:A	定:Vt	食店:N	
+網路:N	和:C	PTT:FW	都:ADV	沒有:ADV	找到:Vt	純粹:ADV	賣:Vt	定食:Vt	的:T	店:N	
+或是:C	都:ADV	是:Vt	連鎖:A	企業:N	方面:N	的:T	資訊:N	
+也許:ADV	不:ADV	是:Vt	很:ADV	了解:Vt	正統:A	日式:A	定食:Vt	是否:ADV	就:ADV	如同:Vt	小器:Vi	食堂:N	一樣:Vi	
+但是:C	很:ADV	喜歡:Vt	那:DET	種:M	很:ADV	簡約:Vi	風格:N	的:T	日式:A	定:Vt	食店:N	
+所以:C	想:Vt	請問:Vt	大家:N	台北市:N	是否:ADV	還:ADV	有:Vt	其他:DET	類似:Vt	的:T	店:N	
+先:ADV	謝謝:Vt	各:DET	位:M	了:T	

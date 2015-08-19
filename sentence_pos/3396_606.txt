@@ -1,0 +1,90 @@
+chuantina:FW	(:PARENTHESISCATEGORY	一:DET	朵:M	小:Vi	桃紅:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	兔馬:N	鬆餅:N	。:PERIODCATEGORY	少女:N	心:N	滿溢:Vi	的:T	繽紛:Nv	下午茶:N	
+Wed:FW	
+Aug:FW	
+6:DET	
+22:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	18:DET	
+2014:DET	
+圖文:N	網綕版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	383349617:DET	
+兔馬:N	WAFFLE:FW	比利時:N	鬆餅:N	專賣店:N	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	8月:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	28346283:DET	
+地址:N	：:COLONCATEGORY	台北市:N	士林區:N	士商路:N	139:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	PM:FW	14:DET	：:COLONCATEGORY	00:DET	
+21:DET	：:COLONCATEGORY	00:DET	
+周:N	一:DET	公休:Vi	
+在:P	北士商:N	附近:N	
+有:Vt	間:M	充滿:Vt	溫馨:Vi	氛圍:N	的:T	可愛:Vi	小店:N	
+一:DET	進:M	門:N	就:ADV	可以:ADV	聞到:Vt	甜甜:Vi	的:T	鬆餅:N	香:Vi	
+去:Vt	的:T	這:DET	天:M	看到:Vt	不少:DET	家長:N	帶:Vt	著:ASP	小朋友:N	來:ADV	享用:Vt	下午茶:N	
+感覺:N	也:ADV	是:Vt	間:M	適合:Vi	親子:N	同樂:Vi	的:T	好:Vi	去處:N	呦:b	
+無意:Vt	間:POST	在:P	網路:N	上:POST	發現:Vt	兔馬:N	鬆餅:N	這:DET	間:M	小店:N	
+一:DET	開始:Vi	是:Vt	被:P	它:N	擁有:Vt	眾多:Vi	口味:N	的:T	鬆餅:N	而:C	吸引:Vt	
+不過:C	點閱:Vt	了:ASP	它:N	的:T	室內:N	圖片:N	照:Vt	
+整:DET	個:M	環境:N	可愛:Vi	又:ADV	充滿:Vt	童趣:N	
+完完全全:ADV	是:Vt	我:N	的:T	菜:N	呀:T	
+像:P	這樣:Vi	少女:N	心:N	滿溢:Vi	的:T	地方:N	
+也:ADV	很:ADV	適合:Vi	女孩兒:N	出沒:Vi	
+我:N	想:Vt	會:ADV	開:Vt	在:P	北士商:N	附近:N	
+老闆娘:N	也:ADV	把:P	她們:N	設為:Vt	大:Vi	宗:Vt	的:T	客源:N	才:ADV	是:Vt	XD:FW	
+我:N	好:ADV	喜歡:Vt	裡面:N	帶有:Vt	鄉村:N	風味:N	的:T	裝潢:N	
+像:P	這:DET	個:M	木製:A	的:T	桌椅:N	就:ADV	好:ADV	療癒:Vi	
+椅子:N	跟:P	桌子:N	都:ADV	偏:ADV	小:Vi	
+大人:N	坐:Vi	可能:ADV	不符:Vt	人體工學:N	
+但:C	擺放:Vt	著:ASP	也:ADV	是:Vt	個:M	很:ADV	棒:Vi	的:T	點綴:Nv	
+最:ADV	後面:N	的:T	是:Vt	個:M	大:Vi	空間:N	的:T	位置:N	
+必需:ADV	要:ADV	脫鞋:Vi	子:N	才:ADV	能:ADV	進入:Vt	呦:b	
+小朋友:N	們:N	就:ADV	很:ADV	喜歡:Vt	這:DET	個:M	區域:N	
+不過:C	我:N	倒:ADV	覺得:Vt	姐妹:N	相約:Vi	聚:Vi	在:P	這兒:N	
+也:ADV	不失為:Vt	一:DET	個:M	溫暖:Vt	的:T	小:Vi	角:N	
+落:Vi	：:COLONCATEGORY	
+最:ADV	愛:Vt	這:DET	張:M	桌子:N	啦:T	
+原來:ADV	擺:Vt	了:ASP	對味:Vi	的:T	桌巾:N	
+可以:ADV	幫:P	一:DET	張:M	桌子:N	增色:Vi	這麼多:DET	
+有時候:ADV	超:Vt	佩服:Vt	對:P	室:N	內:N	裝潢:N	有:Vt	天生:Vi	美感:N	的:T	人:N	說:Vt	&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+兔馬:N	鬆餅:N	採:Vt	自助式:N	的:T	點餐:N	方便:Vi	
+不管:C	是:Vt	Order:FW	、:PAUSECATEGORY	取餐:N	
+全:DET	在:P	這:DET	個:M	開放式:A	的:T	廚房:N	
+食用:Vt	完畢:Vi	也:ADV	別:ADV	忘:Vt	了:ASP	把:P	餐盤:N	放回:Vt	回收區:N	
+我們:N	點:Vt	了:ASP	兩:DET	份:M	鬆餅:N	、:PAUSECATEGORY	兩:DET	杯:M	飲品:N	
+不過:C	比較:ADV	可惜:Vi	的:T	是:Vt	用:P	塑膠盒:N	裝盛:Vt	鬆餅:N	
+如果:C	使用:Vt	盤子:N	
+會:ADV	覺:Vt	的:T	比較:ADV	有:Vt	質感:N	
+可口度:N	也:ADV	會:ADV	增加:Vt	
+它:N	的:T	餐盤:N	還:ADV	挺:ADV	可愛:Vi	的:T	
+普普:N	風:N	顏色:N	相當:ADV	討喜:Vi	
+原味:N	冰淇淋:N	
+蜂:N	
+蜜烤:Vt	堅果:N	
+NT:FW	.:PERIODCATEGORY	140:DET	元:M	
+第一:DET	次:M	看到:Vt	鬆餅:N	上面:N	用:Vt	了:ASP	甜筒:N	來:ADV	裝飾:Vt	
+雖然:C	我:N	是:Vt	大嬸級:N	的:T	阿姐:N	
+但:C	看到:Vt	這:DET	等:N	甜蜜:Vi	模樣:N	
+仍:ADV	有:Vt	股:M	想:Vt	尖叫:Vt	的:T	衝動:Nv	&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+鬆餅:N	佐以:Vt	冰淇淋:N	
+還:ADV	加:Vt	了:ASP	花生粉:N	、:PAUSECATEGORY	核桃:N	堅果:N	
+最後:N	再:ADV	淋:Vt	上:DET	一:DET	層:M	香甜:Vi	蜂蜜:N	醬汁:N	
+香酥:N	堅果:N	愈:ADV	咀嚼:Vt	愈:ADV	能:ADV	感受:Vt	它:N	的:T	縈繞:Vt	在:P	舌尖:N	上:N	的:T	香氣:N	
+雖然:C	甜度:N	算:Vt	高:Vi	
+不過:C	鹹鹹:Vi	的:T	花生粉:N	倒:ADV	也:ADV	成:Vt	了:ASP	一:DET	個:M	不錯:Vi	的:T	調和劑:N	
+而:C	鬆餅:N	烤:Vt	得:T	過於:ADV	乾:Vi	柴:N	
+算是:Vt	配料:N	出色:Vi	
+主角:N	反倒:C	讓:Vt	人:N	覺得:Vt	有:Vt	些:M	小:Vi	失望:Vi	
+奶油:N	芒果:N	丁:N	
+NT:FW	.:PERIODCATEGORY	140:DET	元:M	
+這:DET	是:Vt	店家:N	推薦:Vt	的:T	人氣:N	口味:N	
+澄黃:Vi	的:T	芒果:N	完全:ADV	就:ADV	是:Vt	盛夏:N	最:ADV	棒:Vi	的:T	水果:N	
+微:ADV	酸:Vi	偏:ADV	甜:Vi	
+還:ADV	結合:Vt	了:ASP	濕潤:Vi	的:T	爽口:Vi	鮮:Vi	奶油:N	
+不:ADV	曉得:Vt	是:Vt	用:Vt	了:ASP	不同:Vi	麵糰:N	還是:C	醬汁:N	的:T	關係:N	
+這:DET	個:M	鬆餅:N	吃起來:ADV	有:Vt	股:M	奇怪:Vt	的:T	酸味:N	
+整體:N	搭配:Vt	超:Vt	怪異:Vi	的:T	啦:T	
+原來:ADV	是:Vt	很:ADV	期待:Vt	這:DET	個:M	芒果:N	丁:N	的:T	說:Vt	
+只:ADV	能:ADV	說:Vt	不:ADV	是:Vt	很:ADV	合:Vt	胃口:N	的:T	滋味:N	囉:T	
+綜合:A	整體:N	的:T	感覺:N	
+會:ADV	覺得:Vt	兔馬:N	鬆餅:N	的:T	環境:N	比較:ADV	吸引人:Vi	
+鬆餅:N	表現:N	不:ADV	到:Vt	雷店:N	
+但:C	也:ADV	稱不上:Vt	非常:ADV	美味:Vi	
+不:ADV	曉得:Vt	鹹式:A	口味:N	的:T	會不會:ADV	比較:ADV	出色:Vi	就是了:Vi	：:COLONCATEGORY	

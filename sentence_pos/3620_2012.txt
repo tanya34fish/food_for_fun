@@ -1,0 +1,124 @@
+yeahbonnie(bonnie:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	四:DET	鄉:N	五:DET	島:N	馬祖:N	麵店:N	24:DET	小時:M	營業:Nv	
+Mon:FW	
+Oct:FW	
+6:DET	
+23:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	36:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	四:DET	鄉:N	五:DET	島:N	馬祖:N	麵店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014:DET	/:FW	10:DET	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	遼寧街:N	7:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27715406:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	24:DET	小時:M	營業:Nv	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	35:DET	-:DASHCATEGORY	150:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	不可:ADV	
+推薦:Vt	菜色:N	：:COLONCATEGORY	沙茶麵:N	
+好讀:Vt	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	yeahbonnie0227.pixnet.net/blog/post:FW	/:FW	217011658:DET	
+以下:N	純:Vi	文字:N	分享:Vt	
+今天:N	要:ADV	跟:P	大家:N	介紹:Vt	一:DET	家:M	我:N	已經:ADV	吃:Vt	過:ASP	N:FW	次:M	的:T	麵店:N	了:T	
+常常:ADV	因為:C	是:Vt	小吃:N	又:ADV	或是:C	太:ADV	常:ADV	吃:Vt	了:ASP	
+肚子:N	正:ADV	餓:Vi	著:ASP	
+就:ADV	總是:ADV	抱:Vt	著:ASP	一:DET	個:M	想法:N	→:FW	
+下:DET	次:M	吧:T	
+但:C	這:DET	個:M	下:DET	次:M	吧:T	已經:ADV	拖:Vt	了:ASP	好幾:DET	個:M	下:DET	次:M	
+這:DET	想法:N	太:ADV	可怕:Vi	了:T	
+決定:Vt	今天:N	認真:Vi	的:T	來:ADV	給:Vt	他:N	紀錄:N	一下:N	
+馬祖:N	麵店:N	-:DASHCATEGORY	四:DET	鄉:N	五:DET	島:N	
+一:DET	家:M	位於:Vt	台北市:N	松山區:N	八德路:N	上:N	的:T	麵店:N	
+特別:Vi	的:T	是:Vt	他:N	24:DET	小時:M	營業:Nv	
+這麼:ADV	好吃:Vi	還:ADV	能:ADV	24:DET	小時:M	無限:Vi	供應:Vt	
+只:ADV	能:ADV	說:Vt	住:Vt	在:P	台灣:N	真的:ADV	好:ADV	幸福:Vi	
+為什麼:ADV	馬祖:N	麵店:N	上頭:N	還:ADV	要:Vt	冠:Vt	個:M	四:DET	鄉:N	五:DET	島:N	一直:ADV	很:ADV	疑惑:Vi	
+於是:C	為:P	大家:N	也:ADV	為:P	自己:N	谷:N	哥:N	了:ASP	一下:N	
+四:DET	鄉:N	五:DET	島:N	緣起:N	
+1972年王:N	女士:N	來:Vi	台:N	
+那:DET	個:M	常常:ADV	吵:Vt	著:ASP	吃:Vt	媽媽:N	煮:Vt	的:T	麵:N	的:T	孩子:N	也:ADV	隨著:P	時間:N	長大:Vi	了:T	
+也:ADV	就是:C	現在:N	接:Vt	
+棒:Vi	的:T	第二:DET	代:N	吳國興:N	先生:N	
+談起:Vt	四:DET	鄉:N	五:DET	島:N	的:T	由來:N	
+他:N	說:Vt	：:COLONCATEGORY	因為:C	媽媽:N	來自:Vt	馬祖:N	
+馬祖:N	不:ADV	大:Vi	
+就:ADV	
+四:DET	個:M	鄉鎮:N	五:DET	個:M	島:N	
+因此:C	取名為:Vt	四:DET	鄉:N	五:DET	島:N	
+希望:Vt	藉以:C	區隔:Vt	市場:N	上:N	其他:DET	-:DASHCATEGORY	馬祖麵:N	的:T	不同:Vi	
+原來如此:Vi	
+點頭:Vi	點頭:Vi	
+好:Vi	吧:T	不:ADV	聽:Vt	歷史:N	故事:N	
+我們:N	直接:Vi	進入:Vt	美食:N	正題:N	
+個:M	人:N	覺得:Vt	馬祖:N	麵店:N	的:T	一:DET	個:M	超大:A	優點:N	就:ADV	是:Vt	
+什麼:DET	麵:N	都:ADV	有:Vt	
+什麼:DET	湯:N	都:ADV	有:Vt	
+想:Vt	吃:Vt	什麼:DET	通通:ADV	有:Vt	
+的:T	感覺:N	
+拌:Vt	麵:N	、:PAUSECATEGORY	湯麵:N	、:PAUSECATEGORY	各:DET	種:M	湯:N	還:ADV	能:ADV	隨:P	你:N	加料:Vi	小菜:N	也:ADV	是:Vt	應有盡有:Vi	還:ADV	有:Vt	炸雞:N	
+忙碌:Vi	的:T	店員:N	們:N	↓:FW	
+馬祖:N	麵店:N	佔地:Vt	很:ADV	廣:Vi	因為:C	他:N	除了:P	一樓:N	二樓:N	
+還:ADV	在:P	隔壁:N	隔壁:N	在:P	租:Vt	了:ASP	一:DET	個:M	店面:N	讓:Vt	大家:N	用餐:Vi	
+可見:ADV	生意:N	有:Vt	多:ADV	好:Vi	
+走上:Vt	二樓:N	
+一:ADV	上:N	去:T	就:ADV	會:ADV	看到:Vt	一些:DET	碗:N	阿麵阿:N	的:T	
+還:ADV	記得:Vt	我:N	第一:DET	次:M	上來:Vi	時:POST	是:Vt	夏天:N	
+因為:C	開:Vt	冷氣:N	下面:N	這:DET	張:M	圖:N	的:T	門:N	是:Vt	關上:Vt	的:T	我:N	還:ADV	以為:Vt	根本:ADV	沒:Vt	二樓:N	
+只:ADV	有:Vt	一樓:N	那:DET	店面:N	也:ADV	太:ADV	小:Vi	了:T	
+其實:ADV	門:N	裡頭:N	容納:Vt	的:T	人:N	可:ADV	多:Vi	了:T	
+一:ADV	上來:Vi	就:ADV	看到:Vt	好多:DET	人:N	的:T	桌:N	上:N	有:Vt	一:DET	盤:M	
+紅糟:N	雞:N	排:Vt	時常:ADV	都:ADV	是:Vt	宵夜:N	時段:N	來:ADV	吃:Vt	不:ADV	到:Vt	
+它:N	的:T	供應:Nv	時間:N	是:Vt	1100:DET	-:DASHCATEGORY	1900:DET	
+今天:N	晚上:N	八:DET	點:M	多:POST	到:Vt	竟然:ADV	還:ADV	吃:Vt	的:T	到:P	覺得:Vt	幸運:Vi	
+跟:P	野蠻人:N	吃飯:Vi	有:Vt	個:M	習慣:N	
+就是:C	吃:Vt	小吃:N	或是:C	火鍋:N	時:POST	
+我們:N	總是:ADV	共鍋:N	
+然後:ADV	低消:N	拿來:Vt	店:N	更多:DET	想:Vt	吃:Vt	的:T	火鍋:N	料:Vt	
+或者:C	只:ADV	點:Vt	一:DET	麵:N	一:DET	湯:N	
+其他:DET	點:M	一:DET	堆:M	小菜:N	
+今天:N	點:Vt	了:ASP	我:N	最愛:N	的:T	
+沙茶:N	麵大:N	NT:FW	60:DET	
+一:ADV	開始:Vt	醬料:N	都:ADV	會:ADV	在:P	最:ADV	下方:N	
+要:ADV	自己:N	拌:Vt	唷:T	
+麵:N	一:ADV	拉上來:Vi	就是:C	滿滿:Vi	醬汁:N	
+沙茶:N	的:T	香氣:N	加上:Vt	些許:DET	蔥花:N	
+以及:C	煮:Vt	的:T	剛剛好:ADV	的:T	麵條:N	
+我:N	自己:N	會:ADV	再:ADV	加:Vt	一些:DET	店家:N	提供:Vt	的:T	辣醬:N	
+推:Vt	
+很:ADV	辣:Vi	
+簡簡單單:Vi	卻:ADV	能:ADV	讓:Vt	人:N	吃到:Vt	有:Vt	幸福:Vi	的:T	感覺:N	
+暗自:ADV	決定:Vt	以後:N	出國:Vi	一定:ADV	要:ADV	帶:Vt	沙茶:N	出門:Vi	
+酒糟:N	雞:N	排:Vt	NT:FW	60:DET	
+碰壁:Vi	好幾:DET	次:M	終於:ADV	點到:Vt	的:T	雞:N	排:Vt	
+覺得:Vt	有點:ADV	失望:Vi	
+雖然:C	肉超厚:N	大約:ADV	有:Vt	1.5:DET	公分:M	但:C	好:ADV	乾:Vi	呀:T	
+我:N	是:Vt	很:ADV	愛:Vt	吃:Vt	炸雞:N	的:T	人:N	夾:Vt	了:ASP	一兩:DET	塊:M	就:ADV	不:ADV	想:Vt	夾惹:N	...:ETCCATEGORY	
+蛋花湯:N	小:Vi	NT:FW	20:DET	+:FW	貢丸:N	+:FW	餛飩:N	
+我:N	最:ADV	喜歡:Vt	喝:Vt	這:DET	種:M	料:N	多多:ADV	種:Vt	的:T	湯:N	了:T	
+用:P	大骨:N	熬出:Vt	的:T	湯:N	味道:N	恰好:ADV	香氣:N	濃:Vi	
+餛飩:N	雖然:C	小:Vi	顆:M	但:C	肉餡:N	味道:N	很:ADV	香:Vi	
+小菜:N	
+小黃瓜:N	NT:FW	30:DET	
+香香:Vi	脆脆:Vi	帶:Vt	點:M	蒜香:N	三兩:DET	下:M	就:ADV	解決:Vt	了:ASP	
+燙:Vt	青菜:N	NT:FW	30:DET	
+中規中矩:Vi	
+整體:N	而言:Vt	
+不管:C	是:Vt	正餐:N	或是:C	宵夜:N	都:ADV	會:ADV	是:Vt	不錯:Vi	的:T	選擇:N	時常:ADV	默默:ADV	想起:Vt	時:POST	
+就:ADV	想:Vt	流:Vt	口水:N	呀:T	
+BOBO:FW	小結:N	
+交通:N	：:COLONCATEGORY	基本:N	上:POST	不:ADV	在:P	各:DET	大:Vi	捷運:N	附近:N	
+開車:Vi	騎車族:N	會:ADV	比較:ADV	方便:Vi	一些:DET	
+開車:Vi	的:T	人:N	可以:ADV	停:Vt	在:P	對面:N	
+的:T	大潤:Vi	發:Vt	
+服務:Nv	：:COLONCATEGORY	除了:P	水餃:N	以外:POST	
+上菜:Vi	速度:N	非常:ADV	快:Vi	
+服務:Nv	人員:N	應該:ADV	滿:ADV	累:Vt	的:T	
+沒:Vt	什麼:DET	笑容:N	
+食物:N	：:COLONCATEGORY	他們:N	的:T	主打:Nv	其實:ADV	次:M	炸:Vt	麻麵:N	或:C	黑:Vi	麻麵:N	
+但:C	我:N	個:M	人:N	偏愛:Vt	沙茶麵:N	
+他:N	的:T	水餃:N	也:ADV	很:ADV	有:Vt	特:ADV	
+色:N	
+今天:N	剛好:ADV	沒:ADV	吃:Vt	就:ADV	沒:ADV	拍:Vt	了:ASP	
+環境:N	：:COLONCATEGORY	不:ADV	是:Vt	很:ADV	乾淨:Vi	
+坐下來:Vi	點:M	餐:N	時:POST	
+還:ADV	有:Vt	上:DET	一:DET	位:M	客人:N	留在:Vt	桌:N	上:N	的:T	一些:DET	碎肉:N	...:ETCCATEGORY	
+價位:N	：:COLONCATEGORY	麵類:N	35:DET	-:DASHCATEGORY	110:DET	間:M	都:ADV	有:Vt	
+以:P	他:N	的:T	美味:Vi	程度:N	來:ADV	說:Vt	
+CP:FW	值:N	很:ADV	高:Vi	呀:T	
+再:ADV	訪率:N	：:COLONCATEGORY	愛店:N	之:T	一:DET	囉:T	

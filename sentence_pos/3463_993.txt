@@ -1,0 +1,235 @@
+phoennivia:FW	(:PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義:N	NOLAKitchen:FW	紐澳良:N	小:Vi	廚:N	
+Mon:FW	
+Aug:FW	
+25:DET	
+22:DET	::COLONCATEGORY	31:DET	::COLONCATEGORY	49:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	NOLAKitchen:FW	紐澳良:N	小:Vi	廚:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	信義路:N	五段:N	150巷:N	14弄:N	16:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2722:DET	-:DASHCATEGORY	7662:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	~:FW	週五:N	11:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	，:COMMACATEGORY	週六:N	、:PAUSECATEGORY	週日:N	及:C	國定:A	假日:N	09:DET	::COLONCATEGORY	00:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	300:DET	~:FW	400:DET	元:M	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.nola.com.tw:FW	/:FW	
+blogger:FW	圖文版:N	台北:N	餐廳:N	--:DASHCATEGORY	
+信義:N	
+美式:A	料理:N	
+NOLAKitchen:FW	紐澳良:N	小:Vi	廚:N	＊:FW	台北:N	101:DET	象山:N	夜景:N	http:FW	::COLONCATEGORY	/:FW	/:FW	phoennivia.blogspot.tw/2014/08/nola-kitchentaipei-101.html:FW	
+週六:N	晚上:N	有空:Vi	嗎:T	
+有:Vt	啊:T	
+要約:N	吃飯:Vi	嗎:T	
+好:Vi	啊:T	
+飛快:ADV	地:T	在:P	鍵盤:N	上:N	打上:Vt	這:DET	幾:DET	個:M	字:N	
+腦袋:N	也:ADV	不停:ADV	轉動:Vt	
+有:Vt	好幾:DET	家:M	口袋:N	名單:N	
+但:C	最後:N	決定:Vt	了:ASP	名單:N	之外:POST	的:T	紐奧良:N	小:Vi	廚:N	
+原因:N	無:Vt	他:N	
+因為:C	更:ADV	久:Vi	之前:POST	的:T	象山:N	夜景:N	之:T	約:ADV	還:ADV	沒:ADV	兌現:Vt	呢:T	
+位在:Vt	象山:N	山腳:N	下:N	的:T	紐澳良:N	小:Vi	廚:N	是:Vt	家:N	熱門:Vi	的:T	小店:N	
+座位:N	不:ADV	多:Vi	的:T	它:N	總是:ADV	高朋滿座:Vi	
+只:ADV	訂到:Vt	早早:ADV	的:T	五點鐘:N	
+不過:C	這樣:Vi	也好:T	
+吃完:Vt	趁著:P	天色:N	還:ADV	沒:ADV	全暗:Vi	
+就:ADV	可以:ADV	上山:Vi	去:ADV	
+店:N	內:N	是:Vt	簡潔:Vi	明亮:Vi	的:T	灰黑:N	色調:N	
+但:C	卻:ADV	也:ADV	可以:ADV	找到:Vt	熱情:Vi	的:T	橘紅:N	元素:N	
+爵士:N	、:PAUSECATEGORY	美食:N	、:PAUSECATEGORY	紐澳:N	良:Vi	
+是:Vt	曾:ADV	旅居:Vt	紐澳良:N	的:T	店主:N	人:N	想:Vt	帶給:Vt	大家:N	的:T	感受:N	
+一:DET	邊:N	等:Vt	著:ASP	朋友:N	到來:Nv	
+一:DET	邊:N	翻閱:Vt	著:ASP	菜單:N	
+爵士:N	早:Vi	午餐:N	、:PAUSECATEGORY	特色:N	小食:N	、:PAUSECATEGORY	紐澳良:N	特餐:N	、:PAUSECATEGORY	紐澳良:N	傳統:N	米食:N	
+有:Vt	些:M	是:Vt	熟悉:Vt	的:T	菜色:N	
+但:C	更:ADV	想:Vt	試試:Vt	的:T	從:P	沒:ADV	嘗:Vt	過:ASP	的:T	滋味:N	
+楓糖:N	鬆餅:N	炸雞:N	
+大:Vi	份:M	340:DET	元:M	
+是:Vt	源自:Vt	紐澳良:N	的:T	創意:N	美食:N	
+傳統:Vi	的:T	南方:N	炸雞:N	配上:Vt	淋:Vt	了:ASP	楓糖:N	的:T	甜甜:Vi	鬆餅:N	
+這:DET	搭配:Nv	感覺:N	有點:ADV	衝突:Vi	
+不過:C	吃起來:ADV	可是:C	意想不到:Vt	的:T	微妙:Vi	喔:T	
+炸成:Vt	褐色:N	的:T	炸雞:N	外皮:N	吃:Vt	來:ADV	薄:Vi	脆:Vi	
+沒有:ADV	太多:Vi	的:T	調味:N	
+只:ADV	撒上:Vt	了:ASP	點點:DET	綠色:N	的:T	茴香:N	及:C	些許:DET	的:T	楓糖:N	
+吃:Vt	來:ADV	多:ADV	是:Vt	雞肉:N	本身:N	的:T	滋味:N	
+還:ADV	有:Vt	淡淡:Vi	的:T	楓糖:N	甜味:N	
+炸雞:N	不若:C	想像:Vt	中:POST	的:T	汁:N	多:Vi	味:N	美:Vi	
+雖然:C	不至於:ADV	乾瘦:Vi	老柴:N	
+但是:C	就是:C	少:Vi	了:ASP	點:M	吃:Vt	炸雞:N	那:DET	止不住:Vt	的:T	雞汁:N	從:P	嘴角:N	流下:Vt	的:T	快感:N	
+可是:C	我:N	現在:N	就是:C	想要:Vt	吃:Vt	這:DET	種:M	高:Vi	熱量:N	食物:N	嘛:T	
+聽到:Vt	大家:N	評語:N	好像:ADV	不如:Vt	想像:N	中:POST	來得:ADV	好:Vi	
+友人:N	替:P	鬆餅:N	炸雞:N	發出:Vt	了:ASP	不平:Vi	之:T	鳴:Nv	
+好:Vi	吧:T	
+高:Vi	熱量:N	這:DET	點:M	我:N	想:Vt	應該:ADV	是:Vt	有:Vt	達:Vt	標的:N	
+鬆餅:N	的:T	口感:N	較:ADV	一般:A	下午茶店:N	的:T	鬆餅:N	要:ADV	來得:ADV	濕潤:Vi	一些:DET	
+鬆餅:N	的:T	空氣:N	隙縫:N	多:Vi	而:C	大:Vi	
+正好:ADV	讓:Vt	楓糖:N	流入:Vt	這些:DET	密密:Vi	的:T	孔隙:N	中:POST	
+吃起來:ADV	口感:N	較為:ADV	粗糙:Vi	
+但:C	也:ADV	充滿:Vt	了:ASP	楓糖:N	的:T	甜蜜:Nv	滋味:N	
+人數:N	不:ADV	多:ADV	可:ADV	點:Vt	小:Vi	份:M	的:T	楓糖:N	鬆餅:N	炸雞:N	
+小:Vi	份:M	280:DET	元:M	
+兩:DET	人:N	分食:Vt	或是:C	小:Vi	試:Vt	味道:N	也:ADV	不錯:Vi	
+無骨牛:Vi	小:Vi	排:Vt	燉飯:Vt	
+320:DET	元:M	
+壓頂:N	的:T	是:Vt	好幾:DET	塊:M	牛:N	小:Vi	排:Vt	
+雖然:C	邊緣:N	可以:ADV	看到:Vt	一些:DET	偏:ADV	白:Vi	的:T	油脂:N	
+但:C	吃起來:ADV	仍:ADV	是:Vt	有:Vt	些:M	偏:ADV	瘦:Vi	
+有點:ADV	咬:Vt	不斷:Vi	的:T	它:N	需要:Vt	較:ADV	多:Vi	咀嚼:Vt	
+只:ADV	灑上:Vt	些許:DET	香料:N	調味:Vi	
+品嘗:Vt	的:T	是:Vt	清淡:Vi	的:T	原味:N	
+只是:ADV	沒想到:ADV	期待:Vt	有:Vt	著:ASP	濃濃:Vi	起司:N	奶:N	香味:N	的:T	燉飯:Vt	滋味:N	也:ADV	一樣:Vi	清淡:Vi	
+雖然:C	正統:A	燉飯米:Vt	心:N	會:ADV	有:Vt	些:M	偏:ADV	硬:Vi	
+但:C	這:DET	道:M	牛:N	小:Vi	排:Vt	燉飯:Vt	的:T	整:DET	粒:M	米飯:N	吃起來:ADV	都:ADV	偏:ADV	硬:Vi	
+這:DET	
+正常:Vi	嗎:T	
+配盤:N	的:T	還:ADV	有:Vt	青花:N	椰:N	、:PAUSECATEGORY	番茄:N	及:C	地瓜:N	
+滋味:N	清爽:Vi	
+有:Vt	蛤蜊:N	、:PAUSECATEGORY	花枝:N	和:C	鮮蝦:N	點綴:Vt	的:T	紐澳良:N	海鮮:N	飯:N	
+360:DET	元:M	
+味道:N	濃郁:Vi	多:Vi	了:T	
+偷偷:ADV	吃:Vt	了:ASP	一:DET	小:Vi	口:N	
+嘴:N	中:POST	馬上:ADV	充滿:Vt	了:ASP	番茄:N	濃郁:Vi	的:T	酸味:N	
+米飯:N	是:Vt	偏:ADV	濕:Vi	軟:Vi	的:T	口感:N	
+吃:Vt	來:ADV	稍:ADV	嫌:Vt	糊爛:Vi	了:ASP	一些:DET	
+但:C	微:ADV	酸:Vi	滋味:N	配上:Vt	鮮紅:Vi	色澤:N	讓:Vt	人:N	胃口:N	大開:Vt	
+肯瓊:N	鮮蝦:N	寬:Vi	麵:N	
+320:DET	元:M	
+的:T	麵條:N	吃:Vt	來:ADV	相當:ADV	具有:Vt	嚼:Vt	勁:N	
+香辣:N	鮮明:Vi	的:T	調味:N	有點:ADV	類似:Vt	卡:ADV	真:Vi	風味:N	．:PERIODCATEGORY	舌頭:N	上:N	的:T	微:ADV	辣:Vi	感:N	及:C	層次:N	豐富:Vt	的:T	辛:Vi	香料:N	令:Vt	人:N	印象:N	深刻:Vi	
+焦黑魚:N	
+430:DET	元:M	
+果然:ADV	菜:N	如:P	其:DET	名:M	－:FW	真的:ADV	很:ADV	黑:Vi	
+將:ADV	沾滿:Vt	了:ASP	卡:N	真:ADV	
+Cajun:FW	
+香料:N	的:T	魚:N	排:Vt	放入:Vt	燒:Vt	得:T	熾熱:Vi	的:T	鍋:N	中:POST	香煎:N	
+雖然:C	外表:N	呈現:Vt	焦黑:Vi	
+但是:C	內裡:N	的:T	魚肉:N	依然:ADV	鮮嫩:Vi	
+試:Vt	吃:Vt	了:ASP	一口:ADV	
+還:ADV	能:ADV	吃到:Vt	滿滿:Vi	的:T	鮮甜:Vi	魚:N	汁:N	
+嗆:Vi	辣:Vi	的:T	卡:N	真:Vi	風味:N	蓋過:Vt	了:ASP	魚:N	的:T	原味:N	
+但:C	濃烈:Vi	的:T	口味:N	吃起來:ADV	很:ADV	過癮:Vi	
+大呼:Vt	著:ASP	要:ADV	補充:Vt	高:Vi	熱量:N	的:T	朋友:N	還:ADV	點:Vt	了:ASP	德州:N	烤:Vt	豬:N	肋排:N	
+430:DET	元:M	
+光:ADV	是:Vt	看:Vt	它:N	那:DET	油油亮亮:Vi	的:T	外表:N	
+就:ADV	讓:Vt	人:N	覺得:Vt	熱量:N	爆表:N	
+不過:C	豬:N	肋:N	排:Vt	吃起來:ADV	不若:C	看起來:ADV	那樣:ADV	油膩:Vi	
+豬肋排:N	煮:Vt	得:T	相當:Vi	透:ADV	
+只:ADV	需要:Vt	刀叉:N	輕輕:Vi	一:ADV	劃:Vt	便:ADV	可:ADV	輕易:ADV	分開:Vt	
+可惜:Vi	的:T	是:Vt	肉汁:N	沒:ADV	保留:Vt	太多:DET	
+醬汁:N	流光:N	後:POST	便:ADV	覺:Vt	有:Vt	些:M	偏:ADV	乾:Vi	
+因為:C	飯:N	後:POST	還要:ADV	爬:Vi	象山:N	
+所以:C	友人:N	都:ADV	點:Vt	了:ASP	輕飲:Vt	
+像:P	現:N	打:Vt	水果:N	優格冰沙:N	
+綜合:A	野莓:N	140:DET	元:M	
+或:C	可口可樂:N	
+70:DET	元:M	
+不過:C	紐澳良:N	小:Vi	廚:N	也:ADV	有:Vt	各:DET	種:M	酒類:N	及:C	調:Vt	酒:N	可:ADV	選:Vt	
+飽餐一頓:Vi	後:POST	
+也:ADV	很:ADV	適合:Vi	在:P	這裡:N	和:C	朋友:N	度過:Vt	小酌:Vi	談心:Vi	的:T	週末:N	夜:N	
+因為:C	用餐:Vi	有:Vt	一:DET	個:M	半:DET	小時:N	的:T	限制:N	
+所以:C	用完:Vt	餐:N	後:POST	沒:Vt	多:ADV	久:Vi	
+我們:N	便:ADV	開始:Vt	邁向:Vt	通往:Vt	象山:N	的:T	登山:Nv	步道:N	
+不過:C	這:DET	真的:ADV	不:ADV	是:Vt	個:M	明智:Vi	的:T	決定:N	
+強烈:Vi	建議:N	用完:Vt	餐:N	的:T	朋友:N	可以:ADV	在:P	對面:N	公園:N	歇息:Vi	一會兒:N	再:ADV	上山:Vi	
+不:ADV	是:Vt	第一:DET	次:M	登:Vt	象山:N	
+但:C	吃飽:Vi	飯:N	後:POST	就:ADV	登:Vt	象山:N	還:ADV	真的:ADV	是:Vt	頭:DET	一:DET	遭:M	
+悶熱:Vi	的:T	八月:N	傍晚:N	
+帶:Vt	著:ASP	滿腹:Vi	的:T	食物:N	登山:Nv	
+真的:ADV	不:ADV	是:Vt	明智之舉:N	
+抬頭:Vi	望去:Vi	
+迎接:Vt	我們:N	的:T	是:Vt	一連串:A	的:T	斜坡:N	及:C	陡:Vi	梯:N	
+為了:P	提供:Vt	雙腿:N	抬起:Vt	的:T	能量:N	
+身體:N	正:ADV	源源不絕:Vi	地:T	製造:Vt	著:ASP	動能:N	
+一顆顆:DET	斗大:A	的:T	汗珠:N	不停:ADV	落下:Vt	
+好:ADV	熱:Vt	
+肚子:N	又:ADV	好:ADV	飽:Vi	
+不:ADV	知道:Vt	為什麼:ADV	此:DET	時:POST	我:N	突然:ADV	想起:Vt	了:ASP	騎:Vt	舊:Vi	草嶺:N	環狀線:N	時:POST	的:T	情景:N	
+路程:N	剛:ADV	過:Vt	一半:DET	
+我們:N	稍事:ADV	休息:Vi	後:POST	便:ADV	準備:Vt	登上:Vt	三貂角:N	燈塔:N	
+我:N	還:ADV	記得:Vt	那時:N	可以:ADV	清楚:Vi	聽見:Vt	自己:N	的:T	心跳聲:N	
+就:ADV	跟:P	現在:N	我:N	也:ADV	能:ADV	聽見:Vt	自己:N	的:T	心跳聲:N	一樣:Vi	
+幾:DET	個:M	相同:Vi	的:T	夥伴:N	
+同樣:Vi	停:Vt	都:ADV	沒:ADV	停:Vt	的:T	就:ADV	往:P	高處:N	走去:Vi	
+從事:Vt	爬山:Vi	這:DET	類:M	耗體力:Vi	的:T	事:N	
+最:ADV	高:Vi	原則:N	就:ADV	是:Vt	不:ADV	勉強:Vt	自己:N	
+在:P	半途:N	都:ADV	停下來:Vt	休息:Vi	兩:DET	次:M	的:T	我:N	
+終於:ADV	到:Vt	了:ASP	第一:DET	個:M	觀景:N	台:N	
+擦:Vt	了:ASP	擦:Vt	快要:ADV	流進:Vt	眼:N	中:POST	的:T	汗:N	
+視線:N	終於:ADV	開始:Vt	清晰:Vi	．:PERIODCATEGORY	綴:Vt	著:ASP	寶藍色:N	的:T	燈光:N	的:T	是:Vt	再:ADV	熟悉:Vt	不過:ADV	的:T	101:DET	
+台北:N	的:T	夜晚:N	
+飄漾:Vi	著:ASP	一:DET	種:M	和:C	白天:N	截然不同:Vi	的:T	風情:N	
+隨著:P	腳步:N	越來越:ADV	接近:Vi	山頂:N	
+眼前:N	台北:N	也:ADV	慢慢:Vi	在:P	眼前:N	開展:Vt	
+躲:Vt	在:P	樹叢:N	後:POST	的:T	信義區:N	
+露出:Vt	了:ASP	它:N	的:T	另外:ADV	半:DET	邊:N	臉:N	
+河岸:N	的:T	另:DET	一:DET	端:N	
+美麗華:N	的:T	摩天輪:N	正在:ADV	黑夜:N	中:POST	閃耀:Vi	著:ASP	
+101:DET	的:T	跨年:A	煙火:N	
+向來:ADV	是:Vt	登:Vt	象山:N	的:T	熱門:Vi	時期:N	
+但:C	即使:C	是:Vt	平常日:N	的:T	夜裡:N	
+這裡:N	還是:ADV	有:Vt	許多:DET	攝影:N	愛好:Vt	著:ASP	駐足:Vi	
+一:DET	字:N	排開:Vi	的:T	腳架:N	
+正:ADV	標註:Vt	著:ASP	象山:N	夜景:N	的:T	魅力:N	指數:N	
+雖然:C	我:N	也:ADV	帶上:Vt	了:ASP	腳架:N	
+但:C	此刻:N	只:ADV	想:Vt	好好:Vi	享受:Vt	眼前:N	的:T	美景:N	
+不:ADV	在乎:Vt	手:N	震:Vt	
+不:ADV	在乎:Vt	無法:ADV	長曝:N	
+不用:ADV	刻意:ADV	調教:Vt	腳架:N	
+單純:Vi	地:T	享受:Vt	著:ASP	這:DET	一:DET	刻:M	
+放鬆:Vt	地:T	吹:Vt	著:ASP	輕拂:Vt	過:ASP	山:N	邊:N	的:T	微風:N	
+週末:N	的:T	夜:N	
+適合:Vi	輕鬆:Vi	地:T	過:N	、:PAUSECATEGORY	慢慢:Vi	地:T	活:Vi	
+這:DET	時候:N	的:T	信義區:N	
+我:N	想:Vt	一定:ADV	走:Vi	滿:Vt	了:ASP	逛街:Vi	的:T	男男女女:N	
+有:Vt	人:N	準備:Vt	著:ASP	去:ADV	看:Vt	電影:N	
+有:Vt	人:N	提:Vt	著:ASP	血:N	拚:Vi	的:T	戰利品:N	
+有:Vt	人:N	走:Vi	在:P	前往:Vt	餐廳:N	的:T	路:N	上:N	
+有:Vt	人:N	駐足:Vi	在:P	街頭:N	藝人:N	前:POST	看:Vt	著:ASP	表演:N	
+站:Vi	在:P	象山:N	上:N	看:Vt	著:ASP	繁華:Vi	的:T	街景:N	
+聽:Vt	不:ADV	見:Vt	人:N	紛:ADV	雜沓:Vi	、:PAUSECATEGORY	車流:N	喧囂:Nv	
+反而:C	有:Vt	種:M	看:Vt	著:ASP	一:DET	幅:M	畫:N	的:T	抽離感:N	
+熟悉:Vt	又:ADV	陌生:Vi	
+或許:ADV	是:Vt	太:ADV	久:Vi	沒有:Vt	好好:Vi	看過:Vt	台北:N	的:T	夜晚:N	了:T	吧:T	
+川流不息:Vi	的:T	車河:N	、:PAUSECATEGORY	五彩繽紛:Vi	的:T	霓虹燈:N	
+在:P	此刻:N	都:ADV	抽成:Vt	真空:N	
+凝成:Vt	一筆筆:DET	刻畫:Vt	著:ASP	台北:N	的:T	顏色:N	
+走:Vi	在:P	象山:N	步道:N	上:N	
+每隔:P	一段:N	便有:Vt	座觀景台:N	
+提醒:Vt	著:ASP	遊人:N	放慢:Vt	腳步:N	
+停下來:Vt	欣賞:Vt	一下:N	這:DET	座:M	城市:N	獨特:Vi	的:T	美麗:Vi	
+衡量:Vt	自己:N	的:T	腳程:N	與:C	體力:N	
+選擇:Vt	一:DET	個:M	你:N	喜歡:Vt	的:T	點:N	
+拍下:Vt	幾:DET	張:M	你:N	喜歡:Vt	的:T	照片:N	
+浪漫:Vi	地:T	度過:Vt	一:DET	個:M	台北:N	專屬:Vt	的:T	夜:N	
+越:ADV	往:P	上:N	走:Vi	
+人煙:N	也:ADV	越:ADV	罕:ADV	至:Vt	．:PERIODCATEGORY	鳥叫:N	、:PAUSECATEGORY	蛙鳴:N	、:PAUSECATEGORY	風聲:N	
+還:ADV	有:Vt	自己:N	的:T	呼吸聲:N	
+離:P	熱鬧:Vi	的:T	街區:N	如此:ADV	近:Vi	
+但:C	卻:ADV	如此:ADV	靜:Vi	
+沒:ADV	特別:Vi	喜歡:Vt	逛街:Vi	
+但:C	喜歡:Vt	這樣:ADV	靜靜:Vi	地:T	看:Vt	著:ASP	街區:N	
+不:ADV	喜歡:Vt	人:N	多:Vi	
+但:C	喜歡:Vt	人:N	多:Vi	的:T	地方:N	構築出:Vt	的:T	都市:N	光景:N	
+不管:C	是:Vt	哪:DET	一:DET	座:M	城市:N	
+我:N	想:Vt	旅人:N	總:ADV	能:ADV	找到:Vt	一:DET	個:M	愛上:Vt	它:N	的:T	理由:N	
+走到:Vt	了:ASP	象:N	山頂:N	
+也:ADV	走到:Vt	了:ASP	步道:N	的:T	中途:N	
+下山:Vi	的:T	路:N	不只:ADV	一:DET	條:M	
+我們:N	選:Vt	了:ASP	通往:Vt	永春崗:N	公園:N	的:T	那:DET	條:M	走去:Vi	
+通往:Vt	永春崗:N	的:T	路:N	上:POST	格外:ADV	僻靜:Vi	
+連:C	路燈:N	也:ADV	沒有:Vt	幾:DET	盞:M	
+或許:ADV	也:ADV	是:Vt	因為:C	這樣:Vi	的:T	緣故:N	
+樹林:N	後:POST	的:T	都市:N	燈光:N	也:ADV	益發:ADV	晶亮:Vi	
+記:Vt	不得:ADV	是:Vt	第幾:DET	個:M	轉彎:N	
+另:DET	一:DET	個:M	角度:N	的:T	101:DET	就:ADV	在:P	樹林:N	後:POST	現身:Vi	
+城市:N	的:T	喧囂:Nv	．:PERIODCATEGORY	彷彿:ADV	就:ADV	凝結:Vi	在:P	這:DET	個:M	時刻:N	
+獨享:Vt	的:T	美景:N	
+是:Vt	走:Vi	在:P	孤獨:Vi	路:N	上:N	的:T	神秘:Nv	禮物:N	
+沒:ADV	急:Vi	著:ASP	下山:Vi	
+更多:DET	時候:N	是:Vt	停下:Vt	腳步:N	
+吹:Vt	著:ASP	夏:N	夜裡:N	的:T	那:DET	股:M	涼風:N	
+享受:Vt	不:ADV	一樣:Vi	的:T	台北:N	風情:N	
+兩:DET	個:M	小時:N	的:T	象山:N	之:T	行:N	
+終於:ADV	在:P	我們:N	看到:Vt	象山:N	捷運站:N	後:POST	畫下:Vt	句點:N	
+下:DET	回:M	再:ADV	來:ADV	吧:T	
+日落:Vi	之前:POST	就:ADV	上山:Vi	
+期待:Vt	著:ASP	被:P	夕陽:N	染紅:Vi	的:T	天:N	

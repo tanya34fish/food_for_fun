@@ -1,0 +1,45 @@
+pulopulo:FW	1211:DET	(:PARENTHESISCATEGORY	晴天:N	悠悠:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	抱怨:Vt	]:PARENTHESISCATEGORY	台北:N	大同區:N	竹城:N	日式:A	料理:N	（:PARENTHESISCATEGORY	團購券:N	）:PARENTHESISCATEGORY	
+Tue:FW	
+Aug:FW	
+12:DET	
+16:DET	::COLONCATEGORY	03:DET	::COLONCATEGORY	34:DET	
+2014:DET	
+抱怨:Vt	
+台北:N	大同區:N	竹城:N	日式:A	料理:N	
+團購券:N	
+TueAug:FW	1216:DET	::COLONCATEGORY	03:DET	::COLONCATEGORY	342014:DET	
+在:P	民生東路:N	和:C	承德路:N	的:T	交叉口:N	、:PAUSECATEGORY	四:DET	神:N	湯:N	的:T	對面:N	
+每:DET	次:M	經過:Vt	都:ADV	覺得:Vt	很:ADV	有:Vt	味道:N	的:T	日式:A	小:Vi	館:N	
+在:P	Groupon:FW	看見:Vt	雙人:N	吃到:Vt	飽:Vi	$:FW	799:DET	
+原價:N	一:DET	人:N	$:FW	550:DET	
+很:ADV	高興:Vt	的:T	買來:Vt	預約:Vt	了:ASP	一:DET	天:M	中午:N	去:ADV	吃:Vt	
+沒想到:ADV	卻:ADV	是:Vt	氣:N	到:P	吐:Vt	血:N	、:PAUSECATEGORY	悶:Vi	到:P	爆:Vi	
+*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	抱怨:Vt	文:N	分割:Vt	線:N	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	
+明明:ADV	是:Vt	吃:Vt	到:P	飽:Vi	
+服務生:N	卻:ADV	在:P	一:DET	開始:Vi	就:ADV	說明:Vt	只:ADV	能:ADV	點:Vt	三:DET	輪:M	餐點:N	
+單品:N	項:M	一:DET	輪:M	只:ADV	能:ADV	點:Vt	一:DET	份:M	
+這:DET	規定:N	並:ADV	沒有:ADV	在:P	團購:Vt	網:N	上:POST	說:Vt	過:ASP	
+明明:ADV	是:Vt	日式:A	料理店:N	
+才:ADV	中午:N	米飯:N	竟然:ADV	就:ADV	已經:ADV	
+沒:Vt	了:ASP	
+做:Vt	不:ADV	出握:Vi	壽司:N	
+前:DET	十:DET	分鐘:M	才:ADV	跟:P	我們:N	說:Vt	我們:N	第一:DET	輪:M	的:T	餐點:N	剩握:N	壽司:N	沒:ADV	上:Vt	
+過:Vt	一陣子:N	等:POST	不:ADV	到:Vt	再:ADV	問:Vt	竟然:ADV	改口:Vi	說:Vt	今天:N	並:ADV	
+沒有:ADV	提供:Vt	
+握:Vt	壽司:N	
+我:N	都:ADV	聽到:Vt	吧檯:N	廚師:N	跟:P	你:N	說說:Vt	米:N	沒:Vt	了:ASP	還:ADV	敢:Vt	理直氣壯:Vi	的:T	騙人:Nv	
+用餐:Nv	環境:N	沒:Vt	冷氣:N	就:ADV	算了:Vi	
+我們:N	坐:Vi	吧檯:N	竟然:ADV	從:P	吧檯:N	縫隙:N	跑出:Vt	一:DET	堆:M	螞蟻:N	吃:Vt	我們:N	的:T	剩菜:N	
+然後:ADV	我們:N	又:ADV	在:P	沙拉:N	的:T	日式:A	醬汁:N	裡:N	發現:Vt	了:ASP	已經:ADV	死掉:Vi	的:T	螞蟻:N	
+不:ADV	是:Vt	新鮮:Vi	自己:N	跑進去:Vt	自殺:Vi	的:T	
+跟:P	服務:Nv	人員:N	反應:N	竟然:ADV	裝做:Vt	沒:ADV	聽到:Vt	就:ADV	走:Vi	了:ASP	
+餐廳:N	備:Vt	料:N	不足:Vi	、:PAUSECATEGORY	用餐:Nv	環境:N	不:ADV	乾淨:Vi	、:PAUSECATEGORY	服務:Nv	人員:N	態度:N	不佳:Vi	
+非常:ADV	糟糕:Vi	
+*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	理智:Vi	恢復:Vt	分割:Vt	線:N	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	*:FW	
+我:N	想:Vt	這:DET	個:M	狀況:N	應該:ADV	不:ADV	是:Vt	因為:C	團購:Vt	卷:N	的:T	關係:N	
+因為:C	在場:Vi	只要:C	是:Vt	吃到:Vt	飽:Vi	的:T	待遇:N	全部:DET	一樣:Vi	
+而且:C	日式:A	料理店:N	竟然:ADV	在:P	第一:DET	輪:M	米:N	就:ADV	用光:Vt	出:Vt	不:ADV	了:ASP	壽司:N	真的:ADV	是:Vt	誇張:Vt	
+然後:ADV	那:DET	個:M	吧檯:N	螞蟻:N	的:T	數量:N	好像:ADV	吧檯:N	深處:N	可能:ADV	有:Vt	螞蟻:N	穴:N	一樣:Vi	
+如果:C	不:ADV	擔心:Vt	螞蟻:N	和:C	備:Vt	料:N	可能:ADV	不足:Vi	是:Vt	可以:ADV	單:ADV	點烤:Vt	魚類:N	啦:T	
+但是:C	我:N	是:Vt	不會:ADV	再:ADV	去:Vt	了:ASP	

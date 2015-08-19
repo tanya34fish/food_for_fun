@@ -1,0 +1,252 @@
+seagreen:FW	2005:DET	(:PARENTHESISCATEGORY	對:Vi	的:T	時間:N	，:COMMACATEGORY	對:Vi	的:T	人:N	。:PERIODCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	酷:Vi	樂:Vi	漢堡:N	假期:N	-:DASHCATEGORY	西華:N	B-one:FW	自助餐廳:N	
+Wed:FW	
+Jul:FW	
+16:DET	
+20:DET	::COLONCATEGORY	50:DET	::COLONCATEGORY	22:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	台北:N	西華:N	飯店:N	B-one:FW	自助餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2013年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	松山區:N	民生東路:N	三段:N	111:DET	號:M	
+電話:N	：:COLONCATEGORY	(:PARENTHESISCATEGORY	02:DET	):PARENTHESISCATEGORY	2718:DET	-:DASHCATEGORY	1188:DET	轉:Vt	B-one:FW	自助餐廳:N	
+營業:Nv	時間:N	：:COLONCATEGORY	周一:N	至:C	周:N	五:DET	午晚餐:N	/:FW	周末午茶:N	時段:N	(:PARENTHESISCATEGORY	15:DET	::COLONCATEGORY	00:DET	~:FW	17:DET	::COLONCATEGORY	00:DET	):PARENTHESISCATEGORY	供應:Vt	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	雙人:N	同行:Vi	880:DET	+:FW	10:DET	%:M	
+大海:N	怪:Vi	龍蝦堡:N	每:DET	人:N	需:Vt	NTD:FW	$:FW	200:DET	+:FW	10:DET	%加:N	價購:Vt	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	可:ADV	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	鐵漢:N	柔情:N	牛肉堡:N	TheMeatLoversBurger:FW	、:PAUSECATEGORY	
+大海:N	怪:Vi	龍蝦堡:N	TheLobsterMonsterBurger:FW	。:PERIODCATEGORY	(:PARENTHESISCATEGORY	不:ADV	怕:Vt	過敏:Vi	限定:Vt	):PARENTHESISCATEGORY	
+有:Vt	圖:N	有:Vt	真相:N	之:T	美味:Vi	網誌版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	mei30530.pixnet.net/blog/post:FW	/:FW	379531184:DET	
+大家:N	晚安:Vi	
+今晚:N	一起:ADV	來:ADV	嚐嚐:Vt	西華:N	飯店:N	B-one:FW	自助餐廳:N	期間:N	限定:Vt	推出:Vt	的:T	美式:A	大海:N	怪:Vi	龍蝦:N	漢堡:N	吧:T	
+雙人:N	880:DET	+:FW	10:DET	%:M	的:T	價格:N	
+除了:P	漢堡:N	外:N	還:ADV	有:Vt	炸雞:N	、:PAUSECATEGORY	薯條:N	及:C	酒類:N	無限:Vi	暢飲:Vt	
+還:ADV	有:Vt	很:ADV	特別:Vi	的:T	大海:N	怪:Vi	龍蝦:N	漢堡:N	
+連:C	我:N	爹娘:N	都:ADV	被:P	吸引:Vt	
+當然:ADV	要:ADV	衝衝:Vi	看:Vt	囉:T	
+B-one:FW	自助餐廳:N	位於:Vt	西華:N	飯店:N	地:T	下:DET	一樓:N	
+進:Vt	飯店:N	後:N	左側:N	樓梯:N	下樓:Vi	後:POST	
+看到:Vt	門口處:N	繪製:Vt	著:ASP	漢堡:N	圖樣:N	及:C	六格:N	漫畫處:N	
+就是:C	飯店:N	特別:Vi	規畫:Vt	的:T	漢堡:N	用餐區:N	
+往:P	前:N	走:Vi	
+靠:P	右側:N	牆面:N	分別:ADV	是:Vt	人形:N	、:PAUSECATEGORY	熊形:N	、:PAUSECATEGORY	漢堡:N	立牌:N	
+唔:T	
+我:N	覺得:Vt	熊型立牌:N	最:ADV	正常:Vi	可愛:Vi	
+人形:N	立牌:N	看來:ADV	是:Vt	個:M	下:Vt	了:ASP	班:N	正:ADV	準備:Vt	狂觀:N	的:T	普通:Vi	上班族:N	
+而:C	漢堡:N	立牌:N	
+看:Vt	了:ASP	有點:ADV	不:ADV	太:ADV	舒服:Vi	
+奇怪:Vt	的:T	紅黃:N	眼睛:N	加上:C	流:Vt	汁:N	的:T	腰:N	間:N	肉:N	
+雖然:C	上頭:N	寫:Vt	著:ASP	
+EATME:FW	
+但:C	我:N	看:Vt	了:ASP	完全:ADV	不:ADV	想:Vt	吃:Vt	啊:T	orz:FW	餐廳:N	提供:Vt	的:T	吃:Vt	漢堡:N	須知:N	
+以:P	簡單:Vi	的:T	六格:N	漫畫:N	表達出:Vt	美式:A	的:T	黑色:N	幽默:Vi	
+餐廳:N	特別:Vi	從:P	自助餐廳:N	中:N	隔出:Vt	專用區:N	提供給:Vt	客人:N	
+配合:Vt	漢堡:N	假期:N	活動:N	
+期間:N	舉辦:Vt	快嘴王:N	挑戰賽:N	
+當日:N	凡:C	點:Vt	鐵漢:N	柔情:N	牛肉堡:N	者:N	即可:ADV	參加:Vt	快嘴王:N	挑戰賽:N	
+除:P	可:ADV	獲得:Vt	B-one:FW	自助餐廳:N	8:DET	折:M	優惠券:N	外:POST	
+以:P	最:ADV	短:Vi	時間:N	吃完:Vt	漢堡:N	的:T	優勝:Vi	者:N	更:ADV	可:ADV	獲得:Vt	B-one:FW	自助餐:N	平日:N	午晚餐:N	免費:Vi	餐券:N	一:DET	張:M	
+而:C	晉級:Vt	總決賽:N	挑戰:N	之:T	優勝:Vi	者:N	即可:ADV	獲:Vt	最:ADV	大獎:N	達美:N	航空:N	
+台灣:N	-:DASHCATEGORY	美國:N	任一:DET	城市:N	往返:Vt	機票:N	
+乙:DET	張:M	獎品:N	頗為:ADV	豐厚:Vi	
+牆:N	上:N	張貼:Vt	著:ASP	快嘴王:N	記錄:Vt	排行榜:N	
+最:ADV	快:Vi	的:T	是:Vt	3:DET	分內:A	吃完:Vt	
+真是:ADV	厲害:Vi	
+特別:Vi	一:ADV	提:Vt	
+當天:N	四:DET	人:N	同行:N	
+只有:ADV	點:Vt	一:DET	份:M	鐵漢:N	柔情:N	漢堡:N	
+不過:C	餐廳:N	服務:Nv	人員:N	主動:Vi	送上:Vt	四:DET	張:M	自助餐廳:N	的:T	八:DET	折:M	卷:N	
+不:ADV	曉得:Vt	是:Vt	不:ADV	是:Vt	只要:C	用餐:Vi	
+就:P	人人:N	有:Vt	獎:N	
+餐廳:N	右側:N	有:Vt	配備:N	一:DET	台:M	飛鏢機:N	及:C	彈珠台:N	
+我們:N	主要:ADV	是:Vt	為了:P	吃:Vt	漢堡:N	而:C	來:ADV	
+對:P	玩樂:Vi	興趣:N	不:ADV	大:Vi	
+不過:C	倒是:ADV	看到:Vt	其他:DET	桌:N	的:T	大人:N	帶:Vt	著:ASP	小朋友:N	玩:Vt	的:T	很:ADV	開心:Vi	
+後方:N	左側:N	的:T	小:Vi	房間:N	內:N	
+是:Vt	無限:Vi	暢飲:Vt	的:T	自取:Vt	飲料區:N	
+提供:Vt	汽水:N	如:P	可樂:N	、:PAUSECATEGORY	雪碧:N	、:PAUSECATEGORY	芬達:N	及:C	調:Vt	酒:N	、:PAUSECATEGORY	啤酒:N	
+調:Vt	酒:N	共有:Vt	二:DET	款:M	
+當場:ADV	現:ADV	調:Vt	
+供:Vt	客人:N	自取:Vt	
+主要:ADV	是:Vt	以:P	威士忌:N	搭配:Vt	蘇打水:N	及:C	可樂:N	等:POST	
+會:ADV	以:P	檸檬:N	、:PAUSECATEGORY	柳橙:N	、:PAUSECATEGORY	罐頭:N	櫻桃:N	等:POST	裝飾:N	
+威士忌:N	可樂:N	可樂:N	加波本:N	威士忌:N	
+酒味:N	較:ADV	重:Vi	
+帶有:Vt	微微:A	的:T	可樂:N	甜味:N	
+威士忌:N	汽水:N	薑汁:N	汽水:N	配:Vt	波本:N	威士忌:N	
+清淡:Vi	到:Vt	幾乎:ADV	喝:Vt	不:ADV	出:Vt	有:Vt	甜味:N	或:C	酒味:N	
+百威:N	啤酒:N	大:Vi	箱:N	裝滿:Vt	冰塊:N	及:C	玻璃:N	罐裝:A	啤酒:N	
+任:Vt	人:N	自取:Vt	
+非常:ADV	豪邁:Vi	
+當天:N	最:ADV	喜歡:Vt	的:T	是:Vt	啤酒:N	
+微微:A	的:T	麥香:N	帶:Vt	點:M	苦澀:Vi	
+剛:ADV	喝:Vt	不:ADV	太:ADV	習慣:Vt	
+喝:Vt	多:DET	幾:DET	口:M	就:ADV	覺得:Vt	順口:Vi	回甘:Vi	
+冰冰涼涼:Vi	
+不管:C	是:Vt	搭配:Vt	炸雞:N	、:PAUSECATEGORY	薯條:N	還是:C	漢堡:N	都:ADV	很:ADV	配:Vt	
+天花板:N	上:N	懸掛:Vt	大量:DET	的:T	紅藍:N	二:DET	色:M	三角:N	星星:N	旗:N	
+頗:ADV	有:Vt	歡度:Vt	慶典:N	的:T	味道:N	
+牆面:N	拼貼:Nv	著紅:N	、:PAUSECATEGORY	藍:N	、:PAUSECATEGORY	白:Vi	小:Vi	瓷磚:N	再:ADV	掛上:Vt	串:M	珠簾:N	幕:N	
+讓:Vt	人:N	眼花撩亂:Vi	
+相較:Vi	於:P	天花板:N	及:C	牆面:N	的:T	繁複:Vi	裝飾:N	
+簡單:Vi	的:T	木製:A	桌椅:N	看來:ADV	簡單:Vi	清爽:Vi	多:Vi	了:T	
+今日:N	活動:N	菜單:N	-:DASHCATEGORY	共有:Vt	五:DET	種:M	漢堡:N	可:ADV	供:Vt	選擇:Vt	
+復刻:N	經典:N	牛肉堡:N	ClassicBeefPattyBurger:FW	鐵漢:N	柔情:N	牛肉堡:N	TheMeatLoversBurger:FW	德州:N	女郎:N	辣味堡:N	TheBigTexanChiliMe:FW	atSauceBurger:FW	蔬食:N	主義:N	輕:Vi	漢堡:N	TheLettuceWrapBurger:FW	大海:N	怪:Vi	龍蝦堡:N	TheLobsterMonsterBurger:FW	
+需:ADV	加價:Vi	NTD:FW	$:FW	200:DET	+:FW	10:DET	%:M	
+餐:N	上:N	提供:Vt	了:ASP	鮮豔:Vi	的:T	彩色:A	瓷盤:N	及:C	刀叉:N	等:POST	餐具:N	
+還:ADV	貼心:Vi	的:T	附有:Vt	塑膠:N	手套:N	避免:Vt	弄髒:Vt	手:N	
+醬料:N	有:Vt	番茄醬:N	、:PAUSECATEGORY	芥末醬:N	及:C	辣醬:N	等:POST	
+服務:Nv	人員:N	會:ADV	主動:Vi	送上:Vt	薯條:N	及:C	炸雞:N	到:P	桌:N	邊:N	
+可:ADV	要求:Vt	需要:Vt	的:T	份量:N	
+服務:Nv	人員:N	會:ADV	放置:Vt	於:P	瓷盤:N	上:N	
+薯條:N	跟:P	我:N	預期:Vt	的:T	不:ADV	太:ADV	一樣:Vi	
+本來:ADV	以是:C	是:Vt	帶:Vt	皮:N	的:T	厚:Vi	塊:M	薯條:N	
+結果:ADV	是:Vt	常見:Vi	的:T	細:Vi	薯條:N	
+跟:P	麥當勞:N	的:T	吃起來:ADV	差不多:Vi	
+普普通通:Vi	
+我:N	個:M	人:N	不:ADV	是:Vt	很:ADV	愛:Vt	
+但:C	我:N	爹娘:N	倒是:ADV	覺得:Vt	外皮:N	香:Vi	脆:Vi	
+油瀝:N	得:T	很:ADV	乾淨:Vi	
+吃起來:ADV	挺:ADV	不錯:Vi	
+韓式:N	炸雞:N	
+翅:N	小腿:N	
+平心而論:Vi	
+炸雞:N	滿:ADV	好吃:Vi	的:T	
+外皮:N	香:Vi	脆:Vi	
+雞肉:N	紮實:Vi	
+是:Vt	我:N	喜歡:Vt	炸:Vt	得:T	很:ADV	透:Vi	的:T	偏乾:N	口感:N	
+但是:C	我:N	覺得:Vt	很:ADV	不滿:Vt	的:T	是:Vt	
+主打:Vt	韓式:N	炸雞:N	根本:ADV	名不符實:Vi	啊:T	
+看:Vt	照片:N	就:ADV	知道:Vt	
+就:ADV	只是:ADV	一般:A	的:T	炸雞:N	灑上:Vt	一點點:DET	的:T	蔥花:N	
+照片:N	根本:ADV	看不出來:Vt	
+再:ADV	沾上:Vt	少:Vi	到:P	像:Vt	裝飾:N	的:T	醬汁:N	
+大概:ADV	只有:ADV	2:DET	、:PAUSECATEGORY	3:DET	滴滴:DET	在:P	炸雞:N	上:N	
+我:N	根本:ADV	吃:Vt	不:ADV	出來:Vi	是:Vt	什麼:DET	味道:N	
+大:Vi	受:P	打擊:N	的:T	我:N	還:ADV	特地:ADV	上網:Vi	查:Vt	了:ASP	一下:N	
+真正:A	的:T	韓式:N	炸雞:N	是:Vt	沾滿:Vt	了:ASP	甜甜:Vi	辣辣:Vi	的:T	黏稠:Vi	醬汁:N	再:ADV	灑上:Vt	芝麻:N	好:Vi	嗎:T	
+而且:C	全部:DET	炸雞:N	只:ADV	有:Vt	一:DET	個:M	部位:N	
+就是:C	翅:N	小腿:N	
+我:N	是:Vt	很:ADV	喜歡:Vt	翅:N	小腿:N	的:T	人:N	
+但:C	全部:DET	都:ADV	翅:N	小腿:N	真的:ADV	太:ADV	單調:Vi	了:T	
+雞腿:N	不:ADV	便宜:Vi	我:N	曉得:Vt	
+但:C	至少:ADV	給:Vt	我:N	個:M	雞胸:N	或:C	雞翅:N	吧:T	&:FW	gt:FW	
+_:FW	_:FW	&:FW	lt:FW	
+在:P	入座:Vi	點:M	餐:N	等待:Vt	漢堡:N	上桌:Vi	的:T	時間:N	
+大約:ADV	需:Vt	10:DET	
+15:DET	分鐘:M	左右:POST	
+因為:C	有:Vt	炸雞:N	薯條:N	可:ADV	吃:Vt	打發:Vt	時間:N	倒:ADV	也:ADV	不:ADV	算:Vt	太:ADV	久:Vi	
+考量:Vt	到:P	應該:ADV	是:Vt	現點現:N	作:Vt	
+我:N	覺得:Vt	在:P	可:ADV	理解:Vt	的:T	範圍:N	內:N	
+不過:C	值得:Vi	注意:Vt	的:T	是:Vt	炸雞:N	跟:P	薯條:N	別:ADV	吃:Vt	過量:Vi	
+漢堡:N	份量:N	挺:ADV	紮實:Vi	的:T	
+主菜:N	上:Vt	了:ASP	結果:N	肚子:N	過:ADV	飽:Vi	吃:Vt	不:ADV	下:Vt	就:ADV	尷尬:Vi	了:T	
+大海:N	怪:Vi	龍蝦堡:N	TheLobsterMonsterBurger:FW	上桌:Vi	時:POST	果然:ADV	視覺:N	效果:N	極:ADV	佳:Vi	
+雖然:C	餐廳:N	網頁:N	稱為:Vt	龍蝦:N	
+但:C	其實:ADV	就:ADV	是:Vt	美洲:N	螯:N	龍蝦:N	
+而且:C	體型:N	不:ADV	大:Vi	
+大約:ADV	成年:Vi	男人:N	的:T	巴掌:N	略:ADV	長:Vt	一些:DET	
+漢堡:N	基本:A	的:T	內:N	餡:N	食材:N	有:Vt	番茄:N	、:PAUSECATEGORY	煎烤:Vt	過:ASP	
+的:T	洋蔥:N	、:PAUSECATEGORY	酸:Vi	黃瓜:N	、:PAUSECATEGORY	起:Vt	司片:N	及:C	生菜:N	
+看起來:ADV	頗:ADV	瘦弱:Vi	的:T	螯:N	蝦肉:N	
+軟弱:Vi	無力:Vi	的:T	倒:ADV	在:P	漢堡:N	內:N	餡:N	上:N	
+強烈:Vi	建議:Vt	與:P	其:DET	夾:Vt	在:P	漢堡:N	中:N	吃掉:Vt	
+不如:C	單:ADV	吃:Vt	更:ADV	有:Vt	味道:N	
+餐廳:N	會:ADV	把:P	半:DET	隻:M	螫蝦:Vt	
+蝦身:N	已:ADV	先:ADV	取出:Vt	加:Vt	在:P	漢堡:N	中:POST	
+送:Vt	上桌:Vi	
+但是:C	蝦肉:N	不:ADV	夠:ADV	肥美:Vi	飽滿:Vi	
+口味:N	偏重:Vt	鹹:Vi	
+吃:Vt	不:ADV	出:Vt	蝦肉:N	該:DET	有的:DET	鮮甜:Vi	原味:N	
+而且:C	應該:ADV	是:Vt	冷凍:Nv	進口:Nv	不:ADV	夠:ADV	新鮮:Vi	
+當晚:N	我:N	貪嘴:Vi	偷吃:Vt	了:ASP	二:DET	口:M	
+回家:Vi	就:ADV	過敏:Vi	了:ASP	orz:FW	
+雖然:C	200:DET	+:FW	10:DET	%:M	服務費:N	就:ADV	能:ADV	有:Vt	半:DET	隻:M	螯蝦:N	不:ADV	算:Vt	貴:Vi	
+但:C	以:P	西華:N	飯店:N	該:DET	有的:DET	水準:N	來:ADV	說:Vt	
+食材:N	不:ADV	甚:ADV	新鮮:Vi	實在:ADV	是:Vt	令:Vt	人:N	有:Vt	些:M	失望:Vi	
+螯:N	蝦:N	的:T	大螯:N	可:ADV	吃:Vt	
+已經:ADV	有:Vt	預先:ADV	稍為:ADV	敲碎:Vt	
+服務:Nv	人員:N	會:ADV	提供:Vt	工具:N	方便:Vi	客人:N	食用:Vt	
+如:P	前:N	所:ADV	言:Vt	
+螯肉:N	極少:ADV	偏:ADV	碎:Vi	
+完全:ADV	不如:Vt	預想:Vt	的:T	飽滿:Vi	豐厚:Vi	
+蝦頭:N	看來:ADV	有:Vt	料:N	多:Vi	了:T	
+鐵漢:N	柔情:N	牛肉堡:N	TheMeatLoversBurger:FW	份量:N	最:ADV	紮實:Vi	
+夾有:Vt	雙層:A	肉餡:N	
+本來:ADV	是:Vt	老公:N	想:Vt	點:N	的:T	
+但:C	我:N	想:Vt	大:Vi	口:N	吃:Vt	肉:N	所以:C	搶先:Vi	點:Vt	了:ASP	
+因為:C	是:Vt	我:N	點:Vt	的:T	
+所以:C	動手動腳:Vi	翻來翻去:Vi	XD:FW	漢堡:N	麵包:N	有:Vt	加熱:Vi	烤:Vt	過:ASP	
+外酥內軟:Vi	
+很:ADV	棒:Vi	
+一:ADV	翻開:Vt	就是:C	融化:Vt	牽絲:Vt	的:T	起:Vt	司:N	
+讓:Vt	我:N	的:T	心:N	也:ADV	跟:P	著:ASP	融化:Vt	了:ASP	
+煎:Vt	得:T	微焦:N	的:T	漢堡肉:N	
+又:ADV	厚:Vi	又:ADV	紮實:Vi	
+而且:C	是:Vt	大大:Vi	的:T	二:DET	塊:M	啊:T	
+拿起:Vt	漢堡:N	
+不顧:Vt	形象:N	的:T	一口:ADV	咬下:Vt	
+滿滿:Vi	的:T	肉汁:N	在:P	口:N	中:POST	宛如:Vt	火山:N	爆發:Vt	
+還:ADV	多:ADV	到:P	流出來:Vi	
+粗粒:N	的:T	肉餡:N	彈:Vt	牙:N	又:ADV	充滿:Vt	口感:N	
+非常:ADV	的:T	紮實:Vi	
+令:Vt	人:N	滿足:Vt	到:P	極點:N	
+復刻:N	經典:N	牛肉堡:N	ClassicBeefPattyBurger:FW	因為:C	我:N	搶先:Vi	點:Vt	了:ASP	鐵漢:N	柔情:N	
+老公:N	改點:N	了:T	此:DET	款:M	漢堡:N	
+特別:Vi	之:T	處:N	在於:Vt	除了:P	牛肉:N	餡:N	外:POST	
+還:ADV	加:Vt	了:ASP	培根:N	、:PAUSECATEGORY	荷包蛋:N	及:C	大量:DET	生菜:N	
+除了:P	漢堡:N	肉餡:N	多汁:Vi	美味:Vi	外:POST	
+老公:N	特別:Vi	喜歡:Vt	烤:Vt	得:T	看:Vt	香脆:Vi	的:T	漢堡:N	麵包:N	
+活動:N	期間:N	
+只要:C	點:Vt	雙人:N	漢堡:N	套餐:N	
+在:P	臉:N	書:N	打卡:Vi	分享:Vt	台北:N	西華:N	飯店:N	粉絲:N	頁:N	
+就:ADV	送:Vt	網路:N	插:Vt	畫家:N	掰掰:Vt	啾啾:ADV	或:C	黃色:N	書刊:N	設計:N	的:T	小:Vi	漢堡:N	
+二擇:Vt	一:DET	
+實際:Vi	食用:Vt	後:POST	發現:Vt	噱頭:N	意味:Vt	大於:Vt	美味度:N	XD:FW	黃色:N	書刊:N	款:N	小:Vi	漢堡:N	就:ADV	是:Vt	二:DET	片:M	小小:Vi	的:T	漢堡:N	麵包:N	、:PAUSECATEGORY	起:Vt	司片:N	及:C	炸肉:N	排:Vt	
+自己:N	拼裝:Vt	搭配:Vt	
+我:N	看:Vt	新聞:N	寫:Vt	的:T	是:Vt	炸:Vt	牛排:N	
+但:C	老公:N	吃起來:ADV	是:Vt	炸:Vt	豬肉:N	排:Vt	
+我:N	飽:Vi	到:P	不:ADV	想:Vt	吃:Vt	
+所以:C	無法:ADV	確定:Vt	
+掰掰:Vt	啾啾:ADV	小:Vi	漢堡:N	這:DET	款:M	是:Vt	甜:Vi	口味:N	
+中間:N	是:Vt	棉花糖:N	搭配:Vt	底部:N	巧克力:N	麵包:N	
+帽子:N	是:Vt	竹炭甜筒:N	
+老實說:ADV	
+上桌:Vi	時:POST	還:ADV	真:ADV	不:ADV	知道:Vt	要:ADV	如何:ADV	安裝:Vt	
+只好:ADV	上網:Vi	查:Vt	一下:N	別人:N	的:T	食記:N	
+完成:Vt	後:POST	可愛:Vi	意義:N	大於:Vt	食用:Vt	
+甜筒:N	沒有:Vt	味道:N	
+巧克力:N	麵包:N	偏:ADV	乾:Vi	不:ADV	好吃:Vi	
+最:ADV	好吃:Vi	的:T	是:Vt	中間:N	的:T	棉花糖:N	
+不過:C	甜:Vi	
+軟綿:N	帶有:Vt	彈性:N	
+但:C	看到:Vt	上頭:N	那:DET	黑色:N	的:T	唇印:N	及:C	眼睛:N	吃:Vt	不:ADV	太:ADV	下:Vt	orz:FW	甜點:N	-:DASHCATEGORY	巧克力:N	聖代:N	透明:Vi	的:T	玻璃杯:N	盛裝:Vi	二:DET	球:N	香草:N	冰淇淋:N	
+擠上:Vt	鮮:Vi	奶油:N	
+搭配:Vt	鮮紅:Vi	草莓:N	切:Vt	塊:M	
+還:ADV	插:Vt	著:ASP	二:DET	根:M	捲:Vt	心:N	酥:Vi	
+灑上:Vt	七彩:N	巧克力米:N	做為:Vt	裝飾:N	
+上桌:Vi	時:POST	賣:Vt	相:ADV	頗佳:Vi	
+冰淇淋:N	吃:Vt	來:ADV	爽口:Vi	不:ADV	膩:Vi	
+草莓:N	偏:ADV	酸:Vi	
+比:P	想像:N	中:POST	的:T	更:ADV	好吃:Vi	
+算是:Vt	有:Vt	誠意:N	的:T	一:DET	道:M	甜點:N	
+今日:N	總結:Vt	
+漢堡:N	份量:N	有:Vt	誠意:N	
+食材:N	及:C	料理:N	手法:N	有:Vt	一定:A	的:T	水準:N	
+美味度:N	我:N	會:ADV	打:Vt	90:DET	分:M	
+以:P	雙人:N	同行:Vi	880:DET	+:FW	10:DET	%:M	的:T	價格:N	
+值得:Vi	一:ADV	嚐:Vt	
+而:C	薯條:N	炸雞:N	表現:Vt	中上:A	
+有:Vt	加強:Vt	空間:N	
+至於:P	最:ADV	具:Vt	話題性:N	的:T	大海:N	怪:Vi	龍蝦:N	漢堡:N	噱頭:N	十足:Vi	
+但:C	美味度:N	一般:POST	般:POST	
+物:N	有所:Vt	值:N	
+但:C	不:ADV	到:Vt	超值:Vi	
+想:Vt	嚐:Vt	鮮:Vi	可:ADV	點:Vt	看看:ASP	
+但:C	對:P	不:ADV	新鮮:Vi	海鮮:N	會:ADV	過敏:Vi	的:T	建議:N	就:ADV	免:Vt	了:ASP	
+8:DET	月份:N	預計:Vt	會:ADV	再:ADV	與:P	朋友:N	回訪:Vt	
+畢竟:ADV	大:Vi	口:N	吃:Vt	肉:N	喝:Vt	酒:N	又:ADV	不:ADV	限時:ADV	
+每:DET	人:N	約:ADV	500:DET	的:T	價格:N	挺:ADV	划算:Vi	的:T	
+--:DASHCATEGORY	黑暗:N	過去:N	
+黎明:N	終於:ADV	到來:Vi	

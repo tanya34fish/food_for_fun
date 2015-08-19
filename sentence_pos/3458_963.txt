@@ -1,0 +1,79 @@
+violetphoeni:FW	(:PARENTHESISCATEGORY	紫鳳:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	水牛城:N	美式餐:N	BFLO:FW	
+Sun:FW	
+Aug:FW	
+24:DET	
+21:DET	::COLONCATEGORY	13:DET	::COLONCATEGORY	52:DET	
+2014:DET	
+無:Vt	音樂:N	圖文:N	網誌:N	(:PARENTHESISCATEGORY	2014:DET	/:FW	08:DET	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/viophex/article:FW	/:FW	77999885:DET	
+結束:Vt	有點:ADV	耗:Vt	腦力:N	的:T	實境:N	遊戲:N	
+是:Vt	該:ADV	多:ADV	補充:Vt	些:M	熱量:N	來:ADV	補補:Vt	
+此:DET	時:POST	最:ADV	需要:Vt	有:Vt	大:Vi	塊:M	肉:N	與:C	成堆:Vi	薯條:N	的:T	餐廳:N	
+因此:C	來到:Vt	了:ASP	水牛城:N	
+舊:Vi	年代:N	風格:N	的:T	裝潢:N	
+在:P	大直站:N	附近:N	比較:Vt	一:DET	番:M	後:POST	
+決定:Vt	到:P	這:DET	間:M	看似:Vt	CP:FW	值:N	不錯:Vi	的:T	美式:A	餐廳:N	報到:Vi	
+位於:Vt	巷弄:N	中:POST	
+讓:Vt	人:N	期待:Vt	在:P	食材:N	上:POST	可能:ADV	較:ADV	多:Vi	的:T	成本:N	
+饒富:Vt	興味:N	的:T	裝潢:N	風格:N	營造:Vt	著:ASP	美式:A	風情:N	
+沒有:ADV	太多:Vi	考慮:Vt	就:ADV	點菜:Vi	的:T	一:DET	行:N	六:DET	人:N	似乎:ADV	真的:ADV	用:P	腦:N	不少:Vi	
+飢腸轆轆:Vi	啊:T	
+海鮮醬:N	綜合:A	麵包:N	
+200:DET	
+說:Vt	是:Vt	海鮮醬:N	
+不如:C	說:Vt	是:Vt	海鮮:N	濃湯:N	
+熱燙:Vi	上桌:Vi	香氣:N	濃郁:Vi	
+麵包:N	雖:C	沒有:Vt	太多:DET	特色:N	
+但:C	沾滿:Vt	海鮮:N	料:N	及:C	濃湯:N	吃下:Vt	
+馬上:ADV	就:ADV	被:P	掃空:Vt	
+可:ADV	看出:Vt	用料:N	非常:ADV	大方:Vi	
+有點:ADV	類似:Vt	好:Vi	市:N	多:Vi	的:T	濃湯:N	
+炸:Vt	物:N	拼盤:N	
+480:DET	
+薯條:N	、:PAUSECATEGORY	洋蔥圈:N	、:PAUSECATEGORY	起司條:N	與:C	BBQ:FW	烤雞:N	
+充滿:Vt	罪惡感:N	的:T	熱量:N	
+現:ADV	炸:Vt	薯條:N	外:N	脆內:N	鬆軟:Vi	
+很:ADV	有:Vt	道地:Vi	美式:A	餐廳:N	的:T	水準:N	
+洋蔥圈:N	亦:ADV	不遑多讓:Vi	
+是:Vt	個:M	人:N	偏愛:Vt	的:T	硬:Vi	脆:Vi	皮:N	
+烤雞:N	有:Vt	三:DET	種:M	口味:N	可以:ADV	選擇:Vt	
+BBQ:FW	醬料:N	與:C	起司:N	條:M	一般:A	
+沒有:ADV	太:ADV	大:Vi	印象:N	
+牛排:N	薯條:N	
+350:DET	
+與:C	價錢:N	不:ADV	太:ADV	符合:Vt	的:T	大:Vi	分量:N	
+但:C	聽說:Vt	口感:N	太:ADV	嫩:Vi	像:Vt	是:Vt	泡:Vt	過:ASP	嫩精:N	
+後來:N	想:Vt	一:ADV	想:Vt	以:P	成本:N	來:ADV	看:Vt	是:Vt	不:ADV	意外:Vt	
+水蜜桃:N	豬肋:N	排:Vt	
+半:DET	份:M	
+380:DET	
+醬料:N	意外:N	的:T	充滿:Vt	蜜汁:N	香氣:N	
+肋:N	排:Vt	也:ADV	烤:Vt	得:T	相當:Vi	入味:N	
+與:C	牛排:N	比:P	之:N	倒是:ADV	划算:Vi	許多:DET	
+份量:N	十足:Vi	
+骨肉:N	分離:Vt	的:T	狀況:N	亦:ADV	佳:Vi	
+評價:N	不錯:Vi	的:T	一:DET	道:M	
+稍:ADV	有:Vt	微詞:N	的:T	是:Vt	碎骨:N	有點:ADV	多:Vi	
+忘記:Vt	是:Vt	什麼:DET	沙拉:N	聽說:Vt	雞肉:N	頗:ADV	乾:Vi	柴:N	
+應:ADV	沒有:Vt	什麼:DET	其他:DET	特色:N	
+青醬:N	雞肉麵:N	
+200:DET	
+用料:N	搭配:Vt	與眾不同:Vi	
+除了:P	橄欖油:N	用:P	很多:DET	之外:POST	
+得到:Vt	的:T	評價:N	都:ADV	是:Vt	
+還:ADV	不錯:Vi	
+用:P	圓:Vi	麵:N	不:ADV	知:Vt	口感:N	如何:ADV	
+忘記:Vt	跟:P	友人:N	要:ADV	一口:ADV	來:ADV	試試:Vt	
+整體:N	來:ADV	說:Vt	算是:Vt	平價:N	的:T	選擇:N	
+除了:P	特定:A	的:T	排餐:N	之外:POST	都:ADV	在:P	300:DET	以內:POST	就:ADV	可:ADV	解決:Vt	一:DET	餐:M	
+以:P	當天:N	的:T	菜色:N	來:ADV	看:Vt	
+似乎:ADV	前菜:N	比:Vt	之:T	主餐:N	更:ADV	有:Vt	特色:N	
+若:C	都:ADV	點:Vt	前:DET	菜:N	大家:N	一起:ADV	分享:Vt	
+可能:ADV	也:ADV	是:Vt	不錯:Vi	的:T	選擇:N	
+另外:C	看到:Vt	餐廳:N	有:Vt	自己:N	的:T	藏酒:N	處:N	
+居然:ADV	還:ADV	放有:Vt	瑪歌:N	二軍:N	的:T	空瓶:N	
+為之:C	驚訝:Vt	
+如果:C	老闆:N	也:ADV	是:Vt	愛:Vt	酒:N	之:T	人:N	便:ADV	值得:Vi	再:ADV	訪:Vt	一:DET	趟:M	
+順便:ADV	看看:Vt	他們:N	推薦:Vt	用:P	什麼:DET	酒:N	來:ADV	搭配:Vt	漢堡:N	
+--:DASHCATEGORY	水牛城:N	美式:A	餐廳:N	BFLO:FW	台北市:N	中山區:N	北安路:N	538巷:N	1弄:N	9:DET	號:M	02:DET	-:DASHCATEGORY	2532:DET	-:DASHCATEGORY	9833:DET	--:DASHCATEGORY	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	PashBurger:FW	：:COLONCATEGORY	蛻變:Vi	重生:Vi	再:ADV	創:Vt	新猷:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/viophex/article:FW	/:FW	73775114:DET	--:DASHCATEGORY	╱:FW	╲:FW	

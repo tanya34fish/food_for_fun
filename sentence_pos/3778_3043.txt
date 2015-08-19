@@ -1,0 +1,91 @@
+cheichen:FW	(:PARENTHESISCATEGORY	小珊:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	信義區:N	厲害:Vi	拉花:N	咖啡:N	MissU:FW	
+Fri:FW	
+Nov:FW	
+21:DET	
+00:DET	::COLONCATEGORY	58:DET	::COLONCATEGORY	54:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	MissUBakery&amp:FW	;:SEMICOLONCATEGORY	Cafe:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	10月:N	
+地址:N	：:COLONCATEGORY	台北市:N	基隆路:N	一段:N	163:DET	-:DASHCATEGORY	2:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	3765:DET	-:DASHCATEGORY	5060:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	120:DET	-:DASHCATEGORY	180:DET	
+有無:Vt	包廂:N	：:COLONCATEGORY	N:FW	
+推薦:Vt	菜色:N	：:COLONCATEGORY	熱:Vt	拿:Vt	鐵:N	
+無:Vt	音樂:N	圖文:N	網誌:N	好讀版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/jYucq:FW	4:DET	
+那天:N	在:P	前往:Vt	宋廚:N	的:T	路:N	上:POST	發現:Vt	了:ASP	一:DET	間:M	新:Vi	開:Vt	的:T	好店:N	
+所以:C	趕快:ADV	來:ADV	嘗試:Vt	而且:C	跟:P	大家:N	分享:Vt	一下:N	很:ADV	厲害:Vi	的:T	咖啡:N	拉花:N	
+MissU:FW	的:T	位置:N	就:ADV	在:P	宋廚:N	同:DET	一:DET	條:M	巷子:N	
+捷運:N	市府:N	站:Vi	1:DET	號:M	出口:N	旁:N	
+從:P	外面:N	其實:ADV	看:Vt	不:ADV	太:ADV	出來:Vt	他:N	是:Vt	間:N	什麼:DET	樣:M	的:T	店:N	
+沒想到:ADV	一:ADV	進去:Vi	別有洞天:Vi	
+他們:N	店:N	的:T	介紹:N	是:Vt	
+MissU:FW	
+是:Vt	思念:Vt	你:N	的:T	意思:N	
+世上:N	最:ADV	美味:Vi	的:T	食物:N	來自:Vt	思念:Vt	的:T	心:N	
+我們:N	用:P	想念:Vt	的:T	心情:N	
+製作:Vt	每:DET	一:DET	個:M	麵包:N	、:PAUSECATEGORY	每:DET	一:DET	份:M	餐點:N	、:PAUSECATEGORY	每:DET	一:DET	杯:M	咖啡:N	
+讓:Vt	思念:Vt	你:N	的:T	味道:N	不:ADV	只是:ADV	在:P	記憶:N	裡:N	
+感覺:Vt	很:ADV	有點:ADV	浪漫:Vi	
+進門:N	就:ADV	會:ADV	看到:Vt	超:Vt	多:ADV	不同:Vi	種類:N	的:T	蛋糕:N	甜點:N	
+另外:C	他們:N	也:ADV	有:Vt	賣:Vt	很:ADV	香:Vi	的:T	麵包:N	
+2樓:N	是:Vt	他們:N	的:T	主要:A	座位區:N	
+座位:N	安排:Vt	比較:ADV	簡單:Vi	
+不過:C	天花板:N	稍微:ADV	矮:Vi	了:ASP	一點:DET	
+比較:ADV	高:Vi	的:T	朋友:N	們:N	要:ADV	小心:Vt	一點:ADV	喔:T	
+熱:Vt	拿:Vt	鐵:N	@:FW	$:FW	120:DET	
+這:DET	個:M	拉花:N	真的:ADV	很:ADV	厲害:Vi	
+雖然:C	不:ADV	知道:Vt	是:Vt	天使:N	還是:C	天鵝:N	
+但是:C	非常:ADV	的:T	美:Nv	
+而且:C	他們:N	的:T	拿:Vt	鐵:N	很:ADV	好喝:Vi	
+雖然:C	是:Vt	拿:Vt	鐵:N	
+但是:C	濃縮:Nv	咖啡:N	本身:N	的:T	香味:N	完全:ADV	沒有:ADV	被:P	濃郁:Vi	的:T	牛奶:N	蓋過:Vt	
+還:ADV	有:Vt	另外:ADV	一:DET	款:M	的:T	拉花:N	
+這:DET	款:M	就:ADV	沒有:Vt	前面:N	那:DET	款:M	那麼:ADV	讓:Vt	人:N	驚豔:Vi	
+但是:C	旁邊:N	兩:DET	隻:M	小蝴蝶:N	還是:ADV	讓:Vt	人:N	看:Vt	了:ASP	心情:N	很:ADV	好:Vi	
+冰:N	拿:Vt	鐵:N	@:FW	$:FW	120:DET	
+冰:N	拿:Vt	鐵:N	相對:Vi	就:ADV	比較:ADV	沒有:Vt	那麼:ADV	有趣:Vi	
+因為:C	看:Vt	不:ADV	到:Vt	美麗:Vi	的:T	拉花:N	
+笑:Vi	
+不過:C	冰:N	拿:Vt	鐵:N	的:T	口味:N	也:ADV	是:Vt	蠻:ADV	不錯:Vi	的:T	
+美式:A	咖啡:N	@:FW	$:FW	110:DET	
+他們:N	的:T	美式:A	也:ADV	是:Vt	有:Vt	一點:DET	酸:Vi	
+不過:C	熱熱:Vi	的:T	喝:Vt	
+酸度:N	的:T	味道:N	不會:ADV	太:ADV	明顯:Vi	
+濃縮:Nv	咖啡:N	@:FW	$:FW	100:DET	
+其實:ADV	這:DET	是:Vt	我:N	第一:DET	次:M	看到:Vt	這樣:Vi	的:T	濃縮:Nv	咖啡:N	
+旁邊:N	還:ADV	附上:Vt	一:DET	個:M	很:ADV	像:Vt	威士忌杯:N	
+裡面:N	有:Vt	可以:ADV	稀釋:Vt	的:T	水:N	
+不過:C	習慣:Vt	喝:Vt	濃縮:Nv	咖啡:N	的:T	人:N	是:Vt	用:P	不:ADV	到:Vt	的:T	啦:T	
+冰:N	羅馬:N	咖啡:N	@:FW	$:FW	150:DET	
+這:DET	個:M	我:N	一定:ADV	要:ADV	好好:Vi	介紹:Vt	一下:N	
+因為:C	我:N	對:P	他:N	很:ADV	好奇:Vi	
+所以:C	點:N	來:ADV	試:Vt	一下:N	
+冰:N	羅馬:N	咖啡:N	裡面:N	是:Vt	濃縮:Nv	咖啡:N	、:PAUSECATEGORY	檸檬汁:N	
+再:ADV	在:P	杯緣抹:Vt	一:DET	圈:M	黑糖:N	
+聽說:Vt	這:DET	是:Vt	許多:DET	咖啡:N	達人:N	的:T	最愛:N	
+口味:N	非常:ADV	的:T	特別:Vi	
+很:ADV	清爽:Vi	
+但是:C	蠻:ADV	酸:Vi	的:T	
+我:N	是:Vt	不:ADV	太:ADV	習慣:Vt	這樣:Vi	的:T	味道:N	
+熱抹茶:N	拿:Vt	鐵:N	@:FW	$:FW	140:DET	
+抹茶:N	拿:Vt	鐵:N	上:POST	也:ADV	一樣:Vi	有:Vt	有趣:Vi	的:T	拉花:N	
+這:DET	杯:M	比較:ADV	像:Vt	是:Vt	很多:DET	層次:N	的:T	愛心:N	
+另外:C	這:DET	杯:M	則:ADV	是:Vt	好像:ADV	矮樹叢:N	一樣:Vi	
+這:DET	次:M	他們:N	總共:ADV	在:P	我們:N	的:T	飲料:N	上:N	拉出:Vt	了:ASP	4:DET	種:M	不同:Vi	的:T	拉花:N	
+真的:ADV	覺得:Vt	好:ADV	厲害:Vi	
+希望:Vt	下:DET	次:M	來:ADV	還可以:ADV	看到:Vt	不:ADV	一樣:Vi	的:T	
+笑:Vi	
+奇異:Vi	果汁:N	@:FW	$:FW	160:DET	
+他們:N	也:ADV	有:Vt	新鮮:Vi	果汁:N	可以:ADV	選擇:Vt	
+雖然:C	有點:ADV	貴:Vi	
+但是:C	好:Vi	大一杯:N	呀:T	
+當天:N	可能:ADV	我們:N	人:N	很多:DET	
+所以:C	老闆:N	有:Vt	另外:ADV	招待:Vt	我們:N	試試看:Vt	他們:N	的:T	香蕉:N	蛋糕:N	
+他們:N	的:T	蛋糕:N	不會:ADV	太:ADV	甜:Vi	
+而且:C	還:ADV	帶有:Vt	香蕉:N	原本:ADV	的:T	香氣:N	
+我:N	還:ADV	蠻:ADV	喜歡:Vt	的:T	
+下:DET	次:M	還:ADV	想來:ADV	試試看:Vt	其他:DET	的:T	甜點:N	
+MissU:FW	的:T	咖啡:N	跟:P	甜點:N	都:ADV	還:ADV	蠻:ADV	不錯:Vi	的:T	
+而且:C	很:ADV	適合:Vi	很多:DET	朋友:N	在一起:Vi	聚會:N	聊天:Vi	
+推薦給:Vt	大家:N	喔:T	

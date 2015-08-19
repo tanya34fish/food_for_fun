@@ -1,0 +1,128 @@
+HENRY:FW	1:DET	(:PARENTHESISCATEGORY	黃:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	*:FW	信義:N	。:PERIODCATEGORY	ArtistaPerfetto:FW	咖啡:N	拉:Vt	花冠:N	
+Mon:FW	
+Aug:FW	
+25:DET	
+23:DET	::COLONCATEGORY	02:DET	::COLONCATEGORY	21:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	台北:N	*:FW	信義:N	-:DASHCATEGORY	市政府:N	。:PERIODCATEGORY	ArtistaPerfetto(AP:FW	咖啡:N	):PARENTHESISCATEGORY	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	08月:N	
+地址:N	：:COLONCATEGORY	台北市:N	信義區:N	忠孝東路:N	四段:N	５５３巷:N	６弄:N	１５:DET	號:M	
+電話:N	：:COLONCATEGORY	０２－２７６３７００２:DET	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32734031:DET	
+＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	＿:FW	
+＊:FW	純:Vi	文字:N	
+我:N	真的:ADV	覺得:Vt	最近:N	非:ADV	吃:Vt	不:ADV	可:Vi	的:T	口袋:N	名單:N	好像:ADV	少:Vi	得:T	可憐:Vt	阿:N	阿阿:Vi	
+為了:P	這:DET	天:M	五:DET	妞:N	的:T	聚會:N	簡直:ADV	大傷腦筋:Vi	
+不:ADV	是:Vt	碰上:Vt	態度:N	很:ADV	差:Vi	的:T	老闆:N	不然:C	就是:C	看上:Vt	的:T	餐廳:N	不能:ADV	訂位:Vi	
+因為:C	人數:N	比較:ADV	多:Vi	又:ADV	遇上:Vt	假日:N	我們:N	根本:ADV	不:ADV	敢:Vt	冒:Vt	這:DET	風險:N	阿:N	
+最後:N	就:ADV	選上:Vt	了:ASP	市府站:N	松山:N	文創旁:N	的:T	『:PARENTHESISCATEGORY	ArtistaPerfetto:FW	』:PARENTHESISCATEGORY	
+簡稱:Vt	AP:FW	
+我:N	覺得:Vt	這:DET	篇:M	又:ADV	要:ADV	被:P	我:N	打成:Vt	廢話:N	很多:DET	的:T	路線:N	了:ASP	請:Vt	別:ADV	見怪:Vi	XD:FW	
+首先:ADV	
+松山:N	高中:N	
+我:N	學校:N	我:N	學校:N	
+旁邊:N	的:T	巷子:N	裡:POST	也:ADV	多:ADV	太多:Vi	有:Vt	特色:N	的:T	餐廳:N	了:T	吧:T	
+真:ADV	不:ADV	知道:Vt	這:DET	對:M	學弟妹:N	來:ADV	說:Vt	是:Vt	幸福:Vi	還不是:ADV	
+因為:C	平價:N	美食:N	變得:Vt	好:Vi	
+少:Vi	
+再:ADV	來:ADV	說到:Vt	ArtistaPerfetto:FW	
+我們:N	當天:N	還:ADV	聊到:Vt	取:Vt	店名:N	這:DET	件:M	事:N	真的:ADV	很:ADV	重要:Vi	
+因為:C	好比:Vt	這:DET	家:M	店:N	的:T	名字:N	實在:ADV	是:Vt	沒有:Vt	很:ADV	好:Vi	記:Vt	耶:T	哈哈:ADV	
+還好:ADV	有:Vt	AP:FW	的:T	簡稱:N	啦:T	
+我:N	想:Vt	應該:ADV	是:Vt	因為:C	用:P	民宅:N	改建:Vt	所以:C	門口:N	有:Vt	小:Vi	院子:N	
+很:ADV	有:Vt	附近:N	的:T	『:PARENTHESISCATEGORY	文創:N	』:PARENTHESISCATEGORY	風格:N	
+只是:ADV	放:Vt	這:DET	幾:DET	株:M	小草:N	有點:ADV	逗阿:N	XDDD:FW	
+ArtistaPerfetto:FW	在:P	義大利文:N	是:Vt	咖啡:N	藝術家:N	的:T	意思:N	
+由:P	六:DET	個:M	來自:Vt	香港:N	的:T	咖啡:N	愛好:Vt	者:N	所:ADV	創立:Vt	
+他們:N	各自:N	有:Vt	拉花:N	專業:Vi	
+厲害:Vi	的:T	是:Vt	還:ADV	有得:ADV	過:Vt	世界:N	拉:Vt	花:N	比賽:N	的:T	冠軍:N	
+走進:Vt	AP:FW	裡面:N	第一:DET	個:M	感覺:N	就是:C	這裡:N	好像:ADV	髮廊:N	salon:FW	
+每:DET	個:M	服務生:N	好像:ADV	也:ADV	都:ADV	有:Vt	挑:Vt	過:ASP	的:T	樣子:N	
+很:ADV	像:Vt	設計師:N	勒:Vt	XD:FW	
+環境:N	不會:ADV	很:ADV	擁擠:Vi	
+人:N	多:ADV	也:ADV	有:Vt	大:Vi	的:T	高腳:N	桌:N	
+我:N	覺得:Vt	這:DET	空間:N	蠻:ADV	適合:Vi	聚會:N	的:T	
+桌:N	上:N	有:Vt	個:M	不:ADV	知道:Vt	功能:N	的:T	藝術品:N	Alina:FW	就:ADV	把:P	他:N	當:P	面具:N	來:ADV	拍照:Vi	XD:FW	
+菜單:N	
+大部分:DET	為:Vt	飲品:N	
+詢問:Vt	店員:N	後:POST	得知:Vt	只要:C	點:Vt	『:PARENTHESISCATEGORY	熱飲:N	』:PARENTHESISCATEGORY	就:ADV	有:Vt	拉花:N	
+但:C	如果:C	是:Vt	想要:Vt	招牌:N	的:T	人:N	臉:N	拉花:N	就:ADV	要點:N	『:PARENTHESISCATEGORY	拿:Vt	鐵瑪奇:N	朵:M	』:PARENTHESISCATEGORY	
+另外:C	本來:ADV	只:ADV	有:Vt	商業:N	午餐:N	才:ADV	提供:Vt	的:T	義大利麵:N	現在:N	也:ADV	全:DET	天:M	供應:Vt	
+我們:N	分別:ADV	點:Vt	了:ASP	四:DET	杯:M	熱飲:N	及:C	一:DET	杯:M	冰飲:Vt	
+不過:C	只有:ADV	三:DET	杯:M	有:Vt	拉花:N	
+等:P	下:DET	再:ADV	告訴:Vt	你:N	為什麼:ADV	
+冰:N	薄荷:N	可可:N	＄:FW	２００:DET	
+五:DET	杯:M	飲料:N	中:POST	的:T	唯一:A	冰飲:Vt	
+其實:ADV	我:N	也:ADV	愛:Vt	喝:Vt	冰飲:Vt	
+但是:C	聽到:Vt	只:ADV	有:Vt	熱:Vt	的:T	才:ADV	有:Vt	拉花:N	就:ADV	說:Vt	什麼:DET	也:ADV	要點:N	熱:Vt	的:T	
+是:Vt	吧:T	是:Vt	吧:T	
+可可:N	最:ADV	下方:N	較:ADV	苦:Vi	
+中間:N	層偏:Vi	甜:Vi	
+上面:N	則:ADV	是:Vt	奶泡:N	
+當然:ADV	還:ADV	有:Vt	薄荷:N	涼涼:Vi	的:T	香氣:N	
+沒有:ADV	不:ADV	好喝:Vi	啦:T	
+但:C	這:DET	杯:M	真的:ADV	是:Vt	蠻:ADV	貴:Vi	的:T	
+熱:Vt	巧克力:N	＄:FW	１７０:DET	
+沒想到:ADV	熱:Vt	巧克力:N	也:ADV	有:Vt	捲毛:N	小孩:N	的:T	拉花:N	
+我:N	偷:ADV	喝:Vt	了:ASP	一口:ADV	覺得:Vt	有點:ADV	甜:Vi	也:ADV	有點:ADV	淡:Vi	
+總:ADV	覺得:Vt	喝:Vt	過:ASP	Jocolatte:FW	的:T	巧克力:N	就:ADV	會:ADV	變得:Vt	很:ADV	挑阿:Vi	XD:FW	
+拿:Vt	鐵瑪奇:N	朵:M	＄:FW	１６０:DET	
+令:Vt	人:N	期待:Vt	的:T	女人:N	側:N	臉:N	拉花:N	
+一定:A	要點:N	拿:Vt	鐵瑪奇:N	朵:M	才:ADV	看:Vt	的:T	到:Vt	
+那:DET	是:Vt	因為:C	一般:A	的:T	拿:Vt	鐵:N	是:Vt	把:P	牛奶:N	加入:Vt	咖啡:N	
+而:C	瑪奇:N	朵:M	則:ADV	是:Vt	將:P	咖啡:N	加入:Vt	牛奶:N	
+才:ADV	能:ADV	畫出:Vt	這樣:Vi	的:T	
+造型:N	
+不過:C	因為:C	是:Vt	用:P	咖啡:N	作畫:Vi	
+我:N	覺得:Vt	冒:Vt	泡泡:N	消失:Vi	得:T	很:ADV	快:Vi	
+要:ADV	拍照:Vi	手腳:N	要:ADV	快:Vi	囉:T	
+另:DET	一:DET	杯:M	拿:Vt	鐵瑪奇:N	朵:M	是:Vt	另:DET	一:DET	種:M	造型:N	
+還:ADV	沒:ADV	上桌:Vi	前:POST	我:N	心:N	裡:POST	還:ADV	想:Vt	著:ASP	要是:C	一樣:Vi	的:T	我:N	就:ADV	
+也:ADV	不能:ADV	怎樣:Vi	啦:T	
+是:Vt	說:Vt	這:DET	拉花:N	有:Vt	用心:Vi	耶:T	
+怎麼說:Vi	呢:T	
+其實:ADV	當天:N	的:T	五:DET	妞:N	聚:Vi	的:T	dresscode:FW	是:Vt	：:COLONCATEGORY	兵馬:N	俑風:N	
+哈哈:ADV	哈哈:ADV	就:ADV	是:Vt	包頭:N	啦:T	XD:FW	上:DET	次:M	Sheena:FW	梳:Vt	了:ASP	包頭:N	一直:ADV	被:P	我:N	說:Vt	是:Vt	兵馬:N	俑:b	哈哈:ADV	
+看到:Vt	這:DET	杯:M	拿:Vt	鐵瑪奇:N	朵:M	的:T	拉花:N	好像:ADV	頭:Vi	上:POST	也:ADV	有:Vt	鼓鼓:Vi	的:T	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	有:Vt	catch:FW	到:P	我們:N	的:T	主題:N	XD:FW	
+霸特:N	還是:ADV	要:Vt	霸特:N	一下:N	
+我:N	覺得:Vt	AP:FW	的:T	咖啡:N	真的:ADV	好:Vi	
+酸:Vi	
+我:N	自己:N	是:Vt	沒有:Vt	很:ADV	喜歡:Vt	這麼:ADV	酸:Vi	的:T	咖啡:N	說:Vt	
+熱:Vt	榛果:N	牛奶:N	＄:FW	１３０:DET	
+最後:N	一:DET	杯:M	也:ADV	是:Vt	熱飲:N	
+她:N	也:ADV	有:Vt	拉花:N	噢:T	
+是:Vt	國王:N	的:T	拉花:N	
+聰明:Vi	的:T	人才:N	看:Vt	的:T	噢:T	
+喝:Vt	起來:ASP	就是:C	有:Vt	花生味:N	的:T	牛奶:N	這樣:Vi	
+夏日:N	鬆餅:N	＄:FW	１６０:DET	
+這:DET	鬆餅:N	一:ADV	上桌:Vi	的:T	時候:N	Sheena:FW	說:Vt	：:COLONCATEGORY	怎麼:ADV	好像:ADV	俗俗:Vi	
+ㄙ:FW	ㄨ:N	ㄥ:FW	ˊ:FW	ㄙ:FW	ㄨ:N	ㄥ:FW	ˊ:FW	
+的:T	
+哈哈:ADV	哈哈:ADV	差點:ADV	笑死:Vt	我:N	
+應該:ADV	是:Vt	因為:C	巧克力米:N	的:T	關係:N	吧:T	
+冰淇淋:N	上面:N	的:T	藍莓醬:N	糖漿味:N	有點:ADV	重:Vi	
+如果:C	不要:ADV	藍莓醬:N	也:ADV	不要:ADV	奶油:N	然後:ADV	還:ADV	不要:ADV	巧克力米:N	的:T	
+話:N	
+好像:ADV	快:Vi	什麼:DET	都:ADV	沒有:Vt	了:ASP	
+剩下:Vt	的:T	鬆餅:N	跟:P	冰淇淋:N	是:Vt	還:ADV	不錯:Vi	吃:Vt	啦:T	
+結論:N	：:COLONCATEGORY	
+餐廳:N	內:N	的:T	鹹:Vi	甜食:N	選擇:N	都:ADV	不:ADV	多:Vi	
+來:ADV	這裡:N	就是:C	要:ADV	喝:Vt	咖啡:N	的:T	
+不過:C	這裡:N	的:T	咖啡:N	偏:ADV	酸:Vi	我:N	也:ADV	不:ADV	是:Vt	很:ADV	喜歡:Vt	XD:FW	但:C	熱:Vt	咖啡:N	有:Vt	漂亮:Vi	的:T	拉花:N	啦:T	
+我:N	覺得:Vt	這裡:N	最:ADV	棒:Vi	的:T	應該:ADV	是:Vt	環境:N	與:C	服務:Nv	
+兩:DET	小時:N	一:ADV	到:Vt	會:ADV	有:Vt	人:N	來:ADV	結帳:Vi	
+但是:C	明確:Vi	告知:Vt	無:Vt	人:N	候位:N	可以:ADV	繼續:Vt	坐:Vi	
+服務:Nv	態度:N	也:ADV	不錯:Vi	
+也:ADV	會:ADV	不:ADV	定時:Vi	來:ADV	加:Vt	水:N	
+看到:Vt	他們:N	的:T	粉絲團:N	也:ADV	有:Vt	在:P	開拉花:N	教學課:N	
+有:Vt	興趣:N	也:ADV	可以:ADV	去:ADV	參考:Vt	
+雖然:C	食物:N	飲料:N	沒有:ADV	說:Vt	很:ADV	合:Vt	我們:N	胃口:N	
+但:C	仍:ADV	是:Vt	個:M	適合:Vi	聊天:Vi	拍照:Vi	的:T	地方:N	囉:T	
+食物:N	美味:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	☆:FW	
+ＣＰ:FW	值:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	☆:FW	
+服務:Nv	態度:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	★:FW	★:FW	
+再:ADV	訪:Vt	意願:N	：:COLONCATEGORY	★:FW	★:FW	★:FW	☆:FW	☆:FW	
+本:DET	篇:M	
+心心:ADV	*:FW	圖文:N	完整:Vi	版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	hsing16.pixnet.net/blog/post:FW	/:FW	32734031:DET	

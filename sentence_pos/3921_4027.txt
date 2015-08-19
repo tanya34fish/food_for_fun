@@ -1,0 +1,178 @@
+summer616(summer:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大直:N	PetitPark:FW	小:Vi	公園:N	餐廳:N	
+Wed:FW	
+Jan:FW	
+7:DET	
+16:DET	::COLONCATEGORY	11:DET	::COLONCATEGORY	21:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	PetitPark:FW	小:Vi	公園:N	餐廳:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	12月:N	
+地址:N	：:COLONCATEGORY	台北市:N	中山區:N	北安路:N	621巷:N	6弄:N	21:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8509:DET	-:DASHCATEGORY	2779:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	14:DET	::COLONCATEGORY	00:DET	午餐:N	;:SEMICOLONCATEGORY	14:DET	::COLONCATEGORY	30:DET	~:FW	17:DET	::COLONCATEGORY	00:DET	下午茶:N	;:SEMICOLONCATEGORY	18:DET	::COLONCATEGORY	00:DET	~:FW	21:DET	::COLONCATEGORY	30:DET	晚餐:N	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	1000:DET	差不多:Vi	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	否:T	現金:N	喔:T	!:EXCLAMATIONCATEGORY	請:Vt	先:ADV	領:Vt	錢:N	~:FW	~:FW	
+有無:Vt	包廂:N	：:COLONCATEGORY	不:ADV	算:Vt	有:Vt	包廂:N	
+推薦:Vt	菜色:N	：:COLONCATEGORY	燉飯:Vt	/:FW	小食:N	
+我:N	的:T	部落格:N	請:Vt	這裡:N	走:Vi	~:FW	圖:Vt	多:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	summer616.pixnet.net/blog/post:FW	/:FW	405183376:DET	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/aoH:FW	6:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/QKK:FW	7:DET	
+http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/HMao:FW	
+閒來:ADV	無事:N	跨年:A	夜:N	找:Vt	個:M	樂趣:N	做:Vt	
+我:N	跟:P	老公:N	真的:ADV	很:ADV	無聊:Vi	
+明明:ADV	很多:DET	店:N	可以:ADV	選擇:Vt	
+偏偏:ADV	要:ADV	選:Vt	這:DET	家:M	老是:ADV	座無虛席:Vi	的:T	歐式:A	餐廳:N	
+唉呀:T	就:ADV	想:Vt	嚐:Vt	看看:ASP	口味:N	嘛:T	
+這:DET	家:M	主打:Nv	生機:N	飲食:N	有機:A	食材:N	
+總之:ADV	蠻:ADV	特別:Vi	的:T	推薦給:Vt	想:Vt	嚐:Vt	新:Vi	口味:N	的:T	人:N	
+PetitPark:FW	小:Vi	公園:N	餐廳:N	
+七:DET	點:M	左右:POST	抵達:Vt	餐廳:N	
+但:C	我們:N	根本:ADV	沒有:Vt	訂位:Nv	
+純粹:ADV	要:ADV	折磨:Vt	自己:N	哈哈:ADV	
+經:P	溝通:Vt	後:POST	店家:N	很:ADV	好心:Vi	讓:Vt	我倆:N	坐:Vi	在:P	店裡:N	等:POST	座位:N	
+原本:ADV	20:DET	分鐘:M	後:POST	左右:POST	會:ADV	有:Vt	位置:N	
+但:C	也:ADV	不:ADV	曉得:Vt	為什麼:ADV	又:ADV	多:Vi	了:ASP	一:DET	組:M	有:Vt	訂位:Vi	的:T	客人:N	
+幾經:Vt	波折:N	我們:N	等到:P	了:ASP	快:Vi	九:DET	點:M	才:ADV	入座:Vi	
+店裡:N	氣氛:N	不錯:Vi	
+我們:N	等:Vt	的:T	時候:N	看:Vt	了:ASP	一下:N	簡單:Vi	介紹:Vt	
+大多:DET	是:Vt	小:Vi	農:N	的:T	有機:A	蔬菜:N	蔬果:N	
+還:ADV	有:Vt	一些:DET	進口:Vt	的:T	原:A	物料:N	香料:N	
+整體:N	擺設:Vt	在:P	大門:N	
+通常:ADV	都:ADV	會:ADV	有:Vt	些:M	蔬果:N	零售:Nv	販賣:Nv	
+等:POST	的:T	時間:N	裡:N	
+超多:Vi	客人:N	進:Vt	門:N	詢問:Vt	還:ADV	有沒有:ADV	位置:N	
+然後:ADV	服務生:N	就:ADV	會:ADV	很:ADV	尷尬:Vi	的:T	說:Vt	我們:N	這:DET	第一:DET	組:M	還:ADV	在:P	等:Vt	的:T	客人:N	都:ADV	還要:ADV	等:P	一陣子:N	呢:T	
+所以:C	提醒:Vt	大家:N	
+一定:ADV	要:ADV	先:ADV	訂位:Vi	喔:T	
+店裡:N	氣氛:N	很:ADV	棒:Vi	
+跨:Vt	年夜:N	還:ADV	有:Vt	大家:N	庭:N	的:T	三五:DET	好友:N	大:Vi	桌:N	聚會:N	
+就:ADV	是:Vt	小朋友:N	很多:DET	蠻:ADV	":FW	熱鬧:Vi	":FW	的:T	
+小:Vi	木馬:N	是:Vt	小:Vi	公園:N	的:T	招牌:N	圖騰:N	
+我:N	覺得:Vt	亂:Vi	可愛:Vi	的:T	
+除了:P	基本:A	餐桌:N	會:ADV	給:Vt	的:T	菜單:N	之外:POST	
+旁邊:N	小黑版:N	會:ADV	有:Vt	一些:DET	特別:Vi	的:T	小食:N	菜色:N	
+可:ADV	我:N	覺得:Vt	不:ADV	是:Vt	很:ADV	方便:Vi	因為:C	還:ADV	要:ADV	走過去:Vi	看:Vt	
+走過去:Vi	看:Vt	的:T	時候:N	會:ADV	影響到:Vt	當:P	桌:N	客人:N	
+若:C	我:N	是:Vt	當:P	桌:N	客人:N	我:N	大概:ADV	會:ADV	尷尬:Vi	
+因為:C	每:DET	翻:Vt	桌:N	一:DET	次:M	客人:N	就:ADV	有:Vt	機會:N	走來:Vi	看:Vt	小:Vi	黑板:N	
+甚至:ADV	是:Vt	在:P	候位:N	的:T	或:C	好奇:Nv	進店:N	看:Vt	的:T	客人:N	
+但:C	當然:ADV	小:Vi	黑板:N	的:T	菜色:N	都:ADV	蠻:ADV	特別:Vi	的:T	
+店員:N	妹妹:N	會:ADV	一直:ADV	推薦:Vt	要:ADV	我們:N	點:Vt	小:Vi	黑板:N	的:T	食物:N	
+欸:T	可是:C	我:N	反骨:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/Jfio:FW	
+欸:T	可是:C	我:N	耳朵:N	硬:ADV	只:ADV	想:Vt	點:M	基本:A	款:N	試試:Vt	
+店員:N	妹妹:N	SORRY:FW	唷:T	
+Jan07Wed:FW	2015:DET	
+::COLONCATEGORY	::COLONCATEGORY	食記:N	::COLONCATEGORY	::COLONCATEGORY	台北:N	大直:N	PetitPark:FW	小:Vi	公園:N	餐廳:N	
+分享:Vt	::COLONCATEGORY	7:DET	HeadlinesfacebookPLURKtwitter:FW	
+閒來:ADV	無事:N	跨年:A	夜:N	找:Vt	個:M	樂趣:N	做:Vt	
+我:N	跟:P	老公:N	真的:ADV	很:ADV	無聊:Vi	
+明明:ADV	很多:DET	店:N	可以:ADV	選擇:Vt	
+偏偏:ADV	要:ADV	選:Vt	這:DET	家:M	老是:ADV	座無虛席:Vi	的:T	歐式:A	餐廳:N	
+唉呀:T	就:ADV	想:Vt	嚐:Vt	看看:ASP	口味:N	嘛:T	
+這:DET	家:M	主打:Nv	生機:N	飲食:N	有機:A	食材:N	
+總之:ADV	蠻:ADV	特別:Vi	的:T	推薦給:Vt	想:Vt	嚐:Vt	新:Vi	口味:N	的:T	人:N	
+PetitPark:FW	小:Vi	公園:N	餐廳:N	
+七:DET	點:M	左右:POST	抵達:Vt	餐廳:N	
+但:C	我們:N	根本:ADV	沒有:Vt	訂位:Nv	
+純粹:ADV	要:ADV	折磨:Vt	自己:N	哈哈:ADV	
+經:P	溝通:Vt	後:POST	店家:N	很:ADV	好心:Vi	讓:Vt	我倆:N	坐:Vi	在:P	店裡:N	等:POST	座位:N	
+原本:ADV	20:DET	分鐘:M	後:POST	左右:POST	會:ADV	有:Vt	位置:N	
+但:C	也:ADV	不:ADV	曉得:Vt	為什麼:ADV	又:ADV	多:Vi	了:ASP	一:DET	組:M	有:Vt	訂位:Vi	的:T	客人:N	
+幾經:Vt	波折:N	我們:N	等到:P	了:ASP	快:Vi	九:DET	點:M	才:ADV	入座:Vi	
+IMG:FW	_:FW	8485:DET	
+店裡:N	氣氛:N	不錯:Vi	
+我們:N	等:Vt	的:T	時候:N	看:Vt	了:ASP	一下:N	簡單:Vi	介紹:Vt	
+大多:DET	是:Vt	小:Vi	農:N	的:T	有機:A	蔬菜:N	蔬果:N	
+還:ADV	有:Vt	一些:DET	進口:Vt	的:T	原:A	物料:N	香料:N	
+整體:N	擺設:Vt	在:P	大門:N	
+通常:ADV	都:ADV	會:ADV	有:Vt	些:M	蔬果:N	零售:Nv	販賣:Nv	
+等:POST	的:T	時間:N	裡:N	
+超多:Vi	客人:N	進:Vt	門:N	詢問:Vt	還:ADV	有沒有:ADV	位置:N	
+然後:ADV	服務生:N	就:ADV	會:ADV	很:ADV	尷尬:Vi	的:T	說:Vt	我們:N	這:DET	第一:DET	組:M	還:ADV	在:P	等:Vt	的:T	客人:N	都:ADV	還要:ADV	等:P	一陣子:N	呢:T	
+所以:C	提醒:Vt	大家:N	
+一定:ADV	要:ADV	先:ADV	訂位:Vi	喔:T	
+店裡:N	氣氛:N	很:ADV	棒:Vi	
+跨:Vt	年夜:N	還:ADV	有:Vt	大家:N	庭:N	的:T	三五:DET	好友:N	大:Vi	桌:N	聚會:N	
+就:ADV	是:Vt	小朋友:N	很多:DET	蠻:ADV	":FW	熱鬧:Vi	":FW	的:T	
+3285613:DET	_:FW	7592145638301687409:DET	_:FW	n:FW	
+1414918673:DET	-:DASHCATEGORY	3888627869:DET	_:FW	n:FW	
+小:Vi	木馬:N	是:Vt	小:Vi	公園:N	的:T	招牌:N	圖騰:N	
+我:N	覺得:Vt	亂:Vi	可愛:Vi	的:T	
+IMG:FW	_:FW	8489:DET	
+除了:P	基本:A	餐桌:N	會:ADV	給:Vt	的:T	菜單:N	之外:POST	
+旁邊:N	小黑版:N	會:ADV	有:Vt	一些:DET	特別:Vi	的:T	小食:N	菜色:N	
+可:ADV	我:N	覺得:Vt	不:ADV	是:Vt	很:ADV	方便:Vi	因為:C	還:ADV	要:ADV	走過去:Vi	看:Vt	
+走過去:Vi	看:Vt	的:T	時候:N	會:ADV	影響到:Vt	當:P	桌:N	客人:N	
+若:C	我:N	是:Vt	當:P	桌:N	客人:N	我:N	大概:ADV	會:ADV	尷尬:Vi	
+因為:C	每:DET	翻:Vt	桌:N	一:DET	次:M	客人:N	就:ADV	有:Vt	機會:N	走來:Vi	看:Vt	小:Vi	黑板:N	
+甚至:ADV	是:Vt	在:P	候位:N	的:T	或:C	好奇:Nv	進店:N	看:Vt	的:T	客人:N	
+但:C	當然:ADV	小:Vi	黑板:N	的:T	菜色:N	都:ADV	蠻:ADV	特別:Vi	的:T	
+店員:N	妹妹:N	會:ADV	一直:ADV	推薦:Vt	要:ADV	我們:N	點:Vt	小:Vi	黑板:N	的:T	食物:N	
+欸:T	可是:C	我:N	反骨:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	ppt.cc/Jfio:FW	
+欸:T	可是:C	我:N	耳朵:N	硬:ADV	只:ADV	想:Vt	點:M	基本:A	款:N	試試:Vt	
+店員:N	妹妹:N	SORRY:FW	唷:T	
+1:DET	
+烤土鍋:N	每:DET	日:M	有機:A	蔬菜:N	
+這:DET	個:M	用:P	STAUB:FW	鑄鐵:Vi	鍋悶:Vi	烤:Vt	
+吃:Vt	菜:N	有益:Vt	健康:Vi	
+老公:N	就:ADV	點:Vt	了:ASP	
+冬天:N	的:T	關係:N	
+蔬菜:N	的:T	熱湯:N	店家:N	有:Vt	給:Vt	多:DET	一些:DET	
+我們:N	都:ADV	覺得:Vt	清爽:Vi	好吃:Vi	無:Vt	負擔:N	
+但是:C	這樣子:Vi	380:DET	元:M	喔:T	
+青江菜:N	/:FW	高麗菜:N	/:FW	大白菜:N	/:FW	玉米:N	筍:N	/:FW	玉米:N	/:FW	杏:N	鮑:N	菇:N	/:FW	綠:Vi	花椰菜:N	/:FW	番茄:N	
+我:N	自己:N	本身:N	愛:Vt	用:P	LC:FW	鑄鐵:Vi	鍋:N	
+所以:C	知道:Vt	鑄鐵:Vi	鍋會:N	將:P	食材:N	由:P	50:DET	分:M	變:Vi	作:Vt	100:DET	分:M	的:T	道理:N	
+沒:ADV	吃:Vt	過:ASP	的:T	人:N	這:DET	道:M	可以:ADV	點:Vt	來:ADV	嚐:Vt	看看:ASP	
+說不定:ADV	自己:N	買:Vt	一:DET	咖:b	鑄鐵:Vi	鍋:N	來:ADV	悶:Vi	烤:Vt	
+小食:N	上完:Vt	上:N	煮菜:Vi	
+其實:ADV	這:DET	一:DET	天:M	真的:ADV	等:Vt	太:ADV	久:Vi	
+甚至:ADV	考慮:Vt	先:ADV	到:Vt	對面:N	大明:N	食堂:N	點烤:Vt	飯團:N	來:ADV	吃:Vt	
+超:Vt	餓:Vi	的:T	我們:N	照:P	一:DET	拍完:Vt	秒:M	吃:Vt	盤:N	中:POST	薞:b	
+2:DET	
+夏日:N	干貝:N	燉飯:Vt	
+現在:N	不:ADV	是:Vt	夏日:N	但:C	硬:ADV	點:Vt	夏日:N	干貝:N	
+燉飯軟硬:Vt	適中:Vi	滋味:N	很:ADV	好:Vi	
+搭配:Vt	起:ASP	司片:N	真的:ADV	很:ADV	順口:Vi	欸:T	
+這:DET	個:M	我:N	大:Vi	推薦:Vt	
+干貝:N	好:ADV	孤單:Vi	只有:ADV	給:Vt	一:DET	顆:M	
+所以:C	我:N	只好:ADV	孝順:Vt	切:Vt	一半:DET	分給:Vt	老公:N	吃:Vt	
+3:DET	
+蒜辣:N	自然:N	蝦:N	義大利:N	直:Vi	麵:N	
+蝦子:N	給:Vt	好多:DET	隻:M	
+一:ADV	上桌:Vi	趕緊:ADV	幫:P	老公:N	都:ADV	先:ADV	去:Vt	蝦殼:N	
+意:N	麵:N	也:ADV	蠻:ADV	順口:Vi	的:T	QQ:FW	的:T	
+只:ADV	是:Vt	意麵:N	相較:Vi	燉:Vt	飯:N	就:ADV	比較:ADV	乾:Vi	
+我們:N	還是:ADV	喜歡:Vt	醬汁:N	多:Vi	一點:DET	的:T	
+原本:ADV	想:Vt	要點:N	店家:N	招牌:N	的:T	米麵:N	
+可是:C	我:N	猜:Vt	會:ADV	吃:Vt	不:ADV	飽:Vi	
+等:Vt	了:ASP	兩:DET	小時:N	的:T	人:N	此:DET	時:M	此刻:N	只:ADV	想:Vt	填飽:Vt	肚子:N	...:ETCCATEGORY	
+4:DET	
+冰鎮:A	檸檬塔:N	
+飯:N	後:POST	甜點:N	依舊:ADV	是:Vt	必須:ADV	的:T	
+剛:ADV	從:P	冷凍庫:N	端出:Vt	會:ADV	切:Vt	八:DET	小:Vi	塊:M	入:Vt	盤:N	
+端上:Vt	桌:N	可以:ADV	先:ADV	試:Vt	一口:ADV	
+大概:ADV	等:Vt	幾:DET	分鐘:M	後:POST	檸檬:N	蛋黃醬:N	會:ADV	有點:ADV	融化:Vt	口感:N	會:ADV	酸:Vi	一點點:DET	
+但:C	塔皮:N	是:Vt	脆:Vi	的:T	很:ADV	好吃:Vi	
+5:DET	
+香蕉:N	巧克力:N	布朗尼:N	
+香蕉:N	鑲:Vt	在:P	布朗尼:N	裡面:N	
+上面:N	那:DET	球:N	香草:N	冰淇淋:N	很:ADV	香醇:Vi	
+這樣:Vi	搭配:Vt	還:ADV	不:ADV	賴:Vt	
+甜點:N	的:T	好朋友:N	伴:Vt	了:ASP	一:DET	杯:M	拿:Vt	鐵:N	
+為:P	跨:Vt	年夜:N	劃下:Vt	句點:N	
+=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	=:FW	
+PetitPark:FW	小:Vi	公園:N	
+地址:N	::COLONCATEGORY	台北市:N	中山區:N	北安路:N	621巷:N	6弄:N	21:DET	號:M	
+大直:N	捷運站:N	1:DET	號:M	出口:N	右轉:Vi	
+一直:ADV	走:Vi	
+經過:Vt	兩:DET	間:M	全:DET	家:N	便利商店:N	後:POST	
+看到:Vt	7:DET	-:DASHCATEGORY	11:DET	右轉:Vi	
+經過:Vt	義麵坊:N	後:POST	第一:DET	個:M	巷子:N	右轉:Vi	
+左手:N	邊:N	是:Vt	紅色:N	棚子:N	的:T	小:Vi	公園:N	餐廳:N	在:P	此:DET	見客:Vi	
+臉書:N	連結:Vt	在:P	網誌:N	喔:T	
+拜託:Vt	來:ADV	看看:Vt	吧:T	

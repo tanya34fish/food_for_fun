@@ -1,0 +1,55 @@
+savvik(Essay:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	建北:N	橋:N	下:N	崑山:N	海產店:N	
+Wed:FW	
+Aug:FW	
+13:DET	
+20:DET	::COLONCATEGORY	16:DET	::COLONCATEGORY	40:DET	
+2014:DET	
+圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	savvik123.pixnet.net/blog/post:FW	/:FW	177364233:DET	
+店名:N	：:COLONCATEGORY	崑山:N	海產店:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2812:DET	-:DASHCATEGORY	7332:DET	
+地址:N	：:COLONCATEGORY	台北市:N	八德路:N	二段:N	36:DET	號:M	
+價格:N	：:COLONCATEGORY	100:DET	-:DASHCATEGORY	300:DET	/:FW	人:N	
+用餐:Nv	時間:N	：:COLONCATEGORY	2014:DET	/:FW	3:DET	
+拍攝:Vt	相機:N	：:COLONCATEGORY	CanonEOSM:FW	
+個:M	人:N	評價:Vt	：:COLONCATEGORY	普通:Vi	
+和:C	朋友:N	約拿:N	新:Vi	閃燈:N	SonyF43M:FW	的:T	同時:N	
+臨時:N	找來:Vt	吃飯:Vi	的:T	一:DET	間:M	店:N	
+位於:Vt	建國北路橋:N	下:POST	的:T	市場:N	
+非常:ADV	......:ETCCATEGORY	路邊攤:N	的:T	一:DET	間:M	店:N	
+重點:N	是:Vt	玩:Vt	新:Vi	閃燈:N	
+但:C	當天:N	沒:ADV	帶:Vt	Sony:FW	相機:N	
+就:ADV	隨便:Vi	點:M	兩樣:Vi	菜:N	填:Vt	肚子:N	
+●:FW	什錦:A	炒:Vt	米粉:N	
+口味:N	很:ADV	重:Vi	的:T	炒:Nv	米粉:N	
+料:N	還:ADV	不錯:Vi	
+●:FW	炒:Vt	雪螺:N	
+口味:N	更:ADV	重:Vi	的:T	一:DET	道:M	菜:N	
+但:C	它:N	的:T	醬汁:N	可謂:Vt	很:ADV	標準:Vi	台式:A	熱:N	炒:Vt	風味:N	
+香:Vi	
+辣:Vi	
+鹹:Vi	
+甚至:ADV	加上:Vt	了:ASP	豆鼓:N	來:ADV	炒:Vt	
+加上:C	九:DET	層:M	塔:N	那:DET	有點:ADV	嗆:Vi	的:T	香氣:N	
+吃:Vt	這:DET	種:M	東西:N	保證:Vt	是:Vt	不:ADV	健康:Vi	
+但:C	就是:C	有:Vt	一:DET	種:M	『:PARENTHESISCATEGORY	爽:Vi	』:PARENTHESISCATEGORY	的:T	快感:N	
+而且:C	沾滿:Vt	醬汁:N	的:T	九:DET	層:M	塔:N	更:ADV	是:Vt	好吃:Vi	
+●:FW	牛肉:N	炒麵:N	
+上桌:Vi	光:ADV	看:Vt	顏色:N	就:ADV	覺得:Vt	肯定:Vt	又:ADV	鹹:Vi	又:ADV	辣:Vi	
+比較:ADV	特別:Vi	是是:Vi	使用:Vt	高麗菜:N	
+一般:ADV	我:N	吃:Vt	較:P	習慣:N	的:T	是:Vt	用:P	空心菜:N	
+吃下去:Vi	果然:ADV	也:ADV	是:Vt	香:Vi	
+鹹:Vi	
+辣:Vi	
+口味:N	超重:Vi	
+但:C	有時:ADV	吃:Vt	這:DET	個:M	
+比:P	吃:Vt	義大利麵:N	還:ADV	要:Vt	爽:Vi	
+大笑:Vi	
+●:FW	總評:N	':FW	
+就:ADV	很:ADV	普通:Vi	的:T	熱:Vt	炒店:N	
+但:C	很:ADV	遺憾:Vt	的:T	是:Vt	
+以前:N	是:Vt	滿街:N	熱炒:Vt	店:N	
+沒:Vt	幾:DET	間:M	義大利麵:N	
+台北:N	現在:N	慢慢:Vi	熱炒店:N	少:Vi	了:T	
+或是:C	連:Vt	個:M	基本:N	讓:Vt	人:N	吃:Vt	的:T	很:ADV	爽:Vi	的:T	台式:A	炒麵:N	炒:Vt	的:T	好:Vi	的:T	也:ADV	少:Vi	了:T	
+義大利麵:N	卻:ADV	多:Vi	了:T	.....:ETCCATEGORY	

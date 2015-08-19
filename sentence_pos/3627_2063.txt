@@ -1,0 +1,108 @@
+thudadai:FW	(:PARENTHESISCATEGORY	血壓:N	血糖:N	血脂:N	~:FW	三:DET	高:Vi	~:FW	>:PARENTHESISCATEGORY	":FW	<:PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	萬華:N	黔:N	園:N	川菜:N	~:FW	大蒜:N	鰱魚:N	頭:N	好食:Vt	
+Wed:FW	
+Oct:FW	
+8:DET	
+22:DET	::COLONCATEGORY	52:DET	::COLONCATEGORY	20:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	黔:N	園:N	川菜:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	9月:N	
+地址:N	：:COLONCATEGORY	台北市:N	萬華區:N	康定路:N	25巷:N	39:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	AM:FW	11:DET	::COLONCATEGORY	00:DET	~:FW	PM:FW	2:DET	::COLONCATEGORY	00:DET	PM:FW	4:DET	::COLONCATEGORY	30:DET	~:FW	PM:FW	9:DET	::COLONCATEGORY	00:DET	
+圖文版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	thudadai.pixnet.net/blog/post:FW	/:FW	58962871:DET	
+久聞:Vt	黔:N	園:N	的:T	名聲:N	
+不少:DET	老:Vi	客人:N	是:Vt	吃:Vt	了:ASP	10來:DET	年:M	的:T	
+儘管:C	聽說:Vt	水準:N	相較:Vi	以前:POST	有:Vt	下滑:Vi	
+但:C	對:P	我:N	來:ADV	說:Vt	哪:DET	有:Vt	什麼:DET	差別:N	XD:FW	
+來:ADV	吃吃:Vt	看:Vt	就:ADV	知道:Vt	有沒有:ADV	對:P	到:Vt	胃口:N	
+第一:DET	次:M	上門:Vi	前:POST	就:ADV	先:ADV	電話:N	訂:Vt	了:ASP	大蒜:N	魚:N	頭:N	
+老闆:N	還:ADV	以為:Vt	是:Vt	熟客:N	來:Vi	的:T	
+後來:N	告訴:Vt	我:N	只有:ADV	熟客:N	會:ADV	訂:Vt	這:DET	道:M	菜:N	
+談吐:N	間:POST	感受到:Vt	老闆:N	對:P	他:N	這:DET	間:M	店:N	深具:Vt	信心:N	
+提到:Vt	峨嵋街:N	那:DET	間:M	黔:N	園:N	
+老闆:N	不:ADV	多:ADV	做:Vt	回應:Nv	
+有:Vt	聽說:Vt	這:DET	間:M	並:ADV	不:ADV	是:Vt	一:DET	開始:Vi	的:T	那:DET	間:M	老店:N	
+但:C	似乎:ADV	一些:DET	老饕:N	都:ADV	蠻:ADV	推:Vt	這:DET	間:M	的:T	
+總之:ADV	還是:ADV	吃吃:Vt	看:Vt	
+好吃:Vi	合:Vt	口味:N	比較:ADV	重要:Vi	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+這邊:N	每:DET	道:M	菜:N	都:ADV	壓:Vt	在:P	200:DET	元:M	以下:POST	
+時價:N	例外:Vi	
+每:DET	盤:M	份量:N	不:ADV	多:Vi	
+至多:ADV	四:DET	人:N	分食:Vt	尚:ADV	足:Vt	
+今天:N	我們:N	才:ADV	三:DET	個:M	人:N	
+一:DET	道:M	魚:N	頭:N	做:Vt	下去:ASP	
+點:Vt	了:ASP	三:DET	道:M	菜:N	老闆:N	急忙:ADV	喊:Vt	停:Vt	
+再:ADV	點:Vt	下去:ASP	就:ADV	太多:Vi	了:T	
+如果:C	多:DET	幾:DET	個:M	人:N	來:ADV	就:ADV	太:ADV	好了:T	
+我:N	要點:N	十:DET	道:M	阿:N	
+＜:FW	蝦仁:N	炒蛋:N	NT:FW	$:FW	138:DET	＞:FW	
+一:ADV	眼看:Vt	就:ADV	知道:Vt	八九不離十:Vi	的:T	好吃:Vi	
+火候:N	掌控:Vt	佳:Vi	
+內裡:N	還:ADV	流淌:Vt	著:ASP	七:DET	分:M	熟:Vi	蛋:N	液:N	
+只:ADV	不過:ADV	一:DET	嚐:Vt	之下:POST	鹽巴:N	似乎:ADV	多:ADV	放:Vt	了:ASP	一些:DET	
+忍不住:Vt	開口:Vi	：:COLONCATEGORY	
+口感:N	很:ADV	棒:Vi	
+就是:C	鹹:Vi	了:ASP	一點:DET	
+結果:ADV	被:P	老闆:N	聽到:Vt	
+講:Vt	太:ADV	大聲:Vi	XD:FW	
+立馬:N	把:P	這:DET	盤:M	拿到:Vt	廚房:N	...:ETCCATEGORY	
+過:ADV	沒:Vt	多久:N	換:Vt	了:ASP	一:DET	盤:M	上來:Vi	
+果然:ADV	這:DET	次:M	就:ADV	滿意:Vt	了:ASP	
+＜:FW	陀陀雞:N	NT:FW	$:FW	156:DET	＞:FW	
+在:P	這邊:N	點重:N	口味:N	的:T	菜:N	是:Vt	非常:ADV	可怕:Vi	的:T	
+因為:C	你:N	會:ADV	變得:Vt	像:P	一:DET	個:M	飯桶:N	
+這邊:N	的:T	陀陀:N	雞:N	用:Vt	了:ASP	剁:Vt	塊:M	腿:N	肉:N	
+吃:Vt	來:ADV	相當:ADV	柔嫩:Vi	入味:N	
+只:ADV	有:Vt	一點兒:DET	辣:Vi	
+主要:ADV	是:Vt	那:DET	股:M	用:Vt	了:ASP	辣椒:N	蒜:N	末:N	等:POST	調料:N	的:T	香勁:N	
+一直:ADV	促:Vt	動:Vt	食慾:N	
+＜:FW	開陽:N	白菜:N	NT:FW	$:FW	128:DET	＞:FW	
+開陽:N	白菜:N	誰:N	沒:ADV	吃:Vt	過:ASP	
+可是:C	這:DET	一:DET	盤:M	白菜:N	表面:N	看似:Vt	平淡:Vi	
+實際:Vi	上:POST	味道:N	卻:ADV	很:ADV	豐富:Vt	
+除了:P	蝦米:N	的:T	香:N	
+還:ADV	有:Vt	一些:DET	複雜:Vi	的:T	滋味:N	
+無法:ADV	形容:Vt	
+反正:ADV	會:ADV	讓:Vt	人:N	一:ADV	吃:Vt	再:ADV	吃:Vt	就:ADV	對了:Vi	
+＜:FW	大蒜:N	鰱魚:N	頭約:N	NT:FW	$:FW	1:DET	
+200:DET	元:M	＞:FW	
+一:ADV	上桌:Vi	真的:ADV	是:Vt	氣勢:N	恢弘:Vi	
+看起來:ADV	足夠:Vi	六:DET	個:M	人:N	吃:Vt	了:ASP	
+為了:P	這:DET	一:DET	道:M	
+我:N	連:ADV	原本:ADV	要點:N	的:T	麻婆豆腐:N	都:ADV	被:P	老闆:N	打:Vt	槍:N	
+可憐:Vt	阿:N	我:N	
+這:DET	一顆顆:DET	的:T	大蒜:N	吃:Vt	進:Vt	嘴:N	裡:POST	也:ADV	是:Vt	特別:Vi	
+口感:N	鬆軟:Vi	
+有:Vt	著:ASP	一:DET	股:M	酸:Vi	香味:N	
+後來:N	買單:Vi	時:POST	特別:Vi	問:Vt	了:ASP	老闆:N	
+他:N	只:ADV	說:Vt	這:DET	大蒜:N	是:Vt	有:Vt	特別:Vi	處理:Vt	
+":FW	爆:Vi	":FW	過:Vt	的:T	
+嗯:T	...:ETCCATEGORY	沒有:Vt	得到:Vt	我:N	想:Vt	知道:Vt	的:T	答案:N	
+&:FW	lt:FW	
+￣:FW	ー:FW	￣:FW	
+&:FW	gt:FW	
+當然:ADV	這:DET	道:M	魚:N	頭:N	也:ADV	真的:ADV	是:Vt	很:ADV	不錯:Vi	吃:Vt	
+大蒜:N	豆瓣:N	的:T	厚重:Vi	味道:N	極為:ADV	下:Vt	飯:N	
+恰當:Vi	的:T	辛香:N	辣味:N	
+而:C	最:ADV	好吃:Vi	的:T	當然:ADV	是:Vt	頭骨:N	邊:N	肉:N	和:C	膠質:N	
+三:DET	個:M	人:N	吃:Vt	這:DET	一:DET	盤:M	根本:ADV	吃:Vt	不:ADV	完:Vi	
+但是:C	相當:Vi	的:T	爽:Vi	
+愛:Vt	吃:Vt	多少:DET	就:ADV	吃:Vt	多少:DET	
+這:DET	餐:M	很:ADV	節制:Vt	的:T	只:ADV	吃:Vt	了:ASP	兩:DET	碗:M	飯:N	
+飯:N	好像:ADV	是:Vt	算:Vt	人頭:N	無限:Vi	供應:Vt	的:T	
+除了:P	魚:N	頭:N	以外:POST	
+其他:DET	菜餚:N	也:ADV	是:Vt	味:N	好:Vi	又:ADV	實惠:Vi	
+確實:ADV	蠻:ADV	不錯:Vi	的:T	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+台北:N	-:DASHCATEGORY	1:DET	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/tkUwO:FW	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+台北:N	-:DASHCATEGORY	2:DET	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/OyLdd:FW	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+桃竹苗:N	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/tYphL:FW	
+我:N	的:T	Google:FW	美食:N	地圖:N	
+中南部:N	
+：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	goo.gl/maps/NS4i:FW	5:DET	

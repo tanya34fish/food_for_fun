@@ -1,0 +1,89 @@
+fssmiling:FW	(:PARENTHESISCATEGORY	│:FW	Open:FW	免:ADV	│:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	內湖:N	嚐嚐:Vt	九九:DET	平價:N	熱炒:Vt	店:N	
+Sun:FW	
+Aug:FW	
+10:DET	
+15:DET	::COLONCATEGORY	40:DET	::COLONCATEGORY	27:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	嚐嚐:Vt	九九:DET	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2634:DET	-:DASHCATEGORY	1780:DET	
+平均:Vi	價位:N	：:COLONCATEGORY	200:DET	元:M	/:FW	人:N	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	-:DASHCATEGORY	週日:N	11:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	14:DET	::COLONCATEGORY	00:DET	、:PAUSECATEGORY	17:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	
+地址:N	：:COLONCATEGORY	台北市:N	內湖區:N	東湖路:N	113巷:N	25:DET	號:M	
+網誌:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	minnn22.pixnet.net/blog/post:FW	/:FW	184581504:DET	
+嚐嚐:Vt	九九:DET	在:P	東湖:N	這:DET	區:N	應該:ADV	算是:Vt	熱:Vt	炒名:N	店:N	
+從:P	晚上:N	五:DET	點:M	開始:Vt	營業:Vi	後:POST	就:ADV	會:ADV	高朋滿座:Vi	到:Vt	閉店:N	為止:POST	
+如果:C	是:Vt	六七:DET	點:M	左右:POST	的:T	用餐:Nv	高峰期:N	來:Vi	店:N	
+得:ADV	要:ADV	在:P	外面:N	等上:Vt	一陣子:N	才:ADV	能:ADV	用餐:Vi	
+店:N	內:N	的:T	菜色:N	從:P	99:DET	元:M	起跳:Vi	
+大菜類:N	的:T	才:ADV	會:ADV	貴:Vi	一些:DET	
+每:DET	天:M	都:ADV	會:ADV	有:Vt	一:DET	道:M	半價:N	$:FW	50:DET	菜色:N	而且:C	天天:ADV	都:ADV	會:ADV	換:Vt	
+我們:N	家:N	六:DET	人:N	來:ADV	吃:Vt	總金額:N	大約:ADV	落在:Vt	$:FW	1000:DET	
+$:FW	1500:DET	間:M	
+上菜:Vi	的:T	第一:DET	道:M	是:Vt	本:DET	日:M	半價:N	雞肉:N	捲:Vt	
+我:N	原本:ADV	以為:Vt	雞:N	肉捲:N	會:ADV	像:Vt	costco:FW	賣:Vt	的:T	那:DET	種:M	雞:N	肉捲:N	外面:N	是:Vt	麵包:N	裡面:N	是:Vt	雞肉:N	
+或是:C	饒河:N	夜市:N	那:DET	種:M	用:P	雞皮:N	包起:Vt	雞肉:N	的:T	雞:N	肉捲:N	
+殊不知:Vt	原來:A	雞肉:N	捲:Vt	長:Vi	得:T	像:Vt	香腸:N	一樣:Vi	XDD:FW	味道:N	還:ADV	滿:ADV	好:Vi	的:T	
+裡面:N	黑黑:Vi	的:T	不:ADV	知道:Vt	是:Vt	什麼:DET	蜜餞:N	
+總之:ADV	是:Vt	滿:ADV	特別:Vi	的:T	口味:N	
+拿來:Vt	當:P	第一:DET	道:M	菜:N	很:ADV	不錯:Vi	
+接著:ADV	是:Vt	我:N	的:T	熱:Vt	炒店:N	必:ADV	點菜:Vi	鳳梨:N	蝦球:N	
+我:N	目前:N	吃:Vt	過:ASP	最:ADV	好吃:Vi	的:T	鳳梨:N	蝦球:N	是:Vt	汐止:N	五:DET	角:M	菜飯:N	那:DET	家:M	的:T	鳳梨:N	蝦球:N	
+不過:C	其實:ADV	嚐嚐:Vt	九九:DET	的:T	也:ADV	不錯:Vi	
+外層:N	裹:Vt	的:T	炸粉:N	不會:ADV	太:ADV	厚:Vi	
+美乃滋:N	的:T	量:N	也:ADV	不會:ADV	太多:Vi	
+一口:ADV	蝦子:N	搭配:Vt	鳳梨:N	吃:Vt	也:ADV	滿:ADV	清爽:Vi	的:T	
+可惜:Vi	就:ADV	是:Vt	份量:N	少:Vi	了:ASP	一點:DET	
+一下:N	下:POST	就:ADV	掃:Vt	光:N	了:T	
+樹果:N	高麗菜:N	每:DET	次:M	的:T	味道:N	都:ADV	會:ADV	有點:ADV	不:ADV	一樣:Vi	
+有時候:ADV	鹹:Vi	了:ASP	點:M	有時候:ADV	淡:Vi	了:ASP	點:M	
+這:DET	次:M	就:ADV	是:Vt	比較:ADV	偏:Vt	鹹:Vi	的:T	
+不過:C	還:ADV	滿:ADV	下:Vt	飯:N	的:T	啦:T	
+而且:C	雖然:C	最近:N	的:T	高麗菜:N	不:ADV	是:Vt	很:ADV	漂亮:Vi	
+不過:C	這:DET	盤:M	的:T	口感:N	還:ADV	滿:ADV	脆:Vi	的:T	
+本來:ADV	今天:N	的:T	晚餐:N	是:Vt	打算:Vt	去:Vt	江南:N	市場:N	買:Vt	泰國:N	蝦:N	回家:Vi	煮:Vt	
+不過:C	後來:N	還是:ADV	決定:Vt	全:DET	家:N	出門:Vi	吃飯:Vi	
+因此:C	代替:Vt	泰國:N	蝦:N	點:Vt	了:ASP	白:Vi	汋蝦:N	來:ADV	一:ADV	償:Vt	宿願:N	
+白汋蝦:N	其實:ADV	只要:C	蝦子:N	新鮮:Vi	吃起來:ADV	就:ADV	好吃:Vi	
+我:N	是:Vt	單:ADV	吃:Vt	蝦肉:N	派:Vt	的:T	
+有:Vt	些:M	人:N	喜歡:Vt	沾:Vt	醬油:N	或是:C	沾:Vt	芥末:N	也:ADV	是:Vt	另:DET	種:M	風味:N	
+不過:C	蝦子:N	數量:N	也:ADV	不:ADV	多:Vi	
+這:DET	種:M	海味:N	還是:ADV	要:ADV	去:Vt	漁港:N	吃起來:ADV	才:ADV	爽:Vi	
+下:DET	一:DET	道:M	是:Vt	生魚片:N	
+每:DET	次:M	的:T	生魚片:N	都:ADV	不同:Vi	
+這:DET	次:M	不巧:Vi	地:T	沒有:Vt	我:N	最愛:N	的:T	鮭魚:N	QQ:FW	炸:Vt	杏:N	鮑:N	菇:N	也:ADV	是:Vt	我:N	的:T	最愛:N	
+跟:P	雞:N	排攤:N	上:N	買來:Vt	的:T	一樣:Vi	好吃:Vi	
+不過:C	要:ADV	小心:Vt	剛:ADV	端上:Vt	桌:N	的:T	時候:N	杏:N	鮑:N	菇超:N	燙:Vt	
+咬下去:Vt	會:N	噴熱汁:N	的:T	那:DET	種:M	程度:N	
+最好:ADV	放:Vt	冷:Vi	一下:N	再:ADV	吃:Vt	
+爆:ADV	炒:Vt	豬肉:N	是:Vt	屬於:Vt	份量:N	比較:ADV	多:Vi	的:T	菜:N	
+多:DET	人:N	吃:Vt	的:T	話:N	點:ADV	這:DET	道:M	比較:ADV	能:ADV	分:Vt	著:ASP	吃:Vt	
+才:ADV	不會:ADV	夾:Vt	一:DET	輪:M	就:ADV	光:Vt	了:ASP	
+今天:N	吃:Vt	的:T	菜:N	裡:POST	我:N	最:ADV	滿意:Vt	的:T	就是:C	這:DET	盤:M	烤:Vt	鹹豬肉:N	
+豬肉:N	軟嫩:Vi	軟嫩:Vi	
+單:ADV	吃:Vt	就:ADV	很:ADV	好吃:Vi	
+搭配:Vt	旁邊:N	的:T	檸檬汁:N	的:T	話:N	會:Vt	整:DET	個:M	大:Vi	開胃:Vi	
+一口:ADV	接:Vt	一口:ADV	無可:ADV	自拔:Vi	地:T	吃:Vt	
+而且:C	超:Vt	下:Vt	飯:N	
+結尾:Vi	的:T	菜:N	是:Vt	清蒸:Vt	鱸魚:N	
+魚肉:N	嫩嫩:Vi	的:T	而且:C	刺:Vt	很:ADV	好:Vi	挑起來:Vi	
+挺:ADV	方便:Vi	入口:N	的:T	
+光淋:N	旁邊:N	的:T	醬汁:N	也:ADV	很:ADV	下:Vt	飯:N	
+所以:C	我們:N	家:N	每:DET	次:M	來:POST	都:ADV	會:ADV	點:DET	個:M	清蒸:Vt	的:T	魚類:N	
+嚐嚐:Vt	九九:DET	最:ADV	著名:Vi	的:T	豬油:N	拌:Vt	飯:N	當然:ADV	也:ADV	得:ADV	介紹:Vt	一下:N	
+幾十:DET	年:M	前:DET	很:ADV	流行:Vi	的:T	豬油:N	拌:Vt	飯:N	現在:N	都:ADV	得到:Vt	觀光區:N	的:T	老店:N	才:ADV	有:Vt	在:P	賣:Vt	
+所以:C	這裡:N	能:ADV	提供:Vt	這:DET	道:M	古早味:N	十足:Vi	的:T	豬油:N	拌:Vt	飯:N	真的:ADV	是:Vt	很:ADV	不錯:Vi	呀:T	
+不過:C	怕:Vt	油:N	的:T	人:N	還是:ADV	添:Vt	白飯:N	就:ADV	好:Vi	
+因為:C	每:DET	道:M	菜:N	多少:DET	都:ADV	有:Vt	一點:DET	油:N	
+有時候:ADV	手滑:Vi	加:Vt	太多:DET	豬油:N	吃到:Vt	飯:N	底:POST	飯粒:N	都:ADV	會:ADV	被:P	油:N	淹沒:Vt	XDD:FW	以上:POST	
+嚐嚐:Vt	九九:DET	介紹:N	結束:Vt	
+剛:ADV	開始:Vt	發現:Vt	這:DET	間:M	店:N	的:T	時候:N	
+雖然:C	每:DET	道:M	才:ADV	99:DET	元:M	
+不過:C	份量:N	超多:Vi	感覺:N	超級:A	物超所值:Vi	
+大概:ADV	是:Vt	近年:N	來:ADV	什麼:DET	都:ADV	漲:Vi	
+除了:P	好吃:Vi	的:T	味道:N	不變:Vi	以外:POST	
+份量:N	就:ADV	變小:Vt	了:ASP	一點:DET	
+雖然:C	如此:Vi	還是:C	滿:DET	推薦:Vt	大家:N	下班:Vi	之後:POST	來:Vi	這邊:N	聚餐:Vi	吃飯:Vi	的:T	啦:T	
+吃:Vt	個:M	熱炒:Vt	抱怨:Vt	一下:N	公司:N	生活:N	會:ADV	更:ADV	美好:Vi	喔:T	
+哈哈:ADV	哈哈:ADV	--:DASHCATEGORY	

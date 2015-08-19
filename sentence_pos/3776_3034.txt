@@ -1,0 +1,61 @@
+chrisxmen:FW	(:PARENTHESISCATEGORY	認真:Vi	揮霍:Vt	每:DET	一:DET	天:M	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	彰鶯肉:N	圓:Vi	、:PAUSECATEGORY	勇伯:N	垃圾麵:N	、:PAUSECATEGORY	豐華:N	包子店:N	
+Thu:FW	
+Nov:FW	
+20:DET	
+14:DET	::COLONCATEGORY	19:DET	::COLONCATEGORY	30:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	彰鶯肉:N	圓:Vi	、:PAUSECATEGORY	勇伯:N	垃圾麵:N	、:PAUSECATEGORY	豐華:N	包子店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	8月:N	
+網誌版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.xuite.net/chrisxmen770/wretch:FW	/:FW	253914174:DET	
+彰鶯肉圓:N	
+地址:N	：:COLONCATEGORY	台北縣:N	鶯歌鎮:N	中正一路:N	73:DET	號:M	
+時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	
+19:DET	::COLONCATEGORY	30:DET	
+官網:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	www.26706654.com.tw:FW	/:FW	
+知名:Vi	的:T	勇伯:N	垃圾:N	麵:N	就:ADV	在:P	同:DET	一:DET	條:M	路:N	上:N	
+可惜:Vi	因為:C	時間:N	緣故:N	無法:ADV	等到:P	開店:Vi	時間:N	
+勇伯:N	垃圾麵:N	
+地址:N	：:COLONCATEGORY	台北縣:N	鶯歌鎮:N	中正一路:N	157:DET	號:M	
+時間:N	：:COLONCATEGORY	16:DET	：:COLONCATEGORY	00:DET	
+01:DET	：:COLONCATEGORY	30:DET	
+下午:N	的:T	時間:N	並:ADV	沒有:Vt	甚麼:DET	客人:N	
+否則:C	這:DET	家:M	可:ADV	是:Vt	鶯歌:N	的:T	名:A	店:N	
+點:Vt	了:ASP	肉:N	圓:Vi	和:C	四:DET	神:N	湯:N	看看:Vt	是否:ADV	名不虛傳:Vi	
+肉圓:N	的:T	外皮:N	Q:FW	彈:Vt	有勁:Vi	
+醬汁:N	特別:Vi	令:Vt	我:N	喜愛:Vt	
+內:N	餡:N	有:Vt	肉塊:N	與:C	筍角:N	
+每:DET	個:M	單獨:ADV	看:Vt	並:ADV	沒有:Vt	甚麼:DET	厲害:Vi	之:T	處:N	
+但:C	全部:DET	加:Vt	在一起:Vi	就:ADV	是:Vt	好吃:Vi	
+四:DET	神:N	湯:N	的:T	滋味:N	也:ADV	很:ADV	棒:Vi	
+很多:DET	店家:N	的:T	四:DET	神:N	湯水水:N	淡淡:Vi	的:T	
+喜歡:Vt	的:T	四:DET	神:N	湯料:N	要:ADV	敢:Vt	下:DET	
+而且:C	還要:ADV	敢:Vt	花:Vt	瓦斯:N	錢:N	熬煮:Vt	
+才:ADV	能:ADV	煮出:Vt	那:DET	四:DET	神:N	特有:A	味道:N	
+看到:Vt	桌:N	上:N	的:T	辣椒油:N	一定:ADV	要:ADV	試:Vt	看看:Vt	
+如果:C	是:Vt	用心:Vi	的:T	店家:N	
+自製:Vt	的:T	辣椒油:N	絕對:ADV	可以:ADV	讓:Vt	自家:N	的:T	美食:N	更:ADV	上:Vt	一:DET	層:M	樓:N	
+而:C	這:DET	家:M	的確:ADV	做到:Vt	了:ASP	
+雖然:C	只:ADV	賣:Vt	三:DET	樣:M	東西:N	
+但:C	點:Vt	的:T	其中:DET	兩樣:Vi	都:ADV	非常:ADV	滿意:Vt	
+和:P	台南:N	的:T	傳統:N	小吃攤:N	相同:Vi	
+專長:N	的:T	東西:N	不用:ADV	多:Vi	
+厲害:Vi	的:T	幾:DET	樣:M	就:ADV	夠:Vi	傳:Vt	好幾:DET	代:N	
+十幾:DET	年:M	前:POST	的:T	阿婆:N	壽司:N	有:Vt	種:M	大:Vi	碗:N	便宜:Vi	的:T	親切感:N	
+如今:N	好像:ADV	和:P	以前:N	不:ADV	太:ADV	像:Vt	了:ASP	
+豐華:N	包子店:N	
+地址:N	：:COLONCATEGORY	台北縣:N	鶯歌鎮:N	中正一路:N	70:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	26772876:DET	
+時間:N	：:COLONCATEGORY	06:DET	：:COLONCATEGORY	00:DET	
+13:DET	：:COLONCATEGORY	00:DET	、:PAUSECATEGORY	14:DET	：:COLONCATEGORY	30:DET	
+18:DET	：:COLONCATEGORY	30:DET	週一:N	公休:Vi	
+雖然:C	網路:N	上:N	宜蘭:N	土包仔:N	的:T	名氣:N	大:Vi	許多:DET	
+但:C	鶯歌:N	當地人:N	都:ADV	說:Vt	常:ADV	吃:Vt	的:T	是:Vt	這:DET	家:M	豐華:N	包子店:N	
+原本:ADV	我:N	也:ADV	不:ADV	太:ADV	相信:Vt	
+直到:P	我:N	因為:C	躲雨:Vi	在:P	一:DET	家:M	陶藝店:N	吃:Vt	這:DET	包子:N	時:POST	
+店員:N	和:C	我:N	說:Vt	他們:N	都:ADV	是:Vt	吃:Vt	這:DET	家:M	包子店:N	
+才:ADV	讓:Vt	我:N	相信:Vt	這:DET	件:M	事情:N	
+買:Vt	了:ASP	蛋黃:N	鮮肉:N	包:Vt	和:C	竹筍:N	鮮肉:N	包:Vt	
+滋味:N	和:C	以往:N	吃:Vt	過:ASP	的:T	包子:N	不同:Vi	
+但:C	的確:ADV	是:Vt	有:Vt	獨到:Vi	的:T	滋味:N	
+難怪:ADV	能夠:ADV	受到:Vt	當地人:N	的:T	喜愛:Nv	

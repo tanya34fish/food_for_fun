@@ -1,0 +1,118 @@
+cindy:FW	24:DET	(:PARENTHESISCATEGORY	小:Vi	豬:N	咬:Vt	橘子:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	『:PARENTHESISCATEGORY	屯京:N	拉麵:N	』:PARENTHESISCATEGORY	豚骨京蔥:N	拉麵:N	
+Sun:FW	
+Aug:FW	
+3:DET	
+10:DET	::COLONCATEGORY	00:DET	::COLONCATEGORY	06:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	屯京:N	拉麵:N	
+消費:N	時間:N	：:COLONCATEGORY	103年:N	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	敦化南路:N	一段:N	187巷:N	36:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27317897:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	00:DET	~:FW	23:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	180:DET	元:M	起:POST	
+圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	celine1986love.pixnet.net/blog/post:FW	/:FW	30246506:DET	
+Tonchin:FW	屯京:N	拉麵:N	
+屯京:N	拉麵:N	已經:ADV	在:P	台灣:N	開:Vt	了:ASP	頗久:Vi	
+聽聞:Vt	也:ADV	是:Vt	一:DET	間:M	必須:ADV	大排長龍:Vi	的:T	名店:N	
+而:C	我:N	
+喜歡:Vt	吃:Vt	
+但:C	不:ADV	喜歡:Vt	排隊:Vi	
+往往:ADV	想:Vt	說:Vt	等:POST	熱潮:N	退去:Vt	後:POST	再:ADV	來:ADV	吃:Vt	
+等:Vt	著:ASP	等:Vt	著:ASP	
+就:ADV	被:P	我:N	遺忘:Vt	了:ASP	
+今日:N	
+主要:ADV	是:Vt	來:Vi	一:DET	旁:N	的:T	itea:FW	芒果:N	冰:N	
+就:ADV	這麼:ADV	巧:Vi	
+知名:Vi	屯京:N	拉麵:N	就:ADV	在:P	旁邊:N	
+擇日:N	不如:Vt	撞日:N	
+就:P	今天:N	來去:Vi	吃吃:ADV	看:Vt	囉:T	
+平日:N	晚上:N	的:T	用餐:Nv	時間:N	
+這樣:Vi	的:T	人潮:N	
+應該:ADV	算是:Vt	可以:ADV	接受:Vt	的:T	
+相對:Vi	於:P	一:DET	旁:N	店家:N	的:T	冷清:Vi	
+我:N	想:Vt	這:DET	間:M	拉麵:N	店:N	
+應該:ADV	不會:ADV	讓:Vt	我:N	失望:Vi	才:ADV	對:P	
+大約:ADV	等:Vt	了:ASP	15:DET	組:M	客人:N	
+約莫:ADV	10:DET	分鐘:M	左右:POST	就:ADV	入:Vt	坐:Vi	
+算是:Vt	蠻:ADV	有:Vt	效率:N	
+在:P	外面:N	等候:Nv	時:POST	
+工作:N	人員:N	有:Vt	出來:Vi	發濕:Vi	紙巾:N	、:PAUSECATEGORY	扇子:N	
+屋頂:N	還:ADV	有:Vt	降溫:Vi	撒水:Vi	系統:N	
+直到:P	離開:Vt	好:Vi	一陣子:N	才:ADV	想起:Vt	
+我:N	的:T	扇子:N	勒:Vt	
+Mr:FW	.:PERIODCATEGORY	靖:Vi	才:ADV	說:Vt	
+店員:N	收走:Vt	囉:T	
+1:DET	我:N	還:ADV	以為:Vt	是:Vt	送:Vt	的:T	勒:Vt	
+Menu:FW	大致:ADV	如上:Vi	
+拉麵類:N	
+240:DET	元:M	、:PAUSECATEGORY	260:DET	元:M	
+約莫:ADV	落在:Vt	這:DET	個:M	區間:N	
+沾:Vt	麵類:N	
+210:DET	元:M	
+可以:ADV	加:Vt	60:DET	元:M	or:FW	90:DET	元:M	套餐:N	
+Menu:FW	這:DET	種:M	東西:N	
+到底:ADV	要:ADV	怎麼:ADV	拍:Vt	才:ADV	會:ADV	清楚:Vi	呢:T	
+我:N	個:M	人:N	是:Vt	覺得:Vt	看:Vt	官網:N	最:ADV	清楚:Vi	啦:T	
+對了:Vi	
+在:P	點餐:N	時:POST	
+店員:N	會:ADV	詢問:Vt	鹹度:N	是否:ADV	需要:Vt	調整:Vt	
+我:N	個:M	人:N	是:Vt	覺得:Vt	淡:Vi	一點:ADV	的:T	鹹度:N	對:P	我:N	來:ADV	說:Vt	
+剛剛好:ADV	
+麵:N	的:T	份量:N	可:ADV	選擇:Vt	加大:Vt	不:ADV	加價:Vi	
+非常:ADV	讚:Vi	
+選擇:Vt	加大:Vt	後:POST	的:T	我:N	卻:ADV	吃:Vt	不:ADV	完:Vi	
+慘遭:P	Mr.r:FW	靖:Vi	白眼:N	
+說:Vt	我:N	浪費:Vt	食物:N	
+店:N	內:N	蠻:ADV	舒適:Vi	寬敞:Vi	的:T	
+因為:C	要:ADV	去:Vt	洗手間:N	才:ADV	默默:ADV	發現:Vt	
+原來:ADV	還:ADV	有:Vt	2樓:N	耶:T	
+如果:C	是:Vt	一:DET	個:M	人:N	來:ADV	吃:Vt	
+建議:Vt	選擇:Vt	吧台區:N	
+可以:ADV	看:Vt	師傅:N	甩麵:N	的:T	感覺:N	
+很:ADV	讚:Vi	
+麻辣:A	豚骨京蔥:N	拉麵:N	
+260:DET	元:M	
+一:DET	片:M	叉燒:N	、:PAUSECATEGORY	半:DET	顆:M	黃金蛋:N	
+大量:DET	京蔥:N	
+些許:DET	筍乾:N	、:PAUSECATEGORY	一:DET	片:M	海苔:N	
+先:ADV	說:Vt	
+那:DET	海苔:N	也:ADV	太:ADV	不:ADV	討喜:Vi	了:T	吧:T	
+濕濕:Vi	軟軟:Vi	的:T	很:ADV	不:ADV	舒服:Vi	
+個:M	人:N	偏好:Vt	樂:Vi	麵:N	屋炸:Vi	過:ASP	的:T	海苔:N	
+脆:Vi	又:ADV	香:Vi	
+麻辣:A	
+顧名思義:ADV	就:ADV	是:Vt	麻:N	又:ADV	辣:Vi	吧:T	
+其實:ADV	
+我:N	覺得:Vt	不:ADV	麻:Vi	也:ADV	不:ADV	辣:Vi	耶:T	
+而且:C	
+超:Vt	像:P	牛肉:N	泡麵:N	的:T	湯頭:N	
+東京:N	豚骨京蔥:N	拉麵:N	
+240:DET	元:M	
+相對:Vi	之下:POST	
+較:ADV	喜歡:Vt	沒有:Vt	麻辣:A	的:T	湯頭:N	
+豚骨:N	味道:N	較:ADV	能:ADV	帶出來:Vt	
+雖然:C	表面:N	漂浮:Vi	不少:DET	油花:N	
+卻:ADV	沒有:ADV	不:ADV	舒服:Vi	的:T	油:N	膩味:N	
+麵體:N	
+像:Vt	極了:ADV	辛:Vi	拉麵:N	的:T	口感:N	
+非常:ADV	Q:FW	彈:Vt	
+京蔥:N	
+非常:ADV	好吃:Vi	
+不會:ADV	過:ADV	辣:Vi	
+再:ADV	讓:Vt	我:N	選:Vt	一:DET	次:M	
+我:N	還是:ADV	會:ADV	選擇:Vt	京蔥:N	口味:N	
+芝麻:N	蒜泥:N	、:PAUSECATEGORY	辣油:N	
+吃:Vt	東西:N	很少:ADV	加:Vt	蒜泥:N	的:T	我:N	
+這:DET	次:M	異常:Vi	加:Vt	了:ASP	不少:DET	
+天殺的:T	
+原來:ADV	有:Vt	芝麻味:N	的:T	蒜泥:N	這麼:ADV	香噴噴:Vi	
+對了:Vi	
+店家:N	非常:ADV	貼心:Vi	的:T	提供:Vt	了:ASP	1:DET	.:PERIODCATEGORY	紙:N	背心:N	2:DET	.:PERIODCATEGORY	髮圈:N	
+有:Vt	需要:N	的:T	客人:N	可以:ADV	向:P	店員:N	索取:Vt	
+下:DET	次:M	應該:ADV	幫:P	Mr:FW	.:PERIODCATEGORY	靖:Vi	要:Vt	個:M	紙:N	背心:N	
+因為:C	我:N	為了:P	吃:Vt	他:N	的:T	麵:N	
+噴:Vt	了:ASP	他:N	全:DET	身:N	
+讓:Vt	他:N	很:ADV	不:ADV	爽:Vi	
+整體:N	而言:Vt	還:ADV	不錯:Vi	
+推薦給:Vt	大家:N	

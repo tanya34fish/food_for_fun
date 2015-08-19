@@ -1,0 +1,30 @@
+standinghere:FW	(:PARENTHESISCATEGORY	南瓜:N	與:C	美乃滋:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	_:FW	法式:A	家常:A	美味:N	,:COMMACATEGORY	什物:N	monmarch:FW	é:FW	
+Fri:FW	
+Aug:FW	
+29:DET	
+09:DET	::COLONCATEGORY	24:DET	::COLONCATEGORY	10:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	什物:N	monmarch:FW	é:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	04月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	文昌街:N	49:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	27067062:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	0:DET	::COLONCATEGORY	00:DET	週:M	日休:N	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+【:PARENTHESISCATEGORY	部落格:N	圖文版:N	http:FW	::COLONCATEGORY	/:FW	/:FW	standinghere.pixnet.net/blog/post:FW	/:FW	41141449:DET	】:PARENTHESISCATEGORY	
+位於:Vt	文昌:N	街:N	上:N	的:T	什物:N	monmarch:FW	é:FW	
+2013年:N	中:POST	開始:Vt	營業:Vi	
+之前:N	一直:ADV	沒:ADV	聽聞:Vt	
+某:DET	天:M	偶然:ADV	看到:Vt	文章:N	介紹:Vt	
+便:ADV	對:P	它:N	十分:ADV	好奇:Vi	
+聽說:Vt	vogue:FW	雜誌:N	也:ADV	曾:ADV	介紹:Vt	過:ASP	欸:T	
+很:ADV	不:ADV	簡單:Vi	
+但:C	一直:ADV	找:Vt	不:ADV	到:Vt	機會:N	去:ADV	試試:Vt	...:ETCCATEGORY	
+剛好:ADV	某:DET	個:M	週末:N	待在:Vt	台北:N	
+朋友:N	突然:ADV	約:ADV	吃飯:Vi	
+我:N	說:Vt	我:N	一時:N	想不到:ADV	吃:Vt	什麼:DET	
+他:N	便:ADV	提議:Vt	":FW	什物:N	":FW	
+但:C	其實:ADV	他:N	前:DET	一:DET	天才:N	吃:Vt	過:ASP	的:T	哈:ADV	哈哈:ADV	覺得:Vt	很:ADV	不錯:Vi	
+再:ADV	吃:Vt	一:DET	次:M	也:ADV	挺:ADV	好:Vi	
+http:FW	::COLONCATEGORY	/:FW	/:FW	pic.pimg.tw/standinghere/1405789920-658133793.jpg:FW	

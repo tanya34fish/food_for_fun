@@ -1,0 +1,81 @@
+p55c:FW	29:DET	(:PARENTHESISCATEGORY	轟:Vt	武林:N	驚:N	萬:ADV	教:Vt	":FW	丟西:N	哇:T	":FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	1861:DET	Caffe:FW	
+Tue:FW	
+Aug:FW	
+12:DET	
+22:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	57:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	1861:DET	Caffe:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	6月:N	
+地址:N	：:COLONCATEGORY	台北市:N	昆明街:N	96巷:N	4:DET	號:M	2樓:N	(:PARENTHESISCATEGORY	西門:N	捷運站:N	6:DET	號:M	出口:Nv	):PARENTHESISCATEGORY	
+電話:N	：:COLONCATEGORY	0223820177:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	70:DET	up:FW	
+推薦:Vt	菜色:N	：:COLONCATEGORY	花生:N	麻糬:N	煎餅:N	、:PAUSECATEGORY	青醬鴨胸:N	義大利麵:N	
+官網:N	：:COLONCATEGORY	無:Vt	
+網誌:N	圖文:N	好讀版:N	(:PARENTHESISCATEGORY	無:Vt	音樂:N	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	kuo780108.pixnet.net/blog/post:FW	/:FW	58315980:DET	
+1861:DET	Caffe:FW	
+是:Vt	max:FW	無意:Vt	間:POST	在:P	一:DET	篇:M	食記:N	看到:Vt	的:T	
+當時:N	看到:Vt	那:DET	花生:N	麻糬:N	煎餅:N	就:ADV	很:ADV	想:Vt	衝去:Vi	吃:Vt	
+因為:C	那:DET	煎餅:N	跟:P	麥:N	O:FW	勞:N	的:T	鬆餅:N	很:ADV	像:Vt	
+我:N	也:ADV	喜歡:Vt	吃:Vt	那樣:Vi	的:T	鬆餅:N	又:ADV	加上:Vt	花生:N	麻糬:N	讓:Vt	我:N	更:ADV	想:Vt	吃:Vt	啦:T	
+1861:DET	隱身:Vi	在:P	人潮:N	多:ADV	到:P	不行:Vi	的:T	西門町:N	巷弄:N	內:N	
+好險:Vi	max:FW	對:P	西門町:N	還:ADV	算:Vt	ok:FW	所以:C	很:ADV	順利:Vi	的:T	找到:Vt	這裡:N	
+步上:Vt	2樓:N	後:POST	看到:Vt	這:DET	小小:Vi	的:T	店面:N	讓:Vt	max:FW	挺:ADV	訝異:Vt	居然:ADV	只:ADV	是:Vt	小小:Vi	的:T	一:DET	間:M	店面:N	
+雖說:C	是:Vt	小小:Vi	店面:N	不過:C	人潮:N	來來去去:Vi	也:ADV	沒:ADV	停:Vt	過:ASP	
+座位:N	之間:POST	還是:ADV	有點:ADV	擁擠:Vi	
+用餐:Nv	空間:N	因為:C	小小:Vi	的:T	空間:N	人潮:N	也:ADV	不少:Vi	所以:C	會:ADV	覺得:Vt	有點:ADV	吵:Vi	XD:FW	
+而且:C	...:ETCCATEGORY	這裡:N	的:T	冷氣:N	有待:Vt	加強:Vt	啊:T	
+連:C	max:FW	姐:N	都:ADV	狂:Vi	喊:Vt	熱:Vt	啊:T	
+小朋友:N	也:ADV	一直:ADV	流汗:Vi	冏:b	rz:FW	
+這:DET	最:ADV	1861:DET	的:T	MENU:FW	
+可惜:Vi	沒:ADV	看到:Vt	卷軸式:N	的:T	MENU:FW	
+這:DET	是:Vt	我們:N	點:Vt	的:T	餐點:N	
+沒:Vt	什麼:DET	被:P	服務:Nv	到:C	還:ADV	得:ADV	加上:Vt	服務費:N	冏:b	rz:FW	
+青醬鴨胸:N	義大利麵:N	
+原本:ADV	想:Vt	點明:Vt	太子:N	義大利麵:N	不過:C	我:N	還是:ADV	沒:Vt	辨法:N	抵擋:Vt	鴨胸:N	和:C	青醬:N	的:T	誘惑:Nv	啊:T	啊:T	啊:T	
+不過:C	max:FW	很:ADV	喜歡:Vt	這:DET	道:M	青醬鴨胸:N	義大利麵:N	
+鴨胸:N	Q:FW	彈:Vt	
+這樣:Vi	比喻:N	對:Vi	嗎:T	
+不會:ADV	靭:b	容易:Vi	咬斷:Vt	也:ADV	不會:ADV	過:ADV	老:Vi	
+麵體:N	相較:Vi	之下:POST	常:ADV	吃到:Vt	的:T	義大利麵:N	口感:N	偏:ADV	硬:Vi	不過:C	還是:ADV	MAX:FW	喜歡:Vt	的:T	口感:N	
+西班牙:N	海鮮:N	燉飯:Vt	
+MAX:FW	吃淺:Vi	嚐:Vt	了:ASP	一口:ADV	不:ADV	太:ADV	記得:Vt	整體:N	的:T	感覺:N	
+不過:C	MAX:FW	姐:N	表示:Vt	還:ADV	不錯:Vi	
+其實:ADV	我:N	也:ADV	不:ADV	知道:Vt	還:ADV	不錯:Vi	是:Vt	什麼:DET	意思:N	XD:FW	
+不過:C	...:ETCCATEGORY	不:ADV	好吃:Vi	的:T	話:N	我們:N	也:ADV	都:ADV	很:ADV	直接:Vi	啦:T	
+1861:DET	鯷魚:N	蒜辣:N	蟹肉:N	義大利麵:N	
+屬於:Vt	清:N	炒:Vt	的:T	1861:DET	鯷魚:N	蒜辣:N	蟹肉:N	義大利麵:N	
+口味:N	還:ADV	不:ADV	差:Vi	也:ADV	不會:ADV	太:ADV	辣:Vi	不過:C	MAX:FW	還是:ADV	比較:ADV	喜歡:Vt	青醬:N	及:C	白醬:N	多:Vi	一點:ADV	
+這:DET	道:M	清:Vi	炒:Vt	的:T	義大利麵:N	還:ADV	沒有:Vt	很:ADV	好吃:Vi	因為:C	還:ADV	有:Vt	更:ADV	好吃:Vi	的:T	啦:T	XD:FW	
+期待:Vt	已:ADV	久:Vi	的:T	花生:N	麻糬:N	煎餅:N	
+上面:N	那:DET	球:N	冰淇淋:N	被:P	外甥女:N	吃掉:Vt	了:ASP	啦:T	Q___Q:FW	
+更:ADV	過份:Vi	的:T	是:Vt	外甥女:N	居然:ADV	都:ADV	只:ADV	吃:Vt	麻糬:N	啦:T	還:ADV	一:DET	次:M	給:Vt	我:N	大:Vi	口:M	大:Vi	口:N	的:T	吃:Vt	
+認真:Vi	來:ADV	說:Vt	因為:C	有:Vt	花生粉:N	及:C	煎餅:N	的:T	關係:N	
+這:DET	生麻糬:N	煎餅:N	吃起來:ADV	整體:N	上:POST	比較:ADV	乾:Vi	需要:Vt	水:N	or:FW	飲料:N	來:Vi	中和:N	一下:N	啦:T	
+抹茶歐蕾:N	
+這:DET	是:Vt	max:FW	姐:N	的:T	飲料:N	max:FW	姐:N	表示:Vt	感覺:Vt	全:DET	家:N	的:T	比較:ADV	好喝:Vi	耶:T	
+水果茶:N	
+這:DET	是:Vt	max:FW	的:T	水果茶:N	
+max:FW	有時候:ADV	在:P	家:N	裡:N	也:ADV	會:ADV	自已:N	煮:Vt	水果:N	茶:N	喝:Vt	
+所以:C	到:P	外面:N	餐廳:N	用餐:Vi	有:Vt	水果茶:N	一定:ADV	會:ADV	點:Vt	來:ADV	喝:Vt	啦:T	
+而:C	1861:DET	的:T	水果茶:N	不會:ADV	太:ADV	甜:Vi	表現:N	的:T	還:ADV	ok:FW	啦:T	
+奇異:Vi	果汁:N	
+這:DET	也:ADV	是:Vt	max:FW	姐:N	的:T	飲料:N	重點:N	是:Vt	後面:N	的:T	外甥女:N	居然:ADV	硬:ADV	要:ADV	入:Vt	鏡:N	啦:T	XDD:FW	
+MAX:FW	姐表:N	視:P	還好:Vi	.....:ETCCATEGORY	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	心得:N	------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+1861:DET	的:T	義大利麵:N	還:ADV	不錯:Vi	不過:C	份量:N	不:ADV	多:Vi	
+連:C	max:FW	姐:N	都:ADV	覺得:Vt	吃:Vt	不:ADV	飽:Vi	啊:T	
+至於:P	花生:N	麻糬:N	煎餅:N	期望:Vt	太:ADV	高:Vi	失望:Vi	也:ADV	較:ADV	多:Vi	
+不過:C	...:ETCCATEGORY	max:FW	認為:Vt	若是:C	煎餅:N	的:T	比例:N	能:ADV	調整:Vt	或許:ADV	還:ADV	不:ADV	差:Vi	
+CP:FW	值:N	★:FW	★:FW	★:FW	☆:FW	☆:FW	
+餐廳:N	名稱:N	：:COLONCATEGORY	1861:DET	Caffe:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	6月:N	
+地址:N	：:COLONCATEGORY	台北市:N	昆明街:N	96巷:N	4:DET	號:M	2樓:N	
+西門:N	捷運站:N	6:DET	號:M	出口:Nv	
+電話:N	：:COLONCATEGORY	0223820177:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	-:DASHCATEGORY	21:DET	::COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	70:DET	up:FW	
+推薦:Vt	菜色:N	：:COLONCATEGORY	花生:N	麻糬:N	煎餅:N	、:PAUSECATEGORY	青醬鴨胸:N	義大利麵:N	
+官網:N	：:COLONCATEGORY	FACEBOOK:FW	

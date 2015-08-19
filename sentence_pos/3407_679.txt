@@ -1,0 +1,251 @@
+chuantina:FW	(:PARENTHESISCATEGORY	一:DET	朵:M	小:Vi	桃紅:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	美好:Vi	年代:N	。:PERIODCATEGORY	失:Vt	心:N	瘋:Vi	的:T	超:A	夢幻:N	甜點:N	西門:N	
+Sun:FW	
+Aug:FW	
+10:DET	
+11:DET	::COLONCATEGORY	10:DET	::COLONCATEGORY	36:DET	
+2014:DET	
+圖文:N	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	fairylolita.pixnet.net/blog/post:FW	/:FW	383814023:DET	
+美好:Vi	年代:N	Belle:FW	É:FW	poque:FW	
+消費:N	日期:N	：:COLONCATEGORY	2014年:N	8月:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23120124:DET	
+店址:N	：:COLONCATEGORY	台北市:N	萬華區:N	康定路:N	19:DET	號:M	
+營業:Nv	時間:N	：:COLONCATEGORY	AM:FW	11:DET	：:COLONCATEGORY	00:DET	
+22:DET	：:COLONCATEGORY	00:DET	
+說到:Vt	美好:Vi	年代:N	
+讓:Vt	我:N	第一:DET	個:M	想到:Vt	的:T	就:ADV	是:Vt	它們:N	家:N	特製:Vt	的:T	珍珠:N	奶茶:N	鬆餅:N	
+最近:N	西門店:N	開張:Vi	
+又:ADV	有:Vt	專屬:Vt	的:T	甜點:N	問市:Vi	啦:T	
+填滿:Vt	爽口:Vi	奶油:N	的:T	可:Vi	麗餅:N	
+淋:Vt	上:N	甜醬:N	、:PAUSECATEGORY	冰淇淋:N	
+再:ADV	加入:Vt	草莓:N	點綴:Vt	
+夢幻:N	外表:N	讓:Vt	人:N	看:Vt	了:ASP	都:ADV	想:Vt	瘋狂:Vi	尖叫:Vt	了:ASP	
+&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+西門店:N	座落:Vt	於:P	康定:N	路:N	上:N	
+附近:N	比較:ADV	顯目:Vi	的:T	地標:N	應該:ADV	就:ADV	屬:Vt	台北:N	電影:N	主題:N	公園:N	了:T	
+因為:C	距離:P	捷運站:N	需:ADV	走:Vi	一段:N	路:N	
+建議:Vt	搭:Vt	公車:N	抑或:C	騎車:Vi	會:ADV	比較:ADV	方便:Vi	呦:b	
+遠遠:Vi	地:T	我:N	就:ADV	看到:Vt	這:DET	棟:M	矗立:Vi	馬路:N	旁:N	的:T	紅磚屋:N	
+搞:Vt	了:ASP	半:DET	天:M	它:N	竟然:ADV	就:ADV	是:Vt	美好:Vi	年代:N	西門店:N	
+是:Vt	說:Vt	外型:N	也:ADV	太:ADV	復古:Vt	了:ASP	吧:T	
+佔地:Vt	比起:P	復興:N	本:DET	店:N	、:PAUSECATEGORY	小:Vi	美好:Vi	
+空間:N	大小:N	差不多:Vi	
+我:N	很:ADV	喜歡:Vt	庭院:N	打:Vt	造出來:Vt	的:T	風格:N	
+有:Vt	峇里島:N	悠閒:Vi	的:T	渡假:Nv	風情:N	
+讓:Vt	人:N	感覺:N	相當:ADV	舒服:Vi	
+由:P	紅磚:N	砌成:Vt	的:T	牆面:N	懷舊:Vi	而:C	有:Vt	味道:N	
+不過:C	天氣:N	實在:ADV	太:ADV	熱:Vt	啦:T	
+還是:ADV	快點:ADV	躲到:Vt	室:N	內:N	吹:Vt	冷氣:N	比較:ADV	實在:Vi	XD:FW	
+同樣:Vi	都:ADV	是:Vt	走:Vi	懷舊:Vi	的:T	風格:N	
+相較:Vi	於:P	其它:DET	兩:DET	間:M	
+裝飾:Vt	物品:N	較少:Vi	
+再:ADV	加上:Vt	挑高:Vi	設計:N	及:C	絕佳:Vi	採光:N	
+整體:N	看起來:ADV	清爽:Vi	而:C	無:Vt	雜亂感:N	
+而且:C	裡面:N	還:ADV	放:Vt	著:ASP	舊:Vi	時代:N	的:T	電影:N	
+整:DET	個:M	好:ADV	有:Vt	FU:FW	呦:b	
+開放式:A	的:T	廚房:N	也:ADV	嗅得到:Vt	復古:Vt	的:T	氣:N	味兒:N	
+不過:C	感覺:Vt	它們:N	家:N	的:T	服務生:N	好像:ADV	都:ADV	有:Vt	挑:Vt	過:ASP	
+每:DET	個:M	人:N	瘦:Vi	得:T	跟:P	什麼:DET	似的:POST	
+上菜:Vi	整:DET	個:M	有:Vt	麻豆:N	走秀:Vi	的:T	感覺:N	
+身材:N	也:ADV	太:ADV	好了:T	吧:T	
+&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+這:DET	名片:N	在:P	當初:N	造訪:Vt	一:DET	店:N	時:POST	就:ADV	看過:Vt	囉:T	
+普普:N	風:N	的:T	點點:DET	風格:N	
+造型:N	相當:Vi	少女:N	又:ADV	可愛:Vi	：:COLONCATEGORY	
+這:DET	區:N	應該:ADV	是:Vt	裝飾:N	最多:Vi	的:T	一:DET	個:M	角落:N	
+其實:ADV	我:N	反而:C	比較:ADV	醉心:Vi	於:P	這樣:Vi	清爽:Vi	的:T	擺設:Nv	
+不:ADV	顯:Vt	雜亂:Vi	
+而是:C	恰到好處:Vi	的:T	點綴:Nv	
+菜單:N	
+點:Vt	圖:N	可:ADV	放大:Vt	
+看:Vt	了:ASP	一下:N	
+發現:Vt	三:DET	間:M	提供:Vt	的:T	餐點:N	其實:ADV	有:Vt	些:M	不:ADV	一樣:Vi	
+西門:N	店主:N	要:ADV	以:P	輕:Vi	食:N	及:C	帕尼尼:N	為主:Vi	
+不過:C	最:ADV	讓:Vt	我:N	期待:Vt	的:T	
+還是:C	西門店:N	才:ADV	可以:ADV	吃:Vt	得到:Vt	的:T	可:Vi	麗餅:N	
+當然:ADV	其它:DET	熱門:Vi	招牌:N	
+像:P	珍珠:N	奶茶:N	鬆餅:N	、:PAUSECATEGORY	OREO:FW	鬆餅:N	
+在:P	這兒:N	也:ADV	可以:ADV	吃:Vt	得到:Vt	：:COLONCATEGORY	
+雞肉:N	凱薩沙拉:N	
+NT:FW	.:PERIODCATEGORY	130:DET	元:M	
+凱薩:N	醬汁:N	正規:A	簡單:Vi	
+吃:Vt	來:ADV	清爽:Vi	而:C	無:Vt	負擔:N	
+生菜:N	稱不上:Vt	爽脆:Vi	
+不過:C	新:Vi	鮮度:N	很:ADV	高:Vi	
+上頭:N	還:ADV	加:Vt	了:ASP	兩:DET	片:M	烤:Vt	得:T	焦:Vi	脆:Vi	的:T	麵包:N	餅乾:N	
+大:Vi	份量:N	很:ADV	適合:Vi	多:Vi	人:N	點:N	來:Vi	一:DET	塊:M	share:FW	
+費城:N	牛肉:N	帕尼尼:N	
+NT:FW	.:PERIODCATEGORY	280:DET	元:M	
+如果:C	你:N	是:Vt	肉控:N	的:T	話:N	
+那麼:ADV	點:Vt	這:DET	道:M	准:Vt	沒:ADV	錯:Vi	
+內:N	餡:N	的:T	牛肉:N	都:ADV	爆:Vi	快:Vi	到:P	滿:DET	出來:Vi	了:ASP	
+完全:ADV	是:Vt	真:ADV	材實料超:N	紮實:Vi	的:T	啦:T	
+看看:Vt	這:DET	紮實:Vi	的:T	牛肉片:N	
+完全:ADV	給:Vt	得:T	超:A	有:Vt	誠意:N	
+忍不住:Vt	都:ADV	想:Vt	比:P	超大:A	拇指:N	給:Vt	它:N	了:T	XD:FW	
+不同於:Vt	平常:N	常見:Vi	用:P	壓:Vt	烤:Vt	過:ASP	的:T	全:DET	麥:N	麵包:N	
+這:DET	個:M	帕尼尼:N	的:T	外皮:N	吃起來:ADV	鬆軟:Vi	而:C	有:Vt	彈性:N	
+我:N	反而:C	比較:ADV	喜歡:Vt	以:P	這樣:Vi	的:T	方式:N	呈現:Vt	
+也許:ADV	口感:N	沒:ADV	那麼:ADV	酥脆:Vi	
+但:C	吃:Vt	來:ADV	不:ADV	乾:Vi	柴:N	卻:ADV	會:ADV	讓:Vt	整體:N	更加:ADV	
+分:Vt	
+加:Vt	了:ASP	洋蔥:N	及:C	起士:N	調味:Vi	
+口感:N	濕潤:Vi	多汁:Vi	
+不過:C	我:N	比較:ADV	不:ADV	愛:Vt	它:N	的:T	肉味:N	太:ADV	重:Vi	
+吃:Vt	到:P	後來:N	會:ADV	有:Vt	一些些:DET	顯:Vt	膩:Vi	
+配餐:N	除了:P	沙拉:N	
+還:ADV	有:Vt	炸:Vt	得:T	金黃:Vi	酥脆:Vi	的:T	薯條:N	
+大:Vi	推:Vt	它:N	這:DET	個:M	千:DET	島:N	醬:N	
+因為:C	加:Vt	了:ASP	檸檬:N	醬汁:N	
+風味:N	更:ADV	是:Vt	出色:Vi	不少:Vi	
+其實:ADV	它:N	是:Vt	用來:Vt	佐:Vt	生菜:N	的:T	
+但:C	其實:ADV	配上:Vt	薯條:N	也:ADV	很:ADV	好吃:Vi	呦:b	
+雞肉:N	歐姆:M	蛋:N	
+NT:FW	.:PERIODCATEGORY	260:DET	元:M	
+真的:ADV	很:ADV	想:Vt	說:Vt	
+美好:Vi	年代:N	的:T	餐點:N	完全:ADV	是:Vt	誠意:N	百分百:DET	
+光:ADV	是:Vt	視覺:N	效果:N	就:ADV	給:Vt	人:N	超大:A	的:T	滿足感:N	
+歐姆:M	蛋:N	煎:Vt	得:T	澄黃:Vi	漂亮:Vi	
+旁邊:N	佐以:Vt	沙拉:N	、:PAUSECATEGORY	吐司:N	及:C	炸:Vt	薯條:N	
+我:N	想:Vt	依:P	一般:A	女孩兒:N	的:T	食量:N	
+想要:Vt	把:P	它:N	完:Vt	食:N	肯定:Vt	要:ADV	費:Vt	上:DET	一:DET	番:M	
+力氣:N	
+歐姆:M	蛋:N	內:N	餡:N	由:P	雞肉:N	、:PAUSECATEGORY	彩椒:N	及:C	綜合:A	野菇:N	組成:Vt	
+當然:ADV	也:ADV	少不了:Vt	超:Vt	邪惡:Vi	的:T	牽絲:Vt	起:ASP	士:N	囉:T	
+這:DET	道:M	是:Vt	店家:N	推薦給:Vt	我們:N	的:T	
+據說:ADV	也:ADV	是:Vt	店:N	內:N	很:ADV	受:Vt	歡迎:Vt	的:T	人氣:N	餐點:N	
+外層:N	蛋:N	皮:N	滑溜:Vi	軟嫩:Vi	
+依稀:ADV	還:ADV	蘊含:Vt	了:ASP	股:M	淡淡:Vi	的:T	奶油味:N	
+雞肉:N	吃:Vt	來:ADV	鮮:Vi	軟:Vi	而:C	不:ADV	老:Vi	柴:N	
+雖然:C	我:N	的:T	早:Vi	午餐:N	關鍵字:N	是:Vt	班尼迪克:N	蛋:N	
+但:C	這:DET	道:M	的:T	表現:N	也:ADV	相當:ADV	合:Vt	胃口:N	：:COLONCATEGORY	
+真:ADV	開心:Vi	又:ADV	有:Vt	薯條:N	可以:ADV	吃:Vt	
+XD:FW	整:DET	個:M	想:Vt	大推:Vt	這:DET	一:DET	道:M	呀:T	
+而且:C	小:Vi	鐵盒:N	也:ADV	超可愛:Vi	的:T	
+蘑菇:N	松露細扁:N	麵:N	
+NT:FW	.:PERIODCATEGORY	280:DET	元:M	
+滿滿:Vi	的:T	菇蕈:N	及:C	濃郁:Vi	松露:N	香氣:N	
+是:Vt	它:N	給:Vt	人:N	最:ADV	鮮明:Vi	的:T	印象:N	
+份量:N	依舊:ADV	走:Vi	佛心:N	路線:N	
+想要:Vt	吃:Vt	飽飽:Vi	完全:ADV	不:ADV	成:Vt	問題:N	
+它:N	聞起來:ADV	的:T	香氣:N	
+遠:Vi	比:P	咀嚼:Vt	在:P	嘴:N	裡:POST	還:ADV	要:Vt	濃郁:Vi	
+相較:Vi	於:P	其它:DET	菜色:N	
+這:DET	道:M	細扁:Vi	麵:N	反而:C	沒:ADV	那麼:ADV	出色:Vi	
+我:N	想:Vt	多少:DET	跟:P	醬汁:N	收:Vt	得:T	不:ADV	夠:ADV	紮實:Vi	、:PAUSECATEGORY	
+還:ADV	有:Vt	吃起來:ADV	的:T	松露味:N	稍:ADV	嫌:Vt	淡薄:Vi	有關:Vt	
+我:N	想:Vt	會:ADV	比較:ADV	適合:Vi	吃:Vt	清爽:Vi	口味:N	的:T	朋友:N	
+香料:N	雞肉:N	蝴蝶麵:N	
+NT:FW	.:PERIODCATEGORY	250:DET	元:M	
+蝴蝶麵:N	可愛:Vi	的:T	造型:N	
+才:ADV	一:ADV	上桌:Vi	就:ADV	讓:Vt	我們:N	在場:Vi	的:T	兩:DET	個:M	女生:N	尖叫:Vt	
+實在:ADV	是:Vt	它:N	的:T	長相:N	太:ADV	討喜:Vi	了:T	啦:T	
+而且:C	可能:ADV	因為:C	醬汁:N	的:T	關係:N	
+麵條:N	呈現:Vt	淡淡:Vi	的:T	粉紅色:N	
+完全:ADV	就:ADV	是:Vt	道:Vt	少女系:N	的:T	餐點:N	嘛:T	
+它:N	的:T	蕃茄味:N	最:ADV	明顯:Vi	
+其中:DET	還:ADV	巧妙:Vi	地:T	融合:Nv	入:Vt	起:ASP	士:N	與:C	白醬:N	的:T	味道:N	
+層次:N	豐富:Vt	而:C	不:ADV	突兀:Vi	
+大:Vi	推薦:Vt	的:T	好吃:Vi	
+西瓜:N	王子:N	冰:N	旋風:N	
+NT:FW	.:PERIODCATEGORY	180:DET	元:M	
+這:DET	是:Vt	美好:Vi	年代:N	特別:Vi	推出:Vt	的:T	夏季:N	限定:Vt	冰沙:N	
+強烈:Vi	大推:Vt	這:DET	來:ADV	兒:N	一定:ADV	要:ADV	喝喝:Vt	看:Vt	
+冰冰涼涼:Vi	好:Vi	消暑:Vi	呀:T	
+利用:Vt	巧克力:N	豆:N	及:C	奇異果:N	裝點:Vt	成:Vt	西瓜:N	的:T	造型:N	
+樣子:N	也:ADV	相當:ADV	討人喜歡:Vi	呢:T	
+原:ADV	以為:Vt	要:ADV	做成:Vt	飲料:N	
+難免:ADV	都:ADV	會:ADV	失去:Vt	一些些:DET	水果:N	自然:Vi	的:T	原味:N	
+但:C	它:N	喝:Vt	起來:ASP	就:ADV	像:Vt	把:P	西瓜:N	打成:Vt	冰沙:N	
+新鮮:Vi	不:ADV	甜:Vi	膩:Vi	
+非常:ADV	天然:A	
+加入:Vt	巧克力:N	豆:N	一:DET	塊:M	品嚐:Vt	
+口感:N	也:ADV	更:ADV	富:Vt	變化:N	
+不過:C	它:N	需要:Vt	用:P	小:Vi	湯匙:N	一口:ADV	一口:ADV	舀:Vt	起來:ASP	喝:Vt	
+看:Vt	兩:DET	個:M	大男人:N	在:P	那:DET	一:DET	匙:M	一:DET	匙:M	地:N	用:P	
+怎:ADV	好像:ADV	有點:ADV	娘:N	味兒:N	跑出來:Vi	了:ASP	
+XD:FW	
+感覺:N	用:P	吸管:N	喝:Vt	會:ADV	比較:ADV	方便:Vi	就是了:Vi	：:COLONCATEGORY	
+荔枝:N	玫瑰:N	戰爭:N	
+NT:FW	.:PERIODCATEGORY	220:DET	元:M	
+這:DET	應該:ADV	是:Vt	我:N	近期:N	喝到:Vt	最:ADV	好喝:Vi	的:T	一:DET	杯:M	冰:N	飲:Vt	了:ASP	
+坦白:Vi	說:Vt	
+每:DET	次:M	造訪:Vt	甜點:N	還是:ADV	輕:Vi	食店:N	
+飲料:N	僅僅:ADV	是:Vt	附屬:Vi	的:T	東西:N	
+但:C	這:DET	杯:M	好:Vi	喝到:Vt	成為:Vt	我:N	當天:N	心目中:N	的:T	NO:FW	.:PERIODCATEGORY	1:DET	
+初:ADV	入口:Vi	是:Vt	馥郁:Vi	的:T	荔枝:N	香:Vi	
+當:P	冰沙融:N	在:P	舌尖:N	上:N	時:POST	
+玫瑰味:N	才:ADV	慢慢:Vi	地:T	碇:N	放出來:Vi	
+香甜:Vi	不:ADV	膩:Vi	
+簡單:Vi	而:C	又:ADV	清爽:Vi	
+與:P	其:DET	說:Vt	是:Vt	戰爭:N	
+倒不如:ADV	說:Vt	是:Vt	兩:DET	種:M	食材:N	結合:Vt	而:C	成:Vt	的:T	完美:Vi	協奏曲:N	：:COLONCATEGORY	
+美好:Vi	水果茶:N	
+NT:FW	.:PERIODCATEGORY	180:DET	元:M	
+可能:ADV	是:Vt	荔枝:N	玫瑰:N	太:ADV	出色:Vi	了:T	
+緊接著:ADV	喝:Vt	水果茶:N	
+就:ADV	顯得:Vt	平淡:Vi	許多:DET	
+但:C	其實:ADV	它:N	算是:Vt	安全牌:N	
+酸酸甜甜:Vi	
+是:Vt	盛夏:N	的:T	芬芳:Nv	果香:N	氣息:N	
+士多啤梨:N	可:ADV	麗餅:N	
+NT:FW	.:PERIODCATEGORY	230:DET	元:M	
+甜點:N	控:Vt	的:T	我:N	
+看到:Vt	這:DET	道:M	法式:A	可:Vi	麗餅:N	都:ADV	要:ADV	失:Vt	心:N	瘋:Vi	了:T	
+根本:ADV	就是:C	夢幻:N	到:P	超級:A	犯規:Vi	了:ASP	
+尖叫:Vt	
+軟:Vi	Q:FW	而:C	帶有:Vt	彈性:N	的:T	可:Vi	麗餅皮:N	中:POST	
+包覆:Vt	著:ASP	滿滿:Vi	的:T	鮮:Nv	奶油:N	及:C	草莓:N	
+偷偷:ADV	告訴:Vt	大家:N	
+這:DET	可是:C	西門店:N	才:ADV	吃:Vt	得到:Vt	的:T	限定:Nv	甜點:N	呦:b	
+表層:N	還:ADV	加:Vt	了:ASP	冰淇淋:N	、:PAUSECATEGORY	新鮮:Vi	草莓:N	點綴:Vt	
+就算:C	它:N	熱量:N	爆錶:N	
+我:N	也:ADV	要:ADV	吃:Vt	它:N	&:FW	gt:FW	
+/:FW	/:FW	/:FW	&:FW	lt:FW	
+就:ADV	在:P	大家:N	準備:Vt	要:ADV	完:Vi	食:Vt	它:N	的:T	時候:N	
+突然:ADV	發現:Vt	原來:A	餅皮:N	內:N	還:ADV	藏有:Vt	小:Vi	驚喜:Vi	
+加入:Vt	細碎:Vi	的:T	消化餅:N	
+不僅:C	提升:Vt	它:N	的:T	香氣:N	
+也:ADV	讓:Vt	口感:N	多:Vi	了:ASP	更加:ADV	乘:Vt	的:T	層次感:N	
+跟:P	Q:FW	彈:Vt	而:C	略帶:Vt	咬:Vt	勁:N	的:T	餅:N	皮:N	十分:ADV	合:Vi	搭:Vt	
+算是:Vt	一:DET	個:M	很:ADV	新鮮:Vi	又:ADV	特別:Vi	的:T	絕佳:Vi	創意:N	
+因:C	我們:N	是:Vt	四:DET	個:M	人:N	合:Vi	吃:Vt	一:DET	份:M	
+份量:N	比例:N	剛剛好:ADV	
+不會:ADV	過:ADV	膩:Vi	又:ADV	讓:Vt	人:N	覺得:Vt	好:ADV	滿足:Vt	
+重點:N	是:Vt	
+它:N	美麗:Vi	的:T	外表:N	超:Vt	好:Vi	拍照:Vi	的:T	啦:T	
+香蕉:N	太:ADV	妃:N	可:ADV	麗餅:N	
+NT:FW	.:PERIODCATEGORY	200:DET	元:M	
+意猶未盡:Vi	的:T	我們:N	
+在:P	商量:Vt	一陣子:N	之後:POST	決定:Vt	往:P	吃:Vt	貨:N	路線:N	出發:Vi	
+所以:C	又:ADV	再:ADV	加碼:Vi	了:ASP	一:DET	份:M	香蕉:N	太:ADV	妃:N	可:ADV	麗餅:N	
+吃完:Vt	都:ADV	不:ADV	曉得:Vt	要:ADV	運動:Vi	幾:DET	天才:N	消秏:N	得:Vt	了:ASP	
+為了:P	吃:Vt	整:DET	個:M	爆衝:N	XD:FW	
+如果說:C	士:N	多:Vi	啤梨:N	可:ADV	麗餅:N	是:Vt	走:Vi	夢幻:N	路線:N	
+那麼:ADV	這:DET	個:M	香蕉:N	太:ADV	妃:N	就:ADV	是:Vt	華麗:Vi	的:T	代名詞:N	
+餅皮:N	內:N	層層:DET	堆疊:Vt	上:POST	滿滿:Vi	的:T	香蕉:N	及:C	鮮:Vi	奶油:N	
+外層:N	再:ADV	加上:Vt	OREO:FW	口味:N	的:T	冰淇淋:N	及:C	巧克力醬:N	
+食材:N	全:DET	是:Vt	好朋友:N	的:T	組合:Nv	：:COLONCATEGORY	
+它:N	的:T	甜度:N	比起:P	士:N	多:Vi	啤梨:N	口味:N	的:T	還要:ADV	高上:A	許多:DET	
+吃起來:ADV	有:Vt	鮮明:Vi	的:T	巧克力:N	香氣:N	
+除了:P	用料:N	實在:ADV	大方:Vi	之外:POST	
+冰淇淋:N	也:ADV	是:Vt	讓:Vt	人:N	頗為:ADV	驚豔:Vi	的:T	一:DET	個:M	地方:N	
+裡面:N	還可以:ADV	吃到:Vt	細碎:Vi	的:T	OREO:FW	巧克力片:N	呦:b	
+不過:C	可能:ADV	我們:N	這:DET	群:M	人:N	年紀:N	大:Vi	了:T	
+都:ADV	私心:N	偏好:Nv	草莓:N	口味:N	的:T	多:DET	一些:DET	：:COLONCATEGORY	
+在:P	美好:Vi	年代:N	
+我們:N	享受:Vt	了:ASP	一段:N	美好:Vi	而:C	又:ADV	悠閒:Vi	的:T	午后:N	時光:N	
+其實:ADV	距離:P	造訪:Vt	一:DET	店:N	也:ADV	有:Vt	一段:N	時間:N	了:T	
+當時:N	比較:ADV	有:Vt	印象:N	的:T	是:Vt	它們:N	家:N	的:T	鹹食:N	表現:N	還:ADV	不錯:Vi	
+沒想到:ADV	這:DET	次:M	吃:Vt	更:ADV	是:Vt	驚豔:Vi	許多:DET	
+而且:C	餐點:N	更加:ADV	豐富:Vt	
+選擇:Vt	也:ADV	更多:Vi	了:T	
+也許:ADV	一:ADV	提到:Vt	美好:Vi	年代:N	
+大家:N	第一:DET	個:M	想到:Vt	的:T	會:ADV	是:Vt	珍珠:N	奶茶:N	鬆餅:N	
+但:C	其實:ADV	可:ADV	麗餅:N	的:T	表現:N	也:ADV	不遑多讓:Vi	呀:T	
+好吃:Vi	又:ADV	豐富:Vt	
+非常:ADV	適合:Vi	女孩兒:N	們:N	拿來:Vt	當:P	下午茶:N	享用:Vt	
+在:P	這樣:Vi	充滿:Vt	濃濃:Vi	復古:Vt	氛圍:N	的:T	環境:N	內:N	用餐:Vi	
+是:Vt	生活:N	中:POST	美好:Vi	的:T	小:Vi	確:ADV	幸:Vi	：:COLONCATEGORY	

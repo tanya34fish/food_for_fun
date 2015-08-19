@@ -1,0 +1,35 @@
+chenpei:FW	(:PARENTHESISCATEGORY	怎麼:ADV	都:ADV	吃:Vt	不:ADV	飽:Vi	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安:N	歐嬤:N	烏蘇:N	拉德式:A	料理:N	商業:N	午餐:N	
+Thu:FW	
+Aug:FW	
+14:DET	
+19:DET	::COLONCATEGORY	15:DET	::COLONCATEGORY	38:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	歐嬤:N	烏蘇拉:N	經典:N	德式:A	料理:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	8月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	永康街:N	10巷:N	8:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	23922447:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	00:DET	
+網誌:N	心得:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	chenpei0116.pixnet.net/blog/post:FW	/:FW	41449016:DET	
+又:ADV	來到:Vt	永康街:N	覓食:Vi	了:ASP	今天:N	不:ADV	止熱:N	日本客:N	又:ADV	更多:Vi	了:ASP	一台台:DET	的:T	遊覽車:N	停:Vt	在:P	鼎泰豐門:N	日:N	整:DET	
+個:M	永康街:N	都:ADV	被:P	塞爆:Vi	了:T	
+本來:ADV	想:Vt	找:Vt	吃:Vt	的:T	到處:ADV	都:ADV	是:Vt	人:N	走進:Vt	巷子:N	發現:Vt	這裡:N	也:ADV	有:Vt	一:DET	家:M	歐嬤:N	烏蘇拉:N	
+有夠:ADV	難:Vi	打:Vt	的:T	XD:FW	
+有:Vt	提供:Vt	商業:N	午餐:N	看起來:ADV	好像:ADV	還:ADV	不錯:Vi	的:T	感覺:N	不:ADV	思考:Vt	就:ADV	直接:Vi	進去:Vi	了:ASP	
+因為:C	很:ADV	久:Vi	沒:ADV	大吃:Vt	肉:N	了:T	點:Vt	了:ASP	份香煎:N	肉排:N	+:FW	原味:N	香腸:N	+:FW	酸菜:N	+:FW	時:POST	蔬:b	手工麵:N	的:T	組合:Nv	
+濃湯:N	看似:Vt	很:ADV	油:Vi	但:C	嚐起來:ADV	卻:ADV	意外:Vt	的:T	好喝:Vi	味道:N	很:ADV	夠:Vi	也:ADV	很:ADV	香:Vi	
+不會:ADV	像:Vt	有:Vt	些:M	濃湯:N	感覺:N	很:ADV	淡:Vi	而且:C	湯:N	的:T	料:N	給:Vt	找:Vt	肉:N	好多:DET	哦:T	開心:Vi	
+手工:N	麵包:N	的:T	部份:DET	也:ADV	蠻:ADV	厲害:Vi	的:T	麵包:N	並:ADV	不:ADV	是:Vt	烤:Vt	的:T	很:ADV	酥脆:Vi	可是:C	吃:Vt	的:T	出來:Vi	麵包:N	香:N	和:C	其:DET	嚼:Vt	勁:N	
+麵包:N	裡面:N	有:Vt	包含:Vt	一些:DET	穀類:N	吃起來:ADV	蠻:ADV	健康:Vi	的:T	二:DET	片:M	都:ADV	抹:Vt	了:ASP	一點:DET	大蒜味:N	味道:N	更:ADV	香:Vi	
+主菜:N	上來:Vi	的:T	時候:N	份量:N	沒有:Vt	我:N	想像:Vt	中:POST	的:T	多:Vi	個:M	人:N	覺得:Vt	最:ADV	好吃:Vi	的:T	不:ADV	是:Vt	肉排:N	而是:C	手工麵:N	
+因為:C	不:ADV	常:ADV	吃:Vt	德式:A	料理:N	還是:C	第一:DET	次:M	吃到:Vt	那麼:ADV	Q:FW	的:T	手工:N	麵:N	不會:ADV	爛爛:Vi	的:T	很:ADV	有:Vt	彈性:N	
+裡面:N	還:ADV	有:Vt	一些:DET	香菇:N	和:C	培根:N	很:ADV	好吃:Vi	
+肉排:N	和:C	香腸:N	的:T	部份:DET	來:ADV	講:Vt	香味:N	都:ADV	很:ADV	夠:Vi	肉排:N	雖然:C	偏:ADV	鹹:Vi	了:ASP	點:N	但是:C	整體:N	來:ADV	說:Vt	
+我:N	還是:ADV	比較:ADV	愛:Vt	肉排:N	
+甜點:N	今天:N	是:Vt	蘋果派:N	吃起來:ADV	就:ADV	很:ADV	像:Vt	台灣:N	有:Vt	些:M	傳統:N	大:Vi	餅:N	的:T	口感:N	但是:C	餅皮:N	較:ADV	脆:Vi	
+蘋果:N	的:T	口感:N	偏:ADV	酸:Vi	
+以:P	價位:N	來:ADV	說:Vt	個:M	人:N	覺得:Vt	偏:ADV	貴:Vi	了:ASP	些:ADV	而且:C	我:N	竟然:ADV	沒有:Vt	吃飽:Vi	哈:ADV	
+一樓:N	雖然:C	有:Vt	賣:Vt	手工:N	麵包:N	但是:C	還是:ADV	比較:ADV	愛:Vt	傳統:Vi	的:T	麵包:N	多:Vi	一些:DET	
+回家:Vi	時:POST	看到:Vt	8:DET	%:M	新:Vi	開:Vt	的:T	甜點店:N	又:ADV	忍不住:Vt	進去:Vi	買:Vt	了:ASP	二:DET	個:M	不過:C	現在:N	外帶:Vt	買一送一:Vi	很:ADV	划算:Vi	
+上面:N	是:Vt	香蕉:N	咖啡:N	核桃:N	泡芙:N	底下:N	是:Vt	抹茶:N	口味:N	二:DET	種:M	味道:N	都:ADV	很:ADV	棒:Vi	抹茶:N	大勝:Vt	
+總算:ADV	小小:Vi	的:T	彌補:Vt	我:N	吃:Vt	不:ADV	飽:Vi	的:T	肚子:N	......:ETCCATEGORY	XD:FW	

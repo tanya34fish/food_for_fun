@@ -1,0 +1,120 @@
+pswo:FW	210525:DET	(:PARENTHESISCATEGORY	(:PARENTHESISCATEGORY	阿:N	mon:FW	):PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	百八:DET	魚場:N	~:FW	知名:Vi	平價:N	連鎖:A	日式:A	丼:b	飯店:N	
+Thu:FW	
+Aug:FW	
+7:DET	
+22:DET	::COLONCATEGORY	28:DET	::COLONCATEGORY	43:DET	
+2014:DET	
+店名:N	::COLONCATEGORY	百八:DET	魚場:N	(:PARENTHESISCATEGORY	西湖店:N	):PARENTHESISCATEGORY	
+電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	26275181:DET	
+地址:N	::COLONCATEGORY	台北市:N	內湖區:N	瑞光路:N	583巷:N	22:DET	號:M	1:DET	F:FW	
+價格:N	::COLONCATEGORY	$:FW	70:DET	up:FW	，:COMMACATEGORY	不:ADV	收:Vt	服務費:N	
+用餐:Nv	日期:N	::COLONCATEGORY	2014年:N	6月:N	
+無:Vt	音樂:N	圖文:N	網誌版:N	
+痞客邦:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	monkey2010.pixnet.net/blog/post:FW	/:FW	58153746:DET	
+純:Vi	文字版:N	前:POST	陣子:N	和:C	朋友:N	到:Vt	內湖:N	這邊:N	工作:Vi	
+因:C	時間:N	還:ADV	早:ADV	
+所以:C	就:ADV	想:Vt	說:Vt	那:DET	乾脆:Vi	先:ADV	吃:Vt	個:M	飯:N	
+可能:ADV	因為:C	是:Vt	週末:N	的:T	關係:N	
+附近:N	的:T	餐廳:N	都:ADV	爆滿:Vi	
+小貳樓:N	、:PAUSECATEGORY	酸菜:N	白肉鍋:N	等:POST	都:ADV	需要:Vt	排隊:Vi	等:POST	位置:N	很:ADV	久:Vi	
+偏偏:ADV	又:ADV	沒:Vt	那麼多:DET	時間:N	可以:ADV	等:Vt	
+剛好:ADV	看到:Vt	隔壁:N	有:Vt	間:M	百八:DET	魚場:N	
+和:C	朋友:N	商量:Vt	後:POST	就:ADV	決定:Vt	是:Vt	這:DET	間:M	
+不然:C	就:ADV	只:ADV	能:ADV	吃:Vt	MOS:FW	哩:T	
+百八:DET	魚場:N	是:Vt	生:Vt	魚:N	丼飯:N	的:T	連鎖店:N	
+在:P	北部:N	開:Vt	蠻:ADV	多:Vi	間:POST	的:T	
+後來:N	才:ADV	知道:Vt	光:ADV	是:Vt	瑞光路:N	就:ADV	有:Vt	兩:DET	間:M	
+但:C	中部:N	好像:ADV	就:ADV	沒:Vt	啥:DET	看過:Vt	了:ASP	
+不:ADV	知道:Vt	原因:N	是:Vt	啥:DET	
+進到:Vt	餐廳:N	後:POST	
+發現:Vt	餐廳:N	內:N	幾乎:ADV	是:Vt	客滿:Vi	狀態:N	
+只好:ADV	先:ADV	登記:Vt	了:ASP	名字:N	
+等:Vt	了:ASP	不:ADV	到:Vt	5:DET	分鐘:M	
+很:ADV	快:Vi	的:T	就:ADV	有:Vt	服務生:N	帶:Vt	我們:N	入:Vt	坐:Vi	
+台北:N	的:T	百八:DET	魚場:N	我:N	之前:POST	都:ADV	有:Vt	路過:Vt	好幾:DET	次:M	
+但:C	一直:ADV	都:ADV	沒:Vt	進門:N	吃:Vt	看看:ASP	
+可能:ADV	多少:DET	也:ADV	因為:C	我:N	不:ADV	喜歡:Vt	連鎖店:N	的:T	關係:N	吧:T	
+這:DET	次:M	會:ADV	進來:Vi	是:Vt	比較:ADV	沒:Vt	得:T	選:Vt	的:T	關係:N	
+丼飯:N	升級成:Vt	定食:Vt	要:ADV	加:Vt	$:FW	60:DET	
+會:ADV	多:Vi	了:ASP	茶碗:N	蒸:Vt	、:PAUSECATEGORY	小菜:N	、:PAUSECATEGORY	甜點:N	
+部分:DET	的:T	餐點:N	有:Vt	圖片:N	可:ADV	供:Vt	參考:Vt	
+另外:C	白飯:N	部分:DET	是:Vt	以:P	熱:Vt	飯:N	為主:Vi	
+如果:C	要:Vt	吃醋飯:N	
+在:P	結帳:Vi	時:POST	也:ADV	必須:ADV	要:ADV	先:ADV	告知:Vt	
+這:DET	個:M	也:ADV	算式:N	很:ADV	特別:Vi	的:T	要求:N	
+通常:ADV	吃:Vt	生魚丼飯:N	
+都:ADV	是:Vt	用:P	冷:Vi	醋:N	飯:N	說:Vt	
+配上:Vt	熱:Vt	飯:N	就:ADV	還:ADV	蠻:ADV	囧:Vi	的:T	
+手捲:N	、:PAUSECATEGORY	沙拉:N	、:PAUSECATEGORY	小菜:N	生魚片:N	、:PAUSECATEGORY	壽司:N	超值:Vi	定食烤:Vt	、:PAUSECATEGORY	炸:Vt	單品:N	用餐:Vi	必須:ADV	在:P	點餐:N	的:T	時候:N	就:ADV	先:ADV	買單:Vi	
+在:P	結帳:Vi	櫃台:N	上面:N	還:ADV	有:Vt	一:DET	個:M	小:Vi	黑板:N	
+上面:N	的:T	餐點:N	和:C	價格:N	是:Vt	菜單:N	上:N	沒有:Vt	的:T	
+應該:ADV	是:Vt	看:Vt	當天:N	有:Vt	進:Vt	什麼:DET	漁獲:N	另外:ADV	再:ADV	賣:Vt	的:T	
+店:N	內:N	用餐:Vi	的:T	話:N	
+茶水:N	自取:Vt	
+味增湯:N	和:C	白飯:N	也:ADV	都:ADV	是:Vt	無限:Vi	吃:Vt	
+對於:P	大:Vi	食量:N	的:T	人:N	來:ADV	說:Vt	
+應該:ADV	蠻:ADV	有:Vt	吸引力:N	的:T	
+御品:N	三:DET	色:N	丼:b	$:FW	250:DET	在:P	菜單:N	上:N	有:Vt	一:DET	個:M	皇冠:N	的:T	標誌:N	
+應該:ADV	是:Vt	該:DET	店:N	的:T	熱門菜:N	或:C	特色菜:N	吧:T	
+所以:C	朋友:N	就:ADV	點:Vt	了:ASP	這:DET	份:M	
+並且:C	升級成:Vt	套餐:N	
+因此:C	有:Vt	多:Vi	了:ASP	茶碗:N	蒸:Vt	、:PAUSECATEGORY	兩樣:Vi	小菜:N	、:PAUSECATEGORY	甜點:N	
+主菜:N	部分:DET	就:ADV	沒有:ADV	跟:P	白飯:N	擺:Vt	在一起:Vi	
+而是:C	另外:C	裝成:Vi	一:DET	盤:M	
+就:ADV	有點:ADV	不:ADV	太:ADV	像:Vt	是:Vt	丼飯:N	了:T	
+以:P	這:DET	價格:N	來:ADV	說:Vt	
+在:P	台北:N	應該:ADV	算是:Vt	蠻:ADV	便宜:Vi	的:T	
+御品:N	三:DET	色:N	丼:b	這:DET	份:M	裡面:N	有:Vt	甜:Vi	蝦:N	、:PAUSECATEGORY	鮭魚:N	生魚片:N	、:PAUSECATEGORY	鮭魚:N	卵:N	、:PAUSECATEGORY	大:Vi	干貝:N	等:POST	
+依據:P	朋友:N	的:T	說法:N	
+她:N	覺得:Vt	還:ADV	OK:FW	
+我:N	則:ADV	是:Vt	有:Vt	吃:Vt	了:ASP	一:DET	片:M	鮭魚:N	生魚片:N	
+感覺:N	上:POST	好像:ADV	有點:ADV	退:Vi	冰:Vt	了:ASP	
+口感:N	不:ADV	是:Vt	很:ADV	好:Vi	
+綜合:A	燒霜丼:Vt	$:FW	220:DET	我:N	個:M	人:N	比較:ADV	喜歡:Vt	炙燒類:Vi	的:T	
+所以:C	點:Vt	了:ASP	這:DET	個:M	燒霜:N	景:N	
+除了:P	主餐:N	不同:Vi	外:POST	
+岐:N	他:N	的:T	都:ADV	是:Vt	跟:P	御品:N	三:DET	色:N	丼:b	一樣:Vi	
+綜合:A	燒霜丼:Vt	有:Vt	旗魚:N	、:PAUSECATEGORY	鮪魚:N	、:PAUSECATEGORY	鮭魚:N	、:PAUSECATEGORY	大:Vi	干貝:N	等:POST	
+挺:ADV	豐盛:Vi	的:T	
+但:C	吃:Vt	了:ASP	幾:DET	口:M	後:POST	就:ADV	覺得:Vt	有點:ADV	失望:Vi	
+除了:P	干貝:N	夠:ADV	鮮:Vi	甜:Vi	外:POST	
+剩下:Vt	的:T	三:DET	種:M	炙燒:Vi	生魚片:N	都:ADV	不:ADV	優:Vi	
+旗魚:N	的:T	筋:N	多:ADV	道:Vt	很:ADV	難:Vi	咬:Vt	
+鮭魚:N	和:C	鮪魚:N	則:ADV	是:Vt	口感:N	太:ADV	軟:Vi	了:T	
+感覺:N	退:Vt	冰:N	很:ADV	久:Vi	
+甚至:ADV	可能:ADV	先:ADV	炙燒好:Vi	放:Vt	著:ASP	的:T	
+鮭魚:N	吃起來:ADV	也:ADV	沒有:Vt	那:DET	種:M	炙:Vt	過:ASP	的:T	特殊:Vi	香氣:N	
+讓:Vt	我:N	吃:Vt	的:T	不:ADV	是:Vt	很:ADV	開心:Vi	
+早:ADV	知道:Vt	應該:ADV	點:Vt	御品:N	三:DET	色:M	才:ADV	對:P	
+唉:T	
+最:ADV	好吃:Vi	的:T	就是:C	這:DET	個:M	大:Vi	干貝:N	
+讓:Vt	我:N	有:Vt	些許:DET	安慰:Vt	
+也:ADV	是:Vt	唯:ADV	一直:ADV	得:ADV	一:ADV	提:Vt	的:T	優點:N	
+炙:Vt	鮪魚:N	、:PAUSECATEGORY	炙:Vt	鮭魚:N	醋飯:N	飯粒:N	黏:Vt	的:T	很:ADV	緊:Vi	
+吃起來:ADV	口感:N	也:ADV	不:ADV	是:Vt	很:ADV	好:Vi	
+兩樣:Vi	小菜:N	就:ADV	小黃瓜:N	和:C	疑似:Vt	牛:N	蒡絲:N	
+欸:T	
+份量:N	少:Vi	
+味道:N	普通:Vi	
+直接:Vi	跳過:Vt	不:ADV	介紹:Vt	
+茶碗:N	蒸:Vt	事:N	後:POST	想想:Vt	
+升級成:Vt	定食:Vt	好像:ADV	真的:ADV	沒:Vt	啥:DET	賺到:Vt	的:T	感覺:N	
+小菜:N	份量:N	少:ADV	又:ADV	普通:Vi	
+甜點:N	更:ADV	是:Vt	普通:Vi	
+茶碗:N	蒸:Vt	部分:DET	還:ADV	算:Vt	不錯:Vi	
+吃起來:ADV	滑嫩:Vi	順口:Vi	
+蛋香:N	細緻:Vi	
+如果:C	茶碗:N	蒸:Vt	能:ADV	單:ADV	點:Vt	
+單:ADV	點:Vt	茶碗:N	蒸:Vt	或許:ADV	還:ADV	會:ADV	比較:ADV	省:Vi	摳摳:Vi	喔:T	
+甜點:N	印象:N	中:POST	是:Vt	仙草:N	凍:Vt	的:T	樣子:N	
+喝:Vt	起來:ASP	沒:Vt	啥:DET	仙草味:N	
+可惜:Vi	了:T	
+整體:N	來:ADV	說:Vt	我:N	想:Vt	我:N	應該:ADV	不會:ADV	再:ADV	來:ADV	這:DET	間:M	分店:N	了:T	吧:T	
+吃下來:Vi	覺得:Vt	並:ADV	沒有:Vt	很:ADV	優:Vi	
+雖然:C	說:Vt	白飯:N	味增湯:N	可以:ADV	無限:Vi	吃:Vt	
+但:C	對:P	我:N	來:ADV	說:Vt	誘因:N	不:ADV	大:Vi	
+還是:ADV	回:Vt	中山區:N	附近:N	吃:Vt	台灣玉:N	丼:b	或:C	八:DET	番:M	堂:N	可能:ADV	比較:ADV	好:Vi	
+價格:N	也:ADV	較:ADV	便宜:Vi	
+以上:N	是:Vt	個:M	人:N	淺見:N	
+僅:ADV	供:Vt	參考:Vt	

@@ -1,0 +1,117 @@
+yeahbonnie(bonnie:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	大安區:N	大:Vi	肚皮:N	義式:A	餐坊:N	
+Wed:FW	
+Oct:FW	
+8:DET	
+08:DET	::COLONCATEGORY	16:DET	::COLONCATEGORY	27:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	BigPancia:FW	大:Vi	肚皮:N	義式:A	餐坊:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	10月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	安和路:N	二段:N	184巷:N	6:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2733:DET	-:DASHCATEGORY	1488:DET	
+刷卡:Vi	：:COLONCATEGORY	不可:ADV	
+圖:N	多多:Vi	網誌版:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	yeahbonnie0227.pixnet.net/blog/post:FW	/:FW	217056577:DET	
+以下:N	純:Vi	文字:N	分享:Vt	
+哦:T	哦:T	哦:T	右上角:N	的:T	燉:Vt	飯:N	是否:ADV	看起來:ADV	好:ADV	美味:Vi	
+週末:N	的:T	晚上:N	打算:Vt	來:ADV	吃:Vt	個:M	義大利麵:N	
+所以:C	選上:Vt	了:ASP	朋友:N	推薦:Vt	的:T	評價:N	義式:A	料理:N	
+BigPancia:FW	大:Vi	肚皮:N	義式:A	餐坊:N	
+臨時:N	打去:Vi	訂位:Vi	所幸:ADV	還:ADV	有:Vt	位置:N	::COLONCATEGORY	
+大:Vi	肚皮:N	就位:Vi	在:P	安和路:N	的:T	巷弄:N	內:N	
+大約:ADV	是:Vt	在:P	遠企:N	的:T	後方:N	
+那邊:N	有:Vt	還:ADV	有:Vt	好多:DET	看起來:ADV	很:ADV	厲害:Vi	的:T	咖啡廳:N	
+一定:ADV	要:ADV	找:Vt	機會:N	去:ADV	品嘗:Vt	
+裡面:N	的:T	等候區:N	
+帶:Vt	點:M	童趣:N	
+週日:N	晚上:N	的:T	餐廳:N	
+人:N	竟然:ADV	沒:ADV	客滿:Vi	有點:ADV	驚訝:Vt	
+店員:N	讓:Vt	我們:N	自己:N	挑:Vt	了:ASP	位置:N	
+就:ADV	開始:Vt	點:Vt	餐:N	囉:T	
+MENU:FW	的:T	第一:DET	頁:M	就:ADV	是:Vt	前:DET	菜:N	
+沒有:ADV	太:ADV	華麗:Vi	的:T	設計:N	相當:ADV	樸實:Vi	
+義大利麵:N	與:C	燉飯:Vt	
+野蠻人:N	murmur:FW	::COLONCATEGORY	為什麼:ADV	沒有:Vt	Pizza:FW	
+除了:P	一般:A	的:T	義大利麵:N	外:POST	還:ADV	有:Vt	各:DET	式:M	排餐:N	與:C	酒類:N	
+不:ADV	餓:Vi	的:T	朋友:N	可以:ADV	不用:ADV	升級:Vi	套餐:N	
+但:C	這裡:N	升級:Vi	還:ADV	滿:ADV	便宜:Vi	的:T	
+只要:C	100:DET	元:M	
+有湯:N	、:PAUSECATEGORY	麵包:N	、:PAUSECATEGORY	70:DET	元:M	飲料:N	
+不:ADV	想:Vt	吃到:Vt	排餐:N	那麼多:DET	
+因此:C	我們:N	點:Vt	了:ASP	一:DET	個:M	飯:N	一:DET	個:M	麵:N	
+但:C	7:DET	分鐘:M	後:POST	
+老闆娘:N	走過來:Vi	跟:P	我們:N	說:Vt	
+你:N	好:Vi	
+我們:N	的:T	麵:N	還:ADV	在:P	確認:Vt	要:ADV	等:P	一段:N	時間:N	
+蛤:N	
+與:C	野蠻人:N	超:Vt	有:Vt	默契:N	的:T	回答:N	
+還要:ADV	再:ADV	確認:Vt	
+我們:N	再度:ADV	露出:Vt	蛤:N	的:T	表情:N	
+才:ADV	問:Vt	他:N	
+是:Vt	沒有:Vt	麵:N	了:T	嗎:T	
+原來:ADV	所謂:Vt	的:T	確認:Nv	就:ADV	是:Vt	沒:Vt	麵:N	了:ASP	請:Vt	改:Vt	點:M	非麵:N	類:N	
+老闆:N	講話:Vi	怎麼:ADV	那麼:ADV	文言文:N	呀:T	
+實在:ADV	有趣:Vi	HAHA:FW	
+所以:C	我們:N	分別:ADV	點:Vt	了:ASP	兩樣:Vi	飯類:N	其中:DET	一:DET	份:M	加:Vt	套餐:N	
+玉米:N	濃湯:N	
+不:ADV	濃:Vi	
+有點:ADV	稀:Vi	
+有:Vt	些許:DET	玉:N	米粒:N	
+有:Vt	鹹味:N	但:C	就:ADV	是:Vt	感覺:N	水:N	是否:ADV	加:Vt	太多:Vi	了:T	
+法國:N	麵包:N	佐:Vt	橄欖油:N	
+橄欖油:N	很:ADV	香:Vi	
+只:ADV	可惜:Vi	麵包:N	真的:ADV	非常:ADV	硬:Vi	阿:N	
+好:ADV	可惜:Vi	
+主餐:N	上桌:Vi	
+青醬:N	鮮:Vi	菇燉:N	飯:N	佐:Vt	溫泉蛋:N	NT:FW	260:DET	
+前面:N	的:T	湯:N	跟:P	麵包:N	都:ADV	讓:Vt	我:N	好:ADV	失望:Vi	
+但:C	這:DET	一:DET	道:M	一:DET	上:N	
+整:DET	個:M	戲劇性:N	翻:Vt	盤:N	
+在:P	點餐:N	時:POST	老闆:N	就:ADV	會:ADV	先:ADV	問:Vt	你:N	飯:N	要:ADV	正常:Vi	還是:ADV	偏:ADV	軟:Vi	
+我:N	喜歡:Vt	米心硬:N	的:T	燉飯:Vt	
+野蠻人:N	喜歡:Vt	軟:Vi	的:T	
+因此:C	一:DET	道:M	正常:Vi	一:DET	道:M	軟:Vi	
+這:DET	道:M	是:Vt	偏:ADV	硬:Vi	的:T	但:C	並非:ADV	真的:ADV	不:ADV	熟:Vi	而是:C	粒粒:DET	分明:Vi	的:T	硬度:N	
+因為:C	湯:N	很:ADV	稀:Vi	以為:Vt	老闆:N	很:ADV	小氣:Vi	
+但:C	這:DET	道:M	的:T	配料:N	菇菇:N	還:ADV	不少:Vi	
+半熟:Vi	溫泉蛋:N	一:ADV	戳破:Vt	流出:Vt	熱:Vt	呼呼:ADV	的:T	蛋黃:N	
+配上:Vt	入味:N	的:T	青醬:N	飯:N	好吃:Vi	吃吃吃吃:Vt	吃吃吃吃:Vi	
+另:DET	一:DET	道:M	點:Vt	了:ASP	
+粉紅:Vi	海鮮:N	燉飯:Vt	NT:FW	280:DET	
+以:P	番茄:N	煮出:Vt	的:T	粉紅醬:N	
+還:ADV	加:Vt	了:ASP	些:M	奶油:N	
+讓:Vt	口感:N	更:ADV	溫潤:Vi	
+這:DET	道:M	的:T	配料:N	一樣:Vi	不少:Vi	
+兩:DET	隻:M	蝦:N	、:PAUSECATEGORY	花枝:N	、:PAUSECATEGORY	蛤蜊:N	通通:ADV	有:Vt	
+這:DET	道:M	的:T	飯:N	煮:Vt	軟:Vi	了:ASP	我:N	不:ADV	喜歡:Vt	
+但:C	野蠻人:N	比較:Vt	台灣:N	口味米:N	心:N	煮熟:Vi	才:ADV	是:Vt	飯:N	
+整體:N	來:ADV	說:Vt	主餐:N	的:T	部分:DET	真的:ADV	非常:ADV	優秀:Vi	
+只:ADV	可惜:Vi	飯量:N	略:ADV	少:Vi	
+我:N	跟:P	野蠻人:N	都:ADV	是:Vt	大胃:N	王:N	
+這:DET	餐:M	只:ADV	吃:Vt	了:ASP	八分:DET	飽:Vi	
+最後:N	忘:Vt	了:ASP	提:Vt	的:T	是:Vt	我們:N	的:T	飲料:N	是:Vt	紅茶:N	非常:ADV	非常:ADV	普通:Vi	
+強烈:Vi	建議:N	加價:Vi	換成:Vt	網友:N	推薦:Vt	的:T	甜點:N	系列:N	
+BOBO:FW	小結:N	
+交通:N	：:COLONCATEGORY	捷運:N	搭:Vt	到:P	六:DET	張:M	犁站:N	走路:Vi	五:DET	分鐘:M	可以:ADV	到達:Vt	
+路邊:N	停車:Vi	極:ADV	不:ADV	方便:Vi	
+不:ADV	夠:ADV	幸運:Vi	就:ADV	得:ADV	停:Vt	
+一:DET	小時:M	70:DET	到:P	100:DET	元:M	的:T	停車場:N	
+服務:Nv	：:COLONCATEGORY	服務:Nv	人員:N	滿:ADV	親切:Vi	的:T	
+但:C	有點:ADV	天兵:N	
+把:P	別人:N	的:T	餐點:N	端:N	給:Vt	我們:N	
+看見:Vt	我們:N	疑惑:Vi	的:T	臉:N	才:ADV	
+恍然大悟:Vi	
+當天:N	因為:C	沒有:Vt	麵:N	
+老闆:N	還給:Vt	我們:N	打:Vt	了:ASP	9:DET	折:M	優惠:Nv	
+食物:N	：:COLONCATEGORY	非:A	主食類:N	都:ADV	讓:Vt	我們:N	滿:ADV	失望:Vi	的:T	
+主食類:N	的:T	兩:DET	道:M	燉:Vt	飯:N	我們:N	都:ADV	非常:ADV	滿意:Vt	
+好:Vi	兩極:N	
+環境:N	：:COLONCATEGORY	相當:Vi	童趣:N	的:T	店:N	
+有點:ADV	家庭:N	溫馨:Vi	的:T	感覺:N	
+價位:N	：:COLONCATEGORY	麵類:N	200多:DET	元:M	起跳:Vi	
+算是:Vt	很:ADV	親民:Vi	
+加:Vt	套餐:N	也:ADV	只:ADV	要:Vt	100:DET	元:M	
+再:ADV	訪率:N	：:COLONCATEGORY	除了:P	飯:N	少:Vi	
+燉飯:Vt	表現:N	很:ADV	優秀:Vi	
+下:DET	次:M	一定:ADV	要:ADV	再:ADV	吃:Vt	到:P	
+確認:Vt	中:POST	
+的:T	麵麵:N	

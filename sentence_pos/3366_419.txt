@@ -1,0 +1,111 @@
+qupal:FW	(:PARENTHESISCATEGORY	青仔:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	PINEDE:FW	忠孝:N	旗艦店:N	
+Tue:FW	
+Jul:FW	
+29:DET	
+13:DET	::COLONCATEGORY	16:DET	::COLONCATEGORY	19:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	PINEDE:FW	忠孝:N	旗艦店:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	三段:N	244:DET	號:M	1樓:N	
+電話:N	：:COLONCATEGORY	無:Vt	
+營業:Nv	時間:N	：:COLONCATEGORY	11:DET	：:COLONCATEGORY	00:DET	-:DASHCATEGORY	21:DET	：:COLONCATEGORY	00:DET	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	150:DET	
+可否:ADV	刷卡:Vi	：:COLONCATEGORY	無:Vt	
+有無:Vt	包廂:N	：:COLONCATEGORY	無:Vt	
+推薦:Vt	菜色:N	：:COLONCATEGORY	餅乾:N	泡芙:N	、:PAUSECATEGORY	竹簍:N	起:POST	司:Vt	蛋糕:N	
+網誌:N	圖文版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	moinca199.pixnet.net/blog/post:FW	/:FW	184305759:DET	
+以下:N	為:Vt	PTT:FW	純:Vi	文字版:N	::COLONCATEGORY	
+七月:N	中:POST	
+和:C	友人:N	約:ADV	在:P	東區:N	吃:Vt	韓式:N	燒烤:Vt	
+前往:Vt	的:T	路:N	上:N	
+看到:Vt	超:Vt	多:DET	人:N	花籃:N	也:ADV	很多:Vi	的:T	新:Vi	店家:N	
+於是:C	吃飽:Vi	後:POST	
+過去:N	探險:Vi	一下:N	
+發現:Vt	是:Vt	一:DET	家:M	蛋糕店:N	
+進:Vt	門:N	前:N	店員:N	就:ADV	先:ADV	笑容可掬:Vi	的:T	開門:Vi	歡迎:Vt	
+後來:N	才:ADV	知道:Vt	原來:ADV	是:Vt	來自:Vt	名古屋:N	的:T	甜點店:N	
+PINEDE:FW	忠孝:N	旗艦店:N	是:Vt	PINEDE:FW	在:P	海外:N	第一:DET	家:M	店:N	
+圖:N	
+一:DET	進:M	門:N	右側:N	就:ADV	可以:ADV	看見:Vt	甜點櫃:N	
+圖:N	
+很:ADV	喜歡:Vt	店:N	內:N	自然:ADV	浪漫:Vi	的:T	裝潢:N	擺設:Vt	
+圖:N	
+幾:DET	張:M	椅子:N	可以:ADV	店:N	內:N	小小:Vi	的:T	品嘗:Vt	甜點:N	
+圖:N	
+牆:N	上:N	有:Vt	幾:DET	張:M	日本:N	店家:N	照片:N	
+圖:N	
+除了:P	蛋糕:N	甜點:N	外:POST	
+還:ADV	有:Vt	手工:N	餅乾:N	茶點:N	禮盒:N	
+圖:N	
+重頭戲:N	就:ADV	是:Vt	甜點櫃:N	啦:T	
+一:ADV	開始:Vt	先:ADV	被:P	這:DET	看起來:ADV	很:ADV	可口:Vi	的:T	餅乾:N	泡芙:N	給:P	吸引:Vt	
+圖:N	
+接著:ADV	是:Vt	漂亮:Vi	的:T	小:Vi	甜點:N	
+圖:N	
+法式:A	巧克力:N	蛋糕:N	看起來:ADV	很:ADV	美味:Vi	
+圖:N	
+下:DET	次:M	有:Vt	誰:N	生日:N	一定:ADV	要:ADV	帶:Vt	水果:N	五:DET	號:M	回家:Vi	
+圖:N	
+明星:N	商品:N	-:DASHCATEGORY	蒙布朗:N	
+圖:N	
+還:ADV	有:Vt	這:DET	個:M	價格:N	令:Vt	人:N	驚嘆:Vt	的:T	AOC:FW	起:POST	司:Vt	蛋糕:N	
+是:Vt	採用:Vt	法國:N	AOC:FW	認證:Vi	的:T	起:Vt	司:N	所:ADV	製作:Vt	的:T	蛋糕:N	
+看:Vt	了:ASP	口袋:N	很:ADV	深:Vi	的:T	日本:N	網友:N	表示:Vt	::COLONCATEGORY	
+起:Vt	司:N	口感:N	非常:ADV	濃厚:Vi	
+香味:N	也:ADV	很:ADV	濃郁:Vi	
+啊:T	
+好:Vi	想:Vt	吃:Vt	看看:ASP	唷:T	
+圖:N	
+吃:Vt	不:ADV	起:Vt	AOC:FW	起:POST	司:Vt	蛋糕:N	沒關係:Vi	
+可以:ADV	吃:Vt	旁邊:N	的:T	迷你:Vi	起司:N	蛋糕:N	
+當天:N	想:Vt	吃:Vt	的:T	口味:N	賣光:Vt	了:ASP	
+所以:C	帶:Vt	了:ASP	另外:ADV	一:DET	款:M	很:ADV	酷:Vi	的:T	起:Vt	司:N	蛋糕:N	回家:Vi	
+圖:N	
+創辦人:N	松林:N	久雄:N	的:T	著作:N	
+圖:N	
+最:ADV	喜歡:Vt	店:N	內:N	的:T	天花板:N	布置:Vt	
+圖:N	
+圖:N	
+拍完:Vt	照:P	店員:N	也:ADV	打包:Vi	完成:Vt	
+包裝:N	包:Vt	得:T	好像:ADV	我:N	買:Vt	了:ASP	很多:DET	一樣:Vi	XDDD:FW	
+圖:N	
+回家:Vi	立刻:ADV	開箱:Vi	
+甜點盒:N	外層:N	細心:Vi	地:T	套上:Vt	保:Vt	冷:Vi	袋:N	
+圖:N	
+裏頭:N	還:ADV	有:Vt	保:Vt	冷:Vi	劑:N	
+以:C	維持:Vt	蛋糕:N	品質:N	
+圖:N	
+從:P	保:Vt	冷:Vi	袋:N	拿出:Vt	後:POST	
+包裝:Vt	色調:N	很:ADV	適合:Vi	出現:Vi	在:P	婚禮:N	場所:N	
+其實:ADV	在:P	日本:N	的:T	PINEDE:FW	本來:ADV	就:ADV	有:Vt	出:Vt	weddinggift:FW	
+圖:N	
+貼紙:N	上:N	印有:Vt	保存:Nv	期限:N	
+圖:N	
+盒子:N	打開:Vt	是:Vt	餅乾:N	泡芙:N	
+包裝:N	得:T	很:ADV	仔細:Vi	
+是:Vt	消費:N	滿:Vt	300:DET	送:Vt	的:T	
+圖:N	
+泡芙卡士:N	達:Vt	內:N	餡:N	香:Vi	濃:Vi	不:ADV	膩:Vi	口:N	
+甜度:N	拿捏:Vt	得:T	剛好:ADV	
+圖:N	
+接著:ADV	是:Vt	很:ADV	特別:Vi	的:T	竹簍:N	起:POST	司:Vt	蛋糕:N	
+圖:N	
+用:P	竹簍:N	裝:Vt	著:ASP	
+圖:N	
+外層:N	用:P	紗布網:N	
+包:Vt	著:ASP	
+圖:N	
+打開:Vt	是:Vt	綿密:Vi	的:T	起:Vt	司:N	蛋糕:N	
+圖:N	
+店員:N	說:Vt	這:DET	款:M	起:POST	司:Vt	蛋糕:N	的:T	口感:N	有點:ADV	像:Vt	慕:Vt	斯:DET	
+食用:Vt	時:POST	用:P	湯匙:N	挖:Vt	著:ASP	吃:Vt	就:ADV	可以:ADV	了:T	
+圖:N	
+蛋糕:N	裏頭:N	包:Vt	著:ASP	多層次:N	的:T	莓果:N	餡:N	
+還可以:ADV	吃到:Vt	藍莓:N	果粒:N	
+圖:N	
+竹簍:N	起:POST	司:Vt	蛋糕:N	口感:N	鬆鬆:Vi	綿綿:Vi	的:T	
+比:P	幕:N	斯:DET	還:ADV	綿:N	
+有:Vt	種:M	吃:Vt	棉花糖:N	的:T	口感:N	
+搭上:Vt	莓果:N	內:N	餡:N	
+偏酸:N	剛好:ADV	能:ADV	中和:Vi	濃郁:Vi	的:T	起:Vt	司:N	

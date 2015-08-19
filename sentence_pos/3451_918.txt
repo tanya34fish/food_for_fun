@@ -1,0 +1,73 @@
+blueherobest:FW	(:PARENTHESISCATEGORY	苦蓮:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	南:N	街:N	得意:Vi	
+Fri:FW	
+Aug:FW	
+22:DET	
+20:DET	::COLONCATEGORY	24:DET	::COLONCATEGORY	06:DET	
+2014:DET	
+圖文:N	：:COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog/post:FW	/:FW	41090389:DET	
+時間:N	：:COLONCATEGORY	2014:DET	/:FW	7:DET	
+我:N	常:ADV	跑:Vi	咖啡店:N	
+除了:P	愛:Vt	喝:Vt	咖啡:N	之外:POST	
+也:ADV	是:Vt	喜歡:Vt	咖啡店:N	的:T	氛圍:N	
+但:C	其實:ADV	我:N	最:ADV	常:ADV	
+喝:Vt	的:T	是:Vt	茶:N	
+每:DET	天:M	都:ADV	會:ADV	泡上:Vt	一:DET	壺:M	茶:N	來:ADV	喝:Vt	
+這:DET	是:Vt	從小:ADV	被:P	家人:N	養成:Vt	的:T	習慣:N	
+鮮少:ADV	在:P	
+外面:N	喝茶:Vi	
+因為:C	總:ADV	覺得:Vt	外頭:N	的:T	茶:N	沒有:Vt	家:N	裡:N	的:T	好喝:Vi	
+當然:ADV	價錢:N	差:Vi	了:ASP	那麼多:DET	
+品:N	
+質:N	自然:ADV	也:ADV	差:Vi	得多:ADV	
+迪化街:N	裡:N	的:T	民藝:N	埕:N	逛:Vt	過:ASP	幾:DET	次:M	
+對:P	其:DET	商品:N	的:T	價格:N	很:ADV	感:Vt	訝異:Vt	
+一樓:N	的:T	商品:N	只:ADV	想:Vt	逛:Vt	
+逛:Vt	
+二樓:N	的:T	南:N	街:N	得意:Vi	茶館:N	才:ADV	是:Vt	我:N	最:ADV	想:Vt	去:Vt	的:T	
+與:C	友人:N	聚餐:Vi	完:Vi	
+本:ADV	想:Vt	去:Vt	咖啡店:N	
+沒想到:ADV	都:ADV	客滿:Vi	了:T	
+那:DET	就:ADV	來:ADV	喝茶:Vi	吧:T	
+一貫:A	迪化街:N	老屋:N	翻新:Vt	的:T	風格:N	
+一:DET	種:M	很:ADV	新:Vi	的:T	復古:Nv	味兒:N	
+週末:N	下午:N	卻:ADV	沒:Vt	什麼:DET	人:N	
+唯一:A	一:DET	組:M	客人:N	還:ADV	是:Vt	兩:DET	個:M	日本:N	妹子:N	
+過:Vt	了:ASP	不久:N	又:ADV	來:Vi	一:DET	組:M	日本:N	阿姨:N	
+原來:ADV	這裡:N	這:DET	
+麼:T	受:P	日本人:N	歡迎:Vt	
+難道:ADV	旅遊:Nv	書:N	有:Vt	介紹:N	嗎:T	
+午後:N	的:T	陽光:N	照射:Vi	進來:Vi	
+有點:ADV	熱:Vt	
+茶:N	的:T	部份:DET	分為:Vt	東方:N	茶:N	與:C	西方:N	茶:N	
+東方:N	茶:N	都:ADV	是:Vt	台灣:N	出產:Vt	的:T	茶葉:N	
+每:DET	種:M	茶葉:N	都:ADV	有:Vt	
+詳細:Vi	的:T	介紹:N	
+除了:P	看:Vt	文字:N	介紹:N	之外:POST	
+也:ADV	可以:ADV	直接:Vi	聞:Vt	茶香:N	
+決定:Vt	自己:N	想:Vt	喝:Vt	的:T	茶:N	
+東方:N	美人:N	＄:FW	280:DET	
+點:Vt	了:ASP	一:DET	壺:N	東方:N	美人:N	
+喝茶:Vi	的:T	好處:N	是:Vt	可以:ADV	一直:ADV	回沖:N	
+這:DET	壺:N	東方:N	美人茶:N	帶:Vt	著:ASP	一點:DET	
+蜜香:N	
+口感:N	不:ADV	澀:Vi	而:C	溫和:Vi	
+但:C	我:N	覺得:Vt	少:Vi	了:ASP	一點:DET	茶:N	的:T	甘味:N	
+可能:ADV	我:N	還是:ADV	比較:ADV	適合:Vi	
+喝:Vt	烏龍茶:N	或:C	鐵觀音:N	這:DET	種:M	味道:N	比較:ADV	重:Vi	一點:ADV	的:T	茶:N	吧:T	
+從小:ADV	喝:Vt	慣:Vt	了:ASP	
+另外:C	附上:Vt	幾:DET	樣:M	茶點:N	
+有:Vt	蜜餞:N	、:PAUSECATEGORY	麻糬:N	、:PAUSECATEGORY	黑豆:N	等:POST	
+都:ADV	是:Vt	很:ADV	適合:Vi	配:Vt	茶:N	的:T	小:Vi	點心:N	
+而:C	
+且:C	盤:N	具:Vt	相當:ADV	好看:Vi	
+不:ADV	知道:Vt	是:Vt	不:ADV	是:Vt	出自:Vt	樓下:N	民藝:N	埕:N	的:T	盤具:N	
+泡:Vt	多:Vi	了:ASP	咖啡館:N	
+偶爾:ADV	來:Vi	泡泡:N	茶館:N	也:ADV	不錯:Vi	
+只是:ADV	可惜:Vi	台北:N	的:T	咖啡館:N	多:ADV	如:P	牛毛:N	
+但:C	這:DET	種:M	傳統:N	茶館:N	相對:Vi	來:ADV	說:Vt	就:ADV	比較:ADV	少見:Vi	了:T	
+南:N	街:N	得意:Vi	
+地址:N	：:COLONCATEGORY	台北市:N	迪化街:N	一段:N	67:DET	號:M	2樓:N	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	25521367:DET	
+一:DET	個:M	人:N	的:T	美食:N	、:PAUSECATEGORY	旅行:Nv	與:C	生活:N	...:ETCCATEGORY	柔藍食單:N	http:FW	::COLONCATEGORY	/:FW	/:FW	bluehero.pixnet.net/blog:FW	
+歡迎:Vt	加入:Vt	柔藍食單:N	粉絲團:N	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/softbluerecipe:FW	

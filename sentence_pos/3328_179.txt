@@ -1,0 +1,86 @@
+ethel:FW	0203:DET	(:PARENTHESISCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	赤綠:Vi	(:PARENTHESISCATEGORY	Taiwanippon:FW	):PARENTHESISCATEGORY	(:PARENTHESISCATEGORY	忠孝:N	復興:Vt	站:Vi	):PARENTHESISCATEGORY	
+Fri:FW	
+Jul:FW	
+18:DET	
+23:DET	::COLONCATEGORY	10:DET	::COLONCATEGORY	37:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	赤綠:Vi	Taiwanippon:FW	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	6月:N	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	復興南路:N	一段:N	107巷:N	5弄:N	15:DET	號:M	B:FW	1:DET	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	8773:DET	-:DASHCATEGORY	7609:DET	
+圖文:N	網誌:N	→:FW	http:FW	::COLONCATEGORY	/:FW	/:FW	borntoshop.pixnet.net/blog/post:FW	/:FW	183597141:DET	
+這:DET	家:M	店:N	同樣:Vi	也:ADV	是:Vt	老饕:N	同事:N	大力:ADV	推薦:Vt	的:T	店:N	
+招牌:N	鍋物:N	喝:Vt	起來:ASP	有:Vt	懷念:Vt	的:T	古早味:N	呢:T	
+赤綠:Vi	Taiwanippon:FW	的:T	主廚:N	是:Vt	兩:DET	位:M	日本人:N	
+其中:DET	一:DET	位:M	師傅:N	-:DASHCATEGORY	小野龍:N	哉:T	曾:ADV	在:P	東京:N	日本:N	料理店:N	工作:N	
+後來:N	又:ADV	到:Vt	法國:N	、:PAUSECATEGORY	義大利:N	學藝:Vi	
+因為:C	來:Vi	台灣:N	旅遊:Vi	之後:POST	決定:Vt	留下來:Vi	開業:Vi	
+這樣:Vi	我們:N	才:ADV	吃:Vt	得到:Vt	超:Vt	道地:Vi	的:T	日本味:N	
+餐廳:N	位於:Vt	地下室:N	
+得:ADV	仔細:Vi	找:Vt	才:ADV	不會:ADV	錯過:Vt	
+它:N	開:Vt	在:P	NaturalKitchen:FW	日本:N	雜貨:N	小店:N	對面:N	
+是:Vt	不:ADV	是:Vt	好:Vi	找:Vt	多:Vi	了:T	呢:T	
+一:ADV	看:Vt	招牌:N	就:ADV	知道:Vt	是:Vt	日本人:N	寫:Vt	得:T	
+閱讀:Vt	方式:N	忽:ADV	左:N	而:C	右:N	、:PAUSECATEGORY	忽:ADV	上:Vt	而:C	下:DET	
+很:ADV	不:ADV	像:Vt	嚴謹:Vi	的:T	日本人:N	耶:T	
+店:N	內:N	只有:ADV	四:DET	張:M	桌子:N	跟:P	一:DET	個:M	吧檯:N	
+保持:Vt	讓:Vt	空間:N	寬敞:Vi	這:DET	點:M	值得:Vi	讚許:Vt	
+我們:N	到訪:Vt	的:T	那:DET	天:M	店:N	內:N	除了:P	我們:N	
+全部:DET	是:Vt	日本:N	客人:N	
+一:DET	度:M	還:ADV	以為:Vt	空間:N	位移:N	到:Vt	日本:N	了:T	
+XD:FW	紅色:N	是:Vt	酒:N	單:ADV	
+綠色:N	是:Vt	菜單:N	
+以下:N	的:T	菜名:N	僅:ADV	供:Vt	參考:Vt	
+因為:C	每:DET	道:M	菜:N	的:T	全名:N	太:ADV	長:Vi	
+加上:C	手寫:A	字:N	不易:Vi	分辨:Vt	
+有機:A	玉米:N	筍:N	沒有:ADV	添加:Vt	任何:DET	佐料:N	
+能:ADV	嚐到:Vt	食材:N	天然:A	的:T	鮮甜:Vi	
+有機:A	馬鈴薯:N	可樂餅:N	同樣:Vi	是:Vt	日本:N	師傅:N	的:T	拿手菜:N	
+本來:ADV	點:Vt	了:ASP	兩:DET	份:M	
+可惜:Vi	備:Vt	料:N	不足:Vi	
+只好:ADV	分食:Vt	一:DET	口試:Vt	味道:N	
+香酥:N	炸雞肉:N	很:ADV	嫩:Vi	的:T	雞肉:N	
+好吃:Vi	不過:C	略:ADV	顯:Vt	平淡:Vi	
+炸:Vt	山藥:N	很:ADV	像:Vt	薯條:N	的:T	口感:N	
+大推:Vt	
+水:N	煮:Vt	檳榔:N	根:N	這:DET	實在:ADV	是:Vt	太:ADV	特別:Vi	
+沒:ADV	想:Vt	過:ASP	檳榔:N	根:N	可以:ADV	這樣:Vi	利用:Vt	
+清爽:Vi	又:ADV	好吃:Vi	
+黑:Vi	豬肉:N	岩板燒肉:N	這:DET	道:M	菜:N	要:ADV	注意:Vt	不要:ADV	讓:Vt	烤:Vt	得:T	太:ADV	老:Vi	
+將:P	豬肉:N	油脂:N	逼出來:Vi	
+熟度:N	約:ADV	八:DET	、:PAUSECATEGORY	九:DET	分:M	才:ADV	Q:FW	彈:Vt	好吃:Vi	
+玉子:N	燒:Vt	也:ADV	是:Vt	大推:Vt	的:T	一:DET	道:M	菜:N	
+是:Vt	說:Vt	日本:N	師傅:N	本來:ADV	就:ADV	很:ADV	擅長:Vt	處理:Vt	玉子燒:N	料理:N	
+炸:Vt	水:N	茄子:N	、:PAUSECATEGORY	節瓜佐味:N	增:Vt	不:ADV	敢:Vt	吃:Vt	茄子:N	的:T	我:N	
+嚐:Vt	了:ASP	一口:ADV	發現:Vt	其實:ADV	蠻:ADV	順口:Vi	
+另外:ADV	兩:DET	道:M	忘記:Vt	名稱:N	的:T	菜:N	XD:FW	店裡:N	的:T	招牌:N	是:Vt	鍋物:N	
+分別:ADV	是:Vt	綠:Vi	鍋:N	、:PAUSECATEGORY	赤鍋:N	和:C	丸鍋:N	
+店名:N	
+赤綠:Vi	
+就:ADV	是:Vt	這麼:ADV	來:Vi	的:T	
+其中:DET	丸:M	鍋:N	需要:Vt	前一天:N	預訂:Vt	
+因為:C	美味:Vi	的:T	鱉:N	鍋:N	需要:Vt	比較:ADV	久:Vi	的:T	處理:Nv	時間:N	
+不然:C	腥臭味:N	會:ADV	在:P	湯:N	裡:N	揮之不去:Vi	
+由於:C	大部分:DET	的:T	人:N	都:ADV	不:ADV	敢:Vt	吃:Vt	鱉:N	
+於是:C	我們:N	點:Vt	的:T	是:Vt	綠:Vi	鍋:N	
+肉品:N	是:Vt	屏東:N	黑豬:N	五花肉:N	
+怕:Vt	大家:N	沒:ADV	吃飽:Vi	
+還:ADV	多:ADV	加:Vt	一:DET	至:C	兩:DET	份:M	肉:N	
+這:DET	道:M	鍋物:N	就:ADV	是:Vt	老饕:N	同事:N	能:ADV	喝到:Vt	傳統:Vi	的:T	古早:N	美味:Vi	
+赤綠:Vi	完全:ADV	喚醒:Vt	她:N	記憶:Vi	中:POST	的:T	好吃:Vi	的:T	肥:Vt	五:DET	花:N	豬肉:N	鍋:N	
+那:DET	是:Vt	爺爺:N	輩:N	擅長:Vt	的:T	好:Vi	手藝:N	
+不:ADV	像:P	其他:DET	道:M	菜:N	
+這:DET	份:M	綠鍋:N	得到:Vt	很:ADV	兩極:N	的:T	評價:N	
+厚:Vi	切:Vt	黑豬肉:N	很:ADV	難:Vi	煮:Vt	得:T	剛剛好:ADV	
+不:ADV	是:Vt	過熟:Vi	肉質:N	太:ADV	老:Vi	難:Vi	咬:Vt	
+就是:C	半生不熟:Vi	、:PAUSECATEGORY	咬:Vt	不:ADV	斷:Vt	理:N	還:ADV	亂:Vi	
+這:DET	
+吃:Vt	一:DET	頓:M	飯:N	也:ADV	太:ADV	辛苦:Vt	了:ASP	吧:T	T^T:FW	以為:Vt	這樣:Vi	就:ADV	吃完:Vt	了:ASP	嗎:T	
+剩餘:Vt	的:T	湯:N	還:ADV	能:ADV	加:Vt	飯:N	變成:Vt	蛋:N	汁粥:N	唷:T	
+一:ADV	上桌:Vi	就:ADV	被:P	大家:N	分食:Vt	完畢:Vi	
+來不及:ADV	拍照:Vi	::COLONCATEGORY	P:FW	最後:N	
+這:DET	家:M	餐廳:N	我:N	會:ADV	推薦給:Vt	喜歡:Vt	道地:Vi	日本味:N	以及:C	有:Vt	自信:N	能:ADV	控制:Vt	厚:Vi	切:Vt	黑:Vi	豬肉:N	的:T	饕客:N	們:N	
+XDD--&lt:FW	
+莉芙:N	小姐:N	愛:Vt	旅遊:Vi	&:FW	gt:FW	
+http:FW	::COLONCATEGORY	/:FW	/:FW	borntoshop.pixnet.net/blog:FW	--:DASHCATEGORY	

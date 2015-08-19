@@ -1,0 +1,76 @@
+violetphoeni:FW	(:PARENTHESISCATEGORY	紫鳳:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	老:Vi	烤箱:N	：:COLONCATEGORY	獨門:A	絕味佐麵:N	香:Vi	
+Sun:FW	
+May:FW	
+10:DET	
+23:DET	::COLONCATEGORY	08:DET	::COLONCATEGORY	55:DET	
+2015:DET	
+無:Vt	音樂:N	圖文:N	網誌:N	(:PARENTHESISCATEGORY	2015:DET	/:FW	05:DET	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	viophex.blogspot.tw/2015/05/blog-post_10.html:FW	
+對於:P	義式:A	料理:N	
+在:P	台灣:N	的:T	印象:N	不:ADV	脫:Vt	義大利麵:N	、:PAUSECATEGORY	燉飯:Vt	與:C	披薩:N	等:POST	菜色:N	
+三者:N	皆:ADV	相當:ADV	普及:Vt	
+價位:N	範圍:N	也:ADV	廣:Vi	
+平民化:Vt	的:T	另:DET	一:DET	面:N	就是:C	少:Vi	了:ASP	傳統:N	與:C	原有:Vt	的:T	精緻:Vi	
+尤其:ADV	燉:Vt	飯:N	
+久而久之:ADV	
+某些:DET	錯誤:N	觀念:N	如:P	燉飯:Vt	就:ADV	是:Vt	要:ADV	硬:ADV	成為:Vt	大眾:N	對:P	義式:A	料理:N	的:T	誤解:N	
+實在:ADV	冤枉:Vt	
+好在:ADV	發現:Vt	了:ASP	間:POST	不:ADV	太:ADV	貴:Vi	、:PAUSECATEGORY	又:ADV	可以:ADV	稍微:ADV	平反:Vt	的:T	餐廳:N	
+可以:ADV	借來:Vt	談談:Vt	義菜:N	
+餐:N	前:N	麵包:N	普通:Vi	的:T	麵包:N	
+以:P	招待:Vt	名義:N	及:C	店家:N	價位:N	而言:Vt	還:ADV	算:Vt	可以:ADV	
+順:P	帶:Vt	一:DET	提:Vt	
+桌:N	上:N	提供:Vt	的:T	油:N	醋:N	還:ADV	不錯:Vi	
+老:Vi	烤箱:N	招牌:N	沙拉:N	蔬菜:N	新鮮:Vi	
+混:Vt	著:ASP	小:Vi	番茄:N	及:C	菇類:N	稍:ADV	有:Vt	變化:N	
+但:C	橄欖油:N	下:POST	太:ADV	重:Vi	
+原:ADV	應該:ADV	清爽:Vi	的:T	沙拉:N	倒是:ADV	失衡:Vi	了:T	
+牛:N	肝:N	菌佐:N	慢:Vi	煎帕瑪:N	火腿:N	燉飯米心:Vt	與:C	外圍:N	的:T	硬度:N	梯度:N	稍:ADV	嫌:Vt	明顯:Vi	
+可能:ADV	慢:Vi	燉:Vt	不足:Vi	
+但:C	不失:Vt	其:DET	Aldente:FW	口感:N	
+火腿:N	瀰漫:Vi	著:ASP	木質:N	香氣:N	
+與:C	牛:N	肝:N	菌:N	、:PAUSECATEGORY	牛奶:N	為主:Vi	的:T	醬汁:N	融合:Vt	
+層次:N	不錯:Vi	
+但:C	可能:ADV	同樣:Vi	是:Vt	慢:Vi	燉:Vt	不足:Vi	的:T	關係:N	
+醬汁:N	吸附:Vt	的:T	不:ADV	夠:ADV	深入:Vi	
+倒是:ADV	有點:ADV	可惜:Vi	
+價錢:N	不:ADV	高:Vi	
+值得:Vi	一:ADV	試:Vt	
+橄欖油:N	綜合:A	海鮮:N	手工:N	寬:Vi	麵:N	海鮮:N	鋪滿:Vt	到:P	看:Vt	不:ADV	到:Vt	麵體:N	
+頗:ADV	有:Vt	誠意:N	
+但:C	選:Vt	料:N	可以:ADV	再:ADV	大方:Vi	些:ADV	
+麵條:N	飽吸:Vt	醬汁:N	
+可見:ADV	是:Vt	現:ADV	煮:Vt	
+其:DET	硬度:N	也:ADV	不錯:Vi	
+麵:N	與:C	燉飯:Vt	在:P	點餐:N	時:POST	會:ADV	先:ADV	詢問:Vt	喜好:N	的:T	硬度:N	
+算是:Vt	主角:N	明顯:Vi	贏過:Vt	配角:N	的:T	一:DET	道:M	
+教父:N	絞:Vt	肉塊:N	調味:N	莫名:A	的:T	好:Vi	
+在:P	濃重:Vi	醬料:N	及:C	起司:N	當中:N	殺出:Vt	重圍:N	
+相當:ADV	突出:Vi	
+與:C	紅醬:N	的:T	結合:Vt	佳:Vi	
+外皮:N	略:ADV	鬆:Vt	兼有:Vt	嚼:Vt	勁:N	
+吃起來:ADV	的確:ADV	像:Vt	是:Vt	手:N	擀:b	出來:Vi	的:T	
+具有:Vt	機器:N	無法:ADV	詮釋:Vt	的:T	彈韌:Vi	
+唯一:A	可惜:Vi	的:T	是:Vt	上桌:Vi	的:T	時間:N	稍:ADV	晚:Vi	
+雖:C	披薩:N	本:ADV	就:ADV	要:ADV	放置:Vt	30:DET	
+60:DET	秒:M	以:P	達:Vt	最佳:A	狀態:N	
+但:C	看來:ADV	應該:ADV	不只:ADV	
+獵人:N	焦:Vi	脆:Vi	的:T	洋蔥:N	帶:Vt	起:ASP	焦香:N	
+混:Vt	著:ASP	多:DET	種:M	肉類:N	成為:Vt	主味:N	
+評價:N	更:ADV	勝:Vi	教父:N	
+其:DET	較:ADV	具:Vt	層次:N	的:T	味道:N	及:C	主從:A	角色:N	分明:Vi	的:T	特色:N	是:Vt	賣:Vt	點:N	
+起:Vt	司:N	與:C	其他:DET	菇類:N	不會:ADV	搶去:Vt	風采:N	
+反:ADV	成:Vt	烘托:Nv	
+也:ADV	或許:ADV	是:Vt	店家:N	的:T	白醬:N	比較:ADV	好吃:Vi	
+老:Vi	烤箱:N	對於:P	主食:N	的:T	掌握:Vt	不錯:Vi	
+尤其:ADV	是:Vt	披薩:N	餅皮:N	的:T	手:N	擀:b	風格:N	
+兼具:Vt	咬:Vt	勁:N	與:C	麵香:N	
+義大利麵:N	的:T	韌度:N	也:ADV	不:ADV	只是:ADV	傳統:Vi	印象:N	中:POST	的:T	硬:Vi	
+而是:C	帶:Vt	著:ASP	彈性:N	與:C	醬汁:N	
+歸功於:Vi	粗糙:Vi	的:T	現:N	擠:Vt	麵條:N	
+燉:Vt	飯:N	就:ADV	差:Vi	了:ASP	一些:DET	
+但:C	觀:Vt	其:DET	價錢:N	也:ADV	夠:ADV	值得:Vi	了:T	
+且:C	各:DET	種:M	菜色:N	調味:Vi	自有:Vt	一:DET	套:M	
+整體:N	看下來:Vt	是:Vt	值得:Vi	再:ADV	訪:Vt	的:T	一:DET	間:M	
+玩樂:Vi	一生:N	：:COLONCATEGORY	https:FW	::COLONCATEGORY	/:FW	/:FW	www.facebook.com/foodtravellife:FW	--:DASHCATEGORY	

@@ -1,0 +1,100 @@
+saliha(saliha:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	師大:N	夜市:N	*:FW	Cafealamode:FW	下午茶:N	
+Tue:FW	
+Oct:FW	
+7:DET	
+22:DET	::COLONCATEGORY	13:DET	::COLONCATEGORY	12:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	Cafealamode:FW	
+消費:N	時間:N	：:COLONCATEGORY	103年:N	8月:N	
+地址:N	::COLONCATEGORY	台北市:N	大安區:N	雲:N	和:C	街:N	2:DET	-:DASHCATEGORY	1:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2362:DET	-:DASHCATEGORY	3957:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	週一:N	~:FW	週五:N	10:DET	::COLONCATEGORY	00:DET	am:FW	~:FW	21:DET	::COLONCATEGORY	30:DET	pm:FW	(:PARENTHESISCATEGORY	2014.0:DET	4.01:DET	):PARENTHESISCATEGORY	
+週六:N	~:FW	週日:N	09:DET	::COLONCATEGORY	30:DET	am:FW	~:FW	21:DET	::COLONCATEGORY	30:DET	pm:FW	
+(:PARENTHESISCATEGORY	用餐:Nv	時間:N	限:Vt	2:DET	小時:N	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	250:DET	~:FW	300:DET	
+推薦:Vt	菜色:N	：:COLONCATEGORY	法式:A	布丁:N	吐司:N	
+網誌:N	圖文:N	無:Vt	音樂版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	saliha.pixnet.net/blog/post:FW	/:FW	393569231:DET	
+Cafealamode:FW	在:P	中山:N	站:N	那邊:N	也:ADV	有:Vt	一:DET	間:M	分店:N	
+我們:N	這:DET	天:M	來:Vi	的:T	位於:Vt	師大:N	夜市:N	一帶:N	後方:N	的:T	巷子:N	
+一:DET	間:M	白:Vi	色系:N	的:T	咖啡館:N	佇立:Vi	在:P	安靜:Vi	的:T	巷弄:N	中:POST	非常:ADV	顯眼:Vi	
+門口:N	有:Vt	一些些:DET	小:Vi	植物:N	
+白色:N	中:POST	夾雜:Vt	些:ADV	舒服:Vi	的:T	綠色:N	
+而且:C	店家:N	外牆:N	都:ADV	是:Vt	大:Vi	落地窗:N	為主:Vi	
+白天:N	透著:Vt	自然:N	的:T	採光:N	
+看:Vt	了:ASP	很:ADV	放鬆:Vt	
+我:N	蠻:ADV	喜歡:Vt	他們:N	的:T	佈置:Nv	
+不過:C	這樣:Vi	的:T	桌椅:N	對:P	我:N	來:ADV	說:Vt	還是:ADV	有點:ADV	擠:Vi	
+週六:N	的:T	下午:N	生意:N	還:ADV	不錯:Vi	
+原本:ADV	我們:N	是:Vt	被:P	分配到:Vt	下圖:N	最後:N	一:DET	排:M	那:DET	個:M	兩:DET	人:N	桌:N	的:T	空位:N	
+但:C	我:N	覺得:Vt	桌子:N	有點:ADV	小:Vi	
+跟:P	鄰桌:N	也好:T	近:ADV	
+畢竟:ADV	喝:Vt	下午茶:N	還是:ADV	希望:Vt	有:Vt	個:M	放鬆:Vt	一點:ADV	的:T	空間:N	
+ㄎ:FW	ㄎ:FW	好在:ADV	後來:N	發現:Vt	一:DET	個:M	超棒:N	的:T	地方:N	
+用餐:Nv	時間:N	限:Vt	兩:DET	小時:N	喔:T	
+需:ADV	加:Vt	10:DET	%:M	服務費:N	
+草莓:N	起:POST	司:Vt	蛋糕:N	$:FW	140:DET	
+剛:ADV	走入:Vt	店:N	內:N	時:POST	
+就:ADV	看到:Vt	店員:N	在:P	製作:Vt	這:DET	杯:M	可愛:Vi	的:T	飲料:N	
+問:Vt	了:ASP	一下:N	後:POST	
+原來:ADV	它:N	叫做:Vt	草莓:N	起:POST	司:Vt	蛋糕:N	
+名子:N	也好:T	可愛:Vi	
+後來:N	當然:ADV	就:ADV	心癢:Vi	難耐:Vt	的:T	也:ADV	點:Vt	了:ASP	一:DET	杯:M	嚐嚐:Vt	
+美:N	美美:N	粉紅色:N	的:T	顏色:N	
+配上:Vt	純白:A	鮮:Nv	奶油:N	與:C	紅色:N	草莓:N	
+好像:ADV	很:ADV	久:Vi	沒:ADV	喝到:Vt	那麼:ADV	粉嫩:Vi	漂亮:Vi	的:T	飲料:N	了:T	
+因為:C	我:N	都:ADV	偏好:Vt	喝茶:Vi	XD:FW	
+喝:Vt	起來:ASP	不會:ADV	太:ADV	甜:Vi	
+柔柔:Vi	的:T	草莓:N	甜香:N	
+喝:Vt	起來:ASP	還:ADV	蠻:ADV	濃郁:Vi	的:T	
+就是:C	草莓:N	奶昔:N	的:T	味道:N	
+下面:N	的:T	飲料:N	跟:P	吐司:N	則:ADV	是:Vt	套餐式:A	的:T	搭配:Nv	
+Cafealamode:FW	的:T	法式:A	吐司:N	系列:N	
+都:ADV	可以:ADV	任選:Vt	一:DET	杯:M	130:DET	元:M	的:T	飲料:N	
+14:DET	::COLONCATEGORY	00:DET	
+20:DET	::COLONCATEGORY	30:DET	供應:Vt	
+奇異果:N	青春:N	$:FW	130:DET	
+130:DET	飲料:N	種類:N	還:ADV	不少:Vi	
+而且:C	範圍:N	蠻:ADV	廣:Vi	的:T	
+選擇:Vt	很多:DET	
+從:P	咖啡:N	、:PAUSECATEGORY	蘇打類:N	、:PAUSECATEGORY	果汁類:N	都:ADV	有:Vt	
+茶:N	比較:ADV	少:Vi	
+雖然:C	對:P	他們:N	的:T	蘇打:N	也:ADV	很:ADV	心動:Vi	
+不過:C	後來:N	還是:ADV	選:Vt	了:ASP	現:N	打:Vt	果汁:N	
+雖然:C	叫:Vt	奇異果:N	青春:N	
+不過:C	它:N	可:ADV	不:ADV	是:Vt	綠色:N	的:T	
+裡頭:N	還:ADV	有:Vt	蘋果:N	、:PAUSECATEGORY	蔓越莓:N	、:PAUSECATEGORY	蜂蜜:N	
+呈現:Vt	淡淡:Vi	的:T	粉紅色:N	
+第一:DET	口:M	喝:Vt	起來:ASP	還:ADV	真的:ADV	蠻:ADV	不:ADV	習慣:Vt	的:T	
+沒:Vt	什麼:DET	甜味:N	
+反倒:C	是:Vt	頗:ADV	酸:Vi	的:T	
+追求:Vt	香甜:Vi	飲料:N	的:T	人:N	會:ADV	不:ADV	太:ADV	能:ADV	接受:Vt	
+一:ADV	開始:Vt	我:N	也:ADV	不:ADV	太:ADV	喜歡:Vt	
+不過:C	越:ADV	喝:Vt	越:ADV	覺得:Vt	還:ADV	不錯:Vi	
+應該:ADV	是:Vt	追求:Vt	食材:N	的:T	原味:N	
+沒:ADV	加:Vt	糖:N	也:ADV	沒:ADV	加:Vt	香精:N	什麼:DET	的:T	
+所以:C	奇異果:N	、:PAUSECATEGORY	蔓:b	越:ADV	莓:b	的:T	酸:Nv	和:C	蘋果:N	的:T	甜味:N	都:ADV	還:ADV	蠻:ADV	自然:Vi	的:T	
+香蕉:N	巧克力:N	法式:A	布丁:N	吐司:N	$:FW	260:DET	
+任選:Vt	一:DET	杯:M	130:DET	飲料:N	
+其實:ADV	我:N	原本:ADV	只是:ADV	不:ADV	知道:Vt	要點:N	什麼:DET	
+隨便:Vi	點:ADV	個:M	甜點:N	來:ADV	吃吃:Vt	
+沒:ADV	想到:Vt	還:ADV	真:ADV	不錯:Vi	耶:T	
+乍看:Vt	之下:POST	只:ADV	是:Vt	普通:Vi	的:T	烤:Nv	吐司:N	
+其實:ADV	它:N	是:Vt	法式:A	布丁:N	吐司:N	啦:T	
+灑滿:Vt	白色:N	糖粉:N	、:PAUSECATEGORY	烤:Vt	的:T	金黃:Vi	金黃:Vi	
+隨:P	餐:N	還:ADV	附:Vt	鮮:Vi	奶油:N	、:PAUSECATEGORY	香蕉:N	、:PAUSECATEGORY	巧克力:N	冰淇淋:N	、:PAUSECATEGORY	巧克力醬:N	等:POST	
+有:Vt	多:DET	種:M	搭配:Nv	吃法:N	
+雖然:C	灑滿:Vt	糖粉:N	
+但:C	卻:ADV	不會:ADV	太:ADV	甜:Vi	
+滿:DET	口:M	蛋:N	香:Vi	
+中間:N	嫩嫩:Vi	的:T	
+外皮:N	微酥:N	
+咬:Vt	起來:ASP	非常:ADV	鬆軟:Vi	
+我:N	覺得:Vt	好:ADV	好吃:Vi	
+而且:C	好:ADV	飽:Vi	
+好:ADV	好吃:Vi	的:T	東西:N	
+也:ADV	大愛:N	我們:N	坐:Vi	的:T	位子:N	
+大概:ADV	是:Vt	沒有:Vt	客滿:Vi	
+所以:C	後來:N	我們:N	坐滿:Vt	兩:DET	小時:M	
+店員:N	也:ADV	沒:ADV	來:ADV	提醒:Vt	時間:N	到:Vt	了:ASP	哈哈:ADV	

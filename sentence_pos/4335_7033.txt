@@ -1,0 +1,168 @@
+yeahbonnie(bonnie:FW	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中正區:N	
+Mon:FW	
+May:FW	
+11:DET	
+19:DET	::COLONCATEGORY	28:DET	::COLONCATEGORY	27:DET	
+2015:DET	
+圖文:N	好讀版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	yeahbonnie0227.pixnet.net/blog/post:FW	/:FW	283962097:DET	
+餐廳:N	::COLONCATEGORY	雙月:N	食品社:N	
+地址:N	::COLONCATEGORY	台北市:N	中正區:N	青島:N	東路:N	6:DET	-:DASHCATEGORY	2:DET	號:M	
+電話:N	::COLONCATEGORY	02:DET	-:DASHCATEGORY	33938953:DET	
+用餐:Nv	時間:N	::COLONCATEGORY	2015:DET	/:FW	05:DET	
+-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	-----:DASHCATEGORY	-------:DASHCATEGORY	-------:DASHCATEGORY	
+我:N	一直:ADV	都:ADV	超:Vt	
+愛:Vt	喝:Vt	湯:N	der:FW	
+尤其:ADV	是:Vt	熱:Vt	呼呼:ADV	的:T	燉湯:N	
+晚間:N	朋友:N	找:Vt	我:N	來到:Vt	青島:N	東:N	路:N	上:N	的:T	
+雙月:N	
+一:ADV	敘:Vt	
+事:N	前:POST	就:ADV	有:Vt	上網:Vi	查查:Vt	雙:A	月:N	究竟:ADV	是:Vt	什麼:DET	樣:M	的:T	餐廳:N	
+看到:Vt	了:ASP	一:DET	碗碗:DET	的:T	熱湯:N	
+一:DET	整:DET	個:M	早上:N	就:ADV	魂不守舍:Vi	了:T	
+雙:A	月:N	就:ADV	位於:Vt	青島:N	東:N	路:N	上:N	某:DET	民宅:N	的:T	一樓:N	
+由於:C	店:N	位於:Vt	立法院:N	附近:N	
+吸引:Vt	不少:DET	官員:N	民代:N	來:ADV	用餐:Vi	
+聽說:Vt	台積:N	電:N	董事長:N	張忠謀:N	也:ADV	是:Vt	這裡:N	的:T	常客:N	
+他:N	最愛:N	烏骨雞湯:N	
+雙月:N	食品社:N	大大:Vi	的:T	招牌:N	
+相當:ADV	顯眼:Vi	
+門口:N	就:ADV	有:Vt	內建:Vt	ＭＥＮＵ:FW	
+外面:N	有:Vt	海報:N	
+告訴:Vt	人客:N	
+店:N	內:N	的:T	雞肉:N	來源:N	為:Vt	
+溫體:A	宰殺:Vt	雞腿肉:N	
+真心:Vi	熬:Vt	煮:Vt	雞:N	高湯:N	&:FW	gt:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+真心:Vi	熬煮:Vt	
+太:ADV	可愛:Vi	了:T	吧:T	
+跟:P	朋友:N	約:ADV	七:DET	點:M	半:DET	鐘:N	在:P	雙月:N	
+挖:Vt	
+人:N	也:ADV	太多:Vi	
+走近:Vt	一:DET	看:Vt	想:Vt	拍:Vt	個:M	室:N	內:N	照:Vt	都:ADV	不:ADV	大:Vi	好意思:Vi	ＱＱ:FW	
+內:N	裝潢:Vt	使用:Vt	的:T	是:Vt	木質:N	桌椅:N	以及:C	清水:N	模:N	地板:N	
+透過:P	玻璃:N	可以:ADV	看見:Vt	忙碌:Vi	的:T	阿姨:N	們:N	
+筷子:N	有:Vt	高溫:N	消毒:Vt	過:ASP	
+用:P	了:ASP	也:ADV	比較:ADV	安心:Vi	
+滷味:N	推薦點:N	一下:N	滿:DET	入:Vt	味:N	
+只:ADV	是:Vt	我們:N	到:Vt	的:T	時候:N	滷味:N	已經:ADV	快:ADV	賣光:Vt	了:ASP	
+在:P	裝潢:N	這麼:ADV	新穎:Vi	的:T	店家:N	裡頭:N	
+滷味:N	的:T	menu:FW	竟然:ADV	是:Vt	用:P	小紅紙:N	寫:Vt	的:T	別有:Vt	一:DET	番:M	風味:N	
+彩色:A	ＭＥＮＵ:FW	
+可以:ADV	選擇:Vt	套餐:N	或:C	單點:N	
+湯類:N	最:ADV	便宜:Vi	80:DET	最:ADV	貴:Vi	180:DET	
+點完:Vt	餐:N	結:Vt	完:Vi	帳:N	
+櫃台:N	就:ADV	會:ADV	給:Vt	你:N	一:DET	個:M	號碼牌:N	嚕:ADV	
+油飯:N	NT:FW	.:PERIODCATEGORY	35:DET	
+超:Vt	好吃:Vi	
+好:ADV	香:Vi	
+店:N	家用:A	蝦米:N	還:ADV	有:Vt	油蔥:N	爆出:Vt	香氣:N	
+糯米:N	偏:ADV	軟軟:Vi	但:C	不失:Vt	彈性:N	
+調味:Vi	剛好:ADV	
+真的:ADV	會:ADV	口齒:N	留:Vt	香:N	
+忍不住:Vt	讓:Vt	人:N	一口:ADV	接著:ADV	一口:ADV	
+但:C	這:DET	道:M	是:Vt	雙月:N	熱門:Vi	商品:N	
+廚師:N	會:ADV	在:P	當日:N	早上:N	六:DET	點:M	現:ADV	炒:Vt	所以:C	無法:ADV	大量:DET	供應:Vt	
+因為:C	他們:N	用:Vt	的:T	豬油:N	跟:P	油:N	蔥:N	都:ADV	是:Vt	店家:N	自製:Vt	的:T	
+沒有:Vt	食安:N	問題:N	也:ADV	更:ADV	得:Vt	客人:N	喜愛:Vt	
+所以:C	
+這:DET	道:M	通常:ADV	在:P	中午:N	就:ADV	會:ADV	賣光:Vt	光:N	
+人客:N	要:ADV	搶:Vt	要:ADV	快:Vi	
+虱目魚:N	
+好:ADV	大:Vi	
+一:DET	塊:M	虱目魚:N	
+我:N	有時候:ADV	對:P	魚肉:N	是:Vt	有點:ADV	怕怕:Vi	的:T	
+因為:C	店家:N	沒:ADV	處理好:Vt	的:T	話:N	腥味:N	會:ADV	讓:Vt	我:N	當場:ADV	反胃:Vi	
+但:C	雙:A	月:N	處理:Vt	得:T	很:ADV	好:Vi	
+魚肚:N	幾乎:ADV	沒有:ADV	刺:Vt	魚肉:N	也:ADV	很:ADV	細嫩:Vi	
+ps:FW	.:PERIODCATEGORY	虱目魚:N	肚:N	生產:Nv	過程:N	有:Vt	通過:Vt	ISO:FW	22000:DET	和:C	Haccp:FW	
+食安:N	問題:N	人人自危:Vi	對:P	我們:N	消費者:N	而言:Vt	希望:Vt	這樣:Vi	的:T	店家:N	能:ADV	越:ADV	多:ADV	越:ADV	好:Vi	
+讓:Vt	我們:N	不用:ADV	吃:Vt	喝:Vt	得:T	膽戰心驚:Vi	
+虱目魚:N	肚:N	蛤蠣湯:N	NT:FW	.:PERIODCATEGORY	130:DET	
+恩:N	
+看到:Vt	第一:DET	個:M	反應:N	一樣:Vi	是:Vt	
+好:Vi	大一:N	條:M	魚:N	Bigfish:FW	
+&:FW	gt:FW	
+&:FW	gt:FW	
+台詞:N	有沒有:ADV	好:Vi	熟悉:Vt	鐘麗緹:N	演:Vt	的:T	美人魚:N	電影:N	ＸＤ:FW	
+DSCN0405.JPG:FW	
+雞湯:N	底:POST	加上:Vt	海鮮:N	料:N	無疑:ADV	是:Vt	海陸:N	雙拼:A	
+將:P	九:DET	層:M	塔:N	加:Vt	在:P	湯:N	裡:POST	又:ADV	多:Vi	了:T	一:ADV	分:Vt	九:DET	層:M	塔:N	的:T	香氣:N	
+滋味:N	鮮美:Vi	純厚:Vi	
+今天:N	我:N	最愛:N	的:T	就:ADV	是:Vt	這:DET	道:M	了:T	
+蛤蠣:N	雞湯:N	NT:FW	.:PERIODCATEGORY	130:DET	
+雞肉:N	整:DET	個:M	由:P	內:N	滿:ADV	出:Vt	碗:N	外:POST	料:Vt	
+超多:Vi	
+店家:N	採用:Vt	的:T	是:Vt	仿:Vt	土雞:N	腿:N	
+每天:N	清晨:N	宰殺:Vt	後:POST	送至:Vt	店:N	內:N	
+所以:C	『:PARENTHESISCATEGORY	非:A	冷凍:Nv	』:PARENTHESISCATEGORY	雞肉:N	
+不過:C	比起:P	雞肉:N	我:N	更:ADV	在乎:Vt	雞湯:N	
+說:Vt	過:ASP	了:ASP	我:N	非常:ADV	愛:Vt	喝:Vt	湯:N	
+他:N	的:T	湯:N	有:Vt	經過:Vt	撇油:Vt	處理:Vt	
+也:ADV	沒有:ADV	加入:Vt	過多:Vi	的:T	調味料:N	
+所以:C	不:ADV	油膩:Vi	好喝:Vi	
+尤其:ADV	是:Vt	裡頭:N	還:ADV	有:Vt	高麗菜:N	
+有:Vt	菜:N	、:PAUSECATEGORY	有:Vt	海鮮:N	
+蛤蠣:N	
+、:PAUSECATEGORY	有:Vt	雞肉:N	
+營養:N	完全:ADV	足夠:Vi	
+適合:Vi	夏日:N	溫補:Vt	
+榮登:Vt	今日:N	我:N	最愛:N	
+雙月牛蒡燉:N	雞湯:N	NT:FW	.:PERIODCATEGORY	130:DET	
+天氣:N	越來越:ADV	熱:Vt	了:ASP	來:ADV	點:Vt	牛:N	蒡:b	也:ADV	是:Vt	不錯:Vi	的:T	選擇:N	
+因為:C	牛:N	蒡:b	還:ADV	具有:Vt	解熱:N	、:PAUSECATEGORY	解毒:Vi	、:PAUSECATEGORY	利尿:N	、:PAUSECATEGORY	去:Vt	痰:N	、:PAUSECATEGORY	去:Vt	瘀血:Nv	、:PAUSECATEGORY	治:Vt	咳嗽:Vi	的:T	功效:N	
+重點:N	是:Vt	
+含有:Vt	豐富:Vt	的:T	食物:N	纖維:N	
+可:ADV	促進:Vt	腸子:N	蠕動:Vi	、:PAUSECATEGORY	消除:Vt	便秘:Vi	
+更:ADV	更:ADV	更:ADV	重要:Vi	的:T	是:Vt	對:P	下半身:N	肥胖:Vi	特別:Vi	有:Vt	用:P	ＸＤ:FW	
+除了:P	濃厚:Vi	的:T	雞湯:N	底:N	外:N	
+這:DET	碗:M	湯:N	還:ADV	有:Vt	濃濃:Vi	的:T	牛蒡:N	香氣:N	
+想要:Vt	吃:Vt	肉:N	有:Vt	想要:Vt	養身:Nv	這會:N	是:Vt	好:Vi	選擇:Vt	
+牛蒡:N	蔬菜湯:N	NT:FW	.:PERIODCATEGORY	80:DET	
+如果:C	覺得:Vt	不:ADV	想:Vt	吃:Vt	肉:N	的:T	話:N	可以:ADV	考慮:Vt	這:DET	道:M	
+朋友:N	特別:Vi	點:ADV	給:Vt	我:N	喝:Vt	的:T	
+因為:C	平常:N	我:N	本來:ADV	就:ADV	不:ADV	太:ADV	吃:Vt	肉:N	
+大量:DET	蔬菜:N	加上:Vt	退火:Vi	牛蒡:N	完全:ADV	就是:C	為:P	女性:N	同胞:N	設計:N	的:T	料理:N	
+何首烏:N	燉:Vt	雞湯:N	NT:FW	.:PERIODCATEGORY	180:DET	
+鏘鏘:ADV	鏘鏘:ADV	重頭戲:N	
+比:P	前面:N	都:ADV	還要:ADV	更:ADV	大:Vi	碗:N	的:T	
+何首烏:N	燉:Vt	雞湯:N	
+雖然:C	前面:N	已經:ADV	接受:Vt	過:ASP	洗禮:N	知道:Vt	都:ADV	很:ADV	大:Vi	碗:N	
+但:C	現在:N	又:ADV	來:Vi	了:ASP	一:DET	道:M	更:ADV	大:Vi	碗:N	的:T	＠:FW	＠:FW	
+我們:N	一:DET	人:N	點:Vt	一:DET	道:M	湯:N	完全:ADV	錯:Vi	了:ASP	份量:N	太多:Vi	
+因為:C	一:DET	碗:M	依:P	乎:Vt	是:Vt	1.5:DET	-:DASHCATEGORY	2:DET	人:N	份:N	
+這:DET	道:M	湯:N	不:ADV	加:Vt	鹽:N	我:N	以為:Vt	會:ADV	沒:Vt	味道:N	
+但:C	喝下去:Vt	
+這:DET	就是:C	中藥:N	吧:T	
+純:Vi	中藥:N	燉煮:Nv	真的:ADV	不:ADV	是:Vt	蓋:Vt	的:T	我:N	以為:Vt	在:P	喝:Vt	我:N	媽:N	燉:Vt	的:T	中藥湯:N	ＸＤ:FW	
+聽說:Vt	這:DET	是:Vt	台積:N	電:N	董事長:N	張忠謀:N	的:T	最愛:N	
+野蠻人:N	在:P	旁邊:N	不:ADV	知道:Vt	在:P	竊笑:Vt	啥:DET	ＸＤ:FW	
+還:ADV	有:Vt	滷味:N	
+最後:N	上:POST	的:T	這:DET	道:M	也:ADV	很:ADV	厲害:Vi	
+東石:N	鮮蚵乾:Vi	麵:N	NT:FW	.:PERIODCATEGORY	90:DET	元:M	
+每:DET	天:M	從:P	東石:N	送:Vt	來得:ADV	鮮:Vi	蚵:N	不但:C	大:Vi	顆:M	有:Vt	新鮮:Vi	
+但:C	我:N	...:ETCCATEGORY	實在:ADV	太:ADV	飽:Vi	了:ASP	最後:N	完全:ADV	吃:Vt	不:ADV	下:Vt	
+喜歡:Vt	吃:Vt	鮮蚵:Vi	的:T	人:N	很:ADV	推:Vt	喲:T	
+因為:C	朋友:N	Ｗ:FW	遲到:Vi	的:T	關係:N	
+大家:N	都:ADV	在:P	等:Vt	他:N	菜:N	都:ADV	上完:Vt	了:ASP	大小姐人:N	還:ADV	沒:ADV	到:Vt	
+也:ADV	讓:Vt	我:N	拍到:Vt	了:ASP	這:DET	澎湃:Vi	的:T	全:DET	家:M	餐:N	
+俗話說:ADV	女生:N	有:Vt	兩:DET	個:M	胃:N	
+一:DET	個:M	吃:Vt	鹹:Vi	的:T	另:DET	一:DET	個:M	裝:Vt	甜:Vi	的:T	
+所以:C	最後:N	再:ADV	來:ADV	杯:M	愛玉:N	吧:T	
+NT:FW	.:PERIODCATEGORY	35:DET	
+感謝:Vt	瓢蟲:N	跟:P	Ｗ:FW	介紹:Vt	我:N	來:ADV	吃:Vt	
+讓:Vt	我:N	有:Vt	多:Vi	了:ASP	一:DET	個:M	珍藏:Vt	的:T	口袋:N	名單:N	
+BOBO:FW	小結:N	
+交通:N	：:COLONCATEGORY	離:P	捷運:N	善島寺站:N	走路:Vi	約:ADV	5:DET	分鐘:M	
+服務:Nv	：:COLONCATEGORY	除了:P	點餐:N	不:ADV	太:ADV	會:ADV	需要:Vt	什麼:DET	服務:Nv	
+但:C	感覺:N	裡面:N	的:T	姐姐:N	阿姨:N	人:N	都:ADV	不錯:Vi	
+食物:N	：:COLONCATEGORY	真:Vi	材實:N	料:Vt	
+新鮮:Vi	不:ADV	怕:Vt	被:P	比較:ADV	
+環境:N	：:COLONCATEGORY	很:ADV	喜歡:Vt	裡面:N	的:T	文青:N	風:N	
+唯一:A	的:T	缺點:N	是:Vt	人客:N	太多:Vi	店面:N	太:ADV	小:Vi	啦:T	
+價位:N	：:COLONCATEGORY	外面:N	麻油:N	雞:N	幾:DET	塊:M	雞肉:N	就:ADV	要:ADV	150:DET	
+230:DET	...:ETCCATEGORY	所以:C	這:DET	家:M	價位:N	我:N	覺得:Vt	非常:ADV	ＯＫ:FW	
+cp:FW	值高:Vi	
+再:ADV	訪率:N	：:COLONCATEGORY	吃補:Vt	又:ADV	要:ADV	好吃:Vi	的:T	補湯:N	店家:N	真:Vi	的:T	滿少:Vi	的:T	
+所以:C	我:N	應該:ADV	會:ADV	常:ADV	來:ADV	

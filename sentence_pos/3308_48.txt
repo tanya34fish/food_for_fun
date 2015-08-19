@@ -1,0 +1,10 @@
+捷運:N	六:DET	張:M	犁:N	美食:N	、:PAUSECATEGORY	大安區:N	火鍋:N	和平東路:N	巷弄:N	－:DET	王品:N	集團:N	《:PARENTHESISCATEGORY	石:N	二:DET	鍋:M	》:PARENTHESISCATEGORY	安居店:N	！:EXCLAMATIONCATEGORY	
+安居店:N	位於:Vt	捷運:N	六:DET	張:M	犁:N	旁:N	的:T	巷弄:N	
+地址:N	：:COLONCATEGORY	106:DET	台北市:N	大安區:N	安居街:N	50:DET	號:M	
+捷運:N	：:COLONCATEGORY	文湖線:N	六:DET	張:M	犁:N	捷運站:N	
+就:ADV	會:ADV	想要:Vt	花:Vt	個:M	10:DET	元大:N	續杯:Vi	
+【:PARENTHESISCATEGORY	滷肉飯:N	】:PARENTHESISCATEGORY	$:FW	15:DET	
+獨家:A	的:T	醬料:N	配上:Vt	軟硬:Vi	適中:Vi	的:T	白飯:N	
+【:PARENTHESISCATEGORY	雪花:N	牛肉:N	鍋:N	】:PARENTHESISCATEGORY	$:FW	218:DET	
+帶:Vt	一點點:DET	油花:N	不會:ADV	讓:Vt	肉:N	太:ADV	老:Vi	
+湯頭:N	好喝:Vi	、:PAUSECATEGORY	食材:N	新鮮:Vi	

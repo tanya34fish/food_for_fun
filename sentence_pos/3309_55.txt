@@ -1,0 +1,20 @@
+地址:N	：:COLONCATEGORY	台北市:N	敦化南路:N	二段:N	81巷:N	55:DET	號:M	
+細緻:Vi	的:T	口感:N	
+代表:Vt	著:ASP	對於:P	每:DET	一:DET	道:M	菜:N	的:T	用心:Vi	與:C	細心:Vi	
+對:P	魚:N	的:T	處理:Nv	多:Vi	了:ASP	用心:Vi	
+有蒸:N	、:PAUSECATEGORY	紅燒:Nv	與:C	煎烤:Vt	多:DET	種:M	用心:Vi	
+這:DET	也:ADV	是:Vt	一:DET	種:M	開心:Vi	
+店:N	內:N	的:T	裝潢:N	有:Vt	許多:DET	的:T	小:Vi	角落:N	都:ADV	蘊含:Vt	著:ASP	文化感:N	
+但:C	也:ADV	不能:ADV	說:Vt	不:ADV	好吃:Vi	
+是:Vt	一:DET	種:M	爽口:Vi	
+口味:N	與:C	口感:N	甚:ADV	佳:Vi	
+魚肉:N	吃起來:ADV	非常:ADV	細緻:Vi	
+瘦:Vi	的:T	那:DET	一:DET	面:N	吃起來:ADV	有點:ADV	乾:Vi	
+糯米:N	椒:b	炒蛋:Vi	的:T	糯米:N	椒:b	口感:N	不錯:Vi	
+清爽:Vi	又:ADV	帶有:Vt	脆度:N	
+口味:N	也:ADV	相當:Vi	的:T	好:Vi	
+但:C	吃起來:ADV	份量:N	真的:ADV	很:ADV	足:Vi	
+口感:N	與:C	口味:N	都:ADV	非常:ADV	有:Vt	層次:N	
+份量:N	雖然:C	少:Vi	了:ASP	一點:DET	
+吃起來:ADV	總是:ADV	很:ADV	有:Vt	戲:N	
+價位:N	算是:Vt	中價位:N	

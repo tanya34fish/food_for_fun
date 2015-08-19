@@ -1,0 +1,103 @@
+w:FW	979255:DET	(:PARENTHESISCATEGORY	維尼:N	寶貝:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	東區:N	。:PERIODCATEGORY	Toasteria:FW	台北:N	烤:Vt	吐司:N	之:T	家:N	
+Thu:FW	
+Aug:FW	
+14:DET	
+19:DET	::COLONCATEGORY	01:DET	::COLONCATEGORY	53:DET	
+2014:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	台北:N	東區:N	。:PERIODCATEGORY	Toasteria:FW	台北:N	烤:Vt	吐司:N	之:T	家:N	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	7月:N	(:PARENTHESISCATEGORY	例:N	：:COLONCATEGORY	2010年:N	/:FW	7月:N	，:COMMACATEGORY	必:ADV	填:Vt	項目:N	，:COMMACATEGORY	違者:N	刪:Vt	文:N	):PARENTHESISCATEGORY	
+地址:N	：:COLONCATEGORY	台北市:N	大安區:N	忠孝東路:N	四段:N	248巷:N	2:DET	號:M	
+電話:N	：:COLONCATEGORY	2731:DET	-:DASHCATEGORY	8004:DET	
+有:Vt	圖:N	網誌版:N	
+http:FW	::COLONCATEGORY	/:FW	/:FW	w979255.pixnet.net/blog/post:FW	/:FW	43419592:DET	
+台北:N	東區:N	
+Toasteria:FW	台北:N	烤:Vt	吐司:N	之:T	家:N	
+這:DET	間:M	還:ADV	真的:ADV	是:Vt	朋友:N	介紹:Vt	
+才:ADV	知道:Vt	原來:ADV	烤:Vt	土司:N	可以:ADV	這麼:ADV	好吃:Vi	啊:T	
+嚴格:Vi	來:ADV	說:Vt	
+他:N	並:ADV	不:ADV	是:Vt	單純:Vi	的:T	土司:N	可以:ADV	解釋:Vt	的:T	
+有:Vt	個:M	專有:A	名稱:N	Panini:FW	帕尼尼:N	
+帕尼尼:N	是:Vt	由:P	義大利:N	傳入:Vt	經過:Vt	烘烤:Vt	和:C	壓酥:N	的:T	三明治:N	
+指:Vt	按壓:Vt	和:C	烤:Vt	三明治:N	
+":FW	烤:Vt	":FW	
+結合:Vt	蔬菜:N	起:POST	司:Vt	的:T	一:DET	種:M	美食:N	
+帕尼尼:N	的:T	義大利:N	發音:N	為:Vt	：:COLONCATEGORY	佩尼:N	諾:FW	喔:T	
+菜單:N	分享:Vt	
+以:C	只有:ADV	好好:Vi	好:Vi	東西:N	作為:Vt	出發點:N	
+這:DET	個:M	創意:N	我:N	喜歡:Vt	
+雖然:C	我:N	個:M	人:N	還是:ADV	比較:ADV	希望:Vt	有:Vt	低脂:N	牛奶:N	
+雖然:C	他:N	口感:N	水:N	了:T	點:ADV	
+但:C	比較:ADV	沒:Vt	熱量:N	啊:T	
+除了:P	主打:Nv	菜色:N	為:Vt	帕尼尼:N	之外:POST	
+還:ADV	有:Vt	提:Vt	共:N	麵食類:N	的:T	餐點:N	
+光:ADV	是:Vt	三明治:N	就:ADV	很多:DET	選項:N	了:T	
+選擇:Vt	上:POST	其實:ADV	滿:ADV	痛苦:Vi	的:T	
+因為:C	很:ADV	難:Vi	抉擇:N	阿:N	
+最後:N	我:N	選擇:Vt	了:ASP	鐵板:N	帕尼尼:N	的:T	費城:N	牛肉:N	
+這:DET	是:Vt	一:DET	道:M	一:ADV	上桌:Vi	就:ADV	會:ADV	讓:Vt	人:N	大喊:Vt	犯規:Vi	的:T	食物:N	
+看上去:ADV	整體:N	的:T	熱量:N	都:ADV	超高:Vi	阿:N	
+但:C	也:ADV	確實:ADV	是:Vt	國外:N	常見:Vi	的:T	美食:N	
+掀開:Vt	後:POST	
+滿滿:Vi	的:T	起:Vt	司:N	與:C	牛肉:N	
+有沒有:ADV	超:Vt	犯規:Nv	阿:N	
+雖然:C	寫:Vt	這:DET	篇:M	食記:N	的:T	時候:N	已經:ADV	有:Vt	一段:N	時間:N	了:T	
+但是:C	看到:Vt	照片:N	
+還是:ADV	會:ADV	忍不住:Vt	流:Vt	口水:N	阿:N	
+滿滿:Vi	的:T	起:Vt	司香:N	
+是:Vt	很:ADV	濃郁:Vi	的:T	那:DET	種:M	起:POST	司:Vt	香氣:N	
+搭配:Vt	滿滿:Vi	豐富:Vt	的:T	薄:Vi	牛肉片:N	
+口感:N	真的:ADV	很:ADV	難:Vi	忘懷:Vt	耶:T	
+超級:A	好吃:Vi	的:T	
+起:Vt	司:N	牛肉:N	香:Vi	
+旁邊:N	搭配:Vt	的:T	左:N	輛:M	是:Vt	橄欖:N	與:C	酸:Vi	黃瓜:N	
+通常:ADV	就:ADV	直接:Vi	吃:Vt	了:ASP	
+在:P	塞進去:Vt	麵包:N	裡面:N	就:ADV	顯得:Vt	多餘:A	
+壓:Vt	蘇:N	過:Vt	吐司:N	的:T	外皮:N	經過:Vt	鐵板:N	烘烤:Vt	之後:POST	
+吃起來:ADV	跟:P	依:Vt	般:POST	早餐:N	吃:Vt	過:ASP	的:T	吐司片:N	完全:ADV	不同:Vi	
+是:Vt	有點:ADV	厚實:Vi	帶:Vt	點:M	酥感:N	的:T	表皮:N	
+很:ADV	值得:Vi	一:ADV	試:Vt	
+古達:N	起:POST	司:Vt	沙拉:N	
+如果:C	我:N	沒:ADV	記錯:Vt	
+應該:ADV	是:Vt	這:DET	個:M	沙拉吧:N	
+上桌:Vi	後:POST	
+滿:DET	大一盤:N	的:T	
+有點:ADV	讓:Vt	我:N	後悔:Vt	沒:ADV	點:Vt	
+我:N	也:ADV	超:Vt	愛:Vt	這:DET	種:M	滿滿:Vi	起:POST	司:Vt	配料:N	的:T	沙拉:N	
+它:N	的:T	口感:N	是:Vt	酸酸甜甜:Vi	的:T	
+選用:Vt	紅酒:N	油醋:N	
+搭配:Vt	水芹:N	、:PAUSECATEGORY	生菜:N	
+甜菜:N	絲:N	
+看起來:ADV	似乎:ADV	很:ADV	重:Vi	口味:N	
+卻:ADV	意外:Vt	吃起來:ADV	很:ADV	清爽:Vi	喔:T	
+古達:N	起:Vt	司:N	是:Vt	偏:ADV	鹹:Vi	一點:ADV	的:T	起:Vt	司:N	
+搭配:Vt	旁邊:N	烤:Vt	的:T	酥酥脆脆:Vi	的:T	吐司片:N	
+整:DET	個:M	就:ADV	很:ADV	爽口:Vi	
+適合:Vi	夏天:N	沒:Vt	食慾:N	的:T	人:N	選用:Vt	
+地中海:N	鮭魚:N	排:Vt	
+這:DET	是:Vt	朋友點:N	的:T	
+我:N	個:M	人:N	覺得:Vt	應該:ADV	跟:P	費城:N	牛肉:N	差不多:Vi	做法:N	
+差:Vi	在:P	選用:Vt	的:T	肉品:N	不同:Vi	吧:T	
+鮭魚:N	若:C	用:P	烤:Vt	的:T	多少:DET	會:ADV	有點:ADV	乾:Vi	
+但:C	朋友:N	的:T	評價:N	也:ADV	是:Vt	
+所以:C	
+愛:Vt	吃:Vt	海鮮:N	的:T	朋友:N	可以:ADV	考慮:Vt	看看:Vt	
+飲料:N	左邊:N	是:Vt	冰釀:N	檸檬:N	抹茶:N	
+右邊:N	就:ADV	是:Vt	一般:A	的:T	果汁:N	
+抹茶:N	口感:N	很:ADV	特別:Vi	
+但:C	我:N	沒:ADV	喝到:Vt	
+無法:ADV	形容:Vt	
+而:C	果汁:N	就:ADV	是:Vt	一般:ADV	常:ADV	喝到:Vt	的:T	那:DET	種:M	柳橙汁:N	
+不:ADV	多:ADV	說:Vt	
+而:C	這邊:N	的:T	環境:N	設計:N	偏向:Vt	國外:N	酒吧:N	的:T	風格:N	
+所以:C	來:ADV	用餐:Vi	的:T	外國人:N	也:ADV	意外:Vt	的:T	很多:Vi	喔:T	
+平日:N	的:T	中午:N	來:ADV	
+也:ADV	是:Vt	人:N	滿滿:Vi	的:T	
+相較:Vi	於:P	隔壁:N	的:T	幾:DET	間:M	店家:N	
+這:DET	間:M	很:ADV	明顯:Vi	的:T	是:Vt	比較:ADV	受:Vt	歡迎:Vt	的:T	喔:T	
+要不是:C	朋友:N	推薦:Vt	
+我:N	想:Vt	我:N	應該:ADV	也:ADV	不會:ADV	知道:Vt	這:DET	間:M	吧:T	
+雖然:C	熱量:N	走向:N	都:ADV	很:ADV	驚人:Vi	
+但:C	卻:ADV	是:Vt	很:ADV	迷人:Vi	的:T	口味:N	
+下:DET	次:M	還:ADV	會:ADV	想:Vt	再:ADV	來:ADV	吃:Vt	的:T	一:DET	間:M	店:N	喔:T	
+推薦給:Vt	同樣:Vi	愛:Vt	吃:Vt	起:ASP	司重:N	口味:N	的:T	朋友:N	

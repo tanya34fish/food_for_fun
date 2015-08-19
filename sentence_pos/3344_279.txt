@@ -1,0 +1,89 @@
+violetphoeni:FW	(:PARENTHESISCATEGORY	紫鳳:N	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	90:DET	酒食:N	歐風:N	朝:P	
+Wed:FW	
+Jul:FW	
+23:DET	
+15:DET	::COLONCATEGORY	26:DET	::COLONCATEGORY	18:DET	
+2014:DET	
+無:Vt	音樂:N	圖文:N	網誌:N	(:PARENTHESISCATEGORY	2014:DET	/:FW	7:DET	):PARENTHESISCATEGORY	
+http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/viophex/article:FW	/:FW	76587705:DET	
+寶貝:N	生日:N	
+照:P	慣例:N	要:ADV	好好:Vi	挑:Vt	間:POST	西餐廳:N	來:ADV	吃:Vt	
+本業:N	為:Vt	酒商:N	的:T	90:DET	理所當然:Vi	成為:Vt	目標:N	
+就:ADV	這:DET	個:M	機會:N	試試:Vt	他們:N	的:T	酒菜:N	搭配:Vt	
+簡約:Vi	擺放:Vt	的:T	餐具:N	
+法式:A	料理:N	普遍:Vi	給:Vt	人:N	耗時:Vi	甚:ADV	長:Vi	的:T	刻板:Vi	印象:N	
+但:C	因應:Vt	現代:Vi	步調:N	
+法國:N	貴族:N	其實:ADV	也:ADV	沒:Vt	什麼:DET	事:N	好:Vi	做:Vt	
+已經:ADV	漸漸:ADV	簡化:Vt	菜色:N	數量:N	
+相對:Vi	低:Vi	的:T	價位:N	也:ADV	讓:Vt	更多:DET	人:N	能夠:ADV	品嘗:Vt	
+當天:N	點:Vt	了:ASP	兩:DET	份:M	1250:DET	套餐:N	試試:Vt	手藝:N	
+也:ADV	做為:Vt	日後:N	有:Vt	機會:N	回訪:Vt	無:Vt	菜單:N	料理:N	的:T	參考:N	
+麵包:N	松露油:N	才:ADV	是:Vt	主角:N	
+比起:P	一般:A	的:T	橄欖油:N	醋:N	
+完全:ADV	不:ADV	在:P	同:DET	個:M	等級:N	
+即使:C	麵包:N	較:ADV	普通:Vi	也:ADV	不:ADV	是:Vt	很:ADV	在意:Vt	了:ASP	
+松子:N	綴烤:Vt	田螺:N	相當:ADV	精緻:Vi	的:T	前菜:N	
+田螺:N	口感:N	柔嫩:Vi	
+簡單:Vi	的:T	醃:Vt	料:N	揉:Vt	去:Vt	腥味:N	
+應該:ADV	也:ADV	有:Vt	些許:DET	松露:N	油:N	
+不用:ADV	大費周章:Vi	刨出螺肉:N	
+也:ADV	是:Vt	另:DET	一:DET	層:M	的:T	貼心:Vi	
+法式:A	鹹:Vi	派派:DET	皮:N	令:Vt	人:N	喜愛:Vt	
+酥鬆:Vi	但:C	富有:Vi	嚼:Vt	勁:N	
+麵香:N	混:Vt	著:ASP	奶油:N	相當:ADV	宜人:Vi	
+餡料:N	以:P	菠菜:N	泥:N	為主:Vi	
+一如:P	台灣:N	常見:Vi	的:T	清淡:Vi	
+松露:N	白菜:N	佐:Vt	莎莎醬:N	醬料:N	之間:POST	融合:Vt	得:T	相當:ADV	好:Vi	
+非常:ADV	意外:Vt	
+白菜:N	幾乎:ADV	只:ADV	提供:Vt	口感:N	
+但:C	非常:ADV	神奇:Vi	的:T	架起:Vt	松露:N	與:C	莎莎醬:N	的:T	橋梁:N	
+松露油:N	豪華:Vi	特製:Vt	沙拉:N	豐富:Vt	用料:N	可:ADV	稱:Vt	豪華:Vi	
+也:ADV	有:Vt	生魚片:N	在內:POST	
+生魚片:N	遇:Vt	酸:Vi	表面:N	會:ADV	微:ADV	熟:Vi	
+不:ADV	知道:Vt	在:P	不:ADV	在:P	餐廳:N	考量:Nv	內:POST	
+湯左:N	：:COLONCATEGORY	牛肉:N	清湯:N	右:N	：:COLONCATEGORY	磨菇:Vi	濃湯:N	前者:N	清爽:Vi	、:PAUSECATEGORY	後者:N	濃郁:Vi	
+表現:Vt	中規中矩:Vi	
+A:FW	級:N	Prime:FW	美國:N	沙朗:N	牛排:N	佐:Vt	紅酒醬:N	原本:ADV	不:ADV	喜歡:Vt	吃:Vt	沙朗:N	而:C	跳過:Vt	
+但是:C	寶貝:N	點:Vt	了:ASP	也:ADV	就:ADV	試試:Vt	
+處理:Vt	得:T	不:ADV	是:Vt	很:ADV	好:Vi	
+帶:Vt	筋:N	有點:ADV	過量:Vi	
+但:C	肉質:N	不錯:Vi	
+熟度:N	掌握:Vt	稍微:ADV	失準:Vi	
+中央:N	頗:ADV	完美:Vi	但:C	外面:N	過熟:Vi	
+可能:ADV	是:Vt	火侯:N	太:ADV	大:Vi	
+反倒:C	是:Vt	配菜:N	讓:Vt	人:N	喜愛:Vt	
+法式:A	小:Vi	羔羊:N	排佐第戎:N	紅酒醬:N	肉質:N	鮮嫩:Vi	、:PAUSECATEGORY	香:N	無:Vt	腥羶:Vi	
+將:P	羔羊:N	處理:Vt	得:T	相當:ADV	好:Vi	
+也:ADV	保有:Vt	應有:A	的:T	羊:N	野味:N	
+羔羊:N	之:T	妙:Nv	
+妙:Vi	在:P	燥:Vi	氣:N	未:ADV	萌:Vt	、:PAUSECATEGORY	香嫩:Vi	有餘:Vi	
+若:C	處理:Vt	得當:Vi	
+就:ADV	如:P	這:DET	盤:M	讓:Vt	人:N	難忘:Vt	
+另:C	點:Vt	了:ASP	搭配:Vt	的:T	ChateauLarrivaux:FW	2006:DET	
+半:DET	瓶裝:A	650:DET	
+香草:N	、:PAUSECATEGORY	櫻桃:N	、:PAUSECATEGORY	紅色:N	漿果:N	香:Vi	濃郁:Vi	
+酒體:N	輕盈:Vi	
+與:P	其:DET	單寧酸度:N	形成:Vt	不錯:Vi	的:T	平衡:Nv	
+與:C	牛排:N	相當:ADV	契合:Vi	
+但:C	搭上:Vt	羊:N	排:Vt	明顯:Vi	弱勢:N	
+甜點:N	及:C	茶飯:N	後:POST	甜酒:N	ChateauVari:FW	2007:DET	原本:ADV	為:Vt	套餐:N	附:Vt	的:T	白酒:N	
+討論:Vt	後:POST	改為:Vt	飯:N	後:POST	甜酒:N	
+濃郁:Vi	口感:N	搭上:Vt	葡萄柚:N	一:DET	類:M	香氣:N	
+理應:ADV	是:Vt	不錯:Vi	的:T	收尾:Nv	
+但:C	莫名:A	不:ADV	投:Vt	所好:N	
+也許:ADV	該:ADV	換支:Vt	Muscat:FW	
+以:P	價格:N	論:Vt	
+如此:Vi	套餐:N	也:ADV	算:Vt	值得:Vi	
+服務:Nv	品質:N	值得:Vi	再:ADV	書:N	
+明顯:Vi	超過:Vt	價位:N	水準:N	
+侍:Vt	酒:N	也:ADV	滿:ADV	有:Vt	樣子:N	
+但:C	忘:Vt	了:ASP	確認:Vt	軟木塞:N	
+吃完:Vt	後:POST	也:ADV	被:P	邀請:Vt	去:ADV	參觀:Vt	酒:N	窖:N	
+親民:Vi	的:T	舉動:N	讓:Vt	人:N	很:ADV	想:Vt	參加:Vt	每:DET	月:N	固定:Vt	舉辦:Vt	的:T	品酒:Vi	會:ADV	
+也許:ADV	之後:POST	會:ADV	再:ADV	訪:Vt	
+--:DASHCATEGORY	90:DET	酒食:N	歐風:N	朝:P	台北市:N	忠孝東路:N	五段:N	236巷:N	3弄:N	33:DET	號:M	02:DET	-:DASHCATEGORY	8780:DET	-:DASHCATEGORY	2997:DET	周:M	二:DET	
+周日:N	
+12:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	15:DET	::COLONCATEGORY	00:DET	
+18:DET	::COLONCATEGORY	00:DET	-:DASHCATEGORY	22:DET	::COLONCATEGORY	00:DET	--:DASHCATEGORY	延伸:Vi	閱讀:Vt	：:COLONCATEGORY	品爵:N	生活:N	法式:A	小:Vi	館:N	：:COLONCATEGORY	色勝:N	琳瑯:Vi	非:ADV	俗艷:Vi	
+香:N	稱:Vt	一:DET	品味:N	還:ADV	鮮:Vi	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/viophex/article:FW	/:FW	73579552:DET	馬旦馬:N	須:Vt	：:COLONCATEGORY	新鮮:Vi	食材:N	的:T	輕盈:Vi	法國:N	之:T	旅:N	http:FW	::COLONCATEGORY	/:FW	/:FW	blog.yam.com/viophex/article:FW	/:FW	66684887:DET	--:DASHCATEGORY	╱:FW	╲:FW	

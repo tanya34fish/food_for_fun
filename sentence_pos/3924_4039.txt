@@ -1,0 +1,149 @@
+Raggie(Lifeis:FW	...:ETCCATEGORY	):PARENTHESISCATEGORY	
+[:PARENTHESISCATEGORY	食記:N	]:PARENTHESISCATEGORY	台北:N	中山:N	阿紅:N	的:T	涮涮:b	鍋:M	
+Thu:FW	
+Jan:FW	
+8:DET	
+00:DET	::COLONCATEGORY	00:DET	::COLONCATEGORY	17:DET	
+2015:DET	
+餐廳:N	名稱:N	：:COLONCATEGORY	阿紅:N	的:T	涮涮:b	鍋:M	
+消費:N	時間:N	：:COLONCATEGORY	2014年:N	/:FW	11月:N	
+地址:N	：:COLONCATEGORY	台北市:N	吉林路:N	249:DET	號:M	
+電話:N	：:COLONCATEGORY	02:DET	-:DASHCATEGORY	2511:DET	-:DASHCATEGORY	2211:DET	
+營業:Nv	時間:N	：:COLONCATEGORY	午餐:N	::COLONCATEGORY	11:DET	::COLONCATEGORY	30:DET	~:FW	14:DET	::COLONCATEGORY	30:DET	
+晚餐:N	::COLONCATEGORY	17:DET	::COLONCATEGORY	30:DET	~:FW	22:DET	::COLONCATEGORY	30:DET	
+見拜:Vt	一:DET	歇:Vi	睏:Vi	(:PARENTHESISCATEGORY	每:DET	周:M	一:ADV	休息:Vi	):PARENTHESISCATEGORY	
+每:DET	人:N	平均:Vi	價位:N	：:COLONCATEGORY	NT:FW	$:FW	400:DET	
+圖文:N	網誌版:N	::COLONCATEGORY	http:FW	::COLONCATEGORY	/:FW	/:FW	raggiehao.pixnet.net/blog/post:FW	/:FW	41626423:DET	
+最早:ADV	是:Vt	從:P	":FW	宅:N	女:N	羞:Vi	昂:Vt	":FW	的:T	部落格:N	知道:Vt	這:DET	家:M	店:N	
+位於:Vt	吉林路:N	的:T	這:DET	家:M	涮涮鍋:N	似乎:ADV	早:ADV	就:ADV	頗:ADV	負盛名:Vi	
+不過:C	因為:C	離:P	我:N	主要:A	活動:N	範圍:N	有點:ADV	遠:Vi	的:T	地方:N	
+所以:C	很少:ADV	會:ADV	特地:ADV	找:Vt	這裡:N	的:T	火鍋店:N	來:ADV	吃:Vt	
+後來:N	發現:Vt	離:P	現在:N	公司:N	不:ADV	遠:Vi	
+所以:C	如果:C	中餐:N	想要:Vt	營養:N	、:PAUSECATEGORY	溫暖:Vt	一點:ADV	
+就:ADV	會:ADV	三四:DET	個:M	人:N	一起:ADV	搭:Vt	計程車:N	殺:Vt	來:ADV	吃:Vt	
+侍肉師:N	現場:N	切肉:Vi	
+左邊:N	是:Vt	師傅:N	現場:N	切肉:Vi	
+這:DET	是:Vt	阿紅:N	的:T	特色:N	之:T	一:DET	
+主打:Nv	現點現切:N	
+新鮮:Vi	看:Vt	的:T	見:Vt	
+我:N	不好意思:Vi	對:P	著:ASP	侍肉:N	師傅:N	拍照:Vi	
+至少:ADV	可以:ADV	看到:Vt	這:DET	台:M	切肉機:N	
+其實:ADV	在:P	這:DET	之前:POST	
+我:N	並:ADV	沒有:Vt	特別:Vi	聽:Vt	過:ASP	
+侍肉:N	師:N	
+這:DET	個:M	名詞:N	
+而且:C	不:ADV	是:Vt	很多:DET	火鍋店:N	都:ADV	是:Vt	這樣:Vi	serve:FW	的:T	嗎:T	
+不過:C	阿紅家:N	的:T	肉:N	真的:ADV	蠻:ADV	好吃:Vi	的:T	
+新鮮:Vi	多元:A	醬料區:N	
+這:DET	個:M	名字:N	是:Vt	我:N	自己:N	取:Vt	的:T	
+哈哈:ADV	
+我:N	愛:Vt	的:T	蔥:N	、:PAUSECATEGORY	蒜:N	、:PAUSECATEGORY	蘿蔔:N	泥:N	都:ADV	有:Vt	了:ASP	
+沙茶醬:N	是:Vt	牛頭牌:N	的:T	
+另外:C	黑醋:N	、:PAUSECATEGORY	白醋:N	、:PAUSECATEGORY	香油:N	、:PAUSECATEGORY	醬油:N	的:T	品質:N	味道:N	都:ADV	還:ADV	算:Vt	蠻:ADV	不錯:Vi	的:T	
+我:N	每:DET	次:M	去:Vt	火鍋店:N	
+其實:ADV	都:ADV	會:ADV	注意:Vt	店家:N	給:Vt	蔥:N	的:T	方式:N	
+阿紅:N	他們:N	家:N	很:ADV	大氣:N	
+直接:Vi	給:Vt	你:N	大:Vi	夾子:N	夾:Vt	
+其他:DET	有:Vt	的:T	會:ADV	給:Vt	你:N	中型:N	的:T	湯匙:N	
+這:DET	還:ADV	OK:FW	
+有的:DET	則:ADV	會:ADV	給:Vt	超小:N	調味:Nv	匙:N	
+我:N	這麼:ADV	愛:Vt	吃:Vt	蔥:N	
+我:N	到底:ADV	是:Vt	要:ADV	一:DET	匙:M	一:DET	匙:M	弄:Vt	多:ADV	久:Vi	才:ADV	可以:ADV	弄到:Vt	我:N	要:ADV	的:T	量:N	
+開:Vt	餐廳:N	就:ADV	不要:ADV	怕:Vt	人家:N	吃:Vt	
+我:N	也:ADV	不:ADV	想:Vt	一直:ADV	為了:P	蔥:N	阻礙:Vt	交通:N	呀:T	
+份量:N	驚人:Vi	大菜盤:N	
+這:DET	菜:N	盤:N	的:T	高麗菜:N	是:Vt	不:ADV	是:Vt	很:ADV	賞心悅目:Vi	
+秀色可餐:Vi	
+高麗菜:N	給:Vt	得:T	很:ADV	大方:Vi	
+有:Vt	玉米:N	、:PAUSECATEGORY	番茄:N	、:PAUSECATEGORY	蛤蠣:N	可以:ADV	煮:Vt	湯頭:N	
+壓:Vt	在:P	高麗菜:N	下面:N	的:T	綠色:N	蔬菜:N	每:DET	次:M	都:ADV	會:ADV	不:ADV	一樣:Vi	
+火鍋:N	料:N	也:ADV	是:Vt	有:Vt	誠意:N	的:T	那:DET	種:M	
+不:ADV	是:Vt	那:DET	種:M	軟趴趴:Vi	很:ADV	噁心:Vi	的:T	丸子:N	餃子:N	
+光:ADV	是:Vt	菜盤:N	就:ADV	讓:Vt	人:N	心花怒放:Vi	
+食慾:N	大開:Vt	呀:T	
+湯頭:N	
+他們:N	家:N	就:ADV	一:DET	種:M	原味:N	湯頭:N	
+我:N	覺得:Vt	很:ADV	不錯:Vi	
+有:Vt	合格:Vi	
+不鹹:Vi	、:PAUSECATEGORY	不油:N	、:PAUSECATEGORY	味精:N	也:ADV	沒有:Vt	太多:DET	
+或:C	沒有:Vt	
+BTW:FW	
+他們:N	家:N	餐桌:N	上:N	提供:Vt	的:T	衛生紙:N	是:Vt	舒潔:N	的:T	
+對照:Vt	其他:DET	火鍋店:N	用:Vt	的:T	那:DET	種:M	粉紅色:N	薄:Vi	如:P	蟬翼:N	的:T	衛生紙:N	
+從:P	這:DET	點:M	就:ADV	約略:ADV	可以:ADV	感受:Vt	的:T	到:P	他們:N	對:P	自己:N	店裡:N	用:Vt	的:T	東西:N	品質:N	上:N	的:T	堅持:Nv	
+接下來:ADV	就:ADV	要:ADV	介紹:Vt	主菜:N	們:N	
+阿紅:N	就:ADV	是:Vt	以:P	新鮮:Vi	大:Vi	塊:M	的:T	肉片:N	出名:Vi	
+他們:N	肉類:N	的:T	選擇:N	也:ADV	比:P	其他:DET	火鍋店:N	多:Vi	
+看:Vt	最:ADV	上面:N	菜單:N	即:ADV	知:Vt	
+如果:C	是:Vt	單一:A	種類:N	的:T	肉片:N	
+有:Vt	輕量:Vi	鍋:N	的:T	選擇:N	
+綜合:A	肉盤:N	則:ADV	無:Vt	
+他們:N	家:N	肉:N	的:T	份量:N	給:Vt	得:T	很:ADV	足:Vi	
+而且:C	厚度:N	很:ADV	夠:Vi	
+不會:ADV	煮:Vt	起來:ASP	像:P	張:N	紙:N	一樣:Vi	
+吃起來:ADV	超:Vt	沒:Vt	口感:N	
+所以:C	
+如果:C	是:Vt	一:DET	個:M	人:N	
+輕量:Vi	鍋:N	就:ADV	夠:Vi	了:T	
+綜合:A	肉盤:N	則:ADV	適合:Vi	心情:N	特別:Vi	好:Vi	或:C	特別:Vi	不:ADV	好:Vi	
+想要:Vt	
+大開:Vt	殺戒:N	
+時:ADV	食用:Vt	
+請:Vt	注意:Vt	
+這:DET	是:Vt	食肉魔人:N	的:T	標準:N	
+不:ADV	是:Vt	一般:A	小鳥:N	胃:N	女生:N	的:T	標準:N	
+極品:N	黑豚梅肉:N	鍋:N	
+輕量:Vi	鍋:N	
+嗯:T	...:ETCCATEGORY	就:ADV	是:Vt	新鮮:Vi	好吃:Vi	的:T	梅花:N	豬肉:N	該:DET	有的:DET	味道:N	
+不要:ADV	覺得:Vt	這:DET	個:M	評價:N	很:ADV	隨便:Vi	
+並:C	不:ADV	是:Vt	每:DET	一:DET	家:M	的:T	豬肉:N	都:ADV	可以:ADV	有:Vt	豬肉:N	甜味:N	的:T	呀:T	
+輕量:Vi	鍋:N	看起來:ADV	量:Vt	就:ADV	很多:Vi	了:T	
+我:N	的:T	建議:N	很:ADV	公道:Vi	
+冷冷:Vi	的:T	天氣:N	
+看到:Vt	這樣:Vi	的:T	組合:Nv	是:Vt	不:ADV	是:Vt	整:DET	個:M	暖呼呼:Vi	了:ASP	起來:ASP	
+害:Vt	我:N	現在:N	也:ADV	好:ADV	想:Vt	吃:Vt	火鍋:N	...:ETCCATEGORY	
+雪花:N	牛肉:N	鍋:N	
+輕量:Vi	鍋:N	
+油花:N	美:N	、:PAUSECATEGORY	厚度:N	夠:Vi	、:PAUSECATEGORY	肉:N	新鮮:Vi	
+很:ADV	好吃:Vi	
+完全:ADV	不用:ADV	多:ADV	解釋:Vt	
+草:N	飼:Vt	肋眼:N	鍋:N	
+輕量:Vi	鍋:N	
+這:DET	是:Vt	油脂:N	比較:ADV	少:Vi	的:T	沙朗:N	肉:N	
+牛肉味:N	很:ADV	足:Vi	
+真:ADV	要:ADV	比:P	當然:ADV	還是:ADV	雪花:N	牛:N	好吃:Vi	一點:ADV	
+蛤蠣:N	干貝:N	鍋:N	
+照片:N	看起來:ADV	有點:ADV	單薄:Vi	
+不過:C	蛤蠣:N	和:C	干貝:N	都:ADV	是:Vt	又:ADV	大:Vi	又:ADV	新鮮:Vi	
+是:Vt	說:Vt	
+對:P	肉食:A	主義:N	者:N	來:ADV	說:Vt	
+吃:Vt	火鍋:N	就:ADV	是:Vt	要:ADV	一直:ADV	吃:Vt	肉:N	呀:T	
+XDD:FW	精選:Vt	鍋:N	
+羊:N	五:DET	花:N	+:FW	霜降:N	牛肉:N	+:FW	極品:N	黑豚:N	梅花肉:N	
+承前:N	所:ADV	述:Vt	
+如果:C	特別:Vi	想:Vt	吃:Vt	肉:N	慶祝:Nv	或:C	洩憤:Vi	的:T	時候:N	
+這:DET	真的:ADV	是:Vt	一:DET	個:M	很:ADV	好:Vi	的:T	選擇:N	
+每:DET	種:M	肉:N	都:ADV	好吃:Vi	唷:T	
+綜合:A	豬肉:N	鍋:N	
+培根:N	豬肉:N	+:FW	松阪:N	豬肉:N	+:FW	極品:N	黑豚梅肉:N	
+你:N	看看:Vt	
+這:DET	肉:N	是:Vt	不:ADV	是:Vt	真的:ADV	很:ADV	漂亮:Vi	...:ETCCATEGORY	我:N	就:ADV	不:ADV	多:ADV	解釋:Vt	了:ASP	...:ETCCATEGORY	::COLONCATEGORY	p:FW	阿:N	
+對了:Vi	
+他們:N	還:ADV	有:Vt	霜淇淋:N	喔:T	
+每:DET	人:N	限:Vt	吃:Vt	一:DET	隻:M	
+是:Vt	好吃:Vi	的:T	餅乾:N	甜筒:N	
+怕:Vt	融:Vi	掉:Vt	用:P	杯子:N	裝:Vt	也:ADV	可以:ADV	
+通常:ADV	都:ADV	是:Vt	吃飽:Vi	結帳:Vi	前:POST	弄:Vt	一:DET	隻:M	外帶:Vt	
+真是:ADV	一:DET	個:M	happyending:FW	
+阿:N	紅:Vi	不:ADV	給:Vt	訂位:Nv	
+我:N	平常:N	去:Vt	的:T	時間:N	都:ADV	是:Vt	中午:N	12:DET	::COLONCATEGORY	30:DET	快要:ADV	1:DET	::COLONCATEGORY	00:DET	
+所以:C	通常:ADV	都:ADV	有:Vt	位置:N	
+不過:C	冬天:N	寒流:N	來:Vi	的:T	時候:N	
+連:C	中午:N	都:ADV	會:ADV	大:Vi	客滿:Vi	喔:T	
+另外:C	
+他們:N	幾乎:ADV	每:DET	天:M	都:ADV	會:ADV	有:Vt	NG:FW	肉片:N	可以:ADV	買:Vt	喔:T	
+在:P	家:N	吃:Vt	不用:ADV	在意:Vt	肉片:N	形狀:N	
+還:ADV	蠻:ADV	方便:Vi	划算:Vi	的:T	
+另外:C	
+也:ADV	有:Vt	外帶:Nv	服務:Nv	
+但是:C	不:ADV	代:P	煮:Vt	
