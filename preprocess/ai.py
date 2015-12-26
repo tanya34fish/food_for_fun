@@ -1,5 +1,8 @@
 # coding=UTF-8
-
+"""
+    use for sentence segmentation and pos tagging via Sinica
+    http://ckipsvr.iis.sinica.edu.tw/
+"""
 import xml.etree.ElementTree as ET
 import cgi
 import socket

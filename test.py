@@ -26,22 +26,16 @@ def predict(category, method, answer):
     threshold = param[method][category]
 
     training_data_dir = 'data/training_data/training_merge/'
-    # print error in `err_dir` for debugging
-    err_dir = 'err_analysis/%s/' %method
-    g = open(err_dir + 'error_%d.txt' %category, 'w')
     real_ans = 0
     retrieve = 0
     right_predict = 0
-
-    if not os.path.exists(err_dir):
-        os.mkdir(err_dir)
 
     for file_idx in xrange(200):
         for file in glob.glob(training_data_dir + '*_' + str(file_idx + 1) +'.txt'):
             path, input = os.path.split(file)
             idx = int(input.split('_')[1].split('.')[0])
-            # filter test data
-            if idx % 10 == 0:
+            # filter trainin data
+            if idx % 10 != 0:
                 continue
 
             with open(file, 'r') as f:
@@ -60,20 +54,8 @@ def predict(category, method, answer):
                             retrieve += 1
                             if is_ans:
                                 right_predict += 1
-                            else:
-                                g.write('%s: Line %d\n' %(input,lineNum))
-                                g.write(line)
-                                g.write('program error prediction: %d\n' %category)
-                                g.write('\n')
                             is_retrieve = True
                             break
-                    if not is_retrieve and is_ans:
-                        g.write('%s: Line %d\n' %(input,lineNum))
-                        g.write(line)
-                        g.write('program did not classify it as category %d\n' %category)
-                        g.write('\n')
-    
-    g.close()
 
     precision = float(right_predict)/float(retrieve)
     recall = float(right_predict)/float(real_ans)
@@ -102,11 +84,7 @@ def outputAns(answer, method, nameList, statfile):
 
     
 if __name__ == '__main__':
-    print 'Usage: python train.py'
-    print 'This program will use temrcount.py to calculate term counts again'
-    print 'also run word_importance and cross_entropy'
-    print 'run termcount...'
-    termcount.main()
+    print 'Usage: python test.py'
 
     methodList = ['word_importance', 'cross_entropy']
     nameList = ['category', 'threshold', 'precision', 'recall', 'F1']
@@ -122,7 +100,7 @@ if __name__ == '__main__':
                 os.mkdir(method)    
             answer = predict(category, method, answer)
 
-    with open('training_result.txt', 'w') as statfile:
+    with open('test_result.txt', 'w') as statfile:
         for method in methodList:
             statfile.write('Method %s: \n' %method)
             outputAns(answer, method, nameList, statfile)

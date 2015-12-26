@@ -1,9 +1,12 @@
 # coding=UTF-8
+"""
+	ignore this
+	use for preprocessing and generating data
+"""
 from ai import segment
 import sys
 import glob
 import os
-
 def pos_category():
 	for file in glob.glob(sys.argv[1] + '/*.txt'):
 		print 'process %s...' %file

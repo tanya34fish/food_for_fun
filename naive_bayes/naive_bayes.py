@@ -44,22 +44,22 @@ def get_recall(test_predict, test_ans):
 def get_f1(precision, recall):
     return 2 * float(recall*precision) / float(recall+precision)
 
-def gen_feature(category, out_dir, word_threshold, ce_threshold):
-    dir = 'training/training_merge/'
+def gen_feature(category, word_threshold, ce_threshold):
+    dir = 'data/training_data/training_merge/'
     ngram_im = get_category_im(category, 'word_importance/', word_threshold)
     ngram_ce = get_category_im(category, 'cross_entropy/', ce_threshold)
+    
     ngram_im_list = list(ngram_im.keys())
     ngram_ce_list = list(ngram_ce.keys())
 
     
     train_set = []
     test_set = []
-        
     test_real_ans = []
 
     for file_idx in range(200):
         for file in glob.glob(dir + '*_' + str(file_idx+1) + '.txt'):
-            #print 'process %s ...' %file
+            print 'process %s ...' %file
             with open(file, 'r') as f:
                 for line in f:
                     token = line.strip().split()
@@ -69,122 +69,69 @@ def gen_feature(category, out_dir, word_threshold, ce_threshold):
                         ans = 1
                     else:
                         ans = 0
-                    #feature = {'f1': 0.0, 'f2': 0.0}
+
                     feature = {}
                     for k in ngram_im_list:
                         feature[k] = 0.0
                     for k in ngram_ce_list:
                         feature[k] = 0.0
+                    # term count
                     for word in token[1:]:
                         try:
                             n = ngram_im_list.index(word)
                         except ValueError:
                             n = -1
                         if n >= 0:
-                            #feature['f1'] += ngram_im[word]
                             feature[word] += 1
                         try:
                             n = ngram_ce_list.index(word)
                         except ValueError:
                             n = -1
                         if n >= 0:
-                            #feature['f2'] += ngram_ce[word]
                             feature[word] += 1
+                    # training data
                     if (file_idx + 1) % 10 != 0:
                         train_set.append((feature,ans))
+                    # testing data
                     else:
                         test_set.append((feature,ans))
                         test_real_ans.append(ans)
 
-    #print 'training data: %d' %len(train_set)
-    #print 'test data: %d' %len(test_set)
-    #with open(out_dir+'%d_svm_train.txt' %category, 'w') as f:
-    #    for (feature,ans) in train_set:
-    #        f.write('%d ' %ans)
-    #        for key,value in feature.iteritems():
-    #            f.write('%.5f ' %(value))
-    #        f.write('\n')
-    #with open(out_dir+'%d_svm_test.txt' %category, 'w') as f:
-    #    for (feature,ans) in test_set:
-    #        f.write('%d ' %ans)
-    #        for key,value in feature.iteritems():
-    #            f.write('%.5f ' %(value))
-    #        f.write('\n')
+    return train_set, test_set, test_real_ans
 
-    # naive bayes
-    #a = open('ensemble/maxent_%d.txt' %category, 'w')
-    b = open('ensemble/maxent_%d.txt' %category, 'w')
-    nb_classifier = NaiveBayesClassifier.train(train_set)
-    me_classifier = MaxentClassifier.train(train_set)
+
+def train_and_predict(train_set, test_set, test_real_ans, category, method):
+
+    if method == 'naive_bayes':
+        classifier = NaiveBayesClassifier.train(train_set)
+    elif method == 'maxent':
+        classifier = MaxentClassifier.train(train_set)
+
     test_predict = []
     test_ans = []
     for (j,ans) in test_set:
-        nb_p = nb_classifier.classify(j)
-        test_predict.append(nb_p)
-        me_p = me_classifier.classify(j)
-        #a.write('%d\n' %nb_p)
-        b.write('%d\n' %me_p)
+        predict = classifier.classify(j)
+        test_predict.append(predict)
         test_ans.append(ans)
-    #a.close()
-    b.close()
-    pre = get_precision(test_predict, test_ans)
-    recall = get_recall(test_predict, test_ans)
-    f1 = get_f1(pre, recall)
-    
-    #g = open('maxent/%d.txt' %category, 'w')
-    print 'category: %d' %category
-    #g.write('category: %d\n' %category)
-    print 'precision: %.5f' %pre
-    #g.write('precision: %.5f\n' %pre)
-    print 'recall: %.5f' %recall
-    #g.write('recall: %.5f\n' %recall)
-    print 'f1: %.5f' %f1
-    #g.write('f1: %.5f\n' %f1)
-    #return
 
-def vote(c,test_real_ans):
-    final_ans = []
-    ans = [[] for x in range(4)]
-    with open('ensemble/word_importance_%d.txt' %c, 'r') as f:
-        for line in f:
-            ans[0].append(int(line.strip()))
-    with open('ensemble/cross_entropy_%d.txt' %c, 'r') as f:
-        for line in f:
-            ans[1].append(int(line.strip()))
-    with open('ensemble/maxent_%d.txt' %c, 'r') as f:
-        for line in f:
-            ans[2].append(int(line.strip()))
-    with open('ensemble/nb_%d.txt' %c, 'r') as f:
-        for line in f:
-            ans[3].append(int(line.strip()))
-    for (im,ce,maxent,nb) in zip(ans[0],ans[1],ans[2],ans[3]):
-        j = [im,ce,maxent,nb]
-        if j.count(1) >= j.count(0):
-            final_ans.append(1)
-        else:
-            final_ans.append(0)
+
+    precision = get_precision(test_predict, test_ans)
+    recall = get_recall(test_predict, test_ans)
+    f1 = get_f1(precision, recall)
     
-    pre = get_precision(final_ans, test_real_ans)
-    recall = get_recall(final_ans, test_real_ans)
-    f1 = get_f1(pre, recall)
-    
-    #g = open('maxent/%d.txt' %category, 'w')
-    print 'category: %d' %c
-    #g.write('category: %d\n' %category)
-    print 'precision: %.5f' %pre
-    #g.write('precision: %.5f\n' %pre)
+    print 'Method %s' %method
+    print 'category: %d' %category
+    print 'precision: %.5f' %precision
     print 'recall: %.5f' %recall
-    #g.write('recall: %.5f\n' %recall)
     print 'f1: %.5f' %f1
-    #g.write('f1: %.5f\n' %f1)
-    return 
+    print '----------------'
  
 if __name__ == '__main__':
-    out_dir = 'svm/'
-    if not os.path.exists(out_dir):
-        os.makedirs(out_dir)
+    methodList = ['naive_bayes', 'maxent']
     word_im_threshold = [17, 10, 22, 21, 36, 11, 6]
     ce_threshold = [17, 10, 24, 29, 22, 13, 7]
-    for x in range(1,8):
-        real_ans = gen_feature(x, out_dir, word_im_threshold[x-1], ce_threshold[x-1])
-        #vote(x,real_ans)
+
+    for category in range(1,8):
+        train_set, test_set, test_real_ans = gen_feature(category, word_im_threshold[category-1], ce_threshold[category-1])
+        for method in methodList:
+            train_and_predict(train_set, test_set, test_real_ans, category, method)

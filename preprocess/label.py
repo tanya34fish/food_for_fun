@@ -1,3 +1,6 @@
+"""
+    used for labeling training data for convenience
+"""
 import glob, sys
 
 if __name__ == '__main__':
