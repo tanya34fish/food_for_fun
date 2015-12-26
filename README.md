@@ -7,7 +7,8 @@
    + Environment (環境)
    + Transport (交通)
    + Mood (心情)
-   Then, we parse food posts and extract important sentences for 7 different categories.
+
+Then, we parse food posts and extract important sentences for 7 different categories.
 
 # data
 1. training data: data/training_data/training_merge/*, except 10th, 20th, 30th ,.... 200th posts (total: 180 posts)
