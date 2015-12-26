@@ -1,12 +1,27 @@
 # food_for_fun
-1. testing data: 10,20,30,.....190,200 (不包含180,這篇是"請益",所以刪掉)
-2. training data: training/training_merge/中共193篇 - testing data
-3. ngram/
-  + total/1-7.txt : training/training_merge/中共193篇每一類的ngram
-  + total/1-7total.txt : 1-7.txt合起來的所有ngram
-  + total/1-8total.txt : 1-8.txt合起來的所有ngram
-  + train/1-7.txt : training/training_merge/中193-19=174篇每一類的ngram
-  + train/1-7total.txt : 1-7.txt合起來的所有ngram
-  + train/1-8total.txt : 1-8.txt合起來的所有ngram
-4. word_importance/ : 取每個類別中的字去算weight
-  + ex ("服務"在類別1的count / "服務"在全部corpus裡(1-8total.txt)的count ) * ("服務"在類別1的count / 類別1中所有的word count數)
+   In order to summarize a dining brief, we extract key terms for each 7 categories:
+   (1) Service (服務)
+   (2) Quantity (份量)
+   (3) Taste (口味)
+   (4) Price (價錢)
+   (5) Environment (環境)
+   (6) Transport (交通)
+   (7) Mood (心情)
+   Then, we parse food posts and extract important sentences for 7 different categories.
+
+# data
+1. training data: data/training_data/training_merge/*, except 10th, 20th, 30th ,.... 200th posts (total: 180 posts)
+2. testing data: data/training_data/training_merge/* includes 10th, 20th, 30th ,.... 200th posts (total: 20 posts)
+
+# code
+1. termcount.py: calculate term count for every label set, results are in `termcount` directory.
+2. train.py: exploit 'word importance' and 'cross entropy' methods to rank terms and decide thresholds for 7 categories. This is based on training data.
+3. test.py: use term lists derived from `train.py` to classify every segmented sentence in testing data.
+4. naive_bayes/naive_bayes.py: construct feature for every sentence and use naive bayes to train a model. Also, predict on 20 testing posts.
+5. web/ : use for demo
+
+# result
+1. word_importance/ : term ranking using word importance
+2. cross_entropy/ : term ranking using cross entropy
+3. statistics/ : results (precision, recall, F1) for different methods
+4. err_analysis/ : use for error analysis
