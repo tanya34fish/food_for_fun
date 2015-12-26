@@ -1,13 +1,13 @@
 # food_for_fun
    In order to summarize a dining brief, we extract key terms for each 7 categories:
-   (1) Service (服務)
-   (2) Quantity (份量)
-   (3) Taste (口味)
-   (4) Price (價錢)
-   (5) Environment (環境)
-   (6) Transport (交通)
-   (7) Mood (心情)
-   Then, we parse food posts and extract important sentences for 7 different categories.
+   + (1) Service (服務)
+   + (2) Quantity (份量)
+   + (3) Taste (口味)
+   + (4) Price (價錢)
+   + (5) Environment (環境)
+   + (6) Transport (交通)
+   + (7) Mood (心情)
+   + Then, we parse food posts and extract important sentences for 7 different categories.
 
 # data
 1. training data: data/training_data/training_merge/*, except 10th, 20th, 30th ,.... 200th posts (total: 180 posts)
